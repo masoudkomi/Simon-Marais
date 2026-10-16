@@ -1,13 +1,13 @@
 # 2023 B4(b) proof register
 
-## Candidate full classification
+## Reviewed full classification
 
-**candidate proof - unverified**, v0.1, 2026-10-16:
-[A resultant obstruction for the remaining exponent pairs](notes/candidate-resultant-v0.1.md).
+**proved, independently reviewed**, v1.0, 2026-10-16:
+[A resultant obstruction for the remaining exponent pairs](proofs/reviewed-v1.md).
 
-Proposed classification for every fixed nonsquare positive integer \(N\): diagonal pairs, and \((d,2d),(2d,d)\) for positive odd \(d\). The proposed new step is an unrestricted exclusion of all remaining coprime even/odd exponent pairs. Published preliminary results are explicitly attributed and their proofs are not reproduced.
+Classification for every fixed nonsquare positive integer \(N\): diagonal pairs, and \((d,2d),(2d,d)\) for positive odd \(d\). The project argument excludes all remaining coprime even/odd exponent pairs without an exponent bound. Published preliminary results are explicitly attributed and their proofs are not reproduced. Prior-publication status and novelty remain unestablished.
 
-This is author development. Neither required fresh adversarial review has yet been completed; no coordinator promotion has occurred. The most consequential audit targets are the unit Lucas resultant, weighted resultant degree, integer denominator divisibility, and the combination with the real inequality.
+Two fresh, initially blind adversarial audits each reconstructed the entire argument, verified the official-domain and published-input interface, and found no substantive objection. Both checked the unit Lucas resultant, weighted resultant degree, specialization and leading-degree concerns, integer denominator divisibility, both arithmetic branches, and the real inequality. See [acceptance record](reviews/acceptance.md), [R1](reviews/review-1.md), and [R2](reviews/review-2.md). The [frozen v0.1 constructor draft](notes/candidate-resultant-v0.1.md) is preserved; the accepted copy changes status annotations only. Optional exposition suggestions are expanded in both reports and do not require a mathematical repair.
 
 ## Earlier partial draft
 

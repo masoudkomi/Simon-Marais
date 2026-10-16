@@ -1,5 +1,11 @@
 # 2023 B4(b) research log
 
+## Coordinator acceptance update, 2026-10-16
+
+The full classification argument has now received two fresh, initially blind independent adversarial audits, each reconstructing the whole proof. Both found no substantive mathematical objection; no repair was required. The coordinator promoted its status to **proved, independently reviewed**. See proof.md, proofs/reviewed-v1.md and reviews/acceptance.md. The owner-stage text below is retained as historical development; its pending-audit notices are superseded by this update. Novelty and prior-publication status remain unestablished.
+
+## Historical owner checkpoint
+
 2026-10-16 initial owner checkpoint. **Candidate proof - unverified**; no independently reviewed result or novelty claim.
 
 Requested launch settings: `gpt-6.1-sol`, `max`. No independent effective-setting readback was available. The coordinator monitors account-wide weekly telemetry; the owner does not infer account usage from its own token count. No paid API, install, subagent, commit, push, or write outside this year directory was used.

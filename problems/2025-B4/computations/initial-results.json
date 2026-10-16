@@ -1,0 +1,146 @@
+{
+  "status": "complete",
+  "purpose": "finite computational evidence only",
+  "utc_started": "2026-10-16T10:05:42.334752+00:00",
+  "command": "problems/2025-B4/computations/investigate.py --max-abs-x 10000 --max-degree 128 --max-seconds 120 --output initial-results.json",
+  "python": "3.12.14",
+  "sympy": "1.14.0",
+  "python_flint": "0.9.0",
+  "script_sha256": "a80a37b8ebe9bfa6811e4ff82f4960fe0ad03f48fbd9df7d595d5972f5cbc3c6",
+  "parameters": {
+    "max_abs_x": 10000,
+    "max_degree": 128,
+    "max_seconds": 120.0,
+    "output": "initial-results.json"
+  },
+  "scope": "2<=abs(x)<=X, 2<=degree<=N; all q>=2 by maximal perfect-power exponent",
+  "excluded_preliminary": "degree=3 and odd q>=3 are never reported or independently investigated",
+  "method": "FLINT exact perfect-power screen; SymPy maximal exponent; exact substitution of every hit",
+  "elementary_counterexample_checks": {
+    "ranges": {
+      "x": [
+        -100,
+        100
+      ],
+      "degree": [
+        2,
+        100
+      ]
+    },
+    "passed_counts": {
+      "geometric_identity": 19800,
+      "gcd_with_x": 19899,
+      "gcd_with_x_minus_one": 19899,
+      "odd_prime_lte": 18315,
+      "two_adic_lte": 4802,
+      "sign": 19602,
+      "trivial_domain": 297,
+      "degree_two_symmetry": 201,
+      "independent_root_crosscheck": 720
+    },
+    "known_quadruples_checked": [
+      [
+        3,
+        11,
+        4,
+        2
+      ],
+      [
+        3,
+        -11,
+        4,
+        2
+      ],
+      [
+        7,
+        20,
+        3,
+        2
+      ],
+      [
+        7,
+        -20,
+        3,
+        2
+      ],
+      [
+        18,
+        7,
+        2,
+        3
+      ],
+      [
+        -19,
+        7,
+        2,
+        3
+      ]
+    ],
+    "son_theorem3_counterexample": {
+      "x": -1,
+      "y": 1,
+      "term_count": 5,
+      "degree": 4,
+      "q": 3,
+      "numerator": -2,
+      "denominator": -2,
+      "polynomial_value": 1,
+      "rhs": 1,
+      "quotient_defined": true
+    },
+    "son_case2_symbolic_audit": {
+      "relation": "rho^2=rho+1",
+      "expression": "rho*(a+b*rho)^3",
+      "constant": "3*a**2*b + 3*a*b**2 + 2*b**3",
+      "rho_coefficient": "a**3 + 3*a**2*b + 6*a*b**2 + 3*b**3",
+      "printed_coefficient": "a**3 + 6*a**2*b + 9*a*b**2 + 5*b**3",
+      "printed_minus_correct": "3*a**2*b + 3*a*b**2 + 2*b**3",
+      "a_minus1_b1_correct_coefficient": -1,
+      "a_minus1_b1_printed_coefficient": 1,
+      "a_minus1_b1_constant": 2
+    }
+  },
+  "pairs_checked": 2539746,
+  "perfect_power_magnitudes": 4,
+  "last_completed_abs_x": 10000,
+  "solutions": [
+    [
+      -19,
+      7,
+      2,
+      3
+    ],
+    [
+      3,
+      -11,
+      4,
+      2
+    ],
+    [
+      3,
+      11,
+      4,
+      2
+    ],
+    [
+      7,
+      -20,
+      3,
+      2
+    ],
+    [
+      7,
+      20,
+      3,
+      2
+    ],
+    [
+      18,
+      7,
+      2,
+      3
+    ]
+  ],
+  "elapsed_seconds": 7.101438,
+  "utc_finished": "2026-10-16T10:05:49.436169+00:00"
+}

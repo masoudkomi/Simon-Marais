@@ -1,18 +1,18 @@
 {
   "branch": "codex/smmc-b4-research",
   "remote": "https://github.com/masoudkomi/Simon-Marais.git",
-  "phase": "initial passes plus independent review",
-  "last_pushed_commit": "c89b400",
-  "initial_passes_complete": [2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024],
+  "phase": "all initial passes complete; independent review and focused research",
+  "last_pushed_commit": "5fd3d83",
+  "initial_passes_complete": [2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025],
   "active": [
-    {"agent": "owner_2025", "role": "owner", "year": 2025},
-    {"agent": "review_2023_r1", "role": "independent reviewer", "year": 2023},
-    {"agent": "review_2023_r2", "role": "independent reviewer", "year": 2023}
+    {"agent": "review_2019_r1", "role": "independent reviewer", "year": 2019},
+    {"agent": "review_2022_r1", "role": "independent reviewer", "year": 2022},
+    {"agent": "review_2022_r2", "role": "independent reviewer", "year": 2022}
   ],
-  "initial_passes_pending": [2025],
+  "initial_passes_pending": [],
   "deferred": [2026],
-  "weekly_used_percent_last_observed": 2,
+  "weekly_used_percent_last_observed": 3,
   "weekly_reset_unix": 1792745187,
   "caffeinate": {"pid": 5398, "exec_session": 57629, "duration_seconds": 43200},
-  "notes": "Record, not live telemetry. Read latest reports and actual agent states before resuming. The 2018 published-result reproduction is accepted after two independent full reconstructions; all other candidates remain unverified. Public-paper downloads authorized with local-only full-paper caching unless redistribution licence verified."
+  "notes": "Record, not live telemetry. Read latest reports and actual agent states before resuming. The 2018 published-result reproduction and full 2023 classification are accepted after two independent full reconstructions each. Novelty of 2023 is unestablished. Other candidates remain unverified. Public-paper downloads authorized with local-only full-paper caching unless redistribution licence verified."
 }

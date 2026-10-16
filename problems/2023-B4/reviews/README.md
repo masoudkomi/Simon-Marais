@@ -1,3 +1,3 @@
 # 2023 B4 independent reviews
 
-No reviews yet. For every candidate record its exact version/hash, official statement comparison, line-by-line audit, theorem hypotheses, boundary/counterexample checks, unresolved objections and verdict. At least one reviewer reconstructs the whole proof. Two initial reports must be independent and blind to one another.
+The full classification is **proved, independently reviewed**. See [acceptance](acceptance.md), [initial blind R1 reconstruction](review-1.md) and [initial blind R2 reconstruction](review-2.md). Both reports audited the same frozen v0.1 hash and found no substantive objection. Neither reviewer constructed the proof. Both reports preserve independent exact evidence, which supplements their general mathematical reconstructions. Novelty remains a separate open literature question.

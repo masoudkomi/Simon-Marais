@@ -1,0 +1,54 @@
+checkpoint abs(x)<=1000; pairs=253746; elapsed=0.576204s
+checkpoint abs(x)<=2000; pairs=507746; elapsed=1.207724s
+checkpoint abs(x)<=3000; pairs=761746; elapsed=1.872173s
+checkpoint abs(x)<=4000; pairs=1015746; elapsed=2.582842s
+checkpoint abs(x)<=5000; pairs=1269746; elapsed=3.302585s
+checkpoint abs(x)<=6000; pairs=1523746; elapsed=4.03887s
+checkpoint abs(x)<=7000; pairs=1777746; elapsed=4.780157s
+checkpoint abs(x)<=8000; pairs=2031746; elapsed=5.542709s
+checkpoint abs(x)<=9000; pairs=2285746; elapsed=6.311007s
+checkpoint abs(x)<=10000; pairs=2539746; elapsed=7.101049s
+{
+  "status": "complete",
+  "last_completed_abs_x": 10000,
+  "pairs_checked": 2539746,
+  "elapsed_seconds": 7.101438,
+  "solutions": [
+    [
+      -19,
+      7,
+      2,
+      3
+    ],
+    [
+      3,
+      -11,
+      4,
+      2
+    ],
+    [
+      3,
+      11,
+      4,
+      2
+    ],
+    [
+      7,
+      -20,
+      3,
+      2
+    ],
+    [
+      7,
+      20,
+      3,
+      2
+    ],
+    [
+      18,
+      7,
+      2,
+      3
+    ]
+  ]
+}
