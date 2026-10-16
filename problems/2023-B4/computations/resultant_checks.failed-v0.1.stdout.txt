@@ -1,0 +1,36 @@
+Finite exact computation; evidence only, not an unrestricted proof.
+Candidate: notes/candidate-resultant-v0.1.md
+Python: 3.12.14 platform: Darwin
+SymPy: 1.14.0
+resultant (4,3): N=0 identity up to sign OK; max_weight=9; bound=9; terms=6
+resultant (6,5): N=0 identity up to sign OK; max_weight=25; bound=25; terms=12
+resultant (8,3): N=0 identity up to sign OK; max_weight=21; bound=21; terms=8
+resultant (8,5): N=0 identity up to sign OK; max_weight=35; bound=35; terms=13
+resultant (8,7): N=0 identity up to sign OK; max_weight=49; bound=49; terms=20
+resultant (10,3): N=0 identity up to sign OK; max_weight=27; bound=27; terms=12
+resultant (10,7): N=0 identity up to sign OK; max_weight=63; bound=63; terms=21
+resultant (10,9): N=0 identity up to sign OK; max_weight=81; bound=81; terms=30
+resultant (12,5): N=0 identity up to sign OK; max_weight=55; bound=55; terms=19
+resultant (12,7): N=0 identity up to sign OK; max_weight=77; bound=77; terms=25
+resultant (12,11): N=0 identity up to sign OK; max_weight=121; bound=121; terms=42
+resultant (14,3): N=0 identity up to sign OK; max_weight=39; bound=39; terms=15
+resultant (14,5): N=0 identity up to sign OK; max_weight=65; bound=65; terms=21
+resultant (14,9): N=0 identity up to sign OK; max_weight=117; bound=117; terms=36
+resultant (14,11): N=0 identity up to sign OK; max_weight=143; bound=143; terms=43
+resultant (14,13): N=0 identity up to sign OK; max_weight=169; bound=169; terms=56
+resultant (16,3): N=0 identity up to sign OK; max_weight=45; bound=45; terms=18
+resultant (16,5): N=0 identity up to sign OK; max_weight=75; bound=75; terms=27
+resultant (16,7): N=0 identity up to sign OK; max_weight=105; bound=105; terms=33
+resultant (16,9): N=0 identity up to sign OK; max_weight=135; bound=135; terms=42
+resultant (16,11): N=0 identity up to sign OK; max_weight=165; bound=165; terms=49
+resultant (16,13): N=0 identity up to sign OK; max_weight=195; bound=195; terms=57
+resultant (16,15): N=0 identity up to sign OK; max_weight=225; bound=225; terms=72
+resultant (18,5): N=0 identity up to sign OK; max_weight=85; bound=85; terms=28
+resultant (18,7): N=0 identity up to sign OK; max_weight=119; bound=119; terms=37
+resultant (18,11): N=0 identity up to sign OK; max_weight=187; bound=187; terms=55
+resultant (18,13): N=0 identity up to sign OK; max_weight=221; bound=221; terms=64
+resultant (18,17): N=0 identity up to sign OK; max_weight=289; bound=289; terms=90
+Resultant identity pairs checked: 28
+Unit Lucas resultants checked: 80 ; all +1 or -1
+Direct Sylvester determinant checks up to sign: 8
+Coordinator (4,3) trace/norm formula: exact identities OK

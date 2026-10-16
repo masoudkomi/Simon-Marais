@@ -4,7 +4,7 @@
 
 - [Official Paper B](https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc2023_paper_b.pdf), page 2.
 - [Official solution notes](https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc2023solutions.pdf).
-- Inventory checked 2026-10-16. The following is a mathematical normalization; the official PDF is authoritative.
+- Inventory and exact B4(b) quantifiers checked 2026-10-16 from the cached official PDF and the [current official 2023 download index](https://www.simonmarais.org/20231.html). The following is a mathematical normalization; the official PDF is authoritative.
 - Current published solution status must be checked separately from the paper's as-issued openness.
 
 ## Mathematical statement
@@ -15,7 +15,7 @@ r^a+\sqrt n\quad\text{and}\quad r^b+\sqrt n
 \]
 rational, with no positivity restriction on \(r\). This is **B4(b) only**.
 
-Only (b) was designated open. Verify the existential quantifier and dependence on the fixed \(n\) directly against the source before any proof claim.
+Only (b) was designated open. The source fixes \(n\) before the exponent-pair question and quantifies the witness existentially over all real numbers. It does not require \(n\) to be squarefree, nor \(r\) to be rational or nonnegative.
 
 ## Fidelity checklist
 

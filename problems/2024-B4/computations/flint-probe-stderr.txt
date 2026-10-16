@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "/Users/uqmkamga/Documents/ChatGPT/Website/problems/2024-B4/computations/flint_probe.py", line 47, in <module>
+    main()
+  File "/Users/uqmkamga/Documents/ChatGPT/Website/problems/2024-B4/computations/flint_probe.py", line 30, in main
+    _, factors = factor_back(p)
+                 ^^^^^^^^^^^^^^
+  File "/Users/uqmkamga/Documents/ChatGPT/Website/problems/2024-B4/computations/flint_probe.py", line 14, in factor_back
+    c, factors = p.factor()
+                 ^^^^^^^^^^
+KeyboardInterrupt

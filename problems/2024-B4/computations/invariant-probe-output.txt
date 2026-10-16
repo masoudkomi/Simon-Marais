@@ -1,0 +1,17 @@
+Exact sparse GF(2) arithmetic; Python 3.12.14
+Independent direct numerator/division and invariant recurrence agree for odd n=3..65.
+Boundary n=1: numerator=0; n=3: phi= 1
+phi_5 in invariants: Q
+phi_7 in invariants: Q^2 + D
+phi_9 in invariants: Q^3 + R^2
+phi_11 in invariants: Q^4 + Q^2*D + Q*R^2 + D^2
+phi_13 in invariants: Q^5 + Q*D^2 + R^2*D
+phi_17 in invariants: Q^7 + Q^4*R^2 + Q*R^4
+phi_21 in invariants: Q^9 + Q^5*D^2 + Q^4*R^2*D + Q^3*R^4 + Q*D^4 + R^6
+phi_25 in invariants: Q^11 + Q^8*R^2 + Q^3*D^4 + Q*R^4*D^2 + R^6*D + R^2*D^4
+phi_29 in invariants: Q^13 + Q^9*D^2 + Q^8*R^2*D + Q*R^8 + Q*D^6 + R^2*D^5
+Published n205 degree-10 factor compressed: Q^5 + Q*D^2 + R^2*D
+n205 invariant division exact; factor formal terms 3 cofactor terms 248
+n205 independent x,y,z multiply-back exact; degrees 10 192 term counts 42 2709 11754
+Formal invariant A divisibility among odd n in [3,1025]: [13, 205]
+All scan exclusions concern this one formal invariant factor only, not reducibility.

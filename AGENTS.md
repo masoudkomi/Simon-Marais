@@ -12,6 +12,10 @@ For each candidate proof, obtain two independent adversarial reviewer agents who
 
 Save successful and failed approaches, exact computations, commands, dependencies, outputs, proof versions, references and verification dates. Do not overwrite unrelated work. Avoid computational searches that cannot finish within the monitored budget; record parameters and incomplete runs honestly.
 
+The user authorizes searching, accessing, downloading and caching needed publicly available mathematical papers and supporting materials without repeated permission requests. Prefer original papers and author-posted versions. Do not purchase, subscribe, incur charges or bypass access restrictions. Keep full downloaded papers in ignored `.cache/`; track citations, source links, retrieval hashes and research notes. Commit full third-party papers only after verifying a licence permitting redistribution. Public availability alone is insufficient. Ask before any charge.
+
+Run potentially long native CAS operations in a subprocess with an explicit timeout and incremental output checkpoints. A Python signal may not interrupt a native routine promptly. Preserve the child PID and job parameters for targeted cleanup; never kill all Python processes or disturb other owners' jobs.
+
 Use authoritative account-wide weekly telemetry. Stop at or preferably below **90% total weekly used**, not 90% of the remaining allowance. Reserve capacity for review, integration, commits and push; recheck at group transitions and periodically during sustained work. If telemetry becomes unavailable, checkpoint and request a measurable substitute. Do not automatically spend into a new weekly window. Do not use separately billed APIs.
 
 Git destination: `https://github.com/masoudkomi/Simon-Marais.git`; research branch: `codex/smmc-b4-research`. No force pushes, deletions of existing work, or merge into a default branch. Commit and push meaningful coordinator checkpoints, including before stopping. If push fails, preserve local commits and record the exact failure. Never commit credentials or authentication data.

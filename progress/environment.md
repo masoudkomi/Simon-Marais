@@ -12,5 +12,6 @@
 - Runtime bundle: `26.1013.11914`.
 - PDF inspection: Python 3.12 bundled runtime, `pypdf==6.10.0`; official source cache downloaded and hashed by tools/fetch_official.py.
 - Project scientific Python: `/Users/uqmkamga/Documents/ChatGPT/Website/.venv/bin/python`, created with bundled Python and inherited installed runtime packages. `requirements-research.txt` pins the inspected scientific/PDF stack. SymPy 1.14.0, mpmath 1.3.0, SciPy 1.18.1 and Matplotlib 3.11.2 were installed from PyPI into this workspace-local environment after the permission preflight. Imports and exact/numerical smoke checks passed. Use `MPLCONFIGDIR` inside the workspace for plotting caches.
+- Added `python-flint==0.9.0` to the same local environment for exact multivariate polynomial factorization over finite fields. The scoped local pip command succeeded; exact GF(2) factor-and-multiply-back smoke check is recorded in the permission setup. Official API documentation: https://python-flint.readthedocs.io/en/latest/fmpz_mod_mpoly.html . CAS output is computational evidence unless supported by a separately justified certificate.
 
 Mathematical scripts should document their own invocation and exact output. Cache downloaded source PDFs under ignored `.cache/official/`; preserve source URLs and SHA-256 hashes in tracked manifests. Do not include secrets, `.env`, or unrelated project files.

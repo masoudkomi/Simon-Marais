@@ -1,0 +1,69 @@
+{
+  "abstract_hitting_distance_histogram": {
+    "0": 60,
+    "1": 48,
+    "2": 222,
+    "3": 303,
+    "4": 334,
+    "5": 292,
+    "6": 173,
+    "7": 168,
+    "8": 176,
+    "9": 200,
+    "10": 172,
+    "11": 69,
+    "12": 3
+  },
+  "analytic_policy_observed_maximum": 24,
+  "analytic_policy_verified_states": 2220,
+  "arbitrarily_long_abstract_avoidance_vertices": 2112,
+  "avoiding_edges": 21120,
+  "avoiding_vertices": 2160,
+  "caution": "Graph cycles do not establish an infinite positive integer orbit.",
+  "d_interval": [
+    -13,
+    23
+  ],
+  "finite_delay_formula_checks": 2400,
+  "largest_cyclic_scc_size": 222,
+  "meaning": "finite exact graph calculation; infinite integer lift unresolved",
+  "number_cyclic_sccs": 77,
+  "number_edges_with_controls": 22200,
+  "number_states": 2220,
+  "ordered_edge_sha256": "7510f9deebb8ca708fc97ae28bd8a34dee08b78bde39f18fddb84f4de88ab164",
+  "pruning_round_sizes": [
+    48
+  ],
+  "scc_size_histogram": {
+    "1": 684,
+    "2": 24,
+    "8": 4,
+    "9": 4,
+    "10": 4,
+    "41": 1,
+    "52": 1,
+    "53": 1,
+    "61": 1,
+    "72": 1,
+    "148": 1,
+    "158": 1,
+    "167": 2,
+    "179": 1,
+    "222": 1
+  },
+  "self_loop_example": {
+    "control_e": 0,
+    "state": [
+      1,
+      0
+    ],
+    "successor": [
+      1,
+      0
+    ]
+  },
+  "shortest_abstract_hitting_path_maximum": 12,
+  "state": "(d=a-b, r=b mod60)",
+  "states_with_abstract_hitting_path": 2220,
+  "transitions_leaving_interval": []
+}

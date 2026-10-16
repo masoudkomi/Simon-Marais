@@ -4,7 +4,7 @@ This repository records a sustained investigation of the Simon Marais Mathematic
 
 **Only the open portion is in scope:** the entire 2017 problem; the general 2018 enumeration, excluding research on its already known m=5 case; and **B4(b) only in every year 2019-2025**. Preliminary part (a) is excluded. See the [direct official-paper scope audit](sources/open-scope-audit.md). Whether an originally open problem has subsequently been solved is a separate, dated literature question.
 
-**Current stage:** official-source inventory complete; current-literature checks and initial research passes are beginning. No new full solution has been accepted. A published solution to a preliminary part does not resolve the annual open part.
+**Current stage:** initial research passes and current-literature checks are progressing. The general **2018 enumeration has a proved, independently reviewed reproduction of an earlier published formula**; see [proof](problems/2018-B4/proof.md) and [independent audits](problems/2018-B4/reviews/acceptance.md). No original full solution has been accepted. Other proof candidates remain explicitly unverified. A published solution to a preliminary part does not resolve the annual open part.
 
 - [Dashboard](progress/dashboard.md): per-problem status, results, obstructions, next steps and reviews.
 - [Budget and telemetry](progress/budget.md): observed weekly usage and reset boundary.
@@ -22,3 +22,5 @@ Use **observation**, **conjecture**, **computational evidence**, **partial resul
 ## Source retrieval
 
 Run `python3 tools/fetch_official.py` to cache the nine official Paper B and solution PDFs and record SHA-256 hashes in `sources/retrieval.json`. Downloads are cached under ignored `.cache/official/`; work on B4 only. Original papers include other problems, which are outside the investigation. The official source manifest and B4-specific notes are tracked. Python with `pypdf` is needed only for optional PDF text inspection; mathematical scripts should use exact standard-library arithmetic where practical.
+
+Public mathematical literature may be accessed and cached without repeated permission requests. Prefer primary papers and author-posted versions; full papers stay locally in ignored `.cache/literature/`, with citations, links, hashes and notes saved here. Public access does not establish redistribution permission. Full third-party papers require a verified redistribution licence before inclusion. No paid access or charges are authorized. See [permissions and cache migration](progress/permissions.md) and [local literature mapping](sources/literature-cache.json).

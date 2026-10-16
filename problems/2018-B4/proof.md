@@ -1,10 +1,10 @@
 # 2018 B4: an explicit general enumeration
 
-**candidate proof - unverified**, version 1.0, 2026-10-16.
+**proved, independently reviewed**, version 1.1, 2026-10-16. **Published-result reproduction; no novelty claim.**
 
 This is a reproduction and elementary derivation of a **published formula**, not a claim of a new research result. Hering and Howard, Proposition 3.2, directly contains the result after substituting equal weights. Ottaviani, Theorem 40, also records the equal-weight formula and attributes it to Howe. Full references and the discrepancy with the competition's as-issued open label are in `references.md`. The proof below is self-contained and does not require representation theory or those theorems as black boxes.
 
-Two independent adversarial audits, including one complete reconstruction, are pending. Only the coordinator may change the proof status.
+Two fresh independent adversarial audits are complete. Both reconstructed the argument, checked the official statement, examined boundary cases, verified the cited primary formulas, and attempted exact falsification; neither found a substantive gap. The coordinator has integrated both reports and closed the required mathematical issues. See [acceptance](reviews/acceptance.md). The exact audited v1.0 snapshot is preserved in [proofs/candidate-v1.0.md](proofs/candidate-v1.0.md), SHA-256 `5a90732b2696559176d02b6a695e1743fbc4406158a76c0185d9e06c17b06e83`. Version 1.1 changes status annotations only; the mathematical argument is unchanged. This is independent mathematical review, without Lean formalization or a claim of absolute certainty.
 
 ## 1. Statement and explicit answer
 
@@ -111,4 +111,4 @@ For fixed \(m\ge3\), (1) is a polynomial in \(n\) of degree at most \(m-3\). Eac
 \[
 T=\sum_{j=0}^{\lfloor(m-1)/2\rfloor}(-1)^j\binom mj(m-2j)^{m-2}.
 \]
-The full sum over \(0\le j\le m\) is zero: it is an \(m\)-th finite difference of a polynomial in \(j\) of degree \(m-2\). Terms at \(j\) and \(m-j\) are equal. When \(m\) is even, the middle term is zero because \(m-2\ge1\). Thus the full sum is \(2T\), so \(T=0\), proving the stated degree bound. This consequence is part of the candidate and remains subject to the same reviews.
+The full sum over \(0\le j\le m\) is zero: it is an \(m\)-th finite difference of a polynomial in \(j\) of degree \(m-2\). Terms at \(j\) and \(m-j\) are equal. When \(m\) is even, the middle term is zero because \(m-2\ge1\). Thus the full sum is \(2T\), so \(T=0\), proving the stated degree bound. This consequence was included in both independent audits.

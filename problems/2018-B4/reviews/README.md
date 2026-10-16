@@ -1,5 +1,10 @@
 # 2018 B4 independent reviews
 
-No reviews yet. For every candidate record its exact version/hash, official statement comparison, line-by-line audit, theorem hypotheses, boundary/counterexample checks, unresolved objections and verdict. At least one reviewer reconstructs the whole proof. Two initial reports must be independent and blind to one another.
+Both required independent adversarial audits are complete. Each reviewer was fresh, did not construct the proof, and completed its initial report without seeing the other's conclusions. Both independently reconstructed the full argument, checked primary sources and boundaries, and designed exact falsification checks. Neither found a substantive gap.
 
-Candidate v1.0: `../proof.md`, dated 2026-10-16. It is a reproduction of a published general formula with a self-contained elementary proof. Before dispatch, the coordinator should record a SHA-256 hash and provide each reviewer the same frozen version. Neither reviewer should be shown the other's initial report. No author self-review is counted toward acceptance.
+- [Audit 1 and reconstruction](review-1.md).
+- [Audit 2 and reconstruction](review-2.md).
+- [Coordinator acceptance](acceptance.md), with artifact hashes in acceptance.json.
+- Immutable audited snapshot: [candidate v1.0](../proofs/candidate-v1.0.md), SHA-256 `5a90732b2696559176d02b6a695e1743fbc4406158a76c0185d9e06c17b06e83`.
+
+The current proof's v1.1 changes status annotations only. Its mathematical content is the audited v1.0 argument. Acceptance is of a published-result reproduction, not an original resolution of a still-open problem.

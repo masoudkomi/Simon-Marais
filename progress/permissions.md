@@ -2,6 +2,12 @@
 
 User requested a preflight to avoid research stopping for routine permission prompts.
 
+## Public literature authorization, 2026-10-16
+
+The user explicitly authorizes search, access, download and local caching of all publicly available mathematics papers and supporting materials needed for the project, without asking each time. Prefer primary papers and author-posted versions. No purchases, paid subscriptions, access bypass or charges are authorized. Ask before any charge. Full third-party papers stay in ignored `.cache/` unless a redistribution licence has been verified; GitHub receives citations, source links, hashes and research notes.
+
+Four full-paper review-evidence PDFs from earlier checkpoints were moved intact into `.cache/literature/2018/` and removed from the current branch tree. Their original review commands map to the new local paths in `sources/literature-cache.json`; the review reports and proof hashes remain unchanged. Earlier pushed commits still contain those copies. History has not been rewritten, consistent with the no-force-push instruction. Newly downloaded 2025 papers are being moved into the same ignored cache convention before integration.
+
 ## Already authorized and tested
 
 - Intended remote is https://github.com/masoudkomi/Simon-Marais.git; branch codex/smmc-b4-research.
@@ -15,5 +21,7 @@ User requested a preflight to avoid research stopping for routine permission pro
 ## Avoid avoidable prompts
 
 Use the installed bundled scientific/PDF dependencies, exact standard-library code, and web tools. Route any unexpected permission need to the coordinator. Do not attempt writes outside the workspace, install global packages, change security settings, create paid API sessions, or seek broad shell/interpreter approvals. Do not bypass an actual approval denial. Keep useful work progressing in allowed areas while an unrelated request is unresolved.
+
+For subsequent unattended Git saves, issue `git add`, `git commit`, and **plain `git push origin codex/smmc-b4-research`** as separate commands matching their existing approved prefixes. Do not prepend environment-variable assignments or combine extra shell operations in an escalated command: those forms can prevent prefix matching. Existing credential-helper authentication has worked. A later needed exact-algebra package, python-flint 0.9.0, installed successfully under the same project-local pip scope; no global install or broad interpreter approval was used.
 
 Existing credentials can still expire and the computer/network can become unavailable; these are external execution blockers, not permissions that can be guaranteed in advance. Preserve local commits and exact restart state if this occurs.

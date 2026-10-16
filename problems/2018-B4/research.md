@@ -1,6 +1,6 @@
 # 2018 B4 research log
 
-Status as of 2026-10-16: **candidate proof - unverified** for all positive \(m,n\), reproducing a published formula. No novel full solution is claimed. Candidate v1.0 and primary references are saved; two independent reviews remain pending.
+Status as of 2026-10-16: **proved, independently reviewed** for all positive \(m,n\), reproducing a published formula. No novel full solution is claimed. Candidate v1.0 is preserved unchanged under proofs/; two fresh blind audits, both with complete reconstruction and exact falsification checks, found no substantive gap. The coordinator integrated them in reviews/acceptance.md. Author review requests later in this initial log are retained as history and have now been completed.
 
 Requested worker settings: `model=gpt-6.1-sol`, `reasoning_effort=max`. Independent effective-setting readback was not available, so these are requested settings only. The coordinator monitors the shared weekly telemetry and reserves review/integration capacity. No separately billed API was used.
 
