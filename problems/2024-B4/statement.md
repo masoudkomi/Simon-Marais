@@ -13,12 +13,11 @@ For odd positive integers \(n\), define
 \[
 f_n(x,y,z)=x^n+y^n+z^n+(x+y+z)^n.
 \]
-(a) Show there are infinitely many \(n\) for which
+**Open target, B4(b) only:** determine all odd positive integers \(n\) for which
 \[
 f_n\equiv(x+y)(y+z)(z+x)\,g\,h\pmod2
 \]
 with \(g,h\in\mathbb Z[x,y,z]\), both nonconstant modulo 2.
-(b) Determine all such \(n\).
 
 Only (b) was designated open. Congruence means coefficientwise congruence, not equality of the induced functions on \(\mathbb F_2^3\). A polynomial is constant modulo 2 when congruent to a constant polynomial. Check \(n=1\) and the zero-polynomial convention explicitly.
 

@@ -10,5 +10,6 @@
 - Bundled Python: `/Users/uqmkamga/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3`.
 - Bundled Node: `/Users/uqmkamga/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/bin/node`.
 - Runtime bundle: `26.1013.11914`.
+- PDF inspection: Python 3.12 bundled runtime, `pypdf==6.10.0`; official source cache downloaded and hashed by tools/fetch_official.py.
 
 Mathematical scripts should document their own invocation and exact output. Cache downloaded source PDFs under ignored `.cache/official/`; preserve source URLs and SHA-256 hashes in tracked manifests. Do not include secrets, `.env`, or unrelated project files.

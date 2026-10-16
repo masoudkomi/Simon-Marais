@@ -13,9 +13,7 @@ Fix a nonsquare positive integer \(n\). Classify positive integer pairs \((a,b)\
 \[
 r^a+\sqrt n\quad\text{and}\quad r^b+\sqrt n
 \]
-rational, subject to:
-(a) \(r>0\);
-(b) \(r\in\mathbb R\).
+rational, with no positivity restriction on \(r\). This is **B4(b) only**.
 
 Only (b) was designated open. Verify the existential quantifier and dependence on the fixed \(n\) directly against the source before any proof claim.
 

@@ -1,6 +1,6 @@
 # Simon Marais B4 research protocol
 
-Work only on annual **B4**, including its stated preliminary parts. Never substitute or investigate A1-A4 or B1-B3. Initial authorized scope is 2017-2025; 2026 is deferred until an official source is supplied or verified.
+Work only on the **portion of annual B4 explicitly designated open**: all of 2017 B4, the general 2018 enumeration (excluding research on the already known m=5 preliminary case), and **part (b) only for 2019-2025**. Do not solve or reproduce preliminary part (a); refer to established preliminary results only as attributed context when needed for the open part. Never substitute or investigate A1-A4 or B1-B3. Initial authorized scope is 2017-2025; 2026 is deferred until an official source is supplied or verified.
 
 The coordinator owns README.md, sources/, tools/, progress/, integration, Git commits, and pushes. Each owner edits only its assigned `problems/<year>-B4/` directory. Reviewers edit only the assigned review report and issue-log entries; the proof author handles repairs. Do not commit or push from a worker.
 

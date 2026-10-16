@@ -15,7 +15,13 @@ For each integer \(n\ge2\), let \(C(n)\) be the number of tilings of a regular \
 \quad\text{and}\quad
 \limsup_{n\to\infty}\frac{\log_2 C(n)}{n^2}.
 \]
-The entire B4 was designated open. The paper does not separately specify quotienting tilings by rotations/reflections; verify the intended fixed-polygon counting convention against the official notes.
+The entire B4 was designated open. There is no separately stated preliminary part.
+
+The paper does not separately specify quotienting by rotations/reflections. The official notes resolve the intended convention by giving \(C(3)=2\), \(C(4)=8\), and identifying OEIS A006245: tilings in a fixed polygon, with their orientations distinguished. In particular, the two tilings of the regular hexagon are counted separately. Do not use unmarked/unoriented arrangement counts, count reduced words before the commutation quotient, or count arbitrary insertion histories as \(C(n)\).
+
+The standard dictionary uses rhombus tilings of the zonogon and simple marked pseudoline arrangements. The official notes explicitly make this identification; this first pass relies on that published identification rather than supplying a new geometric proof covering every possible interpretation of the word “tiling.”
+
+Verified against Paper B, p. 2, lines B4, and official notes p. 12 on 2026-10-16. Cached official-file SHA-256 values are recorded in references.md.
 
 ## Fidelity checklist
 

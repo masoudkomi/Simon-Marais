@@ -9,11 +9,7 @@
 
 ## Mathematical statement
 
-(a) Determine all integer triples \((x,y,q)\) with odd \(q\ge3\) satisfying
-\[
-x^3+x^2+x+1=y^q.
-\]
-(b) Determine all integer quadruples \((x,y,n,q)\), with \(n,q\ge2\), satisfying
+**Open target, B4(b) only:** determine all integer quadruples \((x,y,n,q)\), with \(n,q\ge2\), satisfying
 \[
 x^n+x^{n-1}+\cdots+x+1=y^q.
 \]

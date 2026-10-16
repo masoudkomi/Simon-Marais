@@ -15,8 +15,7 @@ a_{n+1}=a_n+2\left\lfloor\frac{b_n}{20}\right\rfloor,\qquad
 b_{n+1}=b_n+3\left\lfloor\frac{a_n}{30}\right\rfloor.
 \]
 
-(a) Prove that eventually \(-13\le a_n-b_n\le23\).
-(b) Decide whether there must be an \(n\ge0\) with \(a_n=b_n\).
+**Open target, B4(b) only:** decide whether there must be an \(n\ge0\) with \(a_n=b_n\).
 
 Only (b) was designated open. Both updates use the old pair \((a_n,b_n)\), not an in-place sequential update.
 

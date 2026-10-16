@@ -11,8 +11,7 @@
 
 For an integer \(n\ge2\), take a regular polygon with \(n^2-n+1\) vertices. Call \(n\) taut if a set of \(n\) vertices can be chosen such that all \(\binom n2\) Euclidean pairwise distances are different.
 
-(a) Prove that \(n\) is taut when \(n-1\) is prime.
-(b) Determine exactly which integers \(n\ge2\) are taut.
+**Open target, B4(b) only:** determine exactly which integers \(n\ge2\) are taut.
 
 Only (b) was designated open.
 

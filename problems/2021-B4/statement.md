@@ -15,8 +15,7 @@ p(r_k)=p^{(k)}(r_k)=0.
 \]
 The root \(r_k\) is allowed to depend on \(k\).
 
-(a) If \(d\) is prime, prove that \(p(x)=c(ax+b)^d\) for some \(a,b,c\in\mathbb Q\).
-(b) Determine all \(d\ge2\) for which this conclusion holds for every such \(p\).
+**Open target, B4(b) only:** determine all \(d\ge2\) for which every such polynomial satisfies \(p(x)=c(ax+b)^d\) for some \(a,b,c\in\mathbb Q\).
 
 Only (b) was designated open.
 

@@ -1,12 +1,12 @@
 # Research dashboard
 
-Initial scope: nine official B4 problems, 2017-2025. **2026 deferred by the user**, not counted as a verified problem. Only B4 is investigated.
+Initial scope: nine official B4 open portions, 2017-2025. **2026 deferred by the user**, not counted as a verified problem. The 2017 problem and general 2018 enumeration are in scope; for 2019-2025, **part (b) only**. Preliminary part (a) and the already known 2018 m=5 case are excluded as research targets. See sources/open-scope-audit.md.
 
 | Year | Owner | Status | Strongest established starting point | Main obstruction | Next approach | Review status |
 |---|---|---|---|---|---|---|
-| 2017 | first group, pending launch | Inventory verified; present-day status unchecked | Official notes give asymptotic bounds for rhombus tiling counts | Exact quadratic exponential rate(s) | Verify literature and count interpretation; compare entropy and exact small counts | No candidate |
-| 2018 | first group, pending launch | Inventory verified; present-day status unchecked | Official notes enumerate the case m=5 | Uniform determination for arbitrary m,n | Kostka/tableau, lattice-path and exact enumeration approaches | No candidate |
-| 2019 | first group, pending launch | Inventory verified; present-day status unchecked | Official part (a) gives exponential bounds | Growth of distinct strings, not construction histories | Language/automata, overlap classification and exact enumeration | No candidate |
+| 2017 | owner_2017 | Initial pass running; current literature being verified | Newer asymptotic bounds located, attribution audit underway | Exact quadratic exponential rate(s), even existence | Entropy methods and exact small counts | No candidate |
+| 2018 | owner_2018 | Initial pass running | General bounded-composition/binomial-sum route found | Establish exact formula and published prior status | Write self-contained formula and verify independently | Candidate being prepared, unverified |
+| 2019 | owner_2019 | Initial pass running, part (b) only | Growth-limit existence argument being prepared | Determine the exact growth constant | Marked-context composition and exact enumeration | Partial candidate being prepared, unverified |
 | 2020 | unassigned | Inventory verified; present-day status unchecked | Official notes construct prime-power cases | General cyclic planar difference-set classification | Verify current prime-power literature and exact equivalence | No candidate |
 | 2021 | unassigned | Inventory verified; present-day status unchecked | Official prime-degree proof and known degree families | Rational Casas-Alvero degree classification | Verify current status and domain distinctions | No candidate |
 | 2022 | unassigned | Inventory verified; present-day status unchecked | Official part (a) gives a bounded difference strip | Whether every admissible orbit reaches equality | Exact residue dynamics, invariants and exhaustive bounded checks | No candidate |

@@ -2,6 +2,8 @@
 
 This repository records a sustained investigation of the Simon Marais Mathematics Competition's annual **B4 open problems**. It covers the nine verified official problems from **2017 through 2025**. The user has deferred 2026; no missing statement is invented and no other competition problem is substituted.
 
+**Only the open portion is in scope:** the entire 2017 problem; the general 2018 enumeration, excluding research on its already known m=5 case; and **B4(b) only in every year 2019-2025**. Preliminary part (a) is excluded. See the [direct official-paper scope audit](sources/open-scope-audit.md). Whether an originally open problem has subsequently been solved is a separate, dated literature question.
+
 **Current stage:** official-source inventory complete; current-literature checks and initial research passes are beginning. No new full solution has been accepted. A published solution to a preliminary part does not resolve the annual open part.
 
 - [Dashboard](progress/dashboard.md): per-problem status, results, obstructions, next steps and reviews.
