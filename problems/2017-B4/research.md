@@ -1,5 +1,9 @@
 # 2017 B4 research log
 
+## Coordinator update after the deeper literature pass
+
+The concavity candidate is now **proved, independently reviewed (partial result)**: the official limsup is below0.649514. Two fresh whole audits reconstructed the exact published cutpath domain, entropy endpoints, symmetrization, both supporting planes, uniform exact slack and marked-count insertion transfer. See proofs/reviewed-concavity-v1.1.md and reviews/concavity-acceptance.md/json. Initialize at B2; the harmless one-line zone wording is not used. The older pruned tree only needs at most one blue successor. No substantive repair remains. This improves the located0.6496 bound within the project; novelty and exact rates remain unresolved. The earlier owner checkpoint below is historical.
+
 ## Checkpoint, 2026-10-16
 
 Status: **open in the latest directly inspected research statements; no new full solution or new substantive partial theorem proposed**. The entire official B4 is the authorized open target. Its two exact rates are not found by this pass. Current strongest located published bounds and their conventions are in references.md. This distinction matters: the 2017 notes' old constants are neither current best bounds nor a solution.

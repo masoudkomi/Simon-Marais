@@ -1,0 +1,54 @@
+{
+  "completed_at_utc": "2026-10-16T21:40:19.166162+00:00",
+  "reviewer": "/root/review_2025_strongfc_r1",
+  "status": "candidate source audit - unverified by a second auditor",
+  "requested_model": "gpt-6.1-sol",
+  "requested_reasoning": "max",
+  "effective_setting_readback": "unavailable",
+  "blind_files_unchanged": [
+    {
+      "path": "problems/2025-B4/reviews/strongfc-review-1-blind-v1.md",
+      "frozen_hash_matches": true
+    },
+    {
+      "path": "problems/2025-B4/reviews/strongfc-review-1-issues-blind-v1.json",
+      "frozen_hash_matches": true
+    }
+  ],
+  "post_freeze_read": "problems/2025-B4/notes/deep-literature-r1-report-v1.md",
+  "read_any_other_strongfc_review": false,
+  "source_pdf_sha256": "daba36d8971a346d4cd40d0b823f787034c4a11b67e76258beeb7574e6fe2669",
+  "files": [
+    {
+      "path": "problems/2025-B4/reviews/strongfc-review-1-blind-manifest-v1.json",
+      "bytes": 1278,
+      "sha256": "3ab8f78bcf18a34a85a7c2c55d713f574f2542f2771ebd7da25ab69ba9ac954b"
+    },
+    {
+      "path": "problems/2025-B4/reviews/strongfc-review-1-blind-v1.md",
+      "bytes": 40291,
+      "sha256": "84754caab660d3813dca115ea22bada2834510b7b2378a976ad4fea9be3f25b6"
+    },
+    {
+      "path": "problems/2025-B4/reviews/strongfc-review-1-comparison-v1.md",
+      "bytes": 7737,
+      "sha256": "d7a7e1e8e17ffc2f553abf4abb72bce6b7e80b674e434542739a163e2ed52d8f"
+    },
+    {
+      "path": "problems/2025-B4/reviews/strongfc-review-1-issues-blind-v1.json",
+      "bytes": 6684,
+      "sha256": "162e3a3989f45d9ea095c2979420ca4806bc70dd75e384402da838cff18ef73c"
+    }
+  ],
+  "checks": [
+    "UTF-8 decode",
+    "JSON parse",
+    "no trailing whitespace",
+    "blind hash and byte-length comparison"
+  ],
+  "mathematical_computations": "Hand certificates and valuation derivations only; no CAS or Diophantine search",
+  "latest_weekly_used_percent": 16,
+  "weekly_reset_unix": 1792745187,
+  "no_git_commits_or_pushes": true,
+  "no_promotions": true
+}

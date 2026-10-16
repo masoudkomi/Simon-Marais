@@ -1,0 +1,31 @@
+{"event": "all_frozen_files_verified", "elapsed": 0.010330250021070242, "files": 70}
+{"event": "built", "elapsed": 0.010472333000507206, "D": 1, "raw_states": 2, "max_active": 1}
+{"event": "minimized", "elapsed": 0.010516749985981733, "states": 1, "rounds": 1}
+{"event": "built", "elapsed": 0.010598332970403135, "D": 2, "raw_states": 6, "max_active": 3}
+{"event": "minimized", "elapsed": 0.010638582985848188, "states": 4, "rounds": 4}
+{"event": "grid_length", "elapsed": 0.010672083008103073, "D": 2, "n": 0, "words": 1, "accepted": 1}
+{"event": "grid_length", "elapsed": 0.01071045798016712, "D": 2, "n": 1, "words": 2, "accepted": 2}
+{"event": "grid_length", "elapsed": 0.010760541015770286, "D": 2, "n": 2, "words": 4, "accepted": 4}
+{"event": "grid_length", "elapsed": 0.01085295801749453, "D": 2, "n": 3, "words": 8, "accepted": 8}
+{"event": "grid_length", "elapsed": 0.011093374982010573, "D": 2, "n": 4, "words": 16, "accepted": 15}
+{"event": "grid_length", "elapsed": 0.01178583299042657, "D": 2, "n": 5, "words": 32, "accepted": 28}
+{"event": "grid_length", "elapsed": 0.013476874970365316, "D": 2, "n": 6, "words": 64, "accepted": 52}
+{"event": "grid_length", "elapsed": 0.01802170800510794, "D": 2, "n": 7, "words": 128, "accepted": 96}
+{"event": "grid_length", "elapsed": 0.028909291024319828, "D": 2, "n": 8, "words": 256, "accepted": 177}
+{"event": "grid_length", "elapsed": 0.05576408299384639, "D": 2, "n": 9, "words": 512, "accepted": 326}
+{"event": "grid_length", "elapsed": 0.12055437499657273, "D": 2, "n": 10, "words": 1024, "accepted": 600}
+{"event": "grid_length", "elapsed": 0.3775882080080919, "D": 2, "n": 11, "words": 2048, "accepted": 1104}
+{"event": "grid_length", "elapsed": 0.9314504999783821, "D": 2, "n": 12, "words": 4096, "accepted": 2031}
+{"event": "all_saved_data_verified", "elapsed": 0.9342274160007946, "D": 3, "states": 9}
+{"event": "all_saved_data_verified", "elapsed": 0.9387124159839004, "D": 4, "states": 31}
+{"event": "built", "elapsed": 0.9852787909912877, "D": 5, "raw_states": 426, "max_active": 19}
+{"event": "minimized", "elapsed": 0.9886245409725234, "states": 144, "rounds": 25}
+{"event": "all_saved_data_verified", "elapsed": 1.1878688330180012, "D": 5, "states": 144}
+{"event": "build", "elapsed": 1.588203291001264, "D": 6, "processed": 2000, "discovered": 2167}
+{"event": "built", "elapsed": 1.9709483750048093, "D": 6, "raw_states": 3678, "max_active": 30}
+{"event": "minimized", "elapsed": 2.1803825829993, "states": 2106, "rounds": 39}
+{"event": "all_saved_data_verified", "elapsed": 2.947437707975041, "D": 6, "states": 2106}
+{"event": "all_saved_data_verified", "elapsed": 4.844365082972217, "D": 7, "states": 11662}
+{"event": "all_known_factors_verified", "elapsed": 4.8629828749690205, "factors": 143}
+{"event": "grammar_verified", "elapsed": 5.352968666004017, "product_pairs": 31, "mf_states": 23, "trim_states": 14}
+{"event": "complete", "elapsed": 5.3544460000121035, "output": "problems/2019-B4/reviews/thirdpass-review-2-audit.json"}

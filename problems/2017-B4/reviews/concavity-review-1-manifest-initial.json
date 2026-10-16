@@ -1,0 +1,108 @@
+{
+  "status": "initial blind whole-argument audit and complete issue log frozen",
+  "frozen_utc": "2026-10-16T21:22:08.706733+00:00",
+  "candidate_status": "candidate proof - unverified; coordinator promotion only",
+  "reviewer": "review_2017_concavity_r1",
+  "peer_concavity_review_files_or_conclusions_seen": false,
+  "constructed_candidate": false,
+  "spawned_agents": false,
+  "requested_model": "gpt-6.1-sol",
+  "requested_reasoning": "max",
+  "effective_setting_readback": "unavailable",
+  "initial_disposition": "C1 survives this audit; no open substantive objection; one nonblocking n=1 scope clarification",
+  "construction_freeze": {
+    "path": "problems/2017-B4/notes/deep-literature-r2-concavity-freeze-v1.json",
+    "bytes": 1519,
+    "sha256": "ec9c085810926b24f43c3249653f84b3a43ec72cbb7e148d38f2fd149b9b65b0"
+  },
+  "all_six_construction_artifacts_unchanged": [
+    {
+      "path": "problems/2017-B4/notes/deep-literature-r2-concavity-candidate-v1.md",
+      "bytes": 10581,
+      "sha256": "07dc9766e56eca4ec3359289a537072d47e6f5ce6b48129538552f54899728fc",
+      "matches": true
+    },
+    {
+      "path": "problems/2017-B4/computations/deep-literature-r2-concavity-certificate.json",
+      "bytes": 16030,
+      "sha256": "8b5222a9240d6d6dd8126ccaaff8a2585523f1914e8e4b2932b6ae07fa14714f",
+      "matches": true
+    },
+    {
+      "path": "problems/2017-B4/computations/deep-literature-r2-concavity-certificate.py",
+      "bytes": 4258,
+      "sha256": "f26e2b9aabe20dc01457e6b7e4a4ce6e168f3a8be046db5965b7fc69d725e03b",
+      "matches": true
+    },
+    {
+      "path": "problems/2017-B4/computations/deep-literature-r2-concavity-job.json",
+      "bytes": 845,
+      "sha256": "21c53e4f74eaee9d39f47cc0dd0523265f375b73ea241b03dee2bf90a57a2a30",
+      "matches": true
+    },
+    {
+      "path": "problems/2017-B4/computations/deep-literature-r2-concavity-stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "matches": true
+    },
+    {
+      "path": "problems/2017-B4/computations/deep-literature-r2-concavity-stdout.txt",
+      "bytes": 787,
+      "sha256": "ace7887be790d1b70384e12b0de71f37e0e26c08b2d2f62bc91fe4fd242a1e9f",
+      "matches": true
+    }
+  ],
+  "artifacts": [
+    {
+      "path": "problems/2017-B4/reviews/concavity-review-1.md",
+      "bytes": 15895,
+      "sha256": "caf931393469388384ab2961bff1a6093d3576af9cc5b1ca8fac13c336ccc731"
+    },
+    {
+      "path": "problems/2017-B4/reviews/concavity-review-1-issues.md",
+      "bytes": 4585,
+      "sha256": "81caef1ddb2552293de56a71dba24067e7e59c790d68c7773d5d76049b791cc3"
+    },
+    {
+      "path": "problems/2017-B4/reviews/concavity-review-1-check.py",
+      "bytes": 5692,
+      "sha256": "8c6d8e3b59b39907941b1018d7fd983ca869d7af10d6a7959c8da4ac2a128c5a"
+    },
+    {
+      "path": "problems/2017-B4/reviews/concavity-review-1-run.py",
+      "bytes": 1906,
+      "sha256": "cb48567c835c90bbc34b98bcad280c47281e64f830f7fd58b1c769f4f05e3fce"
+    },
+    {
+      "path": "problems/2017-B4/reviews/concavity-review-1-certificate.json",
+      "bytes": 29916,
+      "sha256": "2ab8060e701a121fd990271e36416e27743a961434a7bf2ef4d4e9101ef9ddc6"
+    },
+    {
+      "path": "problems/2017-B4/reviews/concavity-review-1-job.json",
+      "bytes": 735,
+      "sha256": "30cb2754e20a1e0ff6fec11eddd88b5f679b2884a8dc5e317aed369e2d63129a"
+    },
+    {
+      "path": "problems/2017-B4/reviews/concavity-review-1-stdout.log",
+      "bytes": 807,
+      "sha256": "85b8fc7b8cf25a9bff209708ac1a3f5ed04cc15181a5a9435941af23cd7060f0"
+    },
+    {
+      "path": "problems/2017-B4/reviews/concavity-review-1-stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "problems/2017-B4/reviews/concavity-review-1-sources.json",
+      "bytes": 3371,
+      "sha256": "c947ff5e5bb395dd2f279bb5280bdded35716c9afc68074bbe556ec08cb10d78"
+    },
+    {
+      "path": "problems/2017-B4/reviews/concavity-review-1-freeze.py",
+      "bytes": 5512,
+      "sha256": "4d3b4e59dd68371a48bed5bb63a7e1ca4617d658dc12445413839168e7c0881b"
+    }
+  ]
+}

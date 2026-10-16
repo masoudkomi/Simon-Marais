@@ -1,0 +1,65 @@
+{
+  "frozen_at_utc": "2026-10-16T21:38:17.585471+00:00",
+  "status": "literature checkpoint;2022 coding deductions unverified; no new proof promotion",
+  "sources": [
+    {
+      "path": ".cache/literature/2022/akiyama-frougny-sakarovitch-rbns-rev.pdf",
+      "bytes": 909624,
+      "sha256": "cf6cb96e1f4e98ed0e763f0f8e974f9cf81d685a8bbb8ed969432afd382bffd8",
+      "url": "https://perso.telecom-paristech.fr/jsaka/PUB/Files/RBNS-rev.pdf",
+      "pages": 30,
+      "read_scope": "Introduction, full Proposition13 proof, restricted-interval theorem hypotheses",
+      "status": "cached locally only"
+    },
+    {
+      "path": ".cache/literature/2022/andrieu-eliahou-vivion-2510.11723v2.pdf",
+      "bytes": 1239603,
+      "sha256": "ef5a2ca8e1fa5c21bbf51a7122cc4331b6aa1e587cdffd6cd845d8f7f2cf99bf",
+      "url": "https://arxiv.org/pdf/2510.11723v2",
+      "pages": 28,
+      "read_scope": "Introduction, Conjectures1.2/1.6 and Theorem1.7",
+      "status": "cached locally only"
+    },
+    {
+      "path": ".cache/literature/2022/deep/rigo-stipulanti-automatic-trees-2022.pdf",
+      "bytes": 313319,
+      "sha256": "4b37bb2770caffbba82e72453497b1117ae2346a9020107d6c9207da1ddec06c",
+      "url": "https://dmtcs.episciences.org/en/articles/8455/download",
+      "pages": 26,
+      "read_scope": "Definitions and full relevant Section4 Theorem20/Corollary21 proof",
+      "status": "cached locally only"
+    }
+  ],
+  "artifacts": [
+    {
+      "path": "problems/2022-B4/notes/deep-literature-coordinator-v1.md",
+      "bytes": 7948,
+      "sha256": "901d53ff6b7c0b28f8177930afbd9c61fcde5955241cca90bf59c3a733f351f3"
+    },
+    {
+      "path": "problems/2022-B4/computations/deep-literature-coordinator-signed-digits-v1-job.json",
+      "bytes": 327,
+      "sha256": "ff58fd351af7f666e522be8f10f80e2b6e12ab3aab292122fc7b9aaaecca6c9d"
+    },
+    {
+      "path": "problems/2022-B4/computations/deep-literature-coordinator-signed-digits-v1-output.json",
+      "bytes": 13664,
+      "sha256": "d8c2c6b187e3d5cb88aebcf5fbfe638eede1fb120a95a2e275321119c084a30e"
+    },
+    {
+      "path": "problems/2022-B4/computations/deep-literature-coordinator-signed-digits-v1-stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "problems/2022-B4/computations/deep-literature-coordinator-signed-digits-v1.py",
+      "bytes": 4408,
+      "sha256": "24641deb87db3606c0257a9d49cb0a6a713e872c749cb2c50d2a503d95afccad"
+    }
+  ],
+  "queries": [
+    "Exact SimonMarais year B4 plus solved/resultant/recurrence",
+    "Original rational-base transducer normalization and automatic-sequence tree theorems"
+  ],
+  "limits": "No absence or novelty claim; theorem read scopes recorded individually; all full PDFs remain ignored cache"
+}

@@ -1,0 +1,54 @@
+{
+  "frozen_at_utc": "2026-10-16T21:38:17.623771+00:00",
+  "status": "literature checkpoint;2022 coding deductions unverified; no new proof promotion",
+  "sources": [
+    {
+      "path": ".cache/literature/2023/florez-higuita-ramirez-2019-resultants.pdf",
+      "bytes": 332812,
+      "sha256": "4a2c20560a4d2830961f2da38797a0130716e405e6b66e2a68342a61c40fb964",
+      "url": "https://cs.uwaterloo.ca/journals/JIS/VOL22/Florez/florez23.pdf",
+      "pages": 28,
+      "read_scope": "Theorem1, global Section3.1 hypotheses, proof Section4 and references",
+      "status": "cached locally only"
+    },
+    {
+      "path": ".cache/literature/2023/louboutin-2013-chebyshev-resultants.pdf",
+      "bytes": 248507,
+      "sha256": "c9c8e6f487e4b398a10b575e91ff57f7945a449ab69099dc46d4821eefc3a8b0",
+      "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/307773230FE1D9B72A312B7B4EEB6BB0/S0008439500003593a.pdf/resultants-of-chebyshev-polynomials-a-short-proof.pdf",
+      "pages": 4,
+      "read_scope": "All4pages read; no first-kind sign formula imported",
+      "status": "cached locally only"
+    },
+    {
+      "path": ".cache/literature/2023/dujella-tichy-recursive-polynomials.pdf",
+      "bytes": 171413,
+      "sha256": "1dd311a32ed911814d53cf911e4d31e9e5ebd087656a11e34684662dcdef1a34",
+      "url": "https://web.math.pmf.unizg.hr/~duje/pdf/dutichy.pdf",
+      "pages": 13,
+      "read_scope": "Introduction, Theorems1-2 and Section2 definitions; not whole theorem proof",
+      "status": "cached locally only"
+    },
+    {
+      "path": ".cache/literature/provenance/gazette-2024-512.pdf",
+      "bytes": 11384008,
+      "sha256": "9336b9e1eaa4601a3f0657173ae78972515c5252069658ec078e0b5c7c0009c6",
+      "url": "https://austms.org.au/wp-content/uploads/2024/06/512.pdf",
+      "pages": 59,
+      "read_scope": "Entire organizer report printed97-99, no other contest problems researched",
+      "status": "cached locally only"
+    }
+  ],
+  "artifacts": [
+    {
+      "path": "problems/2023-B4/notes/deep-literature-coordinator-v1.md",
+      "bytes": 6846,
+      "sha256": "97666d9eec12545e21a16ffe87f70a12a507d15484ad142282b3acd0ba8b5f0a"
+    }
+  ],
+  "queries": [
+    "Exact SimonMarais year B4 plus solved/resultant/recurrence",
+    "Powers with shared irrational coefficient; generalized Fibonacci/Chebyshev resultants; rational recursive-polynomial equations"
+  ],
+  "limits": "No absence or novelty claim; theorem read scopes recorded individually; all full PDFs remain ignored cache"
+}

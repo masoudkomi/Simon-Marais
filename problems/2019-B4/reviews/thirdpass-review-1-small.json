@@ -1,0 +1,168 @@
+{
+  "max_moves": 15,
+  "records": [
+    {
+      "accepted": {
+        "3": 1,
+        "7": 1
+      },
+      "contexts": 1,
+      "distinct_strings_length_n_plus_1": 1,
+      "histories": 1,
+      "moves": 0
+    },
+    {
+      "accepted": {
+        "3": 2,
+        "7": 2
+      },
+      "contexts": 2,
+      "distinct_strings_length_n_plus_1": 2,
+      "histories": 2,
+      "moves": 1
+    },
+    {
+      "accepted": {
+        "3": 4,
+        "7": 4
+      },
+      "contexts": 4,
+      "distinct_strings_length_n_plus_1": 3,
+      "histories": 4,
+      "moves": 2
+    },
+    {
+      "accepted": {
+        "3": 8,
+        "7": 8
+      },
+      "contexts": 8,
+      "distinct_strings_length_n_plus_1": 5,
+      "histories": 8,
+      "moves": 3
+    },
+    {
+      "accepted": {
+        "3": 15,
+        "7": 15
+      },
+      "contexts": 15,
+      "distinct_strings_length_n_plus_1": 9,
+      "histories": 16,
+      "moves": 4
+    },
+    {
+      "accepted": {
+        "3": 28,
+        "7": 28
+      },
+      "contexts": 28,
+      "distinct_strings_length_n_plus_1": 16,
+      "histories": 32,
+      "moves": 5
+    },
+    {
+      "accepted": {
+        "3": 52,
+        "7": 52
+      },
+      "contexts": 52,
+      "distinct_strings_length_n_plus_1": 29,
+      "histories": 64,
+      "moves": 6
+    },
+    {
+      "accepted": {
+        "3": 96,
+        "7": 96
+      },
+      "contexts": 96,
+      "distinct_strings_length_n_plus_1": 52,
+      "histories": 128,
+      "moves": 7
+    },
+    {
+      "accepted": {
+        "3": 177,
+        "7": 177
+      },
+      "contexts": 177,
+      "distinct_strings_length_n_plus_1": 94,
+      "histories": 256,
+      "moves": 8
+    },
+    {
+      "accepted": {
+        "3": 326,
+        "7": 326
+      },
+      "contexts": 326,
+      "distinct_strings_length_n_plus_1": 170,
+      "histories": 512,
+      "moves": 9
+    },
+    {
+      "accepted": {
+        "3": 600,
+        "7": 600
+      },
+      "contexts": 600,
+      "distinct_strings_length_n_plus_1": 308,
+      "histories": 1024,
+      "moves": 10
+    },
+    {
+      "accepted": {
+        "3": 1104,
+        "7": 1104
+      },
+      "contexts": 1104,
+      "distinct_strings_length_n_plus_1": 560,
+      "histories": 2048,
+      "moves": 11
+    },
+    {
+      "accepted": {
+        "3": 2030,
+        "7": 2030
+      },
+      "contexts": 2030,
+      "distinct_strings_length_n_plus_1": 1018,
+      "histories": 4096,
+      "moves": 12
+    },
+    {
+      "accepted": {
+        "3": 3732,
+        "7": 3732
+      },
+      "contexts": 3732,
+      "distinct_strings_length_n_plus_1": 1856,
+      "histories": 8192,
+      "moves": 13
+    },
+    {
+      "accepted": {
+        "3": 6860,
+        "7": 6858
+      },
+      "contexts": 6858,
+      "distinct_strings_length_n_plus_1": 3383,
+      "histories": 16384,
+      "moves": 14
+    },
+    {
+      "accepted": {
+        "3": 12608,
+        "7": 12600
+      },
+      "contexts": 12600,
+      "distinct_strings_length_n_plus_1": 6177,
+      "histories": 32768,
+      "moves": 15
+    }
+  ],
+  "seconds": 1.2809690829599276,
+  "total_histories": 65535,
+  "verifier_sha256": "96f43261b94db394061ddecd1fb0ebcf03923dbaa42d0a7b1e7ce5a99cc5036a"
+}

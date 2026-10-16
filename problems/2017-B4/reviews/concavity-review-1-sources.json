@@ -1,0 +1,64 @@
+{
+  "verified_utc": "2026-10-16T21:22:08.706733+00:00",
+  "retrieval": "reused existing ignored local caches; primary URLs opened read-only",
+  "full_source_papers_copied_into_review": false,
+  "redistribution_licence_verified": false,
+  "sources": [
+    {
+      "path": ".cache/official/2017-paper_b.pdf",
+      "bytes": 112458,
+      "sha256": "69d7cf84128c2464d962136ed613808b6c7a7b07122cfba9c06b5adf775e2a68",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2017-paper-2_1.pdf",
+      "inspected": "PDF p. 2, B4 only",
+      "role": "official domains and conclusion"
+    },
+    {
+      "path": ".cache/official/2017-solutions.pdf",
+      "bytes": 231254,
+      "sha256": "c272a72239ef4c2ccd54df0702140179e0a9b85f5a9028c87d485841eb1a2c12",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2017-solutions-preliminary_1.pdf",
+      "inspected": "PDF p. 12, text and full-page visual inspection",
+      "role": "official intended counting convention"
+    },
+    {
+      "path": ".cache/literature/2017/cited-7f7251133b0c4ebc.pdf",
+      "bytes": 257427,
+      "sha256": "9f68329a62318b355cde668eabb9a05073ce755becfdd81dc5a6a15f9db68c26",
+      "url": "https://page.math.tu-berlin.de/~felsner/Paper/new-pla.pdf",
+      "inspected": "PDF pp. 1-4 and 7-10, with visual inspection of pp. 2-3",
+      "role": "marked dictionary, canonical labels, insertion recurrence, tree/transversal lemmas"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2017-dallant-zone-2502.20909v2.pdf",
+      "bytes": 618656,
+      "sha256": "9ae4886f8b1fce91c6ae8e86c577c5690d0f2ef10355a6524235f95a18dfa03b",
+      "url": "https://arxiv.org/pdf/2502.20909v2",
+      "inspected": "PDF pp. 1-7, Section 2 and Lemmas 3-7; visual inspection of p. 5",
+      "role": "simple marked hypotheses, extended cutpath bound, zone theorem, exact integer domain"
+    }
+  ],
+  "python": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]",
+  "platform": "macOS-26.7-arm64-arm-64bit",
+  "dependencies": "Python standard library fractions, math, hashlib, json, subprocess; pypdf for source inspection; bundled pdftoppm for rendering",
+  "requested_model": "gpt-6.1-sol",
+  "requested_reasoning": "max",
+  "effective_setting_readback": "unavailable",
+  "usage": {
+    "authority": "mcp__codex_app__get_usage_limits",
+    "used_percent": 15,
+    "window_duration_mins": 10080,
+    "reset_unix": 1792745187,
+    "stop_total_used_percent": 90
+  },
+  "source_visual_commands": [
+    "pdftoppm -f 5 -l 5 -scale-to 1500 -singlefile -png .cache/literature/deep-literature-r2/2017-dallant-zone-2502.20909v2.pdf /private/tmp/concavity-review-1-dallant-p5",
+    "pdftoppm -f 2 -l 3 -scale-to 1500 -png .cache/literature/2017/cited-7f7251133b0c4ebc.pdf /private/tmp/concavity-review-1-fv",
+    "pdftoppm -f 12 -l 12 -scale-to 1500 -singlefile -png .cache/official/2017-solutions.pdf /private/tmp/concavity-review-1-official-p12"
+  ],
+  "frozen_constructor_endpoint_comparison": {
+    "method": "independently reconstructed Fraction atanh sums N=80 and compared exact endpoints read from the frozen certificate JSON",
+    "result": "All five frozen constructor logarithm intervals equal independently reconstructed exact endpoints.",
+    "constructor_script_executed": false,
+    "independent_mercator_certificate_ran_before_constructor_script_read": true
+  }
+}

@@ -1,0 +1,15 @@
+independent exact check starts 2026-10-16T21:17:26.841363+00:00 N= 96
+completed ln2 argument 2
+completed ln32over7 argument 32/7
+completed ln79over58 argument 79/58
+completed ln107648over43687 argument 107648/43687
+completed ln3over2 argument 3/2
+assert phi_at_21over100_lt_64951over50000 True
+assert dphi_at_21over100_gt_zero True
+assert dphi_at_21over100_lt_1over5000 True
+assert f0_lt_1293over1000 True
+assert ln2_gt_1over3 True
+assert uniform_objective_upper_lt_candidate_target True
+assert uniform_objective_upper_lt_1299027over1000000 True
+assert simple_ceiling_half_lt_324757over500000 True
+certificate written concavity-review-2-independent-certificate.json

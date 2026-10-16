@@ -1,0 +1,269 @@
+{
+  "boundary_automata": {
+    "1": {
+      "edges": [
+        [
+          0,
+          0
+        ]
+      ],
+      "quotient_states": 1,
+      "raw_states": 2
+    },
+    "2": {
+      "edges": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          -1,
+          1
+        ]
+      ],
+      "quotient_states": 4,
+      "raw_states": 6
+    }
+  },
+  "cached_primary_source_hashes": [
+    {
+      "R1_read_only_hash_verification": true,
+      "bytes": 293632,
+      "cache_path": ".cache/2019-B4-thirdpass/mohri-edit.pdf",
+      "retrieved_utc_as_recorded_by_author": "2026-10-16T17:07:10.279182+00:00",
+      "sha256": "3a9b025f7c61fce5088b6ec0e6d5977cc705ddf0f4c5a91b556a6f8816467fff",
+      "source_url": "https://cs.nyu.edu/~mohri/pub/edit.pdf"
+    },
+    {
+      "R1_read_only_hash_verification": true,
+      "bytes": 1728395,
+      "cache_path": ".cache/2019-B4-thirdpass/beal-carton-sliding-block.pdf",
+      "retrieved_utc_as_recorded_by_author": "2026-10-16T17:07:11.917236+00:00",
+      "sha256": "fa77f011c019626e289c3577ead7a08143e141c605ad917a67bc418537e54286",
+      "source_url": "https://www.numdam.org/item/ITA_2000__34_2_139_0.pdf"
+    },
+    {
+      "R1_read_only_hash_verification": true,
+      "bytes": 152292,
+      "cache_path": ".cache/2019-B4-thirdpass/queue-actions.pdf",
+      "retrieved_utc_as_recorded_by_author": "2026-10-16T17:07:11.456995+00:00",
+      "sha256": "6a870184138903e8a78b889d75700d240384f98395e160b49bf85e0f556a1414",
+      "source_url": "https://eiche.theoinf.tu-ilmenau.de/kuske/Publications/HusKZ14.pdf"
+    },
+    {
+      "R1_read_only_hash_verification": true,
+      "bytes": 323547,
+      "cache_path": ".cache/2019-B4-thirdpass/buzzi-qft.pdf",
+      "retrieved_utc_as_recorded_by_author": "2026-10-16T17:07:08.621936+00:00",
+      "sha256": "6d8681e39192a1c5eee5a5682ca0f073ec84d2ac863e436ed3a40c999ecabebf",
+      "source_url": "https://arxiv.org/pdf/math/0305164"
+    },
+    {
+      "R1_read_only_hash_verification": true,
+      "bytes": 674346,
+      "cache_path": ".cache/2019-B4-thirdpass/2019-gazette-report.pdf",
+      "retrieved_utc_as_recorded_by_author": "2026-10-16T17:07:08.505078+00:00",
+      "sha256": "bdcc4055770c968facf6f840da8ecb903c04590d85c589457452cb72de31f720",
+      "source_url": "https://austms.org.au/wp-content/uploads/2025/02/Mar20-471.pdf"
+    },
+    {
+      "R1_read_only_hash_verification": true,
+      "bytes": 808821,
+      "cache_path": ".cache/2019-B4-thirdpass/icalp2024-edit-distance.pdf",
+      "retrieved_utc_as_recorded_by_author": "2026-10-16T17:07:11.358798+00:00",
+      "sha256": "a9c77988c38a754d6a757d9c89ea88095a1f1b492b867024c9a98ee25dc29e5b",
+      "source_url": "https://drops.dagstuhl.de/storage/00lipics/lipics-vol297-icalp2024/LIPIcs.ICALP.2024.125/LIPIcs.ICALP.2024.125.pdf"
+    }
+  ],
+  "certificate": {
+    "maximum_ratio_denominator": 37046350770195226375975440055753126325238117939791096,
+    "maximum_ratio_numerator": 67974722060493994461702623326709744523595646655221287,
+    "min_integer_slack": 2474277709610765473517281655170069565260566278840834,
+    "min_vector_entry": 28992044787669162084686071274960499944391494615090998,
+    "rows": 11662,
+    "strict_gap_to_claim_denominator": 4630793846274403296996930006969140790654764742473887000000000,
+    "strict_gap_to_claim_numerator": 393806468977244739773842307566868808759479155604621
+  },
+  "current_verifier_sha256": "7a2b7792cee8fae365a4805652fd9e4179bf3bf1102dfb02c35e14cc3e06157d",
+  "effective_settings_independent_readback": null,
+  "independence": "No third-pass peer reviews, shared issues, research status or shared literature triage read before blind report freeze.",
+  "initial_independent_verifier_sha256": "4c6af7c1ecc67e31fd6c804a53fb843c4e1f534c738c91cce5573f35fa9eafa7",
+  "input_hashes": [
+    {
+      "bytes": 4271,
+      "path": "AGENTS.md",
+      "sha256": "32ce511aab27061680c98197793b5a9b3ee03a421c822868fad69ea525816257"
+    },
+    {
+      "bytes": 1252,
+      "path": "problems/2019-B4/statement.md",
+      "sha256": "53d4201dca8bc4a77d995e3df14f95dd146e2df0c82d3b6447ad35a348e89de9"
+    },
+    {
+      "bytes": 10500,
+      "path": "problems/2019-B4/proof.md",
+      "sha256": "58f140f1fe9c64aa77d04a9c80a76f13411264d09d5f9e908f8e0997dc6985e2"
+    },
+    {
+      "bytes": 2836,
+      "path": "problems/2019-B4/proofs/reviewed-secondpass-v1.1.md",
+      "sha256": "5fbaa388fe2ff795034094823c088fa5402da60eb9eca83f78165df0c8ad2cd7"
+    },
+    {
+      "bytes": 2340,
+      "path": "problems/2019-B4/reviews/secondpass-acceptance.md",
+      "sha256": "a167e1f52bff2503c6ac571ea047efe7621425f2379868a0a6db31eccd22aefa"
+    },
+    {
+      "bytes": 11807,
+      "path": "problems/2019-B4/notes/secondpass-canonical-renewal.md",
+      "sha256": "886266000a34023b033099889a3bb23bc6b3e642194ded12ce53b3aaa1642763"
+    },
+    {
+      "bytes": 8447,
+      "path": "problems/2019-B4/notes/secondpass-rigidity-obstructions.md",
+      "sha256": "58112ed40ba7146c8b5885669602d44770bdd525540c4221eaf17b101eb1c109"
+    },
+    {
+      "bytes": 10885,
+      "path": "problems/2019-B4/notes/secondpass-staircases-and-pumping.md",
+      "sha256": "5e2539982e32d116076c2c17ad8e85d865792a14630db04634c7372ae345cd52"
+    },
+    {
+      "bytes": 8339,
+      "path": "problems/2019-B4/notes/secondpass-checkpoint-2.md",
+      "sha256": "fbe7680f25cfcc216449e48755e87fa261d7c468721928075de0710f7b77d961"
+    },
+    {
+      "bytes": 15965,
+      "path": "problems/2019-B4/notes/thirdpass-bounded-separation-v1.md",
+      "sha256": "3364e8c6cf23ba3ecb250f13a5873732c108b6904a68126f52f5d7234eb916d4"
+    },
+    {
+      "bytes": 5231,
+      "path": "problems/2019-B4/notes/thirdpass-checkpoint-v1.md",
+      "sha256": "9f7492716a68357e866279fb9b073212e7256fac18919c87ea06d43a4c548166"
+    },
+    {
+      "bytes": 13674,
+      "path": "problems/2019-B4/notes/thirdpass-v1-manifest.json",
+      "sha256": "ed672a1a68874ea44c2c4752dad7f1f7ef5e27e496ed4cf40d4f633cc2364b6b"
+    },
+    {
+      "bytes": 14354,
+      "path": "problems/2019-B4/notes/thirdpass-literature.md",
+      "sha256": "90ed53bc773b79d2fc0790b5972757f73ca03026c3c42b7ecf733acd1a622b83"
+    },
+    {
+      "bytes": 2597,
+      "path": "problems/2019-B4/notes/thirdpass-literature-sources.json",
+      "sha256": "b131a9bef91787088f5fc2daef120b93c3a68c7221031904dc19ad9dbacda4e8"
+    },
+    {
+      "bytes": 73866,
+      "path": "problems/2019-B4/computations/secondpass-full-obstruction24-v2.json",
+      "sha256": "48ee03a0f7be101763ca7132a68925bcd51a5ceb030ccfbf86dab96fda315d59"
+    }
+  ],
+  "rendering": {
+    "pages": {
+      "beal-carton-sliding-block.pdf": 8,
+      "buzzi-qft.pdf": 3,
+      "mohri-edit.pdf": 14
+    },
+    "program": "bundled pdftoppm",
+    "temporary_images": "three current-review images visually inspected, then removed; no third-party full paper copied",
+    "version": "26.05.0"
+  },
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "source_reading": [
+    {
+      "scope": "B4(b), page 2; primary source parsed by web tool",
+      "source": "official 2019 paper B",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2019-paper-b_1.pdf"
+    },
+    {
+      "scope": "attribution context for four-move relation; preliminary proof not reproduced",
+      "source": "official 2019 solution notes",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2019-solutions_1.pdf"
+    },
+    {
+      "scope": "section 4.3, definitions and Theorem 1; PDF page 14 rendered and visually inspected",
+      "source": "Mohri",
+      "url": "https://cs.nyu.edu/~mohri/pub/edit.pdf"
+    },
+    {
+      "scope": "publisher abstract and metadata, not inaccessible full text",
+      "source": "Frougny-Sakarovitch STACS 1991",
+      "url": "https://link.springer.com/chapter/10.1007/BFb0020787"
+    },
+    {
+      "scope": "sections 3 and 4 hypotheses; PDF page 8 rendered and visually inspected",
+      "source": "Beal-Carton",
+      "url": "https://www.numdam.org/item/ITA_2000__34_2_139_0.pdf"
+    },
+    {
+      "scope": "primary indexed abstract and author bibliography only; direct retrieval timed out twice",
+      "source": "Beal et al. forbidden words",
+      "url": "https://igm.univ-mlv.fr/~beal/Recherche/Publications/fialgo.pdf"
+    },
+    {
+      "scope": "publisher indexed abstract and metadata only",
+      "source": "Beal et al. forbidden words publication",
+      "url": "https://journals.sagepub.com/doi/pdf/10.3233/FUN-2003-561-208?download=true"
+    },
+    {
+      "scope": "queue-action equivalence definition, Theorems 4.1 and 5.3, distinctions from B4 context equality",
+      "source": "Huschenbett-Kuske-Zetzsche",
+      "url": "https://eiche.theoinf.tu-ilmenau.de/kuske/Publications/HusKZ14.pdf"
+    },
+    {
+      "scope": "definitions 1-3, Lemmas 10-11 and proofs; PDF page 3 rendered and visually inspected",
+      "source": "Buzzi",
+      "url": "https://arxiv.org/pdf/math/0305164"
+    },
+    {
+      "scope": "bounded-delay discussion and definitions 3.13 and 3.14; not an enumeration theorem",
+      "source": "Aiswarya-Manuel-Sunny",
+      "url": "https://drops.dagstuhl.de/storage/00lipics/lipics-vol297-icalp2024/LIPIcs.ICALP.2024.125/LIPIcs.ICALP.2024.125.pdf"
+    },
+    {
+      "scope": "R1 direct DOI fetch failed; no full-text theorem imported",
+      "source": "Guibas-Odlyzko",
+      "url": "https://doi.org/10.1016/0097-3165%2881%2990005-4"
+    },
+    {
+      "scope": "competition report pages 39-41, historical open designation and committee-leadership paragraph",
+      "source": "Henderson-Warnaar 2020",
+      "url": "https://austms.org.au/wp-content/uploads/2025/02/Mar20-471.pdf"
+    }
+  ],
+  "telemetry": {
+    "initial_total_used_percent": 13,
+    "later_total_used_percent": 14,
+    "new_window_entered": false,
+    "reset_unix_seconds": 1792745187,
+    "source": "mcp__codex_app__get_usage_limits account-wide weekly primary window",
+    "stop_at_total_used_percent": 90,
+    "window_duration_minutes": 10080
+  },
+  "unavailable_or_limited_access": [
+    "web PDF screenshot facility unavailable; used local read-only-cache page rendering instead",
+    "Beal et al. fialgo.pdf direct web retrieval timed out twice; indexed abstract only",
+    "ScienceDirect synchronized-relations record failed to open",
+    "KCL institutional record first opened but follow-up cache miss; author bibliography and publisher indexed abstract checked",
+    "Guibas-Odlyzko DOI redirect inaccessible through web tool"
+  ],
+  "verified_utc": "2026-10-16T17:29:43Z"
+}

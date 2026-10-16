@@ -1,0 +1,31 @@
+{
+  "verified_at_utc": "2026-10-16T21:30:21.900582+00:00",
+  "year": 2019,
+  "all_recorded_hashes_and_sizes_match": true,
+  "manifest_checks": [
+    {
+      "path": "problems/2019-B4/notes/thirdpass-v1-manifest.json",
+      "sha256": "ed672a1a68874ea44c2c4752dad7f1f7ef5e27e496ed4cf40d4f633cc2364b6b",
+      "records_verified": 70
+    },
+    {
+      "path": "problems/2019-B4/reviews/thirdpass-review-1-manifest-initial.json",
+      "sha256": "3733b86d1dea6cd3cb28e0342e73e4ee9fbf664bd6df911b75d4e866eb5ee3b6",
+      "records_verified": 54
+    },
+    {
+      "path": "problems/2019-B4/reviews/thirdpass-review-1-manifest.json",
+      "sha256": "2e4297e0ccb06edc044a93279c41d2600382331ded4553a25716b297997a0a97",
+      "records_verified": 57
+    },
+    {
+      "path": "problems/2019-B4/reviews/thirdpass-review-2-manifest.json",
+      "sha256": "780b62efe218eefa22b57615e5aa206bfaa800b64b25914630dc4d66dea26860",
+      "records_verified": 27
+    }
+  ],
+  "root_read_full_reports_and_issue_logs": true,
+  "unresolved_substantive_objections": 0,
+  "mathematical_repair_required": false,
+  "note": "Integrity check is not an additional independent mathematical review."
+}

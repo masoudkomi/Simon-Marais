@@ -1,0 +1,54 @@
+{
+  "status": "candidate proof - unverified; frozen before independent review",
+  "frozen_at_utc": "2026-10-16T21:38:22.905768+00:00",
+  "constructor": "owner_2021_reasoning_j15",
+  "requested_model": "gpt-6.1-sol",
+  "requested_reasoning": "max",
+  "verified_effective_settings": null,
+  "scope": "rational degree20, J15, zero multiplicity2 only; D1-D5 analytic restrictions and an explicit low-order family",
+  "proof_depends_on_finite_enumeration": false,
+  "intuition_computation": "18^2 ordered residue pairs, not used as proof certificate",
+  "third_small_root": "proved Q19 membership only; may be non-Q and never presumed an eligible rational witness",
+  "records": [
+    {
+      "path": "problems/2021-B4/notes/reasoning-J15-double-root-candidate-v1.md",
+      "bytes": 18227,
+      "sha256": "e3da7a889e5937722546dab2596fdb2140597066584487ce15fb8c4e4fd8bbff"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-J15-residue-intuition-v1.txt",
+      "bytes": 3179,
+      "sha256": "8de4e415402a08499e084ae43e052fece5fef14a34bbc79495cdda23fa6e5e1f"
+    }
+  ],
+  "accepted_dependencies": [
+    {
+      "path": "problems/2021-B4/notes/rational-witness-p-plus-one-reviewed-v1.2.md",
+      "bytes": 8615,
+      "sha256": "fa71a4269a061b09ed74b3cd333b62c2ed7d3ffd39d1c28624a58a6d8fc18d09"
+    },
+    {
+      "path": "problems/2021-B4/notes/padic-rational-newton-reviewed-v1.1.md",
+      "bytes": 2667,
+      "sha256": "691c7c04be6b7d63b528724a59f43636e0e71dd2135f7c0d14e25487f738e963"
+    },
+    {
+      "path": "problems/2021-B4/notes/padic-rational-newton-obstructions-v1.md",
+      "bytes": 16974,
+      "sha256": "ce3ff564b48841ae3ae1bf66c3cf5303ed2833c2166590cb2460706f01b5c335"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-three-rational-witnesses-reviewed-v1.1.md",
+      "bytes": 1962,
+      "sha256": "7ff6b3d92d3268405381c2732d83516d21e6eb7d74e897d4c01ec8bb70342be4"
+    }
+  ],
+  "weekly_telemetry": {
+    "verified_at_utc": "2026-10-16T21:35:00Z",
+    "used_percent_total": 16,
+    "window_duration_minutes": 10080,
+    "resets_at": 1792745187,
+    "stop_used_percent_total": 90
+  },
+  "unresolved": "all results need two fresh independent full audits; no full mask exclusion is promoted; nonunit a14 and other center patterns remain"
+}

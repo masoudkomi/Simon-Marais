@@ -1,0 +1,50 @@
+{
+  "accepted_at_utc": "2026-10-16T21:32:05.623287+00:00",
+  "status": "proved, independently reviewed (partial results)",
+  "scope": "Nested exact bounded-separation obstruction languages, growth convergence, cap3 grammar and lambda<1.834856083; partial, no exact constant or novelty claim",
+  "candidate": {
+    "path": "problems/2019-B4/notes/thirdpass-bounded-separation-v1.md",
+    "bytes": 15965,
+    "sha256": "3364e8c6cf23ba3ecb250f13a5873732c108b6904a68126f52f5d7234eb916d4"
+  },
+  "accepted_proof": {
+    "path": "problems/2019-B4/proofs/reviewed-thirdpass-v1.1.md",
+    "bytes": 16255,
+    "sha256": "58462ad7e44a7d3477d086a663cdb127128c5adcae65d6a904f1fdaa7e862cbf"
+  },
+  "reports": [
+    {
+      "path": "problems/2019-B4/reviews/thirdpass-review-1.md",
+      "bytes": 31961,
+      "sha256": "0ceec50769c77f656f7765a2ea309921d893eb3a0e0be1045ef9255d5e4d953a"
+    },
+    {
+      "path": "problems/2019-B4/reviews/thirdpass-review-2.md",
+      "bytes": 16902,
+      "sha256": "1aba6567ce34d845d488c248c26685bd47b28517c3b2c9af228cdaca7e491fce"
+    }
+  ],
+  "issue_logs": [
+    {
+      "path": "problems/2019-B4/reviews/thirdpass-review-1-issues.md",
+      "bytes": 1846,
+      "sha256": "4ce821fdc917c5e0653aa083cd3c43ebb7617c9279aa913c3d5f37269343c1c2"
+    },
+    {
+      "path": "problems/2019-B4/reviews/thirdpass-review-2-issues.md",
+      "bytes": 2693,
+      "sha256": "c19bc0f97a48a4830c2cd6124857808ba779105a7c4187f60f36adcfc0a84d47"
+    }
+  ],
+  "two_independent_nonconstructor_initially_blind_reviews": true,
+  "both_whole_reconstructions": true,
+  "coordinator_read_full_reports_and_issues": true,
+  "unresolved_substantive_objections": 0,
+  "substantive_author_repair_required": false,
+  "source_hypotheses_and_official_domain_checked": true,
+  "integrity_record": {
+    "path": "problems/2019-B4/reviews/thirdpass-acceptance-integrity.json",
+    "bytes": 1169,
+    "sha256": "e67014f0896b5603738c5498615265ea4c028601e2d313a5de9d51c5188bb8f7"
+  }
+}

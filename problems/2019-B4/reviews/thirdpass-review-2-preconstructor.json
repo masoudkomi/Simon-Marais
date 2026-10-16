@@ -1,0 +1,30 @@
+{
+  "created_utc": null,
+  "time_note": "Marker written after the independent D7 job finished at 17:32:45 UTC and before the live clock reading 17:33:27 UTC on 2026-10-16; exact creation timestamp was not captured.",
+  "stage": "Independent implementation and D3/D7 full reconstructions complete; before reading author constructor sources or saved constructor tables",
+  "requested_model": "gpt-6.1-sol",
+  "requested_reasoning_effort": "max",
+  "effective_settings_readback": null,
+  "peer_report_contents_read": false,
+  "note": "An rg filename inventory exposed peer filenames, but no peer file contents, conclusions, issue logs, or third-pass acceptance/status were read.",
+  "inputs": {
+    "problems/2019-B4/notes/thirdpass-bounded-separation-v1.md": "3364e8c6cf23ba3ecb250f13a5873732c108b6904a68126f52f5d7234eb916d4",
+    "problems/2019-B4/notes/thirdpass-v1-manifest.json": "ed672a1a68874ea44c2c4752dad7f1f7ef5e27e496ed4cf40d4f633cc2364b6b"
+  },
+  "independent_files": {
+    "thirdpass-review-2-check.py": "7af3329d1f52e3d6395898b1619aedebe4f77bf241b423a1b493d9b71b9f19a4",
+    "thirdpass-review-2-run.py": "0cf8eae34d52de928267874f420d2d557eb9214870048f7736d47aa3a60be490",
+    "thirdpass-review-2-benchmark.json": "896c19fb4e1bc573cd965d0f9745b345061a6cde6dbf23a84e2e2cef8280a160",
+    "thirdpass-review-2-d7.json": "58bb7e6c3428ee7a0b2b660757013c99732245bff8013ff45c937344ce7843ef"
+  },
+  "results": {
+    "D3_raw": 19,
+    "D3_minimal": 9,
+    "D3_grammar_product_pairs": 31,
+    "D7_raw": 20377,
+    "D7_minimal": 11662,
+    "D7_max_active": 57,
+    "all_D7_strict_inequalities": 11662,
+    "minimum_slack": "2474277709610765473517281655170069565260566278840834"
+  }
+}

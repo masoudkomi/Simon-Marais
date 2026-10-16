@@ -1,0 +1,31 @@
+{
+  "frozen_at_utc": "2026-10-16T21:38:04.824806+00:00",
+  "reviewer": "/root/review_2025_strongfc_r1",
+  "blind_initial_reports_complete": true,
+  "read_deep_literature_report_before_freeze": false,
+  "read_any_other_strongfc_review_before_freeze": false,
+  "prior_guidance": "Assignment generic audit topics and source-manifest Lemma 5 locator; no substantive earlier reviewer conclusion read.",
+  "requested_model": "gpt-6.1-sol",
+  "requested_reasoning": "max",
+  "effective_setting_readback": "unavailable",
+  "status": "candidate source audit - unverified by a second auditor",
+  "source": {
+    "path": ".cache/literature/deep-literature-r1/2025-mihailescu-strong-fermat-catalan-v1.pdf",
+    "bytes": 424143,
+    "sha256": "daba36d8971a346d4cd40d0b823f787034c4a11b67e76258beeb7574e6fe2669"
+  },
+  "files": [
+    {
+      "path": "problems/2025-B4/reviews/strongfc-review-1-blind-v1.md",
+      "bytes": 40291,
+      "sha256": "84754caab660d3813dca115ea22bada2834510b7b2378a976ad4fea9be3f25b6"
+    },
+    {
+      "path": "problems/2025-B4/reviews/strongfc-review-1-issues-blind-v1.json",
+      "bytes": 6684,
+      "sha256": "162e3a3989f45d9ea095c2979420ca4806bc70dd75e384402da838cff18ef73c"
+    }
+  ],
+  "no_git_operations": true,
+  "no_cas_or_search_computations": true
+}

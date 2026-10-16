@@ -1,0 +1,103 @@
+{
+  "audit": "strongfc-review-1-blind-v1",
+  "status": "candidate source audit - unverified by a second auditor",
+  "scope": "2025 B4(b) only; no preliminary (a) work",
+  "read_other_strongfc_review_before_freeze": false,
+  "read_deep_literature_report_before_freeze": false,
+  "effective_setting_readback": "unavailable",
+  "requested_model": "gpt-6.1-sol",
+  "requested_reasoning": "max",
+  "issues": [
+    {
+      "id": "SF1-01",
+      "pdf_pages": [8, 9],
+      "locator": "Lemma 5, passage to chi=beta(t) chi'",
+      "classification": "substantive source integral-divisibility objection",
+      "status": "independently derived by reviewer 1; not promoted",
+      "claim": "Individual divisibilities by beta(t1) and beta(t2) do not give their product. At a characteristic prime where the coefficient n_c>k, v(chi)=mk<mn_c=v(beta(t)), so the asserted chi' is nonintegral.",
+      "repair_limit": "Positive coprime pieces force t=kN and remove the later nonrationality. A new argument is needed.",
+      "actual_diophantine_counterexample": false
+    },
+    {
+      "id": "SF1-02",
+      "pdf_pages": [9],
+      "locator": "Lemma 6, decomposition group intersection and fixed-field containment",
+      "classification": "substantive source group-field inference objection",
+      "status": "independently derived by reviewer 1; not promoted",
+      "claim": "E intersect H'=1 does not imply E subset G'. At p=5,q=3,r=2, a prime of Q(zeta_5) splits completely in Q(zeta_15), while 2 is inert in Q(zeta_3).",
+      "valid_weaker_conclusion": "ord_q(r) divides ord_p(r), away from p and q",
+      "actual_diophantine_counterexample": false
+    },
+    {
+      "id": "SF1-03",
+      "pdf_pages": [7, 8],
+      "locator": "Definition 4 and Lemma 4(3)",
+      "classification": "definition, ring and ideal-multiplicity objection",
+      "status": "independently derived by reviewer 1; not promoted",
+      "claim": "The printed intersection is used as a common-divisor ideal, identity sigma has inconsistent scope, and prime-level invariance is promoted to an integer ideal without multiplicities or ramification checks.",
+      "repair_limit": "Replacing intersection by sum addresses only the first defect; rational ideal and prime-power congruence claims need new proof.",
+      "actual_diophantine_counterexample": false
+    },
+    {
+      "id": "SF1-04",
+      "pdf_pages": [5, 6, 8, 9],
+      "locator": "Fueter basis, Fact 2, norm direction, nonrationality in Lemma 5, J_1 in Lemma 6",
+      "classification": "lattice and small-prime boundary objection",
+      "status": "independently derived by reviewer 1; not promoted",
+      "claim": "The displayed positive Fueters are not anti-invariant; Equation (14) misses N. J_k includes kN. At p=5, J_1={N}, with an exact integral coefficient certificate.",
+      "repair_limit": "A useful non-norm element and argument must be supplied; merely using the explicit weight-2 construction does not suffice at p=5.",
+      "actual_diophantine_counterexample": false
+    },
+    {
+      "id": "SF1-05",
+      "pdf_pages": [7, 8],
+      "locator": "Equation (22) and product of delta_c in Lemma 4",
+      "classification": "exponent and e=1 local-denominator objection",
+      "status": "independently derived by reviewer 1; not promoted",
+      "claim": "Equation (22) omits q on beta. The correct difference has p^(-ek). The p=11, t=psi_1+psi_2 certificate gives product-delta valuation h-1 while w' has valuation h at lambda.",
+      "repair_limit": "The e=1 local assertion needs a substantive replacement; this issue by itself does not affect an argument restricted to e=0.",
+      "actual_diophantine_counterexample": false
+    },
+    {
+      "id": "SF1-06",
+      "pdf_pages": [8],
+      "locator": "Lemma 4(3), trace and positive-sign proof",
+      "classification": "sign and local-ring qualification objection",
+      "status": "independently derived by reviewer 1; not promoted",
+      "claim": "At p=7,t=2psi_2, lambda^t=-7. Rational congruences for Psi and the norm do not imply equality of their residues. Trace division by p-1 needs justification at residue characteristic 2.",
+      "repair_limit": "A Frobenius argument can repair the first residue-field reduction away from ramification, and signs coincide at 2. Neither repairs Lemmas 5 or 6.",
+      "actual_diophantine_counterexample": false
+    },
+    {
+      "id": "SF1-07",
+      "pdf_pages": [4, 6, 7],
+      "locator": "Equations (9), (18), (20)",
+      "classification": "normalization and inconsistent intermediate formula",
+      "status": "independently derived by reviewer 1; not promoted",
+      "claim": "Equation (9) needs a minus sign. Equation (18) has p rather than q and a missing relative part on beta. Restricted even-weight Equation (20) can be reconstructed in both e cases conditional on the classical normalized-generator theorem.",
+      "repair_limit": "Obtain a precise external generator statement and correct the unrestricted formula; this does not repair central later objections.",
+      "actual_diophantine_counterexample": false
+    },
+    {
+      "id": "SF1-08",
+      "pdf_pages": [1, 2, 3],
+      "locator": "Equation (2), Theorem 1, Assumption 1",
+      "classification": "literal domain counterexamples, excluded by intended interpretation",
+      "status": "independently derived by reviewer 1; not promoted",
+      "claim": "X=Y=Z=1,e=0 contradicts the literal no-integer-solutions wording even for distinct odd primes. Equation (2) also fails to repeat q odd; the established official q=2 example lies outside the intended odd-q claim.",
+      "intended_nontrivial_odd_q_counterexample": false,
+      "actual_diophantine_counterexample": "only to literal wording including trivial cases or q=2, not to the intended theorem"
+    }
+  ],
+  "validated_conditional_steps": [
+    "rational gcd and p-adic valuation argument after correcting the printed expansion",
+    "integrality, conjugate coprimality, and A^q=(a) from ideal valuations",
+    "explicit positive Fueter coefficient identities",
+    "restricted even-weight beta^q=a^t, conditional on normalized Weil generators",
+    "Lemma 3 for the unnormalized numerator and positive group-ring t",
+    "pairwise coprimality of capped difference ideals away from q",
+    "Kronecker implication if the missing integral chi' exists",
+    "parity contradiction if the unproved stronger Proposition 1 were established"
+  ],
+  "overall": "Intended theorem proof not reconstructed. No nontrivial odd-q Diophantine counterexample found or asserted. Cannot use the preprint as an established 2025 B4(b) exclusion without resolving substantive gaps and completing two independent audits."
+}

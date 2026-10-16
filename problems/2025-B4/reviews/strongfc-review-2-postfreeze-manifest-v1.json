@@ -1,0 +1,37 @@
+{
+  "recorded_at_utc": "2026-10-16T21:40:50.631915+00:00",
+  "blind_freeze_time_utc": "2026-10-16T21:40:10.602694+00:00",
+  "blind_manifest_sha256": "f37a6a7e9eead4d4a68d75adca0cc970109b5127142806deecdb8fe7fd31722e",
+  "initial_files_unchanged": [
+    {
+      "path": "problems/2025-B4/reviews/strongfc-review-2-blind-report-v1.md",
+      "matches_blind_freeze": true
+    },
+    {
+      "path": "problems/2025-B4/reviews/strongfc-review-2-issues-v1.json",
+      "matches_blind_freeze": true
+    },
+    {
+      "path": "problems/2025-B4/reviews/strongfc-review-2-certificates-v1.py",
+      "matches_blind_freeze": true
+    },
+    {
+      "path": "problems/2025-B4/reviews/strongfc-review-2-certificates-v1.json",
+      "matches_blind_freeze": true
+    },
+    {
+      "path": "problems/2025-B4/reviews/strongfc-review-2-access-log-v1.md",
+      "matches_blind_freeze": true
+    }
+  ],
+  "postfreeze_read": {
+    "path": "problems/2025-B4/notes/deep-literature-r1-report-v1.md",
+    "sha256": "f7f6301ac760bcb97f2e00e0d930ef13dba3e9e66e57450022db3e78513e60ad"
+  },
+  "comparison": {
+    "path": "problems/2025-B4/reviews/strongfc-review-2-postfreeze-comparison-v1.md",
+    "sha256": "c8973e6e3edb75e50a3d2f79a876b7b8b1c9ef0ae1b9f9dc9e0a00b2368a5984"
+  },
+  "other_fresh_strongfc_reviews_read": false,
+  "status": "candidate objections; no promotion"
+}

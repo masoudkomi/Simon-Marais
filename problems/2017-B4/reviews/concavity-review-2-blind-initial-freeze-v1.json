@@ -1,0 +1,95 @@
+{
+  "frozen_utc": "2026-10-16T21:22:31.863032+00:00",
+  "status": "blind independent full report and issue log complete; no substantive C1 objection found; no promotion",
+  "requested_model": "gpt-6.1-sol",
+  "requested_reasoning": "max",
+  "verified_effective_setting_readback": "unavailable",
+  "blind_declaration": {
+    "peer_reports_or_conclusions_seen": false,
+    "constructor_code_or_exact_computational_outputs_seen": false,
+    "constructor_proof_and_construction_manifest_seen": true,
+    "own_full_derivation_completed": true,
+    "own_exact_certificate_completed": true
+  },
+  "weekly_used_percent_at_start_and_freeze": 15,
+  "weekly_reset_unix": 1792745187,
+  "owned_artifacts": [
+    {
+      "path": "problems/2017-B4/reviews/concavity-review-2-blind-issues-v1.md",
+      "bytes": 3069,
+      "sha256": "4b8940c8d1c0dcef9b514b95f5c4544878cc1658b9dff3f1bfbbd0f29ef82a65"
+    },
+    {
+      "path": "problems/2017-B4/reviews/concavity-review-2-blind-report-v1.md",
+      "bytes": 16361,
+      "sha256": "2a03f3226f95b67f28b401f582d509292d2b4070e4992b0a79b567eb302ae30c"
+    },
+    {
+      "path": "problems/2017-B4/reviews/concavity-review-2-blind-sourcechecks-v1.md",
+      "bytes": 6956,
+      "sha256": "b991a2f40520942aa13b0fea7c796f3ca857cb5653728259724119cdcd143989"
+    },
+    {
+      "path": "problems/2017-B4/reviews/concavity-review-2-independent-certificate.json",
+      "bytes": 30862,
+      "sha256": "5802551e479dedc8c064167b34fde9ebd978f901ff23629a711fb8ed28d707f8"
+    },
+    {
+      "path": "problems/2017-B4/reviews/concavity-review-2-independent-check.py",
+      "bytes": 6595,
+      "sha256": "800181e0c2aab7edd2669fd3d4e762413c4e3c47eadda4456316ce0b1a2a1706"
+    },
+    {
+      "path": "problems/2017-B4/reviews/concavity-review-2-independent-job.json",
+      "bytes": 941,
+      "sha256": "2a7ad898971dba9772d2dabdd9dec04d62904d0e31f3a2adc9d49cd984780c15"
+    },
+    {
+      "path": "problems/2017-B4/reviews/concavity-review-2-independent-stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "problems/2017-B4/reviews/concavity-review-2-independent-stdout.txt",
+      "bytes": 666,
+      "sha256": "09ed5ca85dd58af1ae3db74407c65b7d3be345face06d606767fab101d29932b"
+    }
+  ],
+  "read_only_source_inputs": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4271,
+      "sha256": "32ce511aab27061680c98197793b5a9b3ee03a421c822868fad69ea525816257"
+    },
+    {
+      "path": "problems/2017-B4/notes/deep-literature-r2-concavity-candidate-v1.md",
+      "bytes": 10581,
+      "sha256": "07dc9766e56eca4ec3359289a537072d47e6f5ce6b48129538552f54899728fc"
+    },
+    {
+      "path": "problems/2017-B4/notes/deep-literature-r2-concavity-freeze-v1.json",
+      "bytes": 1519,
+      "sha256": "ec9c085810926b24f43c3249653f84b3a43ec72cbb7e148d38f2fd149b9b65b0"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2017-dallant-zone-2502.20909v2.pdf",
+      "bytes": 618656,
+      "sha256": "9ae4886f8b1fce91c6ae8e86c577c5690d0f2ef10355a6524235f95a18dfa03b"
+    },
+    {
+      "path": ".cache/literature/2017/cited-7f7251133b0c4ebc.pdf",
+      "bytes": 257427,
+      "sha256": "9f68329a62318b355cde668eabb9a05073ce755becfdd81dc5a6a15f9db68c26"
+    },
+    {
+      "path": ".cache/official/2017-paper_b.pdf",
+      "bytes": 112458,
+      "sha256": "69d7cf84128c2464d962136ed613808b6c7a7b07122cfba9c06b5adf775e2a68"
+    },
+    {
+      "path": ".cache/official/2017-solutions.pdf",
+      "bytes": 231254,
+      "sha256": "c272a72239ef4c2ccd54df0702140179e0a9b85f5a9028c87d485841eb1a2c12"
+    }
+  ]
+}

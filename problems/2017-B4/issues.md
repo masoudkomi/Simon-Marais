@@ -1,5 +1,7 @@
 # 2017 B4 issue log
 
+The deeper-literature concavity bound below0.649514 is accepted after both fresh initially blind whole audits. All substantive questions are closed in reviews/concavity-acceptance.md. The finite-size source qualification is discharged by B2 initialization and j>=2 summation; the older blue-child wording is discharged by the at-most-one recurrence. Exact rates, limit existence and novelty remain unresolved. Frozen original candidate/review records are preserved.
+
 The second-pass v1.1 packets M1-M3/F1-F3/G1-G2 are accepted partial results after two blind full initial audits, author repair and both targeted re-audits. The exact official rates remain unresolved. Earlier limitations remain scoped below.
 
 | ID | Version / location | Objection | Severity | Repair / evidence | Re-review | Status |

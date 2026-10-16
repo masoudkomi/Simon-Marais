@@ -1,0 +1,208 @@
+{
+  "recorded_utc": "2026-10-16T20:05:47.378696+00:00",
+  "checked_utc_date": "2026-10-16",
+  "requested_model": "gpt-6.1-sol",
+  "requested_reasoning": "max",
+  "effective_settings_readback": "unavailable",
+  "scope": "entire2017B4",
+  "status": "literature/research checkpoint; all new deductions candidate proof - unverified",
+  "sources": [
+    {
+      "url": "https://arxiv.org/pdf/2402.13107v2",
+      "version": "arXiv v2, 2024-03-21; SoCG 2024 DOI 10.4230/LIPIcs.SoCG.2024.43",
+      "checked_utc_date": "2026-10-16",
+      "cache_path": ".cache/literature/deep-literature-r2/2017-ckdfs-2402.13107v2.pdf",
+      "sha256": "075dee678bceb7bddf599d1a402d37c56659bb84302765aa4c6a74b8539b0f17",
+      "bytes": 1082402,
+      "pdf_pages": 19,
+      "read_scope": "Full main text, constructions, Sections 5.1/5.2/6 and reduction inspected; source computations not rerun",
+      "distribution": "local ignored cache only; no redistribution permission inferred"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2502.20909v2",
+      "version": "arXiv v2, 2025-03-07; current record rechecked",
+      "checked_utc_date": "2026-10-16",
+      "cache_path": ".cache/literature/deep-literature-r2/2017-dallant-zone-2502.20909v2.pdf",
+      "sha256": "9ae4886f8b1fce91c6ae8e86c577c5690d0f2ef10355a6524235f95a18dfa03b",
+      "bytes": 618656,
+      "pdf_pages": 12,
+      "read_scope": "All sections inspected; Lemmas 3-7 and exact domain reconstructed into separately frozen unverified candidate",
+      "distribution": "local ignored cache only; no redistribution permission inferred"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2402.13923v1",
+      "version": "arXiv v1, 2024-02-21; merged/superseded lower-bound result",
+      "checked_utc_date": "2026-10-16",
+      "cache_path": ".cache/literature/deep-literature-r2/2017-dallant-lower-2402.13923v1.pdf",
+      "sha256": "036200911c369f8c0cf2923247bb891c8acb490e90653347bc0a19ce47fd51db",
+      "bytes": 1235947,
+      "pdf_pages": 23,
+      "read_scope": "Full text cached and extracted; selected introduction/method sections inspected, not a full independent audit",
+      "distribution": "local ignored cache only; no redistribution permission inferred"
+    },
+    {
+      "url": "https://arxiv.org/pdf/cond-mat/0004145v2",
+      "version": "arXiv v2, 2000-08-25",
+      "checked_utc_date": "2026-10-16",
+      "cache_path": ".cache/literature/deep-literature-r2/2017-destainville-octagonal-0004145v2.pdf",
+      "sha256": "b0f49ffc12908f554232a8545c71ee76f9e7ae1b241f06311ce21baae7a0f85b",
+      "bytes": 456472,
+      "pdf_pages": null,
+      "read_scope": "Definitions, de Bruijn/tiling dictionary, Sections 2.2/3.2/3.3, additive polynomial, entropy/boundary caveats inspected",
+      "distribution": "local ignored cache only; no redistribution permission inferred"
+    },
+    {
+      "url": "https://arxiv.org/pdf/1604.07268v1",
+      "version": "arXiv v1 record 2016-04-25; cached compilation dateline 2018-08-27; SIAM journal 2011 DOI 10.1137/100787246",
+      "checked_utc_date": "2026-10-16",
+      "cache_path": ".cache/literature/deep-literature-r2/2017-zerbib-zone-vertex-1604.07268v1.pdf",
+      "sha256": "21bad3aa81f16eda86d427fa9b5f32d60a3c69fdcbab42fe3be906a821b0fa0e",
+      "bytes": 148731,
+      "pdf_pages": 13,
+      "read_scope": "Theorems 1/2, line/vertex conventions, discharging proof and tight-example scope inspected",
+      "distribution": "local ignored cache only; no redistribution permission inferred"
+    },
+    {
+      "url": "https://arxiv.org/abs/2502.20909",
+      "checked_utc_date": "2026-10-16",
+      "version": null,
+      "result": "Current version remains v2; explicit v1 correction removes n-u<=m from Lemma 3",
+      "cache_path": null,
+      "sha256": null,
+      "hash_limit": "no downloaded original bytes; no hash invented"
+    },
+    {
+      "url": "https://arxiv.org/abs/2402.13107",
+      "checked_utc_date": "2026-10-16",
+      "version": null,
+      "result": "Current version v2; merged independent submissions; publication/version dates checked",
+      "cache_path": null,
+      "sha256": null,
+      "hash_limit": "no downloaded original bytes; no hash invented"
+    },
+    {
+      "url": "https://github.com/fcorteskuehnast/counting-arrangements",
+      "checked_utc_date": "2026-10-16",
+      "version": null,
+      "result": "Author supplemental repository inspected; MIT license, small configuration and LGV script located; not executed",
+      "cache_path": null,
+      "sha256": null,
+      "hash_limit": "no downloaded original bytes; no hash invented"
+    },
+    {
+      "url": "https://scheucher.dev/",
+      "checked_utc_date": "2026-10-16",
+      "version": null,
+      "result": "Current author page inspected; same lower-bound paper located; unrelated 2026 papers not treated as count improvements",
+      "cache_path": null,
+      "sha256": null,
+      "hash_limit": "no downloaded original bytes; no hash invented"
+    },
+    {
+      "url": "https://justindallant.com/",
+      "checked_utc_date": "2026-10-16",
+      "version": null,
+      "result": "Current author publication page inspected; no stronger relevant count result located",
+      "cache_path": null,
+      "sha256": null,
+      "hash_limit": "no downloaded original bytes; no hash invented"
+    },
+    {
+      "url": "https://page.mi.fu-berlin.de/rote/Papers/slides/Oswinfest-2026-Enumeration%2Band%2BCounting%2Bof%2BPseudoline%2BArrangements.pdf",
+      "checked_utc_date": "2026-10-16",
+      "version": "Oswinfest, 2026-03-28; talk date does not establish enumeration date",
+      "result": "167-page primary talk PDF accessible through web tool; pp.18-41 rope/partial-arrangement algorithm and finite C(16) inspected. Normal curl failed twice: 45s and 30s external caps, exit 28, sessions 30769/47562 reaped. No local original bytes.",
+      "cache_path": null,
+      "sha256": null,
+      "hash_limit": "no downloaded original bytes; no hash invented"
+    },
+    {
+      "url": "https://epubs.siam.org/doi/abs/10.1137/100787246",
+      "checked_utc_date": "2026-10-16",
+      "version": null,
+      "result": "Primary journal confirms 2011 publication, straight lines/general position, pp.719-730",
+      "cache_path": null,
+      "sha256": null,
+      "hash_limit": "no downloaded original bytes; no hash invented"
+    },
+    {
+      "url": "https://www2.math.technion.ac.il/~room/ps_files/zonespl.pdf",
+      "checked_utc_date": "2026-10-16",
+      "version": null,
+      "result": "Optional backward-reference web request plus title search did not return before bounded follow-up ended; functions cell 93 terminated. No original zone manuscript obtained or theorem attributed to an unread full text.",
+      "cache_path": null,
+      "sha256": null,
+      "hash_limit": "no downloaded original bytes; no hash invented"
+    },
+    {
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2017-solutions-preliminary_1.pdf",
+      "version": "Official2017 notes",
+      "checked_utc_date": "2026-10-16",
+      "cache_path": ".cache/official/2017-solutions.pdf",
+      "sha256": "c272a72239ef4c2ccd54df0702140179e0a9b85f5a9028c87d485841eb1a2c12",
+      "bytes": 231254,
+      "read_scope": "B4 context/counting convention only, p12; no other problems investigated",
+      "distribution": "pre-existing ignored cache only"
+    }
+  ],
+  "queries_exact_text_retained": [
+    {
+      "searched_utc_date": "2026-10-16",
+      "query": "\"number of pseudoline arrangements\" \"2026\" bound 0.649",
+      "outcome": "Located2026Rote slides and current author references; no new asymptotic theorem located"
+    },
+    {
+      "searched_utc_date": "2026-10-16",
+      "query": "\"pseudoline arrangements\" \"concavity\" Dallant",
+      "outcome": "No direct prior concavity reduction located; not a novelty proof"
+    },
+    {
+      "searched_utc_date": "2026-10-16",
+      "query": "\"On the zone complexity of a vertex\" Zerbib SIAM 2011 719 730",
+      "outcome": "Primary SIAM record/author site verify2011 despite later arXiv posting"
+    }
+  ],
+  "query_log_limit": "Exact retained search strings and source-opening routes are recorded. Earlier discovery traffic summarized in the report is not reconstructed into invented exact search events.",
+  "derived_cache_files": [
+    {
+      "path": ".cache/literature/deep-literature-r2/2017-ckdfs-2402.13107v2.txt",
+      "sha256": "ac11e4172af2a54015faf758d286df3dc9aa08375979444d3ac8be8a6635fdcf",
+      "bytes": 45972,
+      "kind": "locally derived page render or extraction; not an independent source"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2017-dallant-lower-2402.13923v1.txt",
+      "sha256": "fee7b4393d2cd6c40e431049050e2b46f8b4340e0c1bcf76f972b7023fa87c48",
+      "bytes": 41802,
+      "kind": "locally derived page render or extraction; not an independent source"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2017-dallant-zone-2502.20909v2.txt",
+      "sha256": "666e80fa2aafdf4b07910f153f486ff150e4d39404476549bd7aa0220f6e3cec",
+      "bytes": 30914,
+      "kind": "locally derived page render or extraction; not an independent source"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2017-destainville-octagonal-0004145v2.txt",
+      "sha256": "7fa894bbdf694c5855542c72c35bb108b02b69d6a4c2c371a04215935aa24a6a",
+      "bytes": 110570,
+      "kind": "locally derived page render or extraction; not an independent source"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2017-zerbib-zone-vertex-1604.07268v1.txt",
+      "sha256": "b2db289badde922f15c2b174b81304a5720c504353a235d15e1700c681c8cf5d",
+      "bytes": 22390,
+      "kind": "locally derived page render or extraction; not an independent source"
+    }
+  ],
+  "access_policy": "Normal public sources only; no charges, login, author contact, CAPTCHA/bot challenge solution or access bypass. Full third-party files remain ignored .cache/.",
+  "cache_ignore_evidence": ".gitignore contains .cache/ and *.pdf",
+  "telemetry": {
+    "primary_used_percent": 15,
+    "window_minutes": 10080,
+    "resets_at": 1792745187,
+    "cutoff_total_used_percent": 90
+  },
+  "no_shared_edits": true,
+  "no_git_actions": true
+}

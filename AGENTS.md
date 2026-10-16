@@ -8,6 +8,8 @@ Use one coordinator and at most **three active workers**, including reviewers. K
 
 Every proposed proof begins as **candidate proof - unverified**. A full solution must match the official domains, hypotheses, quantifiers, boundary cases, and conclusion. Published work must be attributed and separated from new contributions. Label computations as evidence, never proof of an unrestricted statement.
 
+The user's latest steering prioritizes sustained mathematical reasoning over routine Python test cases. Seek conceptual obstructions, structural lemmas, proof repairs and literature-driven arguments. Use computation for counterexamples, intuition, or finite certificates actually needed by a proof. Do not substitute more enumeration, routine implementation tests or larger tables for confronting an unresolved mathematical inference.
+
 For each candidate proof, obtain two independent adversarial reviewer agents who did not construct it. Their initial reports must be completed without seeing each other's conclusions. One must reconstruct the whole argument. Audit each substantive inference and cited theorem's hypotheses; search for counterexamples and degenerate cases. Maintain an issue log, repair and re-review affected arguments. Only the coordinator may promote a result to **proved, independently reviewed**, after both audits and all substantive objections are resolved. No Lean formalization is required. No absolute-certainty claims.
 
 Save successful and failed approaches, exact computations, commands, dependencies, outputs, proof versions, references and verification dates. Do not overwrite unrelated work. Avoid computational searches that cannot finish within the monitored budget; record parameters and incomplete runs honestly.

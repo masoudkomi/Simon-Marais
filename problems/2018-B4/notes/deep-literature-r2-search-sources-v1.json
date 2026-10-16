@@ -1,0 +1,122 @@
+{
+  "recorded_utc": "2026-10-16T20:05:47.378696+00:00",
+  "checked_utc_date": "2026-10-16",
+  "requested_model": "gpt-6.1-sol",
+  "requested_reasoning": "max",
+  "effective_settings_readback": "unavailable",
+  "scope": "general2018enumeration, no m5 research",
+  "status": "literature/research checkpoint; all new deductions candidate proof - unverified",
+  "sources": [
+    {
+      "url": "https://webhomes.maths.ed.ac.uk/~mhering/HH.pdf",
+      "version": "Author preprint dated2014-01-19, arXiv1211.3941v2; journal2014 DOI10.1007/s00209-013-1272-4",
+      "checked_utc_date": "2026-10-16",
+      "cache_path": ".cache/literature/deep-literature-r2/2018-hering-howard-author-2014.pdf",
+      "sha256": "3b563c83eabd16e71ead12620cacbe3a9493b4ec28acae42ace1e0e9f03ba71c",
+      "bytes": 395355,
+      "pdf_pages": 19,
+      "read_scope": "Theorem1.1/1.2, Proposition3.2 full proof, relevant Sections2/4/5 and Remarks3.6/3.7 inspected",
+      "distribution": "local ignored cache only; no redistribution permission inferred"
+    },
+    {
+      "url": "https://seminariomatematico.polito.it/rendiconti/71-1/119.pdf",
+      "version": "Rend.Sem.Mat.71(2013),119-194; arXiv1305.2749",
+      "checked_utc_date": "2026-10-16",
+      "cache_path": ".cache/literature/2018/review-2/ottaviani.pdf",
+      "sha256": "8e6e11d3105670a7b6fa00df0a3e8665770001276e64bd776e10f58f70812cb4",
+      "bytes": 663492,
+      "read_scope": "Theorem40 printedp186/PDFp68, parity/grading conventions and attribution to Howe inspected; source PDF only, no peer review conclusion used",
+      "distribution": "pre-existing ignored cache only"
+    },
+    {
+      "url": "https://austms.org.au/wp-content/uploads/2025/02/Mar19-461.pdf",
+      "version": "Gazette46(1),March2019, articleprintedpp33-34",
+      "checked_utc_date": "2026-10-16",
+      "cache_path": ".cache/literature/deep-literature-r2/2018-henderson-gazette-mar2019.pdf",
+      "sha256": "4549be7f099286858684f7120ac4a5cfd6f793b459c823795eb15ed9523cf529",
+      "bytes": 1616478,
+      "pdf_pages": 84,
+      "read_scope": "Full issue cached; B4 paragraph onPDFp36/printedp34 directly extracted; webOCR shape error not adopted",
+      "distribution": "local ignored cache only; no redistribution permission inferred"
+    },
+    {
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2018-solutions_1.pdf",
+      "version": "Official2018 notes",
+      "checked_utc_date": "2026-10-16",
+      "cache_path": ".cache/official/2018-solutions.pdf",
+      "sha256": "b19562352d09bf6fbb43974339b82c2a59c0d2276eb69f357a752772ce0f83cb",
+      "bytes": 210584,
+      "read_scope": "Only B4 general-context commentspp16-17 used; preliminary case not researched/reproduced",
+      "distribution": "pre-existing ignored cache only"
+    },
+    {
+      "url": "https://www.ams.org/books/pspum/048/",
+      "checked_utc_date": "2026-10-16",
+      "version": null,
+      "result": "Normal publisher request failed/403; original Howe chapter not read",
+      "cache_path": null,
+      "sha256": null,
+      "hash_limit": "no downloaded original bytes; no hash invented"
+    },
+    {
+      "url": "https://doi.org/10.1090/pspum/048/974333",
+      "checked_utc_date": "2026-10-16",
+      "version": null,
+      "result": "Normal DOI/publisher route failed; no full original Howe theorem claimed",
+      "cache_path": null,
+      "sha256": null,
+      "hash_limit": "no downloaded original bytes; no hash invented"
+    },
+    {
+      "url": "https://arxiv.org/abs/1211.3941",
+      "checked_utc_date": "2026-10-16",
+      "version": "v2,2014-01-19",
+      "result": "Version/date checked against authorPDF and existing verified references",
+      "cache_path": null,
+      "sha256": null,
+      "hash_limit": "no downloaded original bytes; no hash invented"
+    }
+  ],
+  "queries_exact_text_retained": [
+    {
+      "searched_utc_date": "2026-10-16",
+      "query": "\"Howe\" \"The classical groups and invariants of binary forms\" pdf",
+      "outcome": "Located citations/AMS metadata; no legal full original obtained"
+    },
+    {
+      "searched_utc_date": "2026-10-16",
+      "query": "\"Simon Marais\" \"2018\" \"B4\" \"Hering\"",
+      "outcome": "No official explanation/correction of historical open-label discrepancy located"
+    },
+    {
+      "searched_utc_date": "2026-10-16",
+      "query": "\"Kostka\" \"2018 Simon Marais\" explicit formula",
+      "outcome": "Located contemporaryHenderson report; originalPDF confirms exact target"
+    }
+  ],
+  "query_log_limit": "Exact retained search strings and source-opening routes are recorded. Earlier discovery traffic summarized in the report is not reconstructed into invented exact search events.",
+  "derived_cache_files": [
+    {
+      "path": ".cache/literature/deep-literature-r2/2018-henderson-B4-context.txt",
+      "sha256": "5380abfe7f1f5256de4f34d1f113380ffcb447b36152bc1bde87930e3351b345",
+      "bytes": 2669,
+      "kind": "locally derived page render or extraction; not an independent source"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2018-hering-howard-author-2014.txt",
+      "sha256": "1e87d8d84e09bd487165b2898396b6a2dfb72b3ddeb3a0bf1865c87d74b79a18",
+      "bytes": 51558,
+      "kind": "locally derived page render or extraction; not an independent source"
+    }
+  ],
+  "access_policy": "Normal public sources only; no charges, login, author contact, CAPTCHA/bot challenge solution or access bypass. Full third-party files remain ignored .cache/.",
+  "cache_ignore_evidence": ".gitignore contains .cache/ and *.pdf",
+  "telemetry": {
+    "primary_used_percent": 15,
+    "window_minutes": 10080,
+    "resets_at": 1792745187,
+    "cutoff_total_used_percent": 90
+  },
+  "no_shared_edits": true,
+  "no_git_actions": true
+}

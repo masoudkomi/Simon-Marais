@@ -40,6 +40,8 @@ Recheck before launching each group, during sustained work, before expensive com
 
 | 2026-10-16 approximately 17:10 UTC | 13% | 87% | Same reset; deeper literature work across all years added alongside research and review. |
 | 2026-10-16 17:24:59 UTC | 14% | 86% | Same reset; J16 accepted, literature reports and two fresh blind 2019 reviews continue. |
+| 2026-10-16 21:14:13 UTC | 15% | 85% | Same reset; host-delayed tool call returned; both2019audits complete and new2017reviews launched. |
+| 2026-10-16 21:37:51 UTC | 16% | 84% | Same reset;2017/2019 refinements accepted; structural2021reasoning and two whole2025source audits continue. |
 
 User clarification during the initial group: investigate only the explicitly open portion of B4. This narrows mathematical targets, not the weekly cutoff.
 
@@ -52,3 +54,5 @@ Research has not stopped at the cutoff. Record the final observed usage and actu
 The user requested explicit token reporting. The 17:07 UTC snapshot records **255,675,838 total tokens**, including **242,026,752 cached input**, **11,430,007 uncached input**, and **2,219,079 output** (reasoning included). Uncached input plus output is **13,649,086**. This sums deduplicated own-thread per-response usage across the coordinator and all spawned descendants; each of the 49 recorded session totals matched its cumulative counter. It counts repeated context, not unique text. See token-usage-2026-10-16-1707.json and the newer timestamped snapshot. These are local observations during active execution, not billing or a conversion to weekly allowance. The 90% cutoff continues to use authoritative account-wide percentage telemetry. Reproduce a fresh snapshot with `.venv/bin/python tools/report_project_tokens.py --output progress/token-usage-latest.json` in this chat, or supply `--root-thread-id` for an explicit root. No prompts, account identifiers or raw logs are exported.
 
 At **17:31:36 UTC**, the latest audit records **298,729,173 total tokens**: **283,106,816 cached input**, **13,177,156 uncached input**, and **2,445,201 output**, including reasoning. Uncached input plus output is **15,622,357**. All51 session sums matched their own cumulative counters;51 sessions are historical launches, not simultaneous agents. See `token-usage-latest.json`. In-flight unreported usage is excluded.
+
+At **21:39:37 UTC**, the refreshed audit records **327,243,804 total**:309,796,864 cached input,14,724,214 uncached input and2,722,726 output. Output includes **1,180,857 reasoning tokens**, a subset rather than an added category. Uncached input plus output is17,446,940. All57 recorded session sums match cumulative counters; no billing or weekly conversion is inferred. The user requested greater emphasis on mathematical reasoning; Max remains the requested worker setting, with no independent effective-setting readback.

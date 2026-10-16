@@ -1,0 +1,28 @@
+{
+  "completed_utc": "2026-10-16T21:23:38.068636+00:00",
+  "status": "all post-freeze comparisons passed",
+  "blind_freeze_sha256": "aa69df336924f90c3ccfa139e6d487105083939df7be0be90c7fd53ec9e184a2",
+  "constructor_certificate_sha256": "8b5222a9240d6d6dd8126ccaaff8a2585523f1914e8e4b2932b6ae07fa14714f",
+  "constructor_code_executed": false,
+  "constructor_files_modified": false,
+  "method": "Own frozen logarithm routine, N=80, and exact Fraction endpoint comparisons; original blind run used N=96",
+  "checks": {
+    "ln2_80_exact_recomputed_match": true,
+    "ln2_96_interval_nested_inside_80": true,
+    "ln32over7_80_exact_recomputed_match": true,
+    "ln32over7_96_interval_nested_inside_80": true,
+    "ln79over58_80_exact_recomputed_match": true,
+    "ln79over58_96_interval_nested_inside_80": true,
+    "lnA_80_exact_recomputed_match": true,
+    "lnA_96_interval_nested_inside_80": true,
+    "ln3over2_80_exact_recomputed_match": true,
+    "ln3over2_96_interval_nested_inside_80": true,
+    "phi_80_derived_endpoints_match": true,
+    "derivative_80_derived_endpoints_match": true,
+    "quarter_80_derived_upper_matches": true,
+    "constructor_phi_upper_below_target": true,
+    "constructor_derivative_strictly_positive_small": true,
+    "constructor_quarter_upper_below_target": true,
+    "objective_half_equals_limsup_target": true
+  }
+}

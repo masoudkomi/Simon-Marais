@@ -1,0 +1,524 @@
+{
+  "recorded_utc": "2026-10-16T20:05:47.378696+00:00",
+  "checked_utc_date": "2026-10-16",
+  "requested_model": "gpt-6.1-sol",
+  "requested_reasoning": "max",
+  "effective_settings_readback": "unavailable",
+  "scope": "2024B4partb only",
+  "status": "literature/research checkpoint; all new deductions candidate proof - unverified",
+  "sources": [
+    {
+      "url": "https://thesis.caltech.edu/4053/01/McGuire_gm_1995.pdf",
+      "version": "CaltechPhD1995, DOI10.7907/1CZ2-6S05",
+      "checked_utc_date": "2026-10-16",
+      "cache_path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995.pdf",
+      "sha256": "d8e8e62d873c5ec69e2fd40473a9aee257bb8d4994cb5ffc1a42cb70f8bcbd24",
+      "bytes": 2610589,
+      "pdf_pages": 97,
+      "read_scope": "ScannedPDF; visually inspectedPDFpp4-7,11-16,18-38; exactg_t definition, original-authorJMW correspondence, fullThm2.1prime/6/7/8 proofs, Proposition9. Not all97pages or laterchapter proofs audited.",
+      "distribution": "local ignored cache only; no redistribution permission inferred"
+    },
+    {
+      "url": "https://arxiv.org/pdf/1612.05997v1",
+      "version": "arXivv1,2016-12-18",
+      "checked_utc_date": "2026-10-16",
+      "cache_path": ".cache/literature/deep-literature-r2/2024-delgado-janwa-1612.05997v1.pdf",
+      "sha256": "9704f18d5acbec194e89ab26eed3c0a39d944a3de0c73896e4a05269c18528d9",
+      "bytes": 191161,
+      "pdf_pages": 14,
+      "read_scope": "Full definitions and Section3 eq5/6, statedcomponentfields/specialization; perturbation scope distinguished from puremonomialtarget",
+      "distribution": "local ignored cache only; no redistribution permission inferred"
+    },
+    {
+      "url": "https://combinatorialpress.com/article/cn/Volume%20232/vol-232-paper%204.pdf",
+      "version": "CongressusNumerantium232(2019), advertisedpp101-112",
+      "checked_utc_date": "2026-10-16",
+      "cache_path": ".cache/literature/deep-literature-r2/2024-delgado-janwa-fermat-cn232.pdf",
+      "sha256": "9202870553250933ae483030b656c86a878fb3e735387b74ed82fd0316a011ce",
+      "bytes": 4870792,
+      "pdf_pages": 10,
+      "read_scope": "All10scannedPDFpages visually inspected; printedpages101,102,104-111, so scan omits103 and advertised112. Not a complete theorem-proof source.",
+      "distribution": "local ignored cache only; no redistribution permission inferred"
+    },
+    {
+      "url": "https://api.archives-ouvertes.fr/search/?q=halId_s:hal-03417811&fl=title_s,uri_s,fileMain_s,openAccess_bool,docType_s,linkExtUrl_s,doiId_s,version_i&wt=json",
+      "version": "NormalpublicHALAPI queried2026-10-16; recordv1",
+      "checked_utc_date": "2026-10-16",
+      "cache_path": ".cache/literature/deep-literature-r2/2024-ferard-sequel-hal-api.json",
+      "sha256": "dc2dd26283c59b46bd921d2ee7645878a83d623998f51512a925989870295fda",
+      "bytes": 446,
+      "pdf_pages": null,
+      "read_scope": "numFound1, openAccess_boolfalse, nofileMain; metadataonly",
+      "distribution": "local ignored cache only; no redistribution permission inferred"
+    },
+    {
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc_2024_solutions.pdf",
+      "version": "Official2024 solutions",
+      "checked_utc_date": "2026-10-16",
+      "cache_path": ".cache/official/2024-solutions.pdf",
+      "sha256": "1566dc8c2088cbbc851f7c91d357f9c453f2d28578df7694aa9a13584a80eed2",
+      "bytes": 274257,
+      "read_scope": "B4headingPDFp15/printedp14 explicitPeterMcNamara; partb domains/nonconstantmod2 requirement; preliminary proof not reproduced",
+      "distribution": "pre-existing ignored cache only"
+    },
+    {
+      "url": "https://thesis.caltech.edu/4053/",
+      "checked_utc_date": "2026-10-16",
+      "version": null,
+      "result": "Public original-author thesis record, degree/year/DOI/filelink verified",
+      "cache_path": null,
+      "sha256": null,
+      "hash_limit": "no downloaded original bytes; no hash invented"
+    },
+    {
+      "url": "https://authors.library.caltech.edu/records/wcxdz-pkj80",
+      "checked_utc_date": "2026-10-16",
+      "version": null,
+      "result": "JW1993record explicitlymetadata-only, noPDFdownload",
+      "cache_path": null,
+      "sha256": null,
+      "hash_limit": "no downloaded original bytes; no hash invented"
+    },
+    {
+      "url": "https://link.springer.com/chapter/10.1007/3-540-56686-4_43",
+      "checked_utc_date": "2026-10-16",
+      "version": null,
+      "result": "Subscriptionpreview expresslylabelled; full1993chapter not obtained; online2005metadata not publicationyear",
+      "cache_path": null,
+      "sha256": null,
+      "hash_limit": "no downloaded original bytes; no hash invented"
+    },
+    {
+      "url": "https://www.sciencedirect.com/science/article/pii/S0021869385713725",
+      "checked_utc_date": "2026-10-16",
+      "version": null,
+      "result": "Normaljournalpage unavailable; JMW1995originaljournalPDFnotread, originalauthorparallelthesisobtained",
+      "cache_path": null,
+      "sha256": null,
+      "hash_limit": "no downloaded original bytes; no hash invented"
+    },
+    {
+      "url": "https://www.aimsciences.org/article/doi/10.3934/amc.2014.8.497",
+      "checked_utc_date": "2026-10-16",
+      "version": "Férard2014",
+      "result": "Primaryabstractonly; fullqualificationsnotverified; normalPDFnavigationaccesslimitrespected",
+      "cache_path": null,
+      "sha256": null,
+      "hash_limit": "no downloaded original bytes; no hash invented"
+    },
+    {
+      "url": "https://gaati.org/publications/fr/",
+      "checked_utc_date": "2026-10-16",
+      "version": null,
+      "result": "PrimarylabpublicationlistidentifiesHAL01779804,03417811,03417866; noindividualsetterinference",
+      "cache_path": null,
+      "sha256": null,
+      "hash_limit": "no downloaded original bytes; no hash invented"
+    },
+    {
+      "url": "https://gaati.org/ferard/",
+      "checked_utc_date": "2026-10-16",
+      "version": null,
+      "result": "Normalprospectiveauthorpage request internalerror; noaccessworkaround",
+      "cache_path": null,
+      "sha256": null,
+      "hash_limit": "no downloaded original bytes; no hash invented"
+    },
+    {
+      "url": "https://hal.science/hal-01779804",
+      "checked_utc_date": "2026-10-16",
+      "version": null,
+      "result": "Normalrecordanti-bot/error; priornormalAPIopenaccessflagwithoutfileMain; /document404. Fulltextnotobtained",
+      "cache_path": null,
+      "sha256": null,
+      "hash_limit": "no downloaded original bytes; no hash invented"
+    },
+    {
+      "url": "https://doi.org/10.1007/s12095-017-0213-1",
+      "checked_utc_date": "2026-10-16",
+      "version": "Férard2017II",
+      "result": "Sequelabstractmetadataonly; exactthreshold/excludedformsunread",
+      "cache_path": null,
+      "sha256": null,
+      "hash_limit": "no downloaded original bytes; no hash invented"
+    },
+    {
+      "url": "https://doi.org/10.1090/conm/686/13777",
+      "checked_utc_date": "2026-10-16",
+      "version": null,
+      "result": "Distinct2017Kasamiperturbationpaper identifiedthroughreferences; fulltextnotinspected",
+      "cache_path": null,
+      "sha256": null,
+      "hash_limit": "no downloaded original bytes; no hash invented"
+    }
+  ],
+  "queries_exact_text_retained": [
+    {
+      "searched_utc_date": "2026-10-16",
+      "query": "Gary McGuire 1995 thesis Absolutely Irreducible Curves Applications Combinatorics Coding Theory Caltech thesis",
+      "outcome": "Locatedlegalfulloriginalauthorthesis, downloadedandvisuallyreadrelevanttheorems"
+    },
+    {
+      "searched_utc_date": "2026-10-16",
+      "query": "Janwa Wilson 1993 Hyperplane sections Fermat varieties odd characteristic two download author pdf",
+      "outcome": "Caltechmetadataonly/Springersubscriptionpreview; nofulloriginal"
+    },
+    {
+      "searched_utc_date": "2026-10-16",
+      "query": "Férard Rodier 2014 irreducibility multivariate polynomials differential cryptanalysis t 5 modulo 8 13",
+      "outcome": "Primaryabstractandlatercitations, nofullpremise"
+    },
+    {
+      "searched_utc_date": "2026-10-16",
+      "query": "\"Férard\" \"hyperplane sections\" \"2014\" pdf",
+      "outcome": "Publisher/lab/metadata routes; originalfulltextstillunobtained"
+    },
+    {
+      "searched_utc_date": "2026-10-16",
+      "query": "\"Férard\" \"Fermat varieties\" \"II\" pdf",
+      "outcome": "Distinct2017sequel/HALrecord; APIshowsclosedmetadata"
+    },
+    {
+      "searched_utc_date": "2026-10-16",
+      "query": "\"On the irreducibility\" \"Férard\" \"pdf\" -site:researchgate.net -site:aimsciences.org -site:dblp.org -site:dblp.dagstuhl.de -site:scispace.com",
+      "outcome": "Noadditionalverifiedlegalfulltextlocated"
+    }
+  ],
+  "query_log_limit": "Exact retained search strings and source-opening routes are recorded. Earlier discovery traffic summarized in the report is not reconstructed into invented exact search events.",
+  "derived_cache_files": [
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-delgado-janwa-fermat-cn232-01.png",
+      "sha256": "86901b46585f9509facf10667a8b82d6fb5b6d43a9a1815262d29f6b12839fd3",
+      "bytes": 582935,
+      "kind": "locally derived page render or extraction; not an independent source"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-delgado-janwa-fermat-cn232-02.png",
+      "sha256": "458f3dff9f53c7606833904eb4d3bac446151fe8d282b40479f34b26a153bf66",
+      "bytes": 550507,
+      "kind": "locally derived page render or extraction; not an independent source"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-delgado-janwa-fermat-cn232-03.png",
+      "sha256": "3a9f54d73cd53df4a1f37f0c02851251cb13d6a2f56b65e4033866634751c293",
+      "bytes": 626230,
+      "kind": "locally derived page render or extraction; not an independent source"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-delgado-janwa-fermat-cn232-04.png",
+      "sha256": "ac59ba1791344d498a552381fe1188eb4b9c6a4ebff6e09de0d92734aa12d1c8",
+      "bytes": 607797,
+      "kind": "locally derived page render or extraction; not an independent source"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-delgado-janwa-fermat-cn232-05.png",
+      "sha256": "b8a168be7732490f2ca456f35c15858ba2693ff1f44652ff6a820fd948259d3e",
+      "bytes": 609607,
+      "kind": "locally derived page render or extraction; not an independent source"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-delgado-janwa-fermat-cn232-06.png",
+      "sha256": "b1a323cfcb8c5f32a5fe1bb10de5378c9f006253c9e8cb05d4ca7d125f3b2455",
+      "bytes": 632597,
+      "kind": "locally derived page render or extraction; not an independent source"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-delgado-janwa-fermat-cn232-07.png",
+      "sha256": "5b5c31d6906f3a3c7c70d209564ee9f8c9af147f4b4b9853a37a5d06b6965873",
+      "bytes": 569134,
+      "kind": "locally derived page render or extraction; not an independent source"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-delgado-janwa-fermat-cn232-08.png",
+      "sha256": "a5e70078d54bdf8a7642a547875a5bd1c4b626e77e82705f878f193737a2eef3",
+      "bytes": 640705,
+      "kind": "locally derived page render or extraction; not an independent source"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-delgado-janwa-fermat-cn232-09.png",
+      "sha256": "c40e396aafe9fd2e82e33fae9aeb24d5dc16ef6a6044dc99ede991bad40ad6a5",
+      "bytes": 660753,
+      "kind": "locally derived page render or extraction; not an independent source"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-delgado-janwa-fermat-cn232-10.png",
+      "sha256": "06292956fb17d3720498e0a9791bd1fde357c2f2348bd4413bcadcdd83d00d38",
+      "bytes": 256210,
+      "kind": "locally derived page render or extraction; not an independent source"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-03.png",
+      "sha256": "ca5ec84950eae2975e7a3df2336321f56027afe835e8992289a3c647a9ccf976",
+      "bytes": 80570,
+      "kind": "locally derived page render or extraction; not an independent source"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-04.png",
+      "sha256": "3521ae7674646144dc12fe5350350ee0c24ba7f07eec50f4570134da534a8a31",
+      "bytes": 47638,
+      "kind": "locally derived page render or extraction; not an independent source"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-05.png",
+      "sha256": "a502771e0b714629f43a2d4adce600c39ea72f90cc73cb6494f043d805e6c663",
+      "bytes": 42466,
+      "kind": "locally derived page render or extraction; not an independent source"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-06.png",
+      "sha256": "b73f2f8b2175d56dd30b076673052ea9f8dc79aa2f0c74a66e0e0bdecad43a66",
+      "bytes": 58430,
+      "kind": "locally derived page render or extraction; not an independent source"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-07.png",
+      "sha256": "a3ea7a6e5574f48e89e91b37da500c50a6bd4ff2dc7140036927a645e69ef038",
+      "bytes": 86381,
+      "kind": "locally derived page render or extraction; not an independent source"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-11.png",
+      "sha256": "5c0db1a7ae162691512e8f363a1da82a617302cdae8d5a3b5de8dc738addcd16",
+      "bytes": 64507,
+      "kind": "locally derived page render or extraction; not an independent source"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-12.png",
+      "sha256": "49d5128a97dc3ec1f30493938708cbc62e39d71522d2b66757bdc89c1f68909d",
+      "bytes": 109588,
+      "kind": "locally derived page render or extraction; not an independent source"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-13.png",
+      "sha256": "78088c33575fd89fb0fe54aff4c0e7c575652babb0c75c9ceee93b691703f8a7",
+      "bytes": 104720,
+      "kind": "locally derived page render or extraction; not an independent source"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-14.png",
+      "sha256": "e0fcbc6bf13f0c262b511f46fde088cea64f8c2a42aca41a27973294d6b1df8f",
+      "bytes": 97174,
+      "kind": "locally derived page render or extraction; not an independent source"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-15.png",
+      "sha256": "1fd54570b0475f15334b3c43bd4193a1c9feb2209a7e2644eb2fae67049bba06",
+      "bytes": 121397,
+      "kind": "locally derived page render or extraction; not an independent source"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-16.png",
+      "sha256": "d17cf43e9e83037caa5a266ad862322229b8e461c268f3c0e3c32aaf03f99bb6",
+      "bytes": 73835,
+      "kind": "locally derived page render or extraction; not an independent source"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-17.png",
+      "sha256": "984791d15d9de4faf197b8db2ed45153a58f4b02a13d7d0de94639409fbc0dde",
+      "bytes": 64930,
+      "kind": "locally derived page render or extraction; not an independent source"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-18.png",
+      "sha256": "629fba731a8a43732df2b4e36cbf71b9a9757a8d239e5787ebeae6b679ac2016",
+      "bytes": 122573,
+      "kind": "locally derived page render or extraction; not an independent source"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-19.png",
+      "sha256": "0fcf4850ccbffc6ac77a7bb387d59bc29901f49e3d561951b2d3689a66928325",
+      "bytes": 120436,
+      "kind": "locally derived page render or extraction; not an independent source"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-20.png",
+      "sha256": "b33260e32ae214f4f4d26e4e7f79f956f3615297b253c627aeac7e8f4f750475",
+      "bytes": 113286,
+      "kind": "locally derived page render or extraction; not an independent source"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-21.png",
+      "sha256": "6b12ece130a5a99f281ce989a77b5c01d53a9035f5666b2f48942e15d5316bbd",
+      "bytes": 98268,
+      "kind": "locally derived page render or extraction; not an independent source"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-22.png",
+      "sha256": "1d7b62828564b5dbb08efb6861903e3338d1fdfede491bf13f89d53067bf021f",
+      "bytes": 103970,
+      "kind": "locally derived page render or extraction; not an independent source"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-23.png",
+      "sha256": "4fb9388c5944705e712fdf11b6f7c4e07bd55efb954d43dfcea12d8b7a5e2ded",
+      "bytes": 97033,
+      "kind": "locally derived page render or extraction; not an independent source"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-24.png",
+      "sha256": "d07f0c310f51372423297698546aaae6aa410336c687cb29a572ea7900210ef3",
+      "bytes": 95716,
+      "kind": "locally derived page render or extraction; not an independent source"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-25.png",
+      "sha256": "e568d042b5400a53bd865f4987124e19c17b3ab605480c562ec46a6f1634aa18",
+      "bytes": 92905,
+      "kind": "locally derived page render or extraction; not an independent source"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-26.png",
+      "sha256": "0f70d8cb861f4b346c97a646791bb90ba2fcec3a650971e6b4ec15871899f632",
+      "bytes": 94331,
+      "kind": "locally derived page render or extraction; not an independent source"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-27.png",
+      "sha256": "f52d563963cc663b81712adea05a6f7ca6fcec49c2bf0d4969d9170142f4eedc",
+      "bytes": 117045,
+      "kind": "locally derived page render or extraction; not an independent source"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-28.png",
+      "sha256": "781ea82c5bbd4daf41cb6a4ad5771a9d9dfa899c8f7bf37f8b4428ab18bb708d",
+      "bytes": 109689,
+      "kind": "locally derived page render or extraction; not an independent source"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-29.png",
+      "sha256": "edb2c7908b91cd9660a642182ada3368d8c158943dc7f9ac5d683887f42d1291",
+      "bytes": 106413,
+      "kind": "locally derived page render or extraction; not an independent source"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-30.png",
+      "sha256": "17ef8e3e1059bd3ef92b476de626ed09348e82b3c9a2250e7b092816b2fa8002",
+      "bytes": 109501,
+      "kind": "locally derived page render or extraction; not an independent source"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-31.png",
+      "sha256": "cc2748e9d2d00e31a2ab5dfb6e0d7650e52c75133863430d2e3ce1c037c570b8",
+      "bytes": 73663,
+      "kind": "locally derived page render or extraction; not an independent source"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-32.png",
+      "sha256": "0e11e723f9aa35ba663563a2694f29bedd0e801aa3b02e046c2171b2e048a862",
+      "bytes": 94468,
+      "kind": "locally derived page render or extraction; not an independent source"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-33.png",
+      "sha256": "4808ce853fe0aa3615710fb595c893e0faee40f31637df3cc6cec574580f53fb",
+      "bytes": 104895,
+      "kind": "locally derived page render or extraction; not an independent source"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-34.png",
+      "sha256": "cd0fb303b62c4174e609683b0813ef3f21305cbf0ffb680866265c143eec8597",
+      "bytes": 109495,
+      "kind": "locally derived page render or extraction; not an independent source"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-35.png",
+      "sha256": "a51daacc4d14ba146a895672daa137672de8edcbc116949f215fdebbbcfd80d5",
+      "bytes": 118247,
+      "kind": "locally derived page render or extraction; not an independent source"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-36.png",
+      "sha256": "bacfd2c6b835ad29146f42a0ef952f0813bba9e380187137978f947443fe5052",
+      "bytes": 110131,
+      "kind": "locally derived page render or extraction; not an independent source"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-37.png",
+      "sha256": "3de0a6f22cb4b474163a836d7468adea3208218ea21f533ce5011c327bbdd677",
+      "bytes": 101966,
+      "kind": "locally derived page render or extraction; not an independent source"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-38.png",
+      "sha256": "457f17f1c4e92b9a0feca3e3a408d81da3a1b47efb4b0fdf62233b41ee2b10ee",
+      "bytes": 100153,
+      "kind": "locally derived page render or extraction; not an independent source"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-39.png",
+      "sha256": "f07524e04ccbb3acf13a1b76c09bcbeda32c9897bd810f115415f8f4a9820abc",
+      "bytes": 112660,
+      "kind": "locally derived page render or extraction; not an independent source"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-40.png",
+      "sha256": "ddd81d64f2dd4181e5fd0529c87d21b64a09b45812438c56edb5c954afc1cd65",
+      "bytes": 97019,
+      "kind": "locally derived page render or extraction; not an independent source"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-41.png",
+      "sha256": "35c80f382d9373722b991c9e8f4daf252dfa252c72c6a303966d889af5ffe2f7",
+      "bytes": 98182,
+      "kind": "locally derived page render or extraction; not an independent source"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-42.png",
+      "sha256": "b2529dadaf4c7623540ed72152764a889a4974133e2aa5831ed9529f9af6a5be",
+      "bytes": 96613,
+      "kind": "locally derived page render or extraction; not an independent source"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-43.png",
+      "sha256": "e4dc8e2b9d827b5093fc62b32731b4084b8207b500f92394e102e8ef0023fc44",
+      "bytes": 94709,
+      "kind": "locally derived page render or extraction; not an independent source"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-44.png",
+      "sha256": "0a9b70356192a169a05be193cd4be39cf181d9fdec821e5c5c4908477acf3cb8",
+      "bytes": 110799,
+      "kind": "locally derived page render or extraction; not an independent source"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-45.png",
+      "sha256": "f3d045b7c767fe1341cc6d8102ccc06c717bdfa444ee9deb115908e5017c0971",
+      "bytes": 110816,
+      "kind": "locally derived page render or extraction; not an independent source"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-46.png",
+      "sha256": "f9802d6dab0b5cf583b9ddd93fe66623f9c7d5ecec4b6f8c3ef42ef5c8777829",
+      "bytes": 102252,
+      "kind": "locally derived page render or extraction; not an independent source"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-delgado-janwa-1612.05997v1.txt",
+      "sha256": "fd019b4b1151d4ce2dbccc1fb1cf3fdefbafa659f562f7f50d48359d7ea24ba3",
+      "bytes": 27161,
+      "kind": "locally derived page render or extraction; not an independent source"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-delgado-janwa-fermat-cn232.txt",
+      "sha256": "4d2b7719ae213397642ce8dc4ba7ed452bcfb65d12632e9ad0b81d923d09ce4a",
+      "bytes": 210,
+      "kind": "locally derived page render or extraction; not an independent source"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995.txt",
+      "sha256": "9c1fa79723c024fc8c8074eae8eafedc7f17cbb0f36e5e865437a09cf000e25f",
+      "bytes": 2124,
+      "kind": "locally derived page render or extraction; not an independent source"
+    }
+  ],
+  "access_policy": "Normal public sources only; no charges, login, author contact, CAPTCHA/bot challenge solution or access bypass. Full third-party files remain ignored .cache/.",
+  "cache_ignore_evidence": ".gitignore contains .cache/ and *.pdf",
+  "telemetry": {
+    "primary_used_percent": 15,
+    "window_minutes": 10080,
+    "resets_at": 1792745187,
+    "cutoff_total_used_percent": 90
+  },
+  "no_shared_edits": true,
+  "no_git_actions": true
+}

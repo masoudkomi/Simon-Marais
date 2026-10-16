@@ -1,0 +1,62 @@
+{
+  "status": "blind initial audit frozen; candidate objections independently unreviewed",
+  "frozen_at_utc": "2026-10-16T21:40:10.602694+00:00",
+  "reviewer": "review_2025_strongfc_r2",
+  "requested_model": "gpt-6.1-sol",
+  "requested_reasoning": "max",
+  "effective_setting_readback": "unavailable",
+  "blindness": {
+    "peer_strongfc_review_contents_read": false,
+    "deep_literature_r1_source_concerns_read": false,
+    "source_manifest_read_for_cache_location": true
+  },
+  "source": {
+    "url": "https://arxiv.org/abs/2509.18275v1",
+    "path": ".cache/literature/deep-literature-r1/2025-mihailescu-strong-fermat-catalan-v1.pdf",
+    "bytes": 424143,
+    "sha256": "daba36d8971a346d4cd40d0b823f787034c4a11b67e76258beeb7574e6fe2669",
+    "pages": 10
+  },
+  "files": [
+    {
+      "path": "problems/2025-B4/reviews/strongfc-review-2-blind-report-v1.md",
+      "bytes": 30112,
+      "sha256": "7906dbca26680dae0cff7e6c8328507870b2f3062b9e3a459a4ea5edd3b470c3"
+    },
+    {
+      "path": "problems/2025-B4/reviews/strongfc-review-2-issues-v1.json",
+      "bytes": 8617,
+      "sha256": "7a4d03a6e3530fe7748f84affe29c8fe65bcbaef07a08d4419eabccf8e0746be"
+    },
+    {
+      "path": "problems/2025-B4/reviews/strongfc-review-2-certificates-v1.py",
+      "bytes": 4228,
+      "sha256": "f1513066e4e27b0680998bc719ac85bb0069cf961dc811d7eb950748e5d15467"
+    },
+    {
+      "path": "problems/2025-B4/reviews/strongfc-review-2-certificates-v1.json",
+      "bytes": 2585,
+      "sha256": "3ba072c88f95cb74a92389e9e49bbef0e13536a84dd64b9be53b7296b03df15a"
+    },
+    {
+      "path": "problems/2025-B4/reviews/strongfc-review-2-access-log-v1.md",
+      "bytes": 4083,
+      "sha256": "0ba1b13c140625b9df20f2cd5a307455ab529d58fc8a95117e227211cd2c5764"
+    }
+  ],
+  "authoritative_weekly_telemetry": {
+    "total_used_percent": 16,
+    "window_duration_mins": 10080,
+    "resets_at": 1792745187,
+    "same_window_as_coordinator": true,
+    "stop_at_total_used_percent": 90
+  },
+  "certificate_run": {
+    "command": "bundled python3 -B problems/2025-B4/reviews/strongfc-review-2-certificates-v1.py",
+    "exit_code": 0,
+    "assertions": "passed",
+    "evidence_only": true
+  },
+  "scope": "2025 B4(b), no preliminary part(a), no status promotion",
+  "next_boundary": "Any source-concern comparison must be written separately and must not modify these frozen files."
+}

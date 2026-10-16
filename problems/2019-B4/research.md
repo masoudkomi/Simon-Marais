@@ -1,5 +1,9 @@
 # 2019 B4(b) research log
 
+## Coordinator third-pass acceptance
+
+The bounded-separation hierarchy, legal-envelope identification with actual minimal obstructions, entropy convergence, exact cap3 grammar and strict upperlambda<1.834856083 are **proved, independently reviewed partial results**. Both fresh initially blind reviewers reconstructed the whole argument and independently checked every cap7 transition and all11662 integer-vector inequalities. See proofs/reviewed-thirdpass-v1.1.md and reviews/thirdpass-acceptance.md/json. Combined with the earlier accepted lower bound,1.76521<lambda<1.834856083. Exactlambda/fullgeneratingfunction/novelty remain unresolved. No larger enumeration is substituted for the remaining proof problem.
+
 ## Coordinator acceptance update, 2026-10-16
 
 The partial growth-limit, converging-enclosure and upper-bound arguments are now **proved, independently reviewed (partial results)**. Both fresh blind audits reconstructed the whole argument and independently reproduced the finite counts/certificate. The requested attribution repair was made by the author and rechecked by R1; no mathematical repair was needed. See reviews/acceptance.md. The exact growth constant remains undetermined. Owner-stage pending-audit notices below are historical and superseded by this update; separate exploratory notes are not covered by acceptance. Novelty is unestablished.

@@ -2,7 +2,7 @@
   "branch": "codex/smmc-b4-research",
   "remote": "https://github.com/masoudkomi/Simon-Marais.git",
   "phase": "all initial passes complete; independent review and focused research",
-  "last_pushed_commit": "7d740b7",
+  "last_pushed_commit": "953ee9e",
   "initial_passes_complete": [
     2017,
     2018,
@@ -16,38 +16,40 @@
   ],
   "active": [
     {
-      "agent": "review_2019_thirdpass_r1",
-      "year": 2019,
-      "role": "fresh blind whole candidate review"
+      "agent": "review_2017_coarsening_r1",
+      "year": 2017,
+      "role": "fresh blind conceptual whole audit of DC1 injection and conditional entropy transfer"
     },
     {
-      "agent": "review_2019_thirdpass_r2",
-      "year": 2019,
-      "role": "second fresh blind whole candidate review"
+      "agent": "review_2017_coarsening_r2",
+      "year": 2017,
+      "role": "second fresh independent blind conceptual whole audit"
     },
     {
-      "agent": "review_2021_j16_digits_r2",
-      "years": [
-        2017,
-        2018,
-        2024
-      ],
-      "role": "deep literature; 2017 concavity candidate frozen unverified"
+      "agent": "review_2021_reasoning_j15_r1",
+      "year": 2021,
+      "role": "fresh blind whole analytic audit of J15m2 structural lemmas"
     }
   ],
   "initial_passes_pending": [],
   "deferred": [
     2026
   ],
-  "weekly_used_percent_last_observed": 14,
+  "weekly_used_percent_last_observed": 16,
   "weekly_reset_unix": 1792745187,
   "caffeinate": {
-    "pid": 5398,
-    "exec_session": 57629,
-    "duration_seconds": 43200
+    "previous_pid": 5398,
+    "previous_session": 57629,
+    "previous_exit_code_after_targeted_ctrl_c": 1,
+    "new_user_authorization": "Extend for another12hours",
+    "exec_session": 14140,
+    "new_pid_readback": null,
+    "duration_seconds": 43200,
+    "started_at_utc_approx": "2026-10-16T21:28:10+00:00",
+    "nominal_expires_at_utc": "2026-10-17T09:28:10+00:00"
   },
-  "notes": "Rational J16 exclusion accepted after two whole audits; 684 other masks remain, no full degree20 solution. All three R1 deep-literature reports frozen and root-read in full. Two fresh blind 2019 whole audits active. R2 literature continues; its new2017 concavity candidate is frozen unverified. Root2022 signed-digit finite checks passed, lead unverified. Latest14%weeklyused same reset. Latest token observation17:31UTC298729173total including cachedinput,15622357uncachedinputplusoutput. No stop condition.",
-  "observed_at_utc": "2026-10-16T17:24:59+00:00",
+  "notes": "Latestusersteering: prioritize mathematical reasoning; compute for counterexamples, intuition or necessary exact certificates. Both2017concavity and2019thirdpass whole audits root-read/issuesresolved/hashesverified andaccepted; oldcandidatebytespreserved. J15m2 structural candidate frozen unverified with exactremaininggap; twofreshreviewsneeded. Rootcoarsening candidate frozen unverified: DC1portinjection and conditional(H)entropytransfer, R1active. All9deep-literature reports saved. Newsourceaudits2025notyetrootaccepted.16%weeklyusedsame reset; notastopcondition. New12hkeepawakeexplicitlyauthorizedandlaunched. Hostcallatabout17:37returned21:14, recordedwithoutclaimingcontinuousrootactivity. Both2025StrongFCwhole-sourceauditsnowfrozenandcomplete; rootmustreadfullreports/issuesbeforeanysource-objectionacceptance. Fresh2017coarseningR2andJ15m2R1launched;J15R2stillneeded.",
+  "observed_at_utc": "2026-10-16T21:37:51+00:00",
   "coordinator_compute": {
     "status": "all constructor children completed and reaped",
     "complex_complement_child_pid": 37199,

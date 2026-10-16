@@ -1,0 +1,149 @@
+{
+  "status": "initial independent blind review and issue record frozen; no promotion",
+  "frozen_utc": "2026-10-16T20:07:19.215142+00:00",
+  "reviewer": "/root/review_2019_thirdpass_r2",
+  "requested_model": "gpt-6.1-sol",
+  "requested_reasoning_effort": "max",
+  "effective_settings_readback": null,
+  "peer_report_contents_read_before_freeze": false,
+  "candidate_sha256": "3364e8c6cf23ba3ecb250f13a5873732c108b6904a68126f52f5d7234eb916d4",
+  "source_manifest_sha256": "ed672a1a68874ea44c2c4752dad7f1f7ef5e27e496ed4cf40d4f633cc2364b6b",
+  "unresolved_substantive_issues": 0,
+  "files": [
+    {
+      "path": "problems/2019-B4/reviews/thirdpass-review-2-audit-job.json",
+      "bytes": 611,
+      "sha256": "7961d2ecad867115ed1423f2976ebd4572ee1be94404564c1d2ffc8455c8944f"
+    },
+    {
+      "path": "problems/2019-B4/reviews/thirdpass-review-2-audit-stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "problems/2019-B4/reviews/thirdpass-review-2-audit-stdout.log",
+      "bytes": 3006,
+      "sha256": "ff6bfbeafdd4ab1a8f2836f8cfc21b428e9bc3e34a9b5b6ea3eaddbb77875774"
+    },
+    {
+      "path": "problems/2019-B4/reviews/thirdpass-review-2-audit.json",
+      "bytes": 38184,
+      "sha256": "b642b8a633ea20b0585aa381fe3fa5ea20a41974a846ea0eda83cd8ae3648bf0"
+    },
+    {
+      "path": "problems/2019-B4/reviews/thirdpass-review-2-audit.py",
+      "bytes": 8556,
+      "sha256": "eac9351e37950a8ec58a153d20385e99927560856a94fd0983a31155c2ca2f27"
+    },
+    {
+      "path": "problems/2019-B4/reviews/thirdpass-review-2-benchmark-job.json",
+      "bytes": 678,
+      "sha256": "4eb73417c321c2a6f712af4f2bf8cd6073cb314a447553496922245fb04fe9c8"
+    },
+    {
+      "path": "problems/2019-B4/reviews/thirdpass-review-2-benchmark-stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "problems/2019-B4/reviews/thirdpass-review-2-benchmark-stdout.log",
+      "bytes": 1561,
+      "sha256": "251595de4bbb3d14428fc86a9478fd13e3862cc03df0b879b1975a765a400a5e"
+    },
+    {
+      "path": "problems/2019-B4/reviews/thirdpass-review-2-benchmark.json",
+      "bytes": 3396,
+      "sha256": "896c19fb4e1bc573cd965d0f9745b345061a6cde6dbf23a84e2e2cef8280a160"
+    },
+    {
+      "path": "problems/2019-B4/reviews/thirdpass-review-2-check.py",
+      "bytes": 10558,
+      "sha256": "7af3329d1f52e3d6395898b1619aedebe4f77bf241b423a1b493d9b71b9f19a4"
+    },
+    {
+      "path": "problems/2019-B4/reviews/thirdpass-review-2-d7-job.json",
+      "bytes": 644,
+      "sha256": "61e0bf930fc687c2fb653b11c91e2659d27e25c99100cd42930690c9584aa56c"
+    },
+    {
+      "path": "problems/2019-B4/reviews/thirdpass-review-2-d7-stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "problems/2019-B4/reviews/thirdpass-review-2-d7-stdout.log",
+      "bytes": 1418,
+      "sha256": "363cf1f01484af711216abcef7d68bdd44d03c009aa89efc500c9914b945c440"
+    },
+    {
+      "path": "problems/2019-B4/reviews/thirdpass-review-2-d7.json",
+      "bytes": 2017337,
+      "sha256": "58bb7e6c3428ee7a0b2b660757013c99732245bff8013ff45c937344ce7843ef"
+    },
+    {
+      "path": "problems/2019-B4/reviews/thirdpass-review-2-freeze.py",
+      "bytes": 1701,
+      "sha256": "e9f3bf6bde69053e12b4f7d5d86cd1794a9c9ae6551c65e4421c7997728cc2e0"
+    },
+    {
+      "path": "problems/2019-B4/reviews/thirdpass-review-2-grid3-job.json",
+      "bytes": 672,
+      "sha256": "aab845829257c7b991b48c4f985475b06200859e9cafe2379cf92cdb9652d6c5"
+    },
+    {
+      "path": "problems/2019-B4/reviews/thirdpass-review-2-grid3-stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "problems/2019-B4/reviews/thirdpass-review-2-grid3-stdout.log",
+      "bytes": 2082,
+      "sha256": "a82f7e1a0fd1186df7943e8036768a1295616f51fae358e5c51f28bc9c4998ff"
+    },
+    {
+      "path": "problems/2019-B4/reviews/thirdpass-review-2-grid3.json",
+      "bytes": 3458,
+      "sha256": "a5b8b005755de84fd1cdc0433fc9167947c8e5f999e4253f6467dd318be3a2bc"
+    },
+    {
+      "path": "problems/2019-B4/reviews/thirdpass-review-2-grid4-job.json",
+      "bytes": 655,
+      "sha256": "02e69a47c8846a8922a99fb65b3e41ee6eb6f8825de204dc43e97a1ee72ff377"
+    },
+    {
+      "path": "problems/2019-B4/reviews/thirdpass-review-2-grid4-stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "problems/2019-B4/reviews/thirdpass-review-2-grid4-stdout.log",
+      "bytes": 1964,
+      "sha256": "c808fb80c4d1b5dd8b71352ba34bfc69c363bbfa60419b7d0d86e4cf4100110b"
+    },
+    {
+      "path": "problems/2019-B4/reviews/thirdpass-review-2-grid4.json",
+      "bytes": 4873,
+      "sha256": "f080d67f048003830072680ad5f1eb70199dbb283367d6afa9eafff2c92338ad"
+    },
+    {
+      "path": "problems/2019-B4/reviews/thirdpass-review-2-issues.md",
+      "bytes": 2693,
+      "sha256": "c19bc0f97a48a4830c2cd6124857808ba779105a7c4187f60f36adcfc0a84d47"
+    },
+    {
+      "path": "problems/2019-B4/reviews/thirdpass-review-2-preconstructor.json",
+      "bytes": 1682,
+      "sha256": "90fad779254617c5b753f106702f260fcaa244d5e411c5f5f7ae4dc7c7efcf2c"
+    },
+    {
+      "path": "problems/2019-B4/reviews/thirdpass-review-2-run.py",
+      "bytes": 1799,
+      "sha256": "0cf8eae34d52de928267874f420d2d557eb9214870048f7736d47aa3a60be490"
+    },
+    {
+      "path": "problems/2019-B4/reviews/thirdpass-review-2.md",
+      "bytes": 16902,
+      "sha256": "1aba6567ce34d845d488c248c26685bd47b28517c3b2c9af228cdaca7e491fce"
+    }
+  ]
+}

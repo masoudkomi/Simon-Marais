@@ -1,0 +1,22 @@
+{
+  "status": "blind initial report preserved; final artifact verification complete",
+  "finalized_utc": "2026-10-16T21:23:00.834327+00:00",
+  "initial_blind_report_unchanged": true,
+  "peer_concavity_review_seen": false,
+  "all_ten_initial_review_artifacts_verified": true,
+  "all_six_construction_artifacts_verified": true,
+  "weekly_usage_used_percent": 15,
+  "weekly_reset_unix": 1792745187,
+  "artifacts": [
+    {
+      "path": "problems/2017-B4/reviews/concavity-review-1-manifest-initial.json",
+      "bytes": 4147,
+      "sha256": "ad211e2a7c3f1374345359711442ff48f0d0af4b98eb385a6377a404320ef89d"
+    },
+    {
+      "path": "problems/2017-B4/reviews/concavity-review-1-operational-addendum.md",
+      "bytes": 1115,
+      "sha256": "2c08adfb992de78e8c9289c0b9ed42719369ea36904e350b0c433fb44b8f100a"
+    }
+  ]
+}
