@@ -1,0 +1,81 @@
+{
+  "recorded_utc": "2026-10-16T15:56:30.221628+00:00",
+  "status": "candidate proof - unverified; frozen for both targeted re-audits; no promotion",
+  "author": "/root/owner_2017; original second-pass constructor",
+  "preserved_input_fingerprints_verified": 17,
+  "exact_diffs_verified": [
+    "macmahon",
+    "boundary-fiber",
+    "periodic-grid"
+  ],
+  "M1_M3_math_sections_byte_identical": true,
+  "display_delimiters_and_no_double_escape_verified": true,
+  "source_trailing_whitespace": [],
+  "verification_note": "An initial blanket whitespace check flagged the mandatory space on unified-diff blank context lines; no candidate defect or changed frozen bytes. Final check excludes .diff formatting prefixes and verifies each diff exactly.",
+  "unchanged_Q_3_3": 4419734746,
+  "new_enumeration_or_CAS_runs": 0,
+  "larger_computational_caps": false,
+  "targeted_independent_reaudits_completed": 0,
+  "files": [
+    {
+      "path": "problems/2017-B4/computations/author-repair-build-output-v1.1.txt",
+      "sha256": "9099c9dd37b023f36463567791b6893f27b813605c17b2956591ee17e40ccd7d",
+      "bytes": 961
+    },
+    {
+      "path": "problems/2017-B4/computations/author-repair-build-v1.1.py",
+      "sha256": "37e2e9d284981669d18592f3a71e45470ad8e7acaa0d19428c6cc34ab192e9ce",
+      "bytes": 30076
+    },
+    {
+      "path": "problems/2017-B4/computations/author-repair-verify-v1.1.py",
+      "sha256": "bf5a17bbbe0c5795e65cd8cd74e1c13a451812f186b5e0b1217c61606a480799",
+      "bytes": 4034
+    },
+    {
+      "path": "problems/2017-B4/notes/author-repair-boundary-fiber-candidate-v1.1.md",
+      "sha256": "e2891eafc6fa8449f6c70c817c2e21416a43f1893120929df02f2aa2dac86a8b",
+      "bytes": 13994
+    },
+    {
+      "path": "problems/2017-B4/notes/author-repair-boundary-fiber-v1-to-v1.1.diff",
+      "sha256": "89fc5c4e66411a1fbdd7a53456442b246883682427e8e991a67d33ac13962451",
+      "bytes": 14858
+    },
+    {
+      "path": "problems/2017-B4/notes/author-repair-changelog-v1.1.md",
+      "sha256": "3cb89e22fa29a768c956a5a82bff494c00659437dc933160731ca976ee6e7765",
+      "bytes": 9367
+    },
+    {
+      "path": "problems/2017-B4/notes/author-repair-macmahon-candidate-v1.1.md",
+      "sha256": "a225f0042fc098d8a827093a3e680612848caf392db64cad24339d399769bcf0",
+      "bytes": 9249
+    },
+    {
+      "path": "problems/2017-B4/notes/author-repair-macmahon-v1-to-v1.1.diff",
+      "sha256": "60896871928c65b43e4db8d7fb3009406cf8640b9f2828a9cdcfa8ae4badf84e",
+      "bytes": 4106
+    },
+    {
+      "path": "problems/2017-B4/notes/author-repair-manifest-v1.1.json",
+      "sha256": "9c517f88390e5f0a124cadb71bd166672931a06109be7818158293bf293253eb",
+      "bytes": 5762
+    },
+    {
+      "path": "problems/2017-B4/notes/author-repair-periodic-grid-candidate-v1.1.md",
+      "sha256": "1a6acb042e1e21bc0992cddbd7188c47e81249b5888faabaa4e73a45be0f5c6e",
+      "bytes": 13515
+    },
+    {
+      "path": "problems/2017-B4/notes/author-repair-periodic-grid-v1-to-v1.1.diff",
+      "sha256": "06ea3ffa0e1b3d2e44073c143cbadaf89ac0891c54cd14572f8e5efe3df49b90",
+      "bytes": 11766
+    },
+    {
+      "path": "problems/2017-B4/notes/author-repair-sources-v1.1.json",
+      "sha256": "2d6a14047e3be28c9e820b7835202c7b5e7b0faf6ae25f4fd18c7c5cc8e93982",
+      "bytes": 2111
+    }
+  ]
+}

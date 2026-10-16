@@ -1,0 +1,96 @@
+{
+  "verified_at_utc": "2026-10-16T15:50:33.457942+00:00",
+  "all_polynomial_and_certificate_stream_hashes_match": true,
+  "all_25_chunk_hashes_and_counts_match": true,
+  "certificate_prime_primality_checked_by_trial_division": true,
+  "initial_and_final_resolution_histograms_match": true,
+  "sentinel_row_and_both_integer_polynomials_match_exactly": true,
+  "separate_mod131_resolver_agrees_with_independent_regeneration": true,
+  "raw_sentinel_rows": [
+    [
+      6436,
+      24785,
+      -1
+    ]
+  ],
+  "source_hashes": {
+    "AGENTS.md": "32ce511aab27061680c98197793b5a9b3ee03a421c822868fad69ea525816257",
+    "problems/2021-B4/statement.md": "5cd9750a2458191370590120fb4ae7d547740784eb1de38ee9e2e7890a2fabed",
+    "problems/2021-B4/notes/rational-witness-p-plus-one-v1.1.md": "ef87eebe1f49302f5e9af1ab0781b73bdb39de9763f7b75d60d5b6f746a9aa85",
+    "problems/2021-B4/notes/padic-rational-newton-obstructions-v1.md": "ce3ff564b48841ae3ae1bf66c3cf5303ed2833c2166590cb2460706f01b5c335",
+    "problems/2021-B4/notes/coordinator-newton-degeneration-v1.md": "c38fbfa45e327c671c7737c03a4fdefb7407224445c4b8deb4761c4911a36a4f",
+    ".cache/official/2021-paper_b.pdf": "2d507d593500f762e90b041d03a451e884ea33c8769f9a2132427e14d8f926d1",
+    ".cache/literature/2021/cited-66c5af6a0f0239f5.pdf": "d818747102d32060f43ae5f015f27065aadf38699b272a2367749db8b33fedbf",
+    ".cache/literature/2021/massri-1806.09561v6.pdf": "8e5dec6d9d3ca1cb6becd7fa7e3d4c6ef18927cff9521c5f4eb9a1c1b567952f",
+    ".cache/literature/2021/draisma-de-jong-newsletter-2011-06-80.pdf": "9babd9ea728de626f8921a4086f6170039537c7305ac5b500f6ba0edda942ad0",
+    ".cache/literature/2021/newton-review-1-stoll-padic-analysis.pdf": "4c0bb01c0d9aa251d704ec2d8c33b340317b79dd6fe58b0461eaf7fe4017ced3",
+    ".cache/literature/2021/poonen-curves.pdf": "a202c5959e1cc7807e89cf290f0b00ec498d4e2a771ef5090639810cf35aaa62"
+  },
+  "primary_source_reading": {
+    "CLO": {
+      "url": "https://arxiv.org/abs/1208.5404",
+      "pdf_pages_one_based": [
+        2,
+        3,
+        4,
+        5,
+        7,
+        12,
+        13,
+        14,
+        15
+      ],
+      "used": "Section 3.4 equations (9)-(10), Lemma 17; recycled-root definition; Proposition 10; Hasse definition and good-prime lists"
+    },
+    "Massri_v6": {
+      "url": "https://arxiv.org/abs/1806.09561v6",
+      "pdf_pages_one_based": [
+        12,
+        13,
+        14
+      ],
+      "used": "Remark 7.4 and Theorem 7.10 attribution checked only; not a mathematical dependency"
+    },
+    "Draisma_de_Jong": {
+      "url": "https://www.ems-ph.org/journals/newsletter/pdf/2011-06-80.pdf",
+      "pdf_pages_one_based": [
+        33,
+        34
+      ],
+      "used": "Proposition 6 and its proof; separate later corrected degree-family assertion not used"
+    },
+    "Stoll": {
+      "url": "https://mathe2.uni-bayreuth.de/stoll/teaching/pAdicAnalysis-WS2015/Skript-pAdicAnalysis-pub-print.pdf",
+      "pdf_pages_one_based": [
+        15,
+        16
+      ],
+      "used": "Theorem 3.6 explicitly counts roots with multiplicity"
+    },
+    "Poonen": {
+      "url": "https://math.mit.edu/~poonen/papers/curves.pdf",
+      "pdf_pages_one_based": [
+        68
+      ],
+      "used": "Section 4.2.1 supporting-line convention and theorem; Stoll used for explicit multiplicities"
+    },
+    "official_2021_B4": {
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2021-paper-b.pdf",
+      "pdf_pages_one_based": [
+        2
+      ],
+      "used": "Only B4(b) scope checked; no preliminary case solved"
+    }
+  },
+  "source_access_failure_preserved": "Web screenshot requests for Massri v6 PDF pages 13 and 14 failed with Cache miss; complete cached primary pages were read successfully via pypdf. No mathematical input was inferred from the failed screenshots.",
+  "telemetry": {
+    "observed_used_percent_start": 9,
+    "observed_used_percent_after_full_run": 9,
+    "weekly_window_minutes": 10080,
+    "reset_unix_seconds": 1792745187,
+    "stop_at_total_used_percent": 90
+  },
+  "requested_model": "gpt-6.1-sol",
+  "requested_reasoning_effort": "max",
+  "verified_effective_model_or_effort": null
+}

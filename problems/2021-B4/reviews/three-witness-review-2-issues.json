@@ -1,0 +1,51 @@
+{
+  "audit": "Independent initial blind adversarial R2 of coordinator-three-rational-witnesses-v1.md",
+  "target_sha256": "be91345a8511338d55f30b140ee2555698c21d0e341efe29fe2536bca4fffbda",
+  "substantive_open_objections": 0,
+  "author_repairs_requested": false,
+  "promotion_authority": "coordinator only",
+  "issues": [
+    {
+      "id": "R2-01",
+      "question": "Can the rational normalization change the selected covering set or require an irrational affine map?",
+      "disposition": "resolved by reconstruction",
+      "finding": "Select the first-derivative witness inside the covering set. The simple center must also belong to it and differs from that witness. The final affine map uses their rational difference. CLO's temporary minimum-valuation normalization yields the same final center-one scaling."
+    },
+    {
+      "id": "R2-02",
+      "question": "Could the center-mask filter omit actual cases, especially when several derivative witnesses are available?",
+      "disposition": "resolved by reconstruction and exhaustive derivation",
+      "finding": "Choose the center whenever available. The forced H2/H3/H4 equations then set the corresponding bits. Formal noncenter branches do not require center failure and only enlarge the family. Ordinary Hasse recursion modulo 361 independently visits 131072 choices and derives the same complete 772 masks."
+    },
+    {
+      "id": "R2-03",
+      "question": "Do the symbolic families cover every assignment exactly once, and do the saved certificates verify every family?",
+      "disposition": "resolved by complete independent computation",
+      "finding": "All 1493024 ordinary-Hasse integer polynomial pairs were regenerated. Each raw row key matched the independent traversal, with within-mask uniqueness, disjoint bit sets, expected per-mask counts, no excess rows, exact degrees and leading residues, primality, and full modular Euclidean gcd verification. Polynomial and certificate stream hashes matched."
+    },
+    {
+      "id": "R2-04",
+      "question": "Does reducing P,Q modulo an auxiliary prime miss a rational u whose denominator is divisible by that prime?",
+      "disposition": "resolved by resultant argument",
+      "finding": "The certificate proves a nonzero integer Sylvester resultant with both integer degrees retained. It never reduces u, hence imposes no rational-height or auxiliary-prime denominator restriction."
+    },
+    {
+      "id": "R2-05",
+      "question": "Is the single initial sentinel a genuine uncovered case?",
+      "disposition": "resolved by independent exact certificate",
+      "finding": "Key (6436,24785) reconstructs exactly. Modulo 131, degrees 16 and 20 are retained, leading residues are 8 and 102, and the full Euclidean gcd is a nonzero constant. Supplementary trials also independently explain failure of the original five-prime list."
+    },
+    {
+      "id": "R2-06",
+      "question": "Could multiplicities, coinciding small roots, or a merely local Newton factor invalidate T2/T3 or the rational Eisenstein quotient?",
+      "disposition": "resolved by slot count and exact division",
+      "finding": "T1 requires four distinct rational roots. For J16 this forces m2 and fills precisely the two remaining small slots with distinct rational u,v; for J15 it forces m<=3, and m3 gives the same two-slot conclusion. Exact rational monic division leaves precisely the long cluster, of degree 15 or 14. Vieta valuations and the single constant-term product give Eisenstein over Z_(19)."
+    },
+    {
+      "id": "R2-07",
+      "question": "Is this presented as a new full degree-20 result or as an audit of Massri's stronger theorem?",
+      "disposition": "scope and attribution checked",
+      "finding": "The candidate states only the rational three-witness obstruction and its conditional quotient consequences. Primary Massri v6 Theorem 7.10 has the attributed stronger complex three-recycled-root claim; its computation is not used or certified here. No complete degree or novelty is claimed."
+    }
+  ]
+}

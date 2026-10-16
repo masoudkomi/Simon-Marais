@@ -1,0 +1,126 @@
+{
+  "completed_at_utc": "2026-10-16T15:50:33.514302+00:00",
+  "review": "R1 complete independent adversarial audit; no unresolved substantive objections",
+  "candidate_sha256": "be91345a8511338d55f30b140ee2555698c21d0e341efe29fe2536bca4fffbda",
+  "candidate_manifest_sha256": "b01f42be62a8019fc6af3d6042434254e8f88fe6060dba6e454babf9eaa0cd78",
+  "candidate_artifacts_checked_before_and_after": 50,
+  "candidate_artifacts_unchanged": true,
+  "claims": {
+    "T1": "accepted subject to frozen dependencies and coordinator promotion gate",
+    "T2": "accepted conditional on T1 and frozen normalization/Newton inputs",
+    "T3": "accepted conditional on T1 and frozen normalization/Newton inputs"
+  },
+  "full_families_independently_regenerated_and_verified": 1493024,
+  "open_substantive_issues": 0,
+  "author_repairs_requested": 0,
+  "peer_reports_or_conclusions_read": false,
+  "constructor_modules_imported_or_executed": false,
+  "independent_core_written_and_run_before_raw_certificates": true,
+  "independent_core_sha256_before_and_after": "ed98ed514ac6dffa20e3c5779d7851437003326992f0619018f1837147386464",
+  "full_child_pid": 34054,
+  "external_timeout_seconds": 420,
+  "full_child_exit_code": 0,
+  "full_child_reaped": true,
+  "full_job_elapsed_seconds": 127.62004133299342,
+  "source_provenance_file": "problems/2021-B4/reviews/three-witness-review-1-postcheck-result.json",
+  "requested_model": "gpt-6.1-sol",
+  "requested_reasoning_effort": "max",
+  "verified_effective_model_or_effort": null,
+  "artifacts": [
+    {
+      "path": "problems/2021-B4/reviews/three-witness-review-1-benchmark-job.json",
+      "bytes": 863,
+      "sha256": "d63c477a238779fd068ed6cb56b703f5dbc9c585b24d03837cca72f28103c8cd"
+    },
+    {
+      "path": "problems/2021-B4/reviews/three-witness-review-1-benchmark-output.txt",
+      "bytes": 1441,
+      "sha256": "6fad3ea7755a69d2e8903c1c02965f859406ebbed538592d975e224ed00c152c"
+    },
+    {
+      "path": "problems/2021-B4/reviews/three-witness-review-1-benchmark-result.json",
+      "bytes": 811,
+      "sha256": "b0a456580ff1858b05deac75017a74b86a3afeb70b321209e6e540df16e3a437"
+    },
+    {
+      "path": "problems/2021-B4/reviews/three-witness-review-1-benchmark-stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "problems/2021-B4/reviews/three-witness-review-1-full-job.json",
+      "bytes": 858,
+      "sha256": "8de8333326c2280f80ca317167d43e1237681663a2d5693ce4812488f46d273d"
+    },
+    {
+      "path": "problems/2021-B4/reviews/three-witness-review-1-full-output.txt",
+      "bytes": 21299,
+      "sha256": "d1572ab5a23fdecdcb62d48a83501b5c03a49448e5174fe1e18d18eb3e6dadeb"
+    },
+    {
+      "path": "problems/2021-B4/reviews/three-witness-review-1-full-result.json",
+      "bytes": 8193,
+      "sha256": "2ca42f3a9536130c1ede88a03fef3fd52634024e19a2989d5cd94dca04012d05"
+    },
+    {
+      "path": "problems/2021-B4/reviews/three-witness-review-1-full-stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "problems/2021-B4/reviews/three-witness-review-1-independent-masks.json",
+      "bytes": 8480,
+      "sha256": "39315b2639799fc4a39979205260f1d0bf8614ad40250bd5268cc29be755ee2e"
+    },
+    {
+      "path": "problems/2021-B4/reviews/three-witness-review-1-independent.py",
+      "bytes": 9429,
+      "sha256": "ed98ed514ac6dffa20e3c5779d7851437003326992f0619018f1837147386464"
+    },
+    {
+      "path": "problems/2021-B4/reviews/three-witness-review-1-input-validation.json",
+      "bytes": 12403,
+      "sha256": "dd6a891f05ba0363d735571ac47512e2850e9b34dcab0dd1d9fdde1e9e1d0bd0"
+    },
+    {
+      "path": "problems/2021-B4/reviews/three-witness-review-1-issues.md",
+      "bytes": 1022,
+      "sha256": "c4e2de61798ee79a609c43f4ed855a52030ac5fe8aa61e311ac418d007245189"
+    },
+    {
+      "path": "problems/2021-B4/reviews/three-witness-review-1-masks-job.json",
+      "bytes": 858,
+      "sha256": "aa3a970242316e212c82c44dc1849882c7a73743be1bf04f0c53a65f2daf8af6"
+    },
+    {
+      "path": "problems/2021-B4/reviews/three-witness-review-1-masks-output.txt",
+      "bytes": 455,
+      "sha256": "28ffcfabe7ebbdfc07dcc85a4604e2b64d633b31243e296aa589e8fac380e1cd"
+    },
+    {
+      "path": "problems/2021-B4/reviews/three-witness-review-1-masks-stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "problems/2021-B4/reviews/three-witness-review-1-postcheck-result.json",
+      "bytes": 4143,
+      "sha256": "511d0e74cbc30e728aea3234ddd877d29f61a9220ee94d61a5766431b68799b4"
+    },
+    {
+      "path": "problems/2021-B4/reviews/three-witness-review-1-postcheck.py",
+      "bytes": 8374,
+      "sha256": "91d61a3c68af77a95e83740fce7138e00d4c2ebe033cfdbfda1e56fc4f4913c6"
+    },
+    {
+      "path": "problems/2021-B4/reviews/three-witness-review-1-run.py",
+      "bytes": 2402,
+      "sha256": "949bd4bd951c8c2048858382845abb964b8155f9b351b28153932b1a58782204"
+    },
+    {
+      "path": "problems/2021-B4/reviews/three-witness-review-1.md",
+      "bytes": 18871,
+      "sha256": "f6d29c6f93330b80afabefb29e4bacede2f5949f7911ed102f93719a7cdfa27e"
+    }
+  ]
+}

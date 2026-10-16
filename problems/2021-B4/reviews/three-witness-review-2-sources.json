@@ -1,0 +1,73 @@
+{
+  "verified_at_utc": "2026-10-16T15:53:33.771037+00:00",
+  "mathematical_inputs": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4271,
+      "sha256": "32ce511aab27061680c98197793b5a9b3ee03a421c822868fad69ea525816257"
+    },
+    {
+      "path": "problems/2021-B4/statement.md",
+      "bytes": 1745,
+      "sha256": "5cd9750a2458191370590120fb4ae7d547740784eb1de38ee9e2e7890a2fabed"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-three-rational-witnesses-v1.md",
+      "bytes": 11325,
+      "sha256": "be91345a8511338d55f30b140ee2555698c21d0e341efe29fe2536bca4fffbda"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-three-rational-witnesses-v1-manifest.json",
+      "bytes": 11022,
+      "sha256": "b01f42be62a8019fc6af3d6042434254e8f88fe6060dba6e454babf9eaa0cd78"
+    },
+    {
+      "path": "problems/2021-B4/notes/rational-witness-p-plus-one-v1.1.md",
+      "bytes": 8375,
+      "sha256": "ef87eebe1f49302f5e9af1ab0781b73bdb39de9763f7b75d60d5b6f746a9aa85"
+    },
+    {
+      "path": "problems/2021-B4/notes/padic-rational-newton-obstructions-v1.md",
+      "bytes": 16974,
+      "sha256": "ce3ff564b48841ae3ae1bf66c3cf5303ed2833c2166590cb2460706f01b5c335"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-newton-degeneration-v1.md",
+      "bytes": 7569,
+      "sha256": "c38fbfa45e327c671c7737c03a4fdefb7407224445c4b8deb4761c4911a36a4f"
+    }
+  ],
+  "primary_sources": [
+    {
+      "path": ".cache/literature/2021/cited-66c5af6a0f0239f5.pdf",
+      "bytes": 281743,
+      "sha256": "d818747102d32060f43ae5f015f27065aadf38699b272a2367749db8b33fedbf",
+      "url": "https://arxiv.org/pdf/1208.5404",
+      "locations_read": "CLO: Section 3.4 equations 9-10 and Lemma 17; Proposition 10; Definition 1, Section 1.7 and Theorem 4"
+    },
+    {
+      "path": ".cache/literature/2021/massri-1806.09561v6.pdf",
+      "bytes": 154257,
+      "sha256": "8e5dec6d9d3ca1cb6becd7fa7e3d4c6ef18927cff9521c5f4eb9a1c1b567952f",
+      "url": "https://arxiv.org/pdf/1806.09561v6",
+      "locations_read": "Massri: Theorem 7.10 and proof on PDF pages 13-14; attribution only, not a dependency"
+    },
+    {
+      "path": ".cache/literature/2021/draisma-de-jong-newsletter-2011-06-80.pdf",
+      "bytes": 2795058,
+      "sha256": "9babd9ea728de626f8921a4086f6170039537c7305ac5b500f6ba0edda942ad0",
+      "url": "https://www.ems-ph.org/journals/newsletter/pdf/2011-06-80.pdf",
+      "locations_read": "Proposition 6 and adjacent one-witness observation, printed pages 31-32 / PDF pages 33-34"
+    }
+  ],
+  "official_scope_source": {
+    "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2021-paper-b.pdf",
+    "page": 2,
+    "verified": "B4 rational coefficients, common rational root for each derivative, degree classification target in part (b); no preliminary problem was solved or reproduced"
+  },
+  "web_pdf_visual_attempts": {
+    "CLO_page13": "returned successfully",
+    "Massri_pages13_14": "web screenshot cache miss; primary PDF text read directly instead"
+  },
+  "blindness": "No other reviewer report, conclusions, shared issue/status file or research log was read. Only the explicitly authorized raw mask data was consumed, after complete independent derivation."
+}

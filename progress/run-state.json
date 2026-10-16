@@ -2,7 +2,7 @@
   "branch": "codex/smmc-b4-research",
   "remote": "https://github.com/masoudkomi/Simon-Marais.git",
   "phase": "all initial passes complete; independent review and focused research",
-  "last_pushed_commit": "2c8faaa",
+  "last_pushed_commit": "a1b7166",
   "initial_passes_complete": [
     2017,
     2018,
@@ -16,32 +16,38 @@
   ],
   "active": [
     {
-      "agent": "owner_2017",
-      "role": "author repair in new versioned files after both initial audits",
+      "agent": "review_2017_secondpass_r1",
+      "role": "independent targeted v1.1 re-audit",
       "year": 2017
     },
     {
-      "agent": "review_2020_initial_r1",
-      "role": "fresh blind full reviewer",
-      "year": 2020
+      "agent": "review_2017_secondpass_r2",
+      "role": "independent targeted v1.1 re-audit",
+      "year": 2017
     },
     {
-      "agent": "review_2021_three_witness_r1",
-      "role": "fresh blind full reviewer of new1493024-family candidate",
-      "year": 2021
+      "agent": "review_2020_initial_r2",
+      "role": "fresh blind full reconstruction",
+      "year": 2020
     }
   ],
   "initial_passes_pending": [],
   "deferred": [
     2026
   ],
-  "weekly_used_percent_last_observed": 9,
+  "weekly_used_percent_last_observed": 10,
   "weekly_reset_unix": 1792745187,
   "caffeinate": {
     "pid": 5398,
     "exec_session": 57629,
     "duration_seconds": 43200
   },
-  "notes": "Snapshot, not live telemetry. Full2018published reproduction and2023classification accepted. Reviewed partials2019strongerbounds,2021Eisenstein/Newton/degeneration772masks,2022density,2024wholephi13criterion. 2017R1requestsG2boundarycrossingrepair; R2blindactive. 2025R1complete,R2pending. New2021three-rational-witness theorem unverified, freshR1active. Fullpapers localignoredcache. No stopcondition reached. Caffeinate12hourPID5398 expires about21:26UTC.",
-  "observed_at_utc": "2026-10-16T15:40:01.483607+00:00"
+  "notes": "Snapshot, not live telemetry. 2021 rational three-witness T1-T3 and2025C1-C4 accepted after both blind full audits. 2017 repair v1.1 under both targeted re-audits. 2020R2active. Complex extension construction unverified; ramified-normalization proof and two audits required. Caffeinate authorized12h through about21:26UTC. No stop condition reached.",
+  "observed_at_utc": "2026-10-16T16:07:29.585175+00:00",
+  "coordinator_compute": {
+    "child_pid": 37199,
+    "session": 41568,
+    "timeout_seconds": 900,
+    "purpose": "4731928 complementary complex-three-witness families; construction only"
+  }
 }

@@ -25,7 +25,8 @@ def main():
         else:
             verified += 1
     print(f"Verified={verified}; missing local cache={missing}; mismatches={mismatches}; recorded unavailable={unavailable}")
-    print("Full papers are deliberately absent from Git; a fresh clone normally lacks the local cache.")
+    print("Full papers stay in ignored local cache; a fresh clone normally lacks it.")
+    print("See progress/permissions.md for the earlier 2018 PDFs retained in old Git history.")
     raise SystemExit(1 if mismatches else 0)
 
 

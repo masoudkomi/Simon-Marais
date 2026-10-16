@@ -6,7 +6,8 @@ as partial results. The Newton conditions leave1164 necessary degree-20
 masks; these are not rational polynomials or a complete degree solution.
 The separate coordinator degeneration extension is now also accepted
 after both independent full audits; it leaves772 necessary masks. The
-original reductions and source objections retain unverified labels.
+original reductions and source objections retain unverified labels. The new
+three-rational-witness T1-T3 packet is accepted after both fresh full audits.
 
 | ID | Version / location | Objection | Severity | Repair / evidence | Re-review | Status |
 |---|---|---|---|---|---|---|
@@ -26,4 +27,7 @@ original reductions and source objections retain unverified labels.
 | 2021-013 | Newton source wording | Poonen display lacks explicit multiplicity qualifier. | Nonblocking citation precision | Both independently reconstruct multiplicity argument; R1 checks Stoll Theorem3.6; accepted register adds that explicit source. | Both initial audits resolve the mathematical count. | Closed |
 | 2021-014 | notes/coordinator-newton-degeneration-v1.md | New general small-cluster degeneration and J15 low-center disjunction require their own two audits. | Separate review gate | Both fresh initially blind full extension reconstructions and complete461-record comparisons pass;392 masks excluded,772 combined survivors. | newton-review-1-extension.md and newton-review-2-extension.md complete; no substantive objection or repair. | Closed; accepted partial result |
 
-| 2021-015 | notes/coordinator-three-rational-witnesses-v1.md | New degree20 three-rational-witness exclusion and exact quotient consequences require two independent full audits. | Separate review gate | All1493024 families constructed; one initial modular miss resolved separately at131; unchanged raw outputs preserved. | Fresh three-witness-review-1 active; R2 pending. | Open; unverified |
+| 2021-015 | notes/coordinator-three-rational-witnesses-v1.md | New degree20 three-rational-witness exclusion and exact quotient consequences require two independent full audits. | Separate review gate | All1493024 families constructed; one initial modular miss resolved separately at131; unchanged raw outputs preserved. | Both fresh blind full reconstructions independently verified all1493024 pairs, every certificate, coverage, streams and the131 resolver; no substantive repair. | Closed; accepted T1-T3 partial result |
+
+| 2021-016 | notes/coordinator-J16-linear-projection-lead-v1.md | First-order four-witness projection excludes no masks. | Documented approach limitation | All11316 projected assignments checked; all88 masks survive. No lift or counterexample claimed. | Exploratory formulas unreviewed | No new exclusion |
+| 2021-017 | coordinator-three-complex extension | Extending the reduction to algebraic/complex witnesses requires ramified-valuation coverage proof and complete complement certificates. | New separate review gate | All6680 center masks derived;4731928 complementary families running with900second external timeout. No rational-only Newton filter used. | Two extension audits pending | Candidate unverified |

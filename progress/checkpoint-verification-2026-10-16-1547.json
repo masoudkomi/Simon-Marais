@@ -1,0 +1,33 @@
+{
+  "observed_at_utc": "2026-10-16T15:47:58.209173+00:00",
+  "verification_type": "coordinator integrity checks and operational readback; not independent mathematical audit",
+  "acceptance_manifests_verified": 10,
+  "new_three_witness_candidate": {
+    "status": "candidate proof - unverified; both fresh reviews active",
+    "compressed_chunks": 25,
+    "rows_verified_readable": 1493024,
+    "all_chunk_hashes_match": true,
+    "complete_uncompressed_certificate_stream_sha256": "4befc080569dbe0d4d978efaef502e51f644163d15ef9bd22ae7112cf1840387",
+    "initial_modular_unresolved": 1,
+    "separate_targeted_resolution_prime": 131
+  },
+  "public_paper_cache": {
+    "verified_PDFs": 42,
+    "missing": 0,
+    "mismatches": 0,
+    "recorded_unavailable": 5
+  },
+  "caffeinate": {
+    "verified_at_local": "2026-10-17 01:47:44 +1000",
+    "pid": 5398,
+    "authorized_duration_seconds": 43200,
+    "remaining_timeout_seconds": 20251,
+    "assertion": "PreventUserIdleSystemSleep"
+  },
+  "weekly_telemetry_last_observed": {
+    "at_utc": "2026-10-16 15:40:02 UTC",
+    "used_percent": 9,
+    "reset_unix": 1792745187
+  },
+  "new_full_third_party_PDFs_staged": 0
+}

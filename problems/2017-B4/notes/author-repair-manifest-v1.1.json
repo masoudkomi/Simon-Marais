@@ -1,0 +1,95 @@
+{
+  "version": "v1.1",
+  "local_date": "2026-10-17 Australia/Brisbane",
+  "author": "/root/owner_2017",
+  "authorship": "Original second-pass constructor and author of these revisions",
+  "status": "candidate proof - unverified; no promotion",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning_effort": "max"
+  },
+  "verified_effective_settings": null,
+  "review_inputs": [
+    {
+      "path": "problems/2017-B4/reviews/secondpass-review-1.md",
+      "sha256": "13b22e6c664ea0880eb3508a6df06670caa84ffec18486f00696998c94d9cbc1"
+    },
+    {
+      "path": "problems/2017-B4/reviews/secondpass-review-2-initial.md",
+      "sha256": "1780d421be9d46158f02428ab4a46e0504f3fd3733e31c6e37a398c35cd32012"
+    }
+  ],
+  "candidates": [
+    {
+      "claim_prefix": "macmahon",
+      "status": "candidate proof - unverified",
+      "old_path": "problems/2017-B4/notes/secondpass-macmahon-candidate-v1.md",
+      "old_sha256": "83f254ec69a31b5bf57dddd241bd0e29277300b4f1ba78dbf3c2c02191913ffe",
+      "revised_path": "problems/2017-B4/notes/author-repair-macmahon-candidate-v1.1.md",
+      "revised_sha256": "a225f0042fc098d8a827093a3e680612848caf392db64cad24339d399769bcf0",
+      "exact_diff_path": "problems/2017-B4/notes/author-repair-macmahon-v1-to-v1.1.diff",
+      "exact_diff_sha256": "60896871928c65b43e4db8d7fb3009406cf8640b9f2828a9cdcfa8ae4badf84e",
+      "targeted_reaudits_required": 2,
+      "targeted_reaudits_completed_by_this_author": 0
+    },
+    {
+      "claim_prefix": "boundary-fiber",
+      "status": "candidate proof - unverified",
+      "old_path": "problems/2017-B4/notes/secondpass-boundary-fiber-candidate-v1.md",
+      "old_sha256": "984ecfd11306304dd68310b0b20148577a7e8d43da6761a9bd570f95024cacbc",
+      "revised_path": "problems/2017-B4/notes/author-repair-boundary-fiber-candidate-v1.1.md",
+      "revised_sha256": "e2891eafc6fa8449f6c70c817c2e21416a43f1893120929df02f2aa2dac86a8b",
+      "exact_diff_path": "problems/2017-B4/notes/author-repair-boundary-fiber-v1-to-v1.1.diff",
+      "exact_diff_sha256": "89fc5c4e66411a1fbdd7a53456442b246883682427e8e991a67d33ac13962451",
+      "targeted_reaudits_required": 2,
+      "targeted_reaudits_completed_by_this_author": 0
+    },
+    {
+      "claim_prefix": "periodic-grid",
+      "status": "candidate proof - unverified",
+      "old_path": "problems/2017-B4/notes/secondpass-periodic-grid-candidate-v1.md",
+      "old_sha256": "6e2a25e0bd94d230892c8c8eb31d931c4a09190826f1f210a97fcb207e852bd7",
+      "revised_path": "problems/2017-B4/notes/author-repair-periodic-grid-candidate-v1.1.md",
+      "revised_sha256": "1a6acb042e1e21bc0992cddbd7188c47e81249b5888faabaa4e73a45be0f5c6e",
+      "exact_diff_path": "problems/2017-B4/notes/author-repair-periodic-grid-v1-to-v1.1.diff",
+      "exact_diff_sha256": "06ea3ffa0e1b3d2e44073c143cbadaf89ac0891c54cd14572f8e5efe3df49b90",
+      "targeted_reaudits_required": 2,
+      "targeted_reaudits_completed_by_this_author": 0
+    }
+  ],
+  "source_record": {
+    "path": "problems/2017-B4/notes/author-repair-sources-v1.1.json",
+    "sha256": "2d6a14047e3be28c9e820b7835202c7b5e7b0faf6ae25f4fd18c7c5cc8e93982"
+  },
+  "unchanged_finite_input": {
+    "Q_3_3": 4419734746,
+    "new_computational_runs": 0,
+    "larger_caps": false,
+    "L4_count": null
+  },
+  "preserved_inputs_before_equals_after": true,
+  "preserved_input_sha256": {
+    "problems/2017-B4/computations/secondpass-fourbundle-job.json": "3678e0f90dcd6a2d8b11e587a46aedb43ddd16f56bacdae5c9a82aad65cebb28",
+    "problems/2017-B4/computations/secondpass-fourbundle-output.txt": "ea67aa97272f3be6a2a48d3b1cb9b72da2b850e2736f39fc4e4655fa3db5f65e",
+    "problems/2017-B4/computations/secondpass-fourbundle.py": "0d2a234500b304a5399d8db583e98635901e9a7a8942aea465fbc6993994920b",
+    "problems/2017-B4/computations/secondpass-macmahon-bound-job.json": "81032ce02ad528d71686722c31e8bde5d549e711b3b59d2a67105f851fb6531c",
+    "problems/2017-B4/computations/secondpass-macmahon-bound-output.txt": "2c623c5c04963d106bc5d065219a9d6b9dd1237dafb909e5a87cfc648fb4b6e9",
+    "problems/2017-B4/computations/secondpass-macmahon-bound.py": "bf1149c991e50001e19f5547a35a573ec9a7143347ae857f582b2f21743186bb",
+    "problems/2017-B4/computations/secondpass-patchcount-job.json": "e19c148e90968d39f06da9801c969dccefd61d9001e9b87bdb7e3afa26ae6081",
+    "problems/2017-B4/computations/secondpass-patchcount-output.txt": "c9e13679967b55d7ea1069a700ccdb935f46385af79e8f9169bcad4ebf87ecf4",
+    "problems/2017-B4/computations/secondpass-patchcount.py": "e4248963859ce08a80d2001f6990ff837915fce2a8744177b19587945aa6dac8",
+    "problems/2017-B4/notes/secondpass-boundary-fiber-candidate-v1.md": "984ecfd11306304dd68310b0b20148577a7e8d43da6761a9bd570f95024cacbc",
+    "problems/2017-B4/notes/secondpass-candidate-manifest.json": "8da7e17e89b134ade5a77dbde898b6c795ecf31624b287de69d13565ef8b18d5",
+    "problems/2017-B4/notes/secondpass-checkpoint.md": "e3647d841e108e158791fa632de00239a35cbd92811fc9c257b4e6eee37f76bd",
+    "problems/2017-B4/notes/secondpass-issues.md": "afed1afc72364c4842ad7289c075fbe51a837de95d02af3071d8b0b061ed852f",
+    "problems/2017-B4/notes/secondpass-macmahon-candidate-v1.md": "83f254ec69a31b5bf57dddd241bd0e29277300b4f1ba78dbf3c2c02191913ffe",
+    "problems/2017-B4/notes/secondpass-periodic-grid-candidate-v1.md": "6e2a25e0bd94d230892c8c8eb31d931c4a09190826f1f210a97fcb207e852bd7",
+    "problems/2017-B4/reviews/secondpass-review-1.md": "13b22e6c664ea0880eb3508a6df06670caa84ffec18486f00696998c94d9cbc1",
+    "problems/2017-B4/reviews/secondpass-review-2-initial.md": "1780d421be9d46158f02428ab4a46e0504f3fd3733e31c6e37a398c35cd32012"
+  },
+  "weekly_context_from_coordinator": {
+    "used_percent_total": 9,
+    "reset_timestamp": 1792745187,
+    "stop_percent_total": 90
+  }
+}

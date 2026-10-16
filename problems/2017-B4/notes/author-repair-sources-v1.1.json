@@ -1,0 +1,41 @@
+{
+  "inspected_local_date": "2026-10-17 Australia/Brisbane",
+  "newly_cited_primary_source": {
+    "authors": "Stefan Felsner and Helmut Weil",
+    "title": "Sweeps, Arrangements and Signotopes",
+    "url": "https://page.math.tu-berlin.de/~felsner/Paper/sas-dam-rev.pdf",
+    "cache_path": ".cache/literature/2017/secondpass-review-2-felsner-weil.pdf",
+    "bytes": 395712,
+    "sha256": "a6995529d08034c0735b3f9b0b9a4f9dae01ac0a5f3864d88728c6d04f85c828",
+    "inspected": "Theorems 7-8 and Definition 1 on printed p. 15; proof of Theorem 7 on printed p. 19",
+    "method": "Author personally inspected existing rendered primary pages and checked cached PDF fingerprint; old-font pypdf extraction is known unusable",
+    "image_provenance": "Frozen reviews/secondpass-review-2-sources.json and secondpass-review-2-render.py",
+    "images_inspected": [
+      {
+        "path": ".cache/literature/2017/secondpass-review-2-source-fw-p15.png",
+        "sha256": "3b98b63e492bb0a856fb8c30b92dad2147638482ce904c66bdd1a1c08bdaee49"
+      },
+      {
+        "path": ".cache/literature/2017/secondpass-review-2-source-fw-p19.png",
+        "sha256": "670df316662c4c3dcde28814552d23452526ef98309a6ad450d929899cf8480e"
+      }
+    ],
+    "retrieval": "Reused existing ignored cache; no new download or source redistribution",
+    "redistribution_licence_verified_by_repair_author": false,
+    "tracked_full_paper": false
+  },
+  "other_primary_hypotheses_retained": [
+    {
+      "url": "https://page.math.tu-berlin.de/~felsner/Paper/new-pla.pdf",
+      "cache_path": ".cache/literature/2017/cited-7f7251133b0c4ebc.pdf",
+      "sha256": "9f68329a62318b355cde668eabb9a05073ce755becfdd81dc5a6a15f9db68c26",
+      "role": "MacMahon product and marked bundle completion; no change to M1/M3 proof"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2402.13107",
+      "cache_path": ".cache/literature/2017/cited-b5bf6499a3fedd25.pdf",
+      "sha256": "075dee678bceb7bddf599d1a402d37c56659bb84302765aa4c6a74b8539b0f17",
+      "role": "Section 4 simple partial input and private tail-disk hypotheses restored explicitly"
+    }
+  ]
+}

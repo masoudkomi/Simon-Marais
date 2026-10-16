@@ -1,0 +1,80 @@
+--- problems/2017-B4/notes/secondpass-periodic-grid-candidate-v1.md
++++ problems/2017-B4/notes/author-repair-periodic-grid-candidate-v1.1.md
+@@ -1,9 +1,11 @@
+-# A fixed-direction patch entropy and a bounded construction certificate
++# A fixed-direction patch entropy and a bounded construction certificate — candidate v1.1
+ 
+ **candidate proof - unverified**
+ 
+-Written 2026-10-16. This packet concerns one four-direction periodic boundary family. It does not establish the exact liminf or limsup of the official C(n), or their equality. Its numerical lower certificate is weaker than the attributed published 0.2721 bound and is offered as an explicit test of the gluing framework, not a new best bound. Novelty is not established.
++Full revised version **v1.1**, 2026-10-17 (Australia/Brisbane). The revision author is `/root/owner_2017`, the original constructor of these second-pass packets. Both frozen independent initial reports were read for this author repair. All frozen v1 notes, manifests and review reports are preserved. The revised inferences require both targeted re-audits and coordinator acceptance before any promotion.
++
++Original draft written 2026-10-16. This packet concerns one four-direction periodic boundary family. It does not establish the exact liminf or limsup of the official C(n), or their equality. Its numerical lower certificate is weaker than the attributed published 0.2721 bound and is offered as an explicit test of the gluing framework, not a new best bound. Novelty is not established.
+ 
+ ## Definition and exact boundary data
+ 
+ Use the infinite straight-line grid
+@@ -31,9 +33,13 @@
+ The same argument for horizontal subdivision gives
+ \[
+ Q(L,H_1+H_2)\ge Q(L,H_1)Q(L,H_2).\tag{2}
+ \]
+-Also f≥0. Define S4=sup_{L,H≥1} f(L,H)/(LH), allowing infinity initially. For a fixed block (a,b), tile a large rectangle with floor(L/a)floor(H/b) copies and leave its remaining strips in their original grid configuration. Repeated use of (1)–(2) yields
++Every boundary word has a minimal realization: generic straight chords give one, so Q≥1 and f≥0. Define S4=sup_{L,H≥1} f(L,H)/(LH), allowing infinity initially. For a fixed positive block (a,b), write L=qa+r and H=sb+u, with 0≤r<a and 0≤u<b. Repeatedly apply (1)–(2) and discard their nonnegative remainder terms to obtain
++\[
++f(L,H)\ge qs\,f(a,b).
++\]
++If r=0 or u=0, omit the corresponding remainder term rather than invoking f at zero. A positive-width remainder could equivalently be filled with one fixed minimal patch of its own full boundary word; no unresolved raw grid is retained. Dividing the displayed inequality by LH yields
+ \[
+ \liminf_{\min(L,H)\to\infty}\frac{f(L,H)}{LH}
+ \ge\frac{f(a,b)}{ab}.
+ \]
+@@ -69,15 +75,32 @@
+ \[
+ t_4=2t^2+2t+1,\qquad t_3=2t^2+2t.
+ \]
+ 
+-Tile the interior of the central diamond by integer translates of the 3 by 3 square patch, omitting only O(m) patches near its boundary. The number is m²/18−O(m). Choose any of its Q(3,3) reroutings independently in each patch. At each of the t3 triple crossings outside the diamond, a disjoint tiny disk permits its two resolutions. Leave all remaining crossings unchanged. Boundary preservation and disjoint crossing-pair assignments give at least
++Use the translated 3 by 3 rectangles of the periodic tiling and retain only those whose closures lie inside the central diamond. Their number is K_m=m²/18−O(m): a discarded intersecting rectangle lies in a fixed-width band along a boundary of length O(m). Round and shrink retained supports within sufficiently thin crossing-free collars, retaining their entire paired boundary words and every grid crossing originally inside them. The rational offsets keep all grid vertices a fixed positive distance from the tiling edges, so this separates neighboring closed supports without releasing a multicrossing into an interior corridor. Choose any of the Q(3,3) minimal reroutings in each retained support.
++
++At each of the t3 triple crossings outside the diamond, choose a tiny disk disjoint from all large supports and from the other such disks. It meets exactly its three incident strands in proper transverse two-port arcs and no nonincident line. Count both simple resolutions in each such disk.
++
++### Fixed resolution of every uncovered multicrossing
++
++Before the bundle-tail completion, let R_m be **all original multicrossings outside the retained large supports and the counted triple disks**, including any uncovered corridor point. In this tiling they are fourfold points in the omitted boundary band; there are O(m) of them. In particular (0,t) and (t,0) belong to this set when t≥1. They are not counted triple points and must be resolved.
++
++Choose, once for each m and before varying any counted rerouting, a small closed disk E_v about every v in R_m. These disks can be simultaneously pairwise disjoint, disjoint from every previously selected support, and avoid all other original crossings and all lines not incident to v. Indeed there are finitely many distinct points and supports; no original grid vertex lies on a selected support boundary; and every nonincident straight line has positive distance from v. Take each radius smaller than the corresponding finite positive separation minima. Each of its four incident lines then cuts E_v in a proper transverse arc with two distinct ports. The choices made inside the other supports never alter the original geometry near E_v.
++
++For each E_v fix **one** simple boundary-preserving four-strand resolution, for example one fixed adjacent-swap reversal wiring matched to its cyclic ports. The four incident lines' endpoints alternate pairwise, so this resolution makes every one of the six pairs cross exactly once and has no triple meeting. The same finite local construction would fix any other uncovered multicrossing if one arose under a support variant. No multiplicity is assigned to a fixed repair disk: it has one selected output, not an additional free parameter.
++
++Only the remaining **simple** crossings are left unchanged. All selected patch realizations are simple; all counted triple disks and fixed repair disks are simple; and their boundary collars contain no crossings. Therefore the whole output is now a **simple partial arrangement**: each cross-family pair still crosses exactly once, and same-family pairs are still noncrossing. The original crossing-pair assignments were disjoint across these regions, so no replacement creates a missing or repeated pair crossing or a self-crossing of a global strand.
++
++Every choice of the original counted patch and triple resolutions survives this fixed repair. Their local crossing orders remain recoverable in their designated slots of the global labelled strand orders, while all E_v choices are identical across outputs. Hence the number of simple partial arrangements is still at least
+ \[
+-2^{m^2/2-O(m)}\,Q(3,3)^{m^2/18-O(m)}
++2^{t_3}\,Q(3,3)^{K_m}
++\ge 2^{m^2/2-O(m)}\,Q(3,3)^{m^2/18-O(m)}.
+ \]
+-partial arrangements.
++The O(m) fixed disks add no counted choices and remove none. The omission error in K_m is the same boundary-band error already present in v1; no new exponent loss or coefficient change is introduced.
+ 
+-Finally, in a private tail disk for each formerly parallel bundle, insert an arbitrary marked m-strand arrangement. The standard bundle completion construction of Felsner–Valtr Section 4 and Cortés Kühnast et al. Section 4 gives an injective factor C(m)^4. Its hypotheses here are explicit: each disk meets just one bundle, all m strands of that bundle, and no other bundle. Place these disks far beyond the finite cross-family crossing region, in four separate directions.
++### Completion and padding
++
++Now insert an arbitrary marked m-strand arrangement in a private tail disk for each formerly parallel bundle. The input is the **simple partial arrangement** just constructed, as required by Felsner–Valtr Section 4 and Cortés Kühnast et al. Section 4, [full arXiv version](https://arxiv.org/abs/2402.13107). All central modifications lie in bounded supports and leave the distant tails straight and parallel. Place one disk far along a distinct ray direction of each bundle. A radius O(m) covers its bundle's width; by choosing the center distance sufficiently large, angular separation keeps every other-family line and the other tail disks outside it. Thus the four disks are pairwise disjoint, meet all m strands of their own bundle in proper transverse arcs, and meet no strand of another bundle. They are beyond every finite cross-family crossing and all the fixed repair supports. These are the cited completion construction's hypotheses and give the injective factor C(m)^4.
+ 
+ This completion step uses a fixed reversal reconnection of each outgoing bundle tail. The old parallel boundary pairing is deliberately replaced by the complete m-strand pairing; every C(m) child has the same reversal connectivity. Thus it is a separate, specified bundle-completion operation rather than an application of F3 with an unchanged parallel pairing. Each formerly parallel pair then crosses once, and every cross-family crossing remains fixed. The reconnection is identical for every child choice, so boundary labellings are consistent across outputs. The child arrangement can be recovered from the crossings within its bundle; projecting the other crossing orders recovers the chosen partial grid arrangement. This is the intended product injection.
+ 
+ For arbitrary sufficiently large n, choose the largest odd m≤n/4 and append the at most seven unused strands by one fixed outside wiring pattern. Deleting those strands recovers the construction, so this padding is injective. We obtain
+@@ -91,9 +114,9 @@
+ \liminf\frac{\log_2 C(n)}{n^2}
+ \ge\frac{1+\log_2 Q(3,3)/9}{24}
+ =0.1900060770448\ldots.\tag{G2}
+ \]
+-The equality on the right uses the finite computational count Q(3,3)=4419734746 and must await its independent audit. The already published 0.2721 bound remains much stronger. This construction is useful as a small, reproducible geometry/count/recursion certificate and as a concrete escape from the ternary obstruction in M2, not as a frontier improvement.
++The equality on the right uses the unchanged finite input Q(3,3)=4419734746. Both frozen initial reviews independently reproduced that input; the revised construction still requires both targeted re-audits and coordinator acceptance. The already published 0.2721 bound remains much stronger. This construction is useful as a small, reproducible geometry/count/recursion certificate and as a concrete escape from the ternary obstruction in M2, not as a frontier improvement.
+ 
+ ## Review scope
+ 
+-Two independent adversarial reviewers, one reconstructing the entire argument, must audit any proposed promotion. In G1 check the exact seam phase, product injection and distinction from C. In G2 check the grid's triple/fourfold counts, the density and omission error of 3 by 3 patches, private bundle-tail disks, padding to all n, the recurrence coefficient, and the exact finite DP count. The unfinished L=4 run must never enter a bound.
++Both independent initial reports on frozen v1 are complete. Each reviewer must re-audit the actual v1.1 changes before the coordinator can accept them: G1's nonnegative remainder argument; G2's finite separation and disjoint fixed resolution disks, recovery of simple partial input, survival of every counted choice, unchanged exponent, and the tail-completion hypotheses. The full marked-boundary count and all-n padding remain in force. Q(3,3), the original computation caps and outputs are unchanged; the unfinished L=4 run must never enter a bound. This author packet remains candidate proof - unverified and contains no promotion.

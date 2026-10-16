@@ -1,0 +1,34 @@
+--- problems/2017-B4/notes/secondpass-macmahon-candidate-v1.md
++++ problems/2017-B4/notes/author-repair-macmahon-candidate-v1.1.md
+@@ -1,9 +1,11 @@
+-# Unequal three-bundle entropy: candidate v1
++# Unequal three-bundle entropy: candidate v1.1
+ 
+ **candidate proof - unverified**
+ 
+-Written 2026-10-16. No independent reviewer has audited this version. No claim of novelty, a better global B4 bound, or a solution of the open rates is made. The purpose is a precise obstruction to a tempting improvement of an existing construction.
++Full revised version **v1.1**, 2026-10-17 (Australia/Brisbane). The revision author is `/root/owner_2017`, the original constructor of these second-pass packets. Both frozen independent initial reports were read for this author repair. All frozen v1 notes, manifests and review reports are preserved. The revised inferences require both targeted re-audits and coordinator acceptance before any promotion.
++
++Original draft written 2026-10-16. No independent reviewer has audited this version. No claim of novelty, a better global B4 bound, or a solution of the open rates is made. The purpose is a precise obstruction to a tempting improvement of an existing construction.
+ 
+ Requested worker settings: `gpt-6.1-sol`, `max`; effective-setting readback unavailable.
+ 
+ ## Attribution and relation to the open problem
+@@ -116,9 +118,9 @@
+ \(M^2\le e^{4\kappa S}=(27/16)^S\), which is (M1).
+ 
+ ## Candidate M2: consequence for adaptive ternary gluing
+ 
+-Define a **specific construction model**, rather than claiming it covers all arrangements. An ordered rooted ternary tree partitions n singleton strands. A node whose three child subtrees have a,b,c leaves may choose independently one of M(a,b,c) three-bundle partial arrangements. The choices within each child are then inserted using the boundary-preserving gluing construction. For one fixed tree T, the number of represented outputs is at most the product of those M-values (and equals that product if the gluing map is injective).
++Define a **specific construction model**, rather than claiming it covers all arrangements. An ordered rooted **full** ternary tree (every internal node has exactly three children) has n singleton strand leaves. Such a tree exists only when n is odd; for even n this singleton-leaf family is empty. This is an upper-counting construction model, not an all-n lower construction. The fixed bounded-size base-block extension is considered separately below. A node whose three child subtrees have a,b,c leaves may choose independently one of M(a,b,c) three-bundle partial arrangements. The choices within each child are then inserted using the boundary-preserving gluing construction. For one fixed tree T, the number of represented outputs is at most the product of those M-values (and equals that product if the gluing map is injective).
+ 
+ Applying (M1) at every internal node and telescoping gives
+ \[
+ \log_2\prod_{v\in T}M(a_v,b_v,c_v)
+@@ -152,5 +154,5 @@
+ For the three-bundle toll, the bit-valued local coefficient is \(A_{\rm bits}=A(p,q,r)/\log 2\) from (2), and (3) says that the right side of (5) is at most c0. The exact finite bound (4) is the stronger obstruction for that particular family.
+ 
+ ## Independent-review obligations
+ 
+-Two fresh adversarial reviewers must audit this packet independently before any promotion; one must reconstruct it. Check especially the direction of Jensen, the integral normalization, endpoint treatment in the calculus maximum, the scope of the tree model, and the induction's all-n hypothesis. Finite exact tests in `secondpass-macmahon-bound-output.txt` are evidence only. They are not the proof of (M1).
++Both independent initial v1 reports are frozen. This v1.1 adds the explicit full-ternary/odd-leaf convention in M2; the M1 and M3 mathematical arguments are unchanged. Both reviewers must perform the requested targeted re-audit of the revised scope before coordinator acceptance. Finite exact tests in `secondpass-macmahon-bound-output.txt` remain evidence only, not the proof of M1. This author revision does not promote any result.

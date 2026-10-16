@@ -1,0 +1,155 @@
+{
+  "center_mask": 6436,
+  "u_mask": 24785,
+  "P": [
+    997987258040,
+    -14183005342600,
+    87026447494580,
+    -270148224191760,
+    342669655928340,
+    320424919936992,
+    -1789474384130160,
+    2692621443744960,
+    -1923786091202430,
+    536151441709520,
+    22194908255520,
+    63006406837920,
+    -86332147279560,
+    7608232260720,
+    16926127849800,
+    -6118958966784,
+    558574105185
+  ],
+  "Q": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    12325308291600,
+    -95698203564000,
+    244525310062800,
+    -104138451705600,
+    -667596269715804,
+    1437616989099720,
+    -1227794046052860,
+    403158495009600,
+    4885772225400,
+    41424307050720,
+    -64899036441045,
+    8685458494740,
+    11785390648650,
+    -4565539482320,
+    427850346682
+  ],
+  "degrees": [
+    16,
+    20
+  ],
+  "trials": [
+    {
+      "prime": 101,
+      "prime_verified": true,
+      "leading_residues": [
+        0,
+        36
+      ],
+      "retained_degrees": [
+        15,
+        20
+      ],
+      "gcd_degree": 0,
+      "gcd_coefficients": [
+        75
+      ]
+    },
+    {
+      "prime": 103,
+      "prime_verified": true,
+      "leading_residues": [
+        93,
+        102
+      ],
+      "retained_degrees": [
+        16,
+        20
+      ],
+      "gcd_degree": 1,
+      "gcd_coefficients": [
+        0,
+        70
+      ]
+    },
+    {
+      "prime": 107,
+      "prime_verified": true,
+      "leading_residues": [
+        5,
+        92
+      ],
+      "retained_degrees": [
+        16,
+        20
+      ],
+      "gcd_degree": 2,
+      "gcd_coefficients": [
+        0,
+        0,
+        28
+      ]
+    },
+    {
+      "prime": 109,
+      "prime_verified": true,
+      "leading_residues": [
+        10,
+        40
+      ],
+      "retained_degrees": [
+        16,
+        20
+      ],
+      "gcd_degree": 1,
+      "gcd_coefficients": [
+        75,
+        34
+      ]
+    },
+    {
+      "prime": 127,
+      "prime_verified": true,
+      "leading_residues": [
+        85,
+        73
+      ],
+      "retained_degrees": [
+        16,
+        20
+      ],
+      "gcd_degree": 1,
+      "gcd_coefficients": [
+        31,
+        107
+      ]
+    },
+    {
+      "prime": 131,
+      "prime_verified": true,
+      "leading_residues": [
+        8,
+        102
+      ],
+      "retained_degrees": [
+        16,
+        20
+      ],
+      "gcd_degree": 0,
+      "gcd_coefficients": [
+        77
+      ]
+    }
+  ],
+  "seconds": 0.00040687498403713107,
+  "canonical_polynomial_record_sha256": "a6eef35b351004c97f92c39bcad7a3b8caf999e00cd9c3b1103119b5c535cea3"
+}
