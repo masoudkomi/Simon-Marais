@@ -1,0 +1,18 @@
+{
+  "branch": "codex/smmc-b4-research",
+  "remote": "https://github.com/masoudkomi/Simon-Marais.git",
+  "phase": "initial passes plus independent review",
+  "last_pushed_commit": "bd6b07b",
+  "initial_passes_complete": [2017, 2018, 2019],
+  "active": [
+    {"agent": "owner_2020", "role": "owner", "year": 2020},
+    {"agent": "owner_2021", "role": "owner", "year": 2021},
+    {"agent": "review_2018_r2", "role": "independent reviewer", "year": 2018}
+  ],
+  "initial_passes_pending": [2022, 2023, 2024, 2025],
+  "deferred": [2026],
+  "weekly_used_percent_last_observed": 1,
+  "weekly_reset_unix": 1792745187,
+  "caffeinate": {"pid": 5398, "exec_session": 57629, "duration_seconds": 43200},
+  "notes": "Record, not live telemetry. Read latest reports and actual agent states before resuming. All current candidates remain unverified."
+}
