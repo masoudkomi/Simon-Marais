@@ -1,0 +1,274 @@
+{
+  "utc_frozen": "2026-10-16T17:13:51Z",
+  "status": "initial blind independent R2 audit frozen; no unresolved substantive objection; coordinator promotion only after two whole audits",
+  "scope": "rational degree20 J=16 exclusion L1-L4 only",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "effective_setting_readback": null,
+  "peer_J16_output_read": false,
+  "constructor_code_data_opened_after_predata_freeze": true,
+  "all_113_candidate_artifacts_unchanged_at_final_freeze": true,
+  "weekly_total_used_percent": 13,
+  "weekly_resets_at": 1792745187,
+  "artifact_count": 46,
+  "artifacts": [
+    {
+      "path": "problems/2021-B4/reviews/J16-digits-review-2-artifact-audit-attempt1.py",
+      "bytes": 16641,
+      "sha256": "b17bf7477a9302c54a37d949b0a43e8084a911cd2f70ca81364aafb3e78b6a19"
+    },
+    {
+      "path": "problems/2021-B4/reviews/J16-digits-review-2-artifact-audit-benchmark-v1.py",
+      "bytes": 16626,
+      "sha256": "7aa1729f3a68dd9d96c3f21c118f3f781faae68dff3334e82d7c7532261cac77"
+    },
+    {
+      "path": "problems/2021-B4/reviews/J16-digits-review-2-artifact-audit.py",
+      "bytes": 17558,
+      "sha256": "ad90b5902908d848daa21dc45b40d656d3ed00e4e39ac76ad103655965f6139c"
+    },
+    {
+      "path": "problems/2021-B4/reviews/J16-digits-review-2-artifact-benchmark-attempt1-job.json",
+      "bytes": 680,
+      "sha256": "618818a6c490c2ee13d4c4875a1644c34065f9673f324190fa471e074f9c9735"
+    },
+    {
+      "path": "problems/2021-B4/reviews/J16-digits-review-2-artifact-benchmark-attempt1-stderr.txt",
+      "bytes": 630,
+      "sha256": "e40b06398c33c254f74933401062debce76271f2f5750900db5dc6e6394a65d3"
+    },
+    {
+      "path": "problems/2021-B4/reviews/J16-digits-review-2-artifact-benchmark-attempt1-stdout.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "problems/2021-B4/reviews/J16-digits-review-2-artifact-benchmark-job.json",
+      "bytes": 678,
+      "sha256": "7ba27ac7174c9ec9507d61b6cbca4d85044e038d98cc49dd7cb5f610446449e0"
+    },
+    {
+      "path": "problems/2021-B4/reviews/J16-digits-review-2-artifact-benchmark-result.json",
+      "bytes": 35275,
+      "sha256": "99e91f224550cadf1fd1f78617366b7b8d88cab0a2db88cf05d61c61d390427e"
+    },
+    {
+      "path": "problems/2021-B4/reviews/J16-digits-review-2-artifact-benchmark-stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "problems/2021-B4/reviews/J16-digits-review-2-artifact-benchmark-stdout.txt",
+      "bytes": 426,
+      "sha256": "494fa9eec3412d57dcc813a6d5443733e58c00705be4211979ed94014acb92a5"
+    },
+    {
+      "path": "problems/2021-B4/reviews/J16-digits-review-2-artifact-full-job.json",
+      "bytes": 660,
+      "sha256": "8ff5b0ed55c33df2b2efeedf13776f6482af7d04306ce1680f392bdd03fa5fc7"
+    },
+    {
+      "path": "problems/2021-B4/reviews/J16-digits-review-2-artifact-full-result.json",
+      "bytes": 71202,
+      "sha256": "5cbdd77f87e7cc2ca694359376e49e6390d4226a43f7807553d2ee54e2170db6"
+    },
+    {
+      "path": "problems/2021-B4/reviews/J16-digits-review-2-artifact-full-stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "problems/2021-B4/reviews/J16-digits-review-2-artifact-full-stdout.txt",
+      "bytes": 10317,
+      "sha256": "48955f14b0482c5d0dbfecb1a50d24264774b9eac029e850362edce604903db3"
+    },
+    {
+      "path": "problems/2021-B4/reviews/J16-digits-review-2-benchmark-certificates.jsonl.gz",
+      "bytes": 56624,
+      "sha256": "ddfb5b1fe7a566540139842d8cc0c5a801aaa1bab9f3ebf8198e52c0eeeb243a"
+    },
+    {
+      "path": "problems/2021-B4/reviews/J16-digits-review-2-benchmark-checkpoint.json",
+      "bytes": 650,
+      "sha256": "fe01fbc3809b663c66d83b4386a206553a1494341ffcad8ef175b0483d2fae9f"
+    },
+    {
+      "path": "problems/2021-B4/reviews/J16-digits-review-2-benchmark-job.json",
+      "bytes": 676,
+      "sha256": "6bfaf9086fa6859888b6b1a3ae87c6b83a21222a3622be22f2c85345b655f98b"
+    },
+    {
+      "path": "problems/2021-B4/reviews/J16-digits-review-2-benchmark-leading.json",
+      "bytes": 148873,
+      "sha256": "9c050ab5460504a8793514af5b1c26bbdb42b487a9b46b777972fc9e740cb1f4"
+    },
+    {
+      "path": "problems/2021-B4/reviews/J16-digits-review-2-benchmark-result.json",
+      "bytes": 149605,
+      "sha256": "16997150741099a86e1c22836ba5c92b230da13d9fefdd9cdb535d074cec332e"
+    },
+    {
+      "path": "problems/2021-B4/reviews/J16-digits-review-2-benchmark-stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "problems/2021-B4/reviews/J16-digits-review-2-benchmark-stdout.txt",
+      "bytes": 647,
+      "sha256": "3b8cfb304cc44bf215245e726198232c1942c9ad912b09833cd94b2aed1943b2"
+    },
+    {
+      "path": "problems/2021-B4/reviews/J16-digits-review-2-freeze.py",
+      "bytes": 2530,
+      "sha256": "c5ebb2c8923908f97fb9a3a7f786987b4a79f52491bedee4bea2e06718ae06c1"
+    },
+    {
+      "path": "problems/2021-B4/reviews/J16-digits-review-2-full-certificates.jsonl.gz",
+      "bytes": 6576760,
+      "sha256": "5b730fa8623f5fd303a950da0cdbcb47902738942c70af72cbfd18c457fbab85"
+    },
+    {
+      "path": "problems/2021-B4/reviews/J16-digits-review-2-full-checkpoint.json",
+      "bytes": 7966,
+      "sha256": "d38a24eea6bf733c954a92394b5f72fc962233d6d6adbd085a8ab40e39f78988"
+    },
+    {
+      "path": "problems/2021-B4/reviews/J16-digits-review-2-full-job.json",
+      "bytes": 658,
+      "sha256": "aebdcc02f86c566fb8380564d123ec780fbe5a18f7d9a807517192d2db66b109"
+    },
+    {
+      "path": "problems/2021-B4/reviews/J16-digits-review-2-full-leading.json",
+      "bytes": 148868,
+      "sha256": "c685bb889118be33d6884909d0c95f2219165980844ec09ea08f313bb1baa636"
+    },
+    {
+      "path": "problems/2021-B4/reviews/J16-digits-review-2-full-result.json",
+      "bytes": 400105,
+      "sha256": "4d3f811600508d8b6e507c88e81436ff7c8d1d497d65b5391a1d2388f3eaee28"
+    },
+    {
+      "path": "problems/2021-B4/reviews/J16-digits-review-2-full-stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "problems/2021-B4/reviews/J16-digits-review-2-full-stdout.txt",
+      "bytes": 13357,
+      "sha256": "82c396f1a51b52831b4c3a2ab91f366047ffdada35e879a41369465dda0d600a"
+    },
+    {
+      "path": "problems/2021-B4/reviews/J16-digits-review-2-independent-derivation.md",
+      "bytes": 8118,
+      "sha256": "ef3c998723c3eb08b66c5b6d48138c73b34577a4a7d70dffb273b6dcedcb7cff"
+    },
+    {
+      "path": "problems/2021-B4/reviews/J16-digits-review-2-independent.py",
+      "bytes": 14388,
+      "sha256": "428a574119ea2dbbe33700654cb8fe6b48ed9e5ca1a9609e23c1669c6ee9dc86"
+    },
+    {
+      "path": "problems/2021-B4/reviews/J16-digits-review-2-issues.md",
+      "bytes": 5413,
+      "sha256": "fa75c03e9ada95e402edf40e4ea88c0ce4d8f87449653fd9860300e31760e423"
+    },
+    {
+      "path": "problems/2021-B4/reviews/J16-digits-review-2-metadata-audit-v1.py",
+      "bytes": 4998,
+      "sha256": "b317091e90c91fa5722171c768622fcf91ce834d0242acd97fbea07dc4b245b1"
+    },
+    {
+      "path": "problems/2021-B4/reviews/J16-digits-review-2-metadata-audit.py",
+      "bytes": 4989,
+      "sha256": "afddd306e599500e4eac8baec9c3fb35e57b8e56fa16a4e0ec7539b31c308cb4"
+    },
+    {
+      "path": "problems/2021-B4/reviews/J16-digits-review-2-metadata-job.json",
+      "bytes": 660,
+      "sha256": "99baba8c75fc1172ebcce89921a469a5a09b0aad92e173f13e0b0b537b60a591"
+    },
+    {
+      "path": "problems/2021-B4/reviews/J16-digits-review-2-metadata-result.json",
+      "bytes": 1210,
+      "sha256": "e868bf2f00a5c13e81751c97c97c262f09b30d4901e180173210e347ba7a3436"
+    },
+    {
+      "path": "problems/2021-B4/reviews/J16-digits-review-2-metadata-stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "problems/2021-B4/reviews/J16-digits-review-2-metadata-stdout.txt",
+      "bytes": 966,
+      "sha256": "48dc476e568a5ecb71196b0bb4457f9ba2ef9cea6728adcc9bf8746f626dd1ad"
+    },
+    {
+      "path": "problems/2021-B4/reviews/J16-digits-review-2-metadata-v1-job.json",
+      "bytes": 660,
+      "sha256": "4715493d19b9a1ff384ef2021207a4e7632f80d53076bf0f117cb031306aa8a8"
+    },
+    {
+      "path": "problems/2021-B4/reviews/J16-digits-review-2-metadata-v1-result.json",
+      "bytes": 1210,
+      "sha256": "99209365538db8b7e8a035ad62998e35ff2ba311d9f5437eb372d1322a623df2"
+    },
+    {
+      "path": "problems/2021-B4/reviews/J16-digits-review-2-metadata-v1-stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "problems/2021-B4/reviews/J16-digits-review-2-metadata-v1-stdout.txt",
+      "bytes": 966,
+      "sha256": "d3a82bed16edbfaa03903db6eb91886e95c0c0117b483534ddacd2bc9875449b"
+    },
+    {
+      "path": "problems/2021-B4/reviews/J16-digits-review-2-predata-freeze.json",
+      "bytes": 1659,
+      "sha256": "a4197575492c1dad1170bd164acc12c54441f0ca5c3a8138ced95af3a8b47e5b"
+    },
+    {
+      "path": "problems/2021-B4/reviews/J16-digits-review-2-runner.py",
+      "bytes": 1688,
+      "sha256": "c5081e4e18204b5b9226e08ff7a39ac5390033794b92ba84bb87ceaa4ca57476"
+    },
+    {
+      "path": "problems/2021-B4/reviews/J16-digits-review-2-telemetry.json",
+      "bytes": 627,
+      "sha256": "26bea90e988b1ee2cfd2c699c078582d73ffaecd78735a5163f7ec85b084f188"
+    },
+    {
+      "path": "problems/2021-B4/reviews/J16-digits-review-2.md",
+      "bytes": 14167,
+      "sha256": "afd4970bc8d3ce40541439d3d8f42f41810ab51c0b9b60e66e3d4264a3588941"
+    }
+  ],
+  "candidate_manifests": {
+    "coordinator-J16-coupled-leading-candidate-v1-manifest.json": {
+      "sha256": "da57838f8b632e9153f86742ed33096821627fbd3fdc2089f90fda6ea88d2878",
+      "artifacts": 12
+    },
+    "coordinator-J16-coupled-digit-candidate-v1-manifest.json": {
+      "sha256": "b9e20e7634f94f2ad34055f5da2efd0460e5645d9c3d8933800bd4892321d2ad",
+      "artifacts": 46
+    },
+    "owner-J16-Hensel-v1-manifest.json": {
+      "sha256": "2f5eec6a98e0ff8c264259a508868c3d0e5f5befa8de833a9434dfd7fc069f6a",
+      "artifacts": 53
+    },
+    "owner-J16-Hensel-v2-manifest.json": {
+      "sha256": "8b9cd2bbcf1740cb119436d58eb4a9f60dbf7afe5e9d23f077e1bc7428d75db8",
+      "artifacts": 14
+    }
+  },
+  "source_version_binding": {
+    "artifact_attempt1": "J16-digits-review-2-artifact-audit-attempt1.py",
+    "artifact_benchmark": "J16-digits-review-2-artifact-audit-benchmark-v1.py",
+    "artifact_full": "J16-digits-review-2-artifact-audit.py",
+    "metadata_v1": "J16-digits-review-2-metadata-audit-v1.py",
+    "metadata_final": "J16-digits-review-2-metadata-audit.py"
+  },
+  "operational_note": "First inline final-freeze command used a relative parent root and failed before writing manifest; corrected by this absolute __file__ root discovery. No candidate or frozen mathematical source changed."
+}

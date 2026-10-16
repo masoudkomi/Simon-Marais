@@ -1,0 +1,38 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "-u",
+    "problems/2021-B4/reviews/J16-digits-review-1-verifier.py",
+    "--output",
+    "problems/2021-B4/reviews/J16-digits-review-1-result.json",
+    "--certificates",
+    "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-001.jsonl.gz",
+    "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-002.jsonl.gz",
+    "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-003.jsonl.gz",
+    "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-004.jsonl.gz",
+    "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-005.jsonl.gz",
+    "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-006.jsonl.gz",
+    "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-007.jsonl.gz",
+    "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-008.jsonl.gz",
+    "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-009.jsonl.gz",
+    "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-010.jsonl.gz",
+    "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-011.jsonl.gz",
+    "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-012.jsonl.gz",
+    "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-013.jsonl.gz",
+    "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-014.jsonl.gz",
+    "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-015.jsonl.gz"
+  ],
+  "timeout_seconds": 300.0,
+  "status": "finished",
+  "runner_pid": 51598,
+  "source_sha256": {
+    "problems/2021-B4/reviews/J16-digits-review-1-verifier.py": "255f8d0ccf7925c7b2804067bad853c36cd6b6b7e8418b64ec161cb0697e3c98"
+  },
+  "child_pid": 51599,
+  "exit_code": 0,
+  "timed_out": false,
+  "reaped": true,
+  "seconds": 49.436,
+  "stdout_sha256": "3117e318e7d3318fb755b67e86ac377afd7ccd4a5c239d500f2dbd4b7cf45604",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

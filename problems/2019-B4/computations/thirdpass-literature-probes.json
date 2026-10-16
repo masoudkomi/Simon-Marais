@@ -1,0 +1,71 @@
+{
+  "status": "finite evidence only; failed residual-conjugacy conjecture",
+  "rows": [
+    {
+      "separation_cap": 3,
+      "residual_pairs": 22,
+      "nonconjugate_pairs": 0,
+      "first_counterexamples": []
+    },
+    {
+      "separation_cap": 4,
+      "residual_pairs": 78,
+      "nonconjugate_pairs": 12,
+      "first_counterexamples": [
+        [
+          "0011",
+          "0101"
+        ],
+        [
+          "0011",
+          "1010"
+        ]
+      ]
+    },
+    {
+      "separation_cap": 5,
+      "residual_pairs": 280,
+      "nonconjugate_pairs": 90,
+      "first_counterexamples": [
+        [
+          "00011",
+          "00101"
+        ],
+        [
+          "00011",
+          "01001"
+        ]
+      ]
+    },
+    {
+      "separation_cap": 6,
+      "residual_pairs": 1022,
+      "nonconjugate_pairs": 540,
+      "first_counterexamples": [
+        [
+          "000011",
+          "000101"
+        ],
+        [
+          "000011",
+          "001001"
+        ]
+      ]
+    },
+    {
+      "separation_cap": 7,
+      "residual_pairs": 3782,
+      "nonconjugate_pairs": 2566,
+      "first_counterexamples": [
+        [
+          "0000011",
+          "0000101"
+        ],
+        [
+          "0000011",
+          "0001001"
+        ]
+      ]
+    }
+  ]
+}

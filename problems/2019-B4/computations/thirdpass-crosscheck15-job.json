@@ -1,0 +1,27 @@
+{
+  "command": [
+    "python3",
+    "problems/2019-B4/computations/thirdpass-delay-crosscheck.py",
+    "--max-length",
+    "15",
+    "--prefix",
+    "problems/2019-B4/computations/thirdpass-delay",
+    "--obstructions",
+    "problems/2019-B4/computations/secondpass-full-obstruction24-v2.json",
+    "--output",
+    "problems/2019-B4/computations/thirdpass-crosscheck15.json"
+  ],
+  "timeout_seconds": 60.0,
+  "started_utc": "2026-10-16T17:14:58.854010+00:00",
+  "supervisor_pid": 57029,
+  "status": "completed",
+  "child_pid": 57030,
+  "returncode": 0,
+  "elapsed_seconds": 2.5622437080019154,
+  "completed_utc": "2026-10-16T17:15:01.416870+00:00",
+  "source_sha256": {
+    "problems/2019-B4/computations/thirdpass-delay-crosscheck.py": "1849eef2aace691e0ead036a0932bc3a625644726f0cfabd512d90ec61721378",
+    "problems/2019-B4/computations/secondpass-full-obstruction24-v2.json": "48ee03a0f7be101763ca7132a68925bcd51a5ceb030ccfbf86dab96fda315d59",
+    "problems/2019-B4/computations/thirdpass-crosscheck15.json": "42d142c6a3db0cb33b13b2b46a3a01772a06e002d41794725898f068e70cbecc"
+  }
+}

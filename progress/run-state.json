@@ -2,7 +2,7 @@
   "branch": "codex/smmc-b4-research",
   "remote": "https://github.com/masoudkomi/Simon-Marais.git",
   "phase": "all initial passes complete; independent review and focused research",
-  "last_pushed_commit": "e0e7941",
+  "last_pushed_commit": "7d740b7",
   "initial_passes_complete": [
     2017,
     2018,
@@ -16,34 +16,38 @@
   ],
   "active": [
     {
-      "agent": "review_2021_j16_digits_r1",
-      "year": 2021,
-      "role": "fresh blind full L1\u2013L4 auditor, including complete empty digit tree"
+      "agent": "review_2019_thirdpass_r1",
+      "year": 2019,
+      "role": "fresh blind whole candidate review"
+    },
+    {
+      "agent": "review_2019_thirdpass_r2",
+      "year": 2019,
+      "role": "second fresh blind whole candidate review"
     },
     {
       "agent": "review_2021_j16_digits_r2",
-      "year": 2021,
-      "role": "second fresh blind full L1\u2013L4 auditor; no peer conclusions"
-    },
-    {
-      "agent": "owner_2019_structure3",
-      "year": 2019,
-      "role": "new exact two-tape structural investigation, not brute-force cap extension"
+      "years": [
+        2017,
+        2018,
+        2024
+      ],
+      "role": "deep literature; 2017 concavity candidate frozen unverified"
     }
   ],
   "initial_passes_pending": [],
   "deferred": [
     2026
   ],
-  "weekly_used_percent_last_observed": 12,
+  "weekly_used_percent_last_observed": 14,
   "weekly_reset_unix": 1792745187,
   "caffeinate": {
     "pid": 5398,
     "exec_session": 57629,
     "duration_seconds": 43200
   },
-  "notes": "2020 P1\u2013P6 and attributed square descent accepted after both blind full reconstructions; source numbering clarified, original imported proofs not reconstructed. Complex C20 accepted; no full degree solved. Entire rational J=16 exclusion candidate remains unverified, root L1\u2013L3 and owner uniform remainder precision-four v1 plus fixed precision-eight v2 empty at precision six. Both fresh full audits active. All constructor children reaped. OS renderer termination from earlier R2 stall remains unverified. No current stop condition.",
-  "observed_at_utc": "2026-10-16T17:00:14.684736+00:00",
+  "notes": "Rational J16 exclusion accepted after two whole audits; 684 other masks remain, no full degree20 solution. All three R1 deep-literature reports frozen and root-read in full. Two fresh blind 2019 whole audits active. R2 literature continues; its new2017 concavity candidate is frozen unverified. Root2022 signed-digit finite checks passed, lead unverified. Latest14%weeklyused same reset. Latest token observation17:31UTC298729173total including cachedinput,15622357uncachedinputplusoutput. No stop condition.",
+  "observed_at_utc": "2026-10-16T17:24:59+00:00",
   "coordinator_compute": {
     "status": "all constructor children completed and reaped",
     "complex_complement_child_pid": 37199,

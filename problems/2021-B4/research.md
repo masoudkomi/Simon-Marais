@@ -180,3 +180,9 @@ exclusion and a J16 restriction in degree20. All29928 compatibility records
 and parameters are saved; the combined necessary filter leaves1164 patterns.
 These new claims remain unverified and solve no full degree. The first fresh
 adversarial audit is active; the second is pending.
+
+## Reviewed rational J=16 exclusion and literature expansion
+
+2026-10-16 UTC: the whole L1–L4 argument is **proved, independently reviewed (partial result)** after two fresh blind full reconstructions, every coefficient/fiber record and all final exact obstructions. The 840396→361194→2026→90→14→0 necessary digit tree is empty at precision six. All88J16 masks are removed, leaving684 other necessary patterns; degree20 remains unresolved. See notes/coordinator-J16-exclusion-reviewed-v1.1.md and reviews/J16-acceptance.md/json.
+
+The separate frozen J15 triple-zero leading candidate only restricts that multiplicity subcase, not entire masks. It is unverified and must not be used as an accepted dependency. A new deep primary-literature pass checks known degree families and rational versus all-roots-rational hypotheses before extending computations.

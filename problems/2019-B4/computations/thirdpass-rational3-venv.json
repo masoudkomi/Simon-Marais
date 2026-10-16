@@ -1,0 +1,10 @@
+{
+  "input": "problems/2019-B4/computations/thirdpass-delay3.json",
+  "dimension": 9,
+  "C": "(z**8 + 2*z**5 - 1)/(z**8 - 4*z**6 + 2*z**5 - z**4 + 2*z - 1)",
+  "F": "z**4*(2*z**5 - 1)/(z**8 + 2*z**5 - 1)",
+  "F_series": "z**4 + z**12 + 2*z**17 + z**20 + 4*z**22 + 4*z**25 + 8*z**27 + z**28 + 12*z**30 + 16*z**32 + 6*z**33 + 32*z**35 + z**36 + 32*z**37 + 24*z**38 + 80*z**40 + 8*z**41 + 64*z**42 + 80*z**43 + z**44 + O(z**45)",
+  "elapsed_seconds": 0.14972020796267316,
+  "sympy_version": "1.14.0",
+  "status": "finite symbolic evidence; candidate theorem pending review"
+}

@@ -1,0 +1,9 @@
+{
+  "status": "exact finite language-equivalence certificate; not independent agent review",
+  "regular_expression": "RRLL | RRLRRLRL (RRLRL | LRLRL | LRLRRLRL)* LRLL",
+  "input": "problems/2019-B4/computations/thirdpass-minimal3.json",
+  "nfa_states": 31,
+  "product_states_checked": 31,
+  "equal_languages": true,
+  "elapsed_seconds": 0.0004468330298550427
+}

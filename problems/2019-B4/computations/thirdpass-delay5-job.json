@@ -1,0 +1,26 @@
+{
+  "command": [
+    "python3",
+    "problems/2019-B4/computations/thirdpass-delay-automaton.py",
+    "--delay",
+    "5",
+    "--state-cap",
+    "5000",
+    "--power-steps",
+    "200",
+    "--output",
+    "problems/2019-B4/computations/thirdpass-delay5.json"
+  ],
+  "timeout_seconds": 30.0,
+  "started_utc": "2026-10-16T17:00:43.887254+00:00",
+  "supervisor_pid": 53480,
+  "status": "completed",
+  "child_pid": 53482,
+  "returncode": 0,
+  "elapsed_seconds": 0.08345562499016523,
+  "completed_utc": "2026-10-16T17:00:43.971253+00:00",
+  "source_sha256": {
+    "problems/2019-B4/computations/thirdpass-delay-automaton.py": "b8f6aa765c4863b34ecc0b9826a8983a25fb1a08629cacae054b4ef52be5ceda",
+    "problems/2019-B4/computations/thirdpass-delay5.json": "3d31e491368453a5decd3c02c7db262add3270d16b53ae40ebca5e19ed71c111"
+  }
+}

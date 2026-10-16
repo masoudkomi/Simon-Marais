@@ -1,0 +1,20 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "-u",
+    "problems/2021-B4/reviews/J16-digits-review-1-artifact-audit.py"
+  ],
+  "timeout_seconds": 30.0,
+  "status": "finished",
+  "runner_pid": 52007,
+  "source_sha256": {
+    "problems/2021-B4/reviews/J16-digits-review-1-artifact-audit.py": "e2b29473e761a95235c60184b9ab0ceabb30188e8f0e71a6891c8c8b03366ee9"
+  },
+  "child_pid": 52008,
+  "exit_code": 0,
+  "timed_out": false,
+  "reaped": true,
+  "seconds": 6.126,
+  "stdout_sha256": "aa9bf4892036d7a3764cfac11da324816685921f8cf1063404055d1e97d9f765",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

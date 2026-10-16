@@ -1,0 +1,22 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "-u",
+    "problems/2021-B4/reviews/J16-digits-review-1-tree-audit.py",
+    "--output",
+    "problems/2021-B4/reviews/J16-digits-review-1-tree-result.json"
+  ],
+  "timeout_seconds": 300.0,
+  "status": "finished",
+  "runner_pid": 52972,
+  "source_sha256": {
+    "problems/2021-B4/reviews/J16-digits-review-1-tree-audit.py": "a37d82a1204274de15958c50a37369f66032312c31677d68f62740202f85d1be"
+  },
+  "child_pid": 52973,
+  "exit_code": 0,
+  "timed_out": false,
+  "reaped": true,
+  "seconds": 53.541,
+  "stdout_sha256": "10380332990142ef4c21adcd351f10245764d799775fb6a26d9ffbf8457ca6ba",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

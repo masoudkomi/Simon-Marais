@@ -1,0 +1,27 @@
+# R2 independent issue log: rational J=16, L1--L4
+
+2026-10-16 UTC. Initial blind audit. No peer report, code or conclusion was
+read. No unresolved substantive objection remains. No author repair is
+requested. Only the coordinator may promote the candidate after both
+required whole audits have been integrated.
+
+| ID | Adversarial challenge | Resolution and evidence |
+|---|---|---|
+| R2-01 | Could the proof assume all roots are rational, or apply integer valuations to the ramified cluster? | Resolved. Accepted T2 supplies precisely two rational small roots of positive integer valuation; the 15 other roots have valuation 1/15. Only the two rational parameters are enumerated. The long-edge cluster never supplies a rational witness. |
+| R2-02 | Do low derivatives at unequal-valuation roots actually satisfy the width-one lemma? | Resolved. The two lower exponents are 2 and 3, both below 19. c2 and c3 are nonzero. Thus 0,u,v cannot witness H2,H3, forcing both center equations. The exact supporting lines are separated from the cluster of valuation 1/15. |
+| R2-03 | Are equal residues, larger valuations and close distinct roots discarded? | Resolved. The independent leading loop tests every 361 pair except (0,0), only imposes nonzero-both and ratios in actual sole-center cases, and retains both-center cases unrestricted. It independently finds zero surviving equal or zero-coordinate pairs. Later lifting never prunes equality of finite representatives. Monic remainders never divide by u-v. |
+| R2-04 | Could canonical-mask reasoning improperly impose a failed center equation on every formal family? | Resolved. The implication is only for an actual counterexample's canonical mask, which selects every available center. Formal families remain a necessary cover and need not satisfy any nonvanishing condition. This distinction is explicit in the reconstruction. |
+| R2-05 | Could a valuation or inactive derivative label be omitted? | Resolved. q0 is nonzero at every mask; 84 bounds are 1 and 4 bounds are 2. All allowed positive nu and every active assignment are tested; restoring all inactive labels yields exactly 840396 unique full keys. The complete 768 projected-key set and all active/inactive positions match the candidate. |
+| R2-06 | Is division by 19 or a root difference hidden in E? | Resolved. The integral-family and homogeneous monic-remainder proof gives E in Z_(19)[U,V]; only 10 is inverted. Every modular evaluator division is checked exact on its integral residue. Exceptional coefficients -20 and 1 are included. All 104 late exact rational E vectors have denominator prime to 19. |
+| R2-07 | Can a singular Hensel fiber lose children? | Resolved. Every one of 692 encountered matrices was independently checked on all 361 digit pairs. The full rank 1 fibers have 19 children when consistent. All 249356 rank 1 precision 2 nodes fail their next congruence. No determinant-only pruning is used. |
+| R2-08 | Does T1 really permit deleting assignments that omit u or v? | Resolved. Such an assignment, together with the fixed 0 and 1 witnesses, covers every derivative with at most 3 rational values, contradicting accepted T1. All 840396 old rows were checked before pruning; 14248 omitted-label assignments include 384 consistent rank 2 parents. |
+| R2-09 | Could saved nodes omit a branch, repeat a key or report incorrect coefficients/fibers? | Resolved. The independent traversal regenerates every layer from its own leading cover. The full adapter matches every 1203616 v1 record against the independent key/fiber stream, every coefficient and residual against direct evaluation, and every output node against its parent fiber. All 104 v2 records and all obstruction certificates also match. |
+| R2-10 | Is the later 90-node budget merely empirical? | Resolved. Every 90 precision 4 matrix has a nonzero 2x2 minor. Its Jacobian remains the same at every later digit. Therefore every later node has at most one child; this proves the 90-node structural bound. The independent chain is 90→14→0. |
+| R2-11 | Are the constructor's streams or immutable dependencies changed? | Resolved. All four manifests (12,46,53,14 entries; 113 unique artifacts) and all entries pass exact hash/byte checks before and after the full audit. The two original plain hashes are reproduced. |
+| R2-12 | Why did the independent leading counter report 11886 tests instead of 11559? | Resolved bookkeeping convention, no candidate defect. R2 counts label/nu proposals before checking q|a17^0,a18^0; the constructor counts afterward. Independent recomputation of the latter yields 11559 exactly. The full projected-key sets coincide. |
+| R2-13 | First serialization adapter benchmark failed before mathematical comparison. | Reviewer implementation issue, resolved. It initially flattened a historical retained-mask field that still includes 73 J17 masks and omits lower-J masks. The accepted combined 772-mask field is the correct source. Failed PID 55033 exited 1/reaped in 0.143s; source/job/stdout/stderr are preserved as attempt 1. The mathematical checker and its predata freeze were unchanged. |
+
+The metadata-v1 artifact is also preserved. Its main checks passed; the
+final metadata version replaces one vacuous extra guard with explicit
+H1(0) and H19(1) checks for all 104 late states. Neither change repairs or
+alters a constructor argument or artifact. No cap failed or was raised.

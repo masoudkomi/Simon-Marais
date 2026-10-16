@@ -1,0 +1,15 @@
+{
+  "observed_utc": "2026-10-16T17:07:21.540054+00:00",
+  "observed_sessions": 49,
+  "usage": {
+    "input_tokens": 253456759,
+    "cached_input_tokens": 242026752,
+    "cache_write_input_tokens": 0,
+    "output_tokens": 2219079,
+    "reasoning_output_tokens": 974172,
+    "total_tokens": 255675838
+  },
+  "uncached_input_plus_output_tokens": 13649086,
+  "method": "Deduplicated own-thread per-response token_usage_record usage, across root and all recursively spawned descendants. Every per-session sum matched latest thread cumulative. No account IDs, prompts, response IDs or raw logs exported.",
+  "limits": "Observed records while active; excludes unreported in-flight use. Cached input is part of input and reasoning output part of output. Not a bill or conversion to weekly usage."
+}

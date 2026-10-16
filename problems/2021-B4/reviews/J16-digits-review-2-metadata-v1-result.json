@@ -1,0 +1,51 @@
+{
+  "complete": true,
+  "ordinary_hasse_equations_checked": 1768,
+  "root_consistent_parents": 125346,
+  "root_rank_histogram": {
+    "2 consistent=False": 373610,
+    "2 consistent=True": 112222,
+    "1 consistent=False": 341440,
+    "1 consistent=True": 13124
+  },
+  "result_bookkeeping_matched": true,
+  "candidate_jobs": {
+    "coordinator-J16-coupled-leading-v1": {
+      "pid": 44069,
+      "cap": 30,
+      "elapsed": 2.406018124980619,
+      "exit_code": 0
+    },
+    "coordinator-J16-leading-branch-index-v1": {
+      "pid": 44469,
+      "cap": 30,
+      "elapsed": 2.5682909580064006,
+      "exit_code": 0
+    },
+    "coordinator-J16-second-digit-v1": {
+      "pid": 46081,
+      "cap": 180,
+      "elapsed": 29.439034249982797,
+      "exit_code": 0
+    },
+    "owner-J16-Hensel-v1": {
+      "pid": 47605,
+      "cap": 300,
+      "elapsed": 80.90906991600059,
+      "exit_code": 0
+    },
+    "owner-J16-Hensel-v1-postcheck": {
+      "pid": 50878,
+      "cap": 30,
+      "elapsed": 0.07230033300584182,
+      "exit_code": 0
+    },
+    "owner-J16-Hensel-v2": {
+      "pid": 51403,
+      "cap": 30,
+      "elapsed": 0.09389670903328806,
+      "exit_code": 0
+    }
+  },
+  "seconds": 2.2646832080208696
+}

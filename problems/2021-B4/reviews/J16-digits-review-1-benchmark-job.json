@@ -1,0 +1,24 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "-u",
+    "problems/2021-B4/reviews/J16-digits-review-1-verifier.py",
+    "--limit",
+    "8192",
+    "--output",
+    "problems/2021-B4/reviews/J16-digits-review-1-benchmark-result.json"
+  ],
+  "timeout_seconds": 30.0,
+  "status": "finished",
+  "runner_pid": 51336,
+  "source_sha256": {
+    "problems/2021-B4/reviews/J16-digits-review-1-verifier.py": "b53811a0f4a7c30c5492e662a9e496e3ba6263a36eb6c0138c7f6141fbd2ac8d"
+  },
+  "child_pid": 51337,
+  "exit_code": 0,
+  "timed_out": false,
+  "reaped": true,
+  "seconds": 5.498,
+  "stdout_sha256": "0eae942017b1e08b494466d47d403061439a29d920a285b15d3ecda5b4e92dac",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

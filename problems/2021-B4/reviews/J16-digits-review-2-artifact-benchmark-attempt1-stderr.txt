@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "/Users/uqmkamga/Documents/ChatGPT/Website/problems/2021-B4/reviews/J16-digits-review-2-artifact-audit.py", line 330, in <module>
+    main()
+    ~~~~^^
+  File "/Users/uqmkamga/Documents/ChatGPT/Website/problems/2021-B4/reviews/J16-digits-review-2-artifact-audit.py", line 241, in main
+    lead=leading_check(independent)
+  File "/Users/uqmkamga/Documents/ChatGPT/Website/problems/2021-B4/reviews/J16-digits-review-2-artifact-audit.py", line 126, in leading_check
+    assert source_masks==independent['accepted_masks']
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError

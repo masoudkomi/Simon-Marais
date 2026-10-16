@@ -1,0 +1,1238 @@
+{
+  "benchmark": false,
+  "integrity_before": {
+    "manifests": {
+      "coordinator-J16-coupled-leading-candidate-v1-manifest.json": {
+        "sha256": "da57838f8b632e9153f86742ed33096821627fbd3fdc2089f90fda6ea88d2878",
+        "artifacts": 12
+      },
+      "coordinator-J16-coupled-digit-candidate-v1-manifest.json": {
+        "sha256": "b9e20e7634f94f2ad34055f5da2efd0460e5645d9c3d8933800bd4892321d2ad",
+        "artifacts": 46
+      },
+      "owner-J16-Hensel-v1-manifest.json": {
+        "sha256": "2f5eec6a98e0ff8c264259a508868c3d0e5f5befa8de833a9434dfd7fc069f6a",
+        "artifacts": 53
+      },
+      "owner-J16-Hensel-v2-manifest.json": {
+        "sha256": "8b9cd2bbcf1740cb119436d58eb4a9f60dbf7afe5e9d23f077e1bc7428d75db8",
+        "artifacts": 14
+      }
+    },
+    "unique_artifact_count": 113,
+    "files": {
+      "problems/2021-B4/notes/coordinator-J16-coupled-leading-candidate-v1.md": {
+        "path": "problems/2021-B4/notes/coordinator-J16-coupled-leading-candidate-v1.md",
+        "bytes": 8237,
+        "sha256": "d8ad259a3084635d5f3b66e1aaf6fe611c6a118b47dfd16578d0e2958bde3fce"
+      },
+      "problems/2021-B4/computations/coordinator-J16-coupled-leading-v1-job.json": {
+        "path": "problems/2021-B4/computations/coordinator-J16-coupled-leading-v1-job.json",
+        "bytes": 907,
+        "sha256": "1a8e227a1560f7406848bd7b5998a59b5c3da75d564fba7c2a8ebeacc04c3840"
+      },
+      "problems/2021-B4/computations/coordinator-J16-coupled-leading-v1-output.txt": {
+        "path": "problems/2021-B4/computations/coordinator-J16-coupled-leading-v1-output.txt",
+        "bytes": 7068,
+        "sha256": "c6d213bc722ae35393e23cadb4f2e1b07c69f3045617a26bd54d128ff848cf51"
+      },
+      "problems/2021-B4/computations/coordinator-J16-coupled-leading-v1-result.json": {
+        "path": "problems/2021-B4/computations/coordinator-J16-coupled-leading-v1-result.json",
+        "bytes": 72451,
+        "sha256": "63c7a8d0bfd4a451200ec60d4f9af1d78ad8172223ab1e34693181b624adb3b6"
+      },
+      "problems/2021-B4/computations/coordinator-J16-coupled-leading-v1-stderr.txt": {
+        "path": "problems/2021-B4/computations/coordinator-J16-coupled-leading-v1-stderr.txt",
+        "bytes": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "problems/2021-B4/computations/coordinator-J16-coupled-leading-v1.py": {
+        "path": "problems/2021-B4/computations/coordinator-J16-coupled-leading-v1.py",
+        "bytes": 6015,
+        "sha256": "e075a907efbfec992e6c16fd3b230d741e12f9223fb50d4de953894830c1de22"
+      },
+      "problems/2021-B4/notes/coordinator-three-rational-witnesses-reviewed-v1.1.md": {
+        "path": "problems/2021-B4/notes/coordinator-three-rational-witnesses-reviewed-v1.1.md",
+        "bytes": 1962,
+        "sha256": "7ff6b3d92d3268405381c2732d83516d21e6eb7d74e897d4c01ec8bb70342be4"
+      },
+      "problems/2021-B4/notes/coordinator-three-rational-witnesses-v1.md": {
+        "path": "problems/2021-B4/notes/coordinator-three-rational-witnesses-v1.md",
+        "bytes": 11325,
+        "sha256": "be91345a8511338d55f30b140ee2555698c21d0e341efe29fe2536bca4fffbda"
+      },
+      "problems/2021-B4/reviews/three-witness-acceptance.json": {
+        "path": "problems/2021-B4/reviews/three-witness-acceptance.json",
+        "bytes": 1640,
+        "sha256": "da40fa4fd7e10472f67d820c90846cf3b64ba7abd4c52f7b2a7146a60dfd7c01"
+      },
+      "problems/2021-B4/notes/padic-rational-newton-obstructions-v1.md": {
+        "path": "problems/2021-B4/notes/padic-rational-newton-obstructions-v1.md",
+        "bytes": 16974,
+        "sha256": "ce3ff564b48841ae3ae1bf66c3cf5303ed2833c2166590cb2460706f01b5c335"
+      },
+      "problems/2021-B4/reviews/newton-review-1-extension-result.json": {
+        "path": "problems/2021-B4/reviews/newton-review-1-extension-result.json",
+        "bytes": 179670,
+        "sha256": "96f61ad6b173c1fd40bfc2dff3f87c44b616db87bd6db0a0ca77b1a019bee803"
+      },
+      "problems/2021-B4/computations/coordinator-J16-linear-projection-v1.py": {
+        "path": "problems/2021-B4/computations/coordinator-J16-linear-projection-v1.py",
+        "bytes": 5006,
+        "sha256": "db576a4964fae433062536feb7e6538ecbe1b7805bc4416214f740c987f0760f"
+      },
+      "problems/2021-B4/computations/coordinator-J16-leading-branch-index-v1-job.json": {
+        "path": "problems/2021-B4/computations/coordinator-J16-leading-branch-index-v1-job.json",
+        "bytes": 933,
+        "sha256": "b6f2370a3c71817557855dd914ec3f318ae627f8bb9c85763df5c83b94d09b1d"
+      },
+      "problems/2021-B4/computations/coordinator-J16-leading-branch-index-v1-output.txt": {
+        "path": "problems/2021-B4/computations/coordinator-J16-leading-branch-index-v1-output.txt",
+        "bytes": 7111,
+        "sha256": "42b941b11db8b1fcde154d9f079b30dc57fcc161934485361b6fadd6cb8b2a80"
+      },
+      "problems/2021-B4/computations/coordinator-J16-leading-branch-index-v1-provenance.json": {
+        "path": "problems/2021-B4/computations/coordinator-J16-leading-branch-index-v1-provenance.json",
+        "bytes": 1591,
+        "sha256": "591e39d738c8dc911b6bf7cadfe791a3930680dccc5d62bf12ed32c8045f9c13"
+      },
+      "problems/2021-B4/computations/coordinator-J16-leading-branch-index-v1-result.json": {
+        "path": "problems/2021-B4/computations/coordinator-J16-leading-branch-index-v1-result.json",
+        "bytes": 354154,
+        "sha256": "26970a5e55d919deb520ceeceb15e51d78df96cb25fa2313b68426cc5d67b1f4"
+      },
+      "problems/2021-B4/computations/coordinator-J16-leading-branch-index-v1-stderr.txt": {
+        "path": "problems/2021-B4/computations/coordinator-J16-leading-branch-index-v1-stderr.txt",
+        "bytes": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "problems/2021-B4/computations/coordinator-J16-leading-branch-index-v1.py": {
+        "path": "problems/2021-B4/computations/coordinator-J16-leading-branch-index-v1.py",
+        "bytes": 6499,
+        "sha256": "e206466e865aec1a9a8ab11ff78ec7c3271f2026aa454051b022ff569d91281d"
+      },
+      "problems/2021-B4/computations/coordinator-J16-second-digit-v1-benchmark-certificates-001.jsonl.gz": {
+        "path": "problems/2021-B4/computations/coordinator-J16-second-digit-v1-benchmark-certificates-001.jsonl.gz",
+        "bytes": 36957,
+        "sha256": "21cb8c10cb020019ef6c86e8eceeacc0e29339cf5194a068ff39da02f3d9d522"
+      },
+      "problems/2021-B4/computations/coordinator-J16-second-digit-v1-benchmark-job.json": {
+        "path": "problems/2021-B4/computations/coordinator-J16-second-digit-v1-benchmark-job.json",
+        "bytes": 1076,
+        "sha256": "a8784c896e48838acdaf628c59294fce2a66e66c6f7672763ddc3157c14b13c2"
+      },
+      "problems/2021-B4/computations/coordinator-J16-second-digit-v1-benchmark-output.txt": {
+        "path": "problems/2021-B4/computations/coordinator-J16-second-digit-v1-benchmark-output.txt",
+        "bytes": 815,
+        "sha256": "14acbb3705f8fb353ca97086ce0e255ae3fc9324c373337a8a418c0e7e1043dc"
+      },
+      "problems/2021-B4/computations/coordinator-J16-second-digit-v1-benchmark-result.json": {
+        "path": "problems/2021-B4/computations/coordinator-J16-second-digit-v1-benchmark-result.json",
+        "bytes": 5262,
+        "sha256": "28749b8d2ebfc2a499b12cd1048a464e3c0749f74253143e5e31d1f8d3dc9f43"
+      },
+      "problems/2021-B4/computations/coordinator-J16-second-digit-v1-benchmark-stderr.txt": {
+        "path": "problems/2021-B4/computations/coordinator-J16-second-digit-v1-benchmark-stderr.txt",
+        "bytes": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-001.jsonl.gz": {
+        "path": "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-001.jsonl.gz",
+        "bytes": 238972,
+        "sha256": "9132b815f8beea13aedef23c3c4bc55e7d9b425e2cb5202bc3c5db3000010aee"
+      },
+      "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-002.jsonl.gz": {
+        "path": "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-002.jsonl.gz",
+        "bytes": 234593,
+        "sha256": "aaa7505afc14d1fbc082fea25c3ff2fcfbc484cc774d9385117f478c9d8ad925"
+      },
+      "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-003.jsonl.gz": {
+        "path": "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-003.jsonl.gz",
+        "bytes": 236495,
+        "sha256": "bd3a4293b7ee9f2442354c82295b76e00af2901d1219bbf60662ab9a33f3d891"
+      },
+      "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-004.jsonl.gz": {
+        "path": "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-004.jsonl.gz",
+        "bytes": 237151,
+        "sha256": "e4e9353a118257c658f9337cab812b06b7f26c902d0c7c2bf05fd48241014fba"
+      },
+      "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-005.jsonl.gz": {
+        "path": "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-005.jsonl.gz",
+        "bytes": 239288,
+        "sha256": "9a49f8526c264f4e130e6f4fb640850fe500c1ed3446c941650748834f431f51"
+      },
+      "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-006.jsonl.gz": {
+        "path": "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-006.jsonl.gz",
+        "bytes": 230186,
+        "sha256": "a54b58bc950b5ec137c0add140fafcdcb4ed5710a6388e192dc32cda625084d0"
+      },
+      "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-007.jsonl.gz": {
+        "path": "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-007.jsonl.gz",
+        "bytes": 214839,
+        "sha256": "b00f3fca09074ea357dc8319640ca02966d8afd5d19e1e75af061302191bfdb9"
+      },
+      "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-008.jsonl.gz": {
+        "path": "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-008.jsonl.gz",
+        "bytes": 216151,
+        "sha256": "0b535bad8ee68f91fda387f8b090197be91ad8f03f537aceaa62ab49ebe2a472"
+      },
+      "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-009.jsonl.gz": {
+        "path": "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-009.jsonl.gz",
+        "bytes": 218049,
+        "sha256": "6ab94f87e7472aa7d3bd6e9ae7f0fa27df5b52cb377286e68d918b4f2e5555bc"
+      },
+      "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-010.jsonl.gz": {
+        "path": "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-010.jsonl.gz",
+        "bytes": 216916,
+        "sha256": "c9c18db8729e2a76129df41310d91885351760c4ca36905aa67f87ed7b0c8972"
+      },
+      "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-011.jsonl.gz": {
+        "path": "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-011.jsonl.gz",
+        "bytes": 217774,
+        "sha256": "dbabf44ebbbad301c3990862927edfed15a1ffe176aa6cf2f81fc61f5d45a094"
+      },
+      "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-012.jsonl.gz": {
+        "path": "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-012.jsonl.gz",
+        "bytes": 238671,
+        "sha256": "01d92fe8d230e4d2326096c21f7c0140527076de38acc2bc1d23c48d8f166bdd"
+      },
+      "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-013.jsonl.gz": {
+        "path": "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-013.jsonl.gz",
+        "bytes": 239683,
+        "sha256": "d265313e09cd51707e55ebfc3824b0832defabb356244218eb68bb9003f421c7"
+      },
+      "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-014.jsonl.gz": {
+        "path": "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-014.jsonl.gz",
+        "bytes": 242391,
+        "sha256": "ea10b100a5c6704481498e032bf808122ae0b0b6740e71d44cbcc79f43352d47"
+      },
+      "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-015.jsonl.gz": {
+        "path": "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-015.jsonl.gz",
+        "bytes": 2679,
+        "sha256": "4a9bf6cfc03b1797e2d2a732c01d9a352baf291fa992c23c90ebd1f5c1eab741"
+      },
+      "problems/2021-B4/computations/coordinator-J16-second-digit-v1-job.json": {
+        "path": "problems/2021-B4/computations/coordinator-J16-second-digit-v1-job.json",
+        "bytes": 1024,
+        "sha256": "5cd06cf983e7a7a7e50ce663fae96454480886d34f5424dab10793e475d0dd7e"
+      },
+      "problems/2021-B4/computations/coordinator-J16-second-digit-v1-output.txt": {
+        "path": "problems/2021-B4/computations/coordinator-J16-second-digit-v1-output.txt",
+        "bytes": 9371,
+        "sha256": "9b0d6fbc9f6e360dee25c2cd686cbd3b74831c0f391017f92868f0f3c28f3881"
+      },
+      "problems/2021-B4/computations/coordinator-J16-second-digit-v1-result.json": {
+        "path": "problems/2021-B4/computations/coordinator-J16-second-digit-v1-result.json",
+        "bytes": 27540,
+        "sha256": "c5e941076458c87d2adcf11ef0e07eb1c762ea68350e20728f2b2ff2dd637319"
+      },
+      "problems/2021-B4/computations/coordinator-J16-second-digit-v1-stderr.txt": {
+        "path": "problems/2021-B4/computations/coordinator-J16-second-digit-v1-stderr.txt",
+        "bytes": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "problems/2021-B4/computations/coordinator-J16-second-digit-v1.py": {
+        "path": "problems/2021-B4/computations/coordinator-J16-second-digit-v1.py",
+        "bytes": 7957,
+        "sha256": "ea184b1bf182eb48632c04ab039238a2ccfc32ff3f652a9386dc6dc9dba022e3"
+      },
+      "problems/2021-B4/notes/coordinator-J16-coupled-digit-candidate-v1.md": {
+        "path": "problems/2021-B4/notes/coordinator-J16-coupled-digit-candidate-v1.md",
+        "bytes": 8735,
+        "sha256": "2fa8c3ad1ccea46350c7d8ae76d9463b332e2be636e48f48dbcbff7cad85c801"
+      },
+      "problems/2021-B4/notes/coordinator-J16-coupled-leading-candidate-v1-manifest.json": {
+        "path": "problems/2021-B4/notes/coordinator-J16-coupled-leading-candidate-v1-manifest.json",
+        "bytes": 2857,
+        "sha256": "da57838f8b632e9153f86742ed33096821627fbd3fdc2089f90fda6ea88d2878"
+      },
+      "problems/2021-B4/notes/coordinator-J16-second-digit-lead-v1.md": {
+        "path": "problems/2021-B4/notes/coordinator-J16-second-digit-lead-v1.md",
+        "bytes": 4195,
+        "sha256": "96c9124ce9203bdea94abb60576b5e1e14a2dff15766a6ce9bda662dedfd4a8e"
+      },
+      "problems/2021-B4/notes/owner-J16-Hensel-v1.md": {
+        "path": "problems/2021-B4/notes/owner-J16-Hensel-v1.md",
+        "bytes": 14445,
+        "sha256": "990661fa1cb7c173efa406437d6c9481edf80861a64609a73ec4f5b077c5b9dc"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-benchmark-checkpoint.json": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-benchmark-checkpoint.json",
+        "bytes": 306,
+        "sha256": "58915d3a398a107b369e725700186946443cf5d53dea03e884692d2ac35bfa33"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-benchmark-job.json": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-benchmark-job.json",
+        "bytes": 1162,
+        "sha256": "6e38f990cd7765a44808e6bff84f6c57765d2c79046e687bded9469f91cd6821"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-benchmark-level-1-certificates-001.jsonl.gz": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-benchmark-level-1-certificates-001.jsonl.gz",
+        "bytes": 64270,
+        "sha256": "acc74455fd9d0c7d310046aecf58978c96b33b78343b1842c6d7ee680cea8737"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-benchmark-output.txt": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-benchmark-output.txt",
+        "bytes": 794,
+        "sha256": "b449f46e64cb63c686f8c53ee7e9d7addd59f12829403244af3bbb43e3be4f2d"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-benchmark-precision-2-nodes-001.jsonl.gz": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-benchmark-precision-2-nodes-001.jsonl.gz",
+        "bytes": 11793,
+        "sha256": "48bb2026026de198b6c5bb7022b9a18777fdcb5452f3243fc6e5878a7a21157d"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-benchmark-result.json": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-benchmark-result.json",
+        "bytes": 7458,
+        "sha256": "26b53f91c09bd4c64d4d50d3bd94427f3425f8425cce93a107c1dc16210e4334"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-benchmark-self-test.json": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-benchmark-self-test.json",
+        "bytes": 31902,
+        "sha256": "89d672162fa2d4368b273909edfb53563b48392bcd932ce6151012eab62ca2ca"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-benchmark-stderr.txt": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-benchmark-stderr.txt",
+        "bytes": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-checkpoint.json": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-checkpoint.json",
+        "bytes": 298,
+        "sha256": "3834bc3e51082186e4ecb4f1e5457612285c4cbdfbd3606169fb10af755b968b"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-job.json": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-job.json",
+        "bytes": 1094,
+        "sha256": "3d2ac0e614ff48d3395863f2ee336d787ac90d3d52bfbb7edfcfb35600cadaae"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-001.jsonl.gz": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-001.jsonl.gz",
+        "bytes": 333284,
+        "sha256": "a13001f9653185d9e043463701dac1b1c00afef11b86bbd6f5949f2f406cb7f4"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-002.jsonl.gz": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-002.jsonl.gz",
+        "bytes": 317036,
+        "sha256": "057fac92ab672cea143e321104630a9f01276eb64570f319582af273069ca5fa"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-003.jsonl.gz": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-003.jsonl.gz",
+        "bytes": 316181,
+        "sha256": "dd1db733b68b1d371d222a435a73273a4fb0bc3f9e61a01f52ebab4d817c23f8"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-004.jsonl.gz": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-004.jsonl.gz",
+        "bytes": 330281,
+        "sha256": "34c7bf11447fb9d3489af2524871f213caffacc8bf82ab1734dc3d6507efe1b6"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-005.jsonl.gz": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-005.jsonl.gz",
+        "bytes": 411270,
+        "sha256": "bba04ef480845e21e09ba7727d07b889ffce5ef5009034c80a26985fecdf8c6b"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-006.jsonl.gz": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-006.jsonl.gz",
+        "bytes": 353689,
+        "sha256": "d3345fb91a46de39a6fac4bbd616e930855882a6aa501a88c28a20273511258d"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-007.jsonl.gz": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-007.jsonl.gz",
+        "bytes": 298580,
+        "sha256": "8c6f125ea68435837f72aed2b6001712fd06a15fbb4aecb77d4a8e3bac894d5e"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-008.jsonl.gz": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-008.jsonl.gz",
+        "bytes": 295700,
+        "sha256": "93fa49d0b69921643a0b38fa18f3940c8a047e42fa5bbf48264e9f5f862de12d"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-009.jsonl.gz": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-009.jsonl.gz",
+        "bytes": 296644,
+        "sha256": "0ac574ddf100a9cdc4afe70aadc4e269c9d8238d39c912c3f915f4a3de33c428"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-010.jsonl.gz": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-010.jsonl.gz",
+        "bytes": 299656,
+        "sha256": "81d1d11cf474fc72e2a2d7fcbe6b42907597200c763963722be45bb6ff11efae"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-011.jsonl.gz": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-011.jsonl.gz",
+        "bytes": 302888,
+        "sha256": "42729da7a89e0df8a1518e14c072518830aca07b41700fd62f3c234773aeae1e"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-012.jsonl.gz": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-012.jsonl.gz",
+        "bytes": 301902,
+        "sha256": "3deb2e51af7c03a774f91ecba48dcb689277757e8ae3847bfe34fa4224e95046"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-013.jsonl.gz": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-013.jsonl.gz",
+        "bytes": 297559,
+        "sha256": "848e909f00c02312719fe227f80af549ee32c00af22ec0e6ff05a4ae25eed058"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-014.jsonl.gz": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-014.jsonl.gz",
+        "bytes": 393429,
+        "sha256": "296d817977afd3563f67f6c943a02bc694d5a7c6eb1bbde7c1910ccf5df86fc3"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-015.jsonl.gz": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-015.jsonl.gz",
+        "bytes": 9523,
+        "sha256": "fe291dc3c355cb48a0544ff301c22ae835ee5f3bbd9009dcffa2a447a40cc3eb"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-level-2-certificates-001.jsonl.gz": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-level-2-certificates-001.jsonl.gz",
+        "bytes": 317072,
+        "sha256": "67b6a81bfa39ea4c498695a58a3f7aedf28cb6c38b1fa2b527d4bd928cea470b"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-level-2-certificates-002.jsonl.gz": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-level-2-certificates-002.jsonl.gz",
+        "bytes": 553490,
+        "sha256": "29895bd8914e469e6b87e06141c3186f6306a317d60b1ca1274a10883449da9d"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-level-2-certificates-003.jsonl.gz": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-level-2-certificates-003.jsonl.gz",
+        "bytes": 242927,
+        "sha256": "f39e66d9a56e6504f0448947bebd210b8d8a3a176616a7b825bffee49f0a17e5"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-level-2-certificates-004.jsonl.gz": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-level-2-certificates-004.jsonl.gz",
+        "bytes": 243829,
+        "sha256": "81c9baec9c4c909a91c6e918e7ede79f361c266a55b9f3e6875030705856f818"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-level-2-certificates-005.jsonl.gz": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-level-2-certificates-005.jsonl.gz",
+        "bytes": 240208,
+        "sha256": "574831d410eaabd020d2ae21a8d253f961b4e46259dd2383ce7d84eb9759dfbd"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-level-2-certificates-006.jsonl.gz": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-level-2-certificates-006.jsonl.gz",
+        "bytes": 254382,
+        "sha256": "f202021464f005d69371a3af6a2cdd14199625673f2a62ec3fdcb23a4c1426f2"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-level-2-certificates-007.jsonl.gz": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-level-2-certificates-007.jsonl.gz",
+        "bytes": 19665,
+        "sha256": "6887adf82a670ba23788770b64e5014c421497fdf924f5caab74594faa1b3753"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-level-3-certificates-001.jsonl.gz": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-level-3-certificates-001.jsonl.gz",
+        "bytes": 56893,
+        "sha256": "0a4eeb1fbc297fdb035362daacbb817eac8dbdcd195251e521ea2e927bfd9a50"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-output.txt": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-output.txt",
+        "bytes": 45863,
+        "sha256": "e36b7e129f6cc0392af55401e435aef1f8d8f84a636c1ad56adcd16b95e7c349"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-postcheck-job.json": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-postcheck-job.json",
+        "bytes": 834,
+        "sha256": "f88ae24c1cffb99a19c86dc18e58e634ab8b1d85e40aec4a3d2c41a8b0911aea"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-postcheck-output.txt": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-postcheck-output.txt",
+        "bytes": 417,
+        "sha256": "b47f220b7ec25217c0e6ecfd5efef2a162f202ab30a1f5e7ee6f19ab06343355"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-postcheck-result.json": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-postcheck-result.json",
+        "bytes": 312396,
+        "sha256": "6eee254cd548d78c68c02348945fac4b42dffeea78f7c622da23019561c27f0b"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-postcheck-stderr.txt": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-postcheck-stderr.txt",
+        "bytes": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-postcheck.py": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-postcheck.py",
+        "bytes": 5772,
+        "sha256": "9419ab57de8b86da56d7dc6b5cbbd9995fcb2197933a8aaf47dadb07b91fefbf"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-precision-2-nodes-001.jsonl.gz": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-precision-2-nodes-001.jsonl.gz",
+        "bytes": 221157,
+        "sha256": "57c21ad7a64e1526009862c58f188d1aec575b4940e3059acb072b1c25b5557b"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-precision-2-nodes-002.jsonl.gz": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-precision-2-nodes-002.jsonl.gz",
+        "bytes": 228687,
+        "sha256": "883d5940b3938b2ef134e262fb51c6e7acf6d5467972a6f3e3cb28f0b0eb2d73"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-precision-2-nodes-003.jsonl.gz": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-precision-2-nodes-003.jsonl.gz",
+        "bytes": 204984,
+        "sha256": "93d05b4cb0a79e7e7ee0c05f7cf809f8058e74bddaa2c4a8fce3831352c76157"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-precision-2-nodes-004.jsonl.gz": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-precision-2-nodes-004.jsonl.gz",
+        "bytes": 205082,
+        "sha256": "4862135008477879bf443a274dde8464853fb4a8c67e18a4050a01b03dbb2154"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-precision-2-nodes-005.jsonl.gz": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-precision-2-nodes-005.jsonl.gz",
+        "bytes": 203852,
+        "sha256": "9a42a9fe988172c2f5856a96b5bcb7f89c7c1574e2c60cfa22a535ae75947868"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-precision-2-nodes-006.jsonl.gz": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-precision-2-nodes-006.jsonl.gz",
+        "bytes": 206563,
+        "sha256": "349d3401844d657c3f7d4b635cd5b1649cdf0ae470d91a67fef06af8180abcbe"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-precision-2-nodes-007.jsonl.gz": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-precision-2-nodes-007.jsonl.gz",
+        "bytes": 5357,
+        "sha256": "ad8cdf4e9661e7222562eac2de60647d25e93e4153aa7f31b6aedebfe55e3101"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-precision-3-nodes-001.jsonl.gz": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-precision-3-nodes-001.jsonl.gz",
+        "bytes": 10444,
+        "sha256": "14b976a3cd086da67f11a443260c0fe656e4b0bb55e2c43e0c808f9c968523d5"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-precision-4-nodes-001.jsonl.gz": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-precision-4-nodes-001.jsonl.gz",
+        "bytes": 825,
+        "sha256": "4a68a58ecd349958b3cfa1e9c50ce10a001c1dbce568f1224ac39739aeb7dcfb"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-result.json": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-result.json",
+        "bytes": 27520,
+        "sha256": "d4c96aa303d22f7e96978fa1f5a8829b3526c110529a731200e1fe75a268ee28"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-self-test.json": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-self-test.json",
+        "bytes": 31902,
+        "sha256": "89d672162fa2d4368b273909edfb53563b48392bcd932ce6151012eab62ca2ca"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-stderr.txt": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-stderr.txt",
+        "bytes": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1.py": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1.py",
+        "bytes": 19751,
+        "sha256": "acb811b279c11def4c82a1e156e9906007c313d78341ede722e00e1a70a2ee06"
+      },
+      "problems/2021-B4/notes/owner-J16-Hensel-v2.md": {
+        "path": "problems/2021-B4/notes/owner-J16-Hensel-v2.md",
+        "bytes": 8195,
+        "sha256": "e4a9fcb1ee37c97b62ae389ce180b4644e751d4aee9e037f5a962fc6338d96e7"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v2-benchmark-certificates.jsonl": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v2-benchmark-certificates.jsonl",
+        "bytes": 238992,
+        "sha256": "41d7473ff0de752553cc28d6e9879dcab3689ad877da0d4a6953a6779b290c3d"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v2-benchmark-job.json": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v2-benchmark-job.json",
+        "bytes": 1041,
+        "sha256": "c310e6d88418b1ffb4cc5cb64fd69a8a20ef93634d67ccc7a8c84dfe4ce42aeb"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v2-benchmark-output.txt": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v2-benchmark-output.txt",
+        "bytes": 1949,
+        "sha256": "aa4f6c5c4805efcc42cb0acad943b90f9ea62bee054c6d45ac1396544cea6dee"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v2-benchmark-result.json": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v2-benchmark-result.json",
+        "bytes": 3807,
+        "sha256": "a51889f4956593b1564735dbe6d92e0035c334fde5e2e39d131efafbcccd8d39"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v2-benchmark-stderr.txt": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v2-benchmark-stderr.txt",
+        "bytes": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v2-certificates.jsonl": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v2-certificates.jsonl",
+        "bytes": 282052,
+        "sha256": "e5f4ebc407434d8337d108e95807140887f00eab8cc7ced06d26341405124c94"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v2-job.json": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v2-job.json",
+        "bytes": 983,
+        "sha256": "33426f0904f20a14514976b030ead50964d33398b99e89712b4785404843e5f1"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v2-obstructions-result.json": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v2-obstructions-result.json",
+        "bytes": 56615,
+        "sha256": "6fd77358cebf63e6042116c670b1dbb29286a6231621e4dfa2c9b9c2e6e890ac"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v2-obstructions.py": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v2-obstructions.py",
+        "bytes": 2617,
+        "sha256": "eb59269df46185892ecd0983a62be6cc842a76fb9559bdf6cb04939f971fbb0a"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v2-output.txt": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v2-output.txt",
+        "bytes": 2255,
+        "sha256": "8a7748e0994cbab40b037931c19e3c1eaa0672a79a4138cacbb61b709d558ce3"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v2-result.json": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v2-result.json",
+        "bytes": 4167,
+        "sha256": "b86b4a92a3eebc8b032d82e6329bc74e4ded8fa1afc84a0ad4515d0b3b608a91"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v2-stderr.txt": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v2-stderr.txt",
+        "bytes": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v2.py": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v2.py",
+        "bytes": 9513,
+        "sha256": "88721b658d4f2803545d56fed98eca0971a208604b7aa569f0bb19a52d8bcf30"
+      }
+    }
+  },
+  "leading": {
+    "accepted_masks": 772,
+    "j16_masks": 88,
+    "leading_masks": 70,
+    "leading_branches": 768,
+    "full_keys": 840396,
+    "eligible_projection_tests": 11559,
+    "proposal_tests_before_prerequisites": 11886,
+    "nu_histogram": {
+      "1": 756,
+      "2": 12
+    },
+    "equal_leading_residues": 0,
+    "zero_leading_coordinate": 0
+  },
+  "levels": [
+    {
+      "precision": 1,
+      "parents": 840396,
+      "children": 361194,
+      "all_coefficient_vectors_and_fibers_matched": true
+    },
+    {
+      "precision": 2,
+      "parents": 361194,
+      "children": 2026,
+      "all_coefficient_vectors_and_fibers_matched": true
+    },
+    {
+      "precision": 3,
+      "parents": 2026,
+      "children": 90,
+      "all_coefficient_vectors_and_fibers_matched": true
+    }
+  ],
+  "late": {
+    "exact_integer_states": 104,
+    "postcheck_states": 90,
+    "all_rank_two": true,
+    "obstructions": {
+      "(4, True)": 76,
+      "(4, False)": 14,
+      "(5, True)": 14
+    },
+    "chain": [
+      90,
+      14,
+      0
+    ]
+  },
+  "complete": true,
+  "verified_rows": 1203616,
+  "coefficient_stream_sha256": "dfe2ca43528f5e55c68a642f61838343b0a09bc6690afe153643c04ff574e49f",
+  "root_certificate_stream_sha256": "b0ab2fd44f64015b0ae1caa954c3dad76be44c02833cec62d79c2df6c1f3dacb",
+  "all_immutable_artifacts_unchanged": true,
+  "integrity_after": {
+    "manifests": {
+      "coordinator-J16-coupled-leading-candidate-v1-manifest.json": {
+        "sha256": "da57838f8b632e9153f86742ed33096821627fbd3fdc2089f90fda6ea88d2878",
+        "artifacts": 12
+      },
+      "coordinator-J16-coupled-digit-candidate-v1-manifest.json": {
+        "sha256": "b9e20e7634f94f2ad34055f5da2efd0460e5645d9c3d8933800bd4892321d2ad",
+        "artifacts": 46
+      },
+      "owner-J16-Hensel-v1-manifest.json": {
+        "sha256": "2f5eec6a98e0ff8c264259a508868c3d0e5f5befa8de833a9434dfd7fc069f6a",
+        "artifacts": 53
+      },
+      "owner-J16-Hensel-v2-manifest.json": {
+        "sha256": "8b9cd2bbcf1740cb119436d58eb4a9f60dbf7afe5e9d23f077e1bc7428d75db8",
+        "artifacts": 14
+      }
+    },
+    "unique_artifact_count": 113,
+    "files": {
+      "problems/2021-B4/notes/coordinator-J16-coupled-leading-candidate-v1.md": {
+        "path": "problems/2021-B4/notes/coordinator-J16-coupled-leading-candidate-v1.md",
+        "bytes": 8237,
+        "sha256": "d8ad259a3084635d5f3b66e1aaf6fe611c6a118b47dfd16578d0e2958bde3fce"
+      },
+      "problems/2021-B4/computations/coordinator-J16-coupled-leading-v1-job.json": {
+        "path": "problems/2021-B4/computations/coordinator-J16-coupled-leading-v1-job.json",
+        "bytes": 907,
+        "sha256": "1a8e227a1560f7406848bd7b5998a59b5c3da75d564fba7c2a8ebeacc04c3840"
+      },
+      "problems/2021-B4/computations/coordinator-J16-coupled-leading-v1-output.txt": {
+        "path": "problems/2021-B4/computations/coordinator-J16-coupled-leading-v1-output.txt",
+        "bytes": 7068,
+        "sha256": "c6d213bc722ae35393e23cadb4f2e1b07c69f3045617a26bd54d128ff848cf51"
+      },
+      "problems/2021-B4/computations/coordinator-J16-coupled-leading-v1-result.json": {
+        "path": "problems/2021-B4/computations/coordinator-J16-coupled-leading-v1-result.json",
+        "bytes": 72451,
+        "sha256": "63c7a8d0bfd4a451200ec60d4f9af1d78ad8172223ab1e34693181b624adb3b6"
+      },
+      "problems/2021-B4/computations/coordinator-J16-coupled-leading-v1-stderr.txt": {
+        "path": "problems/2021-B4/computations/coordinator-J16-coupled-leading-v1-stderr.txt",
+        "bytes": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "problems/2021-B4/computations/coordinator-J16-coupled-leading-v1.py": {
+        "path": "problems/2021-B4/computations/coordinator-J16-coupled-leading-v1.py",
+        "bytes": 6015,
+        "sha256": "e075a907efbfec992e6c16fd3b230d741e12f9223fb50d4de953894830c1de22"
+      },
+      "problems/2021-B4/notes/coordinator-three-rational-witnesses-reviewed-v1.1.md": {
+        "path": "problems/2021-B4/notes/coordinator-three-rational-witnesses-reviewed-v1.1.md",
+        "bytes": 1962,
+        "sha256": "7ff6b3d92d3268405381c2732d83516d21e6eb7d74e897d4c01ec8bb70342be4"
+      },
+      "problems/2021-B4/notes/coordinator-three-rational-witnesses-v1.md": {
+        "path": "problems/2021-B4/notes/coordinator-three-rational-witnesses-v1.md",
+        "bytes": 11325,
+        "sha256": "be91345a8511338d55f30b140ee2555698c21d0e341efe29fe2536bca4fffbda"
+      },
+      "problems/2021-B4/reviews/three-witness-acceptance.json": {
+        "path": "problems/2021-B4/reviews/three-witness-acceptance.json",
+        "bytes": 1640,
+        "sha256": "da40fa4fd7e10472f67d820c90846cf3b64ba7abd4c52f7b2a7146a60dfd7c01"
+      },
+      "problems/2021-B4/notes/padic-rational-newton-obstructions-v1.md": {
+        "path": "problems/2021-B4/notes/padic-rational-newton-obstructions-v1.md",
+        "bytes": 16974,
+        "sha256": "ce3ff564b48841ae3ae1bf66c3cf5303ed2833c2166590cb2460706f01b5c335"
+      },
+      "problems/2021-B4/reviews/newton-review-1-extension-result.json": {
+        "path": "problems/2021-B4/reviews/newton-review-1-extension-result.json",
+        "bytes": 179670,
+        "sha256": "96f61ad6b173c1fd40bfc2dff3f87c44b616db87bd6db0a0ca77b1a019bee803"
+      },
+      "problems/2021-B4/computations/coordinator-J16-linear-projection-v1.py": {
+        "path": "problems/2021-B4/computations/coordinator-J16-linear-projection-v1.py",
+        "bytes": 5006,
+        "sha256": "db576a4964fae433062536feb7e6538ecbe1b7805bc4416214f740c987f0760f"
+      },
+      "problems/2021-B4/computations/coordinator-J16-leading-branch-index-v1-job.json": {
+        "path": "problems/2021-B4/computations/coordinator-J16-leading-branch-index-v1-job.json",
+        "bytes": 933,
+        "sha256": "b6f2370a3c71817557855dd914ec3f318ae627f8bb9c85763df5c83b94d09b1d"
+      },
+      "problems/2021-B4/computations/coordinator-J16-leading-branch-index-v1-output.txt": {
+        "path": "problems/2021-B4/computations/coordinator-J16-leading-branch-index-v1-output.txt",
+        "bytes": 7111,
+        "sha256": "42b941b11db8b1fcde154d9f079b30dc57fcc161934485361b6fadd6cb8b2a80"
+      },
+      "problems/2021-B4/computations/coordinator-J16-leading-branch-index-v1-provenance.json": {
+        "path": "problems/2021-B4/computations/coordinator-J16-leading-branch-index-v1-provenance.json",
+        "bytes": 1591,
+        "sha256": "591e39d738c8dc911b6bf7cadfe791a3930680dccc5d62bf12ed32c8045f9c13"
+      },
+      "problems/2021-B4/computations/coordinator-J16-leading-branch-index-v1-result.json": {
+        "path": "problems/2021-B4/computations/coordinator-J16-leading-branch-index-v1-result.json",
+        "bytes": 354154,
+        "sha256": "26970a5e55d919deb520ceeceb15e51d78df96cb25fa2313b68426cc5d67b1f4"
+      },
+      "problems/2021-B4/computations/coordinator-J16-leading-branch-index-v1-stderr.txt": {
+        "path": "problems/2021-B4/computations/coordinator-J16-leading-branch-index-v1-stderr.txt",
+        "bytes": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "problems/2021-B4/computations/coordinator-J16-leading-branch-index-v1.py": {
+        "path": "problems/2021-B4/computations/coordinator-J16-leading-branch-index-v1.py",
+        "bytes": 6499,
+        "sha256": "e206466e865aec1a9a8ab11ff78ec7c3271f2026aa454051b022ff569d91281d"
+      },
+      "problems/2021-B4/computations/coordinator-J16-second-digit-v1-benchmark-certificates-001.jsonl.gz": {
+        "path": "problems/2021-B4/computations/coordinator-J16-second-digit-v1-benchmark-certificates-001.jsonl.gz",
+        "bytes": 36957,
+        "sha256": "21cb8c10cb020019ef6c86e8eceeacc0e29339cf5194a068ff39da02f3d9d522"
+      },
+      "problems/2021-B4/computations/coordinator-J16-second-digit-v1-benchmark-job.json": {
+        "path": "problems/2021-B4/computations/coordinator-J16-second-digit-v1-benchmark-job.json",
+        "bytes": 1076,
+        "sha256": "a8784c896e48838acdaf628c59294fce2a66e66c6f7672763ddc3157c14b13c2"
+      },
+      "problems/2021-B4/computations/coordinator-J16-second-digit-v1-benchmark-output.txt": {
+        "path": "problems/2021-B4/computations/coordinator-J16-second-digit-v1-benchmark-output.txt",
+        "bytes": 815,
+        "sha256": "14acbb3705f8fb353ca97086ce0e255ae3fc9324c373337a8a418c0e7e1043dc"
+      },
+      "problems/2021-B4/computations/coordinator-J16-second-digit-v1-benchmark-result.json": {
+        "path": "problems/2021-B4/computations/coordinator-J16-second-digit-v1-benchmark-result.json",
+        "bytes": 5262,
+        "sha256": "28749b8d2ebfc2a499b12cd1048a464e3c0749f74253143e5e31d1f8d3dc9f43"
+      },
+      "problems/2021-B4/computations/coordinator-J16-second-digit-v1-benchmark-stderr.txt": {
+        "path": "problems/2021-B4/computations/coordinator-J16-second-digit-v1-benchmark-stderr.txt",
+        "bytes": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-001.jsonl.gz": {
+        "path": "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-001.jsonl.gz",
+        "bytes": 238972,
+        "sha256": "9132b815f8beea13aedef23c3c4bc55e7d9b425e2cb5202bc3c5db3000010aee"
+      },
+      "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-002.jsonl.gz": {
+        "path": "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-002.jsonl.gz",
+        "bytes": 234593,
+        "sha256": "aaa7505afc14d1fbc082fea25c3ff2fcfbc484cc774d9385117f478c9d8ad925"
+      },
+      "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-003.jsonl.gz": {
+        "path": "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-003.jsonl.gz",
+        "bytes": 236495,
+        "sha256": "bd3a4293b7ee9f2442354c82295b76e00af2901d1219bbf60662ab9a33f3d891"
+      },
+      "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-004.jsonl.gz": {
+        "path": "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-004.jsonl.gz",
+        "bytes": 237151,
+        "sha256": "e4e9353a118257c658f9337cab812b06b7f26c902d0c7c2bf05fd48241014fba"
+      },
+      "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-005.jsonl.gz": {
+        "path": "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-005.jsonl.gz",
+        "bytes": 239288,
+        "sha256": "9a49f8526c264f4e130e6f4fb640850fe500c1ed3446c941650748834f431f51"
+      },
+      "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-006.jsonl.gz": {
+        "path": "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-006.jsonl.gz",
+        "bytes": 230186,
+        "sha256": "a54b58bc950b5ec137c0add140fafcdcb4ed5710a6388e192dc32cda625084d0"
+      },
+      "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-007.jsonl.gz": {
+        "path": "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-007.jsonl.gz",
+        "bytes": 214839,
+        "sha256": "b00f3fca09074ea357dc8319640ca02966d8afd5d19e1e75af061302191bfdb9"
+      },
+      "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-008.jsonl.gz": {
+        "path": "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-008.jsonl.gz",
+        "bytes": 216151,
+        "sha256": "0b535bad8ee68f91fda387f8b090197be91ad8f03f537aceaa62ab49ebe2a472"
+      },
+      "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-009.jsonl.gz": {
+        "path": "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-009.jsonl.gz",
+        "bytes": 218049,
+        "sha256": "6ab94f87e7472aa7d3bd6e9ae7f0fa27df5b52cb377286e68d918b4f2e5555bc"
+      },
+      "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-010.jsonl.gz": {
+        "path": "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-010.jsonl.gz",
+        "bytes": 216916,
+        "sha256": "c9c18db8729e2a76129df41310d91885351760c4ca36905aa67f87ed7b0c8972"
+      },
+      "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-011.jsonl.gz": {
+        "path": "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-011.jsonl.gz",
+        "bytes": 217774,
+        "sha256": "dbabf44ebbbad301c3990862927edfed15a1ffe176aa6cf2f81fc61f5d45a094"
+      },
+      "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-012.jsonl.gz": {
+        "path": "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-012.jsonl.gz",
+        "bytes": 238671,
+        "sha256": "01d92fe8d230e4d2326096c21f7c0140527076de38acc2bc1d23c48d8f166bdd"
+      },
+      "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-013.jsonl.gz": {
+        "path": "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-013.jsonl.gz",
+        "bytes": 239683,
+        "sha256": "d265313e09cd51707e55ebfc3824b0832defabb356244218eb68bb9003f421c7"
+      },
+      "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-014.jsonl.gz": {
+        "path": "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-014.jsonl.gz",
+        "bytes": 242391,
+        "sha256": "ea10b100a5c6704481498e032bf808122ae0b0b6740e71d44cbcc79f43352d47"
+      },
+      "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-015.jsonl.gz": {
+        "path": "problems/2021-B4/computations/coordinator-J16-second-digit-v1-certificates-015.jsonl.gz",
+        "bytes": 2679,
+        "sha256": "4a9bf6cfc03b1797e2d2a732c01d9a352baf291fa992c23c90ebd1f5c1eab741"
+      },
+      "problems/2021-B4/computations/coordinator-J16-second-digit-v1-job.json": {
+        "path": "problems/2021-B4/computations/coordinator-J16-second-digit-v1-job.json",
+        "bytes": 1024,
+        "sha256": "5cd06cf983e7a7a7e50ce663fae96454480886d34f5424dab10793e475d0dd7e"
+      },
+      "problems/2021-B4/computations/coordinator-J16-second-digit-v1-output.txt": {
+        "path": "problems/2021-B4/computations/coordinator-J16-second-digit-v1-output.txt",
+        "bytes": 9371,
+        "sha256": "9b0d6fbc9f6e360dee25c2cd686cbd3b74831c0f391017f92868f0f3c28f3881"
+      },
+      "problems/2021-B4/computations/coordinator-J16-second-digit-v1-result.json": {
+        "path": "problems/2021-B4/computations/coordinator-J16-second-digit-v1-result.json",
+        "bytes": 27540,
+        "sha256": "c5e941076458c87d2adcf11ef0e07eb1c762ea68350e20728f2b2ff2dd637319"
+      },
+      "problems/2021-B4/computations/coordinator-J16-second-digit-v1-stderr.txt": {
+        "path": "problems/2021-B4/computations/coordinator-J16-second-digit-v1-stderr.txt",
+        "bytes": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "problems/2021-B4/computations/coordinator-J16-second-digit-v1.py": {
+        "path": "problems/2021-B4/computations/coordinator-J16-second-digit-v1.py",
+        "bytes": 7957,
+        "sha256": "ea184b1bf182eb48632c04ab039238a2ccfc32ff3f652a9386dc6dc9dba022e3"
+      },
+      "problems/2021-B4/notes/coordinator-J16-coupled-digit-candidate-v1.md": {
+        "path": "problems/2021-B4/notes/coordinator-J16-coupled-digit-candidate-v1.md",
+        "bytes": 8735,
+        "sha256": "2fa8c3ad1ccea46350c7d8ae76d9463b332e2be636e48f48dbcbff7cad85c801"
+      },
+      "problems/2021-B4/notes/coordinator-J16-coupled-leading-candidate-v1-manifest.json": {
+        "path": "problems/2021-B4/notes/coordinator-J16-coupled-leading-candidate-v1-manifest.json",
+        "bytes": 2857,
+        "sha256": "da57838f8b632e9153f86742ed33096821627fbd3fdc2089f90fda6ea88d2878"
+      },
+      "problems/2021-B4/notes/coordinator-J16-second-digit-lead-v1.md": {
+        "path": "problems/2021-B4/notes/coordinator-J16-second-digit-lead-v1.md",
+        "bytes": 4195,
+        "sha256": "96c9124ce9203bdea94abb60576b5e1e14a2dff15766a6ce9bda662dedfd4a8e"
+      },
+      "problems/2021-B4/notes/owner-J16-Hensel-v1.md": {
+        "path": "problems/2021-B4/notes/owner-J16-Hensel-v1.md",
+        "bytes": 14445,
+        "sha256": "990661fa1cb7c173efa406437d6c9481edf80861a64609a73ec4f5b077c5b9dc"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-benchmark-checkpoint.json": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-benchmark-checkpoint.json",
+        "bytes": 306,
+        "sha256": "58915d3a398a107b369e725700186946443cf5d53dea03e884692d2ac35bfa33"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-benchmark-job.json": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-benchmark-job.json",
+        "bytes": 1162,
+        "sha256": "6e38f990cd7765a44808e6bff84f6c57765d2c79046e687bded9469f91cd6821"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-benchmark-level-1-certificates-001.jsonl.gz": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-benchmark-level-1-certificates-001.jsonl.gz",
+        "bytes": 64270,
+        "sha256": "acc74455fd9d0c7d310046aecf58978c96b33b78343b1842c6d7ee680cea8737"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-benchmark-output.txt": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-benchmark-output.txt",
+        "bytes": 794,
+        "sha256": "b449f46e64cb63c686f8c53ee7e9d7addd59f12829403244af3bbb43e3be4f2d"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-benchmark-precision-2-nodes-001.jsonl.gz": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-benchmark-precision-2-nodes-001.jsonl.gz",
+        "bytes": 11793,
+        "sha256": "48bb2026026de198b6c5bb7022b9a18777fdcb5452f3243fc6e5878a7a21157d"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-benchmark-result.json": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-benchmark-result.json",
+        "bytes": 7458,
+        "sha256": "26b53f91c09bd4c64d4d50d3bd94427f3425f8425cce93a107c1dc16210e4334"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-benchmark-self-test.json": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-benchmark-self-test.json",
+        "bytes": 31902,
+        "sha256": "89d672162fa2d4368b273909edfb53563b48392bcd932ce6151012eab62ca2ca"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-benchmark-stderr.txt": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-benchmark-stderr.txt",
+        "bytes": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-checkpoint.json": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-checkpoint.json",
+        "bytes": 298,
+        "sha256": "3834bc3e51082186e4ecb4f1e5457612285c4cbdfbd3606169fb10af755b968b"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-job.json": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-job.json",
+        "bytes": 1094,
+        "sha256": "3d2ac0e614ff48d3395863f2ee336d787ac90d3d52bfbb7edfcfb35600cadaae"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-001.jsonl.gz": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-001.jsonl.gz",
+        "bytes": 333284,
+        "sha256": "a13001f9653185d9e043463701dac1b1c00afef11b86bbd6f5949f2f406cb7f4"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-002.jsonl.gz": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-002.jsonl.gz",
+        "bytes": 317036,
+        "sha256": "057fac92ab672cea143e321104630a9f01276eb64570f319582af273069ca5fa"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-003.jsonl.gz": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-003.jsonl.gz",
+        "bytes": 316181,
+        "sha256": "dd1db733b68b1d371d222a435a73273a4fb0bc3f9e61a01f52ebab4d817c23f8"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-004.jsonl.gz": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-004.jsonl.gz",
+        "bytes": 330281,
+        "sha256": "34c7bf11447fb9d3489af2524871f213caffacc8bf82ab1734dc3d6507efe1b6"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-005.jsonl.gz": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-005.jsonl.gz",
+        "bytes": 411270,
+        "sha256": "bba04ef480845e21e09ba7727d07b889ffce5ef5009034c80a26985fecdf8c6b"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-006.jsonl.gz": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-006.jsonl.gz",
+        "bytes": 353689,
+        "sha256": "d3345fb91a46de39a6fac4bbd616e930855882a6aa501a88c28a20273511258d"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-007.jsonl.gz": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-007.jsonl.gz",
+        "bytes": 298580,
+        "sha256": "8c6f125ea68435837f72aed2b6001712fd06a15fbb4aecb77d4a8e3bac894d5e"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-008.jsonl.gz": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-008.jsonl.gz",
+        "bytes": 295700,
+        "sha256": "93fa49d0b69921643a0b38fa18f3940c8a047e42fa5bbf48264e9f5f862de12d"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-009.jsonl.gz": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-009.jsonl.gz",
+        "bytes": 296644,
+        "sha256": "0ac574ddf100a9cdc4afe70aadc4e269c9d8238d39c912c3f915f4a3de33c428"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-010.jsonl.gz": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-010.jsonl.gz",
+        "bytes": 299656,
+        "sha256": "81d1d11cf474fc72e2a2d7fcbe6b42907597200c763963722be45bb6ff11efae"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-011.jsonl.gz": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-011.jsonl.gz",
+        "bytes": 302888,
+        "sha256": "42729da7a89e0df8a1518e14c072518830aca07b41700fd62f3c234773aeae1e"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-012.jsonl.gz": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-012.jsonl.gz",
+        "bytes": 301902,
+        "sha256": "3deb2e51af7c03a774f91ecba48dcb689277757e8ae3847bfe34fa4224e95046"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-013.jsonl.gz": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-013.jsonl.gz",
+        "bytes": 297559,
+        "sha256": "848e909f00c02312719fe227f80af549ee32c00af22ec0e6ff05a4ae25eed058"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-014.jsonl.gz": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-014.jsonl.gz",
+        "bytes": 393429,
+        "sha256": "296d817977afd3563f67f6c943a02bc694d5a7c6eb1bbde7c1910ccf5df86fc3"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-015.jsonl.gz": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-015.jsonl.gz",
+        "bytes": 9523,
+        "sha256": "fe291dc3c355cb48a0544ff301c22ae835ee5f3bbd9009dcffa2a447a40cc3eb"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-level-2-certificates-001.jsonl.gz": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-level-2-certificates-001.jsonl.gz",
+        "bytes": 317072,
+        "sha256": "67b6a81bfa39ea4c498695a58a3f7aedf28cb6c38b1fa2b527d4bd928cea470b"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-level-2-certificates-002.jsonl.gz": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-level-2-certificates-002.jsonl.gz",
+        "bytes": 553490,
+        "sha256": "29895bd8914e469e6b87e06141c3186f6306a317d60b1ca1274a10883449da9d"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-level-2-certificates-003.jsonl.gz": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-level-2-certificates-003.jsonl.gz",
+        "bytes": 242927,
+        "sha256": "f39e66d9a56e6504f0448947bebd210b8d8a3a176616a7b825bffee49f0a17e5"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-level-2-certificates-004.jsonl.gz": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-level-2-certificates-004.jsonl.gz",
+        "bytes": 243829,
+        "sha256": "81c9baec9c4c909a91c6e918e7ede79f361c266a55b9f3e6875030705856f818"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-level-2-certificates-005.jsonl.gz": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-level-2-certificates-005.jsonl.gz",
+        "bytes": 240208,
+        "sha256": "574831d410eaabd020d2ae21a8d253f961b4e46259dd2383ce7d84eb9759dfbd"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-level-2-certificates-006.jsonl.gz": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-level-2-certificates-006.jsonl.gz",
+        "bytes": 254382,
+        "sha256": "f202021464f005d69371a3af6a2cdd14199625673f2a62ec3fdcb23a4c1426f2"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-level-2-certificates-007.jsonl.gz": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-level-2-certificates-007.jsonl.gz",
+        "bytes": 19665,
+        "sha256": "6887adf82a670ba23788770b64e5014c421497fdf924f5caab74594faa1b3753"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-level-3-certificates-001.jsonl.gz": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-level-3-certificates-001.jsonl.gz",
+        "bytes": 56893,
+        "sha256": "0a4eeb1fbc297fdb035362daacbb817eac8dbdcd195251e521ea2e927bfd9a50"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-output.txt": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-output.txt",
+        "bytes": 45863,
+        "sha256": "e36b7e129f6cc0392af55401e435aef1f8d8f84a636c1ad56adcd16b95e7c349"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-postcheck-job.json": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-postcheck-job.json",
+        "bytes": 834,
+        "sha256": "f88ae24c1cffb99a19c86dc18e58e634ab8b1d85e40aec4a3d2c41a8b0911aea"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-postcheck-output.txt": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-postcheck-output.txt",
+        "bytes": 417,
+        "sha256": "b47f220b7ec25217c0e6ecfd5efef2a162f202ab30a1f5e7ee6f19ab06343355"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-postcheck-result.json": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-postcheck-result.json",
+        "bytes": 312396,
+        "sha256": "6eee254cd548d78c68c02348945fac4b42dffeea78f7c622da23019561c27f0b"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-postcheck-stderr.txt": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-postcheck-stderr.txt",
+        "bytes": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-postcheck.py": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-postcheck.py",
+        "bytes": 5772,
+        "sha256": "9419ab57de8b86da56d7dc6b5cbbd9995fcb2197933a8aaf47dadb07b91fefbf"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-precision-2-nodes-001.jsonl.gz": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-precision-2-nodes-001.jsonl.gz",
+        "bytes": 221157,
+        "sha256": "57c21ad7a64e1526009862c58f188d1aec575b4940e3059acb072b1c25b5557b"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-precision-2-nodes-002.jsonl.gz": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-precision-2-nodes-002.jsonl.gz",
+        "bytes": 228687,
+        "sha256": "883d5940b3938b2ef134e262fb51c6e7acf6d5467972a6f3e3cb28f0b0eb2d73"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-precision-2-nodes-003.jsonl.gz": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-precision-2-nodes-003.jsonl.gz",
+        "bytes": 204984,
+        "sha256": "93d05b4cb0a79e7e7ee0c05f7cf809f8058e74bddaa2c4a8fce3831352c76157"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-precision-2-nodes-004.jsonl.gz": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-precision-2-nodes-004.jsonl.gz",
+        "bytes": 205082,
+        "sha256": "4862135008477879bf443a274dde8464853fb4a8c67e18a4050a01b03dbb2154"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-precision-2-nodes-005.jsonl.gz": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-precision-2-nodes-005.jsonl.gz",
+        "bytes": 203852,
+        "sha256": "9a42a9fe988172c2f5856a96b5bcb7f89c7c1574e2c60cfa22a535ae75947868"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-precision-2-nodes-006.jsonl.gz": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-precision-2-nodes-006.jsonl.gz",
+        "bytes": 206563,
+        "sha256": "349d3401844d657c3f7d4b635cd5b1649cdf0ae470d91a67fef06af8180abcbe"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-precision-2-nodes-007.jsonl.gz": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-precision-2-nodes-007.jsonl.gz",
+        "bytes": 5357,
+        "sha256": "ad8cdf4e9661e7222562eac2de60647d25e93e4153aa7f31b6aedebfe55e3101"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-precision-3-nodes-001.jsonl.gz": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-precision-3-nodes-001.jsonl.gz",
+        "bytes": 10444,
+        "sha256": "14b976a3cd086da67f11a443260c0fe656e4b0bb55e2c43e0c808f9c968523d5"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-precision-4-nodes-001.jsonl.gz": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-precision-4-nodes-001.jsonl.gz",
+        "bytes": 825,
+        "sha256": "4a68a58ecd349958b3cfa1e9c50ce10a001c1dbce568f1224ac39739aeb7dcfb"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-result.json": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-result.json",
+        "bytes": 27520,
+        "sha256": "d4c96aa303d22f7e96978fa1f5a8829b3526c110529a731200e1fe75a268ee28"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-self-test.json": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-self-test.json",
+        "bytes": 31902,
+        "sha256": "89d672162fa2d4368b273909edfb53563b48392bcd932ce6151012eab62ca2ca"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1-stderr.txt": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-stderr.txt",
+        "bytes": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v1.py": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v1.py",
+        "bytes": 19751,
+        "sha256": "acb811b279c11def4c82a1e156e9906007c313d78341ede722e00e1a70a2ee06"
+      },
+      "problems/2021-B4/notes/owner-J16-Hensel-v2.md": {
+        "path": "problems/2021-B4/notes/owner-J16-Hensel-v2.md",
+        "bytes": 8195,
+        "sha256": "e4a9fcb1ee37c97b62ae389ce180b4644e751d4aee9e037f5a962fc6338d96e7"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v2-benchmark-certificates.jsonl": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v2-benchmark-certificates.jsonl",
+        "bytes": 238992,
+        "sha256": "41d7473ff0de752553cc28d6e9879dcab3689ad877da0d4a6953a6779b290c3d"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v2-benchmark-job.json": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v2-benchmark-job.json",
+        "bytes": 1041,
+        "sha256": "c310e6d88418b1ffb4cc5cb64fd69a8a20ef93634d67ccc7a8c84dfe4ce42aeb"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v2-benchmark-output.txt": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v2-benchmark-output.txt",
+        "bytes": 1949,
+        "sha256": "aa4f6c5c4805efcc42cb0acad943b90f9ea62bee054c6d45ac1396544cea6dee"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v2-benchmark-result.json": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v2-benchmark-result.json",
+        "bytes": 3807,
+        "sha256": "a51889f4956593b1564735dbe6d92e0035c334fde5e2e39d131efafbcccd8d39"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v2-benchmark-stderr.txt": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v2-benchmark-stderr.txt",
+        "bytes": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v2-certificates.jsonl": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v2-certificates.jsonl",
+        "bytes": 282052,
+        "sha256": "e5f4ebc407434d8337d108e95807140887f00eab8cc7ced06d26341405124c94"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v2-job.json": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v2-job.json",
+        "bytes": 983,
+        "sha256": "33426f0904f20a14514976b030ead50964d33398b99e89712b4785404843e5f1"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v2-obstructions-result.json": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v2-obstructions-result.json",
+        "bytes": 56615,
+        "sha256": "6fd77358cebf63e6042116c670b1dbb29286a6231621e4dfa2c9b9c2e6e890ac"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v2-obstructions.py": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v2-obstructions.py",
+        "bytes": 2617,
+        "sha256": "eb59269df46185892ecd0983a62be6cc842a76fb9559bdf6cb04939f971fbb0a"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v2-output.txt": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v2-output.txt",
+        "bytes": 2255,
+        "sha256": "8a7748e0994cbab40b037931c19e3c1eaa0672a79a4138cacbb61b709d558ce3"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v2-result.json": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v2-result.json",
+        "bytes": 4167,
+        "sha256": "b86b4a92a3eebc8b032d82e6329bc74e4ded8fa1afc84a0ad4515d0b3b608a91"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v2-stderr.txt": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v2-stderr.txt",
+        "bytes": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "problems/2021-B4/computations/owner-J16-Hensel-v2.py": {
+        "path": "problems/2021-B4/computations/owner-J16-Hensel-v2.py",
+        "bytes": 9513,
+        "sha256": "88721b658d4f2803545d56fed98eca0971a208604b7aa569f0bb19a52d8bcf30"
+      }
+    }
+  },
+  "independent_source_sha256": "428a574119ea2dbbe33700654cb8fe6b48ed9e5ca1a9609e23c1669c6ee9dc86",
+  "all_affine_matrices_checked_by_361_pairs": 692,
+  "distinct_recorded_augmented_row_spaces_checked": 21627,
+  "seconds": 76.3475152089959
+}

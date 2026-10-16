@@ -1,0 +1,24 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "problems/2019-B4/computations/thirdpass-small-rational.py",
+    "--input",
+    "problems/2019-B4/computations/thirdpass-delay4.json",
+    "--output",
+    "problems/2019-B4/computations/thirdpass-rational4-venv.json"
+  ],
+  "timeout_seconds": 30.0,
+  "started_utc": "2026-10-16T17:09:25.229392+00:00",
+  "supervisor_pid": 56106,
+  "status": "completed",
+  "child_pid": 56107,
+  "returncode": 0,
+  "elapsed_seconds": 1.6862738329800777,
+  "completed_utc": "2026-10-16T17:09:26.916137+00:00",
+  "source_sha256": {
+    ".venv/bin/python": "7a314947596fc484d4ec36ffc28e843b78d6d749c68736f8b5c24e7333f418eb",
+    "problems/2019-B4/computations/thirdpass-small-rational.py": "ea8b7b17a525067abdfcdf1d97f53974f2dceaa4fa091b3498202e92c56842e5",
+    "problems/2019-B4/computations/thirdpass-delay4.json": "1cb2f17fb660489df65417956f5d38cd5488efda0912e5ac2aeb8c7567b624aa",
+    "problems/2019-B4/computations/thirdpass-rational4-venv.json": "029d30f25c47d2d8ac3e39014995d3c287b07c0a9d3e006d0a7b46f5baa90ed8"
+  }
+}

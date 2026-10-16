@@ -1,0 +1,123 @@
+{
+  "recorded_at_utc": "2026-10-16T17:29:11.132568+00:00",
+  "researcher": "review_2021_j16_digits_r1 (new literature role)",
+  "requested_model": "gpt-6.1-sol",
+  "requested_reasoning": "max",
+  "effective_setting_readback": "unavailable",
+  "scope": "2020 B4(b) only",
+  "full_papers_tracked": false,
+  "sources": [
+    {
+      "key": "field-descent",
+      "url": "https://personal.ntu.edu.sg/bernhard/Publications/pub/field.pdf",
+      "locator": "Definition2.6; TheoremA; Theorem4.3 p18",
+      "status": "published; author version",
+      "read_scope": "Definitions, main theorem, application bound and surrounding proof read; p18 visually checked",
+      "cache_path": ".cache/literature/deep-literature-r1/2020-leung-schmidt-field-descent.pdf",
+      "exists": true,
+      "bytes": 336369,
+      "sha256": "ada678ae9b1e378a966f9986c0285c9e9e91d6fc566bf9ca224f2fda50d98e6f",
+      "pdf_header": true
+    },
+    {
+      "key": "multiplier",
+      "url": "https://personal.ntu.edu.sg/bernhard/Publications/pub/multipliers.pdf",
+      "locator": "Theorem1.4 pp3–4; Corollary4.1; section5",
+      "status": "published; author version",
+      "read_scope": "Main theorem and recursive hypotheses read, not a fresh full proof audit",
+      "cache_path": ".cache/literature/deep-literature-r1/2020-leung-ma-schmidt-multiplier.pdf",
+      "exists": true,
+      "bytes": 314793,
+      "sha256": "bf1b004ba81a86d44ceb169738e4726eeccf6360a937edbdd274afb668d7377d",
+      "pdf_header": true
+    },
+    {
+      "key": "peluse",
+      "url": "https://arxiv.org/abs/2003.04929v2",
+      "locator": "Theorem1.2; Theorem2.1; Lemma2.2 p3",
+      "status": "published result; cached arXivv2",
+      "read_scope": "First four pages and residue proof read; p3 visually checked; asymptotic proof not independently reconstructed",
+      "cache_path": ".cache/literature/deep-literature-r1/2020-peluse-asymptotic-v2.pdf",
+      "exists": true,
+      "bytes": 386633,
+      "sha256": "059d9b082edbaf530ef1fdc929e3b870470e22fe6bc10cea6b21cb0fc63f395d",
+      "pdf_header": true
+    },
+    {
+      "key": "huang-schmidt",
+      "url": "https://personal.ntu.edu.sg/bernhard/Publications/pub/Singer.pdf",
+      "locator": "Section3 Results6–10; Lemmas12–15",
+      "status": "published; author version",
+      "read_scope": "Definitions, scope and square-order reduction statements/proofs read through Lemma15",
+      "cache_path": ".cache/literature/deep-literature-r1/2020-huang-schmidt-uniqueness.pdf",
+      "exists": true,
+      "bytes": 178716,
+      "sha256": "01e1606d116c69a2541e7be4b4e67d30574111907b9367bc1ba96f15bebf381b",
+      "pdf_header": true
+    },
+    {
+      "key": "abelian-n2",
+      "url": "https://personal.ntu.edu.sg/bernhard/Publications/pub/blojunew.pdf",
+      "locator": "Title and abstract p1",
+      "status": "published; author version",
+      "read_scope": "Text extraction damaged; rendered p1 checked; no detailed theorem import",
+      "cache_path": ".cache/literature/deep-literature-r1/2020-blokhuis-jungnickel-schmidt-abelian-q2.pdf",
+      "exists": true,
+      "bytes": 150168,
+      "sha256": "b341f161a3a7812dcdd6c28ef87738367015f5712f307feb21573814cf0aa2ef",
+      "pdf_header": true
+    },
+    {
+      "key": "gordon-small-lambda",
+      "url": "https://arxiv.org/abs/2007.07292",
+      "locator": "arXiv Theorems5–6; published numbering differs",
+      "status": "published; prior cached version",
+      "read_scope": "First four pages read, including exact collision criterion and contraction scope",
+      "cache_path": ".cache/literature/2020/initial-review-2/gordon-small-lambda-v1.pdf",
+      "exists": true,
+      "bytes": 128808,
+      "sha256": "fd92867ab367f70e15a19118e711f84f601dfa835d9c5ab33fb706d3eedf2850",
+      "pdf_header": true
+    },
+    {
+      "key": "baumert-gordon",
+      "url": "https://arxiv.org/abs/math/0304502",
+      "locator": "Theorem5.1, cyclic planar section",
+      "status": "published",
+      "read_scope": "Primary authored full-text passage found via indexed source; not newly cached"
+    },
+    {
+      "key": "alexeev-mixon",
+      "url": "https://arxiv.org/abs/2510.19804v2",
+      "locator": "Theorems8–9; section3",
+      "status": "active preprint",
+      "read_scope": "First five pages read including direct proof and prime-order restriction; no proof-assistant artifact independently checked",
+      "cache_path": ".cache/literature/2020/initial-review-2/alexeev-mixon-v2.pdf",
+      "exists": true,
+      "bytes": 621415,
+      "sha256": "0b9114eb34b8625418f52d8336f074d0ba9849fda40f720e60dbcba897a037e0",
+      "pdf_header": true
+    },
+    {
+      "key": "niu",
+      "url": "https://arxiv.org/abs/2604.25214",
+      "locator": "Abstract and bounded-search scope",
+      "status": "active preprint; no theorem imported",
+      "read_scope": "Metadata/abstract only; complete proof expressly not supplied"
+    },
+    {
+      "key": "official",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2020-solutions_1.pdf",
+      "locator": "B4 heading and discussion p27",
+      "status": "official competition source",
+      "read_scope": "Part(b) context and attribution only; no research on preliminary(a)"
+    },
+    {
+      "key": "committee-current",
+      "url": "https://www.simonmarais.org/aboutus.html",
+      "locator": "Problem Committee2026",
+      "status": "official current page",
+      "read_scope": "No historical backdating; /committees.html inaccessible"
+    }
+  ]
+}

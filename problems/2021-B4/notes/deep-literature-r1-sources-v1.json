@@ -1,0 +1,187 @@
+{
+  "recorded_at_utc": "2026-10-16T17:29:11.132568+00:00",
+  "researcher": "review_2021_j16_digits_r1 (new literature role)",
+  "requested_model": "gpt-6.1-sol",
+  "requested_reasoning": "max",
+  "effective_setting_readback": "unavailable",
+  "scope": "2021 B4(b) only",
+  "full_papers_tracked": false,
+  "sources": [
+    {
+      "key": "bothmer",
+      "url": "https://arxiv.org/abs/math/0605090v2",
+      "locator": "Theorem1.1 and characteristic-p transfer",
+      "status": "published",
+      "read_scope": "All seven pages read; no novel proof claimed",
+      "cache_path": ".cache/literature/2021/cited-24f2fc988b12860d.pdf",
+      "exists": true,
+      "bytes": 132412,
+      "sha256": "086fbe59afdcd46c9f729ee38f14d0c44310612cb0c3506189a2119606beecdc",
+      "pdf_header": true
+    },
+    {
+      "key": "clo",
+      "url": "https://arxiv.org/abs/1208.5404",
+      "locator": "Theorems3–5 pp4–5; paragraph3.6; Proposition19 pp15–16",
+      "status": "published",
+      "read_scope": "Exact family/bad-prime/root hypotheses re-read; p15 rendered and visually checked",
+      "cache_path": ".cache/literature/2021/cited-66c5af6a0f0239f5.pdf",
+      "exists": true,
+      "bytes": 281743,
+      "sha256": "d818747102d32060f43ae5f015f27065aadf38699b272a2367749db8b33fedbf",
+      "pdf_header": true
+    },
+    {
+      "key": "draisma-dejong",
+      "url": "https://ems.press/content/serial-issue-files/13698",
+      "locator": "Proposition6 pp31–32; original Theorem7 p32–33",
+      "status": "published, Theorem7 corrected by authors",
+      "read_scope": "Relevant original result and correction trail checked; no reliance on uncorrected family",
+      "cache_path": ".cache/literature/2021/draisma-de-jong-newsletter-2011-06-80.pdf",
+      "exists": true,
+      "bytes": 2795058,
+      "sha256": "9babd9ea728de626f8921a4086f6170039537c7305ac5b500f6ba0edda942ad0",
+      "pdf_header": true
+    },
+    {
+      "key": "erratum",
+      "url": "https://math-unibe.ch/jdraisma/publications/erratumcasasalvero.pdf",
+      "locator": "Entire one-page August2011 erratum",
+      "status": "primary author correction",
+      "read_scope": "Entire text read",
+      "cache_path": ".cache/literature/deep-literature-r1/2021-draisma-dejong-erratum-2011.pdf",
+      "exists": true,
+      "bytes": 43723,
+      "sha256": "9414998fc302643b7cf261e4adec1333034dc732e8a3a493a1a0ff7418d8f262",
+      "pdf_header": true
+    },
+    {
+      "key": "massri",
+      "url": "https://arxiv.org/abs/1806.09561v6",
+      "locator": "Theorems7.9–7.10; Remark7.4",
+      "status": "active v6 preprint, earlier withdrawals; no journal verified",
+      "read_scope": "Exact scope checked; complete author computation not newly audited",
+      "cache_path": ".cache/literature/2021/massri-1806.09561v6.pdf",
+      "exists": true,
+      "bytes": 154257,
+      "sha256": "8e5dec6d9d3ca1cb6becd7fa7e3d4c6ef18927cff9521c5f4eb9a1c1b567952f",
+      "pdf_header": true
+    },
+    {
+      "key": "massri-ssrn",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4935880",
+      "locator": "2024-08-24 author posting,14pp",
+      "status": "author repository, not a journal acceptance",
+      "read_scope": "Metadata and matching restricted claim checked"
+    },
+    {
+      "key": "schaub-note",
+      "url": "https://arxiv.org/abs/2312.08742v7",
+      "locator": "Theorem5; added-in-press; Theorems9–10",
+      "status": "active arXivv7",
+      "read_scope": "All five pages read; related2025 journal identity not publisher-fulltext verified",
+      "cache_path": ".cache/literature/deep-literature-r1/2021-schaub-spivakovsky-note-v7.pdf",
+      "exists": true,
+      "bytes": 105750,
+      "sha256": "cf2b7b561b2d965e4747ed14d6e0f26e81e1c8ebb29dbb73957a93de1b099214",
+      "pdf_header": true
+    },
+    {
+      "key": "schaub-description",
+      "url": "https://arxiv.org/abs/2411.13967v1",
+      "locator": "Theorem3.1; Corollary3.2; conditional characteristic-zero hypothesis",
+      "status": "active preprint",
+      "read_scope": "All five pages read, including matrix construction and conditional bound",
+      "cache_path": ".cache/literature/deep-literature-r1/2021-schaub-spivakovsky-description-v1.pdf",
+      "exists": true,
+      "bytes": 107151,
+      "sha256": "7ae46d92887502b9bc1d5d5ae23b93f85a093d3c78495dfa730c1d0196dff0ee",
+      "pdf_header": true
+    },
+    {
+      "key": "schaub-published-bad-primes",
+      "url": "https://doi.org/10.1007/s40687-024-00444-z",
+      "locator": "Research in Mathematical Sciences11,31(2024)",
+      "status": "publication verified on publisher page",
+      "read_scope": "Non-exhaustive list scope; not used as an exhaustive good-prime classification"
+    },
+    {
+      "key": "schaub-jca-record",
+      "url": "https://doi.org/10.1216/jca.2025.17.199",
+      "locator": "J.Commut.Algebra17(2),199–202(2025)",
+      "status": "bibliographic record located; publisher inaccessible",
+      "read_scope": "Secondary records used only as metadata lead; exact correspondence to arXiv not asserted verified"
+    },
+    {
+      "key": "defrutos",
+      "url": "https://uvadoc.uva.es/bitstream/handle/10324/3602/tesis367-130927.pdf?sequence=1",
+      "locator": "2013 thesis introduction; Corollary2.3.4 printedp29",
+      "status": "university dissertation; download timed out",
+      "read_scope": "Exact theorem and normalization read from indexed primary text; no full PDF/proof audit"
+    },
+    {
+      "key": "ghosh-universal",
+      "url": "https://arxiv.org/abs/2501.09272v2",
+      "locator": "TheoremA; version/comment metadata",
+      "status": "active major-revision preprint; no journal/withdrawal verified",
+      "read_scope": "Status and implication checked; no repeat full proof audit",
+      "cache_path": ".cache/literature/2021/cited-40f9614065b33fc5.pdf",
+      "exists": true,
+      "bytes": 559355,
+      "sha256": "562050e1bff0fbfae2493951b4456485c61181381ba374271889d81d96bb5daa",
+      "pdf_header": true
+    },
+    {
+      "key": "ghosh-finite",
+      "url": "https://arxiv.org/abs/2402.18717v3",
+      "locator": "Fixed-degree finiteness, not emptiness",
+      "status": "AJM acceptance recorded in existing primary-source packet",
+      "read_scope": "Scope and author current-page statement checked",
+      "cache_path": ".cache/literature/2021/cited-78d1801ffc618164.pdf",
+      "exists": true,
+      "bytes": 437125,
+      "sha256": "566e7ffb4974479d96f801aa206fb284d5c8900abd47a6ab81197a1c73a16fac",
+      "pdf_header": true
+    },
+    {
+      "key": "ghosh-author",
+      "url": "https://ghosh-soham.github.io/",
+      "locator": "Publication list",
+      "status": "primary author page",
+      "read_scope": "Finiteness acceptance distinguished from universal claim"
+    },
+    {
+      "key": "marashdeh",
+      "url": "https://arxiv.org/abs/2608.14726v1",
+      "locator": "Introduction; support/scenario restrictions",
+      "status": "active preprint",
+      "read_scope": "Introduction and relevance to support reductions; no theorem used as accepted axiom",
+      "cache_path": ".cache/literature/2021/cited-f6c167df7cafd493.pdf",
+      "exists": true,
+      "bytes": 633078,
+      "sha256": "0a988de334822e973ee826d06b13a88a84d528c428c89c7a02d916f57c9b522b",
+      "pdf_header": true
+    },
+    {
+      "key": "gasull",
+      "url": "https://doi.org/10.1007/s44425-026-00047-6",
+      "locator": "Section3.4, Proposition7, bibliography reference19",
+      "status": "published survey, frontier statement conflicts with correction trail",
+      "read_scope": "Full relevant HTML section and cited reference checked; supplies no degree20 proof"
+    },
+    {
+      "key": "official",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2021-solutions.pdf",
+      "locator": "B4 heading; part(b) comments",
+      "status": "official",
+      "read_scope": "Scope and attribution only; no preliminary(a) investigation"
+    },
+    {
+      "key": "committee-current",
+      "url": "https://www.simonmarais.org/aboutus.html",
+      "locator": "Problem Committee2026",
+      "status": "official current page",
+      "read_scope": "No historical backdating; /committees.html inaccessible"
+    }
+  ]
+}

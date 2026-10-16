@@ -1,0 +1,58 @@
+{
+  "recorded_at_utc": "2026-10-16T17:29:11.132568+00:00",
+  "timing_policy": "UTC intervals bounded by clock/telemetry reads, not fabricated exact timestamps for each tool call. Earlier groups record topics/navigation when exact query text was not retained.",
+  "prior_inputs": [
+    "problems/2020-B4/references.md",
+    "problems/2020-B4/research.md"
+  ],
+  "entries": [
+    {
+      "utc_interval": [
+        "2026-10-16T17:02:49Z",
+        "2026-10-16T17:17:08Z"
+      ],
+      "activity": "Read prior references/research/accepted partial notes; navigated Schmidt publication bibliography, Peluse, Gordon and Alexeev–Mixon; downloaded primary PDFs. Earlier exact per-call timestamps are not recoverable.",
+      "topics": [
+        "post-Gordon multiplier theorems",
+        "field descent",
+        "square descent",
+        "cyclic uniqueness versus existence",
+        "confirmed current committee names and attribution"
+      ]
+    },
+    {
+      "utc_interval": [
+        "2026-10-16T17:17:08Z",
+        "2026-10-16T17:29:11.132568+00:00"
+      ],
+      "exact_queries": [
+        "\"cyclic planar difference sets\" \"2025\"",
+        "\"cyclic projective planes\" \"2024\" \"prime power\"",
+        "\"cyclic\" \"prime power conjecture\" square descent multiplier 2026",
+        "\"Simon Marais\" \"taut\" author"
+      ],
+      "activity": "Followed primary author publication links to Huang–Schmidt and Blokhuis–Jungnickel–Schmidt; checked cited theorem hypotheses and rendered formulas; no computation launched"
+    }
+  ],
+  "access_failures": [
+    "No explicit B4individual proposer credit found",
+    "/committees.html inaccessible"
+  ],
+  "computation_policy": "Only PDF extraction/rendering, hashes and record construction; no CAS or mathematical exhaustive search launched.",
+  "telemetry": {
+    "observed_total_weekly_used_percent": 14,
+    "reset_unix": 1792745187,
+    "observed_during": "checkpoint finalization; exact per-call wall-clock not logged",
+    "cutoff_percent": 90
+  },
+  "commands_and_dependencies": {
+    "rebuild": ".venv/bin/python problems/2021-B4/notes/deep-literature-r1-build-records-v1.py",
+    "download_template": "curl -L --fail --silent --show-error --max-time 30 '<source_url>' -o '<cache_path>'",
+    "pdf_read": "Python3.12.14, pypdf.PdfReader; extract_text on the exact page ranges recorded per source",
+    "pdf_render_template": "pdftoppm -f PAGE -l PAGE -scale-to 1600 -png -singlefile SOURCE_PDF CACHE_PREFIX",
+    "render_inspection": "view_image; theorem/footnote pages recorded in source read_scope; official2025 heading only used",
+    "cache_ignore_check": "git check-ignore .cache/literature/deep-literature-r1/<downloaded-file>; representative files confirmed ignored",
+    "verification": "Recomputed SHA256 for every cached source entry and every tracked checkpoint artifact; no missing cached entries; invalid survey HTML separately marked pdf_header=false",
+    "native_CAS_jobs": []
+  }
+}

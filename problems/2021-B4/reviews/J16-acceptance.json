@@ -1,0 +1,47 @@
+{
+  "accepted_at_utc": "2026-10-16T17:16:02.418971+00:00",
+  "status": "proved, independently reviewed (partial result)",
+  "claims": [
+    "L1",
+    "L2",
+    "L3",
+    "L4: rational J=16 exclusion"
+  ],
+  "reviewers_distinct_from_both_constructors": true,
+  "initial_audits_blind": true,
+  "both_full_reconstructions": true,
+  "substantive_repairs_required": false,
+  "entire_tree": [
+    840396,
+    361194,
+    2026,
+    90,
+    14,
+    0
+  ],
+  "accepted_mask_count_before": 772,
+  "excluded_J16_masks": 88,
+  "accepted_necessary_mask_count_after": 684,
+  "full_degree20_status": "unresolved",
+  "full_annual_problem_status": "unresolved",
+  "novelty_established": false,
+  "candidate_unique_artifact_checks": 113,
+  "reviewer_manifest_checks": [
+    36,
+    46
+  ],
+  "artifacts": {
+    "notes/coordinator-J16-coupled-leading-candidate-v1.md": "d8ad259a3084635d5f3b66e1aaf6fe611c6a118b47dfd16578d0e2958bde3fce",
+    "notes/coordinator-J16-coupled-digit-candidate-v1.md": "2fa8c3ad1ccea46350c7d8ae76d9463b332e2be636e48f48dbcbff7cad85c801",
+    "notes/owner-J16-Hensel-v1.md": "990661fa1cb7c173efa406437d6c9481edf80861a64609a73ec4f5b077c5b9dc",
+    "notes/owner-J16-Hensel-v2.md": "e4a9fcb1ee37c97b62ae389ce180b4644e751d4aee9e037f5a962fc6338d96e7",
+    "notes/coordinator-J16-exclusion-reviewed-v1.1.md": "e34c06e92c6603fb234f955d7d6e9d2657646e82a32ed07b87c2756ceddae867",
+    "reviews/J16-digits-review-1.md": "9a6b6002441495f88cff04fb03ef06aecde4d01308a686fee6d713eab04d391f",
+    "reviews/J16-digits-review-2.md": "afd4970bc8d3ce40541439d3d8f42f41810ab51c0b9b60e66e3d4264a3588941",
+    "reviews/J16-digits-review-1-manifest.json": "7d04e4aef6bc0bc3fb7694b5985ff4a13afd547bc58bd08460b91e10d9b16d86",
+    "reviews/J16-digits-review-2-manifest.json": "61e8975db979d985ee1c9ee74b153eaecc04d40f5c02ae3956db01efd5253333",
+    "reviews/J16-acceptance.md": "9cd2170a2573c88c6bba777e340797d8f66cc7edc816ed98c3a46f170d782712",
+    "reviews/J16-acceptance-integrity.json": "4da39886acaee8f659d5e5e186f34a9ae0b9ef2fe9db7fc80d62e7bd3de76cb7",
+    "reviews/J16-acceptance-issues-snapshot.md": "3d81d91f5df496eac4febb021b3c11690ed3e5b284f3b5f2ec38f1714a351eb2"
+  }
+}

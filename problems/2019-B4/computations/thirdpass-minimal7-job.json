@@ -1,0 +1,27 @@
+{
+  "command": [
+    "python3",
+    "problems/2019-B4/computations/thirdpass-minimal-delay.py",
+    "--input",
+    "problems/2019-B4/computations/thirdpass-delay7-exact.json",
+    "--state-cap",
+    "100000",
+    "--length",
+    "80",
+    "--output",
+    "problems/2019-B4/computations/thirdpass-minimal7.json"
+  ],
+  "timeout_seconds": 30.0,
+  "started_utc": "2026-10-16T17:04:39.192985+00:00",
+  "supervisor_pid": 54577,
+  "status": "completed",
+  "child_pid": 54588,
+  "returncode": 0,
+  "elapsed_seconds": 0.6489009999786504,
+  "completed_utc": "2026-10-16T17:04:39.842717+00:00",
+  "source_sha256": {
+    "problems/2019-B4/computations/thirdpass-minimal-delay.py": "9ae7637f9e67d1e4a7c62bed057f3e92489c4d1882b426ea44fa9961435aa384",
+    "problems/2019-B4/computations/thirdpass-delay7-exact.json": "24cd54122c24fe3e13e0cbd9a4b698275e77f4b2dedec39b0dfe67b045985c56",
+    "problems/2019-B4/computations/thirdpass-minimal7.json": "34f669261347f3c5c078e7d03566f7c9ac4603ce9ab64b1b0153fd52374e5c45"
+  }
+}

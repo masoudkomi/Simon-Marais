@@ -1,0 +1,25 @@
+{
+  "tool": "mcp__codex_app__get_usage_limits",
+  "utc_recorded": "2026-10-16T17:07:50Z",
+  "observations": [
+    {
+      "phase": "before benchmark/full traversal",
+      "weekly_used_percent": 12,
+      "window_minutes": 10080,
+      "resets_at": 1792745187
+    },
+    {
+      "phase": "during artifact comparison",
+      "weekly_used_percent": 13,
+      "window_minutes": 10080,
+      "resets_at": 1792745187
+    },
+    {
+      "phase": "final initial-review freeze",
+      "weekly_used_percent": 13,
+      "window_minutes": 10080,
+      "resets_at": 1792745187
+    }
+  ],
+  "stop_threshold_total_weekly_used_percent": 90
+}

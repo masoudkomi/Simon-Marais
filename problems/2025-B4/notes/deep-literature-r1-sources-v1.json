@@ -1,0 +1,161 @@
+{
+  "recorded_at_utc": "2026-10-16T17:29:11.132568+00:00",
+  "researcher": "review_2021_j16_digits_r1 (new literature role)",
+  "requested_model": "gpt-6.1-sol",
+  "requested_reasoning": "max",
+  "effective_setting_readback": "unavailable",
+  "scope": "2025 B4(b) only",
+  "full_papers_tracked": false,
+  "sources": [
+    {
+      "key": "official-setter",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc2025_solutions.pdf",
+      "locator": "B4 heading printedp16/25",
+      "status": "official explicit proposer credit",
+      "read_scope": "Heading checked in text and rendering; only attribution/part(b) used",
+      "cache_path": ".cache/literature/deep-literature-r1/2025-official-solutions-with-setter.pdf",
+      "exists": true,
+      "bytes": 273845,
+      "sha256": "0fcacace7c3c9f3a34b7c368abdbc9436e35215e7e406158b25bfd9437940345",
+      "pdf_header": true
+    },
+    {
+      "key": "mcnamara",
+      "url": "https://petermc.net/maths/",
+      "locator": "Peter J.McNamara identity and research list",
+      "status": "primary author site",
+      "read_scope": "Representation-theory profile; no specific NL paper located"
+    },
+    {
+      "key": "chen-mihailescu",
+      "url": "https://journal.hep.com.cn/caoms/EN/10.1007/s11401-026-0018-7",
+      "locator": "Equation1.3; Theorems1.1–1.3; footnote1 p390",
+      "status": "published2026",
+      "read_scope": "Relevant exact theorem pages re-read and rendered; complete source previously reviewed in project",
+      "cache_path": ".cache/literature/2025/initial-review-1-chen-mihailescu-2026-complete.pdf",
+      "exists": true,
+      "bytes": 306724,
+      "sha256": "0642006f404df9c8402c2394054eea9cfe63249bf38975d431fc2f553d9c1730",
+      "pdf_header": true
+    },
+    {
+      "key": "dupuy",
+      "url": "https://www.impan.pl/shop/en/publication/transaction/download/product/83678",
+      "locator": "Theorem1.1 p392; following small-prime paragraph",
+      "status": "published2007",
+      "read_scope": "First three pages read, exact integer/distinct-prime/e=1 hypotheses",
+      "cache_path": ".cache/literature/deep-literature-r1/2025-dupuy-2007.pdf",
+      "exists": true,
+      "bytes": 143127,
+      "sha256": "1d4393eb93f4d225bedd1064e28ea76a26aa8dc8f459455dd704dc3a68a72892",
+      "pdf_header": true
+    },
+    {
+      "key": "diagonal2008",
+      "url": "https://doi.org/10.1007/978-3-211-74280-8_15",
+      "locator": "Theorems1–4, version2.0 Sep17,2007; published2008",
+      "status": "published chapter; author-uploaded text accessible",
+      "read_scope": "Author-posted complete text read in relevant sections; PDF download unsuccessful"
+    },
+    {
+      "key": "diagonal-author-text",
+      "url": "https://www.researchgate.net/publication/226863681_Class_Number_Conditions_for_the_Diagonal_Case_of_the_Equation_of_Nagell_and_Ljunggren",
+      "locator": "Primary content uploaded by PredaMihailescu",
+      "status": "public author version",
+      "read_scope": "Theorem domains and first/second-case definitions checked; not a journal-proof audit"
+    },
+    {
+      "key": "bartolome-mihailescu",
+      "url": "https://arxiv.org/abs/1412.5798v2",
+      "locator": "Theorem1.2; Remark1.4; Theorem2.2",
+      "status": "published IJNT2017; cached arXivv2 internal2021 date",
+      "read_scope": "First four pages read; repair appendix existence verified, computations not independently reconstructed",
+      "cache_path": ".cache/literature/deep-literature-r1/2025-bartolome-mihailescu-binary-thue-v2.pdf",
+      "exists": true,
+      "bytes": 300321,
+      "sha256": "7108b665ebed8b2364c5a6629951d21abd400c96d4e7d5f4f81028f12ed424aa",
+      "pdf_header": true
+    },
+    {
+      "key": "hart-harvey-ong",
+      "url": "https://arxiv.org/abs/1605.02398v1",
+      "locator": "Introduction tasks1–3; Table2",
+      "status": "published Math.Comp.2017; finite computation",
+      "read_scope": "First four pages read; reported full range and class-group structure, not rerun",
+      "cache_path": ".cache/literature/deep-literature-r1/2025-hart-harvey-ong-irregular-to-two-billion.pdf",
+      "exists": true,
+      "bytes": 243602,
+      "sha256": "9cba5cdae4927fc7687db1c3f48fb5ae70b3198ca452d65663b87f88e929416f",
+      "pdf_header": true
+    },
+    {
+      "key": "strong-fc",
+      "url": "https://arxiv.org/abs/2509.18275v1",
+      "locator": "Equation2; Theorem1; Lemma5 pp8–9",
+      "status": "active preprint; no journal acceptance verified",
+      "read_scope": "Entire ten pages read; p8 visually checked; concerns remain candidate and unaudited",
+      "cache_path": ".cache/literature/deep-literature-r1/2025-mihailescu-strong-fermat-catalan-v1.pdf",
+      "exists": true,
+      "bytes": 424143,
+      "sha256": "daba36d8971a346d4cd40d0b823f787034c4a11b67e76258beeb7574e6fe2669",
+      "pdf_header": true
+    },
+    {
+      "key": "bennett-levin",
+      "url": "https://secure.math.ubc.ca/~bennett/BeLe-Mona-2015.pdf",
+      "locator": "Proposition1; Theorem1",
+      "status": "published2015",
+      "read_scope": "Existing exact signed-domain packet read before deeper search",
+      "cache_path": ".cache/literature/2025/bennett-levin-2015.pdf",
+      "exists": true,
+      "bytes": 187127,
+      "sha256": "ac38ad33a480068a707054a0a9acc7c937f70af84171cb7465b7d0fdd99b2b99",
+      "pdf_header": true
+    },
+    {
+      "key": "bugeaud-mihailescu",
+      "url": "https://doi.org/10.7146/math.scand.a-15038",
+      "locator": "Positive x,y domain; prime-term reductions",
+      "status": "published2007; DOI matched existing primary reference",
+      "read_scope": "Existing source-domain distinction retained; no signed extension made",
+      "cache_path": ".cache/literature/2025/bugeaud-mihailescu-2007.pdf",
+      "exists": true,
+      "bytes": 67833,
+      "sha256": "105ea336a19143e6c9189843686185c4da6cf5d68ffdcc565664d4829fd8567c",
+      "pdf_header": true
+    },
+    {
+      "key": "chen-thesis",
+      "url": "https://ediss.uni-goettingen.de/handle/11858/14935?locale-attribute=en&show=full",
+      "locator": "2023 thesis metadata; PDF403",
+      "status": "university repository, public metadata; PDF inaccessible",
+      "read_scope": "Metadata only; no full theorem/sign audit"
+    },
+    {
+      "key": "signed-survey",
+      "url": "https://www.e-periodica.ch/cntmng?pid=ens-001%3A2002%3A48%3A%3A69",
+      "locator": "Bugeaud–Mignotte2002 survey; section11 x<0",
+      "status": "failed PDF retrieval: HTML response",
+      "read_scope": "Not treated as a read paper; response hash retained",
+      "cache_path": ".cache/literature/deep-literature-r1/2025-bugeaud-survey-2002.pdf",
+      "exists": true,
+      "bytes": 2682,
+      "sha256": "b6d2a11e605af9f75e7df409cedfbcd5ff26be077d9024d0bf9ca4041375fe05",
+      "pdf_header": false
+    },
+    {
+      "key": "mihailescu2007",
+      "url": "https://doi.org/10.1016/j.jnt.2006.10.010",
+      "locator": "JNT124(2),380–395",
+      "status": "published; original full text not obtained",
+      "read_scope": "q>(p−1)^2 known here only through exact2026 restatement; no original-theorem audit"
+    },
+    {
+      "key": "committee-current",
+      "url": "https://www.simonmarais.org/aboutus.html",
+      "locator": "Problem Committee2026",
+      "status": "official current page",
+      "read_scope": "No historical backdating; /committees.html inaccessible"
+    }
+  ]
+}
