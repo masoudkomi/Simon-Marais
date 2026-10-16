@@ -110,3 +110,58 @@ stopped at the precise missing implication instead of assuming real-rootedness.
 4. A type-three scenario elimination in degree 20 is substantially more
    targeted than unrestricted coefficient search. Before attempting it, check
    new primary-source claims and bound the computation's runtime.
+
+## Focused second-pass checkpoint, 2026-10-16
+
+The source audit in `notes/ghosh-full-context-audit-v1.md` reconstructs Ghosh
+v2's relevant proof chain and checks that Theorem A, if valid, would apply to
+the exact contest statement. It identifies the missing nilpotent-coefficient
+argument after (4.23), strengthens the initial ambient example to a local
+determinantal model satisfying the numerical generator conditions, and records
+two additional general inference failures in the earlier generator/topological
+arguments. These are candidate source objections awaiting independent review.
+They do not supply a derivative-family counterexample or disprove the theorem.
+The existence of a specialized repair remains unresolved. The paper cannot be
+used as a validated all-degree result on the basis of this pass.
+
+The final Koszul/homology mechanism was reconstructed conditionally on its
+injectivity input; no separate fatal problem there was established. The audit
+does not certify all cited results or the entire preprint. The distinct accepted
+finiteness work is not conflated with the universal-proof claim.
+
+A bounded fresh rational-witness direction is saved in
+`notes/rational-witness-p-plus-one-v1.md`: in the published p+1 normalization,
+if the first nonzero coefficient at the double root had p-adic valuation 1,
+the residual factor would be Eisenstein and leave only rational roots 0 and 1.
+The precise published two-recycled-root obstruction, which is stronger than a
+bound on the full root set, would then contradict the rational-witness contest
+hypothesis. The resulting candidate condition is valuation >=2. It makes no
+assumption that the remaining algebraic roots are rational.
+
+For d=20/p=19 an exact standard-library calculation visits all 131072 binary
+center choices, reproduces 6680 necessary congruence survivors, and conditionally
+excludes 3043 by this candidate restriction; 3637 remain. This is finite necessary
+condition evidence, not an emptiness result or full degree proof. Both the
+partial lemma and its computation need two independent audits.
+
+The targeted literature search also found Massri's active v6 primary preprint
+arXiv:1806.09561, Theorem 7.10, claiming the degree-20 three-recycled-root exclusion.
+Earlier withdrawn versions and the present active version are distinguished in
+references.md. Its complete resultant calculation was not reproduced, and its
+degenerate parameter treatment still needs checking; no new 3^17 CAS run was
+launched. The coordinator cached the paper. This avoids treating the earlier
+social-media description as the only evidence for that family.
+
+All new scripts run child processes with explicit 30-second timeouts and
+incremental output. Both completed in under one second; PIDs, exact parameters,
+dependencies and outputs are saved. No process remains running. Only the
+assigned year directory was edited; `proof.md` remains unchanged. The worker
+made no commits/pushes, spawned no agents, and did not change shared telemetry
+or source manifests. Coordinator settings/telemetry authority is unchanged.
+
+Checkpoint verification: `git diff --check -- problems/2021-B4` passed, and
+`git diff --exit-code -- problems/2021-B4/proof.md` confirmed no change. The
+proof-register SHA-256 is
+`453cd604409526ddf7bd37a44b9d7f6a9d7f7173f4f7bc0b7a178affc3fd85a9`.
+The authoritative `get_usage_limits` readback at this checkpoint reported
+**4% total weekly used** in the 10080-minute window, below the 90% cutoff.

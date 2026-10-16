@@ -46,3 +46,13 @@ cb8c21a83f51ee2e065eebb6ee1d01617f75fefe26d5609957f892cb429a0645  enumerate.py
 a2b5c5e7d40afa68dc8f2704988f17fcb749da4921202ddbf533e381b06477ba  enumeration-2026-10-16.json
 da9278d68e22914bfb63457459f597dcbb3aeb9de55ba0ebd9837e4db151ea03  upper-certificate-2026-10-16.json
 ```
+# Rerunning immutable review evidence
+
+The independent R1 checker pins the originally reviewed v1 hash. Current proof.md carries accepted status annotations; exact v1 remains proofs/candidate-v1.md. Run the old checker against that snapshot without editing the repository:
+
+```sh
+.venv/bin/python tools/reproduce_frozen_review.py 2019 reviews/review-1-check.py proofs/candidate-v1.md --timeout 30
+.venv/bin/python tools/reproduce_frozen_review.py 2019 reviews/review-2-check.py proofs/candidate-v1.md --timeout 30
+```
+
+The isolated ignored-cache copy preserves full stdout/stderr and copied evidence with a PID/timeout record. Original reports, scripts, outputs and accepted proof are unchanged. Their historical commands remain evidence of the original runs; this wrapper supplies the snapshot needed after status/version updates.

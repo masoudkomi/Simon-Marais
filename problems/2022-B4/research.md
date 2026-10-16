@@ -1,8 +1,11 @@
 # 2022 B4 research log
 
-Status: initial research pass completed 2026-10-16; no full solution claimed.
-Two partial proof drafts are **candidate proof - unverified**. No independent
-reviews have been completed, and no novelty claim is made.
+Status: initial research pass and first repair checkpoint completed
+2026-10-16; no full solution claimed. Two independent blind initial audits
+found no substantive defect in v1 P1-P4 and found a blocking uniformity error
+in v2's repeated-block count. Frozen v1/v2 and the review reports are preserved.
+The separate v3 repair is **candidate proof - unverified**, awaiting both
+affected-argument re-audits. No author promotion or novelty claim is made.
 
 Requested agent settings: `gpt-6.1-sol`, `max` reasoning. The coordinator
 reported no independent effective-setting readback; these are requested
@@ -48,9 +51,15 @@ reproduced; its established invariant strip is attributed context only.
    A finite lifting/counting argument gives a candidate natural-density-one
    hitting result on every fixed line `(a,b)=(b+d,b)`. The first draft in
    proof.md restricts d to the established strip; proof-extension-v2.md
-   extends the analytic control to every integer d without using preliminary
-   (a). No computation is a premise of the proof. A density-zero exceptional
-   set can still contain positive integers; that is the exact unresolved gap.
+   attempted the extension to every integer d, but its initial-only path
+   bound cannot be reused after arbitrary prefixes. Both independent audits
+   supplied counterexamples to that intermediate assertion. The standalone
+   proof-extension-v3.md repairs the count using a uniform auxiliary radius
+   M=max(abs(initial difference),29) and fixed K=M+1 at every reached state.
+   It does not use or re-prove preliminary (a). No computation is a premise
+   of the analytic repair. A density-zero exceptional set can still contain
+   positive integers; that is the exact unresolved gap. See repair-v3-notes.md
+   and issues.md for the failed version, repair, evidence and review status.
 5. **Arbitrary finite delay.** The explicit family
    `b0=60*10^N*t+r, a0=b0+1` (`N,t>=1`, `0<=r<=19`) has difference 1
    through time N, by an exact formula in P3. This blocks any universal
@@ -70,9 +79,10 @@ reproduced; its established invariant strip is attributed context only.
 
 ## Next steps
 
-- Obtain two independent adversarial reviews of the partial candidates,
-  one reconstructing the finite lifting and density proof. Keep both
-  initial reports blind to each other's conclusions. See issues.md.
+- Obtain both independent affected-argument re-audits of v3 Sections 3-6,
+  including reconstruction of the uniform finite lifting/counting proof.
+  Both blind initial reports are already complete and immutable. Only the
+  coordinator may promote any partial result after resolving objections.
 - Investigate whether a nonperiodic avoiding path can have a nonnegative
   integer quotient lift. Repeated abstract cycles alone are insufficient.
 - Explore stronger arithmetic constraints on an eventually constant
@@ -82,3 +92,6 @@ reproduced; its established invariant strip is attributed context only.
 - Further literature verification may locate a later resolution or an
   existing form of the partial density argument. Search failure is not
   evidence that no such work exists.
+# Coordinator acceptance update, 2026-10-16
+
+The v3 fixed-offset density theorem and supplementary v1 partial claims are now **proved, independently reviewed (partial results)**. Both blind initial audits accepted v1 and independently found the genuine v2 uniformity error. The author supplied a separate v3 repair; both independent re-audits fully reconstructed it and closed the objections. See proof.md, proofs/reviewed-density-v3.md and reviews/acceptance.md. V2 remains a preserved failed proof version. Historical owner-stage pending-audit notices below are superseded by this update. The full universal equality question and novelty remain unresolved.

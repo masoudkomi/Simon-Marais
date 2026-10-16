@@ -37,3 +37,33 @@ Search date: 2026-10-16. Queries included:
 - `"3277" "APN" polynomial`
 
 The searched primary sources do not provide a complete B4(b) classification. The official 2024 notes explicitly describe only partial results. No later complete classification was located in this bounded search; absence of a search result is not evidence that no such work exists. Much newer APN literature concerns arbitrary lower terms or existence of a component, so its theorem conclusions must not be substituted for this target.
+
+## Focused-pass source lead, 2026-10-16
+
+4. Éric Férard, *On the irreducibility of the hyperplane sections of Fermat
+varieties in P^3 in characteristic 2*, Advances in Mathematics of
+Communications 8 (2014), no. 4, 497-509,
+DOI [10.3934/amc.2014.8.497](https://doi.org/10.3934/amc.2014.8.497).
+The [publisher's original abstract](https://www.aimsciences.org/article/doi/10.3934/amc.2014.8.497)
+states a divisibility criterion by phi_13 when t=5 modulo 8 and announces
+an infinite family of non-absolutely-irreducible phi_t. This is an
+important prior-family lead; the exact theorem and its interpretation
+over F2 must be checked in the full paper before assigning the present
+candidate family to it or claiming a broader classification.
+
+The primary [GAATI publication list](https://gaati.org/publications/fr/)
+identifies HAL record hal-01779804. HAL's public metadata API returned
+one record, marked openAccess=true but with no fileMain field. The
+publisher's normal PDF-availability endpoint returned message="login";
+that access restriction was respected. No full PDF was obtained in this
+pass, so there is no verified full-paper hash or licence assessment.
+Downloaded public HTML and API replies are kept in the ignored local
+`problems/2024-B4/.cache/` directory, with hashes in the source-access
+note. No full paper is tracked in Git.
+
+The versioned fixed-factor-family candidate is self-contained and uses
+none of Férard's theorems. It does not claim novelty. Its n205 case
+remains attributed to Hernando--McGuire as above. The previously broad
+statement that searched sources did not provide a classification is
+only the bounded-search conclusion of that pass; this new source lead
+requires a fresh full-text audit before drawing further conclusions.

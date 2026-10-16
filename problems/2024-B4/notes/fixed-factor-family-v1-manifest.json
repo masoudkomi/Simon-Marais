@@ -1,0 +1,71 @@
+{
+  "candidate": "2024 B4(b) fixed-factor family v1",
+  "status": "candidate proof - unverified",
+  "created_utc": "2026-10-16T10:28:37.703154+00:00",
+  "scope": "phi_13 divides phi_n for n=(64*16^m+1)/5, m>=0; qualifying B4(b) factors for m>=1; no full classification or novelty claim",
+  "constructors": [
+    "coordinator",
+    "2024 family owner"
+  ],
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "launch_request_accepted": true
+  },
+  "verified_effective_setting_readback": null,
+  "review_requirement": "Two fresh independent adversarial reviewers who did not construct the proof. Initial reports completed blind to one another; at least one reconstructs the whole argument. All substantive objections repaired and re-reviewed before coordinator-only promotion.",
+  "weekly_telemetry_at_owner_checkpoint": {
+    "source": "authoritative get_usage_limits rateLimitsByLimitId.codex.primary",
+    "windowDurationMins": 10080,
+    "usedPercent": 4,
+    "resetsAt": 1792745187,
+    "total_weekly_stop_percent": 90
+  },
+  "artifacts": [
+    {
+      "path": "problems/2024-B4/proofs/fixed-factor-family-v1.md",
+      "bytes": 12997,
+      "sha256": "1a1a8e6513d175cc075e13c6353371a9ece47e0c37d6781b16999a3544f9e376"
+    },
+    {
+      "path": "problems/2024-B4/computations/cartier_family_certificate_v1.py",
+      "bytes": 6454,
+      "sha256": "0517915bf872dba1381915dd4422893a5f9793ba986beddbccc5662167d924ea"
+    },
+    {
+      "path": "problems/2024-B4/computations/cartier-family-certificate-v1.json",
+      "bytes": 19875,
+      "sha256": "195d10df1772793903a33f93257b2802c505f859b14cd0853da95cdd0bcce871"
+    },
+    {
+      "path": "problems/2024-B4/computations/cartier-family-output-v1.txt",
+      "bytes": 1398,
+      "sha256": "5aff1bd77ac2b6119df478052c97d16a4953d4d561ecb5f9858b0b69bcd2a488"
+    },
+    {
+      "path": "problems/2024-B4/computations/cartier-family-stderr-v1.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "problems/2024-B4/computations/cartier-family-run-v1.json",
+      "bytes": 276,
+      "sha256": "327e070dd7b89414d499612ae1046ce1d98146d9d35fc5971c301af2957755c3"
+    },
+    {
+      "path": "problems/2024-B4/computations/n205-certificate.json",
+      "bytes": 127053,
+      "sha256": "fd0aad47e0a67b94ddeaf73a213ae789bed5d39b142ee386b261917f7fa16717"
+    },
+    {
+      "path": "problems/2024-B4/notes/source-access-2026-10-16.md",
+      "bytes": 6268,
+      "sha256": "81d66e16c611a858fe493d4fce684d757dada5419ca2698a8fec49aae3204263"
+    },
+    {
+      "path": "problems/2024-B4/statement.md",
+      "bytes": 2470,
+      "sha256": "60244f7752634772adb434efbdb41a63fb02029dc3be4238f3718c6e5ec84e5f"
+    }
+  ]
+}

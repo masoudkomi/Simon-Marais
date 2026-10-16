@@ -1,0 +1,453 @@
+{
+  "status": "independent finite evidence only; not an unrestricted proof",
+  "reviewer": "review-1; initially blind to all other review reports",
+  "python": "3.12.14",
+  "pid": 11299,
+  "elapsed_seconds": 1.7846294159826357,
+  "input_sha256": {
+    "proof.md": "227cff77dc63aba6125494e6e39e3feb687fe4b8a3ff90d4392d72b4133e5a1e",
+    "computations/upper-certificate-2026-10-16.json": "da9278d68e22914bfb63457459f597dcbb3aeb9de55ba0ebd9837e4db151ea03",
+    "computations/enumeration-2026-10-16.json": "a2b5c5e7d40afa68dc8f2704988f17fcb749da4921202ddbf533e381b06477ba"
+  },
+  "relation_checks": [
+    {
+      "old": "RRLL",
+      "new": "LLRR",
+      "first_bit": 0,
+      "left": "10",
+      "right": "01"
+    },
+    {
+      "old": "RRLL",
+      "new": "LLRR",
+      "first_bit": 1,
+      "left": "01",
+      "right": "10"
+    },
+    {
+      "old": "RRLRRLRLLRLL",
+      "new": "LLRLLRLRRLRR",
+      "first_bit": 0,
+      "left": "100110",
+      "right": "011001"
+    },
+    {
+      "old": "RRLRRLRLLRLL",
+      "new": "LLRLLRLRRLRR",
+      "first_bit": 1,
+      "left": "011001",
+      "right": "100110"
+    }
+  ],
+  "states": [
+    "",
+    "R",
+    "RR",
+    "RRL",
+    "RRLR",
+    "RRLRR",
+    "RRLRRL",
+    "RRLRRLR",
+    "RRLRRLRL",
+    "RRLRRLRLL",
+    "RRLRRLRLLR",
+    "RRLRRLRLLRL"
+  ],
+  "transitions": [
+    {
+      "L": "",
+      "R": "R"
+    },
+    {
+      "L": "",
+      "R": "RR"
+    },
+    {
+      "L": "RRL",
+      "R": "RR"
+    },
+    {
+      "L": null,
+      "R": "RRLR"
+    },
+    {
+      "L": "",
+      "R": "RRLRR"
+    },
+    {
+      "L": "RRLRRL",
+      "R": "RR"
+    },
+    {
+      "L": null,
+      "R": "RRLRRLR"
+    },
+    {
+      "L": "RRLRRLRL",
+      "R": "RRLRR"
+    },
+    {
+      "L": "RRLRRLRLL",
+      "R": "R"
+    },
+    {
+      "L": "",
+      "R": "RRLRRLRLLR"
+    },
+    {
+      "L": "RRLRRLRLLRL",
+      "R": "RR"
+    },
+    {
+      "L": null,
+      "R": "R"
+    }
+  ],
+  "matrix": [
+    [
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "Av": [
+    1837605905420,
+    1539189558215,
+    990817916317,
+    829914937903,
+    1525056590887,
+    964847092093,
+    782190797941,
+    1437358429462,
+    1676451246090,
+    1541467151750,
+    995003235647,
+    837605905420
+  ],
+  "strict_integer_slacks": [
+    409458000000,
+    342964384620,
+    220775446615,
+    184922881622,
+    339815293183,
+    214988686007,
+    174288855158,
+    320274236101,
+    373549380575,
+    343471859870,
+    221708031750,
+    186636581752
+  ],
+  "qprime_exact": "154146715175/83884534067",
+  "qprime_maximizing_state_indices": [
+    9
+  ],
+  "qprime_numerical_evidence_only": 1.8376059054209015,
+  "q_minus_qprime_exact": "34347185987/8388453406700000",
+  "published_cubic_at_q_exact": "-9159746959919/1000000000000000",
+  "histories_checked_through_16_moves": 131071,
+  "least_word_histories_checked_through_14_moves": 7506,
+  "small_history_rows": [
+    {
+      "moves": 0,
+      "avoiding_histories": 1,
+      "distinct_words": 1
+    },
+    {
+      "moves": 1,
+      "avoiding_histories": 2,
+      "distinct_words": 2
+    },
+    {
+      "moves": 2,
+      "avoiding_histories": 4,
+      "distinct_words": 3
+    },
+    {
+      "moves": 3,
+      "avoiding_histories": 8,
+      "distinct_words": 5
+    },
+    {
+      "moves": 4,
+      "avoiding_histories": 15,
+      "distinct_words": 9
+    },
+    {
+      "moves": 5,
+      "avoiding_histories": 28,
+      "distinct_words": 16
+    },
+    {
+      "moves": 6,
+      "avoiding_histories": 52,
+      "distinct_words": 29
+    },
+    {
+      "moves": 7,
+      "avoiding_histories": 96,
+      "distinct_words": 52
+    },
+    {
+      "moves": 8,
+      "avoiding_histories": 177,
+      "distinct_words": 94
+    },
+    {
+      "moves": 9,
+      "avoiding_histories": 326,
+      "distinct_words": 170
+    },
+    {
+      "moves": 10,
+      "avoiding_histories": 600,
+      "distinct_words": 308
+    },
+    {
+      "moves": 11,
+      "avoiding_histories": 1104,
+      "distinct_words": 560
+    },
+    {
+      "moves": 12,
+      "avoiding_histories": 2030,
+      "distinct_words": 1018
+    },
+    {
+      "moves": 13,
+      "avoiding_histories": 3732,
+      "distinct_words": 1856
+    },
+    {
+      "moves": 14,
+      "avoiding_histories": 6860,
+      "distinct_words": 3383
+    },
+    {
+      "moves": 15,
+      "avoiding_histories": 12608
+    },
+    {
+      "moves": 16,
+      "avoiding_histories": 23171
+    }
+  ],
+  "meet_in_middle": {
+    "half_moves": 12,
+    "half_histories_examined": 4096,
+    "distinct_half_contexts": 2030,
+    "half_position_counts": [
+      1,
+      12,
+      57,
+      148,
+      258,
+      348,
+      382,
+      348,
+      258,
+      148,
+      57,
+      12,
+      1
+    ],
+    "composed_context_pairs_examined": 4120900,
+    "moves": 24,
+    "position_counts": [
+      1,
+      24,
+      255,
+      1604,
+      6789,
+      21012,
+      50707,
+      100334,
+      168807,
+      247654,
+      322226,
+      375860,
+      395397,
+      375860,
+      322226,
+      247654,
+      168807,
+      100334,
+      50707,
+      21012,
+      6789,
+      1604,
+      255,
+      24,
+      1
+    ],
+    "marked_contexts": 2985943,
+    "max_fixed_position_contexts": 395397,
+    "maximizing_left_lengths": [
+      12
+    ],
+    "p12_pairs_lexicographically_sorted_colon_separated_sha256": "c221c0f3fd8ea0b5dc432e0ad2865427edfe80ea4489a045a4e92fab0b6131f8"
+  }
+}

@@ -1,0 +1,15 @@
+{"fingerprints": {"problems/2022-B4/proof-extension-v2.md": "b41aff3fcfadd33f80fdec80570d5b2f61807a5b9e16a28becacefaa237743ed", "problems/2022-B4/proof-extension-v3.md": "0238f99a93b0ba1076484db1c16b173efcc02be4410e859f2c5bafc55f0f2a3f", "problems/2022-B4/proof.md": "8b35be18bb70f81b623f78e7dd1a148478c698c1f5ad32e4097def92ff75aed3", "problems/2022-B4/reviews/review-1.md": "6f7f8fa9ce0bcc08ed0738f2db587ad2ef1e0c5f269d9aac975033c8cfe29e60", "problems/2022-B4/reviews/review-2.md": "1fe554ad4e5c77a1cad18a739a05b7ad1ceba4a8bce0beee91d6d34eedefbc04"}, "meaning": "finite exact repair evidence only", "pid": 12143, "python": "3.12.14"}
+remainder checkpoint d=-10000 cases=60
+remainder checkpoint d=-5000 cases=300060
+remainder checkpoint d=0 cases=600060
+remainder checkpoint d=5000 cases=900060
+remainder checkpoint d=10000 cases=1200060
+exact remainder/bound cases=1200060
+{"radius": 29, "states": 3540, "uniform_K": 30, "maximum_observed_policy_length": 28}
+{"radius": 30, "states": 3660, "uniform_K": 31, "maximum_observed_policy_length": 28}
+{"radius": 60, "states": 7260, "uniform_K": 61, "maximum_observed_policy_length": 35}
+{"radius": 100, "states": 12060, "uniform_K": 101, "maximum_observed_policy_length": 40}
+{"radius": 333, "states": 40020, "uniform_K": 334, "maximum_observed_policy_length": 52}
+{"reviewer_witnesses": [{"actual_prefix": [[599, 600], [659, 657], [723, 720], [795, 792]], "old_local_K": 3, "reached_state": [3, 12], "minimum_further_hit": 4, "new_uniform_K": 30, "new_policy_further_length": 4}, {"actual_prefix": [[25, 24], [27, 24], [29, 24], [31, 24], [33, 27]], "old_local_K": 4, "reached_state": [6, 27], "minimum_further_hit": 5, "new_uniform_K": 30, "new_policy_further_length": 6}]}
+finite lifting bijections=147 quotient classes=54390
+{"completed": true, "fingerprints_after": {"problems/2022-B4/proof-extension-v2.md": "b41aff3fcfadd33f80fdec80570d5b2f61807a5b9e16a28becacefaa237743ed", "problems/2022-B4/proof-extension-v3.md": "0238f99a93b0ba1076484db1c16b173efcc02be4410e859f2c5bafc55f0f2a3f", "problems/2022-B4/proof.md": "8b35be18bb70f81b623f78e7dd1a148478c698c1f5ad32e4097def92ff75aed3", "problems/2022-B4/reviews/review-1.md": "6f7f8fa9ce0bcc08ed0738f2db587ad2ef1e0c5f269d9aac975033c8cfe29e60", "problems/2022-B4/reviews/review-2.md": "1fe554ad4e5c77a1cad18a739a05b7ad1ceba4a8bce0beee91d6d34eedefbc04"}}

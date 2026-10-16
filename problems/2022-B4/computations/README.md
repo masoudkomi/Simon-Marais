@@ -85,3 +85,38 @@ integer orbit. Finite control words do lift to congruence classes, but an
 infinite word can demand a 10-adic value that is not an ordinary positive
 integer. Even the candidate density-one theorem leaves a density-zero
 exceptional set whose emptiness is unknown.
+
+## V3 prefix-uniformity repair evidence
+
+Both initial audits found that v2's local K(initial difference) cannot be
+reused after arbitrary avoiding prefixes. The analytic v3 repair instead
+uses the fixed invariant radius M=max(abs(initial difference),29) and
+uniform K=M+1. See ../proof-extension-v3.md and ../repair-v3-notes.md;
+the new proof remains candidate-unverified pending both re-audits.
+
+Exact command from the repository root:
+
+```sh
+.venv/bin/python -u problems/2022-B4/computations/v3_repair_evidence.py --tag v3-repair
+```
+
+Outputs are v3-repair-job.json and v3-repair-output.txt. The script uses
+Python 3.12.14 standard library only. A dedicated child (PID recorded in
+the job JSON) had an explicit 40-second timeout and incremental output;
+it completed in 0.778 seconds, return code 0. It checked 1,200,060 exact
+remainder/bound cases, all 66,540 state/radius instances for radii
+29,30,60,100,333, both reviewer witnesses, and 147 complete small finite
+lifting bijections over 54,390 quotient classes. All are finite evidence,
+not premises of the unrestricted density candidate. Frozen v1, v2, both
+review reports, and v3 fingerprints were checked before and after the run.
+Use a fresh --tag when rerunning so the initial outputs remain preserved.
+# Rerunning frozen review evidence after acceptance
+
+The original reports/scripts pin the constructor v1 proof hash. The current proof.md is a result register; the exact old proof is proofs/candidate-v1.md. Rerun immutable checks in an isolated ignored-cache copy:
+
+```sh
+.venv/bin/python tools/reproduce_frozen_review.py 2022 reviews/review-1-v3-evidence.py proofs/candidate-v1.md --timeout 45
+.venv/bin/python tools/reproduce_frozen_review.py 2022 reviews/review-2-v3-evidence.py proofs/candidate-v1.md --timeout 30
+```
+
+The wrapper restores the archived proof only in the copy, records the subprocess PID/timeout, and retains complete stdout/stderr plus copied outputs under .cache/reproductions/. It does not modify the accepted register, frozen drafts or original audit artifacts.

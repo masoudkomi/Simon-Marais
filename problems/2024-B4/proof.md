@@ -1,6 +1,12 @@
 # 2024 B4 proof register
 
-No candidate full solution has been proposed. All arguments below have status **candidate proof - unverified**. They have not received the two independent adversarial audits required for promotion.
+No full solution has been proposed. The infinite fixed-factor family below is **proved, independently reviewed (partial result)**. Other candidates retain their individual unverified labels.
+
+## Accepted fixed-factor family, v1.1
+
+For every integer m>=0, phi_13 divides phi_n in F2[x,y,z] at n=(64*16^m+1)/5. For m>=1 the factor degrees are 10 and n-13, so both are nonconstant and meet B4(b). At m=0 the cofactor is 1. This is a sufficient family, not a full classification or a novelty claim.
+
+See [accepted proof](proofs/fixed-factor-family-reviewed-v1.1.md), [frozen candidate](proofs/fixed-factor-family-v1.md), and [coordinator acceptance](reviews/family-acceptance.md). Both independent initial audits reconstructed the full argument, including the universal symbolic Cartier identities, localization descent and nonvanishing. The separate zero-automaton investigation is not covered by this acceptance.
 
 Every future proof begins as **candidate proof - unverified**. Distinguish published reproductions from original results. Do not relabel until two independent adversarial audits, a reconstruction and all repairs are complete.
 
@@ -34,3 +40,26 @@ The n=1 numerator is zero. Since zero is constant modulo 2 and F2[x,y,z] is an i
 The known Hernando--McGuire degree-10 factor, after homogenization, is phi_13=Q^5+QD²+R²D. This identification and phi_205=phi_13 B are checked by the exact script and certificate in computations/. The coefficient arrays in n205-certificate.json specify B completely. A reviewer can check multiplication over F2 without needing any irreducibility theorem or factorization oracle. This is an attributed published counterexample with an independently reproducible finite certificate, not a new solution to B4(b).
 
 No proof based on a bounded scan has been proposed.
+
+## v1: infinite fixed-factor family, candidate proof - unverified
+
+The original v0.1 mathematical bodies above are preserved. A new,
+self-contained construction is versioned separately in
+`proofs/fixed-factor-family-v1.md`. It proposes
+
+    phi_13 divides phi_((64*16^m+1)/5), for every integer m>=0.
+
+For m>=1 both factors have positive degree, giving a partial family
+for B4(b). It does not classify all exponents, claim novelty, or assert
+irreducibility of its factors. The known n205 example remains attributed
+to Hernando--McGuire. Férard's 2014 original abstract announces a related
+divisibility result and an infinite family; the full theorem has not yet
+been accessible, so exact prior-family attribution remains pending.
+
+The candidate is supported by exact symbolic Laurent-polynomial identities
+in `computations/cartier_family_certificate_v1.py` and
+`computations/cartier-family-certificate-v1.json`. Its unrestricted claim
+rests on a coefficient-selection span induction plus prime-ideal descent,
+not on the finite checks at n=13,205,3277. A frozen hash manifest records the
+versions queued for two fresh independent adversarial audits. The
+coordinator and this owner are constructors and cannot supply those audits.

@@ -1,0 +1,59 @@
+--- proofs/candidate-v1.md (version 1)
++++ proof.md (version 1.1)
+@@ -1,9 +1,13 @@
+-# 2019 B4(b): partial proof, version 1
+-
+-**candidate proof - unverified.** Written 2026-10-16. No independent
+-adversarial review has yet been completed. This is partial progress on the
+-explicitly open part (b); the exact growth constant is not determined here.
+-Only the coordinator may promote any result after the required two audits.
++# 2019 B4(b): partial proof, version 1.1
++
++**candidate proof - unverified.** Written 2026-10-16; attribution-only
++revision 1.1 on the same date. Two independent initial audits of version 1
++are complete; the attribution repair awaits reviewer recheck. The exact
++reviewed version is preserved in `proofs/candidate-v1.md`. This is partial
++progress on the explicitly open part (b); the exact growth constant is not
++determined here. Only the coordinator may promote any result after the
++required audits and issue resolution. The mathematical arguments are
++unchanged in version 1.1.
+ 
+ The definitions of \(B_n\) and \(b_n\) are those of the official paper. A
+ history records left/right choices, whereas a word is counted only once,
+@@ -132,6 +136,13 @@
+ 
+ ## 3. An explicit candidate upper bound below the published bound
+ 
++The four-move replacement \(RRLL\longrightarrow LLRR\) and the method of
++obtaining avoiding representatives are from the
++[official 2019 solution notes](https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2019-solutions_1.pdf),
++p. 11. The present investigation adds the twelve-move relation and the
++combined finite automaton certificate below; their global novelty is not
++claimed.
++
+ Set \(L<R\) in lexicographic order on histories. The following replacements
+ preserve the final left/right context around *every* starting word:
+ \[
+@@ -199,8 +210,9 @@
+ The exact finite certificate uses only the displayed integer arithmetic.
+ The separately reported numerical spectral radius
+ \(1.837605905420144\ldots\) is computational evidence, not used by this
+-deduction. This certificate and its mathematical applicability both still
+-require two independent adversarial reviews.
++deduction. Both initial audits of version 1 checked this certificate and
++its mathematical applicability; the attribution-only revision awaits
++reviewer recheck and a coordinator status decision.
+ 
+ ## 4. Finite evidence and the outstanding gap
+ 
+@@ -218,6 +230,7 @@
+ No equality between \(\lambda\) and an explicitly evaluated real number
+ has been established. Equations (2)–(3) describe converging enclosures but
+ are not being presented as a full solution of the requested determination.
+-The principal remaining tasks are to characterize all context collisions
+-or otherwise evaluate the growth constant, and to independently audit all
+-partial candidate arguments above.
++The principal remaining research task is to characterize all context
++collisions or otherwise evaluate the growth constant. The attribution
++recheck and coordinator assessment remain before any promotion of the
++partial candidate results above.

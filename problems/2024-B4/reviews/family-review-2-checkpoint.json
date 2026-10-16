@@ -1,0 +1,100 @@
+{
+  "completed_utc": "2026-10-16 10:38:44 UTC",
+  "status": "R2 blind initial audit complete; no substantive mathematical objection; coordinator promotion not performed",
+  "audited_proof_sha256": "1a1a8e6513d175cc075e13c6353371a9ece47e0c37d6781b16999a3544f9e376",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_setting_readback": null,
+  "sources_verified": [
+    {
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc2024_paper_b.pdf",
+      "method": "cached PDF page 2 rendered and visually inspected",
+      "sha256": "1401f21218ad4c387c4d537ed8fd7de119b376cba52957ef788c772dc5ab4ddc"
+    },
+    {
+      "url": "https://arxiv.org/pdf/0903.2016",
+      "version": "v4",
+      "method": "primary PDF parsed text, Section 6 printed page 18; independently transcribed factor checked symbolically"
+    },
+    {
+      "url": "https://www.aimsciences.org/article/doi/10.3934/amc.2014.8.497",
+      "method": "publisher abstract only; full theorem not read or used"
+    }
+  ],
+  "telemetry": {
+    "source": "get_usage_limits rateLimitsByLimitId.codex.primary",
+    "verified_utc": "2026-10-16 10:35:26 UTC",
+    "usedPercent": 4,
+    "windowDurationMins": 10080,
+    "resetsAt": 1792745187
+  },
+  "artifacts": [
+    {
+      "path": "problems/2024-B4/reviews/family-review-2-attempt1-check.json",
+      "bytes": 2856,
+      "sha256": "0dc16c4d1253c271405e5192fe9edde467c3f6154a5ce97f1f11425f6279e430"
+    },
+    {
+      "path": "problems/2024-B4/reviews/family-review-2-attempt1-check.py",
+      "bytes": 6866,
+      "sha256": "7a564189b832d2ed69671f12d687b63d74af76b27fa80e48d31e0352a824a146"
+    },
+    {
+      "path": "problems/2024-B4/reviews/family-review-2-attempt1-run.json",
+      "bytes": 471,
+      "sha256": "8dc8d71834e40cbe735185d93a45140e9fe94584480e65e4166a5d286df09928"
+    },
+    {
+      "path": "problems/2024-B4/reviews/family-review-2-attempt1-stderr.txt",
+      "bytes": 468,
+      "sha256": "0d8459ede05ec9c7d63bbe766b58438fb763ef21672a8d84e86ea62dfb25c871"
+    },
+    {
+      "path": "problems/2024-B4/reviews/family-review-2-attempt1-stdout.txt",
+      "bytes": 1891,
+      "sha256": "dbdad7dee87792d436a412f066bdebaf705f7e411b89fd33be8bdbf987d1aff8"
+    },
+    {
+      "path": "problems/2024-B4/reviews/family-review-2-check.json",
+      "bytes": 8650,
+      "sha256": "b6c6278093f3313314b037d0be341c7e99d5f38f6b9d7dd99f30a057dc9be3b9"
+    },
+    {
+      "path": "problems/2024-B4/reviews/family-review-2-check.py",
+      "bytes": 7909,
+      "sha256": "443f6ad8f57fb34c83e53eb86e13ab694a1732bdf6f6937083a5b89379dd60d4"
+    },
+    {
+      "path": "problems/2024-B4/reviews/family-review-2-official-page2.png",
+      "bytes": 333165,
+      "sha256": "51e04cc9db0fe91ded39b2ed624ada5601566c02e6fee49e2f3f34cebf44a989"
+    },
+    {
+      "path": "problems/2024-B4/reviews/family-review-2-run.json",
+      "bytes": 472,
+      "sha256": "b8a48079d098a6ae82117a834af283c9015e76e20f6977d0a73561577ab1bf69"
+    },
+    {
+      "path": "problems/2024-B4/reviews/family-review-2-run.py",
+      "bytes": 1448,
+      "sha256": "7e2c56b2f122642336d2ead2fa2e3a1901d51ab9c02ffd0d168647558c976db0"
+    },
+    {
+      "path": "problems/2024-B4/reviews/family-review-2-stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "problems/2024-B4/reviews/family-review-2-stdout.txt",
+      "bytes": 4657,
+      "sha256": "c05d36b2f3e725345dd11627102bbbb119f62e5cb907e393d0de4dbdc4f7eceb"
+    },
+    {
+      "path": "problems/2024-B4/reviews/family-review-2.md",
+      "bytes": 14411,
+      "sha256": "ec1919c14f5d1ec7db18eb65df24b95e173d303e2f1fa316556f94242216fd5b"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "observed_at_utc": "2026-10-16T10:45:37.446389+00:00",
+  "scope": "coordinator fingerprint checks and frozen-review reruns; not additional independent mathematical reviews",
+  "acceptance_checks": [
+    {
+      "year": 2018,
+      "acceptance_file": "problems/2018-B4/reviews/acceptance.json",
+      "acceptance_sha256": "7ad4671d9fec598eca2295e06b3838c76d29dfa30f43465112e28e3351103ca1",
+      "artifacts_verified": 5
+    },
+    {
+      "year": 2019,
+      "acceptance_file": "problems/2019-B4/reviews/acceptance.json",
+      "acceptance_sha256": "28b13f4b30580b5888527185180f56b96696a305cf4d190758f410e12c94d6a7",
+      "artifacts_verified": 7
+    },
+    {
+      "year": 2022,
+      "acceptance_file": "problems/2022-B4/reviews/acceptance.json",
+      "acceptance_sha256": "91ce600a3fb8f420bfe343eec77f15893aa44801d6f96b4ca362218bb911e9fb",
+      "artifacts_verified": 10
+    },
+    {
+      "year": 2023,
+      "acceptance_file": "problems/2023-B4/reviews/acceptance.json",
+      "acceptance_sha256": "507a5753ab0436495b2cb2226218f097072220dd6ac30cb20f6fe1b80acd9720",
+      "artifacts_verified": 5
+    },
+    {
+      "year": 2024,
+      "acceptance_file": "problems/2024-B4/reviews/family-acceptance.json",
+      "acceptance_sha256": "940f7265b623801a3db525f6ae1ad7c97958884c922a18c33f85f0f0066ca159",
+      "artifacts_verified": 6
+    }
+  ],
+  "reproductions": [
+    {
+      "started_at_utc": "2026-10-16T10:35:49.745627+00:00",
+      "snapshot": "problems/2019-B4/proofs/candidate-v1.md",
+      "snapshot_sha256": "227cff77dc63aba6125494e6e39e3feb687fe4b8a3ff90d4392d72b4133e5a1e",
+      "script": "problems/2019-B4/reviews/review-1-check.py",
+      "script_sha256": "76a026a7548d9fad134c81eb6e64369a80c2be27b0e16557f29c603cacf01302",
+      "isolated_root": "/Users/uqmkamga/Documents/ChatGPT/Website/.cache/reproductions/2019-45gp9j9l",
+      "command": [
+        "/Users/uqmkamga/Documents/ChatGPT/Website/.venv/bin/python",
+        "/Users/uqmkamga/Documents/ChatGPT/Website/.cache/reproductions/2019-45gp9j9l/problems/2019-B4/reviews/review-1-check.py"
+      ],
+      "timeout_seconds": 30,
+      "pid": 14497,
+      "return_code": 0,
+      "completed_at_utc": "2026-10-16T10:35:51.567732+00:00",
+      "stdout_sha256": "6149436c871e0a4755b667e7e97d1bd7ad93053710a896a7379dd32b1f021674",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "started_at_utc": "2026-10-16T10:35:49.749378+00:00",
+      "snapshot": "problems/2022-B4/proofs/candidate-v1.md",
+      "snapshot_sha256": "8b35be18bb70f81b623f78e7dd1a148478c698c1f5ad32e4097def92ff75aed3",
+      "script": "problems/2022-B4/reviews/review-1-v3-evidence.py",
+      "script_sha256": "efd735be5f5040b1dc66df9f971e063a207b7c7cab2679f17937395abe723ecc",
+      "isolated_root": "/Users/uqmkamga/Documents/ChatGPT/Website/.cache/reproductions/2022-4wif5h4t",
+      "command": [
+        "/Users/uqmkamga/Documents/ChatGPT/Website/.venv/bin/python",
+        "/Users/uqmkamga/Documents/ChatGPT/Website/.cache/reproductions/2022-4wif5h4t/problems/2022-B4/reviews/review-1-v3-evidence.py"
+      ],
+      "timeout_seconds": 45,
+      "pid": 14498,
+      "return_code": 0,
+      "completed_at_utc": "2026-10-16T10:35:52.964290+00:00",
+      "stdout_sha256": "35195d34eac0f2c4c9fbc954e784e16737635f5da86ead592a0848ee308586b4",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  ],
+  "2024_manifest_artifacts_verified": 9
+}

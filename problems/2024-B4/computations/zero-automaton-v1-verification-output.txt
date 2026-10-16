@@ -1,0 +1,15 @@
+candidate proof - unverified; second implementation is not an independent reviewer
+PID 15607 Python 3.12.14 standard library only
+All 64 operator columns match direct Laurent-polynomial multiplication/section.
+Rebuilt 12 subspace states and both outgoing transitions.
+Rebuilt 24 subspace states and both outgoing transitions.
+Rebuilt 36 subspace states and both outgoing transitions.
+Rebuilt 48 subspace states and both outgoing transitions.
+Independent full-span BFS closes at the same 48 states and 96 edges.
+Exact quotient graph has eight states; candidate LSB language 101(0011)*0*.
+Finite recurrence comparisons through j = 16384
+Finite recurrence comparisons through j = 32768
+Finite recurrence comparisons through j = 49152
+Finite recurrence evidence through j = 65535 zeros = [5, 101, 1637, 26213]
+Actual-ring leading monomials and all three squared-quartic identities pass.
+Wrote zero-automaton-v1-verification.json SHA256 49f10bc55de4482968867e5dc86ad78d74563a66f6ac7e8a595d9e074248f78a

@@ -1,0 +1,18 @@
+INDEPENDENT R2 FINITE EVIDENCE; not a proof of unrestricted claims
+python 3.12.14 platform macOS-26.7-arm64-arm-64bit
+sha256 proof.md 8b35be18bb70f81b623f78e7dd1a148478c698c1f5ad32e4097def92ff75aed3
+sha256 proof-extension-v2.md b41aff3fcfadd33f80fdec80570d5b2f61807a5b9e16a28becacefaa237743ed
+quotient/common-shift checks 108360 PASS
+finite lifting enumerated classes 32000 PASS
+local extension control checks h,k <= 10000 PASS
+strip graph states 2220 max shortest hit distance 12
+K(1) 4
+uniform-bound counterexample {"K(1)": 4, "path": [[1, 24], [3, 24]], "controls": [0], "ordinary_positive_integer_lift": [[25, 24], [27, 24]], "terminal_shortest_hit_distance": 5}
+K-block-boundary counterexample {"K(1)": 4, "ordinary_start": [25, 24], "initial_product": 600, "path": [[1, 24], [3, 24], [5, 24], [7, 24], [6, 27]], "pairs": [[25, 24], [27, 24], [29, 24], [31, 24], [33, 27]], "controls": [0, 0, 0, 0], "terminal_shortest_hit_distance": 5}
+witness extension step 1 surviving words 10 hits 0 differences [5]
+witness extension step 2 surviving words 100 hits 0 differences [4, 5, 6, 7]
+witness extension step 3 surviving words 1000 hits 0 differences [2, 3, 4, 5, 6, 7, 8]
+witness extension step 4 surviving words 10000 hits 0 differences [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+delay family sampled starts 200 PASS
+periodic affine composition checks 2340 PASS
+DONE

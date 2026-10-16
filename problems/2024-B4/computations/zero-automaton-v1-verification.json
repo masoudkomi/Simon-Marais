@@ -1,0 +1,189 @@
+{
+  "status": "candidate proof - unverified; two fresh independent adversarial audits required",
+  "dependencies": "Python standard library only",
+  "python": "3.12.14",
+  "pid": 15607,
+  "method": "Second implementation uses polynomial supports and complete vector sets; no constructor import and no Gaussian elimination.",
+  "all_64_operator_columns_match": true,
+  "all_48_states_rebuilt_by_independent_bfs": true,
+  "all_96_transitions_match": true,
+  "all_acceptance_outputs_match": true,
+  "canonical_basis_checks": true,
+  "moore_refinement_rounds_including_fixed_round": 5,
+  "quotient_initial_class": 1,
+  "quotient_classes": [
+    {
+      "class": 0,
+      "members": [
+        1,
+        3,
+        4,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        32,
+        33,
+        34,
+        37,
+        38,
+        40,
+        41,
+        42,
+        44,
+        45,
+        46,
+        47
+      ],
+      "accepting": false,
+      "transitions": [
+        0,
+        0
+      ]
+    },
+    {
+      "class": 1,
+      "members": [
+        0
+      ],
+      "accepting": false,
+      "transitions": [
+        0,
+        2
+      ]
+    },
+    {
+      "class": 2,
+      "members": [
+        2
+      ],
+      "accepting": false,
+      "transitions": [
+        3,
+        0
+      ]
+    },
+    {
+      "class": 3,
+      "members": [
+        5,
+        36
+      ],
+      "accepting": false,
+      "transitions": [
+        0,
+        5
+      ]
+    },
+    {
+      "class": 4,
+      "members": [
+        35,
+        39,
+        43
+      ],
+      "accepting": true,
+      "transitions": [
+        4,
+        0
+      ]
+    },
+    {
+      "class": 5,
+      "members": [
+        12
+      ],
+      "accepting": true,
+      "transitions": [
+        6,
+        0
+      ]
+    },
+    {
+      "class": 6,
+      "members": [
+        21
+      ],
+      "accepting": true,
+      "transitions": [
+        7,
+        0
+      ]
+    },
+    {
+      "class": 7,
+      "members": [
+        31
+      ],
+      "accepting": true,
+      "transitions": [
+        4,
+        3
+      ]
+    }
+  ],
+  "candidate_exact_lsb_language": "101(0011)*0*",
+  "candidate_canonical_lsb_language": "101(0011)*",
+  "finite_recurrence_evidence_only": {
+    "j_interval_inclusive": [
+      0,
+      65535
+    ],
+    "zero_indices": [
+      5,
+      101,
+      1637,
+      26213
+    ],
+    "all_indices_match_graph": true,
+    "laurent_offset": 65537
+  },
+  "actual_bridge_finite_checks": {
+    "leading_monomial_exponents_Q_R2_D": [
+      [
+        2,
+        0,
+        0
+      ],
+      [
+        4,
+        2,
+        0
+      ],
+      [
+        2,
+        1,
+        1
+      ]
+    ],
+    "exponent_matrix_determinant_over_Z": 4,
+    "squared_quartic_zero_for_each_of_x_y_z": [
+      true,
+      true,
+      true
+    ],
+    "limitation": "Finite polynomial identities support the separate general injectivity/integrality/normality argument; they do not themselves prove divisibility descent."
+  },
+  "elapsed_seconds": 0.4652654999808874,
+  "input_graph_sha256": "ee818f60e68da70ae2f0f7fa84a2c4dec740d10d03908359a271e354a1a0ce4e",
+  "script_sha256": "c5f75cf7c8b667604b5b522f6acf23177cad2e81203f01ebfb59934cc3b6424b"
+}

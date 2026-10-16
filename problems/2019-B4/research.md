@@ -1,5 +1,11 @@
 # 2019 B4(b) research log
 
+## Coordinator acceptance update, 2026-10-16
+
+The partial growth-limit, converging-enclosure and upper-bound arguments are now **proved, independently reviewed (partial results)**. Both fresh blind audits reconstructed the whole argument and independently reproduced the finite counts/certificate. The requested attribution repair was made by the author and rechecked by R1; no mathematical repair was needed. See reviews/acceptance.md. The exact growth constant remains undetermined. Owner-stage pending-audit notices below are historical and superseded by this update; separate exploratory notes are not covered by acceptance. Novelty is unestablished.
+
+## Historical owner checkpoint
+
 Date: 2026-10-16. Owner: `owner_2019`. Requested launch settings:
 `model=gpt-6.1-sol`, `reasoning_effort=max`. Independent effective-setting
 readback was unavailable; these are requested settings, not a claim about

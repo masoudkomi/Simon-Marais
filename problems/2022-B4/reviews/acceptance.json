@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-16",
+  "status": "proved, independently reviewed (partial results)",
+  "full_problem_status": "universal equality unresolved",
+  "novelty_established": false,
+  "initial_audits_blind": true,
+  "repair_audits_independent": true,
+  "failed_version_preserved": "proof-extension-v2.md",
+  "accepted_repair_version": "3; accepted copy 3.1 changes status only",
+  "mathematical_repair": "all-prefix invariant radius M=max(abs(initial difference),29), uniform hitting bound K=M+1; repeated-block density rebuilt",
+  "artifacts": {
+    "proofs/candidate-v1.md": "8b35be18bb70f81b623f78e7dd1a148478c698c1f5ad32e4097def92ff75aed3",
+    "proof-extension-v2.md": "b41aff3fcfadd33f80fdec80570d5b2f61807a5b9e16a28becacefaa237743ed",
+    "proof-extension-v3.md": "0238f99a93b0ba1076484db1c16b173efcc02be4410e859f2c5bafc55f0f2a3f",
+    "proofs/reviewed-partials-v1.md": "cb486a611c00a7db640c83f598f859401c4502d0ac70e489595027a4d77b2ae0",
+    "proofs/reviewed-density-v3.md": "2bd9a860c49c364f4fbe43df88841bda719bcae5ee03376ed45a2188583a3e4b",
+    "reviews/review-1.md": "6f7f8fa9ce0bcc08ed0738f2db587ad2ef1e0c5f269d9aac975033c8cfe29e60",
+    "reviews/review-2.md": "1fe554ad4e5c77a1cad18a739a05b7ad1ceba4a8bce0beee91d6d34eedefbc04",
+    "reviews/review-1-v3.md": "112c667edc7f12551b3858087d8699c37989020e8dfa7f3c42fded8178758c0b",
+    "reviews/review-2-v3.md": "52951fa562a8fb5d9a493e5ecd6d0f6777dc324645ec284fd410b3fac9166153",
+    "issues.md": "db6cc744e8a22b44f7070158af571a43ca984bd271c71a2ffc2e8e9e061dc496"
+  }
+}

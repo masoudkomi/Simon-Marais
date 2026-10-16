@@ -1,0 +1,7 @@
+{"command": ["/Users/uqmkamga/Documents/ChatGPT/Website/.venv/bin/python", "/Users/uqmkamga/Documents/ChatGPT/Website/problems/2021-B4/computations/source_audit_certificates.py", "--worker"], "event": "child_started", "pid": 14374, "timeout_seconds": 30}
+{"event": "checkpoint", "pid": 14374, "python": "3.12.14", "sympy": "1.14.0", "task": "exact small identities"}
+{"coefficients_of_c": ["1", "-t"], "event": "ambient_coefficient_identity", "ideal": "(t^2)", "prime": "(t)", "residual": "0", "scope": "ambient local-ring certificate only"}
+{"event": "determinantal_nilpotent_model", "f": ["y**2", "x*y", "x**2", "z"], "g": ["1", "2", "3", "1"], "minors": ["-x*y + 2*y**2", "-x**2 + 3*y**2", "y**2 - z", "-2*x**2 + 3*x*y", "x*y - 2*z", "x**2 - 3*z"], "polynomial_unit_identity_residual": "0", "scope": "local algebra model; not the specialized derivative construction", "z_squared_certificate_residual": "0"}
+{"event": "incidence_escape", "family": "b=1/u, [k1:k2]=[u:1]", "incidence": "k2*b-k1*b^2=0", "limit": "([B0:B1],[k1:k2])=([0:1],[0:1])", "map": "b -> (b,b^2)", "residual": "0", "scope": "general closure/fiber inference only"}
+{"all_identity_residuals_zero": true, "event": "complete"}
+{"elapsed_seconds": 0.253628, "event": "child_finished", "exit_code": 0, "pid": 14374}

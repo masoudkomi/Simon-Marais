@@ -1,0 +1,22 @@
+{
+  "command": [
+    "/Users/uqmkamga/Documents/ChatGPT/Website/.venv/bin/python",
+    "-u",
+    "/Users/uqmkamga/Documents/ChatGPT/Website/problems/2024-B4/computations/zero-automaton-verify-v1.py"
+  ],
+  "external_timeout_seconds": 45,
+  "status": "completed",
+  "dependencies": "Python standard library only",
+  "requested_model": "gpt-6.1-sol",
+  "requested_reasoning": "max",
+  "verified_effective_settings": null,
+  "pid": 15607,
+  "returncode": 0,
+  "elapsed_seconds": 0.5384059159841854,
+  "files_sha256": {
+    "zero-automaton-v1-verification-output.txt": "b610fc9fc0dee07ba347b8d49f54c2c0f0c25959d51a8512cfa3d5157b4d3d1c",
+    "zero-automaton-v1-verification-stderr.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "zero-automaton-verify-v1.py": "c5f75cf7c8b667604b5b522f6acf23177cad2e81203f01ebfb59934cc3b6424b",
+    "zero-automaton-v1-verification.json": "49f10bc55de4482968867e5dc86ad78d74563a66f6ac7e8a595d9e074248f78a"
+  }
+}

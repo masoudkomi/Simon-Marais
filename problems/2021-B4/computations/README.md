@@ -25,3 +25,21 @@ within about 2.4 seconds total on this host; the finite-field example run and
 two-support comparisons each completed in under one second. Output includes
 per-run measured durations where relevant. Computations are evidence, never
 proof of an unrestricted statement.
+
+Second-pass exact commands, 2026-10-16:
+
+```sh
+.venv/bin/python problems/2021-B4/computations/source_audit_certificates.py > problems/2021-B4/computations/source-audit-certificates.jsonl
+.venv/bin/python problems/2021-B4/computations/rational_witness_p_plus_one.py > problems/2021-B4/computations/rational-witness-p-plus-one.jsonl
+```
+
+| Run | Complete scope | Outcome / limits |
+|---|---|---|
+| source-audit-certificates.jsonl | Two local polynomial-unit identities and one incidence escaping family; SymPy1.14.0 exact expansions | All residuals0. Local algebra models only; not the specialized Casas-Alvero derivative construction. Supports candidate source objections awaiting independent review. |
+| rational-witness-p-plus-one.jsonl | d20/p19; all2^17 binary center-witness selections; Python integers only | 6680 pass the necessary f(1)/19 congruence.3043 have nonzero a18 mod19 and are excluded conditionally on the candidate rational/Eisenstein lemma;3637 remain. No rational-point or degree20 emptiness result. |
+
+Each parent script launches its worker subprocess with an explicit30-second
+timeout and records the PID before waiting. The source-certificate child was
+PID14374; the rational-pattern child was PID14665. Both exited0 in under one
+second. Output contains incremental checkpoints and interpreter/dependency
+versions. No job was left running and no other owner's process was disturbed.

@@ -1,0 +1,26 @@
+INDEPENDENT R2 V3 FINITE EVIDENCE; not a proof of unrestricted claims
+python 3.12.14 platform macOS-26.7-arm64-arm-64bit
+sha256 proof.md 8b35be18bb70f81b623f78e7dd1a148478c698c1f5ad32e4097def92ff75aed3
+sha256 proof-extension-v2.md b41aff3fcfadd33f80fdec80570d5b2f61807a5b9e16a28becacefaa237743ed
+sha256 proof-extension-v3.md 0238f99a93b0ba1076484db1c16b173efcc02be4410e859f2c5bafc55f0f2a3f
+sha256 reviews/review-2.md 1fe554ad4e5c77a1cad18a739a05b7ad1ceba4a8bce0beee91d6d34eedefbc04
+remainder identity/absolute bound 240060 cases PASS; extrema [0, 29, 0, 19]
+radius 29 states 3540 invariance PASS; max sampled policy length 28 versus K 30
+radius 30 states 3660 invariance PASS; max sampled policy length 28 versus K 31
+radius 31 states 3780 invariance PASS; max sampled policy length 28 versus K 32
+radius 60 states 7260 invariance PASS; max sampled policy length 35 versus K 61
+radius 123 states 14820 invariance PASS; max sampled policy length 42 versus K 124
+radius endpoint saturation D(29,0)=29 PASS
+local control inequalities h,k<=10000 PASS
+small cases {1: [0, 0, 0, 0, 0, 0], 2: [1, 1, 1, 1, 1, 1]} {1: [1, 1, 1, 1, 1, 1], 2: [0, 0, 0, 0, 0, 0], 3: [-1, -1, -1, -1, -1, -1], 4: [-2, -2, -2, -2, -2, -2]}
+M=29 graph 3540 states; max shortest hit length 13 <=30 PASS
+old witness (599, 600) initial product 359400 actual prefix [(599, 600), (659, 657), (723, 720), (795, 792)] terminal (3, 12) shortest hitting length 4 old K 3 v3 M,K (29, 30) policy hitting length 4 path [(3, 12), (3, 30), (2, 33), (1, 30), (0, 33)]
+old witness (25, 24) initial product 600 actual prefix [(25, 24), (27, 24), (29, 24), (31, 24), (33, 27)] terminal (6, 27) shortest hitting length 5 old K 4 v3 M,K (29, 30) policy hitting length 6 path [(6, 27), (5, 30), (4, 33), (3, 30), (2, 33), (1, 30), (0, 33)]
+old one-step R2 state (3,24) shortest length 5 <= v3 K 30 PASS
+lifting delta,r,N (-61, 59, 4) bijective classes 10000 modulus 600000 PASS
+lifting delta,r,N (-1, 0, 4) bijective classes 10000 modulus 600000 PASS
+lifting delta,r,N (1, 24, 4) bijective classes 10000 modulus 600000 PASS
+lifting delta,r,N (1000, 15, 3) bijective classes 1000 modulus 60000 PASS
+total finite lifting classes 31000 PASS
+No attempt to enumerate 10^30 control blocks; the unrestricted block count is audited analytically.
+DONE

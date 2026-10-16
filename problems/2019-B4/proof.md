@@ -1,9 +1,6 @@
-# 2019 B4(b): partial proof, version 1
+# 2019 B4(b): reviewed partial proof, version 1.2
 
-**candidate proof - unverified.** Written 2026-10-16. No independent
-adversarial review has yet been completed. This is partial progress on the
-explicitly open part (b); the exact growth constant is not determined here.
-Only the coordinator may promote any result after the required two audits.
+**proved, independently reviewed (partial results)**, 2026-10-16. Both initially blind full reconstructions accepted the mathematical arguments. The author repaired the requested attribution in v1.1, and R1 independently verified that correction and the unchanged mathematics/certificates. The coordinator accepted the partial results; see reviews/acceptance.md. Frozen v1 and v1.1 remain in proofs/. The exact growth constant is not determined, so the full B4(b) question remains unresolved. Novelty is not established.
 
 The definitions of \(B_n\) and \(b_n\) are those of the official paper. A
 history records left/right choices, whereas a word is counted only once,
@@ -30,7 +27,7 @@ b_{2k+1}\le C_k\le(2k+1)b_{2k+1},\qquad
 C_{k+j}\le C_k C_j.\tag{1}
 \]
 
-*Candidate proof.* The map \((l,r)\mapsto l1r\) is onto \(B_{2k+1}\).
+*Proof.* The map \((l,r)\mapsto l1r\) is onto \(B_{2k+1}\).
 For a fixed output word and fixed \(|l|\), the pair \((l,r)\) is uniquely
 determined, so every fibre has at most \(2k+1\) members. This proves the
 first two inequalities, without identifying different marked positions.
@@ -56,7 +53,7 @@ such that
 \lambda=\inf_{k\ge1} C_k^{1/(2k)}.\tag{2}
 \]
 
-*Candidate proof.* Put \(a_k=\log C_k\). These are finite, nonnegative
+*Proof.* Put \(a_k=\log C_k\). These are finite, nonnegative
 numbers and \(a_{k+j}\le a_k+a_j\). For any fixed \(r\ge1\), write
 \(k=qr+s\), where \(0\le s<r\). Repeated application gives
 \[
@@ -101,7 +98,7 @@ M_k^{1/(2k)}\le\lambda\le C_k^{1/(2k)},\qquad
 Thus finite context counts give converging lower and upper enclosures,
 although these have not yet identified a closed form for \(\lambda\).
 
-*Candidate proof.* Fix a position \(p\) attaining \(M_k\). Compose \(q\)
+*Proof.* Fix a position \(p\) attaining \(M_k\). Compose \(q\)
 contexts from \(\mathcal C_{k,p}\), starting from the seed. Every generated
 word has its marked seed after exactly \(qp\) left bits. From the final
 word, recover the left and right context strings by cutting at this known
@@ -130,7 +127,14 @@ has the correct parity. The fixed seed position and known \(m\) recover
 both input words, so the map is injective. This was the first route found
 to growth existence; Theorem 2 gives the cleaner argument.
 
-## 3. An explicit candidate upper bound below the published bound
+## 3. An explicit upper bound below the published bound
+
+The four-move replacement \(RRLL\longrightarrow LLRR\) and the method of
+obtaining avoiding representatives are from the
+[official 2019 solution notes](https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2019-solutions_1.pdf),
+p. 11. The present investigation adds the twelve-move relation and the
+combined finite automaton certificate below; their global novelty is not
+claimed.
 
 Set \(L<R\) in lexicographic order on histories. The following replacements
 preserve the final left/right context around *every* starting word:
@@ -192,15 +196,14 @@ give \(q'<q\). Since \(\boldsymbol1\le v/\min_i v_i\), induction yields
 d_t=(A^t\boldsymbol1)_\epsilon
 \le \frac{v_\epsilon}{\min_i v_i}(q')^t.
 \]
-Together with (6) and Theorem 2 this proves the candidate bound
+Together with (6) and Theorem 2 this proves the bound
 \[
 \boxed{\lambda<1.83761.}\tag{7}
 \]
 The exact finite certificate uses only the displayed integer arithmetic.
 The separately reported numerical spectral radius
 \(1.837605905420144\ldots\) is computational evidence, not used by this
-deduction. This certificate and its mathematical applicability both still
-require two independent adversarial reviews.
+deduction. Both initial audits independently checked this certificate and its mathematical applicability. The attribution revision and unchanged mathematical body were rechecked; the coordinator has accepted these partial results.
 
 ## 4. Finite evidence and the outstanding gap
 
@@ -209,8 +212,8 @@ The exhaustive computations in `computations/` give
 An independent subset enumeration examines all
 \(\binom{24}{12}=2704156\) histories with twelve left moves and obtains
 the same fixed-position count. These are **finite computational evidence**.
-If that count is accepted after independent audit, Lemma 3 gives the
-candidate numerical lower estimate
+The count was independently reproduced by both reviewers; Lemma 3 gives the
+numerical lower estimate
 \(\lambda\ge395397^{1/24}\approx1.710841292477\).
 The proof of Lemma 3 is the unrestricted argument; the finite run does
 not by itself establish an asymptotic theorem.
@@ -218,6 +221,5 @@ not by itself establish an asymptotic theorem.
 No equality between \(\lambda\) and an explicitly evaluated real number
 has been established. Equations (2)–(3) describe converging enclosures but
 are not being presented as a full solution of the requested determination.
-The principal remaining tasks are to characterize all context collisions
-or otherwise evaluate the growth constant, and to independently audit all
-partial candidate arguments above.
+The principal remaining research task is to characterize all context
+collisions or otherwise evaluate the growth constant. Both independent audits and the attribution recheck are complete. The accepted results above remain partial.

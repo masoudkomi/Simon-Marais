@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "/Users/uqmkamga/Documents/ChatGPT/Website/problems/2024-B4/reviews/family-review-2-check.py", line 67, in <module>
+    checkpoint("characteristic-two formal derivative", E_formula.diff(t) == poly(R*t*t, t, x, y, z))
+  File "/Users/uqmkamga/Documents/ChatGPT/Website/problems/2024-B4/reviews/family-review-2-check.py", line 41, in checkpoint
+    raise AssertionError(name)
+AssertionError: characteristic-two formal derivative

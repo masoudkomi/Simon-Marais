@@ -1,0 +1,40 @@
+{
+  "status": "candidate proof - unverified; two fresh independent adversarial audits required",
+  "checkpoint_date": "2026-10-16",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "files_sha256": {
+    "computations/zero-automaton-build-v1.py": "72de8920143865e85acd0d96e56a3f9ca378ab824625f61e3aad24de0ff3745a",
+    "computations/zero-automaton-render-v1.py": "64a1eabc07d9ab4f54b9ce12817b048f9019495645512f675615cccbda9025c3",
+    "computations/zero-automaton-run-v1.py": "c707e961aa49e02d8902821509fe7b2ef28ed19c7370d0f259c30ee2f69663e4",
+    "computations/zero-automaton-v1-graph.json": "ee818f60e68da70ae2f0f7fa84a2c4dec740d10d03908359a271e354a1a0ce4e",
+    "computations/zero-automaton-v1-job.json": "d12831c5c9f1aba96f93b303c078aade5860addadc25e32d3c5061c7261853b6",
+    "computations/zero-automaton-v1-output.txt": "9cefdae5edacf6eb3dcbe19979f389d7d04a3387294e18a1fa4a262abe6ae8a0",
+    "computations/zero-automaton-v1-stderr.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "computations/zero-automaton-v1-verification-job.json": "1832c5abb1f9e240a6734094105ea6c0c225c8784ba41241f3d7eeeeb12fd1ee",
+    "computations/zero-automaton-v1-verification-output.txt": "b610fc9fc0dee07ba347b8d49f54c2c0f0c25959d51a8512cfa3d5157b4d3d1c",
+    "computations/zero-automaton-v1-verification-stderr.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "computations/zero-automaton-v1-verification.json": "49f10bc55de4482968867e5dc86ad78d74563a66f6ac7e8a595d9e074248f78a",
+    "computations/zero-automaton-verify-run-v1.py": "65f60696e713c84ee9d0f9864b48d068adc21ae8a59337995e1d91ef962e417f",
+    "computations/zero-automaton-verify-v1.py": "c5f75cf7c8b667604b5b522f6acf23177cad2e81203f01ebfb59934cc3b6424b",
+    "notes/zero-automaton-certificate-v1.md": "b384ed3c0b51572e729b1e5486847ebcc5d964f4afa64c43e60a76910ad0ddd3",
+    "notes/zero-automaton-criterion-v1.md": "59e3bb1f9aba8162ea5b79f0ccec5f56b6f2cb0cc7917cfe81f4aff196ff6ab4"
+  },
+  "frozen_family_reference_sha256": "1a1a8e6513d175cc075e13c6353371a9ece47e0c37d6781b16999a3544f9e376",
+  "candidate_theorem": "For odd n>=3, phi_13 divides phi_n over F2[x,y,z] iff n=(64*16^m+1)/5 for m>=0.",
+  "limitations": [
+    "No full B4(b) reducibility classification",
+    "No novelty claim",
+    "Second implementation is not an independent reviewer",
+    "No result promoted",
+    "Finite recurrence checks are evidence only"
+  ],
+  "final_checks": {
+    "repository_git_diff_check": "Unrelated existing whitespace findings in 2019 and 2022; no edits made there.",
+    "all_assigned_new_text_files_trailing_whitespace": false,
+    "no_active_child_processes": true
+  }
+}

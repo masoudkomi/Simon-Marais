@@ -1,6 +1,6 @@
 # 2024 B4 research log
 
-Status: serious initial investigation checkpoint, 2026-10-16. **No full solution claimed.** Every mathematical deduction below is **candidate proof - unverified** unless explicitly identified as an attributed published result. Computational identities are exact finite certificates, not a classification of unrestricted n.
+Status: serious initial investigation checkpoint, 2026-10-16. **No full solution claimed.** The fixed-factor family in proofs/fixed-factor-family-reviewed-v1.1.md is **proved, independently reviewed (partial result)** after two blind full reconstructions. Other mathematical deductions below remain **candidate proof - unverified** unless identified as attributed published results. The zero-automaton work is separate and unreviewed. Computational identities are exact finite certificates, not a classification of unrestricted n.
 
 Requested worker settings: gpt-6.1-sol, max reasoning. Verified effective-setting readback: unavailable. Worker owns only this directory; no commits, pushes, helpers or installations performed.
 
@@ -63,3 +63,60 @@ The known absolute Kasami factorization has factors indexed by alpha in F_{2^k} 
 3. If an adequate CAS becomes available, factor exact phi_n for a bounded set of odd n=1 mod4, multiply every output back, and record F2 factor fields. Seek further small fixed divisors, rather than assuming all non-Gold/Kasami quotients are irreducible.
 4. Verify the original Janwa--Wilson factorization theorem and original JMW irreducibility theorem in their primary publications, not just subsequent quotations.
 5. A possible compact route for the phi_13 divisibility family: localize at Q, set a=R²/Q³ and b=D/Q². The divisor relation becomes 1+b²+ab=0, hence a=b+b^(-1). The odd-index generating function reduces to (1+s+b s²)/(1+s²+(b+b^(-1))s³+b²s⁴). Study its coefficient zeros by Frobenius/Cartier or Dickson identities. This is a proposed route only; neither a criterion nor an unrestricted family has been proved.
+
+## Focused second pass, 2026-10-16
+
+**Candidate proof - unverified.** The preceding initial-pass record is
+preserved; its speculative-family status is superseded by the separate
+versioned candidate `proofs/fixed-factor-family-v1.md`, which is not yet
+independently reviewed. The coordinator supplied an exploratory construction
+in `notes/coordinator-cartier-family-v0.1.md`; this owner joined as a
+co-constructor, independently rebuilt its exact identities, and completed
+the localization, saturation and degree arguments.
+
+The candidate states phi_13 divides phi_n for
+n=(64*16^m+1)/5, m>=0. For m>=1 this gives a qualifying B4(b) factorization
+with actual factor degrees 10 and n-13. The m=0 cofactor is 1, so this
+family argument alone does not decide n=13. No full classification or
+novelty is claimed, and no preliminary Gold-family proof is investigated.
+
+The normalized rational series has denominator
+K(z,b)=1+z²+(b+b^-1)z³+b²z⁴. Exact symbolic computation of K^15 gives
+361 terms. The relevant Cartier numerators have 49,24,25 terms and exactly
+match the proposed L,M,J formulas. The operators select coefficients and
+are linear over F2(b), with no inverse-Frobenius operation on coefficients.
+The two-dimensional numerator span has zero constant term and is
+preserved while b is replaced by b^16. This yields an unrestricted
+induction on hexadecimal indices j_m=(32*16^m-7)/5, whose digits are m
+copies of 6 followed by 5.
+
+The formal divisor A=q^5+q*d²+u*d is primitive and linear in u, hence
+prime in F2[q,u,d]. It divides neither q nor d. Thus vanishing after
+inverting q,d descends to polynomial divisibility. Weighted homogeneity
+plus a mixed coefficient of the original f_n proves that neither
+substituted factor vanishes and gives the claimed actual degrees. No
+injectivity of the invariant substitution, no full-ring factorization
+oracle and no absolute-irreducibility theorem is assumed.
+
+The exact certificate uses Python 3.12.14 standard library only. A child
+process with PID 12474 and 30-second timeout completed with return code 0
+in 0.182 seconds. Script, complete symbolic monomial arrays, incremental
+output, empty stderr and job parameters are retained in computations/.
+Separate direct Laurent-series checks at m=0,1,2 are labeled finite
+evidence and are not the induction proof. See the computations README.
+
+The original-source search identified Éric Férard's 2014 paper,
+DOI 10.3934/amc.2014.8.497. Its publisher abstract announces phi_13
+divisibility and an infinite family in the residue class 5 modulo 8.
+The exact full theorem was not accessible in this pass: the publisher's
+normal PDF-availability endpoint requires login; a HAL record exists
+but supplies no main-file URL. The independent candidate does not rely
+on it, and exact prior attribution remains pending. No charge, access
+restriction bypass, installation, commit or push was performed by this
+owner. See `notes/source-access-2026-10-16.md` for the bounded queries,
+failed access attempts and source hashes.
+
+The frozen manifest is `notes/fixed-factor-family-v1-manifest.json`.
+Two fresh reviewers who did not construct the proof must complete blind
+initial reports, one reconstructing the whole argument. Neither the
+coordinator nor this owner can count as an independent reviewer.

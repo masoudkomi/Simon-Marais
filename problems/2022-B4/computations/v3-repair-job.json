@@ -1,0 +1,48 @@
+{
+  "child_pid": 12143,
+  "command": [
+    "/Users/uqmkamga/Documents/ChatGPT/Website/.venv/bin/python",
+    "-u",
+    "/Users/uqmkamga/Documents/ChatGPT/Website/problems/2022-B4/computations/v3_repair_evidence.py",
+    "--worker"
+  ],
+  "cwd": "/Users/uqmkamga/Documents/ChatGPT/Website",
+  "elapsed_seconds": 0.7779833750100806,
+  "log_path": "/Users/uqmkamga/Documents/ChatGPT/Website/problems/2022-B4/computations/v3-repair-output.txt",
+  "parameters": {
+    "lifting_lengths": [
+      1,
+      2,
+      3
+    ],
+    "radii": [
+      29,
+      30,
+      60,
+      100,
+      333
+    ],
+    "remainder_difference_range": [
+      -10000,
+      10000
+    ]
+  },
+  "proof_fingerprints_after": {
+    "problems/2022-B4/proof-extension-v2.md": "b41aff3fcfadd33f80fdec80570d5b2f61807a5b9e16a28becacefaa237743ed",
+    "problems/2022-B4/proof-extension-v3.md": "0238f99a93b0ba1076484db1c16b173efcc02be4410e859f2c5bafc55f0f2a3f",
+    "problems/2022-B4/proof.md": "8b35be18bb70f81b623f78e7dd1a148478c698c1f5ad32e4097def92ff75aed3",
+    "problems/2022-B4/reviews/review-1.md": "6f7f8fa9ce0bcc08ed0738f2db587ad2ef1e0c5f269d9aac975033c8cfe29e60",
+    "problems/2022-B4/reviews/review-2.md": "1fe554ad4e5c77a1cad18a739a05b7ad1ceba4a8bce0beee91d6d34eedefbc04"
+  },
+  "proof_fingerprints_before": {
+    "problems/2022-B4/proof-extension-v2.md": "b41aff3fcfadd33f80fdec80570d5b2f61807a5b9e16a28becacefaa237743ed",
+    "problems/2022-B4/proof-extension-v3.md": "0238f99a93b0ba1076484db1c16b173efcc02be4410e859f2c5bafc55f0f2a3f",
+    "problems/2022-B4/proof.md": "8b35be18bb70f81b623f78e7dd1a148478c698c1f5ad32e4097def92ff75aed3",
+    "problems/2022-B4/reviews/review-1.md": "6f7f8fa9ce0bcc08ed0738f2db587ad2ef1e0c5f269d9aac975033c8cfe29e60",
+    "problems/2022-B4/reviews/review-2.md": "1fe554ad4e5c77a1cad18a739a05b7ad1ceba4a8bce0beee91d6d34eedefbc04"
+  },
+  "return_code": 0,
+  "started_utc": "2026-10-16T10:19:42.185576+00:00",
+  "timed_out": false,
+  "timeout_seconds": 40
+}

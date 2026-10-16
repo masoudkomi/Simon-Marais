@@ -1,0 +1,569 @@
+{
+  "status": "independent R2 finite evidence; no unrestricted claim proved by tests",
+  "python": "3.12.14",
+  "child_pid": 12199,
+  "proof_sha256": "227cff77dc63aba6125494e6e39e3feb687fe4b8a3ff90d4392d72b4133e5a1e",
+  "certificate": {
+    "states": [
+      "",
+      "R",
+      "RR",
+      "RRL",
+      "RRLR",
+      "RRLRR",
+      "RRLRRL",
+      "RRLRRLR",
+      "RRLRRLRL",
+      "RRLRRLRLL",
+      "RRLRRLRLLR",
+      "RRLRRLRLLRL"
+    ],
+    "matrix": [
+      [
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "transitions": [
+      {
+        "L": "",
+        "R": "R"
+      },
+      {
+        "L": "",
+        "R": "RR"
+      },
+      {
+        "L": "RRL",
+        "R": "RR"
+      },
+      {
+        "L": null,
+        "R": "RRLR"
+      },
+      {
+        "L": "",
+        "R": "RRLRR"
+      },
+      {
+        "L": "RRLRRL",
+        "R": "RR"
+      },
+      {
+        "L": null,
+        "R": "RRLRRLR"
+      },
+      {
+        "L": "RRLRRLRL",
+        "R": "RRLRR"
+      },
+      {
+        "L": "RRLRRLRLL",
+        "R": "R"
+      },
+      {
+        "L": "",
+        "R": "RRLRRLRLLR"
+      },
+      {
+        "L": "RRLRRLRLLRL",
+        "R": "RR"
+      },
+      {
+        "L": null,
+        "R": "R"
+      }
+    ],
+    "relations": [
+      {
+        "before": "RRLL",
+        "after": "LLRR",
+        "contexts_first_0_and_1": [
+          [
+            "10",
+            "01"
+          ],
+          [
+            "01",
+            "10"
+          ]
+        ]
+      },
+      {
+        "before": "RRLRRLRLLRLL",
+        "after": "LLRLLRLRRLRR",
+        "contexts_first_0_and_1": [
+          [
+            "100110",
+            "011001"
+          ],
+          [
+            "011001",
+            "100110"
+          ]
+        ]
+      }
+    ],
+    "strict_integer_slacks": [
+      409458000000,
+      342964384620,
+      220775446615,
+      184922881622,
+      339815293183,
+      214988686007,
+      174288855158,
+      320274236101,
+      373549380575,
+      343471859870,
+      221708031750,
+      186636581752
+    ],
+    "q_prime_exact": "154146715175/83884534067",
+    "q_prime_decimal_evidence_only": 1.8376059054209015,
+    "q_prime_maximizing_state_indices": [
+      9
+    ],
+    "avoiding_counts_t_0_through_16": [
+      1,
+      2,
+      4,
+      8,
+      15,
+      28,
+      52,
+      96,
+      177,
+      326,
+      600,
+      1104,
+      2030,
+      3732,
+      6860,
+      12608,
+      23171
+    ]
+  },
+  "finite_counterexample_search": {
+    "all_history_rows": [
+      {
+        "moves": 0,
+        "marked": 1,
+        "words": 1,
+        "max_fibre": 1,
+        "avoiding_histories": 1
+      },
+      {
+        "moves": 1,
+        "marked": 2,
+        "words": 2,
+        "max_fibre": 1,
+        "avoiding_histories": 2
+      },
+      {
+        "moves": 2,
+        "marked": 4,
+        "words": 3,
+        "max_fibre": 2,
+        "avoiding_histories": 4
+      },
+      {
+        "moves": 3,
+        "marked": 8,
+        "words": 5,
+        "max_fibre": 2,
+        "avoiding_histories": 8
+      },
+      {
+        "moves": 4,
+        "marked": 15,
+        "words": 9,
+        "max_fibre": 3,
+        "avoiding_histories": 15
+      },
+      {
+        "moves": 5,
+        "marked": 28,
+        "words": 16,
+        "max_fibre": 3,
+        "avoiding_histories": 28
+      },
+      {
+        "moves": 6,
+        "marked": 52,
+        "words": 29,
+        "max_fibre": 4,
+        "avoiding_histories": 52
+      },
+      {
+        "moves": 7,
+        "marked": 96,
+        "words": 52,
+        "max_fibre": 4,
+        "avoiding_histories": 96
+      },
+      {
+        "moves": 8,
+        "marked": 177,
+        "words": 94,
+        "max_fibre": 5,
+        "avoiding_histories": 177
+      },
+      {
+        "moves": 9,
+        "marked": 326,
+        "words": 170,
+        "max_fibre": 5,
+        "avoiding_histories": 326
+      },
+      {
+        "moves": 10,
+        "marked": 600,
+        "words": 308,
+        "max_fibre": 6,
+        "avoiding_histories": 600
+      },
+      {
+        "moves": 11,
+        "marked": 1104,
+        "words": 560,
+        "max_fibre": 6,
+        "avoiding_histories": 1104
+      },
+      {
+        "moves": 12,
+        "marked": 2030,
+        "words": 1018,
+        "max_fibre": 7,
+        "avoiding_histories": 2030
+      },
+      {
+        "moves": 13,
+        "marked": 3732,
+        "words": 1856,
+        "max_fibre": 7,
+        "avoiding_histories": 3732
+      },
+      {
+        "moves": 14,
+        "marked": 6858,
+        "words": 3383,
+        "max_fibre": 8,
+        "avoiding_histories": 6860
+      },
+      {
+        "moves": 15,
+        "marked": 12600,
+        "words": 6177,
+        "max_fibre": 8,
+        "avoiding_histories": 12608
+      },
+      {
+        "moves": 16,
+        "marked": 23144,
+        "words": 11279,
+        "max_fibre": 9,
+        "avoiding_histories": 23171
+      }
+    ],
+    "composition_k_plus_j_at_most": 4,
+    "fixed_position_injectivity_cases": 45,
+    "fixed_position_test_parameters": {
+      "k": [
+        1,
+        2,
+        3
+      ],
+      "q": [
+        1,
+        2,
+        3
+      ],
+      "positions": "all"
+    },
+    "odd_seed_substitution_cases": 32,
+    "odd_seed_substitution_parameters": {
+      "m": [
+        1,
+        3,
+        5,
+        7
+      ],
+      "n_min": 1,
+      "n_max": 8
+    }
+  },
+  "24_move_enumeration": {
+    "method": "direct 12-move history subsets, then independent two-half composition; fixed-split packed context integers",
+    "half_history_count": 4096,
+    "half_position_counts": [
+      1,
+      12,
+      57,
+      148,
+      258,
+      348,
+      382,
+      348,
+      258,
+      148,
+      57,
+      12,
+      1
+    ],
+    "half_distinct_contexts": 2030,
+    "moves": 24,
+    "position_counts": [
+      1,
+      24,
+      255,
+      1604,
+      6789,
+      21012,
+      50707,
+      100334,
+      168807,
+      247654,
+      322226,
+      375860,
+      395397,
+      375860,
+      322226,
+      247654,
+      168807,
+      100334,
+      50707,
+      21012,
+      6789,
+      1604,
+      255,
+      24,
+      1
+    ],
+    "total": 2985943,
+    "maximum": 395397,
+    "maximizing_left_lengths": [
+      12
+    ],
+    "candidate_half_context_pairs_by_position": [
+      1,
+      24,
+      258,
+      1664,
+      7317,
+      23760,
+      60432,
+      125904,
+      221988,
+      338800,
+      454302,
+      540072,
+      571856,
+      540072,
+      454302,
+      338800,
+      221988,
+      125904,
+      60432,
+      23760,
+      7317,
+      1664,
+      258,
+      24,
+      1
+    ],
+    "sorted_three_byte_context_sha256_by_position": [
+      "d095ff0c8de782e44895b829e34a831c6f2ad8fc5249ef09fe43ac9d51ddf066",
+      "d2e640fb54f48356c4e7355a47f6a7d523917236be6b8804743210110bf9e808",
+      "de57bbd4402c5c5df52cf213ad821764533c5a588db942f3d23313a35cf7903d",
+      "2c61037587608b8b00c75963d9c6dff7def50ece4a56162968472b1d1b96e153",
+      "1d1508ef537c62ff5a28c599fa2f2e179ff955a28fbf5bec575027aef6e3c0e2",
+      "fd3914b0395fcf42042c11f495fa7841e584f7d56aee49c95daf05786e35cbbe",
+      "9283a743dbba528b183b6e392c6fb19333e73e7c041c366659ea21436ad210ab",
+      "e3b37a5eae6a7f522311f78e7003206bda90b7fbb09098ee07feb541233e0e6d",
+      "613f8a5d63272701e876f543c776600a0631a8ade5e7f5b10f9104f844462f1f",
+      "7e9e0a5340d9356186c0cf64d84b45efde1524a21b71a7aafa17db0207fc0f53",
+      "73e181f36c4c0bec2b466280b8eacf0704d83cb7eaf42a345a3ef417fa651cc2",
+      "4cae51e001c15ec65da9936bb7bddbe314ea0708dd65d118c2070f234a114dbe",
+      "0da6ff5630d0198282f657e4e35c793773253e059e50c24f545d16cee0e976e5",
+      "ba6c88d45c645eb62a5b1da8349283ffa2e71a05247d2b038a79c33b27ec0470",
+      "9ff87fcadbce371c1d69fa6edbc304cd831b403f50345fb16c83ee03f4cdf2af",
+      "90b5db1845e7f76602b8de8cbb0087b56f860cbe41b066374e3fd28e86543f4f",
+      "da6f8c21bc3c3ab90a6b0010a4819b20a2d137c298567b8f8edfa0e47849afd8",
+      "d288d5d197fabd06a5ae8a8e45a4940c6eda9240cd21241da54323aa3908c4aa",
+      "e2e2c02e0cf6b7e8852d53dcbdbccb47b781a94f375f9d588dd1997427614601",
+      "5213fb044bd72cd85780ec814e879e4dcf6434d0c0fba2676f1752a13a080b42",
+      "98b670c291152438d6c8ef6437dfe4ff866f48c189500c10b902ad0c813aac15",
+      "b345f00b1979aec3ee02b2239e0bb495dd2512dc950afcc5bcab6ebae744cef9",
+      "3786416c174bbeed3bd3008c77f8ea43e48802be9d082c3afcef63b8aa545026",
+      "cc78d806aaa4f0778c421e366cd7e07ef08c75d89c6e3e05cabd976b20ac31f8",
+      "9b6842cbc48d02524c0566cff1ed4373c4471324b9a6db7d2000f1cfff7b03fe"
+    ],
+    "lower_root_decimal_evidence_only": 1.7108412924770116,
+    "upper_root_decimal_evidence_only": 1.8612086533667715
+  },
+  "elapsed_seconds": 1.3858708339976147
+}
