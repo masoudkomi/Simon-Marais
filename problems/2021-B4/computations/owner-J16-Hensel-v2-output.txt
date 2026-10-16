@@ -1,0 +1,14 @@
+{"elapsed_seconds": 0.012107040965929627, "expected": 90, "generated": 2, "pid": 51403, "precision": 4, "visited": 10}
+{"elapsed_seconds": 0.014788749977014959, "expected": 90, "generated": 6, "pid": 51403, "precision": 4, "visited": 20}
+{"elapsed_seconds": 0.017266040958929807, "expected": 90, "generated": 9, "pid": 51403, "precision": 4, "visited": 30}
+{"elapsed_seconds": 0.01974412496201694, "expected": 90, "generated": 12, "pid": 51403, "precision": 4, "visited": 40}
+{"elapsed_seconds": 0.022305249993223697, "expected": 90, "generated": 13, "pid": 51403, "precision": 4, "visited": 50}
+{"elapsed_seconds": 0.024830999958794564, "expected": 90, "generated": 14, "pid": 51403, "precision": 4, "visited": 60}
+{"elapsed_seconds": 0.027268624980933964, "expected": 90, "generated": 14, "pid": 51403, "precision": 4, "visited": 70}
+{"elapsed_seconds": 0.029694541008211672, "expected": 90, "generated": 14, "pid": 51403, "precision": 4, "visited": 80}
+{"elapsed_seconds": 0.032130207982845604, "expected": 90, "generated": 14, "pid": 51403, "precision": 4, "visited": 90}
+{"histogram": {"consistent": 14, "inconsistent": 76}, "level_complete": 4, "masks": [55584, 58480], "next_nodes": 14}
+{"elapsed_seconds": 0.0349463329766877, "expected": 14, "generated": 0, "pid": 51403, "precision": 5, "visited": 10}
+{"elapsed_seconds": 0.03596374997869134, "expected": 14, "generated": 0, "pid": 51403, "precision": 5, "visited": 14}
+{"histogram": {"inconsistent": 14}, "level_complete": 5, "masks": [], "next_nodes": 0}
+{"benchmark": false, "candidate_masks_at_last_complete_precision": [], "effective_setting_readback": "unavailable", "elapsed_seconds": 0.03646962495986372, "explicit_constructor_reuse": {"sha256": "acb811b279c11def4c82a1e156e9906007c313d78341ede722e00e1a70a2ee06", "source": "problems/2021-B4/computations/owner-J16-Hensel-v1.py"}, "input_precision": 4, "last_complete_precision": 6, "last_output_nodes": 0, "node_cap_per_level": 90, "pid": 51403, "requested_model": "gpt-6.1-sol", "requested_reasoning": "max", "status": "complete candidate exclusion of input cover; no residue nodes remain", "structural_bound": "all 90 input states have constant rank-2 Jacobian; at most one child each at every later precision", "target_precision": 8}

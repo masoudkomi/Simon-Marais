@@ -1,0 +1,26 @@
+{
+  "started_at_utc": "2026-10-16T16:43:11.364103+00:00",
+  "command": [
+    "/usr/local/bin/python3",
+    "-u",
+    "/Users/uqmkamga/Documents/ChatGPT/Website/problems/2021-B4/computations/owner-J16-Hensel-v1.py",
+    "--child",
+    "--benchmark"
+  ],
+  "timeout_seconds": 60,
+  "node_cap_per_level": 1000000,
+  "target_precision": 4,
+  "benchmark": true,
+  "status": "completed",
+  "source_sha256": "acb811b279c11def4c82a1e156e9906007c313d78341ede722e00e1a70a2ee06",
+  "pid": 47539,
+  "return_code": 0,
+  "elapsed_seconds": 0.6272291250061244,
+  "output_hashes": {
+    "owner-J16-Hensel-v1-benchmark-output.txt": "b449f46e64cb63c686f8c53ee7e9d7addd59f12829403244af3bbb43e3be4f2d",
+    "owner-J16-Hensel-v1-benchmark-stderr.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "owner-J16-Hensel-v1-benchmark-result.json": "26b53f91c09bd4c64d4d50d3bd94427f3425f8425cce93a107c1dc16210e4334",
+    "owner-J16-Hensel-v1-benchmark-checkpoint.json": "58915d3a398a107b369e725700186946443cf5d53dea03e884692d2ac35bfa33",
+    "owner-J16-Hensel-v1-benchmark-self-test.json": "89d672162fa2d4368b273909edfb53563b48392bcd932ce6151012eab62ca2ca"
+  }
+}

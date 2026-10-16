@@ -34,12 +34,12 @@ Recheck before launching each group, during sustained work, before expensive com
 
 | 2026-10-16 15:40:02 UTC | 9% | 91% | Same reset; degeneration partial result accepted, fresh full three-witness audit launched; 2017/2020/2025 reviews continue. |
 
+| 2026-10-16 16:02:11 UTC | 10% | 90% | Same reset; rational witness and 2025 partial audits accepted; repaired 2017 re-audits and 2020 R2 continue. |
+| 2026-10-16 16:27:04 UTC | 11% | 89% | Same reset; narrow source audits integrated; complex extension audits active. |
+| 2026-10-16 16:49:44 UTC | 12% | 88% | Same reset; complex C20 accepted, entire rational J=16 candidate sent for fresh full audits. No stop condition. |
+
 User clarification during the initial group: investigate only the explicitly open portion of B4. This narrows mathematical targets, not the weekly cutoff.
 
 ## Stop record
 
 Research has not stopped at the cutoff. Record the final observed usage and actual stop reason here; never claim execution continues after it ends.
-
-| 2026-10-16 16:02:11 UTC | 10% | 90% | Same reset;2021three-rational-witness and2025partial audits accepted; repaired2017 re-audits and2020R2 continue. |
-
-|2026-10-16 16:27:04 UTC|11%|89%|Same reset; narrow source audits integrated, two complex extension audits and2020R2active; no stop condition.|

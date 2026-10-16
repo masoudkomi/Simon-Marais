@@ -1,6 +1,6 @@
 # 2020 B4 research log
 
-Status: initial investigation checkpoint, 2026-10-16. **No new full solution claimed.** Partial-v1 is candidate proof - unverified, queued for two independent adversarial audits. Requested worker settings: `model=gpt-6.1-sol`, `reasoning_effort=max`; no independent effective-setting readback was available.
+Status: 2026-10-16. **No full solution claimed.** P1–P6 and the attributed square-descent application are proved, independently reviewed partial results after two blind full reconstructions; see reviews/acceptance.md. Earlier candidate labels below are historical. Requested worker settings: `model=gpt-6.1-sol`, `reasoning_effort=max`; no independent effective-setting readback was available.
 
 ## Statement checks
 

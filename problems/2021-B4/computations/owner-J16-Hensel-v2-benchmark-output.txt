@@ -1,0 +1,11 @@
+{"elapsed_seconds": 0.02128975000232458, "expected": 90, "generated": 2, "pid": 51229, "precision": 4, "visited": 10}
+{"elapsed_seconds": 0.023815207998268306, "expected": 90, "generated": 6, "pid": 51229, "precision": 4, "visited": 20}
+{"elapsed_seconds": 0.026218832994345576, "expected": 90, "generated": 9, "pid": 51229, "precision": 4, "visited": 30}
+{"elapsed_seconds": 0.02864799997769296, "expected": 90, "generated": 12, "pid": 51229, "precision": 4, "visited": 40}
+{"elapsed_seconds": 0.031230583030264825, "expected": 90, "generated": 13, "pid": 51229, "precision": 4, "visited": 50}
+{"elapsed_seconds": 0.033678875013720244, "expected": 90, "generated": 14, "pid": 51229, "precision": 4, "visited": 60}
+{"elapsed_seconds": 0.036095208022743464, "expected": 90, "generated": 14, "pid": 51229, "precision": 4, "visited": 70}
+{"elapsed_seconds": 0.038512583007104695, "expected": 90, "generated": 14, "pid": 51229, "precision": 4, "visited": 80}
+{"elapsed_seconds": 0.04114579199813306, "expected": 90, "generated": 14, "pid": 51229, "precision": 4, "visited": 90}
+{"histogram": {"consistent": 14, "inconsistent": 76}, "level_complete": 4, "masks": [55584, 58480], "next_nodes": 14}
+{"benchmark": true, "candidate_masks_at_last_complete_precision": [55584, 58480], "effective_setting_readback": "unavailable", "elapsed_seconds": 0.04156770801637322, "explicit_constructor_reuse": {"sha256": "acb811b279c11def4c82a1e156e9906007c313d78341ede722e00e1a70a2ee06", "source": "problems/2021-B4/computations/owner-J16-Hensel-v1.py"}, "input_precision": 4, "last_complete_precision": 5, "last_output_nodes": 14, "node_cap_per_level": 90, "pid": 51229, "requested_model": "gpt-6.1-sol", "requested_reasoning": "max", "status": "complete fixed first-level benchmark; precision-eight traversal incomplete", "structural_bound": "all 90 input states have constant rank-2 Jacobian; at most one child each at every later precision", "target_precision": 8}

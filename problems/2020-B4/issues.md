@@ -1,5 +1,24 @@
 # 2020 B4 issue log
 
+P1–P6 and the attributed square-descent application are **proved, independently reviewed (partial results)**. Both complete blind audits found no substantive gap. The unrestricted classification remains unresolved.
+
+| ID | Issue | Disposition after both audits | Status |
+|---|---|---|---|
+| 2020-01 | q=1 and official n=2 boundary | Both reconstructed P1 and retained n=2 outside positive-exponent prime-power terminology. | Resolved |
+| 2020-02 | Published order q versus official n and table cardinality k | Both checked conservative q<2e10 ⇒ 3≤n≤2e10, with n=2 separate; published large computation not rerun. | Resolved with disclosed scope |
+| 2020-03 | Source says positive orbit counts | Both reconstructed the necessary inequality with a,b≥0; existing code allows zeros. The saved q=8 witness demonstrates b=0. | Resolved source wording |
+| 2020-04 | All internal reductions and orbit formulas | Both full independent reconstructions, including q=2 nondegeneracy and d=1,v quotient cases, found no gap. | Resolved |
+| 2020-05 | Original imported proofs inaccessible | Exact Gordon 1994 restatements and primary abstracts checked; original proofs remain unaudited. No access or full-original-proof claim. | Disclosed dependency |
+| 2020-06 | Necessary finite tests versus classification | Both preserve necessary-only and finite-range labels; no existence inference from a passing test. | Resolved |
+| R1-2020-C1 | Gordon preprint/publisher theorem numbering | notes/reviewed-source-clarifications-v1.md explicitly identifies arXiv v1 Theorems 3/4 versus publisher 2/3. | Editorial correction resolved |
+| R1-2020-C2 | Put collineation hypothesis earlier | Accepted register explicitly states it throughout P2; frozen proof already specifies it in its closing paragraph. | Exposition clarified |
+
+No substantive repair was required. The full reports, immutable manifests and acceptance record preserve the checked scope and source limitations. The initial issue log is retained below for provenance; its pending statuses are historical.
+
+## Original pre-review entries
+
+# 2020 B4 issue log
+
 Partial-v1 is queued for independent review. No full-solution candidate exists.
 
 | ID | Version / location | Objection | Severity | Repair / evidence | Re-review | Status |

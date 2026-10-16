@@ -1,0 +1,181 @@
+{
+  "status": "complete fixed first-level benchmark; precision-eight traversal incomplete",
+  "pid": 51229,
+  "requested_model": "gpt-6.1-sol",
+  "requested_reasoning": "max",
+  "effective_setting_readback": "unavailable",
+  "input_precision": 4,
+  "target_precision": 8,
+  "node_cap_per_level": 90,
+  "benchmark": true,
+  "structural_bound": "all 90 input states have constant rank-2 Jacobian; at most one child each at every later precision",
+  "explicit_constructor_reuse": {
+    "source": "problems/2021-B4/computations/owner-J16-Hensel-v1.py",
+    "sha256": "acb811b279c11def4c82a1e156e9906007c313d78341ede722e00e1a70a2ee06"
+  },
+  "input_sha256": {
+    "problems/2021-B4/computations/owner-J16-Hensel-v1-postcheck-result.json": "6eee254cd548d78c68c02348945fac4b42dffeea78f7c622da23019561c27f0b",
+    "problems/2021-B4/notes/owner-J16-Hensel-v1-manifest.json": "2f5eec6a98e0ff8c264259a508868c3d0e5f5befa8de833a9434dfd7fc069f6a"
+  },
+  "levels": [
+    {
+      "input_precision": 4,
+      "input_nodes": 90,
+      "output_precision": 5,
+      "output_nodes": 14,
+      "histogram": {
+        "inconsistent": 76,
+        "consistent": 14
+      },
+      "input_mask_counts": {
+        "51495": 2,
+        "55584": 36,
+        "56407": 4,
+        "58480": 36,
+        "58898": 6,
+        "59703": 2,
+        "62251": 2,
+        "89160": 2
+      },
+      "output_mask_counts": {
+        "51495": 0,
+        "55584": 12,
+        "56407": 0,
+        "58480": 2,
+        "58898": 0,
+        "59703": 0,
+        "62251": 0,
+        "89160": 0
+      },
+      "complete_input_traversal": true,
+      "output_states": [
+        [
+          55584,
+          1089,
+          66060,
+          1,
+          122395,
+          776281
+        ],
+        [
+          55584,
+          1105,
+          66060,
+          1,
+          2207531,
+          1949170
+        ],
+        [
+          55584,
+          1089,
+          66076,
+          1,
+          513358,
+          2079491
+        ],
+        [
+          55584,
+          65545,
+          1216,
+          1,
+          4064,
+          490197
+        ],
+        [
+          55584,
+          65561,
+          1216,
+          1,
+          2219521,
+          2184370
+        ],
+        [
+          55584,
+          65545,
+          1232,
+          1,
+          1958879,
+          1402444
+        ],
+        [
+          55584,
+          1216,
+          65545,
+          1,
+          490197,
+          4064
+        ],
+        [
+          55584,
+          1232,
+          65545,
+          1,
+          1402444,
+          1958879
+        ],
+        [
+          55584,
+          1216,
+          65561,
+          1,
+          2184370,
+          2219521
+        ],
+        [
+          55584,
+          66060,
+          1089,
+          1,
+          776281,
+          122395
+        ],
+        [
+          55584,
+          66076,
+          1089,
+          1,
+          2079491,
+          513358
+        ],
+        [
+          55584,
+          66060,
+          1105,
+          1,
+          1949170,
+          2207531
+        ],
+        [
+          58480,
+          392,
+          69636,
+          1,
+          723962,
+          101134
+        ],
+        [
+          58480,
+          69636,
+          392,
+          1,
+          101134,
+          723962
+        ]
+      ]
+    }
+  ],
+  "last_complete_precision": 5,
+  "last_output_nodes": 14,
+  "candidate_masks_at_last_complete_precision": [
+    55584,
+    58480
+  ],
+  "elapsed_seconds": 0.04156770801637322,
+  "certificate": {
+    "path": "problems/2021-B4/computations/owner-J16-Hensel-v2-benchmark-certificates.jsonl",
+    "rows": 90,
+    "bytes": 238992,
+    "sha256": "41d7473ff0de752553cc28d6e9879dcab3689ad877da0d4a6953a6779b290c3d",
+    "stream_sha256": "41d7473ff0de752553cc28d6e9879dcab3689ad877da0d4a6953a6779b290c3d"
+  }
+}

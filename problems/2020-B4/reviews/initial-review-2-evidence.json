@@ -1,0 +1,594 @@
+{
+  "all_checks_passed": true,
+  "ancillary_arasu": [
+    {
+      "matches_saved": true,
+      "q": 1944,
+      "rows": [
+        {
+          "excluded": true,
+          "h": 6553,
+          "m": 2,
+          "m_to_s_mod_v": 3309266,
+          "nonnegative_solutions_a_b": [],
+          "o": 16,
+          "p": 577,
+          "s": 117
+        },
+        {
+          "excluded": true,
+          "h": 6553,
+          "m": 3,
+          "m_to_s_mod_v": 2824344,
+          "nonnegative_solutions_a_b": [],
+          "o": 16,
+          "p": 577,
+          "s": 39
+        },
+        {
+          "excluded": true,
+          "h": 577,
+          "m": 2,
+          "m_to_s_mod_v": 484104,
+          "nonnegative_solutions_a_b": [],
+          "o": 13,
+          "p": 6553,
+          "s": 144
+        },
+        {
+          "excluded": true,
+          "h": 577,
+          "m": 3,
+          "m_to_s_mod_v": 2110090,
+          "nonnegative_solutions_a_b": [],
+          "o": 13,
+          "p": 6553,
+          "s": 48
+        }
+      ]
+    },
+    {
+      "matches_saved": true,
+      "q": 2304,
+      "rows": []
+    },
+    {
+      "matches_saved": true,
+      "q": 2435,
+      "rows": [
+        {
+          "excluded": true,
+          "h": 1,
+          "m": 5,
+          "m_to_s_mod_v": 5,
+          "nonnegative_solutions_a_b": [],
+          "o": 435,
+          "p": 5931661,
+          "s": 1
+        },
+        {
+          "excluded": true,
+          "h": 1,
+          "m": 487,
+          "m_to_s_mod_v": 487,
+          "nonnegative_solutions_a_b": [],
+          "o": 145,
+          "p": 5931661,
+          "s": 1
+        }
+      ]
+    }
+  ],
+  "ancillary_zero_case": {
+    "nonnegative_solution": [
+      1,
+      0
+    ],
+    "parameters": {
+      "h": 1,
+      "k": 3,
+      "o": 3,
+      "p": 7
+    },
+    "passed": true
+  },
+  "dependencies": "Python standard library only; no project imports",
+  "direct_small_orbits": {
+    "cases": 85,
+    "generators": "2,3,5,7,11 when coprime to modulus",
+    "odd_moduli_max": 171,
+    "odd_moduli_min": 3,
+    "passed": true
+  },
+  "elapsed_seconds": 1.0203895829909015,
+  "norm_local_obstruction": {
+    "integer_box": [
+      -50,
+      50
+    ],
+    "passed": true,
+    "primes_2_mod_3_through_257": [
+      2,
+      5,
+      11,
+      17,
+      23,
+      29,
+      41,
+      47,
+      53,
+      59,
+      71,
+      83,
+      89,
+      101,
+      107,
+      113,
+      131,
+      137,
+      149,
+      167,
+      173,
+      179,
+      191,
+      197,
+      227,
+      233,
+      239,
+      251,
+      257
+    ],
+    "residue_pairs": 581528
+  },
+  "normalization_units": {
+    "passed": true,
+    "q_max": 5000,
+    "q_min": 1
+  },
+  "occupancy_vs_norm": {
+    "passed": true,
+    "q_1_mod_3_min": 1,
+    "q_max": 199,
+    "results": [
+      {
+        "q": 1,
+        "vectors": 3
+      },
+      {
+        "q": 4,
+        "vectors": 3
+      },
+      {
+        "q": 7,
+        "vectors": 6
+      },
+      {
+        "q": 10,
+        "vectors": 0
+      },
+      {
+        "q": 13,
+        "vectors": 6
+      },
+      {
+        "q": 16,
+        "vectors": 3
+      },
+      {
+        "q": 19,
+        "vectors": 6
+      },
+      {
+        "q": 22,
+        "vectors": 0
+      },
+      {
+        "q": 25,
+        "vectors": 3
+      },
+      {
+        "q": 28,
+        "vectors": 6
+      },
+      {
+        "q": 31,
+        "vectors": 6
+      },
+      {
+        "q": 34,
+        "vectors": 0
+      },
+      {
+        "q": 37,
+        "vectors": 6
+      },
+      {
+        "q": 40,
+        "vectors": 0
+      },
+      {
+        "q": 43,
+        "vectors": 6
+      },
+      {
+        "q": 46,
+        "vectors": 0
+      },
+      {
+        "q": 49,
+        "vectors": 9
+      },
+      {
+        "q": 52,
+        "vectors": 6
+      },
+      {
+        "q": 55,
+        "vectors": 0
+      },
+      {
+        "q": 58,
+        "vectors": 0
+      },
+      {
+        "q": 61,
+        "vectors": 6
+      },
+      {
+        "q": 64,
+        "vectors": 3
+      },
+      {
+        "q": 67,
+        "vectors": 6
+      },
+      {
+        "q": 70,
+        "vectors": 0
+      },
+      {
+        "q": 73,
+        "vectors": 6
+      },
+      {
+        "q": 76,
+        "vectors": 6
+      },
+      {
+        "q": 79,
+        "vectors": 6
+      },
+      {
+        "q": 82,
+        "vectors": 0
+      },
+      {
+        "q": 85,
+        "vectors": 0
+      },
+      {
+        "q": 88,
+        "vectors": 0
+      },
+      {
+        "q": 91,
+        "vectors": 12
+      },
+      {
+        "q": 94,
+        "vectors": 0
+      },
+      {
+        "q": 97,
+        "vectors": 6
+      },
+      {
+        "q": 100,
+        "vectors": 3
+      },
+      {
+        "q": 103,
+        "vectors": 6
+      },
+      {
+        "q": 106,
+        "vectors": 0
+      },
+      {
+        "q": 109,
+        "vectors": 6
+      },
+      {
+        "q": 112,
+        "vectors": 6
+      },
+      {
+        "q": 115,
+        "vectors": 0
+      },
+      {
+        "q": 118,
+        "vectors": 0
+      },
+      {
+        "q": 121,
+        "vectors": 3
+      },
+      {
+        "q": 124,
+        "vectors": 6
+      },
+      {
+        "q": 127,
+        "vectors": 6
+      },
+      {
+        "q": 130,
+        "vectors": 0
+      },
+      {
+        "q": 133,
+        "vectors": 12
+      },
+      {
+        "q": 136,
+        "vectors": 0
+      },
+      {
+        "q": 139,
+        "vectors": 6
+      },
+      {
+        "q": 142,
+        "vectors": 0
+      },
+      {
+        "q": 145,
+        "vectors": 0
+      },
+      {
+        "q": 148,
+        "vectors": 6
+      },
+      {
+        "q": 151,
+        "vectors": 6
+      },
+      {
+        "q": 154,
+        "vectors": 0
+      },
+      {
+        "q": 157,
+        "vectors": 6
+      },
+      {
+        "q": 160,
+        "vectors": 0
+      },
+      {
+        "q": 163,
+        "vectors": 6
+      },
+      {
+        "q": 166,
+        "vectors": 0
+      },
+      {
+        "q": 169,
+        "vectors": 9
+      },
+      {
+        "q": 172,
+        "vectors": 6
+      },
+      {
+        "q": 175,
+        "vectors": 6
+      },
+      {
+        "q": 178,
+        "vectors": 0
+      },
+      {
+        "q": 181,
+        "vectors": 6
+      },
+      {
+        "q": 184,
+        "vectors": 0
+      },
+      {
+        "q": 187,
+        "vectors": 0
+      },
+      {
+        "q": 190,
+        "vectors": 0
+      },
+      {
+        "q": 193,
+        "vectors": 6
+      },
+      {
+        "q": 196,
+        "vectors": 9
+      },
+      {
+        "q": 199,
+        "vectors": 6
+      }
+    ]
+  },
+  "python": "3.12.14",
+  "quotient_contraction": {
+    "divisor_cases": 240,
+    "passed": true,
+    "q": [
+      6,
+      10,
+      12,
+      28,
+      55
+    ],
+    "random_subsets_per_q": 12
+  },
+  "recorded_utc": "2026-10-16T16:07:20.681600+00:00",
+  "residual_orbits": [
+    {
+      "histogram": {
+        "1": 1,
+        "117": 56,
+        "144": 4,
+        "1872": 2016
+      },
+      "matches_saved": true,
+      "q": 1944,
+      "size_reachable": false,
+      "strata": {
+        "1": {
+          "count": 1,
+          "length": 1
+        },
+        "577": {
+          "count": 4,
+          "length": 144
+        },
+        "6553": {
+          "count": 56,
+          "length": 117
+        },
+        "3781081": {
+          "count": 2016,
+          "length": 1872
+        }
+      },
+      "v": 3781081,
+      "v_factors": {
+        "577": 1,
+        "6553": 1
+      }
+    },
+    {
+      "histogram": {
+        "1": 1,
+        "12": 1,
+        "36": 1,
+        "60": 1,
+        "180": 1,
+        "216": 2,
+        "360": 2,
+        "540": 8,
+        "1080": 4912
+      },
+      "matches_saved": true,
+      "q": 2304,
+      "size_reachable": true,
+      "strata": {
+        "1": {
+          "count": 1,
+          "length": 1
+        },
+        "13": {
+          "count": 1,
+          "length": 12
+        },
+        "37": {
+          "count": 1,
+          "length": 36
+        },
+        "61": {
+          "count": 1,
+          "length": 60
+        },
+        "181": {
+          "count": 1,
+          "length": 180
+        },
+        "481": {
+          "count": 2,
+          "length": 216
+        },
+        "793": {
+          "count": 2,
+          "length": 360
+        },
+        "2257": {
+          "count": 4,
+          "length": 540
+        },
+        "2353": {
+          "count": 4,
+          "length": 540
+        },
+        "6697": {
+          "count": 6,
+          "length": 1080
+        },
+        "11041": {
+          "count": 10,
+          "length": 1080
+        },
+        "29341": {
+          "count": 24,
+          "length": 1080
+        },
+        "87061": {
+          "count": 72,
+          "length": 1080
+        },
+        "143533": {
+          "count": 120,
+          "length": 1080
+        },
+        "408517": {
+          "count": 360,
+          "length": 1080
+        },
+        "5310721": {
+          "count": 4320,
+          "length": 1080
+        }
+      },
+      "v": 5310721,
+      "v_factors": {
+        "13": 1,
+        "37": 1,
+        "61": 1,
+        "181": 1
+      }
+    },
+    {
+      "histogram": {
+        "1": 1,
+        "435": 13636
+      },
+      "matches_saved": true,
+      "q": 2435,
+      "size_reachable": false,
+      "strata": {
+        "1": {
+          "count": 1,
+          "length": 1
+        },
+        "5931661": {
+          "count": 13636,
+          "length": 435
+        }
+      },
+      "v": 5931661,
+      "v_factors": {
+        "5931661": 1
+      }
+    }
+  ],
+  "seed": 20201016,
+  "square_descent_arithmetic": {
+    "m": 48,
+    "m_not_three": true,
+    "m_squared_equals_q": true,
+    "q": 2304,
+    "three_divides_m_once": true
+  },
+  "warning": "Finite evidence only. No preliminary construction or unrestricted proof."
+}

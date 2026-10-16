@@ -1,0 +1,4169 @@
+{
+  "status": "candidate finite obstruction extraction; constructor post-check only",
+  "input_hashes": {
+    "owner-J16-Hensel-v2-certificates.jsonl": "e5f4ebc407434d8337d108e95807140887f00eab8cc7ced06d26341405124c94",
+    "owner-J16-Hensel-v1-postcheck-result.json": "6eee254cd548d78c68c02348945fac4b42dffeea78f7c622da23019561c27f0b"
+  },
+  "chain": [
+    90,
+    14,
+    0
+  ],
+  "rows": 104,
+  "histogram": {
+    "precision4_obstructionTrue": 76,
+    "precision4_obstructionFalse": 14,
+    "precision5_obstructionTrue": 14
+  },
+  "certificates": [
+    {
+      "key": [
+        51495,
+        73752,
+        704,
+        1,
+        42505,
+        122059
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          17,
+          5
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          17,
+          6
+        ]
+      ],
+      "constants": [
+        0,
+        3,
+        11
+      ],
+      "left_kernel": [
+        0,
+        2,
+        0
+      ],
+      "obstruction_mod19": 6,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        51495,
+        704,
+        73752,
+        1,
+        122059,
+        42505
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          5,
+          17
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          6,
+          17
+        ]
+      ],
+      "constants": [
+        0,
+        3,
+        11
+      ],
+      "left_kernel": [
+        0,
+        17,
+        0
+      ],
+      "obstruction_mod19": 13,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        55584,
+        1089,
+        66052,
+        1,
+        129254,
+        62945
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          2,
+          13
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          17,
+          3
+        ]
+      ],
+      "constants": [
+        2,
+        14,
+        2
+      ],
+      "left_kernel": [
+        0,
+        6,
+        0
+      ],
+      "obstruction_mod19": 8,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        55584,
+        1105,
+        66052,
+        1,
+        129254,
+        62945
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          2,
+          13
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          17,
+          3
+        ]
+      ],
+      "constants": [
+        0,
+        14,
+        5
+      ],
+      "left_kernel": [
+        0,
+        6,
+        0
+      ],
+      "obstruction_mod19": 8,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        55584,
+        1089,
+        66068,
+        1,
+        129254,
+        62945
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          2,
+          13
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          17,
+          3
+        ]
+      ],
+      "constants": [
+        2,
+        14,
+        2
+      ],
+      "left_kernel": [
+        0,
+        6,
+        0
+      ],
+      "obstruction_mod19": 8,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        55584,
+        1097,
+        66052,
+        1,
+        94959,
+        110958
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          2,
+          13
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          17,
+          3
+        ]
+      ],
+      "constants": [
+        10,
+        1,
+        10
+      ],
+      "left_kernel": [
+        0,
+        6,
+        0
+      ],
+      "obstruction_mod19": 6,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        55584,
+        1113,
+        66052,
+        1,
+        94959,
+        110958
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          2,
+          13
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          17,
+          3
+        ]
+      ],
+      "constants": [
+        14,
+        1,
+        4
+      ],
+      "left_kernel": [
+        0,
+        6,
+        0
+      ],
+      "obstruction_mod19": 6,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        55584,
+        1097,
+        66068,
+        1,
+        94959,
+        110958
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          2,
+          13
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          17,
+          3
+        ]
+      ],
+      "constants": [
+        14,
+        1,
+        4
+      ],
+      "left_kernel": [
+        0,
+        6,
+        0
+      ],
+      "obstruction_mod19": 6,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        55584,
+        1089,
+        66060,
+        1,
+        122395,
+        124676
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          2,
+          13
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          17,
+          3
+        ]
+      ],
+      "constants": [
+        11,
+        0,
+        4
+      ],
+      "left_kernel": [
+        0,
+        6,
+        0
+      ],
+      "obstruction_mod19": 0,
+      "digits": [
+        [
+          0,
+          5
+        ]
+      ],
+      "children": [
+        [
+          55584,
+          1089,
+          66060,
+          1,
+          122395,
+          776281
+        ]
+      ]
+    },
+    {
+      "key": [
+        55584,
+        1105,
+        66060,
+        1,
+        122395,
+        124676
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          2,
+          13
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          17,
+          3
+        ]
+      ],
+      "constants": [
+        14,
+        0,
+        9
+      ],
+      "left_kernel": [
+        0,
+        6,
+        0
+      ],
+      "obstruction_mod19": 0,
+      "digits": [
+        [
+          16,
+          14
+        ]
+      ],
+      "children": [
+        [
+          55584,
+          1105,
+          66060,
+          1,
+          2207531,
+          1949170
+        ]
+      ]
+    },
+    {
+      "key": [
+        55584,
+        1089,
+        66076,
+        1,
+        122395,
+        124676
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          2,
+          13
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          17,
+          3
+        ]
+      ],
+      "constants": [
+        8,
+        0,
+        18
+      ],
+      "left_kernel": [
+        0,
+        6,
+        0
+      ],
+      "obstruction_mod19": 0,
+      "digits": [
+        [
+          3,
+          15
+        ]
+      ],
+      "children": [
+        [
+          55584,
+          1089,
+          66076,
+          1,
+          513358,
+          2079491
+        ]
+      ]
+    },
+    {
+      "key": [
+        55584,
+        65537,
+        1216,
+        1,
+        79513,
+        37503
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          12,
+          9
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          11,
+          18
+        ]
+      ],
+      "constants": [
+        11,
+        16,
+        17
+      ],
+      "left_kernel": [
+        0,
+        16,
+        0
+      ],
+      "obstruction_mod19": 9,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        55584,
+        65553,
+        1216,
+        1,
+        79513,
+        37503
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          12,
+          9
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          11,
+          18
+        ]
+      ],
+      "constants": [
+        12,
+        16,
+        6
+      ],
+      "left_kernel": [
+        0,
+        16,
+        0
+      ],
+      "obstruction_mod19": 9,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        55584,
+        65537,
+        1232,
+        1,
+        79513,
+        37503
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          12,
+          9
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          11,
+          18
+        ]
+      ],
+      "constants": [
+        4,
+        16,
+        18
+      ],
+      "left_kernel": [
+        0,
+        16,
+        0
+      ],
+      "obstruction_mod19": 9,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        55584,
+        65545,
+        1216,
+        1,
+        4064,
+        99234
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          12,
+          9
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          11,
+          18
+        ]
+      ],
+      "constants": [
+        11,
+        0,
+        3
+      ],
+      "left_kernel": [
+        0,
+        16,
+        0
+      ],
+      "obstruction_mod19": 0,
+      "digits": [
+        [
+          0,
+          3
+        ]
+      ],
+      "children": [
+        [
+          55584,
+          65545,
+          1216,
+          1,
+          4064,
+          490197
+        ]
+      ]
+    },
+    {
+      "key": [
+        55584,
+        65561,
+        1216,
+        1,
+        4064,
+        99234
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          12,
+          9
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          11,
+          18
+        ]
+      ],
+      "constants": [
+        13,
+        0,
+        0
+      ],
+      "left_kernel": [
+        0,
+        16,
+        0
+      ],
+      "obstruction_mod19": 0,
+      "digits": [
+        [
+          17,
+          16
+        ]
+      ],
+      "children": [
+        [
+          55584,
+          65561,
+          1216,
+          1,
+          2219521,
+          2184370
+        ]
+      ]
+    },
+    {
+      "key": [
+        55584,
+        65545,
+        1232,
+        1,
+        4064,
+        99234
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          12,
+          9
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          11,
+          18
+        ]
+      ],
+      "constants": [
+        15,
+        0,
+        16
+      ],
+      "left_kernel": [
+        0,
+        16,
+        0
+      ],
+      "obstruction_mod19": 0,
+      "digits": [
+        [
+          15,
+          10
+        ]
+      ],
+      "children": [
+        [
+          55584,
+          65545,
+          1232,
+          1,
+          1958879,
+          1402444
+        ]
+      ]
+    },
+    {
+      "key": [
+        55584,
+        65537,
+        1224,
+        1,
+        38359,
+        23785
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          12,
+          9
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          11,
+          18
+        ]
+      ],
+      "constants": [
+        11,
+        9,
+        1
+      ],
+      "left_kernel": [
+        0,
+        16,
+        0
+      ],
+      "obstruction_mod19": 11,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        55584,
+        65553,
+        1224,
+        1,
+        38359,
+        23785
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          12,
+          9
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          11,
+          18
+        ]
+      ],
+      "constants": [
+        16,
+        9,
+        3
+      ],
+      "left_kernel": [
+        0,
+        16,
+        0
+      ],
+      "obstruction_mod19": 11,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        55584,
+        65537,
+        1240,
+        1,
+        38359,
+        23785
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          12,
+          9
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          11,
+          18
+        ]
+      ],
+      "constants": [
+        10,
+        9,
+        12
+      ],
+      "left_kernel": [
+        0,
+        16,
+        0
+      ],
+      "obstruction_mod19": 11,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        55584,
+        1216,
+        65537,
+        1,
+        37503,
+        79513
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          9,
+          12
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          18,
+          11
+        ]
+      ],
+      "constants": [
+        11,
+        16,
+        17
+      ],
+      "left_kernel": [
+        0,
+        3,
+        0
+      ],
+      "obstruction_mod19": 10,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        55584,
+        1232,
+        65537,
+        1,
+        37503,
+        79513
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          9,
+          12
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          18,
+          11
+        ]
+      ],
+      "constants": [
+        4,
+        16,
+        18
+      ],
+      "left_kernel": [
+        0,
+        3,
+        0
+      ],
+      "obstruction_mod19": 10,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        55584,
+        1216,
+        65553,
+        1,
+        37503,
+        79513
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          9,
+          12
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          18,
+          11
+        ]
+      ],
+      "constants": [
+        12,
+        16,
+        6
+      ],
+      "left_kernel": [
+        0,
+        3,
+        0
+      ],
+      "obstruction_mod19": 10,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        55584,
+        1224,
+        65537,
+        1,
+        23785,
+        38359
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          9,
+          12
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          18,
+          11
+        ]
+      ],
+      "constants": [
+        11,
+        9,
+        1
+      ],
+      "left_kernel": [
+        0,
+        3,
+        0
+      ],
+      "obstruction_mod19": 8,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        55584,
+        1240,
+        65537,
+        1,
+        23785,
+        38359
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          9,
+          12
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          18,
+          11
+        ]
+      ],
+      "constants": [
+        10,
+        9,
+        12
+      ],
+      "left_kernel": [
+        0,
+        3,
+        0
+      ],
+      "obstruction_mod19": 8,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        55584,
+        1224,
+        65553,
+        1,
+        23785,
+        38359
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          9,
+          12
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          18,
+          11
+        ]
+      ],
+      "constants": [
+        16,
+        9,
+        3
+      ],
+      "left_kernel": [
+        0,
+        3,
+        0
+      ],
+      "obstruction_mod19": 8,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        55584,
+        1216,
+        65545,
+        1,
+        99234,
+        4064
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          9,
+          12
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          18,
+          11
+        ]
+      ],
+      "constants": [
+        11,
+        0,
+        3
+      ],
+      "left_kernel": [
+        0,
+        3,
+        0
+      ],
+      "obstruction_mod19": 0,
+      "digits": [
+        [
+          3,
+          0
+        ]
+      ],
+      "children": [
+        [
+          55584,
+          1216,
+          65545,
+          1,
+          490197,
+          4064
+        ]
+      ]
+    },
+    {
+      "key": [
+        55584,
+        1232,
+        65545,
+        1,
+        99234,
+        4064
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          9,
+          12
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          18,
+          11
+        ]
+      ],
+      "constants": [
+        15,
+        0,
+        16
+      ],
+      "left_kernel": [
+        0,
+        3,
+        0
+      ],
+      "obstruction_mod19": 0,
+      "digits": [
+        [
+          10,
+          15
+        ]
+      ],
+      "children": [
+        [
+          55584,
+          1232,
+          65545,
+          1,
+          1402444,
+          1958879
+        ]
+      ]
+    },
+    {
+      "key": [
+        55584,
+        1216,
+        65561,
+        1,
+        99234,
+        4064
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          9,
+          12
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          18,
+          11
+        ]
+      ],
+      "constants": [
+        13,
+        0,
+        0
+      ],
+      "left_kernel": [
+        0,
+        3,
+        0
+      ],
+      "obstruction_mod19": 0,
+      "digits": [
+        [
+          16,
+          17
+        ]
+      ],
+      "children": [
+        [
+          55584,
+          1216,
+          65561,
+          1,
+          2184370,
+          2219521
+        ]
+      ]
+    },
+    {
+      "key": [
+        55584,
+        66052,
+        1089,
+        1,
+        62945,
+        129254
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          13,
+          2
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          3,
+          17
+        ]
+      ],
+      "constants": [
+        2,
+        14,
+        2
+      ],
+      "left_kernel": [
+        0,
+        13,
+        0
+      ],
+      "obstruction_mod19": 11,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        55584,
+        66068,
+        1089,
+        1,
+        62945,
+        129254
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          13,
+          2
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          3,
+          17
+        ]
+      ],
+      "constants": [
+        2,
+        14,
+        2
+      ],
+      "left_kernel": [
+        0,
+        13,
+        0
+      ],
+      "obstruction_mod19": 11,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        55584,
+        66052,
+        1105,
+        1,
+        62945,
+        129254
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          13,
+          2
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          3,
+          17
+        ]
+      ],
+      "constants": [
+        0,
+        14,
+        5
+      ],
+      "left_kernel": [
+        0,
+        13,
+        0
+      ],
+      "obstruction_mod19": 11,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        55584,
+        66060,
+        1089,
+        1,
+        124676,
+        122395
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          13,
+          2
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          3,
+          17
+        ]
+      ],
+      "constants": [
+        11,
+        0,
+        4
+      ],
+      "left_kernel": [
+        0,
+        13,
+        0
+      ],
+      "obstruction_mod19": 0,
+      "digits": [
+        [
+          5,
+          0
+        ]
+      ],
+      "children": [
+        [
+          55584,
+          66060,
+          1089,
+          1,
+          776281,
+          122395
+        ]
+      ]
+    },
+    {
+      "key": [
+        55584,
+        66076,
+        1089,
+        1,
+        124676,
+        122395
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          13,
+          2
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          3,
+          17
+        ]
+      ],
+      "constants": [
+        8,
+        0,
+        18
+      ],
+      "left_kernel": [
+        0,
+        13,
+        0
+      ],
+      "obstruction_mod19": 0,
+      "digits": [
+        [
+          15,
+          3
+        ]
+      ],
+      "children": [
+        [
+          55584,
+          66076,
+          1089,
+          1,
+          2079491,
+          513358
+        ]
+      ]
+    },
+    {
+      "key": [
+        55584,
+        66060,
+        1105,
+        1,
+        124676,
+        122395
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          13,
+          2
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          3,
+          17
+        ]
+      ],
+      "constants": [
+        14,
+        0,
+        9
+      ],
+      "left_kernel": [
+        0,
+        13,
+        0
+      ],
+      "obstruction_mod19": 0,
+      "digits": [
+        [
+          14,
+          16
+        ]
+      ],
+      "children": [
+        [
+          55584,
+          66060,
+          1105,
+          1,
+          1949170,
+          2207531
+        ]
+      ]
+    },
+    {
+      "key": [
+        55584,
+        66052,
+        1097,
+        1,
+        110958,
+        94959
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          13,
+          2
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          3,
+          17
+        ]
+      ],
+      "constants": [
+        10,
+        1,
+        10
+      ],
+      "left_kernel": [
+        0,
+        13,
+        0
+      ],
+      "obstruction_mod19": 13,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        55584,
+        66068,
+        1097,
+        1,
+        110958,
+        94959
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          13,
+          2
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          3,
+          17
+        ]
+      ],
+      "constants": [
+        14,
+        1,
+        4
+      ],
+      "left_kernel": [
+        0,
+        13,
+        0
+      ],
+      "obstruction_mod19": 13,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        55584,
+        66052,
+        1113,
+        1,
+        110958,
+        94959
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          13,
+          2
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          3,
+          17
+        ]
+      ],
+      "constants": [
+        14,
+        1,
+        4
+      ],
+      "left_kernel": [
+        0,
+        13,
+        0
+      ],
+      "obstruction_mod19": 13,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        56407,
+        544,
+        65536,
+        1,
+        18181,
+        47980
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          11,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          16,
+          13
+        ]
+      ],
+      "constants": [
+        8,
+        3,
+        4
+      ],
+      "left_kernel": [
+        0,
+        9,
+        0
+      ],
+      "obstruction_mod19": 8,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        56407,
+        32,
+        66048,
+        1,
+        38758,
+        6826
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          11,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          16,
+          13
+        ]
+      ],
+      "constants": [
+        6,
+        7,
+        18
+      ],
+      "left_kernel": [
+        0,
+        9,
+        0
+      ],
+      "obstruction_mod19": 6,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        56407,
+        66048,
+        32,
+        1,
+        6826,
+        38758
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          0,
+          11
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          13,
+          16
+        ]
+      ],
+      "constants": [
+        6,
+        7,
+        18
+      ],
+      "left_kernel": [
+        0,
+        10,
+        0
+      ],
+      "obstruction_mod19": 13,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        56407,
+        65536,
+        544,
+        1,
+        47980,
+        18181
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          0,
+          11
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          13,
+          16
+        ]
+      ],
+      "constants": [
+        8,
+        3,
+        4
+      ],
+      "left_kernel": [
+        0,
+        10,
+        0
+      ],
+      "obstruction_mod19": 11,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        58480,
+        388,
+        69632,
+        1,
+        31203,
+        59980
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          4,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          17,
+          12
+        ]
+      ],
+      "constants": [
+        7,
+        5,
+        0
+      ],
+      "left_kernel": [
+        0,
+        9,
+        0
+      ],
+      "obstruction_mod19": 7,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        58480,
+        396,
+        69632,
+        1,
+        113511,
+        80557
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          4,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          17,
+          12
+        ]
+      ],
+      "constants": [
+        11,
+        8,
+        17
+      ],
+      "left_kernel": [
+        0,
+        9,
+        0
+      ],
+      "obstruction_mod19": 15,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        58480,
+        388,
+        69640,
+        1,
+        86075,
+        73698
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          4,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          17,
+          12
+        ]
+      ],
+      "constants": [
+        14,
+        7,
+        14
+      ],
+      "left_kernel": [
+        0,
+        9,
+        0
+      ],
+      "obstruction_mod19": 6,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        58480,
+        384,
+        69636,
+        1,
+        120370,
+        80557
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          4,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          17,
+          12
+        ]
+      ],
+      "constants": [
+        11,
+        16,
+        13
+      ],
+      "left_kernel": [
+        0,
+        9,
+        0
+      ],
+      "obstruction_mod19": 11,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        58480,
+        392,
+        69636,
+        1,
+        72357,
+        101134
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          4,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          17,
+          12
+        ]
+      ],
+      "constants": [
+        18,
+        0,
+        10
+      ],
+      "left_kernel": [
+        0,
+        9,
+        0
+      ],
+      "obstruction_mod19": 0,
+      "digits": [
+        [
+          5,
+          0
+        ]
+      ],
+      "children": [
+        [
+          58480,
+          392,
+          69636,
+          1,
+          723962,
+          101134
+        ]
+      ]
+    },
+    {
+      "key": [
+        58480,
+        384,
+        69644,
+        1,
+        44921,
+        94275
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          4,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          17,
+          12
+        ]
+      ],
+      "constants": [
+        6,
+        18,
+        8
+      ],
+      "left_kernel": [
+        0,
+        9,
+        0
+      ],
+      "obstruction_mod19": 10,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        58480,
+        69636,
+        384,
+        1,
+        80557,
+        120370
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          0,
+          4
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          12,
+          17
+        ]
+      ],
+      "constants": [
+        11,
+        16,
+        13
+      ],
+      "left_kernel": [
+        0,
+        10,
+        0
+      ],
+      "obstruction_mod19": 8,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        58480,
+        69644,
+        384,
+        1,
+        94275,
+        44921
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          0,
+          4
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          12,
+          17
+        ]
+      ],
+      "constants": [
+        6,
+        18,
+        8
+      ],
+      "left_kernel": [
+        0,
+        10,
+        0
+      ],
+      "obstruction_mod19": 9,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        58480,
+        69636,
+        392,
+        1,
+        101134,
+        72357
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          0,
+          4
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          12,
+          17
+        ]
+      ],
+      "constants": [
+        18,
+        0,
+        10
+      ],
+      "left_kernel": [
+        0,
+        10,
+        0
+      ],
+      "obstruction_mod19": 0,
+      "digits": [
+        [
+          0,
+          5
+        ]
+      ],
+      "children": [
+        [
+          58480,
+          69636,
+          392,
+          1,
+          101134,
+          723962
+        ]
+      ]
+    },
+    {
+      "key": [
+        58480,
+        69632,
+        388,
+        1,
+        59980,
+        31203
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          0,
+          4
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          12,
+          17
+        ]
+      ],
+      "constants": [
+        7,
+        5,
+        0
+      ],
+      "left_kernel": [
+        0,
+        10,
+        0
+      ],
+      "obstruction_mod19": 12,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        58480,
+        69640,
+        388,
+        1,
+        73698,
+        86075
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          0,
+          4
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          12,
+          17
+        ]
+      ],
+      "constants": [
+        14,
+        7,
+        14
+      ],
+      "left_kernel": [
+        0,
+        10,
+        0
+      ],
+      "obstruction_mod19": 13,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        58480,
+        69632,
+        396,
+        1,
+        80557,
+        113511
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          0,
+          4
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          12,
+          17
+        ]
+      ],
+      "constants": [
+        11,
+        8,
+        17
+      ],
+      "left_kernel": [
+        0,
+        10,
+        0
+      ],
+      "obstruction_mod19": 4,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        58480,
+        131,
+        69888,
+        1,
+        122164,
+        89201
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          3,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          6,
+          12
+        ]
+      ],
+      "constants": [
+        9,
+        4,
+        2
+      ],
+      "left_kernel": [
+        0,
+        2,
+        0
+      ],
+      "obstruction_mod19": 8,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        58480,
+        139,
+        69888,
+        1,
+        81010,
+        123496
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          3,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          6,
+          12
+        ]
+      ],
+      "constants": [
+        3,
+        12,
+        1
+      ],
+      "left_kernel": [
+        0,
+        2,
+        0
+      ],
+      "obstruction_mod19": 5,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        58480,
+        131,
+        69896,
+        1,
+        87869,
+        96060
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          3,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          6,
+          12
+        ]
+      ],
+      "constants": [
+        4,
+        17,
+        15
+      ],
+      "left_kernel": [
+        0,
+        2,
+        0
+      ],
+      "obstruction_mod19": 15,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        58480,
+        135,
+        70400,
+        1,
+        101226,
+        66097
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          3,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          6,
+          12
+        ]
+      ],
+      "constants": [
+        17,
+        16,
+        14
+      ],
+      "left_kernel": [
+        0,
+        2,
+        0
+      ],
+      "obstruction_mod19": 13,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        58480,
+        143,
+        70400,
+        1,
+        114944,
+        11225
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          3,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          6,
+          12
+        ]
+      ],
+      "constants": [
+        9,
+        7,
+        11
+      ],
+      "left_kernel": [
+        0,
+        2,
+        0
+      ],
+      "obstruction_mod19": 14,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        58480,
+        135,
+        70408,
+        1,
+        60072,
+        100392
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          3,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          6,
+          12
+        ]
+      ],
+      "constants": [
+        9,
+        5,
+        3
+      ],
+      "left_kernel": [
+        0,
+        2,
+        0
+      ],
+      "obstruction_mod19": 10,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        58480,
+        66049,
+        386,
+        1,
+        111116,
+        34282
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          18,
+          4
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          17
+        ]
+      ],
+      "constants": [
+        16,
+        18,
+        3
+      ],
+      "left_kernel": [
+        0,
+        2,
+        0
+      ],
+      "obstruction_mod19": 17,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        58480,
+        66057,
+        386,
+        1,
+        49385,
+        41141
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          18,
+          4
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          17
+        ]
+      ],
+      "constants": [
+        17,
+        9,
+        12
+      ],
+      "left_kernel": [
+        0,
+        2,
+        0
+      ],
+      "obstruction_mod19": 18,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        58480,
+        66049,
+        394,
+        1,
+        90539,
+        123449
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          18,
+          4
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          17
+        ]
+      ],
+      "constants": [
+        2,
+        15,
+        2
+      ],
+      "left_kernel": [
+        0,
+        2,
+        0
+      ],
+      "obstruction_mod19": 11,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        58480,
+        66049,
+        390,
+        1,
+        63103,
+        48000
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          18,
+          4
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          17
+        ]
+      ],
+      "constants": [
+        18,
+        5,
+        10
+      ],
+      "left_kernel": [
+        0,
+        2,
+        0
+      ],
+      "obstruction_mod19": 10,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        58480,
+        66057,
+        390,
+        1,
+        1372,
+        54859
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          18,
+          4
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          17
+        ]
+      ],
+      "constants": [
+        6,
+        15,
+        11
+      ],
+      "left_kernel": [
+        0,
+        2,
+        0
+      ],
+      "obstruction_mod19": 11,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        58480,
+        66049,
+        398,
+        1,
+        42526,
+        6846
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          18,
+          4
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          17
+        ]
+      ],
+      "constants": [
+        9,
+        2,
+        18
+      ],
+      "left_kernel": [
+        0,
+        2,
+        0
+      ],
+      "obstruction_mod19": 4,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        58480,
+        386,
+        66049,
+        1,
+        34282,
+        111116
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          4,
+          18
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          17,
+          1
+        ]
+      ],
+      "constants": [
+        16,
+        18,
+        3
+      ],
+      "left_kernel": [
+        0,
+        17,
+        0
+      ],
+      "obstruction_mod19": 2,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        58480,
+        394,
+        66049,
+        1,
+        123449,
+        90539
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          4,
+          18
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          17,
+          1
+        ]
+      ],
+      "constants": [
+        2,
+        15,
+        2
+      ],
+      "left_kernel": [
+        0,
+        17,
+        0
+      ],
+      "obstruction_mod19": 8,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        58480,
+        386,
+        66057,
+        1,
+        41141,
+        49385
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          4,
+          18
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          17,
+          1
+        ]
+      ],
+      "constants": [
+        17,
+        9,
+        12
+      ],
+      "left_kernel": [
+        0,
+        17,
+        0
+      ],
+      "obstruction_mod19": 1,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        58480,
+        390,
+        66049,
+        1,
+        48000,
+        63103
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          4,
+          18
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          17,
+          1
+        ]
+      ],
+      "constants": [
+        18,
+        5,
+        10
+      ],
+      "left_kernel": [
+        0,
+        17,
+        0
+      ],
+      "obstruction_mod19": 9,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        58480,
+        398,
+        66049,
+        1,
+        6846,
+        42526
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          4,
+          18
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          17,
+          1
+        ]
+      ],
+      "constants": [
+        9,
+        2,
+        18
+      ],
+      "left_kernel": [
+        0,
+        17,
+        0
+      ],
+      "obstruction_mod19": 15,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        58480,
+        390,
+        66057,
+        1,
+        54859,
+        1372
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          4,
+          18
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          17,
+          1
+        ]
+      ],
+      "constants": [
+        6,
+        15,
+        11
+      ],
+      "left_kernel": [
+        0,
+        17,
+        0
+      ],
+      "obstruction_mod19": 8,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        58480,
+        69888,
+        131,
+        1,
+        89201,
+        122164
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          12,
+          6
+        ]
+      ],
+      "constants": [
+        9,
+        4,
+        2
+      ],
+      "left_kernel": [
+        0,
+        17,
+        0
+      ],
+      "obstruction_mod19": 11,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        58480,
+        69896,
+        131,
+        1,
+        96060,
+        87869
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          12,
+          6
+        ]
+      ],
+      "constants": [
+        4,
+        17,
+        15
+      ],
+      "left_kernel": [
+        0,
+        17,
+        0
+      ],
+      "obstruction_mod19": 4,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        58480,
+        69888,
+        139,
+        1,
+        123496,
+        81010
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          12,
+          6
+        ]
+      ],
+      "constants": [
+        3,
+        12,
+        1
+      ],
+      "left_kernel": [
+        0,
+        17,
+        0
+      ],
+      "obstruction_mod19": 14,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        58480,
+        70400,
+        135,
+        1,
+        66097,
+        101226
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          12,
+          6
+        ]
+      ],
+      "constants": [
+        17,
+        16,
+        14
+      ],
+      "left_kernel": [
+        0,
+        17,
+        0
+      ],
+      "obstruction_mod19": 6,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        58480,
+        70408,
+        135,
+        1,
+        100392,
+        60072
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          12,
+          6
+        ]
+      ],
+      "constants": [
+        9,
+        5,
+        3
+      ],
+      "left_kernel": [
+        0,
+        17,
+        0
+      ],
+      "obstruction_mod19": 9,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        58480,
+        70400,
+        143,
+        1,
+        11225,
+        114944
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          12,
+          6
+        ]
+      ],
+      "constants": [
+        9,
+        7,
+        11
+      ],
+      "left_kernel": [
+        0,
+        17,
+        0
+      ],
+      "obstruction_mod19": 5,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        58898,
+        36,
+        67656,
+        1,
+        83938,
+        55794
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          3,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          6,
+          15
+        ]
+      ],
+      "constants": [
+        0,
+        10,
+        12
+      ],
+      "left_kernel": [
+        0,
+        12,
+        0
+      ],
+      "obstruction_mod19": 6,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        58898,
+        292,
+        67656,
+        1,
+        70220,
+        96948
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          3,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          6,
+          15
+        ]
+      ],
+      "constants": [
+        15,
+        3,
+        6
+      ],
+      "left_kernel": [
+        0,
+        12,
+        0
+      ],
+      "obstruction_mod19": 17,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        58898,
+        36,
+        67912,
+        1,
+        56502,
+        7781
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          3,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          6,
+          15
+        ]
+      ],
+      "constants": [
+        12,
+        15,
+        10
+      ],
+      "left_kernel": [
+        0,
+        12,
+        0
+      ],
+      "obstruction_mod19": 9,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        58898,
+        67656,
+        36,
+        1,
+        55794,
+        83938
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          15,
+          6
+        ]
+      ],
+      "constants": [
+        0,
+        10,
+        12
+      ],
+      "left_kernel": [
+        0,
+        7,
+        0
+      ],
+      "obstruction_mod19": 13,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        58898,
+        67912,
+        36,
+        1,
+        7781,
+        56502
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          15,
+          6
+        ]
+      ],
+      "constants": [
+        12,
+        15,
+        10
+      ],
+      "left_kernel": [
+        0,
+        7,
+        0
+      ],
+      "obstruction_mod19": 10,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        58898,
+        67656,
+        292,
+        1,
+        96948,
+        70220
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          15,
+          6
+        ]
+      ],
+      "constants": [
+        15,
+        3,
+        6
+      ],
+      "left_kernel": [
+        0,
+        7,
+        0
+      ],
+      "obstruction_mod19": 2,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        59703,
+        64,
+        67200,
+        1,
+        104653,
+        42605
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          0,
+          7
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          6,
+          8
+        ]
+      ],
+      "constants": [
+        5,
+        2,
+        10
+      ],
+      "left_kernel": [
+        0,
+        4,
+        0
+      ],
+      "obstruction_mod19": 8,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        59703,
+        67200,
+        64,
+        1,
+        42605,
+        104653
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          7,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          8,
+          6
+        ]
+      ],
+      "constants": [
+        5,
+        2,
+        10
+      ],
+      "left_kernel": [
+        0,
+        15,
+        0
+      ],
+      "obstruction_mod19": 11,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        62251,
+        2052,
+        66704,
+        1,
+        12638,
+        14366
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          6,
+          11
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          2,
+          15
+        ]
+      ],
+      "constants": [
+        6,
+        8,
+        9
+      ],
+      "left_kernel": [
+        0,
+        8,
+        0
+      ],
+      "obstruction_mod19": 7,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        62251,
+        66704,
+        2052,
+        1,
+        14366,
+        12638
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          11,
+          6
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          15,
+          2
+        ]
+      ],
+      "constants": [
+        6,
+        8,
+        9
+      ],
+      "left_kernel": [
+        0,
+        11,
+        0
+      ],
+      "obstruction_mod19": 12,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        89160,
+        8707,
+        33028,
+        1,
+        56803,
+        403
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          14,
+          12
+        ],
+        [
+          18,
+          17
+        ],
+        [
+          11,
+          5
+        ]
+      ],
+      "constants": [
+        15,
+        6,
+        6
+      ],
+      "left_kernel": [
+        17,
+        5,
+        3
+      ],
+      "obstruction_mod19": 18,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        89160,
+        33028,
+        8707,
+        1,
+        403,
+        56803
+      ],
+      "input_precision": 4,
+      "matrix": [
+        [
+          12,
+          14
+        ],
+        [
+          17,
+          18
+        ],
+        [
+          5,
+          11
+        ]
+      ],
+      "constants": [
+        15,
+        6,
+        6
+      ],
+      "left_kernel": [
+        2,
+        14,
+        16
+      ],
+      "obstruction_mod19": 1,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        55584,
+        1089,
+        66060,
+        1,
+        122395,
+        776281
+      ],
+      "input_precision": 5,
+      "matrix": [
+        [
+          2,
+          13
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          17,
+          3
+        ]
+      ],
+      "constants": [
+        3,
+        15,
+        8
+      ],
+      "left_kernel": [
+        0,
+        6,
+        0
+      ],
+      "obstruction_mod19": 14,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        55584,
+        1105,
+        66060,
+        1,
+        2207531,
+        1949170
+      ],
+      "input_precision": 5,
+      "matrix": [
+        [
+          2,
+          13
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          17,
+          3
+        ]
+      ],
+      "constants": [
+        18,
+        3,
+        12
+      ],
+      "left_kernel": [
+        0,
+        6,
+        0
+      ],
+      "obstruction_mod19": 18,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        55584,
+        1089,
+        66076,
+        1,
+        513358,
+        2079491
+      ],
+      "input_precision": 5,
+      "matrix": [
+        [
+          2,
+          13
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          17,
+          3
+        ]
+      ],
+      "constants": [
+        11,
+        8,
+        12
+      ],
+      "left_kernel": [
+        0,
+        6,
+        0
+      ],
+      "obstruction_mod19": 10,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        55584,
+        65545,
+        1216,
+        1,
+        4064,
+        490197
+      ],
+      "input_precision": 5,
+      "matrix": [
+        [
+          12,
+          9
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          11,
+          18
+        ]
+      ],
+      "constants": [
+        0,
+        12,
+        9
+      ],
+      "left_kernel": [
+        0,
+        16,
+        0
+      ],
+      "obstruction_mod19": 2,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        55584,
+        65561,
+        1216,
+        1,
+        2219521,
+        2184370
+      ],
+      "input_precision": 5,
+      "matrix": [
+        [
+          12,
+          9
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          11,
+          18
+        ]
+      ],
+      "constants": [
+        1,
+        15,
+        7
+      ],
+      "left_kernel": [
+        0,
+        16,
+        0
+      ],
+      "obstruction_mod19": 12,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        55584,
+        65545,
+        1232,
+        1,
+        1958879,
+        1402444
+      ],
+      "input_precision": 5,
+      "matrix": [
+        [
+          12,
+          9
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          11,
+          18
+        ]
+      ],
+      "constants": [
+        10,
+        18,
+        18
+      ],
+      "left_kernel": [
+        0,
+        16,
+        0
+      ],
+      "obstruction_mod19": 3,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        55584,
+        1216,
+        65545,
+        1,
+        490197,
+        4064
+      ],
+      "input_precision": 5,
+      "matrix": [
+        [
+          9,
+          12
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          18,
+          11
+        ]
+      ],
+      "constants": [
+        0,
+        12,
+        9
+      ],
+      "left_kernel": [
+        0,
+        3,
+        0
+      ],
+      "obstruction_mod19": 17,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        55584,
+        1232,
+        65545,
+        1,
+        1402444,
+        1958879
+      ],
+      "input_precision": 5,
+      "matrix": [
+        [
+          9,
+          12
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          18,
+          11
+        ]
+      ],
+      "constants": [
+        10,
+        18,
+        18
+      ],
+      "left_kernel": [
+        0,
+        3,
+        0
+      ],
+      "obstruction_mod19": 16,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        55584,
+        1216,
+        65561,
+        1,
+        2184370,
+        2219521
+      ],
+      "input_precision": 5,
+      "matrix": [
+        [
+          9,
+          12
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          18,
+          11
+        ]
+      ],
+      "constants": [
+        1,
+        15,
+        7
+      ],
+      "left_kernel": [
+        0,
+        3,
+        0
+      ],
+      "obstruction_mod19": 7,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        55584,
+        66060,
+        1089,
+        1,
+        776281,
+        122395
+      ],
+      "input_precision": 5,
+      "matrix": [
+        [
+          13,
+          2
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          3,
+          17
+        ]
+      ],
+      "constants": [
+        3,
+        15,
+        8
+      ],
+      "left_kernel": [
+        0,
+        13,
+        0
+      ],
+      "obstruction_mod19": 5,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        55584,
+        66076,
+        1089,
+        1,
+        2079491,
+        513358
+      ],
+      "input_precision": 5,
+      "matrix": [
+        [
+          13,
+          2
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          3,
+          17
+        ]
+      ],
+      "constants": [
+        11,
+        8,
+        12
+      ],
+      "left_kernel": [
+        0,
+        13,
+        0
+      ],
+      "obstruction_mod19": 9,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        55584,
+        66060,
+        1105,
+        1,
+        1949170,
+        2207531
+      ],
+      "input_precision": 5,
+      "matrix": [
+        [
+          13,
+          2
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          3,
+          17
+        ]
+      ],
+      "constants": [
+        18,
+        3,
+        12
+      ],
+      "left_kernel": [
+        0,
+        13,
+        0
+      ],
+      "obstruction_mod19": 1,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        58480,
+        392,
+        69636,
+        1,
+        723962,
+        101134
+      ],
+      "input_precision": 5,
+      "matrix": [
+        [
+          4,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          17,
+          12
+        ]
+      ],
+      "constants": [
+        13,
+        7,
+        11
+      ],
+      "left_kernel": [
+        0,
+        9,
+        0
+      ],
+      "obstruction_mod19": 6,
+      "digits": [],
+      "children": []
+    },
+    {
+      "key": [
+        58480,
+        69636,
+        392,
+        1,
+        101134,
+        723962
+      ],
+      "input_precision": 5,
+      "matrix": [
+        [
+          0,
+          4
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          12,
+          17
+        ]
+      ],
+      "constants": [
+        13,
+        7,
+        11
+      ],
+      "left_kernel": [
+        0,
+        10,
+        0
+      ],
+      "obstruction_mod19": 13,
+      "digits": [],
+      "children": []
+    }
+  ],
+  "elapsed_seconds": 0.006375707976985723
+}

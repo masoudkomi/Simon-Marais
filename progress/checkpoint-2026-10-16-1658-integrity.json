@@ -1,0 +1,36 @@
+{
+  "checked_at_utc": "2026-10-16T16:58:20.628535+00:00",
+  "meaning": "coordinator byte-integrity check, not an independent mathematical audit",
+  "checks": [
+    {
+      "manifest": "problems/2020-B4/reviews/initial-review-1-manifest.json",
+      "manifest_sha256": "878524ef763b119432d92c45ac577d3b747b8899179f4e1d52085039b6c4a7b7",
+      "verified_distinct_records": 32,
+      "failures": []
+    },
+    {
+      "manifest": "problems/2020-B4/reviews/initial-review-2-manifest.json",
+      "manifest_sha256": "72371f2450a8200f1f243678a3dacf86166c33c35aa1cb6c304794a4f1d94c27",
+      "verified_distinct_records": 32,
+      "failures": []
+    },
+    {
+      "manifest": "problems/2021-B4/notes/owner-J16-Hensel-v1-manifest.json",
+      "manifest_sha256": "2f5eec6a98e0ff8c264259a508868c3d0e5f5befa8de833a9434dfd7fc069f6a",
+      "verified_distinct_records": 53,
+      "failures": []
+    },
+    {
+      "manifest": "problems/2021-B4/notes/owner-J16-Hensel-v2-manifest.json",
+      "manifest_sha256": "8b9cd2bbcf1740cb119436d58eb4a9f60dbf7afe5e9d23f077e1bc7428d75db8",
+      "verified_distinct_records": 14,
+      "failures": []
+    },
+    {
+      "manifest": "problems/2021-B4/notes/coordinator-J16-coupled-digit-candidate-v1-manifest.json",
+      "manifest_sha256": "b9e20e7634f94f2ad34055f5da2efd0460e5645d9c3d8933800bd4892321d2ad",
+      "verified_distinct_records": 46,
+      "failures": []
+    }
+  ]
+}

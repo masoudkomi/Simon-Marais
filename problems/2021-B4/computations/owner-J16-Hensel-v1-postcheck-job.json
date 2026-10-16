@@ -1,0 +1,20 @@
+{
+  "started_at_utc": "2026-10-16T16:47:03.071132+00:00",
+  "command": [
+    "/usr/local/bin/python3",
+    "-u",
+    "/Users/uqmkamga/Documents/ChatGPT/Website/problems/2021-B4/computations/owner-J16-Hensel-v1-postcheck.py",
+    "--child"
+  ],
+  "timeout_seconds": 30,
+  "status": "completed",
+  "source_sha256": "9419ab57de8b86da56d7dc6b5cbbd9995fcb2197933a8aaf47dadb07b91fefbf",
+  "pid": 50878,
+  "return_code": 0,
+  "elapsed_seconds": 0.07230033300584182,
+  "output_hashes": {
+    "owner-J16-Hensel-v1-postcheck-output.txt": "b47f220b7ec25217c0e6ecfd5efef2a162f202ab30a1f5e7ee6f19ab06343355",
+    "owner-J16-Hensel-v1-postcheck-stderr.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "owner-J16-Hensel-v1-postcheck-result.json": "6eee254cd548d78c68c02348945fac4b42dffeea78f7c622da23019561c27f0b"
+  }
+}

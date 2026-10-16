@@ -1,0 +1,102 @@
+{
+  "reviewer": "independent adversarial R2",
+  "verification_date_utc": "2026-10-16",
+  "cached_full_papers": "Ignored .cache/literature/2020/initial-review-2/ only; no redistribution licence established; do not commit PDFs",
+  "sources": [
+    {
+      "id": "official-paper-b",
+      "title": "Simon Marais Mathematics Competition 2020, Session B",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2020-paper-b_1.pdf",
+      "cache_path": ".cache/official/2020-paper_b.pdf",
+      "retrieval": "Coordinator's existing ignored official cache; independently opened official web PDF",
+      "checked": "B4(b) domain/geometry on page2, by text and own rendered B4 crop",
+      "render_path": ".cache/literature/2020/initial-review-2/official-b4.png",
+      "proof_scope": "No preliminary proof reproduced or investigated"
+    },
+    {
+      "id": "official-solutions",
+      "title": "Simon Marais Mathematics Competition 2020 solutions",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2020-solutions_1.pdf",
+      "cache_path": ".cache/official/2020-solutions.pdf",
+      "retrieval": "Existing ignored official cache; independently opened official web PDF and extracted Discussion only from page27",
+      "checked": "Cyclic difference-set reformulation and attributed Singer existence context",
+      "limitation": "No audit or reproduction of preliminary construction"
+    },
+    {
+      "id": "gordon1994",
+      "title": "The prime power conjecture is true for n < 2,000,000",
+      "author": "Daniel M. Gordon",
+      "year": 1994,
+      "doi": "10.37236/1186",
+      "url": "https://www.combinatorics.org/ojs/index.php/eljc/article/download/v1i1r6/pdf/",
+      "cache_path": ".cache/literature/2020/initial-review-2/gordon1994.pdf",
+      "retrieval": "Own curl -L --fail --silent --show-error download; succeeded",
+      "checked": "Rendered/visually inspected complete pages2-3, especially Theorems2,6,8; Theorem1 for contextual q10 nonexclusion",
+      "imports": [
+        {"theorem": "2", "use": "Prime divisors of planar abelian order q are numerical multipliers; cyclic group is abelian and gcd(q,v)=1"},
+        {"theorem": "6", "use": "Square descent from order m^2 to order m in a subgroup; candidate restricts to abelian/cyclic groups"},
+        {"theorem": "8", "use": "Order divisible by 3 is 3 or a multiple of 9; order 48 contradicts this"}
+      ],
+      "limitation": "Directly checked published restatement, not original proof of Hall/Jungnickel-Vedder/Wilbrink results; no new certification of published finite verification range"
+    },
+    {
+      "id": "jungnickel-vedder1984",
+      "title": "On the Geometry of Planar Difference Sets",
+      "authors": ["Dieter Jungnickel", "Klaus Vedder"],
+      "year": 1984,
+      "doi": "10.1016/S0195-6698(84)80028-1",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0195669884800281",
+      "checked": "Primary publisher abstract via web search: abelian setting and even-order restriction",
+      "failed_fulltext_url": "https://www.sciencedirect.com/science/article/pii/S0195669884800281/pdf",
+      "fulltext_status": "curl HTTP403; direct web page also403; not bypassed",
+      "square_descent_statement": "Checked in Gordon1994 Theorem6, which attributes it to this source",
+      "limitation": "Original square-descent statement page and proof not directly inspected"
+    },
+    {
+      "id": "wilbrink1985",
+      "title": "A note on planar difference sets",
+      "author": "H. A. Wilbrink",
+      "year": 1985,
+      "doi": "10.1016/0097-3165(85)90028-7",
+      "url": "https://www.sciencedirect.com/science/article/pii/0097316585900287",
+      "checked": "Primary publisher abstract via web search: for abelian regular plane group and p dividing the order exactly once, p=2 or 3 forces order p",
+      "failed_fulltext_url": "https://www.sciencedirect.com/science/article/pii/0097316585900287/pdf",
+      "fulltext_status": "curl HTTP403; direct web page also403; not bypassed",
+      "statement_crosscheck": "Gordon1994 Theorem8",
+      "limitation": "Original proof not directly inspected"
+    },
+    {
+      "id": "gordon-small-lambda-v1",
+      "title": "On difference sets with small lambda",
+      "author": "Daniel M. Gordon",
+      "arxiv_version": "2007.07292v1, 2020-07-14",
+      "url": "https://arxiv.org/pdf/2007.07292",
+      "cache_path": ".cache/literature/2020/initial-review-2/gordon-small-lambda-v1.pdf",
+      "retrieval": "Own curl download succeeded; web PDF text read",
+      "checked": "Theorem3 page3 visually inspected using existing PNG on recovery; prime-product decomposition and count inequalities reconstructed; Theorem4 exception observed",
+      "wording_risk": "Source prints positive integers a,b; author correctly permits nonnegative counts including b=0",
+      "limitation": "Ancillary residual diagnostic only; no independent rerun of full published search; optional native-render exitcode not returned"
+    },
+    {
+      "id": "alexeev-mixon-v2",
+      "title": "Forbidden Sidon subsets of perfect difference sets, featuring a human-assisted proof",
+      "authors": ["Boris Alexeev", "Dustin G. Mixon"],
+      "arxiv_version": "2510.19804v2, 2026-01-16",
+      "url": "https://arxiv.org/pdf/2510.19804v2",
+      "cache_path": ".cache/literature/2020/initial-review-2/alexeev-mixon-v2.pdf",
+      "retrieval": "Own curl download succeeded; web PDF text read",
+      "checked": "Section4 pages6-7 visually inspected from existing PNGs on recovery: projective-plane domain, cyclic regular collineation condition, separate Desarguesian conjecture",
+      "limitation": "No preliminary/Singer construction reproduced; no Sidon-extension problem investigated; no claim that this is the latest possible literature result"
+    }
+  ],
+  "searches": [
+    "On the geometry of planar difference sets Jungnickel Vedder square",
+    "A note on planar difference sets Wilbrink",
+    "First Multiplier Theorem planar abelian difference sets divisor",
+    "On the geometry of planar difference sets filetype:pdf",
+    "Wilbrink A note on planar difference sets pdf",
+    "Jungnickel Vedder subplane square planar"
+  ],
+  "nonprimary_discovery_results": "Not used to support a mathematical claim; exact claims grounded in official/publisher/author primary sources above",
+  "recovery": "See initial-review-2-recovery.md and report; optional renderer session 86629 emitted Fontconfig errors, process query denied/stalled/aborted, no invented completion result or verified OS cleanup"
+}

@@ -1,0 +1,26 @@
+{
+  "reviewer": "independent adversarial R2",
+  "candidate": "problems/2020-B4/proofs/partial-v1.md",
+  "candidate_sha256": "f53945e49bd626847e52a61f7e39e96defd2ae44900f9d235c2c14e720f41525",
+  "initial_report_blind": true,
+  "verdict": "accept scoped partial package with disclosed published-theorem reliance",
+  "unresolved_substantive_objections": [],
+  "required_repairs": [],
+  "dispositions": [
+    {"id": "R2-01", "claim": "P1/P2", "risk": "Omitting n=2 or applying nondegenerate plane axioms at q=1", "disposition": "resolved in frozen text", "reason": "n=2 handled explicitly and P2 restricted to q>=2"},
+    {"id": "R2-02", "claim": "P2", "risk": "Confusing a cyclic point labeling with a regular collineation action, or arbitrary planes with cyclic planes", "disposition": "resolved in frozen text", "reason": "Final paragraph explicitly requires cyclic regular collineation group; stabilizer argument and quadrangle reconstruction are valid"},
+    {"id": "R2-03", "claim": "P3", "risk": "Missing multiplier hypotheses or simultaneous-translate justification", "disposition": "resolved by reconstruction and source statement", "reason": "Cyclic implies abelian; order q=k-1, lambda=1, p>lambda, gcd(q,v)=1; sum-zero translate uniquely fixes all numerical multipliers"},
+    {"id": "R2-04", "claim": "P4", "risk": "Miscounting diagonal pairs or endpoint divisors", "disposition": "resolved by direct count", "reason": "Zero quotient count is k+(h-1)=q+h; d=1 and d=v agree; roots need not be primitive"},
+    {"id": "R2-05", "claim": "P5", "risk": "Dividing by zero modulo p, omitting p=2, or infinite descent at zero norm", "disposition": "resolved by reconstructed case split", "reason": "p=2 inspected separately; y=0 handled before ratio; q>0 prevents x=y=0 and ensures valuation descent terminates"},
+    {"id": "R2-06", "claim": "P6", "risk": "Cancelling nonunits, omitting zero orbit, or treating subset sum as sufficient", "disposition": "resolved by stratum proof", "reason": "u is a unit mod d by definition; d=1 is the single zero orbit; multiplicities bounded and necessity explicitly stated"},
+    {"id": "R2-07", "claim": "square descent", "risk": "Order/cardinality mismatch or importing outside abelian scope", "disposition": "resolved by exact published statements and application", "reason": "G and its subgroup are cyclic/abelian; q=2304=48^2 descends to order 48, with v_3(48)=1 and 48!=3; excluded B4 cardinality is 2305"},
+    {"id": "R2-08", "claim": "ancillary Arasu computation", "risk": "Source's literal positive-count wording discards b=0", "disposition": "already safely handled by author; independently reconstructed", "reason": "Program searches nonnegative counts, ord_1(m)=1 and skips o<=1; independent count proof and boundary model support this necessary relaxation"}
+  ],
+  "nonblocking_limitations": [
+    {"id": "R2-L1", "topic": "Original imported proofs", "detail": "Jungnickel-Vedder and Wilbrink full publisher PDFs returned HTTP403; originals not proof-audited. Exact statements checked in Gordon1994, with primary abstract cross-checks. Hall original multiplier proof not reconstructed. Candidate openly uses these as published imports."},
+    {"id": "R2-L2", "topic": "Scope", "detail": "No unrestricted classification; this review does not certify all author search witnesses/filter outputs or a best-current published computational bound."},
+    {"id": "R2-L3", "topic": "Renderer recovery", "detail": "Optional render emitted Fontconfig errors; pending process query aborted without PID. Expected PNGs later inspected. Coordinator's Unknown process id86629 establishes absent tool session, not verified OS cleanup."},
+    {"id": "R2-L4", "topic": "Settings", "detail": "Requested gpt-6.1-sol/max; effective readback unavailable."}
+  ],
+  "promotion": "Coordinator only, after both independent initial audits and any substantive objections resolved"
+}

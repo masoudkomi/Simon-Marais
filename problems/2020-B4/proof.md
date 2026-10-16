@@ -1,9 +1,10 @@
 # 2020 B4 proof register
 
-No candidate full solution has been proposed. The unrestricted classification remains the cyclic Prime Power Conjecture, with the boundary exception in statement.md.
+The unrestricted classification remains unresolved. No candidate full solution has been proposed.
 
 | Version | Status | Scope | Attribution |
 |---|---|---|---|
-| [partial-v1](proofs/partial-v1.md), 2026-10-16 | **candidate proof - unverified** | Exact reduction, boundary, normalization, quotient moments, a weaker necessary norm restriction, and arithmetic orbit counting | Reconstructed standard arguments; no claim of a new theorem or new unrestricted classification |
+| [Reviewed v1.1 register](proofs/reviewed-partial-v1.1.md), 2026-10-16 | **Proved, independently reviewed (partial results)** | P1–P6 and the square-descent application; no unrestricted classification | Reconstructed standard arguments and explicitly attributed published imports; no novelty claim |
+| [Frozen partial-v1](proofs/partial-v1.md) | Historical candidate labels; accepted mathematical arguments unchanged | Complete underlying derivation, with P2 always understood to require collineations | Original bytes retained for reproducibility |
 
-The partial package is queued with the coordinator for two fresh independent adversarial audits, one reconstructing the argument. Initial reports must be blind to one another. Computation logs are finite evidence and are not a substitute for these audits. Only the coordinator may promote a result after repairs and re-review. Preserve this version before making repairs.
+Both fresh, initially blind reviewers reconstructed the whole argument. See [acceptance](reviews/acceptance.md), [source clarifications](notes/reviewed-source-clarifications-v1.md), and [issue dispositions](issues.md). Computations remain finite evidence. Original proofs of imported published theorems and large published searches were not independently reproduced.

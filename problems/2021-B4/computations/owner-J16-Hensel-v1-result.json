@@ -1,0 +1,1370 @@
+{
+  "status": "complete necessary construction through recorded precision; unverified",
+  "pid": 47605,
+  "target_precision": 4,
+  "node_cap_per_level": 1000000,
+  "initial_expected_nodes": 840396,
+  "benchmark": false,
+  "requested_model": "gpt-6.1-sol",
+  "requested_reasoning": "max",
+  "effective_settings": "not available from launch readback",
+  "inputs_sha256": {
+    "coordinator-J16-leading-branch-index-v1-result.json": "26970a5e55d919deb520ceeceb15e51d78df96cb25fa2313b68426cc5d67b1f4",
+    "coordinator-J16-second-digit-v1-result.json": "c5e941076458c87d2adcf11ef0e07eb1c762ea68350e20728f2b2ff2dd637319",
+    "coordinator-J16-second-digit-v1.py": "ea184b1bf182eb48632c04ab039238a2ccfc32ff3f652a9386dc6dc9dba022e3",
+    "coordinator-three-rational-witnesses-reviewed-v1.1.md": "7ff6b3d92d3268405381c2732d83516d21e6eb7d74e897d4c01ec8bb70342be4"
+  },
+  "self_test": {
+    "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-self-test.json",
+    "sha256": "89d672162fa2d4368b273909edfb53563b48392bcd932ce6151012eab62ca2ca",
+    "cases": 12
+  },
+  "levels": [
+    {
+      "input_precision": 1,
+      "input_expected_nodes": 840396,
+      "input_visited": 840396,
+      "generated_nodes": 361194,
+      "complete_input_traversal": true,
+      "stopped": null,
+      "tally": {
+        "rank2_consistentFalse": 373610,
+        "rank2_consistentTrue": 112222,
+        "pruned_by_accepted_T1_missing_label": 14248,
+        "rank1_consistentFalse": 341440,
+        "rank1_consistentTrue": 13124
+      },
+      "per_mask_visited_passing_generated": {
+        "50991": [
+          162,
+          54,
+          54
+        ],
+        "51495": [
+          1458,
+          486,
+          486
+        ],
+        "51975": [
+          1458,
+          422,
+          422
+        ],
+        "53760": [
+          236196,
+          78732,
+          78732
+        ],
+        "54074": [
+          756,
+          218,
+          254
+        ],
+        "54138": [
+          324,
+          92,
+          92
+        ],
+        "54236": [
+          162,
+          46,
+          46
+        ],
+        "54797": [
+          2430,
+          746,
+          746
+        ],
+        "54813": [
+          486,
+          162,
+          162
+        ],
+        "54873": [
+          594,
+          190,
+          190
+        ],
+        "55001": [
+          216,
+          72,
+          72
+        ],
+        "55584": [
+          26244,
+          8748,
+          8748
+        ],
+        "55730": [
+          756,
+          220,
+          220
+        ],
+        "56194": [
+          2916,
+          940,
+          940
+        ],
+        "56242": [
+          162,
+          46,
+          46
+        ],
+        "56407": [
+          162,
+          54,
+          54
+        ],
+        "56565": [
+          54,
+          18,
+          18
+        ],
+        "57267": [
+          36,
+          12,
+          12
+        ],
+        "57874": [
+          17496,
+          5832,
+          5832
+        ],
+        "58480": [
+          13122,
+          4374,
+          4374
+        ],
+        "58898": [
+          4374,
+          1458,
+          1458
+        ],
+        "59148": [
+          1458,
+          486,
+          486
+        ],
+        "59204": [
+          1458,
+          454,
+          454
+        ],
+        "59703": [
+          270,
+          90,
+          90
+        ],
+        "60268": [
+          378,
+          118,
+          118
+        ],
+        "60276": [
+          234,
+          74,
+          74
+        ],
+        "61711": [
+          1458,
+          422,
+          422
+        ],
+        "62251": [
+          324,
+          108,
+          108
+        ],
+        "62989": [
+          486,
+          162,
+          162
+        ],
+        "63005": [
+          486,
+          162,
+          162
+        ],
+        "63215": [
+          24,
+          6,
+          6
+        ],
+        "63922": [
+          270,
+          74,
+          74
+        ],
+        "64434": [
+          54,
+          18,
+          18
+        ],
+        "64512": [
+          354294,
+          13122,
+          249318
+        ],
+        "65068": [
+          324,
+          92,
+          92
+        ],
+        "81986": [
+          118098,
+          4374,
+          4374
+        ],
+        "82093": [
+          3402,
+          162,
+          162
+        ],
+        "82109": [
+          486,
+          0,
+          0
+        ],
+        "82349": [
+          486,
+          0,
+          0
+        ],
+        "82498": [
+          13122,
+          486,
+          486
+        ],
+        "82544": [
+          13122,
+          648,
+          648
+        ],
+        "82605": [
+          2268,
+          108,
+          108
+        ],
+        "82621": [
+          324,
+          162,
+          162
+        ],
+        "82861": [
+          648,
+          0,
+          0
+        ],
+        "84357": [
+          2430,
+          162,
+          162
+        ],
+        "84869": [
+          1458,
+          72,
+          72
+        ],
+        "87428": [
+          2916,
+          144,
+          144
+        ],
+        "87443": [
+          342,
+          16,
+          16
+        ],
+        "87537": [
+          72,
+          0,
+          0
+        ],
+        "87671": [
+          18,
+          2,
+          2
+        ],
+        "88471": [
+          72,
+          2,
+          2
+        ],
+        "88621": [
+          324,
+          0,
+          0
+        ],
+        "88637": [
+          72,
+          6,
+          6
+        ],
+        "88759": [
+          28,
+          2,
+          2
+        ],
+        "89160": [
+          2916,
+          208,
+          208
+        ],
+        "89176": [
+          486,
+          18,
+          18
+        ],
+        "89334": [
+          36,
+          2,
+          2
+        ],
+        "89423": [
+          198,
+          0,
+          0
+        ],
+        "89551": [
+          18,
+          0,
+          0
+        ],
+        "89791": [
+          8,
+          0,
+          0
+        ],
+        "90035": [
+          18,
+          0,
+          0
+        ],
+        "90499": [
+          4374,
+          0,
+          0
+        ],
+        "90780": [
+          972,
+          42,
+          42
+        ],
+        "90972": [
+          216,
+          12,
+          12
+        ],
+        "91055": [
+          54,
+          6,
+          6
+        ],
+        "92069": [
+          108,
+          8,
+          8
+        ],
+        "92511": [
+          18,
+          0,
+          0
+        ],
+        "92571": [
+          162,
+          8,
+          8
+        ],
+        "96663": [
+          36,
+          2,
+          2
+        ],
+        "122559": [
+          6,
+          0,
+          0
+        ]
+      },
+      "certificates": {
+        "rows": 840396,
+        "plain_sha256": "e47f10c2aeb1b3dfbe63a35cb5703fbd8c461b16c0186f37a7fd2145e076e591",
+        "chunks": [
+          {
+            "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-001.jsonl.gz",
+            "rows": 60000,
+            "bytes": 333284,
+            "sha256": "a13001f9653185d9e043463701dac1b1c00afef11b86bbd6f5949f2f406cb7f4"
+          },
+          {
+            "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-002.jsonl.gz",
+            "rows": 60000,
+            "bytes": 317036,
+            "sha256": "057fac92ab672cea143e321104630a9f01276eb64570f319582af273069ca5fa"
+          },
+          {
+            "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-003.jsonl.gz",
+            "rows": 60000,
+            "bytes": 316181,
+            "sha256": "dd1db733b68b1d371d222a435a73273a4fb0bc3f9e61a01f52ebab4d817c23f8"
+          },
+          {
+            "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-004.jsonl.gz",
+            "rows": 60000,
+            "bytes": 330281,
+            "sha256": "34c7bf11447fb9d3489af2524871f213caffacc8bf82ab1734dc3d6507efe1b6"
+          },
+          {
+            "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-005.jsonl.gz",
+            "rows": 60000,
+            "bytes": 411270,
+            "sha256": "bba04ef480845e21e09ba7727d07b889ffce5ef5009034c80a26985fecdf8c6b"
+          },
+          {
+            "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-006.jsonl.gz",
+            "rows": 60000,
+            "bytes": 353689,
+            "sha256": "d3345fb91a46de39a6fac4bbd616e930855882a6aa501a88c28a20273511258d"
+          },
+          {
+            "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-007.jsonl.gz",
+            "rows": 60000,
+            "bytes": 298580,
+            "sha256": "8c6f125ea68435837f72aed2b6001712fd06a15fbb4aecb77d4a8e3bac894d5e"
+          },
+          {
+            "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-008.jsonl.gz",
+            "rows": 60000,
+            "bytes": 295700,
+            "sha256": "93fa49d0b69921643a0b38fa18f3940c8a047e42fa5bbf48264e9f5f862de12d"
+          },
+          {
+            "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-009.jsonl.gz",
+            "rows": 60000,
+            "bytes": 296644,
+            "sha256": "0ac574ddf100a9cdc4afe70aadc4e269c9d8238d39c912c3f915f4a3de33c428"
+          },
+          {
+            "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-010.jsonl.gz",
+            "rows": 60000,
+            "bytes": 299656,
+            "sha256": "81d1d11cf474fc72e2a2d7fcbe6b42907597200c763963722be45bb6ff11efae"
+          },
+          {
+            "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-011.jsonl.gz",
+            "rows": 60000,
+            "bytes": 302888,
+            "sha256": "42729da7a89e0df8a1518e14c072518830aca07b41700fd62f3c234773aeae1e"
+          },
+          {
+            "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-012.jsonl.gz",
+            "rows": 60000,
+            "bytes": 301902,
+            "sha256": "3deb2e51af7c03a774f91ecba48dcb689277757e8ae3847bfe34fa4224e95046"
+          },
+          {
+            "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-013.jsonl.gz",
+            "rows": 60000,
+            "bytes": 297559,
+            "sha256": "848e909f00c02312719fe227f80af549ee32c00af22ec0e6ff05a4ae25eed058"
+          },
+          {
+            "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-014.jsonl.gz",
+            "rows": 60000,
+            "bytes": 393429,
+            "sha256": "296d817977afd3563f67f6c943a02bc694d5a7c6eb1bbde7c1910ccf5df86fc3"
+          },
+          {
+            "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-level-1-certificates-015.jsonl.gz",
+            "rows": 396,
+            "bytes": 9523,
+            "sha256": "fe291dc3c355cb48a0544ff301c22ae835ee5f3bbd9009dcffa2a447a40cc3eb"
+          }
+        ]
+      },
+      "nodes": {
+        "rows": 361194,
+        "plain_sha256": "ddffa579c58dcf25fcdd2001b0991a94eb418d0a11c54edc5e626869ac21f2f7",
+        "chunks": [
+          {
+            "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-precision-2-nodes-001.jsonl.gz",
+            "rows": 60000,
+            "bytes": 221157,
+            "sha256": "57c21ad7a64e1526009862c58f188d1aec575b4940e3059acb072b1c25b5557b"
+          },
+          {
+            "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-precision-2-nodes-002.jsonl.gz",
+            "rows": 60000,
+            "bytes": 228687,
+            "sha256": "883d5940b3938b2ef134e262fb51c6e7acf6d5467972a6f3e3cb28f0b0eb2d73"
+          },
+          {
+            "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-precision-2-nodes-003.jsonl.gz",
+            "rows": 60000,
+            "bytes": 204984,
+            "sha256": "93d05b4cb0a79e7e7ee0c05f7cf809f8058e74bddaa2c4a8fce3831352c76157"
+          },
+          {
+            "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-precision-2-nodes-004.jsonl.gz",
+            "rows": 60000,
+            "bytes": 205082,
+            "sha256": "4862135008477879bf443a274dde8464853fb4a8c67e18a4050a01b03dbb2154"
+          },
+          {
+            "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-precision-2-nodes-005.jsonl.gz",
+            "rows": 60000,
+            "bytes": 203852,
+            "sha256": "9a42a9fe988172c2f5856a96b5bcb7f89c7c1574e2c60cfa22a535ae75947868"
+          },
+          {
+            "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-precision-2-nodes-006.jsonl.gz",
+            "rows": 60000,
+            "bytes": 206563,
+            "sha256": "349d3401844d657c3f7d4b635cd5b1649cdf0ae470d91a67fef06af8180abcbe"
+          },
+          {
+            "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-precision-2-nodes-007.jsonl.gz",
+            "rows": 1194,
+            "bytes": 5357,
+            "sha256": "ad8cdf4e9661e7222562eac2de60647d25e93e4153aa7f31b6aedebfe55e3101"
+          }
+        ]
+      },
+      "elapsed_seconds": 64.35048504197039
+    },
+    {
+      "input_precision": 2,
+      "input_expected_nodes": 361194,
+      "input_visited": 361194,
+      "generated_nodes": 2026,
+      "complete_input_traversal": true,
+      "stopped": null,
+      "tally": {
+        "rank2_consistentFalse": 109812,
+        "rank2_consistentTrue": 2026,
+        "rank1_consistentFalse": 249356
+      },
+      "per_mask_visited_passing_generated": {
+        "50991": [
+          54,
+          0,
+          0
+        ],
+        "51495": [
+          486,
+          22,
+          22
+        ],
+        "51975": [
+          422,
+          0,
+          0
+        ],
+        "53760": [
+          78732,
+          0,
+          0
+        ],
+        "54074": [
+          254,
+          8,
+          8
+        ],
+        "54138": [
+          92,
+          4,
+          4
+        ],
+        "54236": [
+          46,
+          0,
+          0
+        ],
+        "54797": [
+          746,
+          0,
+          0
+        ],
+        "54813": [
+          162,
+          0,
+          0
+        ],
+        "54873": [
+          190,
+          16,
+          16
+        ],
+        "55001": [
+          72,
+          0,
+          0
+        ],
+        "55584": [
+          8748,
+          486,
+          486
+        ],
+        "55730": [
+          220,
+          12,
+          12
+        ],
+        "56194": [
+          940,
+          54,
+          54
+        ],
+        "56242": [
+          46,
+          4,
+          4
+        ],
+        "56407": [
+          54,
+          6,
+          6
+        ],
+        "56565": [
+          18,
+          0,
+          0
+        ],
+        "57267": [
+          12,
+          2,
+          2
+        ],
+        "57874": [
+          5832,
+          324,
+          324
+        ],
+        "58480": [
+          4374,
+          270,
+          270
+        ],
+        "58898": [
+          1458,
+          108,
+          108
+        ],
+        "59148": [
+          486,
+          36,
+          36
+        ],
+        "59204": [
+          454,
+          20,
+          20
+        ],
+        "59703": [
+          90,
+          2,
+          2
+        ],
+        "60268": [
+          118,
+          4,
+          4
+        ],
+        "60276": [
+          74,
+          4,
+          4
+        ],
+        "61711": [
+          422,
+          38,
+          38
+        ],
+        "62251": [
+          108,
+          10,
+          10
+        ],
+        "62989": [
+          162,
+          0,
+          0
+        ],
+        "63005": [
+          162,
+          0,
+          0
+        ],
+        "63215": [
+          6,
+          0,
+          0
+        ],
+        "63922": [
+          74,
+          2,
+          2
+        ],
+        "64434": [
+          18,
+          0,
+          0
+        ],
+        "64512": [
+          249318,
+          0,
+          0
+        ],
+        "65068": [
+          92,
+          12,
+          12
+        ],
+        "81986": [
+          4374,
+          486,
+          486
+        ],
+        "82093": [
+          162,
+          54,
+          54
+        ],
+        "82109": [
+          0,
+          0,
+          0
+        ],
+        "82349": [
+          0,
+          0,
+          0
+        ],
+        "82498": [
+          486,
+          0,
+          0
+        ],
+        "82544": [
+          648,
+          0,
+          0
+        ],
+        "82605": [
+          108,
+          0,
+          0
+        ],
+        "82621": [
+          162,
+          0,
+          0
+        ],
+        "82861": [
+          0,
+          0,
+          0
+        ],
+        "84357": [
+          162,
+          12,
+          12
+        ],
+        "84869": [
+          72,
+          0,
+          0
+        ],
+        "87428": [
+          144,
+          0,
+          0
+        ],
+        "87443": [
+          16,
+          2,
+          2
+        ],
+        "87537": [
+          0,
+          0,
+          0
+        ],
+        "87671": [
+          2,
+          0,
+          0
+        ],
+        "88471": [
+          2,
+          0,
+          0
+        ],
+        "88621": [
+          0,
+          0,
+          0
+        ],
+        "88637": [
+          6,
+          0,
+          0
+        ],
+        "88759": [
+          2,
+          0,
+          0
+        ],
+        "89160": [
+          208,
+          18,
+          18
+        ],
+        "89176": [
+          18,
+          2,
+          2
+        ],
+        "89334": [
+          2,
+          0,
+          0
+        ],
+        "89423": [
+          0,
+          0,
+          0
+        ],
+        "89551": [
+          0,
+          0,
+          0
+        ],
+        "89791": [
+          0,
+          0,
+          0
+        ],
+        "90035": [
+          0,
+          0,
+          0
+        ],
+        "90499": [
+          0,
+          0,
+          0
+        ],
+        "90780": [
+          42,
+          4,
+          4
+        ],
+        "90972": [
+          12,
+          2,
+          2
+        ],
+        "91055": [
+          6,
+          0,
+          0
+        ],
+        "92069": [
+          8,
+          0,
+          0
+        ],
+        "92511": [
+          0,
+          0,
+          0
+        ],
+        "92571": [
+          8,
+          2,
+          2
+        ],
+        "96663": [
+          2,
+          0,
+          0
+        ],
+        "122559": [
+          0,
+          0,
+          0
+        ]
+      },
+      "certificates": {
+        "rows": 361194,
+        "plain_sha256": "508fef3b5d367afd7788b18e7f7f0b202d51a0a9f9af5e35fd5d80e9d4559294",
+        "chunks": [
+          {
+            "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-level-2-certificates-001.jsonl.gz",
+            "rows": 60000,
+            "bytes": 317072,
+            "sha256": "67b6a81bfa39ea4c498695a58a3f7aedf28cb6c38b1fa2b527d4bd928cea470b"
+          },
+          {
+            "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-level-2-certificates-002.jsonl.gz",
+            "rows": 60000,
+            "bytes": 553490,
+            "sha256": "29895bd8914e469e6b87e06141c3186f6306a317d60b1ca1274a10883449da9d"
+          },
+          {
+            "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-level-2-certificates-003.jsonl.gz",
+            "rows": 60000,
+            "bytes": 242927,
+            "sha256": "f39e66d9a56e6504f0448947bebd210b8d8a3a176616a7b825bffee49f0a17e5"
+          },
+          {
+            "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-level-2-certificates-004.jsonl.gz",
+            "rows": 60000,
+            "bytes": 243829,
+            "sha256": "81c9baec9c4c909a91c6e918e7ede79f361c266a55b9f3e6875030705856f818"
+          },
+          {
+            "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-level-2-certificates-005.jsonl.gz",
+            "rows": 60000,
+            "bytes": 240208,
+            "sha256": "574831d410eaabd020d2ae21a8d253f961b4e46259dd2383ce7d84eb9759dfbd"
+          },
+          {
+            "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-level-2-certificates-006.jsonl.gz",
+            "rows": 60000,
+            "bytes": 254382,
+            "sha256": "f202021464f005d69371a3af6a2cdd14199625673f2a62ec3fdcb23a4c1426f2"
+          },
+          {
+            "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-level-2-certificates-007.jsonl.gz",
+            "rows": 1194,
+            "bytes": 19665,
+            "sha256": "6887adf82a670ba23788770b64e5014c421497fdf924f5caab74594faa1b3753"
+          }
+        ]
+      },
+      "nodes": {
+        "rows": 2026,
+        "plain_sha256": "4447017809ae32aee4935251e67a021d8d94900eaeaf281ba2874d1c1dd15c71",
+        "chunks": [
+          {
+            "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-precision-3-nodes-001.jsonl.gz",
+            "rows": 2026,
+            "bytes": 10444,
+            "sha256": "14b976a3cd086da67f11a443260c0fe656e4b0bb55e2c43e0c808f9c968523d5"
+          }
+        ]
+      },
+      "elapsed_seconds": 16.300396457954776
+    },
+    {
+      "input_precision": 3,
+      "input_expected_nodes": 2026,
+      "input_visited": 2026,
+      "generated_nodes": 90,
+      "complete_input_traversal": true,
+      "stopped": null,
+      "tally": {
+        "rank2_consistentFalse": 1936,
+        "rank2_consistentTrue": 90
+      },
+      "per_mask_visited_passing_generated": {
+        "50991": [
+          0,
+          0,
+          0
+        ],
+        "51495": [
+          22,
+          2,
+          2
+        ],
+        "51975": [
+          0,
+          0,
+          0
+        ],
+        "53760": [
+          0,
+          0,
+          0
+        ],
+        "54074": [
+          8,
+          0,
+          0
+        ],
+        "54138": [
+          4,
+          0,
+          0
+        ],
+        "54236": [
+          0,
+          0,
+          0
+        ],
+        "54797": [
+          0,
+          0,
+          0
+        ],
+        "54813": [
+          0,
+          0,
+          0
+        ],
+        "54873": [
+          16,
+          0,
+          0
+        ],
+        "55001": [
+          0,
+          0,
+          0
+        ],
+        "55584": [
+          486,
+          36,
+          36
+        ],
+        "55730": [
+          12,
+          0,
+          0
+        ],
+        "56194": [
+          54,
+          0,
+          0
+        ],
+        "56242": [
+          4,
+          0,
+          0
+        ],
+        "56407": [
+          6,
+          4,
+          4
+        ],
+        "56565": [
+          0,
+          0,
+          0
+        ],
+        "57267": [
+          2,
+          0,
+          0
+        ],
+        "57874": [
+          324,
+          0,
+          0
+        ],
+        "58480": [
+          270,
+          36,
+          36
+        ],
+        "58898": [
+          108,
+          6,
+          6
+        ],
+        "59148": [
+          36,
+          0,
+          0
+        ],
+        "59204": [
+          20,
+          0,
+          0
+        ],
+        "59703": [
+          2,
+          2,
+          2
+        ],
+        "60268": [
+          4,
+          0,
+          0
+        ],
+        "60276": [
+          4,
+          0,
+          0
+        ],
+        "61711": [
+          38,
+          0,
+          0
+        ],
+        "62251": [
+          10,
+          2,
+          2
+        ],
+        "62989": [
+          0,
+          0,
+          0
+        ],
+        "63005": [
+          0,
+          0,
+          0
+        ],
+        "63215": [
+          0,
+          0,
+          0
+        ],
+        "63922": [
+          2,
+          0,
+          0
+        ],
+        "64434": [
+          0,
+          0,
+          0
+        ],
+        "64512": [
+          0,
+          0,
+          0
+        ],
+        "65068": [
+          12,
+          0,
+          0
+        ],
+        "81986": [
+          486,
+          0,
+          0
+        ],
+        "82093": [
+          54,
+          0,
+          0
+        ],
+        "82109": [
+          0,
+          0,
+          0
+        ],
+        "82349": [
+          0,
+          0,
+          0
+        ],
+        "82498": [
+          0,
+          0,
+          0
+        ],
+        "82544": [
+          0,
+          0,
+          0
+        ],
+        "82605": [
+          0,
+          0,
+          0
+        ],
+        "82621": [
+          0,
+          0,
+          0
+        ],
+        "82861": [
+          0,
+          0,
+          0
+        ],
+        "84357": [
+          12,
+          0,
+          0
+        ],
+        "84869": [
+          0,
+          0,
+          0
+        ],
+        "87428": [
+          0,
+          0,
+          0
+        ],
+        "87443": [
+          2,
+          0,
+          0
+        ],
+        "87537": [
+          0,
+          0,
+          0
+        ],
+        "87671": [
+          0,
+          0,
+          0
+        ],
+        "88471": [
+          0,
+          0,
+          0
+        ],
+        "88621": [
+          0,
+          0,
+          0
+        ],
+        "88637": [
+          0,
+          0,
+          0
+        ],
+        "88759": [
+          0,
+          0,
+          0
+        ],
+        "89160": [
+          18,
+          2,
+          2
+        ],
+        "89176": [
+          2,
+          0,
+          0
+        ],
+        "89334": [
+          0,
+          0,
+          0
+        ],
+        "89423": [
+          0,
+          0,
+          0
+        ],
+        "89551": [
+          0,
+          0,
+          0
+        ],
+        "89791": [
+          0,
+          0,
+          0
+        ],
+        "90035": [
+          0,
+          0,
+          0
+        ],
+        "90499": [
+          0,
+          0,
+          0
+        ],
+        "90780": [
+          4,
+          0,
+          0
+        ],
+        "90972": [
+          2,
+          0,
+          0
+        ],
+        "91055": [
+          0,
+          0,
+          0
+        ],
+        "92069": [
+          0,
+          0,
+          0
+        ],
+        "92511": [
+          0,
+          0,
+          0
+        ],
+        "92571": [
+          2,
+          0,
+          0
+        ],
+        "96663": [
+          0,
+          0,
+          0
+        ],
+        "122559": [
+          0,
+          0,
+          0
+        ]
+      },
+      "certificates": {
+        "rows": 2026,
+        "plain_sha256": "e3952cca09aaddedc46f8cdfcfa3b4f503c53fd14acf3bed955124fa3c78f1a3",
+        "chunks": [
+          {
+            "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-level-3-certificates-001.jsonl.gz",
+            "rows": 2026,
+            "bytes": 56893,
+            "sha256": "0a4eeb1fbc297fdb035362daacbb817eac8dbdcd195251e521ea2e927bfd9a50"
+          }
+        ]
+      },
+      "nodes": {
+        "rows": 90,
+        "plain_sha256": "ac3dc967275e629afd0c0a5f72983049874f83d07fb223b08e61625856762694",
+        "chunks": [
+          {
+            "path": "problems/2021-B4/computations/owner-J16-Hensel-v1-precision-4-nodes-001.jsonl.gz",
+            "rows": 90,
+            "bytes": 825,
+            "sha256": "4a68a58ecd349958b3cfa1e9c50ce10a001c1dbce568f1224ac39739aeb7dcfb"
+          }
+        ]
+      },
+      "elapsed_seconds": 0.10482875001616776
+    }
+  ],
+  "old_digit_stream_comparison": {
+    "rows_matched": 840396,
+    "rank2_consistentFalse": 373610,
+    "rank2_consistentTrue": 112222,
+    "rank1_consistentFalse": 341440,
+    "rank1_consistentTrue": 13124
+  },
+  "last_complete_precision": 4,
+  "candidate_masks_at_last_complete_precision": [
+    51495,
+    55584,
+    56407,
+    58480,
+    58898,
+    59703,
+    62251,
+    89160
+  ],
+  "elapsed_seconds": 80.76989170798333
+}

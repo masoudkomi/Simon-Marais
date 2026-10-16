@@ -1,0 +1,199 @@
+{
+  "candidate_sha256": "f53945e49bd626847e52a61f7e39e96defd2ae44900f9d235c2c14e720f41525",
+  "effective_settings_readback": null,
+  "examined_author_or_official_inputs": [
+    {
+      "bytes": 4271,
+      "path": "AGENTS.md",
+      "sha256": "32ce511aab27061680c98197793b5a9b3ee03a421c822868fad69ea525816257"
+    },
+    {
+      "bytes": 8703,
+      "path": "problems/2020-B4/proofs/partial-v1.md",
+      "sha256": "f53945e49bd626847e52a61f7e39e96defd2ae44900f9d235c2c14e720f41525"
+    },
+    {
+      "bytes": 2006,
+      "path": "problems/2020-B4/statement.md",
+      "sha256": "91c9e7e86eef7bc6a68770f6ee730d18618443304ac3aace5541b42170ac64cc"
+    },
+    {
+      "bytes": 9036,
+      "path": "problems/2020-B4/references.md",
+      "sha256": "7ce4ae9b9c7724cbd91cdc0da57a09e79e0eac728399b79efe148aa799262786"
+    },
+    {
+      "bytes": 5287,
+      "path": "problems/2020-B4/computations/README.md",
+      "sha256": "ae202ebea7bb9b8b6d4939954be73282857b3add9ac1c37b699f9f9eda8c818f"
+    },
+    {
+      "bytes": 3998,
+      "path": "problems/2020-B4/computations/residual_orders.py",
+      "sha256": "3a92ba6af3e323ea1f78874f55c398d375a1a8adbf2fe47b5b295f9ca2d90cba"
+    },
+    {
+      "bytes": 2880,
+      "path": "problems/2020-B4/computations/residual-orders.json",
+      "sha256": "275462a2949a122200609ac9dea227d78610421e4e6c31be632a21c59c10d2eb"
+    },
+    {
+      "bytes": 2425,
+      "path": "problems/2020-B4/computations/quotient-counts.json",
+      "sha256": "7c95de2072b51f5948cbe7c8b19f5a67238f66ee74b23423423625b480d5f34d"
+    },
+    {
+      "bytes": 9745,
+      "path": "problems/2020-B4/computations/orbit-examples.json",
+      "sha256": "9405b853f942cfa49d751084e430f2edd0fb5e402cd3a2c74c7aa8e444650769"
+    },
+    {
+      "bytes": 118979,
+      "path": ".cache/official/2020-paper_b.pdf",
+      "sha256": "87d99c8f1c3d077bddeb542e3825a515e90b0f29339acde94758d57a102bb3da"
+    },
+    {
+      "bytes": 287864,
+      "path": ".cache/official/2020-solutions.pdf",
+      "sha256": "d77ecfa277a693f57992ca2286c01e95f50821c02abc6ff63a41966f578f09b3"
+    }
+  ],
+  "finite_job": {
+    "finished_utc": "2026-10-16T16:07:21.741592+00:00",
+    "pid": 38854,
+    "returncode": 0,
+    "started_utc": "2026-10-16T16:07:20.634122+00:00",
+    "timed_out": false,
+    "timeout_seconds": 90
+  },
+  "frozen_utc": "2026-10-16T16:54:04.249369+00:00",
+  "initial_report_blind": true,
+  "manifest_self_hash": "Excluded to avoid self-reference; all own review files otherwise hashed",
+  "other_reviewer_material_read": false,
+  "own_ignored_source_cache": [
+    {
+      "bytes": 336922,
+      "path": ".cache/literature/2020/initial-review-2/alexeev-mixon-v2-06.png",
+      "sha256": "c9b365dcb8c3aca967a8f638e2f2e21372bed59fd7fa4d2725f681fd10a007f7"
+    },
+    {
+      "bytes": 341970,
+      "path": ".cache/literature/2020/initial-review-2/alexeev-mixon-v2-07.png",
+      "sha256": "861c1c6171bb5fcbaec32db11fe262d3ebbfe7c6bfe83e36726d030f53738330"
+    },
+    {
+      "bytes": 621415,
+      "path": ".cache/literature/2020/initial-review-2/alexeev-mixon-v2.pdf",
+      "sha256": "0b9114eb34b8625418f52d8336f074d0ba9849fda40f720e60dbcba897a037e0"
+    },
+    {
+      "bytes": 251893,
+      "path": ".cache/literature/2020/initial-review-2/gordon-small-lambda-v1-1.png",
+      "sha256": "1e6a0c4c96aa8808f724fb1c6591777c8df2e370c62587360549435c09c4cc5e"
+    },
+    {
+      "bytes": 276867,
+      "path": ".cache/literature/2020/initial-review-2/gordon-small-lambda-v1-2.png",
+      "sha256": "df794de1523d367263cdd9877c75c22ec93152f28c479b55f3cc41fc9965f0e5"
+    },
+    {
+      "bytes": 272876,
+      "path": ".cache/literature/2020/initial-review-2/gordon-small-lambda-v1-3.png",
+      "sha256": "bd616bf1864c7504dbf6967a96da3eda3b568f285e19346243d682855cd282fb"
+    },
+    {
+      "bytes": 128808,
+      "path": ".cache/literature/2020/initial-review-2/gordon-small-lambda-v1.pdf",
+      "sha256": "fd92867ab367f70e15a19118e711f84f601dfa835d9c5ab33fb706d3eedf2850"
+    },
+    {
+      "bytes": 310873,
+      "path": ".cache/literature/2020/initial-review-2/gordon1994-2.png",
+      "sha256": "cfc38f35660818e53b4c0eb27cc5794420aebb2dcb95597095c30ba768d4c085"
+    },
+    {
+      "bytes": 276746,
+      "path": ".cache/literature/2020/initial-review-2/gordon1994-3.png",
+      "sha256": "a0267cd8c95a55d5a25ca2ad4ed4cf58e21ac848d9164b0249042735353d4bcd"
+    },
+    {
+      "bytes": 97934,
+      "path": ".cache/literature/2020/initial-review-2/gordon1994.pdf",
+      "sha256": "3aec0764176198d398fb1a027aa2add921ef3d4aa554848d85d22c8917016b54"
+    },
+    {
+      "bytes": 72523,
+      "path": ".cache/literature/2020/initial-review-2/official-b4.png",
+      "sha256": "db25cb56852a65046eee554578264fa70ead0b95883154d4ad5ffe9b56f1e782"
+    }
+  ],
+  "own_review_files": [
+    {
+      "bytes": 10402,
+      "path": "problems/2020-B4/reviews/initial-review-2-check.py",
+      "sha256": "d18995cbb93bb461761f9a1cc3c666c99f24c2d72fbe5f576c6b049246578e7b"
+    },
+    {
+      "bytes": 1711,
+      "path": "problems/2020-B4/reviews/initial-review-2-check.stdout",
+      "sha256": "0b6b558fa75290e9dd55d982251c6f53e4a8ac6263b76fa4d1eaebe608460251"
+    },
+    {
+      "bytes": 9690,
+      "path": "problems/2020-B4/reviews/initial-review-2-evidence.json",
+      "sha256": "d8a67b03e1f3ba5cdd4a27639e9fb7aaf3558bb68e8677dabecf54b860fa42e3"
+    },
+    {
+      "bytes": 3526,
+      "path": "problems/2020-B4/reviews/initial-review-2-freeze.py",
+      "sha256": "3785538db15399e50b9b7161a6f97c1e2d167e2df7712bd8f4668ceb22083cb7"
+    },
+    {
+      "bytes": 3909,
+      "path": "problems/2020-B4/reviews/initial-review-2-issues.json",
+      "sha256": "0d3205119f87c7df07aafefebadceb404a1ad9c75a7b66761c674036eba9b7c6"
+    },
+    {
+      "bytes": 726,
+      "path": "problems/2020-B4/reviews/initial-review-2-job.json",
+      "sha256": "8dce68c4c2c224e8396ed21ec616fa0f95a6a49cc4d1ca76febd7b58d6be14c2"
+    },
+    {
+      "bytes": 6555,
+      "path": "problems/2020-B4/reviews/initial-review-2-recovery.md",
+      "sha256": "2caaee9f44f7f355cdd82bb141ef7d953329f2398f39e2aea3d8ed7289b94e82"
+    },
+    {
+      "bytes": 1997,
+      "path": "problems/2020-B4/reviews/initial-review-2-run.py",
+      "sha256": "632fd9ba8979675a596ce0e3ecc5d5ae4d61c0cbcdc45d722a5145289585df36"
+    },
+    {
+      "bytes": 6554,
+      "path": "problems/2020-B4/reviews/initial-review-2-sources.json",
+      "sha256": "c5e1032f07f196a2f01c9ce2dc2187589e7f83f9f6c74e65fc8ebd5fda0437d6"
+    },
+    {
+      "bytes": 20281,
+      "path": "problems/2020-B4/reviews/initial-review-2.md",
+      "sha256": "6b98b056931286f69127374508742fb3608b4c250be732babb5ea8cb4f5dc881"
+    }
+  ],
+  "promotion": "None by reviewer; coordinator only after both independent audits",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "source_access_limits": [
+    "Original Jungnickel-Vedder/Wilbrink full PDFs HTTP403",
+    "Original imported proofs not reconstructed; exact Gordon1994 statements checked",
+    "Optional renderer exitcode and OSprocesscleanup not verified"
+  ],
+  "verdict": "accept scoped partial package with disclosed published-theorem reliance",
+  "weekly_telemetry": {
+    "checked_utc_approx": "2026-10-16T16:48:33Z",
+    "resets_at": 1792745187,
+    "used_percent": 12,
+    "window_duration_mins": 10080
+  }
+}
