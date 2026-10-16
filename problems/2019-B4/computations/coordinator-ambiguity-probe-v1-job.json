@@ -1,0 +1,30 @@
+{
+  "started_at_utc": "2026-10-16T15:02:56.466082+00:00",
+  "command": [
+    "/Users/uqmkamga/Documents/ChatGPT/Website/.venv/bin/python",
+    "-u",
+    "/Users/uqmkamga/Documents/ChatGPT/Website/problems/2019-B4/computations/secondpass-full-obstruction-probe.py",
+    "--initial-probe",
+    "/Users/uqmkamga/Documents/ChatGPT/Website/.cache/research-seeds/2019-complete-through24.json",
+    "--max-n",
+    "28",
+    "--state-cap",
+    "2000000",
+    "--output",
+    "/Users/uqmkamga/Documents/ChatGPT/Website/problems/2019-B4/computations/coordinator-ambiguity-probe-v1-extension.json"
+  ],
+  "timeout_seconds": 35,
+  "status": "external timeout; identified child reaped",
+  "source_frozen_sha256": "48ee03a0f7be101763ca7132a68925bcd51a5ceb030ccfbf86dab96fda315d59",
+  "enumerator_sha256": "1a1a67790ce155f6944e23b0eafda89e25b9377c0b1113cc19f26d7b4b7f31ea",
+  "seed_sha256": "3ba38dd8fa2bc15f2d9bbda20e6f1de3dc17bfc72ffbba7b357d01fff7ddee13",
+  "source_code_reused": "author targeted enumeration; no independent-review credit",
+  "pid": 27345,
+  "return_code": -9,
+  "elapsed_seconds": 35.005283000005875,
+  "sha256": {
+    "coordinator-ambiguity-probe-v1.py": "d79be75df8102c7c225a53123105d271dc4a53ecfc9d418c7ba746b94bcc8a11",
+    "coordinator-ambiguity-probe-v1-output.txt": "c7e452c5a5cbc0d487169d6e4a80e64e526790cc757016f4f109377a33130b1b",
+    "coordinator-ambiguity-probe-v1-stderr.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  }
+}

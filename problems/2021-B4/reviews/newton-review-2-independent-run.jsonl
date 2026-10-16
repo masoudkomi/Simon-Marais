@@ -1,0 +1,38 @@
+{"author_code_or_results_read": false, "method": "ordinary Hasse coefficients; complete mod p^2 binary tree; integer polynomial construction; Euclidean remainders over finite fields", "phase": "start", "python": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]"}
+{"passes": 1598, "phase": "binary_checkpoint", "visited": 32768}
+{"passes": 3244, "phase": "binary_checkpoint", "visited": 65536}
+{"passes": 4934, "phase": "binary_checkpoint", "visited": 98304}
+{"passes": 6680, "phase": "binary_checkpoint", "visited": 131072}
+{"histogram": {"6": 1, "7": 1, "8": 3, "9": 5, "10": 26, "11": 32, "12": 101, "13": 131, "14": 315, "15": 461, "16": 887, "17": 1674, "18": 3043}, "j16_retained": 88, "j17_retained": 73, "passes": 6680, "phase": "binary_complete", "remaining": 1164, "visited": 131072}
+{"compatible": 18, "phase": "initial_forms_complete", "visited": 6156}
+{"certificates": {"101": 973, "103": 49, "107": 1, "constant": 1}, "checked": 1024, "phase": "family_checkpoint"}
+{"certificates": {"101": 1962, "103": 80, "107": 1, "constant": 5}, "checked": 2048, "phase": "family_checkpoint"}
+{"certificates": {"101": 2943, "103": 120, "107": 3, "constant": 6}, "checked": 3072, "phase": "family_checkpoint"}
+{"certificates": {"101": 3917, "103": 167, "107": 3, "constant": 9}, "checked": 4096, "phase": "family_checkpoint"}
+{"certificates": {"101": 4890, "103": 213, "107": 6, "constant": 11}, "checked": 5120, "phase": "family_checkpoint"}
+{"certificates": {"101": 5853, "103": 267, "107": 10, "constant": 14}, "checked": 6144, "phase": "family_checkpoint"}
+{"certificates": {"101": 6821, "103": 319, "107": 11, "constant": 17}, "checked": 7168, "phase": "family_checkpoint"}
+{"certificates": {"101": 7789, "103": 373, "107": 12, "109": 1, "constant": 17}, "checked": 8192, "phase": "family_checkpoint"}
+{"certificates": {"101": 8756, "103": 428, "107": 14, "109": 1, "constant": 17}, "checked": 9216, "phase": "family_checkpoint"}
+{"certificates": {"101": 9732, "103": 475, "107": 15, "109": 1, "constant": 17}, "checked": 10240, "phase": "family_checkpoint"}
+{"certificates": {"101": 10720, "103": 505, "107": 17, "109": 1, "constant": 21}, "checked": 11264, "phase": "family_checkpoint"}
+{"certificates": {"101": 11707, "103": 540, "107": 18, "109": 1, "constant": 22}, "checked": 12288, "phase": "family_checkpoint"}
+{"certificates": {"101": 12686, "103": 571, "107": 20, "109": 2, "constant": 33}, "checked": 13312, "phase": "family_checkpoint"}
+{"certificates": {"101": 13658, "103": 616, "107": 21, "109": 2, "constant": 39}, "checked": 14336, "phase": "family_checkpoint"}
+{"certificates": {"101": 14635, "103": 661, "107": 23, "109": 2, "constant": 39}, "checked": 15360, "phase": "family_checkpoint"}
+{"certificates": {"101": 15625, "103": 692, "107": 25, "109": 3, "constant": 39}, "checked": 16384, "phase": "family_checkpoint"}
+{"certificates": {"101": 16605, "103": 736, "107": 25, "109": 3, "constant": 39}, "checked": 17408, "phase": "family_checkpoint"}
+{"certificates": {"101": 17576, "103": 785, "107": 27, "109": 3, "constant": 41}, "checked": 18432, "phase": "family_checkpoint"}
+{"certificates": {"101": 18563, "103": 822, "107": 27, "109": 3, "constant": 41}, "checked": 19456, "phase": "family_checkpoint"}
+{"certificates": {"101": 19555, "103": 853, "107": 28, "109": 3, "constant": 41}, "checked": 20480, "phase": "family_checkpoint"}
+{"certificates": {"101": 20535, "103": 896, "107": 29, "109": 3, "constant": 41}, "checked": 21504, "phase": "family_checkpoint"}
+{"certificates": {"101": 21520, "103": 933, "107": 30, "109": 3, "constant": 42}, "checked": 22528, "phase": "family_checkpoint"}
+{"certificates": {"101": 22507, "103": 964, "107": 34, "109": 3, "constant": 44}, "checked": 23552, "phase": "family_checkpoint"}
+{"certificates": {"101": 23495, "103": 997, "107": 35, "109": 3, "constant": 46}, "checked": 24576, "phase": "family_checkpoint"}
+{"certificates": {"101": 24473, "103": 1039, "107": 37, "109": 3, "constant": 48}, "checked": 25600, "phase": "family_checkpoint"}
+{"certificates": {"101": 25454, "103": 1071, "107": 41, "109": 3, "constant": 55}, "checked": 26624, "phase": "family_checkpoint"}
+{"certificates": {"101": 26430, "103": 1111, "107": 45, "109": 4, "constant": 58}, "checked": 27648, "phase": "family_checkpoint"}
+{"certificates": {"101": 27382, "103": 1168, "107": 53, "109": 4, "constant": 65}, "checked": 28672, "phase": "family_checkpoint"}
+{"certificates": {"101": 28365, "103": 1206, "107": 55, "109": 4, "constant": 66}, "checked": 29696, "phase": "family_checkpoint"}
+{"certificates": {"101": 28583, "103": 1213, "107": 55, "109": 4, "constant": 73}, "checked": 29928, "ordinary_polynomial_stream_sha256": "d26930f5a90034d2c5f5fabfa787af4cdbbfe6e5184d73b2d71e11230b13e01c", "phase": "family_complete", "records_path": "/Users/uqmkamga/Documents/ChatGPT/Website/problems/2021-B4/reviews/newton-review-2-independent-cases.jsonl", "records_sha256": "4ac23d30e994217ef102798fbeef1fac1b7c0139cce77a32c59c1f1a28cd0b92"}
+{"binary_patterns": 6680, "compatible_initial_forms": 18, "elapsed_seconds": 5.203880124987336, "families": {"certificates": {"101": 28583, "103": 1213, "107": 55, "109": 4, "constant": 73}, "checked": 29928, "ordinary_polynomial_stream_sha256": "d26930f5a90034d2c5f5fabfa787af4cdbbfe6e5184d73b2d71e11230b13e01c", "records_path": "/Users/uqmkamga/Documents/ChatGPT/Website/problems/2021-B4/reviews/newton-review-2-independent-cases.jsonl", "records_sha256": "4ac23d30e994217ef102798fbeef1fac1b7c0139cce77a32c59c1f1a28cd0b92"}, "histogram": {"6": 1, "7": 1, "8": 3, "9": 5, "10": 26, "11": 32, "12": 101, "13": 131, "14": 315, "15": 461, "16": 887, "17": 1674, "18": 3043}, "j16_retained": 88, "j17_retained": 73, "normalized_initial_form_cases": 6156, "phase": "complete", "remaining": 1164}

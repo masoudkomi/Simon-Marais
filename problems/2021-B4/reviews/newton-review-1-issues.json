@@ -1,0 +1,29 @@
+{
+  "review": "R1 initial blind report",
+  "candidate_sha256": "ce3ff564b48841ae3ae1bf66c3cf5303ed2833c2166590cb2460706f01b5c335",
+  "substantive_open_objections": [],
+  "comments": [
+    {
+      "id": "R1-C1",
+      "kind": "citation precision",
+      "blocking": false,
+      "location": "Published inputs: Poonen Theorem 4.2.3",
+      "observation": "The literal displayed cardinality does not explicitly state the multiplicity convention, although the candidate states and uses the correct theorem.",
+      "verification": "Reviewer checked Stoll, p-adic Analysis in Arithmetic Geometry, Theorem 3.6 (page 16), which expressly counts multiplicity, and reconstructed its product argument.",
+      "suggested_author_action": "Add the explicit Stoll citation or a short product argument for source precision.",
+      "disposition": "No mathematical blocker; correct multiplicity theorem independently verified. Candidate edits reserved to author/coordinator."
+    }
+  ],
+  "reviewer_implementation_events": [
+    {
+      "id": "R1-I1",
+      "status": "resolved",
+      "observation": "First independent checker guessed polynomial-hash serialization without masks and stopped at the first record.",
+      "resolution": "After independent construction, read only the author digest-format lines. Correct format is compact JSON [center_mask,u_mask,P,Q]. All 29928 hashes and full stream then matched.",
+      "candidate_defect": false
+    }
+  ],
+  "scope": "Complete reconstruction of required normalization, N1, N2, degree20 J17 reduction and all29928 certificates, J16 N5 and exact1164 survivors; no full degree classification endorsed.",
+  "other_review_conclusions_seen": false,
+  "promotion_performed": false
+}

@@ -1,0 +1,32 @@
+{
+  "audit": "blind R2 initial audit of padic-rational-newton-obstructions-v1.md",
+  "candidate_sha256": "ce3ff564b48841ae3ae1bf66c3cf5303ed2833c2166590cb2460706f01b5c335",
+  "completed_at_utc_date": "2026-10-16",
+  "issues": [],
+  "open_substantive_issues": 0,
+  "nonblocking_comments": [
+    {
+      "id": "R2-C1",
+      "topic": "Poonen displayed root-count multiplicity convention",
+      "observation": "The cited theorem displays root-set cardinality without an explicit multiplicity qualifier. The required count with multiplicities was independently reconstructed by reduction of linear factors in review section 2.",
+      "disposition": "resolved within the audit; optional attribution clarification only; no mathematical repair required"
+    }
+  ],
+  "adversarial_targets_resolved": [
+    "rational affine normalization without assuming all roots rational",
+    "precise recycled-witness covering-set theorem",
+    "J existence and integer positive valuations",
+    "long supporting line at the J=d/2 boundary",
+    "root multiplicity versus distinct rational witnesses",
+    "width-one Hasse lemma at all stated endpoint values",
+    "complete canonical-pattern and 0/U refinement coverage",
+    "direct ordinary coefficient construction of every integer polynomial pair",
+    "every saved polynomial hash, modular degree and gcd certificate",
+    "J16 two multiplicities, equal/different valuations, quadratic degeneracies and Hasse scaling",
+    "necessary-pattern counts versus actual rational existence"
+  ],
+  "recommendation": "accept the stated partial conclusions; coordinator alone may promote after both independent audits",
+  "full_contest_solution": false,
+  "other_reviews_read": false,
+  "coordinator_extension_note_read_before_freezing_initial_report": false
+}

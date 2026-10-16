@@ -30,6 +30,8 @@ Recheck before launching each group, during sustained work, before expensive com
 | 2026-10-16 10:42:59 UTC | 5% | 95% | Same reset; reviewed partials integrated, focused research and fresh reviews continue. |
 | 2026-10-16 14:53:40 UTC | 7% | 93% | Host tool delay returned; workers saved deeper checkpoints; fresh audits and integration continue. Same reset. |
 
+| 2026-10-16 15:13:21 UTC | 7% | 93% | Same reset; deeper 2019 and 2021 partial results accepted; fresh 2017 audit and separate degeneration audits continue. |
+
 User clarification during the initial group: investigate only the explicitly open portion of B4. This narrows mathematical targets, not the weekly cutoff.
 
 ## Stop record

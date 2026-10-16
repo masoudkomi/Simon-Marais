@@ -1,0 +1,2490 @@
+{
+  "status": "finite exact necessary filter; degeneration proof remains unverified",
+  "p": 19,
+  "degree": 20,
+  "modulus": 361,
+  "binary_flags": 131072,
+  "before": {
+    "6": 1,
+    "7": 1,
+    "8": 3,
+    "9": 5,
+    "10": 26,
+    "11": 32,
+    "12": 101,
+    "13": 131,
+    "14": 315,
+    "15": 461,
+    "16": 887,
+    "17": 1674,
+    "18": 3043
+  },
+  "after_low_center_disjunction": {
+    "6": 1,
+    "7": 1,
+    "8": 3,
+    "9": 5,
+    "10": 26,
+    "11": 32,
+    "12": 101,
+    "13": 131,
+    "14": 315,
+    "15": 69,
+    "16": 88,
+    "17": 73,
+    "18": 0
+  },
+  "J15_removed": 392,
+  "J15_retained": 69,
+  "masks_J15": [
+    {
+      "mask_hasse_orders_2_to_18": 1064,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 1304,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 1544,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 2248,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 2312,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 2584,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 2664,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 2904,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 3096,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 3320,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 3416,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 3592,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 3596,
+      "low_center_orders": [
+        4
+      ],
+      "retained": true
+    },
+    {
+      "mask_hasse_orders_2_to_18": 4072,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 6184,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 6536,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 6600,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 6776,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 7928,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 7932,
+      "low_center_orders": [
+        4
+      ],
+      "retained": true
+    },
+    {
+      "mask_hasse_orders_2_to_18": 8312,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 8920,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 9400,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 9912,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 10744,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 10888,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 11128,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 11320,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 11720,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 11880,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 12408,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 13016,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 13496,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 14008,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 14840,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 14984,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 15224,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 15416,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 15816,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 15976,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 16392,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 16792,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 16984,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 17144,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 18280,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 18376,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 18504,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 18506,
+      "low_center_orders": [
+        3
+      ],
+      "retained": true
+    },
+    {
+      "mask_hasse_orders_2_to_18": 19528,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 19530,
+      "low_center_orders": [
+        3
+      ],
+      "retained": true
+    },
+    {
+      "mask_hasse_orders_2_to_18": 20536,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 20872,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 20888,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 21080,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 21256,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 21320,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 21528,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 21544,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 21688,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 21689,
+      "low_center_orders": [
+        2
+      ],
+      "retained": true
+    },
+    {
+      "mask_hasse_orders_2_to_18": 21720,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 22040,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 22056,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 22200,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 22201,
+      "low_center_orders": [
+        2
+      ],
+      "retained": true
+    },
+    {
+      "mask_hasse_orders_2_to_18": 22232,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 24008,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 24584,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 24936,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 24937,
+      "low_center_orders": [
+        2
+      ],
+      "retained": true
+    },
+    {
+      "mask_hasse_orders_2_to_18": 25480,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 26888,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 27592,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 27640,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 27642,
+      "low_center_orders": [
+        3
+      ],
+      "retained": true
+    },
+    {
+      "mask_hasse_orders_2_to_18": 27832,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 27834,
+      "low_center_orders": [
+        3
+      ],
+      "retained": true
+    },
+    {
+      "mask_hasse_orders_2_to_18": 28008,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 28296,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 28298,
+      "low_center_orders": [
+        3
+      ],
+      "retained": true
+    },
+    {
+      "mask_hasse_orders_2_to_18": 28344,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 28345,
+      "low_center_orders": [
+        2
+      ],
+      "retained": true
+    },
+    {
+      "mask_hasse_orders_2_to_18": 28348,
+      "low_center_orders": [
+        4
+      ],
+      "retained": true
+    },
+    {
+      "mask_hasse_orders_2_to_18": 28349,
+      "low_center_orders": [
+        2,
+        4
+      ],
+      "retained": true
+    },
+    {
+      "mask_hasse_orders_2_to_18": 28920,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 29752,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 30616,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 30696,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 30712,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 30792,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 30794,
+      "low_center_orders": [
+        3
+      ],
+      "retained": true
+    },
+    {
+      "mask_hasse_orders_2_to_18": 30952,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 31080,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 31081,
+      "low_center_orders": [
+        2
+      ],
+      "retained": true
+    },
+    {
+      "mask_hasse_orders_2_to_18": 31160,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 31992,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 32504,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 34392,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 34408,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 34552,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 35160,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 35656,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 36280,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 36920,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 37032,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 37034,
+      "low_center_orders": [
+        3
+      ],
+      "retained": true
+    },
+    {
+      "mask_hasse_orders_2_to_18": 37096,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 37098,
+      "low_center_orders": [
+        3
+      ],
+      "retained": true
+    },
+    {
+      "mask_hasse_orders_2_to_18": 37192,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 37528,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 37529,
+      "low_center_orders": [
+        2
+      ],
+      "retained": true
+    },
+    {
+      "mask_hasse_orders_2_to_18": 38072,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 38584,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 38808,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 38920,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 39064,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 39336,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 40184,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 40728,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 40808,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 41000,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 41001,
+      "low_center_orders": [
+        2
+      ],
+      "retained": true
+    },
+    {
+      "mask_hasse_orders_2_to_18": 41240,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 41992,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 41993,
+      "low_center_orders": [
+        2
+      ],
+      "retained": true
+    },
+    {
+      "mask_hasse_orders_2_to_18": 42088,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 42120,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 42121,
+      "low_center_orders": [
+        2
+      ],
+      "retained": true
+    },
+    {
+      "mask_hasse_orders_2_to_18": 42216,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 42312,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 42392,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 42504,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 42505,
+      "low_center_orders": [
+        2
+      ],
+      "retained": true
+    },
+    {
+      "mask_hasse_orders_2_to_18": 42600,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 42632,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 42633,
+      "low_center_orders": [
+        2
+      ],
+      "retained": true
+    },
+    {
+      "mask_hasse_orders_2_to_18": 42728,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 42824,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 42904,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 43096,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 43128,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 43224,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 43256,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 43320,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 43400,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 44552,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 44553,
+      "low_center_orders": [
+        2
+      ],
+      "retained": true
+    },
+    {
+      "mask_hasse_orders_2_to_18": 44904,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 44906,
+      "low_center_orders": [
+        3
+      ],
+      "retained": true
+    },
+    {
+      "mask_hasse_orders_2_to_18": 45400,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 45912,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 47400,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 48424,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 49960,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 50408,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 50744,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 50745,
+      "low_center_orders": [
+        2
+      ],
+      "retained": true
+    },
+    {
+      "mask_hasse_orders_2_to_18": 51000,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 51001,
+      "low_center_orders": [
+        2
+      ],
+      "retained": true
+    },
+    {
+      "mask_hasse_orders_2_to_18": 51240,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 51608,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 52136,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 52137,
+      "low_center_orders": [
+        2
+      ],
+      "retained": true
+    },
+    {
+      "mask_hasse_orders_2_to_18": 52344,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 52536,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 52856,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 53048,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 53416,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 53417,
+      "low_center_orders": [
+        2
+      ],
+      "retained": true
+    },
+    {
+      "mask_hasse_orders_2_to_18": 53480,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 53481,
+      "low_center_orders": [
+        2
+      ],
+      "retained": true
+    },
+    {
+      "mask_hasse_orders_2_to_18": 53672,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 53673,
+      "low_center_orders": [
+        2
+      ],
+      "retained": true
+    },
+    {
+      "mask_hasse_orders_2_to_18": 53736,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 53737,
+      "low_center_orders": [
+        2
+      ],
+      "retained": true
+    },
+    {
+      "mask_hasse_orders_2_to_18": 54216,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 54360,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 54361,
+      "low_center_orders": [
+        2
+      ],
+      "retained": true
+    },
+    {
+      "mask_hasse_orders_2_to_18": 54362,
+      "low_center_orders": [
+        3
+      ],
+      "retained": true
+    },
+    {
+      "mask_hasse_orders_2_to_18": 54363,
+      "low_center_orders": [
+        2,
+        3
+      ],
+      "retained": true
+    },
+    {
+      "mask_hasse_orders_2_to_18": 54364,
+      "low_center_orders": [
+        4
+      ],
+      "retained": true
+    },
+    {
+      "mask_hasse_orders_2_to_18": 54365,
+      "low_center_orders": [
+        2,
+        4
+      ],
+      "retained": true
+    },
+    {
+      "mask_hasse_orders_2_to_18": 54366,
+      "low_center_orders": [
+        3,
+        4
+      ],
+      "retained": true
+    },
+    {
+      "mask_hasse_orders_2_to_18": 54367,
+      "low_center_orders": [
+        2,
+        3,
+        4
+      ],
+      "retained": true
+    },
+    {
+      "mask_hasse_orders_2_to_18": 54856,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 56008,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 56728,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 56936,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 56968,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 57464,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 58408,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 58824,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 58936,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 58952,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 58953,
+      "low_center_orders": [
+        2
+      ],
+      "retained": true
+    },
+    {
+      "mask_hasse_orders_2_to_18": 59672,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 59720,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 59816,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 59820,
+      "low_center_orders": [
+        4
+      ],
+      "retained": true
+    },
+    {
+      "mask_hasse_orders_2_to_18": 60104,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 60105,
+      "low_center_orders": [
+        2
+      ],
+      "retained": true
+    },
+    {
+      "mask_hasse_orders_2_to_18": 60248,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 60776,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 60888,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 61416,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 61432,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 61896,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 62920,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 63720,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 63721,
+      "low_center_orders": [
+        2
+      ],
+      "retained": true
+    },
+    {
+      "mask_hasse_orders_2_to_18": 63736,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 63737,
+      "low_center_orders": [
+        2
+      ],
+      "retained": true
+    },
+    {
+      "mask_hasse_orders_2_to_18": 63752,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 63753,
+      "low_center_orders": [
+        2
+      ],
+      "retained": true
+    },
+    {
+      "mask_hasse_orders_2_to_18": 63784,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 63785,
+      "low_center_orders": [
+        2
+      ],
+      "retained": true
+    },
+    {
+      "mask_hasse_orders_2_to_18": 64120,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 64392,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 64456,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 64712,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 64792,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 65416,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 65624,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 65625,
+      "low_center_orders": [
+        2
+      ],
+      "retained": true
+    },
+    {
+      "mask_hasse_orders_2_to_18": 66152,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 66168,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 66264,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 66568,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 66584,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 66600,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 66616,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 66696,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 66712,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 66728,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 66744,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 67256,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 67384,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 67752,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 68376,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 68377,
+      "low_center_orders": [
+        2
+      ],
+      "retained": true
+    },
+    {
+      "mask_hasse_orders_2_to_18": 68504,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 68505,
+      "low_center_orders": [
+        2
+      ],
+      "retained": true
+    },
+    {
+      "mask_hasse_orders_2_to_18": 68760,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 69192,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 69432,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 69496,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 69864,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 69868,
+      "low_center_orders": [
+        4
+      ],
+      "retained": true
+    },
+    {
+      "mask_hasse_orders_2_to_18": 69960,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 70056,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 70248,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 70249,
+      "low_center_orders": [
+        2
+      ],
+      "retained": true
+    },
+    {
+      "mask_hasse_orders_2_to_18": 71128,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 71144,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 71256,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 71304,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 71368,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 72072,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 72440,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 72696,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 72792,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 73208,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 73336,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 73768,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 74088,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 74092,
+      "low_center_orders": [
+        4
+      ],
+      "retained": true
+    },
+    {
+      "mask_hasse_orders_2_to_18": 74216,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 74220,
+      "low_center_orders": [
+        4
+      ],
+      "retained": true
+    },
+    {
+      "mask_hasse_orders_2_to_18": 74360,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 74440,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 74664,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 75192,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 75193,
+      "low_center_orders": [
+        2
+      ],
+      "retained": true
+    },
+    {
+      "mask_hasse_orders_2_to_18": 75400,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 75784,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 75800,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 76152,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 76296,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 76312,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 76664,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 77112,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 77114,
+      "low_center_orders": [
+        3
+      ],
+      "retained": true
+    },
+    {
+      "mask_hasse_orders_2_to_18": 77272,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 77384,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 77576,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 77752,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 77848,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 79064,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 79096,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 79176,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 79576,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 79608,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 79688,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 79976,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 80856,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 80952,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 80954,
+      "low_center_orders": [
+        3
+      ],
+      "retained": true
+    },
+    {
+      "mask_hasse_orders_2_to_18": 81816,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 83032,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 83352,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 83400,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 83656,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 84040,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 84184,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 84952,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 85000,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 85096,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 85192,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 85560,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 85624,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 86104,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 86248,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 86520,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 86536,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 87304,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 87496,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 87848,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 88056,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 88776,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 89144,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 89192,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 89864,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 90360,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 90968,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 91000,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 91080,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 91176,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 91224,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 91256,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 92344,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 92728,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 92856,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 92984,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 93112,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 93528,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 94456,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 95064,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 95096,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 95176,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 95272,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 95320,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 95352,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 96440,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 96824,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 96952,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 97080,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 97208,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 97624,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 99192,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 99304,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 99464,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 99624,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 100296,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 100300,
+      "low_center_orders": [
+        4
+      ],
+      "retained": true
+    },
+    {
+      "mask_hasse_orders_2_to_18": 100584,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 101032,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 101304,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 101368,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 101432,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 101656,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 101832,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 101834,
+      "low_center_orders": [
+        3
+      ],
+      "retained": true
+    },
+    {
+      "mask_hasse_orders_2_to_18": 101848,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 101850,
+      "low_center_orders": [
+        3
+      ],
+      "retained": true
+    },
+    {
+      "mask_hasse_orders_2_to_18": 102376,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 102696,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 103240,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 103241,
+      "low_center_orders": [
+        2
+      ],
+      "retained": true
+    },
+    {
+      "mask_hasse_orders_2_to_18": 104056,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 104136,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 104456,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 105368,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 105656,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 105896,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 106088,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 106168,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 106280,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 107080,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 107081,
+      "low_center_orders": [
+        2
+      ],
+      "retained": true
+    },
+    {
+      "mask_hasse_orders_2_to_18": 107432,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 107436,
+      "low_center_orders": [
+        4
+      ],
+      "retained": true
+    },
+    {
+      "mask_hasse_orders_2_to_18": 107496,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 107500,
+      "low_center_orders": [
+        4
+      ],
+      "retained": true
+    },
+    {
+      "mask_hasse_orders_2_to_18": 107592,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 107848,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 108136,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 108232,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 108280,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 108936,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 109032,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 109512,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 109960,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 110056,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 110536,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 111016,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 111864,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 112344,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 112408,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 112488,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 112492,
+      "low_center_orders": [
+        4
+      ],
+      "retained": true
+    },
+    {
+      "mask_hasse_orders_2_to_18": 112680,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 112840,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 113480,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 113481,
+      "low_center_orders": [
+        2
+      ],
+      "retained": true
+    },
+    {
+      "mask_hasse_orders_2_to_18": 113544,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 113548,
+      "low_center_orders": [
+        4
+      ],
+      "retained": true
+    },
+    {
+      "mask_hasse_orders_2_to_18": 113848,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 114312,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 114360,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 114376,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 114424,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 114568,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 114616,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 114632,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 114680,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 115224,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 115560,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 115752,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 116376,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 116377,
+      "low_center_orders": [
+        2
+      ],
+      "retained": true
+    },
+    {
+      "mask_hasse_orders_2_to_18": 116488,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 117144,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 117352,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 117544,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 117976,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 117977,
+      "low_center_orders": [
+        2
+      ],
+      "retained": true
+    },
+    {
+      "mask_hasse_orders_2_to_18": 118072,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 118632,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 118648,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 119144,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 119320,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 119416,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 119528,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 119640,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 120104,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 120108,
+      "low_center_orders": [
+        4
+      ],
+      "retained": true
+    },
+    {
+      "mask_hasse_orders_2_to_18": 120408,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 120488,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 120760,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 123480,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 124168,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 124184,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 124264,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 124680,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 124696,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 124776,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 125496,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 125608,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 125976,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 126056,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 126200,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 126504,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 126760,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 127576,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 127704,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 127816,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 129016,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 129400,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 129592,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 130152,
+      "low_center_orders": [],
+      "retained": false
+    },
+    {
+      "mask_hasse_orders_2_to_18": 130920,
+      "low_center_orders": [],
+      "retained": false
+    }
+  ]
+}

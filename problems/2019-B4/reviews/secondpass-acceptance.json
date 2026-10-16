@@ -1,0 +1,43 @@
+{
+  "accepted_at_utc": "2026-10-16T15:16:03.386158+00:00",
+  "status": "proved, independently reviewed (partial results)",
+  "full_problem_status": "exact growth value undetermined",
+  "initial_audits_blind": true,
+  "both_full_reconstructions": true,
+  "substantive_repairs_required": false,
+  "novelty_established": false,
+  "claims": [
+    "canonical minimal obstructions have no proper overlaps; renewal identity and boundary derivative bound",
+    "certified 1.76521 < lambda < 1.83516197",
+    "specified infinite rigid/staircase families and fixed-generator finite-presentation obstruction",
+    "strictness of every finite minimal-factor avoidance upper growth approximation"
+  ],
+  "excluded": [
+    "general run compression",
+    "complete1791-stateexperiment",
+    "regularity/algebraicity claims",
+    "exact growth value"
+  ],
+  "manifest_checks": {
+    "notes/secondpass-checkpoint-1-sha256.txt": 14,
+    "notes/secondpass-checkpoint-2-sha256.txt": 16,
+    "reviews/secondpass-review-1-sha256.txt": 7,
+    "reviews/secondpass-review-2-sha256.txt": 58
+  },
+  "artifacts": {
+    "notes/secondpass-canonical-renewal.md": "886266000a34023b033099889a3bb23bc6b3e642194ded12ce53b3aaa1642763",
+    "notes/secondpass-rigidity-obstructions.md": "58112ed40ba7146c8b5885669602d44770bdd525540c4221eaf17b101eb1c109",
+    "notes/secondpass-staircases-and-pumping.md": "5e2539982e32d116076c2c17ad8e85d865792a14630db04634c7372ae345cd52",
+    "notes/secondpass-checkpoint-2.md": "fbe7680f25cfcc216449e48755e87fa261d7c468721928075de0710f7b77d961",
+    "notes/secondpass-checkpoint-1-sha256.txt": "db5d9f39615232712cff6096363c1eca645bbd90ce6af1264cbad139cea61393",
+    "notes/secondpass-checkpoint-2-sha256.txt": "dc949f1db82a665384cea9dc2fd8ef23edb9cf901502773bc61b9cb9dad760b9",
+    "reviews/secondpass-review-1.md": "ba8040f5dfbf6f9570604bca9770e35a4ab903c5610053077e15953c332ec210",
+    "reviews/secondpass-review-2.md": "88cfa4d90ced7614a6abd5338ce045aaef1f9d542441fce2c7c75ea24ef975d8",
+    "reviews/secondpass-review-1-sha256.txt": "06b7650748883ee7bf995be9018338d23ff443ee72f28888ef58968924d683fe",
+    "reviews/secondpass-review-2-manifest.json": "a8a3c6c1d28db60d7b6ea5737c8d90a2aef1250235bb50c570070371f0bfd4fd",
+    "reviews/secondpass-review-2-sha256.txt": "a6480a3ea8aa533633229e86dd97282201a707926da96b7fe79a2d3a7922a725",
+    "reviews/secondpass-acceptance.md": "a167e1f52bff2503c6ac571ea047efe7621425f2379868a0a6db31eccd22aefa",
+    "reviews/secondpass-acceptance-issues-snapshot.md": "8b8b66bf0438297829cc1050a78ab774f86ff813718198aee0aad0d7599767a0",
+    "proofs/reviewed-secondpass-v1.1.md": "5fbaa388fe2ff795034094823c088fa5402da60eb9eca83f78165df0c8ad2cd7"
+  }
+}

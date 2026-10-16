@@ -1,0 +1,1219 @@
+{
+  "status": "finite exploratory evidence only; no unrestricted proof or review credit",
+  "results": [
+    {
+      "degree": 6,
+      "center": 0,
+      "p": 19,
+      "tested_normalized_polynomials": 6859,
+      "nontrivial_F19_rational_witness_CA_count": 42,
+      "complete_solution_stream_sha256": "6b10a4ac4d3dd0941095e2064ab31fa62e77f2de89ab8895d5290d1a7439dbcb",
+      "first_twenty_examples": [
+        {
+          "coefficients_ascending": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            1
+          ],
+          "rational_roots": [
+            0,
+            8,
+            12,
+            18
+          ],
+          "witness_by_order": {
+            "1": 0,
+            "5": 0,
+            "2": 0,
+            "3": 8,
+            "4": 0
+          }
+        },
+        {
+          "coefficients_ascending": [
+            0,
+            0,
+            0,
+            7,
+            0,
+            0,
+            1
+          ],
+          "rational_roots": [
+            0,
+            10,
+            13,
+            15
+          ],
+          "witness_by_order": {
+            "1": 0,
+            "5": 0,
+            "2": 0,
+            "3": 10,
+            "4": 0
+          }
+        },
+        {
+          "coefficients_ascending": [
+            0,
+            0,
+            0,
+            8,
+            0,
+            0,
+            1
+          ],
+          "rational_roots": [
+            0,
+            5,
+            16,
+            17
+          ],
+          "witness_by_order": {
+            "1": 0,
+            "5": 0,
+            "2": 0,
+            "3": 5,
+            "4": 0
+          }
+        },
+        {
+          "coefficients_ascending": [
+            0,
+            0,
+            0,
+            11,
+            0,
+            0,
+            1
+          ],
+          "rational_roots": [
+            0,
+            2,
+            3,
+            14
+          ],
+          "witness_by_order": {
+            "1": 0,
+            "5": 0,
+            "2": 0,
+            "3": 2,
+            "4": 0
+          }
+        },
+        {
+          "coefficients_ascending": [
+            0,
+            0,
+            0,
+            12,
+            0,
+            0,
+            1
+          ],
+          "rational_roots": [
+            0,
+            4,
+            6,
+            9
+          ],
+          "witness_by_order": {
+            "1": 0,
+            "5": 0,
+            "2": 0,
+            "3": 4,
+            "4": 0
+          }
+        },
+        {
+          "coefficients_ascending": [
+            0,
+            0,
+            0,
+            18,
+            0,
+            0,
+            1
+          ],
+          "rational_roots": [
+            0,
+            1,
+            7,
+            11
+          ],
+          "witness_by_order": {
+            "1": 0,
+            "5": 0,
+            "2": 0,
+            "3": 1,
+            "4": 0
+          }
+        },
+        {
+          "coefficients_ascending": [
+            0,
+            0,
+            2,
+            3,
+            16,
+            0,
+            1
+          ],
+          "rational_roots": [
+            0,
+            17
+          ],
+          "witness_by_order": {
+            "1": 0,
+            "5": 0,
+            "2": 17,
+            "3": 17,
+            "4": 17
+          }
+        },
+        {
+          "coefficients_ascending": [
+            0,
+            0,
+            2,
+            7,
+            1,
+            0,
+            1
+          ],
+          "rational_roots": [
+            0,
+            8,
+            9,
+            13
+          ],
+          "witness_by_order": {
+            "1": 0,
+            "5": 0,
+            "2": 13,
+            "3": 8,
+            "4": 9
+          }
+        },
+        {
+          "coefficients_ascending": [
+            0,
+            0,
+            2,
+            12,
+            1,
+            0,
+            1
+          ],
+          "rational_roots": [
+            0,
+            6,
+            10,
+            11
+          ],
+          "witness_by_order": {
+            "1": 0,
+            "5": 0,
+            "2": 6,
+            "3": 11,
+            "4": 10
+          }
+        },
+        {
+          "coefficients_ascending": [
+            0,
+            0,
+            2,
+            16,
+            16,
+            0,
+            1
+          ],
+          "rational_roots": [
+            0,
+            2
+          ],
+          "witness_by_order": {
+            "1": 0,
+            "5": 0,
+            "2": 2,
+            "3": 2,
+            "4": 2
+          }
+        },
+        {
+          "coefficients_ascending": [
+            0,
+            0,
+            3,
+            3,
+            17,
+            0,
+            1
+          ],
+          "rational_roots": [
+            0,
+            16
+          ],
+          "witness_by_order": {
+            "1": 0,
+            "5": 0,
+            "2": 16,
+            "3": 16,
+            "4": 16
+          }
+        },
+        {
+          "coefficients_ascending": [
+            0,
+            0,
+            3,
+            7,
+            7,
+            0,
+            1
+          ],
+          "rational_roots": [
+            0,
+            4,
+            10,
+            12
+          ],
+          "witness_by_order": {
+            "1": 0,
+            "5": 0,
+            "2": 10,
+            "3": 12,
+            "4": 4
+          }
+        },
+        {
+          "coefficients_ascending": [
+            0,
+            0,
+            3,
+            12,
+            7,
+            0,
+            1
+          ],
+          "rational_roots": [
+            0,
+            7,
+            9,
+            15
+          ],
+          "witness_by_order": {
+            "1": 0,
+            "5": 0,
+            "2": 9,
+            "3": 7,
+            "4": 15
+          }
+        },
+        {
+          "coefficients_ascending": [
+            0,
+            0,
+            3,
+            16,
+            17,
+            0,
+            1
+          ],
+          "rational_roots": [
+            0,
+            3
+          ],
+          "witness_by_order": {
+            "1": 0,
+            "5": 0,
+            "2": 3,
+            "3": 3,
+            "4": 3
+          }
+        },
+        {
+          "coefficients_ascending": [
+            0,
+            0,
+            8,
+            2,
+            6,
+            0,
+            1
+          ],
+          "rational_roots": [
+            0,
+            7
+          ],
+          "witness_by_order": {
+            "1": 0,
+            "5": 0,
+            "2": 7,
+            "3": 7,
+            "4": 7
+          }
+        },
+        {
+          "coefficients_ascending": [
+            0,
+            0,
+            8,
+            8,
+            17,
+            0,
+            1
+          ],
+          "rational_roots": [
+            0,
+            3,
+            9,
+            17
+          ],
+          "witness_by_order": {
+            "1": 0,
+            "5": 0,
+            "2": 17,
+            "3": 9,
+            "4": 3
+          }
+        },
+        {
+          "coefficients_ascending": [
+            0,
+            0,
+            8,
+            11,
+            17,
+            0,
+            1
+          ],
+          "rational_roots": [
+            0,
+            2,
+            10,
+            16
+          ],
+          "witness_by_order": {
+            "1": 0,
+            "5": 0,
+            "2": 2,
+            "3": 10,
+            "4": 16
+          }
+        },
+        {
+          "coefficients_ascending": [
+            0,
+            0,
+            8,
+            17,
+            6,
+            0,
+            1
+          ],
+          "rational_roots": [
+            0,
+            12
+          ],
+          "witness_by_order": {
+            "1": 0,
+            "5": 0,
+            "2": 12,
+            "3": 12,
+            "4": 12
+          }
+        },
+        {
+          "coefficients_ascending": [
+            0,
+            0,
+            10,
+            1,
+            9,
+            0,
+            1
+          ],
+          "rational_roots": [
+            0,
+            11,
+            14,
+            18
+          ],
+          "witness_by_order": {
+            "1": 0,
+            "5": 0,
+            "2": 18,
+            "3": 14,
+            "4": 11
+          }
+        },
+        {
+          "coefficients_ascending": [
+            0,
+            0,
+            10,
+            5,
+            11,
+            0,
+            1
+          ],
+          "rational_roots": [
+            0,
+            13
+          ],
+          "witness_by_order": {
+            "1": 0,
+            "5": 0,
+            "2": 13,
+            "3": 13,
+            "4": 13
+          }
+        }
+      ]
+    },
+    {
+      "degree": 6,
+      "center": 1,
+      "p": 19,
+      "tested_normalized_polynomials": 361,
+      "nontrivial_F19_rational_witness_CA_count": 2,
+      "complete_solution_stream_sha256": "d4a32cae68a02fbbb51b9ed8b6b6717e98ac92317498d6f9aaa4acb3abc53bea",
+      "first_twenty_examples": [
+        {
+          "coefficients_ascending": [
+            0,
+            0,
+            17,
+            0,
+            7,
+            13,
+            1
+          ],
+          "rational_roots": [
+            0,
+            1,
+            7,
+            16
+          ],
+          "witness_by_order": {
+            "1": 0,
+            "5": 1,
+            "2": 16,
+            "3": 0,
+            "4": 7
+          }
+        },
+        {
+          "coefficients_ascending": [
+            0,
+            0,
+            2,
+            3,
+            0,
+            13,
+            1
+          ],
+          "rational_roots": [
+            0,
+            1,
+            4
+          ],
+          "witness_by_order": {
+            "1": 0,
+            "5": 1,
+            "2": 4,
+            "3": 4,
+            "4": 0
+          }
+        }
+      ]
+    },
+    {
+      "degree": 7,
+      "center": 0,
+      "p": 19,
+      "tested_normalized_polynomials": 130321,
+      "nontrivial_F19_rational_witness_CA_count": 18,
+      "complete_solution_stream_sha256": "f314c825ebf7986c3502a941bd48e148eeda536f964c65e1c25e20a5d56aab80",
+      "first_twenty_examples": [
+        {
+          "coefficients_ascending": [
+            0,
+            0,
+            1,
+            17,
+            16,
+            16,
+            0,
+            1
+          ],
+          "rational_roots": [
+            0,
+            7,
+            11
+          ],
+          "witness_by_order": {
+            "1": 0,
+            "6": 0,
+            "2": 7,
+            "3": 7,
+            "4": 11,
+            "5": 7
+          }
+        },
+        {
+          "coefficients_ascending": [
+            0,
+            0,
+            2,
+            1,
+            2,
+            9,
+            0,
+            1
+          ],
+          "rational_roots": [
+            0,
+            10,
+            13
+          ],
+          "witness_by_order": {
+            "1": 0,
+            "6": 0,
+            "2": 10,
+            "3": 10,
+            "4": 13,
+            "5": 10
+          }
+        },
+        {
+          "coefficients_ascending": [
+            0,
+            0,
+            3,
+            7,
+            2,
+            4,
+            0,
+            1
+          ],
+          "rational_roots": [
+            0,
+            13,
+            15
+          ],
+          "witness_by_order": {
+            "1": 0,
+            "6": 0,
+            "2": 13,
+            "3": 13,
+            "4": 15,
+            "5": 13
+          }
+        },
+        {
+          "coefficients_ascending": [
+            0,
+            0,
+            4,
+            9,
+            5,
+            11,
+            0,
+            1
+          ],
+          "rational_roots": [
+            0,
+            5,
+            17
+          ],
+          "witness_by_order": {
+            "1": 0,
+            "6": 0,
+            "2": 17,
+            "3": 17,
+            "4": 5,
+            "5": 17
+          }
+        },
+        {
+          "coefficients_ascending": [
+            0,
+            0,
+            5,
+            11,
+            17,
+            6,
+            0,
+            1
+          ],
+          "rational_roots": [
+            0,
+            4,
+            9
+          ],
+          "witness_by_order": {
+            "1": 0,
+            "6": 0,
+            "2": 4,
+            "3": 4,
+            "4": 9,
+            "5": 4
+          }
+        },
+        {
+          "coefficients_ascending": [
+            0,
+            0,
+            6,
+            6,
+            5,
+            7,
+            0,
+            1
+          ],
+          "rational_roots": [
+            0,
+            5,
+            16
+          ],
+          "witness_by_order": {
+            "1": 0,
+            "6": 0,
+            "2": 5,
+            "3": 5,
+            "4": 16,
+            "5": 5
+          }
+        },
+        {
+          "coefficients_ascending": [
+            0,
+            0,
+            7,
+            16,
+            16,
+            17,
+            0,
+            1
+          ],
+          "rational_roots": [
+            0,
+            1,
+            7
+          ],
+          "witness_by_order": {
+            "1": 0,
+            "6": 0,
+            "2": 1,
+            "3": 1,
+            "4": 7,
+            "5": 1
+          }
+        },
+        {
+          "coefficients_ascending": [
+            0,
+            0,
+            8,
+            5,
+            3,
+            5,
+            0,
+            1
+          ],
+          "rational_roots": [
+            0,
+            8,
+            18
+          ],
+          "witness_by_order": {
+            "1": 0,
+            "6": 0,
+            "2": 8,
+            "3": 8,
+            "4": 18,
+            "5": 8
+          }
+        },
+        {
+          "coefficients_ascending": [
+            0,
+            0,
+            9,
+            4,
+            5,
+            1,
+            0,
+            1
+          ],
+          "rational_roots": [
+            0,
+            16,
+            17
+          ],
+          "witness_by_order": {
+            "1": 0,
+            "6": 0,
+            "2": 16,
+            "3": 16,
+            "4": 17,
+            "5": 16
+          }
+        },
+        {
+          "coefficients_ascending": [
+            0,
+            0,
+            10,
+            4,
+            14,
+            1,
+            0,
+            1
+          ],
+          "rational_roots": [
+            0,
+            2,
+            3
+          ],
+          "witness_by_order": {
+            "1": 0,
+            "6": 0,
+            "2": 3,
+            "3": 3,
+            "4": 2,
+            "5": 3
+          }
+        },
+        {
+          "coefficients_ascending": [
+            0,
+            0,
+            11,
+            5,
+            16,
+            5,
+            0,
+            1
+          ],
+          "rational_roots": [
+            0,
+            1,
+            11
+          ],
+          "witness_by_order": {
+            "1": 0,
+            "6": 0,
+            "2": 11,
+            "3": 11,
+            "4": 1,
+            "5": 11
+          }
+        },
+        {
+          "coefficients_ascending": [
+            0,
+            0,
+            12,
+            16,
+            3,
+            17,
+            0,
+            1
+          ],
+          "rational_roots": [
+            0,
+            12,
+            18
+          ],
+          "witness_by_order": {
+            "1": 0,
+            "6": 0,
+            "2": 18,
+            "3": 18,
+            "4": 12,
+            "5": 18
+          }
+        },
+        {
+          "coefficients_ascending": [
+            0,
+            0,
+            13,
+            6,
+            14,
+            7,
+            0,
+            1
+          ],
+          "rational_roots": [
+            0,
+            3,
+            14
+          ],
+          "witness_by_order": {
+            "1": 0,
+            "6": 0,
+            "2": 14,
+            "3": 14,
+            "4": 3,
+            "5": 14
+          }
+        },
+        {
+          "coefficients_ascending": [
+            0,
+            0,
+            14,
+            11,
+            2,
+            6,
+            0,
+            1
+          ],
+          "rational_roots": [
+            0,
+            10,
+            15
+          ],
+          "witness_by_order": {
+            "1": 0,
+            "6": 0,
+            "2": 15,
+            "3": 15,
+            "4": 10,
+            "5": 15
+          }
+        },
+        {
+          "coefficients_ascending": [
+            0,
+            0,
+            15,
+            9,
+            14,
+            11,
+            0,
+            1
+          ],
+          "rational_roots": [
+            0,
+            2,
+            14
+          ],
+          "witness_by_order": {
+            "1": 0,
+            "6": 0,
+            "2": 2,
+            "3": 2,
+            "4": 14,
+            "5": 2
+          }
+        },
+        {
+          "coefficients_ascending": [
+            0,
+            0,
+            16,
+            7,
+            17,
+            4,
+            0,
+            1
+          ],
+          "rational_roots": [
+            0,
+            4,
+            6
+          ],
+          "witness_by_order": {
+            "1": 0,
+            "6": 0,
+            "2": 6,
+            "3": 6,
+            "4": 4,
+            "5": 6
+          }
+        },
+        {
+          "coefficients_ascending": [
+            0,
+            0,
+            17,
+            1,
+            17,
+            9,
+            0,
+            1
+          ],
+          "rational_roots": [
+            0,
+            6,
+            9
+          ],
+          "witness_by_order": {
+            "1": 0,
+            "6": 0,
+            "2": 9,
+            "3": 9,
+            "4": 6,
+            "5": 9
+          }
+        },
+        {
+          "coefficients_ascending": [
+            0,
+            0,
+            18,
+            17,
+            3,
+            16,
+            0,
+            1
+          ],
+          "rational_roots": [
+            0,
+            8,
+            12
+          ],
+          "witness_by_order": {
+            "1": 0,
+            "6": 0,
+            "2": 12,
+            "3": 12,
+            "4": 8,
+            "5": 12
+          }
+        }
+      ]
+    },
+    {
+      "degree": 7,
+      "center": 1,
+      "p": 19,
+      "tested_normalized_polynomials": 6859,
+      "nontrivial_F19_rational_witness_CA_count": 8,
+      "complete_solution_stream_sha256": "878f4cf058ea203dae4be95d0a45df299f68fbc244de2d873c28346f5e4839c7",
+      "first_twenty_examples": [
+        {
+          "coefficients_ascending": [
+            0,
+            0,
+            16,
+            2,
+            0,
+            7,
+            12,
+            1
+          ],
+          "rational_roots": [
+            0,
+            1,
+            9
+          ],
+          "witness_by_order": {
+            "1": 0,
+            "6": 1,
+            "2": 9,
+            "3": 9,
+            "4": 0,
+            "5": 9
+          }
+        },
+        {
+          "coefficients_ascending": [
+            0,
+            0,
+            0,
+            5,
+            13,
+            7,
+            12,
+            1
+          ],
+          "rational_roots": [
+            0,
+            1,
+            2,
+            9,
+            14
+          ],
+          "witness_by_order": {
+            "1": 0,
+            "6": 1,
+            "2": 0,
+            "3": 2,
+            "4": 2,
+            "5": 9
+          }
+        },
+        {
+          "coefficients_ascending": [
+            0,
+            0,
+            15,
+            6,
+            5,
+            18,
+            12,
+            1
+          ],
+          "rational_roots": [
+            0,
+            1,
+            13,
+            16
+          ],
+          "witness_by_order": {
+            "1": 0,
+            "6": 1,
+            "2": 13,
+            "3": 13,
+            "4": 13,
+            "5": 13
+          }
+        },
+        {
+          "coefficients_ascending": [
+            0,
+            0,
+            3,
+            9,
+            0,
+            13,
+            12,
+            1
+          ],
+          "rational_roots": [
+            0,
+            1,
+            3,
+            12
+          ],
+          "witness_by_order": {
+            "1": 0,
+            "6": 1,
+            "2": 1,
+            "3": 12,
+            "4": 0,
+            "5": 3
+          }
+        },
+        {
+          "coefficients_ascending": [
+            0,
+            0,
+            7,
+            12,
+            0,
+            6,
+            12,
+            1
+          ],
+          "rational_roots": [
+            0,
+            1,
+            14,
+            17,
+            18
+          ],
+          "witness_by_order": {
+            "1": 0,
+            "6": 1,
+            "2": 1,
+            "3": 18,
+            "4": 0,
+            "5": 14
+          }
+        },
+        {
+          "coefficients_ascending": [
+            0,
+            0,
+            8,
+            12,
+            15,
+            9,
+            12,
+            1
+          ],
+          "rational_roots": [
+            0,
+            1,
+            7,
+            9,
+            13,
+            15
+          ],
+          "witness_by_order": {
+            "1": 0,
+            "6": 1,
+            "2": 7,
+            "3": 1,
+            "4": 15,
+            "5": 15
+          }
+        },
+        {
+          "coefficients_ascending": [
+            0,
+            0,
+            0,
+            14,
+            0,
+            11,
+            12,
+            1
+          ],
+          "rational_roots": [
+            0,
+            1,
+            11
+          ],
+          "witness_by_order": {
+            "1": 0,
+            "6": 1,
+            "2": 0,
+            "3": 1,
+            "4": 0,
+            "5": 11
+          }
+        },
+        {
+          "coefficients_ascending": [
+            0,
+            0,
+            1,
+            14,
+            10,
+            0,
+            12,
+            1
+          ],
+          "rational_roots": [
+            0,
+            1,
+            4,
+            7,
+            10
+          ],
+          "witness_by_order": {
+            "1": 0,
+            "6": 1,
+            "2": 1,
+            "3": 7,
+            "4": 4,
+            "5": 0
+          }
+        }
+      ]
+    }
+  ]
+}

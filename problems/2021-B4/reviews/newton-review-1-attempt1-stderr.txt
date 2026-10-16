@@ -1,0 +1,9 @@
+Traceback (most recent call last):
+  File "/Users/uqmkamga/Documents/ChatGPT/Website/problems/2021-B4/reviews/newton-review-1-check.py", line 245, in <module>
+    worker()
+  File "/Users/uqmkamga/Documents/ChatGPT/Website/problems/2021-B4/reviews/newton-review-1-check.py", line 238, in worker
+    audit_certificates(expected)
+  File "/Users/uqmkamga/Documents/ChatGPT/Website/problems/2021-B4/reviews/newton-review-1-check.py", line 174, in audit_certificates
+    assert matches, (key, encodings, record)
+           ^^^^^^^
+AssertionError: ((129056, 0), {'pair:compact=False:sorted=False': 'a15cad886a62cb16a6671b58379cac868011359adca46af31c667ae2475f364f', 'pair:compact=False:sorted=True': 'a15cad886a62cb16a6671b58379cac868011359adca46af31c667ae2475f364f', 'pair:compact=True:sorted=False': 'c2d51af9d254ac14db2cd803a1bf31b8ef0781fec0c32c711e0809c9613fe44f', 'pair:compact=True:sorted=True': 'c2d51af9d254ac14db2cd803a1bf31b8ef0781fec0c32c711e0809c9613fe44f', 'dict:compact=False:sorted=False': 'adea6efbb86ecd6903d852f7b75515123e8b6813fb5de2d1a5eddc5326e43dc4', 'dict:compact=False:sorted=True': 'adea6efbb86ecd6903d852f7b75515123e8b6813fb5de2d1a5eddc5326e43dc4', 'dict:compact=True:sorted=False': 'e4188a0d6fb9ba3dd1ae7c2de7144d748f29311ce6f10f3a89e8cbbb98531270', 'dict:compact=True:sorted=True': 'e4188a0d6fb9ba3dd1ae7c2de7144d748f29311ce6f10f3a89e8cbbb98531270'}, {'center_mask': 129056, 'constant': 2421390172, 'degrees': [0, 20], 'polynomials_sha256': '14defa417420dbb9c57bc00d27fccd1696eaf4bebe544ff3034b0102b1020049', 'status': 'constant_nonzero', 'u_mask': 0})

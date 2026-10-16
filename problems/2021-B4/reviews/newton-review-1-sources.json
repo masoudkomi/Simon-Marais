@@ -1,0 +1,47 @@
+{
+  "checked_at_utc_date": "2026-10-16",
+  "sources": [
+    {
+      "title": "Official SMMC 2021 Paper B",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2021-paper-b.pdf",
+      "checked": "Page2 B4 rational-coefficient and rational-witness hypotheses, variable witnesses, part(b) scope.",
+      "access": "web PDF; central official inventory already present; no source file edited"
+    },
+    {
+      "title": "Castryck-Laterveer-Ounaies: Constraints on counterexamples to the Casas-Alvero conjecture, and a verification in degree12",
+      "url": "https://arxiv.org/pdf/1208.5404",
+      "cache_path": ".cache/literature/2021/cited-66c5af6a0f0239f5.pdf",
+      "sha256": "d818747102d32060f43ae5f015f27065aadf38699b272a2367749db8b33fedbf",
+      "checked": "Section3.4 equations(9)-(10), root valuation argument preceding Lemma17; section1.2 recycled-root type and Proposition7."
+    },
+    {
+      "title": "Draisma-de Jong: On the Casas-Alvero conjecture, EMS Newsletter80",
+      "url": "https://www.ems-ph.org/journals/newsletter/pdf/2011-06-80.pdf",
+      "cache_path": ".cache/literature/2021/draisma-de-jong-newsletter-2011-06-80.pdf",
+      "sha256": "9babd9ea728de626f8921a4086f6170039537c7305ac5b500f6ba0edda942ad0",
+      "checked": "Proposition6 and its proof, printed pages31-32; exclusion of two recycled witnesses, attributed there to Draisma-Knopper. No later degree assertion used."
+    },
+    {
+      "title": "Bjorn Poonen: Lectures on rational points on curves",
+      "url": "https://math.mit.edu/~poonen/papers/curves.pdf",
+      "cache_path": ".cache/literature/2021/poonen-curves.pdf",
+      "sha256": "a202c5959e1cc7807e89cf290f0b00ec498d4e2a771ef5090639810cf35aaa62",
+      "pages": 118,
+      "checked": "Section4.2.1 Definition4.2.2 and Theorem4.2.3; algebraic closure and nonarchimedean real-valued valuation hypotheses, orientation and slope sign; literal multiplicity wording caveat recorded R1-C1."
+    },
+    {
+      "title": "Michael Stoll: p-adic Analysis in Arithmetic Geometry, Winter2015/2016, print version2020-03-29",
+      "url": "https://www.mathe2.uni-bayreuth.de/stoll/teaching/pAdicAnalysis-WS2015/Skript-pAdicAnalysis-pub-print.pdf",
+      "cache_path": ".cache/literature/2021/newton-review-1-stoll-padic-analysis.pdf",
+      "sha256": "4c0bb01c0d9aa251d704ec2d8c33b340317b79dd6fe58b0461eaf7fe4017ced3",
+      "pages": 52,
+      "checked": "Section3 standing complete nontrivially valued nonarchimedean field hypotheses, Lemma3.5 and Theorem3.6, pages14-16; explicit multiplicity theorem and product proof.",
+      "download_command": "curl -L --fail --silent --show-error https://www.mathe2.uni-bayreuth.de/stoll/teaching/pAdicAnalysis-WS2015/Skript-pAdicAnalysis-pub-print.pdf -o .cache/literature/2021/newton-review-1-stoll-padic-analysis.pdf",
+      "download_exit_code": 0,
+      "ignored_cache_verified": true,
+      "redistribution_licence_verified": false,
+      "full_paper_committed": false,
+      "central_retrieval_metadata_action": "Coordinator owns sources/; metadata supplied here for coordinator integration."
+    }
+  ]
+}

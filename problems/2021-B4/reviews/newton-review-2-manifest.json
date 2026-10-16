@@ -1,0 +1,305 @@
+{
+  "candidate_sha256": "ce3ff564b48841ae3ae1bf66c3cf5303ed2833c2166590cb2460706f01b5c335",
+  "checkpoint_manifest": {
+    "path": "problems/2021-B4/notes/padic-rational-checkpoint-v1.json",
+    "sha256": "2859c979347c52fe01e98c0e755c977e1b7c769cbf378861fc1c9b665dcf93ca"
+  },
+  "commits_pushes_promotion": false,
+  "computation": {
+    "comparison_summary": {
+      "author_certificate_sha256": "9676e4885d670a23ea1fb1b0a151ec1f9a8cece8532a1dd43277450b3a7a7fc3",
+      "author_polynomial_stream_sha256": "47a5b912863c67f22fed42daaf92b72949a06164966037ac97e4ad8afd22395b",
+      "certificate_histogram": {
+        "101": 28583,
+        "103": 1213,
+        "107": 55,
+        "109": 4,
+        "constant": 73
+      },
+      "checked": 29928,
+      "duplicate_records": 0,
+      "elapsed_seconds": 5.30526487500174,
+      "every_polynomial_hash_matches": true,
+      "every_recorded_degree_preserved": true,
+      "every_recorded_gcd_recomputed": true,
+      "exact_family_coverage": true,
+      "missing_records": 0,
+      "spurious_records": 0
+    },
+    "dependencies": {
+      "main_check": "standard library only",
+      "pdf_extraction": "pypdf 6.10.0",
+      "python": "3.12.14"
+    },
+    "independent_summary": {
+      "binary_patterns": 6680,
+      "compatible_initial_forms": 18,
+      "elapsed_seconds": 5.203880124987336,
+      "families": {
+        "certificates": {
+          "101": 28583,
+          "103": 1213,
+          "107": 55,
+          "109": 4,
+          "constant": 73
+        },
+        "checked": 29928,
+        "ordinary_polynomial_stream_sha256": "d26930f5a90034d2c5f5fabfa787af4cdbbfe6e5184d73b2d71e11230b13e01c",
+        "records_path": "/Users/uqmkamga/Documents/ChatGPT/Website/problems/2021-B4/reviews/newton-review-2-independent-cases.jsonl",
+        "records_sha256": "4ac23d30e994217ef102798fbeef1fac1b7c0139cce77a32c59c1f1a28cd0b92"
+      },
+      "histogram": {
+        "10": 26,
+        "11": 32,
+        "12": 101,
+        "13": 131,
+        "14": 315,
+        "15": 461,
+        "16": 887,
+        "17": 1674,
+        "18": 3043,
+        "6": 1,
+        "7": 1,
+        "8": 3,
+        "9": 5
+      },
+      "j16_retained": 88,
+      "j17_retained": 73,
+      "normalized_initial_form_cases": 6156,
+      "remaining": 1164
+    },
+    "jobs": [
+      {
+        "command": [
+          "/Users/uqmkamga/Documents/ChatGPT/Website/.venv/bin/python",
+          "-u",
+          "/Users/uqmkamga/Documents/ChatGPT/Website/problems/2021-B4/reviews/newton-review-2-independent.py"
+        ],
+        "elapsed_seconds": 5.246613665978657,
+        "exit_code": 0,
+        "output": "/Users/uqmkamga/Documents/ChatGPT/Website/problems/2021-B4/reviews/newton-review-2-independent-run.jsonl",
+        "output_sha256": "fcb33365b98e53f5b7f72b2e5eab865706031190b7445ab9b4cb5c290600779a",
+        "pid": 28394,
+        "script_sha256": "fcb43b21e8ec81359b13ba68369e556e0e1623482806a56f5ebf5585230788e2",
+        "started_at_unix": 1792163495.761708,
+        "timed_out": false,
+        "timeout_seconds": 120
+      },
+      {
+        "command": [
+          "/Users/uqmkamga/Documents/ChatGPT/Website/.venv/bin/python",
+          "-u",
+          "/Users/uqmkamga/Documents/ChatGPT/Website/problems/2021-B4/reviews/newton-review-2-compare.py"
+        ],
+        "elapsed_seconds": 5.410323415999301,
+        "exit_code": 0,
+        "output": "/Users/uqmkamga/Documents/ChatGPT/Website/problems/2021-B4/reviews/newton-review-2-compare-run.jsonl",
+        "output_sha256": "29d6a13ab0d89732afe19530d5f989256ab7531165d9c98054795141bd3ece42",
+        "pid": 28596,
+        "script_sha256": "ae91ed8eb4b776f86b0135376362eb8da14166614d7984fb0557c0365bd43ac0",
+        "started_at_unix": 1792163568.8369641,
+        "timed_out": false,
+        "timeout_seconds": 120
+      }
+    ],
+    "jobs_running": false
+  },
+  "files": {
+    "problems/2021-B4/reviews/newton-review-2-compare-run-job.json": {
+      "bytes": 652,
+      "sha256": "600b039f8aa2c66585e86209e56b09131ca052f0c11093e01ea2d647c9bccbcc"
+    },
+    "problems/2021-B4/reviews/newton-review-2-compare-run.jsonl": {
+      "bytes": 2597,
+      "sha256": "29d6a13ab0d89732afe19530d5f989256ab7531165d9c98054795141bd3ece42"
+    },
+    "problems/2021-B4/reviews/newton-review-2-compare.py": {
+      "bytes": 4437,
+      "sha256": "ae91ed8eb4b776f86b0135376362eb8da14166614d7984fb0557c0365bd43ac0"
+    },
+    "problems/2021-B4/reviews/newton-review-2-comparison-summary.json": {
+      "bytes": 616,
+      "sha256": "74060f26220f515088fb01aad94edd190124ffe7762b25d8de3a3cab729fa285"
+    },
+    "problems/2021-B4/reviews/newton-review-2-independent-cases.jsonl": {
+      "bytes": 6071497,
+      "sha256": "4ac23d30e994217ef102798fbeef1fac1b7c0139cce77a32c59c1f1a28cd0b92"
+    },
+    "problems/2021-B4/reviews/newton-review-2-independent-run-job.json": {
+      "bytes": 659,
+      "sha256": "70ba80ff9d2ec73372856e00a1704b6f3b88fb55c19fa5a86082e94fc4632bf9"
+    },
+    "problems/2021-B4/reviews/newton-review-2-independent-run.jsonl": {
+      "bytes": 5782,
+      "sha256": "fcb33365b98e53f5b7f72b2e5eab865706031190b7445ab9b4cb5c290600779a"
+    },
+    "problems/2021-B4/reviews/newton-review-2-independent-summary.json": {
+      "bytes": 907,
+      "sha256": "0bb461f9c54918642e807fa2cfb9618707107ae422b340b94842a8701e6d025a"
+    },
+    "problems/2021-B4/reviews/newton-review-2-independent.py": {
+      "bytes": 9179,
+      "sha256": "fcb43b21e8ec81359b13ba68369e556e0e1623482806a56f5ebf5585230788e2"
+    },
+    "problems/2021-B4/reviews/newton-review-2-initial-forms.json": {
+      "bytes": 1704,
+      "sha256": "9b251beff0fc5399c393fe1e5a53bc5d94d28b2090cbd64c2f57bc10010ef62f"
+    },
+    "problems/2021-B4/reviews/newton-review-2-issues.json": {
+      "bytes": 1788,
+      "sha256": "99f3366257e17db0b37d8c860710b6f5bd0dfc4d77e15369f658d2f4b19f65f7"
+    },
+    "problems/2021-B4/reviews/newton-review-2-patterns.json": {
+      "bytes": 40811,
+      "sha256": "a19196fa742a1b17893a1b10a383004abbcc2f45d1abbce518a9962840800bce"
+    },
+    "problems/2021-B4/reviews/newton-review-2-supervise.py": {
+      "bytes": 2040,
+      "sha256": "31706af5ac465c278b1829fcd85eca92468fa26eccd1fc70d3e799f0862155ac"
+    },
+    "problems/2021-B4/reviews/newton-review-2.md": {
+      "bytes": 17406,
+      "sha256": "18f04c057a43b715bfa326c050cf61ab574052289706eedc680ff4cea674a818"
+    }
+  },
+  "frozen_at_utc": "2026-10-16T15:16:51.194844+00:00",
+  "full_contest_solution": false,
+  "independence": {
+    "author_hash_serialization_source_lines_read_after_independent_run": true,
+    "author_programs_imported_or_executed": false,
+    "author_raw_results_compared_only_after_independent_complete_run": true,
+    "coordinator_extension_note_read": false,
+    "initial_report_frozen_before_extension_audit": true,
+    "other_reviews_or_shared_conclusion_logs_read": false
+  },
+  "initial_blind_report": true,
+  "input_checks": {
+    "problems/2021-B4/computations/padic-rational-j16-obstruction.jsonl": {
+      "bytes": 8582,
+      "matches": true,
+      "sha256": "c1af66f53f73a990392a15d84e7279d97c164bea33c8de6b9713d56b1226b5c3"
+    },
+    "problems/2021-B4/computations/padic-rational-j16-obstruction.py": {
+      "bytes": 2751,
+      "matches": true,
+      "sha256": "46f14a8bcd5daf7ad0947208ab2db40b4da754331e7be4d8ba9b8c005f6f5f26"
+    },
+    "problems/2021-B4/computations/padic-rational-j17-certificates.jsonl": {
+      "bytes": 7267887,
+      "matches": true,
+      "sha256": "9676e4885d670a23ea1fb1b0a151ec1f9a8cece8532a1dd43277450b3a7a7fc3"
+    },
+    "problems/2021-B4/computations/padic-rational-j17-compatibility.py": {
+      "bytes": 6674,
+      "matches": true,
+      "sha256": "b256641c20b4cd6dbd7e346421fe09f5ebdb58090887a43fe06ef845d3534046"
+    },
+    "problems/2021-B4/computations/padic-rational-j17-run.jsonl": {
+      "bytes": 3826,
+      "matches": true,
+      "sha256": "140599149f6141769a32a6a5093f77f7fb6317bfe06e164d4cee938e3960a159"
+    },
+    "problems/2021-B4/computations/padic-rational-j17-spotcheck.jsonl": {
+      "bytes": 2348,
+      "matches": true,
+      "sha256": "60d818a2d0be95803d6a29818e56fbf65aca3727c1732004d2fcd80029b6cd5e"
+    },
+    "problems/2021-B4/computations/padic-rational-j17-spotcheck.py": {
+      "bytes": 3109,
+      "matches": true,
+      "sha256": "2c736b5d9c26b3b07626de3db8a1e30c08b5a651a7a7b3a45341a9c3ac4f7e32"
+    },
+    "problems/2021-B4/computations/padic-rational-newton-patterns.jsonl": {
+      "bytes": 12840,
+      "matches": true,
+      "sha256": "201d27d4ce839143596954780fb841d3aca5db0227b840f46761a5d4250340ff"
+    },
+    "problems/2021-B4/computations/padic-rational-newton-patterns.py": {
+      "bytes": 2930,
+      "matches": true,
+      "sha256": "dd14df63f0d9ca21ea8d89c3055fa5fe892067cbbc41112c7f852c1f46dbeba1"
+    },
+    "problems/2021-B4/notes/padic-rational-newton-obstructions-v1.md": {
+      "bytes": 16974,
+      "matches": true,
+      "sha256": "ce3ff564b48841ae3ae1bf66c3cf5303ed2833c2166590cb2460706f01b5c335"
+    }
+  },
+  "normalization_dependency": {
+    "path": "problems/2021-B4/notes/rational-witness-p-plus-one-v1.1.md",
+    "sha256": "ef87eebe1f49302f5e9af1ab0781b73bdb39de9763f7b75d60d5b6f746a9aa85"
+  },
+  "report": "problems/2021-B4/reviews/newton-review-2.md",
+  "requested_settings": {
+    "effective_setting_readback": null,
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "sources": [
+    {
+      "cached_primary_source": true,
+      "name": "official_2021_paper_b",
+      "path": ".cache/official/2021-paper_b.pdf",
+      "relevant_pdf_pages_one_based": [
+        2
+      ],
+      "sha256": "2d507d593500f762e90b041d03a451e884ea33c8769f9a2132427e14d8f926d1",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2021-paper-b.pdf",
+      "verified_on_utc_date": "2026-10-16"
+    },
+    {
+      "cached_primary_source": true,
+      "name": "CLO",
+      "path": ".cache/literature/2021/cited-66c5af6a0f0239f5.pdf",
+      "relevant_pdf_pages_one_based": [
+        1,
+        2,
+        3,
+        6,
+        7,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "sha256": "d818747102d32060f43ae5f015f27065aadf38699b272a2367749db8b33fedbf",
+      "url": "https://arxiv.org/abs/1208.5404",
+      "verified_on_utc_date": "2026-10-16"
+    },
+    {
+      "cached_primary_source": true,
+      "name": "Draisma_de_Jong",
+      "path": ".cache/literature/2021/draisma-de-jong-newsletter-2011-06-80.pdf",
+      "relevant_pdf_pages_one_based": [
+        33,
+        34
+      ],
+      "sha256": "9babd9ea728de626f8921a4086f6170039537c7305ac5b500f6ba0edda942ad0",
+      "url": "https://www.ems-ph.org/journals/newsletter/pdf/2011-06-80.pdf",
+      "verified_on_utc_date": "2026-10-16"
+    },
+    {
+      "cached_primary_source": true,
+      "name": "Poonen",
+      "path": ".cache/literature/2021/poonen-curves.pdf",
+      "relevant_pdf_pages_one_based": [
+        68,
+        82
+      ],
+      "sha256": "a202c5959e1cc7807e89cf290f0b00ec498d4e2a771ef5090639810cf35aaa62",
+      "url": "https://math.mit.edu/~poonen/papers/curves.pdf",
+      "verified_on_utc_date": "2026-10-16"
+    }
+  ],
+  "verdict": "partial claims pass R2 audit; no unresolved substantive objection; coordinator alone may promote",
+  "weekly_telemetry": {
+    "opening_and_after_compute_readings_match": true,
+    "resets_at": 1792745187,
+    "stop_total_percent": 90,
+    "tool": "get_usage_limits",
+    "total_used_percent": 7,
+    "window_duration_mins": 10080
+  }
+}

@@ -1,9 +1,11 @@
 # 2021 B4 issue log
 
-The rational-witness Eisenstein restriction and its finite filter have
-passed two fresh blind full reconstructions and are accepted as partial
-results. The original reductions, source objections and later Newton
-packet retain separate unverified labels. No full degree is solved.
+The rational-witness Eisenstein restriction and the later Newton packet
+have each passed two fresh blind full reconstructions and are accepted
+as partial results. The Newton conditions leave1164 necessary degree-20
+masks; these are not rational polynomials or a complete degree solution.
+The original reductions, source objections and separate coordinator
+degeneration extension retain unverified labels.
 
 | ID | Version / location | Objection | Severity | Repair / evidence | Re-review | Status |
 |---|---|---|---|---|---|---|
@@ -19,4 +21,6 @@ packet retain separate unverified labels. No full degree is solved.
 | 2021-010 | notes/rational-witness-p-plus-one-v1.md | Residual-factor restriction and degree20 filter needed two independent audits. | Review gate | Both blind full reconstructions and distinct computations accepted; author repaired page locator and explicit monic derivative notation. No mathematical repair requested. | witness-review-1.md and witness-review-2.md; coordinator checked presentation repairs. | Closed; accepted partial result |
 | 2021-011 | Massri arXiv1806.09561v6 Theorem7.10 | Claimed three-recycled-root exclusion requires audit of computation, degeneracies and saturation before relying on it. | Source / computation limitation | Primary active v6 located; earlier withdrawn versions distinguished; coordinator cached full PDF. | Not performed in this pass | Open |
 
-| 2021-012 | notes/padic-rational-newton-obstructions-v1.md | General Newton-edge lemmas and J17/J16 exclusions need independent reconstruction, exhaustive case coverage and modular certificate verification. | Promotion blocker | Frozen packet and all29928 exact compatibility records saved;1164 necessary patterns remain. | newton-review-1 active; fresh R2 pending. | Open; unverified |
+| 2021-012 | notes/padic-rational-newton-obstructions-v1.md | General Newton-edge lemmas and J17/J16 exclusions need independent reconstruction, exhaustive case coverage and modular certificate verification. | Review gate | Both fresh blind full reconstructions independently generated and checked all29928 exact pairs/certificates; no unresolved substantive objection. | newton-review-1.md and newton-review-2.md complete. | Closed; accepted partial result |
+| 2021-013 | Newton source wording | Poonen display lacks explicit multiplicity qualifier. | Nonblocking citation precision | Both independently reconstruct multiplicity argument; R1 checks Stoll Theorem3.6; accepted register adds that explicit source. | Both initial audits resolve the mathematical count. | Closed |
+| 2021-014 | notes/coordinator-newton-degeneration-v1.md | New general small-cluster degeneration and J15 low-center disjunction require their own two audits. | Separate review gate | Frozen coordinator packet and finite392-mask exclusion saved. | R1/R2 separately active after freezing old initial reports. | Open; unverified |

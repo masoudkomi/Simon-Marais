@@ -2,7 +2,7 @@
   "branch": "codex/smmc-b4-research",
   "remote": "https://github.com/masoudkomi/Simon-Marais.git",
   "phase": "all initial passes complete; independent review and focused research",
-  "last_pushed_commit": "038f9af",
+  "last_pushed_commit": "1c49dfb",
   "initial_passes_complete": [
     2017,
     2018,
@@ -16,18 +16,18 @@
   ],
   "active": [
     {
-      "agent": "review_2019_renewal_r1",
+      "agent": "review_2017_secondpass_r1",
       "role": "fresh blind full reviewer",
-      "year": 2019
-    },
-    {
-      "agent": "review_2019_renewal_r2",
-      "role": "fresh blind full reviewer",
-      "year": 2019
+      "year": 2017
     },
     {
       "agent": "review_2021_newton_r1",
-      "role": "fresh blind full reviewer",
+      "role": "separate blind degeneration extension reviewer; old report frozen",
+      "year": 2021
+    },
+    {
+      "agent": "review_2021_newton_r2",
+      "role": "separate blind degeneration extension reviewer; old report frozen",
       "year": 2021
     }
   ],
@@ -42,6 +42,6 @@
     "exec_session": 57629,
     "duration_seconds": 43200
   },
-  "notes": "Snapshot, not live telemetry. Full 2018 published reproduction and full 2023 classification accepted; novelty unestablished. Reviewed partials: 2019 earlier bounds, 2021 Eisenstein restriction, 2022 repaired density, 2024 exact whole-phi13 criterion. New 2017 structural packets, stronger 2019 renewal/bounds and 2021 Newton restrictions remain unverified. Host tool call was delayed about3h51; returned at14:53UTC, workers continued and checkpointed; do not claim uninterrupted host execution. Caffeinate PID5398 verified active14:55UTC, about6.5h left. No stopping threshold reached.",
-  "observed_at_utc": "2026-10-16T14:57:32.147390+00:00"
+  "notes": "Snapshot not live telemetry. Accepted2018publishedreproductionand2023fullclassification; reviewedpartials2019strongerrenewalbounds,2021Newton/Eisenstein,2022density,2024wholephi13criterion. New2017packetsand2021degenerationextensionremainunverified. No stopcondition reached. Hostdelayhonestlyrecordedpreviously; caffeinate12hoursPID5398expiresabout21:26UTC. Fullpaperslocalignoredcache.",
+  "observed_at_utc": "2026-10-16T15:19:15.010658+00:00"
 }

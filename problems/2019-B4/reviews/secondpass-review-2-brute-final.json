@@ -1,0 +1,92 @@
+{
+  "elapsed_seconds": 0.6593623750086408,
+  "mode": "brute",
+  "python": "3.15.0 (v3.15.0:d220409a13b, Oct  9 2026, 08:17:44) [Clang 21.0.0 (clang-2100.1.1.101)]",
+  "result": {
+    "rows": [
+      {
+        "canonical_count": 1,
+        "minimal_bad": [],
+        "n": 0
+      },
+      {
+        "canonical_count": 2,
+        "minimal_bad": [],
+        "n": 1
+      },
+      {
+        "canonical_count": 4,
+        "minimal_bad": [],
+        "n": 2
+      },
+      {
+        "canonical_count": 8,
+        "minimal_bad": [],
+        "n": 3
+      },
+      {
+        "canonical_count": 15,
+        "minimal_bad": [
+          "RRLL"
+        ],
+        "n": 4
+      },
+      {
+        "canonical_count": 28,
+        "minimal_bad": [],
+        "n": 5
+      },
+      {
+        "canonical_count": 52,
+        "minimal_bad": [],
+        "n": 6
+      },
+      {
+        "canonical_count": 96,
+        "minimal_bad": [],
+        "n": 7
+      },
+      {
+        "canonical_count": 177,
+        "minimal_bad": [],
+        "n": 8
+      },
+      {
+        "canonical_count": 326,
+        "minimal_bad": [],
+        "n": 9
+      },
+      {
+        "canonical_count": 600,
+        "minimal_bad": [],
+        "n": 10
+      },
+      {
+        "canonical_count": 1104,
+        "minimal_bad": [],
+        "n": 11
+      },
+      {
+        "canonical_count": 2030,
+        "minimal_bad": [
+          "RRLRRLRLLRLL"
+        ],
+        "n": 12
+      },
+      {
+        "canonical_count": 3732,
+        "minimal_bad": [],
+        "n": 13
+      },
+      {
+        "canonical_count": 6858,
+        "minimal_bad": [
+          "RRLRRLRLLLLRLL",
+          "RRLRRRRLRLLRLL"
+        ],
+        "n": 14
+      }
+    ]
+  },
+  "source_sha256": "1f281f1463f6f51e9ee2a26d0dae7ff8129341c993ee86846846899946876aab"
+}

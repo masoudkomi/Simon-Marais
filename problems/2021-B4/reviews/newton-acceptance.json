@@ -1,0 +1,33 @@
+{
+  "accepted_at_utc": "2026-10-16T15:18:40.435547+00:00",
+  "status": "proved, independently reviewed (partial results)",
+  "full_problem_status": "no full degree solved",
+  "initial_audits_blind": true,
+  "both_full_reconstructions": true,
+  "substantive_repairs_required": false,
+  "editorial_addition": "explicitStollTheorem3.6multiplicityreference;bothreviewersindependentlyreconstructrequiredcount",
+  "novelty_established": false,
+  "exact_family_certificates_independently_verified_by_each_reviewer": 29928,
+  "remaining_necessary_binary_patterns": 1164,
+  "manifest_checks": {
+    "notes/padic-rational-checkpoint-v1.json": 10,
+    "reviews/newton-review-1-checkpoint.json": 9,
+    "reviews/newton-review-2-manifest.json": 14
+  },
+  "artifacts": {
+    "notes/padic-rational-newton-obstructions-v1.md": "ce3ff564b48841ae3ae1bf66c3cf5303ed2833c2166590cb2460706f01b5c335",
+    "notes/padic-rational-newton-reviewed-v1.1.md": "691c7c04be6b7d63b528724a59f43636e0e71dd2135f7c0d14e25487f738e963",
+    "notes/padic-rational-checkpoint-v1.json": "2859c979347c52fe01e98c0e755c977e1b7c769cbf378861fc1c9b665dcf93ca",
+    "reviews/newton-review-1.md": "41ded8b1f1f7541e6b97978008cea7342668bf4452b37615e75d6d07c137d088",
+    "reviews/newton-review-1-checkpoint.json": "efcacd8738a655526341b2f66f4accb3ca787ef5dfb78a3eaeb87c53cf22b800",
+    "reviews/newton-review-2.md": "18f04c057a43b715bfa326c050cf61ab574052289706eedc680ff4cea674a818",
+    "reviews/newton-review-2-manifest.json": "2186cc6b5fb77cf8677486d19000eed8e8ea11189985020bf635f7d9333d8ab2",
+    "reviews/newton-acceptance.md": "bd1a2d6cb3f61060b2f488b3daebd5ee1a5b25cbc132d211b66f3c2b7b5c7457",
+    "reviews/newton-acceptance-issues-snapshot.md": "3216e1561360038e77533761a0c3446488b92fe521879257de28840fa410d662"
+  },
+  "excluded": [
+    "separatecoordinatordegenerationextension",
+    "allremainingrational-witnessdegree20cases",
+    "Ghoshsourceobjections"
+  ]
+}

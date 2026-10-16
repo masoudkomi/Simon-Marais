@@ -1,0 +1,68 @@
+{
+  "candidate_sha256": "ce3ff564b48841ae3ae1bf66c3cf5303ed2833c2166590cb2460706f01b5c335",
+  "files": {
+    "problems/2021-B4/reviews/newton-review-1-attempt1-stderr.txt": {
+      "bytes": 1575,
+      "sha256": "b9af5ef76f77ecd0fe1b4af8b17a2376945af49584849ce6d2330286ac7d1915"
+    },
+    "problems/2021-B4/reviews/newton-review-1-check-attempt1.py": {
+      "bytes": 10755,
+      "sha256": "73cfd13fb3109706924003762992ca671983dfdfc8fe95196604e375c55480f6"
+    },
+    "problems/2021-B4/reviews/newton-review-1-check-rerun.jsonl": {
+      "bytes": 15580,
+      "sha256": "3b29dee2ccc2dcaaf302cbc3bc457f911b2ac6419d82daf25b084cc1a88be8d4"
+    },
+    "problems/2021-B4/reviews/newton-review-1-check.jsonl": {
+      "bytes": 3060,
+      "sha256": "f2a98d31a9d3826156bfd61f2d5dbe434b1ca4126693f8760af9dc7bf1732c87"
+    },
+    "problems/2021-B4/reviews/newton-review-1-check.py": {
+      "bytes": 10136,
+      "sha256": "aafed59e392d7686d27712f4a1071caeef38732af9d15cf612d3bd5a48ee056d"
+    },
+    "problems/2021-B4/reviews/newton-review-1-issues.json": {
+      "bytes": 1714,
+      "sha256": "dc9245bb76d234b537e1219a356e32ccf5bae4a3979ae8e8695352fc0ce6a87f"
+    },
+    "problems/2021-B4/reviews/newton-review-1-manifest-check.json": {
+      "bytes": 1225,
+      "sha256": "b447e6b421e266307b9e9ee54e6b7715fbdf15b15c1e9f03a685d459beb6a8c5"
+    },
+    "problems/2021-B4/reviews/newton-review-1-sources.json": {
+      "bytes": 3112,
+      "sha256": "85082a959859e482960f64553d0926155df5780bcb08351a696c08967019200c"
+    },
+    "problems/2021-B4/reviews/newton-review-1.md": {
+      "bytes": 22619,
+      "sha256": "41ded8b1f1f7541e6b97978008cea7342668bf4452b37615e75d6d07c137d088"
+    }
+  },
+  "observed_at_utc": "2026-10-16T15:08:11.441269+00:00",
+  "other_review_conclusions_seen": false,
+  "requested_settings": {
+    "effective_readback": null,
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "status": "R1 initial independent audit complete; no unresolved substantive objection; no promotion",
+  "verification": {
+    "all_j17_refinements": 29928,
+    "child_exit": 0,
+    "child_pid": 27009,
+    "jobs_running": false,
+    "optional_ps_probe": "sandbox unavailable; supervisor wait reaped child",
+    "passing_patterns": 6680,
+    "patterns": 131072,
+    "remaining_binary_masks": 1164,
+    "timeout_seconds": 180,
+    "verified_certificates": 29928
+  },
+  "weekly_telemetry": {
+    "resets_at": 1792745187,
+    "stop_total_percent": 90,
+    "tool": "get_usage_limits",
+    "total_used_percent": 7,
+    "window_duration_mins": 10080
+  }
+}

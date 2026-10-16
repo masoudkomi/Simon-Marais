@@ -1,5 +1,21 @@
 # 2019 B4(b) issue log
 
+Second-pass update, 2026-10-16 UTC: the coordinator accepted renewal,
+rigidity, staircase and strict finite-approximation results, including
+`1.76521<lambda<1.83516197`, after both fresh initially blind full audits.
+See reviews/secondpass-acceptance.md and proofs/reviewed-secondpass-v1.1.md.
+Both reports have no unresolved substantive objection. The exact value
+and novelty remain open questions; no complete B4(b) solution is claimed.
+
+| Second-pass ID | Audit target | Disposition |
+|---|---|---|
+| 2019-SP1 | Universal non-overlap and phase-correct path splicing | Both reconstructed; closed |
+| 2019-SP2 | Renewal bijection, boundary divergence and derivative tail | Both reconstructed without analytic-continuation assumptions; closed |
+| 2019-SP3 | Exactness of all factors through 24 and rational bound certificates | Both independently enumerated and matched all143 words/signs; closed |
+| 2019-SP4 | Infinite rigid and bounded-run staircase families, including endpoints | Both reconstructed and stress-tested; closed |
+| 2019-SP5 | Finite-rule strict upper rate and graph irreducibility | Both reconstructed; closed |
+| 2019-SP6 | General run compression / 1791-state experimental generalizations | Not theorem inputs and not promoted; unproved |
+
 The coordinator accepted proof.md v1.2 as **proved, independently reviewed (partial results)** after both blind full reconstructions and the targeted attribution recheck. The exact growth value remains undetermined. Frozen v1 and attribution-only v1.1 are preserved. Rows 001-005 and R1-E1 are closed; the full-objective gap 006 and novelty question 007 remain open. Historical initial audit obligations below are retained with their disposition.
 
 | ID | Version / location | Objection / audit task | Severity | Repair / evidence | Re-review | Status |
