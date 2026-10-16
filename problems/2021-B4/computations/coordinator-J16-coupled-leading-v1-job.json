@@ -1,0 +1,20 @@
+{
+  "started_at_utc": "2026-10-16T16:19:53.375450+00:00",
+  "command": [
+    "/Users/uqmkamga/Documents/ChatGPT/Website/.venv/bin/python",
+    "-u",
+    "/Users/uqmkamga/Documents/ChatGPT/Website/problems/2021-B4/computations/coordinator-J16-coupled-leading-v1.py",
+    "--child"
+  ],
+  "timeout_seconds": 30,
+  "status": "completed",
+  "pid": 44069,
+  "return_code": 0,
+  "elapsed_seconds": 2.406018124980619,
+  "sha256": {
+    "coordinator-J16-coupled-leading-v1.py": "e075a907efbfec992e6c16fd3b230d741e12f9223fb50d4de953894830c1de22",
+    "coordinator-J16-coupled-leading-v1-output.txt": "c6d213bc722ae35393e23cadb4f2e1b07c69f3045617a26bd54d128ff848cf51",
+    "coordinator-J16-coupled-leading-v1-stderr.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "coordinator-J16-coupled-leading-v1-result.json": "63c7a8d0bfd4a451200ec60d4f9af1d78ad8172223ab1e34693181b624adb3b6"
+  }
+}

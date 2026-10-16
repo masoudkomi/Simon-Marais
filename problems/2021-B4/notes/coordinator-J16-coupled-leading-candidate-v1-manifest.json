@@ -1,0 +1,75 @@
+{
+  "frozen_at_utc": "2026-10-16T16:24:00.354334+00:00",
+  "status": "candidate proof - unverified",
+  "constructor": "coordinator",
+  "claims": [
+    "L1 unequal-valuation and leading-ratio restrictions",
+    "L2 finite18mask exclusion under acceptedT2"
+  ],
+  "independent_audits": 0,
+  "J16_masks_before": 88,
+  "J16_masks_after_candidate": 70,
+  "combined_masks_after_candidate": 754,
+  "artifacts": [
+    {
+      "path": "problems/2021-B4/notes/coordinator-J16-coupled-leading-candidate-v1.md",
+      "bytes": 8237,
+      "sha256": "d8ad259a3084635d5f3b66e1aaf6fe611c6a118b47dfd16578d0e2958bde3fce"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-J16-coupled-leading-v1-job.json",
+      "bytes": 907,
+      "sha256": "1a8e227a1560f7406848bd7b5998a59b5c3da75d564fba7c2a8ebeacc04c3840"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-J16-coupled-leading-v1-output.txt",
+      "bytes": 7068,
+      "sha256": "c6d213bc722ae35393e23cadb4f2e1b07c69f3045617a26bd54d128ff848cf51"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-J16-coupled-leading-v1-result.json",
+      "bytes": 72451,
+      "sha256": "63c7a8d0bfd4a451200ec60d4f9af1d78ad8172223ab1e34693181b624adb3b6"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-J16-coupled-leading-v1-stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-J16-coupled-leading-v1.py",
+      "bytes": 6015,
+      "sha256": "e075a907efbfec992e6c16fd3b230d741e12f9223fb50d4de953894830c1de22"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-three-rational-witnesses-reviewed-v1.1.md",
+      "bytes": 1962,
+      "sha256": "7ff6b3d92d3268405381c2732d83516d21e6eb7d74e897d4c01ec8bb70342be4"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-three-rational-witnesses-v1.md",
+      "bytes": 11325,
+      "sha256": "be91345a8511338d55f30b140ee2555698c21d0e341efe29fe2536bca4fffbda"
+    },
+    {
+      "path": "problems/2021-B4/reviews/three-witness-acceptance.json",
+      "bytes": 1640,
+      "sha256": "da40fa4fd7e10472f67d820c90846cf3b64ba7abd4c52f7b2a7146a60dfd7c01"
+    },
+    {
+      "path": "problems/2021-B4/notes/padic-rational-newton-obstructions-v1.md",
+      "bytes": 16974,
+      "sha256": "ce3ff564b48841ae3ae1bf66c3cf5303ed2833c2166590cb2460706f01b5c335"
+    },
+    {
+      "path": "problems/2021-B4/reviews/newton-review-1-extension-result.json",
+      "bytes": 179670,
+      "sha256": "96f61ad6b173c1fd40bfc2dff3f87c44b616db87bd6db0a0ca77b1a019bee803"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-J16-linear-projection-v1.py",
+      "bytes": 5006,
+      "sha256": "db576a4964fae433062536feb7e6538ecbe1b7805bc4416214f740c987f0760f"
+    }
+  ]
+}

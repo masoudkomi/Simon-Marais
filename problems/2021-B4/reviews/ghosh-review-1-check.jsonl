@@ -1,0 +1,24 @@
+{"dependencies": ["Python standard library: fractions, json"], "kind": "start", "pid": 43870, "python": "3.12.14", "utc": "2026-10-16T16:17:04Z", "variable_order": ["x", "y", "z", "X", "t", "u", "B0", "B1", "k1", "k2"]}
+{"kind": "exact_identity", "label": "coordinator_Qt_identity", "residual_terms": 0, "utc": "2026-10-16T16:17:04Z"}
+{"kind": "checkpoint", "stage": "coordinator_model_complete", "utc": "2026-10-16T16:17:04Z"}
+{"kind": "exact_identity", "label": "determinantal_internal_minor_1_2", "residual_terms": 0, "utc": "2026-10-16T16:17:04Z"}
+{"kind": "exact_identity", "label": "determinantal_internal_minor_1_3", "residual_terms": 0, "utc": "2026-10-16T16:17:04Z"}
+{"kind": "exact_identity", "label": "determinantal_internal_minor_1_4", "residual_terms": 0, "utc": "2026-10-16T16:17:04Z"}
+{"kind": "exact_identity", "label": "determinantal_internal_minor_2_3", "residual_terms": 0, "utc": "2026-10-16T16:17:04Z"}
+{"kind": "exact_identity", "label": "determinantal_internal_minor_2_4", "residual_terms": 0, "utc": "2026-10-16T16:17:04Z"}
+{"kind": "exact_identity", "label": "determinantal_internal_minor_3_4", "residual_terms": 0, "utc": "2026-10-16T16:17:04Z"}
+{"kind": "exact_identity", "label": "determinantal_z_squared_certificate", "residual_terms": 0, "utc": "2026-10-16T16:17:04Z"}
+{"kind": "exact_identity", "label": "determinantal_polynomial_unit_certificate", "residual_terms": 0, "utc": "2026-10-16T16:17:04Z"}
+{"kind": "exact_identity", "label": "quotient_y_cubed_certificate", "residual_terms": 0, "utc": "2026-10-16T16:17:04Z"}
+{"kind": "exact_identity", "label": "quotient_x_y_squared_certificate", "residual_terms": 0, "utc": "2026-10-16T16:17:04Z"}
+{"kind": "exact_identity", "label": "quotient_x_squared_y_certificate", "residual_terms": 0, "utc": "2026-10-16T16:17:04Z"}
+{"kind": "exact_identity", "label": "quotient_x_cubed_certificate", "residual_terms": 0, "utc": "2026-10-16T16:17:04Z"}
+{"basis": ["x^2", "x*y", "y^2"], "justification": "first two coordinates force both coefficients to zero", "kind": "finite_linear_algebra", "label": "degree_two_quotient", "rank": 2, "relation_rows": [[1, 0, -3], [0, 1, -2]], "utc": "2026-10-16T16:17:04Z", "y_squared_in_relation_span": false}
+{"count": 4, "generators": ["z", "x^2", "x*y", "y^2"], "justification": "no listed monomial divides another", "kind": "monomial_generator_check", "label": "J_minimal_generators", "utc": "2026-10-16T16:17:04Z"}
+{"kind": "checkpoint", "stage": "determinantal_model_complete", "utc": "2026-10-16T16:17:04Z"}
+{"ideal": ["t*y^2", "y^3"], "kind": "monomial_ideal_check", "localized_ideal_when_t_unit": ["y^2"], "nonzero_localization_witness": "evaluation y=0 maps onto Q[t,t^-1]", "t_times_y_squared_zero": true, "utc": "2026-10-16T16:17:04Z", "y_squared_nonzero": true}
+{"kind": "exact_identity", "label": "incidence_path_on_total_closure", "residual_terms": 0, "utc": "2026-10-16T16:17:04Z"}
+{"kind": "exact_identity", "label": "special_total_fiber_equation", "residual_terms": 0, "utc": "2026-10-16T16:17:04Z"}
+{"kind": "exact_identity", "label": "infinity_point_in_special_total_fiber", "residual_terms": 0, "utc": "2026-10-16T16:17:04Z"}
+{"additional_total_closure_fiber_point": [0, 1], "closure_of_affine_fiber": "B1=0", "finite_affine_fiber": ["b=0"], "kind": "closure_check", "path": {"B": ["u", "1"], "K": ["u", "1"], "b": "1/u"}, "special_parameter": [0, 1], "utc": "2026-10-16T16:17:04Z"}
+{"all_assertions_passed": true, "kind": "complete", "scope": "finite identities and finite-dimensional model calculations only", "utc": "2026-10-16T16:17:04Z"}

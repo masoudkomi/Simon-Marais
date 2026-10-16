@@ -1,0 +1,30 @@
+{
+  "status": "constructor method reuse, no independent audit",
+  "source": "problems/2021-B4/computations/coordinator-J16-coupled-leading-v1.py",
+  "source_sha256": "e075a907efbfec992e6c16fd3b230d741e12f9223fb50d4de953894830c1de22",
+  "new_source": "problems/2021-B4/computations/coordinator-J16-leading-branch-index-v1.py",
+  "new_source_sha256": "e206466e865aec1a9a8ab11ff78ec7c3271f2026aa454051b022ff569d91281d",
+  "exact_replacements": [
+    [
+      "PREFIX='coordinator-J16-coupled-leading-v1'",
+      "PREFIX='coordinator-J16-leading-branch-index-v1'"
+    ],
+    [
+      "rows=[];hist=Counter();total=0",
+      "rows=[];hist=Counter();total=0;branches=[]"
+    ],
+    [
+      "key=f'nu{nu}';passing[key]+=1",
+      "key=f'nu{nu}';passing[key]+=1\n                        inactive=[j for j in range(2,19) if not mask&(1<<(j-2)) and j not in active]\n                        branches.append({'center_mask':mask,'nu':nu,'active_positions':active,'active_labels':list(labels_tuple),'U':u,'V':v,'inactive_positions':inactive,'full_label_expansions':3**len(inactive)})"
+    ],
+    [
+      "'prime':19,'J':16,'masks':len(masks),'projected_label_and_nu_tests':total,",
+      "'prime':19,'J':16,'masks':len(masks),'projected_label_and_nu_tests':total,\n            'leading_branches':branches,'expanded_label_residue_branches':sum(r['full_label_expansions'] for r in branches),"
+    ],
+    [
+      "if k!='rows'",
+      "if k not in ('rows','leading_branches')"
+    ]
+  ],
+  "purpose": "save every passing first-digit branch and estimate inactive-label expansion before any second-digit job"
+}

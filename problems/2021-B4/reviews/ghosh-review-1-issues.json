@@ -1,0 +1,53 @@
+{
+  "review": "R1 independent initial source audit",
+  "blind_initial": true,
+  "other_reviews_or_shared_issues_read": false,
+  "promotion": "none; coordinator decision required",
+  "issues": [
+    {
+      "id": "GHOSH-R1-01",
+      "kind": "candidate_metadata_repair",
+      "status": "open_for_author",
+      "location": "ghosh-full-context-audit-v1.md, Sources/version paragraph",
+      "finding": "The supplied/current PDF says March 24, 2026, not August 24. August 24 is displayed in the distinct current HTML artifact. PDF Proposition 1.4 is HTML Proposition D.",
+      "repair": "Attribute each date and label to its exact hashed artifact; do not resolve the discrepancy by assuming identity."
+    },
+    {
+      "id": "GHOSH-R1-02",
+      "kind": "substantive_source_proof_gap",
+      "status": "independently_confirmed_generic_inference_failure_specialized_repair_unresolved",
+      "location": "Universal-proof cached PDF p.19, Lemma 4.5 after (4.23); current HTML same passage",
+      "finding": "c_m in p does not imply c_m*g_l in I. A unit g_l+f_l X over the Artinian quotient may have nonzero nilpotent f_l. Both the coordinator and strengthened determinantal models are correct.",
+      "limit": "These are not the actual derivative family and do not disprove Lemma 4.5 or Theorem A.",
+      "needed": "A noncircular specialized proof eliminating the nilpotent case, or another proof of the needed contraction/injectivity."
+    },
+    {
+      "id": "GHOSH-R1-03",
+      "kind": "substantive_source_proof_gap",
+      "status": "independently_confirmed_generic_inference_failure_specialized_repair_unresolved",
+      "location": "Universal-proof cached PDF p.9 after (3.8); current HTML same passage",
+      "finding": "Inverting a zero divisor need not make the ring zero. The candidate's factorized-ideal example is correct.",
+      "limit": "No counterexample using the source's special H polynomials was constructed.",
+      "needed": "An actual saturation or torsion-freeness argument in the quotient needed for t-cancellation."
+    },
+    {
+      "id": "GHOSH-R1-04",
+      "kind": "substantive_source_proof_gap",
+      "status": "independently_confirmed_generic_inference_failure_specialized_repair_unresolved",
+      "location": "Universal-proof cached PDF p.12, Lemma 3.7 incidence closure; current HTML same passage",
+      "finding": "Fiber of total projective closure need not equal closure of the affine fiber. The b -> (b,b^2) model and escaping path are correct.",
+      "limit": "This is not the source's Abel-Gontcharoff map. Remark 3.8 gives special alternative cases, not a general repair.",
+      "needed": "A specialized no-escape/properness argument sufficient for the Brouwer-degree domain."
+    },
+    {
+      "id": "GHOSH-R1-05",
+      "kind": "source_indexing_query",
+      "status": "open_editorial_clarification_not_used_to_establish_main_objection",
+      "location": "Universal-proof (4.23) in both artifacts",
+      "finding": "Printed 2<=i<j<=n range differs from the internal minors ideal of n-1 columns; it includes augmented minors.",
+      "review_handling": "The coefficient objection grants the intended corrected reading as a certificate modulo I, so an index repair does not resolve GHOSH-R1-02."
+    }
+  ],
+  "supported_conclusion": "Specific missing proof steps identified; specialized repairs and universal theorem validity unresolved. No CA counterexample or theorem-falsity conclusion.",
+  "candidate_recommendation": "Support the narrow mathematical objection, subject to author correction of source metadata; no result promotion."
+}

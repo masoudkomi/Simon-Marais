@@ -1,0 +1,61 @@
+{
+  "review": "ghosh-review-2 blind initial audit",
+  "requested_settings": {"model": "gpt-6.1-sol", "reasoning": "max"},
+  "verified_effective_settings": null,
+  "python": "/Users/uqmkamga/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3",
+  "runs": [
+    {
+      "kind": "failed dependency attempt",
+      "pid": 44024,
+      "timeout_seconds": 30,
+      "exit_code": 1,
+      "command": "python3 -u problems/2021-B4/reviews/ghosh-review-2-certificates.py",
+      "failure": "ModuleNotFoundError: No module named sympy",
+      "preserved_output": ".cache/review-2021-ghosh-r2/failed-sympy-output.txt",
+      "preserved_source": ".cache/review-2021-ghosh-r2/sympy-attempt.py"
+    },
+    {
+      "kind": "first standard-library exact checks",
+      "pid": 44105,
+      "timeout_seconds": 30,
+      "exit_code": 0,
+      "command": "python3 -u problems/2021-B4/reviews/ghosh-review-2-certificates-stdlib.py",
+      "mathematical_check": "A nonzero residual caught the author's sign error in an auxiliary y^3 identity; corrected in final program and rerun.",
+      "preserved_output": ".cache/review-2021-ghosh-r2/stdlib-attempt1.jsonl"
+    },
+    {
+      "kind": "final standard-library exact checks",
+      "pid": 44155,
+      "timeout_seconds": 30,
+      "exit_code": 0,
+      "command": "python3 -u problems/2021-B4/reviews/ghosh-review-2-certificates-stdlib.py",
+      "python_version": "3.12.14",
+      "dependencies": "standard library only",
+      "output": "problems/2021-B4/reviews/ghosh-review-2-certificates.jsonl",
+      "result": "All final polynomial identity residuals are zero; finite-field attempt did not contradict Proposition 3.3."
+    }
+  ],
+  "launcher": ".cache/review-2021-ghosh-r2/run_certificates.py",
+  "rendering": {
+    "failed_initial_session": 74582,
+    "failed_initial_exit_code": 130,
+    "failure": "Poppler fontconfig cache errors; interrupted only this execution session.",
+    "repair": "Review-local fontconfig/cache; no approval bypass or installation.",
+    "successful_driver": ".cache/review-2021-ghosh-r2/read_sources.py render 1 9 12 19",
+    "child_timeout_seconds": 25,
+    "visually_inspected_pdf_pages": [1, 9, 12, 19]
+  },
+  "telemetry": {
+    "authority": "mcp__codex_app__get_usage_limits",
+    "weekly_window_minutes": 10080,
+    "total_used_percent_at_start": 10,
+    "total_used_percent_at_sustained_check": 11,
+    "total_used_percent_at_final_check": 11,
+    "resets_at_unix": 1792745187,
+    "stop_total_used_percent": 90,
+    "window_crossed": false
+  },
+  "external_messages": false,
+  "commits_or_pushes": false,
+  "promotions": false
+}

@@ -1,0 +1,215 @@
+{
+  "date_interpretation": "Primary universal-proof source contains date-today; PDF/HTML internal dates are rendering strings, not evidence of a new arXiv revision.",
+  "effective_settings_readback": null,
+  "frozen_at_utc": "2026-10-16T16:28:13.850783+00:00",
+  "full_third_party_files": "ignored cache only; no redistribution licence asserted",
+  "ignored_support": [
+    {
+      "bytes": 2693,
+      "path": ".cache/review-2021-ghosh-r2/read_sources.py",
+      "sha256": "24921e2313ac462d3e8abbf0105ce1519d029ad54d5e05804fc875a4796345b6"
+    },
+    {
+      "bytes": 776,
+      "path": ".cache/review-2021-ghosh-r2/run_certificates.py",
+      "sha256": "031c1bc6a77685768fee59847b925294a35e503a4bba0cae2058828139cb331a"
+    },
+    {
+      "bytes": 5516,
+      "path": ".cache/review-2021-ghosh-r2/freeze.py",
+      "sha256": "cd6d0c2077d1ac518dbbe3109ae20803a9fe0a0d03764f507b9e558406c571e0"
+    },
+    {
+      "bytes": 81211,
+      "path": ".cache/review-2021-ghosh-r2/cached-pdf.txt",
+      "sha256": "0bcfea87f9b4891f6e6cbddaede18a2bdcaea693a683aa3b3982b25bbf5aa887"
+    },
+    {
+      "bytes": 133365,
+      "path": ".cache/review-2021-ghosh-r2/current-html.txt",
+      "sha256": "9b99c7e279f96289aba988194edba8a6224d4c912b66c5ab0e81304b9912e234"
+    },
+    {
+      "bytes": 230,
+      "path": ".cache/review-2021-ghosh-r2/failed-sympy-output.txt",
+      "sha256": "d420805e7860fa7ef40e99d3adc3bda665caa056033f06baf611bc3519500725"
+    },
+    {
+      "bytes": 3178,
+      "path": ".cache/review-2021-ghosh-r2/sympy-attempt.py",
+      "sha256": "9b07875ac75bb0383ed54a6c992064b1a0d1d3d4b4c8647185e8e7b9beae0e26"
+    },
+    {
+      "bytes": 2225,
+      "path": ".cache/review-2021-ghosh-r2/stdlib-attempt1.jsonl",
+      "sha256": "cd38e10933e3a2b1b74a89f65a09742505216bc6734be4546435db4499771260"
+    },
+    {
+      "bytes": 4639,
+      "path": ".cache/review-2021-ghosh-r2/stdlib-attempt1.py",
+      "sha256": "693f29aae9593a25c443942c9a579821e98db901ba33cb10f9c4221e39ff748e"
+    },
+    {
+      "bytes": 119968,
+      "path": ".cache/review-2021-ghosh-r2/universal-source-mainfinal.tex",
+      "sha256": "22947373aae74209fa19931d0dbe366633affa67580b6dae3fc3e66c4a3e517a"
+    },
+    {
+      "bytes": 218,
+      "path": ".cache/review-2021-ghosh-r2/fonts.conf",
+      "sha256": "4d24b87930dd08118d3b67798b6723d2f459d99a30d626c0a07064c65f46f262"
+    },
+    {
+      "bytes": 207918,
+      "path": ".cache/review-2021-ghosh-r2/page-1.png",
+      "sha256": "319957447a0281e51bca3b660fb29d561bd786fc33adc416882c144314ef3a99"
+    },
+    {
+      "bytes": 223853,
+      "path": ".cache/review-2021-ghosh-r2/page-9.png",
+      "sha256": "c233fa9eb4a6d20f1384412f3b7f22bf43bd9eb4d393b0fad6654e90a1c6efa4"
+    },
+    {
+      "bytes": 257210,
+      "path": ".cache/review-2021-ghosh-r2/page-12.png",
+      "sha256": "4731756286812588bcc5f146f81ec173198ecbc19b612d082775f995b819f3e8"
+    },
+    {
+      "bytes": 244021,
+      "path": ".cache/review-2021-ghosh-r2/page-19.png",
+      "sha256": "016549112a117a2b48ea4c7cf319350c64c082c1a72edb000082158eecf13e43"
+    },
+    {
+      "bytes": 262,
+      "path": ".cache/review-2021-ghosh-r2/official-2021-B4-open-extract.txt",
+      "sha256": "2c171a633ff74366828358b35c7c3338e0c65b374b0689f4ea0ce6dce6c2d4a9"
+    }
+  ],
+  "input_artifacts": [
+    {
+      "bytes": 4271,
+      "path": "AGENTS.md",
+      "sha256": "32ce511aab27061680c98197793b5a9b3ee03a421c822868fad69ea525816257"
+    },
+    {
+      "bytes": 12413,
+      "path": "problems/2021-B4/notes/ghosh-full-context-audit-v1.md",
+      "sha256": "ca36cdace3e5cff4f3681a610926d5e521f4286de71929eaefd084eb91bf6693"
+    },
+    {
+      "bytes": 1555,
+      "path": "problems/2021-B4/notes/ghosh-coefficient-descent-query.md",
+      "sha256": "f56977eec80c0605024c255263d8f21dc05d696cae534ea4024cf97d71b306c1"
+    },
+    {
+      "bytes": 1745,
+      "path": "problems/2021-B4/statement.md",
+      "sha256": "5cd9750a2458191370590120fb4ae7d547740784eb1de38ee9e2e7890a2fabed"
+    }
+  ],
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "restrictions": {
+    "no_git_mutation": true,
+    "no_peer_reports_read": true,
+    "no_preliminary_proof_work": true,
+    "no_promotion": true,
+    "no_proof_edits": true
+  },
+  "review": "R2 blind initial source audit; no peer conclusions read before freezing",
+  "review_artifacts": [
+    {
+      "bytes": 21273,
+      "path": "problems/2021-B4/reviews/ghosh-review-2.md",
+      "sha256": "c3c73702e3100b1a938b110816ed38b3da51113d8a3d424ff74a33d3c269c96a"
+    },
+    {
+      "bytes": 3034,
+      "path": "problems/2021-B4/reviews/ghosh-review-2-issues.md",
+      "sha256": "d32cff33cae9929e36ebc54e005427cc8675fbe1f04d7fcd3bbcd56df2048339"
+    },
+    {
+      "bytes": 2624,
+      "path": "problems/2021-B4/reviews/ghosh-review-2-execution.json",
+      "sha256": "1e5985073f46fb5f332d69b8e5a9740e3fc226aa4309d23714a4ea1f6b726fd2"
+    },
+    {
+      "bytes": 3178,
+      "path": "problems/2021-B4/reviews/ghosh-review-2-certificates.py",
+      "sha256": "9b07875ac75bb0383ed54a6c992064b1a0d1d3d4b4c8647185e8e7b9beae0e26"
+    },
+    {
+      "bytes": 4639,
+      "path": "problems/2021-B4/reviews/ghosh-review-2-certificates-stdlib.py",
+      "sha256": "8141cf48020f2ecb38bcc33057e56b83d3162ff13eb1b965b8c1e34499ae45cd"
+    },
+    {
+      "bytes": 2182,
+      "path": "problems/2021-B4/reviews/ghosh-review-2-certificates.jsonl",
+      "sha256": "46c8a88acba97fe028958eaebb30fc1871cbd66dc1947421fa77acc6628c2875"
+    }
+  ],
+  "self_hash": "Excluded to avoid recursion; report manifest hash separately.",
+  "source_artifacts": [
+    {
+      "bytes": 559355,
+      "internal_date": "2026-03-24",
+      "margin_version_date": "2026-03-21",
+      "pages": 22,
+      "path": ".cache/literature/2021/cited-40f9614065b33fc5.pdf",
+      "role": "specified cached actual universal-proof PDF",
+      "sha256": "562050e1bff0fbfae2493951b4456485c61181381ba374271889d81d96bb5daa",
+      "url": "https://arxiv.org/pdf/2501.09272v2"
+    },
+    {
+      "bytes": 559355,
+      "path": ".cache/review-2021-ghosh-r2/2501.09272v2-current.pdf",
+      "role": "independently downloaded versioned PDF",
+      "sha256": "562050e1bff0fbfae2493951b4456485c61181381ba374271889d81d96bb5daa",
+      "url": "https://arxiv.org/pdf/2501.09272v2"
+    },
+    {
+      "bytes": 1209596,
+      "internal_date": "2026-08-24",
+      "path": ".cache/review-2021-ghosh-r2/2501.09272v2-current.html",
+      "role": "independently downloaded experimental HTML",
+      "sha256": "ff66da8d20a4ca8161b458de02c0d39afc53cac628c4dfa760c4a34efed3127b",
+      "url": "https://arxiv.org/html/2501.09272v2"
+    },
+    {
+      "bytes": 31091,
+      "date_directive": "\\date{\\today}",
+      "path": ".cache/review-2021-ghosh-r2/2501.09272v2-source.tar",
+      "role": "primary versioned TeX archive",
+      "sha256": "ffaea1d57de6c10f452b61b4c5c588fcee50e471d1a8a952acf502569bb01010",
+      "url": "https://arxiv.org/src/2501.09272v2"
+    },
+    {
+      "bytes": 1342467,
+      "path": ".cache/review-2021-ghosh-r2/2402.18717v3-current.html",
+      "role": "distinct finiteness paper; dependency statement and nonrepair check",
+      "sha256": "b0fe4391604f823c5bf81daf45b36d872ad76cdfb1314d8a34eb99cc5815197e",
+      "url": "https://arxiv.org/html/2402.18717v3"
+    },
+    {
+      "bytes": 1265993,
+      "path": ".cache/review-2021-ghosh-r2/bruns-vetter-detrings.pdf",
+      "role": "author-posted book; Theorem 2.7 and Appendix 16.19 checked",
+      "sha256": "cd2934d1799e64067ebce0e230dd5b08579db3a390ad7b293bf011541831cd33",
+      "url": "https://www.home.uni-osnabrueck.de/wbruns/brunsw/detrings.pdf"
+    },
+    {
+      "bytes": 157688,
+      "path": ".cache/review-2021-ghosh-r2/official-2021-paper-b.pdf",
+      "role": "official open part (b) wording only rechecked",
+      "sha256": "2d507d593500f762e90b041d03a451e884ea33c8769f9a2132427e14d8f926d1",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2021-paper-b.pdf"
+    }
+  ],
+  "submitted_version_dates": {
+    "finiteness_v3": "2025-01-14T05:58:13Z",
+    "universal_v2": "2026-03-21T01:41:44Z"
+  }
+}

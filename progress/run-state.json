@@ -2,7 +2,7 @@
   "branch": "codex/smmc-b4-research",
   "remote": "https://github.com/masoudkomi/Simon-Marais.git",
   "phase": "all initial passes complete; independent review and focused research",
-  "last_pushed_commit": "d6e6975",
+  "last_pushed_commit": "b3f8536",
   "initial_passes_complete": [
     2017,
     2018,
@@ -21,29 +21,29 @@
       "role": "fresh blind full reviewer"
     },
     {
-      "agent": "review_2021_ghosh_r1",
+      "agent": "review_2021_three_witness_r1",
       "year": 2021,
-      "role": "fresh blind full-context source auditor"
+      "role": "independent complete complex-C20 extension audit"
     },
     {
-      "agent": "review_2021_ghosh_r2",
+      "agent": "review_2021_three_witness_r2",
       "year": 2021,
-      "role": "fresh blind full-context source auditor"
+      "role": "independent complete complex-C20 extension audit"
     }
   ],
   "initial_passes_pending": [],
   "deferred": [
     2026
   ],
-  "weekly_used_percent_last_observed": 10,
+  "weekly_used_percent_last_observed": 11,
   "weekly_reset_unix": 1792745187,
   "caffeinate": {
     "pid": 5398,
     "exec_session": 57629,
     "duration_seconds": 43200
   },
-  "notes": "Both2017 actual-v1.1 re-audits accepted; exact rates unresolved. 2021rationalT1-T3 and2025C1-C4 accepted. NewcomplexC20 candidate and154artifact manifest frozen, no complex acceptance yet. TwoGhosh source audits and2020R2active. CaffeinatePID5398 verified16:16UTC with18550seconds remaining, expiresabout21:26UTC. No stopcondition reached.",
-  "observed_at_utc": "2026-10-16T16:17:00.356349+00:00",
+  "notes": "Both narrowGhoshsourceaudits accepted with metadataerratum; theorem remainsunresolved. ComplexC20two full auditsactive,154artifactmanifest unchanged. NewrootJ16coupledleading L1/L2 proposes18maskexclusions; unverified12artifactmanifest.768passing firstdigitbranches expand840396 label/residue/nu cases; second-digit formulas saved, nojobyet. 2020R2active. Allrootchildren reaped. 11%totalweeklyused16:27UTC.",
+  "observed_at_utc": "2026-10-16T16:32:26.419241+00:00",
   "coordinator_compute": {
     "status": "all constructor children completed and reaped",
     "complex_complement_child_pid": 37199,
