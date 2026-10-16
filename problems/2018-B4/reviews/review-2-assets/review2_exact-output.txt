@@ -1,0 +1,24 @@
+2018 B4 reviewer 2 independent exact evidence
+3.12.14
+m=5 excluded from research checks; no author/reviewer-1 code imported.
+Method: append actual (top,bottom) columns subject to weak rows, strict columns, exact global content.
+m=1, n=1..3: counts=[0, 0, 0]; memo states=[1, 1, 1]; formula agrees
+m=2, n=1..3: counts=[1, 1, 1]; memo states=[3, 5, 7]; formula agrees
+m=3, n=1..3: counts=[1, 1, 1]; memo states=[10, 29, 58]; formula agrees
+m=4, n=1..3: counts=[3, 5, 7]; memo states=[32, 151, 414]; formula agrees
+m=6, n=1..3: counts=[15, 65, 175]; memo states=[273, 2912, 13780]; formula agrees
+m=7, n=1..3: counts=[36, 260, 981]; memo states=[728, 11214, 67842]; formula agrees
+m=8, n=1..3: counts=[91, 1085, 5719]; memo states=[1868, 41232, 317140]; formula agrees
+m=2, n=20: count=1; memo states=41; formula agrees
+m=3, n=15: count=1; memo states=1186; formula agrees
+m=4, n=10: count=21; memo states=10991; formula agrees
+m=6, n=5: count=671; memo states=113435; formula agrees
+m=7, n=4: count=2661; memo states=263197; formula agrees
+m=9, n=1: count=232; memo states=4661; formula agrees
+m=10, n=1: count=603; memo states=11395; formula agrees
+Reflection exhaustion: alphabets m=1..4, L=1..6, all combined contents.
+Bad/source pairs=12871; S/target pairs=12871; both compositions, lengths, monotonicity and content checked.
+Boundary incidences (overlap permitted): {'i=1': 10236, 'i=L': 592, 'L=1': 20}
+Optional leading-coefficient cancellation exact checks: m=[3, 4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40]; all zero.
+Completed in 1.520 seconds.
+All tests passed. Finite computations are evidence, not proof of the unrestricted formula.

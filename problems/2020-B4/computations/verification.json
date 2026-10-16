@@ -1,0 +1,37 @@
+{
+  "checks": [
+    "n=2: all undirected separations occur exactly once",
+    "n=5: all undirected separations occur exactly once",
+    "n=9: all undirected separations occur exactly once",
+    "n=10: all undirected separations occur exactly once",
+    "q=4: arithmetic orbit histogram matches explicit orbits",
+    "q=6: arithmetic orbit histogram matches explicit orbits",
+    "q=8: arithmetic orbit histogram matches explicit orbits",
+    "q=9: arithmetic orbit histogram matches explicit orbits",
+    "q=10: arithmetic orbit histogram matches explicit orbits",
+    "q=12: arithmetic orbit histogram matches explicit orbits",
+    "all 4999 orders in first pass accounted for exactly once",
+    "q=10: stored quotient vectors satisfy every quotient-by-3 equation",
+    "q=28: stored quotient vectors satisfy every quotient-by-3 equation",
+    "q=52: stored quotient vectors satisfy every quotient-by-3 equation",
+    "q=55: stored quotient vectors satisfy every quotient-by-3 equation",
+    "q=91: stored quotient vectors satisfy every quotient-by-3 equation",
+    "q=100: stored quotient vectors satisfy every quotient-by-3 equation"
+  ],
+  "python": "3.12.14",
+  "recorded_utc": "2026-10-16T09:37:59.633596+00:00",
+  "sha256": {
+    "computations/exact_search.py": "9e824974db398e85702f69ff1e11e6337e867b299bdc1b75de17f8ac875090b8",
+    "computations/filters-q5000.json": "3387e6b3a7d5b80a8abee77ff74472b49ab706b0b54dccc65c5017e5c31e871d",
+    "computations/orbit-examples.json": "9405b853f942cfa49d751084e430f2edd0fb5e402cd3a2c74c7aa8e444650769",
+    "computations/quotient-counts.json": "7c95de2072b51f5948cbe7c8b19f5a67238f66ee74b23423423625b480d5f34d",
+    "computations/quotient_counts.py": "0737420bea1db460b4f7f33f302cd451dff9203b36ae58bc86c353ebc9f110f5",
+    "computations/residual-orders.json": "275462a2949a122200609ac9dea227d78610421e4e6c31be632a21c59c10d2eb",
+    "computations/residual_orders.py": "3a92ba6af3e323ea1f78874f55c398d375a1a8adbf2fe47b5b295f9ca2d90cba",
+    "computations/small-search.json": "63508f343629ddaf7d433465d91e29add5866be681a861afbe6e941f5757e334",
+    "computations/source-check.json": "06353c3e384970d3cab35a2992bbd5c7d427c0acea2a7f05e2bf00ee456f0765",
+    "computations/verify_outputs.py": "6fb06f7cc817402b4ac545d37f89bdfc5886e4607118b9bb3e7e99944a29caa8",
+    "proofs/partial-v1.md": "f53945e49bd626847e52a61f7e39e96defd2ae44900f9d235c2c14e720f41525"
+  },
+  "status": "all consistency checks passed; independent adversarial review still pending"
+}

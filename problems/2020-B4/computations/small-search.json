@@ -1,0 +1,125 @@
+{
+  "dependencies": "Python standard library only",
+  "mode": "small",
+  "python": "3.12.14",
+  "recorded_utc": "2026-10-16T09:28:44.391705+00:00",
+  "results": [
+    {
+      "elapsed_seconds": 2e-06,
+      "n": 2,
+      "node_limit": 2000000,
+      "nodes": 1,
+      "q": 1,
+      "seconds_limit": 10.0,
+      "status": "witness",
+      "v": 3,
+      "verification": {
+        "distinct_nonzero_differences": 2,
+        "multiplicity_histogram": {
+          "1": 2
+        },
+        "ordered_difference_count": 2,
+        "valid": true
+      },
+      "witness": [
+        0,
+        1
+      ]
+    },
+    {
+      "elapsed_seconds": 4.5e-05,
+      "n": 5,
+      "node_limit": 2000000,
+      "nodes": 18,
+      "q": 4,
+      "seconds_limit": 10.0,
+      "status": "witness",
+      "v": 21,
+      "verification": {
+        "distinct_nonzero_differences": 20,
+        "multiplicity_histogram": {
+          "1": 20
+        },
+        "ordered_difference_count": 20,
+        "valid": true
+      },
+      "witness": [
+        0,
+        1,
+        4,
+        14,
+        16
+      ]
+    },
+    {
+      "elapsed_seconds": 0.011621,
+      "n": 7,
+      "node_limit": 2000000,
+      "nodes": 4386,
+      "q": 6,
+      "seconds_limit": 10.0,
+      "status": "exhausted_no_witness",
+      "v": 43,
+      "witness": null
+    },
+    {
+      "elapsed_seconds": 0.001378,
+      "n": 9,
+      "node_limit": 2000000,
+      "nodes": 201,
+      "q": 8,
+      "seconds_limit": 10.0,
+      "status": "witness",
+      "v": 73,
+      "verification": {
+        "distinct_nonzero_differences": 72,
+        "multiplicity_histogram": {
+          "1": 72
+        },
+        "ordered_difference_count": 72,
+        "valid": true
+      },
+      "witness": [
+        0,
+        1,
+        3,
+        7,
+        15,
+        31,
+        36,
+        54,
+        63
+      ]
+    },
+    {
+      "elapsed_seconds": 0.193185,
+      "n": 10,
+      "node_limit": 2000000,
+      "nodes": 29848,
+      "q": 9,
+      "seconds_limit": 10.0,
+      "status": "witness",
+      "v": 91,
+      "verification": {
+        "distinct_nonzero_differences": 90,
+        "multiplicity_histogram": {
+          "1": 90
+        },
+        "ordered_difference_count": 90,
+        "valid": true
+      },
+      "witness": [
+        0,
+        1,
+        3,
+        9,
+        27,
+        49,
+        56,
+        61,
+        77,
+        81
+      ]
+    }
+  ]
+}

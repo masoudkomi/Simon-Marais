@@ -1,0 +1,139 @@
+{
+  "dependencies": "Python standard library only",
+  "python": "3.12.14",
+  "recorded_utc": "2026-10-16T09:30:35.679867+00:00",
+  "results": [
+    {
+      "Arasu_Gordon_diagnostics": [
+        {
+          "excluded": true,
+          "h": 6553,
+          "m": 2,
+          "m_to_s_mod_v": 3309266,
+          "nonnegative_solutions_a_b": [],
+          "o": 16,
+          "p": 577,
+          "s": 117
+        },
+        {
+          "excluded": true,
+          "h": 6553,
+          "m": 3,
+          "m_to_s_mod_v": 2824344,
+          "nonnegative_solutions_a_b": [],
+          "o": 16,
+          "p": 577,
+          "s": 39
+        },
+        {
+          "excluded": true,
+          "h": 577,
+          "m": 2,
+          "m_to_s_mod_v": 484104,
+          "nonnegative_solutions_a_b": [],
+          "o": 13,
+          "p": 6553,
+          "s": 144
+        },
+        {
+          "excluded": true,
+          "h": 577,
+          "m": 3,
+          "m_to_s_mod_v": 2110090,
+          "nonnegative_solutions_a_b": [],
+          "o": 13,
+          "p": 6553,
+          "s": 48
+        }
+      ],
+      "multiplier_group_order": 1872,
+      "n": 1945,
+      "orbit_length_histogram": {
+        "1": 1,
+        "117": 56,
+        "144": 4,
+        "1872": 2016
+      },
+      "q": 1944,
+      "q_factorization": {
+        "2": 3,
+        "3": 5
+      },
+      "size_q_plus_one_reachable": false,
+      "v": 3781081,
+      "v_factorization": {
+        "577": 1,
+        "6553": 1
+      }
+    },
+    {
+      "Arasu_Gordon_diagnostics": [],
+      "multiplier_group_order": 1080,
+      "n": 2305,
+      "orbit_length_histogram": {
+        "1": 1,
+        "12": 1,
+        "36": 1,
+        "60": 1,
+        "180": 1,
+        "216": 2,
+        "360": 2,
+        "540": 8,
+        "1080": 4912
+      },
+      "q": 2304,
+      "q_factorization": {
+        "2": 8,
+        "3": 2
+      },
+      "size_q_plus_one_reachable": true,
+      "v": 5310721,
+      "v_factorization": {
+        "13": 1,
+        "37": 1,
+        "61": 1,
+        "181": 1
+      }
+    },
+    {
+      "Arasu_Gordon_diagnostics": [
+        {
+          "excluded": true,
+          "h": 1,
+          "m": 5,
+          "m_to_s_mod_v": 5,
+          "nonnegative_solutions_a_b": [],
+          "o": 435,
+          "p": 5931661,
+          "s": 1
+        },
+        {
+          "excluded": true,
+          "h": 1,
+          "m": 487,
+          "m_to_s_mod_v": 487,
+          "nonnegative_solutions_a_b": [],
+          "o": 145,
+          "p": 5931661,
+          "s": 1
+        }
+      ],
+      "multiplier_group_order": 435,
+      "n": 2436,
+      "orbit_length_histogram": {
+        "1": 1,
+        "435": 13636
+      },
+      "q": 2435,
+      "q_factorization": {
+        "5": 1,
+        "487": 1
+      },
+      "size_q_plus_one_reachable": false,
+      "v": 5931661,
+      "v_factorization": {
+        "5931661": 1
+      }
+    }
+  ]
+}

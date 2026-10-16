@@ -1,0 +1,35 @@
+{
+  "dependencies": "Python standard library only",
+  "mode": "filters",
+  "python": "3.12.14",
+  "recorded_utc": "2026-10-16T09:28:44.390098+00:00",
+  "results": {
+    "explicit_orbit_cutoff": 500,
+    "first_example_per_exclusion": {
+      "Bruck_Ryser": 6,
+      "Jungnickel_Vedder_even_order": 10,
+      "Mann_quadratic_nonresidue": 35,
+      "Wilbrink_three_divisibility": 15,
+      "multiplier_group_size_bound": 56,
+      "multiplier_orbit_size_subset_sum": 323
+    },
+    "q_max": 5000,
+    "q_min": 2,
+    "residual_non_prime_power_orders": [
+      1944,
+      2304,
+      2435
+    ],
+    "tallies": {
+      "Bruck_Ryser": 1462,
+      "Jungnickel_Vedder_even_order": 979,
+      "Mann_quadratic_nonresidue": 1070,
+      "Wilbrink_three_divisibility": 416,
+      "multiplier_group_size_bound": 357,
+      "multiplier_orbit_size_subset_sum": 1,
+      "not_excluded_by_implemented_filters": 3,
+      "prime_power_skipped_as_established_context": 711
+    },
+    "warning": "Finite exact evidence with imported published theorems; residual means only these filters did not decide."
+  }
+}

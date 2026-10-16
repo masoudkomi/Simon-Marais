@@ -1,0 +1,30 @@
+{
+  "verified_utc": "2026-10-16T09:37:10.800583+00:00",
+  "python": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]",
+  "method": "pypdf extraction and visual Poppler render; no preliminary proof included",
+  "official_b4_b": "Which integers n >= 2 are taut?",
+  "polygon_vertices": "n^2 - n + 1",
+  "n_selected": "n",
+  "distance_condition": "all unordered pairwise Euclidean distances are distinct",
+  "sources": [
+    {
+      "path": ".cache/official/2020-paper_b.pdf",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2020-paper-b_1.pdf",
+      "sha256": "87d99c8f1c3d077bddeb542e3825a515e90b0f29339acde94758d57a102bb3da"
+    },
+    {
+      "path": ".cache/official/2020-solutions.pdf",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2020-solutions_1.pdf",
+      "sha256": "d77ecfa277a693f57992ca2286c01e95f50821c02abc6ff63a41966f578f09b3"
+    }
+  ],
+  "proof_version": {
+    "path": "problems/2020-B4/proofs/partial-v1.md",
+    "sha256": "f53945e49bd626847e52a61f7e39e96defd2ae44900f9d235c2c14e720f41525"
+  },
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning_effort": "max"
+  },
+  "effective_settings_independent_readback": null
+}
