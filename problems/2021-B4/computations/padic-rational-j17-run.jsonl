@@ -1,0 +1,33 @@
+{"command": ["/Users/uqmkamga/Documents/ChatGPT/Website/.venv/bin/python", "/Users/uqmkamga/Documents/ChatGPT/Website/problems/2021-B4/computations/padic-rational-j17-compatibility.py", "--worker"], "event": "child_started", "pid": 18372, "timeout_seconds": 90}
+{"center_patterns": 73, "certificate_path": "/Users/uqmkamga/Documents/ChatGPT/Website/problems/2021-B4/computations/padic-rational-j17-certificates.jsonl", "degree": 20, "event": "parameters", "last_unit_index": 17, "mask": "bit j-2 marks center1; u_mask marks the other nonzero witness", "normalization": "D_j=sum binom(j,k)*a_k*x^(j-k), a0=1,a1=-1", "pid": 18372, "primes": [101, 103, 107, 109, 127], "refinements": 29928, "scope": "candidate reduction plus exact Z[u] family compatibility", "source_sha256": "201d27d4ce839143596954780fb841d3aca5db0227b840f46761a5d4250340ff"}
+{"elapsed_seconds": 0.083, "event": "checkpoint", "unresolved": 0, "visited": 1024}
+{"elapsed_seconds": 0.158, "event": "checkpoint", "unresolved": 0, "visited": 2048}
+{"elapsed_seconds": 0.231, "event": "checkpoint", "unresolved": 0, "visited": 3072}
+{"elapsed_seconds": 0.306, "event": "checkpoint", "unresolved": 0, "visited": 4096}
+{"elapsed_seconds": 0.381, "event": "checkpoint", "unresolved": 0, "visited": 5120}
+{"elapsed_seconds": 0.462, "event": "checkpoint", "unresolved": 0, "visited": 6144}
+{"elapsed_seconds": 0.534, "event": "checkpoint", "unresolved": 0, "visited": 7168}
+{"elapsed_seconds": 0.607, "event": "checkpoint", "unresolved": 0, "visited": 8192}
+{"elapsed_seconds": 0.68, "event": "checkpoint", "unresolved": 0, "visited": 9216}
+{"elapsed_seconds": 0.754, "event": "checkpoint", "unresolved": 0, "visited": 10240}
+{"elapsed_seconds": 0.831, "event": "checkpoint", "unresolved": 0, "visited": 11264}
+{"elapsed_seconds": 0.91, "event": "checkpoint", "unresolved": 0, "visited": 12288}
+{"elapsed_seconds": 0.986, "event": "checkpoint", "unresolved": 0, "visited": 13312}
+{"elapsed_seconds": 1.057, "event": "checkpoint", "unresolved": 0, "visited": 14336}
+{"elapsed_seconds": 1.128, "event": "checkpoint", "unresolved": 0, "visited": 15360}
+{"elapsed_seconds": 1.203, "event": "checkpoint", "unresolved": 0, "visited": 16384}
+{"elapsed_seconds": 1.274, "event": "checkpoint", "unresolved": 0, "visited": 17408}
+{"elapsed_seconds": 1.345, "event": "checkpoint", "unresolved": 0, "visited": 18432}
+{"elapsed_seconds": 1.417, "event": "checkpoint", "unresolved": 0, "visited": 19456}
+{"elapsed_seconds": 1.495, "event": "checkpoint", "unresolved": 0, "visited": 20480}
+{"elapsed_seconds": 1.568, "event": "checkpoint", "unresolved": 0, "visited": 21504}
+{"elapsed_seconds": 1.644, "event": "checkpoint", "unresolved": 0, "visited": 22528}
+{"elapsed_seconds": 1.722, "event": "checkpoint", "unresolved": 0, "visited": 23552}
+{"elapsed_seconds": 1.807, "event": "checkpoint", "unresolved": 0, "visited": 24576}
+{"elapsed_seconds": 1.878, "event": "checkpoint", "unresolved": 0, "visited": 25600}
+{"elapsed_seconds": 1.948, "event": "checkpoint", "unresolved": 0, "visited": 26624}
+{"elapsed_seconds": 2.018, "event": "checkpoint", "unresolved": 0, "visited": 27648}
+{"elapsed_seconds": 2.089, "event": "checkpoint", "unresolved": 0, "visited": 28672}
+{"elapsed_seconds": 2.162, "event": "checkpoint", "unresolved": 0, "visited": 29696}
+{"certificate_file_sha256": "9676e4885d670a23ea1fb1b0a151ec1f9a8cece8532a1dd43277450b3a7a7fc3", "elapsed_seconds": 2.181625, "event": "complete", "polynomial_stream_sha256": "47a5b912863c67f22fed42daaf92b72949a06164966037ac97e4ad8afd22395b", "resolution_histogram": {"101": 28583, "103": 1213, "107": 55, "109": 4, "constant_nonzero": 73}, "resolved": 29928, "scope": "finite complete selected family; no classification of all degrees", "unresolved": 0, "visited": 29928}
+{"event": "child_finished", "exit_code": 0, "pid": 18372}

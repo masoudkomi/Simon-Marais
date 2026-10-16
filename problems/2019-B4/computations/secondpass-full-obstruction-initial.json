@@ -1,0 +1,374 @@
+{
+  "status": "finite evidence only; incomplete layers are not exact counts",
+  "parameters": {
+    "initial_probe": "problems/2019-B4/computations/secondpass-probe20.json",
+    "max_n": 24,
+    "state_cap": 20000,
+    "output": "problems/2019-B4/computations/secondpass-full-obstruction-initial.json"
+  },
+  "completed_through": 20,
+  "all_requested_lengths_completed": false,
+  "rows": [
+    {
+      "length": 21,
+      "nodes": 20000,
+      "leaves": 1934,
+      "complete": false,
+      "new_minimal_count": 12
+    }
+  ],
+  "new_minimal_forbidden": [
+    {
+      "larger": "RRLRRLRLLLLLLRLRLLRLL",
+      "smaller": "LLRLLLLLLRLRLLRLRRLRR",
+      "tapes": [
+        "0110101000110",
+        "01100110"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLLLLRRLRLLRLL",
+      "smaller": "LLRLLLLLLRLRRLRLRRLRR",
+      "tapes": [
+        "011010100110",
+        "011000110"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLLLRLRLLLLRLL",
+      "smaller": "LLRLLLLRLRLLLLRLRRLRR",
+      "tapes": [
+        "0110100010110",
+        "01100110"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLLLRRRLRLLRLL",
+      "smaller": "LLRLLLLRLRLLRLRRRRLRR",
+      "tapes": [
+        "01101000110",
+        "0110010110"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLLRRLRLLLLRLL",
+      "smaller": "LLRLLLLRLLLRRLRLRRLRR",
+      "tapes": [
+        "011010010110",
+        "011000110"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLLRRRRLRLLRLL",
+      "smaller": "LLRLLLLRLRRLRLRRRRLRR",
+      "tapes": [
+        "0110100110",
+        "01100010110"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLRLRLLLLLLRLL",
+      "smaller": "LLRLLRLRLLLLLLRLRRLRR",
+      "tapes": [
+        "0110001010110",
+        "01100110"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLRRRLRLLLLRLL",
+      "smaller": "LLRLLRLRLLLLRLRRRRLRR",
+      "tapes": [
+        "01100010110",
+        "0110010110"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLRRRRRLRLLRLL",
+      "smaller": "LLRLLRLRLLRLRRRRRRLRR",
+      "tapes": [
+        "011000110",
+        "011001010110"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLRRLRLLLLLLRLL",
+      "smaller": "LLRLLRLLLLLRRLRLRRLRR",
+      "tapes": [
+        "011001010110",
+        "011000110"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLRRRRLRLLLLRLL",
+      "smaller": "LLRLLRLLLRRLRLRRRRLRR",
+      "tapes": [
+        "0110010110",
+        "01100010110"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLRRRRRRLRLLRLL",
+      "smaller": "LLRLLRLRRLRLRRRRRRLRR",
+      "tapes": [
+        "01100110",
+        "0110001010110"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    }
+  ],
+  "all_minimal_forbidden_in_complete_layers": [
+    {
+      "larger": "RRLL",
+      "smaller": "LLRR",
+      "tapes": [
+        "01",
+        "01"
+      ]
+    },
+    {
+      "larger": "RRLRRLRLLRLL",
+      "smaller": "LLRLLRLRRLRR",
+      "tapes": [
+        "011001",
+        "011001"
+      ]
+    },
+    {
+      "larger": "RRLRRLRLLLLRLL",
+      "smaller": "LLRLLLLRLRRLRR",
+      "tapes": [
+        "01101001",
+        "011001"
+      ]
+    },
+    {
+      "larger": "RRLRRRRLRLLRLL",
+      "smaller": "LLRLLRLRRRRLRR",
+      "tapes": [
+        "011001",
+        "01101001"
+      ]
+    },
+    {
+      "larger": "RRLRRLRLLLLLLRLL",
+      "smaller": "LLRLLLLLLRLRRLRR",
+      "tapes": [
+        "0110101001",
+        "011001"
+      ]
+    },
+    {
+      "larger": "RRLRRRRLRLLLLRLL",
+      "smaller": "LLRLLLLRLRRRRLRR",
+      "tapes": [
+        "01101001",
+        "01101001"
+      ]
+    },
+    {
+      "larger": "RRLRRRRRRLRLLRLL",
+      "smaller": "LLRLLRLRRRRRRLRR",
+      "tapes": [
+        "011001",
+        "0110101001"
+      ]
+    },
+    {
+      "larger": "RRLRRLRLLRLRLLRLL",
+      "smaller": "LLRLLRLRLLRLRRLRR",
+      "tapes": [
+        "011000110",
+        "01100110"
+      ]
+    },
+    {
+      "larger": "RRLRRLRLRRLRLLRLL",
+      "smaller": "LLRLLRLRRLRLRRLRR",
+      "tapes": [
+        "01100110",
+        "011000110"
+      ]
+    },
+    {
+      "larger": "RRLRRLRLLLLLLLLRLL",
+      "smaller": "LLRLLLLLLLLRLRRLRR",
+      "tapes": [
+        "011010101001",
+        "011001"
+      ]
+    },
+    {
+      "larger": "RRLRRRRLRLLLLLLRLL",
+      "smaller": "LLRLLLLLLRLRRRRLRR",
+      "tapes": [
+        "0110101001",
+        "01101001"
+      ]
+    },
+    {
+      "larger": "RRLRRRRRRLRLLLLRLL",
+      "smaller": "LLRLLLLRLRRRRRRLRR",
+      "tapes": [
+        "01101001",
+        "0110101001"
+      ]
+    },
+    {
+      "larger": "RRLRRRRRRRRLRLLRLL",
+      "smaller": "LLRLLRLRRRRRRRRLRR",
+      "tapes": [
+        "011001",
+        "011010101001"
+      ]
+    },
+    {
+      "larger": "RRLRRLRLLLLRLRLLRLL",
+      "smaller": "LLRLLLLRLRLLRLRRLRR",
+      "tapes": [
+        "01101000110",
+        "01100110"
+      ]
+    },
+    {
+      "larger": "RRLRRLRLLLRRLRLLRLL",
+      "smaller": "LLRLLLLRLRRLRLRRLRR",
+      "tapes": [
+        "0110100110",
+        "011000110"
+      ]
+    },
+    {
+      "larger": "RRLRRLRLLRLRLLLLRLL",
+      "smaller": "LLRLLRLRLLLLRLRRLRR",
+      "tapes": [
+        "01100010110",
+        "01100110"
+      ]
+    },
+    {
+      "larger": "RRLRRLRLLRRRLRLLRLL",
+      "smaller": "LLRLLRLRLLRLRRRRLRR",
+      "tapes": [
+        "011000110",
+        "0110010110"
+      ]
+    },
+    {
+      "larger": "RRLRRLRLRRLRLLLLRLL",
+      "smaller": "LLRLLRLLLRRLRLRRLRR",
+      "tapes": [
+        "0110010110",
+        "011000110"
+      ]
+    },
+    {
+      "larger": "RRLRRLRLRRRRLRLLRLL",
+      "smaller": "LLRLLRLRRLRLRRRRLRR",
+      "tapes": [
+        "01100110",
+        "01100010110"
+      ]
+    },
+    {
+      "larger": "RRLRRRRLRLLRLRLLRLL",
+      "smaller": "LLRLLRLRLLRRRLRRLRR",
+      "tapes": [
+        "011000110",
+        "0110100110"
+      ]
+    },
+    {
+      "larger": "RRLRRRRLRLRRLRLLRLL",
+      "smaller": "LLRLLRLRRRRLRLRRLRR",
+      "tapes": [
+        "01100110",
+        "01101000110"
+      ]
+    },
+    {
+      "larger": "RRLRRLRLLLLLLLLLLRLL",
+      "smaller": "LLRLLLLLLLLLLRLRRLRR",
+      "tapes": [
+        "01101010101001",
+        "011001"
+      ]
+    },
+    {
+      "larger": "RRLRRLRLLRLRRLRLLRLL",
+      "smaller": "LLRLLRLRRLRLLRLRRLRR",
+      "tapes": [
+        "0110011001",
+        "0110011001"
+      ]
+    },
+    {
+      "larger": "RRLRRRRLRLLLLLLLLRLL",
+      "smaller": "LLRLLLLLLLLRLRRRRLRR",
+      "tapes": [
+        "011010101001",
+        "01101001"
+      ]
+    },
+    {
+      "larger": "RRLRRRRRRLRLLLLLLRLL",
+      "smaller": "LLRLLLLLLRLRRRRRRLRR",
+      "tapes": [
+        "0110101001",
+        "0110101001"
+      ]
+    },
+    {
+      "larger": "RRLRRRRRRRRLRLLLLRLL",
+      "smaller": "LLRLLLLRLRRRRRRRRLRR",
+      "tapes": [
+        "01101001",
+        "011010101001"
+      ]
+    },
+    {
+      "larger": "RRLRRRRRRRRRRLRLLRLL",
+      "smaller": "LLRLLRLRRRRRRRRRRLRR",
+      "tapes": [
+        "011001",
+        "01101010101001"
+      ]
+    }
+  ],
+  "compression_counterexamples": [],
+  "elapsed_seconds": 0.04522041601012461
+}

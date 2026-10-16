@@ -1,0 +1,7157 @@
+{
+  "status": "finite evidence only; no unrestricted independent-inflation grammar asserted",
+  "parameters": {
+    "cores": "problems/2019-B4/computations/secondpass-core-probe.json",
+    "full": "problems/2019-B4/computations/secondpass-full-obstruction24-v2.json",
+    "state_cap": 20000,
+    "output": "problems/2019-B4/computations/secondpass-parity-model.json"
+  },
+  "states_tested": 1791,
+  "cores": [
+    {
+      "core": "RRLL",
+      "length": 4,
+      "allowed_single_run_indices": [],
+      "variable_count": 0,
+      "all_binary_inflation_combinations_minimal": true,
+      "core_history_count": 2
+    },
+    {
+      "core": "RRLRRLRLLRLL",
+      "length": 12,
+      "allowed_single_run_indices": [
+        2,
+        5
+      ],
+      "variable_count": 2,
+      "all_binary_inflation_combinations_minimal": true,
+      "core_history_count": 2
+    },
+    {
+      "core": "RRLRRLRLLRLRLLRLL",
+      "length": 17,
+      "allowed_single_run_indices": [
+        2,
+        5,
+        6,
+        9
+      ],
+      "variable_count": 4,
+      "all_binary_inflation_combinations_minimal": true,
+      "core_history_count": 2
+    },
+    {
+      "core": "RRLRRLRLRRLRLLRLL",
+      "length": 17,
+      "allowed_single_run_indices": [
+        2,
+        5,
+        6,
+        9
+      ],
+      "variable_count": 4,
+      "all_binary_inflation_combinations_minimal": true,
+      "core_history_count": 2
+    },
+    {
+      "core": "RRLRRLRLLRLRRLRLLRLL",
+      "length": 20,
+      "allowed_single_run_indices": [
+        2,
+        5,
+        8,
+        11
+      ],
+      "variable_count": 4,
+      "all_binary_inflation_combinations_minimal": true,
+      "core_history_count": 2
+    },
+    {
+      "core": "RRLRRLRLLRLRLLRLRLLRLL",
+      "length": 22,
+      "allowed_single_run_indices": [
+        2,
+        5,
+        6,
+        9,
+        10,
+        13
+      ],
+      "variable_count": 6,
+      "all_binary_inflation_combinations_minimal": true,
+      "core_history_count": 2
+    },
+    {
+      "core": "RRLRRLRLLRLRLRRLRLLRLL",
+      "length": 22,
+      "allowed_single_run_indices": [
+        2,
+        5,
+        6,
+        9,
+        10,
+        13
+      ],
+      "variable_count": 6,
+      "all_binary_inflation_combinations_minimal": true,
+      "core_history_count": 2
+    },
+    {
+      "core": "RRLRRLRLRRLRLLRLRLLRLL",
+      "length": 22,
+      "allowed_single_run_indices": [
+        2,
+        5,
+        6,
+        9,
+        10,
+        13
+      ],
+      "variable_count": 6,
+      "all_binary_inflation_combinations_minimal": true,
+      "core_history_count": 2
+    },
+    {
+      "core": "RRLRRLRLRRLRLRRLRLLRLL",
+      "length": 22,
+      "allowed_single_run_indices": [
+        2,
+        5,
+        6,
+        9,
+        10,
+        13
+      ],
+      "variable_count": 6,
+      "all_binary_inflation_combinations_minimal": true,
+      "core_history_count": 2
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "length": 24,
+      "allowed_single_run_indices": [
+        2,
+        4,
+        5,
+        6,
+        8,
+        9,
+        11,
+        12,
+        13,
+        15
+      ],
+      "variable_count": 10,
+      "all_binary_inflation_combinations_minimal": false,
+      "core_history_count": 2
+    },
+    {
+      "core": "RRLRRLRLLRLRLLRLRRLRLLRLL",
+      "length": 25,
+      "allowed_single_run_indices": [
+        2,
+        5,
+        6,
+        9,
+        12,
+        15
+      ],
+      "variable_count": 6,
+      "all_binary_inflation_combinations_minimal": true,
+      "core_history_count": 2
+    },
+    {
+      "core": "RRLRRLRLLRLRRLRLLRLRLLRLL",
+      "length": 25,
+      "allowed_single_run_indices": [
+        2,
+        5,
+        8,
+        11,
+        12,
+        15
+      ],
+      "variable_count": 6,
+      "all_binary_inflation_combinations_minimal": true,
+      "core_history_count": 2
+    },
+    {
+      "core": "RRLRRLRLLRLRRLRLRRLRLLRLL",
+      "length": 25,
+      "allowed_single_run_indices": [
+        2,
+        5,
+        8,
+        11,
+        12,
+        15
+      ],
+      "variable_count": 6,
+      "all_binary_inflation_combinations_minimal": true,
+      "core_history_count": 2
+    },
+    {
+      "core": "RRLRRLRLRRLRLLRLRRLRLLRLL",
+      "length": 25,
+      "allowed_single_run_indices": [
+        2,
+        5,
+        6,
+        9,
+        12,
+        15
+      ],
+      "variable_count": 6,
+      "all_binary_inflation_combinations_minimal": true,
+      "core_history_count": 2
+    }
+  ],
+  "joint_inflation_counterexamples": [
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRLRLRLLRLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        5
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRLRLRLLRLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRRRLRLRLLRLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRRRLRLRLLRLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRLRRRLRLLRLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        8
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRLRRRLRLLRLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        8
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRRRLRRRLRLLRLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        6,
+        8
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRRRLRRRLRLLRLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        6,
+        8
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRLRLLLRLLRLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        9
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRLRLLLRLLRLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        9
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRRRLRLLLRLLRLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        6,
+        9
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRRRLRLLLRLLRLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        6,
+        9
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLRRLRRRLLLRLLRLRLLRLL",
+      "inflated_run_indices": [
+        8,
+        9
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLRRLRRRLLLRLLRLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        8,
+        9
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLRRLRRRLLLRLLRLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        8,
+        9
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLRRLRRRLLLRLLRLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        8,
+        9
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLLLRRLRRRLLLRLLRLRLLRLL",
+      "inflated_run_indices": [
+        5,
+        8,
+        9
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLLLRRLRRRLLLRLLRLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        5,
+        8,
+        9
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRLRRRLLLRLLRLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        8,
+        9
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRLRRRLLLRLLRLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        8,
+        9
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLRRRRLRRRLLLRLLRLRLLRLL",
+      "inflated_run_indices": [
+        6,
+        8,
+        9
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLRRRRLRRRLLLRLLRLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        6,
+        8,
+        9
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLRRRRLRRRLLLRLLRLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        6,
+        8,
+        9
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLRRRRLRRRLLLRLLRLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        6,
+        8,
+        9
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLLLRRRRLRRRLLLRLLRLRLLRLL",
+      "inflated_run_indices": [
+        5,
+        6,
+        8,
+        9
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLLLRRRRLRRRLLLRLLRLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        5,
+        6,
+        8,
+        9
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRRRLRRRLLLRLLRLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        6,
+        8,
+        9
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRRRLRRRLLLRLLRLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        6,
+        8,
+        9
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRLRLRLLLLRLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        11
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRLRLRLLLLRLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        11
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRRRLRLRLLLLRLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        6,
+        11
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRRRLRLRLLLLRLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        6,
+        11
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRLRRRLRLLLLRLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        8,
+        11
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRLRRRLRLLLLRLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        8,
+        11
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRRRLRRRLRLLLLRLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        6,
+        8,
+        11
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRRRLRRRLRLLLLRLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        6,
+        8,
+        11
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRLRLLLRLLLLRLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        9,
+        11
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRLRLLLRLLLLRLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        9,
+        11
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRRRLRLLLRLLLLRLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        6,
+        9,
+        11
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRRRLRLLLRLLLLRLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        6,
+        9,
+        11
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLRRLRRRLLLRLLLLRLRLLRLL",
+      "inflated_run_indices": [
+        8,
+        9,
+        11
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLRRLRRRLLLRLLLLRLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        8,
+        9,
+        11
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLRRLRRRLLLRLLLLRLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        8,
+        9,
+        11
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLRRLRRRLLLRLLLLRLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        8,
+        9,
+        11
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLLLRRLRRRLLLRLLLLRLRLLRLL",
+      "inflated_run_indices": [
+        5,
+        8,
+        9,
+        11
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLLLRRLRRRLLLRLLLLRLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        5,
+        8,
+        9,
+        11
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRLRRRLLLRLLLLRLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        8,
+        9,
+        11
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRLRRRLLLRLLLLRLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        8,
+        9,
+        11
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLRRRRLRRRLLLRLLLLRLRLLRLL",
+      "inflated_run_indices": [
+        6,
+        8,
+        9,
+        11
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLRRRRLRRRLLLRLLLLRLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        6,
+        8,
+        9,
+        11
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLRRRRLRRRLLLRLLLLRLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        6,
+        8,
+        9,
+        11
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLRRRRLRRRLLLRLLLLRLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        6,
+        8,
+        9,
+        11
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLLLRRRRLRRRLLLRLLLLRLRLLRLL",
+      "inflated_run_indices": [
+        5,
+        6,
+        8,
+        9,
+        11
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLLLRRRRLRRRLLLRLLLLRLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        5,
+        6,
+        8,
+        9,
+        11
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRRRLRRRLLLRLLLLRLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        6,
+        8,
+        9,
+        11
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRRRLRRRLLLRLLLLRLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        6,
+        8,
+        9,
+        11
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRLRLRLLRRRLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        12
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRLRLRLLRRRLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        12
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRRRLRLRLLRRRLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        6,
+        12
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRRRLRLRLLRRRLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        6,
+        12
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRLRRRLRLLRRRLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        8,
+        12
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRLRRRLRLLRRRLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        8,
+        12
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRRRLRRRLRLLRRRLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        6,
+        8,
+        12
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRRRLRRRLRLLRRRLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        6,
+        8,
+        12
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRLRLLLRLLRRRLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        9,
+        12
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRLRLLLRLLRRRLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        9,
+        12
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRRRLRLLLRLLRRRLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        6,
+        9,
+        12
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRRRLRLLLRLLRRRLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        6,
+        9,
+        12
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLRRLRRRLLLRLLRRRLRLLRLL",
+      "inflated_run_indices": [
+        8,
+        9,
+        12
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLRRLRRRLLLRLLRRRLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        8,
+        9,
+        12
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLRRLRRRLLLRLLRRRLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        8,
+        9,
+        12
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLRRLRRRLLLRLLRRRLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        8,
+        9,
+        12
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLLLRRLRRRLLLRLLRRRLRLLRLL",
+      "inflated_run_indices": [
+        5,
+        8,
+        9,
+        12
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLLLRRLRRRLLLRLLRRRLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        5,
+        8,
+        9,
+        12
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRLRRRLLLRLLRRRLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        8,
+        9,
+        12
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRLRRRLLLRLLRRRLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        8,
+        9,
+        12
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLRRRRLRRRLLLRLLRRRLRLLRLL",
+      "inflated_run_indices": [
+        6,
+        8,
+        9,
+        12
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLRRRRLRRRLLLRLLRRRLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        6,
+        8,
+        9,
+        12
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLRRRRLRRRLLLRLLRRRLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        6,
+        8,
+        9,
+        12
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLRRRRLRRRLLLRLLRRRLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        6,
+        8,
+        9,
+        12
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLLLRRRRLRRRLLLRLLRRRLRLLRLL",
+      "inflated_run_indices": [
+        5,
+        6,
+        8,
+        9,
+        12
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLLLRRRRLRRRLLLRLLRRRLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        5,
+        6,
+        8,
+        9,
+        12
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRRRLRRRLLLRLLRRRLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        6,
+        8,
+        9,
+        12
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRRRLRRRLLLRLLRRRLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        6,
+        8,
+        9,
+        12
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRLRLRLLLLRRRLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        11,
+        12
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRLRLRLLLLRRRLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        11,
+        12
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRRRLRLRLLLLRRRLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        6,
+        11,
+        12
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRRRLRLRLLLLRRRLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        6,
+        11,
+        12
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRLRRRLRLLLLRRRLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        8,
+        11,
+        12
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRLRRRLRLLLLRRRLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        8,
+        11,
+        12
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRRRLRRRLRLLLLRRRLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        6,
+        8,
+        11,
+        12
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRRRLRRRLRLLLLRRRLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        6,
+        8,
+        11,
+        12
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRLRLLLRLLLLRRRLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        9,
+        11,
+        12
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRLRLLLRLLLLRRRLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        9,
+        11,
+        12
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRRRLRLLLRLLLLRRRLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        6,
+        9,
+        11,
+        12
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRRRLRLLLRLLLLRRRLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        6,
+        9,
+        11,
+        12
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLRRLRRRLLLRLLLLRRRLRLLRLL",
+      "inflated_run_indices": [
+        8,
+        9,
+        11,
+        12
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLRRLRRRLLLRLLLLRRRLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        8,
+        9,
+        11,
+        12
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLRRLRRRLLLRLLLLRRRLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        8,
+        9,
+        11,
+        12
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLRRLRRRLLLRLLLLRRRLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        8,
+        9,
+        11,
+        12
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLLLRRLRRRLLLRLLLLRRRLRLLRLL",
+      "inflated_run_indices": [
+        5,
+        8,
+        9,
+        11,
+        12
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLLLRRLRRRLLLRLLLLRRRLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        5,
+        8,
+        9,
+        11,
+        12
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRLRRRLLLRLLLLRRRLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        8,
+        9,
+        11,
+        12
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRLRRRLLLRLLLLRRRLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        8,
+        9,
+        11,
+        12
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLRRRRLRRRLLLRLLLLRRRLRLLRLL",
+      "inflated_run_indices": [
+        6,
+        8,
+        9,
+        11,
+        12
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLRRRRLRRRLLLRLLLLRRRLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        6,
+        8,
+        9,
+        11,
+        12
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLRRRRLRRRLLLRLLLLRRRLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        6,
+        8,
+        9,
+        11,
+        12
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLRRRRLRRRLLLRLLLLRRRLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        6,
+        8,
+        9,
+        11,
+        12
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLLLRRRRLRRRLLLRLLLLRRRLRLLRLL",
+      "inflated_run_indices": [
+        5,
+        6,
+        8,
+        9,
+        11,
+        12
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLLLRRRRLRRRLLLRLLLLRRRLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        5,
+        6,
+        8,
+        9,
+        11,
+        12
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRRRLRRRLLLRLLLLRRRLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        6,
+        8,
+        9,
+        11,
+        12
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRRRLRRRLLLRLLLLRRRLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        6,
+        8,
+        9,
+        11,
+        12
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRLRLRLLRLLLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRLRLRLLRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRRRLRLRLLRLLLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        6,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRRRLRLRLLRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        6,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRLRRRLRLLRLLLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        8,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRLRRRLRLLRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        8,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRRRLRRRLRLLRLLLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        6,
+        8,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRRRLRRRLRLLRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        6,
+        8,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRLRLLLRLLRLLLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        9,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRLRLLLRLLRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        9,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRRRLRLLLRLLRLLLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        6,
+        9,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRRRLRLLLRLLRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        6,
+        9,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLRRLRRRLLLRLLRLLLRLLRLL",
+      "inflated_run_indices": [
+        8,
+        9,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLRRLRRRLLLRLLRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        8,
+        9,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLRRLRRRLLLRLLRLLLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        8,
+        9,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLRRLRRRLLLRLLRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        8,
+        9,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLLLRRLRRRLLLRLLRLLLRLLRLL",
+      "inflated_run_indices": [
+        5,
+        8,
+        9,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLLLRRLRRRLLLRLLRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        5,
+        8,
+        9,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRLRRRLLLRLLRLLLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        8,
+        9,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRLRRRLLLRLLRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        8,
+        9,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLRRRRLRRRLLLRLLRLLLRLLRLL",
+      "inflated_run_indices": [
+        6,
+        8,
+        9,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLRRRRLRRRLLLRLLRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        6,
+        8,
+        9,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLRRRRLRRRLLLRLLRLLLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        6,
+        8,
+        9,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLRRRRLRRRLLLRLLRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        6,
+        8,
+        9,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLLLRRRRLRRRLLLRLLRLLLRLLRLL",
+      "inflated_run_indices": [
+        5,
+        6,
+        8,
+        9,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLLLRRRRLRRRLLLRLLRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        5,
+        6,
+        8,
+        9,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRRRLRRRLLLRLLRLLLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        6,
+        8,
+        9,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRRRLRRRLLLRLLRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        6,
+        8,
+        9,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRLRLRLLLLRLLLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        11,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRLRLRLLLLRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        11,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRRRLRLRLLLLRLLLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        6,
+        11,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRRRLRLRLLLLRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        6,
+        11,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRLRRRLRLLLLRLLLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        8,
+        11,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRLRRRLRLLLLRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        8,
+        11,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRRRLRRRLRLLLLRLLLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        6,
+        8,
+        11,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRRRLRRRLRLLLLRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        6,
+        8,
+        11,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRLRLLLRLLLLRLLLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        9,
+        11,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRLRLLLRLLLLRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        9,
+        11,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRRRLRLLLRLLLLRLLLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        6,
+        9,
+        11,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRRRLRLLLRLLLLRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        6,
+        9,
+        11,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLRRLRRRLLLRLLLLRLLLRLLRLL",
+      "inflated_run_indices": [
+        8,
+        9,
+        11,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLRRLRRRLLLRLLLLRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        8,
+        9,
+        11,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLRRLRRRLLLRLLLLRLLLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        8,
+        9,
+        11,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLRRLRRRLLLRLLLLRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        8,
+        9,
+        11,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLLLRRLRRRLLLRLLLLRLLLRLLRLL",
+      "inflated_run_indices": [
+        5,
+        8,
+        9,
+        11,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLLLRRLRRRLLLRLLLLRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        5,
+        8,
+        9,
+        11,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRLRRRLLLRLLLLRLLLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        8,
+        9,
+        11,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRLRRRLLLRLLLLRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        8,
+        9,
+        11,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLRRRRLRRRLLLRLLLLRLLLRLLRLL",
+      "inflated_run_indices": [
+        6,
+        8,
+        9,
+        11,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLRRRRLRRRLLLRLLLLRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        6,
+        8,
+        9,
+        11,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLRRRRLRRRLLLRLLLLRLLLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        6,
+        8,
+        9,
+        11,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLRRRRLRRRLLLRLLLLRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        6,
+        8,
+        9,
+        11,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLLLRRRRLRRRLLLRLLLLRLLLRLLRLL",
+      "inflated_run_indices": [
+        5,
+        6,
+        8,
+        9,
+        11,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLLLRRRRLRRRLLLRLLLLRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        5,
+        6,
+        8,
+        9,
+        11,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRRRLRRRLLLRLLLLRLLLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        6,
+        8,
+        9,
+        11,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRRRLRRRLLLRLLLLRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        6,
+        8,
+        9,
+        11,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLRRLRLRLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLRRLRLRLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLRRLRLRLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLRRLRLRLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLLLRRLRLRLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        5,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLLLRRLRLRLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        5,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRLRLRLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRLRLRLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLRRRRLRLRLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        6,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLRRRRLRLRLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        6,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLRRRRLRLRLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        6,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLRRRRLRLRLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        6,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLLLRRRRLRLRLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        5,
+        6,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLLLRRRRLRLRLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        5,
+        6,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRRRLRLRLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        6,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRRRLRLRLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        6,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLRRLRRRLRLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        8,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLRRLRRRLRLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        8,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLRRLRRRLRLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        8,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLRRLRRRLRLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        8,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLLLRRLRRRLRLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        5,
+        8,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLLLRRLRRRLRLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        5,
+        8,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRLRRRLRLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        8,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRLRRRLRLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        8,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLRRRRLRRRLRLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        6,
+        8,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLRRRRLRRRLRLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        6,
+        8,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLRRRRLRRRLRLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        6,
+        8,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLRRRRLRRRLRLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        6,
+        8,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLLLRRRRLRRRLRLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        5,
+        6,
+        8,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLLLRRRRLRRRLRLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        5,
+        6,
+        8,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRRRLRRRLRLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        6,
+        8,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRRRLRRRLRLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        6,
+        8,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLRRLRLLLRLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        9,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLRRLRLLLRLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        9,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLRRLRLLLRLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        9,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLRRLRLLLRLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        9,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLLLRRLRLLLRLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        5,
+        9,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLLLRRLRLLLRLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        5,
+        9,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRLRLLLRLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        9,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRLRLLLRLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        9,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLRRRRLRLLLRLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        6,
+        9,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLRRRRLRLLLRLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        6,
+        9,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLRRRRLRLLLRLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        6,
+        9,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLRRRRLRLLLRLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        6,
+        9,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLLLRRRRLRLLLRLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        5,
+        6,
+        9,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLLLRRRRLRLLLRLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        5,
+        6,
+        9,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRRRLRLLLRLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        6,
+        9,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRRRLRLLLRLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        6,
+        9,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLRRLRRRLLLRLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        8,
+        9,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLRRLRRRLLLRLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        8,
+        9,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLRRLRRRLLLRLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        8,
+        9,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLRRLRRRLLLRLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        8,
+        9,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLLLRRLRRRLLLRLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        5,
+        8,
+        9,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLLLRRLRRRLLLRLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        5,
+        8,
+        9,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRLRRRLLLRLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        8,
+        9,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRLRRRLLLRLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        8,
+        9,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLRRRRLRRRLLLRLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        6,
+        8,
+        9,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLRRRRLRRRLLLRLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        6,
+        8,
+        9,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLRRRRLRRRLLLRLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        6,
+        8,
+        9,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLRRRRLRRRLLLRLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        6,
+        8,
+        9,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLLLRRRRLRRRLLLRLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        5,
+        6,
+        8,
+        9,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLLLRRRRLRRRLLLRLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        5,
+        6,
+        8,
+        9,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRRRLRRRLLLRLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        6,
+        8,
+        9,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRRRLRRRLLLRLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        6,
+        8,
+        9,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLRRLRLRLLLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLRRLRLRLLLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLRRLRLRLLLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLRRLRLRLLLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLLLRRLRLRLLLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        5,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLLLRRLRLRLLLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        5,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRLRLRLLLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRLRLRLLLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLRRRRLRLRLLLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        6,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLRRRRLRLRLLLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        6,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLRRRRLRLRLLLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        6,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLRRRRLRLRLLLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        6,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLLLRRRRLRLRLLLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        5,
+        6,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLLLRRRRLRLRLLLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        5,
+        6,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRRRLRLRLLLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        6,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRRRLRLRLLLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        6,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLRRLRRRLRLLLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        8,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLRRLRRRLRLLLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        8,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLRRLRRRLRLLLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        8,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLRRLRRRLRLLLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        8,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLLLRRLRRRLRLLLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        5,
+        8,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLLLRRLRRRLRLLLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        5,
+        8,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRLRRRLRLLLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        8,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRLRRRLRLLLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        8,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLRRRRLRRRLRLLLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        6,
+        8,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLRRRRLRRRLRLLLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        6,
+        8,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLRRRRLRRRLRLLLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        6,
+        8,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLRRRRLRRRLRLLLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        6,
+        8,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLLLRRRRLRRRLRLLLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        5,
+        6,
+        8,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLLLRRRRLRRRLRLLLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        5,
+        6,
+        8,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRRRLRRRLRLLLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        6,
+        8,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRRRLRRRLRLLLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        6,
+        8,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLRRLRLLLRLLLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        9,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLRRLRLLLRLLLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        9,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLRRLRLLLRLLLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        9,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLRRLRLLLRLLLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        9,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLLLRRLRLLLRLLLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        5,
+        9,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLLLRRLRLLLRLLLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        5,
+        9,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRLRLLLRLLLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        9,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRLRLLLRLLLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        9,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLRRRRLRLLLRLLLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        6,
+        9,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLRRRRLRLLLRLLLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        6,
+        9,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLRRRRLRLLLRLLLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        6,
+        9,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLRRRRLRLLLRLLLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        6,
+        9,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLLLRRRRLRLLLRLLLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        5,
+        6,
+        9,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLLLRRRRLRLLLRLLLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        5,
+        6,
+        9,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRRRLRLLLRLLLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        6,
+        9,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRRRLRLLLRLLLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        6,
+        9,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLRRLRRRLLLRLLLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        8,
+        9,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLRRLRRRLLLRLLLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        8,
+        9,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLRRLRRRLLLRLLLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        8,
+        9,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLRRLRRRLLLRLLLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        8,
+        9,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLLLRRLRRRLLLRLLLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        5,
+        8,
+        9,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLLLRRLRRRLLLRLLLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        5,
+        8,
+        9,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRLRRRLLLRLLLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        8,
+        9,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRLRRRLLLRLLLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        8,
+        9,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLRRRRLRRRLLLRLLLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        6,
+        8,
+        9,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLRRRRLRRRLLLRLLLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        6,
+        8,
+        9,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLRRRRLRRRLLLRLLLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        6,
+        8,
+        9,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLRRRRLRRRLLLRLLLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        6,
+        8,
+        9,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLLLRRRRLRRRLLLRLLLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        5,
+        6,
+        8,
+        9,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLLLRRRRLRRRLLLRLLLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        5,
+        6,
+        8,
+        9,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRRRLRRRLLLRLLLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        6,
+        8,
+        9,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRRRLRRRLLLRLLLLRRRLLLRLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        6,
+        8,
+        9,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRLRLRLLRLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRLRLRLLRLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRRRLRLRLLRLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        6,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRRRLRLRLLRLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        6,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRLRRRLRLLRLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        8,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRLRRRLRLLRLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        8,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRRRLRRRLRLLRLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        6,
+        8,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRRRLRRRLRLLRLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        6,
+        8,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRLRLLLRLLRLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        9,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRLRLLLRLLRLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        9,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRRRLRLLLRLLRLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        6,
+        9,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRRRLRLLLRLLRLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        6,
+        9,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLRRLRRRLLLRLLRLRLLLLRLL",
+      "inflated_run_indices": [
+        8,
+        9,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLRRLRRRLLLRLLRLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        8,
+        9,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLRRLRRRLLLRLLRLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        8,
+        9,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLRRLRRRLLLRLLRLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        8,
+        9,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLLLRRLRRRLLLRLLRLRLLLLRLL",
+      "inflated_run_indices": [
+        5,
+        8,
+        9,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLLLRRLRRRLLLRLLRLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        5,
+        8,
+        9,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRLRRRLLLRLLRLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        8,
+        9,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRLRRRLLLRLLRLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        8,
+        9,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLRRRRLRRRLLLRLLRLRLLLLRLL",
+      "inflated_run_indices": [
+        6,
+        8,
+        9,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLRRRRLRRRLLLRLLRLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        6,
+        8,
+        9,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLRRRRLRRRLLLRLLRLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        6,
+        8,
+        9,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLRRRRLRRRLLLRLLRLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        6,
+        8,
+        9,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLLLRRRRLRRRLLLRLLRLRLLLLRLL",
+      "inflated_run_indices": [
+        5,
+        6,
+        8,
+        9,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLLLRRRRLRRRLLLRLLRLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        5,
+        6,
+        8,
+        9,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRRRLRRRLLLRLLRLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        6,
+        8,
+        9,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRRRLRRRLLLRLLRLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        6,
+        8,
+        9,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRLRLRLLLLRLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        11,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRLRLRLLLLRLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        11,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRRRLRLRLLLLRLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        6,
+        11,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRRRLRLRLLLLRLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        6,
+        11,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRLRRRLRLLLLRLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        8,
+        11,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRLRRRLRLLLLRLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        8,
+        11,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRRRLRRRLRLLLLRLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        6,
+        8,
+        11,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRRRLRRRLRLLLLRLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        6,
+        8,
+        11,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRLRLLLRLLLLRLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        9,
+        11,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRLRLLLRLLLLRLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        9,
+        11,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRRRLRLLLRLLLLRLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        6,
+        9,
+        11,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRRRLRLLLRLLLLRLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        6,
+        9,
+        11,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLRRLRRRLLLRLLLLRLRLLLLRLL",
+      "inflated_run_indices": [
+        8,
+        9,
+        11,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLRRLRRRLLLRLLLLRLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        8,
+        9,
+        11,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLRRLRRRLLLRLLLLRLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        8,
+        9,
+        11,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLRRLRRRLLLRLLLLRLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        8,
+        9,
+        11,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLLLRRLRRRLLLRLLLLRLRLLLLRLL",
+      "inflated_run_indices": [
+        5,
+        8,
+        9,
+        11,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLLLRRLRRRLLLRLLLLRLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        5,
+        8,
+        9,
+        11,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRLRRRLLLRLLLLRLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        8,
+        9,
+        11,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRLRRRLLLRLLLLRLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        8,
+        9,
+        11,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLRRRRLRRRLLLRLLLLRLRLLLLRLL",
+      "inflated_run_indices": [
+        6,
+        8,
+        9,
+        11,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLRRRRLRRRLLLRLLLLRLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        6,
+        8,
+        9,
+        11,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLRRRRLRRRLLLRLLLLRLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        6,
+        8,
+        9,
+        11,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLRRRRLRRRLLLRLLLLRLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        6,
+        8,
+        9,
+        11,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLLLRRRRLRRRLLLRLLLLRLRLLLLRLL",
+      "inflated_run_indices": [
+        5,
+        6,
+        8,
+        9,
+        11,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLLLRRRRLRRRLLLRLLLLRLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        5,
+        6,
+        8,
+        9,
+        11,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRRRLRRRLLLRLLLLRLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        6,
+        8,
+        9,
+        11,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRRRLRRRLLLRLLLLRLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        6,
+        8,
+        9,
+        11,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRLRLRLLRRRLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        12,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRLRLRLLRRRLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        12,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRRRLRLRLLRRRLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        6,
+        12,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRRRLRLRLLRRRLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        6,
+        12,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRLRRRLRLLRRRLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        8,
+        12,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRLRRRLRLLRRRLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        8,
+        12,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRRRLRRRLRLLRRRLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        6,
+        8,
+        12,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRRRLRRRLRLLRRRLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        6,
+        8,
+        12,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRLRLLLRLLRRRLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        9,
+        12,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRLRLLLRLLRRRLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        9,
+        12,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRRRLRLLLRLLRRRLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        6,
+        9,
+        12,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRRRLRLLLRLLRRRLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        6,
+        9,
+        12,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLRRLRRRLLLRLLRRRLRLLLLRLL",
+      "inflated_run_indices": [
+        8,
+        9,
+        12,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLRRLRRRLLLRLLRRRLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        8,
+        9,
+        12,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLRRLRRRLLLRLLRRRLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        8,
+        9,
+        12,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLRRLRRRLLLRLLRRRLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        8,
+        9,
+        12,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLLLRRLRRRLLLRLLRRRLRLLLLRLL",
+      "inflated_run_indices": [
+        5,
+        8,
+        9,
+        12,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLLLRRLRRRLLLRLLRRRLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        5,
+        8,
+        9,
+        12,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRLRRRLLLRLLRRRLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        8,
+        9,
+        12,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRLRRRLLLRLLRRRLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        8,
+        9,
+        12,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLRRRRLRRRLLLRLLRRRLRLLLLRLL",
+      "inflated_run_indices": [
+        6,
+        8,
+        9,
+        12,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLRRRRLRRRLLLRLLRRRLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        6,
+        8,
+        9,
+        12,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLRRRRLRRRLLLRLLRRRLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        6,
+        8,
+        9,
+        12,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLRRRRLRRRLLLRLLRRRLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        6,
+        8,
+        9,
+        12,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLLLRRRRLRRRLLLRLLRRRLRLLLLRLL",
+      "inflated_run_indices": [
+        5,
+        6,
+        8,
+        9,
+        12,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLLLRRRRLRRRLLLRLLRRRLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        5,
+        6,
+        8,
+        9,
+        12,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRRRLRRRLLLRLLRRRLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        6,
+        8,
+        9,
+        12,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRRRLRRRLLLRLLRRRLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        6,
+        8,
+        9,
+        12,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRLRLRLLLLRRRLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        11,
+        12,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRLRLRLLLLRRRLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        11,
+        12,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRRRLRLRLLLLRRRLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        6,
+        11,
+        12,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRRRLRLRLLLLRRRLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        6,
+        11,
+        12,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRLRRRLRLLLLRRRLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        8,
+        11,
+        12,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRLRRRLRLLLLRRRLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        8,
+        11,
+        12,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRRRLRRRLRLLLLRRRLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        6,
+        8,
+        11,
+        12,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRRRLRRRLRLLLLRRRLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        6,
+        8,
+        11,
+        12,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRLRLLLRLLLLRRRLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        9,
+        11,
+        12,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRLRLLLRLLLLRRRLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        9,
+        11,
+        12,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRRRLRLLLRLLLLRRRLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        6,
+        9,
+        11,
+        12,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRRRLRLLLRLLLLRRRLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        6,
+        9,
+        11,
+        12,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLRRLRRRLLLRLLLLRRRLRLLLLRLL",
+      "inflated_run_indices": [
+        8,
+        9,
+        11,
+        12,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLRRLRRRLLLRLLLLRRRLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        8,
+        9,
+        11,
+        12,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLRRLRRRLLLRLLLLRRRLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        8,
+        9,
+        11,
+        12,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLRRLRRRLLLRLLLLRRRLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        8,
+        9,
+        11,
+        12,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLLLRRLRRRLLLRLLLLRRRLRLLLLRLL",
+      "inflated_run_indices": [
+        5,
+        8,
+        9,
+        11,
+        12,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLLLRRLRRRLLLRLLLLRRRLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        5,
+        8,
+        9,
+        11,
+        12,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRLRRRLLLRLLLLRRRLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        8,
+        9,
+        11,
+        12,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRLRRRLLLRLLLLRRRLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        8,
+        9,
+        11,
+        12,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLRRRRLRRRLLLRLLLLRRRLRLLLLRLL",
+      "inflated_run_indices": [
+        6,
+        8,
+        9,
+        11,
+        12,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLRRRRLRRRLLLRLLLLRRRLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        6,
+        8,
+        9,
+        11,
+        12,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLRRRRLRRRLLLRLLLLRRRLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        6,
+        8,
+        9,
+        11,
+        12,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLRRRRLRRRLLLRLLLLRRRLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        6,
+        8,
+        9,
+        11,
+        12,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLLLRRRRLRRRLLLRLLLLRRRLRLLLLRLL",
+      "inflated_run_indices": [
+        5,
+        6,
+        8,
+        9,
+        11,
+        12,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLLLRRRRLRRRLLLRLLLLRRRLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        5,
+        6,
+        8,
+        9,
+        11,
+        12,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRRRLRRRLLLRLLLLRRRLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        6,
+        8,
+        9,
+        11,
+        12,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRRRLRRRLLLRLLLLRRRLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        6,
+        8,
+        9,
+        11,
+        12,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRLRLRLLRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRLRLRLLRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRRRLRLRLLRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        6,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRRRLRLRLLRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        6,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRLRRRLRLLRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        8,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRLRRRLRLLRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        8,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRRRLRRRLRLLRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        6,
+        8,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRRRLRRRLRLLRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        6,
+        8,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRLRLLLRLLRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        9,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRLRLLLRLLRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        9,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRRRLRLLLRLLRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        6,
+        9,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRRRLRLLLRLLRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        6,
+        9,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLRRLRRRLLLRLLRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        8,
+        9,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLRRLRRRLLLRLLRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        8,
+        9,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLRRLRRRLLLRLLRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        8,
+        9,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLRRLRRRLLLRLLRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        8,
+        9,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLLLRRLRRRLLLRLLRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        5,
+        8,
+        9,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLLLRRLRRRLLLRLLRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        5,
+        8,
+        9,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRLRRRLLLRLLRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        8,
+        9,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRLRRRLLLRLLRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        8,
+        9,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLRRRRLRRRLLLRLLRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        6,
+        8,
+        9,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLRRRRLRRRLLLRLLRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        6,
+        8,
+        9,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLRRRRLRRRLLLRLLRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        6,
+        8,
+        9,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLRRRRLRRRLLLRLLRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        6,
+        8,
+        9,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLLLRRRRLRRRLLLRLLRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        5,
+        6,
+        8,
+        9,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLLLRRRRLRRRLLLRLLRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        5,
+        6,
+        8,
+        9,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRRRLRRRLLLRLLRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        6,
+        8,
+        9,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRRRLRRRLLLRLLRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        6,
+        8,
+        9,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRLRLRLLLLRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        11,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRLRLRLLLLRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        11,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRRRLRLRLLLLRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        6,
+        11,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRRRLRLRLLLLRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        6,
+        11,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRLRRRLRLLLLRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        8,
+        11,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRLRRRLRLLLLRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        8,
+        11,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRRRLRRRLRLLLLRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        6,
+        8,
+        11,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRRRLRRRLRLLLLRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        6,
+        8,
+        11,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRLRLLLRLLLLRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        9,
+        11,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRLRLLLRLLLLRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        9,
+        11,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRRRLRLLLRLLLLRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        6,
+        9,
+        11,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRRRLRLLLRLLLLRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        6,
+        9,
+        11,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLRRLRRRLLLRLLLLRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        8,
+        9,
+        11,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLRRLRRRLLLRLLLLRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        8,
+        9,
+        11,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLRRLRRRLLLRLLLLRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        8,
+        9,
+        11,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLRRLRRRLLLRLLLLRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        8,
+        9,
+        11,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLLLRRLRRRLLLRLLLLRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        5,
+        8,
+        9,
+        11,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLLLRRLRRRLLLRLLLLRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        5,
+        8,
+        9,
+        11,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRLRRRLLLRLLLLRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        8,
+        9,
+        11,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRLRRRLLLRLLLLRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        8,
+        9,
+        11,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLRRRRLRRRLLLRLLLLRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        6,
+        8,
+        9,
+        11,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLRRRRLRRRLLLRLLLLRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        6,
+        8,
+        9,
+        11,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLRRRRLRRRLLLRLLLLRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        6,
+        8,
+        9,
+        11,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLRRRRLRRRLLLRLLLLRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        6,
+        8,
+        9,
+        11,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLLLRRRRLRRRLLLRLLLLRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        5,
+        6,
+        8,
+        9,
+        11,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLLLRRRRLRRRLLLRLLLLRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        5,
+        6,
+        8,
+        9,
+        11,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRRRLRRRLLLRLLLLRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        6,
+        8,
+        9,
+        11,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRRRLRRRLLLRLLLLRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        6,
+        8,
+        9,
+        11,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLRRLRLRLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLRRLRLRLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLRRLRLRLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLRRLRLRLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLLLRRLRLRLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        5,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLLLRRLRLRLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        5,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRLRLRLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRLRLRLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLRRRRLRLRLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        6,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLRRRRLRLRLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        6,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLRRRRLRLRLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        6,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLRRRRLRLRLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        6,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLLLRRRRLRLRLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        5,
+        6,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLLLRRRRLRLRLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        5,
+        6,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRRRLRLRLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        6,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRRRLRLRLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        6,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLRRLRRRLRLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        8,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLRRLRRRLRLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        8,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLRRLRRRLRLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        8,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLRRLRRRLRLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        8,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLLLRRLRRRLRLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        5,
+        8,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLLLRRLRRRLRLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        5,
+        8,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRLRRRLRLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        8,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRLRRRLRLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        8,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLRRRRLRRRLRLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        6,
+        8,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLRRRRLRRRLRLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        6,
+        8,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLRRRRLRRRLRLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        6,
+        8,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLRRRRLRRRLRLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        6,
+        8,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLLLRRRRLRRRLRLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        5,
+        6,
+        8,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLLLRRRRLRRRLRLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        5,
+        6,
+        8,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRRRLRRRLRLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        6,
+        8,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRRRLRRRLRLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        6,
+        8,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLRRLRLLLRLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        9,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLRRLRLLLRLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        9,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLRRLRLLLRLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        9,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLRRLRLLLRLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        9,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLLLRRLRLLLRLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        5,
+        9,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLLLRRLRLLLRLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        5,
+        9,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRLRLLLRLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        9,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRLRLLLRLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        9,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLRRRRLRLLLRLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        6,
+        9,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLRRRRLRLLLRLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        6,
+        9,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLRRRRLRLLLRLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        6,
+        9,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLRRRRLRLLLRLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        6,
+        9,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLLLRRRRLRLLLRLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        5,
+        6,
+        9,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLLLRRRRLRLLLRLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        5,
+        6,
+        9,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRRRLRLLLRLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        6,
+        9,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRRRLRLLLRLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        6,
+        9,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLRRLRRRLLLRLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        8,
+        9,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLRRLRRRLLLRLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        8,
+        9,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLRRLRRRLLLRLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        8,
+        9,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLRRLRRRLLLRLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        8,
+        9,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLLLRRLRRRLLLRLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        5,
+        8,
+        9,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLLLRRLRRRLLLRLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        5,
+        8,
+        9,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRLRRRLLLRLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        8,
+        9,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRLRRRLLLRLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        8,
+        9,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLRRRRLRRRLLLRLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        6,
+        8,
+        9,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLRRRRLRRRLLLRLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        6,
+        8,
+        9,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLRRRRLRRRLLLRLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        6,
+        8,
+        9,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLRRRRLRRRLLLRLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        6,
+        8,
+        9,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLLLRRRRLRRRLLLRLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        5,
+        6,
+        8,
+        9,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLLLRRRRLRRRLLLRLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        5,
+        6,
+        8,
+        9,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRRRLRRRLLLRLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        6,
+        8,
+        9,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRRRLRRRLLLRLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        6,
+        8,
+        9,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLRRLRLRLLLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLRRLRLRLLLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLRRLRLRLLLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLRRLRLRLLLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLLLRRLRLRLLLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        5,
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLLLRRLRLRLLLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        5,
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRLRLRLLLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRLRLRLLLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLRRRRLRLRLLLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        6,
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLRRRRLRLRLLLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        6,
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLRRRRLRLRLLLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        6,
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLRRRRLRLRLLLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        6,
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLLLRRRRLRLRLLLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        5,
+        6,
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLLLRRRRLRLRLLLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        5,
+        6,
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRRRLRLRLLLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        6,
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRRRLRLRLLLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        6,
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLRRLRRRLRLLLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        8,
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLRRLRRRLRLLLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        8,
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLRRLRRRLRLLLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        8,
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLRRLRRRLRLLLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        8,
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLLLRRLRRRLRLLLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        5,
+        8,
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLLLRRLRRRLRLLLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        5,
+        8,
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRLRRRLRLLLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        8,
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRLRRRLRLLLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        8,
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLRRRRLRRRLRLLLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        6,
+        8,
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLRRRRLRRRLRLLLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        6,
+        8,
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLRRRRLRRRLRLLLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        6,
+        8,
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLRRRRLRRRLRLLLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        6,
+        8,
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLLLRRRRLRRRLRLLLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        5,
+        6,
+        8,
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLLLRRRRLRRRLRLLLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        5,
+        6,
+        8,
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRRRLRRRLRLLLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        6,
+        8,
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRRRLRRRLRLLLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        6,
+        8,
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLRRLRLLLRLLLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        9,
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLRRLRLLLRLLLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        9,
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLRRLRLLLRLLLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        9,
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLRRLRLLLRLLLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        9,
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLLLRRLRLLLRLLLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        5,
+        9,
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLLLRRLRLLLRLLLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        5,
+        9,
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRLRLLLRLLLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        9,
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRLRLLLRLLLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        9,
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLRRRRLRLLLRLLLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        6,
+        9,
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLRRRRLRLLLRLLLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        6,
+        9,
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLRRRRLRLLLRLLLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        6,
+        9,
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLRRRRLRLLLRLLLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        6,
+        9,
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLLLRRRRLRLLLRLLLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        5,
+        6,
+        9,
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLLLRRRRLRLLLRLLLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        5,
+        6,
+        9,
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRRRLRLLLRLLLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        6,
+        9,
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRRRLRLLLRLLLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        6,
+        9,
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLRRLRRRLLLRLLLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        8,
+        9,
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLRRLRRRLLLRLLLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        8,
+        9,
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLRRLRRRLLLRLLLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        8,
+        9,
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLRRLRRRLLLRLLLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        8,
+        9,
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLLLRRLRRRLLLRLLLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        5,
+        8,
+        9,
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLLLRRLRRRLLLRLLLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        5,
+        8,
+        9,
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRLRRRLLLRLLLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        8,
+        9,
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRLRRRLLLRLLLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        8,
+        9,
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLRRRRLRRRLLLRLLLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        6,
+        8,
+        9,
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLRRRRLRRRLLLRLLLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        6,
+        8,
+        9,
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLRRRRLRRRLLLRLLLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        6,
+        8,
+        9,
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLRRRRLRRRLLLRLLLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        6,
+        8,
+        9,
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRLLLRRRRLRRRLLLRLLLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        5,
+        6,
+        8,
+        9,
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRLLLRRRRLRRRLLLRLLLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        5,
+        6,
+        8,
+        9,
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRLRRRLLLRRRRLRRRLLLRLLLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        4,
+        5,
+        6,
+        8,
+        9,
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "core": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "pumped": "RRLRRRRLRRRLLLRRRRLRRRLLLRLLLLRRRLLLRLLLLRLL",
+      "inflated_run_indices": [
+        2,
+        4,
+        5,
+        6,
+        8,
+        9,
+        11,
+        12,
+        13,
+        15
+      ]
+    }
+  ],
+  "full_data_decomposition_counterexamples": [],
+  "elapsed_seconds": 0.17664520800462924
+}

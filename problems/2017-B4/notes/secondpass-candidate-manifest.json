@@ -1,0 +1,55 @@
+{
+  "observed_utc": "2026-10-16T11:25:38.327027+00:00",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning_effort": "max"
+  },
+  "verified_effective_settings": null,
+  "candidates": [
+    {
+      "path": "problems/2017-B4/notes/secondpass-macmahon-candidate-v1.md",
+      "sha256": "83f254ec69a31b5bf57dddd241bd0e29277300b4f1ba78dbf3c2c02191913ffe",
+      "status": "candidate proof - unverified",
+      "independent_reviews": 0
+    },
+    {
+      "path": "problems/2017-B4/notes/secondpass-boundary-fiber-candidate-v1.md",
+      "sha256": "984ecfd11306304dd68310b0b20148577a7e8d43da6761a9bd570f95024cacbc",
+      "status": "candidate proof - unverified",
+      "independent_reviews": 0
+    },
+    {
+      "path": "problems/2017-B4/notes/secondpass-periodic-grid-candidate-v1.md",
+      "sha256": "6e2a25e0bd94d230892c8c8eb31d931c4a09190826f1f210a97fcb207e852bd7",
+      "status": "candidate proof - unverified",
+      "independent_reviews": 0
+    }
+  ],
+  "source_cache_hashes": [
+    {
+      "path": ".cache/literature/2017/cited-7f7251133b0c4ebc.pdf",
+      "sha256": "9f68329a62318b355cde668eabb9a05073ce755becfdd81dc5a6a15f9db68c26"
+    },
+    {
+      "path": ".cache/literature/2017/cited-b5bf6499a3fedd25.pdf",
+      "sha256": "075dee678bceb7bddf599d1a402d37c56659bb84302765aa4c6a74b8539b0f17"
+    }
+  ],
+  "job_statuses": [
+    {
+      "path": "problems/2017-B4/computations/secondpass-fourbundle-job.json",
+      "status": "failed",
+      "pid": 19103
+    },
+    {
+      "path": "problems/2017-B4/computations/secondpass-macmahon-bound-job.json",
+      "status": "complete",
+      "pid": 18843
+    },
+    {
+      "path": "problems/2017-B4/computations/secondpass-patchcount-job.json",
+      "status": "complete",
+      "pid": 18618
+    }
+  ]
+}

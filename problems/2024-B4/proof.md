@@ -2,11 +2,17 @@
 
 No full solution has been proposed. The infinite fixed-factor family below is **proved, independently reviewed (partial result)**. Other candidates retain their individual unverified labels.
 
+## Accepted exact whole-phi13 criterion, v1.1
+
+For odd n>=3, phi_13 divides phi_n in F2[x,y,z] **if and only if** n=(64*16^m+1)/5 for an integer m>=0. This criterion is **proved, independently reviewed (partial result)** after two fresh blind full reconstructions. The original polynomial ring converse is included via an injective integral extension and normality; a closed 48-state Cartier automaton proves the complete fixed-divisor language.
+
+See [accepted criterion](notes/zero-automaton-criterion-reviewed-v1.1.md), [frozen v1](notes/zero-automaton-criterion-v1.md), [explicit certificate](notes/zero-automaton-certificate-v1.md), and [coordinator acceptance](reviews/criterion-acceptance.md). The sufficient family below remains accepted as an earlier independent argument. For m>=1 both factors are nonconstant; at m=0 the cofactor is 1. Neither this theorem nor absence of phi13 classifies other factors. The full B4(b) classification and novelty remain unresolved. Later small-divisor probes retain unverified labels.
+
 ## Accepted fixed-factor family, v1.1
 
 For every integer m>=0, phi_13 divides phi_n in F2[x,y,z] at n=(64*16^m+1)/5. For m>=1 the factor degrees are 10 and n-13, so both are nonconstant and meet B4(b). At m=0 the cofactor is 1. This is a sufficient family, not a full classification or a novelty claim.
 
-See [accepted proof](proofs/fixed-factor-family-reviewed-v1.1.md), [frozen candidate](proofs/fixed-factor-family-v1.md), and [coordinator acceptance](reviews/family-acceptance.md). Both independent initial audits reconstructed the full argument, including the universal symbolic Cartier identities, localization descent and nonvanishing. The separate zero-automaton investigation is not covered by this acceptance.
+See [accepted proof](proofs/fixed-factor-family-reviewed-v1.1.md), [frozen candidate](proofs/fixed-factor-family-v1.md), and [coordinator acceptance](reviews/family-acceptance.md). Both independent initial audits reconstructed the full argument, including the universal symbolic Cartier identities, localization descent and nonvanishing. The separate exact zero-automaton criterion has its own acceptance record above; its stronger necessary direction was not part of the earlier sufficient-family audit.
 
 Every future proof begins as **candidate proof - unverified**. Distinguish published reproductions from original results. Do not relabel until two independent adversarial audits, a reconstruction and all repairs are complete.
 

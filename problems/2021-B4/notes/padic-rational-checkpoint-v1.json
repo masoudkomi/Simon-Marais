@@ -1,0 +1,93 @@
+{
+  "files": {
+    "problems/2021-B4/computations/padic-rational-j16-obstruction.jsonl": {
+      "bytes": 8582,
+      "sha256": "c1af66f53f73a990392a15d84e7279d97c164bea33c8de6b9713d56b1226b5c3"
+    },
+    "problems/2021-B4/computations/padic-rational-j16-obstruction.py": {
+      "bytes": 2751,
+      "sha256": "46f14a8bcd5daf7ad0947208ab2db40b4da754331e7be4d8ba9b8c005f6f5f26"
+    },
+    "problems/2021-B4/computations/padic-rational-j17-certificates.jsonl": {
+      "bytes": 7267887,
+      "sha256": "9676e4885d670a23ea1fb1b0a151ec1f9a8cece8532a1dd43277450b3a7a7fc3"
+    },
+    "problems/2021-B4/computations/padic-rational-j17-compatibility.py": {
+      "bytes": 6674,
+      "sha256": "b256641c20b4cd6dbd7e346421fe09f5ebdb58090887a43fe06ef845d3534046"
+    },
+    "problems/2021-B4/computations/padic-rational-j17-run.jsonl": {
+      "bytes": 3826,
+      "sha256": "140599149f6141769a32a6a5093f77f7fb6317bfe06e164d4cee938e3960a159"
+    },
+    "problems/2021-B4/computations/padic-rational-j17-spotcheck.jsonl": {
+      "bytes": 2348,
+      "sha256": "60d818a2d0be95803d6a29818e56fbf65aca3727c1732004d2fcd80029b6cd5e"
+    },
+    "problems/2021-B4/computations/padic-rational-j17-spotcheck.py": {
+      "bytes": 3109,
+      "sha256": "2c736b5d9c26b3b07626de3db8a1e30c08b5a651a7a7b3a45341a9c3ac4f7e32"
+    },
+    "problems/2021-B4/computations/padic-rational-newton-patterns.jsonl": {
+      "bytes": 12840,
+      "sha256": "201d27d4ce839143596954780fb841d3aca5db0227b840f46761a5d4250340ff"
+    },
+    "problems/2021-B4/computations/padic-rational-newton-patterns.py": {
+      "bytes": 2930,
+      "sha256": "dd14df63f0d9ca21ea8d89c3055fa5fe892067cbbc41112c7f852c1f46dbeba1"
+    },
+    "problems/2021-B4/notes/padic-rational-newton-obstructions-v1.md": {
+      "bytes": 16974,
+      "sha256": "ce3ff564b48841ae3ae1bf66c3cf5303ed2833c2166590cb2460706f01b5c335"
+    }
+  },
+  "frozen_v1_sha256": "e9534a7759c68ed4388a3f1ff03857a14cf61c010b893527e1ddd83906fb72e6",
+  "new_math_summary": {
+    "J16_excluded_by_candidate_disjunction": 799,
+    "J16_initial_binary_patterns": 887,
+    "J16_remaining": 88,
+    "candidate_J17_refinements": 29928,
+    "combined_necessary_binary_patterns_remaining": 1164,
+    "resolved_exact_compatibilities": 29928,
+    "unresolved_J17": 0
+  },
+  "observed_at_utc": "2026-10-16 11:14:21 UTC",
+  "requested_settings": {
+    "effective_setting_readback": null,
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "review_targets": [
+    "entire rational normalization and root-count chain",
+    "width-one Newton edge lemma",
+    "canonical center flags and exhaustive J17 refinement coverage",
+    "integer polynomial construction and modular degree-preservation certificates",
+    "J16 quadratic initial forms"
+  ],
+  "second_blind_review_read": false,
+  "source_support": {
+    "cache_manifest_owner": "coordinator",
+    "failed_lookup": "https://kconrad.math.uconn.edu/blurbs/gradnumthy/newtonpolygon.pdf was inaccessible through web tool; not relied on",
+    "used_primary_url": "https://math.mit.edu/~poonen/papers/curves.pdf",
+    "used_theorem": "4.2.3; current PDF page68 one-based, printed62; Newton root count with multiplicities",
+    "verified_date": "2026-10-16",
+    "worker_cached_paper": false
+  },
+  "status": "candidate proof - unverified; no full degree solved; two fresh adversarial reviewers needed",
+  "v1_1_sha256": "ef87eebe1f49302f5e9af1ab0781b73bdb39de9763f7b75d60d5b6f746a9aa85",
+  "verification": {
+    "author_spotcheck_method": "direct Hasse coefficients and exact SymPy QQ gcd; not independent review",
+    "author_spotcheck_records": 12,
+    "commits_or_pushes": false,
+    "git_diff_check": "passed",
+    "jobs_running": false,
+    "subagents_spawned": false
+  },
+  "weekly_telemetry": {
+    "resets_at": 1792745187,
+    "stop_total_percent": 90,
+    "tool": "get_usage_limits",
+    "total_used_percent": 6,
+    "window_duration_mins": 10080
+  }
+}

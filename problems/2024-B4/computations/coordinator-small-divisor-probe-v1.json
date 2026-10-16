@@ -1,0 +1,1010 @@
+[
+  {
+    "model": "phi7",
+    "normalization": {
+      "bounds": [
+        0,
+        1
+      ],
+      "K": [
+        [
+          0,
+          0
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          4,
+          0
+        ]
+      ],
+      "P": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          2,
+          0
+        ]
+      ],
+      "formal_divisor": "d+q^2; invert q; b=u/q^3"
+    },
+    "status": "exploratory computational evidence; algebraic bridge and graph not independently reviewed",
+    "complete": true,
+    "reason": "closed",
+    "states": 8,
+    "edges": 16,
+    "accepting_count": 1,
+    "basis_monomials": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        3,
+        1
+      ]
+    ],
+    "operators": {
+      "00": [
+        21,
+        0,
+        0,
+        32,
+        84,
+        0,
+        0,
+        128
+      ],
+      "01": [
+        0,
+        21,
+        16,
+        0,
+        0,
+        84,
+        64,
+        0
+      ],
+      "10": [
+        0,
+        8,
+        21,
+        0,
+        0,
+        32,
+        84,
+        0
+      ],
+      "11": [
+        4,
+        0,
+        0,
+        21,
+        16,
+        0,
+        0,
+        84
+      ]
+    },
+    "state_bases": [
+      [
+        21
+      ],
+      [
+        65,
+        16
+      ],
+      [
+        20,
+        1
+      ],
+      [
+        64,
+        20,
+        1
+      ],
+      [
+        64,
+        16,
+        4
+      ],
+      [
+        65,
+        16,
+        5
+      ],
+      [
+        16,
+        4,
+        1
+      ],
+      [
+        64,
+        16,
+        4,
+        1
+      ]
+    ],
+    "transitions": [
+      [
+        1,
+        2
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        7,
+        7
+      ]
+    ],
+    "accepting": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false
+    ],
+    "elapsed_seconds": 8.433300536125898e-05,
+    "quotient_classes": [
+      {
+        "class": 0,
+        "members": [
+          0
+        ],
+        "accepting": false,
+        "next": [
+          1,
+          2
+        ]
+      },
+      {
+        "class": 1,
+        "members": [
+          1
+        ],
+        "accepting": false,
+        "next": [
+          2,
+          3
+        ]
+      },
+      {
+        "class": 2,
+        "members": [
+          2,
+          3,
+          5,
+          6,
+          7
+        ],
+        "accepting": false,
+        "next": [
+          2,
+          2
+        ]
+      },
+      {
+        "class": 3,
+        "members": [
+          4
+        ],
+        "accepting": true,
+        "next": [
+          3,
+          2
+        ]
+      }
+    ],
+    "initial_class": 0,
+    "accepted_indices_below8192": [
+      2
+    ]
+  },
+  {
+    "model": "phi9",
+    "normalization": {
+      "bounds": [
+        0,
+        2
+      ],
+      "K": [
+        [
+          0,
+          0
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          4,
+          2
+        ]
+      ],
+      "P": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          2,
+          1
+        ]
+      ],
+      "formal_divisor": "u+q^3; invert q; b=d/q^2"
+    },
+    "status": "exploratory computational evidence; algebraic bridge and graph not independently reviewed",
+    "complete": true,
+    "reason": "closed",
+    "states": 11,
+    "edges": 22,
+    "accepting_count": 3,
+    "basis_monomials": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        3,
+        2
+      ]
+    ],
+    "operators": {
+      "00": [
+        137,
+        0,
+        274,
+        64,
+        0,
+        128,
+        1096,
+        0,
+        2192,
+        512,
+        0,
+        1024
+      ],
+      "01": [
+        0,
+        137,
+        0,
+        0,
+        64,
+        0,
+        0,
+        1096,
+        0,
+        0,
+        512,
+        0
+      ],
+      "10": [
+        8,
+        0,
+        16,
+        137,
+        0,
+        274,
+        64,
+        0,
+        128,
+        1096,
+        0,
+        2192
+      ],
+      "11": [
+        0,
+        8,
+        0,
+        0,
+        137,
+        0,
+        0,
+        64,
+        0,
+        0,
+        1096,
+        0
+      ]
+    },
+    "state_bases": [
+      [
+        137
+      ],
+      [
+        1096,
+        201
+      ],
+      [
+        129,
+        64
+      ],
+      [
+        1032,
+        512,
+        137,
+        64
+      ],
+      [
+        1024,
+        129,
+        64,
+        8
+      ],
+      [
+        1096,
+        137
+      ],
+      [
+        64,
+        8
+      ],
+      [
+        1032,
+        64
+      ],
+      [
+        137,
+        64
+      ],
+      [
+        1032,
+        512,
+        64
+      ],
+      [
+        1032,
+        137,
+        64
+      ]
+    ],
+    "transitions": [
+      [
+        1,
+        2
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        9,
+        10
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        9,
+        10
+      ],
+      [
+        3,
+        4
+      ]
+    ],
+    "accepting": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false
+    ],
+    "elapsed_seconds": 0.00011079199612140656,
+    "quotient_classes": [
+      {
+        "class": 0,
+        "members": [
+          0,
+          8
+        ],
+        "accepting": false,
+        "next": [
+          1,
+          2
+        ]
+      },
+      {
+        "class": 1,
+        "members": [
+          1,
+          3,
+          4,
+          5,
+          10
+        ],
+        "accepting": false,
+        "next": [
+          1,
+          1
+        ]
+      },
+      {
+        "class": 2,
+        "members": [
+          2
+        ],
+        "accepting": false,
+        "next": [
+          1,
+          3
+        ]
+      },
+      {
+        "class": 3,
+        "members": [
+          6
+        ],
+        "accepting": true,
+        "next": [
+          4,
+          0
+        ]
+      },
+      {
+        "class": 4,
+        "members": [
+          7,
+          9
+        ],
+        "accepting": true,
+        "next": [
+          4,
+          1
+        ]
+      }
+    ],
+    "initial_class": 0,
+    "accepted_indices_below8192": [
+      3,
+      31,
+      255,
+      2047
+    ]
+  },
+  {
+    "model": "phi11",
+    "normalization": {
+      "bounds": [
+        0,
+        2
+      ],
+      "K": [
+        [
+          0,
+          0
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          2
+        ]
+      ],
+      "P": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          2,
+          1
+        ]
+      ],
+      "formal_divisor": "q*u+q^4+q^2*d+d^2; invert q; b=d/q^2"
+    },
+    "status": "exploratory computational evidence; algebraic bridge and graph not independently reviewed",
+    "complete": true,
+    "reason": "closed",
+    "states": 15,
+    "edges": 30,
+    "accepting_count": 2,
+    "basis_monomials": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        3,
+        2
+      ]
+    ],
+    "operators": {
+      "00": [
+        137,
+        0,
+        274,
+        192,
+        128,
+        384,
+        1096,
+        0,
+        2192,
+        1536,
+        1024,
+        3072
+      ],
+      "01": [
+        0,
+        137,
+        0,
+        64,
+        192,
+        128,
+        0,
+        1096,
+        0,
+        512,
+        1536,
+        1024
+      ],
+      "10": [
+        24,
+        16,
+        48,
+        137,
+        0,
+        274,
+        192,
+        128,
+        384,
+        1096,
+        0,
+        2192
+      ],
+      "11": [
+        8,
+        24,
+        16,
+        0,
+        137,
+        0,
+        64,
+        192,
+        128,
+        0,
+        1096,
+        0
+      ]
+    },
+    "state_bases": [
+      [
+        137
+      ],
+      [
+        1032,
+        73
+      ],
+      [
+        200,
+        17
+      ],
+      [
+        1025,
+        513,
+        129,
+        64
+      ],
+      [
+        1024,
+        137,
+        72,
+        25
+      ],
+      [
+        1025,
+        128,
+        64,
+        9
+      ],
+      [
+        128,
+        72,
+        24,
+        1
+      ],
+      [
+        1024,
+        512,
+        137,
+        72
+      ],
+      [
+        1024,
+        128,
+        64,
+        16,
+        8
+      ],
+      [
+        1024,
+        512,
+        128,
+        64,
+        8,
+        1
+      ],
+      [
+        1024,
+        128,
+        64,
+        16,
+        8,
+        1
+      ],
+      [
+        1025,
+        513,
+        129,
+        64,
+        9
+      ],
+      [
+        128,
+        64,
+        16,
+        8,
+        1
+      ],
+      [
+        1025,
+        129,
+        64,
+        17,
+        9
+      ],
+      [
+        1024,
+        512,
+        128,
+        64,
+        8
+      ]
+    ],
+    "transitions": [
+      [
+        1,
+        2
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        9,
+        10
+      ],
+      [
+        11,
+        10
+      ],
+      [
+        5,
+        12
+      ],
+      [
+        9,
+        13
+      ],
+      [
+        14,
+        5
+      ],
+      [
+        9,
+        10
+      ],
+      [
+        9,
+        10
+      ],
+      [
+        9,
+        10
+      ],
+      [
+        5,
+        12
+      ],
+      [
+        9,
+        10
+      ],
+      [
+        14,
+        5
+      ]
+    ],
+    "accepting": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "elapsed_seconds": 0.00019312501535750926,
+    "quotient_classes": [
+      {
+        "class": 0,
+        "members": [
+          0
+        ],
+        "accepting": false,
+        "next": [
+          1,
+          2
+        ]
+      },
+      {
+        "class": 1,
+        "members": [
+          1
+        ],
+        "accepting": false,
+        "next": [
+          3,
+          2
+        ]
+      },
+      {
+        "class": 2,
+        "members": [
+          2,
+          4,
+          5,
+          6,
+          7,
+          9,
+          10,
+          11,
+          12,
+          13
+        ],
+        "accepting": false,
+        "next": [
+          2,
+          2
+        ]
+      },
+      {
+        "class": 3,
+        "members": [
+          3
+        ],
+        "accepting": false,
+        "next": [
+          2,
+          4
+        ]
+      },
+      {
+        "class": 4,
+        "members": [
+          8,
+          14
+        ],
+        "accepting": true,
+        "next": [
+          4,
+          2
+        ]
+      }
+    ],
+    "initial_class": 0,
+    "accepted_indices_below8192": [
+      4
+    ]
+  }
+]

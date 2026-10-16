@@ -1,0 +1,189 @@
+{
+  "status": "finite computational evidence only",
+  "rows": [
+    {
+      "moves": 0,
+      "histories": 1,
+      "contexts": 1,
+      "new_minimal_forbidden": 0
+    },
+    {
+      "moves": 1,
+      "histories": 2,
+      "contexts": 2,
+      "new_minimal_forbidden": 0
+    },
+    {
+      "moves": 2,
+      "histories": 4,
+      "contexts": 4,
+      "new_minimal_forbidden": 0
+    },
+    {
+      "moves": 3,
+      "histories": 8,
+      "contexts": 8,
+      "new_minimal_forbidden": 0
+    },
+    {
+      "moves": 4,
+      "histories": 16,
+      "contexts": 15,
+      "new_minimal_forbidden": 1
+    },
+    {
+      "moves": 5,
+      "histories": 32,
+      "contexts": 28,
+      "new_minimal_forbidden": 0
+    },
+    {
+      "moves": 6,
+      "histories": 64,
+      "contexts": 52,
+      "new_minimal_forbidden": 0
+    },
+    {
+      "moves": 7,
+      "histories": 128,
+      "contexts": 96,
+      "new_minimal_forbidden": 0
+    },
+    {
+      "moves": 8,
+      "histories": 256,
+      "contexts": 177,
+      "new_minimal_forbidden": 0
+    },
+    {
+      "moves": 9,
+      "histories": 512,
+      "contexts": 326,
+      "new_minimal_forbidden": 0
+    },
+    {
+      "moves": 10,
+      "histories": 1024,
+      "contexts": 600,
+      "new_minimal_forbidden": 0
+    },
+    {
+      "moves": 11,
+      "histories": 2048,
+      "contexts": 1104,
+      "new_minimal_forbidden": 0
+    },
+    {
+      "moves": 12,
+      "histories": 4096,
+      "contexts": 2030,
+      "new_minimal_forbidden": 1
+    },
+    {
+      "moves": 13,
+      "histories": 8192,
+      "contexts": 3732,
+      "new_minimal_forbidden": 0
+    },
+    {
+      "moves": 14,
+      "histories": 16384,
+      "contexts": 6858,
+      "new_minimal_forbidden": 2
+    }
+  ],
+  "relations": [
+    {
+      "left": "AD",
+      "right": "DA",
+      "left_tapes": [
+        "01",
+        "01"
+      ],
+      "right_tapes": [
+        "01",
+        "01"
+      ],
+      "equal": true
+    },
+    {
+      "left": "BCB",
+      "right": "ABD",
+      "left_tapes": [
+        "010",
+        "101"
+      ],
+      "right_tapes": [
+        "010",
+        "101"
+      ],
+      "equal": true
+    },
+    {
+      "left": "CBC",
+      "right": "DCA",
+      "left_tapes": [
+        "101",
+        "010"
+      ],
+      "right_tapes": [
+        "101",
+        "010"
+      ],
+      "equal": true
+    },
+    {
+      "left": "ACBBCD",
+      "right": "DBCCBA",
+      "left_tapes": [
+        "011001",
+        "011001"
+      ],
+      "right_tapes": [
+        "011001",
+        "011001"
+      ],
+      "equal": true
+    }
+  ],
+  "minimal_forbidden": [
+    {
+      "larger": "RRLL",
+      "smaller": "LLRR",
+      "tapes": [
+        "01",
+        "01"
+      ]
+    },
+    {
+      "larger": "RRLRRLRLLRLL",
+      "smaller": "LLRLLRLRRLRR",
+      "tapes": [
+        "011001",
+        "011001"
+      ]
+    },
+    {
+      "larger": "RRLRRLRLLLLRLL",
+      "smaller": "LLRLLLLRLRRLRR",
+      "tapes": [
+        "01101001",
+        "011001"
+      ]
+    },
+    {
+      "larger": "RRLRRRRLRLLRLL",
+      "smaller": "LLRLLRLRRRRLRR",
+      "tapes": [
+        "011001",
+        "01101001"
+      ]
+    }
+  ],
+  "parameters": {
+    "max_moves": 14,
+    "state_cap": 20000,
+    "output": "problems/2019-B4/computations/secondpass-probe.json"
+  },
+  "elapsed_seconds": 0.047989999991841614
+}

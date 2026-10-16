@@ -1,0 +1,354 @@
+{
+  "changes": "only witness-review-1* review files; temporary rendered source pages under /private/tmp",
+  "completed_at_utc": "2026-10-16T10:49:46.832946+00:00",
+  "computation": {
+    "child_pid": 16342,
+    "command": ".venv/bin/python problems/2021-B4/reviews/witness-review-1-filter.py > problems/2021-B4/reviews/witness-review-1-filter.jsonl",
+    "dependencies": "standard library only",
+    "exit_code": 0,
+    "histogram_matches_author": true,
+    "implementation": "exact integer Appell recurrence; f(1) mod 19**2; written and run before reading author script",
+    "incomplete": false,
+    "process_remains": false,
+    "result": {
+      "a18_nonzero": 3043,
+      "a18_residue_histogram": {
+        "0": 3637,
+        "1": 182,
+        "10": 164,
+        "11": 175,
+        "12": 198,
+        "13": 179,
+        "14": 163,
+        "15": 199,
+        "16": 176,
+        "17": 162,
+        "18": 136,
+        "2": 160,
+        "3": 171,
+        "4": 142,
+        "5": 190,
+        "6": 179,
+        "7": 146,
+        "8": 187,
+        "9": 134
+      },
+      "a18_zero": 3637,
+      "canonical_survivor_mask_residue_sha256": "a50958cec7910ce28e51381be52a075e1732844323eb675c7793d77f3f3d38bd",
+      "event": "result",
+      "passing": 6680,
+      "rejected": 124392,
+      "samples": {
+        "a18_nonzero": [
+          {
+            "a_mod_p": [
+              1,
+              18,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              10,
+              0,
+              0,
+              2,
+              0,
+              0,
+              11,
+              17
+            ],
+            "center_indices": [
+              11,
+              14,
+              17,
+              18
+            ],
+            "f_one": -3431791989,
+            "mask": 102912
+          },
+          {
+            "a_mod_p": [
+              1,
+              18,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              10,
+              0,
+              0,
+              2,
+              14,
+              8,
+              4,
+              16
+            ],
+            "center_indices": [
+              11,
+              14,
+              15,
+              16,
+              17,
+              18
+            ],
+            "f_one": -268579668,
+            "mask": 127488
+          },
+          {
+            "a_mod_p": [
+              1,
+              18,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              10,
+              0,
+              11,
+              0,
+              10,
+              4,
+              0,
+              6
+            ],
+            "center_indices": [
+              11,
+              13,
+              15,
+              16,
+              18
+            ],
+            "f_one": 8392301292,
+            "mask": 92672
+          }
+        ],
+        "a18_zero": [
+          {
+            "a_mod_p": [
+              1,
+              18,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              11,
+              2,
+              10,
+              7,
+              2,
+              0,
+              0
+            ],
+            "center_indices": [
+              12,
+              13,
+              14,
+              15,
+              16
+            ],
+            "f_one": 34136882,
+            "mask": 31744
+          },
+          {
+            "a_mod_p": [
+              1,
+              18,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              11,
+              2,
+              10,
+              7,
+              2,
+              0,
+              0
+            ],
+            "center_indices": [
+              12,
+              13,
+              14,
+              15,
+              16,
+              17
+            ],
+            "f_one": -19081738,
+            "mask": 64512
+          },
+          {
+            "a_mod_p": [
+              1,
+              18,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              10,
+              0,
+              0,
+              2,
+              0,
+              4,
+              0,
+              0
+            ],
+            "center_indices": [
+              11,
+              14,
+              16
+            ],
+            "f_one": 1758277936,
+            "mask": 20992
+          }
+        ]
+      },
+      "visited": 131072
+    },
+    "runtime": "Python3.12.14",
+    "seconds": 0.3772792919771746,
+    "timeout_seconds": 30
+  },
+  "effective_settings": {
+    "readback": null,
+    "verified": false
+  },
+  "frozen_files": [
+    {
+      "path": "problems/2021-B4/notes/rational-witness-p-plus-one-v1.md",
+      "sha256": "e9534a7759c68ed4388a3f1ff03857a14cf61c010b893527e1ddd83906fb72e6"
+    },
+    {
+      "path": "problems/2021-B4/computations/rational_witness_p_plus_one.py",
+      "sha256": "bd3bb2cda41e769aa7ccf42c5489a64be5200c08144e59575a40ebd56f40de31"
+    },
+    {
+      "path": "problems/2021-B4/computations/rational-witness-p-plus-one.jsonl",
+      "sha256": "ff68846a021c2216fa56d29b77a53a54335b0011b955d52389835214d26b71aa"
+    },
+    {
+      "path": "problems/2021-B4/reviews/witness-review-1.md",
+      "sha256": "6e9bb36718d0fd0c037a6011c564c905002b0d2d37e67ebdef75b67c53ff7ae3"
+    },
+    {
+      "path": "problems/2021-B4/reviews/witness-review-1-filter.py",
+      "sha256": "bff0e64785611cb8b0802e67649e24904db96aa7648d0ba00fb0483a3cc043e6"
+    },
+    {
+      "path": "problems/2021-B4/reviews/witness-review-1-filter.jsonl",
+      "sha256": "f13e0cbca3dd5f14b6c7d4bcb087f690a0d735e555f0af1ab4961b51b1c871e4"
+    }
+  ],
+  "git_actions": "none",
+  "independence": {
+    "author_script_read_only_after_independent_run": true,
+    "constructed_candidate": false,
+    "initial_blind_report_complete": true,
+    "other_reviews_read": false,
+    "references_md_allowed": true,
+    "source_audit_or_shared_research_or_issues_read": false
+  },
+  "primary_sources": [
+    {
+      "cache_path": ".cache/official/2021-paper_b.pdf",
+      "checked_locations": "page 2, B4 only",
+      "full_source_local_only": true,
+      "redistribution_licence_verified": false,
+      "sha256": "2d507d593500f762e90b041d03a451e884ea33c8769f9a2132427e14d8f926d1",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2021-paper-b.pdf"
+    },
+    {
+      "cache_path": ".cache/literature/2021/cited-66c5af6a0f0239f5.pdf",
+      "checked_locations": "Definition 1; Lemma 6; Proposition 7; Proposition 10 and proof; Sections 3.1-3.4; Lemma 17; Section 3.5 normalization context",
+      "full_source_local_only": true,
+      "redistribution_licence_verified": false,
+      "sha256": "d818747102d32060f43ae5f015f27065aadf38699b272a2367749db8b33fedbf",
+      "url": "https://arxiv.org/pdf/1208.5404"
+    },
+    {
+      "cache_path": ".cache/literature/2021/draisma-de-jong-newsletter-2011-06-80.pdf",
+      "checked_locations": "printed 29 definition; printed31-32 Proposition6 and proof, PDF33-34",
+      "full_source_local_only": true,
+      "redistribution_licence_verified": false,
+      "sha256": "9babd9ea728de626f8921a4086f6170039537c7305ac5b500f6ba0edda942ad0",
+      "url": "https://www.ems-ph.org/journals/newsletter/pdf/2011-06-80.pdf"
+    },
+    {
+      "cache_path": ".cache/literature/2021/massri-1806.09561v6.pdf",
+      "checked_locations": "PDF11-12, binary pattern context and Remark7.4 only",
+      "full_source_local_only": true,
+      "redistribution_licence_verified": false,
+      "sha256": "8e5dec6d9d3ca1cb6becd7fa7e3d4c6ef18927cff9521c5f4eb9a1c1b567952f",
+      "url": "https://arxiv.org/pdf/1806.09561v6"
+    }
+  ],
+  "requested_settings": {
+    "evidence": "coordinator assignment",
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "review_commands": {
+    "failed_read": "One pypdf proof-slicing command raised ValueError because layout text did not contain the expected exact substring. Full relevant rendered pages were inspected successfully; no inference relies on that failed slice.",
+    "hash": "shasum -a 256 <listed files>",
+    "images_inspected_with": "view_image",
+    "optional_process_probe": {
+      "command": "ps -p 16342 -o pid=,comm=",
+      "exit_code": 127,
+      "interpretation": "Sandbox denied this optional probe. Successful subprocess.Popen.wait already returned exit0 and reaped the child; no escalation was needed.",
+      "output": "zsh:1: operation not permitted: ps"
+    },
+    "rendered_pages": [
+      "CLO PDF13",
+      "CLO PDF8",
+      "newsletter PDF33-34",
+      "official PDF2"
+    ],
+    "rendering": "/Users/uqmkamga/.cache/codex-runtimes/codex-primary-runtime/dependencies/native/poppler/poppler/bin/pdftoppm -f PAGE -l PAGE -r 100 -singlefile -png INPUT /private/tmp/witness-review-1-PREFIX",
+    "text_extraction": ".venv/bin/python -c <pypdf.PdfReader extraction of complete relevant pages>"
+  },
+  "reviewer": "R1",
+  "scope": "2021 B4(b), rational-witness partial necessary condition and d20 finite filter only",
+  "subagents": "none",
+  "telemetry": {
+    "checked_at_utc": "2026-10-16 10:47:36 UTC",
+    "resets_at_unix": 1792745187,
+    "sensitive_account_fields_omitted": true,
+    "source": "mcp__codex_app__get_usage_limits",
+    "stop_threshold_total_percent": 90,
+    "used_percent_total": 5,
+    "window_duration_minutes": 10080
+  },
+  "verdict": "No substantive mathematical objection found; two nonblocking presentation corrections. No promotion or complete-degree claim."
+}

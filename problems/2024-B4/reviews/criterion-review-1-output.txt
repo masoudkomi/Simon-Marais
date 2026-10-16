@@ -1,0 +1,8 @@
+PASS: criterion, manifest, and every listed artifact retain their frozen hashes
+PASS: elementary symmetric identity, P5, phi13 identity, leading monomials and three monic relations
+PASS: all 64 columns, all 48 complete subspaces, all 96 transitions, all outputs and both rendered tables
+PASS: eight quotient classes and all-word regex equivalence; closed product has 48 states, regex subset machine has 9
+CHECKPOINT: direct Laurent recurrence matched through j=16384
+CHECKPOINT: direct Laurent recurrence matched through j=32768
+CHECKPOINT: direct Laurent recurrence matched through j=49152
+{"elapsed_seconds": 0.4523919159837533, "status": "PASS: independent exact finite checks; general arguments audited in report", "zero_indices": [5, 101, 1637, 26213]}

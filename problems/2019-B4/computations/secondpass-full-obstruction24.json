@@ -1,0 +1,2815 @@
+{
+  "status": "finite evidence only; incomplete layers are not exact counts",
+  "parameters": {
+    "initial_probe": "problems/2019-B4/computations/secondpass-probe20.json",
+    "max_n": 24,
+    "state_cap": 1000000,
+    "output": "problems/2019-B4/computations/secondpass-full-obstruction24.json"
+  },
+  "completed_through": 24,
+  "all_requested_lengths_completed": true,
+  "rows": [
+    {
+      "length": 21,
+      "nodes": 57581,
+      "leaves": 5512,
+      "complete": true,
+      "new_minimal_count": 20
+    },
+    {
+      "length": 22,
+      "nodes": 105599,
+      "leaves": 10098,
+      "complete": true,
+      "new_minimal_count": 14
+    },
+    {
+      "length": 23,
+      "nodes": 193725,
+      "leaves": 18540,
+      "complete": true,
+      "new_minimal_count": 40
+    },
+    {
+      "length": 24,
+      "nodes": 355346,
+      "leaves": 33989,
+      "complete": true,
+      "new_minimal_count": 42
+    }
+  ],
+  "new_minimal_forbidden": [
+    {
+      "larger": "RRLRRLRLLLLLLRLRLLRLL",
+      "smaller": "LLRLLLLLLRLRLLRLRRLRR",
+      "tapes": [
+        "0110101000110",
+        "01100110"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLLLLRRLRLLRLL",
+      "smaller": "LLRLLLLLLRLRRLRLRRLRR",
+      "tapes": [
+        "011010100110",
+        "011000110"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLLLRLRLLLLRLL",
+      "smaller": "LLRLLLLRLRLLLLRLRRLRR",
+      "tapes": [
+        "0110100010110",
+        "01100110"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLLLRRRLRLLRLL",
+      "smaller": "LLRLLLLRLRLLRLRRRRLRR",
+      "tapes": [
+        "01101000110",
+        "0110010110"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLLRRLRLLLLRLL",
+      "smaller": "LLRLLLLRLLLRRLRLRRLRR",
+      "tapes": [
+        "011010010110",
+        "011000110"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLLRRRRLRLLRLL",
+      "smaller": "LLRLLLLRLRRLRLRRRRLRR",
+      "tapes": [
+        "0110100110",
+        "01100010110"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLRLRLLLLLLRLL",
+      "smaller": "LLRLLRLRLLLLLLRLRRLRR",
+      "tapes": [
+        "0110001010110",
+        "01100110"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLRRRLRLLLLRLL",
+      "smaller": "LLRLLRLRLLLLRLRRRRLRR",
+      "tapes": [
+        "01100010110",
+        "0110010110"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLRRRRRLRLLRLL",
+      "smaller": "LLRLLRLRLLRLRRRRRRLRR",
+      "tapes": [
+        "011000110",
+        "011001010110"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLRRLRLLLLLLRLL",
+      "smaller": "LLRLLRLLLLLRRLRLRRLRR",
+      "tapes": [
+        "011001010110",
+        "011000110"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLRRRRLRLLLLRLL",
+      "smaller": "LLRLLRLLLRRLRLRRRRLRR",
+      "tapes": [
+        "0110010110",
+        "01100010110"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLRRRRRRLRLLRLL",
+      "smaller": "LLRLLRLRRLRLRRRRRRLRR",
+      "tapes": [
+        "01100110",
+        "0110001010110"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRLRLLLLRLRLLRLL",
+      "smaller": "LLRLLLLRLRLLRRRLRRLRR",
+      "tapes": [
+        "01101000110",
+        "0110100110"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRLRLLLRRLRLLRLL",
+      "smaller": "LLRLLLLRLRRRRLRLRRLRR",
+      "tapes": [
+        "0110100110",
+        "01101000110"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRLRLLRLRLLLLRLL",
+      "smaller": "LLRLLRLRLLLLRRRLRRLRR",
+      "tapes": [
+        "01100010110",
+        "0110100110"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRLRLLRRRLRLLRLL",
+      "smaller": "LLRLLRLRLLRRRLRRRRLRR",
+      "tapes": [
+        "011000110",
+        "011010010110"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRLRLRRLRLLLLRLL",
+      "smaller": "LLRLLRLLLRRRRLRLRRLRR",
+      "tapes": [
+        "0110010110",
+        "01101000110"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRLRLRRRRLRLLRLL",
+      "smaller": "LLRLLRLRRRRLRLRRRRLRR",
+      "tapes": [
+        "01100110",
+        "0110100010110"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRRRLRLLRLRLLRLL",
+      "smaller": "LLRLLRLRLLRRRRRLRRLRR",
+      "tapes": [
+        "011000110",
+        "011010100110"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRRRLRLRRLRLLRLL",
+      "smaller": "LLRLLRLRRRRRRLRLRRLRR",
+      "tapes": [
+        "01100110",
+        "0110101000110"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLLLLLLLLLLLRLL",
+      "smaller": "LLRLLLLLLLLLLLLRLRRLRR",
+      "tapes": [
+        "0110101010101001",
+        "011001"
+      ],
+      "compressed": "RRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLLLRLRRLRLLRLL",
+      "smaller": "LLRLLLLRLRRLRLLRLRRLRR",
+      "tapes": [
+        "011010011001",
+        "0110011001"
+      ],
+      "compressed": "RRLRRLRLLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLRLRLLRLRLLRLL",
+      "smaller": "LLRLLRLRLLRLRLLRLRRLRR",
+      "tapes": [
+        "011000111001",
+        "0110011001"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLRLRLRRLRLLRLL",
+      "smaller": "LLRLLRLRLLRLRRLRLRRLRR",
+      "tapes": [
+        "01100011001",
+        "01100111001"
+      ],
+      "compressed": "RRLRRLRLLRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLRLRRLRLLLLRLL",
+      "smaller": "LLRLLRLRRLRLLLLRLRRLRR",
+      "tapes": [
+        "011001101001",
+        "0110011001"
+      ],
+      "compressed": "RRLRRLRLLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLRLRRRRLRLLRLL",
+      "smaller": "LLRLLRLRRLRLLRLRRRRLRR",
+      "tapes": [
+        "0110011001",
+        "011001101001"
+      ],
+      "compressed": "RRLRRLRLLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLRRLRLLRLRLLRLL",
+      "smaller": "LLRLLRLRRLRLRLLRLRRLRR",
+      "tapes": [
+        "01100111001",
+        "01100011001"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLRRLRLRRLRLLRLL",
+      "smaller": "LLRLLRLRRLRLRRLRLRRLRR",
+      "tapes": [
+        "0110011001",
+        "011000111001"
+      ],
+      "compressed": "RRLRRLRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRLRLLLLLLLLLLRLL",
+      "smaller": "LLRLLLLLLLLLLRLRRRRLRR",
+      "tapes": [
+        "01101010101001",
+        "01101001"
+      ],
+      "compressed": "RRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRLRLLRLRRLRLLRLL",
+      "smaller": "LLRLLRLRRRRLRLLRLRRLRR",
+      "tapes": [
+        "0110011001",
+        "011010011001"
+      ],
+      "compressed": "RRLRRLRLLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRRRLRLLLLLLLLRLL",
+      "smaller": "LLRLLLLLLLLRLRRRRRRLRR",
+      "tapes": [
+        "011010101001",
+        "0110101001"
+      ],
+      "compressed": "RRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRRRRRLRLLLLLLRLL",
+      "smaller": "LLRLLLLLLRLRRRRRRRRLRR",
+      "tapes": [
+        "0110101001",
+        "011010101001"
+      ],
+      "compressed": "RRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRRRRRRRLRLLLLRLL",
+      "smaller": "LLRLLLLRLRRRRRRRRRRLRR",
+      "tapes": [
+        "01101001",
+        "01101010101001"
+      ],
+      "compressed": "RRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRRRRRRRRRLRLLRLL",
+      "smaller": "LLRLLRLRRRRRRRRRRRRLRR",
+      "tapes": [
+        "011001",
+        "0110101010101001"
+      ],
+      "compressed": "RRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLLLLLLLRLRLLRLL",
+      "smaller": "LLRLLLLLLLLRLRLLRLRRLRR",
+      "tapes": [
+        "011010101000110",
+        "01100110"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLLLLLLRRLRLLRLL",
+      "smaller": "LLRLLLLLLLLRLRRLRLRRLRR",
+      "tapes": [
+        "01101010100110",
+        "011000110"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLLLLLRLRLLLLRLL",
+      "smaller": "LLRLLLLLLRLRLLLLRLRRLRR",
+      "tapes": [
+        "011010100010110",
+        "01100110"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLLLLLRRRLRLLRLL",
+      "smaller": "LLRLLLLLLRLRLLRLRRRRLRR",
+      "tapes": [
+        "0110101000110",
+        "0110010110"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLLLLRRLRLLLLRLL",
+      "smaller": "LLRLLLLLLRLLLRRLRLRRLRR",
+      "tapes": [
+        "01101010010110",
+        "011000110"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLLLLRRRRLRLLRLL",
+      "smaller": "LLRLLLLLLRLRRLRLRRRRLRR",
+      "tapes": [
+        "011010100110",
+        "01100010110"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLLLRLRLLLLLLRLL",
+      "smaller": "LLRLLLLRLRLLLLLLRLRRLRR",
+      "tapes": [
+        "011010001010110",
+        "01100110"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLLLRRRLRLLLLRLL",
+      "smaller": "LLRLLLLRLRLLLLRLRRRRLRR",
+      "tapes": [
+        "0110100010110",
+        "0110010110"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLLLRRRRRLRLLRLL",
+      "smaller": "LLRLLLLRLRLLRLRRRRRRLRR",
+      "tapes": [
+        "01101000110",
+        "011001010110"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLLRRLRLLLLLLRLL",
+      "smaller": "LLRLLLLRLLLLLRRLRLRRLRR",
+      "tapes": [
+        "01101001010110",
+        "011000110"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLLRRRRLRLLLLRLL",
+      "smaller": "LLRLLLLRLLLRRLRLRRRRLRR",
+      "tapes": [
+        "011010010110",
+        "01100010110"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLLRRRRRRLRLLRLL",
+      "smaller": "LLRLLLLRLRRLRLRRRRRRLRR",
+      "tapes": [
+        "0110100110",
+        "0110001010110"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLRLRLLLLLLLLRLL",
+      "smaller": "LLRLLRLRLLLLLLLLRLRRLRR",
+      "tapes": [
+        "011000101010110",
+        "01100110"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLRRRLRLLLLLLRLL",
+      "smaller": "LLRLLRLRLLLLLLRLRRRRLRR",
+      "tapes": [
+        "0110001010110",
+        "0110010110"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLRRRRRLRLLLLRLL",
+      "smaller": "LLRLLRLRLLLLRLRRRRRRLRR",
+      "tapes": [
+        "01100010110",
+        "011001010110"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLRRRRRRRLRLLRLL",
+      "smaller": "LLRLLRLRLLRLRRRRRRRRLRR",
+      "tapes": [
+        "011000110",
+        "01100101010110"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLRRLRLLLLLLLLRLL",
+      "smaller": "LLRLLRLLLLLLLRRLRLRRLRR",
+      "tapes": [
+        "01100101010110",
+        "011000110"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLRRRRLRLLLLLLRLL",
+      "smaller": "LLRLLRLLLLLRRLRLRRRRLRR",
+      "tapes": [
+        "011001010110",
+        "01100010110"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLRRRRRRLRLLLLRLL",
+      "smaller": "LLRLLRLLLRRLRLRRRRRRLRR",
+      "tapes": [
+        "0110010110",
+        "0110001010110"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLRRRRRRRRLRLLRLL",
+      "smaller": "LLRLLRLRRLRLRRRRRRRRLRR",
+      "tapes": [
+        "01100110",
+        "011000101010110"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRLRLLLLLLRLRLLRLL",
+      "smaller": "LLRLLLLLLRLRLLRRRLRRLRR",
+      "tapes": [
+        "0110101000110",
+        "0110100110"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRLRLLLLLRRLRLLRLL",
+      "smaller": "LLRLLLLLLRLRRRRLRLRRLRR",
+      "tapes": [
+        "011010100110",
+        "01101000110"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRLRLLLLRLRLLLLRLL",
+      "smaller": "LLRLLLLRLRLLLLRRRLRRLRR",
+      "tapes": [
+        "0110100010110",
+        "0110100110"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRLRLLLLRRRLRLLRLL",
+      "smaller": "LLRLLLLRLRLLRRRLRRRRLRR",
+      "tapes": [
+        "01101000110",
+        "011010010110"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRLRLLLRRLRLLLLRLL",
+      "smaller": "LLRLLLLRLLLRRRRLRLRRLRR",
+      "tapes": [
+        "011010010110",
+        "01101000110"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRLRLLLRRRRLRLLRLL",
+      "smaller": "LLRLLLLRLRRRRLRLRRRRLRR",
+      "tapes": [
+        "0110100110",
+        "0110100010110"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRLRLLRLRLLLLLLRLL",
+      "smaller": "LLRLLRLRLLLLLLRRRLRRLRR",
+      "tapes": [
+        "0110001010110",
+        "0110100110"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRLRLLRRRLRLLLLRLL",
+      "smaller": "LLRLLRLRLLLLRRRLRRRRLRR",
+      "tapes": [
+        "01100010110",
+        "011010010110"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRLRLLRRRRRLRLLRLL",
+      "smaller": "LLRLLRLRLLRRRLRRRRRRLRR",
+      "tapes": [
+        "011000110",
+        "01101001010110"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRLRLRRLRLLLLLLRLL",
+      "smaller": "LLRLLRLLLLLRRRRLRLRRLRR",
+      "tapes": [
+        "011001010110",
+        "01101000110"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRLRLRRRRLRLLLLRLL",
+      "smaller": "LLRLLRLLLRRRRLRLRRRRLRR",
+      "tapes": [
+        "0110010110",
+        "0110100010110"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRLRLRRRRRRLRLLRLL",
+      "smaller": "LLRLLRLRRRRLRLRRRRRRLRR",
+      "tapes": [
+        "01100110",
+        "011010001010110"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRRRLRLLLLRLRLLRLL",
+      "smaller": "LLRLLLLRLRLLRRRRRLRRLRR",
+      "tapes": [
+        "01101000110",
+        "011010100110"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRRRLRLLLRRLRLLRLL",
+      "smaller": "LLRLLLLRLRRRRRRLRLRRLRR",
+      "tapes": [
+        "0110100110",
+        "0110101000110"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRRRLRLLRLRLLLLRLL",
+      "smaller": "LLRLLRLRLLLLRRRRRLRRLRR",
+      "tapes": [
+        "01100010110",
+        "011010100110"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRRRLRLLRRRLRLLRLL",
+      "smaller": "LLRLLRLRLLRRRRRLRRRRLRR",
+      "tapes": [
+        "011000110",
+        "01101010010110"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRRRLRLRRLRLLLLRLL",
+      "smaller": "LLRLLRLLLRRRRRRLRLRRLRR",
+      "tapes": [
+        "0110010110",
+        "0110101000110"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRRRLRLRRRRLRLLRLL",
+      "smaller": "LLRLLRLRRRRRRLRLRRRRLRR",
+      "tapes": [
+        "01100110",
+        "011010100010110"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRRRRRLRLLRLRLLRLL",
+      "smaller": "LLRLLRLRLLRRRRRRRLRRLRR",
+      "tapes": [
+        "011000110",
+        "01101010100110"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRRRRRLRLRRLRLLRLL",
+      "smaller": "LLRLLRLRRRRRRRRLRLRRLRR",
+      "tapes": [
+        "01100110",
+        "011010101000110"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLLLLLLLLLLLLLRLL",
+      "smaller": "LLRLLLLLLLLLLLLLLRLRRLRR",
+      "tapes": [
+        "011010101010101001",
+        "011001"
+      ],
+      "compressed": "RRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLLLLLRLRRLRLLRLL",
+      "smaller": "LLRLLLLLLRLRRLRLLRLRRLRR",
+      "tapes": [
+        "01101010011001",
+        "0110011001"
+      ],
+      "compressed": "RRLRRLRLLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLLLRLRLLRLRLLRLL",
+      "smaller": "LLRLLLLRLRLLRLRLLRLRRLRR",
+      "tapes": [
+        "01101000111001",
+        "0110011001"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLLLRLRLRRLRLLRLL",
+      "smaller": "LLRLLLLRLRLLRLRRLRLRRLRR",
+      "tapes": [
+        "0110100011001",
+        "01100111001"
+      ],
+      "compressed": "RRLRRLRLLRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLLLRLRRLRLLLLRLL",
+      "smaller": "LLRLLLLRLRRLRLLLLRLRRLRR",
+      "tapes": [
+        "01101001101001",
+        "0110011001"
+      ],
+      "compressed": "RRLRRLRLLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLLLRLRRRRLRLLRLL",
+      "smaller": "LLRLLLLRLRRLRLLRLRRRRLRR",
+      "tapes": [
+        "011010011001",
+        "011001101001"
+      ],
+      "compressed": "RRLRRLRLLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLLRRLRLLRLRLLRLL",
+      "smaller": "LLRLLLLRLRRLRLRLLRLRRLRR",
+      "tapes": [
+        "0110100111001",
+        "01100011001"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLLRRLRLRRLRLLRLL",
+      "smaller": "LLRLLLLRLRRLRLRRLRLRRLRR",
+      "tapes": [
+        "011010011001",
+        "011000111001"
+      ],
+      "compressed": "RRLRRLRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLRLRLLLLRLRLLRLL",
+      "smaller": "LLRLLRLRLLLLRLRLLRLRRLRR",
+      "tapes": [
+        "01100010111001",
+        "0110011001"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLRLRLLLRRLRLLRLL",
+      "smaller": "LLRLLRLRLLLLRLRRLRLRRLRR",
+      "tapes": [
+        "0110001011001",
+        "01100111001"
+      ],
+      "compressed": "RRLRRLRLLRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLRLRLLRLRLLLLRLL",
+      "smaller": "LLRLLRLRLLRLRLLLLRLRRLRR",
+      "tapes": [
+        "01100011101001",
+        "0110011001"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLRLRLLRRRLRLLRLL",
+      "smaller": "LLRLLRLRLLRLRLLRLRRRRLRR",
+      "tapes": [
+        "011000111001",
+        "011001101001"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLRLRLRRLRLLLLRLL",
+      "smaller": "LLRLLRLRLLRLLLRRLRLRRLRR",
+      "tapes": [
+        "0110001101001",
+        "01100111001"
+      ],
+      "compressed": "RRLRRLRLLRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLRLRLRRRRLRLLRLL",
+      "smaller": "LLRLLRLRLLRLRRLRLRRRRLRR",
+      "tapes": [
+        "01100011001",
+        "0110011101001"
+      ],
+      "compressed": "RRLRRLRLLRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLRLRRLRLLLLLLRLL",
+      "smaller": "LLRLLRLRRLRLLLLLLRLRRLRR",
+      "tapes": [
+        "01100110101001",
+        "0110011001"
+      ],
+      "compressed": "RRLRRLRLLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLRLRRRRLRLLLLRLL",
+      "smaller": "LLRLLRLRRLRLLLLRLRRRRLRR",
+      "tapes": [
+        "011001101001",
+        "011001101001"
+      ],
+      "compressed": "RRLRRLRLLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLRLRRRRRRLRLLRLL",
+      "smaller": "LLRLLRLRRLRLLRLRRRRRRLRR",
+      "tapes": [
+        "0110011001",
+        "01100110101001"
+      ],
+      "compressed": "RRLRRLRLLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLRRRLRLLRLRLLRLL",
+      "smaller": "LLRLLRLRLLRLRLLRRRLRRLRR",
+      "tapes": [
+        "011000111001",
+        "011001011001"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLRRRLRLRRLRLLRLL",
+      "smaller": "LLRLLRLRLLRLRRRRLRLRRLRR",
+      "tapes": [
+        "01100011001",
+        "0110010111001"
+      ],
+      "compressed": "RRLRRLRLLRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLRRLRLLLLRLRLLRLL",
+      "smaller": "LLRLLRLLLRRLRLRLLRLRRLRR",
+      "tapes": [
+        "0110010111001",
+        "01100011001"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLRRLRLLLRRLRLLRLL",
+      "smaller": "LLRLLRLLLRRLRLRRLRLRRLRR",
+      "tapes": [
+        "011001011001",
+        "011000111001"
+      ],
+      "compressed": "RRLRRLRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLRRLRLLRLRLLLLRLL",
+      "smaller": "LLRLLRLRRLRLRLLLLRLRRLRR",
+      "tapes": [
+        "0110011101001",
+        "01100011001"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLRRLRLLRRRLRLLRLL",
+      "smaller": "LLRLLRLRRLRLRLLRLRRRRLRR",
+      "tapes": [
+        "01100111001",
+        "0110001101001"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "smaller": "LLRLLRLRLLRLRLRRLRLRRLRR",
+      "tapes": [
+        "011000111001",
+        "011000111001"
+      ],
+      "compressed": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLRRLRLRRLRLLLLRLL",
+      "smaller": "LLRLLRLRRLRLLLRRLRLRRLRR",
+      "tapes": [
+        "011001101001",
+        "011000111001"
+      ],
+      "compressed": "RRLRRLRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLRRLRLRRRRLRLLRLL",
+      "smaller": "LLRLLRLRRLRLRRLRLRRRRLRR",
+      "tapes": [
+        "0110011001",
+        "01100011101001"
+      ],
+      "compressed": "RRLRRLRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLRRRRLRLLRLRLLRLL",
+      "smaller": "LLRLLRLRRLRLRLLRRRLRRLRR",
+      "tapes": [
+        "01100111001",
+        "0110001011001"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLRRRRLRLRRLRLLRLL",
+      "smaller": "LLRLLRLRRLRLRRRRLRLRRLRR",
+      "tapes": [
+        "0110011001",
+        "01100010111001"
+      ],
+      "compressed": "RRLRRLRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRLRLLLLLLLLLLLLRLL",
+      "smaller": "LLRLLLLLLLLLLLLRLRRRRLRR",
+      "tapes": [
+        "0110101010101001",
+        "01101001"
+      ],
+      "compressed": "RRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRLRLLLLRLRRLRLLRLL",
+      "smaller": "LLRLLLLRLRRRRLRLLRLRRLRR",
+      "tapes": [
+        "011010011001",
+        "011010011001"
+      ],
+      "compressed": "RRLRRLRLLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRLRLLRLRLLRLRLLRLL",
+      "smaller": "LLRLLRLRLLRRRLRLLRLRRLRR",
+      "tapes": [
+        "011000111001",
+        "011010011001"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRLRLLRLRLRRLRLLRLL",
+      "smaller": "LLRLLRLRLLRRRLRRLRLRRLRR",
+      "tapes": [
+        "01100011001",
+        "0110100111001"
+      ],
+      "compressed": "RRLRRLRLLRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRLRLLRLRRLRLLLLRLL",
+      "smaller": "LLRLLRLRRRRLRLLLLRLRRLRR",
+      "tapes": [
+        "011001101001",
+        "011010011001"
+      ],
+      "compressed": "RRLRRLRLLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRLRLLRLRRRRLRLLRLL",
+      "smaller": "LLRLLRLRRRRLRLLRLRRRRLRR",
+      "tapes": [
+        "0110011001",
+        "01101001101001"
+      ],
+      "compressed": "RRLRRLRLLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRLRLRRLRLLRLRLLRLL",
+      "smaller": "LLRLLRLRRRRLRLRLLRLRRLRR",
+      "tapes": [
+        "01100111001",
+        "0110100011001"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRLRLRRLRLRRLRLLRLL",
+      "smaller": "LLRLLRLRRRRLRLRRLRLRRLRR",
+      "tapes": [
+        "0110011001",
+        "01101000111001"
+      ],
+      "compressed": "RRLRRLRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRRRLRLLLLLLLLLLRLL",
+      "smaller": "LLRLLLLLLLLLLRLRRRRRRLRR",
+      "tapes": [
+        "01101010101001",
+        "0110101001"
+      ],
+      "compressed": "RRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRRRLRLLRLRRLRLLRLL",
+      "smaller": "LLRLLRLRRRRRRLRLLRLRRLRR",
+      "tapes": [
+        "0110011001",
+        "01101010011001"
+      ],
+      "compressed": "RRLRRLRLLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRRRRRLRLLLLLLLLRLL",
+      "smaller": "LLRLLLLLLLLRLRRRRRRRRLRR",
+      "tapes": [
+        "011010101001",
+        "011010101001"
+      ],
+      "compressed": "RRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRRRRRRRLRLLLLLLRLL",
+      "smaller": "LLRLLLLLLRLRRRRRRRRRRLRR",
+      "tapes": [
+        "0110101001",
+        "01101010101001"
+      ],
+      "compressed": "RRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRRRRRRRRRLRLLLLRLL",
+      "smaller": "LLRLLLLRLRRRRRRRRRRRRLRR",
+      "tapes": [
+        "01101001",
+        "0110101010101001"
+      ],
+      "compressed": "RRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRRRRRRRRRRRLRLLRLL",
+      "smaller": "LLRLLRLRRRRRRRRRRRRRRLRR",
+      "tapes": [
+        "011001",
+        "011010101010101001"
+      ],
+      "compressed": "RRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    }
+  ],
+  "all_minimal_forbidden_in_complete_layers": [
+    {
+      "larger": "RRLL",
+      "smaller": "LLRR",
+      "tapes": [
+        "01",
+        "01"
+      ]
+    },
+    {
+      "larger": "RRLRRLRLLRLL",
+      "smaller": "LLRLLRLRRLRR",
+      "tapes": [
+        "011001",
+        "011001"
+      ]
+    },
+    {
+      "larger": "RRLRRLRLLLLRLL",
+      "smaller": "LLRLLLLRLRRLRR",
+      "tapes": [
+        "01101001",
+        "011001"
+      ]
+    },
+    {
+      "larger": "RRLRRRRLRLLRLL",
+      "smaller": "LLRLLRLRRRRLRR",
+      "tapes": [
+        "011001",
+        "01101001"
+      ]
+    },
+    {
+      "larger": "RRLRRLRLLLLLLRLL",
+      "smaller": "LLRLLLLLLRLRRLRR",
+      "tapes": [
+        "0110101001",
+        "011001"
+      ]
+    },
+    {
+      "larger": "RRLRRRRLRLLLLRLL",
+      "smaller": "LLRLLLLRLRRRRLRR",
+      "tapes": [
+        "01101001",
+        "01101001"
+      ]
+    },
+    {
+      "larger": "RRLRRRRRRLRLLRLL",
+      "smaller": "LLRLLRLRRRRRRLRR",
+      "tapes": [
+        "011001",
+        "0110101001"
+      ]
+    },
+    {
+      "larger": "RRLRRLRLLRLRLLRLL",
+      "smaller": "LLRLLRLRLLRLRRLRR",
+      "tapes": [
+        "011000110",
+        "01100110"
+      ]
+    },
+    {
+      "larger": "RRLRRLRLRRLRLLRLL",
+      "smaller": "LLRLLRLRRLRLRRLRR",
+      "tapes": [
+        "01100110",
+        "011000110"
+      ]
+    },
+    {
+      "larger": "RRLRRLRLLLLLLLLRLL",
+      "smaller": "LLRLLLLLLLLRLRRLRR",
+      "tapes": [
+        "011010101001",
+        "011001"
+      ]
+    },
+    {
+      "larger": "RRLRRRRLRLLLLLLRLL",
+      "smaller": "LLRLLLLLLRLRRRRLRR",
+      "tapes": [
+        "0110101001",
+        "01101001"
+      ]
+    },
+    {
+      "larger": "RRLRRRRRRLRLLLLRLL",
+      "smaller": "LLRLLLLRLRRRRRRLRR",
+      "tapes": [
+        "01101001",
+        "0110101001"
+      ]
+    },
+    {
+      "larger": "RRLRRRRRRRRLRLLRLL",
+      "smaller": "LLRLLRLRRRRRRRRLRR",
+      "tapes": [
+        "011001",
+        "011010101001"
+      ]
+    },
+    {
+      "larger": "RRLRRLRLLLLRLRLLRLL",
+      "smaller": "LLRLLLLRLRLLRLRRLRR",
+      "tapes": [
+        "01101000110",
+        "01100110"
+      ]
+    },
+    {
+      "larger": "RRLRRLRLLLRRLRLLRLL",
+      "smaller": "LLRLLLLRLRRLRLRRLRR",
+      "tapes": [
+        "0110100110",
+        "011000110"
+      ]
+    },
+    {
+      "larger": "RRLRRLRLLRLRLLLLRLL",
+      "smaller": "LLRLLRLRLLLLRLRRLRR",
+      "tapes": [
+        "01100010110",
+        "01100110"
+      ]
+    },
+    {
+      "larger": "RRLRRLRLLRRRLRLLRLL",
+      "smaller": "LLRLLRLRLLRLRRRRLRR",
+      "tapes": [
+        "011000110",
+        "0110010110"
+      ]
+    },
+    {
+      "larger": "RRLRRLRLRRLRLLLLRLL",
+      "smaller": "LLRLLRLLLRRLRLRRLRR",
+      "tapes": [
+        "0110010110",
+        "011000110"
+      ]
+    },
+    {
+      "larger": "RRLRRLRLRRRRLRLLRLL",
+      "smaller": "LLRLLRLRRLRLRRRRLRR",
+      "tapes": [
+        "01100110",
+        "01100010110"
+      ]
+    },
+    {
+      "larger": "RRLRRRRLRLLRLRLLRLL",
+      "smaller": "LLRLLRLRLLRRRLRRLRR",
+      "tapes": [
+        "011000110",
+        "0110100110"
+      ]
+    },
+    {
+      "larger": "RRLRRRRLRLRRLRLLRLL",
+      "smaller": "LLRLLRLRRRRLRLRRLRR",
+      "tapes": [
+        "01100110",
+        "01101000110"
+      ]
+    },
+    {
+      "larger": "RRLRRLRLLLLLLLLLLRLL",
+      "smaller": "LLRLLLLLLLLLLRLRRLRR",
+      "tapes": [
+        "01101010101001",
+        "011001"
+      ]
+    },
+    {
+      "larger": "RRLRRLRLLRLRRLRLLRLL",
+      "smaller": "LLRLLRLRRLRLLRLRRLRR",
+      "tapes": [
+        "0110011001",
+        "0110011001"
+      ]
+    },
+    {
+      "larger": "RRLRRRRLRLLLLLLLLRLL",
+      "smaller": "LLRLLLLLLLLRLRRRRLRR",
+      "tapes": [
+        "011010101001",
+        "01101001"
+      ]
+    },
+    {
+      "larger": "RRLRRRRRRLRLLLLLLRLL",
+      "smaller": "LLRLLLLLLRLRRRRRRLRR",
+      "tapes": [
+        "0110101001",
+        "0110101001"
+      ]
+    },
+    {
+      "larger": "RRLRRRRRRRRLRLLLLRLL",
+      "smaller": "LLRLLLLRLRRRRRRRRLRR",
+      "tapes": [
+        "01101001",
+        "011010101001"
+      ]
+    },
+    {
+      "larger": "RRLRRRRRRRRRRLRLLRLL",
+      "smaller": "LLRLLRLRRRRRRRRRRLRR",
+      "tapes": [
+        "011001",
+        "01101010101001"
+      ]
+    },
+    {
+      "larger": "RRLRRLRLLLLLLRLRLLRLL",
+      "smaller": "LLRLLLLLLRLRLLRLRRLRR",
+      "tapes": [
+        "0110101000110",
+        "01100110"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLLLLRRLRLLRLL",
+      "smaller": "LLRLLLLLLRLRRLRLRRLRR",
+      "tapes": [
+        "011010100110",
+        "011000110"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLLLRLRLLLLRLL",
+      "smaller": "LLRLLLLRLRLLLLRLRRLRR",
+      "tapes": [
+        "0110100010110",
+        "01100110"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLLLRRRLRLLRLL",
+      "smaller": "LLRLLLLRLRLLRLRRRRLRR",
+      "tapes": [
+        "01101000110",
+        "0110010110"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLLRRLRLLLLRLL",
+      "smaller": "LLRLLLLRLLLRRLRLRRLRR",
+      "tapes": [
+        "011010010110",
+        "011000110"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLLRRRRLRLLRLL",
+      "smaller": "LLRLLLLRLRRLRLRRRRLRR",
+      "tapes": [
+        "0110100110",
+        "01100010110"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLRLRLLLLLLRLL",
+      "smaller": "LLRLLRLRLLLLLLRLRRLRR",
+      "tapes": [
+        "0110001010110",
+        "01100110"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLRRRLRLLLLRLL",
+      "smaller": "LLRLLRLRLLLLRLRRRRLRR",
+      "tapes": [
+        "01100010110",
+        "0110010110"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLRRRRRLRLLRLL",
+      "smaller": "LLRLLRLRLLRLRRRRRRLRR",
+      "tapes": [
+        "011000110",
+        "011001010110"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLRRLRLLLLLLRLL",
+      "smaller": "LLRLLRLLLLLRRLRLRRLRR",
+      "tapes": [
+        "011001010110",
+        "011000110"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLRRRRLRLLLLRLL",
+      "smaller": "LLRLLRLLLRRLRLRRRRLRR",
+      "tapes": [
+        "0110010110",
+        "01100010110"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLRRRRRRLRLLRLL",
+      "smaller": "LLRLLRLRRLRLRRRRRRLRR",
+      "tapes": [
+        "01100110",
+        "0110001010110"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRLRLLLLRLRLLRLL",
+      "smaller": "LLRLLLLRLRLLRRRLRRLRR",
+      "tapes": [
+        "01101000110",
+        "0110100110"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRLRLLLRRLRLLRLL",
+      "smaller": "LLRLLLLRLRRRRLRLRRLRR",
+      "tapes": [
+        "0110100110",
+        "01101000110"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRLRLLRLRLLLLRLL",
+      "smaller": "LLRLLRLRLLLLRRRLRRLRR",
+      "tapes": [
+        "01100010110",
+        "0110100110"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRLRLLRRRLRLLRLL",
+      "smaller": "LLRLLRLRLLRRRLRRRRLRR",
+      "tapes": [
+        "011000110",
+        "011010010110"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRLRLRRLRLLLLRLL",
+      "smaller": "LLRLLRLLLRRRRLRLRRLRR",
+      "tapes": [
+        "0110010110",
+        "01101000110"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRLRLRRRRLRLLRLL",
+      "smaller": "LLRLLRLRRRRLRLRRRRLRR",
+      "tapes": [
+        "01100110",
+        "0110100010110"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRRRLRLLRLRLLRLL",
+      "smaller": "LLRLLRLRLLRRRRRLRRLRR",
+      "tapes": [
+        "011000110",
+        "011010100110"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRRRLRLRRLRLLRLL",
+      "smaller": "LLRLLRLRRRRRRLRLRRLRR",
+      "tapes": [
+        "01100110",
+        "0110101000110"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLLLLLLLLLLLRLL",
+      "smaller": "LLRLLLLLLLLLLLLRLRRLRR",
+      "tapes": [
+        "0110101010101001",
+        "011001"
+      ],
+      "compressed": "RRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLLLRLRRLRLLRLL",
+      "smaller": "LLRLLLLRLRRLRLLRLRRLRR",
+      "tapes": [
+        "011010011001",
+        "0110011001"
+      ],
+      "compressed": "RRLRRLRLLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLRLRLLRLRLLRLL",
+      "smaller": "LLRLLRLRLLRLRLLRLRRLRR",
+      "tapes": [
+        "011000111001",
+        "0110011001"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLRLRLRRLRLLRLL",
+      "smaller": "LLRLLRLRLLRLRRLRLRRLRR",
+      "tapes": [
+        "01100011001",
+        "01100111001"
+      ],
+      "compressed": "RRLRRLRLLRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLRLRRLRLLLLRLL",
+      "smaller": "LLRLLRLRRLRLLLLRLRRLRR",
+      "tapes": [
+        "011001101001",
+        "0110011001"
+      ],
+      "compressed": "RRLRRLRLLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLRLRRRRLRLLRLL",
+      "smaller": "LLRLLRLRRLRLLRLRRRRLRR",
+      "tapes": [
+        "0110011001",
+        "011001101001"
+      ],
+      "compressed": "RRLRRLRLLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLRRLRLLRLRLLRLL",
+      "smaller": "LLRLLRLRRLRLRLLRLRRLRR",
+      "tapes": [
+        "01100111001",
+        "01100011001"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLRRLRLRRLRLLRLL",
+      "smaller": "LLRLLRLRRLRLRRLRLRRLRR",
+      "tapes": [
+        "0110011001",
+        "011000111001"
+      ],
+      "compressed": "RRLRRLRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRLRLLLLLLLLLLRLL",
+      "smaller": "LLRLLLLLLLLLLRLRRRRLRR",
+      "tapes": [
+        "01101010101001",
+        "01101001"
+      ],
+      "compressed": "RRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRLRLLRLRRLRLLRLL",
+      "smaller": "LLRLLRLRRRRLRLLRLRRLRR",
+      "tapes": [
+        "0110011001",
+        "011010011001"
+      ],
+      "compressed": "RRLRRLRLLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRRRLRLLLLLLLLRLL",
+      "smaller": "LLRLLLLLLLLRLRRRRRRLRR",
+      "tapes": [
+        "011010101001",
+        "0110101001"
+      ],
+      "compressed": "RRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRRRRRLRLLLLLLRLL",
+      "smaller": "LLRLLLLLLRLRRRRRRRRLRR",
+      "tapes": [
+        "0110101001",
+        "011010101001"
+      ],
+      "compressed": "RRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRRRRRRRLRLLLLRLL",
+      "smaller": "LLRLLLLRLRRRRRRRRRRLRR",
+      "tapes": [
+        "01101001",
+        "01101010101001"
+      ],
+      "compressed": "RRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRRRRRRRRRLRLLRLL",
+      "smaller": "LLRLLRLRRRRRRRRRRRRLRR",
+      "tapes": [
+        "011001",
+        "0110101010101001"
+      ],
+      "compressed": "RRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLLLLLLLRLRLLRLL",
+      "smaller": "LLRLLLLLLLLRLRLLRLRRLRR",
+      "tapes": [
+        "011010101000110",
+        "01100110"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLLLLLLRRLRLLRLL",
+      "smaller": "LLRLLLLLLLLRLRRLRLRRLRR",
+      "tapes": [
+        "01101010100110",
+        "011000110"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLLLLLRLRLLLLRLL",
+      "smaller": "LLRLLLLLLRLRLLLLRLRRLRR",
+      "tapes": [
+        "011010100010110",
+        "01100110"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLLLLLRRRLRLLRLL",
+      "smaller": "LLRLLLLLLRLRLLRLRRRRLRR",
+      "tapes": [
+        "0110101000110",
+        "0110010110"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLLLLRRLRLLLLRLL",
+      "smaller": "LLRLLLLLLRLLLRRLRLRRLRR",
+      "tapes": [
+        "01101010010110",
+        "011000110"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLLLLRRRRLRLLRLL",
+      "smaller": "LLRLLLLLLRLRRLRLRRRRLRR",
+      "tapes": [
+        "011010100110",
+        "01100010110"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLLLRLRLLLLLLRLL",
+      "smaller": "LLRLLLLRLRLLLLLLRLRRLRR",
+      "tapes": [
+        "011010001010110",
+        "01100110"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLLLRRRLRLLLLRLL",
+      "smaller": "LLRLLLLRLRLLLLRLRRRRLRR",
+      "tapes": [
+        "0110100010110",
+        "0110010110"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLLLRRRRRLRLLRLL",
+      "smaller": "LLRLLLLRLRLLRLRRRRRRLRR",
+      "tapes": [
+        "01101000110",
+        "011001010110"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLLRRLRLLLLLLRLL",
+      "smaller": "LLRLLLLRLLLLLRRLRLRRLRR",
+      "tapes": [
+        "01101001010110",
+        "011000110"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLLRRRRLRLLLLRLL",
+      "smaller": "LLRLLLLRLLLRRLRLRRRRLRR",
+      "tapes": [
+        "011010010110",
+        "01100010110"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLLRRRRRRLRLLRLL",
+      "smaller": "LLRLLLLRLRRLRLRRRRRRLRR",
+      "tapes": [
+        "0110100110",
+        "0110001010110"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLRLRLLLLLLLLRLL",
+      "smaller": "LLRLLRLRLLLLLLLLRLRRLRR",
+      "tapes": [
+        "011000101010110",
+        "01100110"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLRRRLRLLLLLLRLL",
+      "smaller": "LLRLLRLRLLLLLLRLRRRRLRR",
+      "tapes": [
+        "0110001010110",
+        "0110010110"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLRRRRRLRLLLLRLL",
+      "smaller": "LLRLLRLRLLLLRLRRRRRRLRR",
+      "tapes": [
+        "01100010110",
+        "011001010110"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLRRRRRRRLRLLRLL",
+      "smaller": "LLRLLRLRLLRLRRRRRRRRLRR",
+      "tapes": [
+        "011000110",
+        "01100101010110"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLRRLRLLLLLLLLRLL",
+      "smaller": "LLRLLRLLLLLLLRRLRLRRLRR",
+      "tapes": [
+        "01100101010110",
+        "011000110"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLRRRRLRLLLLLLRLL",
+      "smaller": "LLRLLRLLLLLRRLRLRRRRLRR",
+      "tapes": [
+        "011001010110",
+        "01100010110"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLRRRRRRLRLLLLRLL",
+      "smaller": "LLRLLRLLLRRLRLRRRRRRLRR",
+      "tapes": [
+        "0110010110",
+        "0110001010110"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLRRRRRRRRLRLLRLL",
+      "smaller": "LLRLLRLRRLRLRRRRRRRRLRR",
+      "tapes": [
+        "01100110",
+        "011000101010110"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRLRLLLLLLRLRLLRLL",
+      "smaller": "LLRLLLLLLRLRLLRRRLRRLRR",
+      "tapes": [
+        "0110101000110",
+        "0110100110"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRLRLLLLLRRLRLLRLL",
+      "smaller": "LLRLLLLLLRLRRRRLRLRRLRR",
+      "tapes": [
+        "011010100110",
+        "01101000110"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRLRLLLLRLRLLLLRLL",
+      "smaller": "LLRLLLLRLRLLLLRRRLRRLRR",
+      "tapes": [
+        "0110100010110",
+        "0110100110"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRLRLLLLRRRLRLLRLL",
+      "smaller": "LLRLLLLRLRLLRRRLRRRRLRR",
+      "tapes": [
+        "01101000110",
+        "011010010110"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRLRLLLRRLRLLLLRLL",
+      "smaller": "LLRLLLLRLLLRRRRLRLRRLRR",
+      "tapes": [
+        "011010010110",
+        "01101000110"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRLRLLLRRRRLRLLRLL",
+      "smaller": "LLRLLLLRLRRRRLRLRRRRLRR",
+      "tapes": [
+        "0110100110",
+        "0110100010110"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRLRLLRLRLLLLLLRLL",
+      "smaller": "LLRLLRLRLLLLLLRRRLRRLRR",
+      "tapes": [
+        "0110001010110",
+        "0110100110"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRLRLLRRRLRLLLLRLL",
+      "smaller": "LLRLLRLRLLLLRRRLRRRRLRR",
+      "tapes": [
+        "01100010110",
+        "011010010110"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRLRLLRRRRRLRLLRLL",
+      "smaller": "LLRLLRLRLLRRRLRRRRRRLRR",
+      "tapes": [
+        "011000110",
+        "01101001010110"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRLRLRRLRLLLLLLRLL",
+      "smaller": "LLRLLRLLLLLRRRRLRLRRLRR",
+      "tapes": [
+        "011001010110",
+        "01101000110"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRLRLRRRRLRLLLLRLL",
+      "smaller": "LLRLLRLLLRRRRLRLRRRRLRR",
+      "tapes": [
+        "0110010110",
+        "0110100010110"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRLRLRRRRRRLRLLRLL",
+      "smaller": "LLRLLRLRRRRLRLRRRRRRLRR",
+      "tapes": [
+        "01100110",
+        "011010001010110"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRRRLRLLLLRLRLLRLL",
+      "smaller": "LLRLLLLRLRLLRRRRRLRRLRR",
+      "tapes": [
+        "01101000110",
+        "011010100110"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRRRLRLLLRRLRLLRLL",
+      "smaller": "LLRLLLLRLRRRRRRLRLRRLRR",
+      "tapes": [
+        "0110100110",
+        "0110101000110"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRRRLRLLRLRLLLLRLL",
+      "smaller": "LLRLLRLRLLLLRRRRRLRRLRR",
+      "tapes": [
+        "01100010110",
+        "011010100110"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRRRLRLLRRRLRLLRLL",
+      "smaller": "LLRLLRLRLLRRRRRLRRRRLRR",
+      "tapes": [
+        "011000110",
+        "01101010010110"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRRRLRLRRLRLLLLRLL",
+      "smaller": "LLRLLRLLLRRRRRRLRLRRLRR",
+      "tapes": [
+        "0110010110",
+        "0110101000110"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRRRLRLRRRRLRLLRLL",
+      "smaller": "LLRLLRLRRRRRRLRLRRRRLRR",
+      "tapes": [
+        "01100110",
+        "011010100010110"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRRRRRLRLLRLRLLRLL",
+      "smaller": "LLRLLRLRLLRRRRRRRLRRLRR",
+      "tapes": [
+        "011000110",
+        "01101010100110"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRRRRRLRLRRLRLLRLL",
+      "smaller": "LLRLLRLRRRRRRRRLRLRRLRR",
+      "tapes": [
+        "01100110",
+        "011010101000110"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLLLLLLLLLLLLLRLL",
+      "smaller": "LLRLLLLLLLLLLLLLLRLRRLRR",
+      "tapes": [
+        "011010101010101001",
+        "011001"
+      ],
+      "compressed": "RRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLLLLLRLRRLRLLRLL",
+      "smaller": "LLRLLLLLLRLRRLRLLRLRRLRR",
+      "tapes": [
+        "01101010011001",
+        "0110011001"
+      ],
+      "compressed": "RRLRRLRLLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLLLRLRLLRLRLLRLL",
+      "smaller": "LLRLLLLRLRLLRLRLLRLRRLRR",
+      "tapes": [
+        "01101000111001",
+        "0110011001"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLLLRLRLRRLRLLRLL",
+      "smaller": "LLRLLLLRLRLLRLRRLRLRRLRR",
+      "tapes": [
+        "0110100011001",
+        "01100111001"
+      ],
+      "compressed": "RRLRRLRLLRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLLLRLRRLRLLLLRLL",
+      "smaller": "LLRLLLLRLRRLRLLLLRLRRLRR",
+      "tapes": [
+        "01101001101001",
+        "0110011001"
+      ],
+      "compressed": "RRLRRLRLLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLLLRLRRRRLRLLRLL",
+      "smaller": "LLRLLLLRLRRLRLLRLRRRRLRR",
+      "tapes": [
+        "011010011001",
+        "011001101001"
+      ],
+      "compressed": "RRLRRLRLLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLLRRLRLLRLRLLRLL",
+      "smaller": "LLRLLLLRLRRLRLRLLRLRRLRR",
+      "tapes": [
+        "0110100111001",
+        "01100011001"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLLRRLRLRRLRLLRLL",
+      "smaller": "LLRLLLLRLRRLRLRRLRLRRLRR",
+      "tapes": [
+        "011010011001",
+        "011000111001"
+      ],
+      "compressed": "RRLRRLRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLRLRLLLLRLRLLRLL",
+      "smaller": "LLRLLRLRLLLLRLRLLRLRRLRR",
+      "tapes": [
+        "01100010111001",
+        "0110011001"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLRLRLLLRRLRLLRLL",
+      "smaller": "LLRLLRLRLLLLRLRRLRLRRLRR",
+      "tapes": [
+        "0110001011001",
+        "01100111001"
+      ],
+      "compressed": "RRLRRLRLLRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLRLRLLRLRLLLLRLL",
+      "smaller": "LLRLLRLRLLRLRLLLLRLRRLRR",
+      "tapes": [
+        "01100011101001",
+        "0110011001"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLRLRLLRRRLRLLRLL",
+      "smaller": "LLRLLRLRLLRLRLLRLRRRRLRR",
+      "tapes": [
+        "011000111001",
+        "011001101001"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLRLRLRRLRLLLLRLL",
+      "smaller": "LLRLLRLRLLRLLLRRLRLRRLRR",
+      "tapes": [
+        "0110001101001",
+        "01100111001"
+      ],
+      "compressed": "RRLRRLRLLRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLRLRLRRRRLRLLRLL",
+      "smaller": "LLRLLRLRLLRLRRLRLRRRRLRR",
+      "tapes": [
+        "01100011001",
+        "0110011101001"
+      ],
+      "compressed": "RRLRRLRLLRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLRLRRLRLLLLLLRLL",
+      "smaller": "LLRLLRLRRLRLLLLLLRLRRLRR",
+      "tapes": [
+        "01100110101001",
+        "0110011001"
+      ],
+      "compressed": "RRLRRLRLLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLRLRRRRLRLLLLRLL",
+      "smaller": "LLRLLRLRRLRLLLLRLRRRRLRR",
+      "tapes": [
+        "011001101001",
+        "011001101001"
+      ],
+      "compressed": "RRLRRLRLLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLRLRRRRRRLRLLRLL",
+      "smaller": "LLRLLRLRRLRLLRLRRRRRRLRR",
+      "tapes": [
+        "0110011001",
+        "01100110101001"
+      ],
+      "compressed": "RRLRRLRLLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLRRRLRLLRLRLLRLL",
+      "smaller": "LLRLLRLRLLRLRLLRRRLRRLRR",
+      "tapes": [
+        "011000111001",
+        "011001011001"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLLRRRLRLRRLRLLRLL",
+      "smaller": "LLRLLRLRLLRLRRRRLRLRRLRR",
+      "tapes": [
+        "01100011001",
+        "0110010111001"
+      ],
+      "compressed": "RRLRRLRLLRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLRRLRLLLLRLRLLRLL",
+      "smaller": "LLRLLRLLLRRLRLRLLRLRRLRR",
+      "tapes": [
+        "0110010111001",
+        "01100011001"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLRRLRLLLRRLRLLRLL",
+      "smaller": "LLRLLRLLLRRLRLRRLRLRRLRR",
+      "tapes": [
+        "011001011001",
+        "011000111001"
+      ],
+      "compressed": "RRLRRLRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLRRLRLLRLRLLLLRLL",
+      "smaller": "LLRLLRLRRLRLRLLLLRLRRLRR",
+      "tapes": [
+        "0110011101001",
+        "01100011001"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLRRLRLLRRRLRLLRLL",
+      "smaller": "LLRLLRLRRLRLRLLRLRRRRLRR",
+      "tapes": [
+        "01100111001",
+        "0110001101001"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "smaller": "LLRLLRLRLLRLRLRRLRLRRLRR",
+      "tapes": [
+        "011000111001",
+        "011000111001"
+      ],
+      "compressed": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLRRLRLRRLRLLLLRLL",
+      "smaller": "LLRLLRLRRLRLLLRRLRLRRLRR",
+      "tapes": [
+        "011001101001",
+        "011000111001"
+      ],
+      "compressed": "RRLRRLRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLRRLRLRRRRLRLLRLL",
+      "smaller": "LLRLLRLRRLRLRRLRLRRRRLRR",
+      "tapes": [
+        "0110011001",
+        "01100011101001"
+      ],
+      "compressed": "RRLRRLRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLRRRRLRLLRLRLLRLL",
+      "smaller": "LLRLLRLRRLRLRLLRRRLRRLRR",
+      "tapes": [
+        "01100111001",
+        "0110001011001"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRLRLRRRRLRLRRLRLLRLL",
+      "smaller": "LLRLLRLRRLRLRRRRLRLRRLRR",
+      "tapes": [
+        "0110011001",
+        "01100010111001"
+      ],
+      "compressed": "RRLRRLRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRLRLLLLLLLLLLLLRLL",
+      "smaller": "LLRLLLLLLLLLLLLRLRRRRLRR",
+      "tapes": [
+        "0110101010101001",
+        "01101001"
+      ],
+      "compressed": "RRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRLRLLLLRLRRLRLLRLL",
+      "smaller": "LLRLLLLRLRRRRLRLLRLRRLRR",
+      "tapes": [
+        "011010011001",
+        "011010011001"
+      ],
+      "compressed": "RRLRRLRLLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRLRLLRLRLLRLRLLRLL",
+      "smaller": "LLRLLRLRLLRRRLRLLRLRRLRR",
+      "tapes": [
+        "011000111001",
+        "011010011001"
+      ],
+      "compressed": "RRLRRLRLLRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRLRLLRLRLRRLRLLRLL",
+      "smaller": "LLRLLRLRLLRRRLRRLRLRRLRR",
+      "tapes": [
+        "01100011001",
+        "0110100111001"
+      ],
+      "compressed": "RRLRRLRLLRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRLRLLRLRRLRLLLLRLL",
+      "smaller": "LLRLLRLRRRRLRLLLLRLRRLRR",
+      "tapes": [
+        "011001101001",
+        "011010011001"
+      ],
+      "compressed": "RRLRRLRLLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRLRLLRLRRRRLRLLRLL",
+      "smaller": "LLRLLRLRRRRLRLLRLRRRRLRR",
+      "tapes": [
+        "0110011001",
+        "01101001101001"
+      ],
+      "compressed": "RRLRRLRLLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRLRLRRLRLLRLRLLRLL",
+      "smaller": "LLRLLRLRRRRLRLRLLRLRRLRR",
+      "tapes": [
+        "01100111001",
+        "0110100011001"
+      ],
+      "compressed": "RRLRRLRLRRLRLLRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRLRLRRLRLRRLRLLRLL",
+      "smaller": "LLRLLRLRRRRLRLRRLRLRRLRR",
+      "tapes": [
+        "0110011001",
+        "01101000111001"
+      ],
+      "compressed": "RRLRRLRLRRLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRRRLRLLLLLLLLLLRLL",
+      "smaller": "LLRLLLLLLLLLLRLRRRRRRLRR",
+      "tapes": [
+        "01101010101001",
+        "0110101001"
+      ],
+      "compressed": "RRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRRRLRLLRLRRLRLLRLL",
+      "smaller": "LLRLLRLRRRRRRLRLLRLRRLRR",
+      "tapes": [
+        "0110011001",
+        "01101010011001"
+      ],
+      "compressed": "RRLRRLRLLRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRRRRRLRLLLLLLLLRLL",
+      "smaller": "LLRLLLLLLLLRLRRRRRRRRLRR",
+      "tapes": [
+        "011010101001",
+        "011010101001"
+      ],
+      "compressed": "RRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRRRRRRRLRLLLLLLRLL",
+      "smaller": "LLRLLLLLLRLRRRRRRRRRRLRR",
+      "tapes": [
+        "0110101001",
+        "01101010101001"
+      ],
+      "compressed": "RRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRRRRRRRRRLRLLLLRLL",
+      "smaller": "LLRLLLLRLRRRRRRRRRRRRLRR",
+      "tapes": [
+        "01101001",
+        "0110101010101001"
+      ],
+      "compressed": "RRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    },
+    {
+      "larger": "RRLRRRRRRRRRRRRRRLRLLRLL",
+      "smaller": "LLRLLRLRRRRRRRRRRRRRRLRR",
+      "tapes": [
+        "011001",
+        "011010101010101001"
+      ],
+      "compressed": "RRLRRLRLLRLL",
+      "compressed_is_noncanonical": true,
+      "compressed_is_minimal_bad": true
+    }
+  ],
+  "compression_counterexamples": [],
+  "elapsed_seconds": 1.9842472499876749
+}

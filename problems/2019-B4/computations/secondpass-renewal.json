@@ -1,0 +1,60 @@
+{
+  "status": "candidate proof - unverified; exact finite inequalities",
+  "parameters": {
+    "probe": "problems/2019-B4/computations/secondpass-probe20.json",
+    "output": "problems/2019-B4/computations/secondpass-renewal.json"
+  },
+  "max_known_forbidden_length": 20,
+  "forbidden_counts": [
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    2,
+    0,
+    3,
+    2,
+    4,
+    8,
+    6
+  ],
+  "E_definition": "1 - (2N/(N+1))x + sum((N+1-n)/(N+1)*f_n*x^n,n<=N)",
+  "E_first_positive_root_numerical_bracket_only": [
+    0.5705129654647075,
+    0.5705129654647075
+  ],
+  "candidate_lambda_strict_lower_numerator": 175279,
+  "candidate_lambda_strict_lower_denominator": 100000,
+  "candidate_lambda_strict_lower_decimal": 1.75279,
+  "r0": {
+    "numerator": 100000,
+    "denominator": 175279,
+    "decimal": 0.5705190011353328
+  },
+  "E_r0": {
+    "numerator": -40567176752860849039333889275380636134944399805391012685058515464133350471332214512704545562967227193,
+    "denominator": 5244399611650270151426271202864404375236875651828030677130920364842212028082749658889893781246772924772807,
+    "decimal": -7.735332880191305e-06
+  },
+  "E_three_fifths": {
+    "numerator": -24103772284678,
+    "denominator": 667572021484375,
+    "decimal": -0.03610662446739788
+  },
+  "accepted_lower_bound_implies_R_less_than_three_fifths": {
+    "numerator": 111671791435977957,
+    "denominator": 59604644775390625,
+    "decimal": 1.8735417660283524
+  },
+  "elapsed_seconds": 0.005257624987279996
+}

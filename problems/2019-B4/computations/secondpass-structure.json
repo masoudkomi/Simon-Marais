@@ -1,0 +1,230 @@
+{
+  "status": "finite computational evidence only",
+  "parameters": {
+    "max_root_length": 12,
+    "balanced_total": 12,
+    "output": "problems/2019-B4/computations/secondpass-structure.json"
+  },
+  "self_shuffle_rows": [
+    {
+      "root_length": 0,
+      "accepted_roots": 1,
+      "hypothesis_mismatches": 0
+    },
+    {
+      "root_length": 1,
+      "accepted_roots": 0,
+      "hypothesis_mismatches": 0
+    },
+    {
+      "root_length": 2,
+      "accepted_roots": 1,
+      "hypothesis_mismatches": 0
+    },
+    {
+      "root_length": 3,
+      "accepted_roots": 0,
+      "hypothesis_mismatches": 0
+    },
+    {
+      "root_length": 4,
+      "accepted_roots": 1,
+      "hypothesis_mismatches": 0
+    },
+    {
+      "root_length": 5,
+      "accepted_roots": 0,
+      "hypothesis_mismatches": 0
+    },
+    {
+      "root_length": 6,
+      "accepted_roots": 2,
+      "hypothesis_mismatches": 0
+    },
+    {
+      "root_length": 7,
+      "accepted_roots": 0,
+      "hypothesis_mismatches": 0
+    },
+    {
+      "root_length": 8,
+      "accepted_roots": 4,
+      "hypothesis_mismatches": 0
+    },
+    {
+      "root_length": 9,
+      "accepted_roots": 0,
+      "hypothesis_mismatches": 0
+    },
+    {
+      "root_length": 10,
+      "accepted_roots": 8,
+      "hypothesis_mismatches": 0
+    },
+    {
+      "root_length": 11,
+      "accepted_roots": 0,
+      "hypothesis_mismatches": 0
+    },
+    {
+      "root_length": 12,
+      "accepted_roots": 17,
+      "hypothesis_mismatches": 1
+    }
+  ],
+  "self_shuffle_hypothesis_counterexamples": [
+    {
+      "word": "011000111001",
+      "history": "LLRLLRLRLLRLRLRRLRLRRLRR",
+      "hypothesis": false
+    }
+  ],
+  "balanced_pairs_examined": 12012,
+  "range_signature_counterexample": {
+    "signature": [
+      [
+        3,
+        3,
+        0,
+        3,
+        "0",
+        "0"
+      ],
+      [
+        9,
+        -3,
+        -3,
+        1,
+        "0",
+        "1"
+      ]
+    ],
+    "first": {
+      "accepted": true,
+      "u": "000",
+      "v": "010111101",
+      "history": "RRRRLRLRLRRR"
+    },
+    "second": {
+      "accepted": false,
+      "u": "000",
+      "v": "011001111",
+      "history": null
+    }
+  },
+  "two_step_greedy_counterexample": {
+    "u": "00001",
+    "v": "1110110",
+    "canonical": "LRLRLRRRLRRL",
+    "greedy": null
+  },
+  "common_01_prefix_consumption_counterexample": {
+    "u": "0100",
+    "v": "01100111",
+    "canonical": "RRLRRLRRLRLR",
+    "after_left_01": false
+  },
+  "slice_D_B_Cpower_B_A": [
+    {
+      "q": 1,
+      "history": "RRLRRLLRLL",
+      "tapes": [
+        "01001",
+        "01101"
+      ],
+      "canonical": "LLRRLRLLRR",
+      "is_canonical": false
+    },
+    {
+      "q": 2,
+      "history": "RRLRRLRLLRLL",
+      "tapes": [
+        "011001",
+        "011001"
+      ],
+      "canonical": "LLRLLRLRRLRR",
+      "is_canonical": false
+    },
+    {
+      "q": 3,
+      "history": "RRLRRLRLRLLRLL",
+      "tapes": [
+        "0111001",
+        "0110001"
+      ],
+      "canonical": "RRLRRLRLRLLRLL",
+      "is_canonical": true
+    },
+    {
+      "q": 4,
+      "history": "RRLRRLRLRLRLLRLL",
+      "tapes": [
+        "01111001",
+        "01100001"
+      ],
+      "canonical": "RRLRRLRLRLRLLRLL",
+      "is_canonical": true
+    },
+    {
+      "q": 5,
+      "history": "RRLRRLRLRLRLRLLRLL",
+      "tapes": [
+        "011111001",
+        "011000001"
+      ],
+      "canonical": "RRLRRLRLRLRLRLLRLL",
+      "is_canonical": true
+    },
+    {
+      "q": 6,
+      "history": "RRLRRLRLRLRLRLRLLRLL",
+      "tapes": [
+        "0111111001",
+        "0110000001"
+      ],
+      "canonical": "RRLRRLRLRLRLRLRLLRLL",
+      "is_canonical": true
+    },
+    {
+      "q": 7,
+      "history": "RRLRRLRLRLRLRLRLRLLRLL",
+      "tapes": [
+        "01111111001",
+        "01100000001"
+      ],
+      "canonical": "RRLRRLRLRLRLRLRLRLLRLL",
+      "is_canonical": true
+    },
+    {
+      "q": 8,
+      "history": "RRLRRLRLRLRLRLRLRLRLLRLL",
+      "tapes": [
+        "011111111001",
+        "011000000001"
+      ],
+      "canonical": "RRLRRLRLRLRLRLRLRLRLLRLL",
+      "is_canonical": true
+    },
+    {
+      "q": 9,
+      "history": "RRLRRLRLRLRLRLRLRLRLRLLRLL",
+      "tapes": [
+        "0111111111001",
+        "0110000000001"
+      ],
+      "canonical": "RRLRRLRLRLRLRLRLRLRLRLLRLL",
+      "is_canonical": true
+    },
+    {
+      "q": 10,
+      "history": "RRLRRLRLRLRLRLRLRLRLRLRLLRLL",
+      "tapes": [
+        "01111111111001",
+        "01100000000001"
+      ],
+      "canonical": "RRLRRLRLRLRLRLRLRLRLRLRLLRLL",
+      "is_canonical": true
+    }
+  ],
+  "elapsed_seconds": 0.23733454197645187
+}

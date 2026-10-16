@@ -1,7 +1,7 @@
 {
   "observed_at_utc": "2026-10-16T10:27:48.270448+00:00",
   "policy": "Full papers local only unless redistribution licence verified; no charges or access bypass. Caching is not proof validation.",
-  "scope": "PDF links cited in references.md snapshot; abs arXiv links converted to publisher-provided PDF URLs. Additional owner manifests may contain other cached papers.",
+  "scope": "Public primary PDF sources cited in year references or research notes; additional owner manifests may contain other cached papers.",
   "records": [
     {
       "year": 2017,
@@ -470,7 +470,66 @@
       "bytes": 2795058,
       "pages": 64,
       "retrieved_at_utc": "2026-10-16T10:45:37.435598+00:00"
+    },
+    {
+      "year": 2022,
+      "url": "https://perso.telecom-paristech.fr/jsaka/PUB/Files/RBNS-rev.pdf",
+      "reference_file": "problems/2022-B4/notes/rational-base-lead-v1.md",
+      "cache_path": ".cache/literature/2022/akiyama-frougny-sakarovitch-rbns-rev.pdf",
+      "redistribution_licence_verified": false,
+      "inspection_status": "retrieval only; precise mathematical applicability documented separately",
+      "status": "cached locally",
+      "sha256": "cf6cb96e1f4e98ed0e763f0f8e974f9cf81d685a8bbb8ed969432afd382bffd8",
+      "bytes": 909624,
+      "pages": 30,
+      "fingerprinted_at_utc": "2026-10-16T10:58:44.049254+00:00"
+    },
+    {
+      "year": 2022,
+      "url": "https://arxiv.org/pdf/2510.11723v2",
+      "reference_file": "problems/2022-B4/notes/rational-base-lead-v1.md",
+      "cache_path": ".cache/literature/2022/andrieu-eliahou-vivion-2510.11723v2.pdf",
+      "redistribution_licence_verified": false,
+      "inspection_status": "retrieval only; precise mathematical applicability documented separately",
+      "status": "cached locally",
+      "sha256": "ef5a2ca8e1fa5c21bbf51a7122cc4331b6aa1e587cdffd6cd845d8f7f2cf99bf",
+      "bytes": 1239603,
+      "pages": 28,
+      "fingerprinted_at_utc": "2026-10-16T10:58:44.142337+00:00"
+    },
+    {
+      "year": 2019,
+      "url": "https://www.ams.org/journals/tran/2007-359-02/S0002-9947-06-03958-4/S0002-9947-06-03958-4.pdf",
+      "reference_file": "problems/2019-B4/notes/secondpass-structural-checkpoint.md",
+      "cache_path": ".cache/literature/2019/ceccherini-silberstein-linear-2007.pdf",
+      "redistribution_licence_verified": false,
+      "status": "retrieval failed",
+      "failure": "HTTP403; public retrieval failed after host delay; no bypass attempted",
+      "observed_at_utc": "2026-10-16T14:57:32.147390+00:00"
+    },
+    {
+      "year": 2019,
+      "url": "https://www.liafa.jussieu.fr/~jep/PDF/ShuffleCAI.pdf",
+      "reference_file": "problems/2019-B4/notes/secondpass-structural-checkpoint.md",
+      "cache_path": ".cache/literature/2019/pin-shuffle-cai.pdf",
+      "redistribution_licence_verified": false,
+      "status": "retrieval failed",
+      "failure": "TLS hostname mismatch, curl60; certificate validation was not disabled",
+      "observed_at_utc": "2026-10-16T14:57:32.147390+00:00"
+    },
+    {
+      "year": 2021,
+      "url": "https://math.mit.edu/~poonen/papers/curves.pdf",
+      "reference_file": "problems/2021-B4/notes/padic-rational-newton-obstructions-v1.md",
+      "cache_path": ".cache/literature/2021/poonen-curves.pdf",
+      "redistribution_licence_verified": false,
+      "inspection_status": "retrieval only; precise mathematical applicability documented separately",
+      "status": "cached locally",
+      "sha256": "a202c5959e1cc7807e89cf290f0b00ec498d4e2a771ef5090639810cf35aaa62",
+      "bytes": 822468,
+      "pages": 118,
+      "fingerprinted_at_utc": "2026-10-16T14:57:55.260645+00:00"
     }
   ],
-  "updated_at_utc": "2026-10-16T10:45:03.677084+00:00"
+  "updated_at_utc": "2026-10-16T14:57:55.260645+00:00"
 }

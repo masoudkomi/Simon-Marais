@@ -1,0 +1,287 @@
+{
+  "status": "finite evidence only; bounded-run class, not full obstruction language",
+  "parameters": {
+    "max_n": 26,
+    "state_cap": 20000,
+    "output": "problems/2019-B4/computations/secondpass-core-probe.json"
+  },
+  "all_requested_lengths_completed": true,
+  "rows": [
+    {
+      "length": 4,
+      "nodes": 3,
+      "leaves": 1,
+      "complete": true,
+      "new_core_count": 1
+    },
+    {
+      "length": 5,
+      "nodes": 1,
+      "leaves": 0,
+      "complete": true,
+      "new_core_count": 0
+    },
+    {
+      "length": 6,
+      "nodes": 5,
+      "leaves": 1,
+      "complete": true,
+      "new_core_count": 0
+    },
+    {
+      "length": 7,
+      "nodes": 5,
+      "leaves": 0,
+      "complete": true,
+      "new_core_count": 0
+    },
+    {
+      "length": 8,
+      "nodes": 8,
+      "leaves": 1,
+      "complete": true,
+      "new_core_count": 0
+    },
+    {
+      "length": 9,
+      "nodes": 16,
+      "leaves": 2,
+      "complete": true,
+      "new_core_count": 0
+    },
+    {
+      "length": 10,
+      "nodes": 19,
+      "leaves": 1,
+      "complete": true,
+      "new_core_count": 0
+    },
+    {
+      "length": 11,
+      "nodes": 33,
+      "leaves": 4,
+      "complete": true,
+      "new_core_count": 0
+    },
+    {
+      "length": 12,
+      "nodes": 52,
+      "leaves": 5,
+      "complete": true,
+      "new_core_count": 1
+    },
+    {
+      "length": 13,
+      "nodes": 72,
+      "leaves": 6,
+      "complete": true,
+      "new_core_count": 0
+    },
+    {
+      "length": 14,
+      "nodes": 119,
+      "leaves": 13,
+      "complete": true,
+      "new_core_count": 0
+    },
+    {
+      "length": 15,
+      "nodes": 172,
+      "leaves": 14,
+      "complete": true,
+      "new_core_count": 0
+    },
+    {
+      "length": 16,
+      "nodes": 260,
+      "leaves": 25,
+      "complete": true,
+      "new_core_count": 0
+    },
+    {
+      "length": 17,
+      "nodes": 408,
+      "leaves": 40,
+      "complete": true,
+      "new_core_count": 2
+    },
+    {
+      "length": 18,
+      "nodes": 598,
+      "leaves": 52,
+      "complete": true,
+      "new_core_count": 0
+    },
+    {
+      "length": 19,
+      "nodes": 922,
+      "leaves": 90,
+      "complete": true,
+      "new_core_count": 0
+    },
+    {
+      "length": 20,
+      "nodes": 1395,
+      "leaves": 127,
+      "complete": true,
+      "new_core_count": 1
+    },
+    {
+      "length": 21,
+      "nodes": 2093,
+      "leaves": 192,
+      "complete": true,
+      "new_core_count": 0
+    },
+    {
+      "length": 22,
+      "nodes": 3213,
+      "leaves": 306,
+      "complete": true,
+      "new_core_count": 4
+    },
+    {
+      "length": 23,
+      "nodes": 4830,
+      "leaves": 438,
+      "complete": true,
+      "new_core_count": 0
+    },
+    {
+      "length": 24,
+      "nodes": 7329,
+      "leaves": 686,
+      "complete": true,
+      "new_core_count": 1
+    },
+    {
+      "length": 25,
+      "nodes": 11140,
+      "leaves": 1034,
+      "complete": true,
+      "new_core_count": 4
+    },
+    {
+      "length": 26,
+      "nodes": 16810,
+      "leaves": 1544,
+      "complete": true,
+      "new_core_count": 0
+    }
+  ],
+  "bounded_run_minimal_forbidden": [
+    {
+      "larger": "RRLL",
+      "smaller": "LLRR",
+      "tapes": [
+        "01",
+        "01"
+      ]
+    },
+    {
+      "larger": "RRLRRLRLLRLL",
+      "smaller": "LLRLLRLRRLRR",
+      "tapes": [
+        "011001",
+        "011001"
+      ]
+    },
+    {
+      "larger": "RRLRRLRLLRLRLLRLL",
+      "smaller": "LLRLLRLRLLRLRRLRR",
+      "tapes": [
+        "011000110",
+        "01100110"
+      ]
+    },
+    {
+      "larger": "RRLRRLRLRRLRLLRLL",
+      "smaller": "LLRLLRLRRLRLRRLRR",
+      "tapes": [
+        "01100110",
+        "011000110"
+      ]
+    },
+    {
+      "larger": "RRLRRLRLLRLRRLRLLRLL",
+      "smaller": "LLRLLRLRRLRLLRLRRLRR",
+      "tapes": [
+        "0110011001",
+        "0110011001"
+      ]
+    },
+    {
+      "larger": "RRLRRLRLLRLRLLRLRLLRLL",
+      "smaller": "LLRLLRLRLLRLRLLRLRRLRR",
+      "tapes": [
+        "011000111001",
+        "0110011001"
+      ]
+    },
+    {
+      "larger": "RRLRRLRLLRLRLRRLRLLRLL",
+      "smaller": "LLRLLRLRLLRLRRLRLRRLRR",
+      "tapes": [
+        "01100011001",
+        "01100111001"
+      ]
+    },
+    {
+      "larger": "RRLRRLRLRRLRLLRLRLLRLL",
+      "smaller": "LLRLLRLRRLRLRLLRLRRLRR",
+      "tapes": [
+        "01100111001",
+        "01100011001"
+      ]
+    },
+    {
+      "larger": "RRLRRLRLRRLRLRRLRLLRLL",
+      "smaller": "LLRLLRLRRLRLRRLRLRRLRR",
+      "tapes": [
+        "0110011001",
+        "011000111001"
+      ]
+    },
+    {
+      "larger": "RRLRRLRLRRLRLRLLRLRLLRLL",
+      "smaller": "LLRLLRLRLLRLRLRRLRLRRLRR",
+      "tapes": [
+        "011000111001",
+        "011000111001"
+      ]
+    },
+    {
+      "larger": "RRLRRLRLLRLRLLRLRRLRLLRLL",
+      "smaller": "LLRLLRLRLLRLRRLRLLRLRRLRR",
+      "tapes": [
+        "0110001100110",
+        "011001100110"
+      ]
+    },
+    {
+      "larger": "RRLRRLRLLRLRRLRLLRLRLLRLL",
+      "smaller": "LLRLLRLRRLRLLRLRLLRLRRLRR",
+      "tapes": [
+        "0110011000110",
+        "011001100110"
+      ]
+    },
+    {
+      "larger": "RRLRRLRLLRLRRLRLRRLRLLRLL",
+      "smaller": "LLRLLRLRRLRLLRLRRLRLRRLRR",
+      "tapes": [
+        "011001100110",
+        "0110011000110"
+      ]
+    },
+    {
+      "larger": "RRLRRLRLRRLRLLRLRRLRLLRLL",
+      "smaller": "LLRLLRLRRLRLRRLRLLRLRRLRR",
+      "tapes": [
+        "011001100110",
+        "0110001100110"
+      ]
+    }
+  ],
+  "elapsed_seconds": 0.16741799999726936
+}

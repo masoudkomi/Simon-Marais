@@ -1,0 +1,22 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "-u",
+    "problems/2019-B4/computations/secondpass-family.py",
+    "--probe",
+    "problems/2019-B4/computations/secondpass-probe20.json",
+    "--state-cap",
+    "20000",
+    "--output",
+    "problems/2019-B4/computations/secondpass-family.json"
+  ],
+  "timeout_seconds": 60.0,
+  "cwd": "/Users/uqmkamga/Documents/ChatGPT/Website",
+  "started_utc": "2026-10-16T11:11:56.241877+00:00",
+  "runner_pid": 18664,
+  "status": "complete",
+  "child_pid": 18665,
+  "returncode": 0,
+  "elapsed_seconds": 0.5529516669921577,
+  "finished_utc": "2026-10-16T11:11:56.796667+00:00"
+}

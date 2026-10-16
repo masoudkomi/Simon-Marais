@@ -1,0 +1,24 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "-u",
+    "problems/2019-B4/computations/secondpass-parity-model.py",
+    "--cores",
+    "problems/2019-B4/computations/secondpass-core-probe.json",
+    "--full",
+    "problems/2019-B4/computations/secondpass-full-obstruction24-v2.json",
+    "--state-cap",
+    "20000",
+    "--output",
+    "problems/2019-B4/computations/secondpass-parity-model.json"
+  ],
+  "timeout_seconds": 60.0,
+  "cwd": "/Users/uqmkamga/Documents/ChatGPT/Website",
+  "started_utc": "2026-10-16T11:36:05.951827+00:00",
+  "runner_pid": 20317,
+  "status": "complete",
+  "child_pid": 20318,
+  "returncode": 0,
+  "elapsed_seconds": 0.26013295800657943,
+  "finished_utc": "2026-10-16T11:36:06.213602+00:00"
+}

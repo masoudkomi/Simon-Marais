@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-16",
+  "accepted_at_utc": "2026-10-16T11:01:43.097524+00:00",
+  "status": "proved, independently reviewed (partial result)",
+  "scope": "For odd n>=3, whole phi13 divides phi_n iff n=(64*16^m+1)/5 for some m>=0",
+  "full_problem_status": "general reducibility classification unresolved",
+  "novelty_established": false,
+  "initial_audits_blind": true,
+  "both_full_reconstructions": true,
+  "substantive_math_repairs_required": false,
+  "accepted_version": "1.1; status annotations only",
+  "artifact_manifest_entries_verified": 15,
+  "artifacts": {
+    "notes/zero-automaton-criterion-v1.md": "59e3bb1f9aba8162ea5b79f0ccec5f56b6f2cb0cc7917cfe81f4aff196ff6ab4",
+    "notes/zero-automaton-criterion-reviewed-v1.1.md": "362f2541b2bb1ab1e22ba768b41d55e7282f08631b0ad39522682244d213f226",
+    "notes/zero-automaton-v1-manifest.json": "41fef0ca55da72d8efc8fb04f3b0180f77fc43edf28b276a87f7bd033b6687f2",
+    "notes/zero-automaton-certificate-v1.md": "b384ed3c0b51572e729b1e5486847ebcc5d964f4afa64c43e60a76910ad0ddd3",
+    "computations/zero-automaton-v1-graph.json": "ee818f60e68da70ae2f0f7fa84a2c4dec740d10d03908359a271e354a1a0ce4e",
+    "reviews/criterion-review-1.md": "da80c58669f5002ecca3f9d08d9c4171a97b3336f6599c411e6b5c11119b826f",
+    "reviews/criterion-review-1-manifest.json": "0f2512667dee6a6f396eb7e6f42e3294c83d0067a701b44f274eef4a1690e556",
+    "reviews/criterion-review-2.md": "e7462e930e2bcf297b0217f5a537044bb35ce1f21aa94fc461e7967f552bdf13",
+    "reviews/criterion-review-2-evidence-manifest.json": "aa98d62565fcc9f96c8762a4886b8f6686fabbfc5c6c2df6c8af9f11346bc470",
+    "reviews/criterion-acceptance-issues-snapshot.md": "d3365fd6dd856785816ef0895ba42e71f5b4717741a0202f4dc181a90629fdb2"
+  }
+}

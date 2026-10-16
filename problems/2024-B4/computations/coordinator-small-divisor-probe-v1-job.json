@@ -1,0 +1,20 @@
+{
+  "command": [
+    "/Users/uqmkamga/Documents/ChatGPT/Website/.venv/bin/python",
+    "-u",
+    "/Users/uqmkamga/Documents/ChatGPT/Website/problems/2024-B4/computations/coordinator-small-divisor-probe-v1.py",
+    "--child"
+  ],
+  "timeout_seconds": 25,
+  "status": "completed",
+  "dependencies": "Python standard library only",
+  "pid": 16873,
+  "return_code": 0,
+  "elapsed_seconds": 0.04478641599416733,
+  "sha256": {
+    "coordinator-small-divisor-probe-v1.py": "4510894dfd6b26cb257c3da90ff4c18f1d6d085078c8879104155ef9cbb33e8d",
+    "coordinator-small-divisor-probe-v1-output.txt": "eede4114b83a1a3885af955e9e37dcc9c1c82b92167f65619be3d1c2ce8c80b7",
+    "coordinator-small-divisor-probe-v1-stderr.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "coordinator-small-divisor-probe-v1.json": "2eef2e578ae3c194ce3bdb2f184b0442bf5e43cec5f73d62be9be4604db3dde1"
+  }
+}

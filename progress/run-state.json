@@ -2,7 +2,7 @@
   "branch": "codex/smmc-b4-research",
   "remote": "https://github.com/masoudkomi/Simon-Marais.git",
   "phase": "all initial passes complete; independent review and focused research",
-  "last_pushed_commit": "f7206a8",
+  "last_pushed_commit": "038f9af",
   "initial_passes_complete": [
     2017,
     2018,
@@ -16,18 +16,18 @@
   ],
   "active": [
     {
-      "agent": "owner_2019_secondpass",
-      "role": "focused owner",
+      "agent": "review_2019_renewal_r1",
+      "role": "fresh blind full reviewer",
       "year": 2019
     },
     {
-      "agent": "owner_2024_zero_automaton",
-      "role": "focused owner",
-      "year": 2024
+      "agent": "review_2019_renewal_r2",
+      "role": "fresh blind full reviewer",
+      "year": 2019
     },
     {
-      "agent": "review_2021_witness_r1",
-      "role": "fresh independent reviewer",
+      "agent": "review_2021_newton_r1",
+      "role": "fresh blind full reviewer",
       "year": 2021
     }
   ],
@@ -35,13 +35,13 @@
   "deferred": [
     2026
   ],
-  "weekly_used_percent_last_observed": 5,
+  "weekly_used_percent_last_observed": 7,
   "weekly_reset_unix": 1792745187,
   "caffeinate": {
     "pid": 5398,
     "exec_session": 57629,
     "duration_seconds": 43200
   },
-  "notes": "Saved snapshot, not live telemetry. Full 2018 published reproduction and 2023 classification accepted; novelty of 2023 unestablished. Partial 2019 bounds, repaired 2022 density and sufficient 2024 family accepted. Exact 2024 fixed-divisor automaton and 2021 witness/source candidates unverified. Continue sustained work; 5% total weekly used does not trigger cutoff. Full papers local only unless licence verified.",
-  "observed_at_utc": "2026-10-16T10:45:03.677084+00:00"
+  "notes": "Snapshot, not live telemetry. Full 2018 published reproduction and full 2023 classification accepted; novelty unestablished. Reviewed partials: 2019 earlier bounds, 2021 Eisenstein restriction, 2022 repaired density, 2024 exact whole-phi13 criterion. New 2017 structural packets, stronger 2019 renewal/bounds and 2021 Newton restrictions remain unverified. Host tool call was delayed about3h51; returned at14:53UTC, workers continued and checkpointed; do not claim uninterrupted host execution. Caffeinate PID5398 verified active14:55UTC, about6.5h left. No stopping threshold reached.",
+  "observed_at_utc": "2026-10-16T14:57:32.147390+00:00"
 }

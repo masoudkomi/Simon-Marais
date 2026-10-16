@@ -1,0 +1,22 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "-u",
+    "problems/2019-B4/computations/secondpass-overlap.py",
+    "--probe",
+    "problems/2019-B4/computations/secondpass-probe20.json",
+    "--certificate",
+    "problems/2019-B4/computations/secondpass-family.json",
+    "--output",
+    "problems/2019-B4/computations/secondpass-overlap.json"
+  ],
+  "timeout_seconds": 60.0,
+  "cwd": "/Users/uqmkamga/Documents/ChatGPT/Website",
+  "started_utc": "2026-10-16T11:05:12.780885+00:00",
+  "runner_pid": 18298,
+  "status": "complete",
+  "child_pid": 18299,
+  "returncode": 0,
+  "elapsed_seconds": 0.4377804580144584,
+  "finished_utc": "2026-10-16T11:05:13.220363+00:00"
+}

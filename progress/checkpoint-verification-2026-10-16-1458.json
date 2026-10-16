@@ -1,0 +1,74 @@
+{
+  "observed_at_utc": "2026-10-16T14:58:40.234214+00:00",
+  "scope": "coordinator artifact integrity only; not additional mathematical reviews or re-execution of frozen jobs",
+  "acceptance_records": [
+    {
+      "path": "problems/2018-B4/reviews/acceptance.json",
+      "sha256": "7ad4671d9fec598eca2295e06b3838c76d29dfa30f43465112e28e3351103ca1",
+      "artifacts_verified": 5
+    },
+    {
+      "path": "problems/2019-B4/reviews/acceptance.json",
+      "sha256": "f4e6077a25b81d9b52fd7a24cfc9e4f40e572d11c8125edaca420a7e0e28bb7d",
+      "artifacts_verified": 7
+    },
+    {
+      "path": "problems/2021-B4/reviews/witness-acceptance.json",
+      "sha256": "6d08feedc2514da3f01e039f6a634fcbffd37da0fd9d1a7ad1ef148c72fd38fa",
+      "artifacts_verified": 13
+    },
+    {
+      "path": "problems/2022-B4/reviews/acceptance.json",
+      "sha256": "24b28c10820b2c88fc731ac7f1000b292f5d38ee44154c59def3c818ae89b3e6",
+      "artifacts_verified": 10
+    },
+    {
+      "path": "problems/2023-B4/reviews/acceptance.json",
+      "sha256": "507a5753ab0436495b2cb2226218f097072220dd6ac30cb20f6fe1b80acd9720",
+      "artifacts_verified": 5
+    },
+    {
+      "path": "problems/2024-B4/reviews/family-acceptance.json",
+      "sha256": "1d4b65c8bda7d71bf5ef8dde2ec3306d83ec6fd494946469519fd2cf10925d64",
+      "artifacts_verified": 6
+    },
+    {
+      "path": "problems/2024-B4/reviews/criterion-acceptance.json",
+      "sha256": "ff38b156f62e3aaaed712dbb0361074f0944753631a3dcce7c5eacb83276885b",
+      "artifacts_verified": 10
+    }
+  ],
+  "frozen_packets": [
+    {
+      "manifest": "problems/2019-B4/notes/secondpass-checkpoint-1-sha256.txt",
+      "entries_verified": 14
+    },
+    {
+      "manifest": "problems/2019-B4/notes/secondpass-checkpoint-2-sha256.txt",
+      "entries_verified": 16
+    },
+    {
+      "manifest": "problems/2017-B4/notes/secondpass-candidate-manifest.json",
+      "entries_verified": 5
+    },
+    {
+      "manifest": "problems/2021-B4/notes/padic-rational-checkpoint-v1.json",
+      "entries_verified": 10
+    },
+    {
+      "manifest": "problems/2024-B4/notes/zero-automaton-v1-manifest.json",
+      "entries_verified": 15
+    }
+  ],
+  "caffeinate_observation": {
+    "at_utc": "2026-10-16T14:55:27+00:00",
+    "pid": 5398,
+    "assertion": "PreventUserIdleSystemSleep",
+    "remaining_seconds": 23388
+  },
+  "host_delay": {
+    "returned_utc": "2026-10-16T14:53:40+00:00",
+    "reported_exec_command_wall_seconds": 13851.658132541,
+    "cause": "not established; do not infer uninterrupted host execution or override access restrictions"
+  }
+}

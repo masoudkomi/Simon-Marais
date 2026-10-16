@@ -5,6 +5,21 @@ reduction, not a classification of degrees.
 
 Every future proof begins as **candidate proof - unverified**. Distinguish published reproductions from original results. Do not relabel until two independent adversarial audits, a reconstruction and all repairs are complete.
 
+## Accepted rational-witness restriction in degree p+1
+
+**Proved, independently reviewed (partial result).** In the attributed p+1
+normalization of a hypothetical nontrivial rational-witness polynomial,
+with odd prime p, double root at0 and simple center at1, the first nonzero
+coefficient c_m at0 must satisfy v_p(c_m)>=2. The residual-factor
+Eisenstein argument uses the published two-recycled-root obstruction;
+it does not assume all roots rational. Both fresh blind reviewers
+reconstructed all inputs and the proof. The exact degree20 necessary
+filter has6680 congruence patterns,3043 excluded,3637 remaining.
+These counts do not solve degree20. See [accepted proof](notes/rational-witness-p-plus-one-reviewed-v1.2.md)
+and [acceptance](reviews/witness-acceptance.md). Novelty is unestablished.
+The later Newton packet, original reductions below, and source objections
+remain outside this acceptance.
+
 ## V1, 2026-10-16: integral witnesses and a local obstruction
 
 Status: **candidate proof - unverified**. Author: 2021 research owner. The

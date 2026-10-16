@@ -13,3 +13,5 @@ Both original reviewers independently re-audited the whole repaired theorem and 
 The coordinator read the initial findings and both full re-audits, checked frozen fingerprints, issue disposition and the exact scope, and accepted the partial results. Accepted copies in proofs/ change status annotations only. Frozen v1 is preserved at proofs/candidate-v1.md (originally proof.md); v2 and constructor v3 remain at their original paths. The current proof.md is a result register. No failed argument is silently relabelled valid.
 
 Immutable evidence scripts that check the original proof.md hash can be rerun using tools/reproduce_frozen_review.py, which copies the year to ignored local cache, restores the frozen proof there, records the child PID/timeout, and preserves the real reports and evidence. See computations/README.md for commands.
+
+The acceptance-time issue log is preserved byte-identically in reviews/acceptance-issues-snapshot.md; its original hash is unchanged. The live issue log may record later candidates.

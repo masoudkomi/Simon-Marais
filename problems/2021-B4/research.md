@@ -165,3 +165,18 @@ proof-register SHA-256 is
 `453cd604409526ddf7bd37a44b9d7f6a9d7f7173f4f7bc0b7a178affc3fd85a9`.
 The authoritative `get_usage_limits` readback at this checkpoint reported
 **4% total weekly used** in the 10080-minute window, below the 90% cutoff.
+
+## Coordinator integration, 2026-10-16
+
+The rational-witness Eisenstein restriction and finite filter are now
+**proved, independently reviewed (partial result)** after both fresh blind
+full reconstructions. See reviews/witness-acceptance.md. Presentation repairs
+are versioned separately; no mathematical repair was requested. This does
+not promote the original reductions or the later Newton packet.
+
+The later candidate Newton packet proposes long-edge rational-root bounds,
+a width-one derivative obstruction, complete height-free J17 compatibility
+exclusion and a J16 restriction in degree20. All29928 compatibility records
+and parameters are saved; the combined necessary filter leaves1164 patterns.
+These new claims remain unverified and solve no full degree. The first fresh
+adversarial audit is active; the second is pending.

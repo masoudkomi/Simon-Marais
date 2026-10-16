@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-16",
+  "accepted_at_utc": "2026-10-16T14:57:32.147390+00:00",
+  "status": "proved, independently reviewed (partial result)",
+  "scope": "Necessary valuation condition in degree p+1 for odd prime p under the exact rational-witness hypothesis; finite d20 filter",
+  "full_problem_status": "general rational-witness degree classification unresolved; no new full degree solved",
+  "novelty_established": false,
+  "initial_audits_blind": true,
+  "both_full_reconstructions": true,
+  "substantive_math_repairs_required": false,
+  "presentation_repairs": "newsletter printed pp31-32/PDF33-34; explicit (j!/d!)f^(d-j) monic derivative before reducing modp",
+  "presentation_repair_verifier": "coordinator; exact diff checked against both independent requests; no claim of additional independent re-audit",
+  "accepted_version": "v1.2 changes status annotations only from author v1.1",
+  "excluded_later_packet": "notes/padic-rational-newton-obstructions-v1.md",
+  "artifacts": {
+    "notes/rational-witness-p-plus-one-v1.md": "e9534a7759c68ed4388a3f1ff03857a14cf61c010b893527e1ddd83906fb72e6",
+    "notes/rational-witness-p-plus-one-v1.1.md": "ef87eebe1f49302f5e9af1ab0781b73bdb39de9763f7b75d60d5b6f746a9aa85",
+    "notes/rational-witness-p-plus-one-v1.1.diff": "722ebee36a0301ee07c2aad992719dfe460a6bc96db5597021bea15971d444ef",
+    "notes/rational-witness-p-plus-one-v1.1-repairs.md": "b1a54f069de5133516173251d7f2c7a2c5e10037f5aee91a1340139368666580",
+    "notes/rational-witness-p-plus-one-reviewed-v1.2.md": "fa71a4269a061b09ed74b3cd333b62c2ed7d3ffd39d1c28624a58a6d8fc18d09",
+    "reviews/witness-review-1.md": "6e9bb36718d0fd0c037a6011c564c905002b0d2d37e67ebdef75b67c53ff7ae3",
+    "reviews/witness-review-1-manifest.json": "788deb53068a66f1cda305f6f952192743c2e34d743fc39a8552d34890b46edf",
+    "reviews/witness-review-2.md": "2cb50425f3eda4862ddcf6e954972caf55bdf2f8f5a9823b5ca10a72b28fdbd1",
+    "reviews/witness-review-1-filter.py": "bff0e64785611cb8b0802e67649e24904db96aa7648d0ba00fb0483a3cc043e6",
+    "reviews/witness-review-1-filter.jsonl": "f13e0cbca3dd5f14b6c7d4bcb087f690a0d735e555f0af1ab4961b51b1c871e4",
+    "reviews/witness-review-2-filter.py": "c5f8cf23bef153d1eb8f839a5b719b865184bb88fd324ced329cf2051d32d307",
+    "reviews/witness-review-2-filter.jsonl": "2cba75925e88d47d6071c865f824bfd5d2f0f04f6b8090e6a86beedd967a6c8d",
+    "reviews/witness-acceptance-issues-snapshot.md": "eaf1bd701166ab296096ae7627197ade41b2164278798028a695526968fe36ef"
+  }
+}

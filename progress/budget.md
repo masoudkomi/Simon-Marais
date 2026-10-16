@@ -28,6 +28,7 @@ Recheck before launching each group, during sustained work, before expensive com
 | 2026-10-16 10:00:57 UTC | 2% | 98% | Eight initial checkpoints, last owner plus two independent full-candidate reviews active. |
 | 2026-10-16 10:08:30 UTC | 3% | 97% | All nine initial passes complete; 2023 audits integrated; further independent audits active. Same reset. |
 | 2026-10-16 10:42:59 UTC | 5% | 95% | Same reset; reviewed partials integrated, focused research and fresh reviews continue. |
+| 2026-10-16 14:53:40 UTC | 7% | 93% | Host tool delay returned; workers saved deeper checkpoints; fresh audits and integration continue. Same reset. |
 
 User clarification during the initial group: investigate only the explicitly open portion of B4. This narrows mathematical targets, not the weekly cutoff.
 

@@ -1,0 +1,9 @@
+# Coordinator acceptance: exact whole-phi13 criterion
+
+2026-10-16. **Proved, independently reviewed (partial result).** The coordinator read both complete fresh blind initial reports and verified the exact frozen input fingerprints. Both reviewers reconstructed the entire argument and independently rebuilt every operator column, reachable subspace, transition, output and quotient class. Neither constructed the proof. No substantive objection or mathematical repair remains.
+
+The exact accepted theorem is: for odd n>=3, phi13 divides phi_n over F2[x,y,z] if and only if n=(64*16^m+1)/5 for an integer m>=0. The finite certificate is a transition-closed 48-state machine with the proved least-significant-bit language 101(0011)*0*. The general Cartier invariant and closed graph prove the unrestricted claim; coefficient scans are supplementary evidence. Injectivity, monic integrality and normality separately establish the necessary actual-to-formal divisibility direction.
+
+For m>=1 the factor degrees are 10 and n-13 and meet B4(b). At m=0 the cofactor is 1. Rejection by this automaton excludes only the whole divisor phi13. Other possible factors and the full classification remain unresolved. Novelty is not established; related Férard full-text attribution remains unread and is not a premise of this self-contained proof.
+
+Frozen v1 and both reports remain unchanged. Accepted v1.1 changes status annotations only. R1's initial checker overasserted the size of an unminimized regex machine (nine states before minimization); the failed attempt is retained and the corrected whole run passed. R2 requests no repair. Complete exact scripts, outputs, timeouts/PIDs and evidence manifests remain available. Fingerprints and the acceptance-time issue snapshot are in criterion-acceptance.json. Later phi7/phi11 probes are not covered by these audits.

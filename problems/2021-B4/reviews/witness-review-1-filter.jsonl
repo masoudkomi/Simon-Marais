@@ -1,0 +1,14 @@
+{"command": ["/Users/uqmkamga/Documents/ChatGPT/Website/.venv/bin/python", "/Users/uqmkamga/Documents/ChatGPT/Website/problems/2021-B4/reviews/witness-review-1-filter.py", "--child"], "event": "launch", "parent_pid": 16336, "python": "3.12.14", "source_sha256": "bff0e64785611cb8b0802e67649e24904db96aa7648d0ba00fb0483a3cc043e6", "timeout_seconds": 30}
+{"event": "child", "pid": 16342}
+{"binomial_quotient_residues": [10, 3, 8, 18, 7, 14, 18, 5, 15, 5, 18, 14, 7, 18, 8, 3, 10], "choices": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18], "d": 20, "event": "parameters", "normalized_monic_derivative": "P_j=sum_k binom(j,k) a_k x**(j-k)", "p": 19, "patterns": 131072, "test": "exact integer f(1) divisible by p**2"}
+{"event": "checkpoint", "passing": 747, "visited": 16384}
+{"event": "checkpoint", "passing": 1598, "visited": 32768}
+{"event": "checkpoint", "passing": 2418, "visited": 49152}
+{"event": "checkpoint", "passing": 3244, "visited": 65536}
+{"event": "checkpoint", "passing": 4104, "visited": 81920}
+{"event": "checkpoint", "passing": 4934, "visited": 98304}
+{"event": "checkpoint", "passing": 5769, "visited": 114688}
+{"event": "checkpoint", "passing": 6680, "visited": 131072}
+{"a18_nonzero": 3043, "a18_residue_histogram": {"0": 3637, "1": 182, "10": 164, "11": 175, "12": 198, "13": 179, "14": 163, "15": 199, "16": 176, "17": 162, "18": 136, "2": 160, "3": 171, "4": 142, "5": 190, "6": 179, "7": 146, "8": 187, "9": 134}, "a18_zero": 3637, "canonical_survivor_mask_residue_sha256": "a50958cec7910ce28e51381be52a075e1732844323eb675c7793d77f3f3d38bd", "event": "result", "passing": 6680, "rejected": 124392, "samples": {"a18_nonzero": [{"a_mod_p": [1, 18, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 0, 0, 2, 0, 0, 11, 17], "center_indices": [11, 14, 17, 18], "f_one": -3431791989, "mask": 102912}, {"a_mod_p": [1, 18, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 0, 0, 2, 14, 8, 4, 16], "center_indices": [11, 14, 15, 16, 17, 18], "f_one": -268579668, "mask": 127488}, {"a_mod_p": [1, 18, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 0, 11, 0, 10, 4, 0, 6], "center_indices": [11, 13, 15, 16, 18], "f_one": 8392301292, "mask": 92672}], "a18_zero": [{"a_mod_p": [1, 18, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 2, 10, 7, 2, 0, 0], "center_indices": [12, 13, 14, 15, 16], "f_one": 34136882, "mask": 31744}, {"a_mod_p": [1, 18, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 2, 10, 7, 2, 0, 0], "center_indices": [12, 13, 14, 15, 16, 17], "f_one": -19081738, "mask": 64512}, {"a_mod_p": [1, 18, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 0, 0, 2, 0, 4, 0, 0], "center_indices": [11, 14, 16], "f_one": 1758277936, "mask": 20992}]}, "visited": 131072}
+{"event": "assertions", "status": "all passed; necessary filter only, no lifting or classification"}
+{"event": "completion", "returncode": 0, "seconds": 0.3772792919771746, "timed_out": false}

@@ -1,9 +1,9 @@
 # 2021 B4 issue log
 
-No candidate has yet received independent review. The coordinator was notified
-that V1 reductions and the restricted compatibility argument need two fresh
-adversarial reviewers before any promotion. The items below are outstanding
-research limitations, not concealed proof repairs.
+The rational-witness Eisenstein restriction and its finite filter have
+passed two fresh blind full reconstructions and are accepted as partial
+results. The original reductions, source objections and later Newton
+packet retain separate unverified labels. No full degree is solved.
 
 | ID | Version / location | Objection | Severity | Repair / evidence | Re-review | Status |
 |---|---|---|---|---|---|---|
@@ -16,5 +16,7 @@ research limitations, not concealed proof repairs.
 | 2021-007 | notes/ghosh-full-context-audit-v1.md; Ghosh Lemma4.5 after4.23 | Polynomial unit over Artinian quotient does not force its nilpotent leading coefficient to vanish; coefficient descent drops a term known only to lie in p, not in I. | Candidate substantive source objection | Exact ambient identity and stronger local minors model with expected codimension and generator count saved. Neither example is the specialized derivative family; no theorem counterexample claimed. A specialized repair was not identified. | Two fresh independent audits needed; current worker is co-constructor | Open |
 | 2021-008 | Ghosh Proposition3.3, PDFp9 | Nonzero localization after inverting t does not imply t was a non-zero-divisor. | Candidate source objection | Explicit quotient examples saved in source-audit note. Specialized torsion-freeness remains unresolved. | Two fresh independent audits needed | Open |
 | 2021-009 | Ghosh Lemma3.7, PDFp12 | Fiber of total projective incidence closure need not equal projective closure of the affine fiber; finite affine fiber does not exclude escaping points. | Candidate source objection | Explicit map b->(b,b²) and escaping family saved. Not embedded in paper's Abel-Gontcharoff map. | Two fresh independent audits needed | Open |
-| 2021-010 | notes/rational-witness-p-plus-one-v1.md | Eisenstein residual-factor restriction and its degree20 pattern filter have not received required independent audits. | Candidate partial lemma / computation | Published recycled-root theorem checked exactly; 131072 binary patterns give6680 congruence survivors, then3043 excluded conditionally and3637 remain. No degree solved. | Two fresh independent audits needed | Open |
+| 2021-010 | notes/rational-witness-p-plus-one-v1.md | Residual-factor restriction and degree20 filter needed two independent audits. | Review gate | Both blind full reconstructions and distinct computations accepted; author repaired page locator and explicit monic derivative notation. No mathematical repair requested. | witness-review-1.md and witness-review-2.md; coordinator checked presentation repairs. | Closed; accepted partial result |
 | 2021-011 | Massri arXiv1806.09561v6 Theorem7.10 | Claimed three-recycled-root exclusion requires audit of computation, degeneracies and saturation before relying on it. | Source / computation limitation | Primary active v6 located; earlier withdrawn versions distinguished; coordinator cached full PDF. | Not performed in this pass | Open |
+
+| 2021-012 | notes/padic-rational-newton-obstructions-v1.md | General Newton-edge lemmas and J17/J16 exclusions need independent reconstruction, exhaustive case coverage and modular certificate verification. | Promotion blocker | Frozen packet and all29928 exact compatibility records saved;1164 necessary patterns remain. | newton-review-1 active; fresh R2 pending. | Open; unverified |

@@ -1,0 +1,24 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "-u",
+    "problems/2019-B4/computations/secondpass-full-obstruction-probe.py",
+    "--initial-probe",
+    "problems/2019-B4/computations/secondpass-probe20.json",
+    "--max-n",
+    "24",
+    "--state-cap",
+    "1000000",
+    "--output",
+    "problems/2019-B4/computations/secondpass-full-obstruction24.json"
+  ],
+  "timeout_seconds": 60.0,
+  "cwd": "/Users/uqmkamga/Documents/ChatGPT/Website",
+  "started_utc": "2026-10-16T11:32:37.341471+00:00",
+  "runner_pid": 19926,
+  "status": "complete",
+  "child_pid": 19927,
+  "returncode": 0,
+  "elapsed_seconds": 2.0651739159948193,
+  "finished_utc": "2026-10-16T11:32:39.408800+00:00"
+}

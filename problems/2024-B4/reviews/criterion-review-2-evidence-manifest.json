@@ -1,0 +1,55 @@
+{
+  "blindness": {
+    "author_program_bytes_hashed_only": true,
+    "author_program_sources_read_imported_or_executed": false,
+    "earlier_family_proof_or_reviews_used": false,
+    "other_review_contents_or_conclusions_seen": false
+  },
+  "completed_utc": "2026-10-16T10:59:37.019638+00:00",
+  "final_checks": {
+    "commits_or_pushes": false,
+    "other_files_modified_by_reviewer": false,
+    "owned_text_trailing_whitespace": false,
+    "shared_files_modified": false
+  },
+  "finite_run": {
+    "completed_and_reaped": true,
+    "external_timeout_seconds": 45,
+    "no_native_CAS": true,
+    "pid": 17043,
+    "returncode": 0
+  },
+  "inputs_sha256": {
+    ".cache/official/2024-paper_b.pdf": "1401f21218ad4c387c4d537ed8fd7de119b376cba52957ef788c772dc5ab4ddc",
+    "AGENTS.md": "32ce511aab27061680c98197793b5a9b3ee03a421c822868fad69ea525816257",
+    "problems/2024-B4/computations/zero-automaton-v1-graph.json": "ee818f60e68da70ae2f0f7fa84a2c4dec740d10d03908359a271e354a1a0ce4e",
+    "problems/2024-B4/notes/zero-automaton-certificate-v1.md": "b384ed3c0b51572e729b1e5486847ebcc5d964f4afa64c43e60a76910ad0ddd3",
+    "problems/2024-B4/notes/zero-automaton-criterion-v1.md": "59e3bb1f9aba8162ea5b79f0ccec5f56b6f2cb0cc7917cfe81f4aff196ff6ab4",
+    "problems/2024-B4/notes/zero-automaton-v1-manifest.json": "41fef0ca55da72d8efc8fb04f3b0180f77fc43edf28b276a87f7bd033b6687f2",
+    "problems/2024-B4/statement.md": "60244f7752634772adb434efbdb41a63fb02029dc3be4238f3718c6e5ec84e5f"
+  },
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "review_artifacts_sha256": {
+    "problems/2024-B4/reviews/criterion-review-2-check.json": "53fd12a22ee88dace2d7bdcbd2b87b85929434f90784c169b71f2b40e300eb93",
+    "problems/2024-B4/reviews/criterion-review-2-check.py": "7c3c544b3cd6c85a4c11f106c3900013748ed1f6fd5e080ffae5294bef99c8bd",
+    "problems/2024-B4/reviews/criterion-review-2-official-page2.png": "51e04cc9db0fe91ded39b2ed624ada5601566c02e6fee49e2f3f34cebf44a989",
+    "problems/2024-B4/reviews/criterion-review-2-run.json": "80c937e6e1aec24fac943ad81a4999cee4b3b18da7a86389ad7aa3cb76beb91f",
+    "problems/2024-B4/reviews/criterion-review-2-run.py": "886f918e4bf9e046e500c4662472b388b7aabbd025642ce89e7c1c16b401e8c1",
+    "problems/2024-B4/reviews/criterion-review-2-stderr.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "problems/2024-B4/reviews/criterion-review-2-stdout.txt": "980d1ae6701053d7cb4cf1556b5438d696cdba69debfb32e10800c73f23e7053",
+    "problems/2024-B4/reviews/criterion-review-2.md": "e7462e930e2bcf297b0217f5a537044bb35ce1f21aa94fc461e7967f552bdf13"
+  },
+  "reviewer": "R2; independent blind initial audit",
+  "scope": "2024 B4(b), whole phi13 fixed divisor only; no full reducibility or novelty claim",
+  "telemetry": {
+    "source": "authoritative get_usage_limits; account-wide codex primary",
+    "stop_threshold_percent": 90,
+    "used_percent_total_weekly": 5,
+    "window_duration_mins": 10080
+  },
+  "verdict": "No substantive objections identified; recommend acceptance of exact fixed-divisor criterion after coordinator reconciliation; no promotion by reviewer",
+  "verified_effective_settings": null
+}

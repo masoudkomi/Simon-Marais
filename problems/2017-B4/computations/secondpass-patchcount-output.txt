@@ -1,0 +1,18 @@
+Python 3.12.14; standard library only
+oracle_sha256=fad09183304a8af4735475b2638d81bbf810e101b686bfee74bcbde65ad6590b
+Exact finite evidence; candidate boundary-fiber theorem not thereby proved
+n=1 paired_words=1 canonical_boundary_words=1 all_cut_counts_equal_fiber_counts=True memo_states=2
+n=2 paired_words=3 canonical_boundary_words=2 all_cut_counts_equal_fiber_counts=True memo_states=4
+n=3 paired_words=15 canonical_boundary_words=5 all_cut_counts_equal_fiber_counts=True memo_states=9
+n=4 paired_words=105 canonical_boundary_words=17 all_cut_counts_equal_fiber_counts=True memo_states=26
+n=5 paired_words=945 canonical_boundary_words=79 all_cut_counts_equal_fiber_counts=True memo_states=105
+n=6 paired_words=10395 canonical_boundary_words=554 all_cut_counts_equal_fiber_counts=True memo_states=659
+n=7 paired_words=135135 canonical_boundary_words=5283 all_cut_counts_equal_fiber_counts=True memo_states=5942
+MacMahon sizes=(1, 1, 1) count=2 equality=True memo_states=5942
+MacMahon sizes=(1, 2, 3) count=10 equality=True memo_states=5942
+MacMahon sizes=(2, 2, 2) count=20 equality=True memo_states=5942
+MacMahon sizes=(2, 2, 3) count=50 equality=True memo_states=5942
+MacMahon sizes=(3, 3, 3) count=980 equality=True memo_states=5943
+MacMahon sizes=(2, 3, 4) count=490 equality=True memo_states=5944
+same_strands_same_crossing_count_different_patch_counts 4 3 [(1, (0, 1, 0, 2, 1, 3, 2, 3)), (2, (0, 0, 1, 2, 3, 1, 2, 3))]
+COMPLETE

@@ -1,0 +1,65 @@
+{
+  "review": "criterion-review-1",
+  "candidate_status": "candidate proof - unverified; promotion reserved to coordinator after both independent audits",
+  "blind_initial_report_complete": true,
+  "other_reviews_or_conclusions_seen": false,
+  "review_finding": "No substantive objection found to the exact whole-phi_13 criterion or the stated partial B4(b) consequence",
+  "open_substantive_candidate_issues": [],
+  "challenged_and_resolved": [
+    {
+      "id": "R1-C01",
+      "subject": "Official scope, coefficientwise polynomial equality, and boundary cases",
+      "resolution": "Official B4(b) verified; theorem excludes n=1; n=3 rejected; n=13 unit cofactor explicitly caveated; positive-degree cofactor for m>=1. No complete reducibility classification inferred."
+    },
+    {
+      "id": "R1-C02",
+      "subject": "Generating functions, P5, and signs in characteristic two",
+      "resolution": "Whole generating argument reconstructed, and elementary symmetric coefficients/P5/actual phi13 identity independently checked by exact support multiplication."
+    },
+    {
+      "id": "R1-C03",
+      "subject": "Localization could lose q=0 or d=0 divisibility",
+      "resolution": "A is primitive irreducible linear in u and prime in UFD S; A divides neither q nor d, hence the principal ideal is saturated under localization."
+    },
+    {
+      "id": "R1-C04",
+      "subject": "Laurent negative exponents and infinite series support",
+      "resolution": "Work coefficientwise in F2[b,b^-1][[z]], each coefficient finite, K unit at z=0. Cartier pull-out identity follows by finite coefficient convolution; parity convention explicitly checked on b^-1."
+    },
+    {
+      "id": "R1-C05",
+      "subject": "Both b-sections, finite-space bounds, and automaton invariant",
+      "resolution": "Even and odd Laurent supports are disjoint. F2 spans preserve all vanishing conditions. Multiplication and section bounds close the 16-dimensional space; whole least-significant-first invariant reconstructed."
+    },
+    {
+      "id": "R1-C06",
+      "subject": "Finite graph closure, equality of subspaces, table transcription",
+      "resolution": "Fresh support-set checker built complete-vector subspaces without Gaussian elimination; all 64 columns, 48 distinct spaces, 96 transitions, outputs, reduced-basis conditions and readable tables matched."
+    },
+    {
+      "id": "R1-C07",
+      "subject": "Quotient classes, language inclusions, digit order and leading zeros",
+      "resolution": "All class members and transitions checked; independent refinement yields same eight groups; a closed product with a regex-derived epsilon NFA proves all-word equivalence. Canonical LSB-first words end in 1, giving j=(32*16^m-7)/5."
+    },
+    {
+      "id": "R1-C08",
+      "subject": "Actual-to-formal whole-divisor descent and characteristic-two algebraic independence",
+      "resolution": "Distinct integer leading-exponent vectors prove injection even though determinant is 4. Monic degree-eight identities make T integral over normal polynomial subring S. Quotient Pj/A lies in Frac(S) and is integral, hence is in S. No assertion about individual split factors is needed."
+    },
+    {
+      "id": "R1-C09",
+      "subject": "Finite recurrence evidence mistaken for unrestricted proof",
+      "resolution": "Scan through j=65535 recorded as evidence only. Unrestricted result follows from the proved general invariant and verified closed graph/language."
+    }
+  ],
+  "reviewer_checker_development": [
+    {
+      "id": "R1-D01",
+      "status": "corrected; failed attempt preserved",
+      "issue": "First checker overasserted that the literal regex NFA's subset construction already had eight states.",
+      "cause": "It has nine states before minimization because prefix B and loop B are equivalent but distinct.",
+      "repair": "Retain exact output agreement on every reachable closed product state as the equivalence test, without assuming that subset construction is already minimal.",
+      "candidate_implication": "None. All product output checks and candidate graph/quotient checks passed before the mistaken reviewer cardinality assertion."
+    }
+  ]
+}

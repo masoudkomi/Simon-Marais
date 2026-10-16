@@ -7,3 +7,5 @@ The accepted assertion is phi_13 | phi_n in F2[x,y,z] for n=(64*16^m+1)/5 and ev
 R1 independently expanded the symbolic identities by multinomial coefficients and checked localization descent, digit induction, degree and nonvanishing. R2 independently used GF(2) polynomial arithmetic and reconstructed all those arguments. Their complete reports, distinct evidence programs, successful outputs, R2's preserved initial harness failure, and source checks are retained. The failed harness attempt was a canonical-representation issue, not a mathematical counterexample; the final independent run passed.
 
 Frozen v1 remains unchanged. The accepted v1.1 copy changes only its title and status paragraph; the rest is byte-identical. Exact hashes are in family-acceptance.json. Issues 24-006 and 24-008 are closed for this family. The initial invariant package and any later zero-automaton candidate are not globally promoted by this acceptance.
+
+The acceptance-time issue log is preserved byte-identically in reviews/family-acceptance-issues-snapshot.md; its original hash is unchanged. The live issue log may record later candidates.

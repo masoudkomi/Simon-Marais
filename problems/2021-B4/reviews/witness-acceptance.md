@@ -1,0 +1,9 @@
+# Coordinator acceptance: rational-witness degree-p+1 restriction
+
+2026-10-16. **Proved, independently reviewed (partial result).** The coordinator read both complete fresh blind initial reports. Both reconstructed the rational affine/p-adic normalization, published multiplicity and recycled-witness inputs, residual-degree argument and no-rational-root consequence. Neither constructed the candidate. Distinct independent algorithms reproduced all19 residue-histogram entries and counts6680/3043/3637. No substantive mathematical objection or mathematical repair was requested.
+
+The accepted claim is v_p(c_m)>=2 for the first nonzero coefficient at the multiple root0 in the stated degree-p+1 normalization, odd prime p, of a hypothetical nontrivial polynomial with rational derivative witnesses. It does not assume all roots rational. The finite degree20 filter excludes3043 of6680 necessary congruence selections, leaving3637; this is not a degree20 solution, liftability claim or a classification of degrees. Published ingredients remain attributed; novelty is unestablished.
+
+Both reports requested the same two presentation clarifications. The author preserved frozen v1, corrected Proposition6's printed-page locator and explicitly defined the monic derivative (j!/d!)f^(d-j) in v1.1. The coordinator checked the exact repair diff against both requests; the intended normalization was already reconstructed and accepted independently in both initial reports. No additional independent re-audit is claimed. Accepted v1.2 changes only status annotations. Exact fingerprints and the acceptance-time issue snapshot are in witness-acceptance.json.
+
+The separate later Newton-edge/certificate packet and all source-proof objections remain unverified and outside this acceptance. No general Casas-Alvero proof claim is validated here.

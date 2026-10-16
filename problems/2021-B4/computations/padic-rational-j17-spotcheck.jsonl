@@ -1,0 +1,16 @@
+{"command": ["/Users/uqmkamga/Documents/ChatGPT/Website/.venv/bin/python", "/Users/uqmkamga/Documents/ChatGPT/Website/problems/2021-B4/computations/padic-rational-j17-spotcheck.py", "--worker"], "event": "child_started", "pid": 18594, "timeout_seconds": 30}
+{"event": "parameters", "method": "direct Hasse recurrence for c_k, then exact QQ gcd", "pid": 18594, "python": "3.12.14", "selected_records": [0, 1, 4, 209, 7078, 16626, 19684, 29429, 29614, 29896, 29917, 29927], "sympy": "1.14.0"}
+{"center_mask": 129056, "event": "certificate_checked", "exact_QQ_gcd": "1", "index": 0, "polynomial_hash_matches": true, "u_mask": 0}
+{"center_mask": 129056, "event": "certificate_checked", "exact_QQ_gcd": "1", "index": 1, "polynomial_hash_matches": true, "u_mask": 1024}
+{"center_mask": 129056, "event": "certificate_checked", "exact_QQ_gcd": "1", "index": 4, "polynomial_hash_matches": true, "u_mask": 256}
+{"center_mask": 129056, "event": "certificate_checked", "exact_QQ_gcd": "1", "index": 209, "polynomial_hash_matches": true, "u_mask": 1100}
+{"center_mask": 114708, "event": "certificate_checked", "exact_QQ_gcd": "1", "index": 7078, "polynomial_hash_matches": true, "u_mask": 6440}
+{"center_mask": 104449, "event": "certificate_checked", "exact_QQ_gcd": "1", "index": 16626, "polynomial_hash_matches": true, "u_mask": 8596}
+{"center_mask": 125473, "event": "certificate_checked", "exact_QQ_gcd": "1", "index": 19684, "polynomial_hash_matches": true, "u_mask": 280}
+{"center_mask": 122895, "event": "certificate_checked", "exact_QQ_gcd": "1", "index": 29429, "polynomial_hash_matches": true, "u_mask": 5680}
+{"center_mask": 112335, "event": "certificate_checked", "exact_QQ_gcd": "1", "index": 29614, "polynomial_hash_matches": true, "u_mask": 2304}
+{"center_mask": 116159, "event": "certificate_checked", "exact_QQ_gcd": "1", "index": 29896, "polynomial_hash_matches": true, "u_mask": 0}
+{"center_mask": 116159, "event": "certificate_checked", "exact_QQ_gcd": "1", "index": 29917, "polynomial_hash_matches": true, "u_mask": 10304}
+{"center_mask": 116159, "event": "certificate_checked", "exact_QQ_gcd": "1", "index": 29927, "polynomial_hash_matches": true, "u_mask": 14912}
+{"all_passed": true, "checked": 12, "event": "complete", "scope": "author spot-check only, not independent review"}
+{"event": "child_finished", "exit_code": 0, "pid": 18594}

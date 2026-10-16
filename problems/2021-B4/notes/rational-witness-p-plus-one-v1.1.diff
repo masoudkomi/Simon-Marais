@@ -1,0 +1,38 @@
+--- rational-witness-p-plus-one-v1.md
++++ rational-witness-p-plus-one-v1.1.md
+@@ -1,6 +1,6 @@
+ # A rational-witness restriction in degree p+1
+ 
+-2026-10-16. **Candidate proof - unverified.** This is a partial necessary
++2026-10-16, version 1.1 (presentation repairs). **Candidate proof - unverified.** This is a partial necessary
+ condition for the open B4(b) problem, not a classification of degrees. It
+ requires two independent adversarial audits before any promotion. The
+ existing `proof.md` mathematical body is unchanged. No novelty claim is made.
+@@ -19,7 +19,7 @@
+ 2. Draisma and de Jong,
+    [*On the Casas-Alvero conjecture*](https://www.ems-ph.org/journals/newsletter/pdf/2011-06-80.pdf),
+    EMS Newsletter 80 (June 2011), printed pp. 29-33. Proposition 6 on printed
+-   pp. 32-33 states that the chosen shared roots for all derivatives cannot
++   pp. 31-32 (PDF pages 33-34, one-based) states that the chosen shared roots for all derivatives cannot
+    form a set of exactly two values; the adjacent sentence observes that a
+    single value gives a pure power. It attributes the observation to Draisma
+    and Knopper. CLO §1.2 defines type(f) as the minimum size of a covering set
+@@ -57,6 +57,18 @@
+ whole root set are the published facts used; no integrality of all algebraic
+ root valuations is assumed. In particular rational witnesses other than 1
+ are in p Z_(p), because a rational number's p-adic valuation is an integer.
++
++Define the normalized degree-j derivative explicitly by
++
++    D_j(x)=(j!/d!) f^(d-j)(x)
++          =H_(d-j)(f)(x)/binom(d,j)
++          =sum_(k=0)^j binom(j,k) a_k x^(j-k),
++    a_0=1,  a_1=-1,  2<=j<=d-2.
++
++The last expression shows that D_j has p-integral coefficients. Its roots
++are the same as those of f^(d-j), since the scalar is nonzero over Q. Thus
++modulo-p reduction below applies to D_j itself; it does not divide by a
++nonunit after reduction.
+ 
+ For 2<=j<=d-2=p-1, the binomial coefficient binom(d,j) has valuation exactly
+ 1. Thus f has p-integral coefficients and

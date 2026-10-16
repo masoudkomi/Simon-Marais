@@ -1,0 +1,409 @@
+{
+  "status": "finite computational evidence only",
+  "rows": [
+    {
+      "moves": 0,
+      "histories": 1,
+      "contexts": 1,
+      "new_minimal_forbidden": 0
+    },
+    {
+      "moves": 1,
+      "histories": 2,
+      "contexts": 2,
+      "new_minimal_forbidden": 0
+    },
+    {
+      "moves": 2,
+      "histories": 4,
+      "contexts": 4,
+      "new_minimal_forbidden": 0
+    },
+    {
+      "moves": 3,
+      "histories": 8,
+      "contexts": 8,
+      "new_minimal_forbidden": 0
+    },
+    {
+      "moves": 4,
+      "histories": 16,
+      "contexts": 15,
+      "new_minimal_forbidden": 1
+    },
+    {
+      "moves": 5,
+      "histories": 32,
+      "contexts": 28,
+      "new_minimal_forbidden": 0
+    },
+    {
+      "moves": 6,
+      "histories": 64,
+      "contexts": 52,
+      "new_minimal_forbidden": 0
+    },
+    {
+      "moves": 7,
+      "histories": 128,
+      "contexts": 96,
+      "new_minimal_forbidden": 0
+    },
+    {
+      "moves": 8,
+      "histories": 256,
+      "contexts": 177,
+      "new_minimal_forbidden": 0
+    },
+    {
+      "moves": 9,
+      "histories": 512,
+      "contexts": 326,
+      "new_minimal_forbidden": 0
+    },
+    {
+      "moves": 10,
+      "histories": 1024,
+      "contexts": 600,
+      "new_minimal_forbidden": 0
+    },
+    {
+      "moves": 11,
+      "histories": 2048,
+      "contexts": 1104,
+      "new_minimal_forbidden": 0
+    },
+    {
+      "moves": 12,
+      "histories": 4096,
+      "contexts": 2030,
+      "new_minimal_forbidden": 1
+    },
+    {
+      "moves": 13,
+      "histories": 8192,
+      "contexts": 3732,
+      "new_minimal_forbidden": 0
+    },
+    {
+      "moves": 14,
+      "histories": 16384,
+      "contexts": 6858,
+      "new_minimal_forbidden": 2
+    },
+    {
+      "moves": 15,
+      "histories": 32768,
+      "contexts": 12600,
+      "new_minimal_forbidden": 0
+    },
+    {
+      "moves": 16,
+      "histories": 65536,
+      "contexts": 23144,
+      "new_minimal_forbidden": 3
+    },
+    {
+      "moves": 17,
+      "histories": 131072,
+      "contexts": 42504,
+      "new_minimal_forbidden": 2
+    },
+    {
+      "moves": 18,
+      "histories": 262144,
+      "contexts": 78048,
+      "new_minimal_forbidden": 4
+    },
+    {
+      "moves": 19,
+      "histories": 524288,
+      "contexts": 143296,
+      "new_minimal_forbidden": 8
+    },
+    {
+      "moves": 20,
+      "histories": 1048576,
+      "contexts": 263068,
+      "new_minimal_forbidden": 6
+    }
+  ],
+  "relations": [
+    {
+      "left": "AD",
+      "right": "DA",
+      "left_tapes": [
+        "01",
+        "01"
+      ],
+      "right_tapes": [
+        "01",
+        "01"
+      ],
+      "equal": true
+    },
+    {
+      "left": "BCB",
+      "right": "ABD",
+      "left_tapes": [
+        "010",
+        "101"
+      ],
+      "right_tapes": [
+        "010",
+        "101"
+      ],
+      "equal": true
+    },
+    {
+      "left": "CBC",
+      "right": "DCA",
+      "left_tapes": [
+        "101",
+        "010"
+      ],
+      "right_tapes": [
+        "101",
+        "010"
+      ],
+      "equal": true
+    },
+    {
+      "left": "ACBBCD",
+      "right": "DBCCBA",
+      "left_tapes": [
+        "011001",
+        "011001"
+      ],
+      "right_tapes": [
+        "011001",
+        "011001"
+      ],
+      "equal": true
+    }
+  ],
+  "minimal_forbidden": [
+    {
+      "larger": "RRLL",
+      "smaller": "LLRR",
+      "tapes": [
+        "01",
+        "01"
+      ]
+    },
+    {
+      "larger": "RRLRRLRLLRLL",
+      "smaller": "LLRLLRLRRLRR",
+      "tapes": [
+        "011001",
+        "011001"
+      ]
+    },
+    {
+      "larger": "RRLRRLRLLLLRLL",
+      "smaller": "LLRLLLLRLRRLRR",
+      "tapes": [
+        "01101001",
+        "011001"
+      ]
+    },
+    {
+      "larger": "RRLRRRRLRLLRLL",
+      "smaller": "LLRLLRLRRRRLRR",
+      "tapes": [
+        "011001",
+        "01101001"
+      ]
+    },
+    {
+      "larger": "RRLRRLRLLLLLLRLL",
+      "smaller": "LLRLLLLLLRLRRLRR",
+      "tapes": [
+        "0110101001",
+        "011001"
+      ]
+    },
+    {
+      "larger": "RRLRRRRLRLLLLRLL",
+      "smaller": "LLRLLLLRLRRRRLRR",
+      "tapes": [
+        "01101001",
+        "01101001"
+      ]
+    },
+    {
+      "larger": "RRLRRRRRRLRLLRLL",
+      "smaller": "LLRLLRLRRRRRRLRR",
+      "tapes": [
+        "011001",
+        "0110101001"
+      ]
+    },
+    {
+      "larger": "RRLRRLRLLRLRLLRLL",
+      "smaller": "LLRLLRLRLLRLRRLRR",
+      "tapes": [
+        "011000110",
+        "01100110"
+      ]
+    },
+    {
+      "larger": "RRLRRLRLRRLRLLRLL",
+      "smaller": "LLRLLRLRRLRLRRLRR",
+      "tapes": [
+        "01100110",
+        "011000110"
+      ]
+    },
+    {
+      "larger": "RRLRRLRLLLLLLLLRLL",
+      "smaller": "LLRLLLLLLLLRLRRLRR",
+      "tapes": [
+        "011010101001",
+        "011001"
+      ]
+    },
+    {
+      "larger": "RRLRRRRLRLLLLLLRLL",
+      "smaller": "LLRLLLLLLRLRRRRLRR",
+      "tapes": [
+        "0110101001",
+        "01101001"
+      ]
+    },
+    {
+      "larger": "RRLRRRRRRLRLLLLRLL",
+      "smaller": "LLRLLLLRLRRRRRRLRR",
+      "tapes": [
+        "01101001",
+        "0110101001"
+      ]
+    },
+    {
+      "larger": "RRLRRRRRRRRLRLLRLL",
+      "smaller": "LLRLLRLRRRRRRRRLRR",
+      "tapes": [
+        "011001",
+        "011010101001"
+      ]
+    },
+    {
+      "larger": "RRLRRLRLLLLRLRLLRLL",
+      "smaller": "LLRLLLLRLRLLRLRRLRR",
+      "tapes": [
+        "01101000110",
+        "01100110"
+      ]
+    },
+    {
+      "larger": "RRLRRLRLLLRRLRLLRLL",
+      "smaller": "LLRLLLLRLRRLRLRRLRR",
+      "tapes": [
+        "0110100110",
+        "011000110"
+      ]
+    },
+    {
+      "larger": "RRLRRLRLLRLRLLLLRLL",
+      "smaller": "LLRLLRLRLLLLRLRRLRR",
+      "tapes": [
+        "01100010110",
+        "01100110"
+      ]
+    },
+    {
+      "larger": "RRLRRLRLLRRRLRLLRLL",
+      "smaller": "LLRLLRLRLLRLRRRRLRR",
+      "tapes": [
+        "011000110",
+        "0110010110"
+      ]
+    },
+    {
+      "larger": "RRLRRLRLRRLRLLLLRLL",
+      "smaller": "LLRLLRLLLRRLRLRRLRR",
+      "tapes": [
+        "0110010110",
+        "011000110"
+      ]
+    },
+    {
+      "larger": "RRLRRLRLRRRRLRLLRLL",
+      "smaller": "LLRLLRLRRLRLRRRRLRR",
+      "tapes": [
+        "01100110",
+        "01100010110"
+      ]
+    },
+    {
+      "larger": "RRLRRRRLRLLRLRLLRLL",
+      "smaller": "LLRLLRLRLLRRRLRRLRR",
+      "tapes": [
+        "011000110",
+        "0110100110"
+      ]
+    },
+    {
+      "larger": "RRLRRRRLRLRRLRLLRLL",
+      "smaller": "LLRLLRLRRRRLRLRRLRR",
+      "tapes": [
+        "01100110",
+        "01101000110"
+      ]
+    },
+    {
+      "larger": "RRLRRLRLLLLLLLLLLRLL",
+      "smaller": "LLRLLLLLLLLLLRLRRLRR",
+      "tapes": [
+        "01101010101001",
+        "011001"
+      ]
+    },
+    {
+      "larger": "RRLRRLRLLRLRRLRLLRLL",
+      "smaller": "LLRLLRLRRLRLLRLRRLRR",
+      "tapes": [
+        "0110011001",
+        "0110011001"
+      ]
+    },
+    {
+      "larger": "RRLRRRRLRLLLLLLLLRLL",
+      "smaller": "LLRLLLLLLLLRLRRRRLRR",
+      "tapes": [
+        "011010101001",
+        "01101001"
+      ]
+    },
+    {
+      "larger": "RRLRRRRRRLRLLLLLLRLL",
+      "smaller": "LLRLLLLLLRLRRRRRRLRR",
+      "tapes": [
+        "0110101001",
+        "0110101001"
+      ]
+    },
+    {
+      "larger": "RRLRRRRRRRRLRLLLLRLL",
+      "smaller": "LLRLLLLRLRRRRRRRRLRR",
+      "tapes": [
+        "01101001",
+        "011010101001"
+      ]
+    },
+    {
+      "larger": "RRLRRRRRRRRRRLRLLRLL",
+      "smaller": "LLRLLRLRRRRRRRRRRLRR",
+      "tapes": [
+        "011001",
+        "01101010101001"
+      ]
+    }
+  ],
+  "parameters": {
+    "max_moves": 20,
+    "state_cap": 1048576,
+    "output": "problems/2019-B4/computations/secondpass-probe20.json"
+  },
+  "elapsed_seconds": 4.8011102080054116
+}

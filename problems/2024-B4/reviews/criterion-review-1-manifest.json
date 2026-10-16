@@ -1,0 +1,73 @@
+{
+  "blind_initial_report_complete": true,
+  "candidate_status": "candidate proof - unverified; coordinator alone may promote after both independent audits",
+  "child_pid": 16829,
+  "child_reaped": true,
+  "child_timeout_seconds": 45,
+  "completed_utc": "2026-10-16T10:54:45.965159+00:00",
+  "construction_code_read_imported_or_executed": false,
+  "failed_attempt_cause": "Reviewer incorrectly assumed unminimized literal regex subset machine had eight states; no candidate failure",
+  "failed_checker_attempt_preserved": true,
+  "files_sha256": {
+    "criterion-review-1-attempt-1-check.py": "98f8acd497ff93f455ebc735a6d21a75ce54a3d3e89a26cf1ffdef339e9f5891",
+    "criterion-review-1-attempt-1-job.json": "52d3f5729904245501d3f3b597c548996112e190e3797b71f37de6f32a74611d",
+    "criterion-review-1-attempt-1-output.txt": "c1e6be96935768c10db91f2e4fb38db3097aba66c67d6ba46953a9859f513c61",
+    "criterion-review-1-attempt-1-stderr.txt": "4b4fdaaaf82716295a393a42094e6f6f58e02b48683eef35e1428eeb4957de8d",
+    "criterion-review-1-check.py": "6a23067ebe9810a1493f820fa985c34347b75281c2f77012c81631f148ac9d75",
+    "criterion-review-1-issues.json": "7abb7e26b6f9252c812f575b7d8452714a2d21c198bcba9f53feaf9a2bcf8a65",
+    "criterion-review-1-job.json": "d621be85ba49922d926410a3e5542010e27b71b906a577d8356a4765a484237c",
+    "criterion-review-1-output.txt": "d065a4c0379e264bae16cc90ce5fa2bc5d21fafff167f4961ceea8745724a3e1",
+    "criterion-review-1-result.json": "eaa0bec8ed5db5492e739c0fc004cea12995946460cb1955704c54c750e96d9e",
+    "criterion-review-1-stderr.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "criterion-review-1.md": "da80c58669f5002ecca3f9d08d9c4171a97b3336f6599c411e6b5c11119b826f"
+  },
+  "finite_check_summary": {
+    "accepted_state_count": 6,
+    "closed_regex_product_state_count": 48,
+    "coefficient_evidence_j_max": 65535,
+    "literal_regex_subset_state_count": 9,
+    "maximum_full_subspace_size": 64,
+    "operator_columns_checked": 64,
+    "outgoing_transition_count": 96,
+    "quotient_class_count": 8,
+    "state_count": 48,
+    "zero_indices_in_evidence": [
+      5,
+      101,
+      1637,
+      26213
+    ]
+  },
+  "frozen_candidate_sha256": "59e3bb1f9aba8162ea5b79f0ccec5f56b6f2cb0cc7917cfe81f4aff196ff6ab4",
+  "frozen_input_manifest_sha256": "41fef0ca55da72d8efc8fb04f3b0180f77fc43edf28b276a87f7bd033b6687f2",
+  "no_author_files_edited": true,
+  "no_commit_or_push": true,
+  "open_substantive_candidate_issues": 0,
+  "other_reviews_or_conclusions_seen_before_initial_report": false,
+  "reproduction_command": ".venv/bin/python -u problems/2024-B4/reviews/criterion-review-1-check.py",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "review_finding": "No substantive objection found to the exact whole-phi_13 fixed-factor criterion and stated partial B4(b) consequence",
+  "reviewer": "criterion-review-1",
+  "role": "Fresh independent adversarial reviewer; whole-argument reconstruction",
+  "script_dependencies": "Python 3.12.14 standard library only",
+  "source": {
+    "cached_pdf_sha256": "1401f21218ad4c387c4d537ed8fd7de119b376cba52957ef788c772dc5ab4ddc",
+    "move_rendering_to_ignored_cache_command": "mv problems/2024-B4/reviews/criterion-review-1-official-page2.png .cache/official/criterion-review-1-official-page2.png",
+    "official_url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc2024_paper_b.pdf",
+    "render_command": "pdftoppm -f 2 -l 2 -scale-to 1600 -png -singlefile .cache/official/2024-paper_b.pdf problems/2024-B4/reviews/criterion-review-1-official-page2",
+    "verification_date": "2026-10-16",
+    "visual_source_path_ignored": ".cache/official/criterion-review-1-official-page2.png",
+    "visual_source_sha256": "4c2cf172a21b39fd11b203af530a3011a57154655198c443bb9d2e845c78ce8d"
+  },
+  "trailing_whitespace_check": "passed on all own text artifacts",
+  "verified_effective_settings": null,
+  "weekly_telemetry": {
+    "resets_at": 1792745187,
+    "source": "mcp__codex_app__get_usage_limits",
+    "used_percent_at_both_checks": 5,
+    "window_duration_minutes": 10080
+  }
+}

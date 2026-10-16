@@ -1,0 +1,14 @@
+# 2024 B4 issue log
+
+The coordinator accepted the fixed-factor family after both blind full reconstructions. The full classification remains open; acceptance does not cover the later zero-automaton candidate.
+
+| ID | Version / location | Objection | Severity | Repair / evidence | Re-review | Status |
+|---|---|---|---|---|---|---|
+| 24-001 | proof.md v0.1 | Invariant recurrence, boundary deductions and finite identity have no independent adversarial audits yet. | Promotion blocker | Exact script/certificate supplied; coordinator notified. | Two fresh reviewers, one reconstruction required. | Open |
+| 24-002 | Source context | Official notes omit n>3 when describing n=3 mod4 irreducibility, but phi_3=1. | Statement fidelity | Record n=3 separately; Hernando--McGuire's summary includes t>3. | Check original JMW theorem. | Resolved locally, unreviewed |
+| 24-003 | Literature inference | Exceptional APN classification gives existence of an absolute component, not whole-polynomial irreducibility/reducibility. | Major | Conclusions separated explicitly in research/references. | Audit every proposed use. | Ongoing constraint |
+| 24-004 | Kasami orbit approach | Original Janwa--Wilson theorem not yet inspected in full; normalization and Frobenius indexing needed. | Major | Author preprint Delgado--Janwa checked; original citation pending. | Required before promoted theorem-based proof. | Open |
+| 24-005 | Invariant subring | Symmetric quotient does not imply each factor lies in F2[Q,R,D]. Formal division failures do not prove full-ring irreducibility. | Major | Bounded scan labeled as testing one formal divisor only. | Required for any classification claim. | Ongoing constraint |
+| 24-006 | proofs/fixed-factor-family-v1.md | Unrestricted family needed two independent audits. | Promotion gate | Both fresh blind reviewers reconstructed every step and found no substantive gap; coordinator acceptance records hashes. | family-review-1.md and family-review-2.md complete. | Closed; accepted partial family |
+| 24-007 | Férard 2014 attribution | Publisher abstract announces a phi13 criterion and an infinite family; exact theorem/family has not been read. | Attribution blocker for novelty; no dependence in v1 proof | Publisher PDF availability explicitly requires login; HAL record gives no main file. Access attempts and hashes preserved. No novelty claim; full-text comparison pending. | Check original theorem if public/authorized access becomes available. | Open |
+| 24-008 | coordinator-cartier-family-v0.1.md | Exploratory L,M,J identities and localization descent required reconstruction. | Major | Separately versioned v1 supplies E-linear span and primitive-prime descent; reviewers independently checked full symbolic identities by different methods. | Both blind full reconstructions complete; no mathematical repair requested. | Closed in accepted v1.1 |

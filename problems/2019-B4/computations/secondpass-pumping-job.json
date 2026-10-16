@@ -1,0 +1,26 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "-u",
+    "problems/2019-B4/computations/secondpass-pumping.py",
+    "--probe",
+    "problems/2019-B4/computations/secondpass-probe20.json",
+    "--inflations",
+    "4",
+    "--state-cap",
+    "20000",
+    "--max-staircase",
+    "8",
+    "--output",
+    "problems/2019-B4/computations/secondpass-pumping.json"
+  ],
+  "timeout_seconds": 60.0,
+  "cwd": "/Users/uqmkamga/Documents/ChatGPT/Website",
+  "started_utc": "2026-10-16T11:18:24.199671+00:00",
+  "runner_pid": 19138,
+  "status": "complete",
+  "child_pid": 19139,
+  "returncode": 0,
+  "elapsed_seconds": 0.04611054199631326,
+  "finished_utc": "2026-10-16T11:18:24.247250+00:00"
+}

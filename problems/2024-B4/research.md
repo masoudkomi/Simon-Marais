@@ -1,6 +1,6 @@
 # 2024 B4 research log
 
-Status: serious initial investigation checkpoint, 2026-10-16. **No full solution claimed.** The fixed-factor family in proofs/fixed-factor-family-reviewed-v1.1.md is **proved, independently reviewed (partial result)** after two blind full reconstructions. Other mathematical deductions below remain **candidate proof - unverified** unless identified as attributed published results. The zero-automaton work is separate and unreviewed. Computational identities are exact finite certificates, not a classification of unrestricted n.
+Status: serious initial investigation checkpoint, 2026-10-16. **No full solution claimed.** The fixed-factor family in proofs/fixed-factor-family-reviewed-v1.1.md is **proved, independently reviewed (partial result)** after two blind full reconstructions. Other mathematical deductions below remain **candidate proof - unverified** unless identified as attributed published results. The exact whole-phi13 criterion in notes/zero-automaton-criterion-reviewed-v1.1.md has also passed two additional fresh blind full reconstructions. Later small-divisor probes remain separate and unreviewed. Computational identities are exact finite certificates, not a classification of unrestricted n.
 
 Requested worker settings: gpt-6.1-sol, max reasoning. Verified effective-setting readback: unavailable. Worker owns only this directory; no commits, pushes, helpers or installations performed.
 

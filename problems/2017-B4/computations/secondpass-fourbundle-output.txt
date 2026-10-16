@@ -1,0 +1,30 @@
+Python 3.12.14; standard library; Fraction geometry
+Exact finite patch evidence; no current global-bound improvement asserted
+START L=1 area=1 strands=6 word=(2, 4, 0, 5, 1, 2, 0, 5, 3, 3, 1, 4) lines=[(1, 0, 1, 'vertical'), (0, 1, 1, 'horizontal'), (-1, 1, 0, 'rising'), (-1, 1, 1, 'rising'), (1, 1, 1, 'falling'), (1, 1, 2, 'falling')]
+DONE L=1 F=8 log2_F_per_area=3.000000000000000 memo_states=11 elapsed_seconds=0.000210
+START L=2 area=4 strands=12 word=(5, 8, 0, 4, 9, 1, 10, 2, 4, 11, 3, 5, 1, 11, 6, 0, 10, 7, 7, 3, 9, 6, 2, 8) lines=[(1, 0, 1, 'vertical'), (1, 0, 2, 'vertical'), (0, 1, 1, 'horizontal'), (0, 1, 2, 'horizontal'), (-1, 1, -1, 'rising'), (-1, 1, 0, 'rising'), (-1, 1, 1, 'rising'), (-1, 1, 2, 'rising'), (1, 1, 1, 'falling'), (1, 1, 2, 'falling'), (1, 1, 3, 'falling'), (1, 1, 4, 'falling')]
+DONE L=2 F=10442 log2_F_per_area=3.337527610836982 memo_states=125 elapsed_seconds=0.007812
+START L=3 area=9 strands=18 word=(8, 12, 0, 7, 13, 1, 6, 14, 2, 15, 3, 6, 16, 4, 7, 17, 5, 8, 2, 17, 9, 1, 16, 10, 0, 15, 11, 11, 5, 14, 10, 4, 13, 9, 3, 12) lines=[(1, 0, 1, 'vertical'), (1, 0, 2, 'vertical'), (1, 0, 3, 'vertical'), (0, 1, 1, 'horizontal'), (0, 1, 2, 'horizontal'), (0, 1, 3, 'horizontal'), (-1, 1, -2, 'rising'), (-1, 1, -1, 'rising'), (-1, 1, 0, 'rising'), (-1, 1, 1, 'rising'), (-1, 1, 2, 'rising'), (-1, 1, 3, 'rising'), (1, 1, 1, 'falling'), (1, 1, 2, 'falling'), (1, 1, 3, 'falling'), (1, 1, 4, 'falling'), (1, 1, 5, 'falling'), (1, 1, 6, 'falling')]
+DONE L=3 F=4419734746 log2_F_per_area=3.560145849075202 memo_states=17436 elapsed_seconds=3.256958
+START L=4 area=16 strands=24 word=(11, 16, 0, 10, 17, 1, 9, 18, 2, 8, 19, 3, 20, 4, 8, 21, 5, 9, 22, 6, 10, 23, 7, 11, 3, 23, 12, 2, 22, 13, 1, 21, 14, 0, 20, 15, 15, 7, 19, 14, 6, 18, 13, 5, 17, 12, 4, 16) lines=[(1, 0, 1, 'vertical'), (1, 0, 2, 'vertical'), (1, 0, 3, 'vertical'), (1, 0, 4, 'vertical'), (0, 1, 1, 'horizontal'), (0, 1, 2, 'horizontal'), (0, 1, 3, 'horizontal'), (0, 1, 4, 'horizontal'), (-1, 1, -3, 'rising'), (-1, 1, -2, 'rising'), (-1, 1, -1, 'rising'), (-1, 1, 0, 'rising'), (-1, 1, 1, 'rising'), (-1, 1, 2, 'rising'), (-1, 1, 3, 'rising'), (-1, 1, 4, 'rising'), (1, 1, 1, 'falling'), (1, 1, 2, 'falling'), (1, 1, 3, 'falling'), (1, 1, 4, 'falling'), (1, 1, 5, 'falling'), (1, 1, 6, 'falling'), (1, 1, 7, 'falling'), (1, 1, 8, 'falling')]
+Traceback (most recent call last):
+  File "/Users/uqmkamga/Documents/ChatGPT/Website/problems/2017-B4/computations/secondpass-fourbundle.py", line 127, in <module>
+    main()
+  File "/Users/uqmkamga/Documents/ChatGPT/Website/problems/2017-B4/computations/secondpass-fourbundle.py", line 92, in main
+    worker(args.max_side)
+  File "/Users/uqmkamga/Documents/ChatGPT/Website/problems/2017-B4/computations/secondpass-fourbundle.py", line 76, in worker
+    count = counter.count_patch(counter.canonical(word))
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/uqmkamga/Documents/ChatGPT/Website/problems/2017-B4/computations/secondpass-patchcount.py", line 89, in count_patch
+    total += count_patch(side_a) * count_patch(side_b)
+                                   ^^^^^^^^^^^^^^^^^^^
+  File "/Users/uqmkamga/Documents/ChatGPT/Website/problems/2017-B4/computations/secondpass-patchcount.py", line 89, in count_patch
+    total += count_patch(side_a) * count_patch(side_b)
+                                   ^^^^^^^^^^^^^^^^^^^
+  File "/Users/uqmkamga/Documents/ChatGPT/Website/problems/2017-B4/computations/secondpass-patchcount.py", line 89, in count_patch
+    total += count_patch(side_a) * count_patch(side_b)
+                                   ^^^^^^^^^^^^^^^^^^^
+  [Previous line repeated 10 more times]
+  File "/Users/uqmkamga/Documents/ChatGPT/Website/problems/2017-B4/computations/secondpass-patchcount.py", line 55, in count_patch
+    raise RuntimeError("memo-state cap exceeded; computation incomplete")
+RuntimeError: memo-state cap exceeded; computation incomplete
