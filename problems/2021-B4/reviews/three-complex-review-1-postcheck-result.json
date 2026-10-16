@@ -1,0 +1,59 @@
+{
+  "verified_at_utc": "2026-10-16T16:36:06.106728+00:00",
+  "all154_frozen_candidate_artifacts_match_before_and_after": true,
+  "all_19_old_own_review_artifacts_and_manifest_unchanged": true,
+  "all_masks_and_disjoint_union_independently_verified": true,
+  "all4731928_complementary_families_regenerated_and_certified": true,
+  "all79_new_chunk_hashes_bytes_and_counts_match": true,
+  "both_new_complete_stream_hashes_match": true,
+  "all_three_new_sentinels_and_exact_integer_polynomials_match": true,
+  "new_mod131_resolver_fully_matches_independent_regeneration": true,
+  "old_separate_mod131_certificate_still_explicit_required_dependency": true,
+  "old25_chunks_are_accepted_finite_data_hash_verified_not_freshly_recomputed": true,
+  "constructor_copy_and_resolver_copy_provenance_verified_exactly": true,
+  "union_certificate_histogram": {
+    "0": 6680,
+    "101": 5912512,
+    "103": 289283,
+    "107": 15664,
+    "109": 774,
+    "127": 35,
+    "131": 4
+  },
+  "ramification_check": {
+    "pi_squared": 19,
+    "v_pi": "1/2",
+    "D2_equation": "a2=2*pi-pi^2",
+    "v_a2": "1/2",
+    "v_ordinary_c18": "3/2",
+    "meaning": "local derivative example only, not a CA counterexample"
+  },
+  "primary_sources": [
+    {
+      "path": ".cache/literature/2021/cited-66c5af6a0f0239f5.pdf",
+      "url": "https://arxiv.org/abs/1208.5404",
+      "pdf_pages_one_based": [
+        13
+      ],
+      "sha256": "d818747102d32060f43ae5f015f27065aadf38699b272a2367749db8b33fedbf"
+    },
+    {
+      "path": ".cache/literature/2021/massri-1806.09561v6.pdf",
+      "url": "https://arxiv.org/abs/1806.09561v6",
+      "pdf_pages_one_based": [
+        13,
+        14
+      ],
+      "sha256": "8e5dec6d9d3ca1cb6becd7fa7e3d4c6ef18927cff9521c5f4eb9a1c1b567952f"
+    }
+  ],
+  "telemetry_entry_and_midrun": {
+    "total_weekly_used_percent": 11,
+    "window_minutes": 10080,
+    "reset_unix_seconds": 1792745187,
+    "stop_at_total_percent": 90
+  },
+  "requested_model": "gpt-6.1-sol",
+  "requested_reasoning_effort": "max",
+  "verified_effective_settings": null
+}

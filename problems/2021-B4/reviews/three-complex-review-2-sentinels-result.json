@@ -1,0 +1,620 @@
+{
+  "method": "ordinary Hasse exact integer construction, independent modular Euclidean gcd",
+  "new_sentinels": 3,
+  "old_accepted_sentinel_rechecked": 1,
+  "cases": [
+    {
+      "center_mask": 117075,
+      "u_mask": 9220,
+      "P": [
+        9024296995820,
+        -51307865246460,
+        38533078058670,
+        167230806304740,
+        -259835306160975,
+        -110338971030288,
+        491282625113280,
+        -378415247530320,
+        54818981397180,
+        62865941218080,
+        -25511154669000,
+        -2191847767200,
+        2443438326420,
+        -138399246720,
+        -97011938880,
+        13854746496
+      ],
+      "Q": [
+        0,
+        0,
+        20750834325950,
+        -135377578865820,
+        190118188670745,
+        304628555148480,
+        -973828162849800,
+        419139423941280,
+        1322770284965220,
+        -2347496703311760,
+        1730243490271296,
+        -552432109188960,
+        -68302658025420,
+        122748370661280,
+        -34609431756960,
+        -3040002924480,
+        3631982156400,
+        -483990597840,
+        -120698281280,
+        40825694800,
+        -3401462288
+      ],
+      "degrees": [
+        15,
+        20
+      ],
+      "trials": [
+        {
+          "prime": 101,
+          "prime_verified": true,
+          "leading_residues": [
+            89,
+            57
+          ],
+          "retained_degrees": [
+            15,
+            20
+          ],
+          "gcd_degree": 1,
+          "gcd_coefficients": [
+            71,
+            47
+          ]
+        },
+        {
+          "prime": 103,
+          "prime_verified": true,
+          "leading_residues": [
+            93,
+            30
+          ],
+          "retained_degrees": [
+            15,
+            20
+          ],
+          "gcd_degree": 1,
+          "gcd_coefficients": [
+            0,
+            13
+          ]
+        },
+        {
+          "prime": 107,
+          "prime_verified": true,
+          "leading_residues": [
+            12,
+            88
+          ],
+          "retained_degrees": [
+            15,
+            20
+          ],
+          "gcd_degree": 1,
+          "gcd_coefficients": [
+            0,
+            92
+          ]
+        },
+        {
+          "prime": 109,
+          "prime_verified": true,
+          "leading_residues": [
+            2,
+            105
+          ],
+          "retained_degrees": [
+            15,
+            20
+          ],
+          "gcd_degree": 1,
+          "gcd_coefficients": [
+            66,
+            7
+          ]
+        },
+        {
+          "prime": 127,
+          "prime_verified": true,
+          "leading_residues": [
+            12,
+            48
+          ],
+          "retained_degrees": [
+            15,
+            20
+          ],
+          "gcd_degree": 1,
+          "gcd_coefficients": [
+            0,
+            100
+          ]
+        },
+        {
+          "prime": 131,
+          "prime_verified": true,
+          "leading_residues": [
+            83,
+            3
+          ],
+          "retained_degrees": [
+            15,
+            20
+          ],
+          "gcd_degree": 0,
+          "gcd_coefficients": [
+            9
+          ]
+        }
+      ],
+      "raw_record_sha256": "ef92e87d520060c06eeff061245ab87f71aff68e6bdfb4c75fc2de76bdd5879e",
+      "polynomial_record_sha256": "0005bf3dc9b38f10e036f5ad4a9dc29b3dc8cd3a7988e7a42a94d4a7a6865b3a"
+    },
+    {
+      "center_mask": 117075,
+      "u_mask": 1548,
+      "P": [
+        9024296995820,
+        -80186364295860,
+        305129050925670,
+        -629988829192020,
+        721186631137785,
+        -360468101210112,
+        -111211601701200,
+        238665140313600,
+        -88418009179500,
+        -24273150902000,
+        27088065604600,
+        -7125650932400,
+        617191274700
+      ],
+      "Q": [
+        0,
+        0,
+        20750834325950,
+        -201889672353660,
+        863204640296025,
+        -2094004172597040,
+        3083569797237000,
+        -2646740821509120,
+        923192056271940,
+        521015271809760,
+        -728664286926576,
+        258528786275760,
+        60152819765220,
+        -83679218575680,
+        27625147821120,
+        -3245895300288,
+        704238579600,
+        -688551071520,
+        240075793520,
+        -34085266240,
+        1704263312
+      ],
+      "degrees": [
+        12,
+        20
+      ],
+      "trials": [
+        {
+          "prime": 101,
+          "prime_verified": true,
+          "leading_residues": [
+            0,
+            18
+          ],
+          "retained_degrees": [
+            11,
+            20
+          ],
+          "gcd_degree": 0,
+          "gcd_coefficients": [
+            52
+          ]
+        },
+        {
+          "prime": 103,
+          "prime_verified": true,
+          "leading_residues": [
+            6,
+            77
+          ],
+          "retained_degrees": [
+            12,
+            20
+          ],
+          "gcd_degree": 1,
+          "gcd_coefficients": [
+            0,
+            83
+          ]
+        },
+        {
+          "prime": 107,
+          "prime_verified": true,
+          "leading_residues": [
+            22,
+            54
+          ],
+          "retained_degrees": [
+            12,
+            20
+          ],
+          "gcd_degree": 1,
+          "gcd_coefficients": [
+            0,
+            7
+          ]
+        },
+        {
+          "prime": 109,
+          "prime_verified": true,
+          "leading_residues": [
+            52,
+            25
+          ],
+          "retained_degrees": [
+            12,
+            20
+          ],
+          "gcd_degree": 1,
+          "gcd_coefficients": [
+            35,
+            77
+          ]
+        },
+        {
+          "prime": 127,
+          "prime_verified": true,
+          "leading_residues": [
+            68,
+            20
+          ],
+          "retained_degrees": [
+            12,
+            20
+          ],
+          "gcd_degree": 1,
+          "gcd_coefficients": [
+            0,
+            99
+          ]
+        },
+        {
+          "prime": 131,
+          "prime_verified": true,
+          "leading_residues": [
+            44,
+            79
+          ],
+          "retained_degrees": [
+            12,
+            20
+          ],
+          "gcd_degree": 0,
+          "gcd_coefficients": [
+            31
+          ]
+        }
+      ],
+      "raw_record_sha256": "c951d3ad8e8ca84167a0ced75c5a4794f465054165c4ec31f6766b77358a209c",
+      "polynomial_record_sha256": "510c3dcaecf920626692c2e4883f7c7d39309ffce7d66f9643e8ce31760836fa"
+    },
+    {
+      "center_mask": 117075,
+      "u_mask": 9356,
+      "P": [
+        9024296995820,
+        -69969892448460,
+        185495999023950,
+        -63032178458820,
+        -661851194471655,
+        1286123948986800,
+        -197040603133920,
+        -2343254246349120,
+        3531122209740060,
+        -2014618842532400,
+        -171133586127504,
+        966097398717360,
+        -625459436833140,
+        198718592526720,
+        -32404894585920,
+        2160326305728
+      ],
+      "Q": [
+        0,
+        0,
+        20750834325950,
+        -178295797208820,
+        564077813463345,
+        -513584806397520,
+        -1431910354222200,
+        4519659288535440,
+        -3542341526238060,
+        -5066541823870800,
+        15297253563041736,
+        -17082270969580960,
+        9294464845337100,
+        -131133531462960,
+        -3923999357325120,
+        3373584212287248,
+        -1602015735093120,
+        486266267404080,
+        -94054619824160,
+        10599572825600,
+        -529978641280
+      ],
+      "degrees": [
+        15,
+        20
+      ],
+      "trials": [
+        {
+          "prime": 101,
+          "prime_verified": true,
+          "leading_residues": [
+            65,
+            0
+          ],
+          "retained_degrees": [
+            15,
+            18
+          ],
+          "gcd_degree": 0,
+          "gcd_coefficients": [
+            64
+          ]
+        },
+        {
+          "prime": 103,
+          "prime_verified": true,
+          "leading_residues": [
+            19,
+            26
+          ],
+          "retained_degrees": [
+            15,
+            20
+          ],
+          "gcd_degree": 1,
+          "gcd_coefficients": [
+            0,
+            90
+          ]
+        },
+        {
+          "prime": 107,
+          "prime_verified": true,
+          "leading_residues": [
+            10,
+            18
+          ],
+          "retained_degrees": [
+            15,
+            20
+          ],
+          "gcd_degree": 1,
+          "gcd_coefficients": [
+            0,
+            10
+          ]
+        },
+        {
+          "prime": 109,
+          "prime_verified": true,
+          "leading_residues": [
+            0,
+            50
+          ],
+          "retained_degrees": [
+            13,
+            20
+          ],
+          "gcd_degree": 0,
+          "gcd_coefficients": [
+            61
+          ]
+        },
+        {
+          "prime": 127,
+          "prime_verified": true,
+          "leading_residues": [
+            24,
+            56
+          ],
+          "retained_degrees": [
+            15,
+            20
+          ],
+          "gcd_degree": 2,
+          "gcd_coefficients": [
+            0,
+            56,
+            92
+          ]
+        },
+        {
+          "prime": 131,
+          "prime_verified": true,
+          "leading_residues": [
+            97,
+            124
+          ],
+          "retained_degrees": [
+            15,
+            20
+          ],
+          "gcd_degree": 0,
+          "gcd_coefficients": [
+            11
+          ]
+        }
+      ],
+      "raw_record_sha256": "324b399ceb08ef67142ef1ee0c27f2a8e55d9cc229b0c182494a0f04c1f58762",
+      "polynomial_record_sha256": "0a426cc8234796f3d55caa9646098a1b616b88e516a3cdc5462e42ad80032898"
+    },
+    {
+      "center_mask": 6436,
+      "u_mask": 24785,
+      "P": [
+        997987258040,
+        -14183005342600,
+        87026447494580,
+        -270148224191760,
+        342669655928340,
+        320424919936992,
+        -1789474384130160,
+        2692621443744960,
+        -1923786091202430,
+        536151441709520,
+        22194908255520,
+        63006406837920,
+        -86332147279560,
+        7608232260720,
+        16926127849800,
+        -6118958966784,
+        558574105185
+      ],
+      "Q": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        12325308291600,
+        -95698203564000,
+        244525310062800,
+        -104138451705600,
+        -667596269715804,
+        1437616989099720,
+        -1227794046052860,
+        403158495009600,
+        4885772225400,
+        41424307050720,
+        -64899036441045,
+        8685458494740,
+        11785390648650,
+        -4565539482320,
+        427850346682
+      ],
+      "degrees": [
+        16,
+        20
+      ],
+      "trials": [
+        {
+          "prime": 101,
+          "prime_verified": true,
+          "leading_residues": [
+            0,
+            36
+          ],
+          "retained_degrees": [
+            15,
+            20
+          ],
+          "gcd_degree": 0,
+          "gcd_coefficients": [
+            75
+          ]
+        },
+        {
+          "prime": 103,
+          "prime_verified": true,
+          "leading_residues": [
+            93,
+            102
+          ],
+          "retained_degrees": [
+            16,
+            20
+          ],
+          "gcd_degree": 1,
+          "gcd_coefficients": [
+            0,
+            70
+          ]
+        },
+        {
+          "prime": 107,
+          "prime_verified": true,
+          "leading_residues": [
+            5,
+            92
+          ],
+          "retained_degrees": [
+            16,
+            20
+          ],
+          "gcd_degree": 2,
+          "gcd_coefficients": [
+            0,
+            0,
+            28
+          ]
+        },
+        {
+          "prime": 109,
+          "prime_verified": true,
+          "leading_residues": [
+            10,
+            40
+          ],
+          "retained_degrees": [
+            16,
+            20
+          ],
+          "gcd_degree": 1,
+          "gcd_coefficients": [
+            75,
+            34
+          ]
+        },
+        {
+          "prime": 127,
+          "prime_verified": true,
+          "leading_residues": [
+            85,
+            73
+          ],
+          "retained_degrees": [
+            16,
+            20
+          ],
+          "gcd_degree": 1,
+          "gcd_coefficients": [
+            31,
+            107
+          ]
+        },
+        {
+          "prime": 131,
+          "prime_verified": true,
+          "leading_residues": [
+            8,
+            102
+          ],
+          "retained_degrees": [
+            16,
+            20
+          ],
+          "gcd_degree": 0,
+          "gcd_coefficients": [
+            77
+          ]
+        }
+      ],
+      "raw_record_sha256": "68235145f9694471df510c6806dfaf4af3b7e4c519e1ef2396d655752d22dc3f",
+      "polynomial_record_sha256": "a6eef35b351004c97f92c39bcad7a3b8caf999e00cd9c3b1103119b5c535cea3"
+    }
+  ],
+  "seconds": 0.0016941249486990273
+}

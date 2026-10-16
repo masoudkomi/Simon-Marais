@@ -1,0 +1,140 @@
+{
+  "frozen_at_utc": "2026-10-16T16:44:14.249337+00:00",
+  "audit_stage": "initial independent blind full complex-extension audit completed before cross-review",
+  "recommendation": "accept C20 using explicitly accepted old finite algebraic certificates",
+  "substantive_open_objections": 0,
+  "author_repairs_requested": false,
+  "new_peer_review_or_conclusions_read": false,
+  "unrelated_J16_work_read": false,
+  "full_new_mathematical_reconstruction": true,
+  "all_new_certificates_verified": true,
+  "new_families_verified": 4731928,
+  "old_families_explicit_accepted_dependency": 1493024,
+  "union_families": 6224952,
+  "normalized_binary_choices_independently_visited": 131072,
+  "complete_masks": 6680,
+  "all154candidate_artifacts_rechecked_unchanged": true,
+  "target_sha256": "4696d98dfe053d74fc4114bc0986359288a8f542c7f87c29134746b7d73d2d65",
+  "candidate_manifest_sha256": "d9210626ef24fe18ccde57706399d6c30a5fedb81d71a972da5e562a1c582ec8",
+  "requested_model": "gpt-6.1-sol",
+  "requested_reasoning": "max",
+  "effective_readback_available": false,
+  "weekly_usage_usedPercent_checks": [
+    11,
+    11,
+    11
+  ],
+  "weekly_reset_timestamp": 1792745187,
+  "weekly_total_cutoff_percent": 90,
+  "new_window_entered": false,
+  "full_run_pid": 45858,
+  "full_run_seconds": 482.68951779202325,
+  "full_run_exit": 0,
+  "external_timeout_seconds": 900,
+  "child_reaped": true,
+  "global_kill_used": false,
+  "computational_job_failures": 0,
+  "editor_patch_failures": 1,
+  "editor_patch_failure_note": "An initial final-report patch matched lowercase its instead of the actual uppercase Its; no edit applied. The corrected patch succeeded.",
+  "prefreeze_source_snapshot": {
+    "path": "problems/2021-B4/reviews/three-complex-review-2-construction-v1.py",
+    "sha256": "d5e198884d3a4414883f79104a17b6d7c36c4332d47b26f5d656b5b6e0f198cd"
+  },
+  "artifacts": [
+    {
+      "path": "problems/2021-B4/reviews/three-complex-review-2-benchmark-job.json",
+      "bytes": 985,
+      "sha256": "71144842928df513909ae0186d82f3227b78df6be1c4768f0be70cb68a21c1cb"
+    },
+    {
+      "path": "problems/2021-B4/reviews/three-complex-review-2-benchmark-output.txt",
+      "bytes": 678,
+      "sha256": "f7bb92d520e559850ce5824a697e7771fb2ab47d78826d388c9ab3dde3ee41d2"
+    },
+    {
+      "path": "problems/2021-B4/reviews/three-complex-review-2-benchmark-stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "problems/2021-B4/reviews/three-complex-review-2-construction-freeze.json",
+      "bytes": 942,
+      "sha256": "2f6dcb690842b4477e562e6dd9a77428663ea39e546e72c78fcbf725de86bb27"
+    },
+    {
+      "path": "problems/2021-B4/reviews/three-complex-review-2-construction-v1.py",
+      "bytes": 7349,
+      "sha256": "d5e198884d3a4414883f79104a17b6d7c36c4332d47b26f5d656b5b6e0f198cd"
+    },
+    {
+      "path": "problems/2021-B4/reviews/three-complex-review-2-diagnostics.json",
+      "bytes": 646,
+      "sha256": "653d93ce4cba656b0f2e8da100082fe6931bc6d5a668010fba8da9bfb8f3c07f"
+    },
+    {
+      "path": "problems/2021-B4/reviews/three-complex-review-2-full-job.json",
+      "bytes": 944,
+      "sha256": "033d5520ad096e9b4bc78391f30b28d697b523a5f381f0e325273f066a6212cc"
+    },
+    {
+      "path": "problems/2021-B4/reviews/three-complex-review-2-full-output.txt",
+      "bytes": 27994,
+      "sha256": "3f33be47ede3b1c86b953117c1e222a439d7f9f0c86f59ff41d9904a8b7f08d9"
+    },
+    {
+      "path": "problems/2021-B4/reviews/three-complex-review-2-full-result.json",
+      "bytes": 23438,
+      "sha256": "28c42bd1b71ffbe175ad56b933001bb603709b7627f7e188700219067c0074f2"
+    },
+    {
+      "path": "problems/2021-B4/reviews/three-complex-review-2-full-stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "problems/2021-B4/reviews/three-complex-review-2-independent-masks.json",
+      "bytes": 149336,
+      "sha256": "47b46de7b0d4ccae1f941dadceb0f4949bafd427220082119f2454f1f2516d42"
+    },
+    {
+      "path": "problems/2021-B4/reviews/three-complex-review-2-independent.py",
+      "bytes": 15713,
+      "sha256": "8b1c62d1f1d0e68466bf0607bc932dca7ced53c3dc55e2794dbfd79ee8b93369"
+    },
+    {
+      "path": "problems/2021-B4/reviews/three-complex-review-2-input-validation.json",
+      "bytes": 37642,
+      "sha256": "aaa1b2c5f2a730030b346c2c9c81fa9cdcf91701f6c52389b08d21ce05a0dfaa"
+    },
+    {
+      "path": "problems/2021-B4/reviews/three-complex-review-2-issues.json",
+      "bytes": 6224,
+      "sha256": "37ffec61c30bd9f8d1851680b7ff2c16b961385bc1673a817a48fbc7d2eebe32"
+    },
+    {
+      "path": "problems/2021-B4/reviews/three-complex-review-2-run.py",
+      "bytes": 1927,
+      "sha256": "d59e276cc5640668e6510b2fff738da8fc930af076a914774aea0fb5370829c5"
+    },
+    {
+      "path": "problems/2021-B4/reviews/three-complex-review-2-sentinels-result.json",
+      "bytes": 13055,
+      "sha256": "19e4f5e21bc6bf6abc6fa99ba157041e5e36440b3bd68eaff7ff83bef32be060"
+    },
+    {
+      "path": "problems/2021-B4/reviews/three-complex-review-2-sentinels.py",
+      "bytes": 2682,
+      "sha256": "3b0e6badfee848cc7b39a78548e3a3ef7b4d9ab925fa3e42ee1d1c27ac9f7ba5"
+    },
+    {
+      "path": "problems/2021-B4/reviews/three-complex-review-2-sources.json",
+      "bytes": 2431,
+      "sha256": "64ddca5d9690a8b42306f81ff03be5742c9f24f99a7e661bc5920dcbc481c0d5"
+    },
+    {
+      "path": "problems/2021-B4/reviews/three-complex-review-2.md",
+      "bytes": 20783,
+      "sha256": "f0e656079f5ba590dfc0c83036838483fb1459ded03917dc7999d918ba5105e6"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "audit": "Initial blind independent complete complex-extension R2",
+  "target_sha256": "4696d98dfe053d74fc4114bc0986359288a8f542c7f87c29134746b7d73d2d65",
+  "status": "Initial blind full audit completed: recommend accepting C20 on the explicit accepted old finite dependency",
+  "peer_new_extension_review_read": false,
+  "promotion_authority": "coordinator only",
+  "issues": [
+    {
+      "id": "C-R2-01",
+      "question": "Does the local argument illegally embed arbitrary complex coefficients in a p-adic algebraic closure?",
+      "disposition": "resolved by independent specialization reconstruction",
+      "finding": "After normalizing two cover values, the chosen equations force all coefficients into Z[u]. If either root polynomial is nonzero, u is algebraic. If both root polynomials are identically zero, U=2 preserves the equations, monicity, a double root 0 and the distinct root 1. A finite number field containing this algebraic example and its splitting roots embeds in Qbar_19."
+    },
+    {
+      "id": "C-R2-02",
+      "question": "Is the P=Q=0 specialization branch allowed to become a pure power, lose degree, or lose a witness?",
+      "disposition": "resolved by exact identities",
+      "finding": "The coefficient of X^20 stays 1 and c0=c1 stay zero. P(2)=0 makes 1 a root distinct from 0. Q(2)=0 and every fixed-label derivative identity persist; the first derivative has the retained witness 0. The specialized polynomial is nontrivial and covered by at most three algebraic values."
+    },
+    {
+      "id": "C-R2-03",
+      "question": "Does the finite local normalization need rational coefficients, an unramified extension, or an integral valuation bound?",
+      "disposition": "resolved by independent local reconstruction",
+      "finding": "Scaling by a least-valuation nonzero splitting root in finite K/Q19 makes every witness integral. The normalized triangular equations make every a_j integral. A unit root forces a1 to be a unit. Scaling by the unit center preserves integrality; no valuation integrality or lack of ramification is assumed."
+    },
+    {
+      "id": "C-R2-04",
+      "question": "Does bar(f)=X^19(X-1) actually show that the center is the unique unit root, rather than merely the only possible unit residue?",
+      "disposition": "resolved by exact division",
+      "finding": "The center 1 is an exact root and f'(1) is a unit. Monic division by X-1 stays integral, with quotient reduction X^19; that quotient cannot have any unit root. This also excludes a second unit root congruent to 1 and proves simplicity."
+    },
+    {
+      "id": "C-R2-05",
+      "question": "Is the earlier rational ordinary-modulo-361 noncenter argument being reused in the ramified situation?",
+      "disposition": "resolved by new normalized prime-field filter",
+      "finding": "A noncenter a_j lies only in m_K; it need not lie in 19 O_K. New coverage and code reduce normalized a_j modulo m_K, obtain prime-field residues by induction, divide the exact f(1)=0 identity by 19 before reducing, and enumerate all 131,072 binary choices without J exclusions."
+    },
+    {
+      "id": "C-R2-06",
+      "question": "Could a larger residue field, degenerate witness labels, or noncanonical masks omit actual cases?",
+      "disposition": "resolved by complete normalized enumeration and coverage argument",
+      "finding": "All residue coefficients are in F19 by the 0/1 triangular recursion. Choosing the center whenever available gives an included mask; any other selected witness is 0 or u. Repeated labels, unused U, U=0 and U=1 are retained as formal excess. The independent catalog has 6,680 masks and 6,224,952 refinements."
+    },
+    {
+      "id": "C-R2-07",
+      "question": "Does the rational origin of the old 772-mask selection invalidate its use in the complex proof?",
+      "disposition": "resolved by explicit finite algebraic dependency",
+      "finding": "Only the already accepted individual integer-pair incompatibilities are reused. Those no-common-algebraic-root facts are independent of the original selection motivation. Their 772 masks are checked as a subset of the new 6,680; the 5,908 complementary masks cover every other assignment. No rational-only Newton theorem is used to remove a complex case."
+    },
+    {
+      "id": "C-R2-08",
+      "question": "Do the exact symbolic families and auxiliary-prime resultants exclude ramified local parameters without a denominator bound?",
+      "disposition": "resolved by ordinary-Hasse reconstruction and resultant identity",
+      "finding": "The integer ordinary-coefficient triangular solve uniquely matches every specialized normalized family. Retained integer degrees and gcd 1 modulo a prime give a nonzero integer resultant. Its identity excludes a common root in any characteristic-zero extension; the witness itself is never reduced modulo the auxiliary prime."
+    },
+    {
+      "id": "C-R2-09",
+      "question": "Are the three new initial misses and old separate miss actually resolved, and are all new certificates checked rather than sampled?",
+      "disposition": "resolved by complete independent complementary certificate audit",
+      "finding": "Every one of the 4,731,928 new integer pairs and certificates was independently reconstructed and checked, including all 79 chunks and global stream hashes. All three new sentinels and the old sentinel were directly reconstructed and independently certified at 131 with retained degrees and stated leading residues. The 900-second supervised child finished in 482.690 seconds, exit 0, empty stderr and no timeout."
+    },
+    {
+      "id": "C-R2-10",
+      "question": "Is the claim properly attributed and limited?",
+      "disposition": "primary sources and scope checked",
+      "finding": "Massri v6 Theorem 7.10 already states the restricted three-recycled-root complex degree 20 claim. The candidate does not rely on that preprint computation, claim novelty, solve unrestricted degree 20, or use the unrelated unverified J=16 work. The withdrawn versions are distinct from cited v6."
+    }
+  ],
+  "completed_at_utc": "2026-10-16T16:42:56.295646+00:00",
+  "substantive_open_objections": 0,
+  "author_repairs_requested": false
+}

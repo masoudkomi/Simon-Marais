@@ -1,0 +1,40 @@
+{
+  "event": "complete",
+  "mode": "benchmark",
+  "pid": 44769,
+  "families": 65536,
+  "elapsed_seconds": 6.402515250025317,
+  "certificate_histogram": {
+    "0": 4,
+    "101": 63005,
+    "103": 2433,
+    "107": 90,
+    "109": 4
+  },
+  "sentinels": [],
+  "degree_histogram": {
+    "(0, 20)": 4,
+    "(2, 20)": 3,
+    "(3, 20)": 5,
+    "(4, 20)": 4,
+    "(5, 20)": 8,
+    "(6, 20)": 16,
+    "(7, 20)": 24,
+    "(8, 20)": 64,
+    "(9, 20)": 128,
+    "(10, 20)": 256,
+    "(11, 20)": 512,
+    "(12, 20)": 1024,
+    "(13, 20)": 2048,
+    "(14, 20)": 4096,
+    "(16, 20)": 8192,
+    "(17, 20)": 16384,
+    "(18, 20)": 32768
+  },
+  "key_stream_sha256": "782f3be328e46cda4aeb6a150e766437443064e6b3c335814e5d6bb23854ed86",
+  "polynomial_stream_sha256": "18becafbadd85150417e60e03297423ae4d0a0c4d0e31395e646912fad4496b0",
+  "old_finite_dependency_families": 1493024,
+  "union_families": 6224952,
+  "reused_code_is_reviewers_own": "problems/2021-B4/reviews/three-witness-review-1-independent.py",
+  "old_core_sha256": "ed98ed514ac6dffa20e3c5779d7851437003326992f0619018f1837147386464"
+}

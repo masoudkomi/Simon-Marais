@@ -1,0 +1,10 @@
+{"event": "prime_field_masks_derived", "pid": 44769, "binary_choices": 131072, "all_masks": 6680, "old_masks": 772, "additional_masks": 5908, "refinement_counts": {"all": 6224952, "accepted_old": 1493024, "new_complement": 4731928}, "J_histogram": {"6": 1, "7": 1, "8": 3, "9": 5, "10": 26, "11": 32, "12": 101, "13": 131, "14": 315, "15": 461, "16": 887, "17": 1674, "18": 3043}}
+{"event": "checkpoint", "families": 8192, "mask": 8196, "seconds": 1.978}
+{"event": "checkpoint", "families": 16384, "mask": 8196, "seconds": 2.651}
+{"event": "checkpoint", "families": 24576, "mask": 8196, "seconds": 3.287}
+{"event": "checkpoint", "families": 32768, "mask": 8196, "seconds": 3.923}
+{"event": "checkpoint", "families": 40960, "mask": 8204, "seconds": 4.542}
+{"event": "checkpoint", "families": 49152, "mask": 8204, "seconds": 5.158}
+{"event": "checkpoint", "families": 57344, "mask": 8233, "seconds": 5.78}
+{"event": "checkpoint", "families": 65536, "mask": 8242, "seconds": 6.402}
+{"event": "complete", "mode": "benchmark", "pid": 44769, "families": 65536, "elapsed_seconds": 6.402515250025317, "certificate_histogram": {"0": 4, "101": 63005, "103": 2433, "107": 90, "109": 4}, "key_stream_sha256": "782f3be328e46cda4aeb6a150e766437443064e6b3c335814e5d6bb23854ed86", "polynomial_stream_sha256": "18becafbadd85150417e60e03297423ae4d0a0c4d0e31395e646912fad4496b0", "old_finite_dependency_families": 1493024, "union_families": 6224952, "reused_code_is_reviewers_own": "problems/2021-B4/reviews/three-witness-review-1-independent.py", "old_core_sha256": "ed98ed514ac6dffa20e3c5779d7851437003326992f0619018f1837147386464"}

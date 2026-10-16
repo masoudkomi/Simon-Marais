@@ -1,0 +1,54 @@
+{
+  "checked_at_utc": "2026-10-16T16:39:01.909325+00:00",
+  "inputs": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4271,
+      "sha256": "32ce511aab27061680c98197793b5a9b3ee03a421c822868fad69ea525816257"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-three-complex-witnesses-v1.md",
+      "bytes": 9248,
+      "sha256": "4696d98dfe053d74fc4114bc0986359288a8f542c7f87c29134746b7d73d2d65"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-three-complex-witnesses-v1-completion.md",
+      "bytes": 3276,
+      "sha256": "a964371dcb956624e23a41c54ab09fad085324f9dd97ce3c6f5b276646dc9719"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-three-complex-witnesses-v1-manifest.json",
+      "bytes": 34830,
+      "sha256": "d9210626ef24fe18ccde57706399d6c30a5fedb81d71a972da5e562a1c582ec8"
+    },
+    {
+      "path": "problems/2021-B4/reviews/three-witness-review-2-freeze.json",
+      "bytes": 4585,
+      "sha256": "68379652537bfa8f0b29e5d9304c5ab19d79a1c2bb63e295d288a76d13a6ec21"
+    },
+    {
+      "path": "problems/2021-B4/reviews/three-witness-review-2-full-result.json",
+      "bytes": 8592,
+      "sha256": "fd0cc937f4ce00be1c02947d4bf5cbadb58af747a5c918a6879129d186cef891"
+    }
+  ],
+  "primary_sources": [
+    {
+      "path": ".cache/literature/2021/massri-1806.09561v6.pdf",
+      "bytes": 154257,
+      "sha256": "8e5dec6d9d3ca1cb6becd7fa7e3d4c6ef18927cff9521c5f4eb9a1c1b567952f",
+      "url": "https://arxiv.org/pdf/1806.09561v6",
+      "locations": "Theorem 7.10 and proof (PDF pages 13-14), Remark 7.4 (PDF pages 11-12); attribution, not the computational dependency"
+    },
+    {
+      "path": ".cache/literature/2021/cited-66c5af6a0f0239f5.pdf",
+      "bytes": 281743,
+      "sha256": "d818747102d32060f43ae5f015f27065aadf38699b272a2367749db8b33fedbf",
+      "url": "https://arxiv.org/pdf/1208.5404",
+      "locations": "Section 3.4 equations 9-10, normalization and Lemma 17; ramification distinguished from Proposition 19"
+    }
+  ],
+  "attribution": "Massri v6 already makes the restricted complex claim; v2/v3/v5 withdrawn separately. This audit does not validate that preprint computation.",
+  "accepted_old_dependency": "Explicit finite polynomial-pair incompatibilities for 772 masks / 1,493,024 families, including old 131 resolver; rational-only Newton mask exclusions are not imported as complex theorems.",
+  "new_peer_review_or_unrelated_J16_work_read": false
+}

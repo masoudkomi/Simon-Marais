@@ -1,0 +1,148 @@
+{
+  "completed_at_utc": "2026-10-16T16:38:03.247358+00:00",
+  "status": "R1 complete independent extension audit; no unresolved substantive objections; coordinator promotion pending",
+  "candidate_claim": "C20 restricted complex recycled-cover theorem; not full degree20 or B4(b)",
+  "candidate_sha256": "4696d98dfe053d74fc4114bc0986359288a8f542c7f87c29134746b7d73d2d65",
+  "candidate_manifest_sha256": "d9210626ef24fe18ccde57706399d6c30a5fedb81d71a972da5e562a1c582ec8",
+  "all154_candidate_artifacts_unchanged": true,
+  "new_masks_independently_derived": 6680,
+  "new_complementary_families_fully_reconstructed": 4731928,
+  "old_explicit_accepted_finite_dependency_families": 1493024,
+  "union_families": 6224952,
+  "old25_chunks_freshly_recomputed_in_this_extension": false,
+  "all79_new_chunks_fully_checked": true,
+  "new_complete_polynomial_stream_sha256": "49da0560f41fdf3fce8a1ed7e63e877b5d51533de93142d74be7129d3db04da2",
+  "new_complete_certificate_stream_sha256": "e4dee952d410bf709b8c90dd61002ee88c4179a5fe7a8ca0678fe3644a25ffb1",
+  "new_independent_source_pre_raw_and_after_sha256": "b486f1f2f5a2e364e65c83f33e6107eb0302dd9d1117d15cd589056f2df0defa",
+  "reused_own_old_core_sha256": "ed98ed514ac6dffa20e3c5779d7851437003326992f0619018f1837147386464",
+  "old_rational_mask_enumeration_called": false,
+  "constructor_modules_imported_or_executed": false,
+  "new_peer_extension_reports_or_conclusions_read": false,
+  "open_substantive_issues": 0,
+  "author_repairs_requested": 0,
+  "full_child_pid": 44919,
+  "full_external_timeout_seconds": 900.0,
+  "full_child_elapsed_seconds": 475.16321229201276,
+  "full_child_reaped": true,
+  "full_child_exit_code": 0,
+  "requested_model": "gpt-6.1-sol",
+  "requested_reasoning_effort": "max",
+  "verified_effective_settings": null,
+  "artifacts": [
+    {
+      "path": "problems/2021-B4/reviews/three-complex-review-1-benchmark-job.json",
+      "bytes": 863,
+      "sha256": "0d8cefc90c51f954a530bf622f328d3fded1ad09e6ba0b46924be6d671058458"
+    },
+    {
+      "path": "problems/2021-B4/reviews/three-complex-review-1-benchmark-output.txt",
+      "bytes": 1616,
+      "sha256": "aa5f225d78f7a6d0e3753308b572e003506865df95cc3cc8bb2ed64228e81fd2"
+    },
+    {
+      "path": "problems/2021-B4/reviews/three-complex-review-1-benchmark-result.json",
+      "bytes": 1077,
+      "sha256": "8365a68e8a321738affe370cd68295f621738ad05fe875f938c267805b0cc799"
+    },
+    {
+      "path": "problems/2021-B4/reviews/three-complex-review-1-benchmark-stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "problems/2021-B4/reviews/three-complex-review-1-full-job.json",
+      "bytes": 859,
+      "sha256": "81965999003621fcfa5bdc1570f4652942ba6a6825c60c394c33f7aa142a7ecc"
+    },
+    {
+      "path": "problems/2021-B4/reviews/three-complex-review-1-full-output.txt",
+      "bytes": 47050,
+      "sha256": "ab8d86f4ce4198231111ae20543852eab34c0bd956d09336c54b4529f4ca077b"
+    },
+    {
+      "path": "problems/2021-B4/reviews/three-complex-review-1-full-result.json",
+      "bytes": 24540,
+      "sha256": "6a1771fe2c0f1d4d86e3608eca94154beb10a33dffdba4121defccf373dbdc50"
+    },
+    {
+      "path": "problems/2021-B4/reviews/three-complex-review-1-full-stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "problems/2021-B4/reviews/three-complex-review-1-independent-masks.json",
+      "bytes": 149549,
+      "sha256": "17ec0ea4599e9c347de8f45bfa3c8a8f240c627ec2bb838ee65c3c9bbf09798f"
+    },
+    {
+      "path": "problems/2021-B4/reviews/three-complex-review-1-independent.py",
+      "bytes": 8851,
+      "sha256": "b486f1f2f5a2e364e65c83f33e6107eb0302dd9d1117d15cd589056f2df0defa"
+    },
+    {
+      "path": "problems/2021-B4/reviews/three-complex-review-1-input-validation.json",
+      "bytes": 34876,
+      "sha256": "bad2bea706a684e592f9b8aebb5d30e0540c68425777974f6517fa46aafc817e"
+    },
+    {
+      "path": "problems/2021-B4/reviews/three-complex-review-1-issues.md",
+      "bytes": 1481,
+      "sha256": "f681bfdebb4b956ec72450ad3401b086459fb5da3415d52378738b0ab20555d4"
+    },
+    {
+      "path": "problems/2021-B4/reviews/three-complex-review-1-masks-job.json",
+      "bytes": 859,
+      "sha256": "7116c58bc10e491811a5812d186afad587f7cbbf3180b904db86f8946e38ecf5"
+    },
+    {
+      "path": "problems/2021-B4/reviews/three-complex-review-1-masks-output.txt",
+      "bytes": 381,
+      "sha256": "08338826d60c4faaeb5ca0165c016041d9a0045a9c70f49a8045662030e14e38"
+    },
+    {
+      "path": "problems/2021-B4/reviews/three-complex-review-1-masks-stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "problems/2021-B4/reviews/three-complex-review-1-postcheck-job.json",
+      "bytes": 803,
+      "sha256": "dddddf3628d27fa3f9ae2d6a68fc3ad1a2238e9fa54bb20fdad5d6b674d42fd2"
+    },
+    {
+      "path": "problems/2021-B4/reviews/three-complex-review-1-postcheck-output.txt",
+      "bytes": 732,
+      "sha256": "50916d75c7da8933879020d55cc36d4ed4ebad31667809f48bce90d5a170b344"
+    },
+    {
+      "path": "problems/2021-B4/reviews/three-complex-review-1-postcheck-result.json",
+      "bytes": 2048,
+      "sha256": "b4d3d90660a8c41f02b9f39c24382a8d342e4cc912f8f9495306b448baeec410"
+    },
+    {
+      "path": "problems/2021-B4/reviews/three-complex-review-1-postcheck-stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "problems/2021-B4/reviews/three-complex-review-1-postcheck.py",
+      "bytes": 8131,
+      "sha256": "5dfe05842188ecc38cc90a07a23aab12c423ac3f0e4a7051c1d996f41ecb905e"
+    },
+    {
+      "path": "problems/2021-B4/reviews/three-complex-review-1-run.py",
+      "bytes": 2659,
+      "sha256": "dc01988c1a02a9249e8f6e24b5a68eb8d6ebd72e9e5fe81ba1f42e4ffe5a1598"
+    },
+    {
+      "path": "problems/2021-B4/reviews/three-complex-review-1-telemetry.json",
+      "bytes": 377,
+      "sha256": "3032016b0f2344d810f00474c69a3b1a31bc0ac2fce5ab337e94da675169506f"
+    },
+    {
+      "path": "problems/2021-B4/reviews/three-complex-review-1.md",
+      "bytes": 20339,
+      "sha256": "82a675eac5c333eee500fe71305bbce1b99c73265df13c87fef973239024bd57"
+    }
+  ]
+}
