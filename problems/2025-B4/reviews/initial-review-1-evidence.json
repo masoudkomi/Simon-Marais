@@ -1,0 +1,175 @@
+{
+  "status": "complete",
+  "purpose": "finite evidence only",
+  "python": "3.12.14",
+  "dependencies": "Python standard library only",
+  "started_utc": "2026-10-16T15:29:01.070764+00:00",
+  "script_sha256": "14dba4828dc7df6716a998e9250e6d7560b8c1981d127a8439d38feb2e1c7c4d",
+  "excluded_solution_slice": "degree=3 and odd q>=3",
+  "parameters": {
+    "C1_boundary": {
+      "x": [
+        -1,
+        0,
+        1
+      ],
+      "degree": [
+        2,
+        80
+      ],
+      "q": [
+        2,
+        12
+      ],
+      "y": [
+        -30,
+        30
+      ]
+    },
+    "C1_C2": {
+      "x": [
+        -96,
+        96
+      ],
+      "term_count": [
+        3,
+        80
+      ],
+      "odd_primes": [
+        3,
+        5,
+        7,
+        11,
+        13,
+        17,
+        19,
+        23,
+        29,
+        31
+      ]
+    },
+    "C3": {
+      "x": [
+        -1000,
+        1000
+      ]
+    },
+    "C4": {
+      "x": [
+        -35,
+        35
+      ],
+      "r": [
+        1,
+        15
+      ],
+      "s": [
+        1,
+        15
+      ]
+    },
+    "solution_search": {
+      "max_abs_x": 60,
+      "degree": [
+        2,
+        32
+      ],
+      "q": "all possible q>=2 by abs(G).bit_length()-1"
+    },
+    "son_ring_coefficients": {
+      "a": [
+        -12,
+        12
+      ],
+      "b": [
+        -12,
+        12
+      ]
+    }
+  },
+  "stage": "complete",
+  "counts": {
+    "boundary_quadruples": 158112,
+    "boundary_preliminary_slice_skipped": 915,
+    "gcd_and_identity_pairs": 15054,
+    "nonboundary_sign_pairs": 14820,
+    "parity_odd": 11154,
+    "odd_prime_LTE": 15366,
+    "two_adic_LTE": 3666,
+    "C3_nonsquares": 1999,
+    "C4_factor_gcd_triples": 15975,
+    "C4_nonzero_nonboundary_triples": 15300,
+    "C4_zero_factor_triples": 161,
+    "C4_exponent_reductions": 1066,
+    "independent_solution_pairs": 3658,
+    "independent_exact_root_tests": 246447,
+    "son_ring_exact_tests": 625
+  },
+  "elapsed_seconds": 0.91958,
+  "last_completed_abs_x": 60,
+  "solutions_in_finite_range": [
+    [
+      -19,
+      7,
+      2,
+      3
+    ],
+    [
+      3,
+      -11,
+      4,
+      2
+    ],
+    [
+      3,
+      11,
+      4,
+      2
+    ],
+    [
+      7,
+      -20,
+      3,
+      2
+    ],
+    [
+      7,
+      20,
+      3,
+      2
+    ],
+    [
+      18,
+      7,
+      2,
+      3
+    ]
+  ],
+  "son": {
+    "boundary_counterexample": {
+      "x": -1,
+      "y": 1,
+      "degree": 4,
+      "term_count": 5,
+      "q": 3
+    },
+    "correct_rho_coefficient": "a^3+3*a^2*b+6*a*b^2+3*b^3",
+    "printed_rho_coefficient": "a^3+6*a^2*b+9*a*b^2+5*b^3",
+    "a_minus1_b1_ring_value": [
+      2,
+      -1
+    ],
+    "printed_coefficient_at_same_pair": 1
+  },
+  "wang_eq33_identity_check": {
+    "T": "64",
+    "c": "65",
+    "rho": "1/8",
+    "correct_expression_squared": "4160",
+    "printed_expression_squared": "65/64",
+    "square_ratio": "4096",
+    "general_correction": "sqrt(c)/rho = T*sqrt(c/T), rho=1/sqrt(T)"
+  },
+  "finished_utc": "2026-10-16T15:29:01.990162+00:00",
+  "substantive_counterexamples": []
+}

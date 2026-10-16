@@ -1,0 +1,31 @@
+{
+  "status": "targeted finite construction, independent audits pending",
+  "source_sha256": "e5989956ac84c3240150eaae9b909476fd1f8d2b49eafbb47a673afd0f489927",
+  "helpers_sha256": "b256641c20b4cd6dbd7e346421fe09f5ebdb58090887a43fe06ef845d3534046",
+  "cases": [
+    {
+      "center_mask": 6436,
+      "u_mask": 24785,
+      "raw_record_sha256": "68235145f9694471df510c6806dfaf4af3b7e4c519e1ef2396d655752d22dc3f",
+      "degrees": [
+        16,
+        20
+      ],
+      "status": "coprime_mod_prime",
+      "prime": 131,
+      "gcd_degree": 0,
+      "leading_residues": [
+        8,
+        102
+      ],
+      "trials": [
+        {
+          "prime": 131,
+          "gcd_degree": 0
+        }
+      ]
+    }
+  ],
+  "resolved": 1,
+  "unresolved": 0
+}

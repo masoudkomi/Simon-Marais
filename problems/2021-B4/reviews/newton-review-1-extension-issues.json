@@ -1,0 +1,25 @@
+{
+  "review": "R1 separate initial blind extension audit",
+  "candidate_sha256": "c38fbfa45e327c671c7737c03a4fdefb7407224445c4b8deb4761c4911a36a4f",
+  "substantive_open_objections": [],
+  "comments": [],
+  "checks": {
+    "adjacent_left_edge_minimum_valuation_and_strict_degree_drop": "passed",
+    "finite_extension_alpha_beta_and_coefficient_integrality": "passed",
+    "nontrivial_reduced_polynomial_after_algebraic_closure": "passed",
+    "all_h_minus_one_Hasse_witness_equations_and_integral_evaluation": "passed",
+    "empty_cluster_h_equals_m_and_h2_boundary": "passed",
+    "witness_collapse_and_repeated_roots": "passed",
+    "primary_CLO_Definition1_Theorem4_good19_degree5_hypotheses": "passed as published input; computational theorem not independently re-proved",
+    "bad19_degree6_and_degree7_limit": "verified from same primary source",
+    "all_131072_binary_masks": "passed",
+    "all_461_j15_raw_records_after_bit_order_conversion": "passed",
+    "new_j15_retained_and_removed": [69, 392],
+    "combined_survivors_using_separate_prior_j17_exclusion": 772
+  },
+  "other_reviewer_conclusions_seen": false,
+  "author_generation_code_imported_or_read": false,
+  "frozen_old_report_sha256_unchanged": "41ded8b1f1f7541e6b97978008cea7342668bf4452b37615e75d6d07c137d088",
+  "promotion_performed": false,
+  "scope": "Conditional necessary theorem D1, published-input specialization D2 at d20,J15, and exact finite pattern filter only. No full degree classification endorsed."
+}

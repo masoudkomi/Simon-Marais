@@ -1,0 +1,31 @@
+{
+  "accepted_at_utc": "2026-10-16T15:27:13.619049+00:00",
+  "status": "proved, independently reviewed (partial result)",
+  "full_problem_status": "no full degree solved",
+  "constructor": "coordinator",
+  "reviewers_distinct_from_constructor": true,
+  "initial_extension_audits_blind": true,
+  "both_full_reconstructions": true,
+  "substantive_repairs_required": false,
+  "novelty_established": false,
+  "J15_masks_removed": 392,
+  "J15_masks_retained": 69,
+  "combined_necessary_masks_remaining": 772,
+  "published_input": "CLODefinition1andTheorem4;precisehypothesesdirectlyverified,badprimecomputationnotindependentlyrerun",
+  "manifest_checks": {
+    "problems/2021-B4/notes/coordinator-newton-degeneration-v1-manifest.json": 6,
+    "reviews/newton-review-1-extension-manifest.json": 8,
+    "reviews/newton-review-2-extension-manifest.json": 10
+  },
+  "artifacts": {
+    "notes/coordinator-newton-degeneration-v1.md": "c38fbfa45e327c671c7737c03a4fdefb7407224445c4b8deb4761c4911a36a4f",
+    "notes/coordinator-newton-degeneration-v1-manifest.json": "66f3f164e57088236e526ad4d03da1cae6f916a3f63fb9ae5b8fe23596a1bb48",
+    "notes/coordinator-newton-degeneration-reviewed-v1.1.md": "11c49a9084c5257476d3278b5e05054916a05d4315973cda0205850372d85aeb",
+    "reviews/newton-review-1-extension.md": "70123784dcf8bd37682a628cfad8b0e6178b748ec43b0e149d5dc538dbffa36b",
+    "reviews/newton-review-2-extension.md": "3d3fb29910a61095e72bed69e7806a53dbd6f40fc1cc9829638e51dd88c8baac",
+    "reviews/newton-review-1-extension-manifest.json": "3a6b9b33bfe5c329e4de6689ca90b958a83af2013c4326d326417f1426ee1ce3",
+    "reviews/newton-review-2-extension-manifest.json": "a908195598e0ad4c9f16fdda4807a11bc28bb7b05bc3d48b5fa2a63033f39826",
+    "reviews/degeneration-acceptance.md": "843d02d26421a9133d9b179f7358cf9eb5cbfa7cf8c857fd95685c541ad99a9c",
+    "reviews/degeneration-acceptance-issues-snapshot.md": "9226764a51ee004d3928da0f1ed03e29bb5531cb4fe3779119374ac6dbd1eae8"
+  }
+}

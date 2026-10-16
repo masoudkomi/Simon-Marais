@@ -1,0 +1,357 @@
+{
+  "created_utc": "2026-10-16T15:38:10.451293+00:00",
+  "review_id": "2025-B4-initial-R1",
+  "candidate_version": "P2025-v1",
+  "review_status": "initial independent blind audit complete",
+  "verdict": "recommend accepting C1-C4 as partial lemmas; no promotion or full solution",
+  "blindness": "No other review or shared issues/status logs read before this report; no other reviewer conclusions received",
+  "requested_model": "gpt-6.1-sol",
+  "requested_reasoning": "max",
+  "effective_setting_readback": "unavailable; requested settings only",
+  "telemetry": {
+    "source": "authoritative codex_app get_usage_limits",
+    "weekly_used_percent": 8,
+    "weekly_window_duration_mins": 10080,
+    "resets_at": 1792745187,
+    "cutoff_total_used_percent": 90
+  },
+  "frozen_inputs": [
+    {
+      "path": "problems/2025-B4/proof.md",
+      "bytes": 5423,
+      "sha256": "c422139567ee3e2f4eafd852c9a3f5fac73cb6c8e0bfdf9e2c9c5311a9348b0d",
+      "file_created_utc": "2026-10-16T09:14:32.803093+00:00",
+      "file_last_written_utc": "2026-10-16T10:05:41.904293+00:00",
+      "initially_observed_sha256": "c422139567ee3e2f4eafd852c9a3f5fac73cb6c8e0bfdf9e2c9c5311a9348b0d",
+      "unchanged_at_manifest": true
+    },
+    {
+      "path": "problems/2025-B4/statement.md",
+      "bytes": 2024,
+      "sha256": "af0075dd635e8e4d31bb3ae9148d1731a7fbb57c06cf104763332e1496673f59",
+      "file_created_utc": "2026-10-16T09:14:32.686509+00:00",
+      "file_last_written_utc": "2026-10-16T10:06:42.375956+00:00",
+      "initially_observed_sha256": "af0075dd635e8e4d31bb3ae9148d1731a7fbb57c06cf104763332e1496673f59",
+      "unchanged_at_manifest": true
+    },
+    {
+      "path": "problems/2025-B4/references.md",
+      "bytes": 3975,
+      "sha256": "95eee8484284dbca050d5ee71896073af58f291ae68c8b461c48505610921396",
+      "file_created_utc": "2026-10-16T09:14:32.724629+00:00",
+      "file_last_written_utc": "2026-10-16T10:06:42.405049+00:00",
+      "initially_observed_sha256": "95eee8484284dbca050d5ee71896073af58f291ae68c8b461c48505610921396",
+      "unchanged_at_manifest": true
+    },
+    {
+      "path": "problems/2025-B4/research.md",
+      "bytes": 7407,
+      "sha256": "72856e04048a313721a89e32ffa665a6b6bc470027f8e1f401776f79faae25f5",
+      "file_created_utc": "2026-10-16T09:14:32.763304+00:00",
+      "file_last_written_utc": "2026-10-16T10:07:53.697891+00:00",
+      "initially_observed_sha256": "72856e04048a313721a89e32ffa665a6b6bc470027f8e1f401776f79faae25f5",
+      "unchanged_at_manifest": true
+    },
+    {
+      "path": "problems/2025-B4/computations/literature-audit.md",
+      "bytes": 4416,
+      "sha256": "fa1921d05a974ddfd0d1cc862aa057688ea6ac063b1fbf32a33c44213505c0fe",
+      "file_created_utc": "2026-10-16T10:06:42.431351+00:00",
+      "file_last_written_utc": "2026-10-16T10:06:42.431499+00:00",
+      "initially_observed_sha256": "fa1921d05a974ddfd0d1cc862aa057688ea6ac063b1fbf32a33c44213505c0fe",
+      "unchanged_at_manifest": true
+    },
+    {
+      "path": "problems/2025-B4/computations/source-manifest.json",
+      "bytes": 1481,
+      "sha256": "b9abe6b4c186e50ecd78035842933aa3ec3b5d28435dc5f8c4d202b14f1b080b",
+      "file_created_utc": "2026-10-16T10:02:15.597988+00:00",
+      "file_last_written_utc": "2026-10-16T10:02:15.598078+00:00",
+      "initially_observed_sha256": "b9abe6b4c186e50ecd78035842933aa3ec3b5d28435dc5f8c4d202b14f1b080b",
+      "unchanged_at_manifest": true
+    },
+    {
+      "path": "problems/2025-B4/computations/investigate.py",
+      "bytes": 9378,
+      "sha256": "a80a37b8ebe9bfa6811e4ff82f4960fe0ad03f48fbd9df7d595d5972f5cbc3c6",
+      "file_created_utc": "2026-10-16T09:58:40.632129+00:00",
+      "file_last_written_utc": "2026-10-16T10:05:41.932525+00:00",
+      "initially_observed_sha256": "a80a37b8ebe9bfa6811e4ff82f4960fe0ad03f48fbd9df7d595d5972f5cbc3c6",
+      "unchanged_at_manifest": true
+    },
+    {
+      "path": "problems/2025-B4/computations/initial-results.json",
+      "bytes": 2970,
+      "sha256": "ea79e5d1f11c96e04fdaba0ea0f2e4976d55672eade3332a6e2ff64e3cbb83a7",
+      "file_created_utc": "2026-10-16T09:58:58.638342+00:00",
+      "file_last_written_utc": "2026-10-16T10:05:49.436383+00:00",
+      "initially_observed_sha256": "ea79e5d1f11c96e04fdaba0ea0f2e4976d55672eade3332a6e2ff64e3cbb83a7",
+      "unchanged_at_manifest": true
+    }
+  ],
+  "primary_pdf_sources": [
+    {
+      "path": ".cache/official/2025-paper_b.pdf",
+      "bytes": 195520,
+      "sha256": "c6d1d0c47c84521da836e766201224c84cae7c481449f28c72df842caa8e2893",
+      "file_created_utc": "2026-10-16T09:16:23.418244+00:00",
+      "file_last_written_utc": "2026-10-16T09:16:23.418506+00:00",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc2025_paper_b.pdf",
+      "audited_scope": "page 2, B4(b) text only",
+      "byte_hash_kind": "original downloaded PDF bytes",
+      "reviewed_utc_date": "2026-10-16",
+      "redistribution": "not verified; ignored local cache only; do not commit full source",
+      "original_retrieval_date_from_existing_manifest": "2026-10-16",
+      "original_exact_retrieval_time": "not independently available; filesystem timestamps above are not asserted to be retrieval timestamps"
+    },
+    {
+      "path": ".cache/official/2025-solutions.pdf",
+      "bytes": 276484,
+      "sha256": "46872f990326e1a0f484f02ce863b3341178a299622041768f4964a5cafd2e5e",
+      "file_created_utc": "2026-10-16T09:16:23.389658+00:00",
+      "file_last_written_utc": "2026-10-16T09:16:23.390076+00:00",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc2025solutions.pdf",
+      "audited_scope": "page 20, unsolved-part remark only",
+      "byte_hash_kind": "original downloaded PDF bytes",
+      "reviewed_utc_date": "2026-10-16",
+      "redistribution": "not verified; ignored local cache only; do not commit full source",
+      "original_retrieval_date_from_existing_manifest": "2026-10-16",
+      "original_exact_retrieval_time": "not independently available; filesystem timestamps above are not asserted to be retrieval timestamps"
+    },
+    {
+      "path": ".cache/literature/2025/bennett-levin-2015.pdf",
+      "bytes": 187127,
+      "sha256": "ac38ad33a480068a707054a0a9acc7c937f70af84171cb7465b7d0fdd99b2b99",
+      "file_created_utc": "2026-10-16T10:01:58.829113+00:00",
+      "file_last_written_utc": "2026-10-16T10:02:02.649065+00:00",
+      "url": "https://personal.math.ubc.ca/~bennett/BeLe-Mona-2015.pdf",
+      "audited_scope": "published pages 15-17, equation (1), Proposition 1, Theorem 1; page 16 rendered",
+      "byte_hash_kind": "original downloaded PDF bytes",
+      "reviewed_utc_date": "2026-10-16",
+      "redistribution": "not verified; ignored local cache only; do not commit full source",
+      "original_retrieval_date_from_existing_manifest": "2026-10-16",
+      "original_exact_retrieval_time": "not independently available; filesystem timestamps above are not asserted to be retrieval timestamps"
+    },
+    {
+      "path": ".cache/literature/2025/bennett-levin-1312.4037.pdf",
+      "bytes": 184844,
+      "sha256": "c821c8d505a22b77129f0010a515349ed6c921c7df357a5e80809d1409d296cc",
+      "file_created_utc": "2026-10-16T09:56:31.785327+00:00",
+      "file_last_written_utc": "2026-10-16T09:56:31.813828+00:00",
+      "url": "https://arxiv.org/pdf/1312.4037",
+      "audited_scope": "first two pages, theorem numbering only",
+      "byte_hash_kind": "original downloaded PDF bytes",
+      "reviewed_utc_date": "2026-10-16",
+      "redistribution": "not verified; ignored local cache only; do not commit full source",
+      "original_retrieval_date_from_existing_manifest": "2026-10-16",
+      "original_exact_retrieval_time": "not independently available; filesystem timestamps above are not asserted to be retrieval timestamps"
+    },
+    {
+      "path": ".cache/literature/2025/bugeaud-mihailescu-2007.pdf",
+      "bytes": 67833,
+      "sha256": "105ea336a19143e6c9189843686185c4da6cf5d68ffdcc565664d4829fd8567c",
+      "file_created_utc": "2026-10-16T10:00:18.365361+00:00",
+      "file_last_written_utc": "2026-10-16T10:00:18.697917+00:00",
+      "url": "https://journals.msp.org/mscand/article/download/659/658",
+      "audited_scope": "published pages 177-179, Theorem NL, Theorems 1-2; page 178 rendered",
+      "byte_hash_kind": "original downloaded PDF bytes",
+      "reviewed_utc_date": "2026-10-16",
+      "redistribution": "not verified; ignored local cache only; do not commit full source",
+      "original_retrieval_date_from_existing_manifest": "2026-10-16",
+      "original_exact_retrieval_time": "not independently available; filesystem timestamps above are not asserted to be retrieval timestamps"
+    },
+    {
+      "path": ".cache/literature/2025/son-2026-A44.pdf",
+      "bytes": 284667,
+      "sha256": "e78734481aaa6cb88902eb87b14297376a13cade1fd23180e9d13752fe9076db",
+      "file_created_utc": "2026-10-16T09:56:46.772273+00:00",
+      "file_last_written_utc": "2026-10-16T09:56:47.674080+00:00",
+      "url": "https://math.colgate.edu/~integers/aa44/aa44.pdf",
+      "audited_scope": "all five pages read; equation (6) on page 4 rendered",
+      "byte_hash_kind": "original downloaded PDF bytes",
+      "reviewed_utc_date": "2026-10-16",
+      "redistribution": "not verified; ignored local cache only; do not commit full source",
+      "original_retrieval_date_from_existing_manifest": "2026-10-16",
+      "original_exact_retrieval_time": "not independently available; filesystem timestamps above are not asserted to be retrieval timestamps"
+    },
+    {
+      "path": ".cache/literature/2025/initial-review-1-chen-mihailescu-2026-complete.pdf",
+      "bytes": 306724,
+      "sha256": "0642006f404df9c8402c2394054eea9cfe63249bf38975d431fc2f553d9c1730",
+      "file_created_utc": "2026-10-16T15:34:10.171686+00:00",
+      "file_last_written_utc": "2026-10-16T15:34:33.979792+00:00",
+      "url": "https://camath.fudan.edu.cn/cambcn/ch/reader/create_pdf.aspx?file_no=47B208&flag=1",
+      "audited_scope": "published pages 389-391 theorem/domain context and later proof context, not a full proof reconstruction; page 390 rendered",
+      "byte_hash_kind": "original downloaded PDF bytes",
+      "reviewed_utc_date": "2026-10-16",
+      "redistribution": "not verified; ignored local cache only; do not commit full source",
+      "pages": 24,
+      "pdf_header_and_eof_verified": true,
+      "retrieval_http_code": 200,
+      "retrieval_interval_basis": "actual client file creation through last write timestamps above, 2026-10-16T15:34:10.171686Z to 2026-10-16T15:34:33.979792Z",
+      "retrieval_note": "A normal byte-range request received HTTP 200 and the entire 306724-byte PDF; ranges were ignored. No concatenation or access bypass."
+    }
+  ],
+  "normalized_web_source_caches": [
+    {
+      "path": ".cache/literature/2025/initial-review-1-web-source-extractions.txt",
+      "bytes": 21411,
+      "sha256": "696bf8ed3f4f713b8e72eefdb578143ee7fce28e150b9ecda1d22e26885962ea",
+      "file_created_utc": "2026-10-16T15:26:27.693112+00:00",
+      "file_last_written_utc": "2026-10-16T15:26:27.693260+00:00",
+      "urls": [
+        "https://www.preprints.org/manuscript/202512.0286/v1",
+        "https://link.springer.com/article/10.1007/s11401-026-0018-7"
+      ],
+      "audited_scope": "Wang Theorem 7/8 full relevant context from public web tool; Springer first open returned only heading",
+      "byte_hash_kind": "normalized web-tool response UTF-8 cache, NOT original HTML/PDF source-byte hash",
+      "public_tool_access_date_utc": "2026-10-16",
+      "exact_tool_request_start_time": "not separately recorded",
+      "cache_time_basis": "actual local file creation/last write above",
+      "ignored_cache_only": true
+    },
+    {
+      "path": ".cache/literature/2025/initial-review-1-chen-web-context.txt",
+      "bytes": 22162,
+      "sha256": "8b4d5a8281e4868b6d7dcc6bbacdce3110f774c8c45a7aa182d14f781856acc4",
+      "file_created_utc": "2026-10-16T15:33:00.695737+00:00",
+      "file_last_written_utc": "2026-10-16T15:33:00.695883+00:00",
+      "urls": [
+        "https://camath.fudan.edu.cn/cambcn/ch/reader/create_pdf.aspx?file_no=47B208&flag=1",
+        "https://link.springer.com/article/10.1007/s11401-026-0018-7"
+      ],
+      "audited_scope": "Chen theorem/domain context and publisher abstract/access preview",
+      "byte_hash_kind": "normalized web-tool response UTF-8 cache, NOT original HTML/PDF source-byte hash",
+      "public_tool_access_date_utc": "2026-10-16",
+      "exact_tool_request_start_time": "not separately recorded",
+      "cache_time_basis": "actual local file creation/last write above",
+      "ignored_cache_only": true
+    }
+  ],
+  "incomplete_transfers_preserved": [
+    {
+      "path": ".cache/literature/2025/initial-review-1-chen-mihailescu-2026.partial",
+      "bytes": 218998,
+      "sha256": "9c2d7368300510e4da03b6edfafcf84b12bce5ed7d4fe062403c129cd0ebe69f",
+      "file_created_utc": "2026-10-16T15:27:12.455890+00:00",
+      "file_last_written_utc": "2026-10-16T15:27:54.111450+00:00",
+      "return_code": 28,
+      "diagnostic": "Operation timed out after 45005 milliseconds with 218998 bytes received",
+      "command": "curl -L --fail --silent --show-error --max-time 45 'https://camath.fudan.edu.cn/cambcn/ch/reader/create_pdf.aspx?file_no=47B208&flag=1' -o .cache/literature/2025/initial-review-1-chen-mihailescu-2026.pdf",
+      "complete_pdf": false,
+      "excluded_from_mathematical_source": true
+    },
+    {
+      "path": ".cache/literature/2025/initial-review-1-chen-mihailescu-2026-retry1.partial",
+      "bytes": 196472,
+      "sha256": "75e7dce3731a1552d843d75b5d9c1eb1fc775b04ac2cb5c1cfe72d567d827033",
+      "file_created_utc": "2026-10-16T15:29:16.098691+00:00",
+      "file_last_written_utc": "2026-10-16T15:30:13.486518+00:00",
+      "return_code": 28,
+      "diagnostic": "Operation timed out after 60006 milliseconds with 196472 bytes received",
+      "command": "curl -L --fail --silent --show-error --connect-timeout 20 --max-time 60 'https://camath.fudan.edu.cn/cambcn/ch/reader/create_pdf.aspx?file_no=47B208&flag=1' -o .cache/literature/2025/initial-review-1-chen-mihailescu-2026-retry1.pdf",
+      "complete_pdf": false,
+      "excluded_from_mathematical_source": true
+    },
+    {
+      "path": ".cache/literature/2025/initial-review-1-chen-mihailescu-2026-retry2.pdf",
+      "bytes": 278485,
+      "sha256": "1dd3173ed0d618cec50f684f2ba32d3038dff04a208cd4fb6d7540d38bed04c4",
+      "file_created_utc": "2026-10-16T15:32:35.679063+00:00",
+      "file_last_written_utc": "2026-10-16T15:32:50.595316+00:00",
+      "return_code": 18,
+      "diagnostic": "transfer closed with outstanding read data remaining; incomplete 278485-byte response",
+      "command": ".venv/bin/python -u problems/2025-B4/reviews/initial-review-1-cache.py; full curl argv/timestamps/PID in initial-review-1-cache-job.json",
+      "complete_pdf": false,
+      "excluded_from_mathematical_source": true
+    }
+  ],
+  "wang_download_failure": {
+    "url": "https://www.preprints.org/manuscript/202512.0286/v1",
+    "command": "curl -L --fail --silent --show-error --max-time 45 https://www.preprints.org/manuscript/202512.0286/v1 -o .cache/literature/2025/initial-review-1-wang-v1-2026-10-17.html",
+    "return_code": 56,
+    "diagnostic": "The requested URL returned error: 403",
+    "raw_html_cached": false,
+    "fallback": "accessible public web-tool full text, normalized extraction hash above; no bypass"
+  },
+  "successful_chen_download_command": "curl -L --fail --silent --show-error --connect-timeout 20 --max-time 45 --range 278485- -D .cache/literature/2025/initial-review-1-chen-tail-headers.txt 'https://camath.fudan.edu.cn/cambcn/ch/reader/create_pdf.aspx?file_no=47B208&flag=1' -o .cache/literature/2025/initial-review-1-chen-tail.bin; successful complete body subsequently renamed to initial-review-1-chen-mihailescu-2026-complete.pdf",
+  "commands": {
+    "exact_math_run": ".venv/bin/python -u problems/2025-B4/reviews/initial-review-1-run.py",
+    "manifest_build": ".venv/bin/python problems/2025-B4/reviews/initial-review-1-build-manifest.py",
+    "pdf_extraction": "Python 3.12.14 pypdf.PdfReader; relevant pages/scopes in each source entry",
+    "rendering": "bundled pdftoppm -f PAGE -l PAGE -r 110 -png -singlefile INPUT_PDF /private/tmp/initial-review-1-SOURCE; pages: Bennett-Levin 2, Bugeaud-Mihailescu 2, Son 4, Chen-Mihailescu 2"
+  },
+  "review_artifacts": [
+    {
+      "path": "problems/2025-B4/reviews/initial-review-1-build-manifest.py",
+      "bytes": 10956,
+      "sha256": "5dec6442b96228a17d6a8d2c5fc5f32c1cfb7c97265ee35e4f337ce36e6ae160",
+      "file_created_utc": "2026-10-16T15:38:10.332775+00:00",
+      "file_last_written_utc": "2026-10-16T15:38:10.332972+00:00"
+    },
+    {
+      "path": "problems/2025-B4/reviews/initial-review-1-cache-job.json",
+      "bytes": 1075,
+      "sha256": "747ae3913c9df5a445f4c819090ac343ee4d3aa48213184cd62c2131b3010ab2",
+      "file_created_utc": "2026-10-16T15:32:33.635814+00:00",
+      "file_last_written_utc": "2026-10-16T15:32:50.642648+00:00"
+    },
+    {
+      "path": "problems/2025-B4/reviews/initial-review-1-cache.log",
+      "bytes": 203,
+      "sha256": "207b73cf2fabd69ab79b2db6ea6dcc14f38b5baacc124dcf8b4d016e8be403c4",
+      "file_created_utc": "2026-10-16T15:32:33.629341+00:00",
+      "file_last_written_utc": "2026-10-16T15:32:50.596153+00:00"
+    },
+    {
+      "path": "problems/2025-B4/reviews/initial-review-1-cache.py",
+      "bytes": 2630,
+      "sha256": "e180b890a4099b3938a316feacf66bdf069fd088d51473440736196f435ee856",
+      "file_created_utc": "2026-10-16T15:31:18.691593+00:00",
+      "file_last_written_utc": "2026-10-16T15:31:18.691741+00:00"
+    },
+    {
+      "path": "problems/2025-B4/reviews/initial-review-1-check.py",
+      "bytes": 7953,
+      "sha256": "14dba4828dc7df6716a998e9250e6d7560b8c1981d127a8439d38feb2e1c7c4d",
+      "file_created_utc": "2026-10-16T15:28:48.605152+00:00",
+      "file_last_written_utc": "2026-10-16T15:28:48.605559+00:00"
+    },
+    {
+      "path": "problems/2025-B4/reviews/initial-review-1-child.log",
+      "bytes": 4789,
+      "sha256": "d764da8eb46e9b81e8200bae6b8e56918abe7980cbc72108fb9a8cb46dc5f0e0",
+      "file_created_utc": "2026-10-16T15:29:01.032057+00:00",
+      "file_last_written_utc": "2026-10-16T15:29:01.990461+00:00"
+    },
+    {
+      "path": "problems/2025-B4/reviews/initial-review-1-evidence.json",
+      "bytes": 3033,
+      "sha256": "0fe2e6bc59f50b652bba927da4365baf430fe8e0adcba34452df31eb52a23f97",
+      "file_created_utc": "2026-10-16T15:29:01.071148+00:00",
+      "file_last_written_utc": "2026-10-16T15:29:01.990394+00:00"
+    },
+    {
+      "path": "problems/2025-B4/reviews/initial-review-1-job.json",
+      "bytes": 754,
+      "sha256": "dcbde940815e986659d8c01972364906937ce3a314bc9a07f5eb20743960283e",
+      "file_created_utc": "2026-10-16T15:29:01.034245+00:00",
+      "file_last_written_utc": "2026-10-16T15:29:02.044084+00:00"
+    },
+    {
+      "path": "problems/2025-B4/reviews/initial-review-1-run.py",
+      "bytes": 1998,
+      "sha256": "d11727793374b8966865297a344612cf17e5c9d8a12d05dfe2fcf7983fa10d63",
+      "file_created_utc": "2026-10-16T15:28:48.644896+00:00",
+      "file_last_written_utc": "2026-10-16T15:28:48.645044+00:00"
+    },
+    {
+      "path": "problems/2025-B4/reviews/initial-review-1.md",
+      "bytes": 15264,
+      "sha256": "fbe46da540eb4fc644e8207fd2a558bc36cd4e0fc10a4ba8332625b049c1613b",
+      "file_created_utc": "2026-10-16T15:35:51.271107+00:00",
+      "file_last_written_utc": "2026-10-16T15:35:51.271363+00:00"
+    }
+  ],
+  "limits": "finite calculations are evidence only; published full proofs were not reconstructed; no preliminary proof reproduced; no global process cleanup; no charges, commit, push, promotion or candidate edit"
+}

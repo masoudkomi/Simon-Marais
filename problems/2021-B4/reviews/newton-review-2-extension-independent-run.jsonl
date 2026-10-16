@@ -1,0 +1,6 @@
+{"coordinator_code_or_results_read": false, "degree": 20, "method": "incremental Pascal evaluations over F_19, independent of ordinary-coefficient coordinator implementation", "phase": "start", "prime": 19}
+{"passing": 1598, "phase": "checkpoint", "visited": 32768}
+{"passing": 3244, "phase": "checkpoint", "visited": 65536}
+{"passing": 4934, "phase": "checkpoint", "visited": 98304}
+{"passing": 6680, "phase": "checkpoint", "visited": 131072}
+{"counts": {"15": {"discarded": 392, "h": 5, "retained": 69}, "16": {"discarded": 799, "h": 4, "retained": 88}, "17": {"discarded": 1601, "h": 3, "retained": 73}, "18": {"discarded": 3043, "h": 2, "retained": 0}}, "elapsed_seconds": 0.13249941600952297, "histogram": {"6": 1, "7": 1, "8": 3, "9": 5, "10": 26, "11": 32, "12": 101, "13": 131, "14": 315, "15": 461, "16": 887, "17": 1674, "18": 3043}, "new_remaining": 772, "newly_removed": 392, "old_remaining": 1164, "passes": 6680, "phase": "complete", "visited": 131072}

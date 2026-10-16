@@ -1,0 +1,20 @@
+R1 independent code 3.12.14 stdlib only
+Finite evidence, never an unrestricted proof
+FIBER signotopes ready 1 1
+FIBER COMPLETE 1 paired_words 1 canonical_cases 1 completion_bases {2: 1} memo CacheInfo(hits=0, misses=1, maxsize=None, currsize=1)
+FIBER signotopes ready 2 1
+FIBER COMPLETE 2 paired_words 3 canonical_cases 2 completion_bases {2: 2} memo CacheInfo(hits=3, misses=4, maxsize=None, currsize=4)
+FIBER signotopes ready 3 2
+FIBER COMPLETE 3 paired_words 15 canonical_cases 5 completion_bases {2: 5} memo CacheInfo(hits=15, misses=9, maxsize=None, currsize=9)
+FIBER signotopes ready 4 8
+Traceback (most recent call last):
+  File "/Users/uqmkamga/Documents/ChatGPT/Website/problems/2017-B4/reviews/secondpass-review-1-check.py", line 396, in <module>
+    main()
+  File "/Users/uqmkamga/Documents/ChatGPT/Website/problems/2017-B4/reviews/secondpass-review-1-check.py", line 363, in main
+    {"algebra":algebra,"fibers":fibers,"grid":grid,"finite-grid":finite_grid}[args.task]()
+  File "/Users/uqmkamga/Documents/ChatGPT/Website/problems/2017-B4/reviews/secondpass-review-1-check.py", line 229, in fibers
+    fixed, value, free_count, edge_count, base = fiber_data(canon)
+                                                 ^^^^^^^^^^^^^^^^^
+  File "/Users/uqmkamga/Documents/ChatGPT/Website/problems/2017-B4/reviews/secondpass-review-1-check.py", line 165, in fiber_data
+    raise RuntimeError("R1 completion genericity search failed")
+RuntimeError: R1 completion genericity search failed

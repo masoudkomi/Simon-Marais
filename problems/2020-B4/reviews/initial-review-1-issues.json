@@ -1,0 +1,24 @@
+{
+  "frozen_candidate_sha256": "f53945e49bd626847e52a61f7e39e96defd2ae44900f9d235c2c14e720f41525",
+  "reviewer": "independent initial reviewer R1",
+  "substantive_mathematical_objections": [],
+  "issues": [
+    {
+      "id": "R1-2020-C1",
+      "severity": "minor citation/version ambiguity",
+      "blocking_mathematical_acceptance": false,
+      "locations": ["references.md Gordon 2020/2022 entry", "computations/README.md", "computations/residual_orders.py arasu_diagnostics docstring"],
+      "finding": "Theorem numbers 3/4 identify the cached arXiv v1 orbit inequality/cyclic bound. Indexed published text has numbers 2/3, with 4 the contracted extension.",
+      "requested_disposition": "Explicitly name arXiv v1 when retaining those numbers, or state both numbering systems. No mathematical formula or exception changes."
+    },
+    {
+      "id": "R1-2020-C2",
+      "severity": "optional exposition",
+      "blocking_mathematical_acceptance": false,
+      "locations": ["proofs/partial-v1.md P2 converse first sentence"],
+      "finding": "The closing paragraph makes the collineation hypothesis clear, but the first sentence merely says a cyclic regular action on points.",
+      "requested_disposition": "Optionally insert by collineations in that first sentence so an arbitrary point permutation action cannot be mistaken for the hypothesis."
+    }
+  ],
+  "promotion": "No status changed; coordinator and second independent audit remain required."
+}

@@ -1,0 +1,38 @@
+{
+  "status": "failed",
+  "started_utc": "2026-10-16T15:32:33.628928+00:00",
+  "command": [
+    "curl",
+    "-L",
+    "--fail",
+    "--silent",
+    "--show-error",
+    "--connect-timeout",
+    "20",
+    "--max-time",
+    "180",
+    "--write-out",
+    "http_code=%{http_code} bytes=%{size_download} time=%{time_total} effective_url=%{url_effective}\\n",
+    "https://camath.fudan.edu.cn/cambcn/ch/reader/create_pdf.aspx?file_no=47B208&flag=1",
+    "-o",
+    "/Users/uqmkamga/Documents/ChatGPT/Website/.cache/literature/2025/initial-review-1-chen-mihailescu-2026-retry2.pdf"
+  ],
+  "output_path": ".cache/literature/2025/initial-review-1-chen-mihailescu-2026-retry2.pdf",
+  "timeout_seconds": 185,
+  "checkpoints": [
+    {
+      "elapsed_seconds": 0.006,
+      "bytes": 0
+    },
+    {
+      "elapsed_seconds": 10.007,
+      "bytes": 188416
+    }
+  ],
+  "child_pid": 31808,
+  "return_code": 18,
+  "finished_utc": "2026-10-16T15:32:50.640997+00:00",
+  "elapsed_seconds": 17.012,
+  "bytes": 278485,
+  "sha256": "1dd3173ed0d618cec50f684f2ba32d3038dff04a208cd4fb6d7540d38bed04c4"
+}

@@ -32,6 +32,8 @@ Recheck before launching each group, during sustained work, before expensive com
 
 | 2026-10-16 15:13:21 UTC | 7% | 93% | Same reset; deeper 2019 and 2021 partial results accepted; fresh 2017 audit and separate degeneration audits continue. |
 
+| 2026-10-16 15:40:02 UTC | 9% | 91% | Same reset; degeneration partial result accepted, fresh full three-witness audit launched; 2017/2020/2025 reviews continue. |
+
 User clarification during the initial group: investigate only the explicitly open portion of B4. This narrows mathematical targets, not the weekly cutoff.
 
 ## Stop record

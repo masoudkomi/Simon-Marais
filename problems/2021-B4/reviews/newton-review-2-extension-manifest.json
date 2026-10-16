@@ -1,0 +1,212 @@
+{
+  "candidate_sha256": "c38fbfa45e327c671c7737c03a4fdefb7407224445c4b8deb4761c4911a36a4f",
+  "combined_necessary_patterns_remaining": 772,
+  "commits_pushes_promotion": false,
+  "computation": {
+    "comparison": {
+      "all_461_j15_masks_match": true,
+      "all_low_center_orders_match": true,
+      "all_retention_booleans_match": true,
+      "author_result_sha256": "04e24446d48f7073e5a9775cc121babef33e66db3391ded2aaa22fb63d6e2864",
+      "combined_remaining": 772,
+      "duplicate_masks": 0,
+      "histograms_match": true,
+      "mask_conversion": "17-bit reversal: author bit k-2 versus R2 bit (20-k)-2",
+      "missing_masks": 0,
+      "removed": 392,
+      "retained": 69
+    },
+    "dependencies": {
+      "main_check": "standard library only",
+      "pdf_extraction": "pypdf 6.10.0",
+      "python": "3.12.14"
+    },
+    "independent_result": "problems/2021-B4/reviews/newton-review-2-extension-independent-result.json",
+    "jobs": [
+      {
+        "command": [
+          "/Users/uqmkamga/Documents/ChatGPT/Website/.venv/bin/python",
+          "-u",
+          "/Users/uqmkamga/Documents/ChatGPT/Website/problems/2021-B4/reviews/newton-review-2-extension-check.py"
+        ],
+        "elapsed_seconds": 0.24107870800071396,
+        "exit_code": 0,
+        "output": "/Users/uqmkamga/Documents/ChatGPT/Website/problems/2021-B4/reviews/newton-review-2-extension-independent-run.jsonl",
+        "output_sha256": "7c58858fe6fdd578b05d66d5c7bc883322986a2fb6c4ba425238119f11b87944",
+        "pid": 29574,
+        "script_sha256": "c9409ab3def7b81aee962fece7d3efa25829dd64127c01da60d9764fd91f4644",
+        "started_at_unix": 1792163973.547679,
+        "timed_out": false,
+        "timeout_seconds": 30
+      },
+      {
+        "command": [
+          "/Users/uqmkamga/Documents/ChatGPT/Website/.venv/bin/python",
+          "-u",
+          "/Users/uqmkamga/Documents/ChatGPT/Website/problems/2021-B4/reviews/newton-review-2-extension-compare.py"
+        ],
+        "elapsed_seconds": 0.07385904199327342,
+        "exit_code": 0,
+        "output": "/Users/uqmkamga/Documents/ChatGPT/Website/problems/2021-B4/reviews/newton-review-2-extension-compare-run.jsonl",
+        "output_sha256": "e90978cf05b05820584b25fe5cd0a0ebae7ea7f49d5c4e4957b6b36c6e9600b1",
+        "pid": 29861,
+        "script_sha256": "1824fdbbd95c40f9478d3ab7350d5d43411e167cf63b87f181c8569daf6e6a1d",
+        "started_at_unix": 1792164026.9476638,
+        "timed_out": false,
+        "timeout_seconds": 30
+      }
+    ],
+    "jobs_running": false
+  },
+  "files": {
+    "problems/2021-B4/reviews/newton-review-2-extension-check.py": {
+      "bytes": 3496,
+      "sha256": "c9409ab3def7b81aee962fece7d3efa25829dd64127c01da60d9764fd91f4644"
+    },
+    "problems/2021-B4/reviews/newton-review-2-extension-compare-run-job.json": {
+      "bytes": 673,
+      "sha256": "d286337243edbd615f9c24fb8c107fc29ef5dd69c5069b8fd456fc9ccaeba6ba"
+    },
+    "problems/2021-B4/reviews/newton-review-2-extension-compare-run.jsonl": {
+      "bytes": 426,
+      "sha256": "e90978cf05b05820584b25fe5cd0a0ebae7ea7f49d5c4e4957b6b36c6e9600b1"
+    },
+    "problems/2021-B4/reviews/newton-review-2-extension-compare.py": {
+      "bytes": 2364,
+      "sha256": "1824fdbbd95c40f9478d3ab7350d5d43411e167cf63b87f181c8569daf6e6a1d"
+    },
+    "problems/2021-B4/reviews/newton-review-2-extension-comparison-result.json": {
+      "bytes": 429,
+      "sha256": "237b71e489b9ecb9d9d200a6f2493e23c41341fe911192b4252f413482dd3bf1"
+    },
+    "problems/2021-B4/reviews/newton-review-2-extension-independent-result.json": {
+      "bytes": 117922,
+      "sha256": "37e69cb54f91eac4bc9892c8239d14924aebe759b430296f7e6ad01f2f8b3ed4"
+    },
+    "problems/2021-B4/reviews/newton-review-2-extension-independent-run-job.json": {
+      "bytes": 674,
+      "sha256": "fe607c608e22f2325ec4d212b69e606b22a0c96f8abc3e430b47e7c95efb5018"
+    },
+    "problems/2021-B4/reviews/newton-review-2-extension-independent-run.jsonl": {
+      "bytes": 967,
+      "sha256": "7c58858fe6fdd578b05d66d5c7bc883322986a2fb6c4ba425238119f11b87944"
+    },
+    "problems/2021-B4/reviews/newton-review-2-extension-issues.json": {
+      "bytes": 1445,
+      "sha256": "faefea3048db74529b744ce9c6db74b5d0fdba795b88692536b99de792f80660"
+    },
+    "problems/2021-B4/reviews/newton-review-2-extension.md": {
+      "bytes": 13964,
+      "sha256": "3d3fb29910a61095e72bed69e7806a53dbd6f40fc1cc9829638e51dd88c8baac"
+    }
+  },
+  "frozen_at_utc": "2026-10-16T15:23:11.854159+00:00",
+  "full_contest_solution": false,
+  "independence": {
+    "R1_source_manifest_read": false,
+    "constructor": false,
+    "coordinator_finite_result_read_only_after_own_complete_result_saved": true,
+    "coordinator_program_read_imported_or_executed": false,
+    "other_reviews_or_shared_conclusion_logs_read": false
+  },
+  "input_checks": {
+    "problems/2021-B4/computations/coordinator-newton-degeneration-v1-job.json": {
+      "bytes": 909,
+      "matches": true,
+      "sha256": "833967198bbd32f722603f74f0dee7ef6870edf02ecec6b8e1d2e852d2120a7a"
+    },
+    "problems/2021-B4/computations/coordinator-newton-degeneration-v1-output.txt": {
+      "bytes": 487,
+      "matches": true,
+      "sha256": "f0cf663786033e95b70bdc1cc4b78bece6390419f8714bfc0f7bfdf5043790c1"
+    },
+    "problems/2021-B4/computations/coordinator-newton-degeneration-v1-result.json": {
+      "bytes": 52605,
+      "matches": true,
+      "sha256": "04e24446d48f7073e5a9775cc121babef33e66db3391ded2aaa22fb63d6e2864"
+    },
+    "problems/2021-B4/computations/coordinator-newton-degeneration-v1-stderr.txt": {
+      "bytes": 0,
+      "matches": true,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "problems/2021-B4/computations/coordinator-newton-degeneration-v1.py": {
+      "bytes": 3230,
+      "matches": true,
+      "sha256": "31bbeb780f20962ddbfe5c80512e317f646cc708de2241c7c380aed934bb9b1b"
+    },
+    "problems/2021-B4/notes/coordinator-newton-degeneration-v1.md": {
+      "bytes": 7569,
+      "matches": true,
+      "sha256": "c38fbfa45e327c671c7737c03a4fdefb7407224445c4b8deb4761c4911a36a4f"
+    }
+  },
+  "input_manifest": {
+    "path": "problems/2021-B4/notes/coordinator-newton-degeneration-v1-manifest.json",
+    "sha256": "66f3f164e57088236e526ad4d03da1cae6f916a3f63fb9ae5b8fe23596a1bb48"
+  },
+  "newly_removed_J15_patterns": 392,
+  "old_blind_report": {
+    "all_14_listed_old_artifacts_unchanged": true,
+    "file_checks": {
+      "problems/2021-B4/reviews/newton-review-2-compare-run-job.json": true,
+      "problems/2021-B4/reviews/newton-review-2-compare-run.jsonl": true,
+      "problems/2021-B4/reviews/newton-review-2-compare.py": true,
+      "problems/2021-B4/reviews/newton-review-2-comparison-summary.json": true,
+      "problems/2021-B4/reviews/newton-review-2-independent-cases.jsonl": true,
+      "problems/2021-B4/reviews/newton-review-2-independent-run-job.json": true,
+      "problems/2021-B4/reviews/newton-review-2-independent-run.jsonl": true,
+      "problems/2021-B4/reviews/newton-review-2-independent-summary.json": true,
+      "problems/2021-B4/reviews/newton-review-2-independent.py": true,
+      "problems/2021-B4/reviews/newton-review-2-initial-forms.json": true,
+      "problems/2021-B4/reviews/newton-review-2-issues.json": true,
+      "problems/2021-B4/reviews/newton-review-2-patterns.json": true,
+      "problems/2021-B4/reviews/newton-review-2-supervise.py": true,
+      "problems/2021-B4/reviews/newton-review-2.md": true
+    },
+    "frozen_at_utc": "2026-10-16T15:16:51.194844+00:00",
+    "frozen_before_extension_read": true,
+    "manifest_sha256": "2186cc6b5fb77cf8677486d19000eed8e8ea11189985020bf635f7d9333d8ab2",
+    "report_sha256": "18f04c057a43b715bfa326c050cf61ab574052289706eedc680ff4cea674a818"
+  },
+  "remaining_J15_patterns": 69,
+  "report": "problems/2021-B4/reviews/newton-review-2-extension.md",
+  "requested_settings": {
+    "effective_setting_readback": null,
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "source": {
+    "characteristic_19_bad_degrees": [
+      6,
+      7
+    ],
+    "characteristic_19_good_degrees": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "definition": "Definition 1: algebraically closed field, Hasse derivatives, excludes linear powers",
+    "name": "Castryck-Laterveer-Ounaies",
+    "path": ".cache/literature/2021/cited-66c5af6a0f0239f5.pdf",
+    "published_computations_not_rerun": true,
+    "relevant_pdf_pages_one_based": [
+      4,
+      5
+    ],
+    "sha256": "d818747102d32060f43ae5f015f27065aadf38699b272a2367749db8b33fedbf",
+    "theorem": "Theorem 4: exact bad primes degrees 5,6,7",
+    "url": "https://arxiv.org/abs/1208.5404",
+    "verified_on_utc_date": "2026-10-16"
+  },
+  "verdict": "conditional theorem and stated h<=5 applications pass R2 audit; no unresolved substantive objections; coordinator alone may promote",
+  "weekly_telemetry": {
+    "closing_total_used_percent": 8,
+    "opening_total_used_percent": 7,
+    "resets_at": 1792745187,
+    "stop_total_percent": 90,
+    "tool": "get_usage_limits",
+    "window_duration_mins": 10080
+  }
+}

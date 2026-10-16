@@ -2,7 +2,7 @@
   "branch": "codex/smmc-b4-research",
   "remote": "https://github.com/masoudkomi/Simon-Marais.git",
   "phase": "all initial passes complete; independent review and focused research",
-  "last_pushed_commit": "1c49dfb",
+  "last_pushed_commit": "2c8faaa",
   "initial_passes_complete": [
     2017,
     2018,
@@ -16,18 +16,18 @@
   ],
   "active": [
     {
-      "agent": "review_2017_secondpass_r1",
-      "role": "fresh blind full reviewer",
+      "agent": "owner_2017",
+      "role": "author repair in new versioned files after both initial audits",
       "year": 2017
     },
     {
-      "agent": "review_2021_newton_r1",
-      "role": "separate blind degeneration extension reviewer; old report frozen",
-      "year": 2021
+      "agent": "review_2020_initial_r1",
+      "role": "fresh blind full reviewer",
+      "year": 2020
     },
     {
-      "agent": "review_2021_newton_r2",
-      "role": "separate blind degeneration extension reviewer; old report frozen",
+      "agent": "review_2021_three_witness_r1",
+      "role": "fresh blind full reviewer of new1493024-family candidate",
       "year": 2021
     }
   ],
@@ -35,13 +35,13 @@
   "deferred": [
     2026
   ],
-  "weekly_used_percent_last_observed": 7,
+  "weekly_used_percent_last_observed": 9,
   "weekly_reset_unix": 1792745187,
   "caffeinate": {
     "pid": 5398,
     "exec_session": 57629,
     "duration_seconds": 43200
   },
-  "notes": "Snapshot not live telemetry. Accepted2018publishedreproductionand2023fullclassification; reviewedpartials2019strongerrenewalbounds,2021Newton/Eisenstein,2022density,2024wholephi13criterion. New2017packetsand2021degenerationextensionremainunverified. No stopcondition reached. Hostdelayhonestlyrecordedpreviously; caffeinate12hoursPID5398expiresabout21:26UTC. Fullpaperslocalignoredcache.",
-  "observed_at_utc": "2026-10-16T15:19:15.010658+00:00"
+  "notes": "Snapshot, not live telemetry. Full2018published reproduction and2023classification accepted. Reviewed partials2019strongerbounds,2021Eisenstein/Newton/degeneration772masks,2022density,2024wholephi13criterion. 2017R1requestsG2boundarycrossingrepair; R2blindactive. 2025R1complete,R2pending. New2021three-rational-witness theorem unverified, freshR1active. Fullpapers localignoredcache. No stopcondition reached. Caffeinate12hourPID5398 expires about21:26UTC.",
+  "observed_at_utc": "2026-10-16T15:40:01.483607+00:00"
 }

@@ -1,0 +1,26 @@
+{
+  "started_at_utc": "2026-10-16T15:28:49.782452+00:00",
+  "command": [
+    "/Users/uqmkamga/Documents/ChatGPT/Website/.venv/bin/python",
+    "-u",
+    "/Users/uqmkamga/Documents/ChatGPT/Website/problems/2021-B4/computations/coordinator-three-witness-v1.py",
+    "--J",
+    "15",
+    "--child"
+  ],
+  "timeout_seconds": 30,
+  "status": "completed",
+  "helpers_sha256": "b256641c20b4cd6dbd7e346421fe09f5ebdb58090887a43fe06ef845d3534046",
+  "masks_sha256": "96f61ad6b173c1fd40bfc2dff3f87c44b616db87bd6db0a0ca77b1a019bee803",
+  "construction_only": true,
+  "pid": 30812,
+  "return_code": 0,
+  "elapsed_seconds": 6.6168550409784075,
+  "sha256": {
+    "coordinator-three-witness-v1.py": "557384e02ec5ffc63196fa1c6641ffcee2acee91e8eedc3247b7173fc71faca7",
+    "coordinator-three-witness-J15-v1-output.txt": "c511009f0ed7675ce3569356f42e580008dc9c3a6a9ee14e597ae673dc99e664",
+    "coordinator-three-witness-J15-v1-stderr.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "coordinator-three-witness-J15-v1-result.json": "813d34433f277d9e39f913906118d6e484a18b06fdec8e072e2984694973062c",
+    "coordinator-three-witness-J15-v1-certificates.jsonl": "decd4acccd671f3567e2009916991286f41bdd240d772d3b76240a80287553c9"
+  }
+}

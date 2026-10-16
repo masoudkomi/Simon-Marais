@@ -1,0 +1,249 @@
+{
+  "recorded_utc": "2026-10-16T15:43:36.541376+00:00",
+  "scope": "Independent R2 initial audit of exactly three frozen 2017 B4 second-pass packets",
+  "reviewer": "/root/review_2017_secondpass_r2",
+  "independence": "No other report or conclusion read; no cross-review before this seal",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning_effort": "max",
+    "launch_acceptance": "reported by coordinator"
+  },
+  "verified_effective_settings": null,
+  "weekly_telemetry": {
+    "tool": "mcp__codex_app__get_usage_limits",
+    "total_used_percent_first_check": 8,
+    "total_used_percent_final_check": 9,
+    "final_check_utc": "2026-10-16 15:42:26 UTC",
+    "window_duration_minutes": 10080,
+    "reset_timestamp": 1792745187,
+    "stop_threshold_total_used_percent": 90
+  },
+  "dependencies": {
+    "python_executable": "/Users/uqmkamga/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3",
+    "python_version": "3.12.14",
+    "mathematical_checks": "Python standard library only; no author modules",
+    "source_inspection": "pypdf; pypdfium2 for rendered visual inspection"
+  },
+  "sources": [
+    {
+      "path": ".cache/official/2017-paper_b.pdf",
+      "bytes": 112458,
+      "sha256": "69d7cf84128c2464d962136ed613808b6c7a7b07122cfba9c06b5adf775e2a68",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2017-paper-2_1.pdf",
+      "inspected": "B4 on p. 2; exact domain and target; other problems not investigated",
+      "redistribution_licence_verified_for_this_review": false,
+      "tracked_full_paper": false
+    },
+    {
+      "path": ".cache/official/2017-solutions.pdf",
+      "bytes": 231254,
+      "sha256": "c272a72239ef4c2ccd54df0702140179e0a9b85f5a9028c87d485841eb1a2c12",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2017-solutions-preliminary_1.pdf",
+      "inspected": "p. 12: intended C(n) convention and published dictionary",
+      "redistribution_licence_verified_for_this_review": false,
+      "tracked_full_paper": false
+    },
+    {
+      "path": ".cache/literature/2017/cited-7f7251133b0c4ebc.pdf",
+      "bytes": 257427,
+      "sha256": "9f68329a62318b355cde668eabb9a05073ce755becfdd81dc5a6a15f9db68c26",
+      "url": "https://page.math.tu-berlin.de/~felsner/Paper/new-pla.pdf",
+      "inspected": "Sections 1, 2, 4; marked convention; quadratic upper bound; pp. 11 product/completion",
+      "redistribution_licence_verified_for_this_review": false,
+      "tracked_full_paper": false
+    },
+    {
+      "path": ".cache/literature/2017/cited-b5bf6499a3fedd25.pdf",
+      "bytes": 1082402,
+      "sha256": "075dee678bceb7bddf599d1a402d37c56659bb84302765aa4c6a74b8539b0f17",
+      "url": "https://arxiv.org/pdf/2402.13107",
+      "inspected": "Downloaded bytes identify arXiv v2; pp. 2-4, 12-14 and 19: conventions, simple partial input, tail disks, cut recurrence",
+      "redistribution_licence_verified_for_this_review": false,
+      "tracked_full_paper": false
+    },
+    {
+      "path": ".cache/literature/2017/secondpass-review-2-felsner-weil.pdf",
+      "bytes": 395712,
+      "sha256": "a6995529d08034c0735b3f9b0b9a4f9dae01ac0a5f3864d88728c6d04f85c828",
+      "url": "https://page.math.tu-berlin.de/~felsner/Paper/sas-dam-rev.pdf",
+      "inspected": "Printed pp. 15 and 19 visually inspected: Theorems 7-8 and rank-three proof",
+      "redistribution_licence_verified_for_this_review": false,
+      "tracked_full_paper": false
+    },
+    {
+      "path": ".cache/literature/2017/cited-95c9ccd7e229423b.pdf",
+      "bytes": 1213596,
+      "sha256": "52c12c2b2d30ae72bcfe859f609520cbbc7f89a1c1dbf60e8002a33a74a28073",
+      "url": "https://arxiv.org/pdf/2503.02336",
+      "inspected": "pp. 2-3 only: consistency of marked wiring counts; not used to establish four-packet sufficiency",
+      "redistribution_licence_verified_for_this_review": false,
+      "tracked_full_paper": false
+    }
+  ],
+  "rotation_system_reference": {
+    "url": "https://jeffe.web.engr.illinois.edu/teaching/comptop/2023/notes/09-planar-graphs.html",
+    "sections": [
+      "Rotation systems",
+      "Formalities and Trivialities"
+    ],
+    "method": "Read via web tool; no byte-exact local HTML was downloaded",
+    "sha256": null,
+    "role": "Supplement to an elementary regular-neighborhood reconstruction in the review"
+  },
+  "source_failures_and_recovery": [
+    {
+      "command": "command -v pdftotext",
+      "exit_code": 1,
+      "output": "",
+      "interpretation": "not on PATH; no installation attempted"
+    },
+    {
+      "command": "curl -L --fail --silent --show-error --max-time 30 https://page.math.tu-berlin.de/~felsner/Paper/sas-dam-rev.pdf -o .cache/literature/2017/secondpass-review-2-felsner-weil.pdf",
+      "initial_exit_code": 6,
+      "initial_output": "curl: (6) Could not resolve host: page.math.tu-berlin.de",
+      "recovery": "Exact same public-cache command retried with require_escalated as required by sandbox policy; succeeded, exit 0",
+      "download_process_session": 19206
+    },
+    {
+      "operation": "pypdf extraction of Felsner-Weil PDF pages 13,14,15,19",
+      "result": "Font-name/code strings, unusable for theorem verification",
+      "raw_output": {
+        "path": ".cache/literature/2017/secondpass-review-2-fw-unusable-pypdf.txt",
+        "bytes": 27884,
+        "sha256": "202e6dca4339cfccf7f9e1cc28d4fd22d44d4c74ef83838177f650bbad9a5081"
+      },
+      "recovery": "Rendered pages 15 and 19 inspected visually; no mathematical inference from corrupt extraction"
+    },
+    {
+      "operation": "First source-page render wrote R2-owned page PNGs in review directory",
+      "child_pid": 32383,
+      "status": "complete",
+      "recovery": "Moved only these four R2-owned images to ignored .cache; corrected renderer output path; retained initial job/stdout",
+      "final_render_child_pid": 32828
+    }
+  ],
+  "cache_source_page_images": [
+    {
+      "path": ".cache/literature/2017/secondpass-review-2-source-ckdfs-p12.png",
+      "bytes": 291927,
+      "sha256": "725732f3cc6003c6eb350a69ca3e58d9f2d77a55ecf571e82523609babc60e00"
+    },
+    {
+      "path": ".cache/literature/2017/secondpass-review-2-source-fv-p11.png",
+      "bytes": 236446,
+      "sha256": "2b30beb68026b7100dbafc13d8ec43d8a4edf5a08bcdb731b0f04ca582b8bb46"
+    },
+    {
+      "path": ".cache/literature/2017/secondpass-review-2-source-fw-p15.png",
+      "bytes": 173589,
+      "sha256": "3b98b63e492bb0a856fb8c30b92dad2147638482ce904c66bdd1a1c08bdaee49"
+    },
+    {
+      "path": ".cache/literature/2017/secondpass-review-2-source-fw-p19.png",
+      "bytes": 182758,
+      "sha256": "670df316662c4c3dcde28814552d23452526ef98309a6ad450d929899cf8480e"
+    }
+  ],
+  "frozen_candidate_inputs": [
+    {
+      "path": "problems/2017-B4/notes/secondpass-macmahon-candidate-v1.md",
+      "bytes": 8502,
+      "sha256": "83f254ec69a31b5bf57dddd241bd0e29277300b4f1ba78dbf3c2c02191913ffe"
+    },
+    {
+      "path": "problems/2017-B4/notes/secondpass-boundary-fiber-candidate-v1.md",
+      "bytes": 9715,
+      "sha256": "984ecfd11306304dd68310b0b20148577a7e8d43da6761a9bd570f95024cacbc"
+    },
+    {
+      "path": "problems/2017-B4/notes/secondpass-periodic-grid-candidate-v1.md",
+      "bytes": 8476,
+      "sha256": "6e2a25e0bd94d230892c8c8eb31d931c4a09190826f1f210a97fcb207e852bd7"
+    }
+  ],
+  "review_outputs": [
+    {
+      "path": "problems/2017-B4/reviews/secondpass-review-2-check-job.json",
+      "bytes": 505,
+      "sha256": "056a4a7f90ef32ce0c3777e1615e136f8934c599cb5ec4027786e59941390aa0"
+    },
+    {
+      "path": "problems/2017-B4/reviews/secondpass-review-2-check-output.txt",
+      "bytes": 1861,
+      "sha256": "a5756678527393bb104a9ed730577dead0a57da9c63739a64dceb8e4147bfd82"
+    },
+    {
+      "path": "problems/2017-B4/reviews/secondpass-review-2-check.py",
+      "bytes": 10865,
+      "sha256": "e03d6a737f0158530e82563f9b3071310597114ffa380043b248ed6edeafac68"
+    },
+    {
+      "path": "problems/2017-B4/reviews/secondpass-review-2-initial.md",
+      "bytes": 39150,
+      "sha256": "1780d421be9d46158f02428ab4a46e0504f3fd3733e31c6e37a398c35cd32012"
+    },
+    {
+      "path": "problems/2017-B4/reviews/secondpass-review-2-record-sources.py",
+      "bytes": 7225,
+      "sha256": "61e03b8e592e7bf087e4fcb50a9d3ec5b6784f3f8a239c8daa302caaadec46db"
+    },
+    {
+      "path": "problems/2017-B4/reviews/secondpass-review-2-render-initial-job.json",
+      "bytes": 479,
+      "sha256": "73b2cc938c1d73ea4e848afdad25c592f4850e006b947b3875a89d5d32c7f45c"
+    },
+    {
+      "path": "problems/2017-B4/reviews/secondpass-review-2-render-initial-output.txt",
+      "bytes": 500,
+      "sha256": "ebb5a6411750cb7a395f0b5ee13328e98206b30dbfc6b0949293469b09765321"
+    },
+    {
+      "path": "problems/2017-B4/reviews/secondpass-review-2-render-job.json",
+      "bytes": 479,
+      "sha256": "879910e4f1486a4df4e124c5fd4554506b73d0b7cb87c1eee9b28d7b822f59ed"
+    },
+    {
+      "path": "problems/2017-B4/reviews/secondpass-review-2-render-output.txt",
+      "bytes": 500,
+      "sha256": "fca5936ec57677351e6a80b69b0866923c2b5ce0c9dbae12c54b4dde4f6fe75a"
+    },
+    {
+      "path": "problems/2017-B4/reviews/secondpass-review-2-render.py",
+      "bytes": 2514,
+      "sha256": "624d2c18ec9e57b2869c9658888792e11460a63dadcaf4be6ee302033a85e2dd"
+    }
+  ],
+  "mathematical_job": {
+    "started_utc": "2026-10-16T15:30:08.679258+00:00",
+    "command": [
+      "/Users/uqmkamga/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3",
+      "/Users/uqmkamga/Documents/ChatGPT/Website/problems/2017-B4/reviews/secondpass-review-2-check.py",
+      "--worker"
+    ],
+    "timeout_seconds": 60,
+    "memo_state_cap": 100000,
+    "status": "complete",
+    "child_pid": 30993,
+    "returncode": 0,
+    "elapsed_seconds": 6.330984125001123,
+    "finished_utc": "2026-10-16T15:30:15.010240+00:00"
+  },
+  "render_job": {
+    "command": [
+      "/Users/uqmkamga/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3",
+      "/Users/uqmkamga/Documents/ChatGPT/Website/problems/2017-B4/reviews/secondpass-review-2-render.py",
+      "--worker"
+    ],
+    "timeout_seconds": 20,
+    "started_utc": "2026-10-16T15:34:51.107455+00:00",
+    "status": "complete",
+    "child_pid": 32828,
+    "returncode": 0,
+    "elapsed_seconds": 0.3508357919927221,
+    "finished_utc": "2026-10-16T15:34:51.458300+00:00"
+  },
+  "published_bound_scope": "0.2721 remains attributed stronger prior work; no new best bound or official entropy-limit proof",
+  "open_substantive_objections": [
+    "R2-G2-1: resolve every uncovered multicrossing before completion"
+  ]
+}

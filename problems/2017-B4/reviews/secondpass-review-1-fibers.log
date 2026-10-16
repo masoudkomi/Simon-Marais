@@ -1,0 +1,29 @@
+R1 independent code 3.12.14 stdlib only
+Finite evidence, never an unrestricted proof
+FIBER signotopes ready 1 1
+FIBER COMPLETE 1 paired_words 1 canonical_cases 1 completion_bases {2: 1} memo CacheInfo(hits=0, misses=1, maxsize=None, currsize=1)
+FIBER signotopes ready 2 1
+FIBER COMPLETE 2 paired_words 3 canonical_cases 2 completion_bases {2: 2} memo CacheInfo(hits=3, misses=4, maxsize=None, currsize=4)
+FIBER signotopes ready 3 2
+FIBER COMPLETE 3 paired_words 15 canonical_cases 5 completion_bases {2: 5} memo CacheInfo(hits=15, misses=9, maxsize=None, currsize=9)
+FIBER signotopes ready 4 8
+FIBER COMPLETE 4 paired_words 105 canonical_cases 17 completion_bases {2: 17} memo CacheInfo(hits=61, misses=26, maxsize=None, currsize=26)
+FIBER signotopes ready 5 62
+FIBER COMPLETE 5 paired_words 945 canonical_cases 79 completion_bases {2: 79} memo CacheInfo(hits=289, misses=105, maxsize=None, currsize=105)
+FIBER signotopes ready 6 908
+FIBER COMPLETE 6 paired_words 10395 canonical_cases 554 completion_bases {2: 554} memo CacheInfo(hits=1865, misses=659, maxsize=None, currsize=659)
+FIBER signotopes ready 7 24698
+FIBER checkpoint 7 1000 memo CacheInfo(hits=3865, misses=1659, maxsize=None, currsize=1659)
+FIBER checkpoint 7 2000 memo CacheInfo(hits=5865, misses=2659, maxsize=None, currsize=2659)
+FIBER checkpoint 7 3000 memo CacheInfo(hits=7865, misses=3659, maxsize=None, currsize=3659)
+FIBER checkpoint 7 4000 memo CacheInfo(hits=9865, misses=4659, maxsize=None, currsize=4659)
+FIBER checkpoint 7 5000 memo CacheInfo(hits=12231, misses=5659, maxsize=None, currsize=5659)
+FIBER COMPLETE 7 paired_words 135135 canonical_cases 5283 completion_bases {2: 5283} memo CacheInfo(hits=15953, misses=5942, maxsize=None, currsize=5942)
+MACMAHON boundary (1, 1, 1) 2
+MACMAHON boundary (1, 2, 3) 10
+MACMAHON boundary (2, 2, 2) 20
+MACMAHON boundary (2, 2, 3) 50
+MACMAHON boundary (3, 3, 3) 980
+MACMAHON boundary (2, 3, 4) 490
+DEGENERATE (0, 1, 0, 2, 1, 3, 2, 3) edges 3 F 1
+DEGENERATE (0, 0, 1, 2, 3, 1, 2, 3) edges 3 F 2

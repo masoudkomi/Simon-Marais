@@ -1,0 +1,118 @@
+{
+  "reviewer": "independent initial reviewer R1",
+  "verification_date_utc": "2026-10-16",
+  "full_third_party_material_policy": "Full papers and page renders are kept only in ignored .cache/. No redistribution licence was inferred from public availability.",
+  "sources": [
+    {
+      "title": "Official SMMC 2020 Paper B",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2020-paper-b_1.pdf",
+      "local": ".cache/official/2020-paper_b.pdf",
+      "coverage": "Page 2 B4 statement, text plus the existing B4-only visual crop; preliminary part (a) statement seen only for scope separation."
+    },
+    {
+      "title": "Official SMMC 2020 solutions",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2020-solutions_1.pdf",
+      "local": ".cache/official/2020-solutions.pdf",
+      "coverage": "Page 25 Set-up and page 27 Discussion; an initial page extraction included adjacent preliminary proof text, not used or reconstructed."
+    },
+    {
+      "title": "Daniel M. Gordon (1994), The Prime Power Conjecture is True for n < 2,000,000",
+      "url": "https://www.combinatorics.org/ojs/index.php/eljc/article/download/v1i1r6/pdf/",
+      "doi": "https://doi.org/10.37236/1186",
+      "local": ".cache/literature/2020/initial-review-1-gordon1994.pdf",
+      "retrieval_this_review": true,
+      "command": "curl -L --fail --silent --show-error --max-time 25 https://www.combinatorics.org/ojs/index.php/eljc/article/download/v1i1r6/pdf/ -o .cache/literature/2020/initial-review-1-gordon1994.pdf",
+      "result": "exit 0; full publisher PDF cached",
+      "coverage": "Original pages 2-3: Theorems 1-8, especially planar multipliers, the exceptional multiplier bound, quadratic nonresidues, square descent, even-order and 3-divisibility restrictions. Pages 2-3 rendered and visually inspected because extracted symbols were imperfect.",
+      "render_cache": [
+        ".cache/literature/2020/initial-review-1-gordon1994-page2.png",
+        ".cache/literature/2020/initial-review-1-gordon1994-page3.png"
+      ],
+      "limitation": "Checks published statements and the candidate's application hypotheses; not an independent reproof of every imported theorem."
+    },
+    {
+      "title": "Gordon (2020 preprint), On difference sets with small lambda",
+      "url": "https://arxiv.org/pdf/2007.07292",
+      "publisher": "https://link.springer.com/article/10.1007/s10801-020-00992-x",
+      "local": ".cache/literature/2020/cited-8997f9c8d73e0ba3.pdf",
+      "version": "arXiv:2007.07292v1, 2020-07-14",
+      "coverage": "Pages 1-5: First Multiplier theorem, orbit lemma and inequalities, cyclic size bound and exception, section 3 and Table 2 bound stated in k. The nonnegative orbit-count necessity was also reconstructed independently.",
+      "published_metadata_verified": "Online 2020-11-21; volume 55, pages 109-115, 2022; issue February 2022.",
+      "numbering": "arXiv v1: orbit inequality Theorem 3, cyclic bound Theorem 4. Indexed publisher-version text: orbit inequality Theorem 2, cyclic bound Theorem 3, contracted extension Theorem 4.",
+      "published_pdf_attempt": {
+        "url": "https://www.dmgordon.org/papers/small_lambda.pdf",
+        "command": "curl -L --fail --silent --show-error --max-time 25 https://www.dmgordon.org/papers/small_lambda.pdf -o .cache/literature/2020/initial-review-1-gordon-small-lambda-published.pdf",
+        "result": "exit 56; HTTP 404; no new full published PDF obtained",
+        "full_pdf_sha256": null
+      },
+      "limitation": "The huge published search was not rerun or fully audited. The author URL's indexed primary text was viewable in search despite its current direct 404."
+    },
+    {
+      "title": "Alexeev-Mixon, Forbidden Sidon subsets of perfect difference sets, featuring a human-assisted proof",
+      "url": "https://arxiv.org/pdf/2510.19804v2",
+      "record": "https://arxiv.org/abs/2510.19804v2",
+      "local": ".cache/literature/2020/cited-41993adf04c0b7e0.pdf",
+      "version": "v2, revised 2026-01-16, verified against arXiv record",
+      "coverage": "Section 4, pages 6-7: arbitrary/cyclic/Desarguesian plane distinctions and conjectural status. Adjacent construction text from an initial page extraction was not used.",
+      "limitation": "A source treating a conjecture as open is not proof that no subsequent paper exists; its two-billion verification claim is not treated as a best-known upper search bound."
+    },
+    {
+      "title": "Peluse, An asymptotic version of the prime power conjecture for perfect difference sets",
+      "url": "https://arxiv.org/pdf/2003.04929",
+      "local": ".cache/literature/2020/cited-7da1851f5eeeaca1.pdf",
+      "version": "v2, 2023-01-05",
+      "coverage": "Theorem 1.2 asymptotic count, Theorem 2.1 nonsquare quadratic-residue condition, section 2 multiplier statements.",
+      "limitation": "The asymptotic proof was not audited; the result is not an unrestricted classification."
+    },
+    {
+      "title": "Bruck-Ryser (1949), The nonexistence of certain finite projective planes",
+      "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/2A2E0D91C8E872232A01C7519F14D705/S0008414X00028686a.pdf/the-nonexistence-of-certain-finite-projective-planes.pdf",
+      "doi": "https://doi.org/10.4153/CJM-1949-009-2",
+      "local": ".cache/literature/2020/cited-7c413204071153e0.pdf",
+      "coverage": "Original Theorem 1 on page 88 (PDF page 1), hypotheses and conclusion checked.",
+      "limitation": "Imported theorem proof not independently reconstructed; its use in the filter is a necessary condition."
+    },
+    {
+      "title": "Jungnickel-Vedder (1984), On the Geometry of Planar Difference Sets",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0195669884800281",
+      "doi": "https://doi.org/10.1016/S0195-6698(84)80028-1",
+      "full_pdf_local": null,
+      "full_pdf_sha256": null,
+      "coverage": "Primary publisher abstract checked via web index: abelian hypothesis and even-order restriction. Square descent's exact statement and attribution checked in the full Gordon 1994 original, Theorem 6.",
+      "access_result": "Direct DOI open unavailable; direct ScienceDirect page returned HTTP 403. No access bypass or full original proof audit."
+    },
+    {
+      "title": "Wilbrink (1985), A note on planar difference sets",
+      "url": "https://www.sciencedirect.com/science/article/pii/0097316585900287",
+      "doi": "https://doi.org/10.1016/0097-3165(85)90028-7",
+      "full_pdf_local": null,
+      "full_pdf_sha256": null,
+      "coverage": "Primary publisher abstract checked: abelian regular automorphism group, prime p dividing order exactly once, conclusion order p for p=2 or 3; cross-checked against Gordon 1994 Theorem 8.",
+      "access_result": "Direct DOI open unavailable; direct ScienceDirect page returned HTTP 403. Indexed primary abstract available; original full proof not audited."
+    },
+    {
+      "title": "Xiang-Chen (1995), On the size of the multiplier groups of cyclic difference sets",
+      "doi": "https://doi.org/10.1016/0097-3165(95)90113-2",
+      "full_pdf_local": null,
+      "full_pdf_sha256": null,
+      "coverage": "Used only through Gordon's explicitly attributed cyclic multiplier bound and exact exception in the cached original preprint; not claimed as a direct original-proof audit.",
+      "access_result": "Direct ScienceDirect page returned HTTP 403."
+    },
+    {
+      "title": "Singer (1938), A theorem in finite projective geometry and some applications to number theory",
+      "doi": "https://doi.org/10.1090/S0002-9947-1938-1501951-4",
+      "full_pdf_local": null,
+      "full_pdf_sha256": null,
+      "coverage": "Only attributed prime-power existence context from official discussion and later primary papers; no original construction or proof audit."
+    }
+  ],
+  "indexed_primary_extraction_cache": ".cache/literature/2020/initial-review-1-web-extracts.json",
+  "indexed_extraction_limitations": "This is a web-tool text extraction, not publisher PDF bytes. Some unrelated search results are preserved in the raw output and were not used. An absent full-paper hash is recorded as null, never invented. Local byte hashes are supplied in initial-review-1-manifest.json.",
+  "other_tools": {
+    "system_pdftotext": "command -v pdftotext returned exit 1; bundled pypdf and Poppler used instead",
+    "runtime_python": "/Users/uqmkamga/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3",
+    "pypdf_version": "6.10.0",
+    "render_command": "/Users/uqmkamga/.cache/codex-runtimes/codex-primary-runtime/dependencies/bin/override/pdftoppm -f 2 -l 3 -scale-to 1800 -png .cache/literature/2020/initial-review-1-gordon1994.pdf problems/2020-B4/reviews/initial-review-1-gordon1994",
+    "render_retention": "Generated images were moved into the ignored cache; no third-party page image remains in reviewer deliverables."
+  }
+}

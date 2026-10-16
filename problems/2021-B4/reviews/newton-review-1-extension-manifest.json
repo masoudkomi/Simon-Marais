@@ -1,0 +1,92 @@
+{
+  "candidate_artifact_hashes_all_matched": {
+    "problems/2021-B4/computations/coordinator-newton-degeneration-v1-job.json": "833967198bbd32f722603f74f0dee7ef6870edf02ecec6b8e1d2e852d2120a7a",
+    "problems/2021-B4/computations/coordinator-newton-degeneration-v1-output.txt": "f0cf663786033e95b70bdc1cc4b78bece6390419f8714bfc0f7bfdf5043790c1",
+    "problems/2021-B4/computations/coordinator-newton-degeneration-v1-result.json": "04e24446d48f7073e5a9775cc121babef33e66db3391ded2aaa22fb63d6e2864",
+    "problems/2021-B4/computations/coordinator-newton-degeneration-v1-stderr.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "problems/2021-B4/computations/coordinator-newton-degeneration-v1.py": "31bbeb780f20962ddbfe5c80512e317f646cc708de2241c7c380aed934bb9b1b",
+    "problems/2021-B4/notes/coordinator-newton-degeneration-v1.md": "c38fbfa45e327c671c7737c03a4fdefb7407224445c4b8deb4761c4911a36a4f"
+  },
+  "candidate_manifest_sha256": "66f3f164e57088236e526ad4d03da1cae6f916a3f63fb9ae5b8fe23596a1bb48",
+  "candidate_sha256": "c38fbfa45e327c671c7737c03a4fdefb7407224445c4b8deb4761c4911a36a4f",
+  "files": {
+    "problems/2021-B4/reviews/newton-review-1-extension-check-stderr.txt": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "problems/2021-B4/reviews/newton-review-1-extension-check.jsonl": {
+      "bytes": 1901,
+      "sha256": "bc939242bc45aca4fd3154ff88d82bac4fd8be3f85799d450b7fe86604be0542"
+    },
+    "problems/2021-B4/reviews/newton-review-1-extension-check.py": {
+      "bytes": 6785,
+      "sha256": "ad8a1af4504524351427dc7f3e89d01aef318c5230c6d9c6952c0d44de91535c"
+    },
+    "problems/2021-B4/reviews/newton-review-1-extension-compare.py": {
+      "bytes": 1804,
+      "sha256": "84232240785c7c0a6816086775d4be5ebd7864ed2af047d338c2b92966941002"
+    },
+    "problems/2021-B4/reviews/newton-review-1-extension-issues.json": {
+      "bytes": 1488,
+      "sha256": "b2e271228a84c8bf4d45ba7cbd0a8b724c1980fa1ecc3fbd7a140dcacf78e336"
+    },
+    "problems/2021-B4/reviews/newton-review-1-extension-raw-comparison.json": {
+      "bytes": 315,
+      "sha256": "c5f8cb6e9baee69481e015265540eaea6fb1b0eed9ebe970dadff0305973abb3"
+    },
+    "problems/2021-B4/reviews/newton-review-1-extension-result.json": {
+      "bytes": 179670,
+      "sha256": "96f61ad6b173c1fd40bfc2dff3f87c44b616db87bd6db0a0ca77b1a019bee803"
+    },
+    "problems/2021-B4/reviews/newton-review-1-extension.md": {
+      "bytes": 15216,
+      "sha256": "70123784dcf8bd37682a628cfad8b0e6178b748ec43b0e149d5dc538dbffa36b"
+    }
+  },
+  "frozen_old_report_sha256_unchanged": "41ded8b1f1f7541e6b97978008cea7342668bf4452b37615e75d6d07c137d088",
+  "observed_at_utc": "2026-10-16T15:22:38.119641+00:00",
+  "other_review_conclusions_seen": false,
+  "requested_settings": {
+    "effective_setting_readback": null,
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "sources": [
+    {
+      "cache_path": ".cache/literature/2021/cited-66c5af6a0f0239f5.pdf",
+      "checked": "Definition1, paragraph1.7, Theorem4 and Table1, printed/PDF pages4-5; Hasse CA definition and good19 degrees2-5, bad19 degrees6-7",
+      "published_computation_independently_reimplemented": false,
+      "sha256": "d818747102d32060f43ae5f015f27065aadf38699b272a2367749db8b33fedbf",
+      "url": "https://arxiv.org/pdf/1208.5404",
+      "verification_date_utc": "2026-10-16"
+    },
+    {
+      "cache_path": ".cache/literature/2021/newton-review-1-stoll-padic-analysis.pdf",
+      "checked": "Theorem3.6 explicit Newton multiplicities; inherited check from own frozen initial report",
+      "sha256": "4c0bb01c0d9aa251d704ec2d8c33b340317b79dd6fe58b0461eaf7fe4017ced3",
+      "url": "https://www.mathe2.uni-bayreuth.de/stoll/teaching/pAdicAnalysis-WS2015/Skript-pAdicAnalysis-pub-print.pdf"
+    }
+  ],
+  "status": "R1 separate blind extension audit complete; no unresolved substantive objection; no promotion",
+  "validation": {
+    "all461_author_records_compared_after_bit_reversal": true,
+    "bounded_child_pid": 29080,
+    "child_exit": 0,
+    "child_reaped": true,
+    "combined_necessary_masks": 772,
+    "initial_j15": 461,
+    "python_json_jsonl_syntax": "passed",
+    "removed_j15": 392,
+    "retained_j15": 69,
+    "timeout_seconds": 30,
+    "trailing_whitespace": []
+  },
+  "weekly_telemetry": {
+    "final_total_used_percent": 8,
+    "resets_at": 1792745187,
+    "start_total_used_percent": 7,
+    "stop_total_percent": 90,
+    "tool": "get_usage_limits",
+    "window_duration_mins": 10080
+  }
+}

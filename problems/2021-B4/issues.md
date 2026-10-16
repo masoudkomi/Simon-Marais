@@ -4,8 +4,9 @@ The rational-witness Eisenstein restriction and the later Newton packet
 have each passed two fresh blind full reconstructions and are accepted
 as partial results. The Newton conditions leave1164 necessary degree-20
 masks; these are not rational polynomials or a complete degree solution.
-The original reductions, source objections and separate coordinator
-degeneration extension retain unverified labels.
+The separate coordinator degeneration extension is now also accepted
+after both independent full audits; it leaves772 necessary masks. The
+original reductions and source objections retain unverified labels.
 
 | ID | Version / location | Objection | Severity | Repair / evidence | Re-review | Status |
 |---|---|---|---|---|---|---|
@@ -23,4 +24,6 @@ degeneration extension retain unverified labels.
 
 | 2021-012 | notes/padic-rational-newton-obstructions-v1.md | General Newton-edge lemmas and J17/J16 exclusions need independent reconstruction, exhaustive case coverage and modular certificate verification. | Review gate | Both fresh blind full reconstructions independently generated and checked all29928 exact pairs/certificates; no unresolved substantive objection. | newton-review-1.md and newton-review-2.md complete. | Closed; accepted partial result |
 | 2021-013 | Newton source wording | Poonen display lacks explicit multiplicity qualifier. | Nonblocking citation precision | Both independently reconstruct multiplicity argument; R1 checks Stoll Theorem3.6; accepted register adds that explicit source. | Both initial audits resolve the mathematical count. | Closed |
-| 2021-014 | notes/coordinator-newton-degeneration-v1.md | New general small-cluster degeneration and J15 low-center disjunction require their own two audits. | Separate review gate | Frozen coordinator packet and finite392-mask exclusion saved. | R1/R2 separately active after freezing old initial reports. | Open; unverified |
+| 2021-014 | notes/coordinator-newton-degeneration-v1.md | New general small-cluster degeneration and J15 low-center disjunction require their own two audits. | Separate review gate | Both fresh initially blind full extension reconstructions and complete461-record comparisons pass;392 masks excluded,772 combined survivors. | newton-review-1-extension.md and newton-review-2-extension.md complete; no substantive objection or repair. | Closed; accepted partial result |
+
+| 2021-015 | notes/coordinator-three-rational-witnesses-v1.md | New degree20 three-rational-witness exclusion and exact quotient consequences require two independent full audits. | Separate review gate | All1493024 families constructed; one initial modular miss resolved separately at131; unchanged raw outputs preserved. | Fresh three-witness-review-1 active; R2 pending. | Open; unverified |
