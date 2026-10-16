@@ -1,0 +1,59 @@
+{
+  "verified_at_utc": "2026-10-16",
+  "scope": "Bounded source search for exact full fixed-direction balanced-count hypothesis (H); no theorem (H) verified",
+  "queries": [
+    "\"rhombus tilings\" \"fixed boundary\" \"entropy\" \"existence\" theorem",
+    "\"random tilings\" \"arbitrary codimension\" \"thermodynamic limit\"",
+    "\"Random Tilings of High Symmetry\" \"heuristic\" Appendix A",
+    "Destainville \"6123\" \"1998\" entropy boundary",
+    "\"fixed boundary\" \"tilings\" \"variational principle\" \"codimension\" theorem",
+    "\"zonogon\" \"entropy\" \"limit\" theorem",
+    "\"Entropy and boundary conditions in random rhombus tilings\" pdf",
+    "\"rhombus\" \"codimension\" \"variational\" theorem limit",
+    "\"Deducing a variational principle\" rhombus assumptions"
+  ],
+  "primary_sources_used": [
+    {
+      "title": "Random Tilings of High Symmetry: II. Boundary Conditions and Numerical Studies",
+      "authors": "M. Widom, N. Destainville, R. Mosseri, F. Bailly",
+      "url": "https://euler.phys.cmu.edu/widom/pubs/PDF/jsp120_2005_p837.pdf",
+      "doi": "10.1007/s10955-005-6998-x",
+      "cache": ".cache/literature/2017/widom-destainville-2005-high-symmetry-II.pdf",
+      "sha256": "ecb3e7ba3ffa04c6ce66395dac2098810eb27da49debf9f55f2bd74d1e86b877",
+      "read_scope": "Appendix A opening printed p.861/PDF p.25; selected pp.865-866; ending and bibliography pp.872-873; introduction and model definitions through public PDF view",
+      "disposition": "Exact heuristic caveat confirmed. Not adopted as an exact theorem (H). The phrase about lack of a proper thermodynamic limit at finite D is not treated as nonexistence of the scalar sequence limit in (H).",
+      "visual_qa": "Web screenshot failed with cache miss. Bundled pdftoppm rendered PDF p.25 to a temporary oversized-white-canvas image with tiny text. Selected-page pypdf extraction and public source view independently confirmed the caveat.",
+      "redistribution": "No paper copied to tracked review artifacts; no PDF upload. Existing ignored cache left unchanged."
+    },
+    {
+      "title": "Entropy and Boundary Conditions in Random Lozenge Tilings",
+      "author": "N. Destainville",
+      "url": "https://arxiv.org/abs/cond-mat/9804062",
+      "read_scope": "Original arXiv abstract and metadata only",
+      "disposition": "Abstract concerns 2D lozenges and 3D rhombohedra with a functional-integral saddle-point method. Does not itself establish the all-D full-count theorem needed here; full-paper theorem audit not performed."
+    },
+    {
+      "title": "Deducing a variational principle with minimal a priori assumptions",
+      "authors": "Andrew Krieger, Georg Menz, Martin Tassy",
+      "url": "https://www.combinatorics.org/ojs/index.php/eljc/article/download/v27i4p1/pdf/",
+      "doi": "10.37236/9121",
+      "read_scope": "Abstract, introduction/model definitions, main-result statements Theorems 15-17 in Section 2.5",
+      "disposition": "Scalar Z^m-to-Z graph-homomorphism model. No exact dictionary and extension/profile theorem for the present arbitrary-D zonogon model established. Not adopted as (H)."
+    }
+  ],
+  "local_read_only_commands": [
+    "cat AGENTS.md",
+    "cat problems/2017-B4/notes/coordinator-direction-coarsening-candidate-v1.md",
+    "cat problems/2017-B4/notes/coordinator-direction-coarsening-freeze-v1.json",
+    "cat problems/2017-B4/statement.md",
+    "cat problems/2017-B4/proofs/reviewed-concavity-v1.1.md",
+    "cat problems/2017-B4/references.md",
+    "shasum -a 256 problems/2017-B4/notes/coordinator-direction-coarsening-candidate-v1.md .cache/literature/2017/widom-destainville-2005-high-symmetry-II.pdf",
+    "Bundled Python pypdf.PdfReader selected pages with zero-based indices 24,28,29,35,36",
+    "/Users/uqmkamga/.cache/codex-runtimes/codex-primary-runtime/dependencies/bin/override/pdftoppm -f 25 -l 25 -singlefile -scale-to 1500 -png .cache/literature/2017/widom-destainville-2005-high-symmetry-II.pdf /private/tmp/coarsening-review-2-source-p25"
+  ],
+  "mathematical_computation": "None. Proof reconstruction only. No enumeration or native CAS run.",
+  "other_coarsening_reviews_read_before_freeze": false,
+  "full_solution_claimed": false,
+  "priority_search_complete": false
+}

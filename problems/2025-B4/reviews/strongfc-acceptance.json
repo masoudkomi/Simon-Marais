@@ -1,0 +1,56 @@
+{
+  "accepted_at_utc": "2026-10-16T21:47:10.689578+00:00",
+  "status": "specific source objections independently reviewed; theorem neither accepted nor refuted",
+  "accepted_findings": [
+    "SO1 ideal intersection/common-congruence mismatch",
+    "SO2 product divisibility/integrality and characteristic-prime valuation diagnosis",
+    "SO3 norm exponent and p5 selection boundary",
+    "SO4 relative versus rational splitting inference"
+  ],
+  "scope_limits": [
+    "No normalized nontrivial Diophantine counterexample",
+    "No full2025classification",
+    "Not every auxiliary single-reviewer calculation promoted",
+    "External Jacobi machinery granted with explicit hypotheses"
+  ],
+  "two_fresh_nonconstructor_blind_whole_audits": true,
+  "reports": [
+    {
+      "path": "problems/2025-B4/reviews/strongfc-review-1-blind-v1.md",
+      "bytes": 40291,
+      "sha256": "84754caab660d3813dca115ea22bada2834510b7b2378a976ad4fea9be3f25b6"
+    },
+    {
+      "path": "problems/2025-B4/reviews/strongfc-review-2-blind-report-v1.md",
+      "bytes": 30112,
+      "sha256": "7906dbca26680dae0cff7e6c8328507870b2f3062b9e3a459a4ea5edd3b470c3"
+    }
+  ],
+  "issues": [
+    {
+      "path": "problems/2025-B4/reviews/strongfc-review-1-issues-blind-v1.json",
+      "bytes": 6684,
+      "sha256": "162e3a3989f45d9ea095c2979420ca4806bc70dd75e384402da838cff18ef73c"
+    },
+    {
+      "path": "problems/2025-B4/reviews/strongfc-review-2-issues-v1.json",
+      "bytes": 8617,
+      "sha256": "7a4d03a6e3530fe7748f84affe29c8fe65bcbaef07a08d4419eabccf8e0746be"
+    }
+  ],
+  "integrity": {
+    "path": "problems/2025-B4/reviews/strongfc-acceptance-integrity.json",
+    "bytes": 1164,
+    "sha256": "958bf2cc159f59afe877935c50a45631f6e1546c5f919c1840a1852b05bd7c9d"
+  },
+  "source": {
+    "path": ".cache/literature/deep-literature-r1/2025-mihailescu-strong-fermat-catalan-v1.pdf",
+    "bytes": 424143,
+    "sha256": "daba36d8971a346d4cd40d0b823f787034c4a11b67e76258beeb7574e6fe2669"
+  },
+  "acceptance_record": {
+    "path": "problems/2025-B4/reviews/strongfc-acceptance.md",
+    "bytes": 5484,
+    "sha256": "f7770a001112407c8425da5fcdd487eb725dd8ecbc6557badee3e7964fc7b982"
+  }
+}

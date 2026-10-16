@@ -1,0 +1,70 @@
+{
+  "verified_at_utc": "2026-10-16T21:54:18.493268+00:00",
+  "method": "Read every recorded path and compare SHA256 and recorded byte length; no mathematical enumeration",
+  "all_match": true,
+  "records_checked": 9,
+  "manifests": [
+    {
+      "path": "problems/2017-B4/notes/coordinator-direction-coarsening-freeze-v1.json",
+      "bytes": 858,
+      "sha256": "07256acc4b4469595466988d02a68c905e4d01008fd015ba81d1d7170bf881f3"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coarsening-review-1-manifest-initial.json",
+      "bytes": 1456,
+      "sha256": "6e7fa2262dadcad30a6b6c768fa2ab809dc7f1cf6abeeff048b7df34c468a3fb"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coarsening-review-2-blind-initial-freeze-v1.json",
+      "bytes": 1372,
+      "sha256": "9a436d5dddc35164516ef4330b0ee11b432191ad9282a1186810d87f9cde5d77"
+    }
+  ],
+  "checked_records": [
+    {
+      "path": "problems/2017-B4/notes/coordinator-direction-coarsening-candidate-v1.md",
+      "bytes": 10029,
+      "sha256": "6379079ab65bd0976058bcc323bf411beaa33c455a20eec5782885c3c72bab5a"
+    },
+    {
+      "path": ".cache/literature/2017/widom-destainville-2005-high-symmetry-II.pdf",
+      "bytes": 584964,
+      "sha256": "ecb3e7ba3ffa04c6ce66395dac2098810eb27da49debf9f55f2bd74d1e86b877"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coarsening-review-1-initial.md",
+      "bytes": 14896,
+      "sha256": "de353b13c44f4d0381e091ed28883187daa1e3953f6e844001da829e237de846"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coarsening-review-1-issues.md",
+      "bytes": 2065,
+      "sha256": "373cb9f3505346a8345178b615dbc785ebef9ab44f546028782d7100e0bbc446"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coarsening-review-1-sources.json",
+      "bytes": 3906,
+      "sha256": "5fec609c63f708dd1ca01d892803166b765e154e29fc821f2d13f967f08a1518"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-direction-coarsening-candidate-v1.md",
+      "bytes": 10029,
+      "sha256": "6379079ab65bd0976058bcc323bf411beaa33c455a20eec5782885c3c72bab5a"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coarsening-review-2-blind-initial-v1.md",
+      "bytes": 16890,
+      "sha256": "51f8723c5dc194db4ed61ff12839cc8407c96c00bf22bc3f1155c23906227565"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coarsening-review-2-blind-issues-v1.md",
+      "bytes": 3783,
+      "sha256": "15cfdb9b037ed5b82e437b1b3f7ff80ae6641ae4a29127e39af31a96e50e7126"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coarsening-review-2-blind-sources-v1.json",
+      "bytes": 4250,
+      "sha256": "46aec7f6d8c5ace693981780ce22950cba9e7f04295cdfbc590a4d80c1729fc9"
+    }
+  ]
+}

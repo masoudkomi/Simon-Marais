@@ -1,0 +1,58 @@
+{
+  "status": "initial independent blind whole-argument review frozen; no peer J15 report read",
+  "frozen_at_utc": "2026-10-16T21:47:28.956555+00:00",
+  "reviewer": "review_2021_reasoning_j15_r1",
+  "requested_model": "gpt-6.1-sol",
+  "requested_reasoning": "max",
+  "verified_effective_settings": null,
+  "review_scope": "Whole D1-D5 mathematical reconstruction and explicit family; J15, degree20, rational-witness normalization at19, zero multiplicity2 only",
+  "candidate_path": "problems/2021-B4/notes/reasoning-J15-double-root-candidate-v1.md",
+  "candidate_sha256": "e3da7a889e5937722546dab2596fdb2140597066584487ce15fb8c4e4fd8bbff",
+  "candidate_manifest_path": "problems/2021-B4/notes/reasoning-J15-double-root-candidate-v1-manifest.json",
+  "candidate_manifest_sha256": "1f10135f84fd87160e6f0f8114c3e9217cbb6a8d92e426a6455c85146849890f",
+  "initial_recommendation": "No substantive objection found; coordinator may accept only stated partial lemmas/family after both required independent reviews",
+  "open_substantive_issues": 0,
+  "constructor_repair_requested": false,
+  "mathematical_computation": "No enumeration, CAS, numerical search, or independent proof certificate computation. Exact identities and finite residue non-square/ratio facts derived analytically in report.",
+  "mechanical_checks": [
+    "Candidate and dependency SHA256 verification",
+    "Primary cached source SHA256 verification",
+    "JSON parse and own artifact hashes"
+  ],
+  "source_extraction": {
+    "runtime": "3.12.14",
+    "library": "pypdf 6.10.0",
+    "executable": ".venv/bin/python",
+    "program": "PdfReader(path).pages[zero_based_page].extract_text(); exact page selections in sources JSON",
+    "writes": false,
+    "status": "completed; no long child or pending job"
+  },
+  "failed_read_attempts": [
+    "Two guessed literature-deep-r1 file paths were absent; corrected to notes/deep-literature-r1-report-v1.md",
+    "command -v pdftotext returned unavailable; used existing pypdf instead",
+    "Initial own-prefix ls had no matches, confirming no assigned review artifact existed"
+  ],
+  "weekly_telemetry_provided_by_parent": {
+    "verified_at_utc": "2026-10-16T21:35:00Z",
+    "used_percent_total": 16,
+    "resets_at": 1792745187,
+    "stop_used_percent_total": 90
+  },
+  "records": [
+    {
+      "path": "problems/2021-B4/reviews/reasoning-J15-review-1.md",
+      "bytes": 19239,
+      "sha256": "2496666c87410473a2ba3ab796872d43eed83ef33ee45b13cf522b747502b91e"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-J15-review-1-issues.json",
+      "bytes": 5134,
+      "sha256": "96d966aeec7a9fe9b63b5911bc5e82b3d6fc8fdf498a73f33a1080092d43a50e"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-J15-review-1-sources.json",
+      "bytes": 6709,
+      "sha256": "3485965726bc3d45ab6d326a134d29ceb1a855e6183c0f667c8d880bd85c76f5"
+    }
+  ]
+}

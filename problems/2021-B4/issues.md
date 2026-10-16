@@ -1,5 +1,13 @@
 # 2021 B4 issue log
 
+The J15 double-zero D1–D5 and explicit low-order-family properties have
+passed both fresh independent whole analytic reviews. The coordinator read
+both full reports and issue ledgers and verified the frozen records. No
+substantive objection remains in this scope. The correct discriminant
+sign is -2; parity needs unit a14; local Q19 splitting does not imply global
+Q rationality. No full mask or degree conclusion follows. See
+reviews/reasoning-J15-acceptance.md/json for the exact unresolved branches.
+
 The rational-witness Eisenstein restriction and the later Newton packet
 have each passed two fresh blind full reconstructions and are accepted
 as partial results. The Newton conditions leave1164 necessary degree-20

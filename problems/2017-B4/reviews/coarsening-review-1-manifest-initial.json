@@ -1,0 +1,37 @@
+{
+  "status": "initial independent blind full report frozen",
+  "frozen_at_utc": "2026-10-16T21:45:52.640215+00:00",
+  "reviewer": "review_2017_coarsening_r1",
+  "candidate_sha256": "6379079ab65bd0976058bcc323bf411beaa33c455a20eec5782885c3c72bab5a",
+  "peer_coarsening_review_read_before_freeze": false,
+  "requested_launch_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "recommendation": {
+    "DC1": "accept finite comparison after coordinator review gate",
+    "DC2": "accept unconditional consequence after coordinator review gate",
+    "transfer_assuming_H": "accept conditional theorem after coordinator review gate",
+    "H": "unestablished; primary source route does not discharge arbitrary fixed-D full counts",
+    "full_2017_solution": false
+  },
+  "mathematical_computation_run": false,
+  "artifacts": [
+    {
+      "path": "problems/2017-B4/reviews/coarsening-review-1-initial.md",
+      "bytes": 14896,
+      "sha256": "de353b13c44f4d0381e091ed28883187daa1e3953f6e844001da829e237de846"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coarsening-review-1-issues.md",
+      "bytes": 2065,
+      "sha256": "373cb9f3505346a8345178b615dbc785ebef9ab44f546028782d7100e0bbc446"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coarsening-review-1-sources.json",
+      "bytes": 3906,
+      "sha256": "5fec609c63f708dd1ca01d892803166b765e154e29fc821f2d13f967f08a1518"
+    }
+  ]
+}

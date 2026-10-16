@@ -1,0 +1,61 @@
+{
+  "accepted_at_utc": "2026-10-16T21:54:18.493268+00:00",
+  "status": "proved, independently reviewed (partial analytic restrictions)",
+  "accepted_claims": [
+    "D1 local Q19 splitting and residual Eisenstein factor, without global Q factor claim",
+    "D2 unequal-valuation low-center forcing",
+    "D3 sole-H3 residue pattern and one actual rational H2/H4 witness",
+    "D4 exact discriminant identity and unit-a14 parity/square restriction",
+    "D5 direct center-constant bound and restricted double-zero mask corollary",
+    "Stated normalization and low-order properties of the explicit rational family"
+  ],
+  "unresolved": [
+    "No complete J15 mask exclusion or degree20 solution",
+    "Nonunit a14 branch, other center patterns, multiplicity three and lower J",
+    "No novelty claim"
+  ],
+  "candidate": {
+    "path": "problems/2021-B4/notes/reasoning-J15-double-root-candidate-v1.md",
+    "bytes": 18227,
+    "sha256": "e3da7a889e5937722546dab2596fdb2140597066584487ce15fb8c4e4fd8bbff"
+  },
+  "accepted_proof": {
+    "path": "problems/2021-B4/proofs/reviewed-reasoning-J15-v1.1.md",
+    "bytes": 18931,
+    "sha256": "fbc5d212b5b560c8e4e42397d19663f3fc882fa8f206bdcbb4ed897c715627f6"
+  },
+  "reports": [
+    {
+      "path": "problems/2021-B4/reviews/reasoning-J15-review-1.md",
+      "bytes": 19239,
+      "sha256": "2496666c87410473a2ba3ab796872d43eed83ef33ee45b13cf522b747502b91e"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-J15-review-2.md",
+      "bytes": 17660,
+      "sha256": "491adc49bdab13808df45ebd272b8e66d6ff8f642031a0cf07802bd909b7cdea"
+    }
+  ],
+  "issues": [
+    {
+      "path": "problems/2021-B4/reviews/reasoning-J15-review-1-issues.json",
+      "bytes": 5134,
+      "sha256": "96d966aeec7a9fe9b63b5911bc5e82b3d6fc8fdf498a73f33a1080092d43a50e"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-J15-review-2-issues.json",
+      "bytes": 3166,
+      "sha256": "23b2aabefa9b6f759320e4d9977fe8a7a1a56b6009b2e918265d68949c5eba71"
+    }
+  ],
+  "two_independent_nonconstructor_initially_blind_whole_reviews": true,
+  "coordinator_read_full_reports_and_issues": true,
+  "unresolved_substantive_objections": 0,
+  "substantive_author_repair_required": false,
+  "new_mathematical_enumeration_required": false,
+  "integrity": {
+    "path": "problems/2021-B4/reviews/reasoning-J15-acceptance-integrity.json",
+    "bytes": 3619,
+    "sha256": "a8b6a7914c1fce68c1cd6627369be61c68417753dadec1fefd7ed4dea492e62b"
+  }
+}

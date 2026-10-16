@@ -1,0 +1,57 @@
+{
+  "accepted_at_utc": "2026-10-16T21:54:18.493268+00:00",
+  "status": "proved, independently reviewed (partial results; conditional transfer)",
+  "accepted_claims": [
+    "DC1 finite full-count comparison with ordered-port fiber bound",
+    "DC2 balanced entropy error h2(1/D)+1/D+o(1)",
+    "Hypothesis H for full fixed-boundary balanced counts implies existence of the official normalized limit"
+  ],
+  "unresolved": [
+    "H is not established",
+    "Exact official rates unknown",
+    "Priority and novelty unestablished"
+  ],
+  "candidate": {
+    "path": "problems/2017-B4/notes/coordinator-direction-coarsening-candidate-v1.md",
+    "bytes": 10029,
+    "sha256": "6379079ab65bd0976058bcc323bf411beaa33c455a20eec5782885c3c72bab5a"
+  },
+  "accepted_proof": {
+    "path": "problems/2017-B4/proofs/reviewed-direction-coarsening-v1.1.md",
+    "bytes": 9175,
+    "sha256": "98c04673acdb4c59d44eb4d977f844d3f01ef27365399982e02df8cbaa4a6241"
+  },
+  "reports": [
+    {
+      "path": "problems/2017-B4/reviews/coarsening-review-1-initial.md",
+      "bytes": 14896,
+      "sha256": "de353b13c44f4d0381e091ed28883187daa1e3953f6e844001da829e237de846"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coarsening-review-2-blind-initial-v1.md",
+      "bytes": 16890,
+      "sha256": "51f8723c5dc194db4ed61ff12839cc8407c96c00bf22bc3f1155c23906227565"
+    }
+  ],
+  "issues": [
+    {
+      "path": "problems/2017-B4/reviews/coarsening-review-1-issues.md",
+      "bytes": 2065,
+      "sha256": "373cb9f3505346a8345178b615dbc785ebef9ab44f546028782d7100e0bbc446"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coarsening-review-2-blind-issues-v1.md",
+      "bytes": 3783,
+      "sha256": "15cfdb9b037ed5b82e437b1b3f7ff80ae6641ae4a29127e39af31a96e50e7126"
+    }
+  ],
+  "two_independent_nonconstructor_initially_blind_whole_reviews": true,
+  "coordinator_read_full_reports_and_issues": true,
+  "unresolved_substantive_objections_to_accepted_claims": 0,
+  "substantive_author_repair_required": false,
+  "integrity": {
+    "path": "problems/2017-B4/reviews/coarsening-acceptance-integrity.json",
+    "bytes": 2668,
+    "sha256": "fc92e885af016bd0d412bce5783e3f068e9553f861d58deea4f51952f677baa7"
+  }
+}

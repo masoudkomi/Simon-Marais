@@ -1,5 +1,19 @@
 # 2025 B4 research log
 
+## Current source audit
+
+The coordinator has accepted four **specific independently reviewed source
+objections** to arXiv:2509.18275v1 after reading both whole blind reports,
+issue ledgers and post-freeze comparisons and checking all fingerprints.
+They concern ideal intersection versus common-congruence valuation,
+product divisibility and quotient integrality in Lemma 5, the norm-exponent
+selection boundary, and relative versus rational splitting in Lemma 6.
+See reviews/strongfc-acceptance.md/json. The claimed theorem is neither
+accepted nor refuted. No normalized nontrivial Diophantine counterexample
+is asserted. Single-reviewer auxiliary calculations are not all promoted.
+The earlier C1–C4 partial lemmas are accepted; initial-stage wording below
+is historical. Full Nagell–Ljunggren classification remains unresolved.
+
 Status: initial investigation completed 2026-10-16; no full solution claimed. All new elementary arguments remain **candidate proof - unverified**, version P2025-v1 in proof.md. No independent reviews yet.
 
 Launch request recorded by coordinator: gpt-6.1-sol, max reasoning. An independent readback of effective model/reasoning settings was unavailable. This is requested-setting evidence only. Weekly telemetry is monitored centrally by the coordinator; the supplied launch checkpoint was 2% total weekly used, with a 90% cutoff and reset 2026-10-23 08:46:27 UTC. No separately billed API was used.

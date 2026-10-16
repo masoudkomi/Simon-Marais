@@ -11,7 +11,7 @@
 
 ## Current launch point
 
-All nine initial passes and deeper-literature reports are complete for the open portions of2017–2025.2026 remains deferred. Last confirmed push:953ee9e; inspect actual history for newer checkpoints. The user now prioritizes mathematical reasoning. Use computation for counterexamples, intuition, or finite certificates actually needed by a proof. Do not expand routine tests or enumeration instead of resolving an inference.
+All nine initial passes and deeper-literature reports are complete for the open portions of2017–2025.2026 remains deferred. Last confirmed push:b1c31fa; inspect actual history for newer checkpoints. The user now prioritizes mathematical reasoning. Use computation for counterexamples, intuition, or finite certificates actually needed by a proof. Do not expand routine tests or enumeration instead of resolving an inference.
 
 Accepted full results: the2018 literal binomial enumeration, an attributed published reproduction; and the2023 all-exponent classification, with novelty unknown. Other annual questions remain unresolved.
 
@@ -19,9 +19,11 @@ Latest accepted partials:2017 limsup<0.649514 via concavity, symmetry and suppor
 
 ### Active reasoning and fresh review
 
--2017: notes/coordinator-direction-coarsening-candidate-v1.md, SHA6379079ab65bd0976058bcc323bf411beaa33c455a20eec5782885c3c72bab5a, proposes a colored-crossing port injection DC1 and entropy error h2(1/D)+1/D. The limit transfer is CONDITIONAL on fixed-D full balanced entropy hypothesis(H), still unproved. The earlier periodic-grid theorem is not(H). Both fresh blind coarseningR1/R2 are active. No new enumeration was run.
--2021: notes/reasoning-J15-double-root-candidate-v1.md, SHAe3da7a889e5937722546dab2596fdb2140597066584487ce15fb8c4e4fd8bbff. D1–D5 give analytic valuation, cluster, collision and parity restrictions, plus a direct q0 bound and an explicit residual rational-family gap. The third small root in Q19 need not be in Q; do not import an unjustified global Eisenstein quotient. Fresh reasoning-J15R1 is active; a second fresh blind R2 is still required. The earlier J15m3 candidate is separate. No full J15 mask or degree20 conclusion.
--2025: both StrongFC whole-source audits are complete and frozen. Read their FULL reports and issues, then verify hashes before accepting any narrow source objection. Lemma5 concerns involve valuations, product divisibility and norm elements; Lemma6 concerns a subgroup inference. Neither reviewer claims a normalized nontrivial theorem counterexample. Do not call this a theorem refutation. Original source is arxiv2509.18275v1 in ignored cache. No author contact is authorized.
+-2017: notes/coordinator-direction-coarsening-candidate-v1.md, SHA6379079ab65bd0976058bcc323bf411beaa33c455a20eec5782885c3c72bab5a, proposes a colored-crossing port injection DC1 and entropy error h2(1/D)+1/D. The limit transfer is CONDITIONAL on fixed-D full balanced entropy hypothesis(H), still unproved. The earlier periodic-grid theorem is not(H). Both fresh blind coarseningR1/R2 are complete and root-accepted for DC1/DC2 and conditional H transfer. The R1 actor is now constructing a separate H/boundary-extension candidate. No new enumeration was run.
+-2021: notes/reasoning-J15-double-root-candidate-v1.md, SHAe3da7a889e5937722546dab2596fdb2140597066584487ce15fb8c4e4fd8bbff. D1–D5 give analytic valuation, cluster, collision and parity restrictions, plus a direct q0 bound and an explicit residual rational-family gap. The third small root in Q19 need not be in Q; do not import an unjustified global Eisenstein quotient. Both fresh blind whole reasoning-J15 audits are complete, fully read, hash-verified and accepted for D1–D5 and the low-order family. The accepted exposition is proofs/reviewed-reasoning-J15-v1.1.md. The R2 actor now researches 2024 structural factor-field questions. The earlier J15m3 candidate is separate. No full J15 mask or degree20 conclusion.
+-2025: both StrongFC whole-source audits are complete and frozen, fully read and hash-verified. The coordinator accepted SO1–SO4 narrowly in strongfc-acceptance.md/json. Lemma5 concerns involve valuations, product divisibility and norm elements; Lemma6 concerns a subgroup inference. Neither reviewer claims a normalized nontrivial theorem counterexample. Do not call this a theorem refutation. Original source is arxiv2509.18275v1 in ignored cache. No author contact is authorized.
+
+The 2022 arithmetic owner is investigating a correction-digit factor-complexity lower bound for integer orbits. These new 2017/2022/2024 constructions remain unverified until frozen and independently audited. Preserve their assigned prefixes and do not stage active writes.
 
 ### Literature and proposer records
 
@@ -29,7 +31,7 @@ All nine reports are linked in sources/deep-literature-results.md. Verified sett
 
 ### Budget, tokens and runtime
 
-Latest authoritative weekly usage:16% total,84% remaining, at2026-10-16 21:37:51UTC. Reset1792745187 is unchanged. Stop conservatively at90% TOTAL used with integration reserve. Do not spend into a new weekly window. A checkpoint is not a stop reason.
+Latest authoritative weekly usage:17% total,83% remaining, at approximately2026-10-16 21:52UTC. Reset1792745187 is unchanged. Stop conservatively at90% TOTAL used with integration reserve. Do not spend into a new weekly window. A checkpoint is not a stop reason.
 
 Latest local token audit at21:39:37UTC:327243804 total;309796864 cached input;14724214 uncached input;2722726 output, including1180857 reasoning tokens. Uncached input plus output:17446940. All57 session sums match cumulative counters; historical session count is not concurrency. In-flight unreported usage is excluded. These are not billing or a weekly-percentage conversion. tools/report_project_tokens.py reproduces a snapshot without exporting prompts, account identifiers or raw logs.
 

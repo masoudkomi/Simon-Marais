@@ -1,5 +1,17 @@
 # 2017 B4 research log
 
+## Reviewed direction-coarsening result
+
+DC1 and DC2 are now **proved, independently reviewed partial results**, as
+is the conditional implication from full fixed-direction hypothesis (H) to
+existence of the official limit. Both initially blind whole audits and
+issue ledgers were read in full by the coordinator and their manifests
+verified. The accepted exposition is proofs/reviewed-direction-coarsening-v1.1.md;
+see reviews/coarsening-acceptance.md/json. H remains unproved, and exact
+rates remain unknown. New research concerns the boundary extension needed
+for H; no routine enumeration was added. Earlier checkpoint prose below
+records its historical stage.
+
 ## Coordinator update after the deeper literature pass
 
 The concavity candidate is now **proved, independently reviewed (partial result)**: the official limsup is below0.649514. Two fresh whole audits reconstructed the exact published cutpath domain, entropy endpoints, symmetrization, both supporting planes, uniform exact slack and marked-count insertion transfer. See proofs/reviewed-concavity-v1.1.md and reviews/concavity-acceptance.md/json. Initialize at B2; the harmless one-line zone wording is not used. The older pruned tree only needs at most one blue successor. No substantive repair remains. This improves the located0.6496 bound within the project; novelty and exact rates remain unresolved. The earlier owner checkpoint below is historical.

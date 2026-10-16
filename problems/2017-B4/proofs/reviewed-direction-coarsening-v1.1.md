@@ -1,0 +1,180 @@
+# Direction coarsening and a conditional entropy limit
+
+**Proved, independently reviewed: partial results DC1 and DC2, and the
+conditional implication from (H).** Coordinator acceptance: 2026-10-16 UTC.
+The frozen candidate and both initially blind whole audits are preserved
+in `../reviews/coarsening-acceptance.json`. This exposition makes explicit
+the canonical gaps, event-poset reconstruction and strand-addition
+injection reconstructed independently in both audits. No substantive
+repair of the frozen candidate was required. Hypothesis (H) remains open;
+neither the official exact rates nor an unconditional limit are claimed.
+Priority and novelty have not been established.
+
+## Finite comparison
+
+Let C(n) count reduced adjacent-transposition words for the longest
+permutation on n boundary-ordered strands, modulo commuting disjoint
+adjacent swaps. This is the established official marked tiling count:
+there is no rotation/reflection quotient or extra n! labelling factor.
+Partition the initial labels into D consecutive nonempty color blocks of
+sizes m_1,...,m_D, with sum n. Let B(m_1,...,m_D) count the commutation
+classes reversing those blocks while preserving order inside each block.
+Equivalently, these are the full D-direction zonogon counts; they are not
+restricted to a particular periodic patch construction. Put
+
+    N = binom(n,2),  S = sum_i binom(m_i,2),
+    K = N-S,        E = n+2K.
+
+Then, for n>=2 and every such partition,
+
+    B(m_1,...,m_D) <= C(n)
+      <= B(m_1,...,m_D) binom(n^2-1,2S) 2^(2S).       (DC1)
+
+### Projection and section
+
+In a monotone wiring diagram erase every adjacent swap of equal colors,
+using the noncrossing smoothing at that crossing. Erasing such a swap
+does not change the current color list, so every retained generator
+still has its original position index and swaps different colors. Every
+original pair crosses once; exactly K events survive. The final block
+order is reversed, and order within a color is preserved. That permutation
+has K inversions, so its K-letter word is reduced.
+
+A commutation of original generators uses disjoint position intervals.
+Neither event changes the other event's color decision. The two projected
+outputs are identical or differ by the same allowed commutation. Thus
+projection P is defined on commutation classes.
+
+Fix reduced reversals within the initial color blocks, in a fixed order.
+Prefix any block-permutation word by them. The resulting word reaches the
+full reversal with S+K=N letters, so it is reduced, and its prefix erases
+under P. This section respects commutations in the supplied word. In
+particular, P is surjective and proves the lower bound in DC1.
+
+### Canonical port code
+
+Name a projected strand by its color and initial rank within that color.
+Its retained vertices, named by their two projected strand identities,
+have an invariant directed order in a commutation class. Name each gap
+between successive vertices or endpoints by its strand and gap index.
+There are E=n+2K such canonical gaps. Metric coordinates and a selected
+global sweep are not part of the data.
+
+Every erased crossing gives two ports on the smoothed projected strands.
+Record the directed port order within each gap, and at each port a bit
+specifying the immediately preceding or immediately following same-color
+rank. These are the only possible partners: adjacency in the full order
+implies adjacency among strands of that color; after smoothing, same-color
+rank is constant along a projected strand.
+
+The complete decorated code is invariant under an original commutation.
+Its two events affect four distinct instantaneous positions and therefore
+four distinct projected tracks in that local interval. Exchanging them
+cannot move a port through another port or a retained vertex on its
+track, or change its neighbor bit. Two retained events are absorbed by
+the canonical projected gap identification. This proves invariance of
+the decoration, rather than just invariance of P.
+
+For each pair of neighboring same-color ranks, list on each full directed
+strand the ports pointing toward the other rank. Their pairing is forced:
+the k-th port in one list pairs with the k-th in the other. In an actual
+original diagram both ports of an event share a sweep time, so the contact
+orders on the two monotone tracks agree. A different matching reverses
+the order of two contacts on one track. Multiple contacts of the same
+rank pair are allowed; projected ranks are not original labels.
+
+Subdivide the canonical gaps by their ordered ports and identify these
+forced pairs. At a restored vertex cross-route the incoming smoothed
+rank arcs onto the opposite outgoing rank arcs. Keep the projected
+through-strand routing at retained vertices. Following the original
+boundary labels now determines every original strand, every crossing
+partner, and their orders along each original strand.
+
+Those orders determine the original commutation class. Indeed form the
+event poset generated by individual original-strand orders. Each original
+word is a linear extension. Linear extensions are connected by exchanges
+of adjacent incomparable events. Incomparable events share no original
+strand. When consecutive in a valid word, their adjacent-position
+intervals are disjoint; otherwise they share a current label. Thus each
+exchange is an allowed commutation, and all intermediate words remain
+valid. There is no additional global sweep-order or planar-embedding
+factor. Invalid abstract codes may have impossible contacts or cycles;
+only injectivity on actual original diagrams is needed.
+
+There are 2S ports. Their counts form a weak composition into the E
+canonical gaps, with binom(E+2S-1,2S) choices. Once the counts are given,
+the ordered positions in each gap are canonical. The neighbor bits have
+at most 2^(2S) choices, and their matching costs no factorial. Since
+
+    E+2S-1 = n+2N-1 = n^2-1,
+
+every fiber of P has the stated upper bound, proving DC1. S=0 gives
+equality; D=1 and D=2 cause no exception. If extended to n=1, the natural
+binom(0,0)=1 convention also gives equality. Empty blocks are not used.
+
+## Balanced entropy error
+
+Fix D and take m_i in {floor(n/D),ceil(n/D)}. Writing n=Dp+r gives
+
+    sum_i m_i^2 = n^2/D + r-r^2/D,
+    2S/n^2 = 1/D-1/n+(r-r^2/D)/n^2 -> 1/D.
+
+The binomial entropy inequality, with h_2 the base-two binary entropy,
+including its zero endpoints, applied to M=n^2-1 and k=2S gives
+
+    0 <= [log_2 C(n)-log_2 B(m_1,...,m_D)]/n^2
+      <= h_2(1/D)+1/D+o(1).                            (DC2)
+
+The estimate is uniform over the projected classes. In particular its
+error tends to zero as the fixed number D is subsequently increased;
+there is no (log n)/D term.
+
+## Conditional limit transfer
+
+The additional, presently unproved, hypothesis is
+
+    ell_D = lim_(p->infinity) log_2 B(p,...,p)/(Dp)^2
+    exists as a finite real number for every fixed D>=3.       (H)
+
+The full counts and the fixed zonogon boundaries in this statement are
+essential. A theorem for one periodic patch family is insufficient.
+
+B is nondecreasing in each side. To add one strand, draw a parallel copy
+next to a specified extreme strand of the chosen color. At each crossing
+with another color replace the old crossing by two crossings in a fixed
+local order. The new strand crosses every other-color strand once and
+none of its own color. Deleting the new boundary-ranked strand recovers
+the original class. This left inverse proves injectivity; alternatively
+the construction can be performed directly on the commutation class.
+
+Consequently, with p=floor(n/D),
+
+    B(p,...,p) <= B(m_1,...,m_D) <= B(p+1,...,p+1).
+
+Under (H), the two extreme logarithms divided by n^2 both tend to ell_D,
+since their natural normalizations differ by factors (Dp/n)^2 and
+(D(p+1)/n)^2 tending to one. Put L_minus and L_plus for the official
+liminf and limsup. The already established finite exponential upper
+bound ensures finiteness. DC2 implies, for every fixed D>=3,
+
+    ell_D <= L_minus <= L_plus <= ell_D+h_2(1/D)+1/D.
+
+Letting D grow proves L_minus=L_plus=L. It also proves ell_D->L.
+An unbounded set of D satisfying (H) would suffice. This is an implication
+from (H), not a proof of (H), and gives no numerical value of L.
+
+## Source boundary
+
+The inspected [Widom--Destainville--Mosseri--Bailly paper (2005)](https://euler.phys.cmu.edu/widom/pubs/PDF/jsp120_2005_p837.pdf),
+Appendix A, relies on a variational input and gives a heuristic
+presentation of the large-direction argument. The source's stronger
+notion of a proper thermodynamic limit must not be confused with scalar
+convergence in (H). [Destainville (1998)](https://arxiv.org/pdf/cond-mat/9804062),
+Sections 2.2--2.3, requires compatible-boundary interface estimates and
+regularity/maximizer hypotheses that were not established here for all D.
+[Cohn--Kenyon--Propp (2001)](https://arxiv.org/pdf/math/0008220) supplies
+rigorous domino/dimer variational results, including three lozenge
+directions; no exact reduction of arbitrary D to that model was supplied.
+The two reviews record these specific source obligations. A bounded
+search finding no verified theorem (H) does not establish its absence
+from all literature.

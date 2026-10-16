@@ -1,0 +1,59 @@
+{
+  "reviewer": "review_2017_coarsening_r1",
+  "independent_initial_review": true,
+  "verification_date_utc": "2026-10-16",
+  "requested_launch_settings": {"model": "gpt-6.1-sol", "reasoning": "max"},
+  "verified_effective_settings": null,
+  "mathematical_computation": "None; conceptual reconstruction only",
+  "sources": [
+    {
+      "title": "Random Tilings of High Symmetry: II. Boundary Conditions and Numerical Studies",
+      "authors": "M. Widom, N. Destainville, R. Mosseri, F. Bailly",
+      "year": 2005,
+      "url": "https://euler.phys.cmu.edu/widom/pubs/PDF/jsp120_2005_p837.pdf",
+      "doi": "10.1007/s10955-005-6998-x",
+      "cached_path": ".cache/literature/2017/widom-destainville-2005-high-symmetry-II.pdf",
+      "bytes": 584964,
+      "sha256": "ecb3e7ba3ffa04c6ce66395dac2098810eb27da49debf9f55f2bd74d1e86b877",
+      "scope": "Introduction and Section 2; complete Appendix A opening and diagonal argument text through printed p.867; references 10 and 11 followed. PDF pp.25-27 visually inspected in full using cropbox rendering. No audit of all Appendix B asymptotics or all other claims is asserted.",
+      "finding": "Does not furnish a separately rigorous finite-count proof of (H); scalar fixed-D convergence is not refuted by its stronger thermodynamic-limit vocabulary.",
+      "redistributed": false
+    },
+    {
+      "title": "Entropy and Boundary Conditions in Random Lozenge Tilings",
+      "authors": "N. Destainville",
+      "year": 1998,
+      "url": "https://arxiv.org/pdf/cond-mat/9804062",
+      "journal_title": "Entropy and boundary conditions in random rhombus tilings",
+      "journal_reference": "J. Phys. A: Math. Gen. 31, 6123-6139 (1998)",
+      "doi": "10.1088/0305-4470/31/29/005",
+      "access": "Primary author preprint inspected through web PDF reader; not downloaded locally",
+      "retrieval_byte_hash": null,
+      "scope": "Definition of zonotopal fixed boundary and growing-side limit, Sections 2.2-2.3, Eqs.(7),(15)-(18), and thermodynamic-limit terminology on printed pp.12-13",
+      "finding": "Interface correction cancellation, saddle-point regularity, and general strict concavity are not supplied as rigorous quantitative estimates proving arbitrary fixed-D (H)."
+    },
+    {
+      "title": "A Variational Principle for Domino Tilings",
+      "authors": "H. Cohn, R. Kenyon, J. Propp",
+      "year": 2001,
+      "url": "https://arxiv.org/pdf/math/0008220",
+      "journal_reference": "J. Amer. Math. Soc. 14 (2001), 297-346",
+      "access": "Primary paper inspected through web PDF reader; not downloaded locally",
+      "retrieval_byte_hash": null,
+      "scope": "Abstract, Section 1 description and Theorem 1.1; not a full independent proof audit of the domino variational theorem",
+      "finding": "Stated model covers domino/dimer and three-direction lozenge tilings. No supplied reduction makes it (H) for arbitrary D."
+    }
+  ],
+  "bounded_search_queries": [
+    "Destainville 1998 6123 random tilings entropy variational principle fixed boundaries",
+    "rhombus tilings fixed codimension existence entropy limit fixed boundary zonogon variational principle theorem",
+    "\"rhombus tilings\" \"variational principle\" codimension theorem",
+    "\"zonogon\" \"entropy\" \"limit\" fixed boundary",
+    "\"rhombus tilings\" \"entropy\" existence limit rigorous",
+    "\"fixed boundary\" \"rhombus\" \"existence\" entropy limit theorem",
+    "\"rhombus tilings\" \"higher codimension\" \"limit shape\" entropy theorem",
+    "\"zonogon\" \"variational principle\" tilings"
+  ],
+  "source_order": "Original cached author PDF, then original primary preprints in its reference chain; secondary search results were not used as theorem evidence",
+  "limitations": "No exhaustive priority search; failure to locate a rigorous general (H) is not a claim of its nonexistence. No separately billed API or access restriction bypass."
+}

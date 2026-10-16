@@ -1,0 +1,70 @@
+{
+  "status": "initial blind whole-argument issue log; frozen with report",
+  "reviewer": "review_2021_reasoning_j15_r1",
+  "candidate_sha256": "e3da7a889e5937722546dab2596fdb2140597066584487ce15fb8c4e4fd8bbff",
+  "open_substantive_issues": 0,
+  "constructor_repairs_requested": false,
+  "checks": [
+    {
+      "id": "R1-J15-01",
+      "question": "Does removing two rational values justify a third rational root or a quotient over Q?",
+      "status": "resolved by independent reconstruction",
+      "finding": "Only Q_19 is justified for the one remaining small slot by local Galois invariance. The candidate correctly restricts its factorization to Q_19 and never selects a non-Q value as a rational witness."
+    },
+    {
+      "id": "R1-J15-02",
+      "question": "Are all residual coefficients integral with exactly the needed Eisenstein constant valuation?",
+      "status": "resolved by independent reconstruction",
+      "finding": "Symmetric products of fourteen valuation-1/14 roots give positive integral coefficient valuations and constant valuation 1. B=(X-1)g has b_1 through b_13 divisible by 19, b_14=-1 mod19 and b_15=1."
+    },
+    {
+      "id": "R1-J15-03",
+      "question": "Can Hasse rescaling at an inner cluster introduce a nonintegral reduction or miss an outer witness?",
+      "status": "resolved by independent reconstruction",
+      "finding": "B(alpha T)/b_0 and each previously removed outer factor normalized by its constant are integral and reduce to 1. Hasse differentiation commutes with this scaling. Width-one edges (4,5), (3,4), (2,3) exclude the already outer roots at the stated derivative orders."
+    },
+    {
+      "id": "R1-J15-04",
+      "question": "Are all unequal valuation partitions, residue ties and repeated slots covered?",
+      "status": "resolved by independent reconstruction",
+      "finding": "The three partitions 1+2 equal deeper, three distinct, and 2 equal outer+1 deeper are exhaustive. The exact ratio sets are disjoint as stated. No root difference or unequal-residue assumption is used."
+    },
+    {
+      "id": "R1-J15-05",
+      "question": "Does the collision residue imply the same actual rational H_2/H_4 witness?",
+      "status": "resolved by independent reconstruction",
+      "finding": "Discriminants 15 and 8 are nonsquares. The resulting multiset {R,2R,2R} has exactly one slot of residue R, so the two actual rational witnesses coincide at that unique slot."
+    },
+    {
+      "id": "R1-J15-06",
+      "question": "Is the discriminant identity exact and is the leading square-test sign correct?",
+      "status": "resolved by independent reconstruction",
+      "finding": "Eliminating L gives D=2+4c_1+2c_1^2+c_1c_2-c_3 and numerator (2+c_1)[(2+c_1)^3-4D]. This yields the printed exact formula and leading term -2c_1, not +2c_1. D and 2+c_1 are units; no root difference is divided out."
+    },
+    {
+      "id": "R1-J15-07",
+      "question": "Can parity be asserted when a_14 is nonunit or when the roots coincide?",
+      "status": "resolved by independent reconstruction",
+      "finding": "The parity conclusion requires unit a_14, which makes the discriminant nonzero of valuation nu. The exact formula includes coincident roots, but no parity statement is made for nonunit a_14. The explicit family demonstrates the necessity of this limitation."
+    },
+    {
+      "id": "R1-J15-08",
+      "question": "Does the center constant bound improperly use a nonrational third witness or assume a finite mask lift?",
+      "status": "resolved by independent reconstruction",
+      "finding": "Only chosen rational witnesses enter the integral recursion. Replacement by zero gives coefficients congruent modulo 19^nu, hence q_0 divisible by that power. The corollary excludes only double-zero realizations of the specified subcase and has no conclusion if q_0=0."
+    },
+    {
+      "id": "R1-J15-09",
+      "question": "Is the explicit rational family defined for every claimed r and does it meet all stated low conditions?",
+      "status": "resolved by independent reconstruction",
+      "finding": "d and H_3(Q_r)(1) are units. K is integral and 1 mod19. Direct factor and Hasse arguments verify normalization, m=2, J=15, Eisenstein degree14 quotient, exact H_2/H_4 witness r, H_3 center, center nonvanishing for H_2/H_4, and nonunit a_14. No other derivative hypothesis is asserted."
+    },
+    {
+      "id": "R1-J15-10",
+      "question": "Could a published all-roots-rational theorem or the unretracted 2011 degree20 claim be silently imported?",
+      "status": "resolved by primary-source scope audit",
+      "finding": "CLO Proposition19 explicitly assumes every root rational and is not used. The original Draisma-de Jong erratum retracts the degree20 consequence of their Theorem7 while leaving the separate two-recycled-value Proposition6 outside that correction. The candidate uses only the accepted distinct rational-witness dependencies."
+    }
+  ],
+  "recommendation": "No substantive objection found; accept only D1-D5 and the asserted low-order family properties after the coordinator receives both required independent audits."
+}

@@ -1,0 +1,50 @@
+{
+  "status": "initial blind whole mathematical review complete and frozen; no reviewer promotion",
+  "frozen_at_utc": "2026-10-16T21:52:15.116570+00:00",
+  "reviewer": "review_2021_reasoning_j15_r2",
+  "candidate_sha256": "e3da7a889e5937722546dab2596fdb2140597066584487ce15fb8c4e4fd8bbff",
+  "requested_model": "gpt-6.1-sol",
+  "requested_reasoning": "max",
+  "verified_effective_settings": null,
+  "independence": {
+    "did_not_construct_candidate": true,
+    "no_other_J15_review_files_or_conclusions_read_before_freeze": true,
+    "initial_report_issues_sources_frozen_together": true,
+    "accepted_earlier_dependency_proofs_and_acceptances_read": true
+  },
+  "mathematical_scope": "Whole independent analytic reconstruction of D1-D5, all valuation partitions and degeneracies, exact discriminant sign, and all-rational low-order family",
+  "substantive_issues": 0,
+  "nonblocking_issues": 0,
+  "repair_requested": false,
+  "new_enumeration_or_CAS": false,
+  "new_full_degree_or_mask_count_claim": false,
+  "candidate_manifest_all_entries_match": true,
+  "command": ".venv/bin/python problems/2021-B4/reviews/reasoning-J15-review-2-freeze.py",
+  "records": [
+    {
+      "path": "problems/2021-B4/reviews/reasoning-J15-review-2.md",
+      "bytes": 17660,
+      "sha256": "491adc49bdab13808df45ebd272b8e66d6ff8f642031a0cf07802bd909b7cdea"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-J15-review-2-issues.json",
+      "bytes": 3166,
+      "sha256": "23b2aabefa9b6f759320e4d9977fe8a7a1a56b6009b2e918265d68949c5eba71"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-J15-review-2-sources.json",
+      "bytes": 4308,
+      "sha256": "5bf87b836bdc2216d0d62d462886d1fa760b17e3f7cd62a4fafb99eaed486f38"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-J15-review-2-input-validation.json",
+      "bytes": 5304,
+      "sha256": "20a09c10f24a5ea8998d889710de83411f97347ef7ad718c30ec4b6d055ac8a7"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-J15-review-2-freeze.py",
+      "bytes": 4165,
+      "sha256": "9032d041f634039361bd6554a104757db19eae8b60618c220304d2146db9b9e6"
+    }
+  ]
+}

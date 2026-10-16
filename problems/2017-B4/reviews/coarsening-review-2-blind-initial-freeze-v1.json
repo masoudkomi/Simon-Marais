@@ -1,0 +1,37 @@
+{
+  "frozen_at_utc": "2026-10-16T21:46:58.593623+00:00",
+  "reviewer": "/root/review_2017_coarsening_r2",
+  "requested_model": "gpt-6.1-sol",
+  "requested_reasoning": "max",
+  "effective_settings_readback": null,
+  "blind_initial_report_complete": true,
+  "other_coarsening_reviews_read_before_freeze": false,
+  "candidate": {
+    "path": "problems/2017-B4/notes/coordinator-direction-coarsening-candidate-v1.md",
+    "sha256": "6379079ab65bd0976058bcc323bf411beaa33c455a20eec5782885c3c72bab5a"
+  },
+  "artifacts": [
+    {
+      "path": "problems/2017-B4/reviews/coarsening-review-2-blind-initial-v1.md",
+      "bytes": 16890,
+      "sha256": "51f8723c5dc194db4ed61ff12839cc8407c96c00bf22bc3f1155c23906227565"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coarsening-review-2-blind-issues-v1.md",
+      "bytes": 3783,
+      "sha256": "15cfdb9b037ed5b82e437b1b3f7ff80ae6641ae4a29127e39af31a96e50e7126"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coarsening-review-2-blind-sources-v1.json",
+      "bytes": 4250,
+      "sha256": "46aec7f6d8c5ace693981780ce22950cba9e7f04295cdfbc590a4d80c1729fc9"
+    }
+  ],
+  "verdict": {
+    "DC1": "passes independent conceptual whole audit",
+    "DC2": "passes",
+    "H_implies_limit_existence": "passes conditional audit with finite-real full-count H",
+    "H": "not established",
+    "full_solution": "not claimed"
+  }
+}

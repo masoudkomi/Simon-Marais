@@ -1,0 +1,46 @@
+{
+  "reviewer": "review_2021_reasoning_j15_r2",
+  "phase": "initial blind whole mathematical audit",
+  "candidate_sha256": "e3da7a889e5937722546dab2596fdb2140597066584487ce15fb8c4e4fd8bbff",
+  "substantive_issues": [],
+  "nonblocking_issues": [],
+  "repair_requested": false,
+  "dispositions": [
+    {
+      "risk": "Third small root incorrectly inferred rational over Q or eligible as a witness",
+      "status": "resolved by independent reconstruction",
+      "finding": "T1 supplies two distinct Q small roots; local Galois invariance fixes the third slot only over Q19. All selected contest witnesses remain rational over Q."
+    },
+    {
+      "risk": "Wrong sign imported from multiplicity-three factorization",
+      "status": "resolved by independent multiplication",
+      "finding": "For three small factors, c5=b0-b1*s1+b2*s2-b3*s3 and c6=b1-b2*s1+b3*s2-b4*s3, yielding positive b1/b0=c6/c5 modulo19; the exact discriminant then has leading term -2*c1."
+    },
+    {
+      "risk": "Inner cluster rescalings exclude some actual witnesses without justification",
+      "status": "resolved by explicit integral factorization",
+      "finding": "Factor shallower roots into unit constant multiples of 1-qT/u; use B(qT)/b0. This gives all claimed degree-five/four/three forms. Shallow witness values are excluded on their own width-one edges."
+    },
+    {
+      "risk": "Tied valuations, repeated actual roots or repeated residues invalidate ratio/discriminant arguments",
+      "status": "resolved analytically",
+      "finding": "No root difference is divided out. All ratio denominators are nonzero unit residues. Discriminants 15*S^2 and 8*S^2 are nonsquares. The sole residue R occurs in one slot, forcing the same actual rational H2/H4 witness."
+    },
+    {
+      "risk": "D4 divisions or parity continue into the nonunit a14 branch",
+      "status": "resolved analytically",
+      "finding": "D is always 2 modulo19; B_res(r) has valuation one. Parity is claimed only when a14 is a unit and the discriminant is nonzero of valuation nu. Formula (*) remains valid for c1=0 and repeated roots."
+    },
+    {
+      "risk": "D5 relies on a rational third root or an unproved two-variable constructor",
+      "status": "resolved by direct recursion proof",
+      "finding": "Only actual rational witnesses are used. Congruence modulo19^nu propagates directly through the derivative recursion; q0=0 is excluded from the finite valuation implication."
+    },
+    {
+      "risk": "Explicit low-order family is treated as a full CA realization or complete mask",
+      "status": "resolved by scope check and exact analytic verification",
+      "finding": "Family satisfies normalization, J15, exact zero multiplicity two, H2/H4 at r and sole low H3 at center for every nonzero r in19 Z_(19). It does not impose all derivative equations. No full canonical mask, CA counterexample or broad mask removal is claimed."
+    }
+  ],
+  "recommendation": "No substantive objection to D1-D5 and the stated low-order family, conditional on the explicit accepted dependencies. Coordinator must apply the two-review acceptance gate; this reviewer does not promote status."
+}

@@ -1,0 +1,133 @@
+{
+  "checked_at_utc": "2026-10-16T21:52:15.116570+00:00",
+  "purpose": "Integrity and exact dependency recording; not a mathematical computation",
+  "candidate_manifest_entries": [
+    {
+      "path": "problems/2021-B4/notes/reasoning-J15-double-root-candidate-v1.md",
+      "bytes": 18227,
+      "sha256": "e3da7a889e5937722546dab2596fdb2140597066584487ce15fb8c4e4fd8bbff",
+      "expected_bytes": 18227,
+      "expected_sha256": "e3da7a889e5937722546dab2596fdb2140597066584487ce15fb8c4e4fd8bbff",
+      "matches": true
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-J15-residue-intuition-v1.txt",
+      "bytes": 3179,
+      "sha256": "8de4e415402a08499e084ae43e052fece5fef14a34bbc79495cdda23fa6e5e1f",
+      "expected_bytes": 3179,
+      "expected_sha256": "8de4e415402a08499e084ae43e052fece5fef14a34bbc79495cdda23fa6e5e1f",
+      "matches": true
+    },
+    {
+      "path": "problems/2021-B4/notes/rational-witness-p-plus-one-reviewed-v1.2.md",
+      "bytes": 8615,
+      "sha256": "fa71a4269a061b09ed74b3cd333b62c2ed7d3ffd39d1c28624a58a6d8fc18d09",
+      "expected_bytes": 8615,
+      "expected_sha256": "fa71a4269a061b09ed74b3cd333b62c2ed7d3ffd39d1c28624a58a6d8fc18d09",
+      "matches": true
+    },
+    {
+      "path": "problems/2021-B4/notes/padic-rational-newton-reviewed-v1.1.md",
+      "bytes": 2667,
+      "sha256": "691c7c04be6b7d63b528724a59f43636e0e71dd2135f7c0d14e25487f738e963",
+      "expected_bytes": 2667,
+      "expected_sha256": "691c7c04be6b7d63b528724a59f43636e0e71dd2135f7c0d14e25487f738e963",
+      "matches": true
+    },
+    {
+      "path": "problems/2021-B4/notes/padic-rational-newton-obstructions-v1.md",
+      "bytes": 16974,
+      "sha256": "ce3ff564b48841ae3ae1bf66c3cf5303ed2833c2166590cb2460706f01b5c335",
+      "expected_bytes": 16974,
+      "expected_sha256": "ce3ff564b48841ae3ae1bf66c3cf5303ed2833c2166590cb2460706f01b5c335",
+      "matches": true
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-three-rational-witnesses-reviewed-v1.1.md",
+      "bytes": 1962,
+      "sha256": "7ff6b3d92d3268405381c2732d83516d21e6eb7d74e897d4c01ec8bb70342be4",
+      "expected_bytes": 1962,
+      "expected_sha256": "7ff6b3d92d3268405381c2732d83516d21e6eb7d74e897d4c01ec8bb70342be4",
+      "matches": true
+    }
+  ],
+  "candidate_manifest_all_entries_match": true,
+  "review_read_inputs": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2021-B4/statement.md",
+      "bytes": 1745,
+      "sha256": "5cd9750a2458191370590120fb4ae7d547740784eb1de38ee9e2e7890a2fabed"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-J15-double-root-candidate-v1-manifest.json",
+      "bytes": 2277,
+      "sha256": "1f10135f84fd87160e6f0f8114c3e9217cbb6a8d92e426a6455c85146849890f"
+    },
+    {
+      "path": "problems/2021-B4/notes/rational-witness-p-plus-one-reviewed-v1.2.md",
+      "bytes": 8615,
+      "sha256": "fa71a4269a061b09ed74b3cd333b62c2ed7d3ffd39d1c28624a58a6d8fc18d09"
+    },
+    {
+      "path": "problems/2021-B4/notes/rational-witness-p-plus-one-v1.1.md",
+      "bytes": 8375,
+      "sha256": "ef87eebe1f49302f5e9af1ab0781b73bdb39de9763f7b75d60d5b6f746a9aa85"
+    },
+    {
+      "path": "problems/2021-B4/notes/padic-rational-newton-reviewed-v1.1.md",
+      "bytes": 2667,
+      "sha256": "691c7c04be6b7d63b528724a59f43636e0e71dd2135f7c0d14e25487f738e963"
+    },
+    {
+      "path": "problems/2021-B4/notes/padic-rational-newton-obstructions-v1.md",
+      "bytes": 16974,
+      "sha256": "ce3ff564b48841ae3ae1bf66c3cf5303ed2833c2166590cb2460706f01b5c335"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-newton-degeneration-v1.md",
+      "bytes": 7569,
+      "sha256": "c38fbfa45e327c671c7737c03a4fdefb7407224445c4b8deb4761c4911a36a4f"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-newton-degeneration-reviewed-v1.1.md",
+      "bytes": 2165,
+      "sha256": "11c49a9084c5257476d3278b5e05054916a05d4315973cda0205850372d85aeb"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-three-rational-witnesses-v1.md",
+      "bytes": 11325,
+      "sha256": "be91345a8511338d55f30b140ee2555698c21d0e341efe29fe2536bca4fffbda"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-three-rational-witnesses-reviewed-v1.1.md",
+      "bytes": 1962,
+      "sha256": "7ff6b3d92d3268405381c2732d83516d21e6eb7d74e897d4c01ec8bb70342be4"
+    },
+    {
+      "path": "problems/2021-B4/reviews/witness-acceptance.md",
+      "bytes": 1837,
+      "sha256": "404e31963359f3d51dfc17be39e0fc0a08614186bf0de1ef1516ed75642de15b"
+    },
+    {
+      "path": "problems/2021-B4/reviews/newton-acceptance.md",
+      "bytes": 2290,
+      "sha256": "bd1a2d6cb3f61060b2f488b3daebd5ee1a5b25cbc132d211b66f3c2b7b5c7457"
+    },
+    {
+      "path": "problems/2021-B4/reviews/degeneration-acceptance.md",
+      "bytes": 2113,
+      "sha256": "843d02d26421a9133d9b179f7358cf9eb5cbfa7cf8c857fd95685c541ad99a9c"
+    },
+    {
+      "path": "problems/2021-B4/reviews/three-witness-acceptance.md",
+      "bytes": 1893,
+      "sha256": "66a0cf9107fac6b0c772da1d0de7823a3a05667736cdb5a4af32eea0213d641e"
+    }
+  ],
+  "intuition_artifact": "Hashed only for manifest integrity; its table was not consulted as evidence"
+}

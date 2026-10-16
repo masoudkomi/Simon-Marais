@@ -1,5 +1,11 @@
 # 2025 B4 issue log
 
+Four narrow Strong Fermat–Catalan source objections SO1–SO4 are now
+independently reviewed and coordinator-accepted, with exact hypotheses and
+limits in reviews/strongfc-acceptance.md/json. This is a source-proof audit,
+not a theorem refutation or a normalized Diophantine counterexample. The
+preprint is not used to eliminate the remaining Nagell–Ljunggren region.
+
 C1-C4 of frozen P2025-v1 are proved, independently reviewed partial results after both fresh blind full reconstructions. The unrestricted classification remains conjectural. The dated accepted register and full-text literature supplement supersede the original historical candidate and abstract-only labels.
 
 | ID | Version / location | Objection | Severity | Repair / evidence | Re-review | Status |

@@ -1,5 +1,18 @@
 # 2021 B4 research log
 
+## Current reviewed result
+
+The new J15 double-zero analytic restrictions D1–D5 and the stated
+low-order rational family are **proved, independently reviewed partial
+results**. Both fresh initially blind whole reviews are complete, fully
+read and reconciled by the coordinator, with all manifest records matching
+and no repair requested. See proofs/reviewed-reasoning-J15-v1.1.md and
+reviews/reasoning-J15-acceptance.md/json. The nonunit-a14 branch, other
+center patterns, multiplicity three and lower J remain unresolved. No
+complete J15 mask or degree-20 solution follows. Earlier accepted J16 and
+other restrictions remain in force. The first-investigation prose below
+is historical and does not supersede later acceptance records.
+
 Status: first investigation checkpoint, 2026-10-16. No full solution claimed.
 All proposed arguments remain **candidate proof - unverified**. No candidate
 has received the two required independent adversarial audits.

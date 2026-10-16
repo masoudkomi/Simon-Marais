@@ -1,5 +1,12 @@
 # 2017 B4 issue log
 
+DC1, DC2 and the conditional H transfer are accepted after both fresh
+whole reconstructions. Canonical gaps, port-code invariance, forced matching,
+event-poset recovery and strand cloning are explicit in the accepted
+exposition. No substantive objection to these claims remains. The external
+fixed-boundary hypothesis H is still open; this blocks an unconditional
+limit conclusion. See reviews/coarsening-acceptance.md/json.
+
 The deeper-literature concavity bound below0.649514 is accepted after both fresh initially blind whole audits. All substantive questions are closed in reviews/concavity-acceptance.md. The finite-size source qualification is discharged by B2 initialization and j>=2 summation; the older blue-child wording is discharged by the at-most-one recurrence. Exact rates, limit existence and novelty remain unresolved. Frozen original candidate/review records are preserved.
 
 The second-pass v1.1 packets M1-M3/F1-F3/G1-G2 are accepted partial results after two blind full initial audits, author repair and both targeted re-audits. The exact official rates remain unresolved. Earlier limitations remain scoped below.

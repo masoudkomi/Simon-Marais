@@ -1,0 +1,101 @@
+{
+  "status": "initial blind source and dependency audit; no peer J15 report consulted",
+  "verified_at_utc": "2026-10-16T21:43:41.400752+00:00",
+  "method": "Read-only local pypdf extraction of cached primary sources; SHA-256 over complete cached bytes. No new download, redistribution, web claim, or full-paper commitment.",
+  "official_target": {
+    "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2021-paper-b.pdf",
+    "cache_path": ".cache/official/2021-paper_b.pdf",
+    "sha256": "2d507d593500f762e90b041d03a451e884ea33c8769f9a2132427e14d8f926d1",
+    "bytes": 157688,
+    "locator": "PDF page 2, B4 hypothesis and part (b)",
+    "verified": "f belongs to Q[x]; for each derivative order 1 through d-1 some root common with f lies in Q; the witness may depend on the order; part (b) asks for all d>=2. No preliminary-case proof was investigated."
+  },
+  "primary_sources": [
+    {
+      "authors": "Castryck, Laterveer and Ounaies",
+      "title": "Constraints on counterexamples to the Casas-Alvero conjecture, and a verification in degree 12",
+      "url": "https://arxiv.org/abs/1208.5404",
+      "cache_path": ".cache/literature/2021/cited-66c5af6a0f0239f5.pdf",
+      "sha256": "d818747102d32060f43ae5f015f27065aadf38699b272a2367749db8b33fedbf",
+      "bytes": 281743,
+      "pages_read_one_based": [2, 3, 13, 14, 15, 16],
+      "verified_scope": [
+        "Section 1.2 defines type by a covering set of recycled roots, separately from the total root count.",
+        "Section 3.4, equations (9)-(10), supplies the p+1 integral normalization and the positive valuations of noncenter roots.",
+        "Lemma17 supplies a simple center; the rational affine normalizing map is justified by the contest's rational chosen first and last derivative witnesses in the accepted dependency.",
+        "Proposition19, pages15-16, assumes all roots rational. It cannot be applied to merely rational witnesses and is not used in D1-D5."
+      ],
+      "redistribution_licence_verified": false,
+      "disposition": "read existing ignored cache only"
+    },
+    {
+      "authors": "Draisma and de Jong; Proposition6 attributed there to Draisma and Knopper",
+      "title": "On the Casas-Alvero conjecture",
+      "url": "https://www.ems-ph.org/journals/newsletter/pdf/2011-06-80.pdf",
+      "cache_path": ".cache/literature/2021/draisma-de-jong-newsletter-2011-06-80.pdf",
+      "sha256": "9babd9ea728de626f8921a4086f6170039537c7305ac5b500f6ba0edda942ad0",
+      "bytes": 2795058,
+      "pages_read_one_based": [33, 34],
+      "locator": "Printed pages31-32, Proposition6 and adjacent one-value observation",
+      "verified_scope": "The cardinality of the set of chosen common derivative roots cannot equal two; cardinality one gives a pure power. This concerns a witness cover and does not require all polynomial roots to be recycled or rational.",
+      "redistribution_licence_verified": false,
+      "disposition": "read existing ignored cache only"
+    },
+    {
+      "authors": "Draisma and de Jong",
+      "title": "Erratum/addition for On the Casas-Alvero conjecture",
+      "url": "https://math-unibe.ch/jdraisma/publications/erratumcasasalvero.pdf",
+      "cache_path": ".cache/literature/deep-literature-r1/2021-draisma-dejong-erratum-2011.pdf",
+      "sha256": "9414998fc302643b7cf261e4adec1333034dc732e8a3a493a1a0ff7418d8f262",
+      "bytes": 43723,
+      "pages_read_one_based": [1],
+      "verified_scope": "The August2011 erratum adds p=5 to exclusions in Theorem7 for base degree4 and expressly retracts its degree20 consequence. No assertion from that retracted degree20 consequence enters this review.",
+      "redistribution_licence_verified": false,
+      "disposition": "read existing ignored cache only"
+    },
+    {
+      "author": "Michael Stoll",
+      "title": "p-adic Analysis in Arithmetic Geometry",
+      "url": "https://www.mathe2.uni-bayreuth.de/stoll/teaching/pAdicAnalysis-WS2015/Skript-pAdicAnalysis-pub-print.pdf",
+      "cache_path": ".cache/literature/2021/newton-review-1-stoll-padic-analysis.pdf",
+      "sha256": "4c0bb01c0d9aa251d704ec2d8c33b340317b79dd6fe58b0461eaf7fe4017ced3",
+      "bytes": 563546,
+      "pages_read_one_based": [16],
+      "locator": "Theorem3.6, Lemmas3.7-3.8",
+      "verified_scope": "Newton slopes give root counts with multiplicity. Galois invariance of the absolute value over the complete field is explicit in Lemma3.7, and slope factorization over the base field is stated in Lemma3.8. Here the base field is Q_19; these statements do not imply a quotient over Q.",
+      "redistribution_licence_verified": false,
+      "disposition": "read existing ignored cache only"
+    }
+  ],
+  "accepted_dependencies": [
+    {
+      "path": "problems/2021-B4/notes/rational-witness-p-plus-one-reviewed-v1.2.md",
+      "sha256": "fa71a4269a061b09ed74b3cd333b62c2ed7d3ffd39d1c28624a58a6d8fc18d09",
+      "role": "Integral rational affine normalization and witness-field distinction. Prior certificate acceptance is an input, not regenerated here."
+    },
+    {
+      "path": "problems/2021-B4/notes/padic-rational-newton-reviewed-v1.1.md",
+      "sha256": "691c7c04be6b7d63b528724a59f43636e0e71dd2135f7c0d14e25487f738e963",
+      "role": "Accepted Newton theorem and width-one lemma register."
+    },
+    {
+      "path": "problems/2021-B4/notes/padic-rational-newton-obstructions-v1.md",
+      "sha256": "ce3ff564b48841ae3ae1bf66c3cf5303ed2833c2166590cb2460706f01b5c335",
+      "role": "Read the long-edge and width-one mathematical bodies. Their hypotheses i<19 and rational versus algebraic valuation distinction were rechecked for every new application. No earlier finite enumeration was rerun."
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-three-rational-witnesses-reviewed-v1.1.md",
+      "sha256": "7ff6b3d92d3268405381c2732d83516d21e6eb7d74e897d4c01ec8bb70342be4",
+      "role": "Accepted T1 and T3. Prior 1,493,024-family certificates are an accepted dependency, not a fresh claim of this audit."
+    }
+  ],
+  "additional_context_read": [
+    "problems/2021-B4/reviews/three-witness-acceptance.md",
+    "problems/2021-B4/notes/coordinator-three-rational-witnesses-v1.md",
+    "problems/2021-B4/notes/deep-literature-r1-report-v1.md",
+    "sources/problem-provenance.md",
+    "sources/deep-literature-results.md",
+    "selected retrieval records from sources/literature-retrieval.json"
+  ],
+  "novelty_and_external_claim_limits": "No novelty or complete current literature classification is established. The all-roots-rational CLO theorem, the retracted degree20 claim, and Massri's separate restricted theorem are not proof dependencies for D1-D5. No Ghosh or other universal proof claim was invoked."
+}

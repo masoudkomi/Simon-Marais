@@ -1,0 +1,95 @@
+{
+  "verified_at_utc": "2026-10-16T21:54:18.493268+00:00",
+  "method": "Read every recorded path and compare SHA256 and recorded byte length; no mathematical enumeration",
+  "all_match": true,
+  "records_checked": 14,
+  "manifests": [
+    {
+      "path": "problems/2021-B4/notes/reasoning-J15-double-root-candidate-v1-manifest.json",
+      "bytes": 2277,
+      "sha256": "1f10135f84fd87160e6f0f8114c3e9217cbb6a8d92e426a6455c85146849890f"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-J15-review-1-manifest.json",
+      "bytes": 2873,
+      "sha256": "9f1c1a3cc403dc0866db2aa1ca01e1552f6ee22cc3ea1c82ce9c79e318ebca95"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-J15-review-2-manifest.json",
+      "bytes": 2141,
+      "sha256": "06a759acf37d30deac27bafe82f4c8c0f7ff39b5d99e3f53637050b4f490b671"
+    }
+  ],
+  "checked_records": [
+    {
+      "path": "problems/2021-B4/notes/reasoning-J15-double-root-candidate-v1.md",
+      "bytes": 18227,
+      "sha256": "e3da7a889e5937722546dab2596fdb2140597066584487ce15fb8c4e4fd8bbff"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-J15-residue-intuition-v1.txt",
+      "bytes": 3179,
+      "sha256": "8de4e415402a08499e084ae43e052fece5fef14a34bbc79495cdda23fa6e5e1f"
+    },
+    {
+      "path": "problems/2021-B4/notes/rational-witness-p-plus-one-reviewed-v1.2.md",
+      "bytes": 8615,
+      "sha256": "fa71a4269a061b09ed74b3cd333b62c2ed7d3ffd39d1c28624a58a6d8fc18d09"
+    },
+    {
+      "path": "problems/2021-B4/notes/padic-rational-newton-reviewed-v1.1.md",
+      "bytes": 2667,
+      "sha256": "691c7c04be6b7d63b528724a59f43636e0e71dd2135f7c0d14e25487f738e963"
+    },
+    {
+      "path": "problems/2021-B4/notes/padic-rational-newton-obstructions-v1.md",
+      "bytes": 16974,
+      "sha256": "ce3ff564b48841ae3ae1bf66c3cf5303ed2833c2166590cb2460706f01b5c335"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-three-rational-witnesses-reviewed-v1.1.md",
+      "bytes": 1962,
+      "sha256": "7ff6b3d92d3268405381c2732d83516d21e6eb7d74e897d4c01ec8bb70342be4"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-J15-review-1.md",
+      "bytes": 19239,
+      "sha256": "2496666c87410473a2ba3ab796872d43eed83ef33ee45b13cf522b747502b91e"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-J15-review-1-issues.json",
+      "bytes": 5134,
+      "sha256": "96d966aeec7a9fe9b63b5911bc5e82b3d6fc8fdf498a73f33a1080092d43a50e"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-J15-review-1-sources.json",
+      "bytes": 6709,
+      "sha256": "3485965726bc3d45ab6d326a134d29ceb1a855e6183c0f667c8d880bd85c76f5"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-J15-review-2.md",
+      "bytes": 17660,
+      "sha256": "491adc49bdab13808df45ebd272b8e66d6ff8f642031a0cf07802bd909b7cdea"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-J15-review-2-issues.json",
+      "bytes": 3166,
+      "sha256": "23b2aabefa9b6f759320e4d9977fe8a7a1a56b6009b2e918265d68949c5eba71"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-J15-review-2-sources.json",
+      "bytes": 4308,
+      "sha256": "5bf87b836bdc2216d0d62d462886d1fa760b17e3f7cd62a4fafb99eaed486f38"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-J15-review-2-input-validation.json",
+      "bytes": 5304,
+      "sha256": "20a09c10f24a5ea8998d889710de83411f97347ef7ad718c30ec4b6d055ac8a7"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-J15-review-2-freeze.py",
+      "bytes": 4165,
+      "sha256": "9032d041f634039361bd6554a104757db19eae8b60618c220304d2146db9b9e6"
+    }
+  ]
+}

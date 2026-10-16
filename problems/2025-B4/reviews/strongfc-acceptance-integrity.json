@@ -1,0 +1,36 @@
+{
+  "verified_at_utc": "2026-10-16T21:47:10.689578+00:00",
+  "all_checked_hashes_and_sizes_match": true,
+  "manifest_checks": [
+    {
+      "path": "problems/2025-B4/reviews/strongfc-review-1-blind-manifest-v1.json",
+      "bytes": 1278,
+      "sha256": "3ab8f78bcf18a34a85a7c2c55d713f574f2542f2771ebd7da25ab69ba9ac954b",
+      "records_verified": 3
+    },
+    {
+      "path": "problems/2025-B4/reviews/strongfc-review-1-final-manifest-v1.json",
+      "bytes": 1963,
+      "sha256": "951773c9d8572a1d0cfe21958406b6dcd6add9e25f3c4a943297cdd9f4311603",
+      "records_verified": 4
+    },
+    {
+      "path": "problems/2025-B4/reviews/strongfc-review-2-blind-freeze-v1.json",
+      "bytes": 2362,
+      "sha256": "f37a6a7e9eead4d4a68d75adca0cc970109b5127142806deecdb8fe7fd31722e",
+      "records_verified": 6
+    },
+    {
+      "path": "problems/2025-B4/reviews/strongfc-review-2-postfreeze-manifest-v1.json",
+      "bytes": 1349,
+      "sha256": "7fecede47c8fc21ecebc41ca53359c9076ceae267488a33ae5c3ff36b664b6c4",
+      "records_verified": 2
+    }
+  ],
+  "root_read_both_full_reports_and_issue_logs": true,
+  "root_checked_source_pages": [
+    7,
+    8,
+    9
+  ]
+}
