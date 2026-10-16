@@ -1,0 +1,658 @@
+{
+  "status": "finite computational evidence, not an unrestricted proof",
+  "python": "3.12.14",
+  "parameters": {
+    "max_n": 25,
+    "max_t": 24,
+    "deletion_audit": 14,
+    "fixed_split": "24,12"
+  },
+  "b_n": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 5,
+    "5": 9,
+    "6": 16,
+    "7": 29,
+    "8": 52,
+    "9": 94,
+    "10": 170,
+    "11": 308,
+    "12": 560,
+    "13": 1018,
+    "14": 1856,
+    "15": 3383,
+    "16": 6177,
+    "17": 11279,
+    "18": 20614,
+    "19": 37685,
+    "20": 68926,
+    "21": 126112,
+    "22": 230802,
+    "23": 422557,
+    "24": 773730,
+    "25": 1417222
+  },
+  "deletion_audit_through_n": 14,
+  "marked_context_rows": [
+    {
+      "moves": 0,
+      "marked_contexts": 1,
+      "max_fixed_position_contexts": 1,
+      "maximizing_left_lengths": [
+        0
+      ],
+      "position_counts": [
+        1
+      ],
+      "distinct_words_after_seed_insertion": 1
+    },
+    {
+      "moves": 1,
+      "marked_contexts": 2,
+      "max_fixed_position_contexts": 1,
+      "maximizing_left_lengths": [
+        0,
+        1
+      ],
+      "position_counts": [
+        1,
+        1
+      ],
+      "distinct_words_after_seed_insertion": 2
+    },
+    {
+      "moves": 2,
+      "marked_contexts": 4,
+      "max_fixed_position_contexts": 2,
+      "maximizing_left_lengths": [
+        1
+      ],
+      "position_counts": [
+        1,
+        2,
+        1
+      ],
+      "distinct_words_after_seed_insertion": 3
+    },
+    {
+      "moves": 3,
+      "marked_contexts": 8,
+      "max_fixed_position_contexts": 3,
+      "maximizing_left_lengths": [
+        1,
+        2
+      ],
+      "position_counts": [
+        1,
+        3,
+        3,
+        1
+      ],
+      "distinct_words_after_seed_insertion": 5
+    },
+    {
+      "moves": 4,
+      "marked_contexts": 15,
+      "max_fixed_position_contexts": 5,
+      "maximizing_left_lengths": [
+        2
+      ],
+      "position_counts": [
+        1,
+        4,
+        5,
+        4,
+        1
+      ],
+      "distinct_words_after_seed_insertion": 9
+    },
+    {
+      "moves": 5,
+      "marked_contexts": 28,
+      "max_fixed_position_contexts": 8,
+      "maximizing_left_lengths": [
+        2,
+        3
+      ],
+      "position_counts": [
+        1,
+        5,
+        8,
+        8,
+        5,
+        1
+      ],
+      "distinct_words_after_seed_insertion": 16
+    },
+    {
+      "moves": 6,
+      "marked_contexts": 52,
+      "max_fixed_position_contexts": 14,
+      "maximizing_left_lengths": [
+        3
+      ],
+      "position_counts": [
+        1,
+        6,
+        12,
+        14,
+        12,
+        6,
+        1
+      ],
+      "distinct_words_after_seed_insertion": 29
+    },
+    {
+      "moves": 7,
+      "marked_contexts": 96,
+      "max_fixed_position_contexts": 23,
+      "maximizing_left_lengths": [
+        3,
+        4
+      ],
+      "position_counts": [
+        1,
+        7,
+        17,
+        23,
+        23,
+        17,
+        7,
+        1
+      ],
+      "distinct_words_after_seed_insertion": 52
+    },
+    {
+      "moves": 8,
+      "marked_contexts": 177,
+      "max_fixed_position_contexts": 41,
+      "maximizing_left_lengths": [
+        4
+      ],
+      "position_counts": [
+        1,
+        8,
+        23,
+        36,
+        41,
+        36,
+        23,
+        8,
+        1
+      ],
+      "distinct_words_after_seed_insertion": 94
+    },
+    {
+      "moves": 9,
+      "marked_contexts": 326,
+      "max_fixed_position_contexts": 69,
+      "maximizing_left_lengths": [
+        4,
+        5
+      ],
+      "position_counts": [
+        1,
+        9,
+        30,
+        54,
+        69,
+        69,
+        54,
+        30,
+        9,
+        1
+      ],
+      "distinct_words_after_seed_insertion": 170
+    },
+    {
+      "moves": 10,
+      "marked_contexts": 600,
+      "max_fixed_position_contexts": 124,
+      "maximizing_left_lengths": [
+        5
+      ],
+      "position_counts": [
+        1,
+        10,
+        38,
+        78,
+        111,
+        124,
+        111,
+        78,
+        38,
+        10,
+        1
+      ],
+      "distinct_words_after_seed_insertion": 308
+    },
+    {
+      "moves": 11,
+      "marked_contexts": 1104,
+      "max_fixed_position_contexts": 212,
+      "maximizing_left_lengths": [
+        5,
+        6
+      ],
+      "position_counts": [
+        1,
+        11,
+        47,
+        109,
+        172,
+        212,
+        212,
+        172,
+        109,
+        47,
+        11,
+        1
+      ],
+      "distinct_words_after_seed_insertion": 560
+    },
+    {
+      "moves": 12,
+      "marked_contexts": 2030,
+      "max_fixed_position_contexts": 382,
+      "maximizing_left_lengths": [
+        6
+      ],
+      "position_counts": [
+        1,
+        12,
+        57,
+        148,
+        258,
+        348,
+        382,
+        348,
+        258,
+        148,
+        57,
+        12,
+        1
+      ],
+      "distinct_words_after_seed_insertion": 1018
+    },
+    {
+      "moves": 13,
+      "marked_contexts": 3732,
+      "max_fixed_position_contexts": 660,
+      "maximizing_left_lengths": [
+        6,
+        7
+      ],
+      "position_counts": [
+        1,
+        13,
+        68,
+        196,
+        376,
+        552,
+        660,
+        660,
+        552,
+        376,
+        196,
+        68,
+        13,
+        1
+      ],
+      "distinct_words_after_seed_insertion": 1856
+    },
+    {
+      "moves": 14,
+      "marked_contexts": 6858,
+      "max_fixed_position_contexts": 1194,
+      "maximizing_left_lengths": [
+        7
+      ],
+      "position_counts": [
+        1,
+        14,
+        80,
+        254,
+        534,
+        850,
+        1099,
+        1194,
+        1099,
+        850,
+        534,
+        254,
+        80,
+        14,
+        1
+      ],
+      "distinct_words_after_seed_insertion": 3383
+    },
+    {
+      "moves": 15,
+      "marked_contexts": 12600,
+      "max_fixed_position_contexts": 2077,
+      "maximizing_left_lengths": [
+        7,
+        8
+      ],
+      "position_counts": [
+        1,
+        15,
+        93,
+        323,
+        741,
+        1275,
+        1775,
+        2077,
+        2077,
+        1775,
+        1275,
+        741,
+        323,
+        93,
+        15,
+        1
+      ],
+      "distinct_words_after_seed_insertion": 6177
+    },
+    {
+      "moves": 16,
+      "marked_contexts": 23144,
+      "max_fixed_position_contexts": 3764,
+      "maximizing_left_lengths": [
+        8
+      ],
+      "position_counts": [
+        1,
+        16,
+        107,
+        404,
+        1007,
+        1868,
+        2789,
+        3498,
+        3764,
+        3498,
+        2789,
+        1868,
+        1007,
+        404,
+        107,
+        16,
+        1
+      ],
+      "distinct_words_after_seed_insertion": 11279
+    },
+    {
+      "moves": 17,
+      "marked_contexts": 42504,
+      "max_fixed_position_contexts": 6588,
+      "maximizing_left_lengths": [
+        8,
+        9
+      ],
+      "position_counts": [
+        1,
+        17,
+        122,
+        498,
+        1343,
+        2679,
+        4278,
+        5726,
+        6588,
+        6588,
+        5726,
+        4278,
+        2679,
+        1343,
+        498,
+        122,
+        17,
+        1
+      ],
+      "distinct_words_after_seed_insertion": 20614
+    },
+    {
+      "moves": 18,
+      "marked_contexts": 78048,
+      "max_fixed_position_contexts": 11956,
+      "maximizing_left_lengths": [
+        9
+      ],
+      "position_counts": [
+        1,
+        18,
+        138,
+        606,
+        1761,
+        3768,
+        6419,
+        9142,
+        11193,
+        11956,
+        11193,
+        9142,
+        6419,
+        3768,
+        1761,
+        606,
+        138,
+        18,
+        1
+      ],
+      "distinct_words_after_seed_insertion": 37685
+    },
+    {
+      "moves": 19,
+      "marked_contexts": 143296,
+      "max_fixed_position_contexts": 21026,
+      "maximizing_left_lengths": [
+        9,
+        10
+      ],
+      "position_counts": [
+        1,
+        19,
+        155,
+        729,
+        2274,
+        5206,
+        9442,
+        14270,
+        18526,
+        21026,
+        21026,
+        18526,
+        14270,
+        9442,
+        5206,
+        2274,
+        729,
+        155,
+        19,
+        1
+      ],
+      "distinct_words_after_seed_insertion": 68926
+    },
+    {
+      "moves": 20,
+      "marked_contexts": 263068,
+      "max_fixed_position_contexts": 38202,
+      "maximizing_left_lengths": [
+        10
+      ],
+      "position_counts": [
+        1,
+        20,
+        173,
+        868,
+        2896,
+        7076,
+        13636,
+        21824,
+        29959,
+        35980,
+        38202,
+        35980,
+        29959,
+        21824,
+        13636,
+        7076,
+        2896,
+        868,
+        173,
+        20,
+        1
+      ],
+      "distinct_words_after_seed_insertion": 126112
+    },
+    {
+      "moves": 21,
+      "marked_contexts": 482904,
+      "max_fixed_position_contexts": 67444,
+      "maximizing_left_lengths": [
+        10,
+        11
+      ],
+      "position_counts": [
+        1,
+        21,
+        192,
+        1024,
+        3642,
+        9474,
+        19364,
+        32756,
+        47437,
+        60097,
+        67444,
+        67444,
+        60097,
+        47437,
+        32756,
+        19364,
+        9474,
+        3642,
+        1024,
+        192,
+        21,
+        1
+      ],
+      "distinct_words_after_seed_insertion": 230802
+    },
+    {
+      "moves": 22,
+      "marked_contexts": 886392,
+      "max_fixed_position_contexts": 122656,
+      "maximizing_left_lengths": [
+        11
+      ],
+      "position_counts": [
+        1,
+        22,
+        212,
+        1198,
+        4528,
+        12510,
+        27071,
+        48322,
+        73684,
+        98220,
+        116100,
+        122656,
+        116100,
+        98220,
+        73684,
+        48322,
+        27071,
+        12510,
+        4528,
+        1198,
+        212,
+        22,
+        1
+      ],
+      "distinct_words_after_seed_insertion": 422557
+    },
+    {
+      "moves": 23,
+      "marked_contexts": 1626912,
+      "max_fixed_position_contexts": 217246,
+      "maximizing_left_lengths": [
+        11,
+        12
+      ],
+      "position_counts": [
+        1,
+        23,
+        233,
+        1391,
+        5571,
+        16309,
+        37301,
+        70151,
+        112444,
+        157384,
+        195402,
+        217246,
+        217246,
+        195402,
+        157384,
+        112444,
+        70151,
+        37301,
+        16309,
+        5571,
+        1391,
+        233,
+        23,
+        1
+      ],
+      "distinct_words_after_seed_insertion": 773730
+    },
+    {
+      "moves": 24,
+      "marked_contexts": 2985943,
+      "max_fixed_position_contexts": 395397,
+      "maximizing_left_lengths": [
+        12
+      ],
+      "position_counts": [
+        1,
+        24,
+        255,
+        1604,
+        6789,
+        21012,
+        50707,
+        100334,
+        168807,
+        247654,
+        322226,
+        375860,
+        395397,
+        375860,
+        322226,
+        247654,
+        168807,
+        100334,
+        50707,
+        21012,
+        6789,
+        1604,
+        255,
+        24,
+        1
+      ],
+      "distinct_words_after_seed_insertion": 1417222
+    }
+  ],
+  "independent_fixed_split": {
+    "moves": 24,
+    "left_length": 12,
+    "histories_examined": 2704156,
+    "distinct_contexts": 395397
+  }
+}

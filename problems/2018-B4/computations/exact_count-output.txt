@@ -1,0 +1,27 @@
+Runtime: CPython 3.12.14; standard library only
+Formula = prefix DP = composition difference: 400 cases, 1<=m,n<=20
+Direct matrices and both reflection inverses: 21 cases, 1<=m<=7, 1<=n<=3
+Bad row pairs checked individually: 81135
+Official m=5 comparison: 1<=n<=100, all agree
+Table: rows m=1..10; columns n=1..6
+m=1: 0, 0, 0, 0, 0, 0
+m=2: 1, 1, 1, 1, 1, 1
+m=3: 1, 1, 1, 1, 1, 1
+m=4: 3, 5, 7, 9, 11, 13
+m=5: 6, 16, 31, 51, 76, 106
+m=6: 15, 65, 175, 369, 671, 1105
+m=7: 36, 260, 981, 2661, 5916, 11516
+m=8: 91, 1085, 5719, 19929, 54131, 124501
+m=9: 232, 4600, 33922, 151936, 504316, 1370692
+m=10: 603, 19845, 204687, 1178289, 4779291, 15349893
+Exact polynomial coefficients [n^0,n^1,...] for m=2..10
+m=2: [1]
+m=3: [1]
+m=4: [1, 2]
+m=5: [1, 5/2, 5/2]
+m=6: [1, 4, 6, 4]
+m=7: [1, 14/3, 133/12, 77/6, 77/12]
+m=8: [1, 6, 52/3, 88/3, 80/3, 32/3]
+m=9: [1, 27/4, 25, 873/16, 1159/16, 867/16, 289/16]
+m=10: [1, 8, 305/9, 820/9, 1415/9, 1546/9, 980/9, 280/9]
+All finite checks passed. These computations are evidence, not a general proof.

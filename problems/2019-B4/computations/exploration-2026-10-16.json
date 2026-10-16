@@ -1,0 +1,33 @@
+{
+  "status": "bounded computational evidence only",
+  "first_extra_collision_search_moves": 12,
+  "RRLL_avoiding_context_collisions": [
+    {
+      "smaller": "LLRLLRLRRLRR",
+      "larger": "RRLRRLRLLRLL",
+      "left": "100110",
+      "right": "011001"
+    }
+  ],
+  "left_greedy_counterexample_in_B5": "11001",
+  "failed_greedy_trace": [
+    false,
+    [
+      "11001",
+      "1001"
+    ]
+  ],
+  "successful_deletion_trace": [
+    "11001",
+    "1100",
+    "110",
+    "10",
+    "1"
+  ],
+  "balanced_count_counterexample": "1001",
+  "plain_concatenation_counterexample": [
+    "10",
+    "01",
+    "1001"
+  ]
+}

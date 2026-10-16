@@ -11,6 +11,10 @@
 
 ## Current launch point
 
-Official inventory is saved. Initial owner group is intended to cover 2017, 2018 and 2019. Replace this section with the latest completed checkpoints before stopping.
+Official inventory and direct open-portion audit are saved. Initial 2017, 2018 and 2019 research passes are complete. 2017 has attributed updated literature bounds and independently reproduced finite counts. 2018 has a full enumeration formula already present in earlier literature, preserved as unverified reproduction v1.0. 2019 has unverified partial growth-limit and improved-upper-bound arguments, not an exact-growth solution. See progress/review-queue.md for hashes and required audits.
 
-Initial commit 84ff447 was successfully pushed to origin/codex/smmc-b4-research. All three first-group owners were then launched with explicit gpt-6.1-sol/max requests. The coordinator is narrowing stored statements to the open portions and auditing official labels; owners have received that clarification.
+Active work at this checkpoint: owner_2020, owner_2021, review_2018_r1 (fresh adversarial reconstruction). 2022-2025 still need initial passes; prioritize them as slots become free. Do not let reviews of the first group prevent attention to these years.
+
+Commits 84ff447 (initial setup) and 2ef0b66 (official open-only audit and permission setup) were successfully pushed to origin/codex/smmc-b4-research. Further substantive initial-pass files are being integrated. All mathematical agents have explicit gpt-6.1-sol/max launch requests; independent effective readback remains unavailable.
+
+The user approved overnight permission setup and 12-hour idle-sleep prevention. See progress/permissions.md for installed local dependencies and caffeinate PID/session. Scientific imports passed. Latest observed weekly usage was 1% total used, with the same reset timestamp.
