@@ -1,0 +1,789 @@
+{
+  "frozen_at_utc": "2026-10-16T16:15:54.417504+00:00",
+  "status": "candidate proof - unverified",
+  "constructor": "coordinator",
+  "complex_claim": "C20 only; no full degree or contest classification",
+  "old_masks": 772,
+  "additional_masks": 5908,
+  "all_masks": 6680,
+  "old_families": 1493024,
+  "additional_families": 4731928,
+  "all_families": 6224952,
+  "new_initial_misses_preserved": 3,
+  "new_separate_misses_resolved": 3,
+  "independent_complex_extension_reviews": 0,
+  "old_finite_algebraic_certificate_is_explicit_reviewed_dependency": true,
+  "integrity_not_independent_math_review": true,
+  "artifacts": [
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-freeze-v1-job.json",
+      "bytes": 414,
+      "sha256": "ba579b05289dfd8fea6387e99076f6d5b575ecf2ec5e56e434b2f18e9e6e6efa"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-freeze-v1-output.txt",
+      "bytes": 9761,
+      "sha256": "bb692f132b515295366e0e55448c60b77c84cd479e5b8c31ee20eb87c1ed8bc0"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-freeze-v1-result.json",
+      "bytes": 312,
+      "sha256": "bf45b55e8cf4503389c8b40e7e2376aa64209ceb8f4c72eb7f1c4d898bc59406"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-freeze-v1-stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-freeze-v1.py",
+      "bytes": 4768,
+      "sha256": "b8edf094e716e4b26789243979b89b82d594ab31826e1218303633e93e708897"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-masks-v1-result.json",
+      "bytes": 149867,
+      "sha256": "117286c2af231206f6b3f8c75720f6e1181d10deb6cfff3118439b367766a602"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-masks-v1.py",
+      "bytes": 2856,
+      "sha256": "759419caa31fe8df9d7b428f104dbec7fe9b9546e9dd640c5477e63633208552"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-001.jsonl.gz",
+      "bytes": 380296,
+      "sha256": "1f0e3523987c4acfabc97a92e0f84bbf4776775c820dcc376132a15fe8d50b6b"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-002.jsonl.gz",
+      "bytes": 381207,
+      "sha256": "e92ce5e15dd4af5fbff44b9c17000f2fc6eaa050cef221e68c110e239475ecac"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-003.jsonl.gz",
+      "bytes": 382055,
+      "sha256": "7fd2cc8bbfb163597d6ae3e2661524507e2987e114ee59aa4fcd81d26921ef8b"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-004.jsonl.gz",
+      "bytes": 382174,
+      "sha256": "e65b26998aac1e5a793390b8106fee5b908ba9e4adb132a6499e5b3d31359dc5"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-005.jsonl.gz",
+      "bytes": 371715,
+      "sha256": "bd37c1386a7268b32b60ff1af03bbb7ec82e7215a68110ddece9fc410cb83b2c"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-006.jsonl.gz",
+      "bytes": 376409,
+      "sha256": "e74be5103328cba4512156b83062e0de83e486b399df49a476e2360ce2c5ff85"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-007.jsonl.gz",
+      "bytes": 369001,
+      "sha256": "992ad80c7c13f8a3f888d99b8942779c7cee762f8941b2a4a58ea097a5d8c630"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-008.jsonl.gz",
+      "bytes": 367976,
+      "sha256": "6fd546bdce4f4db1b3e9991104879e9685f132a796bad953523e3e1c1a5542bd"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-009.jsonl.gz",
+      "bytes": 372293,
+      "sha256": "aba0ec5346203762d8ac6d02d83a0426fc46592df2118a9501debaa8583988a6"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-010.jsonl.gz",
+      "bytes": 361771,
+      "sha256": "c0326d41fc560c16306e8b91c1c17264aa4276ecfeefebf6deaf242df2c46a63"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-011.jsonl.gz",
+      "bytes": 356345,
+      "sha256": "5f8b2e06af39d44abb04c451ab5454d5fab30813294108adf6f03291d3142709"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-012.jsonl.gz",
+      "bytes": 376612,
+      "sha256": "36dda541cb24a4a43293fb4808e77e341cc9e0a8987591807ced721459cfa841"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-013.jsonl.gz",
+      "bytes": 376931,
+      "sha256": "c4531dfd6ce28f30fcdf1341b23c13bc123c51dbaa313a7d35d9837ddc449a15"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-014.jsonl.gz",
+      "bytes": 376654,
+      "sha256": "37fce8dd9ab928c2840cf0c8032434af34cd629d9d68376b227b63b7718ee099"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-015.jsonl.gz",
+      "bytes": 365875,
+      "sha256": "e5d9b982b9e90256e808d0e236581eb58d532c843b4bb4052e1784b5d4298048"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-016.jsonl.gz",
+      "bytes": 374749,
+      "sha256": "bfcc4fcb76c4568bae1a1626743c056ec0e299be6703df03e0ce40b8547a6a0c"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-017.jsonl.gz",
+      "bytes": 372174,
+      "sha256": "21aa435b6c9b88cceb1026f56c96b68fee680bb63d31da74f43418f5830e95f2"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-018.jsonl.gz",
+      "bytes": 368871,
+      "sha256": "0f18940bc8b0b4e0a1d3c870a0aec26e0fb9a0fa92d0c70f48e45d0a3fec7f51"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-019.jsonl.gz",
+      "bytes": 370157,
+      "sha256": "3150f6ab8156f609353ebf1c7d0e12eeb02833824fe481e3972d06fd5b0c516e"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-020.jsonl.gz",
+      "bytes": 366725,
+      "sha256": "bdc824fdbce1f91ace9b1518027403485601611b64318443a69252b0c82f0678"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-021.jsonl.gz",
+      "bytes": 363932,
+      "sha256": "99d27df7b0d3981dd79929ef676082873b771a2da0b2d465f4bee9fdd07d6e3b"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-022.jsonl.gz",
+      "bytes": 359638,
+      "sha256": "c008d386fda9ffe3c20a67807a37fc67856a43ad259940bd0eab6f3650a81eb8"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-023.jsonl.gz",
+      "bytes": 369999,
+      "sha256": "dc1c20fa4be5a441f14f839a848d928eacc5b485a12842a31a61f09cb100ae8c"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-024.jsonl.gz",
+      "bytes": 367888,
+      "sha256": "9c4f5d254118650582b6d6d397caf90a24e4fa1ee419ddbe079c1db628f2a613"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-025.jsonl.gz",
+      "bytes": 362118,
+      "sha256": "b305e2115b7d827843f0a0645d2c3fbd6e57c43baa26c0e0a0102bf3b21844cd"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-026.jsonl.gz",
+      "bytes": 355191,
+      "sha256": "51cda01e6fe0b165386558b1edf410dea7293a6be79f6aa7622774ef72f5cc25"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-027.jsonl.gz",
+      "bytes": 345062,
+      "sha256": "c0734cb67a7a14e39f46c6016e0641a8575544a85865af0a6a6845c394d7efb4"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-028.jsonl.gz",
+      "bytes": 375736,
+      "sha256": "452f210aaf162f1db7efbf36aa07fd62a1afccb7037564ca699590408f604f77"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-029.jsonl.gz",
+      "bytes": 377305,
+      "sha256": "587770bfef660b4a34a267097a07120f0d4d9e829f430f5ca145f163acbddb55"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-030.jsonl.gz",
+      "bytes": 363604,
+      "sha256": "494456f861bd4777e5809dcf2e01f06d7cdc504a778546c17cd4bfb92bd00cfd"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-031.jsonl.gz",
+      "bytes": 369227,
+      "sha256": "c58a6554e2057036683bc4ae7da8641e0c79cf4de5bdf8982ef72f8230b31eec"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-032.jsonl.gz",
+      "bytes": 368249,
+      "sha256": "d64aadf4087f85bd17e206c8558aa16870062210dbcdbd3ec7f63fc354ef3190"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-033.jsonl.gz",
+      "bytes": 364269,
+      "sha256": "40d6d4b72c7fc34769c8471af809121e23da29e518e45474b1f254ba508fe466"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-034.jsonl.gz",
+      "bytes": 356426,
+      "sha256": "0a4c3ca71f1372a2006ce26aec83bafa3420109cd8bf9f1c7f3a5a1a5f7574ea"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-035.jsonl.gz",
+      "bytes": 355270,
+      "sha256": "55d3a3e72be17abd56f4fed13eaf5c784db9134d61f5dd853d8f7e47be0fbef3"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-036.jsonl.gz",
+      "bytes": 363933,
+      "sha256": "729553895258a71eaaa469750582d9c8024555a2346f51756049413bcd52ca4a"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-037.jsonl.gz",
+      "bytes": 354767,
+      "sha256": "6ce3760a160a80cc549149df5654a0d807a2cb314dade1fc1777f2d03f735f02"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-038.jsonl.gz",
+      "bytes": 351154,
+      "sha256": "e94a7c974d8b8ed93be4daac92487c25ab75e9d26b44081bf6bb65e197c0a55b"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-039.jsonl.gz",
+      "bytes": 345186,
+      "sha256": "7cb588c800247b13a7f14be430f5aca00fda049dbd1daf3f170427a40ae8d731"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-040.jsonl.gz",
+      "bytes": 369485,
+      "sha256": "4663a90a681918bcc40cd83da17618f1e8004159a202177393a174e889d295be"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-041.jsonl.gz",
+      "bytes": 366366,
+      "sha256": "87601aa7cf4162177e173d9281ca1401204bd56871f1a94784abfbb570b96b86"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-042.jsonl.gz",
+      "bytes": 358071,
+      "sha256": "faf6ef4ad8da3cfa9f674834a4a696c55fe7a63e852d2d6ba1b97e6e20e047a3"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-043.jsonl.gz",
+      "bytes": 354358,
+      "sha256": "cc33a38d92dc86277a7777d8121730db578ed67e7ab0c7d032f430ab7ab24697"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-044.jsonl.gz",
+      "bytes": 350454,
+      "sha256": "d0ee165d59cdcfb1064caca266b3869e1211bb1db13638e9f903a076ac529d3c"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-045.jsonl.gz",
+      "bytes": 346086,
+      "sha256": "63827293b66f19195c5cef8bd9dca499a9bb61bf15222522d48912ad6c0f2581"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-046.jsonl.gz",
+      "bytes": 350250,
+      "sha256": "0fa5bdcfd4e599e81c33a8b4e52b1e80d17724f0dd14cf24ca2744cfd079b25f"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-047.jsonl.gz",
+      "bytes": 345912,
+      "sha256": "2e7b05aa3da41024b362a8af06f6bf2f2e1af30771d2c8ed25e2bdfe23ab5232"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-048.jsonl.gz",
+      "bytes": 350691,
+      "sha256": "08a14190de855d0e3ccb0f8f782a815af46c41e80cfd983c5ee24968c39eae10"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-049.jsonl.gz",
+      "bytes": 378379,
+      "sha256": "3bc83c0f4b81ecddf280ea2528c11dc0da19295321bd498b97f3f1949f358625"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-050.jsonl.gz",
+      "bytes": 374398,
+      "sha256": "31561b9a56688537aca1b36e7d2957bf89576f48de242d6955f8b5b6c69b0382"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-051.jsonl.gz",
+      "bytes": 368122,
+      "sha256": "42b5912790fc97df589820304047a40cd011aa32e6291aaa5cabf6b59eff1c3d"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-052.jsonl.gz",
+      "bytes": 369087,
+      "sha256": "317979a3d2bb7f84539ab737fea4d0d71412ea55ed7601660e95d39380864375"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-053.jsonl.gz",
+      "bytes": 366800,
+      "sha256": "180a1c3ed3b42b20dd34873c47b4e4a880be91084f9a368ff6d82188a2e7dc41"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-054.jsonl.gz",
+      "bytes": 371264,
+      "sha256": "edbff0ab3f9221ca8b301e0137ef6392cd6dbf80a47312587ea28467b7a310dd"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-055.jsonl.gz",
+      "bytes": 363793,
+      "sha256": "61c935018764839891942b3f70e9b27820be25c620efab194dc24ee77ca74386"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-056.jsonl.gz",
+      "bytes": 365983,
+      "sha256": "8e48b7c0309b692bc775ea236304398695f2fdb54516d7905ffde609fe771962"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-057.jsonl.gz",
+      "bytes": 364026,
+      "sha256": "e3cc4bfa6d6c3499208d33b03620046b498102d99e1d2dacbaff40093941d690"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-058.jsonl.gz",
+      "bytes": 356607,
+      "sha256": "7ada91c6c34343446e54c445a54b7f1262c8e1069d2056ec996bf0b6e0ed0cfc"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-059.jsonl.gz",
+      "bytes": 347229,
+      "sha256": "ff208749796cc3979b462f741359dc86134f36ac5ced3216820880e0024d43a2"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-060.jsonl.gz",
+      "bytes": 347733,
+      "sha256": "9e2d5e7df848b9ac247bda88ad138b93b2780026fa7dd8d3e28dc06fdb551e6f"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-061.jsonl.gz",
+      "bytes": 358013,
+      "sha256": "d693e9a899e90ae1d389cd413973663861487cef1ed51b7d2bc14b5a571e7d66"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-062.jsonl.gz",
+      "bytes": 358033,
+      "sha256": "c5b4958acfe239c1f69fb5b72d18718298897a36b3c05cfbf06175de81401c07"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-063.jsonl.gz",
+      "bytes": 351566,
+      "sha256": "3dffb8430329d9b7e121a5b1473fea4b4943c9681dc28ee1cf0200e2ae2e3945"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-064.jsonl.gz",
+      "bytes": 358734,
+      "sha256": "c2a7b044afe128dceafc68c4f359ee531d4f35683d76a79f54da0aa1e0c2865c"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-065.jsonl.gz",
+      "bytes": 350396,
+      "sha256": "c27f3144f0eec76c7fcd890f9ef05f925cfe2f233bfa6ff4b2b435293f7c9de8"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-066.jsonl.gz",
+      "bytes": 348205,
+      "sha256": "c083a945cb151a3bf08c6ea67b93ec9304ba3b3640f54bcd170c13df4ec60a5b"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-067.jsonl.gz",
+      "bytes": 339383,
+      "sha256": "7b85598a4ea280ba212879958b0eb8204cb56d29f7742e6f70e56c673d43811c"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-068.jsonl.gz",
+      "bytes": 351716,
+      "sha256": "2edc8b624fe251a87bc0dd1090a70978101529e520ee3e6f8d20771b6868c6d4"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-069.jsonl.gz",
+      "bytes": 359716,
+      "sha256": "42113af667de3f11bb31816a183a60eb9858b886f1438a29f3f77a84602fe8c4"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-070.jsonl.gz",
+      "bytes": 352924,
+      "sha256": "7020f424fd7085fa692261060c9689ecdd03f22458faa9473203836033fc5559"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-071.jsonl.gz",
+      "bytes": 357150,
+      "sha256": "c6a9f092bbc6c7de3fe13ec011a1c33676b14454ac3e6fa99fa8697b3c000ce4"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-072.jsonl.gz",
+      "bytes": 346200,
+      "sha256": "f5e64e1cca0eebe36fb28e13260c78875c661ee1c61d69affae5c66acba60997"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-073.jsonl.gz",
+      "bytes": 337442,
+      "sha256": "726ea1f7bf1267e9286e32fc801002d4b4816169812c935f0a32134a42ff64b3"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-074.jsonl.gz",
+      "bytes": 343075,
+      "sha256": "22d0ab84bf4d26e7e39bfde51989c95cf430be4198c8785f3a71b07a05fa3dcd"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-075.jsonl.gz",
+      "bytes": 335588,
+      "sha256": "3eb9612544086f2b8015dc4fb975d16dd1288e7fa757b4fb5579108e8f7956df"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-076.jsonl.gz",
+      "bytes": 352970,
+      "sha256": "ec63b588ce4d804c631fb5f176ec1a189a204c68ae733e0953fac65e3392feda"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-077.jsonl.gz",
+      "bytes": 344251,
+      "sha256": "5ef024f34b0c67219323f50a92c71d2486d2ecf360ece689dedb177ff0d7f97a"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-078.jsonl.gz",
+      "bytes": 333244,
+      "sha256": "10b46f857b753a9a930be31e3b92aa1c1dcf7d2eecaa698ab517f0ba4f109df9"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-certificates-079.jsonl.gz",
+      "bytes": 279384,
+      "sha256": "f1993154ab58a342022b4aab6850c3775a86691ac85d689c1ff4fe20fa4d67ed"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-construction-provenance.json",
+      "bytes": 2191,
+      "sha256": "4ea99d4ec446126a2edef44227165f7f2f15a1b0fcc5a24e37e02896a3433a00"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-job.json",
+      "bytes": 1262,
+      "sha256": "97e1ad71f297161c5c72886e0bd84922f83cb940136b19597777cd1f7f457f74"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-output.txt",
+      "bytes": 72068,
+      "sha256": "299dc8cc85e44e65474ae2812ff01cbe942502df55398b68e4f9e0051cd83fb8"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-resolve-job.json",
+      "bytes": 969,
+      "sha256": "c158f7c045ed62604c3850381cc379a97bd76a8410caeb1360fea3046f1dd557"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-resolve-output.txt",
+      "bytes": 1149,
+      "sha256": "ead5771adece3765658586c4b79fc2b17422a7d5eb80c2214029c6d461df33de"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-resolve-result.json",
+      "bytes": 1641,
+      "sha256": "4bc8ab8594b84f5e990c25dd8310d81ac72505ce61711f6dd5b6c9b261e54d0d"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-resolve-stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-resolve.py",
+      "bytes": 3213,
+      "sha256": "f71d14c0c2c3d9c25b712f4c2a9396d2a2ada06dfb34f59503f1d91c2270dbb0"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-result.json",
+      "bytes": 20489,
+      "sha256": "1a430c0afe7085caa039eda795383da33b598e9eced6a5a4752392e9e092bd2a"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-unresolved.jsonl",
+      "bytes": 1897,
+      "sha256": "21e75cb54c2c32ffcc0568b91a01bb91e407057117667f542c7447692a6662f2"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1.py",
+      "bytes": 6983,
+      "sha256": "e347ee54132c8ece1bbc9b06813b75e33768b4d30d3220485172cfa806faa107"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-witness-J15-v1-certificates.jsonl",
+      "bytes": 13188831,
+      "sha256": "decd4acccd671f3567e2009916991286f41bdd240d772d3b76240a80287553c9"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-witness-J15-v1-job.json",
+      "bytes": 1241,
+      "sha256": "b249cbbc567659ee71508a368f9b1ee9b56488d0738ba3e100f3baa7f297d35b"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-witness-J15-v1-output.txt",
+      "bytes": 3492,
+      "sha256": "c511009f0ed7675ce3569356f42e580008dc9c3a6a9ee14e597ae673dc99e664"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-witness-J15-v1-result.json",
+      "bytes": 554,
+      "sha256": "813d34433f277d9e39f913906118d6e484a18b06fdec8e072e2984694973062c"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-witness-J15-v1-stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-witness-J16-v1-certificates.jsonl",
+      "bytes": 13137913,
+      "sha256": "510476e82e0bd40033dd2d54b8b5b4a8aef5888772d4fc00f0d9131bb80da2bf"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-witness-J16-v1-job.json",
+      "bytes": 1240,
+      "sha256": "f2cf29cb065f26588eb62d218342546c7e5026414bf8a4ade45a9c0a2e2d53d3"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-witness-J16-v1-output.txt",
+      "bytes": 3479,
+      "sha256": "874d4ce0c0f067fae518a61770cd204af7adcc9dd784e8f8d9eb28d5d6203410"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-witness-J16-v1-result.json",
+      "bytes": 540,
+      "sha256": "c6d7f5223f1da37c064a39e5d47aeeff9c218b968485cd32a1d2760de7841a49"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-witness-J16-v1-stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-witness-v1.py",
+      "bytes": 5768,
+      "sha256": "557384e02ec5ffc63196fa1c6641ffcee2acee91e8eedc3247b7173fc71faca7"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-witness-v2-certificates-001.jsonl.gz",
+      "bytes": 388182,
+      "sha256": "378762bf3e906a2429fbeeb49120e76aa95c923338b4bb2ecdb5e5ce58697f37"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-witness-v2-certificates-002.jsonl.gz",
+      "bytes": 387048,
+      "sha256": "9c9f65916da56c7fff832e8cdea6b2c7e6060e3710cdd89b091e245da5891a9d"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-witness-v2-certificates-003.jsonl.gz",
+      "bytes": 386362,
+      "sha256": "da0c193d6ccd82c9cef5d621d76b34782e4a1cf0a35da6c8e81fa31dd205cdfe"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-witness-v2-certificates-004.jsonl.gz",
+      "bytes": 384207,
+      "sha256": "b36f2e8bdd136029e2abc2da2bbfb76038910c1444778b15434c787c9d7985ac"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-witness-v2-certificates-005.jsonl.gz",
+      "bytes": 384637,
+      "sha256": "7cb9750585b7a7e91601f2950ecb9e1efb482ba5fc12e51da71a31d536c663ad"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-witness-v2-certificates-006.jsonl.gz",
+      "bytes": 385871,
+      "sha256": "c411cb5464ce87ba5ad94ab6b411f39ec19aa090d54d14b1a5ba0468abc99fbd"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-witness-v2-certificates-007.jsonl.gz",
+      "bytes": 378162,
+      "sha256": "632e7d32f9ba5250554248efa5b6fcd7acd72b88e31d5cb43dbedca8c821d8eb"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-witness-v2-certificates-008.jsonl.gz",
+      "bytes": 380264,
+      "sha256": "74776d98fe595dc9cf1d71ac0d043b627ae01c1dd9827c1f23a4e0f621fbdd00"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-witness-v2-certificates-009.jsonl.gz",
+      "bytes": 383589,
+      "sha256": "b3f3b9d7596011fd00b0d5ec67de52f694c2bc2c468f8aa11fe8ca00891358b1"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-witness-v2-certificates-010.jsonl.gz",
+      "bytes": 384471,
+      "sha256": "db91d701388aa28bb9f3fd6df6d87d8db2bccd3686ca0d3ddf42ad00d7a9d15e"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-witness-v2-certificates-011.jsonl.gz",
+      "bytes": 381263,
+      "sha256": "c52487701ffb46da3ec5aa2b1b4db281a82b66f15088f246ffd403fc354f6675"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-witness-v2-certificates-012.jsonl.gz",
+      "bytes": 373770,
+      "sha256": "18a51ef90a27fed9c5fbf718a24527dce15fbf99ab7b6721cabb02e36f2f4150"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-witness-v2-certificates-013.jsonl.gz",
+      "bytes": 382831,
+      "sha256": "81574cce068ea9743ecd996b18ee1d6654d9c8214108c80b0e5c094110ae877f"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-witness-v2-certificates-014.jsonl.gz",
+      "bytes": 377582,
+      "sha256": "5d08f409892fe3caaf63bd976ca9292ff4384f7f18deb94b736bfc11ed69e689"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-witness-v2-certificates-015.jsonl.gz",
+      "bytes": 378166,
+      "sha256": "cad1ca11291d10a79e1c08520e3fb42d345633facacaca7ef7ade5dc33c30e59"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-witness-v2-certificates-016.jsonl.gz",
+      "bytes": 379363,
+      "sha256": "db32d3bcd51059f9f10d331b1aa6f847fde43176c811c036eef9c4632407a989"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-witness-v2-certificates-017.jsonl.gz",
+      "bytes": 378039,
+      "sha256": "6a3d770b2860b346a7f401a66b19e02e964fedaa29e2879d4de4529e6dda814c"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-witness-v2-certificates-018.jsonl.gz",
+      "bytes": 370647,
+      "sha256": "23edbf6021801ad131805d8315345f89ac8c960fb1230bfc47cde953d3aece03"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-witness-v2-certificates-019.jsonl.gz",
+      "bytes": 379201,
+      "sha256": "900f49bf6850f0054358dee657112cc55fb904cc657b35de320822f1840e3821"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-witness-v2-certificates-020.jsonl.gz",
+      "bytes": 372880,
+      "sha256": "b6f02f1d0e9614554db71a6a2198cf3480828020f46de9f2a2810f6baada2de9"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-witness-v2-certificates-021.jsonl.gz",
+      "bytes": 372389,
+      "sha256": "5f79995a6c3a03cba15dbf459fd811d8934caaefdf1772b128f2e123de9b427d"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-witness-v2-certificates-022.jsonl.gz",
+      "bytes": 374441,
+      "sha256": "f85b2c4055f889e8accf814577d5639c7c0060fb1ebcbc78df8778f1d156c270"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-witness-v2-certificates-023.jsonl.gz",
+      "bytes": 369381,
+      "sha256": "30cefcdcbe08ece5984641f466e8ca29349c4f6edf40f672bed3c33226727626"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-witness-v2-certificates-024.jsonl.gz",
+      "bytes": 375274,
+      "sha256": "5d689a5c50f56b3e61d244bc507000ea01ceac65f9d74bc27462fd5c927d2dbe"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-witness-v2-certificates-025.jsonl.gz",
+      "bytes": 323138,
+      "sha256": "71d308f9a8411496c943f54d9c7099f519545057d85cc4bea47064403d6f9972"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-witness-v2-job.json",
+      "bytes": 1202,
+      "sha256": "d62804217d26aa8bd91641f92fe11bf52eb5163e904ca13a7ed4ecae24f2fba5"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-witness-v2-output.txt",
+      "bytes": 23313,
+      "sha256": "ff7c6005f6c878ccb6fdb47cbdee82289383663661aa93151facc3c25335b050"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-witness-v2-resolve-job.json",
+      "bytes": 919,
+      "sha256": "bafb5d4a24106c8d406979405e28a5bd8011c9b2b833c6ee7888023de7708d6a"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-witness-v2-resolve-output.txt",
+      "bytes": 572,
+      "sha256": "a11aecea0cd28df1a7cfe96c259b72a6da976a9e0d68b7920cfc7df6c40bfcff"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-witness-v2-resolve-result.json",
+      "bytes": 748,
+      "sha256": "94a71d2f440a26fd5d8e524e5e201136232f4e0f49ee8a8a6863f8994f16b595"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-witness-v2-resolve-stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-witness-v2-resolve.py",
+      "bytes": 3193,
+      "sha256": "5c702293a7113ed4d5afc2480bcb059ac43155f70513d8cd0972f49c5074ed62"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-witness-v2-result.json",
+      "bytes": 6627,
+      "sha256": "db3f594ef00662e1a97112edb88bc53fa74d77cb3265d213a2653e9c9116e07a"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-witness-v2-stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-witness-v2-unresolved.jsonl",
+      "bytes": 602,
+      "sha256": "e5989956ac84c3240150eaae9b909476fd1f8d2b49eafbb47a673afd0f489927"
+    },
+    {
+      "path": "problems/2021-B4/computations/coordinator-three-witness-v2.py",
+      "bytes": 6961,
+      "sha256": "764a0a77600cb05f6ef9981b578f5b22e94b1785aa79079e4b0053f96c77ade0"
+    },
+    {
+      "path": "problems/2021-B4/computations/padic-rational-j17-compatibility.py",
+      "bytes": 6674,
+      "sha256": "b256641c20b4cd6dbd7e346421fe09f5ebdb58090887a43fe06ef845d3534046"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-three-complex-witnesses-v1-completion.md",
+      "bytes": 3276,
+      "sha256": "a964371dcb956624e23a41c54ab09fad085324f9dd97ce3c6f5b276646dc9719"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-three-complex-witnesses-v1.md",
+      "bytes": 9248,
+      "sha256": "4696d98dfe053d74fc4114bc0986359288a8f542c7f87c29134746b7d73d2d65"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-three-rational-witnesses-reviewed-v1.1.md",
+      "bytes": 1962,
+      "sha256": "7ff6b3d92d3268405381c2732d83516d21e6eb7d74e897d4c01ec8bb70342be4"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-three-rational-witnesses-v1-manifest.json",
+      "bytes": 11022,
+      "sha256": "b01f42be62a8019fc6af3d6042434254e8f88fe6060dba6e454babf9eaa0cd78"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-three-rational-witnesses-v1.md",
+      "bytes": 11325,
+      "sha256": "be91345a8511338d55f30b140ee2555698c21d0e341efe29fe2536bca4fffbda"
+    },
+    {
+      "path": "problems/2021-B4/reviews/newton-review-1-extension-result.json",
+      "bytes": 179670,
+      "sha256": "96f61ad6b173c1fd40bfc2dff3f87c44b616db87bd6db0a0ca77b1a019bee803"
+    },
+    {
+      "path": "problems/2021-B4/reviews/three-witness-acceptance.json",
+      "bytes": 1640,
+      "sha256": "da40fa4fd7e10472f67d820c90846cf3b64ba7abd4c52f7b2a7146a60dfd7c01"
+    },
+    {
+      "path": "problems/2021-B4/reviews/three-witness-acceptance.md",
+      "bytes": 1893,
+      "sha256": "66a0cf9107fac6b0c772da1d0de7823a3a05667736cdb5a4af32eea0213d641e"
+    }
+  ]
+}

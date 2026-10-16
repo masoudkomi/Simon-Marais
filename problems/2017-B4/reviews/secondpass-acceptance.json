@@ -1,0 +1,48 @@
+{
+  "accepted_at_utc": "2026-10-16T16:13:31.077838+00:00",
+  "status": "proved, independently reviewed (partial results)",
+  "full_problem_status": "exact liminf/limsup unresolved",
+  "claims": [
+    "M1",
+    "M2",
+    "M3",
+    "F1",
+    "F2",
+    "F3",
+    "G1",
+    "G2"
+  ],
+  "reviewers_distinct_from_constructor_and_repair_author": true,
+  "initial_audits_blind": true,
+  "both_full_initial_reconstructions": true,
+  "substantive_repair_required": true,
+  "both_targeted_reaudits_completed_before_cross_review": true,
+  "unresolved_substantive_objections": 0,
+  "novelty_established": false,
+  "frontier_improvement_claimed": false,
+  "Q_3_3": 4419734746,
+  "certified_lower_coefficient_approx": 0.1900060770448,
+  "stronger_attributed_published_lower_bound": 0.2721,
+  "manifest_distinct_file_checks": [
+    24,
+    12,
+    16,
+    16
+  ],
+  "artifacts": {
+    "proofs/reviewed-secondpass-v1.2.md": "673e4c43c4ca6c444f8dcc562473fce61cf8f3442129371035560dca437660e4",
+    "reviews/secondpass-acceptance.md": "33ab3348eb6d8beba1b2e3ebba409a08c74e6ea8b886b2e0096420bbb2a721ed",
+    "reviews/secondpass-acceptance-issues-snapshot.md": "6b04e2ac4ae5336c5d02b0498b689553c887ae6ec094780fa23bf0fc271c725b",
+    "notes/author-repair-manifest-v1.1.json": "9c517f88390e5f0a124cadb71bd166672931a06109be7818158293bf293253eb",
+    "notes/author-repair-checkpoint-v1.1.json": "2ef250584308aabac4b0bec58c3c005c3d14bcc4fbc3691064dad103a237f9ca",
+    "reviews/secondpass-review-1.md": "13b22e6c664ea0880eb3508a6df06670caa84ffec18486f00696998c94d9cbc1",
+    "reviews/secondpass-review-2-initial.md": "1780d421be9d46158f02428ab4a46e0504f3fd3733e31c6e37a398c35cd32012",
+    "reviews/secondpass-review-1-reaudit.md": "843c3cb57e224f14782c8b1f400be411e8186f60ac40e566480496911cfd8412",
+    "reviews/secondpass-review-1-reaudit-manifest.json": "e6ea1cdf9ecccb34a53126342c9b091921637eed0996cd0600578d289d265113",
+    "reviews/secondpass-review-2-reaudit-v1.1.md": "f25a6aa7df80322168eb4300afa8135c74a3e2d1f1de71ae6c9ae9ed731b3c04",
+    "reviews/secondpass-review-2-reaudit-freeze.json": "815d31db50d1d961c099ee7e710dadad151137386e02bf39384bb913ab5107f3",
+    "notes/author-repair-macmahon-candidate-v1.1.md": "a225f0042fc098d8a827093a3e680612848caf392db64cad24339d399769bcf0",
+    "notes/author-repair-boundary-fiber-candidate-v1.1.md": "e2891eafc6fa8449f6c70c817c2e21416a43f1893120929df02f2aa2dac86a8b",
+    "notes/author-repair-periodic-grid-candidate-v1.1.md": "1a6acb042e1e21bc0992cddbd7188c47e81249b5888faabaa4e73a45be0f5c6e"
+  }
+}

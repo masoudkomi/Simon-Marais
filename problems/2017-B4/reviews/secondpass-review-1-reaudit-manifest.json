@@ -1,0 +1,173 @@
+{
+  "completed_utc": "2026-10-16T16:09:10.654081+00:00",
+  "scope": "Targeted independent R1 re-audit of exact 2017 second-pass author repair v1.1",
+  "requested_launch_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning_effort": "max",
+    "launch_acceptance": "parent supplied existing context"
+  },
+  "verified_effective_settings": null,
+  "other_reaudit_reports_or_conclusions_read": false,
+  "author_changelog_read": true,
+  "weekly_telemetry": {
+    "authority": "mcp__codex_app__get_usage_limits",
+    "entry_used_percent_total": 10,
+    "finish_used_percent_total": 10,
+    "window_duration_minutes": 10080,
+    "resets_at": 1792745187,
+    "stop_percent_total": 90
+  },
+  "verdict": "The changed v1.1 arguments resolve R1 objections; no remaining substantive objection identified in stated partial-result scope",
+  "substantive_open_objections": [],
+  "resolved_R1_points": [
+    "R1-G2-01",
+    "R1-G1-01",
+    "R1-F1-01",
+    "M2 odd full-ternary clarification"
+  ],
+  "other_changed_arguments_audited": [
+    "F1 empty slots, connected exterior, facial port walk, Jordan regular-neighborhood disk",
+    "F3 distinct transverse proper ports and F(empty)=1",
+    "G2 simultaneous fixed disks, recovery, simple partial input, tails, unchanged coefficient"
+  ],
+  "old_R1_review": {
+    "path": "problems/2017-B4/reviews/secondpass-review-1.md",
+    "bytes": 34140,
+    "sha256": "13b22e6c664ea0880eb3508a6df06670caa84ffec18486f00696998c94d9cbc1"
+  },
+  "audited_input_records": [
+    {
+      "path": "problems/2017-B4/notes/author-repair-macmahon-candidate-v1.1.md",
+      "bytes": 9249,
+      "sha256": "a225f0042fc098d8a827093a3e680612848caf392db64cad24339d399769bcf0"
+    },
+    {
+      "path": "problems/2017-B4/notes/author-repair-macmahon-v1-to-v1.1.diff",
+      "bytes": 4106,
+      "sha256": "60896871928c65b43e4db8d7fb3009406cf8640b9f2828a9cdcfa8ae4badf84e"
+    },
+    {
+      "path": "problems/2017-B4/notes/author-repair-boundary-fiber-candidate-v1.1.md",
+      "bytes": 13994,
+      "sha256": "e2891eafc6fa8449f6c70c817c2e21416a43f1893120929df02f2aa2dac86a8b"
+    },
+    {
+      "path": "problems/2017-B4/notes/author-repair-boundary-fiber-v1-to-v1.1.diff",
+      "bytes": 14858,
+      "sha256": "89fc5c4e66411a1fbdd7a53456442b246883682427e8e991a67d33ac13962451"
+    },
+    {
+      "path": "problems/2017-B4/notes/author-repair-periodic-grid-candidate-v1.1.md",
+      "bytes": 13515,
+      "sha256": "1a6acb042e1e21bc0992cddbd7188c47e81249b5888faabaa4e73a45be0f5c6e"
+    },
+    {
+      "path": "problems/2017-B4/notes/author-repair-periodic-grid-v1-to-v1.1.diff",
+      "bytes": 11766,
+      "sha256": "06ea3ffa0e1b3d2e44073c143cbadaf89ac0891c54cd14572f8e5efe3df49b90"
+    },
+    {
+      "path": "problems/2017-B4/notes/author-repair-changelog-v1.1.md",
+      "bytes": 9367,
+      "sha256": "3cb89e22fa29a768c956a5a82bff494c00659437dc933160731ca976ee6e7765"
+    },
+    {
+      "path": "problems/2017-B4/notes/author-repair-manifest-v1.1.json",
+      "bytes": 5762,
+      "sha256": "9c517f88390e5f0a124cadb71bd166672931a06109be7818158293bf293253eb"
+    },
+    {
+      "path": "problems/2017-B4/notes/author-repair-sources-v1.1.json",
+      "bytes": 2111,
+      "sha256": "2d6a14047e3be28c9e820b7835202c7b5e7b0faf6ae25f4fd18c7c5cc8e93982"
+    },
+    {
+      "path": "problems/2017-B4/notes/author-repair-checkpoint-v1.1.json",
+      "bytes": 3281,
+      "sha256": "2ef250584308aabac4b0bec58c3c005c3d14bcc4fbc3691064dad103a237f9ca"
+    }
+  ],
+  "direct_byte_checks": {
+    "supplied_diffs_equal_independent_four_context_line_regeneration": true,
+    "M1_math_section_unchanged": true,
+    "M3_math_section_unchanged": true,
+    "author_preserved_input_hashes_verified": 17,
+    "author_checkpoint_file_hashes_verified": 12,
+    "source_pdf_and_page_image_hashes_verified": true
+  },
+  "finite_evidence": {
+    "geometry_t_values": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      20
+    ],
+    "new_patch_enumeration": false,
+    "Q_3_3_unchanged": 4419734746,
+    "L4_count_used": false,
+    "fixed_small_disk_radius": "1/1000",
+    "test_support_shrink": "1/100",
+    "computation_status": "complete; finite evidence only"
+  },
+  "job": {
+    "started_utc": "2026-10-16T16:05:14.705047+00:00",
+    "pid": 37818,
+    "argv": [
+      "/Users/uqmkamga/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3",
+      "/Users/uqmkamga/Documents/ChatGPT/Website/problems/2017-B4/reviews/secondpass-review-1-reaudit-check.py",
+      "--worker"
+    ],
+    "timeout_seconds": 25.0,
+    "script_sha256": "bf84f56dc20a8e108e52b16e7ff7133c6cf19efe06b0c75464af7aac957fd7d9",
+    "stdout": "/Users/uqmkamga/Documents/ChatGPT/Website/problems/2017-B4/reviews/secondpass-review-1-reaudit-check.log",
+    "status": "complete",
+    "returncode": 0,
+    "elapsed_seconds": 0.9489557500055525,
+    "finished_utc": "2026-10-16T16:05:15.651735+00:00"
+  },
+  "artifacts": [
+    {
+      "path": "problems/2017-B4/reviews/secondpass-review-1-reaudit-check.log",
+      "bytes": 4636,
+      "sha256": "a58e0e1aaea66348b1fa7cf2ea40080284e2773b69e78ce24d269c6c586ad3b4"
+    },
+    {
+      "path": "problems/2017-B4/reviews/secondpass-review-1-reaudit-check.py",
+      "bytes": 9349,
+      "sha256": "bf84f56dc20a8e108e52b16e7ff7133c6cf19efe06b0c75464af7aac957fd7d9"
+    },
+    {
+      "path": "problems/2017-B4/reviews/secondpass-review-1-reaudit-finalize.py",
+      "bytes": 4212,
+      "sha256": "6b8ac7c9d582e08d6df419a1fcc93f15e62952c7cc214ddd0a33a9824a44931a"
+    },
+    {
+      "path": "problems/2017-B4/reviews/secondpass-review-1-reaudit-job.json",
+      "bytes": 686,
+      "sha256": "fdf4d5c29fe471f7c7471d1f9735b96366ef9f939342c74fcc5032831731310c"
+    },
+    {
+      "path": "problems/2017-B4/reviews/secondpass-review-1-reaudit.md",
+      "bytes": 23608,
+      "sha256": "843c3cb57e224f14782c8b1f400be411e8186f60ac40e566480496911cfd8412"
+    }
+  ],
+  "full_source_files_redistributed": false,
+  "source_downloads": 0,
+  "proof_edits": false,
+  "old_review_edits": false,
+  "shared_log_edits": false,
+  "commits_or_pushes": false,
+  "candidate_statuses_promoted": false,
+  "coordinator_and_other_reaudit_acceptance_still_required": true,
+  "manifest_self_hash_excluded": true
+}

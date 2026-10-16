@@ -1,0 +1,23 @@
+R1 targeted re-audit 3.12.14 stdlib only; exact finite evidence
+EXACT DIFF COMPLETE macmahon a225f0042fc098d8a827093a3e680612848caf392db64cad24339d399769bcf0 60896871928c65b43e4db8d7fb3009406cf8640b9f2828a9cdcfa8ae4badf84e
+EXACT DIFF COMPLETE boundary-fiber e2891eafc6fa8449f6c70c817c2e21416a43f1893120929df02f2aa2dac86a8b 89fc5c4e66411a1fbdd7a53456442b246883682427e8e991a67d33ac13962451
+EXACT DIFF COMPLETE periodic-grid 1a6acb042e1e21bc0992cddbd7188c47e81249b5888faabaa4e73a45be0f5c6e 06ea3ffa0e1b3d2e44073c143cbadaf89ac0891c54cd14572f8e5efe3df49b90
+UNCHANGED MATH SECTION ## Candidate M1: f18945cdf5ecd49811e356aea360bf71b113f5edc3d8386c6df008029f02966f
+UNCHANGED MATH SECTION ## Candidate M3: a76f16c93bd96260ae2d0b45a2598e9bfc3c8d15d9e5e88d20e504b8940473b9
+PRESERVED INPUT HASHES COMPLETE 17
+SOURCE FINGERPRINTS COMPLETE a6995529d08034c0735b3f9b0b9a4f9dae01ac0a5f3864d88728c6d04f85c828
+AUTHOR CHECKPOINT FILE HASHES COMPLETE 12
+GEOMETRY COMPLETE {"t": 1, "m": 3, "K": 0, "fourfold": 5, "triple": 4, "fixed_residual": 5, "repair_radius": "1/1000", "support_shrink": "1/100", "minimum_squared_distance_to_large": "None", "all_original_multicrossings_assigned": true, "boundary_examples_repaired": true}
+GEOMETRY COMPLETE {"t": 2, "m": 5, "K": 0, "fourfold": 13, "triple": 12, "fixed_residual": 13, "repair_radius": "1/1000", "support_shrink": "1/100", "minimum_squared_distance_to_large": "None", "all_original_multicrossings_assigned": true, "boundary_examples_repaired": true}
+GEOMETRY COMPLETE {"t": 3, "m": 7, "K": 0, "fourfold": 25, "triple": 24, "fixed_residual": 25, "repair_radius": "1/1000", "support_shrink": "1/100", "minimum_squared_distance_to_large": "None", "all_original_multicrossings_assigned": true, "boundary_examples_repaired": true}
+GEOMETRY COMPLETE {"t": 4, "m": 9, "K": 0, "fourfold": 41, "triple": 40, "fixed_residual": 41, "repair_radius": "1/1000", "support_shrink": "1/100", "minimum_squared_distance_to_large": "None", "all_original_multicrossings_assigned": true, "boundary_examples_repaired": true}
+GEOMETRY COMPLETE {"t": 5, "m": 11, "K": 0, "fourfold": 61, "triple": 60, "fixed_residual": 61, "repair_radius": "1/1000", "support_shrink": "1/100", "minimum_squared_distance_to_large": "None", "all_original_multicrossings_assigned": true, "boundary_examples_repaired": true}
+GEOMETRY COMPLETE {"t": 6, "m": 13, "K": 2, "fourfold": 85, "triple": 84, "fixed_residual": 67, "repair_radius": "1/1000", "support_shrink": "1/100", "minimum_squared_distance_to_large": "121/10000", "all_original_multicrossings_assigned": true, "boundary_examples_repaired": true}
+GEOMETRY COMPLETE {"t": 7, "m": 15, "K": 4, "fourfold": 113, "triple": 112, "fixed_residual": 77, "repair_radius": "1/1000", "support_shrink": "1/100", "minimum_squared_distance_to_large": "121/10000", "all_original_multicrossings_assigned": true, "boundary_examples_repaired": true}
+GEOMETRY COMPLETE {"t": 8, "m": 17, "K": 4, "fourfold": 145, "triple": 144, "fixed_residual": 109, "repair_radius": "1/1000", "support_shrink": "1/100", "minimum_squared_distance_to_large": "121/10000", "all_original_multicrossings_assigned": true, "boundary_examples_repaired": true}
+GEOMETRY COMPLETE {"t": 9, "m": 19, "K": 8, "fourfold": 181, "triple": 180, "fixed_residual": 109, "repair_radius": "1/1000", "support_shrink": "1/100", "minimum_squared_distance_to_large": "121/10000", "all_original_multicrossings_assigned": true, "boundary_examples_repaired": true}
+GEOMETRY COMPLETE {"t": 10, "m": 21, "K": 12, "fourfold": 221, "triple": 220, "fixed_residual": 113, "repair_radius": "1/1000", "support_shrink": "1/100", "minimum_squared_distance_to_large": "121/10000", "all_original_multicrossings_assigned": true, "boundary_examples_repaired": true}
+GEOMETRY COMPLETE {"t": 11, "m": 23, "K": 12, "fourfold": 265, "triple": 264, "fixed_residual": 157, "repair_radius": "1/1000", "support_shrink": "1/100", "minimum_squared_distance_to_large": "121/10000", "all_original_multicrossings_assigned": true, "boundary_examples_repaired": true}
+GEOMETRY COMPLETE {"t": 12, "m": 25, "K": 18, "fourfold": 313, "triple": 312, "fixed_residual": 151, "repair_radius": "1/1000", "support_shrink": "1/100", "minimum_squared_distance_to_large": "121/10000", "all_original_multicrossings_assigned": true, "boundary_examples_repaired": true}
+GEOMETRY COMPLETE {"t": 20, "m": 41, "K": 60, "fourfold": 841, "triple": 840, "fixed_residual": 301, "repair_radius": "1/1000", "support_shrink": "1/100", "minimum_squared_distance_to_large": "121/10000", "all_original_multicrossings_assigned": true, "boundary_examples_repaired": true}
+COMPLETE: no enumeration or side-4 retry

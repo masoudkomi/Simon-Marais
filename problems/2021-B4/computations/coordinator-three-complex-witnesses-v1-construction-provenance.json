@@ -1,0 +1,56 @@
+{
+  "constructed_at_utc": "2026-10-16T16:03:21.782770+00:00",
+  "status": "constructor code reuse; not independent review",
+  "source": "problems/2021-B4/computations/coordinator-three-witness-v2.py",
+  "source_sha256": "764a0a77600cb05f6ef9981b578f5b22e94b1785aa79079e4b0053f96c77ade0",
+  "new_source": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1.py",
+  "new_source_sha256": "e347ee54132c8ece1bbc9b06813b75e33768b4d30d3220485172cfa806faa107",
+  "exact_replacements": [
+    [
+      "Complete selected degree20 three-rational-witness families",
+      "Complete complementary degree20 three-complex-witness families"
+    ],
+    [
+      "PREFIX='coordinator-three-witness-v2'",
+      "PREFIX='coordinator-three-complex-witnesses-v1'"
+    ],
+    [
+      "MASKS=BASE/'reviews/newton-review-1-extension-result.json'",
+      "MASKS=HERE/'coordinator-three-complex-masks-v1-result.json'"
+    ],
+    [
+      "['combined_with_prior_j17_exclusion_masks']",
+      "['additional_center_masks']"
+    ],
+    [
+      "len(masks)==772 and len(set(masks))==772",
+      "len(masks)==5908 and len(set(masks))==5908"
+    ],
+    [
+      "expected==1493024",
+      "expected==4731928"
+    ],
+    [
+      "scope='all772reviewednecessarymasks;allnoncenterwitnesses0orU'",
+      "scope='5908additionalmasks;allnoncenterwitnesses0orU;noNewtonorrational-onlyfilter'"
+    ],
+    [
+      "timeout_seconds':300",
+      "timeout_seconds':900"
+    ],
+    [
+      "proc.wait(timeout=300)",
+      "proc.wait(timeout=900)"
+    ]
+  ],
+  "mask_source": "problems/2021-B4/computations/coordinator-three-complex-masks-v1-result.json",
+  "expected_additional_families": 4731928,
+  "timeout_seconds": 900,
+  "resolver_reuse": {
+    "original": "problems/2021-B4/computations/coordinator-three-witness-v2-resolve.py",
+    "original_sha256": "5c702293a7113ed4d5afc2480bcb059ac43155f70513d8cd0972f49c5074ed62",
+    "new": "problems/2021-B4/computations/coordinator-three-complex-witnesses-v1-resolve.py",
+    "new_sha256": "f71d14c0c2c3d9c25b712f4c2a9396d2a2ada06dfb34f59503f1d91c2270dbb0",
+    "changes": "only PREFIX and SOURCE names; unchanged fixed prime list131through179 and20second child timeout"
+  }
+}

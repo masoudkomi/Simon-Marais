@@ -2,7 +2,7 @@
   "branch": "codex/smmc-b4-research",
   "remote": "https://github.com/masoudkomi/Simon-Marais.git",
   "phase": "all initial passes complete; independent review and focused research",
-  "last_pushed_commit": "a1b7166",
+  "last_pushed_commit": "d6e6975",
   "initial_passes_complete": [
     2017,
     2018,
@@ -16,19 +16,19 @@
   ],
   "active": [
     {
-      "agent": "review_2017_secondpass_r1",
-      "role": "independent targeted v1.1 re-audit",
-      "year": 2017
-    },
-    {
-      "agent": "review_2017_secondpass_r2",
-      "role": "independent targeted v1.1 re-audit",
-      "year": 2017
-    },
-    {
       "agent": "review_2020_initial_r2",
-      "role": "fresh blind full reconstruction",
-      "year": 2020
+      "year": 2020,
+      "role": "fresh blind full reviewer"
+    },
+    {
+      "agent": "review_2021_ghosh_r1",
+      "year": 2021,
+      "role": "fresh blind full-context source auditor"
+    },
+    {
+      "agent": "review_2021_ghosh_r2",
+      "year": 2021,
+      "role": "fresh blind full-context source auditor"
     }
   ],
   "initial_passes_pending": [],
@@ -42,12 +42,14 @@
     "exec_session": 57629,
     "duration_seconds": 43200
   },
-  "notes": "Snapshot, not live telemetry. 2021 rational three-witness T1-T3 and2025C1-C4 accepted after both blind full audits. 2017 repair v1.1 under both targeted re-audits. 2020R2active. Complex extension construction unverified; ramified-normalization proof and two audits required. Caffeinate authorized12h through about21:26UTC. No stop condition reached.",
-  "observed_at_utc": "2026-10-16T16:07:29.585175+00:00",
+  "notes": "Both2017 actual-v1.1 re-audits accepted; exact rates unresolved. 2021rationalT1-T3 and2025C1-C4 accepted. NewcomplexC20 candidate and154artifact manifest frozen, no complex acceptance yet. TwoGhosh source audits and2020R2active. CaffeinatePID5398 verified16:16UTC with18550seconds remaining, expiresabout21:26UTC. No stopcondition reached.",
+  "observed_at_utc": "2026-10-16T16:17:00.356349+00:00",
   "coordinator_compute": {
-    "child_pid": 37199,
-    "session": 41568,
-    "timeout_seconds": 900,
-    "purpose": "4731928 complementary complex-three-witness families; construction only"
+    "status": "all constructor children completed and reaped",
+    "complex_complement_child_pid": 37199,
+    "resolver_child_pid": 43351,
+    "freeze_integrity_child_pid": 43579,
+    "complex_family_count": 6224952,
+    "new_complex_extension_audits": "queued"
   }
 }

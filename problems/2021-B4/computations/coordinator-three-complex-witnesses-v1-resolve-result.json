@@ -1,0 +1,75 @@
+{
+  "status": "targeted finite construction, independent audits pending",
+  "source_sha256": "21e75cb54c2c32ffcc0568b91a01bb91e407057117667f542c7447692a6662f2",
+  "helpers_sha256": "b256641c20b4cd6dbd7e346421fe09f5ebdb58090887a43fe06ef845d3534046",
+  "cases": [
+    {
+      "center_mask": 117075,
+      "u_mask": 9220,
+      "raw_record_sha256": "ef92e87d520060c06eeff061245ab87f71aff68e6bdfb4c75fc2de76bdd5879e",
+      "degrees": [
+        15,
+        20
+      ],
+      "status": "coprime_mod_prime",
+      "prime": 131,
+      "gcd_degree": 0,
+      "leading_residues": [
+        83,
+        3
+      ],
+      "trials": [
+        {
+          "prime": 131,
+          "gcd_degree": 0
+        }
+      ]
+    },
+    {
+      "center_mask": 117075,
+      "u_mask": 1548,
+      "raw_record_sha256": "c951d3ad8e8ca84167a0ced75c5a4794f465054165c4ec31f6766b77358a209c",
+      "degrees": [
+        12,
+        20
+      ],
+      "status": "coprime_mod_prime",
+      "prime": 131,
+      "gcd_degree": 0,
+      "leading_residues": [
+        44,
+        79
+      ],
+      "trials": [
+        {
+          "prime": 131,
+          "gcd_degree": 0
+        }
+      ]
+    },
+    {
+      "center_mask": 117075,
+      "u_mask": 9356,
+      "raw_record_sha256": "324b399ceb08ef67142ef1ee0c27f2a8e55d9cc229b0c182494a0f04c1f58762",
+      "degrees": [
+        15,
+        20
+      ],
+      "status": "coprime_mod_prime",
+      "prime": 131,
+      "gcd_degree": 0,
+      "leading_residues": [
+        97,
+        124
+      ],
+      "trials": [
+        {
+          "prime": 131,
+          "gcd_degree": 0
+        }
+      ]
+    }
+  ],
+  "resolved": 3,
+  "unresolved": 0
+}
