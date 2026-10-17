@@ -1,0 +1,191 @@
+{
+  "created_at_utc": "2026-10-17T10:57:27.930619+00:00",
+  "status": "candidate proof - unverified",
+  "accepted_and_protocol_input_fingerprints": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff",
+      "matches": true
+    },
+    {
+      "path": "problems/2019-B4/statement.md",
+      "bytes": 1252,
+      "sha256": "53d4201dca8bc4a77d995e3df14f95dd146e2df0c82d3b6447ad35a348e89de9",
+      "matches": true
+    },
+    {
+      "path": "problems/2019-B4/proof.md",
+      "bytes": 10500,
+      "sha256": "58f140f1fe9c64aa77d04a9c80a76f13411264d09d5f9e908f8e0997dc6985e2",
+      "matches": true
+    },
+    {
+      "path": "problems/2019-B4/proofs/reviewed-secondpass-v1.1.md",
+      "bytes": 2836,
+      "sha256": "5fbaa388fe2ff795034094823c088fa5402da60eb9eca83f78165df0c8ad2cd7",
+      "matches": true
+    },
+    {
+      "path": "problems/2019-B4/notes/secondpass-canonical-renewal.md",
+      "bytes": 11807,
+      "sha256": "886266000a34023b033099889a3bb23bc6b3e642194ded12ce53b3aaa1642763",
+      "matches": true
+    },
+    {
+      "path": "problems/2019-B4/notes/secondpass-rigidity-obstructions.md",
+      "bytes": 8447,
+      "sha256": "58112ed40ba7146c8b5885669602d44770bdd525540c4221eaf17b101eb1c109",
+      "matches": true
+    },
+    {
+      "path": "problems/2019-B4/notes/secondpass-staircases-and-pumping.md",
+      "bytes": 10885,
+      "sha256": "5e2539982e32d116076c2c17ad8e85d865792a14630db04634c7372ae345cd52",
+      "matches": true
+    },
+    {
+      "path": "problems/2019-B4/proofs/reviewed-thirdpass-v1.1.md",
+      "bytes": 16255,
+      "sha256": "58462ad7e44a7d3477d086a663cdb127128c5adcae65d6a904f1fdaa7e862cbf",
+      "matches": true
+    },
+    {
+      "path": "problems/2019-B4/notes/thirdpass-bounded-separation-v1.md",
+      "bytes": 15965,
+      "sha256": "3364e8c6cf23ba3ecb250f13a5873732c108b6904a68126f52f5d7234eb916d4",
+      "matches": true
+    },
+    {
+      "path": "problems/2019-B4/proofs/reviewed-moment-tail-v1.1.md",
+      "bytes": 9630,
+      "sha256": "b9d934da65eedf4514ef7883e29dda98ee846982e89c8e3ee677f2c96bff2ee8",
+      "matches": true
+    },
+    {
+      "path": "problems/2019-B4/notes/thirdpass-literature.md",
+      "bytes": 14354,
+      "sha256": "90ed53bc773b79d2fc0790b5972757f73ca03026c3c42b7ecf733acd1a622b83",
+      "matches": true
+    },
+    {
+      "path": "problems/2019-B4/notes/thirdpass-literature-sources.json",
+      "bytes": 2597,
+      "sha256": "b131a9bef91787088f5fc2daef120b93c3a68c7221031904dc19ad9dbacda4e8",
+      "matches": true
+    },
+    {
+      "path": "problems/2019-B4/reviews/acceptance.md",
+      "bytes": 2209,
+      "sha256": "9a4c893182bf84dec4b00a86268f9b1d24f39ba1f54c11fe08695777eb20d7b8",
+      "matches": true
+    },
+    {
+      "path": "problems/2019-B4/reviews/secondpass-acceptance.md",
+      "bytes": 2340,
+      "sha256": "a167e1f52bff2503c6ac571ea047efe7621425f2379868a0a6db31eccd22aefa",
+      "matches": true
+    },
+    {
+      "path": "problems/2019-B4/reviews/thirdpass-acceptance.md",
+      "bytes": 2856,
+      "sha256": "3aa35ed0db260b45394676681426fa5c504e7414d9bbad143ac1eed65ffb105f",
+      "matches": true
+    },
+    {
+      "path": "problems/2019-B4/reviews/moment-tail-acceptance.md",
+      "bytes": 1912,
+      "sha256": "d3647718f04eb1a67dce90b5ffb103cdefc4400dc86d64103e828a199b6e064e",
+      "matches": true
+    },
+    {
+      "path": ".cache/official/2019-paper_b.pdf",
+      "bytes": 139785,
+      "sha256": "5d7dbea3566e5b34bd84fa517ba2c5bf0258459db3a980988008490169be46bb",
+      "matches": true
+    }
+  ],
+  "additional_context_fingerprints": [
+    {
+      "path": "problems/2019-B4/research.md",
+      "bytes": 8538,
+      "sha256": "c588885164b6d4a57c5dd38fe73cf5ef5aa8dd9912bdfce7d24d9280e73c195d"
+    },
+    {
+      "path": "problems/2019-B4/references.md",
+      "bytes": 3085,
+      "sha256": "9fe78752cc108ca1cb0e26b1dfd9bc87d06038d30cdf4d08fb6c15b317a92d1d"
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-two-tape-directions.md",
+      "bytes": 1939,
+      "sha256": "838a7e63521cd129be1adde6dd905f0584574314485e3ff2e2e160173fb00f8a"
+    }
+  ],
+  "public_cached_source_fingerprints": [
+    {
+      "path": ".cache/2019-B4-thirdpass/mohri-edit.pdf",
+      "bytes": 293632,
+      "sha256": "3a9b025f7c61fce5088b6ec0e6d5977cc705ddf0f4c5a91b556a6f8816467fff",
+      "matches": true
+    },
+    {
+      "path": ".cache/2019-B4-thirdpass/beal-carton-sliding-block.pdf",
+      "bytes": 1728395,
+      "sha256": "fa77f011c019626e289c3577ead7a08143e141c605ad917a67bc418537e54286",
+      "matches": true
+    },
+    {
+      "path": ".cache/2019-B4-thirdpass/queue-actions.pdf",
+      "bytes": 152292,
+      "sha256": "6a870184138903e8a78b889d75700d240384f98395e160b49bf85e0f556a1414",
+      "matches": true
+    },
+    {
+      "path": ".cache/2019-B4-thirdpass/buzzi-qft.pdf",
+      "bytes": 323547,
+      "sha256": "6d8681e39192a1c5eee5a5682ca0f073ec84d2ac863e436ed3a40c999ecabebf",
+      "matches": true
+    },
+    {
+      "path": ".cache/2019-B4-thirdpass/2019-gazette-report.pdf",
+      "bytes": 674346,
+      "sha256": "bdcc4055770c968facf6f840da8ecb903c04590d85c589457452cb72de31f720",
+      "matches": true
+    },
+    {
+      "path": ".cache/2019-B4-thirdpass/icalp2024-edit-distance.pdf",
+      "bytes": 808821,
+      "sha256": "a9c77988c38a754d6a757d9c89ea88095a1f1b492b867024c9a98ee25dc29e5b",
+      "matches": true
+    }
+  ],
+  "raw_hash_implies_full_paper_read": false,
+  "fresh_primary_reads": [
+    {
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2019-paper-b_1.pdf",
+      "scope": "p2 B4(b) full official domain; no preliminary proof",
+      "role": "authoritative target"
+    },
+    {
+      "url": "https://cs.nyu.edu/~mohri/pub/edit.pdf",
+      "scope": "section4.3 Definition9 and Lemmas1\u20132 bounded delay and residual finiteness",
+      "role": "method/hypothesis boundary, no imported exact-recognizer theorem"
+    },
+    {
+      "url": "https://eiche.theoinf.tu-ilmenau.de/kuske/Publications/HusKZ14.pdf",
+      "scope": "section3 definition, Theorem4.1 normal-form context, section8 product embedding statement",
+      "role": "different transformation equivalence; not identified with B4 context equality"
+    }
+  ],
+  "new_mathematical_theorem_from_external_paper_imported": false,
+  "standard_finite_methods": [
+    "DFA pumping on fixed pair boundaries",
+    "regular closure and right-language minimization",
+    "finite Perron\u2013Frobenius existence with irreducibility",
+    "written strict comparison for reducible edge deletion"
+  ],
+  "complete_deep_primary_report_read": true,
+  "novelty_or_search_absence_proof_claim": false,
+  "native_network_download_contact_charge_or_bypass": false
+}

@@ -1,0 +1,89 @@
+{
+  "date_utc": "2026-10-17",
+  "status": "candidate proof - unverified; complete E1-E2/V1-V4 restricted construction",
+  "constructor": "review_2017_coarsening_r1",
+  "requested_settings": {"model":"gpt-6.1-sol","reasoning":"max"},
+  "verified_effective_settings": null,
+  "official_scope": "2022 B4(b) only; positive ordinary integers, simultaneous updates, product>=600; no preliminary proof",
+  "claims": ["E1 constant-translate admissible expansion lemma","E2 positive AB implies ninefold base11/10 expansion; no-ninefold bridge unproved","V1 exact two-prime balance/accelerated return","V2 exact negative fixedpoint/power100 shadow first-two-B conditions","V3 Phi two-prime isometry and every finite post-B continuation","V4 compatible finite positive preimages need not have ordinary nonnegative preimage"],
+  "complete_accepted_bodies_read": [
+    "problems/2022-B4/proofs/reviewed-partials-v1.md",
+    "problems/2022-B4/proofs/reviewed-density-v3.md",
+    "problems/2022-B4/proofs/reviewed-arithmetic-complexity-v1.1.md",
+    "problems/2022-B4/proofs/reviewed-return-r3-v1.1.md"
+  ],
+  "additional_full_context_read": [
+    "problems/2022-B4/notes/deep-literature-coordinator-v1.md",
+    "problems/2022-B4/notes/rational-base-lead-v1.md",
+    "problems/2022-B4/notes/reasoning-return-r3-sources-v1.json",
+    "problems/2022-B4/research.md",
+    "problems/2022-B4/references.md",
+    "problems/2022-B4/issues.md",
+    "problems/2022-B4/reviews/acceptance.md",
+    "problems/2022-B4/reviews/arithmetic-complexity-acceptance.md",
+    "problems/2022-B4/reviews/return-r3-acceptance.md"
+  ],
+  "primary_sources": [
+    {
+      "url":"https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2022-paper-b.pdf",
+      "read_scope":"B4(b) p2 complete official domains; no preliminary proof",
+      "cache_path":".cache/official/2022-paper_b.pdf",
+      "bytes":150768,
+      "sha256":"33b15241e89b2e4db54f78d3a565ee01afe357ade786f8bb7602c0b7e89e4519"
+    },
+    {
+      "authors":"Akiyama, Frougny, Sakarovitch",
+      "title":"Powers of rationals modulo 1 and rational base number systems",
+      "year":2008,
+      "doi":"10.1007/s11856-008-1056-4",
+      "url":"https://perso.telecom-paristech.fr/jsaka/PUB/Files/RBNS-rev.pdf",
+      "read_scope":"Original author manuscript complete relevant MD/uniqueness pp7-8; Lemma18/Proposition22/evaluation pp14-16; full Proposition37 proof and Corollary38 pp22-23. Fresh web plus cached pypdf zero-based pages6,7,21,22.",
+      "cache_path":".cache/literature/2022/akiyama-frougny-sakarovitch-rbns-rev.pdf",
+      "bytes":909624,
+      "sha256":"cf6cb96e1f4e98ed0e763f0f8e974f9cf81d685a8bbb8ed969432afd382bffd8",
+      "hypothesis_boundary":"1/q weights, full0..p-1 alphabet and integer-language prefixes; at-most-two range p>=2q-1 fails at11/10; general finite bound does not exclude nine. New E1/E2 bridge fully proved, no method novelty.",
+      "downloaded_this_pass":false
+    },
+    {
+      "authors":"Andrieu, Eliahou, Vivion",
+      "title":"A Normality Conjecture on Rational Base Number Systems",
+      "version":"arXiv2510.11723v2,2026-04-07",
+      "url":"https://arxiv.org/html/2510.11723v2",
+      "read_scope":"Definitions and complete Section3.3 applicable contexts: Conjecture3.9, Proposition3.10, Question3.12 and Proposition3.13 proof; no all-integer escape theorem inferred",
+      "cache_path":".cache/literature/2022/andrieu-eliahou-vivion-2510.11723v2.pdf",
+      "bytes":1239603,
+      "sha256":"ef5a2ca8e1fa5c21bbf51a7122cc4331b6aa1e587cdffd6cd845d8f7f2cf99bf",
+      "hypothesis_boundary":"Two-expansion, normality and general residue escape remain conjectural; no-ninefold not imported; proper S from original DM context retained.",
+      "downloaded_this_pass":false
+    },
+    {
+      "authors":"Dubickas, Mossinghoff",
+      "title":"Lower bounds for Z-numbers",
+      "journal":"Mathematics of Computation78(267)(2009),1837-1851",
+      "doi":"10.1090/S0025-5718-09-02211-X",
+      "url":"https://www.researchgate.net/publication/220576840_Lower_bounds_for_Z-numbers",
+      "read_scope":"Actual public author-uploaded original body: Section1 posed stopped problem, Proposition3.1 hypotheses and complete Proposition3.2 singleton proof",
+      "publisher_url":"https://www.ams.org/journals/mcom/2009-78-267/S0025-5718-09-02211-X/S0025-5718-09-02211-X.pdf",
+      "hypothesis_boundary":"p>q>=2 coprime, nonempty proper S. Singleton termination does not cover80,99 mod100; no such result imported.",
+      "normal_access_failures":"AMS and CiteSeer PDF web opens returned internal errors; readable public author-uploaded body used without credentials/bypass",
+      "binary_sha256":null,
+      "transcription_caution":"Generated RG abstract sign is not original body; no inference from that abstract error"
+    }
+  ],
+  "preserved_search_queries": [
+    "Dubickas Mossinghoff approximate multiplication 2009 stopping residues subset two 121 100 pdf",
+    "\"ceil\" \"rational\" \"zero\" \"11/10\" orbit",
+    "\"rational base\" \"number of expansions\" \"bound\" Akiyama triple",
+    "\"ceil\" \"11/10\" \"modulo\" \"positive\""
+  ],
+  "new_external_theorem_import_for_E1_E2_V1_V2_V3_V4":false,
+  "unproved_external_no_ninefold_or_normality_assumption_promoted":false,
+  "mathematical_program_enumeration_CAS_or_finite_certificate":false,
+  "native_read_only_operation":"pypdf extraction of four named cached AFS pages, exit0,0.232123833s; not a mathematical job",
+  "new_native_source_retrieval_charges_contacts_or_access_bypass":false,
+  "full_paper_tracked_or_redistribution_permission_assumed":false,
+  "full_contest_equality_or_positive_infinite_avoiding_lift_claimed":false,
+  "novelty_claimed":false,
+  "requires_two_other_fresh_whole_reviews":true,
+  "latest_direct_weekly_telemetry":{"at_utc":"2026-10-17 10:55:21 UTC","total_used_percent":31,"window_minutes":10080,"reset_unix":1792745187,"total_ceiling_percent":90}
+}

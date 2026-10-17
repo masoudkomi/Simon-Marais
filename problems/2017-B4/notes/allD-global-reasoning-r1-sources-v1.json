@@ -1,0 +1,264 @@
+{
+  "recorded_at_utc": "2026-10-17T10:54:00.219718+00:00",
+  "status": "candidate proof - unverified; new global argument not yet reviewed",
+  "logical_accepted_inputs": [
+    {
+      "path": "problems/2017-B4/proofs/reviewed-fixedD-structural-v1.2.md",
+      "bytes": 16602,
+      "sha256": "421dc271ed65831e3aa70057a0d74c4d999ba8249dfa2b99066dfdc298f86868",
+      "role": "FD full dictionary/alphabet/gradient/K_D closure; no H/PR",
+      "actual_read_scope": "whole body read during immediately preceding whole audits; exact current hash checked",
+      "separately_accepted": true
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-rank-mesh-v1.2.md",
+      "bytes": 22875,
+      "sha256": "791ed756bd0ad4ceeb8d98265d35e5dfffee95adcfdeebf156253872b4fdf634",
+      "role": "general RM1 disks/ports/diameter and aggregate perimeter/area only; no D4 RM2 or UR3 premise",
+      "actual_read_scope": "whole accepted body read during whole and repair audits and preceding G4 audit; exact current scope retained",
+      "separately_accepted": true
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-orientation-charts-v1.1.md",
+      "bytes": 10052,
+      "sha256": "d15ed547defaffc617ffc6faf6df683c8473ecd9077be63e52d02bbb4edb4ca8",
+      "role": "OC1-3 fixed-D zero/antiparallel charts and exact full BALANCED transformations",
+      "actual_read_scope": "whole accepted body freshly reread for this construction",
+      "separately_accepted": true
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-clean-strata-v1.1.md",
+      "bytes": 10682,
+      "sha256": "10a2efb8d11433726b7812e18217719ab24543887a2d01e0fd96ad51d96204b0",
+      "role": "FL1 general fixed-D rare count including L+1; no defective local CL1 extension",
+      "actual_read_scope": "whole body read during earlier whole and immediately preceding G4 audits; acceptance scope freshly reread",
+      "separately_accepted": true
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-local-rank-mesh-v1.1.md",
+      "bytes": 13490,
+      "sha256": "67d6821f64c0be2a64bb49ccd595dd80105ca7ed913b2fd6be342b81cf756a10",
+      "role": "LW1 exact LOCAL code with one log R anchor and actual global retained faces",
+      "actual_read_scope": "whole accepted body freshly reread; historical RM1 conditional discharged",
+      "separately_accepted": true
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-chart-window-v1.1.md",
+      "bytes": 12988,
+      "sha256": "f89e784c407f3c780d2ca9a95ea4f58e0cd71841f2855ffa7225465f9dd9abc1",
+      "role": "CW0-4 common offsets, whole-buffer winding, all-source recovery and exact fine inverse/dilation",
+      "actual_read_scope": "whole accepted body freshly reread for this construction",
+      "separately_accepted": true
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-single-pair-allD-v1.1.md",
+      "bytes": 11824,
+      "sha256": "b66e494bab6ef872565d8f1574fb96094c5b0c7f5a59f7ba9d79c03d23a08c84",
+      "role": "SP1-3 one pair/D-2 singleton groups, closed cleanliness, every-M count bijection, actual small GE exterior",
+      "actual_read_scope": "whole accepted body and acceptance record freshly reread",
+      "separately_accepted": true
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-allD-uniform-strict-v1.1.md",
+      "bytes": 39136,
+      "sha256": "a5ebfd81d59b26f301b1e105889451f4c86262da80e6e77e6913c045d71147d2",
+      "role": "S_D AD1-5/US_D1-3 each fixed D>=3 strict LOCAL only; quantitative tolerance caps precede periods",
+      "actual_read_scope": "raw whole body independently audited before construction; new accepted header read and entire suffix compared",
+      "separately_accepted": true
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-remainder-padding-v1.1.md",
+      "bytes": 6575,
+      "sha256": "4b1742c46ddd120f935653538758fed41759187ad26cfed79b9bd86a48d99018",
+      "role": "RP1-3 balanced injection and ALL-large-multiples bounded-remainder passage",
+      "actual_read_scope": "whole body read in prior whole/preceding G4 audits; acceptance freshly reread",
+      "separately_accepted": true
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-direction-coarsening-v1.1.md",
+      "bytes": 9175,
+      "sha256": "98c04673acdb4c59d44eb4d977f844d3f01ef27365399982e02df8cbaa4a6241",
+      "role": "DC1/DC2 finite full-count comparison, entropy error and H_D-to-official conditional passage",
+      "actual_read_scope": "whole accepted body and acceptance record freshly reread",
+      "separately_accepted": true
+    }
+  ],
+  "acceptance_scope_fingerprints": [
+    {
+      "path": "problems/2017-B4/reviews/fixedD-structural-acceptance.md",
+      "bytes": 1602,
+      "sha256": "0ed34669cc8c3753cb623690b8cd70ece8e344fd44b28ede63f3775af32d5aa3"
+    },
+    {
+      "path": "problems/2017-B4/reviews/rank-mesh-acceptance.md",
+      "bytes": 2853,
+      "sha256": "e57f3703b7e1d0500ade15f2aa5f90741355d4554e0e6f1bb697b8714d10ef5a"
+    },
+    {
+      "path": "problems/2017-B4/reviews/orientation-charts-acceptance.md",
+      "bytes": 1742,
+      "sha256": "652804f3a2aa412b6a1eb8487a6c8e536836e0803f5deb066a5e850c58feca16"
+    },
+    {
+      "path": "problems/2017-B4/reviews/clean-strata-acceptance.md",
+      "bytes": 1332,
+      "sha256": "fa1955b919fdcaa37db05999f1ec8a2af6dd4aeb5b6c116f9cd30506f05c4276"
+    },
+    {
+      "path": "problems/2017-B4/reviews/local-rank-mesh-acceptance.md",
+      "bytes": 2117,
+      "sha256": "b33e8f027c937608a45860b30a9df8d82b407e39bf40084182b1ff041127ecda"
+    },
+    {
+      "path": "problems/2017-B4/reviews/chart-window-acceptance.md",
+      "bytes": 2181,
+      "sha256": "a86d88b7541b97c8769b18e0ad5dcf0d0ab3c23f6072146e1984eaa19eb12221"
+    },
+    {
+      "path": "problems/2017-B4/reviews/single-pair-allD-acceptance.md",
+      "bytes": 1836,
+      "sha256": "e1708e17c398654a9078f9bbc0d7abd38a4d7c664f39c782d534697d7f32fc19"
+    },
+    {
+      "path": "problems/2017-B4/reviews/allD-uniform-strict-acceptance.md",
+      "bytes": 2192,
+      "sha256": "0cb6c47952e772fedb876f70e9d1c01d9fe565f5544fb834183a276a06c73750"
+    },
+    {
+      "path": "problems/2017-B4/reviews/remainder-padding-acceptance.md",
+      "bytes": 847,
+      "sha256": "65d291c28337c16775a0db001fac09b394a6ead03115080905423b6481bd3d64"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coarsening-acceptance.md",
+      "bytes": 2078,
+      "sha256": "ad7884bfe60386b7e99537f3a1b35a821cf7f34089e8373bf4d998f50275c889"
+    }
+  ],
+  "strict_status_chronology": {
+    "conditional_at_construction_start": true,
+    "separate_local_acceptance_received_during_construction": true,
+    "raw": {
+      "path": "problems/2017-B4/notes/allD-uniform-strict-reasoning-r1-candidate-v1.md",
+      "bytes": 37267,
+      "sha256": "fc280881b1df650d07ab48f0f4c19d0e77f076e6b39a13f3a0b8d9969074a433"
+    },
+    "accepted": {
+      "path": "problems/2017-B4/proofs/reviewed-allD-uniform-strict-v1.1.md",
+      "bytes": 39136,
+      "sha256": "a5ebfd81d59b26f301b1e105889451f4c86262da80e6e77e6913c045d71147d2"
+    },
+    "accepted_copy_has_entire_exact_raw_suffix": true,
+    "mathematical_local_body_changed": false,
+    "new_global_result_accepted": false
+  },
+  "strict_original_manifest": {
+    "path": "problems/2017-B4/notes/allD-uniform-strict-reasoning-r1-manifest-v1.json",
+    "bytes": 2952,
+    "sha256": "126fd14f143d6ab619c7aba5d57be968471080d7f07bb081805f6706434b1f18"
+  },
+  "strict_original_submission_records": [
+    {
+      "path": "problems/2017-B4/notes/allD-uniform-strict-reasoning-r1-candidate-v1.md",
+      "bytes": 37267,
+      "sha256": "fc280881b1df650d07ab48f0f4c19d0e77f076e6b39a13f3a0b8d9969074a433"
+    },
+    {
+      "path": "problems/2017-B4/notes/allD-uniform-strict-reasoning-r1-researchlog-v1.md",
+      "bytes": 7698,
+      "sha256": "175a81c7fe065648b7fbf9315e0c3150b1a7e2ca6e2274f64ed9fd8442b1bf5b"
+    },
+    {
+      "path": "problems/2017-B4/notes/allD-uniform-strict-reasoning-r1-sources-v1.md",
+      "bytes": 4609,
+      "sha256": "60ec709bfa93b525e0b15732d56155a7e6630b0a81cb9b029d9e1c36179b15d5"
+    },
+    {
+      "path": "problems/2017-B4/notes/allD-uniform-strict-reasoning-r1-obligations-v1.json",
+      "bytes": 4084,
+      "sha256": "4e3eba16ca89900b2e64b30930ec3085e84f15a9b15586253bec14442c267381"
+    },
+    {
+      "path": "problems/2017-B4/notes/allD-uniform-strict-reasoning-r1-freeze-v1.py",
+      "bytes": 8337,
+      "sha256": "f72103ece7869ec42504335dbd281ac356ed8103e62837554b14b17629e11429"
+    },
+    {
+      "path": "problems/2017-B4/notes/allD-uniform-strict-reasoning-r1-sources-v1.json",
+      "bytes": 4845,
+      "sha256": "e25eea69ce6edbe7e8a4313778bffeab1c6f00f91a6e676f8cc97d4942f89642"
+    },
+    {
+      "path": "problems/2017-B4/notes/allD-uniform-strict-reasoning-r1-input-validation-v1.json",
+      "bytes": 61196,
+      "sha256": "2aa2e6ef9fb8b22de684a0f631ea1bf8187f9617c69a15f1f68f3383a7693222"
+    },
+    {
+      "path": "problems/2017-B4/notes/allD-uniform-strict-reasoning-r1-freeze-output-v1.json",
+      "bytes": 689,
+      "sha256": "45a994786b4be0c294494abe213059a671e3b4c39f926b5781db0056038e34c3"
+    }
+  ],
+  "research_context_NOT_premises": [
+    {
+      "path": "problems/2017-B4/notes/coordinator-allD-induction-draft-v1.md",
+      "bytes": 9942,
+      "sha256": "b989c320ff07f9d54538a02480bda441234ea8d88dc924abda764be9a87987d1",
+      "role": "unverified strategy outline, fully read; NOT mathematical premise"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-UR4-assembly-candidate-v1.md",
+      "bytes": 22839,
+      "sha256": "fa0bd05d345dee884335e3a5cd0e601ce08e8212da3d812227750f04c5113d0f",
+      "role": "earlier D4 special-case research context, NOT theorem premise"
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-UR4-assembly-v1.1.md",
+      "bytes": 24340,
+      "sha256": "d57593f00439b76dcd283d0cd9487ccfce92782c137d2bc75f95db003179ffdc",
+      "role": "D4 acceptance received during construction; NOT induction premise"
+    },
+    {
+      "path": "problems/2017-B4/reviews/UR4-assembly-acceptance.md",
+      "bytes": 1823,
+      "sha256": "266481c98eb192ec4c241d52868acada0bacf7fe8cbff03d6734bd76d9039b73",
+      "role": "context status only; no all-D conclusion imported"
+    }
+  ],
+  "protocol_official_records": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2017-B4/statement.md",
+      "bytes": 2140,
+      "sha256": "e459750064b4e25e3eaa71f25f236c046548147e415b06d8bd097839020228f3"
+    },
+    {
+      "path": "problems/2017-B4/references.md",
+      "bytes": 6664,
+      "sha256": "e77e13fbbec3478fcfc83b56d710fc7693f3f9fd5d855359aca6ce27ba9e3a23"
+    },
+    {
+      "path": ".cache/official/2017-paper_b.pdf",
+      "bytes": 112458,
+      "sha256": "69d7cf84128c2464d962136ed613808b6c7a7b07122cfba9c06b5adf775e2a68"
+    }
+  ],
+  "primary_attribution": {
+    "official_paper": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2017-paper-2_1.pdf",
+    "official_scope": "2017 B4 whole; integer n>=2, normalized scalar liminf and limsup; marked convention retained",
+    "arc_source": "https://www.ifisica.uaslp.mx/~gsalazar/RESEARCH/levi.pdf",
+    "arc_authors": "Arroyo, McQuillan, Richter, Salazar",
+    "arc_author_date": "2015-11-20",
+    "actual_read_scope": "Section2 arrangement definition, Lemma2.2 and induction proof printed pp4-5 directly read in preceding whole all-D strict audit on2026-10-17",
+    "arc_raw_binary_hash": null,
+    "arc_hash_limitation": "web viewer, no raw binary downloaded or invented",
+    "logical_role": "underlying accepted strict DG/CUT geometry only; no external entropy input"
+  },
+  "new_global_proofs_in_candidate_not_external_import": true,
+  "CKP_UR3_dimer_G4_or_dimension_outline_premise": false,
+  "novelty_or_priority_claimed": false
+}

@@ -1,0 +1,51 @@
+{
+  "frozen_at_utc": "2026-10-17T11:01:22.857897+00:00",
+  "status": "initially blind fresh nonconstructor WHOLE review; no substantive defect found in NR1-NR4 scope",
+  "reviewer": "coordinator root",
+  "candidate": {
+    "path": "problems/2019-B4/notes/reasoning-return-r3-candidate-v1.md",
+    "bytes": 20957,
+    "sha256": "6530949cc16310fabb68a3405266ab5f376a9d153a930bafda0d969ba493f296"
+  },
+  "constructor_manifest": {
+    "path": "problems/2019-B4/notes/reasoning-return-r3-manifest-v1.json",
+    "bytes": 3091,
+    "sha256": "6e9dd78603daa564999d083f4234f2e83d6aa063d738c6936704eaca3f33b9cb"
+  },
+  "complete_candidate_reports_source_obligations_and_accepted_bodies_read": true,
+  "whole_inference_checks": 24,
+  "substantive_issues": [],
+  "required_author_repairs": [],
+  "peer_NR_findings_read_before_freeze": false,
+  "older_moment_authorship_disclosed": true,
+  "new_NR_constructor_or_contributor": false,
+  "mathematical_code_CAS_rerun_or_enumeration": false,
+  "promotion": false,
+  "records": [
+    {
+      "path": "problems/2019-B4/reviews/reasoning-return-r3-review-1-initial-v1.md",
+      "bytes": 11179,
+      "sha256": "335b235784ea9002586eba6885eda025a61fe9fcf80dc2583fc94ff794ac6d94"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-return-r3-review-1-issues-v1.json",
+      "bytes": 7214,
+      "sha256": "823d55dcc9eeab91d3d8f9083fc377bca1724b92541cb7d9142476222f6b8f12"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-return-r3-review-1-source-checks-v1.md",
+      "bytes": 2985,
+      "sha256": "ba7bc8b7e24dd3a819829c49cf43543ac5abc6d75cf45c31ea4e999e302feb18"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-return-r3-review-1-freeze-v1.py",
+      "bytes": 6119,
+      "sha256": "addf95040da4ee6883e9ae31702be9723b86ca20b4c89f89b3c53a9ce84b3481"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-return-r3-review-1-input-checks-v1.json",
+      "bytes": 112491,
+      "sha256": "6a1674d2e298d1703b0b71a726834a8571469ff847bab7c25abdf54be65d4187"
+    }
+  ]
+}

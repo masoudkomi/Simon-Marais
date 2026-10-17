@@ -1,0 +1,50 @@
+{
+  "frozen_at_utc": "2026-10-17T10:50:41.891398+00:00",
+  "status": "candidate proof - unverified; COMPLETE GK1-GK3 packet",
+  "constructor": "coordinator root",
+  "claims": [
+    "GK1 all-q all-index polynomial recurrence",
+    "GK2 genuine infinite whole-divisor families for each q>=4",
+    "GK3 all-index absence of whole phi13 when k>=3"
+  ],
+  "required_fresh_initially_blind_whole_nonconstructor_audits": 2,
+  "root_inspection_counts_as_independent_audit": false,
+  "mathematical_computation_CAS_or_finite_extrapolation": false,
+  "no_new_external_factor_monodromy_or_APN_theorem": true,
+  "full_classification_or_novelty_claim": false,
+  "exact_CP1_and_phi13_dependency_scopes_retained": true,
+  "input_occurrences_verified": 417,
+  "input_paths_verified": 214,
+  "records": [
+    {
+      "path": "problems/2024-B4/notes/coordinator-generalized-Kasami-r1-candidate-v1.md",
+      "bytes": 10290,
+      "sha256": "f99bae5f5d3877e556a30347a38616daf6b54fde300ae60543f849893a7dc4b8"
+    },
+    {
+      "path": "problems/2024-B4/notes/coordinator-generalized-Kasami-r1-sources-v1.md",
+      "bytes": 3110,
+      "sha256": "393a3845ce50d8ba266c6df7fb4d9614b749614e1faf5eb1304982f96895c110"
+    },
+    {
+      "path": "problems/2024-B4/notes/coordinator-generalized-Kasami-r1-worklog-v1.md",
+      "bytes": 3588,
+      "sha256": "7679debebd051ef2c7d92d87e2a1a747317dc7bec0e5aaa865ecb4bfd5f38f3c"
+    },
+    {
+      "path": "problems/2024-B4/notes/coordinator-generalized-Kasami-r1-obligations-v1.json",
+      "bytes": 2157,
+      "sha256": "bc5f790b79a9f2217207c0c686418f71f3131fd3fe5afec17ff943384e5232d5"
+    },
+    {
+      "path": "problems/2024-B4/notes/coordinator-generalized-Kasami-r1-freeze-v1.py",
+      "bytes": 3728,
+      "sha256": "02d4b3c3fc289ddf4ffd3b5e5b17fea21fa722c286b81f57e4b93fc61e6983e5"
+    },
+    {
+      "path": "problems/2024-B4/notes/coordinator-generalized-Kasami-r1-input-validation-v1.json",
+      "bytes": 151495,
+      "sha256": "6f9e493815c127a738fff83564890aeae0d94678a909049c2e7020975d3ab791"
+    }
+  ]
+}

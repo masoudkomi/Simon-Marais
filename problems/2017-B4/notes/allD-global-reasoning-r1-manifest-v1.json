@@ -1,0 +1,91 @@
+{
+  "frozen_at_utc": "2026-10-17T10:54:00.219718+00:00",
+  "status": "candidate proof - unverified; COMPLETE all-fixed-D global induction ready for TWO OTHER whole audits",
+  "constructor": "/root/review_2022_complexity_r2",
+  "co_constructor_strategy": "/root",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "candidate": {
+    "path": "problems/2017-B4/notes/allD-global-reasoning-r1-candidate-v1.md",
+    "bytes": 46506,
+    "sha256": "c16acc6b4785c114648ec8848311d5022284c894047bef9013e7313c34706428"
+  },
+  "claims": [
+    "UR_D for every fixed integer D>=2 and fixed C>0 on exact GE class",
+    "balanced full H_D existence at all integer sizes for every fixed D",
+    "official scalar liminf equals limsup and ell_D tends to common value"
+  ],
+  "common_numerical_value_or_full_annual_answer_claimed": false,
+  "novelty_or_priority_claimed": false,
+  "all_named_local_premises_accepted_exact_scope": true,
+  "new_global_result_independently_reviewed": false,
+  "other_initially_blind_whole_nonconstructor_audits_required": 2,
+  "constructor_and_root_inspection_count_as_independent_review": false,
+  "whole_global_inference_obligations": 40,
+  "UR2_unique_grid_base_no_CKP": true,
+  "SP_exact_GE_lower_class_EVERY_integer_M_one_reference": true,
+  "full_belt_domain_profile_Vitali_codes_and_physical_area_budgets_proved": true,
+  "JOINT_conditioning_before_ONE_reference": true,
+  "whole_original_source_recovery_and_exact_fine_pullbacks": true,
+  "fixed_original_j_before_M_and_all_integer_RP": true,
+  "D_grows_only_after_each_fixed_D_limit": true,
+  "mathematical_computation_enumeration_CAS": false,
+  "git_shared_edits_spawning_paid_api": false,
+  "accepted_logical_bodies_verified": 10,
+  "unique_input_paths_verified": 37,
+  "earlier_own_paths_verified_unchanged": 138,
+  "latest_authoritative_weekly_usage": {
+    "used_percent": 31,
+    "at_utc": "2026-10-17 10:48:51 UTC",
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "total_used_ceiling_percent": 90,
+    "integration_reserve": true
+  },
+  "command": "python3 problems/2017-B4/notes/allD-global-reasoning-r1-freeze-v1.py",
+  "records": [
+    {
+      "path": "problems/2017-B4/notes/allD-global-reasoning-r1-candidate-v1.md",
+      "bytes": 46506,
+      "sha256": "c16acc6b4785c114648ec8848311d5022284c894047bef9013e7313c34706428"
+    },
+    {
+      "path": "problems/2017-B4/notes/allD-global-reasoning-r1-researchlog-v1.md",
+      "bytes": 10052,
+      "sha256": "7f54745a01f4fca8053a53b26704ac4bfd38df0abbe0173c3b95b1b35939eb92"
+    },
+    {
+      "path": "problems/2017-B4/notes/allD-global-reasoning-r1-sources-v1.md",
+      "bytes": 8883,
+      "sha256": "7e435fe6aa80ee8c8cce2155db30d25baa244fbcd946bac6352f5a788a458da6"
+    },
+    {
+      "path": "problems/2017-B4/notes/allD-global-reasoning-r1-obligations-v1.json",
+      "bytes": 13771,
+      "sha256": "c772976f2398fd0ae9ad79bcaba90f2a87e6e6d440b9fcddaa52ae6f06cfdd95"
+    },
+    {
+      "path": "problems/2017-B4/notes/allD-global-reasoning-r1-freeze-v1.py",
+      "bytes": 14486,
+      "sha256": "ec10eb9d4fa0f244aa2f59b7714133acee73f9e868cfdcad503682fc137cdd4a"
+    },
+    {
+      "path": "problems/2017-B4/notes/allD-global-reasoning-r1-sources-v1.json",
+      "bytes": 11904,
+      "sha256": "54bd592611723d774b8b83988c878aa8a8e11e86bf584150ac359e7ff20549ea"
+    },
+    {
+      "path": "problems/2017-B4/notes/allD-global-reasoning-r1-input-validation-v1.json",
+      "bytes": 35374,
+      "sha256": "474800c297dce84110f45919fdb9915d47357ff1d9e8832d4beb318ac4b3d0c0"
+    },
+    {
+      "path": "problems/2017-B4/notes/allD-global-reasoning-r1-freeze-output-v1.json",
+      "bytes": 860,
+      "sha256": "c0e0635cd66944d70701c9a7fb6717e852dbefb554cb8bd29d3e56d35768521e"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "status": "candidate proof - unverified",
+  "constructor": "coordinator root",
+  "claims": ["GK1", "GK2", "GK3"],
+  "required_initially_blind_whole_nonconstructor_audits": 2,
+  "mathematical_computation": false,
+  "obligations": [
+    {"id":"GK-O1","claim":"Authorized official coefficientwise F2 factorization and exact odd-integer domains; n1/n3 boundaries"},
+    {"id":"GK-O2","claim":"L_r integer and odd for all q=2^k,k>=1,r>=0; correct r/m indexing"},
+    {"id":"GK-O3","claim":"Auxiliary algebraic roots exist at a transcendental a; scalar powers independent of root choices"},
+    {"id":"GK-O4","claim":"All four pairing identities proved without treating q² Frobenius as identity"},
+    {"id":"GK-O5","claim":"c+1 nonzero as a function by exact accepted invariant degree; pairing determinant yields basis"},
+    {"id":"GK-O6","claim":"Both equations for alpha,beta and exact polynomial cancellation; no unjustified scalar-only inference"},
+    {"id":"GK-O7","claim":"Raise the FULL vector identity to q^(2r+1), then dot with unchanged v; all index/exponent positions"},
+    {"id":"GK-O8","claim":"Initial values and induction prove every D_r=P_r(c); polynomial identity descends injectively"},
+    {"id":"GK-O9","claim":"Field denominator cancellation gives a universal polynomial statement even at c+1=0"},
+    {"id":"GK-O10","claim":"Exact recurrence leading degrees and strict gap q^(2r)(q+1); monicity all indices"},
+    {"id":"GK-O11","claim":"r2 consistency with accepted CP2 is comparison only, not generalization by finite evidence"},
+    {"id":"GK-O12","claim":"Exact accepted CP1 hypotheses, both homogeneous directions and whole divisor preserved"},
+    {"id":"GK-O13","claim":"q>=4,r>=2 gives nonzero positive-degree divisor/cofactor and actual integer lifts"},
+    {"id":"GK-O14","claim":"Each fixed q infinite family; q2 unit/r1 equal/r0 auxiliary endpoints separated"},
+    {"id":"GK-O15","claim":"All-index v2(L_r-1)=k and exact whole-phi13 necessity; q4 old progression attributed"},
+    {"id":"GK-O16","claim":"No arbitrary-factor necessity, full classification, external component/monodromy theorem or novelty claim"}
+  ]
+}

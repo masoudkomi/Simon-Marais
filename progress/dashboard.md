@@ -57,3 +57,8 @@ Authoritative weekly29%total used, reset1792745187. Raw07:21:38UTC audit600,459,
 NEW accepted scoped2017 results: G4 uniform GE4 deficit and balanced fixed-D4 limit H4; arbitrary FIXED-D>=3 compact-strict local AD1–AD5/US_D1–US_D3. Both whole blind audits and full root reconciliation complete;470/406 and1126/544 integrity records/paths verified. No official growing-D equality/value or all-D global theorem is accepted. New complete all-D global construction active.2024 CP1–CP3 accepted after both whole blind audits.2022 conceptual rational-base and valuation work active. Earlier dated checkpoints above are historical.
 
 Two full answers remain2018published reproduction and2023classification; seven annual questions unresolved. Weekly30%total used, same reset. Latest raw633,764,611total including598,377,216cachedinput;35,387,395uncached+output;2,387,494reasoning output is a subset. Keep-awake verified20:40:58Brisbane. See [all-nine status](status-2026-10-17-1044.md).
+
+
+## Current checkpoint —2026-10-17 approximately11:02UTC
+
+See [new frozen candidates and review queue](checkpoint-2026-10-17-1102.md).2017all-DGLOBAL,2019NR1–4,2022R4and2024GK1–3remainunverified. Two complete annual answers unchanged. Weekly32%,same reset;raw663,335,337total including626,944,256cachedinput;36,391,081uncached+output;2,475,639reasoning is an output subset. Work continues.

@@ -1,0 +1,82 @@
+{
+  "frozen_at_utc": "2026-10-17T10:55:33.558803+00:00",
+  "status": "candidate proof - unverified; complete E1-E2/V1-V4 construction and explicit unresolved bridge, awaiting two other fresh whole audits",
+  "constructor": "review_2017_coarsening_r1",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "claims": [
+    "E1 constant-translate admissible rational-base expansion lemma",
+    "E2 positive ordinary AB lift implies at least nine base11/10 expansions",
+    "V1 exact balanced-prime valuations and accelerated ordinary return",
+    "V2 exact negative fixedpoint and first-two-B power100 shadow criteria",
+    "V3 Phi two-prime isometry and arbitrary finite post-B continuation",
+    "V4 ordinary target81 has inverse-limit but no nonnegative ordinary Phi1 preimage"
+  ],
+  "fresh_whole_audit_obligations": 28,
+  "artifacts": [
+    {
+      "path": "problems/2022-B4/notes/reasoning-return-r4-candidate-v1.md",
+      "bytes": 23750,
+      "sha256": "cf3df09a2b38097bcbbe5c80c332a9bf1787f07a2114bf67b6108651240e2b2a"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-return-r4-obligations-v1.md",
+      "bytes": 5080,
+      "sha256": "3a90a4179e2dd56995004d76bf57681fdceef39571c325375fb51c99987bdcee"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-return-r4-failed-routes-v1.md",
+      "bytes": 4271,
+      "sha256": "84cb7a29256a6c40e0c7c146a1c478ecae3e7b61f12aba8e6a78fcd12379ba88"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-return-r4-source-audit-v1.md",
+      "bytes": 6518,
+      "sha256": "0fdbede1ebba3b19a47c65353f6f27cd6651b45298121215ac2902fbf72caa1f"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-return-r4-worklog-v1.md",
+      "bytes": 6725,
+      "sha256": "8cc005d7ea0fa1cba872f5e0b3da4004bdaeae12ce1d2aeb3f19689c34266fdd"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-return-r4-sources-v1.json",
+      "bytes": 5904,
+      "sha256": "0af8dae335e50880497362b8f6f660d194eaf53dc86a56d182ad01b099d081e8"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-return-r4-freeze-v1.py",
+      "bytes": 5572,
+      "sha256": "59e9c79182069bc4a42fc3861df682efa9edaea3d4dfa73096e6297e1d7e52b2"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-return-r4-input-validation-v1.json",
+      "bytes": 40435,
+      "sha256": "87393096622fe9f9d8630d93494a0666a0d7d129e2b41dab41b58dea3f9016c2"
+    }
+  ],
+  "earlier_unique_frozen_own_records_preserved": 187,
+  "no_ninefold_bridge_is_an_unproved_hypothesis": true,
+  "AFS_at_most_two_range_p_ge_2q_minus_1_satisfied_at_11_over_10": false,
+  "ninth_expansion_is_claimed_a_ninth_ceiling_orbit": false,
+  "digit10_kept_for_ninth_full_alphabet_path": true,
+  "every_infinite_lift_or_exponent_claimed_ordinary": false,
+  "finite_Phi_bijections_claimed_ordinary_surjectivity": false,
+  "full_contest_termination_or_positive_infinite_counterexample_claim": false,
+  "novelty_or_author_promotion_claim": false,
+  "requires_two_other_initially_blind_whole_audits": true,
+  "mathematical_program_CAS_enumeration_scan_or_certificate": false,
+  "native_paper_download_or_full_third_party_tracked_copy": false,
+  "git_shared_mutation_spawning_charges_contacts_or_bypass": false,
+  "only_assigned_r4_prefix_written": true,
+  "last_direct_weekly_telemetry": {
+    "at_utc": "2026-10-17 10:55:21 UTC",
+    "total_used_percent": 31,
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "total_ceiling_percent": 90
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "reviewer": "coordinator root",
+  "status": "initially blind WHOLE audit",
+  "candidate_sha256": "6530949cc16310fabb68a3405266ab5f376a9d153a930bafda0d969ba493f296",
+  "peer_NR_findings_read_before_freeze": false,
+  "old_moment_authorship_disclosed": true,
+  "new_NR_constructor_or_contributor": false,
+  "checks": [
+    {
+      "id": "NR-R1-01",
+      "author_obligation": "NR-O1",
+      "claim": "Scope and growth identification",
+      "status": "reconstructed; no substantive issue",
+      "reason": "Official strings and chronological contexts remain distinct; exact accepted growth identification retained."
+    },
+    {
+      "id": "NR-R1-02",
+      "author_obligation": "NR-O2",
+      "claim": "Exact accepted dependencies",
+      "status": "reconstructed; no substantive issue",
+      "reason": "Full accepted witnesses/endpoints/anti-factoriality/rigidity/cap definitions and moment scope read."
+    },
+    {
+      "id": "NR-R1-03",
+      "author_obligation": "NR-O3",
+      "claim": "Prefix budget phase",
+      "status": "reconstructed; no substantive issue",
+      "reason": "Prefix alpha/beta counts checked at both phases, with exact u+K0+j source budget."
+    },
+    {
+      "id": "NR-R1-04",
+      "author_obligation": "NR-O4",
+      "claim": "NR1 endpoint and zero budget",
+      "status": "reconstructed; no substantive issue",
+      "reason": "RR/LL force nonempty a,b; selected time internal, including K0=0."
+    },
+    {
+      "id": "NR-R1-05",
+      "author_obligation": "NR-O5",
+      "claim": "Unrestricted lead escape",
+      "status": "reconstructed; no substantive issue",
+      "reason": "Explicitly exclude passing entire left block, then d<=K0 and contradictory combined count; unrestricted d."
+    },
+    {
+      "id": "NR-R1-06",
+      "author_obligation": "NR-O6",
+      "claim": "Pumping a regular subset",
+      "status": "reconstructed; no substantive issue",
+      "reason": "m+1 pair states give positive RL-power loop in an accepting run; fixed prefix/phase gives NR1 contradiction."
+    },
+    {
+      "id": "NR-R1-07",
+      "author_obligation": "NR-O7",
+      "claim": "F nonregular",
+      "status": "reconstructed; no substantive issue",
+      "reason": "Unrestricted staircase theorem supplies arbitrarily long RL powers, not merely finite evidence."
+    },
+    {
+      "id": "NR-R1-08",
+      "author_obligation": "NR-O8",
+      "claim": "K nonregular",
+      "status": "reconstructed; no substantive issue",
+      "reason": "Exact proper prefix/suffix operation and factoriality cover all shorter factors; both single letters canonical."
+    },
+    {
+      "id": "NR-R1-09",
+      "author_obligation": "NR-O9",
+      "claim": "Even/block canonical encoding",
+      "status": "reconstructed; no substantive issue",
+      "reason": "AppendR equivalence gives odd part by right quotient; fixed block image yields even canonical nonregularity."
+    },
+    {
+      "id": "NR-R1-10",
+      "author_obligation": "NR-O10",
+      "claim": "Synchronous equality obstruction",
+      "status": "reconstructed; no substantive issue",
+      "reason": "Synchronous lex test/project/complement yields K if E regular; no asynchronous assertion."
+    },
+    {
+      "id": "NR-R1-11",
+      "author_obligation": "NR-O11",
+      "claim": "Regular-subset universal bridge",
+      "status": "reconstructed; no substantive issue",
+      "reason": "RR/LL endpoints force every crossing G occurrence to span the whole forbidden power, including seam edges."
+    },
+    {
+      "id": "NR-R1-12",
+      "author_obligation": "NR-O12",
+      "claim": "Minimal DFA reset and strong connectivity",
+      "status": "reconstructed; no substantive issue",
+      "reason": "Right languages afterW exactly initial; minimal accepting DFA resets, is strongly connected, initialLloop."
+    },
+    {
+      "id": "NR-R1-13",
+      "author_obligation": "NR-O13",
+      "claim": "Finite growth equality",
+      "status": "reconstructed; no substantive issue",
+      "reason": "Letter-multiplicity adjacency and positivePerronvector give explicit constant root bounds."
+    },
+    {
+      "id": "NR-R1-14",
+      "author_obligation": "NR-O14",
+      "claim": "Actual missing factor",
+      "status": "reconstructed; no substantive issue",
+      "reason": "F nonregular forces regularG proper; anti-factoriality makes missingf an actual G-avoiding legal path."
+    },
+    {
+      "id": "NR-R1-15",
+      "author_obligation": "NR-O15",
+      "claim": "Higher-edge deletion",
+      "status": "reconstructed; no substantive issue",
+      "reason": "Finite higher-edge graph is strongly connected and preserves rate; at least one f-edge deleted."
+    },
+    {
+      "id": "NR-R1-16",
+      "author_obligation": "NR-O16",
+      "claim": "Strict Perron comparison",
+      "status": "reconstructed; no substantive issue",
+      "reason": "Strict spectral comparison valid with reducibleB; positiveleftA/nonnegativeBvector forces contradiction."
+    },
+    {
+      "id": "NR-R1-17",
+      "author_obligation": "NR-O17",
+      "claim": "Explicit cap bridge",
+      "status": "reconstructed; no substantive issue",
+      "reason": "At block midpoint d<=D keeps both extra/deficit strings wholly in opposite constant halves, including dD."
+    },
+    {
+      "id": "NR-R1-18",
+      "author_obligation": "NR-O18",
+      "claim": "Exact staircase width",
+      "status": "reconstructed; no substantive issue",
+      "reason": "Unique other staircase history has exact prefix surplus maxn+1; n1/n2 and all central/descending steps checked."
+    },
+    {
+      "id": "NR-R1-19",
+      "author_obligation": "NR-O19",
+      "claim": "All finite caps strict, possible plateaus",
+      "status": "reconstructed; no substantive issue",
+      "reason": "Every finitecap strict via explicit missinghD; accepted moment/convergence only, possible consecutiveplateaus."
+    },
+    {
+      "id": "NR-R1-20",
+      "author_obligation": "NR-O20",
+      "claim": "Remaining logical/source limits",
+      "status": "reconstructed; no substantive issue",
+      "reason": "No series nonrationality, originalB nonregularity, arbitrarycrosssection, exactlambda or novelty inferred."
+    },
+    {
+      "id": "NR-R1-E1",
+      "claim": "K0=0",
+      "status": "reconstructed; no substantive issue",
+      "reason": "Strict internality survives zero source budget; immediate d<=0 contradiction."
+    },
+    {
+      "id": "NR-R1-E2",
+      "claim": "Raw monitor versus minimal DFA",
+      "status": "reconstructed; no substantive issue",
+      "reason": "Reset assertion is only for follower-state minimization; no discarded unmatched branch assumption."
+    },
+    {
+      "id": "NR-R1-E3",
+      "claim": "PF degeneracies",
+      "status": "reconstructed; no substantive issue",
+      "reason": "Initial L-loop gives positive radius; reducible deleted graph and zero entries handled."
+    },
+    {
+      "id": "NR-R1-E4",
+      "claim": "Unbounded G and representation",
+      "status": "reconstructed; no substantive issue",
+      "reason": "RegularG may be infinite; no maximum factor length is used. OriginalB and K have same rate only."
+    }
+  ],
+  "open_substantive_issues": [],
+  "required_author_repairs": [],
+  "promotion": false
+}
