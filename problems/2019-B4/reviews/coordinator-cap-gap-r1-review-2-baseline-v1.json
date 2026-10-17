@@ -1,0 +1,131 @@
+{
+  "at_utc": "2026-10-17T19:39:48.363408+00:00",
+  "administrative_only": true,
+  "assigned_prefix_unused_before_first_write": true,
+  "constructor_packet_records": [
+    {
+      "path": "problems/2019-B4/notes/coordinator-cap-gap-r1-candidate-v1.md",
+      "bytes": 11796,
+      "sha256": "0e8afb24ec9e58004ee9464de327b309d834058b277eae4a2608d0d7afde5f33"
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-cap-gap-r1-obligations-v1.md",
+      "bytes": 3649,
+      "sha256": "dacf583a7053f51c25cea05528b17bf41fb9e509caf7d57afe675ec66ee8bb27"
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-cap-gap-r1-worklog-v1.md",
+      "bytes": 2587,
+      "sha256": "0651707e4ef4063b6770fc9371a88be764edfe036f72bad43b63d31f572290b6"
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-cap-gap-r1-source-audit-v1.md",
+      "bytes": 2121,
+      "sha256": "58e28efdd220e081b2a993f8ef63aa2fc8cca09971201d6d1a3bbae35a0ce5cf"
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-cap-gap-r1-certificate-v1.py",
+      "bytes": 877,
+      "sha256": "dc6593cd6d6e97f464d6d955abffadb2efd9aa210a48176f7cb546c9c11a855d"
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-cap-gap-r1-certificate-output-v1.json",
+      "bytes": 2252,
+      "sha256": "9ce677898a8331f99243a7d112f098349c21060c9185af6fee45a3d56303d28c"
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-cap-gap-r1-certificate-stderr-v1.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-cap-gap-r1-certificate-job-v1.json",
+      "bytes": 490,
+      "sha256": "4edb115cf3b4f5d8703b0bc21b8b1ea532715e810cd638f9d68b0ef4f98c859e"
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-cap-gap-r1-input-validation-v1.json",
+      "bytes": 5007,
+      "sha256": "1ecbf080c5c76d14315b33e3d40dd8e933cdb2f414b41daeb9f4a633f58e0e99"
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-cap-gap-r1-sources-v1.json",
+      "bytes": 1393,
+      "sha256": "f55e8ebf3f95884bcdaef2dac38dafb95f08588010120e483270f87547865e39"
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-cap-gap-r1-freeze-v1.py",
+      "bytes": 5965,
+      "sha256": "059fa79e4b3327bf700732012fbb54ac5c7c1e8ef1872622ec0d6cc3592841d6"
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-cap-gap-r1-freeze-output-v1.json",
+      "bytes": 312,
+      "sha256": "6c797ad6187c62f2ee5476b7032a97244821f369c180ea04d577180bcdd12caa"
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-cap-gap-r1-freeze-v1.json",
+      "bytes": 3669,
+      "sha256": "9b3751764cb2ba0177f3b8ff9e5f90721acf134f3e92c42cf4be67e5179d3d49"
+    }
+  ],
+  "constructor21_input_records_reverified": true,
+  "constructor21_input_summary": {
+    "unique_paths": 21,
+    "canonical_sorted_record_array_sha256": "5a955d07c739038f2f057b66b1ea64ac7e041d850f10c4c125ea7e1cb0cd6e6f"
+  },
+  "constructor_input_validation": {
+    "path": "problems/2019-B4/notes/coordinator-cap-gap-r1-input-validation-v1.json",
+    "bytes": 5007,
+    "sha256": "1ecbf080c5c76d14315b33e3d40dd8e933cdb2f414b41daeb9f4a633f58e0e99"
+  },
+  "exact_secondpass_linked_operative_bodies": [
+    {
+      "path": "problems/2019-B4/notes/secondpass-canonical-renewal.md",
+      "bytes": 11807,
+      "sha256": "886266000a34023b033099889a3bb23bc6b3e642194ded12ce53b3aaa1642763"
+    },
+    {
+      "path": "problems/2019-B4/notes/secondpass-rigidity-obstructions.md",
+      "bytes": 8447,
+      "sha256": "58112ed40ba7146c8b5885669602d44770bdd525540c4221eaf17b101eb1c109"
+    },
+    {
+      "path": "problems/2019-B4/notes/secondpass-staircases-and-pumping.md",
+      "bytes": 10885,
+      "sha256": "5e2539982e32d116076c2c17ad8e85d865792a14630db04634c7372ae345cd52"
+    }
+  ],
+  "other_read_input_records": [
+    {
+      "path": "problems/2019-B4/proof.md",
+      "bytes": 10500,
+      "sha256": "58f140f1fe9c64aa77d04a9c80a76f13411264d09d5f9e908f8e0997dc6985e2"
+    },
+    {
+      "path": "problems/2019-B4/notes/thirdpass-literature.md",
+      "bytes": 14354,
+      "sha256": "90ed53bc773b79d2fc0790b5972757f73ca03026c3c42b7ecf733acd1a622b83"
+    }
+  ],
+  "compact_immutable_own_parent": {
+    "path": "problems/2024-B4/reviews/reasoning-sector3-return-r1-review-1-manifest-v1.json",
+    "bytes": 4496,
+    "sha256": "3357c19723149be943c3387761143d510829db87f8fd512b3a4aeff5fc0d338a"
+  },
+  "compact_immutable_own_parent_validation": {
+    "path": "problems/2024-B4/reviews/reasoning-sector3-return-r1-review-1-input-validation-v1.json",
+    "bytes": 9919,
+    "sha256": "6cbd84270ed33d95d61006ec51317c3e5c982fb6fc2b091bf5791260031cbe43"
+  },
+  "own_parent9_direct_artifact_manifest_summary": {
+    "unique_paths": 9,
+    "canonical_sorted_record_array_sha256": "d4d0d3ebba454a58a522e18ebac5d5b383640bce39331fe75c66e8de0c2046c9"
+  },
+  "earlier376_paths_bound_by_exact_immutable_parent_validation": true,
+  "older_own_paths_bound_transitively": 385,
+  "historical_inventory_not_copied_or_unrelated_mathematics_reread": true,
+  "new_peer_cap_gap_findings_read": false,
+  "old_math_program_or_constructor_script_rerun": false,
+  "old_shared_Git_cache_edit": false
+}

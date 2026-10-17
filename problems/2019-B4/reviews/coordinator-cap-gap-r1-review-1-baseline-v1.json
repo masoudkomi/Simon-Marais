@@ -1,0 +1,438 @@
+{
+  "at_utc": "2026-10-17T19:53:37.315477+00:00",
+  "record_occurrences": 54,
+  "deduplicated_paths": 46,
+  "target": {
+    "path": "problems/2019-B4/notes/coordinator-cap-gap-r1-freeze-v1.json",
+    "bytes": 3669,
+    "sha256": "9b3751764cb2ba0177f3b8ff9e5f90721acf134f3e92c42cf4be67e5179d3d49"
+  },
+  "compact_own_parent": {
+    "path": "problems/2017-B4/notes/reasoning-value-return-r5-freeze-v1.json",
+    "bytes": 3146,
+    "sha256": "31b1789d41b1d492ef9f0d2235050025bb341ca70c8eb8d0c66765e63e43fed1"
+  },
+  "earlier_own_paths_bound_compactly": 435,
+  "records": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff",
+      "occurrences": 1,
+      "roles": [
+        "constructor declared accepted input"
+      ]
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r5-baseline-v1.json",
+      "bytes": 9994,
+      "sha256": "c2eb10cd228bacf0e40253ea468bda86b00a2490e93f1f6b9a55d8018142c2a5",
+      "occurrences": 1,
+      "roles": [
+        "immediate immutable own parent artifact"
+      ]
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r5-candidate-v1.md",
+      "bytes": 30791,
+      "sha256": "f0313ffa047c8c0ac7664192a01936f842b300f22168a9b929c8d4d39c41879e",
+      "occurrences": 1,
+      "roles": [
+        "immediate immutable own parent artifact"
+      ]
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r5-failed-routes-v1.md",
+      "bytes": 6390,
+      "sha256": "23f90b53a0b41bf6276818cbd833f8d3970426d472e68cb0fadd18686e822f01",
+      "occurrences": 1,
+      "roles": [
+        "immediate immutable own parent artifact"
+      ]
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r5-freeze-v1.json",
+      "bytes": 3146,
+      "sha256": "31b1789d41b1d492ef9f0d2235050025bb341ca70c8eb8d0c66765e63e43fed1",
+      "occurrences": 1,
+      "roles": [
+        "immutable own parent freeze"
+      ]
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r5-freeze-v1.py",
+      "bytes": 9785,
+      "sha256": "011a08d39bd333db073f80c7a9062aa59f8381b4030c645463fee2bbe991cac7",
+      "occurrences": 1,
+      "roles": [
+        "immediate immutable own parent artifact"
+      ]
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r5-input-validation-v1.json",
+      "bytes": 712,
+      "sha256": "cf507e62befd9670d63e6e2bc15a949b64806d3809c4439c6bcb155f03d65036",
+      "occurrences": 1,
+      "roles": [
+        "immediate immutable own parent artifact"
+      ]
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r5-metadata-v1.json",
+      "bytes": 1685,
+      "sha256": "672869af16f1504e3f7a8ab99cbc8f58300f11acd83c71ed24d71387de25d505",
+      "occurrences": 1,
+      "roles": [
+        "immediate immutable own parent artifact"
+      ]
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r5-obligations-v1.md",
+      "bytes": 7457,
+      "sha256": "7f5f4d56f8558f2df26a4ccd5a2edad798fc6f41ef3c7432f5257b18baa0a260",
+      "occurrences": 1,
+      "roles": [
+        "immediate immutable own parent artifact"
+      ]
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r5-source-audit-v1.md",
+      "bytes": 7604,
+      "sha256": "b1e8b6f4f529e75c9064200cdd9abe29ef54c559bb02b733f5ac2ddd78419b0b",
+      "occurrences": 1,
+      "roles": [
+        "immediate immutable own parent artifact"
+      ]
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r5-worklog-v1.md",
+      "bytes": 9089,
+      "sha256": "666d8bfb4af435c91dd9c237a6529dd1b7ac195b89993e70496abf414a72ea67",
+      "occurrences": 1,
+      "roles": [
+        "immediate immutable own parent artifact"
+      ]
+    },
+    {
+      "path": "problems/2019-B4/computations/thirdpass-crosscheck15.json",
+      "bytes": 19878,
+      "sha256": "42d142c6a3db0cb33b13b2b46a3a01772a06e002d41794725898f068e70cbecc",
+      "occurrences": 1,
+      "roles": [
+        "constructor declared accepted input"
+      ]
+    },
+    {
+      "path": "problems/2019-B4/computations/thirdpass-delay7-exact.json",
+      "bytes": 1268282,
+      "sha256": "24cd54122c24fe3e13e0cbd9a4b698275e77f4b2dedec39b0dfe67b045985c56",
+      "occurrences": 1,
+      "roles": [
+        "constructor declared accepted input"
+      ]
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-cap-gap-r1-candidate-v1.md",
+      "bytes": 11796,
+      "sha256": "0e8afb24ec9e58004ee9464de327b309d834058b277eae4a2608d0d7afde5f33",
+      "occurrences": 1,
+      "roles": [
+        "constructor declared artifact"
+      ]
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-cap-gap-r1-certificate-job-v1.json",
+      "bytes": 490,
+      "sha256": "4edb115cf3b4f5d8703b0bc21b8b1ea532715e810cd638f9d68b0ef4f98c859e",
+      "occurrences": 2,
+      "roles": [
+        "constructor declared artifact"
+      ]
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-cap-gap-r1-certificate-output-v1.json",
+      "bytes": 2252,
+      "sha256": "9ce677898a8331f99243a7d112f098349c21060c9185af6fee45a3d56303d28c",
+      "occurrences": 1,
+      "roles": [
+        "constructor declared artifact"
+      ]
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-cap-gap-r1-certificate-stderr-v1.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "occurrences": 1,
+      "roles": [
+        "constructor declared artifact"
+      ]
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-cap-gap-r1-certificate-v1.py",
+      "bytes": 877,
+      "sha256": "dc6593cd6d6e97f464d6d955abffadb2efd9aa210a48176f7cb546c9c11a855d",
+      "occurrences": 1,
+      "roles": [
+        "constructor declared artifact"
+      ]
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-cap-gap-r1-freeze-output-v1.json",
+      "bytes": 312,
+      "sha256": "6c797ad6187c62f2ee5476b7032a97244821f369c180ea04d577180bcdd12caa",
+      "occurrences": 1,
+      "roles": [
+        "constructor declared artifact"
+      ]
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-cap-gap-r1-freeze-v1.json",
+      "bytes": 3669,
+      "sha256": "9b3751764cb2ba0177f3b8ff9e5f90721acf134f3e92c42cf4be67e5179d3d49",
+      "occurrences": 1,
+      "roles": [
+        "target freeze"
+      ]
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-cap-gap-r1-freeze-v1.py",
+      "bytes": 5965,
+      "sha256": "059fa79e4b3327bf700732012fbb54ac5c7c1e8ef1872622ec0d6cc3592841d6",
+      "occurrences": 1,
+      "roles": [
+        "constructor declared artifact"
+      ]
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-cap-gap-r1-input-validation-v1.json",
+      "bytes": 5007,
+      "sha256": "1ecbf080c5c76d14315b33e3d40dd8e933cdb2f414b41daeb9f4a633f58e0e99",
+      "occurrences": 2,
+      "roles": [
+        "constructor declared artifact"
+      ]
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-cap-gap-r1-obligations-v1.md",
+      "bytes": 3649,
+      "sha256": "dacf583a7053f51c25cea05528b17bf41fb9e509caf7d57afe675ec66ee8bb27",
+      "occurrences": 1,
+      "roles": [
+        "constructor declared artifact"
+      ]
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-cap-gap-r1-source-audit-v1.md",
+      "bytes": 2121,
+      "sha256": "58e28efdd220e081b2a993f8ef63aa2fc8cca09971201d6d1a3bbae35a0ce5cf",
+      "occurrences": 1,
+      "roles": [
+        "constructor declared artifact"
+      ]
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-cap-gap-r1-sources-v1.json",
+      "bytes": 1393,
+      "sha256": "f55e8ebf3f95884bcdaef2dac38dafb95f08588010120e483270f87547865e39",
+      "occurrences": 1,
+      "roles": [
+        "constructor declared artifact"
+      ]
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-cap-gap-r1-worklog-v1.md",
+      "bytes": 2587,
+      "sha256": "0651707e4ef4063b6770fc9371a88be764edfe036f72bad43b63d31f572290b6",
+      "occurrences": 1,
+      "roles": [
+        "constructor declared artifact"
+      ]
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-separation-scale-r1-freeze-v1.json",
+      "bytes": 3809,
+      "sha256": "33abb0fd6e571f623f31c9d767be471b95cad1990f39d898700f3568acad732c",
+      "occurrences": 3,
+      "roles": [
+        "constructor declared accepted input",
+        "constructor compact source parent"
+      ]
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-separation-scale-r1-input-validation-v1.json",
+      "bytes": 1992,
+      "sha256": "27f11a432f37ac409bd8330b7f761ef93d86bac9b2bf002d8b3c58bc06b20f56",
+      "occurrences": 3,
+      "roles": [
+        "constructor declared accepted input",
+        "constructor compact source parent"
+      ]
+    },
+    {
+      "path": "problems/2019-B4/notes/secondpass-canonical-renewal.md",
+      "bytes": 11807,
+      "sha256": "886266000a34023b033099889a3bb23bc6b3e642194ded12ce53b3aaa1642763",
+      "occurrences": 1,
+      "roles": [
+        "operative accepted second-pass body"
+      ]
+    },
+    {
+      "path": "problems/2019-B4/notes/secondpass-rigidity-obstructions.md",
+      "bytes": 8447,
+      "sha256": "58112ed40ba7146c8b5885669602d44770bdd525540c4221eaf17b101eb1c109",
+      "occurrences": 1,
+      "roles": [
+        "operative accepted second-pass body"
+      ]
+    },
+    {
+      "path": "problems/2019-B4/notes/thirdpass-bounded-separation-v1.md",
+      "bytes": 15965,
+      "sha256": "3364e8c6cf23ba3ecb250f13a5873732c108b6904a68126f52f5d7234eb916d4",
+      "occurrences": 1,
+      "roles": [
+        "constructor declared accepted input"
+      ]
+    },
+    {
+      "path": "problems/2019-B4/proofs/reviewed-moment-tail-v1.1.md",
+      "bytes": 9630,
+      "sha256": "b9d934da65eedf4514ef7883e29dda98ee846982e89c8e3ee677f2c96bff2ee8",
+      "occurrences": 1,
+      "roles": [
+        "constructor declared accepted input"
+      ]
+    },
+    {
+      "path": "problems/2019-B4/proofs/reviewed-secondpass-v1.1.md",
+      "bytes": 2836,
+      "sha256": "5fbaa388fe2ff795034094823c088fa5402da60eb9eca83f78165df0c8ad2cd7",
+      "occurrences": 1,
+      "roles": [
+        "constructor declared accepted input"
+      ]
+    },
+    {
+      "path": "problems/2019-B4/proofs/reviewed-separation-scale-v1.1.md",
+      "bytes": 11544,
+      "sha256": "40776fab233b7503a1c79e91959692dc8dd09d4d116f68831007278bb054d2a6",
+      "occurrences": 1,
+      "roles": [
+        "constructor declared accepted input"
+      ]
+    },
+    {
+      "path": "problems/2019-B4/proofs/reviewed-thirdpass-v1.1.md",
+      "bytes": 16255,
+      "sha256": "58462ad7e44a7d3477d086a663cdb127128c5adcae65d6a904f1fdaa7e862cbf",
+      "occurrences": 1,
+      "roles": [
+        "constructor declared accepted input"
+      ]
+    },
+    {
+      "path": "problems/2019-B4/reviews/coordinator-separation-scale-r1-acceptance.json",
+      "bytes": 2830,
+      "sha256": "d198023feb4dda486a29862eb7d7f108c748896a440036c6e8b34adf718b3860",
+      "occurrences": 3,
+      "roles": [
+        "constructor declared accepted input",
+        "constructor compact source parent"
+      ]
+    },
+    {
+      "path": "problems/2019-B4/reviews/coordinator-separation-scale-r1-acceptance.md",
+      "bytes": 2574,
+      "sha256": "3f4a256ec5849ca4a89950a48e691f12917a49dcad8f7859edbeb6e2d4104dee",
+      "occurrences": 1,
+      "roles": [
+        "constructor declared accepted input"
+      ]
+    },
+    {
+      "path": "problems/2019-B4/reviews/moment-tail-acceptance.json",
+      "bytes": 2076,
+      "sha256": "794c5ce1bb7793cb597bc55b40b94bb451353e742fadf2a4100b0a18782f09f2",
+      "occurrences": 1,
+      "roles": [
+        "constructor declared accepted input"
+      ]
+    },
+    {
+      "path": "problems/2019-B4/reviews/moment-tail-acceptance.md",
+      "bytes": 1912,
+      "sha256": "d3647718f04eb1a67dce90b5ffb103cdefc4400dc86d64103e828a199b6e064e",
+      "occurrences": 1,
+      "roles": [
+        "constructor declared accepted input"
+      ]
+    },
+    {
+      "path": "problems/2019-B4/reviews/nonregularity-return-acceptance.md",
+      "bytes": 3252,
+      "sha256": "824de1c89f9dcb8e4c62a6edeaf1695250fcb5afd7760b610fbea3b885976254",
+      "occurrences": 1,
+      "roles": [
+        "constructor declared accepted input"
+      ]
+    },
+    {
+      "path": "problems/2019-B4/reviews/secondpass-acceptance.json",
+      "bytes": 2679,
+      "sha256": "66e98c9c9eb36ce02c87c69532a0e930be8bd4a4f0eec5e043ecd5f6bf068d6b",
+      "occurrences": 1,
+      "roles": [
+        "constructor declared accepted input"
+      ]
+    },
+    {
+      "path": "problems/2019-B4/reviews/secondpass-acceptance.md",
+      "bytes": 2340,
+      "sha256": "a167e1f52bff2503c6ac571ea047efe7621425f2379868a0a6db31eccd22aefa",
+      "occurrences": 1,
+      "roles": [
+        "constructor declared accepted input"
+      ]
+    },
+    {
+      "path": "problems/2019-B4/reviews/thirdpass-acceptance-integrity.json",
+      "bytes": 1169,
+      "sha256": "e67014f0896b5603738c5498615265ea4c028601e2d313a5de9d51c5188bb8f7",
+      "occurrences": 1,
+      "roles": [
+        "constructor declared accepted input"
+      ]
+    },
+    {
+      "path": "problems/2019-B4/reviews/thirdpass-acceptance.json",
+      "bytes": 1972,
+      "sha256": "a15e724834992260d040295c402953f7aa65a903f656aafae7b3ea61ca1f0606",
+      "occurrences": 1,
+      "roles": [
+        "constructor declared accepted input"
+      ]
+    },
+    {
+      "path": "problems/2019-B4/reviews/thirdpass-acceptance.md",
+      "bytes": 2856,
+      "sha256": "3aa35ed0db260b45394676681426fa5c504e7414d9bbad143ac1eed65ffb105f",
+      "occurrences": 1,
+      "roles": [
+        "constructor declared accepted input"
+      ]
+    },
+    {
+      "path": "problems/2019-B4/statement.md",
+      "bytes": 1252,
+      "sha256": "53d4201dca8bc4a77d995e3df14f95dd146e2df0c82d3b6447ad35a348e89de9",
+      "occurrences": 1,
+      "roles": [
+        "constructor declared accepted input"
+      ]
+    }
+  ],
+  "all_expected_fingerprints_match": true,
+  "constructor_or_old_mathematical_program_executed": false,
+  "new_peer_report_or_findings_read": false
+}

@@ -1,0 +1,308 @@
+{
+  "created_at_utc": "2026-10-17T19:48:22.618522+00:00",
+  "administrative_only": true,
+  "compact_immutable_parent": {
+    "path": "problems/2024-B4/notes/reasoning-sector3-return-r1-freeze-v1.json",
+    "bytes": 3893,
+    "sha256": "2a3cf9ce9d04b92f42a03e0847a478c6b3402e4eadf7067cb2addf4f97055be2"
+  },
+  "parent_artifacts_verified": 9,
+  "earlier_own_paths_bound_by_parent": 415,
+  "immediate_parent_packet_paths": 10,
+  "all_earlier_own_paths_bound_compactly": 425,
+  "older_transitive_inventory_freshly_expanded_or_math_reread": false,
+  "EC_acceptance_declared_occurrences_verified": 9,
+  "record_occurrences": 33,
+  "deduplicated_paths": 32,
+  "records": [
+    {
+      "path": ".cache/official/2017-paper_b.pdf",
+      "bytes": 112458,
+      "sha256": "69d7cf84128c2464d962136ed613808b6c7a7b07122cfba9c06b5adf775e2a68",
+      "occurrences": 1,
+      "roles": [
+        "old official source bytes; no fresh full PDF read"
+      ]
+    },
+    {
+      "path": ".cache/official/2017-solutions.pdf",
+      "bytes": 231254,
+      "sha256": "c272a72239ef4c2ccd54df0702140179e0a9b85f5a9028c87d485841eb1a2c12",
+      "occurrences": 1,
+      "roles": [
+        "old official source bytes; no fresh full PDF read"
+      ]
+    },
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff",
+      "occurrences": 1,
+      "roles": [
+        "direct accepted input/scope"
+      ]
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r4-candidate-v1.md",
+      "bytes": 42968,
+      "sha256": "e2c497814ebd8c9ec8b767c30be6cd37ca8ea9d2d9e51f5496bbd91c91bc854a",
+      "occurrences": 1,
+      "roles": [
+        "declared EC acceptance fingerprint"
+      ]
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r4-freeze-v1.json",
+      "bytes": 3773,
+      "sha256": "99df2683197f1a6e6e0f5c5696859c8c57b8a601bff3bf07d1bd6bd1fa831dca",
+      "occurrences": 1,
+      "roles": [
+        "declared EC acceptance fingerprint"
+      ]
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r4-input-validation-v1.json",
+      "bytes": 7878,
+      "sha256": "543ada00ce67cda9de7714a209db9db854e7b600310989b51ad4d919548ea1d0",
+      "occurrences": 1,
+      "roles": [
+        "declared EC acceptance fingerprint"
+      ]
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r4-sources-v1.json",
+      "bytes": 13654,
+      "sha256": "2b6dc2d1184a8b1496d0a6249a6da47cf5c569289494a9894ef5062c2ad57002",
+      "occurrences": 1,
+      "roles": [
+        "declared EC acceptance fingerprint"
+      ]
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-clean-strata-v1.1.md",
+      "bytes": 10682,
+      "sha256": "10a2efb8d11433726b7812e18217719ab24543887a2d01e0fd96ad51d96204b0",
+      "occurrences": 1,
+      "roles": [
+        "direct accepted input/scope"
+      ]
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-fixedD-structural-v1.2.md",
+      "bytes": 16602,
+      "sha256": "421dc271ed65831e3aa70057a0d74c4d999ba8249dfa2b99066dfdc298f86868",
+      "occurrences": 1,
+      "roles": [
+        "direct accepted input/scope"
+      ]
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-global-value-return-r2-v1.1.md",
+      "bytes": 25152,
+      "sha256": "18db84b72cc680e6a337721f8b43f3940adf6c3c17a8ee20e9c4d43d38c4a342",
+      "occurrences": 1,
+      "roles": [
+        "direct accepted input/scope"
+      ]
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-global-value-return-v1.1.md",
+      "bytes": 26930,
+      "sha256": "34828173c86d84eeb863b40443ef6e1e7b6d24ac5a9b107fba036141165937d3",
+      "occurrences": 1,
+      "roles": [
+        "direct accepted input/scope"
+      ]
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-reasoning-value-return-r3-v1.1.md",
+      "bytes": 25476,
+      "sha256": "33918a64abe7766e982479b1e99fd1df0bf6bf00a25e7d50a3f028623a7d6e07",
+      "occurrences": 1,
+      "roles": [
+        "direct accepted input/scope"
+      ]
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-reasoning-value-return-r4-v1.1.md",
+      "bytes": 45592,
+      "sha256": "9e22fcce5663fc1f8def1ce95111a4b774fa61e24f20b0597dac1e4dd887fbc8",
+      "occurrences": 2,
+      "roles": [
+        "direct accepted input/scope",
+        "declared EC acceptance fingerprint"
+      ]
+    },
+    {
+      "path": "problems/2017-B4/references.md",
+      "bytes": 6664,
+      "sha256": "e77e13fbbec3478fcfc83b56d710fc7693f3f9fd5d855359aca6ce27ba9e3a23",
+      "occurrences": 1,
+      "roles": [
+        "direct accepted input/scope"
+      ]
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r4-acceptance-integrity.json",
+      "bytes": 2215,
+      "sha256": "c5c07eed278d741aeb947dbbbfc75b345b1f33337bfd4ae1369cc2759525b591",
+      "occurrences": 1,
+      "roles": [
+        "direct accepted input/scope"
+      ]
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r4-acceptance.json",
+      "bytes": 2726,
+      "sha256": "2ff01be1020f302ad46d018daf38741ee676fe80d27ba6497a487567b8a6ffda",
+      "occurrences": 1,
+      "roles": [
+        "direct accepted input/scope"
+      ]
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r4-acceptance.md",
+      "bytes": 2722,
+      "sha256": "688880e3f228cfbcc25640c982b5d089bdd07ea8c27836ec8436fc2097109589",
+      "occurrences": 1,
+      "roles": [
+        "direct accepted input/scope"
+      ]
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r4-review-1-integrity-v1.json",
+      "bytes": 1241,
+      "sha256": "b74b1b10a78670944d84b0a2b231ae85bf34ac99022f7fff491ea960a9a311ba",
+      "occurrences": 1,
+      "roles": [
+        "declared EC acceptance fingerprint"
+      ]
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r4-review-1-manifest-v1.json",
+      "bytes": 1977,
+      "sha256": "e86d3a6c1562f527164ad7c27904c66f429dcee0d7864ca28dd58a06784b2d20",
+      "occurrences": 1,
+      "roles": [
+        "declared EC acceptance fingerprint"
+      ]
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r4-review-2-input-validation-v1.json",
+      "bytes": 19919,
+      "sha256": "f6001c230523eb97e2ad319e83d478e34c8ed8b2991fe0f909d9e09a0f4e9130",
+      "occurrences": 1,
+      "roles": [
+        "declared EC acceptance fingerprint"
+      ]
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r4-review-2-manifest-v1.json",
+      "bytes": 4083,
+      "sha256": "572f3cb6a412c56c499047974aa7b360358198bfd1cefb32128f295b0da83476",
+      "occurrences": 1,
+      "roles": [
+        "declared EC acceptance fingerprint"
+      ]
+    },
+    {
+      "path": "problems/2017-B4/statement.md",
+      "bytes": 2140,
+      "sha256": "e459750064b4e25e3eaa71f25f236c046548147e415b06d8bd097839020228f3",
+      "occurrences": 1,
+      "roles": [
+        "direct accepted input/scope"
+      ]
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-sector3-return-r1-baseline-v1.json",
+      "bytes": 9488,
+      "sha256": "1f33d04c6652c1a4aa5d48be76aca92625f3c02f22098395434aefadba54765f",
+      "occurrences": 1,
+      "roles": [
+        "immediate immutable parent artifact"
+      ]
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-sector3-return-r1-candidate-v1.md",
+      "bytes": 17157,
+      "sha256": "e8ca03cd139df7dcbe7508ad4c701e66d220a177c58ea01f8fac23a1788edd6a",
+      "occurrences": 1,
+      "roles": [
+        "immediate immutable parent artifact"
+      ]
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-sector3-return-r1-failed-routes-v1.md",
+      "bytes": 4674,
+      "sha256": "fa2f5eabf0b1be678cb1dab0277cbbec10a39e46705d4a31b65604ae545f77ac",
+      "occurrences": 1,
+      "roles": [
+        "immediate immutable parent artifact"
+      ]
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-sector3-return-r1-freeze-v1.json",
+      "bytes": 3893,
+      "sha256": "2a3cf9ce9d04b92f42a03e0847a478c6b3402e4eadf7067cb2addf4f97055be2",
+      "occurrences": 1,
+      "roles": [
+        "immutable parent manifest"
+      ]
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-sector3-return-r1-freeze-v1.py",
+      "bytes": 13582,
+      "sha256": "7c5d58845912d63320e4516f03c015e83816960504a231c884bcfe824f287e73",
+      "occurrences": 1,
+      "roles": [
+        "immediate immutable parent artifact"
+      ]
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-sector3-return-r1-input-validation-v1.json",
+      "bytes": 3020,
+      "sha256": "0bfd8097ef6a16bf85d61cc3e46be86a6f8117677e37aaaa422437db5aa4d1b4",
+      "occurrences": 1,
+      "roles": [
+        "immediate immutable parent artifact"
+      ]
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-sector3-return-r1-obligations-v1.md",
+      "bytes": 4846,
+      "sha256": "b1cbb410f151cb05af460400ab9d7ba17e5a7f271e4b5a363bb69d9271e854df",
+      "occurrences": 1,
+      "roles": [
+        "immediate immutable parent artifact"
+      ]
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-sector3-return-r1-source-audit-v1.md",
+      "bytes": 5760,
+      "sha256": "6318d3f5ca147dd9bd87095a41ca9c3640840966e880dcb9f1fcb5b8650f94de",
+      "occurrences": 1,
+      "roles": [
+        "immediate immutable parent artifact"
+      ]
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-sector3-return-r1-sources-v1.json",
+      "bytes": 8417,
+      "sha256": "390ab3454b9a7105d8c3c90a4730ea2e2ed514c2613d8230d1733f87dfbdb99a",
+      "occurrences": 1,
+      "roles": [
+        "immediate immutable parent artifact"
+      ]
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-sector3-return-r1-worklog-v1.md",
+      "bytes": 6669,
+      "sha256": "234c845f03783cc6c3d3e33f39940d8dec2067ac31d55da74dbb460122ae9e64",
+      "occurrences": 1,
+      "roles": [
+        "immediate immutable parent artifact"
+      ]
+    }
+  ]
+}

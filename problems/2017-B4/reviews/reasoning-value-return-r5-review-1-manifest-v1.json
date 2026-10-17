@@ -1,0 +1,51 @@
+{
+  "frozen_at_utc": "2026-10-17T19:52:47.622766+00:00",
+  "status": "COMPLETE initially blind NONCONSTRUCTOR WHOLE R1, recommendation only",
+  "reviewer": "/root",
+  "constructor": "/root/review_2017_coarsening_r1",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "independently_verified_effective_settings": null,
+  "target": {
+    "path": "problems/2017-B4/notes/reasoning-value-return-r5-candidate-v1.md",
+    "bytes": 30791,
+    "sha256": "f0313ffa047c8c0ac7664192a01936f842b300f22168a9b929c8d4d39c41879e"
+  },
+  "target_manifest": {
+    "path": "problems/2017-B4/notes/reasoning-value-return-r5-freeze-v1.json",
+    "bytes": 3146,
+    "sha256": "31b1789d41b1d492ef9f0d2235050025bb341ca70c8eb8d0c66765e63e43fed1"
+  },
+  "whole_author_obligations": 40,
+  "independent_ledger_rows": 40,
+  "substantive_issues": 0,
+  "required_repairs": 0,
+  "root_new_R5_construction_contribution": false,
+  "old_roles_and_separate_unverified_lead_disclosed": true,
+  "no_new_peer_R5_findings_or_metadata_read_through_ENTIRE_initial_freeze": true,
+  "no_mass_entropy_upper_R_value_computability_annual_or_novelty_claim": true,
+  "artifacts": [
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r5-review-1-initial-v1.md",
+      "bytes": 11345,
+      "sha256": "29a40a417ca38f1de3e5d84cbe70de609b5dec712d19d2bba7599bd612476c7a"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r5-review-1-issues-v1.md",
+      "bytes": 7202,
+      "sha256": "a9b4104b642bb3589dff644038c5236586cf2714679086342753abaafb0a3a13"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r5-review-1-source-checks-v1.md",
+      "bytes": 3516,
+      "sha256": "0ff849f114bb8e119a138c6600c64947ad06166130180db66e8270be1cb39bc5"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r5-review-1-integrity-v1.json",
+      "bytes": 979,
+      "sha256": "996f4037dcd90d12d6fa95ab74b7a52c1de30ba7ebfec14ca84c00879fe5a363"
+    }
+  ]
+}

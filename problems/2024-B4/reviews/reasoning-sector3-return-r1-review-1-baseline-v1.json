@@ -1,0 +1,161 @@
+{
+  "at_utc": "2026-10-17T19:32:02.974571+00:00",
+  "administrative_only": true,
+  "assigned_prefix_unused_before_first_write": true,
+  "constructor_packet_records": [
+    {
+      "path": "problems/2024-B4/notes/reasoning-sector3-return-r1-candidate-v1.md",
+      "bytes": 17157,
+      "sha256": "e8ca03cd139df7dcbe7508ad4c701e66d220a177c58ea01f8fac23a1788edd6a"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-sector3-return-r1-obligations-v1.md",
+      "bytes": 4846,
+      "sha256": "b1cbb410f151cb05af460400ab9d7ba17e5a7f271e4b5a363bb69d9271e854df"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-sector3-return-r1-failed-routes-v1.md",
+      "bytes": 4674,
+      "sha256": "fa2f5eabf0b1be678cb1dab0277cbbec10a39e46705d4a31b65604ae545f77ac"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-sector3-return-r1-source-audit-v1.md",
+      "bytes": 5760,
+      "sha256": "6318d3f5ca147dd9bd87095a41ca9c3640840966e880dcb9f1fcb5b8650f94de"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-sector3-return-r1-worklog-v1.md",
+      "bytes": 6669,
+      "sha256": "234c845f03783cc6c3d3e33f39940d8dec2067ac31d55da74dbb460122ae9e64"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-sector3-return-r1-baseline-v1.json",
+      "bytes": 9488,
+      "sha256": "1f33d04c6652c1a4aa5d48be76aca92625f3c02f22098395434aefadba54765f"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-sector3-return-r1-freeze-v1.py",
+      "bytes": 13582,
+      "sha256": "7c5d58845912d63320e4516f03c015e83816960504a231c884bcfe824f287e73"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-sector3-return-r1-sources-v1.json",
+      "bytes": 8417,
+      "sha256": "390ab3454b9a7105d8c3c90a4730ea2e2ed514c2613d8230d1733f87dfbdb99a"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-sector3-return-r1-input-validation-v1.json",
+      "bytes": 3020,
+      "sha256": "0bfd8097ef6a16bf85d61cc3e46be86a6f8117677e37aaaa422437db5aa4d1b4"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-sector3-return-r1-freeze-v1.json",
+      "bytes": 3893,
+      "sha256": "2a3cf9ce9d04b92f42a03e0847a478c6b3402e4eadf7067cb2addf4f97055be2"
+    }
+  ],
+  "constructor_declared_47_fingerprints_reverified": true,
+  "constructor_declarations_compact_summary": {
+    "unique_paths": 47,
+    "canonical_sorted_record_array_sha256": "2d546203e6c4166d48f7e7125b4441078cd84318e1c9374ddd360f9b2d117599"
+  },
+  "constructor_inventory_reproduction": [
+    {
+      "path": "problems/2024-B4/notes/reasoning-sector3-return-r1-baseline-v1.json",
+      "bytes": 9488,
+      "sha256": "1f33d04c6652c1a4aa5d48be76aca92625f3c02f22098395434aefadba54765f"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-sector3-return-r1-input-validation-v1.json",
+      "bytes": 3020,
+      "sha256": "0bfd8097ef6a16bf85d61cc3e46be86a6f8117677e37aaaa422437db5aa4d1b4"
+    }
+  ],
+  "old_accepted_scope_authorities": [
+    {
+      "path": "problems/2024-B4/reviews/structural-acceptance.md",
+      "bytes": 2693,
+      "sha256": "d37792e94efa0618b80e752037e81cbc1a825c17311ce74e53934d01d3bf3906"
+    },
+    {
+      "path": "problems/2024-B4/reviews/structural-acceptance.json",
+      "bytes": 2580,
+      "sha256": "53fb1b2e3383397b1218f2020a9c1b60625497faaab9d686e7ef179cb2acb8d4"
+    },
+    {
+      "path": "problems/2024-B4/reviews/structural-acceptance-integrity.json",
+      "bytes": 8851,
+      "sha256": "83dd8eea8abf88d55814c0784a6d32d7856b0b08701ae5f21bf147cf24a3cc89"
+    },
+    {
+      "path": "problems/2024-B4/reviews/divisor-acceptance.md",
+      "bytes": 1658,
+      "sha256": "dfacb49c076183986d02ee04e022a3b8de760c287a3da5428e00eda1f1edd521"
+    },
+    {
+      "path": "problems/2024-B4/reviews/divisor-acceptance.json",
+      "bytes": 2767,
+      "sha256": "1d9cc87c94486538087eeaa895ff3dabd76c918424fdcfead620c3b12693eeb9"
+    },
+    {
+      "path": "problems/2024-B4/reviews/divisor-acceptance-integrity.json",
+      "bytes": 24656,
+      "sha256": "35d0f376bee54190da50fc5a6e7e3e8d1218aead9bd86cdc799f3104f3dc23c1"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-components-r1-acceptance.md",
+      "bytes": 2971,
+      "sha256": "b7d2179085efd49affe6f6c6769afff8d6ad201e6e3319bfc55a8e523bec95a6"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-components-r1-acceptance.json",
+      "bytes": 3747,
+      "sha256": "58053138aaac34aaf01cdbcb9e703f6b53afff113c05d176c538919f19ba924c"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-components-r1-acceptance-integrity.json",
+      "bytes": 3043,
+      "sha256": "0631a1af3994447bd1c2f4b0ffedef7f9b244af4a8279759825cfe1edb6aacd3"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-component-saturation-r1-acceptance.md",
+      "bytes": 2465,
+      "sha256": "262feb6b1d350a4ebd438896753d787107c59f8c4889ad8865217f6149b47dc2"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-component-saturation-r1-acceptance.json",
+      "bytes": 2765,
+      "sha256": "20d72768410c8934ef70d947b105599f6414d0012faa6eae353a3ae6c7b9b34b"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-component-saturation-r1-acceptance-integrity.json",
+      "bytes": 2289,
+      "sha256": "2d3cfd6dbafe783304c2f5b9e46f237cb60cc8d03e37a17527160a6e018a3d65"
+    }
+  ],
+  "compact_immutable_own_parent": {
+    "path": "problems/2025-B4/notes/reasoning-return-r8-freeze-v1.json",
+    "bytes": 4298,
+    "sha256": "a68ae37d1d5b9f0b209629e6d2027da1ad0fe8d8e6d889b6e261bc0f5a8cff04"
+  },
+  "compact_immutable_own_parent_validation": {
+    "path": "problems/2025-B4/notes/reasoning-return-r8-input-validation-v1.json",
+    "bytes": 12568,
+    "sha256": "6bc2147006802021de1d8d5321d515745be45f71fbb6bbe2e19c16e167d3e7ed"
+  },
+  "own_parent_11_artifacts_and_manifest_fingerprints_reverified": true,
+  "own_parent_direct_records_summary": {
+    "unique_paths": 11,
+    "canonical_sorted_record_array_sha256": "ed4680ba5994e08bd235478db0814c55f741bdc7147eb36c66402e15f9ac6c89"
+  },
+  "earlier_365_paths_bound_by_exact_parent_validation": {
+    "unique_paths": 365,
+    "canonical_sorted_record_array_sha256": "4adb0f838021972112f25291c4a86770b56056c57cca74d2a1ab8d6eea148cff",
+    "canonical_encoding": "UTF8 JSON ensure_ascii=false sort_keys=true separators=(comma,colon), records sorted by path"
+  },
+  "older_own_paths_bound_transitively": 376,
+  "historical_inventory_not_recopied_or_mathematics_reread": true,
+  "new_peer_sector3_files_or_findings_read": false,
+  "mathematical_code_CAS_scan_or_old_script_run": false,
+  "old_shared_Git_or_cache_write": false
+}

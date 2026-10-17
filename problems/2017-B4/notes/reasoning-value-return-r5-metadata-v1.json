@@ -1,0 +1,52 @@
+{
+  "status": "candidate proof - unverified",
+  "constructor": "/root/review_2017_coarsening_r1",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "independently_verified_effective_settings": null,
+  "ownership": "only problems/2017-B4/notes/reasoning-value-return-r5-*",
+  "new_mathematical_claims": [
+    "GR1",
+    "GR2",
+    "GR3",
+    "GR4"
+  ],
+  "whole_obligations": 40,
+  "two_OTHER_initially_blind_WHOLE_audits_required": true,
+  "root_role": "broad target and scope cautions; no new proof inference used",
+  "old_C_authorship": [
+    "FD/profile/annulus/rank background",
+    "V1-V4",
+    "OP1-OP3"
+  ],
+  "old_C_role_not_independent_recertification": true,
+  "mathematical_code_CAS_scan_certificate_or_algorithm_execution": false,
+  "new_native_child_or_pending_approval": false,
+  "new_remote_PDF_byte_download_or_cache_hash_claim": false,
+  "direct_weekly_telemetry": {
+    "at_utc": "2026-10-17 19:47:17 UTC",
+    "total_used_percent": 60,
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "ordinary_usage_allowed": true,
+    "total_ceiling_percent": 90,
+    "review_integration_reserve": true
+  },
+  "proof_limits": {
+    "exponential_count_mass": false,
+    "effective_upper_R": false,
+    "numerical_scalar_value": false,
+    "two_sided_computability": false,
+    "exact_arbitrary_decoration_preservation": false,
+    "straightening_or_mixing": false,
+    "novelty": false
+  },
+  "compact_parent": {
+    "path": "problems/2024-B4/notes/reasoning-sector3-return-r1-freeze-v1.json",
+    "bytes": 3893,
+    "sha256": "2a3cf9ce9d04b92f42a03e0847a478c6b3402e4eadf7067cb2addf4f97055be2"
+  },
+  "earlier_own_path_count": 425
+}

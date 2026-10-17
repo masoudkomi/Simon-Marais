@@ -1,0 +1,82 @@
+{
+  "accepted_at_utc": "2026-10-17T19:54:39.173272+00:00",
+  "status": "proved, independently reviewed scoped partial result",
+  "whole_initials_blind": true,
+  "root_read_full_candidate_both_reports_all_ledgers_sources": true,
+  "unresolved_substantive_issues": 0,
+  "repair_required": false,
+  "candidate": {
+    "path": "problems/2019-B4/notes/coordinator-cap-gap-r1-candidate-v1.md",
+    "bytes": 11796,
+    "sha256": "0e8afb24ec9e58004ee9464de327b309d834058b277eae4a2608d0d7afde5f33"
+  },
+  "accepted_copy": {
+    "path": "problems/2019-B4/proofs/reviewed-cap-gap-v1.1.md",
+    "bytes": 15013,
+    "sha256": "b803cff97e245abb7a087597e28aa8920b8f3933a03ea8df6f82d6a90d70136e"
+  },
+  "verification_metadata": [
+    {
+      "path": "problems/2019-B4/notes/coordinator-cap-gap-r1-freeze-v1.json",
+      "bytes": 3669,
+      "sha256": "9b3751764cb2ba0177f3b8ff9e5f90721acf134f3e92c42cf4be67e5179d3d49"
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-cap-gap-r1-sources-v1.json",
+      "bytes": 1393,
+      "sha256": "f55e8ebf3f95884bcdaef2dac38dafb95f08588010120e483270f87547865e39"
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-cap-gap-r1-input-validation-v1.json",
+      "bytes": 5007,
+      "sha256": "1ecbf080c5c76d14315b33e3d40dd8e933cdb2f414b41daeb9f4a633f58e0e99"
+    },
+    {
+      "path": "problems/2019-B4/reviews/coordinator-cap-gap-r1-review-1-manifest-v1.json",
+      "bytes": 3126,
+      "sha256": "c482bb0b681d7ff110ecfc4eea97370fbf1dac041e8f84196f0758d8638df400"
+    },
+    {
+      "path": "problems/2019-B4/reviews/coordinator-cap-gap-r1-review-1-baseline-v1.json",
+      "bytes": 14154,
+      "sha256": "39f13443796fd5bed1e4861f1251f9c12a69275c1bc29ecf45b0418eb3c9583a"
+    },
+    {
+      "path": "problems/2019-B4/reviews/coordinator-cap-gap-r1-review-1-input-validation-v1.json",
+      "bytes": 682,
+      "sha256": "89d77f5fe0bd9e918e18c8d6c53909f392400bbab57fdff0250cca8726ed6e8d"
+    },
+    {
+      "path": "problems/2019-B4/reviews/coordinator-cap-gap-r1-review-2-manifest-v1.json",
+      "bytes": 5859,
+      "sha256": "12fd86248b4303504a4abb7480d8b3affbc62c99380d64aeae1316b902d00543"
+    },
+    {
+      "path": "problems/2019-B4/reviews/coordinator-cap-gap-r1-review-2-input-validation-v1.json",
+      "bytes": 11444,
+      "sha256": "0a5c91c235bed3b0a49da0dd0f36a8c7a2466e0a70cb3bdc5ec54ee2c333cb80"
+    },
+    {
+      "path": "problems/2019-B4/reviews/coordinator-cap-gap-r1-review-2-sources-v1.json",
+      "bytes": 7140,
+      "sha256": "bac3b35f236f0e0f76e6a1736a662bf2a635c9a40baff4210fb91ed1c0cdf203"
+    }
+  ],
+  "record_occurrences_verified": 168,
+  "unique_paths_verified": 72,
+  "constructor_excluded": "/root",
+  "independent_nonconstructor_reviewers": [
+    "/root/review_2017_coarsening_r1",
+    "/root/review_2022_complexity_r2"
+  ],
+  "whole_author_obligations": 24,
+  "whole_review_inference_rows": [
+    24,
+    24
+  ],
+  "official_common_rate_bounds": {
+    "strict_lower": "1.765224",
+    "strict_upper": "1.834847"
+  },
+  "exact_rate_annual_or_novelty_claim": false
+}

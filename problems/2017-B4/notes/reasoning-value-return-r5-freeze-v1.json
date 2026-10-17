@@ -1,0 +1,72 @@
+{
+  "frozen_at_utc": "2026-10-17T19:49:28.404345+00:00",
+  "status": "candidate proof - unverified; COMPLETE GR1-GR4 mathematical checkpoint",
+  "constructor": "/root/review_2017_coarsening_r1",
+  "claims": [
+    "fixed scalar cone and entire generic level graphs",
+    "one simultaneous phase with once-only pair crossings",
+    "every-p actual full-boundary tiling within (1+D^3)/p",
+    "finite rational PL algorithm and exact uniform-profile characterization"
+  ],
+  "whole_obligations": 40,
+  "two_OTHER_initially_blind_WHOLE_audits_required": true,
+  "compact_immutable_parent_manifest": {
+    "path": "problems/2024-B4/notes/reasoning-sector3-return-r1-freeze-v1.json",
+    "bytes": 3893,
+    "sha256": "2a3cf9ce9d04b92f42a03e0847a478c6b3402e4eadf7067cb2addf4f97055be2"
+  },
+  "earlier_own_paths_preserved_by_compact_reference": 425,
+  "record_occurrences_verified": 33,
+  "deduplicated_paths_verified": 32,
+  "all_current_inputs_and_immediate_parent_files_reverified": true,
+  "mathematical_code_or_algorithm_execution": false,
+  "no_entropy_upper_R_count_mass_numerical_value_computability_or_novelty_claim": true,
+  "administrative_command": "/Users/uqmkamga/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 problems/2017-B4/notes/reasoning-value-return-r5-freeze-v1.py --freeze",
+  "artifacts": [
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r5-candidate-v1.md",
+      "bytes": 30791,
+      "sha256": "f0313ffa047c8c0ac7664192a01936f842b300f22168a9b929c8d4d39c41879e"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r5-obligations-v1.md",
+      "bytes": 7457,
+      "sha256": "7f5f4d56f8558f2df26a4ccd5a2edad798fc6f41ef3c7432f5257b18baa0a260"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r5-source-audit-v1.md",
+      "bytes": 7604,
+      "sha256": "b1e8b6f4f529e75c9064200cdd9abe29ef54c559bb02b733f5ac2ddd78419b0b"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r5-failed-routes-v1.md",
+      "bytes": 6390,
+      "sha256": "23f90b53a0b41bf6276818cbd833f8d3970426d472e68cb0fadd18686e822f01"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r5-worklog-v1.md",
+      "bytes": 9089,
+      "sha256": "666d8bfb4af435c91dd9c237a6529dd1b7ac195b89993e70496abf414a72ea67"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r5-baseline-v1.json",
+      "bytes": 9994,
+      "sha256": "c2eb10cd228bacf0e40253ea468bda86b00a2490e93f1f6b9a55d8018142c2a5"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r5-metadata-v1.json",
+      "bytes": 1685,
+      "sha256": "672869af16f1504e3f7a8ab99cbc8f58300f11acd83c71ed24d71387de25d505"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r5-input-validation-v1.json",
+      "bytes": 712,
+      "sha256": "cf507e62befd9670d63e6e2bc15a949b64806d3809c4439c6bcb155f03d65036"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r5-freeze-v1.py",
+      "bytes": 9785,
+      "sha256": "011a08d39bd333db073f80c7a9062aa59f8381b4030c645463fee2bbe991cac7"
+    }
+  ]
+}

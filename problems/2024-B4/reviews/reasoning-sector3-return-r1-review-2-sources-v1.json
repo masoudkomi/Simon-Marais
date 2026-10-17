@@ -1,0 +1,138 @@
+{
+  "recorded_at_utc": "2026-10-17T19:49:32.568583+00:00",
+  "actual_full_read_scope": "See COMPLETE source-checks-v1.md; no peer sector3 record opened",
+  "official": {
+    "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc2024_paper_b.pdf",
+    "read_scope": "actual B4(b), PDFpage2, coefficientwise and nonconstant definitions",
+    "existing_cache": {
+      "path": ".cache/official/2024-paper_b.pdf",
+      "bytes": 151590,
+      "sha256": "1401f21218ad4c387c4d537ed8fd7de119b376cba52957ef788c772dc5ab4ddc"
+    },
+    "no_preliminary_solution_investigation": true
+  },
+  "primary_operative_source": {
+    "title": "McGuire, On Certain Exponential Sums and Cyclic Codes,1995 thesis",
+    "url": "https://thesis.caltech.edu/4053/01/McGuire_gm_1995.pdf",
+    "record_url": "https://thesis.caltech.edu/4053/",
+    "doi": "10.7907/1CZ2-6S05",
+    "existing_cache": {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995.pdf",
+      "bytes": 2610589,
+      "sha256": "d8e8e62d873c5ec69e2fd40473a9aee257bb8d4994cb5ffc1a42cb70f8bcbd24"
+    },
+    "visual_pages_read": [
+      7,
+      12,
+      13,
+      14,
+      15,
+      18,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+    ],
+    "printed_pages": "2,7--10,13,15--20",
+    "complete_operative_Theorem2_1prime_and_PropositionA_proofs_read": true,
+    "projective_Bezout_actual_statement_read": true,
+    "source_images": [
+      {
+        "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-07.png",
+        "bytes": 86381,
+        "sha256": "a3ea7a6e5574f48e89e91b37da500c50a6bd4ff2dc7140036927a645e69ef038"
+      },
+      {
+        "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-12.png",
+        "bytes": 109588,
+        "sha256": "49d5128a97dc3ec1f30493938708cbc62e39d71522d2b66757bdc89c1f68909d"
+      },
+      {
+        "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-13.png",
+        "bytes": 104720,
+        "sha256": "78088c33575fd89fb0fe54aff4c0e7c575652babb0c75c9ceee93b691703f8a7"
+      },
+      {
+        "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-14.png",
+        "bytes": 97174,
+        "sha256": "e0fcbc6bf13f0c262b511f46fde088cea64f8c2a42aca41a27973294d6b1df8f"
+      },
+      {
+        "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-15.png",
+        "bytes": 121397,
+        "sha256": "1fd54570b0475f15334b3c43bd4193a1c9feb2209a7e2644eb2fae67049bba06"
+      },
+      {
+        "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-18.png",
+        "bytes": 122573,
+        "sha256": "629fba731a8a43732df2b4e36cbf71b9a9757a8d239e5787ebeae6b679ac2016"
+      },
+      {
+        "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-20.png",
+        "bytes": 113286,
+        "sha256": "b33260e32ae214f4f4d26e4e7f79f956f3615297b253c627aeac7e8f4f750475"
+      },
+      {
+        "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-21.png",
+        "bytes": 98268,
+        "sha256": "6b12ece130a5a99f281ce989a77b5c01d53a9035f5666b2f48942e15d5316bbd"
+      },
+      {
+        "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-22.png",
+        "bytes": 103970,
+        "sha256": "1d7b62828564b5dbb08efb6861903e3338d1fdfede491bf13f89d53067bf021f"
+      },
+      {
+        "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-23.png",
+        "bytes": 97033,
+        "sha256": "4fb9388c5944705e712fdf11b6f7c4e07bd55efb954d43dfcea12d8b7a5e2ded"
+      },
+      {
+        "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-24.png",
+        "bytes": 95716,
+        "sha256": "d07f0c310f51372423297698546aaae6aa410336c687cb29a572ea7900210ef3"
+      },
+      {
+        "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-25.png",
+        "bytes": 92905,
+        "sha256": "e568d042b5400a53bd865f4987124e19c17b3ab605480c562ec46a6f1634aa18"
+      }
+    ],
+    "journal_full_pdf_read": false,
+    "source_infinity_defect_claim": false
+  },
+  "contextual_primary_reads": [
+    {
+      "url": "https://arxiv.org/pdf/0903.2016v4",
+      "actual_read_scope": "definitions/conjectures, exact conditional Theorems15/16, selected local setup, t205 counterexample assertion/references",
+      "entire_long_proof_freshly_reconstructed": false,
+      "general_whole_irreducibility_import": false,
+      "downloaded_byte_sha256": null
+    },
+    {
+      "url": "https://arxiv.org/pdf/1207.5528v1",
+      "actual_read_scope": "matching definitions, Lemma1 statement/proof and selected context/diagonal identity",
+      "arbitrary_target_gcd_import": false,
+      "downloaded_byte_sha256": null
+    }
+  ],
+  "older_accepted_read_scopes": [
+    {
+      "path": "problems/2024-B4/proofs/reviewed-divisor-criteria-v1.1.md",
+      "read_scope": "FULL; old authored C7/C11 only, no certificate rerun"
+    },
+    {
+      "path": "problems/2024-B4/proofs/reviewed-structural-v1.1.md",
+      "read_scope": "throughline130, exact accepted scope/setup; not fresh whole recertification"
+    },
+    {
+      "path": "problems/2024-B4/proofs/reviewed-reasoning-components-r1-v1.1.md",
+      "read_scope": "throughline125, exact accepted scope/setup; old authored IC context, not diagonal premise"
+    }
+  ],
+  "PDF_skill_read_only": "/Users/uqmkamga/.codex/plugins/cache/openai-primary-runtime/pdf/26.1013.11914/skills/pdf/SKILL.md",
+  "no_new_download_render_cache_mutation_or_escalated_wait": true,
+  "no_math_code_CAS_scan_author_rerun_or_certificate": true
+}

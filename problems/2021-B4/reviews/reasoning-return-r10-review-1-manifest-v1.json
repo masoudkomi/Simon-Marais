@@ -1,0 +1,51 @@
+{
+  "frozen_at_utc": "2026-10-17T19:40:22.008436+00:00",
+  "status": "COMPLETE initially blind NONCONSTRUCTOR WHOLE R1, recommendation only",
+  "reviewer": "/root",
+  "constructor": "/root/review_2021_reasoning_j15_r2",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "independently_verified_effective_settings": null,
+  "target": {
+    "path": "problems/2021-B4/notes/reasoning-return-r10-candidate-v1.md",
+    "bytes": 23674,
+    "sha256": "30c6046d83792ffff937f6052f7b00c18288754b3dc8e73345ca4a112015d09f"
+  },
+  "target_manifest": {
+    "path": "problems/2021-B4/notes/reasoning-return-r10-freeze-v1.json",
+    "bytes": 3884,
+    "sha256": "ff20fd17e080ce3fb5d3c0f4f3f7c1f58624741b0fadc1be4a0fee26fc73f2bd"
+  },
+  "whole_author_obligations": 52,
+  "independent_inference_rows": 52,
+  "substantive_issues": 0,
+  "required_repairs": 0,
+  "new_R10_construction_contribution": false,
+  "old_PN_root_authorship_R5_strategy_and_R8_R9_review_roles_disclosed": true,
+  "all_peer_findings_unread_through_ENTIRE_initial_freeze": true,
+  "no_full_branch_degree20_annual_lift_or_novelty_claim": true,
+  "artifacts": [
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r10-review-1-initial-v1.md",
+      "bytes": 11305,
+      "sha256": "112e75e39c17c2c61e8af453fd2813ab21323e140ba536fcf45dbdc1b3f45dd4"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r10-review-1-issues-v1.md",
+      "bytes": 2074,
+      "sha256": "ee040f8ecf344cdb74fa798cecf852e23a3645dc4dfe4278c2b946d7598875b9"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r10-review-1-source-checks-v1.md",
+      "bytes": 2346,
+      "sha256": "2f71042212978951433e1bbebe530b0da7eb60bd7b5ff39a31da5859dde14852"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r10-review-1-integrity-v1.json",
+      "bytes": 1462,
+      "sha256": "0848e8af5b9834e1e0221ce74a75ac2e1fd0f23ecae3bc9b8c918c1dd1bc6824"
+    }
+  ]
+}

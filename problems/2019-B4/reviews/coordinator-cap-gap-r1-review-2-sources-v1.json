@@ -1,0 +1,159 @@
+{
+  "recorded_at_utc": "2026-10-17T19:45:49.339267+00:00",
+  "fresh_initially_blind_NONCONSTRUCTOR_WHOLE_R2": true,
+  "official_url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2019-paper-b_1.pdf",
+  "official_read_scope": "PDFpage2 B4(b), distinct-string definition and root-rate target",
+  "official_new_download_or_local_web_hash": null,
+  "fresh_complete_accepted_bodies": [
+    "secondpass register and three linked canonical-renewal/rigidity/staircase texts",
+    "thirdpass accepted exposition, acceptance and cap-seven norm argument",
+    "moment-tail accepted exposition and acceptance",
+    "separation-scale accepted exposition and acceptance",
+    "NR acceptance only",
+    "thirdpass-literature scope record, not its entire original-paper bibliography"
+  ],
+  "other_exact_read": "proof.md lines1--85 marked-fiber/root-rate bridge",
+  "new_external_paper_theorem_imports": [],
+  "old_cap_matrix_all11662_rows_newly_audited_or_replayed": false,
+  "old_cap_exact_certificate_role": "accepted all-state positive v, Av<Uv; analytical norm consequence bounds rho7 itself",
+  "constructor_all12_artifacts_and_freeze_read": true,
+  "constructor_declared_input_record_summary": {
+    "unique_paths": 21,
+    "canonical_sorted_record_array_sha256": "5a955d07c739038f2f057b66b1ea64ac7e041d850f10c4c125ea7e1cb0cd6e6f"
+  },
+  "exact_secondpass_core_bodies": [
+    {
+      "path": "problems/2019-B4/notes/secondpass-canonical-renewal.md",
+      "bytes": 11807,
+      "sha256": "886266000a34023b033099889a3bb23bc6b3e642194ded12ce53b3aaa1642763"
+    },
+    {
+      "path": "problems/2019-B4/notes/secondpass-rigidity-obstructions.md",
+      "bytes": 8447,
+      "sha256": "58112ed40ba7146c8b5885669602d44770bdd525540c4221eaf17b101eb1c109"
+    },
+    {
+      "path": "problems/2019-B4/notes/secondpass-staircases-and-pumping.md",
+      "bytes": 10885,
+      "sha256": "5e2539982e32d116076c2c17ad8e85d865792a14630db04634c7372ae345cd52"
+    }
+  ],
+  "immutable_accepted_authorities": [
+    {
+      "immutable_acceptance": {
+        "path": "problems/2019-B4/reviews/secondpass-acceptance.json",
+        "bytes": 2679,
+        "sha256": "66e98c9c9eb36ce02c87c69532a0e930be8bd4a4f0eec5e043ecd5f6bf068d6b"
+      },
+      "necessary_declared_fingerprint_occurrences_reverified": 0,
+      "necessary_declared_deduplicated_summary": {
+        "unique_paths": 0,
+        "canonical_sorted_record_array_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+      },
+      "prior_full_inventory_occurrences_recorded_not_replayed": null,
+      "prior_full_inventory_paths_recorded_not_replayed": null
+    },
+    {
+      "immutable_acceptance": {
+        "path": "problems/2019-B4/reviews/thirdpass-acceptance.json",
+        "bytes": 1972,
+        "sha256": "a15e724834992260d040295c402953f7aa65a903f656aafae7b3ea61ca1f0606"
+      },
+      "necessary_declared_fingerprint_occurrences_reverified": 7,
+      "necessary_declared_deduplicated_summary": {
+        "unique_paths": 7,
+        "canonical_sorted_record_array_sha256": "0b8df374715fd9b67a62e44d8fa121ee7293f1c9140af30296153cd7fad9449c"
+      },
+      "prior_full_inventory_occurrences_recorded_not_replayed": null,
+      "prior_full_inventory_paths_recorded_not_replayed": null
+    },
+    {
+      "immutable_acceptance": {
+        "path": "problems/2019-B4/reviews/moment-tail-acceptance.json",
+        "bytes": 2076,
+        "sha256": "794c5ce1bb7793cb597bc55b40b94bb451353e742fadf2a4100b0a18782f09f2"
+      },
+      "necessary_declared_fingerprint_occurrences_reverified": 6,
+      "necessary_declared_deduplicated_summary": {
+        "unique_paths": 6,
+        "canonical_sorted_record_array_sha256": "a5f537f7557820970816769f27d268c3442cb177bdaf943c24fdd5c2b336109a"
+      },
+      "prior_full_inventory_occurrences_recorded_not_replayed": 274,
+      "prior_full_inventory_paths_recorded_not_replayed": 243
+    },
+    {
+      "immutable_acceptance": {
+        "path": "problems/2019-B4/reviews/coordinator-separation-scale-r1-acceptance.json",
+        "bytes": 2830,
+        "sha256": "d198023feb4dda486a29862eb7d7f108c748896a440036c6e8b34adf718b3860"
+      },
+      "necessary_declared_fingerprint_occurrences_reverified": 9,
+      "necessary_declared_deduplicated_summary": {
+        "unique_paths": 9,
+        "canonical_sorted_record_array_sha256": "1ecbfaccb3d70d4e565f1ef6e16c3578ecc0ce00b8255dbcb1242145f88a1a40"
+      },
+      "prior_full_inventory_occurrences_recorded_not_replayed": 105,
+      "prior_full_inventory_paths_recorded_not_replayed": 68
+    }
+  ],
+  "one_independent_new_fixed_sign_records": [
+    {
+      "path": "problems/2019-B4/reviews/coordinator-cap-gap-r1-review-2-sign-v1.py",
+      "bytes": 2071,
+      "sha256": "bfe2263f1fcc7f1b075a7441de35c7838de7128a57aafd72baa6d02b375a1f9b"
+    },
+    {
+      "path": "problems/2019-B4/reviews/coordinator-cap-gap-r1-review-2-sign-run-v1.py",
+      "bytes": 1770,
+      "sha256": "3fc6b8c0f57789bb59638f183c2d34b943b631df6967a74beffb245cdb800e40"
+    },
+    {
+      "path": "problems/2019-B4/reviews/coordinator-cap-gap-r1-review-2-sign-output-v1.json",
+      "bytes": 3064,
+      "sha256": "74e21a573c5d1afde37b121c94b0d815a7211a7e0f1d12353d5434f2833a0432"
+    },
+    {
+      "path": "problems/2019-B4/reviews/coordinator-cap-gap-r1-review-2-sign-stderr-v1.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "problems/2019-B4/reviews/coordinator-cap-gap-r1-review-2-sign-start-v1.json",
+      "bytes": 461,
+      "sha256": "7a3ed2aeb9cc74197201afbe5089f4f93136e6d630fd98a5104946b0008b718d"
+    },
+    {
+      "path": "problems/2019-B4/reviews/coordinator-cap-gap-r1-review-2-sign-completion-v1.json",
+      "bytes": 620,
+      "sha256": "ab3a1466aa72b089a332bb829416fef42c944c9e7bd322778c3d060dfda724af"
+    }
+  ],
+  "sign_child_lifecycle": {
+    "command": [
+      "/Users/uqmkamga/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3",
+      "/Users/uqmkamga/Documents/ChatGPT/Website/problems/2019-B4/reviews/coordinator-cap-gap-r1-review-2-sign-v1.py"
+    ],
+    "pid": 37328,
+    "started_at_utc": "2026-10-17T19:40:34.032481+00:00",
+    "external_timeout_seconds": 10,
+    "scope": "ONE independent homogeneous-integer fixed sign",
+    "old_program_or_constructor_script_execution": false,
+    "completed_at_utc": "2026-10-17T19:40:34.056654+00:00",
+    "elapsed_seconds": 0.024112416023854166,
+    "exit_code": 0,
+    "timed_out": false,
+    "reaped": true
+  },
+  "fixed_sign_scope": "one homogeneous-integer numerator; all six constructor serialized fractions compared after independent derivation",
+  "author_or_old_program_execution": false,
+  "mathematical_scan_history_cap_matrix_enumeration_CAS_or_source_download": false,
+  "new_cap_gap_peer_files_or_findings_read": false,
+  "root_constructor_excluded_from_independent_count": true,
+  "reviewer_old_roles_disclosed_no_new_construction_contribution": true,
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independently_verified_effective_settings": null
+}

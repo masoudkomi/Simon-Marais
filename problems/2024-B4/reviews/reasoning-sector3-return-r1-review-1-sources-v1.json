@@ -1,0 +1,224 @@
+{
+  "recorded_at_utc": "2026-10-17T19:36:59.452051+00:00",
+  "reviewer": "/root/review_2022_complexity_r2",
+  "fresh_initially_blind_NONCONSTRUCTOR_WHOLE": true,
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independently_verified_effective_settings": null,
+  "source_records": [
+    {
+      "id": "S01",
+      "title": "McGuire1995 original-author thesis",
+      "url": "https://thesis.caltech.edu/4053/01/McGuire_gm_1995.pdf",
+      "doi": "10.7907/1CZ2-6S05",
+      "existing_cache": {
+        "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995.pdf",
+        "bytes": 2610589,
+        "sha256": "d8e8e62d873c5ec69e2fd40473a9aee257bb8d4994cb5ffc1a42cb70f8bcbd24"
+      },
+      "pdf_pages_total": 97,
+      "complete_visual_pages_read": [
+        7,
+        11,
+        12,
+        13,
+        14,
+        15,
+        18,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "printed_pages_read": "2,6--10,13,15--20",
+      "existing_read_only_images": [
+        {
+          "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-07.png",
+          "bytes": 86381,
+          "sha256": "a3ea7a6e5574f48e89e91b37da500c50a6bd4ff2dc7140036927a645e69ef038"
+        },
+        {
+          "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-11.png",
+          "bytes": 64507,
+          "sha256": "5c0db1a7ae162691512e8f363a1da82a617302cdae8d5a3b5de8dc738addcd16"
+        },
+        {
+          "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-12.png",
+          "bytes": 109588,
+          "sha256": "49d5128a97dc3ec1f30493938708cbc62e39d71522d2b66757bdc89c1f68909d"
+        },
+        {
+          "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-13.png",
+          "bytes": 104720,
+          "sha256": "78088c33575fd89fb0fe54aff4c0e7c575652babb0c75c9ceee93b691703f8a7"
+        },
+        {
+          "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-14.png",
+          "bytes": 97174,
+          "sha256": "e0fcbc6bf13f0c262b511f46fde088cea64f8c2a42aca41a27973294d6b1df8f"
+        },
+        {
+          "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-15.png",
+          "bytes": 121397,
+          "sha256": "1fd54570b0475f15334b3c43bd4193a1c9feb2209a7e2644eb2fae67049bba06"
+        },
+        {
+          "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-18.png",
+          "bytes": 122573,
+          "sha256": "629fba731a8a43732df2b4e36cbf71b9a9757a8d239e5787ebeae6b679ac2016"
+        },
+        {
+          "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-20.png",
+          "bytes": 113286,
+          "sha256": "b33260e32ae214f4f4d26e4e7f79f956f3615297b253c627aeac7e8f4f750475"
+        },
+        {
+          "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-21.png",
+          "bytes": 98268,
+          "sha256": "6b12ece130a5a99f281ce989a77b5c01d53a9035f5666b2f48942e15d5316bbd"
+        },
+        {
+          "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-22.png",
+          "bytes": 103970,
+          "sha256": "1d7b62828564b5dbb08efb6861903e3338d1fdfede491bf13f89d53067bf021f"
+        },
+        {
+          "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-23.png",
+          "bytes": 97033,
+          "sha256": "4fb9388c5944705e712fdf11b6f7c4e07bd55efb954d43dfcea12d8b7a5e2ded"
+        },
+        {
+          "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-24.png",
+          "bytes": 95716,
+          "sha256": "d07f0c310f51372423297698546aaae6aa410336c687cb29a572ea7900210ef3"
+        },
+        {
+          "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-25.png",
+          "bytes": 92905,
+          "sha256": "e568d042b5400a53bd865f4987124e19c17b3ab605480c562ec46a6f1634aa18"
+        }
+      ],
+      "complete_operative_Theorem2_1prime_statement_and_proof_read": true,
+      "complete_PropositionA_and_proof_read": true,
+      "exact_ambient_field_multiplicity_Bezout_definitions_read": true,
+      "journal_attribution_page7_read": true,
+      "journal_PDF_or_successful_publisher_abstract_read_this_audit": false,
+      "new_download_or_render": false,
+      "web_open_limit": "Normal PDF opening inaccessible; existing original-author scan read without alteration"
+    },
+    {
+      "id": "S02",
+      "title": "Hernando--McGuire0903.2016v4",
+      "url": "https://arxiv.org/pdf/0903.2016v4",
+      "read_scope": "matching definitions; component/whole distinction; i1 attribution; exact Theorem15/16 statements and nearby proof context; section6 reported counterexample; references",
+      "role": "scope context only, not imported general whole theorem",
+      "complete_global_proof_newly_audited_or_reported_factorization_rerun": false,
+      "new_local_pdf_bytes_or_hash": null
+    },
+    {
+      "id": "S03",
+      "title": "Delgado--Janwa1207.5528v1",
+      "url": "https://arxiv.org/pdf/1207.5528v1",
+      "read_scope": "matching definitions; full Lemma1 statement/proof passage PDF4--5; diagonal discussion PDF9--10",
+      "role": "selected-family context only; no arbitrary-target inference imported",
+      "whole_paper_newly_audited": false,
+      "new_local_pdf_bytes_or_hash": null
+    },
+    {
+      "id": "S04",
+      "title": "JMW1995 journal article",
+      "doi": "10.1006/jabr.1995.1372",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0021869385713725",
+      "bibliography": "J.Algebra178(2)(1995)665--676",
+      "publisher_open_success_this_audit": false,
+      "journal_full_proof_read": false,
+      "operative_proof_source": "Original coauthor thesis S01, not publisher abstract",
+      "Janwa_Wilson1993_original_proof_imported": false
+    },
+    {
+      "id": "S05",
+      "title": "Official2024 PaperB B4(b)",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc2024_paper_b.pdf",
+      "existing_cache": {
+        "path": ".cache/official/2024-paper_b.pdf",
+        "bytes": 151590,
+        "sha256": "1401f21218ad4c387c4d537ed8fd7de119b376cba52957ef788c772dc5ab4ddc"
+      },
+      "fresh_scope": "PDFpage2 B4(b), odd positive domain and coefficientwise/nonconstant definitions",
+      "preliminary_part_a_proof_investigated_or_reproduced": false,
+      "new_download": false
+    }
+  ],
+  "old_accepted_scope_authorities": [
+    {
+      "path": "problems/2024-B4/reviews/structural-acceptance.md",
+      "bytes": 2693,
+      "sha256": "d37792e94efa0618b80e752037e81cbc1a825c17311ce74e53934d01d3bf3906"
+    },
+    {
+      "path": "problems/2024-B4/reviews/structural-acceptance.json",
+      "bytes": 2580,
+      "sha256": "53fb1b2e3383397b1218f2020a9c1b60625497faaab9d686e7ef179cb2acb8d4"
+    },
+    {
+      "path": "problems/2024-B4/reviews/structural-acceptance-integrity.json",
+      "bytes": 8851,
+      "sha256": "83dd8eea8abf88d55814c0784a6d32d7856b0b08701ae5f21bf147cf24a3cc89"
+    },
+    {
+      "path": "problems/2024-B4/reviews/divisor-acceptance.md",
+      "bytes": 1658,
+      "sha256": "dfacb49c076183986d02ee04e022a3b8de760c287a3da5428e00eda1f1edd521"
+    },
+    {
+      "path": "problems/2024-B4/reviews/divisor-acceptance.json",
+      "bytes": 2767,
+      "sha256": "1d9cc87c94486538087eeaa895ff3dabd76c918424fdcfead620c3b12693eeb9"
+    },
+    {
+      "path": "problems/2024-B4/reviews/divisor-acceptance-integrity.json",
+      "bytes": 24656,
+      "sha256": "35d0f376bee54190da50fc5a6e7e3e8d1218aead9bd86cdc799f3104f3dc23c1"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-components-r1-acceptance.md",
+      "bytes": 2971,
+      "sha256": "b7d2179085efd49affe6f6c6769afff8d6ad201e6e3319bfc55a8e523bec95a6"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-components-r1-acceptance.json",
+      "bytes": 3747,
+      "sha256": "58053138aaac34aaf01cdbcb9e703f6b53afff113c05d176c538919f19ba924c"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-components-r1-acceptance-integrity.json",
+      "bytes": 3043,
+      "sha256": "0631a1af3994447bd1c2f4b0ffedef7f9b244af4a8279759825cfe1edb6aacd3"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-component-saturation-r1-acceptance.md",
+      "bytes": 2465,
+      "sha256": "262feb6b1d350a4ebd438896753d787107c59f8c4889ad8865217f6149b47dc2"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-component-saturation-r1-acceptance.json",
+      "bytes": 2765,
+      "sha256": "20d72768410c8934ef70d947b105599f6414d0012faa6eae353a3ae6c7b9b34b"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-component-saturation-r1-acceptance-integrity.json",
+      "bytes": 2289,
+      "sha256": "2d3cfd6dbafe783304c2f5b9e46f237cb60cc8d03e37a17527160a6e018a3d65"
+    }
+  ],
+  "old_accepted_body_read_limits_are_in_full_source_checks": true,
+  "new_sector3_peer_findings_or_files_read": false,
+  "PDF_skill_applied_read_only": true,
+  "mathematical_program_CAS_scan_author_script_or_old_certificate_run": false,
+  "cache_shared_old_Git_edit_spawn_contact_charge_or_bypass": false
+}

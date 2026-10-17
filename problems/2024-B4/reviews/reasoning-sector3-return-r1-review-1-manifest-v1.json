@@ -1,0 +1,108 @@
+{
+  "frozen_at_utc": "2026-10-17T19:36:59.452051+00:00",
+  "status": "COMPLETE initially blind NONCONSTRUCTOR WHOLE R1 initial; no promotion",
+  "reviewer": "/root/review_2022_complexity_r2",
+  "constructor_and_root_contributors_excluded_from_independent_count": true,
+  "new_candidate_constructed_or_contributed_by_this_reviewer": false,
+  "older_review_context_roles_disclosed_not_fresh_self_recertification": true,
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independently_verified_effective_settings": null,
+  "exact_constructor_main": {
+    "path": "problems/2024-B4/notes/reasoning-sector3-return-r1-candidate-v1.md",
+    "bytes": 17157,
+    "sha256": "e8ca03cd139df7dcbe7508ad4c701e66d220a177c58ea01f8fac23a1788edd6a"
+  },
+  "exact_constructor_freeze": {
+    "path": "problems/2024-B4/notes/reasoning-sector3-return-r1-freeze-v1.json",
+    "bytes": 3893,
+    "sha256": "2a3cf9ce9d04b92f42a03e0847a478c6b3402e4eadf7067cb2addf4f97055be2"
+  },
+  "whole_claims": [
+    "S3A",
+    "S3B",
+    "S3C",
+    "S3D"
+  ],
+  "all36_author_obligations_reconstructed": true,
+  "substantive_issues_remaining": 0,
+  "required_mathematical_repair": false,
+  "entire_initial_before_peer_comparison": true,
+  "new_sector3_peer_files_or_findings_read": false,
+  "operative_thesis_Theorem2_1prime_PropositionA_proofs_and_projective_setup_read": true,
+  "journal_PDF_read": false,
+  "no_complete_annual_classification_new_qualifying_family_or_novelty_claim": true,
+  "compact_own_parent_manifest": {
+    "path": "problems/2025-B4/notes/reasoning-return-r8-freeze-v1.json",
+    "bytes": 4298,
+    "sha256": "a68ae37d1d5b9f0b209629e6d2027da1ad0fe8d8e6d889b6e261bc0f5a8cff04"
+  },
+  "compact_own_parent_validation": {
+    "path": "problems/2025-B4/notes/reasoning-return-r8-input-validation-v1.json",
+    "bytes": 12568,
+    "sha256": "6bc2147006802021de1d8d5321d515745be45f71fbb6bbe2e19c16e167d3e7ed"
+  },
+  "older_own_paths_bound_transitively": 376,
+  "historical_inventory_not_copied_or_claimed_freshly_reread": true,
+  "constructor_47_fingerprint_records_reverified": true,
+  "current_fingerprint_occurrences_reverified": 151,
+  "current_verified_unique_paths": 109,
+  "no_math_code_scan_CAS_author_rerun_cache_old_shared_Git_edit_spawn_contact_charge_or_bypass": true,
+  "direct_weekly_telemetry": {
+    "at_utc": "2026-10-17 19:35:33 UTC",
+    "total_used_percent": 59,
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "ordinary_usage_allowed": true,
+    "spend_control_reached": false,
+    "rate_limit_reached_type": null,
+    "total_ceiling_percent": 90,
+    "review_integration_reserve": true
+  },
+  "command": "python3 problems/2024-B4/reviews/reasoning-sector3-return-r1-review-1-freeze-v1.py",
+  "artifacts": [
+    {
+      "path": "problems/2024-B4/reviews/reasoning-sector3-return-r1-review-1-initial-v1.md",
+      "bytes": 17284,
+      "sha256": "58a9f819fcfc10ac77ac25654d66dbf413fba6ca4917f64c51522d7fcc3fe362"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-sector3-return-r1-review-1-issues-v1.md",
+      "bytes": 9674,
+      "sha256": "5afcdafc1f03f4093ddd483604f1a2a3e0e9114e175d933fb90587bf496c42a9"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-sector3-return-r1-review-1-source-checks-v1.md",
+      "bytes": 9476,
+      "sha256": "17fa7e229589e8b09428671e4d80710caaf843bed3ef0aa22d0661e9c098f4a4"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-sector3-return-r1-review-1-baseline-v1.json",
+      "bytes": 6602,
+      "sha256": "1146ff0f7421921db81b7b31e1955f7166fe7658d9b44f2ce0af915ff1c28988"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-sector3-return-r1-review-1-freeze-v1.py",
+      "bytes": 16553,
+      "sha256": "7e34ca62e270025aa1e3655d16c6abb6aa4ed873b6cf1d992c7b86f0c9d74eb5"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-sector3-return-r1-review-1-sources-v1.json",
+      "bytes": 9184,
+      "sha256": "c14e6d1ba7de81630b9e579c6131ab33a05c92a505b7d1bd7c7056cbeed042f0"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-sector3-return-r1-review-1-input-validation-v1.json",
+      "bytes": 9919,
+      "sha256": "6cbd84270ed33d95d61006ec51317c3e5c982fb6fc2b091bf5791260031cbe43"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-sector3-return-r1-review-1-freeze-output-v1.json",
+      "bytes": 1022,
+      "sha256": "3d292d79441c8c4afd71ed2fd22588ad73ed69dc5af03c4f4fa104e275784881"
+    }
+  ]
+}

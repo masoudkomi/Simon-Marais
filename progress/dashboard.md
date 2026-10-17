@@ -6,12 +6,12 @@ Initial scope: nine official B4 open portions, 2017-2025. **2026 deferred by the
 |---|---|
 |2017|Scalar limit exists, value unknown, reviewed upper<0.649514. NEW EC1--EC4 accepted after two complete WHOLE64-obligation audits: actual finite-M GE recovery and increasing certified LOWER approximations. UpperR, two-sided rate and numerical value remain open.|
 |2018|COMPLETE general enumeration formula, independently reviewed and attributed to Hering--Howard/Ottaviani. This is a published-result reproduction.|
-|2019|NEW reviewed1.765224<lambda<1.834856083. SS1--SS3 give exact minimum witness width, first canonical cap discrepancy2D+O(1), actual disjoint-tail union and one fixed sign certificate. Exact value/renewal regime remain open.|
+|2019|NEW accepted1.765224<lambda<1.834847. CG1--CG4 give exact asymmetric minimum widths, actual omitted rigid-tail series and strict quantitative cap-gap floors after BOTH OTHER WHOLE24-obligation audits. Exact value/renewal regime remain open.|
 |2020|NEW R7 accepted after both WHOLE56-obligation audits: complete integral Fourier lift, prime-modulus norm iff and exact ideal/composite-gluing obstructions. Actual classification and solving the norm/integrality conditions remain open.|
 |2021|New R9 accepted after both complete initially blind whole audits: real witness-run/gcd-support restrictions and exact cubic collision depths in a restricted actual-double degree20 branch. Essential, weighted and cubic alternatives survive; degree20/general classification remain open.|
-|2022|R7 accepted: exact phased converse, conditional scaled ten/nine fibers and predecessor restriction. NEW R8 canonical-merger/phase-alignment checkpoint frozen UNVERIFIED; both OTHER whole audits required. No ordinary infinite survivor or termination theorem.|
+|2022|R8 accepted after both WHOLE audits: exact canonical prefix mergers, actual q2 predecessor counterexample, and separate binary-past/A-B phase obstructions. Literal scaling claim only for positive multipliers. No ordinary q10 infinite survivor or termination theorem.|
 |2023|COMPLETE internally reviewed classification for fixed positive nonsquare N: all(k,k),k>0, and(k,2k),(2k,k) for positive odd k. Priority remains unestablished.|
-|2024|NEW CS1--CS2 accepted after both OTHER WHOLE30-obligation audits: any common absolute base-Kasami component forces WHOLE division for everyk; exact KC occurrence test, properq16 blocks excluded. Non-base/general reducibility remains open.|
+|2024|NEW accepted S3A--D: attributed WHOLE absolute irreducibility for everym>3,3mod4, plus exact all-index isolation/gcd and graded-sum consequences after BOTH OTHER WHOLE audits. Earlier Kasami occurrence/saturation remains. The residual1mod4 ordinary reducibility classification remains open.|
 |2025|NEW R7A--E accepted after both WHOLE56-obligation audits: actual phase lattice/divided moments, exact pure-signature boundary, conditional original-weight bound and high-weight rank-collapse. No new Diophantine exclusion; full equation open.|
 
 ## Coordination
@@ -168,3 +168,7 @@ Latest current report: [all nine, new candidates and usage at 18:38 UTC](status-
 ## Checkpoint 2026-10-17 19:07 UTC
 
 Five new exact partial packets accepted after both complete blind WHOLE audits and root full reconciliation:2017EC,2019SS,2020R7,2024CS,2025R7. No additional complete annual solution.2022R8 frozen UNVERIFIED; actual research continues2021R10/2024source-sector/2025R8. Weekly57%TOTAL; latest raw1,263,065,711 including1,195,540,992cached input;uncached+output67,524,719;reasoning4,168,812. See [status-2026-10-17-1907.md](status-2026-10-17-1907.md).
+
+## Checkpoint2026-10-17 19:54UTC
+
+[All-nine status and token update](status-2026-10-17-1954.md). Newly accepted2019CG,2022R8,2024sector3 after BOTH OTHER complete blind WHOLE audits and root reconciliation. Two annual answers unchanged.2017R5,2021R10,2025R8 remainUNVERIFIED; each rootwholeR1frozen/OTHERwholeR2active.61%TOTALweekly;raw1,343,156,767incl1,271,814,400cached;uncached+output71,342,367;reasoning4,404,073 is an output subset. Ownedawake lastverified19:44:08UTC,next20:44:08UTC. Researchcontinues.

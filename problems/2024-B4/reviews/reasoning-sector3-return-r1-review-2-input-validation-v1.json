@@ -1,0 +1,187 @@
+{
+  "checked_at_utc": "2026-10-17T19:49:32.568583+00:00",
+  "administrative_only_not_mathematical_evidence": true,
+  "constructor_packet": {
+    "metadata": {
+      "path": "problems/2024-B4/notes/reasoning-sector3-return-r1-freeze-v1.json",
+      "bytes": 3893,
+      "sha256": "2a3cf9ce9d04b92f42a03e0847a478c6b3402e4eadf7067cb2addf4f97055be2"
+    },
+    "direct_payload_records_verified": 9,
+    "historical_inventory_bound_not_recopied": true
+  },
+  "constructor_baseline_metadata": {
+    "path": "problems/2024-B4/notes/reasoning-sector3-return-r1-baseline-v1.json",
+    "bytes": 9488,
+    "sha256": "1f33d04c6652c1a4aa5d48be76aca92625f3c02f22098395434aefadba54765f"
+  },
+  "constructor_input_validation_metadata": {
+    "path": "problems/2024-B4/notes/reasoning-sector3-return-r1-input-validation-v1.json",
+    "bytes": 3020,
+    "sha256": "0bfd8097ef6a16bf85d61cc3e46be86a6f8117677e37aaaa422437db5aa4d1b4"
+  },
+  "constructor_declared_current_record_occurrences": 47,
+  "constructor_declared_current_unique_paths": 47,
+  "constructor_current_canonical_sha256": "2d546203e6c4166d48f7e7125b4441078cd84318e1c9374ddd360f9b2d117599",
+  "constructor_immutable_parent": {
+    "metadata": {
+      "path": "problems/2022-B4/notes/reasoning-return-r8-freeze-v1.json",
+      "bytes": 3609,
+      "sha256": "d0c587428aa42027a22e2ea954f79a4c51596883658d0917038fafdd08152242"
+    },
+    "direct_payload_records_verified": 8,
+    "historical_inventory_bound_not_recopied": true
+  },
+  "constructor_earlier_own_paths_bound_transitively": 415,
+  "own_previous_review": {
+    "metadata": {
+      "path": "problems/2022-B4/reviews/reasoning-return-r8-review-2-manifest-v1.json",
+      "bytes": 3548,
+      "sha256": "5f5a596e0f4d6a1d637fb91aafb4bb0ac46cba56dacc4b9a8b1f60bb2142a40e"
+    },
+    "direct_payload_records_verified": 8,
+    "historical_inventory_bound_not_recopied": true
+  },
+  "own_previous_review_old_summary": {
+    "declared_fingerprint_occurrences_verified": 169,
+    "unique_paths_fingerprinted": 108,
+    "canonical_deduplicated_summary_sha256": "ce4adf25edeb6d6d15ac0d0f573df924f2b4a9f54d41d413fd29a2dde76fd28a",
+    "historical_inventories_bound_not_duplicated": true
+  },
+  "own_previous_construction": {
+    "metadata": {
+      "path": "problems/2021-B4/notes/reasoning-return-r10-freeze-v1.json",
+      "bytes": 3884,
+      "sha256": "ff20fd17e080ce3fb5d3c0f4f3f7c1f58624741b0fadc1be4a0fee26fc73f2bd"
+    },
+    "direct_payload_records_verified": 10,
+    "historical_inventory_bound_not_recopied": true
+  },
+  "own_previous_construction_old_summary": {
+    "declared_fingerprint_occurrences_verified": 3367,
+    "unique_paths_fingerprinted": 1085,
+    "canonical_deduplicated_summary_sha256": "eacb15b46531bf0540436f27a0f39f15f1e7577d12535b081c9e9c5b35589f3b",
+    "immutable_parent_metadata_not_expanded_in_new_inventory": true
+  },
+  "old_own_CP_role_metadata": {
+    "metadata": {
+      "path": "problems/2024-B4/reviews/reasoning-return-r3-review-2-manifest-v1.json",
+      "bytes": 2862,
+      "sha256": "3c6339e2715e1a6c5fa53f314ab280c6406177858e09864e10869b8262b6a6e4"
+    },
+    "direct_payload_records_verified": 6,
+    "historical_inventory_bound_not_recopied": true,
+    "current_read_role_only_not_new_math_recertification": true
+  },
+  "all_44_ledger_checks": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07",
+    "08",
+    "09",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44"
+  ],
+  "all_36_author_obligations": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07",
+    "08",
+    "09",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36"
+  ],
+  "compact_input_summary": {
+    "declared_fingerprint_occurrences_verified": 107,
+    "unique_paths_fingerprinted": 84,
+    "canonical_deduplicated_summary_sha256": "dbf3d5020f7cfbba5e9e6473d321ab68b3a863378c8d14949cdfa283d78d46f9",
+    "historical_inventories_bound_not_duplicated": true,
+    "constructor_47_current_records_verified": true
+  },
+  "new_peer_sector3_paths_read_even_for_metadata": false,
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "independently_verified_effective_settings": null,
+  "authoritative_account_weekly": {
+    "at_utc": "2026-10-17 19:49:12 UTC",
+    "total_used_percent": 61,
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "ordinary_usage_allowed": true,
+    "total_ceiling_percent": 90,
+    "integration_reserve": true
+  },
+  "source_metadata": {
+    "path": "problems/2024-B4/reviews/reasoning-sector3-return-r1-review-2-sources-v1.json",
+    "bytes": 5585,
+    "sha256": "aa9ffe5e2e24d86281c593fd48493ac29a739e7dfd87e221c10489ae8cbff14d"
+  }
+}

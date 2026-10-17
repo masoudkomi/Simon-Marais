@@ -1,0 +1,76 @@
+{
+  "frozen_at_utc": "2026-10-17T19:53:37.318035+00:00",
+  "status": "COMPLETE initially blind WHOLE R1 audit",
+  "reviewer": "/root/review_2017_coarsening_r1",
+  "target": {
+    "path": "problems/2019-B4/notes/coordinator-cap-gap-r1-freeze-v1.json",
+    "bytes": 3669,
+    "sha256": "9b3751764cb2ba0177f3b8ff9e5f90721acf134f3e92c42cf4be67e5179d3d49"
+  },
+  "target_main": {
+    "path": "problems/2019-B4/notes/coordinator-cap-gap-r1-candidate-v1.md",
+    "bytes": 11796,
+    "sha256": "0e8afb24ec9e58004ee9464de327b309d834058b277eae4a2608d0d7afde5f33"
+  },
+  "whole_obligations": 24,
+  "initial_blind_until_entire_packet_frozen": true,
+  "all_constructor_artifacts_and_accepted_input_scopes_covered": true,
+  "record_occurrences_verified": 54,
+  "deduplicated_paths_verified": 46,
+  "compact_immutable_parent": {
+    "path": "problems/2017-B4/notes/reasoning-value-return-r5-freeze-v1.json",
+    "bytes": 3146,
+    "sha256": "31b1789d41b1d492ef9f0d2235050025bb341ca70c8eb8d0c66765e63e43fed1"
+  },
+  "earlier_own_paths_preserved": 435,
+  "mathematical_code_CAS_scan_or_author_certificate_replay": false,
+  "verdict": "no substantive defect in exact CG1-CG4 scope relative to accepted inputs",
+  "coordinator_promotion_or_second_review": false,
+  "artifacts": [
+    {
+      "path": "problems/2019-B4/reviews/coordinator-cap-gap-r1-review-1-initial-v1.md",
+      "bytes": 11936,
+      "sha256": "eea936efda43e03f67f0980d75c8b182712c5e91a9b95637979223ed8d4d9d2f"
+    },
+    {
+      "path": "problems/2019-B4/reviews/coordinator-cap-gap-r1-review-1-issues-v1.md",
+      "bytes": 1330,
+      "sha256": "92d6405c127bf5573b4a5a085049d5975561cd803f26b6e835f1338d406895c5"
+    },
+    {
+      "path": "problems/2019-B4/reviews/coordinator-cap-gap-r1-review-1-ledger-v1.md",
+      "bytes": 4000,
+      "sha256": "63c3268ffd619fc7a047f3cb1b9b0920a8f6da3fc7311b5c4c6ff353fe308a75"
+    },
+    {
+      "path": "problems/2019-B4/reviews/coordinator-cap-gap-r1-review-1-sources-v1.md",
+      "bytes": 5067,
+      "sha256": "0d7b660cbfd6809c295028f036cddcfa3f0d12282d6678f86c8190aa5b81db9a"
+    },
+    {
+      "path": "problems/2019-B4/reviews/coordinator-cap-gap-r1-review-1-worklog-v1.md",
+      "bytes": 3316,
+      "sha256": "01e97e13cfc75e39af935b75db8eba992b023d465b5d1e75b0086b0a048446db"
+    },
+    {
+      "path": "problems/2019-B4/reviews/coordinator-cap-gap-r1-review-1-baseline-v1.json",
+      "bytes": 14154,
+      "sha256": "39f13443796fd5bed1e4861f1251f9c12a69275c1bc29ecf45b0418eb3c9583a"
+    },
+    {
+      "path": "problems/2019-B4/reviews/coordinator-cap-gap-r1-review-1-metadata-v1.json",
+      "bytes": 1468,
+      "sha256": "9dab1682659aa8ecde81cc8f4b569291ed4a7d6bf9ead84b11890c83a15c46c6"
+    },
+    {
+      "path": "problems/2019-B4/reviews/coordinator-cap-gap-r1-review-1-input-validation-v1.json",
+      "bytes": 682,
+      "sha256": "89d77f5fe0bd9e918e18c8d6c53909f392400bbab57fdff0250cca8726ed6e8d"
+    },
+    {
+      "path": "problems/2019-B4/reviews/coordinator-cap-gap-r1-review-1-freeze-v1.py",
+      "bytes": 6828,
+      "sha256": "e6cc7e56998635859ee5f2f09e2092f7cb525e141f6223996f0ccf6f61ddd9ac"
+    }
+  ]
+}
