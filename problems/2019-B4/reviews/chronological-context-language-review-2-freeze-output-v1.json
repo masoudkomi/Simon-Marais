@@ -1,0 +1,24 @@
+{
+  "frozen_at_utc": "2026-10-17T11:58:48.365005+00:00",
+  "metadata_only": true,
+  "whole_CCL_reconstructed": true,
+  "per_inference_ledger_rows": 27,
+  "constructor_obligations_covered": 15,
+  "constructor_submission_artifacts": 3,
+  "local_input_snapshots": 9,
+  "old_NR_accepted_exact_complete_raw_suffix_verified": true,
+  "older_own_packets_preserved": 39,
+  "separate_GK_telemetry_addendum_preserved": true,
+  "substantive_objections": [],
+  "required_author_repairs": [],
+  "whole_initial_blind_freeze": true,
+  "latest_authoritative_weekly_usage": {
+    "total_used_percent": 35,
+    "at_utc": "2026-10-17 11:56:48 UTC",
+    "source": "authoritative account-wide get_usage_limits tool",
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "total_ceiling_percent": 90,
+    "integration_reserve": true
+  }
+}

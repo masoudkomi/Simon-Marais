@@ -1,5 +1,7 @@
 # Independent review queue
 
+Current12:03UTC:2021R5A–E and2019CCL ACCEPTED after TWO complete blind WHOLE audits each/full root reconciliation.2024KCbothfreshwholeauditsactive;2019LO1–LO6twofreshwholeauditsqueued, both candidates unverified. New2020reasoningactive/2025reasoningqueued. Root2022carry/higher2024notesunverified.36%TOTALweekly/samereset90%ceiling. See status-2026-10-17-1203.md. Earlier dated entries historical.
+
 Current11:45UTC:2022R4/2024NV/2025MS scoped partials ACCEPTED after TWO full initially blind WHOLE audits each and complete root reconciliation.2021R5TWOauditsactive;2019CCLR1active/R2queued, candidate unverified. No new full annual answer or MS Diophantine exclusion.35%TOTALweekly/samereset/90%ceiling. See status-2026-10-17-1145.md. Earlier dated entries historical.
 
 Current approximately11:24UTC:2017all-DGLOBAL G1–G3 accepted after BOTH WHOLE blind audits and full root reconciliation; scalar existence/equality, no value.2019NR and2024GK accepted.2022R4twofreshWHOLEauditsactive;2021R5conceptualresearchactive. Root2024NV and2025momentcontinuations remainunverified.33%TOTALweekly, same reset/90%ceiling. See status-2026-10-17-1124.md. Earlier dated entries historical.

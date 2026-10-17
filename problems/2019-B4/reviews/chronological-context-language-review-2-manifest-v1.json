@@ -1,0 +1,75 @@
+{
+  "frozen_at_utc": "2026-10-17T11:58:48.365005+00:00",
+  "status": "fresh initially blind nonconstructor WHOLE CCL review R2; no substantive defect found in exact separator-serialization scope",
+  "reviewer": "review_2021_reasoning_j15_r2",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "candidate_sha256": "6d9446e4bb4fb81457eb8882b498c073353eaf93a546e8b56007a0adf0e613da",
+  "constructor_manifest_sha256": "38fb9ca9e5db47d97c18cbfc6fd5f52283b8896e0f8637dd802da4c532d56e8c",
+  "whole_claims": [
+    "all-finite alternating chronological pairs and physical reversal boundary",
+    "exact positive-even four-run regular slice with every final-pair branch",
+    "all-decomposition finite-word CFL pumping contradiction",
+    "regular-intersection closure and exact separator-serialization conclusion"
+  ],
+  "per_inference_ledger_rows": 27,
+  "constructor_obligations_covered": 15,
+  "substantive_objections": [],
+  "required_author_repairs": [],
+  "prior_NR_authorship_and_moment_review_role_disclosed": true,
+  "new_CCL_constructor_strategy_or_repair_contributor": false,
+  "peer_CCL_findings_read_before_freeze": false,
+  "later_root_CCL_inspection_read_before_freeze": false,
+  "findings_sent_before_complete_initial_freeze": false,
+  "canonical_histories_original_outputs_all_encodings_or_series_conclusion": false,
+  "exact_lambda_full_annual_or_novelty_claim": false,
+  "mathematical_code_CAS_scan_enumeration_author_rerun": false,
+  "candidate_shared_old_files_or_git_mutation": false,
+  "spawning_contact_charge_or_access_bypass": false,
+  "coordinator_promotion_performed": false,
+  "latest_authoritative_weekly_usage": {
+    "total_used_percent": 35,
+    "at_utc": "2026-10-17 11:56:48 UTC",
+    "source": "authoritative account-wide get_usage_limits tool",
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "total_ceiling_percent": 90,
+    "integration_reserve": true
+  },
+  "command": "python3 problems/2019-B4/reviews/chronological-context-language-review-2-freeze-v1.py",
+  "records": [
+    {
+      "path": "problems/2019-B4/reviews/chronological-context-language-review-2-initial-v1.md",
+      "bytes": 12829,
+      "sha256": "d02303e9cc0fdb84798bcbc02253bfca766d6777fb12873e8da98e64e9c3dc56"
+    },
+    {
+      "path": "problems/2019-B4/reviews/chronological-context-language-review-2-issues-v1.json",
+      "bytes": 12949,
+      "sha256": "1d0215d8695ab6c3f7d2b3effee93709b63fcec085d6ba1bd1b78f456f570d2b"
+    },
+    {
+      "path": "problems/2019-B4/reviews/chronological-context-language-review-2-source-checks-v1.md",
+      "bytes": 8018,
+      "sha256": "bf7600318c295b08985a168e7071e9efc56c4de76cba28ffc8e33a07f2a0c35b"
+    },
+    {
+      "path": "problems/2019-B4/reviews/chronological-context-language-review-2-freeze-v1.py",
+      "bytes": 8410,
+      "sha256": "1d2c966794968a779488ff74240db060a6376ea865ee4d90e7965782208db016"
+    },
+    {
+      "path": "problems/2019-B4/reviews/chronological-context-language-review-2-input-validation-v1.json",
+      "bytes": 77157,
+      "sha256": "39cccc6cdf70e2f0bd65cdcb56d7cac4efc0453af04b341eec103894c8217be1"
+    },
+    {
+      "path": "problems/2019-B4/reviews/chronological-context-language-review-2-freeze-output-v1.json",
+      "bytes": 826,
+      "sha256": "9ba231f2d3c54a814365ccdbb406a5d0c374ec03e1fab5fb7be4d3fd38fcad1e"
+    }
+  ]
+}

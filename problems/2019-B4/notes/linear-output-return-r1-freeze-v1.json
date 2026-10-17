@@ -1,0 +1,80 @@
+{
+  "frozen_at_utc": "2026-10-17T11:59:55.159377+00:00",
+  "status": "candidate proof - unverified; COMPLETE meaningful linear-output checkpoint requiring two other fresh initially blind whole audits",
+  "constructor": "/root/review_2017_coarsening_r1",
+  "coordinator_grammar_and_primary_literature_leads_acknowledged": true,
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "claims": [
+    "LO1 exact unmarked parity linear grammar",
+    "LO2 original-output nonregularity and sentential occurrence condition",
+    "LO3 exact derivation totals and exponential alternating-word ambiguity",
+    "LO4 exact distinct overlap recurrence includingJ0",
+    "LO5 recoverable overlap injections, same entropy and analytic normalization; failed Jclosure",
+    "LO6 explicit weighted factor-avoidance bound only",
+    "conditional finite proper unambiguous linear grammar gives rational word series"
+  ],
+  "whole_audit_obligations": 28,
+  "exact_lambda_full_annual_inherent_ambiguity_or_novelty_claim": false,
+  "ordinary_growth_sensitivity_or_new_numerical_enclosure": false,
+  "weighted_to_unweighted_entropy_transfer": false,
+  "full_2005_source_import": false,
+  "constructor_self_check_counted_as_other_independent_review": false,
+  "earlier_unique_own_paths_verified_unchanged": 229,
+  "mathematical_program_CAS_scan_or_certificate_rerun": false,
+  "old_frozen_texts_or_scopes_overwritten": false,
+  "last_direct_weekly_telemetry": {
+    "at_utc": "2026-10-17 11:59:03 UTC",
+    "total_used_percent": 36,
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "total_ceiling_percent": 90,
+    "integration_reserve": true
+  },
+  "administrative_command": "/Users/uqmkamga/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 problems/2019-B4/notes/linear-output-return-r1-freeze-v1.py",
+  "artifacts": [
+    {
+      "path": "problems/2019-B4/notes/linear-output-return-r1-candidate-v1.md",
+      "bytes": 17270,
+      "sha256": "b1bec632971326a661a4188135ce23d40f0fdcc6a121197aefe10d2237f6e1fa"
+    },
+    {
+      "path": "problems/2019-B4/notes/linear-output-return-r1-obligations-v1.md",
+      "bytes": 5126,
+      "sha256": "d3e7e321b49066ef290008cba5b461d789666a2a1c8f39219db49285deba7a16"
+    },
+    {
+      "path": "problems/2019-B4/notes/linear-output-return-r1-source-audit-v1.md",
+      "bytes": 4546,
+      "sha256": "780071038c34404c9037faa68d6c8a0c781c1bf9af3abcc0597f0b07690992e1"
+    },
+    {
+      "path": "problems/2019-B4/notes/linear-output-return-r1-worklog-v1.md",
+      "bytes": 7095,
+      "sha256": "d9c80b2489130cbec2c8ed8df6e2b4ec63d5f92f67085c5886162085d722ca0b"
+    },
+    {
+      "path": "problems/2019-B4/notes/linear-output-return-r1-constructor-self-check-v1.md",
+      "bytes": 2933,
+      "sha256": "a8918864cabd0b6d234f660c19a24a28f56689c8aea3c0d1efe6e59a687ff1a7"
+    },
+    {
+      "path": "problems/2019-B4/notes/linear-output-return-r1-freeze-v1.py",
+      "bytes": 8546,
+      "sha256": "07e06dcec46f25551fbe7fb369c2956ad43eed0188853f4779159874bc6fee3d"
+    },
+    {
+      "path": "problems/2019-B4/notes/linear-output-return-r1-sources-v1.json",
+      "bytes": 4000,
+      "sha256": "d6a04e293de5ee18515e339437e3710bc6dc9a86053fab4130a7fa072258c36d"
+    },
+    {
+      "path": "problems/2019-B4/notes/linear-output-return-r1-input-validation-v1.json",
+      "bytes": 48298,
+      "sha256": "ab0852d3efd9ac5d032f1044f2357b5347759c08fcb2641338760517dc3c2129"
+    }
+  ]
+}

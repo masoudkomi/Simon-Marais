@@ -1,0 +1,32 @@
+{
+ "status":"unverified; two fresh whole audits required",
+ "claims":["KC exact iff for every fixed q=2^k,k>=2 and odd n>=3"],
+ "obligations":[
+  {"id":"KC01","check":"Official whole divisor over F2, odd n>=3,k>=2; not all factors/classification."},
+  {"id":"KC02","check":"Accepted CP1 actual F2 composition implication, retained multiplicities and exact domains."},
+  {"id":"KC03","check":"m=(q+1)n odd>1; definitions F,C,P_m and (q+1)d=q^3+1."},
+  {"id":"KC04","check":"For EVERY algebraic-closure point on F=1, substitution x=X^(q+1),x+1=Y^(q+1) gives P_m=H(C)."},
+  {"id":"KC05","check":"Pointwise F=1 identity never treated as homogeneous identity H(C) on the plane."},
+  {"id":"KC06","check":"t outside0,1 exists; chosen a,b nonzero roots lie in F_(q^2) by explicit exponent identity."},
+  {"id":"KC07","check":"Matrix M all four entries nonzero, determinant1; direct M^T M^[1]=I including both off diagonals."},
+  {"id":"KC08","check":"M^[3]=M^[1] only for CONSTANT entries, not arbitrary variables."},
+  {"id":"KC09","check":"Both homogeneous identities F(Mv)=F(v),C(Mv)=C(v) follow with the correct transpose and Frobenius indices."},
+  {"id":"KC10","check":"P_m invariant on F=1 via CP1 and both symmetry identities."},
+  {"id":"KC11","check":"D=P_m(Mv)+P_m(v) homogeneous of degree m; scalar normalization exists over infinite algebraic closure whenever F(v) nonzero."},
+  {"id":"KC12","check":"D(lambda v)=lambda^m D(v), so D vanishes off F=0; no illegal normalization at F=0."},
+  {"id":"KC13","check":"D(X,1) has infinitely many zeros after excluding finitely many roots of F(X,1); its vanishing forces homogeneous D=0."},
+  {"id":"KC14","check":"No curve irreducibility, finite-field functional identity or global monodromy assertion is required."},
+  {"id":"KC15","check":"Characteristic2 factorization of (1+Z)^m proves binomial parity via unique binary subset sums."},
+  {"id":"KC16","check":"At least three set bits and oddness give nonzero h with BOTH j=2^h and j+1 proper nonzero subset sums; strict j+1<m justified."},
+  {"id":"KC17","check":"Both mixed coefficients in binary power sum identity vanish, binomial factors exactly1."},
+  {"id":"KC18","check":"Divide coefficient equalities only by nonzero factors; obtain b/a=a^q/b^q and contradictory equal norms."},
+  {"id":"KC19","check":"Odd m>1 excludes binary weight1; conclude m=2^s+1,s>=1, without an external automorphism classification."},
+  {"id":"KC20","check":"Integer divisibility 2^k+1|2^s+1 analyzed by s=Ak+B; even A impossible, odd A forces B=0."},
+  {"id":"KC21","check":"s=k(2r+1),r>=0; n>=3 removes r=0 and yields exact necessary progression."},
+  {"id":"KC22","check":"Accepted GK supplies ALL indices r>=1 for sufficiency, no extrapolation from r2."},
+  {"id":"KC23","check":"r1 equality/unit cofactor, r>=2 genuine factors, q4 compatibility, n<d exclusion."},
+  {"id":"KC24","check":"q2 extension false (unit phi3,n5); matrix all-entry condition and k>=2 restriction essential."},
+  {"id":"KC25","check":"NV implication consistent and subsumed, with no change to earlier frozen proof bytes; n1/n3 official boundaries retained."},
+  {"id":"KC26","check":"No arbitrary-component necessity, all reducibility, external group theorem, mathematical program or novelty imported/claimed."}
+ ]
+}

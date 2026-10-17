@@ -1,0 +1,29 @@
+{
+  "frozen_at_utc": "2026-10-17T11:51:37.130684+00:00",
+  "metadata_only": true,
+  "whole_R5A_R5E_reconstructed": true,
+  "per_inference_ledger_rows": 42,
+  "constructor_obligations_covered": 30,
+  "constructor_submission_artifacts": 8,
+  "constructor_input_fingerprint_occurrences": 252,
+  "constructor_source_fingerprint_occurrences": 50,
+  "constructor_input_and_source_unique_paths": 251,
+  "complete_accepted_registers_and_bodies_checked": 12,
+  "complete_old_return_mathematical_texts_checked": 7,
+  "complete_acceptance_scope_MDs_checked": 7,
+  "PN_accepted_exact_complete_raw_suffix_verified": true,
+  "older_own_packets_preserved": 38,
+  "separate_GK_telemetry_addendum_preserved": true,
+  "substantive_objections": [],
+  "required_author_repairs": [],
+  "whole_initial_blind_freeze": true,
+  "latest_authoritative_weekly_usage": {
+    "total_used_percent": 35,
+    "clock_read_at_current_stage_utc": "2026-10-17 11:49:53 UTC",
+    "source": "authoritative account-wide get_usage_limits tool",
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "total_ceiling_percent": 90,
+    "integration_reserve": true
+  }
+}

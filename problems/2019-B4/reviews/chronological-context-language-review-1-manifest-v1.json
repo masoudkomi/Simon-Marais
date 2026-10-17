@@ -1,0 +1,66 @@
+{
+  "frozen_at_utc": "2026-10-17T11:46:39.571463+00:00",
+  "status": "complete initially blind whole review1; no substantive objection found; coordinator reconciliation required",
+  "reviewer": "/root/review_2017_coarsening_r1",
+  "constructor_of_CCL": false,
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "target": {
+    "path": "problems/2019-B4/notes/coordinator-chronological-context-language-candidate-v1.md",
+    "bytes": 6235,
+    "sha256": "6d9446e4bb4fb81457eb8882b498c073353eaf93a546e8b56007a0adf0e613da"
+  },
+  "target_manifest": {
+    "path": "problems/2019-B4/notes/coordinator-chronological-context-language-manifest-v1.json",
+    "bytes": 962,
+    "sha256": "38fb9ca9e5db47d97c18cbfc6fd5f52283b8896e0f8637dd802da4c532d56e8c"
+  },
+  "whole_submitted_obligations_audited": 15,
+  "open_substantive_issues": 0,
+  "peer_findings_read_before_initial_freeze": false,
+  "candidate_scope": "The precise u#v serialization of finite chronological alternating-source routing pairs is not context-free",
+  "original_output_language_canonical_history_algebraicity_exact_growth_or_novelty_claim": false,
+  "fixed_two_tape_hardness_imported": false,
+  "separate_linear_output_construction_started_before_initial_freeze": false,
+  "mathematical_computation_or_CAS": false,
+  "earlier_unique_own_paths_verified_unchanged": 223,
+  "last_direct_weekly_telemetry": {
+    "at_utc": "2026-10-17 11:36:42 UTC",
+    "total_used_percent": 34,
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "total_ceiling_percent": 90,
+    "integration_reserve": true
+  },
+  "administrative_command": "/Users/uqmkamga/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 problems/2019-B4/reviews/chronological-context-language-review-1-freeze-v1.py",
+  "artifacts": [
+    {
+      "path": "problems/2019-B4/reviews/chronological-context-language-review-1-initial-v1.md",
+      "bytes": 9349,
+      "sha256": "4c5cccf438652e23a494519603913210e93ab0c1b61c149b664caceedb094fa2"
+    },
+    {
+      "path": "problems/2019-B4/reviews/chronological-context-language-review-1-issues-v1.md",
+      "bytes": 3958,
+      "sha256": "615ecb8116710dbb97960619d732a21672b2a191d78a480062434a95973e04a8"
+    },
+    {
+      "path": "problems/2019-B4/reviews/chronological-context-language-review-1-source-checks-v1.md",
+      "bytes": 5399,
+      "sha256": "7c4f420f7193e92b3d06d4c5e725a1a88800e79e486407d2ec166af3582f1856"
+    },
+    {
+      "path": "problems/2019-B4/reviews/chronological-context-language-review-1-freeze-v1.py",
+      "bytes": 5825,
+      "sha256": "71a798f1b49dfc9c1a18e16d8d8e686b680ecad4f23e3f24338f4ab2b043633d"
+    },
+    {
+      "path": "problems/2019-B4/reviews/chronological-context-language-review-1-input-validation-v1.json",
+      "bytes": 46525,
+      "sha256": "b801b02c648743009cf5d03704d2af19cb5c7f784ee2d511652bd05443bd0816"
+    }
+  ]
+}

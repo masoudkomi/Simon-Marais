@@ -1,0 +1,80 @@
+{
+  "accepted_at_utc": "2026-10-17T11:52:29.213545+00:00",
+  "status": "proved, independently reviewed scoped partial result",
+  "claims": [
+    "R5A every actual selected-center pattern has a nonzero signed descent count and p^(nu_w+1) divisibility",
+    "R5B disjoint-block bound; minimum selected rational noncenter witness valuation at most10 for degree20",
+    "R5C global irreducible long-cluster carrier coprime to every derivative for p+1,J>=d/2",
+    "R5D sole-H3 repeated-2R full five-equation ladder subfamily excluded",
+    "R5E five specified odd units force a higher even derivative with full monic gcd X-1 in the stated repeated-root branch"
+  ],
+  "constructor": "review_2017_coarsening_r1; coordinator clarified proposed triple-block count",
+  "reviewers": [
+    "review_2021_reasoning_j15_r2",
+    "review_2022_complexity_r2"
+  ],
+  "whole_initials_blind": true,
+  "root_read_full_candidate_reports_ledgers_sources": true,
+  "unresolved_substantive_issues": 0,
+  "repair_required": false,
+  "record_occurrences_verified": 1466,
+  "unique_paths_verified": 689,
+  "candidate": {
+    "path": "problems/2021-B4/notes/reasoning-return-r5-candidate-v1.md",
+    "bytes": 20083,
+    "sha256": "0d546265a3f9b1f83c05fce46e5a97acb6cad5d8841518d891ffed91717166f6"
+  },
+  "accepted_copy": {
+    "path": "problems/2021-B4/proofs/reviewed-reasoning-return-r5-v1.1.md",
+    "bytes": 23675,
+    "sha256": "f4f088adc133b0581520488cdbba30082c13b2402c96ae555142e5491ad4137d"
+  },
+  "verification_metadata": [
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r5-freeze-v1.json",
+      "bytes": 3592,
+      "sha256": "1626fa3981c78eb04f7fe41fc5a725b2500de0cf1647e7324941c6a5f3671533"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r5-input-validation-v1.json",
+      "bytes": 51435,
+      "sha256": "86515c62b5f5dbf2538486d13f604b14f2a566805f2db38165eb9c34db47a668"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r5-sources-v1.json",
+      "bytes": 14289,
+      "sha256": "e18b0f57478cdab3c6652f76f2903021958d0e14b227e5755f85bf64720c486a"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r5-review-1-manifest-v1.json",
+      "bytes": 3651,
+      "sha256": "86b14ce5a9a1a635c5275155885b60ba01bcc3348cd2adc7a3dc719f1e1536d3"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r5-review-1-input-validation-v1.json",
+      "bytes": 146688,
+      "sha256": "298212f4d4144961eabb608be97d2a2d9a19258a5a03176012f45c926e25987e"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r5-review-2-manifest-v1.json",
+      "bytes": 3070,
+      "sha256": "74c87c1766199f824719ac5b6b82c61a87feb9f6aeeb6ca6c41ea7c77adb284c"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r5-review-2-input-checks-v1.json",
+      "bytes": 106990,
+      "sha256": "df78de12a380f3a9e8888cc876ee60ef977e8014d1cf42465fe0f12325e57797"
+    }
+  ],
+  "whole_inference_checks": [
+    42,
+    54
+  ],
+  "all_author_obligations": 30,
+  "coordinator_clarification_contributor_not_independent_reviewer": true,
+  "reviewer1_old_seven_return_bodies_authorship_disclosed": true,
+  "minimum_selected_valuation_bound_only": 10,
+  "residual_factor_claimed_Casas_Alvero": false,
+  "full_J15_degree20_all_masks_annual_solution_or_novelty": false,
+  "no_new_mathematical_program_CAS_or_scan": true
+}

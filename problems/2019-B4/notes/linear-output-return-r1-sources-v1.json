@@ -1,0 +1,106 @@
+{
+  "recorded_at_utc": "2026-10-17T11:59:55.159377+00:00",
+  "candidate_status": "candidate proof - unverified",
+  "new_external_growth_theorem_is_proof_premise": false,
+  "coordinator_supplied_grammar_and_literature_leads": true,
+  "primary_sources": [
+    {
+      "title": "Official2019 Paper B, B4(b)",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2019-paper-b_1.pdf",
+      "read_scope": "Part(b) and exact insertion definition, page2; no preliminary proof",
+      "binary_sha256": null,
+      "viewer_hash_not_invented": true
+    },
+    {
+      "author": "Tullio Ceccherini-Silberstein, sole author",
+      "title": "Growth and ergodicity of context-free languages II: the linear case",
+      "publication": "Transactions AMS359(2)(2007),605-618; electronic2006",
+      "doi": "10.1090/S0002-9947-06-03958-4",
+      "official_url": "https://www.ams.org/journals/tran/2007-359-02/S0002-9947-06-03958-4/S0002-9947-06-03958-4.pdf",
+      "actual_full_published_text_viewed_at": "https://scispace.com/pdf/growth-and-ergodicity-of-context-free-languages-ii-the-4xfrjcv85s.pdf",
+      "read_scope": "Complete published text through bounded overlapping viewer ranges; exact unweighted unambiguity hypothesis and section5 derivation weighting checked",
+      "binary_sha256": null,
+      "binary_download_succeeded": false,
+      "external_full_theorem_imported_for_unmarked_word_counts": false
+    },
+    {
+      "author": "Tullio Ceccherini-Silberstein",
+      "title": "On the growth of linear languages",
+      "publication": "Advances in Applied Mathematics35(3)(2005),243-253",
+      "doi": "10.1016/j.aam.2005.01.002",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0196885805000321",
+      "read_scope": "Primary publisher-indexed abstract only; full text not obtained",
+      "unread_full_theorem_imported": false,
+      "binary_sha256": null
+    }
+  ],
+  "bounded_public_download_attempts": [
+    {
+      "source": "AMS publishedPDF",
+      "curl_exit": 56,
+      "http_status": 403,
+      "max_time_seconds": 30,
+      "bypass": false
+    },
+    {
+      "source": "Citeseer parent lead",
+      "curl_exit": 56,
+      "http_status": 404,
+      "max_time_seconds": 30,
+      "exec_session": 82838,
+      "completed_and_reaped": true,
+      "bypass": false
+    },
+    {
+      "source": "Public publishedPDF copy",
+      "curl_exit": 56,
+      "http_status": 403,
+      "max_time_seconds": 30,
+      "bypass": false
+    }
+  ],
+  "successful_new_binary_cache_records": [],
+  "input_fingerprints": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2019-B4/statement.md",
+      "bytes": 1252,
+      "sha256": "53d4201dca8bc4a77d995e3df14f95dd146e2df0c82d3b6447ad35a348e89de9"
+    },
+    {
+      "path": "problems/2019-B4/proof.md",
+      "bytes": 10500,
+      "sha256": "58f140f1fe9c64aa77d04a9c80a76f13411264d09d5f9e908f8e0997dc6985e2"
+    },
+    {
+      "path": "problems/2019-B4/proofs/reviewed-secondpass-v1.1.md",
+      "bytes": 2836,
+      "sha256": "5fbaa388fe2ff795034094823c088fa5402da60eb9eca83f78165df0c8ad2cd7"
+    },
+    {
+      "path": "problems/2019-B4/proofs/reviewed-thirdpass-v1.1.md",
+      "bytes": 16255,
+      "sha256": "58462ad7e44a7d3477d086a663cdb127128c5adcae65d6a904f1fdaa7e862cbf"
+    },
+    {
+      "path": "problems/2019-B4/proofs/reviewed-nonregularity-return-v1.1.md",
+      "bytes": 23886,
+      "sha256": "5c7146de95f7de7d77a5f52fb6e4c102d00460123fe05c1e048745e6e694b033"
+    },
+    {
+      "path": "problems/2019-B4/references.md",
+      "bytes": 3085,
+      "sha256": "9fe78752cc108ca1cb0e26b1dfd9bc87d06038d30cdf4d08fb6c15b317a92d1d"
+    },
+    {
+      "path": "problems/2019-B4/notes/thirdpass-literature.md",
+      "bytes": 14354,
+      "sha256": "90ed53bc773b79d2fc0790b5972757f73ca03026c3c42b7ecf733acd1a622b83"
+    }
+  ],
+  "mathematical_program_CAS_scan_or_certificate_rerun": false
+}
