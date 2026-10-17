@@ -1,0 +1,112 @@
+{
+  "frozen_at_utc": "2026-10-17T20:48:33.829678+00:00",
+  "status": "COMPLETE initially blind nonconstructor WHOLE R2 initial audit; coordinator reconciliation pending",
+  "reviewer": "/root/review_2021_reasoning_j15_r2",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independently_verified_effective_settings": null,
+  "target": {
+    "path": "problems/2020-B4/notes/reasoning-return-r8-candidate-v1.md",
+    "bytes": 25948,
+    "sha256": "2eb3bbc51c282619a4bf0bf2b34f083c9c65abd7b27822355cd4973f391637d8"
+  },
+  "constructor_freeze": {
+    "path": "problems/2020-B4/notes/reasoning-return-r8-freeze-v1.json",
+    "bytes": 5346,
+    "sha256": "6f7d5060bf093304ec26a0268a8098942bd8021e99e056b1970dec12813d102e"
+  },
+  "whole_claims": [
+    "R8A",
+    "R8B",
+    "R8C",
+    "R8D",
+    "R8E",
+    "R8F"
+  ],
+  "all_author_obligations": 54,
+  "individual_issue_dispositions": 54,
+  "whole_reconstruction_complete": true,
+  "substantive_defects_found": 0,
+  "required_repairs": 0,
+  "advisories_requiring_action": 0,
+  "recommendation": "Accept only precise scoped R8A--F after coordinator reconciliation of two OTHER whole audits; no annual or new-order claim",
+  "entire_initial_blind_to_all_NEW_peer_R8_reports_ledger_sources_metadata_and_findings": true,
+  "older_R3_and_R5_review_roles_disclosed_not_fresh_self_recertification": true,
+  "no_NEW_R8_construction_contribution": true,
+  "not_a_promotion": true,
+  "compact_current_input_validation_summary": {
+    "occurrences": 99,
+    "unique_paths": 65,
+    "canonical_deduplicated_summary_sha256": "644ea7b56d3b1489b9d5de02a69e113d1edfaa09e564a66ed9144e38d68b34f9",
+    "canonical_encoding": "UTF8 JSON sorted unique path/bytes/sha256, sorted keys, compact separators"
+  },
+  "immutable_own_prior_parent": {
+    "path": "problems/2021-B4/notes/reasoning-return-r11-freeze-v1.json",
+    "bytes": 3477,
+    "sha256": "c0b3a0650274e899fb97f84ec042e1edb9d5e6db0f603c7f22ee5bd691e12ca4"
+  },
+  "weekly_telemetry_conflict_and_stop": {
+    "method": "functions.exec -> tools.mcp__codex_app__get_usage_limits({}); tools.clock__curr_time({})",
+    "last_consistent_direct_snapshot": {
+      "at_utc": "2026-10-17 20:39:15 UTC",
+      "used_percent_total": 65,
+      "window_minutes": 10080,
+      "reset_unix": 1792745187,
+      "legacy_and_by_limit_agree": true
+    },
+    "conflicting_same_account_direct_snapshot": {
+      "at_utc": "2026-10-17 20:43:51 UTC",
+      "used_percent_total": 0,
+      "window_minutes": 10080,
+      "reset_unix": 1792874445,
+      "legacy_and_by_limit_agree": true
+    },
+    "account_suffix": "ac3a",
+    "weekly_total_ceiling_percent": 90,
+    "new_window_or_fresh_allowance_NOT_assumed": true,
+    "root_authorized_only_completion_of_already_underway_entire_audit_using_reserve": true,
+    "queued_2017_R6_unopened_and_not_started_until_budget_continuation_resolved": true
+  },
+  "administrative_command": "python3 problems/2020-B4/reviews/reasoning-return-r8-review-2-freeze-v1.py",
+  "no_mathcode_CAS_scan_author_rerun_shared_Git_cache_edit_spawn_contact_charge_or_bypass": true,
+  "artifacts": [
+    {
+      "path": "problems/2020-B4/reviews/reasoning-return-r8-review-2-initial-v1.md",
+      "bytes": 18297,
+      "sha256": "6a380c0800374a7ab5fbce0caf6d24d19060ad2f19db5786853d978aee6d90d9"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-return-r8-review-2-issues-v1.md",
+      "bytes": 12770,
+      "sha256": "c8175246b233dd503c9e5fd5ab9dda0ff6d0582705afa4ffb6a103e52ad055ce"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-return-r8-review-2-source-checks-v1.md",
+      "bytes": 9076,
+      "sha256": "d16b8b91db2e5a97f975f8a86117096fbd76ef451af144226f623a6dc56586e6"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-return-r8-review-2-worklog-v1.md",
+      "bytes": 5193,
+      "sha256": "78f497fb8b80dd37eda46080858de9136ab4759caa880a825a75d2d21a4f1815"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-return-r8-review-2-freeze-v1.py",
+      "bytes": 12778,
+      "sha256": "e0eb5ebdf67cc066bb2172e3869f2d3f190037e477926764ca9854ec65c5e00b"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-return-r8-review-2-input-validation-v1.json",
+      "bytes": 6946,
+      "sha256": "e755f861cf5e1c405020470cdbfb0f9f75c512dfc95fc0d0c49058e033529a94"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-return-r8-review-2-freeze-output-v1.json",
+      "bytes": 901,
+      "sha256": "cb614878c9186fee3b47621412e75412720243cb524d48ba54c063d3ba8b468b"
+    }
+  ]
+}

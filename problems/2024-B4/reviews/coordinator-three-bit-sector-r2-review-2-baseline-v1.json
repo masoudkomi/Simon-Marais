@@ -1,0 +1,53 @@
+{
+  "prepared_at_utc": "2026-10-17T20:43:58.621091+00:00",
+  "target_main": {
+    "path": "problems/2024-B4/notes/coordinator-three-bit-sector-r2-candidate-v1.md",
+    "bytes": 17804,
+    "sha256": "59a3ec87e15f9238c5735cf2eb6fe650535fd7ddaf0a73c3f540fa08bf785163"
+  },
+  "target_freeze": {
+    "path": "problems/2024-B4/notes/coordinator-three-bit-sector-r2-freeze-v1.json",
+    "bytes": 2773,
+    "sha256": "44882af00dd7165b42b9d619f326a06a90bf52febba8ca0379226c68bc4e243f"
+  },
+  "immutable_metadata": [
+    {
+      "path": "problems/2024-B4/notes/coordinator-three-bit-sector-r2-freeze-v1.json",
+      "bytes": 2773,
+      "sha256": "44882af00dd7165b42b9d619f326a06a90bf52febba8ca0379226c68bc4e243f"
+    },
+    {
+      "path": "problems/2024-B4/notes/coordinator-three-bit-sector-r2-inputs-v1.json",
+      "bytes": 7089,
+      "sha256": "9b2044906f63da70791c6195ea9b8b79bd811396cd88dc5e018c2fc70352a459"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r6-freeze-v1.json",
+      "bytes": 3298,
+      "sha256": "aba8108ec5191eb5c6d2702944d74c340c06ff949938bbe0bcd197b34998e9d4"
+    },
+    {
+      "path": "problems/2024-B4/reviews/structural-acceptance.json",
+      "bytes": 2580,
+      "sha256": "53fb1b2e3383397b1218f2020a9c1b60625497faaab9d686e7ef179cb2acb8d4"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-sector3-return-r1-acceptance.json",
+      "bytes": 3170,
+      "sha256": "28eb33d5f5fe20eab8e942008fb541bf55c58707197f635a50d521a9ee40a5d7"
+    }
+  ],
+  "direct_bindings_summary": {
+    "fingerprint_occurrences_verified": 76,
+    "deduplicated_paths_verified": 46,
+    "all_declared_fingerprints_match": true
+  },
+  "compact_immutable_own_parent": {
+    "path": "problems/2017-B4/notes/reasoning-value-return-r6-freeze-v1.json",
+    "bytes": 3298,
+    "sha256": "aba8108ec5191eb5c6d2702944d74c340c06ff949938bbe0bcd197b34998e9d4"
+  },
+  "earlier_own_paths_bound": 475,
+  "historical_inventory_bound_not_copied_or_recursively_replayed": true,
+  "all_NEW_peer_three_bit_v1_r2_audit_paths_forbidden": true
+}

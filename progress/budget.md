@@ -153,3 +153,6 @@ Current12:03UTCtransition:36%TOTALweeklyused,64%remaining,54ppbefore90%,samerese
 
 
 2026-10-17T20:36:25.453811+00:00: directroot64%TOTALweekly at20:32:45UTC,36%remaining,26ppbefore90%,same reset1792745187. Raw2026-10-17T20:33:49.114064+00:00:1415937945total/1339709440cached/76228505uncached+output/4594336reasoning subset. All62session sums match. No bill/weeklyconversion. Ownedawake reverified20:33:49UTC,next21:33:49UTC. Continue with review/integrationreserve.
+
+
+2026-10-17 20:47:55UTC boundary: last consistent old-window65% reset1792745187 changed unexpectedly to0%, then1%, reset1792874445, same authoritative tool/account across all agents. No automatic new-window spending authorized. Finish already-underway audits/integration, save full checkpoint and request measurable continuation. Raw project snapshot20:47:55UTC1,441,784,129total including1,364,174,464cached;77,609,665uncached+output;4,650,855reasoning subset ofoutput. No billing or percentage conversion.

@@ -1,0 +1,31 @@
+{
+  "created_at_utc": "2026-10-17T20:38:02.777451+00:00",
+  "status": "candidate proof - unverified",
+  "constructor": "/root/review_2017_coarsening_r1",
+  "contributors_excluded_from_independent_whole_audits": [
+    "/root/review_2017_coarsening_r1",
+    "/root"
+  ],
+  "two_OTHER_initially_blind_WHOLE_audits_required": true,
+  "requested_model": "gpt-6.1-sol",
+  "requested_reasoning": "max",
+  "verified_effective_setting_readback": null,
+  "direct_usage": {
+    "observed_at_utc": "2026-10-17T20:37:10Z",
+    "total_weekly_used_percent": 64,
+    "window_minutes": 10080,
+    "resets_at": 1792745187,
+    "ordinary_usage_allowed": true,
+    "total_ceiling_percent": 90
+  },
+  "mathematical_code_CAS_scan_sign_child_or_theoretical_algorithm_execution": false,
+  "cache_Git_shared_old_file_changes": false,
+  "remote_pdf_download_or_binary_hash_claim": false,
+  "pending_native_job_or_tool_approval": false,
+  "upper_R_effective_rate_value_annual_or_novelty_claim": false,
+  "compact_parent": {
+    "path": "problems/2019-B4/reviews/coordinator-retained-core-gap-r1-review-2-manifest-v1.json",
+    "bytes": 3495,
+    "sha256": "c53e1f875b1c3cc6c2b3dbae1492829cdf9ef7778e96c249e3027cb92edb316d"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "accepted_at_utc": "2026-10-17T20:47:09.218381+00:00",
+  "status": "proved, independently reviewed scoped partial result",
+  "whole_initials_blind": true,
+  "root_read_full_candidate_both_reports_all_ledgers_sources": true,
+  "unresolved_substantive_issues": 0,
+  "repair_required": false,
+  "candidate": {
+    "path": "problems/2024-B4/notes/coordinator-three-bit-sector-r2-candidate-v1.md",
+    "bytes": 17804,
+    "sha256": "59a3ec87e15f9238c5735cf2eb6fe650535fd7ddaf0a73c3f540fa08bf785163"
+  },
+  "accepted_copy": {
+    "path": "problems/2024-B4/proofs/reviewed-coordinator-three-bit-sector-r2-v1.1.md",
+    "bytes": 20916,
+    "sha256": "52e107759f513006a93f141add6130ca31b2d14220c9980ef596e9bebf5d2dab"
+  },
+  "verification_metadata": [
+    {
+      "path": "problems/2024-B4/notes/coordinator-three-bit-sector-r2-freeze-v1.json",
+      "bytes": 2773,
+      "sha256": "44882af00dd7165b42b9d619f326a06a90bf52febba8ca0379226c68bc4e243f"
+    },
+    {
+      "path": "problems/2024-B4/notes/coordinator-three-bit-sector-r2-inputs-v1.json",
+      "bytes": 7089,
+      "sha256": "9b2044906f63da70791c6195ea9b8b79bd811396cd88dc5e018c2fc70352a459"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-three-bit-sector-r2-review-1-manifest-v1.json",
+      "bytes": 4999,
+      "sha256": "f39c4c0ea19ff219cf450ee05270db2975d5cdc25f700833e4d6ab40c0e8e29b"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-three-bit-sector-r2-review-1-baseline-v1.json",
+      "bytes": 12224,
+      "sha256": "96b515f789d977334a9e9d9b81b030faa81d907cc799f7a1588ac35a3acecaca"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-three-bit-sector-r2-review-1-input-validation-v1.json",
+      "bytes": 5487,
+      "sha256": "4c14229a8b9eafc0830863e2cd358c24597f757244348ce9b120bcfbb17fe6e9"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-three-bit-sector-r2-review-1-sources-v1.json",
+      "bytes": 5896,
+      "sha256": "47997343c0183c4304427925187629bf10d864507008b42e2b13961d89bd24aa"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-three-bit-sector-r2-review-2-manifest-v1.json",
+      "bytes": 3637,
+      "sha256": "df5e3b97dab03c7d3aa547d0e2a42534c5ce524662f28230476f3cd99f12065e"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-three-bit-sector-r2-review-2-baseline-v1.json",
+      "bytes": 2059,
+      "sha256": "98f27336c3cd3c7c60778957e0012779f1fedbc42c054900ba02646d3f0ca0a2"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-three-bit-sector-r2-review-2-metadata-v1.json",
+      "bytes": 1345,
+      "sha256": "b2c39e7b522b5773a03db0d13e78ad90418b5cfb8861efdf0e7f8d540fa7de17"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-three-bit-sector-r2-review-2-input-validation-v1.json",
+      "bytes": 580,
+      "sha256": "392031fbf87fdbc755cad9669cf285dc0061970359cf9fc1cb11322a60104399"
+    }
+  ],
+  "record_occurrences_verified": 149,
+  "unique_paths_verified": 69,
+  "constructor_excluded": "/root",
+  "independent_nonconstructor_whole_reviewers": [
+    "/root/review_2022_complexity_r2",
+    "/root/review_2017_coarsening_r1"
+  ],
+  "whole_author_obligations": 44,
+  "whole_review_checks": [
+    44,
+    44
+  ],
+  "all_odd_binary_weight_three_official_factorizations_excluded": true,
+  "whole_absolute_irreducibility_residual_n_ne_13": true,
+  "n13_ordinary_F2_irreducible_without_actual_absolute_factor_formula": true,
+  "unaccepted_narrow_r1_not_premise": true,
+  "binary_weight_ge_four_annual_or_priority_claim": false
+}

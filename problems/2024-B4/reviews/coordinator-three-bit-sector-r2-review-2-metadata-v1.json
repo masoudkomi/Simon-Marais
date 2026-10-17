@@ -1,0 +1,38 @@
+{
+  "created_at_utc": "2026-10-17T20:43:58.621705+00:00",
+  "reviewer": "/root/review_2017_coarsening_r1",
+  "NEW_constructor": "/root",
+  "OLD_C_root_S3_authorship_disclosed_not_independently_recertified": true,
+  "NEW_peer_v1_r2_reports_findings_metadata_unread_through_ENTIRE_freeze": true,
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "independently_verified_effective_settings": null,
+  "mathematical_program_CAS_scan_author_rerun_or_saved_certificate": false,
+  "no_Git_shared_old_or_cache_mutation": true,
+  "budget_status": {
+    "last_reliable_direct_own": {
+      "at_utc": "2026-10-17T20:37:10Z",
+      "weekly_total_used_percent": 64,
+      "window_minutes": 10080,
+      "resets_at": 1792745187
+    },
+    "root_last_reliable": {
+      "at_utc": "2026-10-17T20:40:00Z",
+      "weekly_total_used_percent": 65,
+      "canonical_resets_at": 1792745187
+    },
+    "anomalous_direct": {
+      "at_utc": "2026-10-17T20:43:12Z",
+      "weekly_total_used_percent": 0,
+      "window_minutes": 10080,
+      "resets_at": 1792874445,
+      "ordinary_usage_allowed": true
+    },
+    "automatic_new_window_spending_authorized": false,
+    "root_authorized_only_already_started_whole_initial_freeze_from_reserve": true,
+    "queued_research_on_HOLD_after_freeze": true,
+    "total_ceiling_percent": 90
+  }
+}

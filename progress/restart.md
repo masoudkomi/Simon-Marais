@@ -1,3 +1,34 @@
+# Latest restart boundary — 2026-10-17 20:50 UTC
+
+This section supersedes ALL historical launch/usage notes below.
+Read [current all-nine report](status-2026-10-17-2049.md) and run-state.json.
+Two complete annual answers remain2018/2023; seven unresolved.
+
+NEW2024whole three-bit exclusion and2020R8 conditional solvability/exact-ideal
+multiplier result are accepted after BOTH OTHER WHOLE audits and full
+reconciliation.2019 accepted interval1.765224<lambda<1.834843.
+2021R11 remains UNVERIFIED: root ENTIRE WHOLE R2 frozen, B OTHER WHOLE R1
+unstarted.2017R6 remains UNVERIFIED: C full constructor frozen, TWO OTHER
+whole audits by A/B unstarted; root/C contributors excluded.
+After those reviews, resume actual2025/2021/2017/2022 reasoning and
+coordinator2019/2024 work only within measurable authorized budget.
+
+BUDGET BOUNDARY: authoritative meter unexpectedly changed from65% with
+reset1792745187 to0%, then1% with reset1792874445 on the same account.
+The user's supplied instructions prohibit automatic new-week spending.
+All already-underway audits/integration are complete; NEW sustained work
+is held pending authorization to use the newly reported window or a
+measurable substitute budget. Do not interpret old historical 'continue'
+instructions below as permission to cross this explicit reset boundary.
+No mathematical code is running; agents checkpointed and idle.
+
+Owned untimed caffeinate PID79293/session64368 remains active under
+the user's until90% instruction, verified20:47:56UTC. Do not stop
+unrelated processes or assertions. Last confirmed push before this new
+checkpoint06e177d; inspect git log/remote for its completed successor.
+
+---
+
 # Latest restart boundary — 2026-10-17 13:09 UTC
 
 Supersedes historicalnotesbelow. Lastconfirmedpushb1c503c; thisnewcheckpointawaitspush. Readstatus-2026-10-17-1309.md andrun-state.json.40%TOTALweekly,samereset1792745187;continueuntil90%TOTAL withreserve,donotstopataninterimcheckpoint. OwnedUNTIMEDawakePID79293/session64368 verified22:52:11Brisbane;releaseONLYownedassertionat90%oractualtermination.

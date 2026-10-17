@@ -1,0 +1,81 @@
+{
+  "frozen_at_utc": "2026-10-17T20:38:21.080151+00:00",
+  "status": "COMPLETE constructor checkpoint; candidate proof - unverified",
+  "constructor": "/root/review_2017_coarsening_r1",
+  "contributors_excluded": [
+    "/root/review_2017_coarsening_r1",
+    "/root"
+  ],
+  "two_OTHER_initially_blind_WHOLE_audits_required": true,
+  "main": {
+    "path": "problems/2017-B4/notes/reasoning-value-return-r6-candidate-v1.md",
+    "bytes": 29992,
+    "sha256": "dbb4232858154bbbae385e16ef0444101e02c50cddbe0dbc82402166cd2869af"
+  },
+  "whole_obligations": 48,
+  "claims": [
+    "PM1 exact local model and genuine finite upper certificates",
+    "PM2 actual Jordan plane patch full completion with total contents at most e/2",
+    "PM3 compact-strict plane-to-full upper counting interface only",
+    "PM4 actual D3 free entropy gap even at matching limiting tile composition"
+  ],
+  "upper_R_two_sided_computability_value_annual_or_novelty_claim": false,
+  "fingerprint_occurrences_verified": 80,
+  "deduplicated_paths_verified": 80,
+  "all_declared_fingerprints_match": true,
+  "compact_immutable_own_parent": {
+    "path": "problems/2019-B4/reviews/coordinator-retained-core-gap-r1-review-2-manifest-v1.json",
+    "bytes": 3495,
+    "sha256": "c53e1f875b1c3cc6c2b3dbae1492829cdf9ef7778e96c249e3027cb92edb316d"
+  },
+  "earlier_own_paths_bound": 465,
+  "own_paths_after_this_nine_artifact_plus_manifest_packet": 475,
+  "mathematical_program_CAS_scan_or_source_binary_download": false,
+  "artifacts": [
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r6-candidate-v1.md",
+      "bytes": 29992,
+      "sha256": "dbb4232858154bbbae385e16ef0444101e02c50cddbe0dbc82402166cd2869af"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r6-obligations-v1.md",
+      "bytes": 6811,
+      "sha256": "420183c42f4330a03fe7f614a7a51c7154c912886722fbe8d0e49f7a9a5d7aa3"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r6-sources-v1.md",
+      "bytes": 7358,
+      "sha256": "70526f37bae3e2baf784db7458694ed834ee6f3d1d85681b3c075e4ae4c8e80f"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r6-failures-v1.md",
+      "bytes": 3949,
+      "sha256": "c11b657bb45f738504bda2e26cc00e68b289ee3daf3e512f060c92d6ebf06a46"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r6-worklog-v1.md",
+      "bytes": 4882,
+      "sha256": "2b5b49b7334d2c3189c32b43c31269331119c28f8b22e00cceacf895d1a349e9"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r6-freeze-v1.py",
+      "bytes": 7687,
+      "sha256": "8405e88dec8b85f06843d52c66069a5befa6d288cb715a6866bc34dc5e8996df"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r6-baseline-v1.json",
+      "bytes": 3643,
+      "sha256": "bba33bba4a843816e4178765c00c76d8148051c3c54b20b26fab7bc13244fc62"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r6-metadata-v1.json",
+      "bytes": 1202,
+      "sha256": "2a96753a8ea5df38a94eebe2c247341f6966bef2c29d966af8818d7b15ba8f24"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r6-input-validation-v1.json",
+      "bytes": 469,
+      "sha256": "87ac50caac55a0e983b8129b32f6e36a77c6dc98a6be6e17762c4ccd1bf90dc6"
+    }
+  ]
+}
