@@ -1,0 +1,67 @@
+# All-D global R2: complete initial inference and issue ledger
+
+2026-10-17 UTC. Initially blind nonconstructor whole review of exact
+candidate SHA-256
+`c16acc6b4785c114648ec8848311d5022284c894047bef9013e7313c34706428`.
+This ledger is frozen with the complete report before peer comparison.
+
+**Substantive issues found:0. Editorial repairs required:0.** Every
+AG-01--AG-40 row below was reconstructed. `Pass` means no objection
+found within the written hypotheses and exact accepted dependencies;
+it is not coordinator promotion or an absolute-certainty statement.
+Older own structural/annulus/RM background authorship is disclosed in
+the whole report and is not counted as a new independent local audit.
+
+| ID | Candidate location | Disposition and independent check |
+|---|---|---|
+| AG-01 |0| Pass. Positive-area Jordan disk, complete colored/ranked boundary, ONE full exterior for EVERY filling, bounded nonnegative contents, and consecutive-rank integer dilation are explicit. Positive area excludes fewer than two active directions. Exact geometric gluing also supplies the dilated exterior. |
+| AG-02 |0 and sources| Pass. The ten accepted logical bodies retain their exact scopes. S_D's accepted body preserves its entire raw suffix. No G4, CKP, UR3, outline, profile sufficiency, or constructor inspection is substituted for a new global inference. |
+| AG-03 |1| Pass. An arclength cover of EACH actual boundary curve gives the stated tube origin bound. Outside applications sum one actual B_j boundary and a fixed finite window list. They cannot reproduce the old many-tiny-holes counterexample. |
+| AG-04 |1, equation2| Pass. Reference tile number t is at most area, and boundary length is at most4d_D t. The known-domain origin alphabet therefore pays all alternative fillings by O(area), with no per-tile absolute-coordinate charge. |
+| AG-05 |1 visible belt| Pass. The +v_i visible chain consists of +v_j for j>i and -v_j for j<i. Its transverse coordinate strictly increases on every nonempty unit step; extrusions fill consecutive nonoverlapping sections. Parallel extreme segments contribute only the endpoint extension, not a missing positive-area cap. |
+| AG-06 |1 belt ranks| Pass. The entire visible chain has a_i=N_i. Adding its belt uses the unique new rank N_i+1; reversed other-color edges carry their old ranks. All old physical positions and the marked origin remain fixed. Absent-color and skipped-block cases are included, and ONE padded reference is subsequently dilated. |
+| AG-07 |2 UR2| Pass. V is invertible and fixes the unique full coordinate grid. Every disk filling and every MB filling glues to its fixed grid exterior, so both counts are1. This proves Delta_2=0 on the actual GE class without a dimer theorem. |
+| AG-08 |2, equations3--5| Pass. Delta<=log count<=K_D p² and p=max N_i<=Cr give a fixed positive lower bound p/r. Hence p_j->infinity, normalized perimeter is bounded, and Delta/p_j²>=a/C² on the common normalized full zonogon. |
+| AG-09 |3 boundary compactness| Pass. Constant-speed parametrizations have bounded Lipschitz constants and range; their uniform limit is rectifiable with area-zero image. The proof allows self-contacts, retracing and a disconnected winding interior. |
+| AG-10 |3, equation6| Pass. Uniform boundary homotopies avoid every compact set separated from the limit image; winding stabilizes to0 or1. Indicator convergence and bounded convergence yield the area limit. The zero-area case uses the ACTUAL finite one-curve O(p_j) tube to rule out positive deficit. |
+| AG-11 |3, equation7| Pass. Quantization on O(delta^-2) sites costs O(delta^-2 log(2/delta)) bits. At delta_j=1/log(p_j+2) this is o(p_j²); the largest full-profile fiber is selected before all windows. |
+| AG-12 |3 necessary profile| Pass. Every fiber member converges to the same actual limiting h. Uniform Lipschitz bounds pass the distributional row-Jacobian identities and nonnegativity, giving only necessary K_D. No convex combination or realization of arbitrary K_D gradients is asserted. |
+| AG-13 |4.1| Pass. The exact quantitative strict proof permits error to satisfy both loss and collar caps before periods are chosen. An intermediate count window's whole buffer fits inside the outer window. Its extraction works with ANY later common-family reference and recovers all inner-window tiles at large scale. |
+| AG-14 |4.2 zero pair| Pass. OC bounds A^-1 uniformly at zero minors. A zero row has an adjacent zero-minor pair; otherwise a zero minor gives adjacent positive-parallel rows after the cyclic cut. Exactly one pair is merged, with all other COLOR groups singleton despite additional degeneracies. |
+| AG-15 |4.2 chart geometry| Pass. Source shapes are affine inverses of target squares, with uniform fixed-D area/eccentricity bounds. CW's one common source offset gives one common target offset; winding covers the whole target square and its fixed buffer for every family member. |
+| AG-16 |4.2, equation10| Pass. The additional inclusion contains the entire image of every source tile meeting the inner window, with both source tile diameter and target displacement paid. Fixed star widths fit the earlier collar once ell is large; no corner-only or Hausdorff inference is used. |
+| AG-17 |4.3, equation11| Pass. FL1 applies to the chosen exactly-zero target minor on a buffered square with bounded gradients and common affine error. Its O(epsilon L²+L+1) includes all rare whole tiles touching the relevant window; no thin-band location assertion is made. |
+| AG-18 |4.3, equation12| Pass. LW1 uses LOCAL rank ranges, selected crossings and one absolute trace anchor. Its L²/r0 term does not replace global p by L. Actual global interior faces are retained; r0 is fixed before the local scale grows. |
+| AG-19 |4.3 complete code| Pass. The common skeleton and connected boundary trace determine absolute good-disk lifts/ranks. Closed-face incident cleanliness excludes forbidden tiles outside a block touching it. A completed lifted target restriction supplies CW2's canonical anchor without an unbounded anchor per disk. |
+| AG-20 |4.3 SP| Pass. Exactly one adjacent merged group and D-2 singleton barriers satisfy SP at every fixed D>=3. A merged curve can change fine identity only at a forbidden event and cannot return across a singleton barrier twice. The two-port and actual Jordan conclusions apply to each interior RM1 block. |
+| AG-21 |4.3 small exterior| Pass. At most D(r0-1) active coarse curves remain. Deleting inactive curves is constant on the connected disk and fixes a translation/rank shift. The remaining actual full arrangement provides ONE exterior for every filling, contents/perimeter<=C_D r0. Zero contents remain in GE's domain. |
+| AG-22 |4.3, equations13--14| Pass. SP gives WHOLE fine/coarse count equality at scale1 and every M; multiplied boundary ranks and fixed translations remain consistent. Thus Delta equals the lower-dimensional GE deficit. The needed inductive theorem is UR_(D-1) for that exact fixed C_D, not balanced H_(D-1). |
+| AG-23 |4.4 small/large blocks| Pass. Small fine areas sum to O(sqrt(beta)r0²) using isoperimetry and the AGGREGATE face perimeter. Their whole counts are paid by area. Total face area bounds the large-block number by O(1/beta); finite-D fine/coarse metrics are uniformly comparable. |
+| AG-24 |4.4, equations15--16| Pass. The LOCAL face count multiplies the aggregate per-face bound, giving sqrt(beta)+eta_-(r0)/beta. Choose beta, then r0, then epsilon_target, then L. The r0²L, r0L, constants and log R survive as actual lower-order terms; loss is normalized by source area with mu fixed. |
+| AG-25 |5, equation19| Pass. delta/theta/zeta precede rho and shapes; beta/r0 and all source-error caps precede strict nets and periods; radii/finite windows precede j; M is last at fixed j. The q-free strict proof supplies the freedom required by this order. |
+| AG-26 |5 stratum truncation| Pass. Within the strict set, the sets of minimum minor in(0,rho) decrease to empty, so their area is made<delta. Exact boundary tangents and differentiability points remain; rank2 follows from VJ=I. Empty strict strata are omitted without using a nonexistent compact family. |
+| AG-27 |5, equation20| Pass. Differentiability supplies arbitrarily small whole-window affine error on the bounded-eccentricity shapes compactly inside Omega. Each point uses its own tangent/offset and one finite chart/frame choice; no common differentiability rate for unrelated profiles is required. |
+| AG-28 |5, equations21--22| Pass. A candidate still available during greedy selection forces a later intersecting choice of comparable diameter, or infinitely many disjoint sets of fixed positive area. Uncovered points lie in enlarged tails with outer measure tending to0. A finite closed disjoint subcollection loses at most another delta, and inner collars at most2theta A_D. |
+| AG-29 |5, equation23| Pass. The finite normalized list is fixed. Each ell_(j,alpha)=p_j ell_alpha tends to infinity, compact winding containment puts windows inside B_j, and uniform convergence of the ENTIRE fiber gives the same J_alpha and offset p_j c_alpha for every representative on its whole buffer. |
+| AG-30 |6, equations24--25| Pass. The original outside record covers all tiles meeting the complement of INNER windows plus fixed margins. Its area loss has a fixed alphabet coefficient; one actual B_j curve and finitely many window sides contribute O(p_j), with their individual perimeter/component terms explicitly summed. |
+| AG-31 |6, equation26| Pass. ALL local boundary codes/anchors and the outside record are conditioned jointly inside the already fixed profile fiber. Only then is one actual T_j chosen. Product bounds control record number without asserting that independent maximal local classes share a representative. |
+| AG-32 |7, equation29| Pass. Strict intermediate restrictions recover inner source tiles. LW good fillings plus fixed code reconstruct the whole lifted target restriction; CW's whole-tile margin and anchor recover all desired source tiles. The outside record supplies all remaining and straddling tiles. Upper overcounting of incompatible choices is allowed. |
+| AG-33 |7, equation28| Pass. Target good disk, standard coarse disk and original fine pullback region are kept distinct. SP identifies target and coarse COUNTS at every M; CW inserts these choices into their fixed source region. No false target/source shape equality is used. |
+| AG-34 |8 inverse replacement| Pass. Each new target filling is completed by the fixed FULL target exterior before inverse charting. That exterior fixes old heights and the exact inverse fine Jordan boundary. The full homeomorphism forces the same bounded fine region even though its interior inverse map changes. Forward charting recovers the choice. |
+| AG-35 |8 common reference| Pass. All cores are obtained from the SAME T_j. Within one window reference homeomorphisms preserve block incidences; between windows fine cores lie strictly inside disjoint source windows. They therefore glue as actual fine patches with compatible fixed boundary data, without globally commuting charts. |
+| AG-36 |8, equations30--31| Pass. Reference grids obey a_MT(Mx)=M a_T(x); content Mp_j and translation M b0 give exact chart commutation. SP remains bijective for every M. Strict counts refer to exactly M original cores. The product injection occupies exactly MB_j and is recovered by restriction, not a nearby re-extracted domain. |
+| AG-37 |8 lower scope| Pass. Lower families count unrestricted complete-boundary fillings of MB_j. They need not remain in the upper code/profile class, and cores may change conditioned collars. The proof fixes only the actual fine patch boundaries and ONE full exterior; it asserts no flat replacement interior. |
+| AG-38 |9, equations32--34| Pass. With j fixed there are finitely many factors; the correct finite-sum liminf direction gives Lambda_global>=sum Lambda_local. All local losses are paid per disjoint source area, and the fixed finite-list lower-order terms vanish as j grows after the M limit. The displayed bound contradicts Delta/p_j²>=a/C². |
+| AG-39 |10, equations35--36| Pass. A balanced full disk belongs to exact GE with empty exterior. UR gives an all-large-M liminf for EACH fixed r. RP fills Mr<=p<(M+1)r with Mr/p->1, yielding the full-integer liminf bound. Only then is r taken along a limsup sequence. No entropy is manufactured from one reference. |
+| AG-40 |11, equations37--39| Pass. DC1/DC2 use the official marked counts and the same full balanced B. Floor/ceiling monotonicity transfers each fixed-D limit to the nearly balanced vector; one D gives finite official limsup. Letting D grow only afterward makes h2(1/D)+1/D vanish, proving scalar equality/existence but no value, full annual solution, or uniform-in-D rate. |
+
+## Scope conditions retained in the recommendation
+
+No new author repair is requested. The coordinator must still reconcile
+the other initially blind whole report before promotion. Acceptance,
+if granted, is G1 on its exact extendable Jordan class, G2 for full
+balanced counts at all integers, and G3 scalar equality/existence only.
+The source packet does not import an external entropy theorem. No
+mathematical computation or empirical absence claim supports these rows.
+The requested global-profile recovery PR and the common numerical value
+are outside this theorem, and rates may depend on every fixed D,C,rho.

@@ -1,0 +1,69 @@
+{
+  "frozen_at_utc": "2026-10-17T11:02:46.982310+00:00",
+  "status": "Independent initially blind WHOLE R2 audit frozen; no substantive objection found; root alone may accept.",
+  "reviewer": "review_2022_complexity_r2",
+  "constructor": "coordinator root",
+  "reviewer_constructed_target": false,
+  "requested_model": "gpt-6.1-sol",
+  "requested_reasoning_effort": "max",
+  "verified_effective_setting_readback": null,
+  "claims_audited": [
+    "GK1",
+    "GK2",
+    "GK3"
+  ],
+  "whole_main_sources_log_and_all_16_author_obligations_read": true,
+  "complete_inference_checks": 36,
+  "unresolved_substantive_issues": 0,
+  "repairs_requested": 0,
+  "blind_before_any_new_GK_peer_findings": true,
+  "exact_accepted_CP1_and_phi13_scopes_checked": true,
+  "accepted_phi13_finite_certificate_rerun": false,
+  "author_manifest": {
+    "path": "problems/2024-B4/notes/coordinator-generalized-Kasami-r1-manifest-v1.json",
+    "bytes": 2042,
+    "sha256": "50c3269d28a49327e28e216a857fdb711dae8875cab127645bc4081f2ac9ec65"
+  },
+  "author_artifact_records_verified": 6,
+  "author_core_input_occurrences_verified": 417,
+  "author_core_unique_paths_verified": 214,
+  "separate_motivation_cache_hash_verified": true,
+  "CP_acceptance_embedded_records_verified": 9,
+  "phi13_acceptance_artifact_map_entries_verified": 10,
+  "all_input_record_occurrences_in_this_validation": 452,
+  "all_input_unique_paths_in_this_validation": 231,
+  "older_own_paths_verified_unchanged": 147,
+  "mathematical_computation_enumeration_CAS_or_certificate_rerun": false,
+  "candidate_shared_Git_or_old_artifact_edits": false,
+  "no_full_annual_solution_classification_or_novelty_claim": true,
+  "weekly_total_used_percent": 31,
+  "weekly_resets_at_unix": 1792745187,
+  "weekly_total_used_cutoff_percent": 90,
+  "records": [
+    {
+      "path": "problems/2024-B4/reviews/generalized-Kasami-review-2-initial.md",
+      "bytes": 15481,
+      "sha256": "220fb7c6ec21005c5396527d2402752f31f3419e6d3e803831ce817f30f1b416"
+    },
+    {
+      "path": "problems/2024-B4/reviews/generalized-Kasami-review-2-issues.md",
+      "bytes": 10179,
+      "sha256": "b35d2aa708d8e5cdb3879ed39cc278aac2b9a444011b0b421442ad9a8fa238d6"
+    },
+    {
+      "path": "problems/2024-B4/reviews/generalized-Kasami-review-2-source-checks.md",
+      "bytes": 6986,
+      "sha256": "e0c4a318e835d6aebdaf6c087453c59f5135e0194c6d646523f67ae92ea8a4b4"
+    },
+    {
+      "path": "problems/2024-B4/reviews/generalized-Kasami-review-2-freeze-v1.py",
+      "bytes": 9092,
+      "sha256": "fd3d902afc02c75a19dedf98bd2a1ebc58d72e3e1f758e3ef50bc05b943f285d"
+    },
+    {
+      "path": "problems/2024-B4/reviews/generalized-Kasami-review-2-input-checks-v1.json",
+      "bytes": 119551,
+      "sha256": "533ca5b64ad91f7fa0c8efe31814c828e4eebf435b197d2a95b7e19dc0bd088a"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "accepted_at_utc": "2026-10-17T11:05:09.875121+00:00",
+  "status": "proved, independently reviewed scoped partial result",
+  "claims": [
+    "GK1 all-q all-index polynomial recurrence",
+    "GK2 infinite genuine whole-divisor families for every fixed q>=4",
+    "GK3 all-index whole-phi13 exclusion for k>=3"
+  ],
+  "constructor": "coordinator root",
+  "reviewers": [
+    "review_2021_reasoning_j15_r2",
+    "review_2022_complexity_r2"
+  ],
+  "whole_initials_blind": true,
+  "root_read_full_candidate_reports_ledgers_sources": true,
+  "unresolved_substantive_issues": 0,
+  "repair_required": false,
+  "record_occurrences_verified": 1726,
+  "unique_paths_verified": 616,
+  "candidate": {
+    "path": "problems/2024-B4/notes/coordinator-generalized-Kasami-r1-candidate-v1.md",
+    "bytes": 10290,
+    "sha256": "f99bae5f5d3877e556a30347a38616daf6b54fde300ae60543f849893a7dc4b8"
+  },
+  "accepted_copy": {
+    "path": "problems/2024-B4/proofs/reviewed-generalized-Kasami-v1.1.md",
+    "bytes": 12828,
+    "sha256": "eff29275bed2eb037a90bd8935c7c00740e66874c03f973a2996daa8f131d36e"
+  },
+  "verification_metadata": [
+    {
+      "path": "problems/2024-B4/notes/coordinator-generalized-Kasami-r1-manifest-v1.json",
+      "bytes": 2042,
+      "sha256": "50c3269d28a49327e28e216a857fdb711dae8875cab127645bc4081f2ac9ec65"
+    },
+    {
+      "path": "problems/2024-B4/notes/coordinator-generalized-Kasami-r1-input-validation-v1.json",
+      "bytes": 151495,
+      "sha256": "6f9e493815c127a738fff83564890aeae0d94678a909049c2e7020975d3ab791"
+    },
+    {
+      "path": "problems/2024-B4/reviews/generalized-Kasami-review-1-manifest-v1.json",
+      "bytes": 2812,
+      "sha256": "37d7cfa85c26c38b2c95c06d09111a45c8d9aeb243453485177c9a0cbc8e3a04"
+    },
+    {
+      "path": "problems/2024-B4/reviews/generalized-Kasami-review-1-input-validation-v1.json",
+      "bytes": 160469,
+      "sha256": "21978047488fccc2399ea5e7c9d37e8313eed41a58df32e65b1de7a7f9055c1a"
+    },
+    {
+      "path": "problems/2024-B4/reviews/generalized-Kasami-review-1-telemetry-addendum-v1.json",
+      "bytes": 938,
+      "sha256": "1a4998c93bcc7183680053c105c8fed6181b30205eb0dbfa2ede61a1c2e88632"
+    },
+    {
+      "path": "problems/2024-B4/reviews/generalized-Kasami-review-2-manifest-v1.json",
+      "bytes": 2807,
+      "sha256": "a15b2790e601d62fb08d57d33c9bec31916ce4fc0e95a4841c427c07ab513cd7"
+    },
+    {
+      "path": "problems/2024-B4/reviews/generalized-Kasami-review-2-input-checks-v1.json",
+      "bytes": 119551,
+      "sha256": "533ca5b64ad91f7fa0c8efe31814c828e4eebf435b197d2a95b7e19dc0bd088a"
+    }
+  ],
+  "whole_inference_checks": [
+    30,
+    36
+  ],
+  "all_author_obligations": 16,
+  "coordinator_is_constructor_not_independent_reviewer": true,
+  "reviewer1_older_structural_authorship_and_CP_review_disclosed": true,
+  "no_mathematical_computation_or_CAS": true,
+  "legacy_phi13_path_hash_map_checked": [
+    {
+      "path": "problems/2024-B4/notes/zero-automaton-criterion-v1.md",
+      "bytes": 16362,
+      "sha256": "59e3bb1f9aba8162ea5b79f0ccec5f56b6f2cb0cc7917cfe81f4aff196ff6ab4",
+      "verified": true
+    },
+    {
+      "path": "problems/2024-B4/notes/zero-automaton-criterion-reviewed-v1.1.md",
+      "bytes": 16607,
+      "sha256": "362f2541b2bb1ab1e22ba768b41d55e7282f08631b0ad39522682244d213f226",
+      "verified": true
+    },
+    {
+      "path": "problems/2024-B4/notes/zero-automaton-v1-manifest.json",
+      "bytes": 2743,
+      "sha256": "41fef0ca55da72d8efc8fb04f3b0180f77fc43edf28b276a87f7bd033b6687f2",
+      "verified": true
+    },
+    {
+      "path": "problems/2024-B4/notes/zero-automaton-certificate-v1.md",
+      "bytes": 4970,
+      "sha256": "b384ed3c0b51572e729b1e5486847ebcc5d964f4afa64c43e60a76910ad0ddd3",
+      "verified": true
+    },
+    {
+      "path": "problems/2024-B4/computations/zero-automaton-v1-graph.json",
+      "bytes": 7392,
+      "sha256": "ee818f60e68da70ae2f0f7fa84a2c4dec740d10d03908359a271e354a1a0ce4e",
+      "verified": true
+    },
+    {
+      "path": "problems/2024-B4/reviews/criterion-review-1.md",
+      "bytes": 17310,
+      "sha256": "da80c58669f5002ecca3f9d08d9c4171a97b3336f6599c411e6b5c11119b826f",
+      "verified": true
+    },
+    {
+      "path": "problems/2024-B4/reviews/criterion-review-1-manifest.json",
+      "bytes": 4116,
+      "sha256": "0f2512667dee6a6f396eb7e6f42e3294c83d0067a701b44f274eef4a1690e556",
+      "verified": true
+    },
+    {
+      "path": "problems/2024-B4/reviews/criterion-review-2.md",
+      "bytes": 19839,
+      "sha256": "e7462e930e2bcf297b0217f5a537044bb35ce1f21aa94fc461e7967f552bdf13",
+      "verified": true
+    },
+    {
+      "path": "problems/2024-B4/reviews/criterion-review-2-evidence-manifest.json",
+      "bytes": 3190,
+      "sha256": "aa98d62565fcc9f96c8762a4886b8f6686fabbfc5c6c2df6c8af9f11346bc470",
+      "verified": true
+    },
+    {
+      "path": "problems/2024-B4/reviews/criterion-acceptance-issues-snapshot.md",
+      "bytes": 3591,
+      "sha256": "d3365fd6dd856785816ef0895ba42e71f5b4717741a0202f4dc181a90629fdb2",
+      "verified": true
+    }
+  ],
+  "new_external_factor_monodromy_APN_import": false,
+  "full_reducibility_classification_or_novelty": false
+}

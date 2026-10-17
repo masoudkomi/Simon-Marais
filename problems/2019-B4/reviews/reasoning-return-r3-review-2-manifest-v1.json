@@ -1,0 +1,74 @@
+{
+  "frozen_at_utc": "2026-10-17T11:12:34.374988+00:00",
+  "status": "Initially blind independent WHOLE R2 frozen; no substantive objection found, no repair requested; root alone may accept.",
+  "reviewer": "review_2022_complexity_r2",
+  "constructor": "review_2021_reasoning_j15_r2",
+  "reviewer_constructed_target": false,
+  "requested_model": "gpt-6.1-sol",
+  "requested_reasoning_effort": "max",
+  "verified_effective_settings": null,
+  "claims_audited": [
+    "NR1",
+    "NR2",
+    "NR3",
+    "NR4"
+  ],
+  "whole_main_log_sources_all_twenty_obligations_accepted_bodies_and_scopes_read": true,
+  "complete_per_inference_checks": 45,
+  "unresolved_substantive_objections": 0,
+  "author_repairs_requested": 0,
+  "no_new_NR_peer_findings_read_before_initial_freeze": true,
+  "prior_moment_tail_audit_disclosed": true,
+  "author_manifest": {
+    "path": "problems/2019-B4/notes/reasoning-return-r3-manifest-v1.json",
+    "bytes": 3091,
+    "sha256": "6e9dd78603daa564999d083f4234f2e83d6aa063d738c6936704eaca3f33b9cb"
+  },
+  "author_artifacts_verified": 8,
+  "author_source_records_verified": 26,
+  "constructor_validation_record_occurrences_verified": 276,
+  "acceptance_hash_entries_verified": 34,
+  "input_record_occurrences_verified": 365,
+  "input_unique_paths_verified": 313,
+  "earlier_own_paths_preserved_unchanged": 153,
+  "mathematical_computation_enumeration_CAS_or_certificate_rerun": false,
+  "candidate_shared_old_artifact_Git_or_other_worker_edits": false,
+  "exact_lambda_full_annual_solution_series_nonalgebraicity_or_novelty_claim": false,
+  "fresh_direct_weekly_telemetry": {
+    "at_utc": "2026-10-17T11:11:31+00:00",
+    "source": "direct account-wide Codex usage tool",
+    "total_used_percent": 32,
+    "window_duration_minutes": 10080,
+    "resets_at_unix": 1792745187,
+    "ordinary_usage_allowed": true,
+    "total_used_cutoff_percent": 90,
+    "integration_review_commit_push_reserve": true
+  },
+  "records": [
+    {
+      "path": "problems/2019-B4/reviews/reasoning-return-r3-review-2-initial.md",
+      "bytes": 21084,
+      "sha256": "c882c1db619f778ebb5c0cb8ab4e31591246f54dc5c3344f4aaad0bf2b1372a3"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-return-r3-review-2-issues.md",
+      "bytes": 13185,
+      "sha256": "70790ac3182167e0b9d671478e15915a357cd92579f36b9b0b8464c8f0468112"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-return-r3-review-2-source-checks.md",
+      "bytes": 8319,
+      "sha256": "0dcd6243e1afd2b3fb803506b0baacd666a195f389ae90df4f7abc6d5a6c9d36"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-return-r3-review-2-freeze-v1.py",
+      "bytes": 9695,
+      "sha256": "8a04f1b88a25277169aa39ac52de0c341c02736f08f8ff468cce9fb2735965d4"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-return-r3-review-2-input-checks-v1.json",
+      "bytes": 105883,
+      "sha256": "095662fb8c38cddd4ad5bdd8b0ee53add9daa88b9bac196be8fb8cb9d889d4e9"
+    }
+  ]
+}

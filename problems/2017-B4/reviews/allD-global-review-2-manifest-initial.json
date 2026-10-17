@@ -1,0 +1,71 @@
+{
+  "frozen_at_utc": "2026-10-17T11:08:17.920725+00:00",
+  "status": "fresh initially blind WHOLE independent R2 audit complete; no substantive objection found on exact scope; coordinator reconciliation pending",
+  "reviewer": "/root/review_2017_coarsening_r1",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "candidate": {
+    "path": "problems/2017-B4/notes/allD-global-reasoning-r1-candidate-v1.md",
+    "bytes": 46506,
+    "sha256": "c16acc6b4785c114648ec8848311d5022284c894047bef9013e7313c34706428"
+  },
+  "candidate_manifest": {
+    "path": "problems/2017-B4/notes/allD-global-reasoning-r1-manifest-v1.json",
+    "bytes": 3810,
+    "sha256": "64a2790adf232a9e43d532762e594c87d3f2190aeb15901b07d1bf186e8e68a3"
+  },
+  "whole_inferences_reconstructed": 40,
+  "substantive_issues_found": 0,
+  "editorial_repairs_required": 0,
+  "complete_main_source_log_obligations_and_ten_inputs_scopes_read": true,
+  "peer_global_findings_read_before_initial_freeze": false,
+  "coordinator_later_inspection_read_before_initial_freeze": false,
+  "older_own_local_background_authorship_disclosed": true,
+  "fresh_independent_review_of_own_old_local_inputs_claimed": false,
+  "numerical_value_full_annual_solution_PR_or_novelty_claim": false,
+  "mathematical_program_CAS_enumeration_or_scan": false,
+  "author_certificate_rerun": false,
+  "git_shared_edits_spawning_contacts_charges_or_bypass": false,
+  "earlier_unique_own_paths_verified_unchanged": 196,
+  "unique_external_or_earlier_paths_verified": 369,
+  "last_direct_weekly_telemetry": {
+    "total_used_percent": 32,
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "total_ceiling_percent": 90,
+    "ordinary_usage_allowed": true,
+    "integration_reserve": true,
+    "read_during_this_review": true
+  },
+  "command": "python3 problems/2017-B4/reviews/allD-global-review-2-freeze-initial.py",
+  "artifacts": [
+    {
+      "path": "problems/2017-B4/reviews/allD-global-review-2-initial.md",
+      "bytes": 24937,
+      "sha256": "f5bf2a6683aac7775334592e23d82d91f2fdaa983b5a3a907c6e6fa36401b3b9"
+    },
+    {
+      "path": "problems/2017-B4/reviews/allD-global-review-2-issues-initial.md",
+      "bytes": 13481,
+      "sha256": "b58105bde3b021b6fb0f338717b5fbfdc556ccd4ce99e98ae97208ac0246889a"
+    },
+    {
+      "path": "problems/2017-B4/reviews/allD-global-review-2-source-checks-initial.md",
+      "bytes": 9594,
+      "sha256": "2c6d75baaa7adab990c33524497f9d46140c3d6587ec1ba60cc6757b5e0b4f28"
+    },
+    {
+      "path": "problems/2017-B4/reviews/allD-global-review-2-freeze-initial.py",
+      "bytes": 8079,
+      "sha256": "d45652261cedd84d4e14fa864fc846eb90b7a8754a6717ed5b87ecb4786e3a0c"
+    },
+    {
+      "path": "problems/2017-B4/reviews/allD-global-review-2-input-validation.json",
+      "bytes": 82765,
+      "sha256": "96e0c23a079f5d8a46a128f0f6dbfc5271829472127c378f994d5aa7b8b50394"
+    }
+  ]
+}

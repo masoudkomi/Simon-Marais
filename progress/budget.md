@@ -96,3 +96,6 @@ At **2026-10-17 10:40:46UTC**, authoritative account-wide usage is **30% total w
 
 
 At **2026-10-17 11:01:58UTC**, account meter **32%TOTAL weekly used**,68%remaining,58percentagepoints before90%, same reset1792745187. Raw **663,335,337total**:626,944,256cachedinput,30,803,866uncachedinput,5,587,215output including2,475,639reasoning; uncached+output36,391,081. All62historicalsession sums match across4091responses. Unreported in-flight usage excluded; no billing/weekly conversion. Continue reasoning and reviews with integration reserve.
+
+
+At **2026-10-17 11:13:51UTC**, raw project audit **681,140,577total**:643,996,160cachedinput,31,442,524uncachedinput,5,701,893output including2,518,391reasoning; uncached+output37,144,417.62historicalsession sums match across4176responses. Direct account meter32%TOTAL at11:11:51UTC, same reset1792745187;58percentagepoints before90%. No billing/weekly conversion. Continue reasoning/reviews with integration reserve.

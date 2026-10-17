@@ -1,0 +1,17 @@
+{
+  "created_at_utc": "2026-10-17T11:03:46.067670+00:00",
+  "scope": "administrative telemetry correction only; frozen mathematical review unchanged",
+  "original_manifest": {
+    "path": "problems/2024-B4/reviews/generalized-Kasami-review-1-manifest-v1.json",
+    "bytes": 2812,
+    "sha256": "37d7cfa85c26c38b2c95c06d09111a45c8d9aeb243453485177c9a0cbc8e3a04"
+  },
+  "prior_recorded_weekly_total_used_percent": 31,
+  "fresh_authoritative_weekly_total_used_percent": 32,
+  "window_minutes": 10080,
+  "weekly_reset_unix": 1792745187,
+  "total_used_ceiling_percent": 90,
+  "observation": "get_usage_limits returned32 in the same functions.exec call immediately before the freeze command. The freeze script still serialized the earlier31 observation. This addendum records the fresh32 reading without altering any frozen review byte.",
+  "mathematical_report_ledger_sources_and_integrity_unchanged": true,
+  "peer_GK_findings_read": false
+}
