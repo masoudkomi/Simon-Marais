@@ -1,0 +1,73 @@
+{
+  "frozen_at_utc": "2026-10-17T06:31:02.445442+00:00",
+  "status": "initial independent whole nonconstructor audit frozen before peer findings",
+  "reviewer": "/root/review_2022_complexity_r2",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "candidate": {
+    "path": "problems/2025-B4/notes/coordinator-power-gap-return-candidate-v1.md",
+    "bytes": 6384,
+    "sha256": "233e00fec364f6f865179c6e3f810173d92b2cd0f5e8a59279e63b605a5d05fb"
+  },
+  "sources_companion": {
+    "path": "problems/2025-B4/notes/coordinator-power-gap-return-sources-v1.md",
+    "bytes": 4044,
+    "sha256": "ae388dc3e6030dcc01b61fe000ff5398b6f3958df252fd9188759e90a1078f60"
+  },
+  "candidate_freeze": {
+    "path": "problems/2025-B4/notes/coordinator-power-gap-return-freeze-v1.json",
+    "bytes": 2253,
+    "sha256": "b6612a8286379c12340df3686421c52b3aedb1a6926bd5fa0c9d0a09d88cd9d3"
+  },
+  "whole_claims_reconstructed": [
+    "PG1",
+    "PG2",
+    "PG3",
+    "PG4 attributed corollary"
+  ],
+  "separate_claim_checks": 16,
+  "substantive_objections": 0,
+  "author_repair_requested": false,
+  "promotion_by_reviewer": false,
+  "peer_findings_read_before_initial_freeze": false,
+  "mathematical_program_enumeration_CAS": false,
+  "published_inputs": "Primary Bennett-Levin Prop1/Theorem1 checked with signed domain and all application hypotheses; external proofs remain attributed imports. Positive-base Bugeaud-Mihailescu overlap checked separately.",
+  "full_B4_solution_or_novelty": false,
+  "input_paths_verified": 12,
+  "earlier_own_paths_verified_unchanged": 88,
+  "git_or_shared_candidate_edits": false,
+  "only_assigned_prefix_written": true,
+  "latest_authoritative_weekly_usage": {
+    "used_percent": 26,
+    "at_utc": "2026-10-17 06:28:49 UTC",
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "total_used_ceiling_percent": 90,
+    "integration_reserve": true
+  },
+  "records": [
+    {
+      "path": "problems/2025-B4/reviews/power-gap-return-review-2-initial-v1.md",
+      "bytes": 13464,
+      "sha256": "c2c91527eb167210b3650e146218050306e2b71e7b596ce616f1c84466081938"
+    },
+    {
+      "path": "problems/2025-B4/reviews/power-gap-return-review-2-issues-v1.json",
+      "bytes": 5388,
+      "sha256": "edc480f574d09d0b903ef65788287b182d35ca87fbf394c05b1f3f69bef23996"
+    },
+    {
+      "path": "problems/2025-B4/reviews/power-gap-return-review-2-source-checks-v1.md",
+      "bytes": 4205,
+      "sha256": "449fa79a07ed5ab10ddc2a0f575dc22b3b9c1a785f6923932e52b3e430927355"
+    },
+    {
+      "path": "problems/2025-B4/reviews/power-gap-return-review-2-input-checks-v1.json",
+      "bytes": 19997,
+      "sha256": "266abde0da755613d4794ee6cee8e57920ae07e24358a4918719242dfc77bbb7"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "frozen_at_utc": "2026-10-17T06:27:50.243875+00:00",
+  "status": "initial independent whole nonconstructor audit frozen before peer findings; one auxiliary scope issue requires author repair",
+  "reviewer": "/root/review_2022_complexity_r2",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "candidate": {
+    "path": "problems/2017-B4/notes/rank-mesh-reasoning-r1-candidate-v1.md",
+    "bytes": 20183,
+    "sha256": "e0f2e55e62aabe5547120f4fc72c506c3f680844a90aa98ece7147d404178d27"
+  },
+  "UR3": {
+    "path": "problems/2017-B4/notes/rank-mesh-reasoning-r1-UR3-v1.md",
+    "bytes": 17045,
+    "sha256": "40ad9b252b6c34f5dee5c8cd3eedea8e8feeabb0cec1497b224bf5c32ba58aab"
+  },
+  "candidate_freeze": {
+    "path": "problems/2017-B4/notes/rank-mesh-reasoning-r1-freeze-v1.json",
+    "bytes": 4276,
+    "sha256": "7173ee9db5d7990af60ca0731a301d9017691e42f9c741efce1e81a7d90de747"
+  },
+  "whole_claims_reconstructed": [
+    "RM1",
+    "RM1a",
+    "scoped D4 RM2",
+    "RM2a",
+    "RM3",
+    "LC3",
+    "UR3-GE"
+  ],
+  "separate_claim_checks": 20,
+  "open_substantive_issues": [
+    "RM2-01"
+  ],
+  "issue_scope": "Auxiliary perimeter-only rectifiable-window loss; multiply connected tiny-hole counterexample. Core rank disks/ports and explicitly Jordan UR3 remain reconstructed.",
+  "LC3_primary_quantifiers_reconstructed": true,
+  "UR3_conditional_for_missing_LC3_required_by_this_audit": false,
+  "author_versioned_repair_requested": true,
+  "promotion_by_reviewer": false,
+  "peer_findings_read_before_initial_freeze": false,
+  "mathematical_program_enumeration_CAS": false,
+  "author_declared_record_rows_verified": 86,
+  "all_input_unique_paths_verified": 82,
+  "earlier_own_paths_verified_unchanged": 83,
+  "git_or_shared_candidate_edits": false,
+  "only_assigned_prefix_written": true,
+  "no_H_PR_full_solution_or_novelty": true,
+  "latest_authoritative_weekly_usage": {
+    "used_percent": 25,
+    "at_utc": "2026-10-17 06:09:36 UTC",
+    "reset_unix": 1792745187,
+    "total_used_ceiling_percent": 90,
+    "integration_reserve": true
+  },
+  "records": [
+    {
+      "path": "problems/2017-B4/reviews/rank-mesh-review-2-initial-v1.md",
+      "bytes": 28995,
+      "sha256": "06f966fd314e46d382777f1b83490648c90db1f399d95a28dca7b71da745f219"
+    },
+    {
+      "path": "problems/2017-B4/reviews/rank-mesh-review-2-issues-v1.json",
+      "bytes": 11509,
+      "sha256": "287caca39357e74c58456dda9b75fbe35c1f5ce8bb8763066c8996e5a426fbc1"
+    },
+    {
+      "path": "problems/2017-B4/reviews/rank-mesh-review-2-source-checks-v1.md",
+      "bytes": 5257,
+      "sha256": "bff07291e1e96ae67bd065a0e741af127d671c1806fe65590e76f31b28dc7ea1"
+    },
+    {
+      "path": "problems/2017-B4/reviews/rank-mesh-review-2-input-checks-v1.json",
+      "bytes": 32757,
+      "sha256": "1849d3fd905fda8c1966aa9650e54e5bb7e806e50141a3001a7cf7c98f5a6293"
+    }
+  ]
+}

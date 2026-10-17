@@ -1,0 +1,81 @@
+{
+  "frozen_at_utc": "2026-10-17T06:26:25.417493+00:00",
+  "status": "candidate proof - unverified",
+  "constructor": "coordinator root",
+  "whole_fresh_nonconstructor_initially_blind_audits_required": 2,
+  "claims": [
+    "PN1 finite first-endpoint classification",
+    "PN2 joint nonvanishing",
+    "PN3 parity conjunction excluded",
+    "PN4 exact repeated-root ladder conjunction excluded"
+  ],
+  "full_degree20_or_remaining_mask_exclusion_claimed": false,
+  "finite_computation_scope": "64 odd supports, exact integer residue counterexample probe and eight prefix-vector reconstruction; no rational lifting or expanded mask search",
+  "files": [
+    {
+      "path": "problems/2021-B4/notes/coordinator-odd-support-exclusion-candidate-v1.md",
+      "bytes": 7014,
+      "sha256": "a7845441df7725edc5d30e28f7b8f28c529b0b710168ad4b068d279582c1857c"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-odd-support-counterexample-v1.py",
+      "bytes": 3068,
+      "sha256": "e03b6e537a03d692edaf1914e3592d1fce3fcd6cf29a57868173441c1acf906f"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-odd-support-counterexample-v1.json",
+      "bytes": 43910,
+      "sha256": "e18aa9bbc5a8cc6665022a5f19cf915cae360568b06d4351503a42333858ec3d"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-odd-support-run-v1.py",
+      "bytes": 1549,
+      "sha256": "68c9333844ded1d3bb73e730b4a3daaca8507ad9133f11e6bd14affaeb9443f9"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-odd-support-v1-job-start.json",
+      "bytes": 367,
+      "sha256": "a70da2a40342fd5cb540287623e5eaeec126148d10a1c6fba22e1cc50c99a184"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-odd-support-v1-job.json",
+      "bytes": 525,
+      "sha256": "3579a14b34d6364c1e97ef188a62a59181d99b51825a0364dffdc03ddad5c429"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-odd-support-v1-stdout.txt",
+      "bytes": 713,
+      "sha256": "317cff579607c3fb1abc1ec30bc9a0d30943cef14be61c3b9931497342cbc03d"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-odd-support-v1-stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r3-parity-candidate-v1.md",
+      "bytes": 10560,
+      "sha256": "6506e371c2a3eb8506f75c55ef3d80be9933ecbcd187be21fe5bd18932fe8789"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r3-parity-barrier-candidate-v1.md",
+      "bytes": 4373,
+      "sha256": "284e7ddc5a3d26111d2af4bd169b7fc6d2739a169a70ae3d38ff68d3ac03ada5"
+    },
+    {
+      "path": "problems/2021-B4/proofs/reviewed-return-r3-v1.1.md",
+      "bytes": 5304,
+      "sha256": "9cda0a35c42e7a3098418ec052180f4868ca995feee47b503971b8fc2cb6d4b4"
+    },
+    {
+      "path": "problems/2021-B4/reviews/return-r3-acceptance.md",
+      "bytes": 1043,
+      "sha256": "a3a7d9d84bfe8903777708e3b817e45e7259d239298ce435bf1adcf00f2173bc"
+    },
+    {
+      "path": "problems/2021-B4/reviews/return-r3-acceptance.json",
+      "bytes": 2768,
+      "sha256": "53917f6d1ae22bc591178f18eae767fcbe25ca611623333eb8019cac3a09b7c4"
+    }
+  ]
+}

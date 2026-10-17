@@ -1,0 +1,196 @@
+{
+  "status": "initial independent whole audit frozen before peer findings",
+  "reviewer": "/root/review_2022_complexity_r2",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "whole_packets_reconstructed": [
+    "rank mesh RM1/RM1a/RM2/RM2a/RM3",
+    "LC3 and UR3-GE"
+  ],
+  "open_substantive_issues": [
+    {
+      "id": "RM2-01",
+      "claim": "RM1a auxiliary rectifiable-window boundary-loss assertion",
+      "severity": "medium",
+      "status": "open; versioned author scope repair requested",
+      "location": "rank-mesh-reasoning-r1-candidate-v1.md, RM1a paragraph beginning If a rectifiable window; report section3",
+      "problem": "Perimeter O(L) alone does not bound the r-neighborhood area or number of discarded rank cells for multiply connected rectifiable windows.",
+      "exact_counterexample": "D2 full N-by-N12 grid, r2. Put one circular hole of radius1/(10N) in a skeleton tile strictly inside each of Theta(N^2) selected cells, away from its retained odd/odd tile. The connected window has total perimeter O(N), retains those whole tiles, but the boundary-discard procedure removes Theta(N^2) tiles rather than O(rN+r^2).",
+      "affected_scope": "The additional one-window boundary-loss sentence and any uses of it. Core RM1/RM2 and explicitly Jordan GE3/UR3 do not rely on the false unrestricted version.",
+      "required_author_action": "State a rectifiable Jordan/connected-boundary window hypothesis, or a controlled boundary-component/tube hypothesis with the appropriate extra term; check affected references. Preserve v1 and provide a versioned repair.",
+      "reaudit_required": true
+    }
+  ],
+  "unresolved_substantive_objections": 1,
+  "author_repair_requested": true,
+  "LC3_source_import_failed": false,
+  "UR3_conditional_on_missing_LC3_required_by_this_audit": false,
+  "promotion_by_reviewer": false,
+  "per_claim_checks": [
+    {
+      "id": "RM2-C01",
+      "claim": "RM1-CELLS",
+      "location": "Report sections1-2",
+      "adversarial_concern": "Selected curve cells mistaken for whole-tile disks",
+      "resolution": "Reconstructed separating-sign connected visits, the selected-arc no-hole escape, biconnected tile blocks and the simple outer-cycle argument.",
+      "disposition": "no further substantive objection after reconstruction"
+    },
+    {
+      "id": "RM2-C02",
+      "claim": "RM1-PORTS",
+      "location": "Report section2",
+      "adversarial_concern": "Several residual components counted with one perimeter bound per block",
+      "resolution": "Each unselected full arc has one consecutive retained tile chain in one block and exactly two ports if nonempty. Summed perimeter is2n_F across all blocks.",
+      "disposition": "no further substantive objection after reconstruction"
+    },
+    {
+      "id": "RM2-C03",
+      "claim": "RM1-SIZES",
+      "location": "Report section2",
+      "adversarial_concern": "End tails, absent selected ranks or boundary cells exceed r bounds",
+      "resolution": "Every color has at most r-1 residual ranks; coordinate ranges have width at most r including tails, giving n_F, tile and physical-diameter bounds.",
+      "disposition": "no further substantive objection after reconstruction"
+    },
+    {
+      "id": "RM2-C04",
+      "claim": "RM1a-CODE",
+      "location": "Report section3",
+      "adversarial_concern": "Independent tile coordinates or ranks create unwanted logarithmic/factorial costs",
+      "resolution": "Fixed endpoints and other-color crossing words reconstruct midpoint steps, whole tile geometry and every rank. Repeated selected/selected recording is harmless.",
+      "disposition": "no further substantive objection after reconstruction"
+    },
+    {
+      "id": "RM2-C05",
+      "claim": "RM1a-RARE",
+      "location": "Report section3",
+      "adversarial_concern": "Rare tiles touching vertices meet unbounded numbers of faces",
+      "resolution": "At most two selected arcs cross a tile and none passes through its vertices, giving at most four selected faces. Conditional known-domain filling codes have exponential area cost.",
+      "disposition": "no further substantive objection after reconstruction"
+    },
+    {
+      "id": "RM2-C06",
+      "claim": "RM1a-REPLACEMENT",
+      "location": "Report section3",
+      "adversarial_concern": "Arbitrary filling changes selected skeleton or adds rare events",
+      "resolution": "No selected ports means an additional selected level would be a closed track. Zero rare-pair boundary flux forces zero events by nonnegative tile contributions.",
+      "disposition": "no further substantive objection after reconstruction"
+    },
+    {
+      "id": "RM2-C07",
+      "claim": "RM2-LIMIT",
+      "location": "Report section4",
+      "adversarial_concern": "Uniform limit collapse assumed to have connected fibers",
+      "resolution": "Preimages of convex target caps under the positive homeomorphisms are connected, contain the fiber and converge exactly to it.",
+      "disposition": "no further substantive objection after reconstruction"
+    },
+    {
+      "id": "RM2-C08",
+      "claim": "RM2-CLOSED-EMBEDDING",
+      "location": "Report section4",
+      "adversarial_concern": "Forbidden-free interior fails at boundary vertices",
+      "resolution": "All incident forbidden tiles, including outside contacts, are excluded. This gives local homeomorphisms on the full closed disk; connected fibers with an isolated point are singletons.",
+      "disposition": "no further substantive objection after reconstruction"
+    },
+    {
+      "id": "RM2-C09",
+      "claim": "RM2-D4-PORTS",
+      "location": "Report section5",
+      "adversarial_concern": "A merged coarse curve can leave and revisit via changing barriers",
+      "resolution": "The one-merged-pair/two-singleton restriction fixes singleton barriers; return restores a sign and would cross one twice. No multiple-nonsingleton extension is claimed.",
+      "disposition": "no further substantive objection after reconstruction"
+    },
+    {
+      "id": "RM2-C10",
+      "claim": "RM2-LIFTING",
+      "location": "Report section5",
+      "adversarial_concern": "Coarse ports do not fix fine identities or an abstract map folds",
+      "resolution": "Complete coarse ranks identify the same two ports. Fine identities agree at both; integration on the disk and positive boundary degree give a genuine fine tiling. Coarsening recovers it.",
+      "disposition": "no further substantive objection after reconstruction"
+    },
+    {
+      "id": "RM2-C11",
+      "claim": "RM2-DILATION",
+      "location": "Report section5",
+      "adversarial_concern": "Dilation loses consecutive ranks or introduces a matching choice",
+      "resolution": "Each port repeats M times at prescribed consecutive multiplied ranks; reference subdivision fixes them before insertions vary.",
+      "disposition": "no further substantive objection after reconstruction"
+    },
+    {
+      "id": "RM2-C12",
+      "claim": "RM2a",
+      "location": "Report section6",
+      "adversarial_concern": "Zero-row deletion or the two-group endpoint assumed to be a general port theorem",
+      "resolution": "Zero-row tracks act as a translation on the good disk. Two-group coarse grid uniqueness is a separate straight-track argument, conditional on compatible positive groups.",
+      "disposition": "no further substantive objection after reconstruction"
+    },
+    {
+      "id": "RM2-C13",
+      "claim": "RM3-GE",
+      "location": "Report section6",
+      "adversarial_concern": "Bounded diameter alone substituted for a fixed small exterior",
+      "resolution": "Deleting inactive curves changes a connected disk only by translation/rank shift. The active full arrangement has O(r) curves and deforms to a genuine small lozenge zonogon exterior.",
+      "disposition": "no further substantive objection after reconstruction"
+    },
+    {
+      "id": "RM2-C14",
+      "claim": "RM3-AGGREGATION",
+      "location": "Report section6",
+      "adversarial_concern": "One recovery error per face ignores several biconnected blocks",
+      "resolution": "Aggregate perimeter controls small areas by isoperimetry; only O(1/delta) large blocks remain. The sqrt(delta)+eta/delta sum and order L then r are checked.",
+      "disposition": "no further substantive objection after reconstruction"
+    },
+    {
+      "id": "RM2-C15",
+      "claim": "LC3-SOURCE",
+      "location": "Report section7",
+      "adversarial_concern": "The primary theorem only gives pointwise convergence for one region sequence",
+      "resolution": "Read the explicit Theorem4.3 statement and proof. Fixed target/mesh then tolerance and large n give the required uniform approximation class. Printed page13 explicitly includes lozenges.",
+      "disposition": "no further substantive objection after reconstruction"
+    },
+    {
+      "id": "RM2-C16",
+      "claim": "LC3-METRIC",
+      "location": "Report section7",
+      "adversarial_concern": "The refined from-within requirement for every limiting height is omitted",
+      "resolution": "Inset geometry and global convex-triangle Lipschitz bounds compare every admissible h to affine p near the boundary, giving the refined metric and missing-area bound.",
+      "disposition": "no further substantive objection after reconstruction"
+    },
+    {
+      "id": "RM2-C17",
+      "claim": "LC3-UPPER-UNIFORMITY",
+      "location": "Report section7",
+      "adversarial_concern": "A height-neighborhood theorem does not automatically bound all fillings uniformly in slope",
+      "resolution": "Fixed-exterior extensions approach compact AH(T,p); finite source neighborhoods bound total count. Jensen and continuity plus finite affine covers include frozen slopes, with consistent entropy units.",
+      "disposition": "no further substantive objection after reconstruction"
+    },
+    {
+      "id": "RM2-C18",
+      "claim": "UR3-CORES-CODE",
+      "location": "Report section8",
+      "adversarial_concern": "Core topology or scalar-height phase varies within a cut fiber",
+      "resolution": "Deep inset tiles form one edge-connected block; removed crossing tiles cannot enclose holes. The fixed retained physical region determines its pinch blocks and the cut heights fix all boundary vertices.",
+      "disposition": "no further substantive objection after reconstruction"
+    },
+    {
+      "id": "RM2-C19",
+      "claim": "UR3-PLANES-GAUGES",
+      "location": "Report section9",
+      "adversarial_concern": "The limiting affine plane has inadmissible slope or unbounded local constant",
+      "resolution": "Use differentiability slopes or the boundary-integral average-gradient correction, and a known local height gauge. Undo the gauge for gluing; no count or phase freedom is added.",
+      "disposition": "no further substantive objection after reconstruction"
+    },
+    {
+      "id": "RM2-C20",
+      "claim": "UR3-LIMITS",
+      "location": "Report section9",
+      "adversarial_concern": "Fixed-width defects after dilation or reversed limit orders invalidate recovery",
+      "resolution": "LC3 is used at a fixed chosen tolerance, uniformly over MQ; relative original strip width is already below it. r_j large precedes M to infinity at each fixed j. Product insertions recover by restriction.",
+      "disposition": "no further substantive objection after reconstruction"
+    }
+  ],
+  "mathematical_program_enumeration_or_CAS": false,
+  "no_H_PR_or_full_solution": true
+}

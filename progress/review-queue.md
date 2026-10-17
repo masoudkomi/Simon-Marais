@@ -1,6 +1,8 @@
 # Independent review queue
 
-Current 2026-10-17 00:52UTC checkpoint: fixedD structural/P1 v1.1 is
+Current **2026-10-17 06:34UTC**: annulus repair/CUT/clean/RP/ST,2019M1-M3,2021sevenreturnpackets,2022return,2024C7/C11 and2025PG1-PG4 are accepted after both whole audits and root reconciliation. RK/UR3 remains unverified: both whole initials found the auxiliary perimeter-only window claim needs Jordan/controlled-component scope; author repair then BOTH targeted reaudits required. OC1-OC3 and PN1-PN4 have fresh whole audits underway/queued. CF1 first-case class-group corollary is frozen unverified, not yet assigned. The dimension-induction program is explicitly unproved and not a candidate theorem. Weekly26%, same reset; cutoff90%total with reserve.
+
+Historical 2026-10-17 00:52UTC checkpoint (superseded below): fixedD structural/P1 v1.1 is
 accepted after FD2-01 author repair and BOTH targeted re-audits; frozen
 v1 false consequence/counterexample preserved. DG1/DG2 accepted after
 both full blind whole audits. Annulus v1.1 repairs AR1-01; both targeted
@@ -56,7 +58,7 @@ Finite exact checks by an author or coordinator do not count as the two independ
 
 | 2022 rational-lift factor complexity | arithmetic-reasoning-complexity-candidate-v1.md SHAe9c24e96982d1d2a74aa97cb5fd045a3319f37c69316fbada884eeec0a0412d3 | Rational controller lift periodic or complexity slope>=log10/log1.1; explicit low-complexity irrational avoiding lifts; Dubickas adaptation | Fresh arithmetic-complexity R1 complete, blind whole reconstruction | Fresh arithmetic-complexity R2 complete, blind whole reconstruction | Proved, independently reviewed partial adaptation; arithmetic-complexity-acceptance.md/json; high-complexity integer avoiding paths unresolved |
 
-| 2017 fixedD structural/profile lemmas | fixedD-reasoning-r1-freeze-v1.json | Integer model, lift constraints, nonconvex fixed-frame example, weak-order band lemma, periodic backgrounds and profile limsup identity | Fresh fixedD R1 complete, blind whole report root-read | Fresh fixedD R2 active, blind | Candidate proof - unverified; H and annular recovery open |
+| 2017 fixedD structural/profile lemmas | fixedD-reasoning-r1-freeze-v1.json | Integer model, lift constraints, nonconvex fixed-frame example, weak-order band lemma, periodic backgrounds and profile limsup identity | Fresh fixedD R1 complete, blind whole report root-read | Fresh fixedD R2 complete, blind; both targeted reaudits complete | Scoped structural/P1 accepted after FD2-01 repair; H and global recovery open |
 
 | 2021 sole-H4 residue classification | coordinator-J15-soleH4-freeze-v1.json | Three necessary equal-valuation residue patterns and exact actual witness roles; no mask exclusion | Fresh R1 complete, blind whole reconstruction | Fresh R2 joint whole reconstruction complete, blind | Proved, independently reviewed necessary patterns only; single-center-acceptance.md/json |
 
@@ -64,9 +66,9 @@ Finite exact checks by an author or coordinator do not count as the two independ
 
 | 2024 low factors and ordinary-point descent | structural-reasoning-r2-candidate-v1.md SHA0c451d5f9410573625725bc6be35af91fe938deee4dc1d92910572374dc69f52 | T1-T4 partial structural restrictions, exact hypotheses; no exponent classification | Fresh R1 whole blind audit complete | Fresh R2 whole blind audit complete | Proved, independently reviewed; structural-acceptance.md/json; editorial heading correction only |
 
-| 2017 directed geodesics and affine side paths | coordinator-directed-geodesics-freeze-v1.json SHA0fe9e72b07d12d7a5e417e14a56fec06191ea7f76a9f8787ea533cdd9824bcb6 is candidate hash | DG1/DG2 disk adaptation of source arc lemma and strictly positive affine side localization; no closed annulus | Pending fresh nonconstructor | Pending second fresh nonconstructor | Candidate proof - unverified |
+| 2017 directed geodesics and affine side paths | coordinator-directed-geodesics-freeze-v1.json SHA0fe9e72b07d12d7a5e417e14a56fec06191ea7f76a9f8787ea533cdd9824bcb6 is candidate hash | DG1/DG2 disk adaptation of source arc lemma and strictly positive affine side localization; no closed annulus | Both fresh whole audits complete | Both fresh whole audits complete | DG1/DG2 accepted; directed-geodesics-acceptance.md/json |
 
-## 2026-10-17 return checkpoint
+## Historical 2026-10-17 return checkpoint (superseded by current status)
 
 -2022returnR0-R3/S1-S2: BOTH fresh whole nonconstructor audits complete, rootreadFULLreports/issues/sources,431recordsverified; scoped acceptedcopy proofreviewed-return-r3-v1.1. No universal equality/termination conclusion.
 -2024C7/C11: scopedrootaccepted after both wholeaudits/fullreads/88records; nextpushincludesacceptedproof.

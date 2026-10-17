@@ -1,0 +1,122 @@
+{
+  "status": "initial independent whole audit frozen before peer findings",
+  "reviewer": "/root/review_2022_complexity_r2",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "whole_targets_reconstructed": [
+    "PG1",
+    "PG2",
+    "PG3",
+    "PG4 attributed corollary"
+  ],
+  "open_substantive_issues": [],
+  "unresolved_substantive_objections": 0,
+  "author_repair_requested": false,
+  "promotion_by_reviewer": false,
+  "peer_power_gap_findings_read": false,
+  "per_claim_checks": [
+    {
+      "id": "PG2-C01",
+      "claim": "Official domain/index",
+      "resolution": "n is the official degree and m=n+1 is the term count. Auxiliary G_2 never asserts n=1.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "PG2-C02",
+      "claim": "Accepted inputs",
+      "resolution": "C1/C2/C4 are the exact accepted frozen interfaces; the separate full classification remains conjectural.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "PG2-C03",
+      "claim": "Signed nonzero/gcd interface",
+      "resolution": "Every factor is nonzero, even auxiliary two-term factors; coprime products give absolute powers and odd q restores signs.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "PG2-C04",
+      "claim": "PG1 positive tail",
+      "resolution": "Finite geometric tail gives a strict upper bound; exponent difference is s-q-1<=0 and the ratio is <=2/3.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "PG2-C05",
+      "claim": "PG1 negative tail",
+      "resolution": "The alternating leading sign is correct and 0<D<=u^(s-2); the previous-power gap is strictly larger than B^(q-1).",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "PG2-C06",
+      "claim": "PG1 endpoints",
+      "resolution": "s=2, s=q+1, |t|=2 and q=2 in the positive case retain strict gaps. No primality assumption is needed.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "PG2-C07",
+      "claim": "PG2 coprime branch",
+      "resolution": "C4 with r=q,s=s and PG1 exclude signed q-th-power B when gcd=1; q odd is essential to the sign restoration.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "PG2-C08",
+      "claim": "PG2 non-q common prime",
+      "resolution": "ell does not divide x and x is not1 mod ell; its order is exactly prime q. Odd q gives ell>=2q+1, including exclusion of ell2.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "PG2-C09",
+      "claim": "PG2 common q",
+      "resolution": "q|s with 2<=s<=q+1 forces s=q. The F_q polynomial identity forces x1 mod q and signed LTE valuation2 contradicts q>=3.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "PG2-C10",
+      "claim": "PG3 characteristic q",
+      "resolution": "Freshman dream for r=q^(a-1) and cancellation in F_q[X] give gcd=1 unless x1 mod q.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "PG2-C11",
+      "claim": "PG3 gap application",
+      "resolution": "t=x^(q^(a-2)) is an integer with |t|>=2, including a2. PG1 applies at s=q; a1 is outside the statement.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "PG2-C12",
+      "claim": "PG3 valuation conclusion",
+      "resolution": "Signed LTE gives valuation a and therefore q|a. No sufficiency or elementary elimination of multiples of q is asserted.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "PG2-C13",
+      "claim": "PG4 primary domain",
+      "resolution": "Bennett-Levin Equation1 is signed; C1 supplies its nontrivial |y| condition and m=q^a>2.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "PG2-C14",
+      "claim": "PG4 exceptions/deduction",
+      "resolution": "All known term-count/exponent pairs lie outside the target. q3 and q>=5 branches exhaust the odd primes and contradict the imported restrictions plus PG3.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "PG2-C15",
+      "claim": "Positive-base attribution",
+      "resolution": "Bugeaud-Mihailescu Equation1/Theorem1 were checked in the primary PDF. Their positive-domain stronger overlap is attributed without a negative-base extension.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "PG2-C16",
+      "claim": "Scope/unused leads",
+      "resolution": "No full diagonal or general classification, class-group premise, finite prime computation, novelty or preliminary solution is inferred.",
+      "disposition": "no substantive objection after whole reconstruction"
+    }
+  ],
+  "external_theorem_statements_domain_and_application_checked": true,
+  "full_external_theorem_proofs_newly_reconstructed": false,
+  "mathematical_program_enumeration_CAS": false,
+  "full_B4_solution_or_novelty_claim": false
+}

@@ -1,0 +1,36 @@
+{
+  "frozen_at_utc": "2026-10-17T06:22:23.895396+00:00",
+  "status": "candidate proof - unverified",
+  "constructor": "coordinator root",
+  "whole_fresh_nonconstructor_initially_blind_audits_required": 2,
+  "claims": [
+    "OC1",
+    "OC2",
+    "OC3",
+    "D4 stratum type corollary"
+  ],
+  "H_PR_or_global_recovery_claimed": false,
+  "mathematical_computation_used": false,
+  "files": [
+    {
+      "path": "problems/2017-B4/notes/coordinator-orientation-charts-candidate-v1.md",
+      "bytes": 8985,
+      "sha256": "a64eea09f6cab7ba86f158cc685ab20d35742c4d8dbfc3dfb60260a3b7ada552"
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-fixedD-structural-v1.2.md",
+      "bytes": 16602,
+      "sha256": "421dc271ed65831e3aa70057a0d74c4d999ba8249dfa2b99066dfdc298f86868"
+    },
+    {
+      "path": "problems/2017-B4/reviews/fixedD-structural-acceptance.md",
+      "bytes": 1602,
+      "sha256": "0ed34669cc8c3753cb623690b8cd70ece8e344fd44b28ede63f3775af32d5aa3"
+    },
+    {
+      "path": "problems/2017-B4/statement.md",
+      "bytes": 2140,
+      "sha256": "e459750064b4e25e3eaa71f25f236c046548147e415b06d8bd097839020228f3"
+    }
+  ]
+}
