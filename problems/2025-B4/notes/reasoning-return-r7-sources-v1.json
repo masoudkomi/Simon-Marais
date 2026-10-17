@@ -1,0 +1,123 @@
+{
+  "recorded_at_utc": "2026-10-17T18:22:09.558832+00:00",
+  "status": "candidate proof - unverified; precise documentary source roles",
+  "official": {
+    "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc2025_paper_b.pdf",
+    "open_part": "B4(b), all integers x,y,n,q, n,q>=2",
+    "arithmetic_sector": "G_p(x)=y^p,p>=37 prime,|x|>=2,signed x retained",
+    "local_statement": {
+      "path": "problems/2025-B4/statement.md",
+      "bytes": 2024,
+      "sha256": "af0075dd635e8e4d31bb3ae9148d1731a7fbb57c06cf104763332e1496673f59"
+    }
+  },
+  "accepted_input_records": [
+    {
+      "path": "problems/2025-B4/proofs/reviewed-partial-v1.1.md",
+      "bytes": 1803,
+      "sha256": "29276223791ec301bdbacf335e1fa20a5ca1e65c50f354035abd46b9400e9674"
+    },
+    {
+      "path": "problems/2025-B4/proofs/reviewed-power-gap-return-v1.1.md",
+      "bytes": 11931,
+      "sha256": "178bcd9ace1c34ac6762f4857f7da85b5b55ff07f4d2308a83bfe57a11749850"
+    },
+    {
+      "path": "problems/2025-B4/proofs/reviewed-diagonal-firstcase-v1.1.md",
+      "bytes": 5436,
+      "sha256": "1f4e63b83f0e5de1163691d5fe715efaaa16d1b9ad058546cee41ea46f04a281"
+    },
+    {
+      "path": "problems/2025-B4/proofs/reviewed-diagonal-moment-v1.1.md",
+      "bytes": 10168,
+      "sha256": "4e25e67e6459134cb5b6c618baef91c37f30bb1dae542d7426fb61450ce4a4f7"
+    },
+    {
+      "path": "problems/2025-B4/proofs/reviewed-Fueter-selection-return-v1.1.md",
+      "bytes": 20505,
+      "sha256": "230dfe9da040e98506bc6fabd5c37c356fb756d5128f990eb9a4fe2ee7e3181a"
+    },
+    {
+      "path": "problems/2025-B4/proofs/reviewed-original-weight-selection-v1.1.md",
+      "bytes": 9301,
+      "sha256": "06071958bafd1fa51d5ceba798b2dab18fb1e441c4a105f093595be78c96110f"
+    },
+    {
+      "path": "problems/2025-B4/proofs/reviewed-original-weight-universal-v1.1.md",
+      "bytes": 22590,
+      "sha256": "bb4d3f1b378f8062ba5d1f6e8ee0a197f0f09f01e4f97b7abe8195a9627cd2c4"
+    },
+    {
+      "path": "problems/2025-B4/proofs/reviewed-reciprocal-kernel-v1.1.md",
+      "bytes": 12969,
+      "sha256": "41d1882ce1efa59f24b5d76636125edeb037e712add8ee93632c2aa3d8030e60"
+    },
+    {
+      "path": "problems/2025-B4/proofs/reviewed-reasoning-return-r6-v1.1.md",
+      "bytes": 28748,
+      "sha256": "4e157819789da12d6f26e89929d88ec886d52947405d836fe3957ab8ee727d3a"
+    }
+  ],
+  "accepted_R6_frozen_parent": {
+    "path": "problems/2025-B4/notes/reasoning-return-r6-freeze-v1.json",
+    "bytes": 3350,
+    "sha256": "72885d683855f2bf61f5aeb225f7d17ccecc2dc1e8898c7aae88161b549a26f0"
+  },
+  "accepted_R6_byte_identical_original_candidate": {
+    "path": "problems/2025-B4/notes/reasoning-return-r6-candidate-v1.md",
+    "bytes": 25588,
+    "sha256": "bdf566f44dcabb5b7bbfb96778b1dd58b7375bf46fcd697c3579564e5e9da627"
+  },
+  "R6_all_eight_frozen_artifacts_verified": 8,
+  "primary_sources": [
+    {
+      "author": "Preda Mihailescu",
+      "title": "Class Number Conditions for the Diagonal Case of the Equation of Nagell and Ljunggren",
+      "year": 2008,
+      "doi": "10.1007/978-3-211-74280-8_15",
+      "url": "https://www.researchgate.net/publication/226863681_Class_Number_Conditions_for_the_Diagonal_Case_of_the_Equation_of_Nagell_and_Ljunggren",
+      "internal_version": "2.0,2007-09-17",
+      "actual_read": "Relevant2.2/2.3/2.5/2.5.1/4.2 and complete4.3 in current/preceding R6; Theorem3 statement rechecked current",
+      "import": "Attributed classical matched-prime Jacobi ideal formula and standard cyclotomic background, as accepted R6",
+      "attribution": "Phase additivity, idempotents and zero-signature norm mechanism are existing ideas",
+      "not_imported": "Full Theorems3/4, class-number exclusion, all-conjugate target, generalized e1, or arbitrary-lift coefficientwise phase invariance",
+      "binary_downloaded": false,
+      "new_binary_sha256": null
+    },
+    {
+      "authors": [
+        "B. Bartolome",
+        "P. Mihailescu"
+      ],
+      "title": "On the equation X^n-1=BZ^n",
+      "url": "https://arxiv.org/pdf/1412.5798v2",
+      "actual_read": "Earlier complete relevant5-18 including appendices5.1/5.1.1/5.2 retained; targeted current series/bouquet and5.2 reads",
+      "cached_binary": {
+        "path": ".cache/literature/deep-literature-r1/2025-bartolome-mihailescu-binary-thue-v2.pdf",
+        "bytes": 300321,
+        "sha256": "7108b665ebed8b2364c5a6629951d21abd400c96d4e7d5f4f81028f12ed424aa"
+      },
+      "role": "Existing series/Vandermonde/bouquet context, no new arithmetic theorem import"
+    },
+    {
+      "authors": [
+        "Chang Liu",
+        "Preda Mihailescu"
+      ],
+      "title": "An alternative proof of the Catalan conjecture",
+      "journal": "Bulletin Transilvania University Brasov,SeriesIII5(67),1(2025),161-172",
+      "doi": "10.31926/but.mif.2025.5.67.1.12",
+      "url": "https://webbut.unitbv.ro/index.php/Series_III/article/download/8768/6170/17457",
+      "actual_read": "All12pages, actual Proposition1, pair-module quotient action, applications and final remark",
+      "hypothesis_boundary": "q>p; q=p expressly deferred; NOT a diagonal input",
+      "role": "Unimported lead; diagonal quotient-invariance obligation isolated, no arithmetic theorem refutation",
+      "binary_downloaded": false,
+      "new_binary_sha256": null
+    }
+  ],
+  "old_FS_R6_authorship_and_prior_review_roles_disclosed": true,
+  "no_fresh_unrelated_mathematics_reread_for_administration": true,
+  "mathematical_program_CAS_scan_table_certificate_or_author_rerun": false,
+  "new_binary_download_cache_mutation_third_party_redistribution": false,
+  "novelty_annual_or_published_theorem_refutation_claim": false
+}

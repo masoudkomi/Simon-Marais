@@ -1,0 +1,85 @@
+{
+  "recorded_at_utc": "2026-10-17T18:37:01.539498+00:00",
+  "accepted_mathematical_inputs": [
+    {
+      "path": "problems/2019-B4/notes/secondpass-canonical-renewal.md",
+      "bytes": 11807,
+      "sha256": "886266000a34023b033099889a3bb23bc6b3e642194ded12ce53b3aaa1642763"
+    },
+    {
+      "path": "problems/2019-B4/notes/secondpass-rigidity-obstructions.md",
+      "bytes": 8447,
+      "sha256": "58112ed40ba7146c8b5885669602d44770bdd525540c4221eaf17b101eb1c109"
+    },
+    {
+      "path": "problems/2019-B4/notes/secondpass-staircases-and-pumping.md",
+      "bytes": 10885,
+      "sha256": "5e2539982e32d116076c2c17ad8e85d865792a14630db04634c7372ae345cd52"
+    },
+    {
+      "path": "problems/2019-B4/notes/thirdpass-bounded-separation-v1.md",
+      "bytes": 15965,
+      "sha256": "3364e8c6cf23ba3ecb250f13a5873732c108b6904a68126f52f5d7234eb916d4"
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-moment-regular-tail-candidate-v1.md",
+      "bytes": 8455,
+      "sha256": "29b02df71668db17b7111319d40ccdcdf798bed19dad4a8b76c7bcedaa332ef2"
+    },
+    {
+      "path": "problems/2019-B4/proofs/reviewed-moment-tail-v1.1.md",
+      "bytes": 9630,
+      "sha256": "b9d934da65eedf4514ef7883e29dda98ee846982e89c8e3ee677f2c96bff2ee8"
+    },
+    {
+      "path": "problems/2019-B4/reviews/secondpass-acceptance.md",
+      "bytes": 2340,
+      "sha256": "a167e1f52bff2503c6ac571ea047efe7621425f2379868a0a6db31eccd22aefa"
+    },
+    {
+      "path": "problems/2019-B4/reviews/thirdpass-acceptance.md",
+      "bytes": 2856,
+      "sha256": "3aa35ed0db260b45394676681426fa5c504e7414d9bbad143ac1eed65ffb105f"
+    },
+    {
+      "path": "problems/2019-B4/reviews/moment-tail-acceptance.md",
+      "bytes": 1912,
+      "sha256": "d3647718f04eb1a67dce90b5ffb103cdefc4400dc86d64103e828a199b6e064e"
+    }
+  ],
+  "immutable_authority_bindings": [
+    {
+      "metadata": {
+        "path": "problems/2019-B4/reviews/secondpass-acceptance.json",
+        "bytes": 2679,
+        "sha256": "66e98c9c9eb36ce02c87c69532a0e930be8bd4a4f0eec5e043ecd5f6bf068d6b"
+      },
+      "declared_occurrences_verified": 14
+    },
+    {
+      "metadata": {
+        "path": "problems/2019-B4/reviews/thirdpass-acceptance.json",
+        "bytes": 1972,
+        "sha256": "a15e724834992260d040295c402953f7aa65a903f656aafae7b3ea61ca1f0606"
+      },
+      "declared_occurrences_verified": 7
+    },
+    {
+      "metadata": {
+        "path": "problems/2019-B4/reviews/moment-tail-acceptance.json",
+        "bytes": 2076,
+        "sha256": "794c5ce1bb7793cb597bc55b40b94bb451353e742fadf2a4100b0a18782f09f2"
+      },
+      "declared_occurrences_verified": 6
+    }
+  ],
+  "new_external_mathematical_theorem_imported": false,
+  "primary_discovery": {
+    "url": "https://lipn.univ-paris13.fr/~banderier/Papers/Dyck/",
+    "actual_read": "entire20-line unfinished outline, no counting theorem",
+    "theorem_imported": false
+  },
+  "root_old_moment_constructor_roles_disclosed": true,
+  "all_third_party_papers_local_ignored": true,
+  "novelty_established": false
+}

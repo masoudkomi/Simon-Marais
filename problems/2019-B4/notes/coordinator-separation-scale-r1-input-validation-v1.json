@@ -1,0 +1,50 @@
+{
+  "checked_at_utc": "2026-10-17T18:37:01.539498+00:00",
+  "administrative_only": true,
+  "all_declared_records_verified": true,
+  "record_occurrences": 27,
+  "unique_paths": 27,
+  "historical_inventory_not_copied": true,
+  "reproduction": "Recursive path/sha256 and legacy path->sha256 declarations in exact immutable authority JSON; resolve existing repository-relative first, otherwise exact2019 problem-relative; every available bytes value also checked.",
+  "authority_bindings": [
+    {
+      "metadata": {
+        "path": "problems/2019-B4/reviews/secondpass-acceptance.json",
+        "bytes": 2679,
+        "sha256": "66e98c9c9eb36ce02c87c69532a0e930be8bd4a4f0eec5e043ecd5f6bf068d6b"
+      },
+      "declared_occurrences_verified": 14
+    },
+    {
+      "metadata": {
+        "path": "problems/2019-B4/reviews/thirdpass-acceptance.json",
+        "bytes": 1972,
+        "sha256": "a15e724834992260d040295c402953f7aa65a903f656aafae7b3ea61ca1f0606"
+      },
+      "declared_occurrences_verified": 7
+    },
+    {
+      "metadata": {
+        "path": "problems/2019-B4/reviews/moment-tail-acceptance.json",
+        "bytes": 2076,
+        "sha256": "794c5ce1bb7793cb597bc55b40b94bb451353e742fadf2a4100b0a18782f09f2"
+      },
+      "declared_occurrences_verified": 6
+    }
+  ],
+  "exact_direct_dependencies_in": {
+    "path": "problems/2019-B4/notes/coordinator-separation-scale-r1-sources-v1.json",
+    "bytes": 3035,
+    "sha256": "f99dfce688242be348e1e6c9eb5f5c13f3802faa145989c2e3900b885a7fcc83"
+  },
+  "accepted_moment_suffix_unchanged": true,
+  "mathematical_sign_not_rerun_in_freeze": true,
+  "first_admin_attempt_failed_before_outputs": true,
+  "original_metadata_checker_preserved": true,
+  "one_child_job": {
+    "path": "problems/2019-B4/notes/coordinator-separation-scale-r1-sign-job-v1.json",
+    "bytes": 476,
+    "sha256": "23debb80ea2a85c29866719b0766d6059cd6c98fc6d450a664beb88b81c94734"
+  },
+  "two_OTHER_whole_initially_blind_nonconstructor_audits_still_required": true
+}

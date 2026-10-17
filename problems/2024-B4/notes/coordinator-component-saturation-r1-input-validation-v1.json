@@ -1,0 +1,131 @@
+{
+  "checked_at_utc": "2026-10-17T18:12:56.637978+00:00",
+  "administrative_only": true,
+  "all_verified": true,
+  "record_occurrences": 666,
+  "unique_paths": 576,
+  "immutable_metadata": [
+    {
+      "metadata": {
+        "path": "problems/2024-B4/reviews/reasoning-components-r1-acceptance.json",
+        "bytes": 3747,
+        "sha256": "58053138aaac34aaf01cdbcb9e703f6b53afff113c05d176c538919f19ba924c"
+      },
+      "declared_record_occurrences_verified": 12
+    },
+    {
+      "metadata": {
+        "path": "problems/2024-B4/reviews/reasoning-components-r1-acceptance-integrity.json",
+        "bytes": 3043,
+        "sha256": "0631a1af3994447bd1c2f4b0ffedef7f9b244af4a8279759825cfe1edb6aacd3"
+      },
+      "declared_record_occurrences_verified": 10
+    },
+    {
+      "metadata": {
+        "path": "problems/2024-B4/notes/reasoning-components-r1-input-validation-v1.json",
+        "bytes": 154029,
+        "sha256": "7babd6039aa29df860b8ee1e7a45a887ed5f24d72cf8e701ebc3a8784edc7eaf"
+      },
+      "declared_record_occurrences_verified": 602
+    },
+    {
+      "metadata": {
+        "path": "problems/2024-B4/notes/reasoning-components-r1-authority-hash-only-addendum-v1.json",
+        "bytes": 3673,
+        "sha256": "3aac70a9a54b40f00087007562de109d9325419190e65aecbea9bae76c9b7133"
+      },
+      "declared_record_occurrences_verified": 13
+    },
+    {
+      "metadata": {
+        "path": "problems/2024-B4/reviews/Kasami-whole-criterion-acceptance.json",
+        "bytes": 3104,
+        "sha256": "d191f7c685c2e02065aebd2b63aac39f007aa04ec5f58253b3ee3da918a452f4"
+      },
+      "declared_record_occurrences_verified": 10
+    },
+    {
+      "metadata": {
+        "path": "problems/2024-B4/reviews/generalized-Kasami-acceptance.json",
+        "bytes": 5168,
+        "sha256": "c580e2e51475b46283b16c47992a625fc3437c0a0a4669c63394f6a5bafbbf67"
+      },
+      "declared_record_occurrences_verified": 19
+    }
+  ],
+  "direct_inputs": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2024-B4/statement.md",
+      "bytes": 2470,
+      "sha256": "60244f7752634772adb434efbdb41a63fb02029dc3be4238f3718c6e5ec84e5f"
+    },
+    {
+      "path": "problems/2024-B4/proofs/reviewed-Kasami-whole-criterion-v1.1.md",
+      "bytes": 10678,
+      "sha256": "b78b770e4f0b19481c1c7b136295cff2a2876d0e4e5f9c0fa1f6112c64944e1c"
+    },
+    {
+      "path": "problems/2024-B4/proofs/reviewed-generalized-Kasami-v1.1.md",
+      "bytes": 12828,
+      "sha256": "eff29275bed2eb037a90bd8935c7c00740e66874c03f973a2996daa8f131d36e"
+    },
+    {
+      "path": "problems/2024-B4/proofs/reviewed-reasoning-components-r1-v1.1.md",
+      "bytes": 27459,
+      "sha256": "43f095a4286919a32db16298ae6ddde016f9ee10de9394c45584c69ca186fe36"
+    },
+    {
+      "path": "problems/2024-B4/notes/coordinator-ferard-retrieval-followup-v1.md",
+      "bytes": 3775,
+      "sha256": "40dbd08cee83f78c15222a837a4ac3164adc0da3c29b7873292a62c0234fe7c0"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-40.png",
+      "bytes": 97019,
+      "sha256": "ddd81d64f2dd4181e5fd0529c87d21b64a09b45812438c56edb5c954afc1cd65"
+    }
+  ],
+  "compact_binding_instead_of_recopying_entire_historical_inventory": true,
+  "exact_records_remain_reproducible_in_immutable_referenced_inputs": true,
+  "whole_obligation_ids": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07",
+    "08",
+    "09",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30"
+  ],
+  "root_new_constructor_excluded_from_independent_review_count": true,
+  "mathematical_program_CAS_scan_or_source_certificate_rerun": false,
+  "new_year_or_full_annual_classification_or_novelty_claim": false
+}

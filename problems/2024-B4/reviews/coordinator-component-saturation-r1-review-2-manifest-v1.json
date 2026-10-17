@@ -1,0 +1,98 @@
+{
+  "frozen_at_utc": "2026-10-17T18:36:21.226318+00:00",
+  "status": "COMPLETE initially blind NONCONSTRUCTOR WHOLE R2 initial freeze; recommendation only, no promotion",
+  "reviewer": "/root/review_2022_complexity_r2",
+  "constructor": "coordinator root, excluded from independent reviewer count",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "independently_verified_effective_settings": null,
+  "target": {
+    "path": "problems/2024-B4/notes/coordinator-component-saturation-r1-candidate-v1.md",
+    "bytes": 13194,
+    "sha256": "61f8c60491880e941149649c2c4180abef91671496d56c5869f8543a915aba46"
+  },
+  "constructor_freeze": {
+    "path": "problems/2024-B4/notes/coordinator-component-saturation-r1-freeze-v1.json",
+    "bytes": 3452,
+    "sha256": "13dff01ab6757aa2214d4be9667c96f8381446f7b41c0b06b3458babfe80f0fb"
+  },
+  "whole_claims": [
+    "CS1 every-k component saturation",
+    "CS2 exact gcd/label occurrence via accepted KC/GK"
+  ],
+  "whole_author_obligations": 30,
+  "substantive_issues": 0,
+  "required_repairs": 0,
+  "optional_nonblocking_notes": [
+    "N1"
+  ],
+  "new_peer_findings_unread_before_entire_freeze": true,
+  "no_new_CS_construction_contribution": true,
+  "older_review_roles_and_source_limits_disclosed": true,
+  "no_full_annual_general_factor_classification_or_novelty_claim": true,
+  "no_mathematical_program_CAS_scan_author_rerun_or_certificate": true,
+  "no_Git_shared_old_cache_edit_spawn_charge_contact_bypass": true,
+  "compact_parent_manifest": {
+    "path": "problems/2020-B4/notes/reasoning-return-r7-freeze-v1.json",
+    "bytes": 4168,
+    "sha256": "b83040ef82ae1b4ef8393b4d1c8799fd095ed4d81a52a7ebb03aff8087fb649a"
+  },
+  "compact_parent_validation": {
+    "path": "problems/2020-B4/notes/reasoning-return-r7-input-validation-v1.json",
+    "bytes": 13368,
+    "sha256": "7c116489b6bfbb77f7014104ce49b0b5940823d70a1706fa034a7794dbe92ca3"
+  },
+  "historical_inventory_not_copied": true,
+  "older_own_unique_paths_preserved": 341,
+  "record_occurrences_reverified": 1040,
+  "unique_paths_reverified": 922,
+  "direct_weekly_telemetry": {
+    "at_utc": "2026-10-17 18:35:09 UTC",
+    "total_used_percent": 55,
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "ordinary_usage_allowed": true,
+    "total_ceiling_percent": 90,
+    "review_integration_reserve": true
+  },
+  "command": "python3 problems/2024-B4/reviews/coordinator-component-saturation-r1-review-2-freeze-v1.py",
+  "artifacts": [
+    {
+      "path": "problems/2024-B4/reviews/coordinator-component-saturation-r1-review-2-initial.md",
+      "bytes": 11386,
+      "sha256": "4ca817a607c89eb9552d621913dfbaf50c2582c183d0b5f5f47c6950c379b2d6"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-component-saturation-r1-review-2-issues-v1.md",
+      "bytes": 6236,
+      "sha256": "afc0bf31947b610f882fd3905b32d588021ba098dcb736ce23e9747f0a58ea35"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-component-saturation-r1-review-2-source-checks-v1.md",
+      "bytes": 7342,
+      "sha256": "3e23d2b8e653f9d166d31a56bc925de6a778cd749ac8e5e3ef9405bf3483ab7f"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-component-saturation-r1-review-2-freeze-v1.py",
+      "bytes": 15759,
+      "sha256": "6e680e0e65741e21faf76c5547eb16170899246ff122058ed48fed4edf3232f4"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-component-saturation-r1-review-2-sources-v1.json",
+      "bytes": 9565,
+      "sha256": "afc799cf538e594c1fa540e2ae5d9b709f554cfab174a5a85f71616876264ccb"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-component-saturation-r1-review-2-input-validation-v1.json",
+      "bytes": 11799,
+      "sha256": "bd2dbaf3b35fdad2496f9c085c46f12e5de4de4adba5361e09b090d536177ec5"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-component-saturation-r1-review-2-freeze-output-v1.json",
+      "bytes": 822,
+      "sha256": "503914e333ed73594b7a4e1f61b3836eef11c5ac8fbc0fa00cf9df096ea1cbbc"
+    }
+  ]
+}

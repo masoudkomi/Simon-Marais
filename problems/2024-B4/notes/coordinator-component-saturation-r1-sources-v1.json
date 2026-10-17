@@ -1,0 +1,61 @@
+{
+  "recorded_at_utc": "2026-10-17T18:12:56.637978+00:00",
+  "status": "candidate proof - unverified",
+  "actual_primary_reads": [
+    {
+      "name": "Bensimhoun2004 Lueroth proof",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Another_elementary_proof_of_Luroth%27s_theorem-06.2004.pdf",
+      "read": "COMPLETE theorem and BOTH pages of written proof",
+      "role": "Classical foundational Lueroth theorem, arbitrary characteristic; polynomial/common-pair applications supplied in new main",
+      "native_binary_download_or_hash_claim": false
+    },
+    {
+      "name": "Mesnager--Qu1907.01066v1",
+      "url": "https://arxiv.org/pdf/1907.01066v1",
+      "read": "Actual Section5.4 Definition44, following parameter paragraph and Proposition45/attribution",
+      "role": "Classical trace-form attribution only, no permutation/exceptionality/monodromy import",
+      "full28page_audit": false,
+      "native_binary_download_or_hash_claim": false
+    }
+  ],
+  "direct_input_identities": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2024-B4/statement.md",
+      "bytes": 2470,
+      "sha256": "60244f7752634772adb434efbdb41a63fb02029dc3be4238f3718c6e5ec84e5f"
+    },
+    {
+      "path": "problems/2024-B4/proofs/reviewed-Kasami-whole-criterion-v1.1.md",
+      "bytes": 10678,
+      "sha256": "b78b770e4f0b19481c1c7b136295cff2a2876d0e4e5f9c0fa1f6112c64944e1c"
+    },
+    {
+      "path": "problems/2024-B4/proofs/reviewed-generalized-Kasami-v1.1.md",
+      "bytes": 12828,
+      "sha256": "eff29275bed2eb037a90bd8935c7c00740e66874c03f973a2996daa8f131d36e"
+    },
+    {
+      "path": "problems/2024-B4/proofs/reviewed-reasoning-components-r1-v1.1.md",
+      "bytes": 27459,
+      "sha256": "43f095a4286919a32db16298ae6ddde016f9ee10de9394c45584c69ca186fe36"
+    },
+    {
+      "path": "problems/2024-B4/notes/coordinator-ferard-retrieval-followup-v1.md",
+      "bytes": 3775,
+      "sha256": "40dbd08cee83f78c15222a837a4ac3164adc0da3c29b7873292a62c0234fe7c0"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-40.png",
+      "bytes": 97019,
+      "sha256": "ddd81d64f2dd4181e5fd0529c87d21b64a09b45812438c56edb5c954afc1cd65"
+    }
+  ],
+  "source_limits": "Original JW1993 proof and exact Ferard2014 theorem unread; prior scanned CN232 article printed2019 has missing103/112, no later source claim imported",
+  "novelty_or_priority_established": false,
+  "third_party_paper_or_image_redistributed": false
+}

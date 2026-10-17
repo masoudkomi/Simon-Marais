@@ -1,0 +1,84 @@
+{
+  "frozen_at_utc": "2026-10-17T18:22:09.271201+00:00",
+  "reviewer": "coordinator root",
+  "constructor": "/root/review_2022_complexity_r2",
+  "fresh_initially_blind_whole_nonconstructor": true,
+  "root_broad_assignment_no_new_R9_inference": true,
+  "old_roles_disclosed": true,
+  "peer_R9_findings_read": false,
+  "whole_checks": 46,
+  "author_obligations": 46,
+  "substantive_issues": 0,
+  "repair_required": false,
+  "primary_Atkinson_Sharma_sufficient_theorem_attributed": true,
+  "primary_PDF_and_three_actual_images_checked": true,
+  "new_local_source_cache_created": true,
+  "complete_annual_solution_or_priority_claim": false,
+  "mathematical_program_CAS_scan_or_constructor_rerun": false,
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "independently_verified_effective_settings": null,
+  "account_weekly_total_used_percent": 54,
+  "total_ceiling_percent": 90,
+  "metadata_inputs": [
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r9-freeze-v1.json",
+      "bytes": 4203,
+      "sha256": "736bf5eb2c18eb8727c705e747583ca6ac3276d91b4d8829ed9c28277d3d2333"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r9-input-validation-v1.json",
+      "bytes": 9744,
+      "sha256": "c2f6d7a623091efb5104ceb71805a1c9fc603e58fbafbc0d0c029382c0d2a741"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r9-sources-v1.json",
+      "bytes": 8393,
+      "sha256": "b0e07dd3a0827c5994f173c02f8d74d9547ee2cd0c3669df5691d36c59aaedaf"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r8-acceptance.json",
+      "bytes": 2507,
+      "sha256": "b5ca7a381393061192beceb0b34b8222c6ae249f1edc3383ac316786c7cd3ef0"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r8-freeze-v1.json",
+      "bytes": 3602,
+      "sha256": "9d366b0c0eee1a56dae269a2aeb197627516d00f2d87d17a4d6c93304b1919b8"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r8-input-validation-v1.json",
+      "bytes": 122380,
+      "sha256": "a90eec86f30d80ae7e068475ffed53636873703a3c40514bce3a3293c23bd59e"
+    }
+  ],
+  "source_cache": {
+    "path": ".cache/literature/coordinator-R9/atkinson-sharma-1969.pdf",
+    "bytes": 453601,
+    "sha256": "8279dd51a83cfca95e318d7db7b2ce58b92fa477347450a95729fbad403127d9"
+  },
+  "artifacts": [
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r9-review-1-initial-v1.md",
+      "bytes": 12458,
+      "sha256": "939a98bdba5aaf1a1f509fd2209f0c0a8262d04377b707dd4a6c40bc8f656fb2"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r9-review-1-issues-v1.json",
+      "bytes": 10140,
+      "sha256": "829a77d6d8ca89d3eaba0cebd6aa393657ed7354073f51323fd221459e33e9b6"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r9-review-1-source-checks-v1.md",
+      "bytes": 2639,
+      "sha256": "e2ab839c656dd7238979a103d4beb1783eac7e963282533c42dcef317793e835"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r9-review-1-integrity-v1.json",
+      "bytes": 1931,
+      "sha256": "4b0fcdcf268c2137bcbc4df3339822afa3c98494f9c5b54e8a39af4226593ccd"
+    }
+  ]
+}

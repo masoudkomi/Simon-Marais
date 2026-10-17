@@ -1,0 +1,101 @@
+{
+  "frozen_at_utc": "2026-10-17T18:06:13.692220+00:00",
+  "status": "candidate proof - unverified; complete meaningful construction checkpoint",
+  "constructor": "/root/review_2022_complexity_r2",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "independently_verified_effective_settings": null,
+  "claims": [
+    "R9A every selection has at least four odd positive real-interior runs",
+    "R9B at least four whole gcd supports forced into real interior pair",
+    "R9C exact actual cubic collision depth and weighted lower bound",
+    "R9D stated collision-depth nonunit-essential-center criterion"
+  ],
+  "whole_obligations": 46,
+  "new_external_theorem": "Atkinson-Sharma1969 Theorem2, sufficient conservative/Pólya criterion only",
+  "all_root_real_hypothesis_or_converse_conjecture_imported": false,
+  "actual_rational_double_branch_and_complete_accepted_R8_retained": true,
+  "root_broad_assignment_no_new_proof_inference": true,
+  "two_OTHER_fresh_initially_blind_whole_nonconstructor_audits_required": true,
+  "no_full_branch_degree20_annual_rational_lift_or_novelty_claim": true,
+  "no_math_code_CAS_scan_old_certificate_author_rerun": true,
+  "no_Git_shared_old_cache_edit_spawn_charge_contact_bypass": true,
+  "old_unique_paths_preserved": 319,
+  "fingerprint_occurrences_reverified": 2249,
+  "unique_paths_reverified": 1419,
+  "compact_parent_manifest": {
+    "path": "problems/2022-B4/reviews/reasoning-return-r7-review-2-manifest-v1.json",
+    "bytes": 3421,
+    "sha256": "c36de81e3d4dcccf125fe959ae1b544527c305d2d68ecf93b293440ed117597d"
+  },
+  "compact_parent_validation": {
+    "path": "problems/2022-B4/reviews/reasoning-return-r7-review-2-input-validation-v1.json",
+    "bytes": 355375,
+    "sha256": "b59801e5ad40536355d3ed7c0aeeaceac5f28de785757e439b24251dd52c132b"
+  },
+  "historical_inventory_not_copied": true,
+  "direct_weekly_telemetry": {
+    "at_utc": "2026-10-17 18:03:46 UTC",
+    "total_used_percent": 53,
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "ordinary_usage_allowed": true,
+    "total_ceiling_percent": 90,
+    "integration_reserve": true
+  },
+  "command": "python3 problems/2021-B4/notes/reasoning-return-r9-freeze-v1.py",
+  "artifacts": [
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r9-candidate-v1.md",
+      "bytes": 18824,
+      "sha256": "b0f973b26d0eafdf293c41f73ce193d76b761b1229d016ceadc18e0c13f4b503"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r9-obligations-v1.md",
+      "bytes": 8574,
+      "sha256": "ac1cfe3f833559cb459227857c8ee7f8ca73e2a96528b5e126377317ed4746c1"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r9-failed-routes-v1.md",
+      "bytes": 5693,
+      "sha256": "6a8dda9bfaefd25f321fbcbb5f5792cc7c7dbcdaa274e5d444a5327dd48c7756"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r9-source-audit-v1.md",
+      "bytes": 7532,
+      "sha256": "524639407500fc05f641c87a226b78b3508ccfff124d0640f7533dc9db61f672"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r9-constructor-checks-v1.md",
+      "bytes": 5221,
+      "sha256": "8254336c049d6529c108536a2bb16fb141e1598886b5872bc0ce345febcc4479"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r9-worklog-v1.md",
+      "bytes": 6520,
+      "sha256": "dd3dfc74df2f7f05554954616d86decb4cc1532753b68d77f932d0c96c969a2d"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r9-sources-v1.json",
+      "bytes": 8393,
+      "sha256": "b0e07dd3a0827c5994f173c02f8d74d9547ee2cd0c3669df5691d36c59aaedaf"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r9-freeze-v1.py",
+      "bytes": 16012,
+      "sha256": "b79cfb03759b9a7fdc766aab57f331bdf910c7642a2fe01c3ac45be344eb0a9e"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r9-input-validation-v1.json",
+      "bytes": 9744,
+      "sha256": "c2f6d7a623091efb5104ceb71805a1c9fc603e58fbafbc0d0c029382c0d2a741"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r9-freeze-output-v1.json",
+      "bytes": 856,
+      "sha256": "a260039575c18368592e9b52c555ddb4185be294297c55e4d18bb237113049af"
+    }
+  ]
+}

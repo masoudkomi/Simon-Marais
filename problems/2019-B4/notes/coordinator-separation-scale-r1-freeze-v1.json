@@ -1,0 +1,95 @@
+{
+  "frozen_at_utc": "2026-10-17T18:37:01.539498+00:00",
+  "status": "COMPLETE candidate proof - unverified",
+  "constructor": "coordinator root",
+  "whole_obligations": 13,
+  "claims": [
+    "SS1 first capped count discrepancy in[2D+2,2D+8/10]",
+    "SS2 exact actual union of both known infinite tails",
+    "SS3 candidate strict lower lambda>1.765224"
+  ],
+  "root_excluded_from_both_auditor_counts": true,
+  "old_known_family_not_claimed_new": true,
+  "no_exact_lambda_defect_entropy_lower_gap_original_output_ratio_annual_or_priority_claim": true,
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "independently_verified_effective_settings": null,
+  "account_weekly_total_used_percent_last_observed": 55,
+  "total_ceiling_percent": 90,
+  "one_finite_fixed_rational_sign_child_pid": 31896,
+  "no_history_factor_count_or_automaton_enumeration": true,
+  "artifacts": [
+    {
+      "path": "problems/2019-B4/notes/coordinator-separation-scale-r1-candidate-v1.md",
+      "bytes": 9068,
+      "sha256": "d08d778d7bfe2e915b67d85833d4dfb312d78393f0e80aeecdc7859abae5070e"
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-separation-scale-r1-obligations-v1.md",
+      "bytes": 2070,
+      "sha256": "4f410f592cccf48c7434b2093a2a9d57f61bf255c59ad2c6c06e1ac607565bff"
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-separation-scale-r1-source-worklog-v1.md",
+      "bytes": 3062,
+      "sha256": "7a5b912a00afcc0863241a3ac5a8d15f13ac227769eb6e4fbce2df30585c2dd6"
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-separation-scale-r1-sign-v1.py",
+      "bytes": 2022,
+      "sha256": "2e90abeeef4a05c3670ebe65007980bf33f51386014da9fb9e5d44a94a144176"
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-separation-scale-r1-sign-v1.json",
+      "bytes": 2911,
+      "sha256": "4136bbb2a276a60bd62e5ea4db098f0c18e3d364af951ae0a0cb8fa0de040d15"
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-separation-scale-r1-sign-start-v1.json",
+      "bytes": 318,
+      "sha256": "bdf31b2b8f4352ddf1cde0409424cac90982e84270981d43b91b132573902de8"
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-separation-scale-r1-sign-job-v1.json",
+      "bytes": 476,
+      "sha256": "23debb80ea2a85c29866719b0766d6059cd6c98fc6d450a664beb88b81c94734"
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-separation-scale-r1-sign-stdout-v1.txt",
+      "bytes": 127,
+      "sha256": "9c1c2f562db12411591e9a218058f82730a08f0092b0e3dd861936d63bf5d41e"
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-separation-scale-r1-sign-stderr-v1.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-separation-scale-r1-freeze-v1.py",
+      "bytes": 4748,
+      "sha256": "b491717a1a6a48befa7745202c181e81ced7a0b2054db03ee95eac54ee360963"
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-separation-scale-r1-freeze-before-path-repair-v0.py",
+      "bytes": 4459,
+      "sha256": "777c15609d1011b91477ed94f11157d0c732e45fed2f50b21547efeab589fe85"
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-separation-scale-r1-admin-failure-v1.md",
+      "bytes": 750,
+      "sha256": "f569c31e4f68023bacb0f3d0e0104d0b8041bf9be91e17b1169952b9a358ae36"
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-separation-scale-r1-sources-v1.json",
+      "bytes": 3035,
+      "sha256": "f99dfce688242be348e1e6c9eb5f5c13f3802faa145989c2e3900b885a7fcc83"
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-separation-scale-r1-input-validation-v1.json",
+      "bytes": 1992,
+      "sha256": "27f11a432f37ac409bd8330b7f761ef93d86bac9b2bf002d8b3c58bc06b20f56"
+    }
+  ]
+}

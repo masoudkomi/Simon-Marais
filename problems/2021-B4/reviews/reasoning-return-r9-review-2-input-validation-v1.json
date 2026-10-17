@@ -1,0 +1,305 @@
+{
+  "checked_at_utc": "2026-10-17T18:31:00.273265+00:00",
+  "administrative_metadata_only_not_mathematical_evidence": true,
+  "candidate": {
+    "path": "problems/2021-B4/notes/reasoning-return-r9-candidate-v1.md",
+    "bytes": 18824,
+    "sha256": "b0f973b26d0eafdf293c41f73ce193d76b761b1229d016ceadc18e0c13f4b503"
+  },
+  "constructor_freeze": {
+    "path": "problems/2021-B4/notes/reasoning-return-r9-freeze-v1.json",
+    "bytes": 4203,
+    "sha256": "736bf5eb2c18eb8727c705e747583ca6ac3276d91b4d8829ed9c28277d3d2333"
+  },
+  "all_ten_constructor_artifacts_verified": [
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r9-candidate-v1.md",
+      "bytes": 18824,
+      "sha256": "b0f973b26d0eafdf293c41f73ce193d76b761b1229d016ceadc18e0c13f4b503"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r9-obligations-v1.md",
+      "bytes": 8574,
+      "sha256": "ac1cfe3f833559cb459227857c8ee7f8ca73e2a96528b5e126377317ed4746c1"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r9-failed-routes-v1.md",
+      "bytes": 5693,
+      "sha256": "6a8dda9bfaefd25f321fbcbb5f5792cc7c7dbcdaa274e5d444a5327dd48c7756"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r9-source-audit-v1.md",
+      "bytes": 7532,
+      "sha256": "524639407500fc05f641c87a226b78b3508ccfff124d0640f7533dc9db61f672"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r9-constructor-checks-v1.md",
+      "bytes": 5221,
+      "sha256": "8254336c049d6529c108536a2bb16fb141e1598886b5872bc0ce345febcc4479"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r9-worklog-v1.md",
+      "bytes": 6520,
+      "sha256": "dd3dfc74df2f7f05554954616d86decb4cc1532753b68d77f932d0c96c969a2d"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r9-sources-v1.json",
+      "bytes": 8393,
+      "sha256": "b0e07dd3a0827c5994f173c02f8d74d9547ee2cd0c3669df5691d36c59aaedaf"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r9-freeze-v1.py",
+      "bytes": 16012,
+      "sha256": "b79cfb03759b9a7fdc766aab57f331bdf910c7642a2fe01c3ac45be344eb0a9e"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r9-input-validation-v1.json",
+      "bytes": 9744,
+      "sha256": "c2f6d7a623091efb5104ceb71805a1c9fc603e58fbafbc0d0c029382c0d2a741"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r9-freeze-output-v1.json",
+      "bytes": 856,
+      "sha256": "a260039575c18368592e9b52c555ddb4185be294297c55e4d18bb237113049af"
+    }
+  ],
+  "declared_fingerprint_occurrences_verified": 554,
+  "declared_deduplicated_summary": {
+    "unique_paths": 483,
+    "canonical_sorted_record_array_sha256": "4d5db488181b52a879c349c5eda203a3afb279514376bbc88c872fc57a0d2d75",
+    "canonical_encoding": "UTF8 JSON ensure_ascii=false sort_keys=true separators=(comma,colon), sorted by path"
+  },
+  "direct_authority_metadata": [
+    {
+      "metadata": {
+        "path": "problems/2021-B4/reviews/reasoning-return-r8-acceptance.json",
+        "bytes": 2507,
+        "sha256": "b5ca7a381393061192beceb0b34b8222c6ae249f1edc3383ac316786c7cd3ef0"
+      },
+      "declared_occurrences_verified": 9,
+      "deduplicated_summary": {
+        "unique_paths": 9,
+        "canonical_sorted_record_array_sha256": "24f436f3746b4bb8e477f25088a37931e42327292cbd1a5a223d848bb80687cd",
+        "canonical_encoding": "UTF8 JSON ensure_ascii=false sort_keys=true separators=(comma,colon), sorted by path"
+      }
+    },
+    {
+      "metadata": {
+        "path": "problems/2021-B4/notes/reasoning-return-r8-freeze-v1.json",
+        "bytes": 3602,
+        "sha256": "9d366b0c0eee1a56dae269a2aeb197627516d00f2d87d17a4d6c93304b1919b8"
+      },
+      "declared_occurrences_verified": 9,
+      "deduplicated_summary": {
+        "unique_paths": 9,
+        "canonical_sorted_record_array_sha256": "20aac91528e0223d1bb17aaaee59ae351deed60316b0486ff47becef673becbb",
+        "canonical_encoding": "UTF8 JSON ensure_ascii=false sort_keys=true separators=(comma,colon), sorted by path"
+      }
+    },
+    {
+      "metadata": {
+        "path": "problems/2021-B4/notes/reasoning-return-r8-sources-v1.json",
+        "bytes": 4664,
+        "sha256": "b0abec07bcc7002c6fbbd41972a829e3e27e1b7f8aa6aeb644f25c7b772f4530"
+      },
+      "declared_occurrences_verified": 3,
+      "deduplicated_summary": {
+        "unique_paths": 3,
+        "canonical_sorted_record_array_sha256": "5e389857593d53d78d1b77618f081bee1cd1b0b10cd009919b86c6ebe421d0ee",
+        "canonical_encoding": "UTF8 JSON ensure_ascii=false sort_keys=true separators=(comma,colon), sorted by path"
+      }
+    },
+    {
+      "metadata": {
+        "path": "problems/2021-B4/notes/reasoning-return-r8-input-validation-v1.json",
+        "bytes": 122380,
+        "sha256": "a90eec86f30d80ae7e068475ffed53636873703a3c40514bce3a3293c23bd59e"
+      },
+      "declared_occurrences_verified": 475,
+      "deduplicated_summary": {
+        "unique_paths": 454,
+        "canonical_sorted_record_array_sha256": "cd8bd38eb78a454aabb032e6d5e4744757a2fd53535402ebf69180d5471ee44c",
+        "canonical_encoding": "UTF8 JSON ensure_ascii=false sort_keys=true separators=(comma,colon), sorted by path"
+      }
+    }
+  ],
+  "author_compact_parent_manifest": {
+    "path": "problems/2022-B4/reviews/reasoning-return-r7-review-2-manifest-v1.json",
+    "bytes": 3421,
+    "sha256": "c36de81e3d4dcccf125fe959ae1b544527c305d2d68ecf93b293440ed117597d"
+  },
+  "author_compact_parent_validation": {
+    "path": "problems/2022-B4/reviews/reasoning-return-r7-review-2-input-validation-v1.json",
+    "bytes": 355375,
+    "sha256": "b59801e5ad40536355d3ed7c0aeeaceac5f28de785757e439b24251dd52c132b"
+  },
+  "author_parent_reverified_summary": {
+    "unique_paths": 1403,
+    "canonical_sorted_record_array_sha256": "302e086996599aef14a6095ffe8218450720ad61ca34f1cf90c932e3f0982139",
+    "canonical_encoding": "UTF8 JSON ensure_ascii=false sort_keys=true separators=(comma,colon), sorted by path"
+  },
+  "reviewer_previous_manifest": {
+    "path": "problems/2025-B4/notes/reasoning-return-r7-freeze-v1.json",
+    "bytes": 3864,
+    "sha256": "0f3dc3419bc3f7a031a38f5d5d9448187cad39fe62588e4d5f43967e9c644174"
+  },
+  "reviewer_previous_validation": {
+    "path": "problems/2025-B4/notes/reasoning-return-r7-input-validation-v1.json",
+    "bytes": 3060,
+    "sha256": "e8145f2fda92a17ebe38a3a790207f736ffa9fd633fce9cb601a292f0eced9c8"
+  },
+  "reviewer_previous_parent_manifest": {
+    "path": "problems/2024-B4/reviews/reasoning-components-r1-review-2-manifest-v1.json",
+    "bytes": 3599,
+    "sha256": "4c82042830db3d3e45a602a96c4ae9680804c48f994c563e39c8aeff53d0f956"
+  },
+  "reviewer_previous_parent_validation": {
+    "path": "problems/2024-B4/reviews/reasoning-components-r1-review-2-input-validation-v1.json",
+    "bytes": 219785,
+    "sha256": "066ab3aeb52d9e278b4335ef7a4feee885e8c484bb7ac147ecc2578a992d9890"
+  },
+  "earlier_own_unique_records_preserved": 382,
+  "earlier_own_summary": {
+    "unique_paths": 382,
+    "canonical_sorted_record_array_sha256": "03218ed79c1809eab2ae86e5c1717ba11217cab050c8d4bce6ef3e9f1a02f222",
+    "canonical_encoding": "UTF8 JSON ensure_ascii=false sort_keys=true separators=(comma,colon), sorted by path"
+  },
+  "combined_deduplicated_summary": {
+    "unique_paths": 1446,
+    "canonical_sorted_record_array_sha256": "f6e1bfa8cb9bb81a8e7139da4b8f263b1ea8a4a408a899d32b9e79b518443047",
+    "canonical_encoding": "UTF8 JSON ensure_ascii=false sort_keys=true separators=(comma,colon), sorted by path"
+  },
+  "full_historical_inventory_deliberately_not_copied": true,
+  "exact_reproduction": "Use the immutable author parent deduplicated_all_verified_input_records; recursive path/sha256 declarations in target/source/validation and named R8 metadata; reconstruct reviewer prior chain from immutable IC earlier_unique_records_preserved plus its artifacts/manifest and previous R7 artifacts/manifest. The script verifies every byte/hash read-only; sort/deduplicate records as stated before hashing.",
+  "complete_accepted_R5_R6_R7_R8_bodies_and_R8_scope_read": true,
+  "accepted_R8_frozen_suffix_byte_identical": true,
+  "OLD_R5_authorship_and_older_review_roles_disclosed": true,
+  "NEW_R9_constructor_or_contributor": false,
+  "all_author_obligation_IDs": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07",
+    "08",
+    "09",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46"
+  ],
+  "all_independent_inference_IDs": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07",
+    "08",
+    "09",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46"
+  ],
+  "substantive_issues_found": 0,
+  "required_author_repairs": 0,
+  "root_peer_R9_report_ledger_source_manifest_or_findings_read_before_complete_initial_freeze": false,
+  "root_completion_identity_notice_received_but_file_unopened": true,
+  "blind_guard_prefix": "problems/2021-B4/reviews/reasoning-return-r9-",
+  "sole_new_primary_theorem": {
+    "url": "https://homepage.math.uiowa.edu/~atkinson/papers/HB_interp.pdf",
+    "scope": "Atkinson-Sharma1969 Theorem2, sufficient only, all6pages definitions/proof read as extracted text",
+    "native_pdf_downloaded_or_binary_hash_invented": false,
+    "converse_or_all_roots_real_hypothesis_imported": false
+  },
+  "other_primary_contexts": [
+    {
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2021-paper-b.pdf",
+      "scope": "actual page2 B4 hypothesis and(b)"
+    },
+    {
+      "url": "https://arxiv.org/pdf/1208.5404",
+      "scope": "displayed3.4/Lemma17; complete Proposition19 proof and unramified qualification"
+    },
+    {
+      "url": "https://arxiv.org/pdf/1806.09561",
+      "scope": "v6 metadata, Definition5.3, Theorem7.10 and full displayed computation proof; no rerun"
+    },
+    {
+      "url": "https://arxiv.org/html/2608.14726v1",
+      "scope": "intro/support/scenario and TheoremsB/C/D statements only"
+    }
+  ],
+  "math_code_CAS_scan_table_certificate_or_constructor_rerun": false,
+  "old_shared_Git_cache_edit_spawn_contact_charge_bypass_or_live_native_job": false
+}

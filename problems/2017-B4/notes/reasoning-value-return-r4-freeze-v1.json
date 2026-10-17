@@ -1,0 +1,92 @@
+{
+  "frozen_at_utc": "2026-10-17T18:36:55.081875+00:00",
+  "status": "candidate proof - unverified; COMPLETE constructor checkpoint",
+  "constructor": "/root/review_2021_reasoning_j15_r2",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "verified_effective_settings": null,
+  "claims": [
+    "EC1 finite affine estimate",
+    "EC2 finite local recovery catalogue",
+    "EC3 effective finite-M GE recovery",
+    "EC4 one-sided finite certificates and left semicomputability"
+  ],
+  "whole_obligations": 64,
+  "requires_two_OTHER_fresh_initially_blind_nonconstructor_WHOLE_audits": true,
+  "root_broad_assignment_only_no_new_EC_proof_inference_or_constant": true,
+  "old_authorship_and_review_roles_disclosed": true,
+  "accepted_old_premises_not_independently_self_recertified": true,
+  "upper_R_two_sided_rate_numerical_value_annual_or_novelty_claim": false,
+  "mathematical_code_CAS_scan_count_rerun_or_theoretical_algorithm_execution": false,
+  "all_sixty_two_older_own_packets_and_two_addenda_preserved": true,
+  "compact_parent_binding_and_deduplicated_integrity_summary": true,
+  "verified_fingerprint_occurrences": 601,
+  "deduplicated_verified_paths": 567,
+  "queued_2024_CS_packet_or_new_peer_findings_read": false,
+  "Git_shared_old_bytes_cache_edit_spawning_charge_contact_or_bypass": false,
+  "latest_authoritative_weekly_usage": {
+    "at_utc": "2026-10-17 18:36:48 UTC",
+    "total_used_percent": 55,
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "ordinary_usage_allowed": true,
+    "stop_at_or_below_total_percent": 90,
+    "integration_reserve": true
+  },
+  "command": "python3 problems/2017-B4/notes/reasoning-value-return-r4-freeze-v1.py",
+  "artifacts": [
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r4-candidate-v1.md",
+      "bytes": 42968,
+      "sha256": "e2c497814ebd8c9ec8b767c30be6cd37ca8ea9d2d9e51f5496bbd91c91bc854a"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r4-obligations-v1.md",
+      "bytes": 9202,
+      "sha256": "62e8998d40973fb0596be7dd4ddfb7f141c346ab8e5bb2aee98717853f0c6870"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r4-failed-routes-v1.md",
+      "bytes": 6207,
+      "sha256": "3bfe3731f5d9f3f98b6a4b8732aff8be3e3a15a26ff99f22cd79cba6f779341b"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r4-constructor-checks-v1.md",
+      "bytes": 5625,
+      "sha256": "70e1be759618803fcf669335413fac17b7b07e0513b821df22724b9cfa54e4fa"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r4-source-audit-v1.md",
+      "bytes": 7607,
+      "sha256": "d88bebe5b7cc18942c6522908b29ec1468ef3e376433b48ba9a86d7da73924c6"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r4-worklog-v1.md",
+      "bytes": 6162,
+      "sha256": "38a6a87e68c75cd82165d1413a3b61136ff3c6fae9d83776854b30470fee7aae"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r4-sources-v1.json",
+      "bytes": 13654,
+      "sha256": "2b6dc2d1184a8b1496d0a6249a6da47cf5c569289494a9894ef5062c2ad57002"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r4-freeze-v1.py",
+      "bytes": 9484,
+      "sha256": "7839c852316e94d36d1325604a9fc3539f19bf9d0a116ba785f3627aa2f30bd6"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r4-input-validation-v1.json",
+      "bytes": 7878,
+      "sha256": "543ada00ce67cda9de7714a209db9db854e7b600310989b51ad4d919548ea1d0"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r4-freeze-output-v1.json",
+      "bytes": 744,
+      "sha256": "7f74b4b0fe119f4063f6c68195f865a11d44313c466391c06dbb916d16a5113b"
+    }
+  ]
+}

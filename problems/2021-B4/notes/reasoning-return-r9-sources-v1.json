@@ -1,0 +1,183 @@
+{
+  "created_at_utc": "2026-10-17T18:06:13.692220+00:00",
+  "status": "candidate proof - unverified",
+  "constructor": "/root/review_2022_complexity_r2",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "independently_verified_effective_settings": null,
+  "official_scope": "2021 B4(b) only; actual rational coefficients and rational derivative common values; no preliminary proof",
+  "direct_mathematical_and_authority_inputs": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2021-B4/proofs/reviewed-reasoning-return-r8-v1.1.md",
+      "bytes": 19921,
+      "sha256": "33b8713d402d09f711d0096cdc4e8c00f9e622a5335f8e3345eb4f82ba0d359d"
+    },
+    {
+      "path": "problems/2021-B4/proofs/reviewed-reasoning-return-r7-v1.1.md",
+      "bytes": 20531,
+      "sha256": "4932a051d4a296b8a73d51c9a1cf07b7de52b6bd710b4fbeb113ee2f8c4fa1ea"
+    },
+    {
+      "path": "problems/2021-B4/proofs/reviewed-reasoning-return-r6-v1.1.md",
+      "bytes": 20411,
+      "sha256": "f15db94cc97ccf370298fad58364810cb0ff7d0a3493d52b588cf3da2119da96"
+    },
+    {
+      "path": "problems/2021-B4/proofs/reviewed-reasoning-return-r5-v1.1.md",
+      "bytes": 23675,
+      "sha256": "f4f088adc133b0581520488cdbba30082c13b2402c96ae555142e5491ad4137d"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r8-freeze-v1.json",
+      "bytes": 3602,
+      "sha256": "9d366b0c0eee1a56dae269a2aeb197627516d00f2d87d17a4d6c93304b1919b8"
+    },
+    {
+      "path": "problems/2021-B4/statement.md",
+      "bytes": 1745,
+      "sha256": "5cd9750a2458191370590120fb4ae7d547740784eb1de38ee9e2e7890a2fabed"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r8-acceptance.md",
+      "bytes": 3060,
+      "sha256": "f2cc3d55b82abd08e3294811ed1ae44a7b2ee23ef18e0e158d12b468165c4fd0"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r8-acceptance.json",
+      "bytes": 2507,
+      "sha256": "b5ca7a381393061192beceb0b34b8222c6ae249f1edc3383ac316786c7cd3ef0"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r8-candidate-v1.md",
+      "bytes": 16961,
+      "sha256": "6bffa3b70e9d228b09e0a2ee3f049d7f5261fb98d484ebacff7abcbfde5eea26"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r8-obligations-v1.md",
+      "bytes": 5232,
+      "sha256": "78665a78db3849a034c2563eae99ab6f7caaf243fb1fa66d447afef87aa30f44"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r8-failed-routes-v1.md",
+      "bytes": 3800,
+      "sha256": "55ed01d1ca9a721da686aa693a26dc92f14539a93f863d64d7f35c9833644bb4"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r8-source-audit-v1.md",
+      "bytes": 5378,
+      "sha256": "9e00063fa0bc015f04af31758b9981a10f0617080d226c4e692b858171e58967"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r8-worklog-v1.md",
+      "bytes": 4544,
+      "sha256": "dca91a77f0f8837ff97f48765975e911e8898ab5ea21918e44da40c2c4ddb55d"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r8-sources-v1.json",
+      "bytes": 4664,
+      "sha256": "b0abec07bcc7002c6fbbd41972a829e3e27e1b7f8aa6aeb644f25c7b772f4530"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r8-input-validation-v1.json",
+      "bytes": 122380,
+      "sha256": "a90eec86f30d80ae7e068475ffed53636873703a3c40514bce3a3293c23bd59e"
+    }
+  ],
+  "direct_read_limits": "Complete accepted R5,R6,R7,R8 bodies/headers and R8 acceptance/source/obligation/failure/log records; unrelated preserved mathematical content is not claimed freshly read",
+  "new_attributed_theorem_import": {
+    "authors": "K. Atkinson and A. Sharma",
+    "title": "A partial characterization of poised Hermite-Birkhoff interpolation problems",
+    "citation": "SIAM J. Numer. Anal. 6(2)(1969),230-235, Theorem2",
+    "url": "https://homepage.math.uiowa.edu/~atkinson/papers/HB_interp.pdf",
+    "actual_read_scope": "All six source pages as web-extracted text, definitions, Theorem2 and complete published proof",
+    "published_proof_attributed_import_not_new_external_formalization": true,
+    "conjectured_converse_used": false,
+    "all_polynomial_roots_real_hypothesis_used": false,
+    "native_bytes_sha256": null,
+    "native_pdf_not_downloaded_or_written": true
+  },
+  "primary_context_reads": [
+    {
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2021-paper-b.pdf",
+      "scope": "page2 B4 actual hypothesis and(b), no preliminary proof",
+      "native_bytes_sha256": null
+    },
+    {
+      "url": "https://arxiv.org/pdf/1208.5404",
+      "authors": "Castryck-Laterveer-Ounaies",
+      "scope": "normalized equation7; Section3.4 equations9-10/Lemma17; complete Proposition19/unramified qualification; Proposition15 context",
+      "all_root_rational_unramified_theorem_applied_to_only_rational_witnesses": false,
+      "entire_external_paper_claimed_reconstructed": false,
+      "native_bytes_sha256": null
+    },
+    {
+      "url": "https://arxiv.org/pdf/1806.09561",
+      "author": "Cesar Massri",
+      "scope": "v6 abstract/intro, Section3 identities through Proposition3.5, Definition5.3 valuation ring, Section7 displayed lemmas/theorems/proofs through7.10",
+      "three_recycled_theorem_extended_to_four": false,
+      "finite_computation_rerun_or_independently_certified": false,
+      "valuation_ring_R_not_confused_with_reals": true,
+      "native_bytes_sha256": null
+    },
+    {
+      "url": "https://arxiv.org/html/2608.14726v1",
+      "author": "Mohammad F. Marashdeh",
+      "scope": "introductory support/scenario definitions and TheoremsB/C/D statements, actual multi-root limit",
+      "new_four_value_exclusion_import": false,
+      "entire_external_proof_claimed_reconstructed": false,
+      "native_bytes_sha256": null
+    }
+  ],
+  "root_broad_target_only_no_new_R9_proof_inference": true,
+  "constructor_old_single_center_return_R5_R6_R7_review_roles_disclosed": true,
+  "two_OTHER_fresh_whole_nonconstructor_audits_required": true,
+  "new_result_claims": [
+    "R9A every selection has at least four odd positive real-interior runs",
+    "R9B at least four whole gcd supports forced into real interior pair",
+    "R9C exact actual cubic collision depth and weighted lower bound",
+    "R9D stated collision-depth nonunit-essential-center criterion"
+  ],
+  "no_full_branch_degree20_annual_Q19_or_Q_lift_novelty_claim": true,
+  "mathematical_executable_CAS_scan_certificate_or_author_rerun": false,
+  "compact_immutable_preservation_binding": {
+    "immutable_previous_manifest": {
+      "path": "problems/2022-B4/reviews/reasoning-return-r7-review-2-manifest-v1.json",
+      "bytes": 3421,
+      "sha256": "c36de81e3d4dcccf125fe959ae1b544527c305d2d68ecf93b293440ed117597d"
+    },
+    "immutable_previous_validation": {
+      "path": "problems/2022-B4/reviews/reasoning-return-r7-review-2-input-validation-v1.json",
+      "bytes": 355375,
+      "sha256": "b59801e5ad40536355d3ed7c0aeeaceac5f28de785757e439b24251dd52c132b"
+    },
+    "parent_original_fingerprint_occurrences_recorded": 2460,
+    "parent_deduplicated_inputs_reverified": {
+      "unique_paths": 1403,
+      "canonical_sorted_record_array_sha256": "302e086996599aef14a6095ffe8218450720ad61ca34f1cf90c932e3f0982139",
+      "canonical_encoding": "UTF8 JSON ensure_ascii=false sort_keys=true separators=(comma,colon), records sorted by path"
+    },
+    "older_own_records_reverified_including_previous_whole_packet": {
+      "unique_paths": 319,
+      "canonical_sorted_record_array_sha256": "58e66903a0dd6c393b52bd2e0b4bb3b106fc02bf00d7da10f44260ce509b8c4c",
+      "canonical_encoding": "UTF8 JSON ensure_ascii=false sort_keys=true separators=(comma,colon), records sorted by path"
+    },
+    "full_inventory_deliberately_not_copied": true,
+    "reproduction": "Use the exact parent validation's deduplicated_all_verified_input_records and older_own_records, plus the exact parent manifest records and manifest itself; this script re-verifies them read-only."
+  },
+  "direct_weekly_telemetry": {
+    "at_utc": "2026-10-17 18:03:46 UTC",
+    "total_used_percent": 53,
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "ordinary_usage_allowed": true,
+    "total_ceiling_percent": 90,
+    "integration_reserve": true
+  }
+}

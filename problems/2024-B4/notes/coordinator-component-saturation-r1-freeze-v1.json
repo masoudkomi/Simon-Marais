@@ -1,0 +1,80 @@
+{
+  "frozen_at_utc": "2026-10-17T18:12:56.637978+00:00",
+  "status": "candidate proof - unverified",
+  "constructor": "coordinator root",
+  "claims": [
+    "CS1 every-k common absolute component forces whole base Kasami divisor",
+    "CS2 exact common-component gcd and individual occurrence iff via accepted KC"
+  ],
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "independently_verified_effective_settings": null,
+  "whole_obligations": 30,
+  "two_OTHER_fresh_initially_blind_NONCONSTRUCTOR_WHOLE_audits_required": true,
+  "root_old_KC_GK_constructor_and_IC_review_roles_disclosed": true,
+  "new_external_classical_Lueroth_input_explicit": true,
+  "J_original_proof_monodromy_APN_transversality_Ferard_or_odd_k_exceptionality_import": false,
+  "exact_trace_identity_and_all_k_multiplicity_indecomposability_proved_in_main": true,
+  "common_pair_chart_transcendence_distinctness_field_and_globalization_obligations_explicit": true,
+  "q16_proper_block_exclusion_is_NEW_CANDIDATE_not_old_status_change": true,
+  "full_annual_classification_or_novelty_claim": false,
+  "mathematical_program_CAS_scan_or_author_rerun": false,
+  "latest_authoritative_account_weekly": {
+    "at_utc": "2026-10-17 18:09:31UTC",
+    "total_used_percent": 53,
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "total_ceiling_percent": 90,
+    "review_integration_reserve": true
+  },
+  "administrative_command": ".venv/bin/python problems/2024-B4/notes/coordinator-component-saturation-r1-freeze-v1.py",
+  "artifacts": [
+    {
+      "path": "problems/2024-B4/notes/coordinator-component-saturation-r1-candidate-v1.md",
+      "bytes": 13194,
+      "sha256": "61f8c60491880e941149649c2c4180abef91671496d56c5869f8543a915aba46"
+    },
+    {
+      "path": "problems/2024-B4/notes/coordinator-component-saturation-r1-obligations-v1.md",
+      "bytes": 4177,
+      "sha256": "ece7e05d6da44bd3787412387a6575f840d6a0481aeae0b63356b879ae096cac"
+    },
+    {
+      "path": "problems/2024-B4/notes/coordinator-component-saturation-r1-source-audit-v1.md",
+      "bytes": 3410,
+      "sha256": "c64d5cbf86d6b9a9406b6469c93e50354ca8c5a47c1ccbe13e347f2a0301f944"
+    },
+    {
+      "path": "problems/2024-B4/notes/coordinator-component-saturation-r1-failed-routes-v1.md",
+      "bytes": 2982,
+      "sha256": "b0e1c4e21784d493140a241e65a16bf24863bf222b3038debbfe8f8ba589ff70"
+    },
+    {
+      "path": "problems/2024-B4/notes/coordinator-component-saturation-r1-worklog-v1.md",
+      "bytes": 3114,
+      "sha256": "5d29021413f1779ae3000b64e40d5de21e070db8b9e05afa07b557244c2b50a8"
+    },
+    {
+      "path": "problems/2024-B4/notes/coordinator-component-saturation-r1-freeze-v1.py",
+      "bytes": 6583,
+      "sha256": "66c75d1a90144a6a7f854cc65a2a69d861e295405d975a3517c02db8eef2fa1c"
+    },
+    {
+      "path": "problems/2024-B4/notes/coordinator-component-saturation-r1-sources-v1.json",
+      "bytes": 2594,
+      "sha256": "fd845efd939a0dfff900edfe3ff219f24dae299e688fecb601cd527aa0adac8f"
+    },
+    {
+      "path": "problems/2024-B4/notes/coordinator-component-saturation-r1-input-validation-v1.json",
+      "bytes": 3952,
+      "sha256": "401859c359caf55d8de5f09950791f35ae45cce3985966f2b7bc0894149a2b92"
+    },
+    {
+      "path": "problems/2024-B4/notes/coordinator-component-saturation-r1-freeze-output-v1.json",
+      "bytes": 535,
+      "sha256": "178afd0dabe0b892196e0fa9c67d2d361e160ba1e654b8151f02391f7da8406a"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "frozen_at_utc": "2026-10-17T18:31:00.273265+00:00",
+  "status": "COMPLETE initially blind NONCONSTRUCTOR WHOLE R9 R2; exact partial scope; coordinator reconciliation pending",
+  "reviewer": "/root/review_2017_coarsening_r1",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "target": {
+    "path": "problems/2021-B4/notes/reasoning-return-r9-candidate-v1.md",
+    "bytes": 18824,
+    "sha256": "b0f973b26d0eafdf293c41f73ce193d76b761b1229d016ceadc18e0c13f4b503"
+  },
+  "target_manifest": {
+    "path": "problems/2021-B4/notes/reasoning-return-r9-freeze-v1.json",
+    "bytes": 4203,
+    "sha256": "736bf5eb2c18eb8727c705e747583ca6ac3276d91b4d8829ed9c28277d3d2333"
+  },
+  "constructor_artifact_count": 10,
+  "whole_author_obligations": 46,
+  "independent_inference_rows": 46,
+  "open_substantive_issues": 0,
+  "required_author_repairs": 0,
+  "NEW_R9_constructor_or_contributor": false,
+  "OLD_R5_authorship_and_older_review_roles_disclosed_not_self_recertification": true,
+  "whole_R9A_R9B_R9C_R9D_every_cubic_T4_zero_and_two_frames_reconstructed": true,
+  "actual_primary_Hermite_Birkhoff_hypotheses_complete_sufficient_theorem_checked": true,
+  "no_branch_degree20_annual_lift_or_novelty_claim": true,
+  "new_root_peer_R9_findings_read_before_complete_initial_freeze": false,
+  "declared_fingerprint_occurrences_verified": 554,
+  "declared_deduplicated_paths_verified": 483,
+  "author_parent_deduplicated_paths_verified": 1403,
+  "earlier_own_records_preserved": 382,
+  "compact_provenance_without_repeated_historical_inventory": true,
+  "mathematical_program_CAS_scan_certificate_or_author_rerun": false,
+  "last_direct_weekly_telemetry": {
+    "at_utc": "2026-10-17 18:30:01UTC",
+    "total_used_percent": 55,
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "total_ceiling_percent": 90,
+    "review_integration_reserve": true
+  },
+  "administrative_command": "/Users/uqmkamga/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 problems/2021-B4/reviews/reasoning-return-r9-review-2-freeze-v1.py",
+  "artifacts": [
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r9-review-2-initial-v1.md",
+      "bytes": 15023,
+      "sha256": "addd27b3870d611ffe1b79b2d290e1a1bb9436800eefca46de409b6116f1f1fa"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r9-review-2-issues-v1.md",
+      "bytes": 9108,
+      "sha256": "83702c1589a842d05bb1a36892c27abed04b1acd1201fade8d251242692e3112"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r9-review-2-source-checks-v1.md",
+      "bytes": 5443,
+      "sha256": "311de1c8eb7f2f0835831e42da2dc94a4d552aff4c213b098c5ab2b1a0437041"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r9-review-2-freeze-v1.py",
+      "bytes": 11956,
+      "sha256": "7d43ff533b11ef2badd878e7d8786135ece4b80231e56f4c1796db24e928ea18"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r9-review-2-input-validation-v1.json",
+      "bytes": 10703,
+      "sha256": "67db8e5cc2cef7f1daaf67a47b8d4d7cea0d068ef259bcdcc29e9695f3fd1939"
+    }
+  ]
+}
