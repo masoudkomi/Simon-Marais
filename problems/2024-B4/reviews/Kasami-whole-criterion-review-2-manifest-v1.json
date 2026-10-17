@@ -1,0 +1,67 @@
+{
+  "frozen_at_utc": "2026-10-17T12:05:31.082638+00:00",
+  "status": "complete initially blind whole review2; no substantive objection found; coordinator reconciliation required",
+  "reviewer": "/root/review_2017_coarsening_r1",
+  "constructor_of_NEW_KC": false,
+  "constructor_of_OLD_accepted_CP1_dependency": true,
+  "old_dependency_not_independently_reaudited_by_its_author": true,
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "target": {
+    "path": "problems/2024-B4/notes/coordinator-Kasami-whole-criterion-candidate-v1.md",
+    "bytes": 7192,
+    "sha256": "390d795343eb32a9496aa9a64c054b4809bd400c37c8195264053d343ba180bf"
+  },
+  "target_manifest": {
+    "path": "problems/2024-B4/notes/coordinator-Kasami-whole-criterion-manifest-v1.json",
+    "bytes": 1202,
+    "sha256": "f08044ef0a1a9d8fa38e26f50e2b261d46ef761e68604060f918c5119816a3f3"
+  },
+  "whole_submitted_obligations_audited": 26,
+  "open_substantive_issues": 0,
+  "peer_findings_read_before_initial_freeze": false,
+  "scope": "Every k>=2,q=2^k,odd n>=3: WHOLE phi_(q^2-q+1)|phi_n overF2 iff n=(q^(2r+1)+1)/(q+1),r>=1; accepted CP1/GK inputs",
+  "arbitrary_component_full_reducibility_annual_or_novelty_claim": false,
+  "external_monodromy_factor_or_group_theorem_imported": false,
+  "mathematical_computation_or_CAS": false,
+  "earlier_unique_own_paths_verified_unchanged": 238,
+  "last_direct_weekly_telemetry": {
+    "at_utc": "2026-10-17 11:59:03 UTC",
+    "total_used_percent": 36,
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "total_ceiling_percent": 90,
+    "integration_reserve": true
+  },
+  "administrative_command": "/Users/uqmkamga/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 problems/2024-B4/reviews/Kasami-whole-criterion-review-2-freeze-v1.py",
+  "artifacts": [
+    {
+      "path": "problems/2024-B4/reviews/Kasami-whole-criterion-review-2-initial-v1.md",
+      "bytes": 12300,
+      "sha256": "24e582b9f99d4ac088af8ef68c51ab098de71e1bee704f06ed9b8f9ece99cdec"
+    },
+    {
+      "path": "problems/2024-B4/reviews/Kasami-whole-criterion-review-2-issues-v1.md",
+      "bytes": 5187,
+      "sha256": "4df93a8b3e9dfda82615d7434acf692556b72c1bd87c3b8bd17f986cf0533658"
+    },
+    {
+      "path": "problems/2024-B4/reviews/Kasami-whole-criterion-review-2-source-checks-v1.md",
+      "bytes": 6969,
+      "sha256": "c038a63ee1d2d10f89bdf08d091a23694a6be437b42781f066c5a99ed40018a1"
+    },
+    {
+      "path": "problems/2024-B4/reviews/Kasami-whole-criterion-review-2-freeze-v1.py",
+      "bytes": 5821,
+      "sha256": "b8c2f7f8cdc95114f4841840321e78f3cf70960ac166848c8acf25606cfc1932"
+    },
+    {
+      "path": "problems/2024-B4/reviews/Kasami-whole-criterion-review-2-input-validation-v1.json",
+      "bytes": 50530,
+      "sha256": "096937ac1b2d1e50cb1246e5131c4bf7b70b3c30345ca883129369df2761be78"
+    }
+  ]
+}

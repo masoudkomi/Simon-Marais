@@ -1,5 +1,7 @@
 # Independent review queue
 
+Current12:14UTC:2024 KC exact WHOLE Kasami-divisor iff ACCEPTED after TWO complete initially blind WHOLE audits/full root reconciliation;40/26checks,26obligations.2019 LO1–LO6 two fresh whole audits active.2020 r4 complete frozen UNVERIFIED, two audits pending;2025 r4 construction active. Two complete annual answers remain2018/2023.36%TOTALweekly, same reset and90%ceiling. See status-2026-10-17-1214.md. Earlier dated entries are historical.
+
 Current12:03UTC:2021R5A–E and2019CCL ACCEPTED after TWO complete blind WHOLE audits each/full root reconciliation.2024KCbothfreshwholeauditsactive;2019LO1–LO6twofreshwholeauditsqueued, both candidates unverified. New2020reasoningactive/2025reasoningqueued. Root2022carry/higher2024notesunverified.36%TOTALweekly/samereset90%ceiling. See status-2026-10-17-1203.md. Earlier dated entries historical.
 
 Current11:45UTC:2022R4/2024NV/2025MS scoped partials ACCEPTED after TWO full initially blind WHOLE audits each and complete root reconciliation.2021R5TWOauditsactive;2019CCLR1active/R2queued, candidate unverified. No new full annual answer or MS Diophantine exclusion.35%TOTALweekly/samereset/90%ceiling. See status-2026-10-17-1145.md. Earlier dated entries historical.

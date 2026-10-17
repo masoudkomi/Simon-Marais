@@ -1,0 +1,80 @@
+{
+  "frozen_at_utc": "2026-10-17T12:10:57.370118+00:00",
+  "status": "candidate proof - unverified; complete scoped conceptual construction checkpoint",
+  "constructor": "review_2022_complexity_r2",
+  "root_contributed_to_this_new_R4_construction": false,
+  "requested_model": "gpt-6.1-sol",
+  "requested_reasoning_effort": "max",
+  "verified_effective_setting_readback": null,
+  "scope": "2020 B4(b); R4A-R4E partial structural claims, q>=2 with exact q4 exclusions",
+  "claims": [
+    "R4A",
+    "R4B",
+    "R4C",
+    "R4D",
+    "R4E"
+  ],
+  "author_obligations": 36,
+  "requires_two_fresh_initially_blind_nonconstructor_whole_audits": true,
+  "independent_audits_already_obtained_for_new_packet": 0,
+  "coordinator_promotion": false,
+  "Cohen_generator_theorem_attributed_import": true,
+  "new_external_full_proofs_all_reconstructed": false,
+  "whole_mathematical_argument_and_exact_scope_written": true,
+  "complete_moment_system_solved_for_unbounded_parameters": false,
+  "nonsaturated_multiplier_branch_resolved": false,
+  "full_annual_classification_numerical_answer_or_novelty_claim": false,
+  "mathematical_program_scan_CAS_certificate_or_author_rerun": false,
+  "old_shared_Git_cache_writes_spawning_contacts_charges_bypass": false,
+  "input_record_occurrences_verified": 993,
+  "input_unique_paths_verified": 545,
+  "older_own_frozen_paths_preserved": 183,
+  "accepted2020R3_integrity_occurrences_rechecked": 761,
+  "direct_weekly_telemetry": {
+    "at_utc": "2026-10-17T12:09:00+00:00",
+    "source": "direct account-wide Codex usage tool, paired with UTC clock read",
+    "total_used_percent": 36,
+    "window_duration_minutes": 10080,
+    "resets_at_unix": 1792745187,
+    "ordinary_usage_allowed": true,
+    "total_used_cutoff_percent": 90,
+    "integration_reserve": true
+  },
+  "artifacts": [
+    {
+      "path": "problems/2020-B4/notes/reasoning-return-r4-candidate-v1.md",
+      "bytes": 19691,
+      "sha256": "685c38ed9f1754aca7613e7e6d74d628737fa3b7111c3f8b01c98005b9af6958"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-return-r4-obligations-v1.md",
+      "bytes": 8946,
+      "sha256": "6b6fca8e32d757c0a7693a5f6592ba28351072ddf88932825c16afb48ed9d3d4"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-return-r4-source-checks-v1.md",
+      "bytes": 6680,
+      "sha256": "67a4dcccee421ec4fac22dc8e1dbe16abbf5ce50a28ec480ab9586f095e6761e"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-return-r4-worklog-v1.md",
+      "bytes": 5207,
+      "sha256": "43e40f2454646be5d99a98f30c565b854562f25a2eea91596ff38d75e63d0710"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-return-r4-freeze-v1.py",
+      "bytes": 16004,
+      "sha256": "589a9dd07b4ccb133cd4d753d23d42294b02013ce98b0c66d0c80acfbe84e04b"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-return-r4-sources-v1.json",
+      "bytes": 8924,
+      "sha256": "5561174243ff4042c77f0cc47ce97979f96dea232965e0a901a0deeb8bc70c92"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-return-r4-input-validation-v1.json",
+      "bytes": 197801,
+      "sha256": "43625768e162782ad89a6670d220ac21b201dcdffa7ba65a21357d6757362f55"
+    }
+  ]
+}

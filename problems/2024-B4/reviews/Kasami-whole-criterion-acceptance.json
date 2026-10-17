@@ -1,0 +1,80 @@
+{
+  "accepted_at_utc": "2026-10-17T12:08:07.463654+00:00",
+  "status": "proved, independently reviewed scoped partial result",
+  "claims": [
+    "KC: for EVERY k>=2,q=2^k,d=q^2-q+1,odd n>=3, WHOLE phi_d|phi_n overF2 iff n=(q^(2r+1)+1)/(q+1) for some integer r>=1"
+  ],
+  "constructor": "coordinator root",
+  "reviewers": [
+    "review_2021_reasoning_j15_r2",
+    "review_2017_coarsening_r1"
+  ],
+  "whole_initials_blind": true,
+  "root_read_full_candidate_reports_ledgers_sources": true,
+  "unresolved_substantive_issues": 0,
+  "repair_required": false,
+  "record_occurrences_verified": 622,
+  "unique_paths_verified": 556,
+  "candidate": {
+    "path": "problems/2024-B4/notes/coordinator-Kasami-whole-criterion-candidate-v1.md",
+    "bytes": 7192,
+    "sha256": "390d795343eb32a9496aa9a64c054b4809bd400c37c8195264053d343ba180bf"
+  },
+  "accepted_copy": {
+    "path": "problems/2024-B4/proofs/reviewed-Kasami-whole-criterion-v1.1.md",
+    "bytes": 10678,
+    "sha256": "b78b770e4f0b19481c1c7b136295cff2a2876d0e4e5f9c0fa1f6112c64944e1c"
+  },
+  "verification_metadata": [
+    {
+      "path": "problems/2024-B4/notes/coordinator-Kasami-whole-criterion-manifest-v1.json",
+      "bytes": 1202,
+      "sha256": "f08044ef0a1a9d8fa38e26f50e2b261d46ef761e68604060f918c5119816a3f3"
+    },
+    {
+      "path": "problems/2024-B4/notes/coordinator-Kasami-whole-criterion-sources-v1.json",
+      "bytes": 1705,
+      "sha256": "6760db49f713a64b85bbdf2a5e9a3ef4fb01f9d1d3b07eda4f21a1a23a9d5f0e"
+    },
+    {
+      "path": "problems/2024-B4/reviews/Kasami-whole-criterion-review-1-manifest-v1.json",
+      "bytes": 3491,
+      "sha256": "6b4c430f9b1ad0c91b1da3651b67d9b26ea8dca8712c89e7f47ea2d3bf373cda"
+    },
+    {
+      "path": "problems/2024-B4/reviews/Kasami-whole-criterion-review-1-input-validation-v1.json",
+      "bytes": 80708,
+      "sha256": "42019bf288b33ce12df1fc498d6e892c03dd430aa6de5867a9b3600fb2b6faa0"
+    },
+    {
+      "path": "problems/2024-B4/reviews/Kasami-whole-criterion-review-2-manifest-v1.json",
+      "bytes": 2919,
+      "sha256": "781dd7fb57677987f775251ef82a0b35cfd6dd307142bcb7b781a1bc94121449"
+    },
+    {
+      "path": "problems/2024-B4/reviews/Kasami-whole-criterion-review-2-input-validation-v1.json",
+      "bytes": 50530,
+      "sha256": "096937ac1b2d1e50cb1246e5131c4bf7b70b3c30345ca883129369df2761be78"
+    },
+    {
+      "path": "problems/2024-B4/reviews/composition-Kasami-acceptance.json",
+      "bytes": 2786,
+      "sha256": "fb34aeef979003960d3563e70b4a97444279dfe9cce9448e11b0712126fb250d"
+    },
+    {
+      "path": "problems/2024-B4/reviews/generalized-Kasami-acceptance.json",
+      "bytes": 5168,
+      "sha256": "c580e2e51475b46283b16c47992a625fc3437c0a0a4669c63394f6a5bafbbf67"
+    }
+  ],
+  "whole_inference_checks": [
+    40,
+    26
+  ],
+  "all_author_obligations": 26,
+  "root_constructor_not_independent_reviewer": true,
+  "reviewer2_old_CP1_authorship_disclosed": true,
+  "exact_whole_divisor_iff_for_every_k_and_index_in_domain": true,
+  "arbitrary_factors_full_reducibility_annual_solution_or_novelty": false,
+  "no_mathematical_program_CAS_or_scan": true
+}

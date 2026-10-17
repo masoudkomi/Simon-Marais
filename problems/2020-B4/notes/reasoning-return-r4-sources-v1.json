@@ -1,0 +1,202 @@
+{
+  "recorded_at_utc": "2026-10-17T12:10:57.370118+00:00",
+  "status": "candidate proof - unverified; constructor source audit",
+  "constructor": "review_2022_complexity_r2",
+  "requested_model": "gpt-6.1-sol",
+  "requested_reasoning_effort": "max",
+  "verified_effective_setting_readback": null,
+  "scope": "2020 B4(b) only; q=n-1>=2 in all new structural claims",
+  "full_external_proofs_all_reconstructed": false,
+  "new_native_downloads": false,
+  "existing_related_native_cache_fingerprints": [
+    {
+      "path": ".cache/official/2020-paper_b.pdf",
+      "bytes": 118979,
+      "sha256": "87d99c8f1c3d077bddeb542e3825a515e90b0f29339acde94758d57a102bb3da"
+    },
+    {
+      "path": ".cache/literature/2020/initial-review-2/gordon1994.pdf",
+      "bytes": 97934,
+      "sha256": "3aec0764176198d398fb1a027aa2add921ef3d4aa554848d85d22c8917016b54"
+    },
+    {
+      "path": ".cache/literature/2020/initial-review-2/gordon-small-lambda-v1.pdf",
+      "bytes": 128808,
+      "sha256": "fd92867ab367f70e15a19118e711f84f601dfa835d9c5ab33fb706d3eedf2850"
+    }
+  ],
+  "actual_primary_read_scopes": [
+    {
+      "key": "official",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2020-paper-b_1.pdf",
+      "locator": "page2 B4; (b) only under investigation",
+      "read_scope": "Exact official domain and geometric problem read directly; no preliminary proof reproduced",
+      "existing_cache_related": ".cache/official/2020-paper_b.pdf",
+      "fresh_web_native_bytes_returned": false
+    },
+    {
+      "key": "cohen1989",
+      "title": "Generators in Cyclic Difference Sets",
+      "author": "Stephen D. Cohen",
+      "doi": "10.1016/0097-3165(89)90047-2",
+      "url": "https://www.researchgate.net/publication/220077727_Generators_in_cyclic_difference_sets",
+      "version": "Original JCTA51(1989),227-236; author-uploaded full text",
+      "locator": "Definition and Theorem1 printedp227; q4 exception discussion printedp230",
+      "read_scope": "Actual original definition, theorem and exception/translation caveat directly read; not entire sieve proof reconstructed",
+      "use": "Attributed existence of a unit member of actual D, q!=4; R4C and R4D",
+      "hypotheses_checked": [
+        "cyclic actual difference set",
+        "1<k<v-1",
+        "q!=4 excludes both (21,5,1) exceptions",
+        "applied to chosen normalized translate"
+      ],
+      "new_native_pdf_sha256": null,
+      "download_link_status": "Web tool cache miss; no native returned bytes, no download or cleanup claim",
+      "full_paper_redistributed": false
+    },
+    {
+      "key": "gordon1994",
+      "url": "https://www.combinatorics.org/ojs/index.php/eljc/article/download/v1i1r6/pdf/",
+      "locator": "Section2 printedpp2-3, numerical multiplier definition and Theorems2-4,9",
+      "read_scope": "Actual primary theorem statements read directly; no fresh audit of original Hall/Ho proofs",
+      "use": "Accepted divisor-multiplier context and classical bound attribution; R4B proves its own bound",
+      "existing_cache_related": ".cache/literature/2020/initial-review-2/gordon1994.pdf",
+      "new_native_download": false
+    },
+    {
+      "key": "gordon2020v1",
+      "url": "https://arxiv.org/pdf/2007.07292v1",
+      "title": "On difference sets with small lambda",
+      "locator": "Theorem4 and complete Theorem5 proof printedpp3-4; Theorem6 collision statement",
+      "read_scope": "Actual primary statements and Cohen-based degree proof read; journal theorem numbering differs",
+      "use": "Classical context; no contracted-multiplier or collision theorem used as unproved replacement for R4A/B",
+      "existing_cache_related": ".cache/literature/2020/initial-review-2/gordon-small-lambda-v1.pdf",
+      "new_native_download": false
+    },
+    {
+      "key": "baumert-gordon2003",
+      "url": "https://arxiv.org/pdf/math/0304502",
+      "locator": "Section5 Theorem5.1 printedp7",
+      "read_scope": "Actual primary theorem statement and context read; original Evans-Mann/Lander proofs not imported",
+      "use": "Attribution and exact distinction from the present cyclic planar noncollision reconstruction",
+      "new_native_pdf_sha256": null
+    },
+    {
+      "key": "xia2023v7",
+      "url": "https://arxiv.org/pdf/1707.05486v7",
+      "title": "New necessary conditions for the existence of finite non-Desarguesian flag-transitive projective planes",
+      "locator": "Introductionpp1-3, Proposition1.2, Theorem1.3 domain, cyclotomic definition and prior-work discussion",
+      "read_scope": "Actual active v7 primary text; no full Gauss-sum proof or polynomial system theorem imported",
+      "use": "Context and hypothesis caution only; index L versus subgroup order m kept distinct",
+      "new_native_pdf_sha256": null,
+      "withdrawn_v5_used": false,
+      "substantive_theorem_import": false
+    }
+  ],
+  "not_directly_read_not_imported": [
+    "Original full Cohen character-sum/sieve proof beyond the assigned statement and exception passages",
+    "Original full Hall/Ho/Evans-Mann/Lander proofs",
+    "Thas-Zagier2008 full proof and Xia2018 full cyclotomic proof",
+    "Xia2023 full non-Desarguesian flag-transitive theorems"
+  ],
+  "new_R4E_symbolic_moment_proof": "Complete elementary argument in candidate, not an external theorem import or a finite computation",
+  "existing_BBB_raw_hash_limitation_preserved": true,
+  "direct_full_local_document_or_register_reads": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2020-B4/statement.md",
+      "bytes": 2006,
+      "sha256": "91c9e7e86eef7bc6a68770f6ee730d18618443304ac3aace5541b42170ac64cc"
+    },
+    {
+      "path": "problems/2020-B4/references.md",
+      "bytes": 9036,
+      "sha256": "7ce4ae9b9c7724cbd91cdc0da57a09e79e0eac728399b79efe148aa799262786"
+    },
+    {
+      "path": "problems/2020-B4/issues.md",
+      "bytes": 4072,
+      "sha256": "44d744251e638e307f039f55ed4d213d5481d47f5c44c53e48ff62e592eb7397"
+    },
+    {
+      "path": "problems/2020-B4/proofs/partial-v1.md",
+      "bytes": 8703,
+      "sha256": "f53945e49bd626847e52a61f7e39e96defd2ae44900f9d235c2c14e720f41525"
+    },
+    {
+      "path": "problems/2020-B4/proofs/reviewed-partial-v1.1.md",
+      "bytes": 2207,
+      "sha256": "3fcdd2d50c4545b2e466b8a24f5a958fb69f2b0f10cccf19fa4b628ed02a690f"
+    },
+    {
+      "path": "problems/2020-B4/proofs/reviewed-return-r3-v1.2.md",
+      "bytes": 20446,
+      "sha256": "18fc1871219740c528527eb1cfb68c2c1571eba0243e4866b5a8630092a91317"
+    },
+    {
+      "path": "problems/2020-B4/reviews/acceptance.md",
+      "bytes": 2125,
+      "sha256": "91d5c59db4f974238113d2ab3f717e7e0f26e404e0eb526d59d0abc5348bc128"
+    },
+    {
+      "path": "problems/2020-B4/reviews/acceptance.json",
+      "bytes": 1985,
+      "sha256": "e95e2c0493cc3db7a5618ff3012151311df8175fc63c3d03e3afdf2cbaa8b79c"
+    },
+    {
+      "path": "problems/2020-B4/reviews/return-r3-acceptance.md",
+      "bytes": 2790,
+      "sha256": "fd42d45fab639c77a1653ec20afe39d72ed6d5b0f520ecba0404215746433c57"
+    },
+    {
+      "path": "problems/2020-B4/reviews/return-r3-acceptance.json",
+      "bytes": 2255,
+      "sha256": "31db4ee6346955c39bccf7d7287d8bcd52d9f0abeebb531eea378d52a82f0bf3"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-return-r3-repair-v1.1.md",
+      "bytes": 5654,
+      "sha256": "12fabe3054a308bbb578bf59cdf9696f835eb5092558d8f2a90f2dc6cd678877"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-return-r3-sources-v1.1.json",
+      "bytes": 2041,
+      "sha256": "5c134eabd8adbd3f2c1f8f65feadda093bc619fa845c32d8921026a6cd98f0b9"
+    },
+    {
+      "path": "problems/2020-B4/notes/deep-literature-r1-report-v1.md",
+      "bytes": 9404,
+      "sha256": "2c54319b2294be5851ff0d93be7dd833e3f2041405ed98b6b026080b4560da50"
+    },
+    {
+      "path": "problems/2020-B4/notes/deep-literature-r1-sources-v1.json",
+      "bytes": 5487,
+      "sha256": "7823c32be8aac9eae4c5a31b705ed3f8f6a03bec867e36be4a8079d8ef185999"
+    },
+    {
+      "path": "problems/2020-B4/notes/reviewed-source-clarifications-v1.md",
+      "bytes": 2491,
+      "sha256": "03887e1f665d57b5a60a1b6b367376e7f97b2c5d166dea2076a51af44e387207"
+    },
+    {
+      "path": "problems/2020-B4/reviews/initial-review-2-sources.json",
+      "bytes": 6554,
+      "sha256": "c5e1032f07f196a2f01c9ce2dc2187589e7f83f9f6c74e65fc8ebd5fda0437d6"
+    }
+  ],
+  "no_mathematical_scans_CAS_author_reruns_contacts_charges_bypass": true,
+  "direct_weekly_telemetry": {
+    "at_utc": "2026-10-17T12:09:00+00:00",
+    "source": "direct account-wide Codex usage tool, paired with UTC clock read",
+    "total_used_percent": 36,
+    "window_duration_minutes": 10080,
+    "resets_at_unix": 1792745187,
+    "ordinary_usage_allowed": true,
+    "total_used_cutoff_percent": 90,
+    "integration_reserve": true
+  }
+}

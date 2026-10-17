@@ -1,0 +1,25 @@
+{
+  "frozen_at_utc": "2026-10-17T12:07:04.650244+00:00",
+  "metadata_only": true,
+  "whole_KC_iff_reconstructed": true,
+  "per_inference_ledger_rows": 40,
+  "constructor_obligations_covered": 26,
+  "constructor_submission_artifacts": 4,
+  "declared_source_fingerprints_checked": 8,
+  "additional_actual_read_scope_local_snapshots": 5,
+  "full_CP_and_GK_bodies_and_exact_original_suffixes_checked": true,
+  "older_own_packets_preserved": 40,
+  "separate_GK_telemetry_addendum_preserved": true,
+  "substantive_objections": [],
+  "required_author_repairs": [],
+  "whole_initial_blind_freeze": true,
+  "latest_authoritative_weekly_usage": {
+    "total_used_percent": 36,
+    "at_utc": "2026-10-17 12:05:31 UTC",
+    "source": "authoritative account-wide get_usage_limits tool",
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "total_ceiling_percent": 90,
+    "integration_reserve": true
+  }
+}

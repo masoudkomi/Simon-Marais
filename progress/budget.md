@@ -108,3 +108,6 @@ At2026-10-17 11:44:10UTC, directaccountmeter35%TOTALweeklyused/65%remaining,55pe
 
 
 Current12:03UTCtransition:36%TOTALweeklyused,64%remaining,54ppbefore90%,samereset1792745187. Raw12:02:35UTC753,899,483total,712,634,112cachedinput,35,041,697uncachedinput,6,223,674outputincluding2,738,377reasoning;uncached+output41,265,371.62sessions/4519responses,allsumsmatch. No bill/weeklyconversion. Researchandreviewcontinuewithreserve.
+
+
+12:14UTC transition:36%TOTALweeklyused,64%remaining,54ppbefore90%;same reset1792745187. Raw12:12:42UTC767,693,674total,725,832,704cachedinput,35,519,697uncachedinput,6,341,273output including2,780,168reasoning;uncached+output41,860,970.62sessions/4586responses,all sums match. Not a bill/weeklyconversion. Research continues.
