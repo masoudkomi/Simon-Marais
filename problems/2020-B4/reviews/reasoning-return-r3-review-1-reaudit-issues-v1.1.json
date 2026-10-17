@@ -1,0 +1,83 @@
+{
+  "status": "targeted nonconstructor reaudit recommendation only",
+  "issue": "2020R2-01",
+  "recommendation": "resolve on full repaired v1.1 only",
+  "root_initial_missed_domain_distinction": true,
+  "original_false_v1_preserved": true,
+  "new_peer_targeted_findings_read": false,
+  "open_substantive_issues": [],
+  "checks": [
+    {
+      "id": "R1R-1",
+      "target": "F4-scope",
+      "disposition": "pass",
+      "reason": "Own h_t,f_t,m_t defined from G^<t>;larger commonH explicitly prohibited."
+    },
+    {
+      "id": "R1R-2",
+      "target": "F4-proof",
+      "disposition": "pass",
+      "reason": "Singleton and ell-length t-orbits give |D|=f_t mod ell."
+    },
+    {
+      "id": "R1R-3",
+      "target": "F4-h1",
+      "disposition": "pass",
+      "reason": "Both clauses and one actual0-membership checked."
+    },
+    {
+      "id": "R1R-4",
+      "target": "recursive",
+      "disposition": "pass",
+      "reason": "Restricted multiplier order/fixed subgroup must be reset, identity possible."
+    },
+    {
+      "id": "R1R-5",
+      "target": "counterexample",
+      "disposition": "pass",
+      "reason": "All10 distances, doubled cycles, original failures and correctedH8/H4 hand verified."
+    },
+    {
+      "id": "R1R-6",
+      "target": "F1a",
+      "disposition": "pass",
+      "reason": "Own<p>, no assumption its order is prime; restriction unchanged."
+    },
+    {
+      "id": "R1R-7",
+      "target": "F2",
+      "disposition": "pass",
+      "reason": "Own involution fixedB; projections/fiber proof unaffected."
+    },
+    {
+      "id": "R1R-8",
+      "target": "F2a",
+      "disposition": "pass",
+      "reason": "Full-order halfway powers/CRT unaffected."
+    },
+    {
+      "id": "R1R-9",
+      "target": "F3-F3a",
+      "disposition": "pass",
+      "reason": "Same involutionB, trace and every lift coefficient iff unchanged."
+    },
+    {
+      "id": "R1R-10",
+      "target": "B1",
+      "disposition": "pass",
+      "reason": "No fixed-group use; exact norm/integrality boundary unchanged."
+    },
+    {
+      "id": "R1R-11",
+      "target": "source",
+      "disposition": "pass",
+      "reason": "No new import; classical BBB and missing rawbytehash scopes retained."
+    },
+    {
+      "id": "R1R-12",
+      "target": "integrity",
+      "disposition": "pass",
+      "reason": "Exact full diff reproduced, original reports/counterexample preserved."
+    }
+  ]
+}

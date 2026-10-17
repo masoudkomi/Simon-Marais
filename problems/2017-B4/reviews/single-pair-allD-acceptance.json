@@ -1,0 +1,47 @@
+{
+  "accepted_at_utc": "2026-10-17T07:11:56.616224+00:00",
+  "status": "proved, independently reviewed partial results",
+  "claims": [
+    "SP1",
+    "SP2",
+    "SP3"
+  ],
+  "dimension": "every fixed D>=3",
+  "constructor": "coordinator root",
+  "reviewers": [
+    "review_2021_reasoning_j15_r2",
+    "review_2022_complexity_r2"
+  ],
+  "whole_initials_blind": true,
+  "root_read_full_reports_ledgers_sources": true,
+  "unresolved_substantive_issues": 0,
+  "repair_required": false,
+  "exact_RM1_body_unchanged_and_dependency_accepted": true,
+  "record_occurrences_verified": 352,
+  "unique_paths_verified": 333,
+  "candidate": {
+    "path": "problems/2017-B4/notes/coordinator-single-pair-allD-candidate-v1.md",
+    "bytes": 10381,
+    "sha256": "c0d51d61f110cf5a190344403d346940b06b95a6d1880c6c725d241c92c397b4"
+  },
+  "accepted_copy": {
+    "path": "problems/2017-B4/proofs/reviewed-single-pair-allD-v1.1.md",
+    "bytes": 11824,
+    "sha256": "b66e494bab6ef872565d8f1574fb96094c5b0c7f5a59f7ba9d79c03d23a08c84"
+  },
+  "review_manifests": [
+    {
+      "path": "problems/2017-B4/reviews/single-pair-allD-review-1-manifest-v1.json",
+      "bytes": 2319,
+      "sha256": "ed7835d60efe1bae9e295b8bbbce0774953f16de3627059af2c56001712b47a2"
+    },
+    {
+      "path": "problems/2017-B4/reviews/single-pair-allD-review-2-manifest-v1.json",
+      "bytes": 2502,
+      "sha256": "c2dae75c9653b5ea350d5071437c4711091c361686ca4cfaca1f9bcaf23b9e0e"
+    }
+  ],
+  "UR_lower_application_remains_conditional": true,
+  "multiple_merged_groups_H_PR_URD_or_official_limits_proved": false,
+  "novelty_established": false
+}

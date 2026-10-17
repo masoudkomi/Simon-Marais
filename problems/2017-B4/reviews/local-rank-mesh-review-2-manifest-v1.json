@@ -1,0 +1,68 @@
+{
+  "frozen_at_utc": "2026-10-17T07:09:46.171202+00:00",
+  "status": "initial independent whole nonconstructor audit frozen before peer findings",
+  "reviewer": "/root/review_2022_complexity_r2",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "candidate": {
+    "path": "problems/2017-B4/notes/coordinator-local-rank-mesh-candidate-v1.md",
+    "bytes": 11850,
+    "sha256": "09c206718f1acecb9f23ae9bdb54122a4e9a9420b4549326413a664cb44230c5"
+  },
+  "candidate_freeze": {
+    "path": "problems/2017-B4/notes/coordinator-local-rank-mesh-freeze-v1.json",
+    "bytes": 1655,
+    "sha256": "a3e76f8d6dcb6a2db900e810aa75c076b4b479235e95e6bbe021a85799fdc781"
+  },
+  "whole_claims_reconstructed": [
+    "LW1 sections1-5 and full local code/recovery bound"
+  ],
+  "background_RM1_is_explicitly_conditional": true,
+  "separate_inference_checks": 18,
+  "substantive_objections": 0,
+  "author_repair_requested": false,
+  "promotion_by_reviewer": false,
+  "peer_findings_read_before_initial_freeze": false,
+  "mathematical_program_enumeration_CAS": false,
+  "global_N_O_L_or_R_O_L_assumed": false,
+  "one_height_anchor_logR_and_no_exit_matching": true,
+  "actual_global_interior_faces_and_one_reference_exterior": true,
+  "H_PR_UR4_global_assembly_official_limit_or_novelty": false,
+  "input_paths_verified": 8,
+  "earlier_own_paths_verified_unchanged": 118,
+  "git_or_shared_candidate_edits": false,
+  "only_assigned_prefix_written": true,
+  "latest_authoritative_weekly_usage": {
+    "used_percent": 28,
+    "at_utc": "2026-10-17 07:03:17 UTC",
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "total_used_ceiling_percent": 90,
+    "integration_reserve": true
+  },
+  "records": [
+    {
+      "path": "problems/2017-B4/reviews/local-rank-mesh-review-2-initial-v1.md",
+      "bytes": 15494,
+      "sha256": "3eafa6c162272026a18657e9ac9ab2ecf1de2e7a4354a06d5086f2cf667dbfc5"
+    },
+    {
+      "path": "problems/2017-B4/reviews/local-rank-mesh-review-2-issues-v1.json",
+      "bytes": 7022,
+      "sha256": "8d11f182ec43c9def68439ec09ecd98c490a813ec4d01007a82cfae62b14b427"
+    },
+    {
+      "path": "problems/2017-B4/reviews/local-rank-mesh-review-2-source-checks-v1.md",
+      "bytes": 3544,
+      "sha256": "f42e4bded052041defbc7d476308204e24ff7a454890f6ee9f3f9d3c21d2900d"
+    },
+    {
+      "path": "problems/2017-B4/reviews/local-rank-mesh-review-2-input-checks-v1.json",
+      "bytes": 25386,
+      "sha256": "00c5569f907dc73efcfc094ed175f0ff8199fb88b2b7a2d2c839149919aed939"
+    }
+  ]
+}

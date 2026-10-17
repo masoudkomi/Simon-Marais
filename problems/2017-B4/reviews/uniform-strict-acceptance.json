@@ -1,0 +1,53 @@
+{
+  "accepted_at_utc": "2026-10-17T07:08:52.906055+00:00",
+  "status": "proved, independently reviewed partial results",
+  "claims": [
+    "US1",
+    "US2",
+    "US3"
+  ],
+  "constructor": "review_2021_reasoning_j15_r2, with root strategy input",
+  "reviewers": [
+    "review_2017_coarsening_r1",
+    "review_2022_complexity_r2"
+  ],
+  "root_inspection_counted_as_independent_review": false,
+  "whole_initials_blind": true,
+  "root_read_full_reports_issues_sources": true,
+  "unresolved_substantive_issues": 0,
+  "mathematical_repair_required": false,
+  "record_occurrences_verified": 683,
+  "unique_paths_verified": 448,
+  "candidate": {
+    "path": "problems/2017-B4/notes/uniform-strict-reasoning-r1-candidate-v1.md",
+    "bytes": 22943,
+    "sha256": "643d0906e3eebee91dd91f53e5e1b241de35c3b7912d5010d2e651e830258c9d"
+  },
+  "accepted_copy": {
+    "path": "problems/2017-B4/proofs/reviewed-uniform-strict-v1.1.md",
+    "bytes": 24298,
+    "sha256": "096eeb2328483c17519528e801b479076e35f582d17e05479fc3def4a6a2804a"
+  },
+  "review_manifests": [
+    {
+      "path": "problems/2017-B4/reviews/uniform-strict-review-1-manifest-initial.json",
+      "bytes": 2788,
+      "sha256": "bf4502a10fcab5fa45724a745e66aeaae35a0e9e6a72d6503555e47f07d35366"
+    },
+    {
+      "path": "problems/2017-B4/reviews/uniform-strict-review-2-manifest-v1.json",
+      "bytes": 2689,
+      "sha256": "1b75935429944c0f97ac98883eae116c21619673e7616131828a7877c0ab373a"
+    }
+  ],
+  "scope": "D4 compact-strict exact local source/reference dilation comparison only",
+  "parameter_order": [
+    "target loss",
+    "epsilon",
+    "finite rational net",
+    "periods/phases",
+    "maximum L0"
+  ],
+  "allD_UR4_H_PR_official_limits_proved": false,
+  "novelty_established": false
+}

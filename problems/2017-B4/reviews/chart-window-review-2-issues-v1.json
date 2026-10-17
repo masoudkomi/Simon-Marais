@@ -1,0 +1,132 @@
+{
+  "status": "initial whole independent nonconstructor audit frozen before peer findings",
+  "reviewer": "/root/review_2022_complexity_r2",
+  "candidate_sha256": "c272eabf4d5efcd2d0f8075d68b010ec00a48e824bdec81e563f6402a7568e0b",
+  "open_substantive_issues": [],
+  "author_repairs_requested": [],
+  "separate_inference_checks": 20,
+  "checks": [
+    {
+      "id": "CW-R2-01",
+      "claim": "domain/full accepted input",
+      "status": "reconstructed; no substantive objection",
+      "reason": "Actual full balanced marked tilings, D>=2 and positive integer p; one fixed admissible J, one valid cut and common c across family. Official varying-n rates are not claimed."
+    },
+    {
+      "id": "CW-R2-02",
+      "claim": "OC homeomorphism and degeneracies",
+      "status": "reconstructed; no substantive objection",
+      "reason": "Read full exact accepted OC1–OC3. Finite positive physical tile determinants yield full inverse and uniform bilipschitz maps, while weighted Cauchy–Binet bounds A inverse for bounded J even at zero tangent minors."
+    },
+    {
+      "id": "CW-R2-03",
+      "claim": "CW0 signed translation",
+      "status": "reconstructed; no substantive objection",
+      "reason": "Reconstructed V′S=V and V′(p sigma)=-b0. Then c′=J′b0+Sc+p sigma lies in ker V′ and b=WSc+pW sigma; F uses original x with no doubled translation."
+    },
+    {
+      "id": "CW-R2-04",
+      "claim": "CW0 common target offset and error",
+      "status": "reconstructed; no substantive objection",
+      "reason": "Direct substitution gives c*=c′-J*Wc′ in ker W and a′-J*F-c*=(I-J*W)Se. S is orthogonal, so delta=||W||E after fixed-D norm conversion. All family constants are common."
+    },
+    {
+      "id": "CW-R2-05",
+      "claim": "CW1 winding core inclusion",
+      "status": "reconstructed; no substantive objection",
+      "reason": "For y in P with boundary distance >delta, every point of the straight boundary homotopy stays away from y. Winding remains one and the full homeomorphism identifies F(int Q). This uses degree, not Hausdorff alone."
+    },
+    {
+      "id": "CW-R2-06",
+      "claim": "CW1 whole buffer, empty cores and inverse bound",
+      "status": "reconstructed; no substantive objection",
+      "reason": "A closed erosion at margin t>delta includes its boundary by the same positive-distance argument. Whole required neighborhood is an explicit subset hypothesis. Large E may leave no core. CW1′ follows by applying A inverse to the displacement."
+    },
+    {
+      "id": "CW-R2-07",
+      "claim": "CW2 whole-tile image coverage",
+      "status": "reconstructed; no substantive objection",
+      "reason": "A source tile meeting Q0 lies wholly within its d_tile neighborhood; the error and margin put the entire actual image tile in Pplus. Extra recorded tiles outside controlled Q need no local error estimate for their exact inverse."
+    },
+    {
+      "id": "CW-R2-08",
+      "claim": "CW2 connected graph and one anchor",
+      "status": "reconstructed; no substantive objection",
+      "reason": "The connected convex Pplus is covered by its intersecting tiles, so their union and tile-edge graph are connected, including vertex-only contacts. A spanning tree plus one canonical height anchor integrates all colored increments."
+    },
+    {
+      "id": "CW-R2-09",
+      "claim": "CW2 anchor range and known location",
+      "status": "reconstructed; no substantive objection",
+      "reason": "Choose anchor vertex deterministically from target geometry. Its D integer heights lie in [0,p], hence at most (p+1)^D possibilities. Keep O_D(log(R+2)) with R>=max(2,p); no assumption p or R is O(window size)."
+    },
+    {
+      "id": "CW-R2-10",
+      "claim": "CW2 exact recovery and representative injection",
+      "status": "reconstructed; no substantive objection",
+      "reason": "Recover each source vertex using x′=V′a′, reverse signs/permutation, and add b0. Filter reconstructed whole tiles by Q0. Select one full extension per source restriction before mapping; equal target record plus anchor forces equal source restriction."
+    },
+    {
+      "id": "CW-R2-11",
+      "claim": "CW3 reference Jordan disk and complete gluing",
+      "status": "reconstructed; no substantive objection",
+      "reason": "Closed Jordan union Omega inside F(int Q) has an actual whole-tile Jordan inverse C. Same complete target boundary makes any filling glue to the unchanged actual full target exterior."
+    },
+    {
+      "id": "CW-R2-12",
+      "claim": "CW3 unchanged exterior canonical lift",
+      "status": "reconstructed; no substantive objection",
+      "reason": "Omega is strictly inside full target polygon, so its exterior is connected. Original outer normalization and identical colored edges fix identical lift there, including Omega boundary; exact full inverse fixes original fine exterior and boundary."
+    },
+    {
+      "id": "CW-R2-13",
+      "claim": "CW3 old boundary versus new interior inverse",
+      "status": "reconstructed; no substantive objection",
+      "reason": "The new full inverse maps Omega to the bounded Jordan disk with exactly the old boundary partial C. Its interior point map may change. Forward bijection recovers target choices; no new interior affine estimate is assumed."
+    },
+    {
+      "id": "CW-R2-14",
+      "claim": "CW4 exact grid lift for all integers",
+      "status": "reconstructed; no substantive objection",
+      "reason": "On each enlarged reference tile the unit M-grid has affine lift a_MT(Mx)=M a_T(x), consistently across shared edges and normalization, for every positive integer M."
+    },
+    {
+      "id": "CW-R2-15",
+      "claim": "CW4 map and reference region commutation",
+      "status": "reconstructed; no substantive objection",
+      "reason": "Using Mp and Mb0 gives F_MT(Mx)=M F_T(x). The target reference is exactly subdivided, so M Omega pulls back to exactly M C; CW3 applies to this single dilated original reference."
+    },
+    {
+      "id": "CW-R2-16",
+      "claim": "CW4 complete consecutive rank ports",
+      "status": "reconstructed; no substantive objection",
+      "reason": "Each original rank interval [r-1,r] dilates to M unit consecutive ranks. Flipped ranks s->Mp-s+1 reverse precisely that block. No new matching or permutation is chosen."
+    },
+    {
+      "id": "CW-R2-17",
+      "claim": "CW4 disjoint source regions from one reference",
+      "status": "reconstructed; no substantive objection",
+      "reason": "C_alpha lies strictly inside its own Q_alpha. Disjoint window interiors therefore give disjoint closed fine patches at every scale, all obtained from one actual reference T."
+    },
+    {
+      "id": "CW-R2-18",
+      "claim": "CW4 product gluing and local recovery",
+      "status": "reconstructed; no substantive objection",
+      "reason": "Each chart supplies a filling of its fixed fine boundary. Glue disjoint patches to one exterior; restrict final tiling and apply each local forward chart with inherited boundary lift to recover the tuple. Global maps need not commute."
+    },
+    {
+      "id": "CW-R2-19",
+      "claim": "boundary and counterexample attempts",
+      "status": "reconstructed; no substantive objection",
+      "reason": "Tried missing signs, vanished minors, empty erosion, thin image, vertex-only source/target contact, unbounded p, nonunique extensions, changing inverse, all M and incompatible global charts. Explicit hypotheses/formulas dispose of each; no substantive counterexample found."
+    },
+    {
+      "id": "CW-R2-20",
+      "claim": "scope and dependency firewall",
+      "status": "reconstructed; no substantive objection",
+      "reason": "No canonical image equality, free margins, global reference from separate code classes, dropped log R, entropy/H/PR/UR4/global recovery or official rate. No DG/CUT/ST/RM/LW/US conclusion is a premise."
+    }
+  ],
+  "peer_chart_window_findings_read_before_freeze": false,
+  "promotion_by_reviewer": false
+}

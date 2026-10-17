@@ -1,0 +1,74 @@
+{
+  "frozen_at_utc": "2026-10-17T07:16:18.935749+00:00",
+  "status": "initial independent whole nonconstructor audit frozen before peer findings",
+  "reviewer": "/root/review_2022_complexity_r2",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "candidate": {
+    "path": "problems/2017-B4/notes/coordinator-chart-window-candidate-v1.md",
+    "bytes": 11284,
+    "sha256": "c272eabf4d5efcd2d0f8075d68b010ec00a48e824bdec81e563f6402a7568e0b"
+  },
+  "candidate_freeze": {
+    "path": "problems/2017-B4/notes/coordinator-chart-window-freeze-v1.json",
+    "bytes": 1472,
+    "sha256": "f9708bcba4de2c877420e162336a8a8775c3a72e30c98eb2b03fef7e540e6a19"
+  },
+  "whole_claims_reconstructed": [
+    "CW0",
+    "CW1",
+    "CW2",
+    "CW3",
+    "CW4"
+  ],
+  "accepted_orientation_dependency_exact_sha256": "d15ed547defaffc617ffc6faf6df683c8473ecd9077be63e52d02bbb4edb4ca8",
+  "separate_inference_checks": 20,
+  "substantive_objections": 0,
+  "author_repair_requested": false,
+  "promotion_by_reviewer": false,
+  "peer_findings_read_before_initial_freeze": false,
+  "mathematical_program_enumeration_CAS": false,
+  "one_anchor_logR_explicit_and_full_inverse_required": true,
+  "all_integer_dilations_and_one_reference_disjoint_charts": true,
+  "H_PR_UR4_entropy_global_assembly_official_limit_or_novelty": false,
+  "input_paths_verified": 9,
+  "earlier_own_paths_verified_unchanged": 123,
+  "git_or_shared_candidate_edits": false,
+  "only_assigned_prefix_written": true,
+  "latest_authoritative_weekly_usage": {
+    "used_percent": 29,
+    "read_interval_utc": [
+      "2026-10-17 07:12:26 UTC",
+      "2026-10-17 07:13:58 UTC"
+    ],
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "total_used_ceiling_percent": 90,
+    "integration_reserve": true
+  },
+  "records": [
+    {
+      "path": "problems/2017-B4/reviews/chart-window-review-2-initial-v1.md",
+      "bytes": 16302,
+      "sha256": "d190568aeb057f3d6672c8890a2d2a3356740aa39d90419f09e851242b6cc7b8"
+    },
+    {
+      "path": "problems/2017-B4/reviews/chart-window-review-2-issues-v1.json",
+      "bytes": 7982,
+      "sha256": "98cef09371baf1f41f42650b9b0ecaea83b115a13f674874d54e7c89a932356d"
+    },
+    {
+      "path": "problems/2017-B4/reviews/chart-window-review-2-source-checks-v1.md",
+      "bytes": 3940,
+      "sha256": "0b0946d54908faa415c338e2d4658666df5e17b9520f2001cfc3d26d4e4ddd38"
+    },
+    {
+      "path": "problems/2017-B4/reviews/chart-window-review-2-input-checks-v1.json",
+      "bytes": 26653,
+      "sha256": "7b76e1e5b928417204a997d3a972530796480d6ae54216f3dfdb5901b72e48fa"
+    }
+  ]
+}

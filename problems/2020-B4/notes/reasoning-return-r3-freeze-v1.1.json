@@ -1,0 +1,69 @@
+{
+  "frozen_at_utc": "2026-10-17T07:00:42.323385+00:00",
+  "status": "candidate proof - unverified; full author versioned repair of 2020R2-01",
+  "constructor": "review_2017_coarsening_r1",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "scope": "2020 B4(b) only; no full classification or preliminary construction",
+  "repair": "F4 uses H_t=G^<t>, h_t,f_t,m_t; recursive restricted-action hypotheses reset",
+  "actual_q4_counterexample_preserved_by_hand": true,
+  "all_F1_F1a_F2_F2a_F3_F3a_B1_downstream_uses_checked": true,
+  "artifacts": [
+    {
+      "path": "problems/2020-B4/notes/reasoning-return-r3-candidate-v1.1.md",
+      "bytes": 19010,
+      "sha256": "f6f9947b8140f9d4bafc01ec24bf68dcd7634df5ccba655f4e6cdab334bef467"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-return-r3-repair-v1.1.md",
+      "bytes": 5654,
+      "sha256": "12fabe3054a308bbb578bf59cdf9696f835eb5092558d8f2a90f2dc6cd678877"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-return-r3-worklog-v1.1.md",
+      "bytes": 3233,
+      "sha256": "12d9bfb819819042d1b540b42c39ba53fd526a587c3c195d9a971529603d93b8"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-return-r3-sources-v1.1.json",
+      "bytes": 2041,
+      "sha256": "5c134eabd8adbd3f2c1f8f65feadda093bc619fa845c32d8921026a6cd98f0b9"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-return-r3-diff-v1.1.patch",
+      "bytes": 4578,
+      "sha256": "a16227e3d0485c92ffd9e895b401b058badb23ee827444fa9f1467cbc5904aeb"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-return-r3-build-v1.1.py",
+      "bytes": 4208,
+      "sha256": "2ca97db92ddfe7b671b8e2185c463db7ba9b5eed75a99f5e1cddb8740795e9fa"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-return-r3-freeze-v1.1.py",
+      "bytes": 6329,
+      "sha256": "462b7e8b3ffd92fdd96368997e41e28d4947b302a0d8165dd33088f7e01e194b"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-return-r3-input-validation-v1.1.json",
+      "bytes": 31916,
+      "sha256": "ac6720b03334da348da67dd4452f08cf2e6ffb7791939016315d79f952838773"
+    }
+  ],
+  "original_and_both_initial_reviews_and_prior_frozen_bytes_preserved": 144,
+  "both_original_auditors_affected_reaudits_required": true,
+  "author_promotion": false,
+  "new_theorem_extension_novelty_or_new_published_cutoff_claim": false,
+  "no_new_source_import_or_native_retrieval": true,
+  "original_BBB_raw_pdf_sha256": null,
+  "mathematical_program_enumeration_or_CAS": false,
+  "only_assigned_return_prefix_written": true,
+  "git_shared_edits_spawning_contacts_charges_or_bypass": false,
+  "weekly_total_used_percent": 27,
+  "telemetry_at_utc": "2026-10-17 06:44:58 UTC",
+  "weekly_reset_unix": 1792745187,
+  "total_used_ceiling_percent": 90
+}

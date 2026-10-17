@@ -1,0 +1,45 @@
+{
+  "accepted_at_utc": "2026-10-17T07:01:08.453681+00:00",
+  "status": "proved, independently reviewed partial results",
+  "claims": [
+    "PN1",
+    "PN2",
+    "PN3",
+    "PN4"
+  ],
+  "reviewers": [
+    "review_2021_reasoning_j15_r2",
+    "review_2017_coarsening_r1"
+  ],
+  "initially_blind": true,
+  "both_full_hand_64_case_reconstructions": true,
+  "root_read_complete_reports_issues_source_checks": true,
+  "substantive_issues": 0,
+  "mathematical_repair_required": false,
+  "record_occurrences_verified": 357,
+  "unique_paths_verified": 307,
+  "candidate": {
+    "path": "problems/2021-B4/notes/coordinator-odd-support-exclusion-candidate-v1.md",
+    "bytes": 7014,
+    "sha256": "a7845441df7725edc5d30e28f7b8f28c529b0b710168ad4b068d279582c1857c"
+  },
+  "accepted_copy": {
+    "path": "problems/2021-B4/proofs/reviewed-odd-support-exclusion-v1.1.md",
+    "bytes": 8176,
+    "sha256": "56274936ab198f01cb38b1701fdec7907860eb654fd2bc79c3b2d0e03054a271"
+  },
+  "review_manifests": [
+    {
+      "path": "problems/2021-B4/reviews/odd-support-exclusion-review-1-manifest-v1.json",
+      "bytes": 2452,
+      "sha256": "37c051970aebcdac696a5fcb71f1a8ad5327cc8bf6cad42663f1dc2ac2ec7e56"
+    },
+    {
+      "path": "problems/2021-B4/reviews/odd-support-exclusion-review-2-manifest-initial.json",
+      "bytes": 2730,
+      "sha256": "63408a4584f966cd1e0db5f456bad44fa16a05e6dac5a039fc954012fe0df58b"
+    }
+  ],
+  "full_degree20_J15_or_annual_solution": false,
+  "novelty_established": false
+}

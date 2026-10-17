@@ -1,0 +1,23 @@
+{
+  "date_utc": "2026-10-17",
+  "status": "candidate proof - unverified; full author domain repair",
+  "constructor": "review_2017_coarsening_r1",
+  "requested_settings": {"model": "gpt-6.1-sol", "reasoning": "max"},
+  "verified_effective_settings": null,
+  "repair_id": "2020R2-01",
+  "error": "Prime-order orbit congruence incorrectly retained the common fixed subgroup of arbitrary larger T",
+  "repair": "Define H_t=G^<t>, h_t,f_t,m_t in both clauses; reset recursive restricted-action hypotheses; make downstream single-subgroup uses explicit",
+  "counterexample": {"q":4,"v":21,"D":[7,9,14,15,18],"sum_mod21":0,"T":"<2> of order6","common_H":[0],"common_f":0,"t8_fixed_size":7,"t8_f":3,"t4_fixed_size":3,"t4_f":2,"undirected_separations":[2,7,8,10,5,6,9,1,4,3],"verification":"Hand only; no search or new preliminary construction"},
+  "both_complete_initials_ledgers_and_sources_read_after_their_freezes": true,
+  "review_paths": ["problems/2020-B4/reviews/reasoning-return-r3-review-1-manifest-v1.json","problems/2020-B4/reviews/reasoning-return-r3-review-2-manifest-v1.json"],
+  "source_claims_unchanged": {"BBB_author_pdf":"https://aeb.win.tue.nl/preprints/hermitian1.pdf","applicable_scope":"Section2 involution and Lemmas1-2; individually fixed B and common setwise-stable translate; no prime-power assumption","new_import":false,"raw_pdf_sha256":null,"old_retrieval_limitation":"Unresolved stalled hash request; no successful bytes or verified cleanup claimed"},
+  "full_downstream_check_in_repair_ledger": true,
+  "original_v1_and_both_initials_preserved": true,
+  "mathematical_program_enumeration_or_CAS": false,
+  "no_new_theorem_extension_or_novelty_claim": true,
+  "requires_both_original_auditors_affected_reaudits": true,
+  "author_promotion": false,
+  "full_classification_proved": false,
+  "no_git_shared_edits_spawning_contacts_charges_or_bypass": true,
+  "weekly_telemetry": {"at_utc":"2026-10-17 06:44:58 UTC","total_used_percent":27,"window_minutes":10080,"reset_unix":1792745187,"total_used_ceiling_percent":90}
+}

@@ -1,0 +1,29 @@
+{
+  "reviewer":"review_2021_reasoning_j15_r2",
+  "scope":"complete affected reaudit of full version1.1, not a new peer-assisted initial audit",
+  "new_peer_targeted_findings_read_before_freeze":false,
+  "original_issue":"2020R2-01",
+  "recommendation":"close for version1.1 only; preserve false frozen v1 and both original initials",
+  "open_substantive_issues":[],
+  "required_author_repairs":[],
+  "checks":[
+    {"id":"2020R2RA-01","claim":"full replacement and exact diff","result":"pass","reason":"Complete main, ledger, diff, worklog and sources read; independent administrative unified diff matches. No unrelated theorem is introduced."},
+    {"id":"2020R2RA-02","claim":"arbitrary common fixed subgroup F1","result":"pass","reason":"Unique representing points are fixed by EACH t; actual intersection closure remains valid independently of any prime-order orbit count."},
+    {"id":"2020R2RA-03","claim":"individual fixed subgroup definitions","result":"pass","reason":"F4 explicitly defines H_t=G^<t>, h_t,E_t,f_t before applying F1 with T=<t>."},
+    {"id":"2020R2RA-04","claim":"F4 h_t>1 clause","result":"pass","reason":"Prime-order t-orbits have sizes1 or ell and singleton set E_t, yielding q+1=f_t modulo ell and q-m_t=0 modulo ell."},
+    {"id":"2020R2RA-05","claim":"F4 h_t=1 clause","result":"pass","reason":"f_t is the actual membership indicator of0 in this same D; q+1=f_t modulo ell. No m_t or nondegenerate subplane is assigned."},
+    {"id":"2020R2RA-06","claim":"common-T substitution prohibited","result":"pass","reason":"The full text forbids using a smaller common H=G^T and asserts no congruence for |D^T| merely from t in T."},
+    {"id":"2020R2RA-07","claim":"actual q4 difference-set counterexample","result":"pass by hand","reason":"Ten separations2,7,8,10,5,6,9,1,4,3 enumerate1 through10; sum63 and multiplication-by2 cycles verify common normalized setwise stability."},
+    {"id":"2020R2RA-08","claim":"old false clause and corrected H_8","result":"pass by hand","reason":"Common H={0}, f=0 refutes5=0 mod2; H_8 has size7 and E_8={9,15,18}, f8=3,m8=2, so corrected5=3 mod2."},
+    {"id":"2020R2RA-09","claim":"corrected H_4 and order-one boundary","result":"pass by hand","reason":"H_4={0,7,14}, E_4={7,14}, f4=2,m4=1; corrected5=2 mod3. The smaller order1 is allowed without a nondegenerate plane claim."},
+    {"id":"2020R2RA-10","claim":"recursive restricted-action reset","result":"pass","reason":"Every subgroup-domain hypothesis and the ACTUAL restricted order must be reset; a restricted prime-order action may be identity. No quotient or empty-set descent is asserted."},
+    {"id":"2020R2RA-11","claim":"F1 gcd, subplane and size bounds","result":"pass, unchanged","reason":"These use common fixedness and actual incidence, not F4; h1 and m1 exceptions remain."},
+    {"id":"2020R2RA-12","claim":"F1a p-fixed cofactor family","result":"pass","reason":"Now explicitly T=<p>; prime integer p need not have prime automorphism order. F5 and h19 exclusion use F1, not F4."},
+    {"id":"2020R2RA-13","claim":"F2 involution subgroup and fiber proof","result":"pass","reason":"B is its own G^<t>; F1 now names that T. Projections,2R=a-1, square factorization and unique involution are unaffected."},
+    {"id":"2020R2RA-14","claim":"F2a full/local order coherence","result":"pass, unchanged","reason":"Halfway powers use the individual full-order element and unique involution; no common subgroup cardinality is inserted."},
+    {"id":"2020R2RA-15","claim":"F3 relative trace","result":"pass, unchanged","reason":"E is the same involution-fixed intersection and P retains projection multiplicities; coefficientwise trace requires no F4."},
+    {"id":"2020R2RA-16","claim":"F3a necessity and full iff","result":"pass","reason":"The nonzero B difference explicitly invokes F1 for T=<t>; the sign-pair count and ALL remaining A coefficients in F15 are retained."},
+    {"id":"2020R2RA-17","claim":"B1 relaxation and integral recovery","result":"pass, unchanged","reason":"Exact norm/augmentation algebra uses no fixed subgroup; full integral identity still forces0/1 coefficientwise."},
+    {"id":"2020R2RA-18","claim":"source, scope and historical preservation","result":"pass","reason":"No new theorem import or classification claim; missing BBB raw-byte hash remains disclosed. Original main, both initials and all declared earlier records remain unchanged."}
+  ]
+}

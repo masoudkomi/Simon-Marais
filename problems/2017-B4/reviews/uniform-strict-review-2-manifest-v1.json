@@ -1,0 +1,77 @@
+{
+  "frozen_at_utc": "2026-10-17T07:03:04.062191+00:00",
+  "status": "initial independent whole nonconstructor audit frozen before peer findings",
+  "reviewer": "/root/review_2022_complexity_r2",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "candidate": {
+    "path": "problems/2017-B4/notes/uniform-strict-reasoning-r1-candidate-v1.md",
+    "bytes": 22943,
+    "sha256": "643d0906e3eebee91dd91f53e5e1b241de35c3b7912d5010d2e651e830258c9d"
+  },
+  "candidate_manifest": {
+    "path": "problems/2017-B4/notes/uniform-strict-reasoning-r1-manifest-v1.json",
+    "bytes": 2303,
+    "sha256": "902b8ad01e994b03204673f55f647c2e03db80e8ac2b917faf514bc0ca249bbc"
+  },
+  "whole_claims_reconstructed": [
+    "US1",
+    "US2",
+    "US3"
+  ],
+  "separate_inference_checks": 20,
+  "substantive_objections": 0,
+  "author_repair_requested": false,
+  "promotion_by_reviewer": false,
+  "peer_findings_read_before_initial_freeze": false,
+  "mathematical_program_enumeration_CAS": false,
+  "parameter_order": [
+    "target eta",
+    "uniform epsilon",
+    "finite rational net",
+    "periods/phases",
+    "maximum L0"
+  ],
+  "original_domain_integer_dilations_preserved": true,
+  "same_canonical_density_upper_supremum_lower_limit": true,
+  "rank_mesh_or_later_LW_CW_is_a_premise": false,
+  "H_PR_UR4_allD_global_assembly_official_limit_or_novelty": false,
+  "author_declared_rows_verified": 191,
+  "all_input_unique_paths_verified": 192,
+  "earlier_own_paths_verified_unchanged": 113,
+  "git_or_shared_candidate_edits": false,
+  "only_assigned_prefix_written": true,
+  "latest_authoritative_weekly_usage": {
+    "used_percent": 27,
+    "at_utc": "2026-10-17 06:55:24 UTC",
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "total_used_ceiling_percent": 90,
+    "integration_reserve": true
+  },
+  "records": [
+    {
+      "path": "problems/2017-B4/reviews/uniform-strict-review-2-initial-v1.md",
+      "bytes": 18220,
+      "sha256": "addd842e1da7a1756cf05c5da89f8bbf48fabf92f34bdec5866bf3736c4b00c2"
+    },
+    {
+      "path": "problems/2017-B4/reviews/uniform-strict-review-2-issues-v1.json",
+      "bytes": 7302,
+      "sha256": "285e3d448c192d4f32633ca636f533c45a727a9b8dcf762cb82cc18ae4eb15ba"
+    },
+    {
+      "path": "problems/2017-B4/reviews/uniform-strict-review-2-source-checks-v1.md",
+      "bytes": 5100,
+      "sha256": "1e2f289837e46219e8f80250b4fce6c7845c29b272ad882e26a92939e58cf81e"
+    },
+    {
+      "path": "problems/2017-B4/reviews/uniform-strict-review-2-input-checks-v1.json",
+      "bytes": 61477,
+      "sha256": "7ca0f24fc6b33813352b5ada15d99d82b756f86522f26092e981ec22f2c41aa4"
+    }
+  ]
+}

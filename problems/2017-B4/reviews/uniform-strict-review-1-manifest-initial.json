@@ -1,0 +1,71 @@
+{
+  "frozen_at_utc": "2026-10-17T07:05:22.025156+00:00",
+  "status": "initially blind whole independent nonconstructor review; no substantive defect found; no promotion",
+  "reviewer": "review_2017_coarsening_r1",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "candidate": {
+    "path": "problems/2017-B4/notes/uniform-strict-reasoning-r1-candidate-v1.md",
+    "bytes": 22943,
+    "sha256": "643d0906e3eebee91dd91f53e5e1b241de35c3b7912d5010d2e651e830258c9d"
+  },
+  "candidate_manifest": {
+    "path": "problems/2017-B4/notes/uniform-strict-reasoning-r1-manifest-v1.json",
+    "bytes": 2303,
+    "sha256": "902b8ad01e994b03204673f55f647c2e03db80e8ac2b917faf514bc0ca249bbc"
+  },
+  "claims_wholly_reconstructed": [
+    "US1",
+    "US2",
+    "US3"
+  ],
+  "substantive_issues": [],
+  "inference_ledger_rows": 30,
+  "peer_US_findings_read_before_freeze": false,
+  "constructed_US_argument": false,
+  "prior_annulus_and_structural_dependency_authorship_disclosed": true,
+  "artifacts": [
+    {
+      "path": "problems/2017-B4/reviews/uniform-strict-review-1-initial.md",
+      "bytes": 16688,
+      "sha256": "7a245179e022553dc99a9d4b9e4a145f7e9fda52e725703c69120bb42a58413f"
+    },
+    {
+      "path": "problems/2017-B4/reviews/uniform-strict-review-1-issues.md",
+      "bytes": 4532,
+      "sha256": "9399e6c6924e885260abbc033a803e1d17221469e84edf2a73d6bdebd2927a60"
+    },
+    {
+      "path": "problems/2017-B4/reviews/uniform-strict-review-1-source-checks.md",
+      "bytes": 4888,
+      "sha256": "877c3259300419210ace7485bd7bd2df7d7997bfe399ce814c7cba02fa94ddc6"
+    },
+    {
+      "path": "problems/2017-B4/reviews/uniform-strict-review-1-freeze.py",
+      "bytes": 5535,
+      "sha256": "b322ceadb4116096b6f762766e2f4649c0120acd9fc93499589e2dd485ed2d09"
+    },
+    {
+      "path": "problems/2017-B4/reviews/uniform-strict-review-1-input-validation.json",
+      "bytes": 34304,
+      "sha256": "fa638852d488076edfc65ec875e1188c19fccf7371567f4e372666419d8523e2"
+    }
+  ],
+  "constructor_records_verified": 6,
+  "earlier_unique_frozen_records_preserved": 153,
+  "whole_buffer_common_offset_actual_reference_and_compact_strict_D4_retained": true,
+  "q_independent_tolerance_and_q_dependent_scale_only_checked": true,
+  "every_m_supremum_upper_and_fixed_original_domain_M_limit_checked": true,
+  "new_mathematical_program_CAS_or_author_rerun": false,
+  "reviewer_promotion": false,
+  "H_PR_all_D_boundary_stratum_or_official_limit_claim": false,
+  "only_assigned_review_prefix_written": true,
+  "git_shared_edits_spawning_contacts_charges_or_bypass": false,
+  "weekly_total_used_percent": 28,
+  "telemetry_at_utc": "2026-10-17 07:00:53 UTC",
+  "weekly_reset_unix": 1792745187,
+  "total_used_ceiling_percent": 90
+}

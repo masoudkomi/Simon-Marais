@@ -1,0 +1,63 @@
+{
+  "frozen_at_utc": "2026-10-17T07:05:54.153957+00:00",
+  "status": "initially blind whole review; no substantive defect found; exact conditional RM1 scope",
+  "reviewer": "review_2021_reasoning_j15_r2",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "candidate_sha256": "c0d51d61f110cf5a190344403d346940b06b95a6d1880c6c725d241c92c397b4",
+  "whole_claims": [
+    "SP1",
+    "SP2",
+    "SP3"
+  ],
+  "per_inference_ledger_rows": 25,
+  "substantive_objections": [],
+  "required_author_repairs": [],
+  "RM1_used_as_exact_conditional_dependency": true,
+  "UR_D_or_H_claim": false,
+  "peer_findings_read_before_freeze": false,
+  "mathematical_program_enumeration_or_CAS": false,
+  "candidate_or_shared_changes": false,
+  "git_operations": false,
+  "spawned_agents": false,
+  "latest_weekly_total_used_percent": 28,
+  "weekly_window_minutes": 10080,
+  "weekly_reset_unix": 1792745187,
+  "total_used_ceiling_percent": 90,
+  "command": "python3 problems/2017-B4/reviews/single-pair-allD-review-1-freeze-v1.py",
+  "records": [
+    {
+      "path": "problems/2017-B4/reviews/single-pair-allD-review-1-initial-v1.md",
+      "bytes": 13641,
+      "sha256": "38b15dbb2a1a58d3907d9f1506a320cfb204e0dbd0bf66c7feb4769037897f5b"
+    },
+    {
+      "path": "problems/2017-B4/reviews/single-pair-allD-review-1-issues-v1.json",
+      "bytes": 6258,
+      "sha256": "4b13217d637d153b6d37b12a855d7cb501e1776c78b935ae442968e441bd17a0"
+    },
+    {
+      "path": "problems/2017-B4/reviews/single-pair-allD-review-1-source-checks-v1.md",
+      "bytes": 4288,
+      "sha256": "824eb6c6f38dc2bc3582c1ca965f1b0ab0b7d91731c6797d59b71d9adc9c3401"
+    },
+    {
+      "path": "problems/2017-B4/reviews/single-pair-allD-review-1-freeze-v1.py",
+      "bytes": 4970,
+      "sha256": "0bc068b900d616601beb30d402f168a57da740dc4e48c4d34333d6a37bfd5fec"
+    },
+    {
+      "path": "problems/2017-B4/reviews/single-pair-allD-review-1-input-validation-v1.json",
+      "bytes": 54552,
+      "sha256": "0e9dd1778937df871a46cbdc60369706443c25a15a4263b6fb4cd9e9c4e4353d"
+    },
+    {
+      "path": "problems/2017-B4/reviews/single-pair-allD-review-1-freeze-output-v1.json",
+      "bytes": 364,
+      "sha256": "cdcf1a331a0f94d6db919156d4500ca0a47baacf7a02a26e1bacffc6af6bc8c2"
+    }
+  ]
+}

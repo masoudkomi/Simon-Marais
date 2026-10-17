@@ -1,0 +1,93 @@
+--- reasoning-return-r3-candidate-v1.md
++++ reasoning-return-r3-candidate-v1.1.md
+@@ -1,11 +1,19 @@
+ # Fixed subgroups, involutions and relative traces for 2020 B4(b)
+ 
+-2026-10-17 UTC. **Candidate proof - unverified.** Constructor
++2026-10-17 UTC, full author repair v1.1. **Candidate proof - unverified.** Constructor
+ `review_2017_coarsening_r1`; requested `gpt-6.1-sol` / `max`, verified
+ effective readback unavailable. Two fresh independent nonconstructor whole
+ audits are required. No unrestricted classification or new published-range
+ improvement is claimed. These are classical structural arguments and explicit
+ corollaries, reconstructed here; no novelty or new method is claimed.
++
++Version1.1 repairs2020R2-01: the prime-order orbit congruence uses
++the fixed subgroup of that single element, with explicit h_t,f_t,m_t,
++rather than the common fixed subgroup of a larger T. The full exact
++counterexample and all downstream checks are in the new repair ledger.
++All v1 and both initial audit bytes remain frozen; both affected
++reaudits and coordinator resolution are required. No other theorem
++or extension is introduced.
+ 
+ Only B4(b) is in scope. Use the already accepted reduction and common
+ normalization: q=n-1>=2, k=q+1, v=q^2+q+1, G=Z/vZ, and D a planar
+@@ -72,25 +80,38 @@
+ 
+     h<=q+sqrt(q)+1.                                      (F3)
+ 
+-If t has prime order ell as an automorphism of G, every nonfixed orbit
+-on D has size ell. Hence, when h>1,
+-
+-    q-m is divisible by ell.                            (F4)
+-
+-When h=1, q+1 is congruent to f in{0,1} modulo ell. The same singleton
+-0 must be used consistently for different subgroups; its membership is
+-not a new independent choice for each projection.
++For the following prime-order conclusion, let t be a known multiplier
++of prime order ell and define its OWN fixed subgroup and intersection:
++
++    H_t=G^<t>, h_t=|H_t|, E_t=D intersect H_t, f_t=|E_t|.
++
++Apply F1 specifically to T=<t>. If h_t>1, set m_t=f_t-1,
++so h_t=m_t^2+m_t+1. Every t-orbit on D has length1 or ell,
++and its length1 points are precisely E_t. Therefore
++
++    q-m_t is divisible by ell when h_t>1.               (F4)
++
++When h_t=1, q+1 is congruent to f_t in{0,1} modulo ell,
++where f_t is1 exactly when0 belongs to D. The same actual singleton
++membership is retained for every such element. These h_t,f_t,m_t
++refer only to <t>. If <t> is contained in a larger chosen T, its
++common fixed subgroup H=G^T may be strictly smaller and must NOT
++be substituted into this orbit congruence. No prime-order congruence
++for |D^T| is asserted merely from the existence of t in T.
+ 
+ These restrictions add fixed-point equations absent from an orbit-size
+-subset sum alone. They are necessary, not sufficient. Applying them
+-recursively to E is legitimate only because E is a genuine subset with
+-the full unique-difference property; a homomorphic image of D does not
+-have this property in general.
++subset sum alone. They are necessary, not sufficient. Applying these
++structural statements recursively to E requires resetting every
++hypothesis in its group H, including the actual restricted multiplier
++order and that element's own fixed subgroup. E is a genuine subset
++with the full unique-difference property; a homomorphic image of D
++does not have this property in general.
+ 
+ ## F1a. A cofactor obstruction and an explicit restricted family
+ 
+ Write q=pu, where p is any prime divisor of q and u is an integer.
+-Use the known multiplier p. Its fixed subgroup has size
++Use the known multiplier p and apply F1 with T=<p>; its
++order need not be prime. Its own fixed subgroup has size
+ 
+     h=gcd(p-1,q^2+q+1)=gcd(p-1,u^2+u+1).                 (F5)
+ 
+@@ -142,7 +163,7 @@
+     2R=a-1.                                              (F6)
+ 
+ If b=1, D lies in its one symmetric fiber and |D|<=2, contrary to
+-q>=2. Thus b>1. Apply F1 to B: f=|D intersect B|=s+1 and
++q>=2. Thus b>1. Apply F1 with T=<t> to B: f=|D intersect B|=s+1 and
+ b=s^2+s+1 for an integer s>=1. Counting the singleton and double
+ fibers gives
+ 
+@@ -270,7 +291,7 @@
+ To see the necessity, every nonzero first-coordinate value in A occurs
+ in at most one nonfixed fiber. Otherwise two nonfixed points would
+ have a difference in B, whose unique difference representation must
+-be between fixed points by F1. F6 and counting show that all values
++be between points fixed by this involution, by F1 with T=<t>. F6 and counting show that all values
+ occur. Thus write f(b) for either representative of the sign pair
+ assigned to b in R. Then necessarily
+ 

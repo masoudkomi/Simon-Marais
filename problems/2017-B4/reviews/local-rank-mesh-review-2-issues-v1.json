@@ -1,0 +1,132 @@
+{
+  "status": "initial independent whole nonconstructor audit frozen before peer findings",
+  "reviewer": "/root/review_2022_complexity_r2",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "whole_targets_reconstructed": [
+    "LW1 sections1-5 and complete coding/recovery bound"
+  ],
+  "background_RM1_is_explicitly_conditional": true,
+  "open_substantive_issues": [],
+  "unresolved_substantive_objections": 0,
+  "author_repair_requested": false,
+  "promotion_by_reviewer": false,
+  "peer_LW_findings_read": false,
+  "per_inference_checks": [
+    {
+      "id": "LW2-C01",
+      "claim": "Conditional/background domain",
+      "resolution": "Exact RM1 interfaces remain explicit conditional premises. Fixed known Jordan W, full convex marked ambient tiling, global contents/position and separate R range are retained.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "LW2-C02",
+      "claim": "Extrinsic Lipschitz",
+      "resolution": "Finite tile gradients integrate along straight segments in the full convex zonogon, giving contents-independent local height oscillation O(L+1).",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "LW2-C03",
+      "claim": "Local skeleton count",
+      "resolution": "Selected levels are O(L/r+1), all levels O(L+1); whole-tile crossing centers are included by one fixed-width enlargement. Single global pair crossings yield O(L^2/r+L+1).",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "LW2-C04",
+      "claim": "Boundary tube mask",
+      "resolution": "One connected rectifiable curve of length<=cL gives O(L+1) possible origins in a fixed-width strip, including all contacts.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "LW2-C05",
+      "claim": "One connected anchor",
+      "resolution": "Whole tiles meeting the boundary tube form a connected trace through vertices. One absolute height anchor plus a deterministic spanning tree gives all trace lifts; cycles use actual-source integrability.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "LW2-C06",
+      "claim": "Absolute range cost",
+      "resolution": "The trace position list is fixed by W; an anchor index costs O(log L), and only the absolute integer height contributes O_D(log(R+2)). No R=O(L) assumption is made.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "LW2-C07",
+      "claim": "Known component starts",
+      "resolution": "Full curves have endpoints outside W and no closed component. Cutting at the whole-tile trace gives finitely many interior pieces with oriented starts and selected global ranks already known.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "LW2-C08",
+      "claim": "Color-word traversal",
+      "resolution": "Each crossing color determines signed midpoint displacement and all new lifts. Fixed terminators cost O(number starts); exits and ranks are recovered, with no pairing permutation or length logarithm.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "LW2-C09",
+      "claim": "Total traversal cost",
+      "resolution": "At most O(L) starts and at most two selected traversals per skeleton tile give the same O(L^2/r+L+1) letter count even with many window reentries.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "LW2-C10",
+      "claim": "Actual global faces",
+      "resolution": "Wholly enclosed selected faces have their real global boundaries inside W. Outside selected curves have constant signs on connected W; distinct retained faces inject into the full relevant subarrangement cells.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "LW2-C11",
+      "claim": "Face count",
+      "resolution": "The full subarrangement has O((L/r+1)^2) cells. This count is not applied to arbitrary boundary-cut local pieces.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "LW2-C12",
+      "claim": "Fringe and r-large cases",
+      "resolution": "Nonretained faces meeting W lie within O_D(r) of its one boundary, by RM1 diameter and the fixed margin. Direct origin disks give rL+r^2, including r>=L and tangencies.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "LW2-C13",
+      "claim": "Rare closure flags",
+      "resolution": "Any rare tile touching a retained face meets W and is counted in S. Whole-tile sectors bound bad faces by4S, including vertex contacts.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "LW2-C14",
+      "claim": "Bad masks and absorption",
+      "resolution": "Known face positions give O_D(r^2) possible origins per bad face and O_D(Sr^2) bits, without separate coordinate costs. Flags and linear terms are absorbed in LW.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "LW2-C15",
+      "claim": "Disk domains and boundary heights",
+      "resolution": "Conditional RM1 pinch blocks are intrinsic physical complement domains. Each boundary edge has a known skeleton neighbor, fixing full lifts and fine ranks from the one anchor.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "LW2-C16",
+      "claim": "Clean closed stars",
+      "resolution": "Good-face closure and its margin exclude every incident rare tile and retain full tiled neighborhoods, matching a separate clean-coarsening hypothesis.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "LW2-C17",
+      "claim": "Recovery/one reference",
+      "resolution": "Code plus good fillings recovers W. A single actual code-class representative supplies one full exterior for all boundary-compatible replacements, independently recoverable by restriction.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "LW2-C18",
+      "claim": "Rare replacement/global scope",
+      "resolution": "Arbitrary rare absence needs zero flux and is not asserted generally. Multiple windows pay actual fringes/anchors and must be jointly conditioned before choosing one reference; no H/PR/UR4/global assembly follows.",
+      "disposition": "no substantive objection after whole reconstruction"
+    }
+  ],
+  "global_N_O_L_or_R_O_L_assumed": false,
+  "one_absolute_height_anchor_and_no_exit_matching": true,
+  "mathematical_program_enumeration_CAS": false,
+  "H_PR_UR4_global_assembly_official_limit_or_novelty": false
+}

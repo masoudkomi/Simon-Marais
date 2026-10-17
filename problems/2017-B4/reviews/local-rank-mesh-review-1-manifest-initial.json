@@ -1,0 +1,71 @@
+{
+  "frozen_at_utc": "2026-10-17T07:10:28.570584+00:00",
+  "status": "initially blind whole independent nonconstructor audit; no substantive defect found in conditional LW1; no promotion",
+  "reviewer": "review_2017_coarsening_r1",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "candidate": {
+    "path": "problems/2017-B4/notes/coordinator-local-rank-mesh-candidate-v1.md",
+    "bytes": 11850,
+    "sha256": "09c206718f1acecb9f23ae9bdb54122a4e9a9420b4549326413a664cb44230c5"
+  },
+  "candidate_manifest": {
+    "path": "problems/2017-B4/notes/coordinator-local-rank-mesh-freeze-v1.json",
+    "bytes": 1655,
+    "sha256": "a3e76f8d6dcb6a2db900e810aa75c076b4b479235e95e6bbe021a85799fdc781"
+  },
+  "whole_claims_reconstructed": [
+    "LW1"
+  ],
+  "inference_ledger_rows": 28,
+  "substantive_issues": [],
+  "exact_RM1_disk_port_diameter_conclusions_remain_conditional": true,
+  "prior_general_RM1_authorship_disclosed_not_counted_as_independent_RM1_audit": true,
+  "constructed_new_LW_local_code": false,
+  "peer_LW_findings_read_before_freeze": false,
+  "artifacts": [
+    {
+      "path": "problems/2017-B4/reviews/local-rank-mesh-review-1-initial.md",
+      "bytes": 16958,
+      "sha256": "225756e5127b20f03894213c78395ba5e93fc6b546a70bd9ef9cb76694aa6700"
+    },
+    {
+      "path": "problems/2017-B4/reviews/local-rank-mesh-review-1-issues.md",
+      "bytes": 4451,
+      "sha256": "7fc55b70f8cd731c5afe7324dda63e06cfc05736b9e3dbf53c9de2b9553c3c27"
+    },
+    {
+      "path": "problems/2017-B4/reviews/local-rank-mesh-review-1-source-checks.md",
+      "bytes": 4095,
+      "sha256": "7b9d72740d67d05a74a3794d60e2d7d0f797ebe48298118c4a83b28c3168c2d6"
+    },
+    {
+      "path": "problems/2017-B4/reviews/local-rank-mesh-review-1-freeze.py",
+      "bytes": 5312,
+      "sha256": "2a2b9fa04325843ed8ab36dcdc81715e86aebb3595af9c71d6c74b0f5a5c20c8"
+    },
+    {
+      "path": "problems/2017-B4/reviews/local-rank-mesh-review-1-input-validation.json",
+      "bytes": 33481,
+      "sha256": "9cb048ee99175a9b830a2d6a3768deb0c74584d2d059a783fcde62d672217a55"
+    }
+  ],
+  "declared_candidate_inputs_verified": 6,
+  "earlier_unique_frozen_records_preserved": 159,
+  "global_N_required_O_L": false,
+  "one_log_R_anchor_and_no_outside_exit_permutation_checked": true,
+  "actual_global_faces_complete_fine_boundaries_and_same_exterior_checked": true,
+  "rare_absence_after_replacement_only_with_zero_flux_qualification": true,
+  "reviewer_promotion": false,
+  "H_PR_UR4_lower_direction_entropy_or_official_limit_claim": false,
+  "new_mathematical_program_CAS_certificate_or_author_rerun": false,
+  "only_assigned_review_prefix_written": true,
+  "git_shared_edits_spawning_contacts_charges_or_bypass": false,
+  "weekly_total_used_percent": 28,
+  "telemetry_at_utc": "2026-10-17 07:00:53 UTC",
+  "weekly_reset_unix": 1792745187,
+  "total_used_ceiling_percent": 90
+}

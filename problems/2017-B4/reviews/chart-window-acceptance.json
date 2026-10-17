@@ -1,0 +1,68 @@
+{
+  "accepted_at_utc": "2026-10-17T07:20:47.557442+00:00",
+  "status": "proved, independently reviewed scoped partial result",
+  "claims": [
+    "CW0",
+    "CW1",
+    "CW2",
+    "CW3",
+    "CW4"
+  ],
+  "constructor": "coordinator root",
+  "reviewers": [
+    "review_2021_reasoning_j15_r2",
+    "review_2022_complexity_r2"
+  ],
+  "whole_initials_blind": true,
+  "root_read_full_candidate_reports_ledgers_sources": true,
+  "unresolved_substantive_issues": 0,
+  "repair_required": false,
+  "record_occurrences_verified": 379,
+  "unique_paths_verified": 364,
+  "candidate": {
+    "path": "problems/2017-B4/notes/coordinator-chart-window-candidate-v1.md",
+    "bytes": 11284,
+    "sha256": "c272eabf4d5efcd2d0f8075d68b010ec00a48e824bdec81e563f6402a7568e0b"
+  },
+  "accepted_copy": {
+    "path": "problems/2017-B4/proofs/reviewed-chart-window-v1.1.md",
+    "bytes": 12988,
+    "sha256": "f89e784c407f3c780d2ca9a95ea4f58e0cd71841f2855ffa7225465f9dd9abc1"
+  },
+  "verification_metadata": [
+    {
+      "path": "problems/2017-B4/notes/coordinator-chart-window-freeze-v1.json",
+      "bytes": 1472,
+      "sha256": "f9708bcba4de2c877420e162336a8a8775c3a72e30c98eb2b03fef7e540e6a19"
+    },
+    {
+      "path": "problems/2017-B4/reviews/chart-window-review-1-manifest-v1.json",
+      "bytes": 2314,
+      "sha256": "ed3a03cf0c65121b25e0d70806e202052fcece684fad43ae5d563cfde6dd9b98"
+    },
+    {
+      "path": "problems/2017-B4/reviews/chart-window-review-1-input-validation-v1.json",
+      "bytes": 57664,
+      "sha256": "5b9aa24a4c6dd9a07743d70ea4f2f24bf0742f688e6818b3ecb09916783bc04c"
+    },
+    {
+      "path": "problems/2017-B4/reviews/chart-window-review-2-manifest-v1.json",
+      "bytes": 2647,
+      "sha256": "bb98b641a1b36d153c265039f61b0ee5c72668d92a73d6c806feab6faa0aa7f3"
+    },
+    {
+      "path": "problems/2017-B4/reviews/chart-window-review-2-input-checks-v1.json",
+      "bytes": 26653,
+      "sha256": "7b76e1e5b928417204a997d3a972530796480d6ae54216f3dfdb5901b72e48fa"
+    },
+    {
+      "path": "problems/2017-B4/reviews/orientation-charts-acceptance.json",
+      "bytes": 1494,
+      "sha256": "7694de4d8bf091f683fcab39be7461580ff8a5aa34f481590cca90f93f6479a1"
+    }
+  ],
+  "exact_OC_dependency_accepted": true,
+  "one_anchor_logR_retained": true,
+  "same_reference_all_integer_dilations": true,
+  "entropy_H_PR_UR4_global_assembly_official_limit_or_novelty": false
+}

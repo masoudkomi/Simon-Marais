@@ -1,0 +1,65 @@
+{
+  "accepted_at_utc": "2026-10-17T07:20:47.557442+00:00",
+  "status": "proved, independently reviewed scoped partial result",
+  "claims": [
+    "LW1"
+  ],
+  "constructor": "coordinator root",
+  "reviewers": [
+    "review_2017_coarsening_r1",
+    "review_2022_complexity_r2"
+  ],
+  "whole_initials_blind": true,
+  "root_read_full_candidate_reports_ledgers_sources": true,
+  "unresolved_substantive_issues": 0,
+  "repair_required": false,
+  "record_occurrences_verified": 323,
+  "unique_paths_verified": 285,
+  "candidate": {
+    "path": "problems/2017-B4/notes/coordinator-local-rank-mesh-candidate-v1.md",
+    "bytes": 11850,
+    "sha256": "09c206718f1acecb9f23ae9bdb54122a4e9a9420b4549326413a664cb44230c5"
+  },
+  "accepted_copy": {
+    "path": "problems/2017-B4/proofs/reviewed-local-rank-mesh-v1.1.md",
+    "bytes": 13490,
+    "sha256": "67d6821f64c0be2a64bb49ccd595dd80105ca7ed913b2fd6be342b81cf756a10"
+  },
+  "verification_metadata": [
+    {
+      "path": "problems/2017-B4/notes/coordinator-local-rank-mesh-freeze-v1.json",
+      "bytes": 1655,
+      "sha256": "a3e76f8d6dcb6a2db900e810aa75c076b4b479235e95e6bbe021a85799fdc781"
+    },
+    {
+      "path": "problems/2017-B4/reviews/local-rank-mesh-review-1-manifest-initial.json",
+      "bytes": 2929,
+      "sha256": "bb11c533e2fd9c28a28a5bf0ee84c3ed97d41be6006347b03cc3a604144d2201"
+    },
+    {
+      "path": "problems/2017-B4/reviews/local-rank-mesh-review-1-input-validation.json",
+      "bytes": 33481,
+      "sha256": "9cb048ee99175a9b830a2d6a3768deb0c74584d2d059a783fcde62d672217a55"
+    },
+    {
+      "path": "problems/2017-B4/reviews/local-rank-mesh-review-2-manifest-v1.json",
+      "bytes": 2571,
+      "sha256": "e8e466dfa907d2b2b072d75baee98bc8b95df33978ebdc9471182a4193980008"
+    },
+    {
+      "path": "problems/2017-B4/reviews/local-rank-mesh-review-2-input-checks-v1.json",
+      "bytes": 25386,
+      "sha256": "00c5569f907dc73efcfc094ed175f0ff8199fb88b2b7a2d2c839149919aed939"
+    },
+    {
+      "path": "problems/2017-B4/reviews/rank-mesh-acceptance.json",
+      "bytes": 2573,
+      "sha256": "bf5849828493a5d1e005e94671464e576678ae924c56f7f5b2dc052441474eb2"
+    }
+  ],
+  "exact_RM1_dependency_discharged": true,
+  "RM1_body_unchanged_across_separate_repair": true,
+  "reviewer1_prior_RM1_authorship_disclosed": true,
+  "global_N_O_L_assumed": false,
+  "H_PR_UR4_global_assembly_official_limit_or_novelty": false
+}

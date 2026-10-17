@@ -1,0 +1,33 @@
+{
+  "frozen_at_utc": "2026-10-17T07:02:18.040795+00:00",
+  "reviewer": "coordinator root, nonconstructor",
+  "target": "full repaired 2020 return v1.1",
+  "recommendation": "resolve2020R2-01onrepairedscope",
+  "new_peer_targeted_findings_read": false,
+  "promotion": false,
+  "open_substantive_issues": 0,
+  "full_repair_and_all_downstream_interfaces_read": true,
+  "mathematical_program_or_CAS": false,
+  "files": [
+    {
+      "path": "problems/2020-B4/reviews/reasoning-return-r3-review-1-reaudit-report-v1.1.md",
+      "bytes": 5633,
+      "sha256": "ccf7e54852089a1f91abba34908c11552991c23e9b6a71ef2012fcbe2a770361"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-return-r3-review-1-reaudit-source-checks-v1.1.md",
+      "bytes": 1470,
+      "sha256": "1900df4e2e7ddbd01e1512f566a918d807e1c11e9cac9b56b240677851c96543"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-return-r3-review-1-reaudit-issues-v1.1.json",
+      "bytes": 2402,
+      "sha256": "66218b96a90fd9d608044fe437451b90947bdfa7743b78ee878e97332e1567a1"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-return-r3-review-1-reaudit-input-checks-v1.1.json",
+      "bytes": 55534,
+      "sha256": "44fd784d188d6c0bf582ef8758a535d4606d281c14684c149e0f36dd6c76f383"
+    }
+  ]
+}
