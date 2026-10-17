@@ -1,0 +1,81 @@
+{
+  "date_utc": "2026-10-17",
+  "scope": "2020 B4(b) only",
+  "status": "candidate proof - unverified",
+  "constructor": "review_2017_coarsening_r1",
+  "requested_settings": {"model": "gpt-6.1-sol", "reasoning": "max"},
+  "verified_effective_settings": null,
+  "primary_source": {
+    "authors": "Aart Blokhuis, Andries E. Brouwer, Henny A. Wilbrink",
+    "title": "Hermitian unitals are code words",
+    "author_pdf": "https://aeb.win.tue.nl/preprints/hermitian1.pdf",
+    "author_discovery_page": "https://aeb.win.tue.nl/preprints.html",
+    "author_version_date": "1990-03-07",
+    "published": "Discrete Mathematics 97 (1991), 63-68",
+    "doi": "10.1016/0012-365X(91)90422-X",
+    "institutional_record": "https://research.tue.nl/en/publications/hermitian-unitals-are-code-words/",
+    "read_scope": "Complete applicable Section2 setup, involution argument and Lemmas1-2 with proofs, author PDF pages1-2",
+    "hypotheses_checked": ["Abelian planar difference set", "Common multiplier-fixed translate", "Involution order in the full group automorphism action", "No prime-power hypothesis for these lemmas"],
+    "not_imported": "Later Desarguesian unital theorem, its code assumptions, and preliminary Singer existence construction",
+    "mathematical_use": "F2 reconstructs the involution conclusion by a direct fiber count; F3 is attributed original Lemma2 with a complete coefficient proof",
+    "direct_web_text_retrieved": true,
+    "full_pdf_bytes_retrieved": false,
+    "bytes": null,
+    "sha256": null,
+    "hash_retrieval_status": "Unresolved: sandbox DNS failed; escalated bounded stream/hash request stalled and was interrupted without a PID or source output"
+  },
+  "attribution_crosscheck": {
+    "authors": "Dina Ghinelli, Dieter Jungnickel",
+    "title": "Some geometric aspects of finite abelian group",
+    "published": "Rendiconti di Matematica 26 (2006), 29-68",
+    "author_uploaded_text": "https://www.researchgate.net/publication/242406692_Some_geometric_aspects_of_finite_abelian_group",
+    "original_journal_pdf": "https://www1.mat.uniroma1.it/ricerca/rendiconti/ARCHIVIO/2006(1)/29-68.pdf",
+    "read_scope": "Full relevant Section3 context, Theorem3.4 proof, Theorem3.10 proof and references9,87",
+    "use": "Attribution of BBB involution theorem and classical planar Mann odd-order consequence; not the sole proof premise",
+    "journal_pdf_status": "Web timeout",
+    "citeseer_pdf_status": "Web internal fetch failure",
+    "source_hash": null
+  },
+  "original_mann_access": {
+    "title": "Balanced incomplete block designs and abelian difference sets",
+    "author": "H. B. Mann",
+    "published": "Illinois Journal of Mathematics 8 (1964), 252-261",
+    "doi": "10.1215/ijm/1256059669",
+    "status": "Original full paper not retrieved; DOI unavailable in web tool",
+    "proof_imported": false,
+    "reason": "The candidate derives the odd-order statement directly from its complete F2 proof"
+  },
+  "unused_source_access": {
+    "title": "Abelian Projective Planes of Square Order",
+    "author": "K. T. Arasu",
+    "doi": "10.1016/S0195-6698(89)80052-6",
+    "publisher_fulltext_status": "403; no bypass",
+    "theorem_imported": false
+  },
+  "discovery_queries": [
+    "planar difference set multiplier involution fixed subplane square order multiplier group odd order",
+    "cyclic planar difference set multiplier gcd t-1 fixed points subplane",
+    "Abelian projective planes of square order Blokhuis Brouwer Wilbrink pdf",
+    "Some geometric aspects of finite abelian group Ghinelli Jungnickel pdf",
+    "planar difference sets gcd multiplier fixed subgroup",
+    "Hermitian unitals are code words pdf",
+    "Balanced incomplete block designs and abelian difference sets pdf Mann 1964",
+    "Hermitian unitals are code words filetype:pdf site:tue.nl"
+  ],
+  "hash_command": "curl -L --fail --silent --show-error --max-time 20 https://aeb.win.tue.nl/preprints/hermitian1.pdf | /Users/uqmkamga/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 -c 'import sys,hashlib,json; b=sys.stdin.buffer.read(); assert b.startswith(b\"%PDF\"), \"not a PDF\"; print(json.dumps({\"bytes\":len(b),\"sha256\":hashlib.sha256(b).hexdigest()}))'",
+  "hash_attempts": [
+    {"sandbox": "default", "outcome": "curl exit6 DNS failure, then PDF assertion failure; no empty hash accepted"},
+    {"sandbox": "require_escalated", "submitted_at_utc_root_report": "2026-10-17T05:59:28.164Z", "outcome": "Tool returned aborted by user after2280.1s; no process/session identifier or bytes returned", "native_curl_timeout_seconds": 20, "child_launched": "unverified"}
+  ],
+  "recovery": {"at_utc": "2026-10-17 06:37:45 UTC", "command": "ps -axo pid,ppid,etime,command", "outcome": "Sandbox operation not permitted, exit127", "matching_pid": null, "global_kill_attempted": false, "verified_os_cleanup": false},
+  "full_paper_saved_or_redistributed": false,
+  "charges_contacts_access_bypass": false,
+  "mathematical_computation_enumeration_or_CAS": false,
+  "hand_certificate": "One explicit trial-division proof of primality of761; no candidate scan",
+  "administrative_computation": "Only hashing/serialization of saved artifacts",
+  "accepted_input_scope": "2020 P1-P6, common normalized prime-divisor multipliers; no new proof of preliminary(a)",
+  "no_prime_power_conjecture_assumed": true,
+  "no_complete_classification_or_novelty_claim": true,
+  "two_fresh_independent_whole_audits_required": true,
+  "weekly_telemetry": {"source": "Coordinator authoritative account-wide read", "total_used_percent": 26, "at_utc_label": "06:34 UTC", "reset_unix": 1792745187, "total_used_ceiling_percent": 90, "reserve_for_review_and_integration": true}
+}

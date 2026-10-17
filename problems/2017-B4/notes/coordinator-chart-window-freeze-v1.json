@@ -1,0 +1,42 @@
+{
+  "frozen_at_utc": "2026-10-17T06:55:53.364321+00:00",
+  "status": "candidate proof - unverified",
+  "constructor": "coordinator root",
+  "claims": [
+    "CW0 exact formulas",
+    "CW1 fixed target inclusion",
+    "CW2 anchored local count injection",
+    "CW3 exact fixed-boundary pullback",
+    "CW4 exact dilation and multiple-chart insertion"
+  ],
+  "whole_fresh_initially_blind_nonconstructor_audits_required": 2,
+  "global_H_PR_UR4_or_entropy_claimed": false,
+  "mathematical_computation_used": false,
+  "files": [
+    {
+      "path": "problems/2017-B4/notes/coordinator-chart-window-candidate-v1.md",
+      "bytes": 11284,
+      "sha256": "c272eabf4d5efcd2d0f8075d68b010ec00a48e824bdec81e563f6402a7568e0b"
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-orientation-charts-v1.1.md",
+      "bytes": 10052,
+      "sha256": "d15ed547defaffc617ffc6faf6df683c8473ecd9077be63e52d02bbb4edb4ca8"
+    },
+    {
+      "path": "problems/2017-B4/reviews/orientation-charts-acceptance.md",
+      "bytes": 1742,
+      "sha256": "652804f3a2aa412b6a1eb8487a6c8e536836e0803f5deb066a5e850c58feca16"
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-fixedD-structural-v1.2.md",
+      "bytes": 16602,
+      "sha256": "421dc271ed65831e3aa70057a0d74c4d999ba8249dfa2b99066dfdc298f86868"
+    },
+    {
+      "path": "problems/2017-B4/statement.md",
+      "bytes": 2140,
+      "sha256": "e459750064b4e25e3eaa71f25f236c046548147e415b06d8bd097839020228f3"
+    }
+  ]
+}

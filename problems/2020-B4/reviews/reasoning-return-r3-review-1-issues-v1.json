@@ -1,0 +1,161 @@
+{
+  "date_utc": "2026-10-17",
+  "reviewer": "coordinator root",
+  "status": "initially blind whole nonconstructor audit",
+  "peer_findings_read_before_freeze": false,
+  "open_substantive_issues": [],
+  "author_repair_required": false,
+  "promotion": false,
+  "checks": [
+    {
+      "id": "R2020R1-N",
+      "claim": "Common normalized translate",
+      "disposition": "pass on stated scope",
+      "reconstruction": "Accepted exact setwise stability retained, not pointwise assumed."
+    },
+    {
+      "id": "R2020R1-F1U",
+      "claim": "Unique ordered differences",
+      "disposition": "pass on stated scope",
+      "reconstruction": "Every nonzero common fixed difference fixes both representing points."
+    },
+    {
+      "id": "R2020R1-F1G",
+      "claim": "Cyclic annihilator",
+      "disposition": "pass on stated scope",
+      "reconstruction": "h=gcd(v,t_i-1) with no multiplier-order coprimality."
+    },
+    {
+      "id": "R2020R1-F1D",
+      "claim": "Degenerate fixed subgroups",
+      "disposition": "pass on stated scope",
+      "reconstruction": "h=1 permits f0/1; h3 m1 no nondegenerate subplane."
+    },
+    {
+      "id": "R2020R1-F1P",
+      "claim": "Proper embedded subplane",
+      "disposition": "pass on stated scope",
+      "reconstruction": "Line parameters in H and q>=m\u00b2 proved by external-point count."
+    },
+    {
+      "id": "R2020R1-F1O",
+      "claim": "Orbit congruence",
+      "disposition": "pass on stated scope",
+      "reconstruction": "Prime-order orbits and common0 membership retained."
+    },
+    {
+      "id": "R2020R1-F1A",
+      "claim": "Cofactor identity",
+      "disposition": "pass on stated scope",
+      "reconstruction": "Exact reduction modp\u22121 and h19 for p20mod57."
+    },
+    {
+      "id": "R2020R1-F1E",
+      "claim": "Example761",
+      "disposition": "pass on stated scope",
+      "reconstruction": "Full hand trial division and parameter/congruence conversion checked."
+    },
+    {
+      "id": "R2020R1-F2P",
+      "claim": "Complementary projections",
+      "disposition": "pass on stated scope",
+      "reconstruction": "Odd v permits half-map; A direct-sum B."
+    },
+    {
+      "id": "R2020R1-F2F",
+      "claim": "Symmetric fibers",
+      "disposition": "pass on stated scope",
+      "reconstruction": "Size<=2, singleton0, opposite pairs nonzero."
+    },
+    {
+      "id": "R2020R1-F2R",
+      "claim": "Fiber differences",
+      "disposition": "pass on stated scope",
+      "reconstruction": "2R=a\u22121 from all nonzero A differences."
+    },
+    {
+      "id": "R2020R1-F2D",
+      "claim": "Degeneracies",
+      "disposition": "pass on stated scope",
+      "reconstruction": "b1 impossible and q=s identity excluded."
+    },
+    {
+      "id": "R2020R1-F2Q",
+      "claim": "Square factorization",
+      "disposition": "pass on stated scope",
+      "reconstruction": "(q\u2212s)(q\u2212s\u00b2)=0 with q=m\u00b2,m>=2."
+    },
+    {
+      "id": "R2020R1-F2T",
+      "claim": "Unique involution",
+      "disposition": "pass on stated scope",
+      "reconstruction": "Coprime odd factors and CRT give t=m\u00b3."
+    },
+    {
+      "id": "R2020R1-F2A",
+      "claim": "Sylow2",
+      "disposition": "pass on stated scope",
+      "reconstruction": "Unique-involution abelian2-group cyclic via doubling induction."
+    },
+    {
+      "id": "R2020R1-F2L",
+      "claim": "Local2-parts",
+      "disposition": "pass on stated scope",
+      "reconstruction": "Halfway exponent local signs exact for every odd prime power."
+    },
+    {
+      "id": "R2020R1-F3S",
+      "claim": "Unordered sums",
+      "disposition": "pass on stated scope",
+      "reconstruction": "Includes repeated summands, proved from unique differences."
+    },
+    {
+      "id": "R2020R1-F3C",
+      "claim": "Trace coefficients",
+      "disposition": "pass on stated scope",
+      "reconstruction": "P+(E/2)*(E/2)=2U_B, supports and augmentation exact."
+    },
+    {
+      "id": "R2020R1-F3P",
+      "claim": "Character phases",
+      "disposition": "pass on stated scope",
+      "reconstruction": "Half-map difference set, squared phase and magnitude checked."
+    },
+    {
+      "id": "R2020R1-F3B",
+      "claim": "Sign-pair bijection",
+      "disposition": "pass on stated scope",
+      "reconstruction": "All nonzero A values used once up to sign, not sufficient alone."
+    },
+    {
+      "id": "R2020R1-F3I",
+      "claim": "Full lift iff",
+      "disposition": "pass on stated scope",
+      "reconstruction": "delta0 automatic; every nonzero delta equation exactly full norm."
+    },
+    {
+      "id": "R2020R1-B1R",
+      "claim": "Real relaxation",
+      "disposition": "pass on stated scope",
+      "reconstruction": "Positive real coefficients,norm,augmentation,invariance hold,identity>1."
+    },
+    {
+      "id": "R2020R1-B1Z",
+      "claim": "Integral boundary",
+      "disposition": "pass on stated scope",
+      "reconstruction": "sum c(c\u22121)=0 forces0/1 for all integral signs."
+    },
+    {
+      "id": "R2020R1-SRC",
+      "claim": "Original source",
+      "disposition": "pass on stated scope",
+      "reconstruction": "BBB\u00a72pp1\u20132 directly read; no PPC hypothesis or Mann proof import."
+    },
+    {
+      "id": "R2020R1-SCOPE",
+      "claim": "Open target",
+      "disposition": "pass on stated scope",
+      "reconstruction": "No fullclassification, sufficiency shortcut, range or novelty claim."
+    }
+  ]
+}

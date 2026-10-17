@@ -1,0 +1,82 @@
+{
+  "frozen_at_utc": "2026-10-17T06:55:09.478832+00:00",
+  "status": "targeted independent repair reaudit frozen; scoped resolution recommended, no promotion",
+  "reviewer": "/root/review_2022_complexity_r2",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "candidate": {
+    "path": "problems/2017-B4/notes/rank-mesh-reasoning-r1-candidate-v1.1.md",
+    "bytes": 21576,
+    "sha256": "f6c1681ae288b37d2e845e31ca1ef4503d659c9669ec6801266f3564de771ee3"
+  },
+  "repair_ledger": {
+    "path": "problems/2017-B4/notes/rank-mesh-reasoning-r1-repair-v1.1.md",
+    "bytes": 5483,
+    "sha256": "f9d637f76ee320d022dd481b836b04b584cf392bc5acf130106326701c94767d"
+  },
+  "candidate_freeze": {
+    "path": "problems/2017-B4/notes/rank-mesh-reasoning-r1-freeze-v1.1.json",
+    "bytes": 3243,
+    "sha256": "0273dd67122b549dbf7b9cf6dab57f6671aab52ed793e942524c1bd69718bb14"
+  },
+  "unchanged_UR3": {
+    "path": "problems/2017-B4/notes/rank-mesh-reasoning-r1-UR3-v1.md",
+    "bytes": 17045,
+    "sha256": "40ad9b252b6c34f5dee5c8cd3eedea8e8feeabb0cec1497b224bf5c32ba58aab"
+  },
+  "resolved_for_v1_1_scope": [
+    "RM2-01",
+    "RMR1-01",
+    "N1 editorial"
+  ],
+  "old_v1_scope_and_both_counterexamples_preserved": true,
+  "R2_skeleton_only_holes_explicitly_preserved": true,
+  "separate_inference_checks": 14,
+  "new_substantive_objections": 0,
+  "author_additional_repair_requested": false,
+  "promotion_by_reviewer": false,
+  "both_original_full_reports_ledgers_sources_read_after_own_initial_freeze": true,
+  "new_peer_targeted_findings_read_before_freeze": false,
+  "mathematical_program_enumeration_CAS": false,
+  "actual_full_diff_matches_saved_patch": true,
+  "UR3_byte_identical": true,
+  "author_and_original_review_declared_rows_verified": 151,
+  "all_input_unique_paths_verified": 120,
+  "earlier_own_paths_verified_unchanged": 108,
+  "git_or_shared_candidate_edits": false,
+  "only_assigned_new_reaudit_prefix_written": true,
+  "no_H_PR_global_recovery_full_solution_or_novelty": true,
+  "latest_authoritative_weekly_usage": {
+    "used_percent": 27,
+    "at_utc": "2026-10-17 06:49:12 UTC",
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "total_used_ceiling_percent": 90,
+    "integration_reserve": true
+  },
+  "records": [
+    {
+      "path": "problems/2017-B4/reviews/rank-mesh-review-2-reaudit-report-v1.1.md",
+      "bytes": 13519,
+      "sha256": "d94c68bd7599ad90a60481c6d85c6152c3865d454d433ee94230ba6139ed5408"
+    },
+    {
+      "path": "problems/2017-B4/reviews/rank-mesh-review-2-reaudit-issues-v1.1.json",
+      "bytes": 5656,
+      "sha256": "d446defb0ee6884511100dcce929aea954e5d76f68651be5ed54d4ebe3d50a4d"
+    },
+    {
+      "path": "problems/2017-B4/reviews/rank-mesh-review-2-reaudit-source-checks-v1.1.md",
+      "bytes": 4143,
+      "sha256": "69e919e33618053f8b02429073d901a4ec935d6dadb359472b6ad7833f2d7bd9"
+    },
+    {
+      "path": "problems/2017-B4/reviews/rank-mesh-review-2-reaudit-input-checks-v1.1.json",
+      "bytes": 46433,
+      "sha256": "df11593196f1b8523bb8dcd412de904a3901be939143a8a085147439e9e316a9"
+    }
+  ]
+}

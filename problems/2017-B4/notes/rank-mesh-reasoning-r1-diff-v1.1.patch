@@ -1,0 +1,85 @@
+--- rank-mesh-reasoning-r1-candidate-v1.md
++++ rank-mesh-reasoning-r1-candidate-v1.1.md
+@@ -1,10 +1,17 @@
+ # Rank cells as actual disks, with a scoped clean D4 lifting theorem
+ 
+-2026-10-17 UTC. **Candidate proof - unverified.** Constructor
++2026-10-17 UTC, full author repair v1.1. **Candidate proof - unverified.** Constructor
+ `review_2017_coarsening_r1`; requested `gpt-6.1-sol` / `max`, effective
+ readback unavailable. Two fresh independent nonconstructor whole audits
+ are required. No full balanced-zonogon (H), full 2017 solution, or novelty
+ is claimed. No mathematical computation, enumeration or CAS was used.
++
++Version1.1 repairs RMR1-01/RM2-01 by restricting the auxiliary
++window estimate to one rectifiable Jordan boundary and recording the
++actual sum for multiple such windows. It also corrects N1's general-D
++tile alphabet. No other result or new extension is introduced. The
++complete v1 and unchanged UR3 supplement remain frozen; both affected
++independent reaudits and coordinator resolution are still required.
+ 
+ This is a construction checkpoint. The coordinator's rank-mesh program
+ and its FL1/CL1/OB1 packet were read as unverified leads. FL1's bound
+@@ -152,7 +159,7 @@
+ the selected geometry and all complement domains. Record one bad/not-bad
+ bit per selected face, costing O(L^2/r^2+L/r+1), even if S=0.
+ The union of bad complement domains has O_D(Sr^2) tiles in its given
+-filling. In any fixed tileable integer domain, the six finite tile types
++filling. In any fixed tileable integer domain, the binom(D,2) finite tile types
+ and their possible origins in the domain plus a bounded boundary tube
+ give at most an exponential number in its area of fillings. The boundary
+ tube has that same order: a reference filling bounds its perimeter and
+@@ -170,12 +177,26 @@
+ does not change the selected skeleton. When rare types have zero boundary
+ flux on a good disk, their absence is preserved as well.
+ 
+-If a rectifiable window has perimeter O(L), discard faces touching its
+-boundary before using interior good disks. Their diameter bound places
+-all their tiles in an O_D(r)-tube of that boundary. Finite integer tile
+-origins bound the additional loss by O_D(rL+r^2). At fixed r this is
+-lower order than L^2. No assertion that an unbounded number of repeated
+-physical windows can be paid for with this same one-window bound is made.
++For this auxiliary estimate, a window W must be the bounded interior
++of one rectifiable Jordan curve, with boundary length P. Discard every
++selected face whose closure meets that boundary before using interior
++good disks. The diameter bound places all tiles of those faces in the
++O_D(r)-tube of this one curve. This tube has area O_D(rP+r^2):
++sample its arclength parametrization at spacing at most rho=C_D r;
++at most ceil(P/rho)+1 disks of radius2rho cover its rho-tube.
++Every original tile has area at least1 and the tiling interiors are
++disjoint, so the additional whole-tile loss is O_D(rP+r^2).
++Consequently P=O(L) gives O_D(rL+r^2), lower order than L^2
++when r is fixed and L tends to infinity.
++
++This is a one-Jordan-boundary estimate. It is not asserted for an
++arbitrary connected region with rectifiable boundary and many tiny
++holes. For an actual finite collection W_1,...,W_M of such Jordan
++windows, each with perimeter P_j, charge each application separately:
++the safe total upper loss is O_D(r sum_j P_j+M r^2), with any
++overlap only reducing the union. It is lower order only under the
++actual chosen scales and this summed bound. No unbounded collection
++is paid for by a single O_D(rL+r^2) allowance.
+ 
+ ## RM2. Clean closed disks after a consecutive merge
+ 
+@@ -184,8 +205,9 @@
+ group a vector w_g=(1,g-1). Call every within-group tile forbidden.
+ For a good disk C supplied by RM1, assume its selected face F has
+ closure disjoint from every forbidden tile, including tiles outside C
+-that merely meet its boundary. Work with an interior F; outer-boundary
+-faces may be discarded at the O_D(rL+r^2) cost above.
++that merely meet its boundary. Work with an interior F. The full outer zonogon boundary is one
++rectifiable Jordan polygon of perimeter O_D,c(L), so its touching
++faces may be discarded at the O_D,c(rL+r^2) cost just proved.
+ 
+ First construct the global geometric coarsening. Move the fine slopes
+ continuously to the constant group slopes, keeping the first coordinate
+@@ -346,7 +368,8 @@
+ No estimate S=O(epsilon L^2+L) is proved here; that is FL1's separate
+ candidate. No orientation chart, global profile partition, strict-window
+ matching, balanced remainder padding or original-frame entropy recovery
+-is imported. The local mask-boundary cost must be summed over the actual
++is imported. The local mask-boundary helper applies only to the stated Jordan
++windows. Its r*sum P_j+M*r^2 cost must be summed over the actual
+ chosen windows before taking limits. Uniform UR3 is proposed only for
+ the globally extendable disk class just proved relevant, not for an
+ arbitrary nonextendable paired boundary. All claims remain candidates

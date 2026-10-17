@@ -1,0 +1,44 @@
+{
+  "accepted_at_utc": "2026-10-17T06:53:47.665995+00:00",
+  "status": "proved, independently reviewed partial results",
+  "claims": [
+    "OC1",
+    "OC2",
+    "OC3",
+    "D4 stratum consequence"
+  ],
+  "unresolved_substantive_issues": 0,
+  "mathematical_repair_required": false,
+  "whole_initials_blind": true,
+  "constructor": "coordinator root",
+  "reviewers": [
+    "review_2017_coarsening_r1",
+    "review_2022_complexity_r2"
+  ],
+  "record_occurrences_verified": 243,
+  "unique_paths_verified": 217,
+  "accepted_copy": {
+    "path": "problems/2017-B4/proofs/reviewed-orientation-charts-v1.1.md",
+    "bytes": 10052,
+    "sha256": "d15ed547defaffc617ffc6faf6df683c8473ecd9077be63e52d02bbb4edb4ca8"
+  },
+  "candidate": {
+    "path": "problems/2017-B4/notes/coordinator-orientation-charts-candidate-v1.md",
+    "bytes": 8985,
+    "sha256": "a64eea09f6cab7ba86f158cc685ab20d35742c4d8dbfc3dfb60260a3b7ada552"
+  },
+  "review_manifests": [
+    {
+      "path": "problems/2017-B4/reviews/orientation-chart-review-1-manifest-initial.json",
+      "bytes": 2578,
+      "sha256": "35104507f2faffbd0444e727a1e97ed89e614584e910147b86653bd89b6c93d7"
+    },
+    {
+      "path": "problems/2017-B4/reviews/orientation-chart-review-2-manifest-v1.json",
+      "bytes": 2548,
+      "sha256": "1dba0fb6e15d7f47075a43ef93c3afb6b1dfeac248bf658a62d7b71de066efa0"
+    }
+  ],
+  "scope": "finite charts and exact full balanced marked tiling/lift/tangent interfaces only",
+  "H_PR_or_official_limits_proved": false
+}

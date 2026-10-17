@@ -1,0 +1,64 @@
+{
+  "frozen_at_utc": "2026-10-17T06:55:22.046134+00:00",
+  "status": "complete targeted reaudit; recommend resolving repair issues; no promotion",
+  "reviewer": "review_2021_reasoning_j15_r2",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "main_v1_1_sha256": "f6c1681ae288b37d2e845e31ca1ef4503d659c9669ec6801266f3564de771ee3",
+  "repair_sha256": "f9d637f76ee320d022dd481b836b04b584cf392bc5acf130106326701c94767d",
+  "UR3_sha256": "40ad9b252b6c34f5dee5c8cd3eedea8e8feeabb0cec1497b224bf5c32ba58aab",
+  "recommended_resolved": [
+    "RMR1-01",
+    "RM2-01",
+    "N1"
+  ],
+  "targeted_ledger_rows": 12,
+  "substantive_objections": [],
+  "both_targeted_audits_and_root_reconciliation_required": true,
+  "original_initial_reports_preserved": true,
+  "new_peer_targeted_findings_read_before_freeze": false,
+  "mathematical_program_enumeration_or_CAS": false,
+  "candidate_or_shared_changes": false,
+  "git_operations": false,
+  "spawned_agents": false,
+  "latest_weekly_total_used_percent": 27,
+  "weekly_window_minutes": 10080,
+  "weekly_reset_unix": 1792745187,
+  "total_used_ceiling_percent": 90,
+  "command": "python3 problems/2017-B4/reviews/rank-mesh-review-1-reaudit-freeze-v1.1.py",
+  "records": [
+    {
+      "path": "problems/2017-B4/reviews/rank-mesh-review-1-reaudit-initial-v1.1.md",
+      "bytes": 11360,
+      "sha256": "99777b5941a30574886d172aef0bf76704cff8574c1159e5371b3126c4e134a5"
+    },
+    {
+      "path": "problems/2017-B4/reviews/rank-mesh-review-1-reaudit-issues-v1.1.json",
+      "bytes": 3536,
+      "sha256": "d223321eb8feb738c591112817b1555eb163b606504d40bd585d6ab61152afb7"
+    },
+    {
+      "path": "problems/2017-B4/reviews/rank-mesh-review-1-reaudit-source-checks-v1.1.md",
+      "bytes": 3071,
+      "sha256": "4af8b44f037597a28301ed448f1d1f6784273bebf95cbd0cfca7f64805f00e0b"
+    },
+    {
+      "path": "problems/2017-B4/reviews/rank-mesh-review-1-reaudit-freeze-v1.1.py",
+      "bytes": 6417,
+      "sha256": "0c27dca4a2a3ea0cf43023d5da65debf7499ee8073b09c8d666eed9b6d034f3f"
+    },
+    {
+      "path": "problems/2017-B4/reviews/rank-mesh-review-1-reaudit-input-validation-v1.1.json",
+      "bytes": 78536,
+      "sha256": "e8d103efa09ef590b041465ac03a6742b9abf842b3c3e3ceb6da3ffef6a5c892"
+    },
+    {
+      "path": "problems/2017-B4/reviews/rank-mesh-review-1-reaudit-freeze-output-v1.1.json",
+      "bytes": 450,
+      "sha256": "cb2638ef41c07dbeeecb32efb393965e32dad369054db2bfad387b5b62bb587d"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "status": "initial independent whole nonconstructor audit frozen before peer findings",
+  "reviewer": "/root/review_2022_complexity_r2",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "whole_targets_reconstructed": [
+    "CF1 signed substitution and residue restriction",
+    "relative/minus/full p-rank bridge",
+    "primary first-case and finite-calculation application boundaries"
+  ],
+  "open_substantive_issues": [],
+  "unresolved_substantive_objections": 0,
+  "author_repair_requested": false,
+  "promotion_by_reviewer": false,
+  "peer_CF1_findings_read": false,
+  "per_claim_checks": [
+    {
+      "id": "CF2-C01",
+      "claim": "Official indices/domain",
+      "resolution": "Term count m=p and power exponent q=p give official degree n=p-1. The stated signed finite prime range lies in B4(b).",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "CF2-C02",
+      "claim": "Residue1 LTE",
+      "resolution": "p odd and p|(x-1), |x|>=2 supply signed LTE valuation1; no nonzero y^p has that valuation.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "CF2-C03",
+      "claim": "Signed substitution",
+      "resolution": "X=x,Y=-1,Z=y gives exactly G_p(x), with nonzero denominator x-1 and no positivity restriction.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "CF2-C04",
+      "claim": "Coprimality/nontriviality",
+      "resolution": "The unit Y and G_p(x)=1 mod x yield pairwise coprimality. C1 gives |Z|>1; first-case residues also give Z1 mod p.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "CF2-C05",
+      "claim": "Exact first-case factor",
+      "resolution": "XY(X^2-Y^2)=-x(x-1)(x+1); its nonvanishing is exactly exclusion of residues0,+1,-1.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "CF2-C06",
+      "claim": "Primary theorem/Section3",
+      "resolution": "Actual author-uploaded Theorem1 and first-case Section3 discussion were read. The latter explicitly explains the coordinate-1 substitution and delegates Eichler/Washington proof.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "CF2-C07",
+      "claim": "Relative p-primary group",
+      "resolution": "Norm/extension satisfy Nj=2 and jN=1+c. Since p odd, j is injective, N surjective, ker N=Cminus, and image j=Cplus.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "CF2-C08",
+      "claim": "Rank bridge",
+      "resolution": "The relative norm kernel and quotient by the plus subgroup agree on odd p-parts. Its p-rank is bounded by the full elementary abelian p-part rank.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "CF2-C09",
+      "claim": "HHO exact input",
+      "resolution": "Introduction items1-3 and Table2 give exhaustive p<2^31 group structure at level1 and maximum i_p9. No statistical heuristic or higher-level variable substitutes for it.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "CF2-C10",
+      "claim": "Threshold",
+      "resolution": "101>100=10^2 implies sqrt(p)-1>9 exactly for every p>=101. The upper bound is the published strict range.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "CF2-C11",
+      "claim": "Vandiver unnecessary",
+      "resolution": "Only the direct summand rank bound is needed. No unrestricted Vandiver or equality of relative/full parts is assumed.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "CF2-C12",
+      "claim": "Residual cases",
+      "resolution": "x0 and x-1 mod p violate the imported first-case nonvanishing and remain unresolved. Residue1 was excluded separately.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "CF2-C13",
+      "claim": "Unused second-case/appendix",
+      "resolution": "The companion note is a research-obligation record, not accepted theorem refutation. No second-case theorem, repaired upper bound, or binary-Thue Theorem1.2 is imported.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "CF2-C14",
+      "claim": "External proof/computation boundary",
+      "resolution": "The theorem and finite published calculation remain attributed inputs. No reconstruction of complete external proofs, class-group rerun, full classification or novelty is claimed.",
+      "disposition": "no substantive objection after whole reconstruction"
+    }
+  ],
+  "external_theorem_proofs_newly_reconstructed": false,
+  "published_classgroup_calculation_rerun": false,
+  "mathematical_program_enumeration_CAS": false,
+  "secondcase_theorem_binaryThue_or_appendix_import": false,
+  "appendix_note_promoted_to_source_objection_or_theorem_refutation": false,
+  "full_B4_solution_or_novelty": false
+}

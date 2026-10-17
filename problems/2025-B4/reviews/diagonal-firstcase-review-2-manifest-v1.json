@@ -1,0 +1,71 @@
+{
+  "frozen_at_utc": "2026-10-17T06:40:26.644609+00:00",
+  "status": "initial independent whole nonconstructor audit frozen before peer findings",
+  "reviewer": "/root/review_2022_complexity_r2",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "candidate": {
+    "path": "problems/2025-B4/notes/coordinator-diagonal-firstcase-candidate-v1.md",
+    "bytes": 4200,
+    "sha256": "3a6c0bc793d7e5cf77d440fdb27b3ec139d3a5c61fe773b03310e9b8184a1a03"
+  },
+  "candidate_freeze": {
+    "path": "problems/2025-B4/notes/coordinator-diagonal-firstcase-freeze-v1.json",
+    "bytes": 2037,
+    "sha256": "59ad3e5d858d4b809195f55453f2af4c09ef519580eca5d5c448a1a0db3c3250"
+  },
+  "whole_claims_reconstructed": [
+    "CF1",
+    "signed substitution and all coprimality hypotheses",
+    "relative/minus p-rank versus full p-part",
+    "exact finite-range threshold and residual residues"
+  ],
+  "separate_claim_checks": 14,
+  "substantive_objections": 0,
+  "author_repair_requested": false,
+  "promotion_by_reviewer": false,
+  "peer_findings_read_before_initial_freeze": false,
+  "mathematical_program_enumeration_CAS": false,
+  "published_classgroup_calculation_rerun": false,
+  "external_theorem_proofs_newly_reconstructed": false,
+  "secondcase_Theorem4_binaryThue_or_appendix_import": false,
+  "appendix_note_promoted_to_source_objection_or_theorem_refutation": false,
+  "full_B4_solution_or_novelty": false,
+  "input_paths_verified": 11,
+  "earlier_own_paths_verified_unchanged": 98,
+  "git_or_shared_candidate_edits": false,
+  "only_assigned_prefix_written": true,
+  "latest_authoritative_weekly_usage": {
+    "used_percent": 26,
+    "at_utc": "2026-10-17 06:39:29 UTC",
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "total_used_ceiling_percent": 90,
+    "integration_reserve": true
+  },
+  "records": [
+    {
+      "path": "problems/2025-B4/reviews/diagonal-firstcase-review-2-initial-v1.md",
+      "bytes": 11709,
+      "sha256": "a194af5062af4205601ee4f20ab7d28cc5f41f7b7761e266c0bc1eb0d59220ed"
+    },
+    {
+      "path": "problems/2025-B4/reviews/diagonal-firstcase-review-2-issues-v1.json",
+      "bytes": 5242,
+      "sha256": "50abe6de459fb5ea7904280d78df877a3b44f50affa36f1a1e45a49cfd739dad"
+    },
+    {
+      "path": "problems/2025-B4/reviews/diagonal-firstcase-review-2-source-checks-v1.md",
+      "bytes": 4129,
+      "sha256": "bdf2c1de11d4dda2ffed7015550923aa9e16a3f00729564ce630fe0949565ea2"
+    },
+    {
+      "path": "problems/2025-B4/reviews/diagonal-firstcase-review-2-input-checks-v1.json",
+      "bytes": 21961,
+      "sha256": "f9a2e716246bd05a47ced8ee57068166fc2f0e7657a8e3fd9ae6071428fe2bc5"
+    }
+  ]
+}

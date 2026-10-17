@@ -1,0 +1,33 @@
+{
+  "status": "targeted v1.1 reaudit completed; recommend resolving original issues, no promotion",
+  "reviewer": "review_2021_reasoning_j15_r2",
+  "requested_settings": {"model":"gpt-6.1-sol","reasoning":"max"},
+  "verified_effective_settings": null,
+  "original_whole_initial_and_issue_bytes_preserved": true,
+  "both_original_whole_reports_read_after_both_freezes": true,
+  "new_peer_targeted_findings_read": false,
+  "dispositions": [
+    {"id":"RMR1-01","status":"resolved in v1.1; coordinator closure pending","check":"One rectifiable Jordan boundary explicitly required; arclength disk cover proves O_D(rP+r^2) whole-tile loss."},
+    {"id":"RM2-01","status":"resolved in v1.1; coordinator closure pending","check":"Both exact multiply-connected grid counterexamples retained; no perimeter-only arbitrary connected-window estimate remains."},
+    {"id":"N1","status":"resolved in v1.1","check":"General-D fixed alphabet correctly has binom(D,2) tile types."}
+  ],
+  "targeted_checks": [
+    {"id":"RK1-RA01","claim":"Full replacement and saved diff","status":"pass","check":"Complete main, ledger, diff, sources/worklog read; unrelated mathematical bodies retained."},
+    {"id":"RK1-RA02","claim":"Closure contacts to whole-tile tube","status":"pass","check":"diameter bound extends to closure, so every entire lost retained tile lies within C_D r of a boundary contact, including vertices."},
+    {"id":"RK1-RA03","claim":"Rectifiable tube area","status":"pass","check":"ceil(P/rho)+1 arclength samples and radius2rho disks give 4pi rho P+8pi rho^2; covers P<rho too."},
+    {"id":"RK1-RA04","claim":"Area to tile loss","status":"pass","check":"All tile areas are integer j-i>=1 and interiors disjoint; no hidden extra cell or coordinate factor."},
+    {"id":"RK1-RA05","claim":"Multiple-window quantifiers","status":"pass","check":"Actual r sum P_j+M r^2 retained; lower-order conclusion only after checking that sum and scales."},
+    {"id":"RK1-RA06","claim":"Outer-boundary discard","status":"pass","check":"Genuine full zonogon is one Jordan polygon with perimeter2 sum N_i||v_i||=O_D,c(L)."},
+    {"id":"RK1-RA07","claim":"Fixed-domain rare code","status":"pass","check":"Reference K tiles already bound perimeter AND component count by O_D(K); not the false perimeter-only window premise."},
+    {"id":"RK1-RA08","claim":"Unchanged RM1-RM3 scope","status":"pass","check":"Biconnected disks, closed clean stars, special D4 ports, fixed exterior and aggregate errors not broadened; S remains input."},
+    {"id":"RK1-RA09","claim":"UR3 boundary triangles","status":"pass","check":"Every B_j is explicitly Jordan with one O(r_j)-length boundary; the same tube cover gives O(ell_j r_j+ell_j^2)."},
+    {"id":"RK1-RA10","claim":"UR3 LC3/cores/limit order","status":"pass","check":"Complete unchanged supplement reread; no new analytic import or missing-LC3 issue introduced by repair."},
+    {"id":"RK1-RA11","claim":"Counterexamples and initial provenance","status":"pass","check":"Retained-tile L^-3 hole family and skeleton-only1/(10N) hole family both mathematically preserved; originals not overwritten."},
+    {"id":"RK1-RA12","claim":"No unrelated construction premise","status":"pass","check":"New uniform-strict candidate is not used in this audit or rank-mesh proof."}
+  ],
+  "open_substantive_issues": [],
+  "new_author_repair_required": false,
+  "both_targeted_audits_and_coordinator_reconciliation_required": true,
+  "mathematical_program_enumeration_or_CAS": false,
+  "H_PR_full_solution_or_promotion": false
+}

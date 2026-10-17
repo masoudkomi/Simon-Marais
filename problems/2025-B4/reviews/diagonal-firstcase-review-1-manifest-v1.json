@@ -1,0 +1,61 @@
+{
+  "frozen_at_utc": "2026-10-17T06:58:40.781920+00:00",
+  "status": "initially blind whole review; no substantive defect found; attributed finite-range corollary only",
+  "reviewer": "review_2021_reasoning_j15_r2",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "candidate_sha256": "3a6c0bc793d7e5cf77d440fdb27b3ec139d3a5c61fe773b03310e9b8184a1a03",
+  "whole_claims": [
+    "CF1 including signed substitution, LTE, relative rank, HHO finite input and exact scope"
+  ],
+  "per_inference_ledger_rows": 15,
+  "substantive_objections": [],
+  "required_author_repairs": [],
+  "external_theorem_full_proof_reconstructed": false,
+  "published_computation_rerun": false,
+  "peer_findings_read_before_freeze": false,
+  "mathematical_program_enumeration_or_CAS": false,
+  "candidate_or_shared_changes": false,
+  "git_operations": false,
+  "spawned_agents": false,
+  "latest_weekly_total_used_percent": 27,
+  "weekly_window_minutes": 10080,
+  "weekly_reset_unix": 1792745187,
+  "total_used_ceiling_percent": 90,
+  "command": "python3 problems/2025-B4/reviews/diagonal-firstcase-review-1-freeze-v1.py",
+  "records": [
+    {
+      "path": "problems/2025-B4/reviews/diagonal-firstcase-review-1-initial-v1.md",
+      "bytes": 8905,
+      "sha256": "2ee53f74ab719ea500cd593b0612311dd95d8e33eb1b56a1501e2ce64f8d3891"
+    },
+    {
+      "path": "problems/2025-B4/reviews/diagonal-firstcase-review-1-issues-v1.json",
+      "bytes": 3386,
+      "sha256": "bcbd370d129b8e9e6e401c15b96ee60baa4d84b8c040d5a0aca794125bf32cd3"
+    },
+    {
+      "path": "problems/2025-B4/reviews/diagonal-firstcase-review-1-source-checks-v1.md",
+      "bytes": 4010,
+      "sha256": "ec4d8d404af02641b4cde805f2ddefda7aa49b676553d4de8518b7d1f84756ae"
+    },
+    {
+      "path": "problems/2025-B4/reviews/diagonal-firstcase-review-1-freeze-v1.py",
+      "bytes": 4983,
+      "sha256": "aa2808a644475fd8dbef2546a45fe9d769ce2fc3f28e2a10818f83bab2e93201"
+    },
+    {
+      "path": "problems/2025-B4/reviews/diagonal-firstcase-review-1-input-validation-v1.json",
+      "bytes": 53147,
+      "sha256": "f2666e7c0fc9d40fca03ae07c8bb4e7798b06da58dd51b9f452541bcbd5bdc19"
+    },
+    {
+      "path": "problems/2025-B4/reviews/diagonal-firstcase-review-1-freeze-output-v1.json",
+      "bytes": 323,
+      "sha256": "b1c1d020a6fb3c19087ebb78ac1c36c31d330dab051ce35a58977ad5588b9fee"
+    }
+  ]
+}

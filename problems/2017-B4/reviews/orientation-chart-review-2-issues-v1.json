@@ -1,0 +1,126 @@
+{
+  "status": "initial independent whole nonconstructor audit frozen before peer findings",
+  "reviewer": "/root/review_2022_complexity_r2",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "whole_targets_reconstructed": [
+    "OC1",
+    "OC2",
+    "OC3",
+    "D4 stratum type corollary"
+  ],
+  "open_substantive_issues": [],
+  "unresolved_substantive_objections": 0,
+  "author_repair_requested": false,
+  "promotion_by_reviewer": false,
+  "peer_orientation_chart_findings_read": false,
+  "per_claim_checks": [
+    {
+      "id": "OC2-C01",
+      "claim": "Full hypotheses",
+      "resolution": "VJ=I forces row rank2 and a positive ordered minor. Actual full marked balanced tilings have positive integer content; no incomplete-window theorem is claimed.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "OC2-C02",
+      "claim": "OC1 weak angles",
+      "resolution": "Any genuine angle inversion makes a negative minor except the pi-to-zero endpoint pair. That pair excludes every intermediate direction and contradicts rank2.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "OC2-C03",
+      "claim": "OC1 positive gap",
+      "resolution": "A positive gap exists between successive nonzero rows. Cutting at its later original index gives k2..D and angular width pi-gap<pi.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "OC2-C04",
+      "claim": "OC1 degeneracies",
+      "resolution": "Zero rows are omitted only in angle comparisons; old antiparallel endpoints become equal positive directions at the cyclic join. Groups are consecutive among nonzero rows.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "OC2-C05",
+      "claim": "OC1 cone/finite charts",
+      "resolution": "There are D-1 cuts. The finite strict dual inequalities yield two independent positive directions, without a uniform cone-margin assertion.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "OC2-C06",
+      "claim": "OC2 translation/lift",
+      "resolution": "Flipped coordinates p-a_i and physical translation give V\u2032a\u2032=x\u2032 exactly; the initial corner lies at the original prefix vertex.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "OC2-C07",
+      "claim": "OC2 ranks/boundary",
+      "resolution": "An old rank r maps to p-r+1 on a flipped color. Simultaneous cyclic permutation and complete boundary words are reversible; no orientation quotient is taken.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "OC2-C08",
+      "claim": "OC2 physical order",
+      "resolution": "The signed reordered physical vectors have span pi-(phi_k-phi_(k-1))<pi and strictly positive ordered determinants.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "OC2-C09",
+      "claim": "OC3 global homeomorphism",
+      "resolution": "Positive face Jacobians plus convex boundary degree give unique regular preimages. Preserved cyclic edge/vertex fans give local homeomorphisms and rule out repeated singular preimages.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "OC2-C10",
+      "claim": "OC3 exact inverse count",
+      "resolution": "The canonical target lift reconstructs the V\u2032 tiling and then OC2 reverses all labels/ranks/translations. Both directions preserve actual full marked tilings.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "OC2-C11",
+      "claim": "OC3 bilipschitz",
+      "resolution": "Finite tile derivative/inverse matrices bound the maps globally by segment integration in both convex full zonogons, independent of p/filling.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "OC2-C12",
+      "claim": "OC3 tangent algebra",
+      "resolution": "A=WJ\u2032 has positive determinant by Cauchy-Binet; J*=J\u2032A^-1 preserves all row-minor signs, zeros and positive parallelism.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "OC2-C13",
+      "claim": "OC3 determinant bounds",
+      "resolution": "The weights det(v\u2032_i,v\u2032_j)Delta_ij sum to1. det A is a convex average of fixed positive ratios, including all zero-minor strata.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "OC2-C14",
+      "claim": "OC3 norm bounds",
+      "resolution": "The explicit ||J||<=G bound controls ||A||; the determinant lower bound then controls its inverse and transformed error map. No isolated minor lower bound is needed.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "OC2-C15",
+      "claim": "OC3 common offset",
+      "resolution": "Exact substitution gives error (I-J*W)e and common c*=c\u2032-J*Wc\u2032 in ker W on the actual image. No independent corner phase or canonical image shape is inferred.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "OC2-C16",
+      "claim": "D4 groups",
+      "resolution": "Two to four positive-parallel groups exhaust rank2 with four rows. Three groups give one zero plus three singletons or one consecutive pair plus two singletons; two groups carry no entropy conclusion.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "OC2-C17",
+      "claim": "Scope/dependencies",
+      "resolution": "The exact accepted dictionary is used. No rankmesh/annulus/CUT/ST recovery inference, H/PR/global chart, full limit or novelty is promoted.",
+      "disposition": "no substantive objection after whole reconstruction"
+    }
+  ],
+  "mathematical_program_enumeration_CAS": false,
+  "H_PR_entropy_global_chart_official_limits_or_novelty_claim": false
+}

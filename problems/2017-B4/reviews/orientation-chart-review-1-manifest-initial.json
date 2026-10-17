@@ -1,0 +1,68 @@
+{
+  "frozen_at_utc": "2026-10-17T06:50:27.922940+00:00",
+  "status": "initially blind independent whole nonconstructor audit; no substantive defect found; no promotion",
+  "reviewer": "review_2017_coarsening_r1",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "candidate": {
+    "path": "problems/2017-B4/notes/coordinator-orientation-charts-candidate-v1.md",
+    "bytes": 8985,
+    "sha256": "a64eea09f6cab7ba86f158cc685ab20d35742c4d8dbfc3dfb60260a3b7ada552"
+  },
+  "candidate_manifest": {
+    "path": "problems/2017-B4/notes/coordinator-orientation-charts-freeze-v1.json",
+    "bytes": 1146,
+    "sha256": "338a50e977061e29a379cf311273d5d8edada01ebf86891aa80d4afa74cd1da0"
+  },
+  "whole_claims_reconstructed": [
+    "OC1",
+    "OC2",
+    "OC3",
+    "D4 stratum-type conclusion"
+  ],
+  "substantive_issues": [],
+  "peer_findings_read_before_initial_freeze": false,
+  "constructed_argument": false,
+  "prior_background_authorship_disclosed": true,
+  "artifacts": [
+    {
+      "path": "problems/2017-B4/reviews/orientation-chart-review-1-initial.md",
+      "bytes": 11781,
+      "sha256": "e4067b1157627f905d579b1e0b646e65544990e64b0769b6c95b3816441f7281"
+    },
+    {
+      "path": "problems/2017-B4/reviews/orientation-chart-review-1-issues.md",
+      "bytes": 3065,
+      "sha256": "d0bb77796f14b5fa71b433d14f77248a4899f787d87d204ae0754e560c56971d"
+    },
+    {
+      "path": "problems/2017-B4/reviews/orientation-chart-review-1-source-checks.md",
+      "bytes": 2484,
+      "sha256": "38ec0ace6cf02cdca12a3efc11644508cbe088a111b57738768be1634852deea"
+    },
+    {
+      "path": "problems/2017-B4/reviews/orientation-chart-review-1-freeze.py",
+      "bytes": 4105,
+      "sha256": "fdd3c6ea0c96434e8151fc61cd04897a4e6ec15e24dbacf35bf4890e02a880b9"
+    },
+    {
+      "path": "problems/2017-B4/reviews/orientation-chart-review-1-input-validation.json",
+      "bytes": 24815,
+      "sha256": "54101e79391fb14b94849f4bb8cab08b50cf6dabd4990ed34dd2f399e40ac65a"
+    }
+  ],
+  "candidate_and_declared_inputs_unchanged": true,
+  "earlier_unique_frozen_records_preserved": 120,
+  "mathematical_enumeration_CAS_or_certificate": false,
+  "only_assigned_review_prefix_written": true,
+  "git_shared_edits_spawning_contacts_charges_or_bypass": false,
+  "reviewer_promotion": false,
+  "H_PR_global_chart_or_official_limit_claim": false,
+  "latest_authoritative_weekly_total_used_percent": 27,
+  "telemetry_at_utc": "2026-10-17 06:44:58 UTC",
+  "weekly_reset_unix": 1792745187,
+  "total_used_ceiling_percent": 90
+}

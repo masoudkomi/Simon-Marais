@@ -1,0 +1,68 @@
+{
+  "frozen_at_utc": "2026-10-17T06:50:10.025510+00:00",
+  "status": "initial independent whole nonconstructor audit frozen before peer findings",
+  "reviewer": "/root/review_2022_complexity_r2",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "candidate": {
+    "path": "problems/2017-B4/notes/coordinator-single-pair-allD-candidate-v1.md",
+    "bytes": 10381,
+    "sha256": "c0d51d61f110cf5a190344403d346940b06b95a6d1880c6c725d241c92c397b4"
+  },
+  "candidate_freeze": {
+    "path": "problems/2017-B4/notes/coordinator-single-pair-allD-freeze-v1.json",
+    "bytes": 1680,
+    "sha256": "2714227e14b516d260a1c9d1c8cdef5ae7b9071ea8b9b9c7140b65b6ead520db"
+  },
+  "whole_claims_reconstructed": [
+    "SP1",
+    "SP2",
+    "SP3"
+  ],
+  "background_RM1_is_explicitly_conditional": true,
+  "dimension": "every fixed D>=3, exactly one consecutive merged pair, all other groups singleton",
+  "separate_inference_checks": 17,
+  "substantive_objections": 0,
+  "author_repair_requested": false,
+  "promotion_by_reviewer": false,
+  "peer_findings_read_before_initial_freeze": false,
+  "mathematical_program_enumeration_CAS": false,
+  "multiple_nonsingleton_groups_H_PR_URD_global_recovery_or_novelty": false,
+  "input_paths_verified": 9,
+  "earlier_own_paths_verified_unchanged": 103,
+  "git_or_shared_candidate_edits": false,
+  "only_assigned_prefix_written": true,
+  "latest_authoritative_weekly_usage": {
+    "used_percent": 27,
+    "at_utc": "2026-10-17 06:49:12 UTC",
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "total_used_ceiling_percent": 90,
+    "integration_reserve": true
+  },
+  "records": [
+    {
+      "path": "problems/2017-B4/reviews/single-pair-allD-review-2-initial-v1.md",
+      "bytes": 18235,
+      "sha256": "e700759d01a47d71360ce7ac405c78bd759a2a7b7765980c66676f10c92dfd20"
+    },
+    {
+      "path": "problems/2017-B4/reviews/single-pair-allD-review-2-issues-v1.json",
+      "bytes": 6393,
+      "sha256": "fe7ebbece40c79a2f4fe7e4bbf05d6303db418cd769c849a03d922e172efb5eb"
+    },
+    {
+      "path": "problems/2017-B4/reviews/single-pair-allD-review-2-source-checks-v1.md",
+      "bytes": 3255,
+      "sha256": "79cd422d016ca0b904dccc92b37c558d5135335306832c56027214c98afd4011"
+    },
+    {
+      "path": "problems/2017-B4/reviews/single-pair-allD-review-2-input-checks-v1.json",
+      "bytes": 22600,
+      "sha256": "1e414db5634f28b7df74f01c6b171db3faa77526cfcad93deab5d8b9cac11022"
+    }
+  ]
+}

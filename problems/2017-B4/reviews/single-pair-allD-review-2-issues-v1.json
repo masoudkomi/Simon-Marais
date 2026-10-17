@@ -1,0 +1,126 @@
+{
+  "status": "initial independent whole nonconstructor audit frozen before peer findings",
+  "reviewer": "/root/review_2022_complexity_r2",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "whole_targets_reconstructed": [
+    "SP1",
+    "SP2",
+    "SP3"
+  ],
+  "background_RM1_is_explicitly_conditional": true,
+  "open_substantive_issues": [],
+  "unresolved_substantive_objections": 0,
+  "author_repair_requested": false,
+  "promotion_by_reviewer": false,
+  "peer_SP_findings_read": false,
+  "per_inference_checks": [
+    {
+      "id": "SP2-C01",
+      "claim": "Explicit conditional inputs",
+      "resolution": "Exact general-D RM1 disk/port/active-curve statements are conditional background; the pending arbitrary-window claim is not a premise.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "SP2-C02",
+      "claim": "Deformation",
+      "resolution": "Ordered determinant t(j-i)+(1-t)(g(j)-g(i)) is positive for t>0. Full convex boundary degree and closed stars give actual homeomorphisms.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "SP2-C03",
+      "claim": "Connected fibers",
+      "resolution": "Inverse convex caps contain the whole fiber and have exactly it as every Hausdorff subsequential limit. The e_t0 case is immediate.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "SP2-C04",
+      "claim": "Closed clean stars",
+      "resolution": "Coalescing consecutive rays would require an incident forbidden pair sector. Every closed-F star stays locally a homeomorphism, so connected fibers there are singletons.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "SP2-C05",
+      "claim": "Actual coarse tiling",
+      "resolution": "Positive faces do not overlap, finite collapsed segments cannot fill an open gap, connected fibers prevent their entering positive interiors, and integer unit-x edges forbid partial subdivisions.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "SP2-C06",
+      "claim": "Singleton identity",
+      "resolution": "Each singleton coordinate and full rank curve survive globally unchanged. The same proper barrier and its signs are available after coarsening.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "SP2-C07",
+      "claim": "Merged curve one visit",
+      "resolution": "Fine identity can change only at forbidden events outside closed F. Departure must cross a singleton; a return restores its sign and crosses that same coarse curve twice.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "SP2-C08",
+      "claim": "All fixed D",
+      "resolution": "The barrier proof uses singleton identity rather than the number2. It works for D-2>=1 and does not extend to two merged groups.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "SP2-C09",
+      "claim": "Actual two ports and bound",
+      "resolution": "The one coarse visit is one RM1 residual fine chain in one block. Distinct active curves inject into unselected fine chains, giving <=D(r-1).",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "SP2-C10",
+      "claim": "Arbitrary replacement track",
+      "resolution": "The fixed full coarse exterior and complete boundary leave exactly two ports for each active rank. A no-port new track would be closed.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "SP2-C11",
+      "claim": "Fine recoloring/integration",
+      "resolution": "Same fine labels/ranks at both ports determine each chain. Different ordered coarse groups give positive fine faces; closed increments on the disk integrate to the exact original boundary.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "SP2-C12",
+      "claim": "Geometric count injection",
+      "resolution": "The positive PL map with original Jordan boundary is degree1, hence a genuine fine tiling. Coarsening recovers the chosen coarse filling and all fine ranks.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "SP2-C13",
+      "claim": "Count surjection/flux",
+      "resolution": "Green integral is a nonnegative forbidden-tile count and has fixed boundary value0. Every fine filling is clean; outside incident stars are also clean, giving the inverse coarse tiling.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "SP2-C14",
+      "claim": "All integer dilations",
+      "resolution": "M-by-M subdivision creates prescribed consecutive-rank copies, each with two ports, and commutes with coarsening. The exact inverse construction and flux argument hold at every M>=1.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "SP2-C15",
+      "claim": "Inactive curves",
+      "resolution": "A removed full curve has constant step on connected Cbar, so only a fixed translation/rank shift occurs. Remaining full subarrangement gives one exact fixed exterior.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "SP2-C16",
+      "claim": "Small exact class",
+      "resolution": "At most D(r-1) total curves remain. Their standard zonogon has O_D(r) boundary length/diameter/perimeter and bounded local ranks; at least two directions remain for a positive disk.",
+      "disposition": "no substantive objection after whole reconstruction"
+    },
+    {
+      "id": "SP2-C17",
+      "claim": "Conditional recovery/scope",
+      "resolution": "UR_(D-1) must hold for this exact class before transfer. No arbitrary-window loss, simultaneous multiple groups, H/PR/UR_D/global recovery or novelty is asserted.",
+      "disposition": "no substantive objection after whole reconstruction"
+    }
+  ],
+  "mathematical_program_enumeration_CAS": false,
+  "multiple_nonsingleton_groups_H_PR_URD_global_recovery_or_novelty": false
+}

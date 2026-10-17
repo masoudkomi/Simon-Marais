@@ -1,0 +1,30 @@
+{
+  "status": "initially blind whole review; no substantive issue found; no promotion",
+  "reviewer": "review_2021_reasoning_j15_r2",
+  "requested_settings": {"model":"gpt-6.1-sol","reasoning":"max"},
+  "verified_effective_settings": null,
+  "peer_CF1_findings_read": false,
+  "per_claim_checks": [
+    {"id":"CF1R1-01","claim":"Official parameter/domain","status":"pass","check":"Term count m=p, official degree p-1, integer signed x,y, prime101<=p<2^31, |x|>=2."},
+    {"id":"CF1R1-02","claim":"Residue1 LTE","status":"pass","check":"Odd prime p, p|(x-1), p not dividing x, nonzero signed numerator/denominator and positive exponent; valuation1 cannot be p times an integer."},
+    {"id":"CF1R1-03","claim":"Signed substitution","status":"pass","check":"X=x,Y=-1,Z=y gives the exact generalized quotient for odd p with nonzero X+Y."},
+    {"id":"CF1R1-04","claim":"Coprimality","status":"pass","check":"Y unit and G_p(x)=1 mod x give pairwise coprime source integers."},
+    {"id":"CF1R1-05","claim":"First-case residue product","status":"pass","check":"XY(X^2-Y^2)=-x(x^2-1), nonzero mod p exactly outside0,1,-1."},
+    {"id":"CF1R1-06","claim":"Mihailescu Theorem1 signed hypotheses","status":"pass as attributed input","check":"Complete original statement and Section3 first-case explanation inspected; no positive-X assumption; source explicitly uses second variable-1."},
+    {"id":"CF1R1-07","claim":"External proof boundary","status":"pass","check":"Eichler/Washington source proof imported explicitly; no reconstruction of it or later Theorem4 claimed."},
+    {"id":"CF1R1-08","claim":"Relative/minus splitting","status":"pass","check":"Nj=2,jN=1+c; odd p gives injective extension, norm kernel equals minus summand, plus image equals extended real class group."},
+    {"id":"CF1R1-09","claim":"Rank comparison","status":"pass","check":"Relative p-rank <= full p-primary rank via direct summand, without treating class number as rank."},
+    {"id":"CF1R1-10","claim":"HHO exact finite range","status":"pass as published computational input","check":"Full Introduction items1-3 cover every odd prime p<2^31; n=1 structure is full p-primary class group."},
+    {"id":"CF1R1-11","claim":"HHO maximum irregular index","status":"pass as published computational input","check":"Complete Table2 reports exact distribution through index9; the maximum bound is not inferred from a Poisson model."},
+    {"id":"CF1R1-12","claim":"No general Vandiver assumption","status":"pass","check":"Finite HHO group structure gives r<=i_p<=9; equality using the plus part is unnecessary."},
+    {"id":"CF1R1-13","claim":"Numerical threshold","status":"pass","check":"p>=101>100 gives sqrt(p)-1>9, contradicting both rank bounds."},
+    {"id":"CF1R1-14","claim":"Residual cases and nonpremises","status":"pass","check":"x0,-1 mod p left unresolved; Theorem4, upper-bound repair, appendix and binary-Thue theorem unused."},
+    {"id":"CF1R1-15","claim":"Scope and attribution","status":"pass","check":"Finite-range diagonal corollary only; no unrestricted classification, external proof/computation rerun or novelty claim."}
+  ],
+  "open_substantive_issues": [],
+  "required_author_repairs": [],
+  "external_source_proofs_reconstructed_in_full": false,
+  "published_computation_rerun": false,
+  "mathematical_program_enumeration_or_CAS": false,
+  "coordinator_and_other_fresh_audit_required": true
+}

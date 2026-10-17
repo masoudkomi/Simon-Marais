@@ -1,0 +1,123 @@
+{
+  "status": "targeted independent author-repair reaudit frozen; scoped resolution recommended, coordinator promotion pending",
+  "reviewer": "/root/review_2022_complexity_r2",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "original_initial_reports_preserved": true,
+  "both_original_full_reports_issues_sources_read_after_own_initial_freeze": true,
+  "new_peer_targeted_findings_read": false,
+  "dispositions": [
+    {
+      "id": "RM2-01",
+      "original_status": "substantive scope defect in frozen v1, exact counterexample remains valid",
+      "v1_1_status": "resolved within the narrowed one-Jordan-boundary helper and actual summed cost",
+      "scope": "full affected RM1a/RM2/final-limit uses and unchanged Jordan UR3 checked"
+    },
+    {
+      "id": "RMR1-01",
+      "v1_1_status": "concordant issue resolved within the same narrowed scope"
+    },
+    {
+      "id": "N1",
+      "v1_1_status": "editorial general-D alphabet corrected; R1 finding not listed in my original initial ledger"
+    }
+  ],
+  "new_substantive_objections": [],
+  "unresolved_substantive_objections_for_repaired_scope": 0,
+  "author_additional_repair_requested": false,
+  "promotion_by_reviewer": false,
+  "per_inference_checks": [
+    {
+      "id": "RM2-R01",
+      "claim": "Full replacement/diff",
+      "resolution": "The actual whole-copy diff exactly matches the saved patch and changes only the declared helper/scope/use/alphabet/version paragraphs.",
+      "disposition": "passes targeted reconstruction"
+    },
+    {
+      "id": "RM2-R02",
+      "claim": "One Jordan curve",
+      "resolution": "The repair states one rectifiable Jordan boundary. Connectedness of a perforated window is not offered as a sufficient replacement.",
+      "disposition": "passes targeted reconstruction"
+    },
+    {
+      "id": "RM2-R03",
+      "claim": "Direct tube cover",
+      "resolution": "Arclength samples with gaps<=rho give at most ceil(P/rho)+1 radius2rho cover disks, hence area O(P rho+rho^2).",
+      "disposition": "passes targeted reconstruction"
+    },
+    {
+      "id": "RM2-R04",
+      "claim": "Whole tiles and endpoints",
+      "resolution": "RM1 diameter places every affected retained tile in the curve tube; tile areas>=1 give count control. Small P/rho, closure contacts and large r are included.",
+      "disposition": "passes targeted reconstruction"
+    },
+    {
+      "id": "RM2-R05",
+      "claim": "Limit order",
+      "resolution": "P=O(L) gives lower-order loss only at fixed r before L tends to infinity; no arbitrary r(L) conclusion is made.",
+      "disposition": "passes targeted reconstruction"
+    },
+    {
+      "id": "RM2-R06",
+      "claim": "Actual multiple costs",
+      "resolution": "The formula r sum P_j+M r^2 is retained for the actual finite collection. A component count b would contribute b r^2; no one-window allowance pays for unbounded components.",
+      "disposition": "passes targeted reconstruction"
+    },
+    {
+      "id": "RM2-R07",
+      "claim": "Both counterexamples",
+      "resolution": "R1 retained-tile holes and R2 skeleton-only holes are fully preserved with exact radii/centers. All designated R2 retained tiles stay wholly in the window.",
+      "disposition": "passes targeted reconstruction"
+    },
+    {
+      "id": "RM2-R08",
+      "claim": "Outer-zonogon application",
+      "resolution": "The actual full outer zonogon is one Jordan polygon with perimeter2 sum N_i||v_i||=O_D,c(L), fitting the repaired RM2 discard.",
+      "disposition": "passes targeted reconstruction"
+    },
+    {
+      "id": "RM2-R09",
+      "claim": "General-D alphabet",
+      "resolution": "N1 is corrected from six to binom(D,2), with constants already D-dependent and no change to the skeleton code.",
+      "disposition": "passes targeted reconstruction"
+    },
+    {
+      "id": "RM2-R10",
+      "claim": "Other component counts",
+      "resolution": "Bad-region local codes already control components by reference tiles; RM3 block losses use aggregate perimeter. Neither imports the false perimeter-only claim.",
+      "disposition": "passes targeted reconstruction"
+    },
+    {
+      "id": "RM2-R11",
+      "claim": "Affected UR3 losses",
+      "resolution": "GE3 B_j is expressly Jordan; boundary-triangle tube has one curve. The actual O(lambda^-2) core strips are separately counted and 3^A handles disconnected discarded regions.",
+      "disposition": "passes targeted reconstruction"
+    },
+    {
+      "id": "RM2-R12",
+      "claim": "Analytic scope/identity",
+      "resolution": "UR3 remains exactly unchanged; no new CKP theorem scope or ragged limiting-domain import is introduced. Complete boundary, exterior and limit-order hypotheses remain.",
+      "disposition": "passes targeted reconstruction"
+    },
+    {
+      "id": "RM2-R13",
+      "claim": "Historical preservation",
+      "resolution": "Original v1, both complete blind initials and their issues stay unchanged. Resolution applies only to v1.1; no historical issue is rewritten.",
+      "disposition": "passes targeted reconstruction"
+    },
+    {
+      "id": "RM2-R14",
+      "claim": "No new global premise",
+      "resolution": "No SP/OC/local-coding/strict-transfer premise, H/PR/global recovery, full solution or novelty enters through this repair.",
+      "disposition": "passes targeted reconstruction"
+    }
+  ],
+  "both_exact_counterexamples_preserved": true,
+  "R2_skeleton_only_holes_explicitly_preserved": true,
+  "UR3_conditional_for_missing_LC3_required": false,
+  "mathematical_program_enumeration_CAS": false,
+  "full_solution_H_PR_or_novelty": false
+}

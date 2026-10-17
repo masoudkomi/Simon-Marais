@@ -1,0 +1,75 @@
+{
+  "frozen_at_utc": "2026-10-17T06:43:57.394160+00:00",
+  "status": "candidate proof - unverified; classical reconstructions and restricted corollary, requiring two fresh whole audits",
+  "constructor": "review_2017_coarsening_r1",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "scope": "2020 B4(b) only",
+  "claims": [
+    "F1 common fixed-subgroup closure",
+    "F1a cofactor/7p obstruction",
+    "F2 involution fiber proof",
+    "F2a 2-part coherence",
+    "F3 original BBB relative trace",
+    "F3a exact remaining lift",
+    "B1 positive-definite relaxation barrier"
+  ],
+  "artifacts": [
+    {
+      "path": "problems/2020-B4/notes/reasoning-return-r3-candidate-v1.md",
+      "bytes": 17796,
+      "sha256": "2cb5803b20cdcc96961956773f02a3fe2e00f0ae9a4bee8df56af0ec2cd86796"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-return-r3-source-checks-v1.md",
+      "bytes": 4218,
+      "sha256": "7e8d50593e918ce944d7741a83f7910798e6a01f54b15ae6f2a8fc92af7e658f"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-return-r3-obligations-v1.md",
+      "bytes": 3330,
+      "sha256": "f229716ca330f885135deef0511c2ab5f3306d2ba0198543299fbd928565a5c8"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-return-r3-worklog-v1.md",
+      "bytes": 4505,
+      "sha256": "19b5d9e47b0a13527914c8b0d0da87339668f9bacaf5d3b7add5db486b002ff6"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-return-r3-sources-v1.json",
+      "bytes": 5688,
+      "sha256": "1a95cf1f2ffdb0fb8da9f870fded5b4e8dfe208a67995255165858d447a62ba5"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-return-r3-freeze-v1.py",
+      "bytes": 5664,
+      "sha256": "a24029f2ce9de8059b09e2de5acbb6fb8797cc563857c5a683592a25d62ae254"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-return-r3-input-validation-v1.json",
+      "bytes": 19761,
+      "sha256": "2c8f04f2ee6e3aec3c0f8af95460e99ca418ffbcaf85b0bdfe9d03d0fe53c7c3"
+    }
+  ],
+  "accepted_2020_and_deep_literature_bytes_unchanged": true,
+  "earlier_own_frozen_unique_records_preserved": 77,
+  "original_BBB_applicable_text_directly_read": true,
+  "original_BBB_pdf_sha256": null,
+  "original_Mann_proof_imported": false,
+  "source_integrity_limitation": "Byte-hash request stalled and was interrupted; no PID/output; no verified OS cleanup claimed",
+  "mathematical_computation_enumeration_or_CAS": false,
+  "preliminary_a_reproduced": false,
+  "no_q2304_or_old_norm_filter_rerun": true,
+  "novelty_or_new_published_cutoff_claimed": false,
+  "prime_power_conjecture_assumed": false,
+  "full_classification_proved": false,
+  "requires_two_fresh_independent_nonconstructor_whole_reviews": true,
+  "no_git_shared_status_spawning_contacts_charges_or_bypass": true,
+  "only_assigned_return_prefix_written": true,
+  "latest_authoritative_weekly_total_used_percent": 26,
+  "weekly_reset_unix": 1792745187,
+  "total_used_ceiling_percent": 90
+}

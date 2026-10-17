@@ -1,0 +1,53 @@
+{
+  "status": "initially blind whole nonconstructor audit; one statement-domain repair required",
+  "reviewer": "review_2021_reasoning_j15_r2",
+  "requested_settings": {"model": "gpt-6.1-sol", "reasoning": "max"},
+  "verified_effective_settings": null,
+  "peer_new_return_findings_read": false,
+  "open_substantive_issues": [
+    {
+      "id": "2020R2-01",
+      "claim": "F1 displayed F4 and its h=1 clause",
+      "severity": "medium",
+      "status": "author full versioned repair and both affected reaudits requested",
+      "problem": "h,f,m still denote the common fixed subgroup G^T for arbitrary T. A prime-order t orbit congruence uses D intersect G^<t>, which can be larger.",
+      "actual_counterexample": "q4,v21,D={7,9,14,15,18},sumD=0,T=<2> of order6. D is fixed setwise. H=G^T={0},f0. For t8 of order2, |D|5 is not f0 modulo2. For t4 of order3 it is not f0 modulo3 either.",
+      "certificate": "The ten positive undirected cyclic separations are 2,7,8,10,5,6,9,1,4,3, hence all1..10; multiplication by2 has cycles(7,14),(9,18,15).",
+      "required_repair": "Explicitly restrict F4 to T=<t>, or introduce h_t,f_t,m_t from G^<t> and use them in both clauses. Check every downstream use and retain this counterexample.",
+      "unaffected_scope": "General F1 closure/subplane bound; F1a uses the subgroup of p itself; F2 and trace use the subgroup of their one involution. Their proofs do not need the invalid general-T congruence."
+    }
+  ],
+  "per_claim_checks": [
+    {"id":"R2-C01","claim":"Common normalization","status":"pass","check":"Accepted P3 gives one sum-zero translate fixed setwise by all numerical multipliers, not pointwise."},
+    {"id":"R2-C02","claim":"F1 unique fixed differences","status":"pass","check":"For every t uniqueness fixes each representing point; no |T| coprimality needed."},
+    {"id":"R2-C03","claim":"F1 h=1 and h=3","status":"pass","check":"Empty/singleton and order1 boundaries retained separately."},
+    {"id":"R2-C04","claim":"F1 simultaneous gcd","status":"pass","check":"Bezout gives exactly the multiples of v/h."},
+    {"id":"R2-C05","claim":"F1 embedded subplane","status":"pass","check":"Ambient lines meeting two H points have translate parameter in H, giving actual smaller incidence structure."},
+    {"id":"R2-C06","claim":"F1 subplane size bound","status":"pass","check":"External point lies on at most one extended subplane line; the two cases give q>=m^2, m1 separate."},
+    {"id":"R2-C07","claim":"F4 orbit congruence scope","status":"repair","check":"Uses fixed points of t rather than arbitrary common T; exact counterexample 2020R2-01."},
+    {"id":"R2-C08","claim":"F1a cofactor gcd","status":"pass","check":"p unit; reducing p modulo p-1 gives exact gcd equality, and discriminant square necessity."},
+    {"id":"R2-C09","claim":"F1a 7p family","status":"pass","check":"p20mod57 gives h19 exactly; 4h-3=73 nonsquare, or consecutive f products12 and20."},
+    {"id":"R2-C10","claim":"F1a 761 instance","status":"pass","check":"All nine trial primes below28 checked by hand; q5327,n5328 and congruences correct."},
+    {"id":"R2-C11","claim":"F2 complementary projections","status":"pass","check":"Odd v permits half maps; images give actual direct sum with t acting minus/plus."},
+    {"id":"R2-C12","claim":"F2 symmetric fibers","status":"pass","check":"Distinct nonopposite pair repeats a nonzero difference; only0 singleton or one opposite double possible."},
+    {"id":"R2-C13","claim":"F2 fiber counts/degeneracy","status":"pass","check":"2R=a-1; b1 impossible; q=s root identity; q=s^2 with s>=2."},
+    {"id":"R2-C14","claim":"F2 exact involution","status":"pass","check":"Coprime odd factors and m^3 residues identify full t, not merely one projection."},
+    {"id":"R2-C15","claim":"F2 nonsquare odd orders","status":"pass","check":"Even full order has exact involution; local even order forces even full order."},
+    {"id":"R2-C16","claim":"F2a Sylow2","status":"pass","check":"Finite abelian doubling induction with unique involution proves cyclic2 subgroup."},
+    {"id":"R2-C17","claim":"F2a CRT2 coherence","status":"pass","check":"Halfway power is local minus1 iff local2-part is maximal; compares exactly with coprime A0/B0."},
+    {"id":"R2-C18","claim":"F3 distinct unordered sums","status":"pass","check":"Unique nonzero ordered difference proves equality only for identical unordered pairs, repeats included."},
+    {"id":"R2-C19","claim":"F3 full trace identity","status":"pass","check":"All coefficients0or2 and augmentation2|B| force every coefficient2; P is multiplicity projection, not E."},
+    {"id":"R2-C20","claim":"F3 value supports/characters","status":"pass","check":"Distinct E averages, coefficient counts, chi(P)=-chi(F)^2 and m^2 magnitude all checked."},
+    {"id":"R2-C21","claim":"F3a sign bijection necessity","status":"pass","check":"Repeated A coordinate would give a nonzero B difference with nonfixed representing points; slot count gives all pairs."},
+    {"id":"R2-C22","claim":"F3a delta0 coefficient","status":"pass","check":"Sign bijection and x->2x give q1+U_A exactly."},
+    {"id":"R2-C23","claim":"F3a remaining iff","status":"pass","check":"For each nonzero delta, F15 is every A coefficient of the full group-ring norm; both directions retained."},
+    {"id":"R2-C24","claim":"F3a quotient augmentation","status":"pass","check":"From P=2U-F^2 and FF^-1=m1+U, PP^-1=q1+|A|U, but this does not prove the individual A coefficients."},
+    {"id":"R2-C25","claim":"B1 real barrier","status":"pass","check":"Exact positive real coefficients, augmentation, invariant norm and identity coefficient>1."},
+    {"id":"R2-C26","claim":"B1 integer recovery","status":"pass","check":"sum c(c-1)=0 with nonnegative integer summands proves0/1 under the full original identity and positive augmentation."},
+    {"id":"R2-C27","claim":"Original BBB hypotheses","status":"pass","check":"Fresh original Section2 pp1-2 read; no prime-power assumption for applicable involution/trace, later unital theorem unused."},
+    {"id":"R2-C28","claim":"Source/access/scope","status":"pass","check":"Missing raw-source hash disclosed; no Mann survey substituted, no full conjecture or novelty inferred."}
+  ],
+  "mathematical_program_scan_or_CAS": false,
+  "hand_counterexample_only": "actual normalized difference set of order4 for the F4 scope defect",
+  "promotion_by_reviewer": false
+}

@@ -1,0 +1,25 @@
+{
+  "date_utc": "2026-10-17",
+  "status": "candidate proof - unverified; full author scope repair",
+  "constructor": "review_2017_coarsening_r1",
+  "requested_settings": {"model": "gpt-6.1-sol", "reasoning": "max"},
+  "verified_effective_settings": null,
+  "repair_ids": ["RMR1-01", "RM2-01", "N1"],
+  "new_external_theorem_import": false,
+  "mathematical_repair": "One rectifiable Jordan boundary; direct arclength disk-cover proof and actual multiple-window sum",
+  "counterexamples_preserved": ["R1 even-L r2 full12 grid, radiusL^-3 holes inside retained odd/odd tiles", "R2 even-N r2 grid, radius1/(10N) holes centered at rank(2s+5/4,2t+1/2), only in skeleton tiles away from retained tiles"],
+  "reviews_read_after_both_initial_freezes": [
+    {"path": "problems/2017-B4/reviews/rank-mesh-review-1-manifest-v1.json", "sha256": "e76dde7938e9e5a7e48ba6b8eea6cee6e4fa695cf898dcc44973df3d25aeb328", "read_scope": "Complete initial report, issues, source checks and manifest"},
+    {"path": "problems/2017-B4/reviews/rank-mesh-review-2-manifest-v1.json", "sha256": "7f591a955988bc30e867b8928d530b6e22926ecd8170987b1a6e3e13fa522dcb", "read_scope": "Complete initial report, issues, source checks and manifest"}
+  ],
+  "original_main": {"path": "problems/2017-B4/notes/rank-mesh-reasoning-r1-candidate-v1.md", "sha256": "e0f2e55e62aabe5547120f4fc72c506c3f680844a90aa98ece7147d404178d27", "modified": false},
+  "unchanged_UR3_supplement": {"path": "problems/2017-B4/notes/rank-mesh-reasoning-r1-UR3-v1.md", "sha256": "40ad9b252b6c34f5dee5c8cd3eedea8e8feeabb0cec1497b224bf5c32ba58aab", "reason": "GE3 Jordan disks and their own connected-boundary loss already have the required scope"},
+  "original_primary_source": {"url": "https://arxiv.org/pdf/math/0008220v3", "title": "Cohn-Kenyon-Propp, A variational principle for domino tilings", "existing_stream_bytes": 540698, "existing_stream_sha256": "be2e7c17c1d9762bd454847658db9efcfe27724272debc1d8fe6a8d9483bb48f", "new_retrieval_or_analytic_extension": false},
+  "affected_uses_checked": ["RM1a Jordan-window helper", "RM2 outer-zonogon boundary discard", "Main final limitations actual summed window cost", "UR3 explicitly Jordan class and mesh boundary triangles", "RM3 unchanged Jordan disk blocks"],
+  "new_mathematical_computation_enumeration_or_CAS": false,
+  "author_promotion": false,
+  "requires_both_original_auditors_affected_reaudits": true,
+  "H_or_full_solution_proved": false,
+  "no_git_shared_edits_spawning_contacts_charges_or_bypass": true,
+  "weekly_telemetry": {"source": "Direct authoritative account-wide tool", "at_utc": "2026-10-17 06:44:58 UTC", "used_percent": 27, "window_minutes": 10080, "reset_unix": 1792745187, "total_used_ceiling_percent": 90}
+}

@@ -1,0 +1,45 @@
+{
+  "frozen_at_utc": "2026-10-17T06:52:23.473609+00:00",
+  "status": "candidate proof - unverified",
+  "constructor": "coordinator root",
+  "claims": [
+    "LW1"
+  ],
+  "whole_fresh_initially_blind_nonconstructor_audits_required": 2,
+  "conditional_dependency": "Exact RM1 disk/port/diameter conclusions only; repaired whole packet awaiting both affected reaudits.",
+  "global_contents_required_O_window_scale": false,
+  "H_PR_UR4_claimed": false,
+  "mathematical_computation_used": false,
+  "files": [
+    {
+      "path": "problems/2017-B4/notes/coordinator-local-rank-mesh-candidate-v1.md",
+      "bytes": 11850,
+      "sha256": "09c206718f1acecb9f23ae9bdb54122a4e9a9420b4549326413a664cb44230c5"
+    },
+    {
+      "path": "problems/2017-B4/notes/rank-mesh-reasoning-r1-candidate-v1.1.md",
+      "bytes": 21576,
+      "sha256": "f6c1681ae288b37d2e845e31ca1ef4503d659c9669ec6801266f3564de771ee3"
+    },
+    {
+      "path": "problems/2017-B4/notes/rank-mesh-reasoning-r1-freeze-v1.1.json",
+      "bytes": 3243,
+      "sha256": "0273dd67122b549dbf7b9cf6dab57f6671aab52ed793e942524c1bd69718bb14"
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-fixedD-structural-v1.2.md",
+      "bytes": 16602,
+      "sha256": "421dc271ed65831e3aa70057a0d74c4d999ba8249dfa2b99066dfdc298f86868"
+    },
+    {
+      "path": "problems/2017-B4/reviews/fixedD-structural-acceptance.md",
+      "bytes": 1602,
+      "sha256": "0ed34669cc8c3753cb623690b8cd70ece8e344fd44b28ede63f3775af32d5aa3"
+    },
+    {
+      "path": "problems/2017-B4/statement.md",
+      "bytes": 2140,
+      "sha256": "e459750064b4e25e3eaa71f25f236c046548147e415b06d8bd097839020228f3"
+    }
+  ]
+}

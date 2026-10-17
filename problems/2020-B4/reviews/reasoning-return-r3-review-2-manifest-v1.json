@@ -1,0 +1,67 @@
+{
+  "frozen_at_utc": "2026-10-17T06:51:56.796872+00:00",
+  "status": "initially blind whole review; one scoped statement repair required; no promotion",
+  "reviewer": "review_2021_reasoning_j15_r2",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "candidate_sha256": "2cb5803b20cdcc96961956773f02a3fe2e00f0ae9a4bee8df56af0ec2cd86796",
+  "whole_claims": [
+    "F1",
+    "F1a",
+    "F2",
+    "F2a",
+    "F3",
+    "F3a",
+    "B1"
+  ],
+  "per_inference_ledger_rows": 28,
+  "substantive_objections": [
+    "2020R2-01"
+  ],
+  "author_full_versioned_repair_and_both_affected_reaudits_required": true,
+  "peer_findings_read_before_freeze": false,
+  "mathematical_program_scan_or_CAS": false,
+  "candidate_or_shared_changes": false,
+  "git_operations": false,
+  "spawned_agents": false,
+  "latest_weekly_total_used_percent": 27,
+  "weekly_window_minutes": 10080,
+  "weekly_reset_unix": 1792745187,
+  "total_used_ceiling_percent": 90,
+  "command": "python3 problems/2020-B4/reviews/reasoning-return-r3-review-2-freeze-v1.py",
+  "records": [
+    {
+      "path": "problems/2020-B4/reviews/reasoning-return-r3-review-2-initial-v1.md",
+      "bytes": 17630,
+      "sha256": "3177646707c8e6ca7469ced384e91aaf8274f85256c3dc720656e619f836a6f5"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-return-r3-review-2-issues-v1.json",
+      "bytes": 6394,
+      "sha256": "40e524611ba25f1d74961dee6930033dbb7b3a3ddcf8ae7a47e2c16af6dec3ef"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-return-r3-review-2-source-checks-v1.md",
+      "bytes": 4872,
+      "sha256": "c24a532f651396baf656c300407f003f05d5c054ca18e9a76a7ab193d25362a2"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-return-r3-review-2-freeze-v1.py",
+      "bytes": 5769,
+      "sha256": "effa6b5e5a34692255c1152476fe379a01f5d716a110f1b719bbe13139532038"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-return-r3-review-2-input-validation-v1.json",
+      "bytes": 69819,
+      "sha256": "927191aaa5109363cd8a4b1d7a4d9e55791bc751c967a2c5b393667a34fac62f"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-return-r3-review-2-freeze-output-v1.json",
+      "bytes": 457,
+      "sha256": "34a2bdba5afc75f17ba087518d748c6e1281b55d013902e443990f48740731e0"
+    }
+  ]
+}

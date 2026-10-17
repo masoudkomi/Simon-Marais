@@ -1,0 +1,68 @@
+{
+  "frozen_at_utc": "2026-10-17T06:55:03.549351+00:00",
+  "status": "initially blind whole independent nonconstructor audit; no substantive defect found; no promotion",
+  "reviewer": "review_2017_coarsening_r1",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "candidate": {
+    "path": "problems/2021-B4/notes/coordinator-odd-support-exclusion-candidate-v1.md",
+    "bytes": 7014,
+    "sha256": "a7845441df7725edc5d30e28f7b8f28c529b0b710168ad4b068d279582c1857c"
+  },
+  "candidate_manifest": {
+    "path": "problems/2021-B4/notes/coordinator-odd-support-exclusion-freeze-v1.json",
+    "bytes": 3199,
+    "sha256": "337a43225bd6637d666bc992738a49afab8e7b569f526281add45564ab17b592"
+  },
+  "whole_claims_reconstructed": [
+    "PN1 all64 supports",
+    "PN2 exact derivative/Taylor obstruction",
+    "PN3 accepted PP1 scope application",
+    "PN4 accepted PP2 scope application"
+  ],
+  "substantive_issues": [],
+  "peer_findings_read_before_initial_freeze": false,
+  "constructed_argument": false,
+  "artifacts": [
+    {
+      "path": "problems/2021-B4/reviews/odd-support-exclusion-review-2-initial.md",
+      "bytes": 11265,
+      "sha256": "e98dc79e10b49f4c404fdb4e480131b146cf5c48e2df293bad57b8c07f827e52"
+    },
+    {
+      "path": "problems/2021-B4/reviews/odd-support-exclusion-review-2-issues.md",
+      "bytes": 2463,
+      "sha256": "3b0c120fa68806553330633878f697b7c84f1b5f422b5cb8bf3af1cabe7b3f6b"
+    },
+    {
+      "path": "problems/2021-B4/reviews/odd-support-exclusion-review-2-source-checks.md",
+      "bytes": 3037,
+      "sha256": "6e89bb03f000edc8700897a4d2c4c27394464bcf1c44039b28bfda0fe7b7030b"
+    },
+    {
+      "path": "problems/2021-B4/reviews/odd-support-exclusion-review-2-freeze.py",
+      "bytes": 4185,
+      "sha256": "972ba93d6e50e7cf15c3705655a30f8ee13b1b8aa85afdf26d103fa6c904de6b"
+    },
+    {
+      "path": "problems/2021-B4/reviews/odd-support-exclusion-review-2-input-validation.json",
+      "bytes": 27972,
+      "sha256": "575b2de6ad5b02d25df5921d2927b41ba9f538d79e1c4767726c78850f7c9588"
+    }
+  ],
+  "declared_constructor_records_verified": 13,
+  "earlier_unique_frozen_records_preserved": 126,
+  "all64_entries_independently_reconstructed_by_hand": true,
+  "new_mathematical_program_CAS_or_author_rerun": false,
+  "only_assigned_review_prefix_written": true,
+  "git_shared_edits_spawning_contacts_charges_or_bypass": false,
+  "reviewer_promotion": false,
+  "full_degree20_masks_general_repeated_branch_or_annual_solution_claim": false,
+  "latest_authoritative_weekly_total_used_percent": 27,
+  "telemetry_at_utc": "2026-10-17 06:44:58 UTC",
+  "weekly_reset_unix": 1792745187,
+  "total_used_ceiling_percent": 90
+}

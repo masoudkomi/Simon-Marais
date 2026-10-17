@@ -1,0 +1,47 @@
+{
+  "frozen_at_utc": "2026-10-17T06:43:19.957060+00:00",
+  "status": "candidate proof - unverified",
+  "constructor": "coordinator root",
+  "claims": [
+    "SP1",
+    "SP2",
+    "SP3"
+  ],
+  "dimension": "every fixed D>=3",
+  "whole_fresh_initially_blind_nonconstructor_audits_required": 2,
+  "conditional_dependency": "Exact RM1 disk, port, active-curve conclusions; packet pending separate auxiliary-window repair. No arbitrary-window bound used.",
+  "H_PR_URD_claimed": false,
+  "mathematical_computation_used": false,
+  "files": [
+    {
+      "path": "problems/2017-B4/notes/coordinator-single-pair-allD-candidate-v1.md",
+      "bytes": 10381,
+      "sha256": "c0d51d61f110cf5a190344403d346940b06b95a6d1880c6c725d241c92c397b4"
+    },
+    {
+      "path": "problems/2017-B4/notes/rank-mesh-reasoning-r1-candidate-v1.md",
+      "bytes": 20183,
+      "sha256": "e0f2e55e62aabe5547120f4fc72c506c3f680844a90aa98ece7147d404178d27"
+    },
+    {
+      "path": "problems/2017-B4/notes/rank-mesh-reasoning-r1-UR3-v1.md",
+      "bytes": 17045,
+      "sha256": "40ad9b252b6c34f5dee5c8cd3eedea8e8feeabb0cec1497b224bf5c32ba58aab"
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-fixedD-structural-v1.2.md",
+      "bytes": 16602,
+      "sha256": "421dc271ed65831e3aa70057a0d74c4d999ba8249dfa2b99066dfdc298f86868"
+    },
+    {
+      "path": "problems/2017-B4/reviews/fixedD-structural-acceptance.md",
+      "bytes": 1602,
+      "sha256": "0ed34669cc8c3753cb623690b8cd70ece8e344fd44b28ede63f3775af32d5aa3"
+    },
+    {
+      "path": "problems/2017-B4/statement.md",
+      "bytes": 2140,
+      "sha256": "e459750064b4e25e3eaa71f25f236c046548147e415b06d8bd097839020228f3"
+    }
+  ]
+}

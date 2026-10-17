@@ -1,0 +1,82 @@
+{
+  "frozen_at_utc": "2026-10-17T06:47:12.640535+00:00",
+  "status": "candidate proof - unverified; full versioned author repair awaiting both affected reaudits",
+  "constructor": "review_2017_coarsening_r1",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "repair_ids": [
+    "RMR1-01",
+    "RM2-01",
+    "N1"
+  ],
+  "repair_scope": "One rectifiable Jordan window and actual summed costs; general-D alphabet wording; no other extension",
+  "artifacts": [
+    {
+      "path": "problems/2017-B4/notes/rank-mesh-reasoning-r1-candidate-v1.1.md",
+      "bytes": 21576,
+      "sha256": "f6c1681ae288b37d2e845e31ca1ef4503d659c9669ec6801266f3564de771ee3"
+    },
+    {
+      "path": "problems/2017-B4/notes/rank-mesh-reasoning-r1-repair-v1.1.md",
+      "bytes": 5483,
+      "sha256": "f9d637f76ee320d022dd481b836b04b584cf392bc5acf130106326701c94767d"
+    },
+    {
+      "path": "problems/2017-B4/notes/rank-mesh-reasoning-r1-worklog-v1.1.md",
+      "bytes": 2702,
+      "sha256": "362dd35a1e5ce9149ac21943212f35d4b6921991147d6f66b98f11c2ceff20dd"
+    },
+    {
+      "path": "problems/2017-B4/notes/rank-mesh-reasoning-r1-sources-v1.1.json",
+      "bytes": 2725,
+      "sha256": "496f8d9118befa41064a4d421a7bf9f5923c0fa54afe7e48b9c9b11d3d9ae089"
+    },
+    {
+      "path": "problems/2017-B4/notes/rank-mesh-reasoning-r1-diff-v1.1.patch",
+      "bytes": 5059,
+      "sha256": "199d72802f84d93f0eb2d72dd979498e3c8fb67f102933c8db39e11ebf342a20"
+    },
+    {
+      "path": "problems/2017-B4/notes/rank-mesh-reasoning-r1-build-v1.1.py",
+      "bytes": 4431,
+      "sha256": "f61bc5ff693953ae363f80ed6754fe926f84d8b07e27545f07ab77330d7c32a7"
+    },
+    {
+      "path": "problems/2017-B4/notes/rank-mesh-reasoning-r1-freeze-v1.1.py",
+      "bytes": 5713,
+      "sha256": "bda6c49de2cbbb95c3c8ad8f5a1ed9cec6a2e088037621e03a43c5f8924bdc90"
+    },
+    {
+      "path": "problems/2017-B4/notes/rank-mesh-reasoning-r1-input-validation-v1.1.json",
+      "bytes": 24696,
+      "sha256": "02117a81994c513c9fbf4ec2b84aaac4612854b19fa6a2879a74db45004564cf"
+    }
+  ],
+  "original_main": {
+    "path": "problems/2017-B4/notes/rank-mesh-reasoning-r1-candidate-v1.md",
+    "bytes": 20183,
+    "sha256": "e0f2e55e62aabe5547120f4fc72c506c3f680844a90aa98ece7147d404178d27"
+  },
+  "unchanged_analytic_supplement": {
+    "path": "problems/2017-B4/notes/rank-mesh-reasoning-r1-UR3-v1.md",
+    "bytes": 17045,
+    "sha256": "40ad9b252b6c34f5dee5c8cd3eedea8e8feeabb0cec1497b224bf5c32ba58aab"
+  },
+  "original_packet_and_both_initial_audits_unchanged": true,
+  "prior_unique_records_preserved": 111,
+  "both_exact_counterexamples_preserved": true,
+  "requires_both_original_auditors_affected_reaudits": true,
+  "author_promotion": false,
+  "no_new_analytic_theorem_or_general_window_extension": true,
+  "no_mathematical_computation_enumeration_or_CAS": true,
+  "no_git_shared_edits_spawning_contacts_charges_or_bypass": true,
+  "only_assigned_new_rank_mesh_prefix_written": true,
+  "H_or_full_2017_solution_proved": false,
+  "latest_authoritative_weekly_total_used_percent": 27,
+  "latest_telemetry_at_utc": "2026-10-17 06:44:58 UTC",
+  "weekly_reset_unix": 1792745187,
+  "total_used_ceiling_percent": 90
+}

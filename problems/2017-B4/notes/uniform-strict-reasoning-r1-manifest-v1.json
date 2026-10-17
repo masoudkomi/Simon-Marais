@@ -1,0 +1,68 @@
+{
+  "frozen_at_utc": "2026-10-17T06:45:31.908851+00:00",
+  "status": "candidate proof - unverified",
+  "constructor": "review_2021_reasoning_j15_r2",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "claims": [
+    "US1",
+    "US2",
+    "US3"
+  ],
+  "whole_fresh_nonconstructor_audits_required": 2,
+  "D": 4,
+  "strict_compact_domain_only": true,
+  "physical_period_q_only_changes_scale_threshold": true,
+  "parameter_order": [
+    "target_loss",
+    "uniform_epsilon",
+    "finite_rational_net",
+    "periods_and_phases",
+    "maximum_finite_scale_threshold"
+  ],
+  "no_global_H_PR_or_official_limit": true,
+  "rank_mesh_dependency": false,
+  "mathematical_program_enumeration_or_CAS": false,
+  "shared_changes_or_Git": false,
+  "spawned_agents": false,
+  "latest_weekly_total_used_percent": 26,
+  "weekly_window_minutes": 10080,
+  "weekly_reset_unix": 1792745187,
+  "total_used_ceiling_percent": 90,
+  "command": "python3 problems/2017-B4/notes/uniform-strict-reasoning-r1-freeze-v1.py",
+  "records": [
+    {
+      "path": "problems/2017-B4/notes/uniform-strict-reasoning-r1-candidate-v1.md",
+      "bytes": 22943,
+      "sha256": "643d0906e3eebee91dd91f53e5e1b241de35c3b7912d5010d2e651e830258c9d"
+    },
+    {
+      "path": "problems/2017-B4/notes/uniform-strict-reasoning-r1-researchlog-v1.md",
+      "bytes": 3370,
+      "sha256": "a4e8050da9e0712c1ced35e5bf6c0b23131fa0ae5603260f9533c7c56090e6fe"
+    },
+    {
+      "path": "problems/2017-B4/notes/uniform-strict-reasoning-r1-sources-v1.md",
+      "bytes": 5303,
+      "sha256": "1e4034d3d452bd288244b15873104ad24cf715c4fcc48e24106081081b631c17"
+    },
+    {
+      "path": "problems/2017-B4/notes/uniform-strict-reasoning-r1-freeze-v1.py",
+      "bytes": 5369,
+      "sha256": "6165791871f21dc0589334cdb056767e9e0d4d39a4833853fb14e42c57aea4d3"
+    },
+    {
+      "path": "problems/2017-B4/notes/uniform-strict-reasoning-r1-input-validation-v1.json",
+      "bytes": 46846,
+      "sha256": "aa36ecf68f1be0235508e12cd674c80ef26bf1ffd5485aa330524fab61a9e9c3"
+    },
+    {
+      "path": "problems/2017-B4/notes/uniform-strict-reasoning-r1-freeze-output-v1.json",
+      "bytes": 579,
+      "sha256": "06c61aa3fcc564eb65432f017f7a24e1f33456666fe9a664e5bc8ddc5adb1aa0"
+    }
+  ]
+}
