@@ -1,0 +1,43 @@
+{
+  "status": "candidate proof - unverified; structural partial lemmas and exact remaining H gap",
+  "frozen_at_utc": "2026-10-16T22:04:16.768299+00:00",
+  "constructor": "review_2017_coarsening_r1",
+  "requested_launch_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "H_proved": false,
+  "mathematical_computation_run": false,
+  "preserved_review_hash_checks": {
+    "coarsening-review-1-initial.md": true,
+    "coarsening-review-1-issues.md": true,
+    "coarsening-review-1-sources.json": true
+  },
+  "peer_coarsening_review_read": false,
+  "artifacts": [
+    {
+      "path": "problems/2017-B4/notes/fixedD-reasoning-r1-structural-candidate-v1.md",
+      "bytes": 15107,
+      "sha256": "c776e81d0fd44c0e8042ddc00a0d949966cdc106ba9b7e67486dc4d14a1b7d87"
+    },
+    {
+      "path": "problems/2017-B4/notes/fixedD-reasoning-r1-profile-reduction-v1.md",
+      "bytes": 12092,
+      "sha256": "973e8d7da034082b4416100d51650798ec3eb90e75cfd44106b5810dd9ec7e8d"
+    },
+    {
+      "path": "problems/2017-B4/notes/fixedD-reasoning-r1-sources-v1.json",
+      "bytes": 2750,
+      "sha256": "e33ef844964e5cdfa0420696c2ee08ab90600ac766b9d7aa3667e8776c7ac3c0"
+    }
+  ],
+  "proposed_results": [
+    "Integer-parallelogram reformulation with fixedD vector lift",
+    "Exact same-frame D4 convex-mixing obstruction, including regular unit octagon",
+    "FixedD weak-order join/meet displacement bound 2(D-1)r",
+    "Rational slope periodic backgrounds and rational density (candidate)",
+    "Upper semicontinuous profile limsup maximization identity; recovery remains separate"
+  ],
+  "remaining_gap": "Closed annulus/corner/color-rank matching with entropy-controlled boundary strata and all-scale fixed-frame recovery; EAI_D is an unproved local target, not a theorem"
+}

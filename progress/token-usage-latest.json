@@ -1,16 +1,16 @@
 {
-  "snapshot_cutoff_utc": "2026-10-16T21:39:37.197161+00:00",
-  "observed_sessions": 57,
-  "distinct_responses": 2356,
+  "snapshot_cutoff_utc": "2026-10-16T22:13:22.501470+00:00",
+  "observed_sessions": 62,
+  "distinct_responses": 2553,
   "usage": {
-    "input_tokens": 324521078,
-    "cached_input_tokens": 309796864,
+    "input_tokens": 351274833,
+    "cached_input_tokens": 335256064,
     "cache_write_input_tokens": 0,
-    "output_tokens": 2722726,
-    "reasoning_output_tokens": 1180857,
-    "total_tokens": 327243804
+    "output_tokens": 2971432,
+    "reasoning_output_tokens": 1309467,
+    "total_tokens": 354246265
   },
-  "uncached_input_plus_output_tokens": 17446940,
+  "uncached_input_plus_output_tokens": 18990201,
   "sessions_without_usage_records": 0,
   "all_recorded_session_sums_match_cumulative": true,
   "method": "Deduplicated own-thread per-response usage records across root and recursively spawned descendants; cached input is a subset of input, reasoning output a subset of output.",
@@ -18,15 +18,15 @@
   "agents": [
     {
       "agent": "/root",
-      "distinct_responses": 623,
-      "latest_record_utc": "2026-10-16T21:39:37.179Z",
+      "distinct_responses": 675,
+      "latest_record_utc": "2026-10-16T22:13:22.401Z",
       "usage": {
-        "input_tokens": 116200199,
-        "cached_input_tokens": 112159744,
+        "input_tokens": 125768993,
+        "cached_input_tokens": 121476096,
         "cache_write_input_tokens": 0,
-        "output_tokens": 580088,
-        "reasoning_output_tokens": 231229,
-        "total_tokens": 116780287
+        "output_tokens": 630019,
+        "reasoning_output_tokens": 245324,
+        "total_tokens": 126399012
       },
       "matches_latest_thread_cumulative": true
     },
@@ -227,6 +227,20 @@
       "matches_latest_thread_cumulative": true
     },
     {
+      "agent": "/root/owner_2022_arithmetic_reasoning",
+      "distinct_responses": 23,
+      "latest_record_utc": "2026-10-16T21:59:17.340Z",
+      "usage": {
+        "input_tokens": 2053482,
+        "cached_input_tokens": 1954048,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 31793,
+        "reasoning_output_tokens": 19584,
+        "total_tokens": 2085275
+      },
+      "matches_latest_thread_cumulative": true
+    },
+    {
       "agent": "/root/owner_2023",
       "distinct_responses": 24,
       "latest_record_utc": "2026-10-16T09:59:11.762Z",
@@ -298,15 +312,29 @@
     },
     {
       "agent": "/root/review_2017_coarsening_r1",
-      "distinct_responses": 2,
-      "latest_record_utc": "2026-10-16T21:39:37.019Z",
+      "distinct_responses": 41,
+      "latest_record_utc": "2026-10-16T22:12:53.249Z",
       "usage": {
-        "input_tokens": 67197,
-        "cached_input_tokens": 62720,
+        "input_tokens": 6077416,
+        "cached_input_tokens": 5629312,
         "cache_write_input_tokens": 0,
-        "output_tokens": 405,
-        "reasoning_output_tokens": 81,
-        "total_tokens": 67602
+        "output_tokens": 72423,
+        "reasoning_output_tokens": 49944,
+        "total_tokens": 6149839
+      },
+      "matches_latest_thread_cumulative": true
+    },
+    {
+      "agent": "/root/review_2017_coarsening_r2",
+      "distinct_responses": 20,
+      "latest_record_utc": "2026-10-16T21:47:11.373Z",
+      "usage": {
+        "input_tokens": 1605188,
+        "cached_input_tokens": 1513856,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 18067,
+        "reasoning_output_tokens": 8182,
+        "total_tokens": 1623255
       },
       "matches_latest_thread_cumulative": true
     },
@@ -591,6 +619,34 @@
       "matches_latest_thread_cumulative": true
     },
     {
+      "agent": "/root/review_2021_reasoning_j15_r1",
+      "distinct_responses": 12,
+      "latest_record_utc": "2026-10-16T21:47:38.390Z",
+      "usage": {
+        "input_tokens": 846516,
+        "cached_input_tokens": 725888,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 22401,
+        "reasoning_output_tokens": 8901,
+        "total_tokens": 868917
+      },
+      "matches_latest_thread_cumulative": true
+    },
+    {
+      "agent": "/root/review_2021_reasoning_j15_r2",
+      "distinct_responses": 32,
+      "latest_record_utc": "2026-10-16T22:13:03.278Z",
+      "usage": {
+        "input_tokens": 4782575,
+        "cached_input_tokens": 4574848,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 33154,
+        "reasoning_output_tokens": 19308,
+        "total_tokens": 4815729
+      },
+      "matches_latest_thread_cumulative": true
+    },
+    {
       "agent": "/root/review_2021_three_witness_r1",
       "distinct_responses": 45,
       "latest_record_utc": "2026-10-16T16:38:15.126Z",
@@ -643,6 +699,20 @@
         "output_tokens": 17967,
         "reasoning_output_tokens": 8157,
         "total_tokens": 996694
+      },
+      "matches_latest_thread_cumulative": true
+    },
+    {
+      "agent": "/root/review_2022_complexity_r2",
+      "distinct_responses": 8,
+      "latest_record_utc": "2026-10-16T22:13:08.972Z",
+      "usage": {
+        "input_tokens": 467164,
+        "cached_input_tokens": 413952,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 4885,
+        "reasoning_output_tokens": 3438,
+        "total_tokens": 472049
       },
       "matches_latest_thread_cumulative": true
     },
@@ -788,29 +858,29 @@
     },
     {
       "agent": "/root/review_2025_strongfc_r1",
-      "distinct_responses": 21,
-      "latest_record_utc": "2026-10-16T21:38:29.383Z",
+      "distinct_responses": 24,
+      "latest_record_utc": "2026-10-16T21:40:33.535Z",
       "usage": {
-        "input_tokens": 1839762,
-        "cached_input_tokens": 1676800,
+        "input_tokens": 2281969,
+        "cached_input_tokens": 2106624,
         "cache_write_input_tokens": 0,
-        "output_tokens": 35000,
-        "reasoning_output_tokens": 16681,
-        "total_tokens": 1874762
+        "output_tokens": 41457,
+        "reasoning_output_tokens": 20142,
+        "total_tokens": 2323426
       },
       "matches_latest_thread_cumulative": true
     },
     {
       "agent": "/root/review_2025_strongfc_r2",
-      "distinct_responses": 22,
-      "latest_record_utc": "2026-10-16T21:38:21.949Z",
+      "distinct_responses": 30,
+      "latest_record_utc": "2026-10-16T21:41:12.711Z",
       "usage": {
-        "input_tokens": 1530525,
-        "cached_input_tokens": 1454464,
+        "input_tokens": 2508135,
+        "cached_input_tokens": 2418304,
         "cache_write_input_tokens": 0,
-        "output_tokens": 29664,
-        "reasoning_output_tokens": 18145,
-        "total_tokens": 1560189
+        "output_tokens": 39664,
+        "reasoning_output_tokens": 19923,
+        "total_tokens": 2547799
       },
       "matches_latest_thread_cumulative": true
     }

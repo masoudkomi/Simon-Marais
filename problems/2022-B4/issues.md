@@ -1,5 +1,14 @@
 # 2022 B4 issue log
 
+The new arithmetic-complexity partial result passed two fresh independent
+blind whole reconstructions. Both complete reports/issue ledgers were read
+and every manifest record checked by the coordinator. Fixed rational
+denominators, bounded rational exceptions, strict monotonicity, exact factor
+lengths, the product600 boundary and mechanical-code irrationality have no
+remaining substantive objection in scope. Dubickas attribution is integrated;
+the scalar theorem is not directly applied. High-complexity integer avoiding
+paths remain unresolved. See reviews/arithmetic-complexity-acceptance.md/json.
+
 The coordinator accepted the repaired v3 density theorem and supplementary v1 partial claims after both initial audits and both independent repair re-audits. All substantive objections are closed in the accepted versions. V2 remains a failed historical proof; its defect is not erased. The universal equality gap remains open. See reviews/acceptance.md.
 
 | ID | Version / location | Objection | Severity | Repair / evidence | Re-review | Status |

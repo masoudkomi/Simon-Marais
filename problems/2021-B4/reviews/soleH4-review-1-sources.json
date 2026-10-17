@@ -1,0 +1,101 @@
+{
+  "reviewer": "review_2017_coarsening_r1",
+  "checked_at_utc": "2026-10-16T22:19:54.052009+00:00",
+  "candidate": {
+    "path": "problems/2021-B4/notes/coordinator-J15-soleH4-candidate-v1.md",
+    "bytes": 6778,
+    "sha256": "042b15f45a39f6773ec8e5eea6c4294eab5e794e98a961534b899ef2568b508e"
+  },
+  "independent_blind_initial_whole_audit": true,
+  "peer_single_center_conclusions_read": false,
+  "requested_model": "gpt-6.1-sol",
+  "requested_reasoning": "max",
+  "effective_settings_verified": false,
+  "official_source": {
+    "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2021-paper-b.pdf",
+    "locator": "page2, B4 hypothesis and open part(b)",
+    "verification": "Current public PDF text opened through web; cached PDF page2 rendered using pdftoppm and visually checked. No research on other problems or preliminary part(a).",
+    "cache": {
+      "path": ".cache/official/2021-paper_b.pdf",
+      "bytes": 157688,
+      "sha256": "2d507d593500f762e90b041d03a451e884ea33c8769f9a2132427e14d8f926d1"
+    }
+  },
+  "dependency_scope": "Accepted normalization, multiplicity-counted Newton edge, width-one lemma, T1 rational covering restriction, and J15 D1/D2. Their statements/applicability and D1/D2 proofs were checked; accepted large finite-certificate streams were not regenerated. No fresh external theorem is imported by this candidate.",
+  "inputs": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2021-B4/statement.md",
+      "bytes": 1745,
+      "sha256": "5cd9750a2458191370590120fb4ae7d547740784eb1de38ee9e2e7890a2fabed"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-J15-soleH4-candidate-v1.md",
+      "bytes": 6778,
+      "sha256": "042b15f45a39f6773ec8e5eea6c4294eab5e794e98a961534b899ef2568b508e"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-J15-soleH4-freeze-v1.json",
+      "bytes": 977,
+      "sha256": "dc50056b31fc1f0b34a93978d0dd52ea097e7d44a88305b30b6f837d75f89bbd"
+    },
+    {
+      "path": "problems/2021-B4/proofs/reviewed-reasoning-J15-v1.1.md",
+      "bytes": 18931,
+      "sha256": "fbc5d212b5b560c8e4e42397d19663f3fc882fa8f206bdcbb4ed897c715627f6"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-J15-acceptance.json",
+      "bytes": 2468,
+      "sha256": "c69ca02744dbb4066dd62db5adb471920ab6a3660ed482818ddf956e619a0465"
+    },
+    {
+      "path": "problems/2021-B4/notes/rational-witness-p-plus-one-reviewed-v1.2.md",
+      "bytes": 8615,
+      "sha256": "fa71a4269a061b09ed74b3cd333b62c2ed7d3ffd39d1c28624a58a6d8fc18d09"
+    },
+    {
+      "path": "problems/2021-B4/notes/padic-rational-newton-reviewed-v1.1.md",
+      "bytes": 2667,
+      "sha256": "691c7c04be6b7d63b528724a59f43636e0e71dd2135f7c0d14e25487f738e963"
+    },
+    {
+      "path": "problems/2021-B4/notes/padic-rational-newton-obstructions-v1.md",
+      "bytes": 16974,
+      "sha256": "ce3ff564b48841ae3ae1bf66c3cf5303ed2833c2166590cb2460706f01b5c335"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-three-rational-witnesses-reviewed-v1.1.md",
+      "bytes": 1962,
+      "sha256": "7ff6b3d92d3268405381c2732d83516d21e6eb7d74e897d4c01ec8bb70342be4"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-three-rational-witnesses-v1.md",
+      "bytes": 11325,
+      "sha256": "be91345a8511338d55f30b140ee2555698c21d0e341efe29fe2536bca4fffbda"
+    },
+    {
+      "path": ".cache/official/2021-paper_b.pdf",
+      "bytes": 157688,
+      "sha256": "2d507d593500f762e90b041d03a451e884ea33c8769f9a2132427e14d8f926d1"
+    }
+  ],
+  "mathematical_method": "Exact hand derivation; no enumeration or CAS. Hashing and PDF rendering are administrative only.",
+  "commands": [
+    "rg --files to locate explicitly named accepted dependencies",
+    "cat/sed to read candidate, freeze, official statement, AGENTS and named dependencies",
+    "pdftoppm -f 2 -singlefile -scale-to 1500 -png .cache/official/2021-paper_b.pdf /private/tmp/soleH4-review-1-official-b4",
+    "Python standard library Path/hashlib/json/datetime for fingerprints and freeze only"
+  ],
+  "weekly_telemetry": {
+    "source": "coordinator supplied authoritative account-wide snapshot",
+    "used_percent": 17,
+    "at_utc": "2026-10-16T22:11:00Z",
+    "reset_unix": 1792745187,
+    "total_ceiling_percent": 90
+  }
+}

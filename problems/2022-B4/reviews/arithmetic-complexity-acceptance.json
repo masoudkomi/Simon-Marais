@@ -1,0 +1,63 @@
+{
+  "accepted_at_utc": "2026-10-16T22:18:15.564730+00:00",
+  "status": "proved, independently reviewed (partial results; attributed adaptation)",
+  "accepted_scope": [
+    "Rational Z10 lift: ultimately periodic full state or liminf correction-factor complexity slope >=log10/log(11/10)",
+    "Actual positive integer orbits with initial product>=600: correction and residue-state lower complexity slope",
+    "Explicit mechanical avoiding paths have nonrational Z10 lifts; each finite prefix still admits admissible positive integer lifts"
+  ],
+  "unresolved": [
+    "Arbitrary high-complexity integer avoiding paths",
+    "Universal equality in official B4(b)",
+    "Novelty unestablished; mechanism attributed to Dubickas2009"
+  ],
+  "candidate": {
+    "path": "problems/2022-B4/notes/arithmetic-reasoning-complexity-candidate-v1.md",
+    "bytes": 12810,
+    "sha256": "e9c24e96982d1d2a74aa97cb5fd045a3319f37c69316fbada884eeec0a0412d3"
+  },
+  "attribution": {
+    "path": "problems/2022-B4/notes/arithmetic-reasoning-complexity-attribution-v1.md",
+    "bytes": 2969,
+    "sha256": "b2ddb5337b0e669bab594916ed0e590a358feb812b0d8c338948372422786aed"
+  },
+  "accepted_proof": {
+    "path": "problems/2022-B4/proofs/reviewed-arithmetic-complexity-v1.1.md",
+    "bytes": 17186,
+    "sha256": "b7339abc92c042c746719f91aac2d7428b4289578ac99e92ccdeee55cf0b0c70"
+  },
+  "reports": [
+    {
+      "path": "problems/2022-B4/reviews/arithmetic-complexity-review-1-initial.md",
+      "bytes": 14423,
+      "sha256": "fca182c4fe8ef993a633286f04f6b90380c398fd23d44bcf661c056066a7d187"
+    },
+    {
+      "path": "problems/2022-B4/reviews/arithmetic-complexity-review-2-initial.md",
+      "bytes": 14485,
+      "sha256": "3a6e6a88ba38f10dd0885bf27c2e1cf087725372d46824427dc371ad15505b03"
+    }
+  ],
+  "issues": [
+    {
+      "path": "problems/2022-B4/reviews/arithmetic-complexity-review-1-issues.md",
+      "bytes": 2826,
+      "sha256": "baf8a53593ecc7ffe0c069635ba7e794509bab16201a3ac984bce5fa9d16d7c1"
+    },
+    {
+      "path": "problems/2022-B4/reviews/arithmetic-complexity-review-2-issues.md",
+      "bytes": 4574,
+      "sha256": "4e096f3dd81c73c85e472575e15f40fbe6b96006fc7dbcb2f213412a785ab2ab"
+    }
+  ],
+  "two_fresh_nonconstructor_initially_blind_whole_reviews": true,
+  "coordinator_read_full_reports_and_issues": true,
+  "substantive_objections_remaining": 0,
+  "author_repair_required": false,
+  "mathematical_enumeration_or_CAS_used": false,
+  "integrity": {
+    "path": "problems/2022-B4/reviews/arithmetic-complexity-acceptance-integrity.json",
+    "bytes": 3523,
+    "sha256": "554f8ecfa7be936e9fbdaf9f7d448fc50f22f7781b043da91bdf211844e9c0f5"
+  }
+}

@@ -45,6 +45,10 @@ Recheck before launching each group, during sustained work, before expensive com
 
 | 2026-10-16 approximately 21:52 UTC | 17% | 83% | Same reset; continue mathematical research with 2017, 2022 and 2024 owners. |
 
+| 2026-10-16 22:11:06 UTC | 17% | 83% | Same reset; two new 2022 complexity audits and structural research continue. |
+
+| 2026-10-16 22:17:35 UTC | 18% | 82% | Same reset; 2022 complexity adaptation accepted, fresh 2021 single-center audits and 2024 factor-field research continue. |
+
 User clarification during the initial group: investigate only the explicitly open portion of B4. This narrows mathematical targets, not the weekly cutoff.
 
 ## Stop record
@@ -58,3 +62,5 @@ The user requested explicit token reporting. The 17:07 UTC snapshot records **25
 At **17:31:36 UTC**, the latest audit records **298,729,173 total tokens**: **283,106,816 cached input**, **13,177,156 uncached input**, and **2,445,201 output**, including reasoning. Uncached input plus output is **15,622,357**. All51 session sums matched their own cumulative counters;51 sessions are historical launches, not simultaneous agents. See `token-usage-latest.json`. In-flight unreported usage is excluded.
 
 At **21:39:37 UTC**, the refreshed audit records **327,243,804 total**:309,796,864 cached input,14,724,214 uncached input and2,722,726 output. Output includes **1,180,857 reasoning tokens**, a subset rather than an added category. Uncached input plus output is17,446,940. All57 recorded session sums match cumulative counters; no billing or weekly conversion is inferred. The user requested greater emphasis on mathematical reasoning; Max remains the requested worker setting, with no independent effective-setting readback.
+
+At **22:13:22 UTC**, recorded project usage was **354,246,265 total**:335,256,064 cached input,16,018,769 uncached input and2,971,432 output, including1,309,467 reasoning tokens. Uncached input plus output was18,990,201. All62 historical session sums matched cumulative counters; simultaneous capacity remains four total agents.

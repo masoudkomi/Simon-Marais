@@ -1,0 +1,249 @@
+{
+  "recorded_at_utc": "2026-10-16T22:27:01.596510+00:00",
+  "status": "source audit for candidate proof - unverified",
+  "settings": {
+    "requested_model": "gpt-6.1-sol",
+    "requested_reasoning": "max",
+    "verified_effective_settings": null
+  },
+  "scope": "2024B4partb only, no preliminary construction proof",
+  "tracked_inputs": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 166,
+      "sha256": "798a56dbcda9a2c9882f91ba4cea6394ff7f47915f382514b0115fed42321d4e"
+    },
+    {
+      "path": "problems/2024-B4/statement.md",
+      "bytes": 2470,
+      "sha256": "60244f7752634772adb434efbdb41a63fb02029dc3be4238f3718c6e5ec84e5f"
+    },
+    {
+      "path": "problems/2024-B4/notes/zero-automaton-criterion-reviewed-v1.1.md",
+      "bytes": 16607,
+      "sha256": "362f2541b2bb1ab1e22ba768b41d55e7282f08631b0ad39522682244d213f226"
+    },
+    {
+      "path": "problems/2024-B4/reviews/criterion-acceptance.md",
+      "bytes": 1859,
+      "sha256": "526aaca33ea562ee2641a7fbd8ad891b46308f224c1cf0656eb841c29c34217d"
+    },
+    {
+      "path": "problems/2024-B4/reviews/family-acceptance.md",
+      "bytes": 1855,
+      "sha256": "03cbb4aec2437bc083ab35ffe34ccdf4d211be969f720dd0f757996d2b502ab5"
+    },
+    {
+      "path": "problems/2024-B4/notes/deep-literature-r2-report-v1.md",
+      "bytes": 12012,
+      "sha256": "1c67cfed98d530e1b76296d3f8da6be9e20834557016f1a7a434a8c69516f1e4"
+    },
+    {
+      "path": "problems/2024-B4/notes/deep-literature-r2-kasami-orbit-lead-v1.md",
+      "bytes": 4355,
+      "sha256": "9e2123e23c9637eab09a30a69be6ced27314331453eba993dab83b1d0e67b5ac"
+    },
+    {
+      "path": "problems/2024-B4/notes/deep-literature-r2-search-sources-v1.json",
+      "bytes": 25150,
+      "sha256": "e4267e62904eb2f6b7b06e86545cebad0621b8a92ebdb5c2ca90bcc3e3d0ddad"
+    }
+  ],
+  "ignored_full_papers": [
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995.pdf",
+      "bytes": 2610589,
+      "sha256": "d8e8e62d873c5ec69e2fd40473a9aee257bb8d4994cb5ffc1a42cb70f8bcbd24",
+      "title": "McGuire PhD thesis, Caltech1995",
+      "url": "https://thesis.caltech.edu/4053/01/McGuire_gm_1995.pdf",
+      "read_scope_this_task": "Full scanned source available; visually inspected printed pp10-11,24-25,29-38, including PropositionB/9 and Kasami13/57 examples. Not all97pages or every thesis proof audited."
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-delgado-janwa-1612.05997v1.pdf",
+      "bytes": 191161,
+      "sha256": "9704f18d5acbec194e89ab26eed3c0a39d944a3de0c73896e4a05269c18528d9",
+      "title": "Delgado-Janwa arXiv1612.05997v1",
+      "url": "https://arxiv.org/pdf/1612.05997v1",
+      "read_scope_this_task": "Full \u00a73 source text; whole PDFp7 visually inspected; eq5/6 field and specialization premise checked; Lemma1 parity inference on pp8-9 checked and found insufficient. OriginalJW1993proof not verified."
+    },
+    {
+      "path": ".cache/literature/2024/cited-3e7f3cb84c20c6b1.pdf",
+      "bytes": 198696,
+      "sha256": "bc9389858756658a7a2769a74ebb40b4df05523ddfe24a4639cd7d79ef31df16",
+      "title": "Hernando-McGuire arXiv0903.2016v4, published J.Algebra343(2011)",
+      "url": "https://arxiv.org/pdf/0903.2016",
+      "read_scope_this_task": "\u00a72.1 precise component theorem, \u00a7\u00a74-5 theorem premises, Theorem15 irreducibility assumption. This task did not independently reconstruct the entire published proof."
+    }
+  ],
+  "derived_read_only_renderings": [
+    {
+      "path": ".cache/literature/structural-reasoning-r2-delgado-janwa-page7.png",
+      "bytes": 297247,
+      "sha256": "055136f7ba6ffdbcf3def915fb3f2c8815bed47480d7ebbd968d90901527934b"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-15.png",
+      "bytes": 121397,
+      "sha256": "1fd54570b0475f15334b3c43bd4193a1c9feb2209a7e2644eb2fae67049bba06"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-16.png",
+      "bytes": 73835,
+      "sha256": "d17cf43e9e83037caa5a266ad862322229b8e461c268f3c0e3c32aaf03f99bb6"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-29.png",
+      "bytes": 106413,
+      "sha256": "edb2c7908b91cd9660a642182ada3368d8c158943dc7f9ac5d683887f42d1291"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-30.png",
+      "bytes": 109501,
+      "sha256": "17ef8e3e1059bd3ef92b476de626ed09348e82b3c9a2250e7b092816b2fa8002"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-34.png",
+      "bytes": 109495,
+      "sha256": "cd0fb303b62c4174e609683b0813ef3f21305cbf0ffb680866265c143eec8597"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-35.png",
+      "bytes": 118247,
+      "sha256": "a51daacc4d14ba146a895672daa137672de8edcbc116949f215fdebbbcfd80d5"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-36.png",
+      "bytes": 110131,
+      "sha256": "bacfd2c6b835ad29146f42a0ef952f0813bba9e380187137978f947443fe5052"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-37.png",
+      "bytes": 101966,
+      "sha256": "3de0a6f22cb4b474163a836d7468adea3208218ea21f533ce5011c327bbdd677"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-38.png",
+      "bytes": 100153,
+      "sha256": "457f17f1c4e92b9a0feca3e3a408d81da3a1b47efb4b0fdf62233b41ee2b10ee"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-39.png",
+      "bytes": 112660,
+      "sha256": "f07524e04ccbb3acf13a1b76c09bcbeda32c9897bd810f115415f8f4a9820abc"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-40.png",
+      "bytes": 97019,
+      "sha256": "ddd81d64f2dd4181e5fd0529c87d21b64a09b45812438c56edb5c954afc1cd65"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-41.png",
+      "bytes": 98182,
+      "sha256": "35c80f382d9373722b991c9e8f4daf252dfa252c72c6a303966d889af5ffe2f7"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-42.png",
+      "bytes": 96613,
+      "sha256": "b2529dadaf4c7623540ed72152764a889a4974133e2aa5831ed9529f9af6a5be"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-43.png",
+      "bytes": 94709,
+      "sha256": "e4dc8e2b9d827b5093fc62b32731b4084b8207b500f92394e102e8ef0023fc44"
+    }
+  ],
+  "queries_exact": [
+    "\"Hyperplane sections of Fermat varieties\" Janwa Wilson pdf",
+    "\"Kasami\" \"McGuire\" \"thesis\" factorization",
+    "\"Janwa\" \"Wilson\" \"P_alpha\" \"1993\"",
+    "\"Hyperplane sections of Fermat varieties in P3\" filetype:pdf",
+    "\"Janwa\" \"Wilson\" \"1993\" \"Hyperplane\" pdf -site:researchgate.net -site:dblp.org -site:dblp.uni-trier.de",
+    "\"Hyperplane Sections\" \"180\" \"194\" \"pdf\" \"Janwa\"",
+    "site:ramanujan.uprrp.edu \"Wilson\" \"Fermat\"",
+    "site:authors.library.caltech.edu \"Hyperplane sections\" pdf",
+    "\"Kasami\" \"factors\" \"P\" \"q+1\" polynomial phi",
+    "\"Kasami\" \"divides\" \"phi\" polynomial 3641",
+    "\"Kasami\" \"13\" \"205\" \"factor\" irreducibility",
+    "\"Fermat\" \"2^{2\" \"2^k+1\" \"Janwa\" factor",
+    "\"10.3934/amc.2014.8.497\" filetype:pdf",
+    "\"F\u00e9rard\" \"phi\" \"13\" \"2014\" \"irreducibility\" pdf",
+    "\"F\u00e9rard\" \"Fermat varieties\" \"497\" pdf -site:researchgate.net -site:aimsciences.org",
+    "\"On the irreducibility of the hyperplane sections\" \"pdf\" \"F\u00e9rard\"",
+    "\"irreducible\" \"absolutely irreducible\" \"2^i\" \"prime power\" \"Janwa\" tangent",
+    "\"McGuire\" \"irreducible over\" \"symmetric\" \"Frobenius\" polynomial",
+    "\"phi\" \"linear factor\" \"Gold\" polynomial APN",
+    "\"g_t\" \"linear factors\" \"Gold\" irreducible",
+    "\"Janwa\" \"linear factors\" \"binary weight\"",
+    "\"Fermat\" \"linear factors\" \"2^i\" \"phi\" APN",
+    "APN \"linear factor\" \"phi_t\"",
+    "APN \"linear factors\" \"Gold exponent\"",
+    "\"linear factor\" \"Hernando\" \"McGuire\"",
+    "\"linear factors\" \"Janwa\" \"Wilson\" polynomial"
+  ],
+  "access_checks": [
+    {
+      "url": "https://link.springer.com/chapter/10.1007/3-540-56686-4_43",
+      "outcome": "Subscriptionpreview; fulloriginalJW1993notobtained; accesslimitrespected"
+    },
+    {
+      "url": "https://authors.library.caltech.edu/records/wcxdz-pkj80",
+      "outcome": "Originalchaptermetadataonly"
+    },
+    {
+      "url": "https://biblio.cerist.dz/hrbdonf5214/ouvrages/00000000000000595119000000_2.pdf",
+      "outcome": "NewlyindexedordinarypublicHTTPSroute returned404"
+    },
+    {
+      "url": "http://biblio.cerist.dz/hrbdonf5214/ouvrages/00000000000000595119000000_2.pdf",
+      "outcome": "OrdinaryHTTProute unavailable"
+    },
+    {
+      "url": "https://www.aimsciences.org/article/doi/10.3934/amc.2014.8.497",
+      "outcome": "Abstractpage; publicHTMLcitation_pdf_urlinspected"
+    },
+    {
+      "url": "https://www.aimsciences.org/data/article/export-pdf?id=35639722-1f4a-4d82-b06d-fb1493ba278d",
+      "outcome": "Exactpubliccitation-PDFendpoint exited0butreturnedzero bytes; not a paper and no theorem premise inferred",
+      "failed_retrieval_artifact": {
+        "path": ".cache/literature/structural-reasoning-r2-ferard2014.pdf",
+        "bytes": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      }
+    }
+  ],
+  "exact_commands": [
+    {
+      "cmd": "curl -L --fail --silent --show-error https://www.aimsciences.org/article/doi/10.3934/amc.2014.8.497 | rg -n 'citation_pdf|pdfUrl|pdfurl|downloadPdf|downloadpdf|downloadFile|pdfFile|article-pdf|showPdf|viewPdf|pdfPath|PDF'",
+      "outcome": "SandboxDNSfailurefirst; requiredescalatedretrysucceeded andexposedcitation_pdf_url; noauthdata"
+    },
+    {
+      "cmd": "curl -L --fail --silent --show-error --max-time 60 'https://www.aimsciences.org/data/article/export-pdf?id=35639722-1f4a-4d82-b06d-fb1493ba278d' -o .cache/literature/structural-reasoning-r2-ferard2014.pdf",
+      "outcome": "exit0;0bytes;failedretrieval"
+    },
+    {
+      "cmd": ".venv/bin/python -c 'import fitz; p=fitz.open(\".cache/literature/deep-literature-r2/2024-delgado-janwa-1612.05997v1.pdf\"); p[6].get_pixmap(matrix=fitz.Matrix(1.4,1.4)).save(\".cache/literature/structural-reasoning-r2-delgado-janwa-page7.png\")'",
+      "outcome": "exit1;ModuleNotFoundError:fitz;bundledPythonretryfailedsameway;noinstall"
+    },
+    {
+      "cmd": "/Users/uqmkamga/.cache/codex-runtimes/codex-primary-runtime/dependencies/bin/override/pdftoppm -f 7 -l 7 -singlefile -scale-to 1600 -png .cache/literature/deep-literature-r2/2024-delgado-janwa-1612.05997v1.pdf .cache/literature/structural-reasoning-r2-delgado-janwa-page7",
+      "outcome": "exit0;0.109420166seconds;wholepagevisuallyinspected"
+    }
+  ],
+  "proof_dependency": "T1-T4self-contained;finitefieldfactsandUFD/Frobeniusargumentsreconstructed;KasamiandHMtheoremsareattributedcontext,notpremises",
+  "mathematical_computation": "None;noCAS,enumerationorfinitefieldscan",
+  "old_J15_review_unchanged": true,
+  "weekly_telemetry": {
+    "verified_at_utc": "2026-10-16T22:25:49Z",
+    "authoritative_account_wide_total_used_percent": 18,
+    "window_minutes": 10080,
+    "resets_at": 1792745187,
+    "stop_total_used_percent": 90
+  },
+  "access_policy": "Nocharge,subscription,login,contact,accessbypassorpaidAPI;fullpapersandrenderingsignored;redistributionlicencenotinferred",
+  "no_git_or_shared_status_write": true
+}

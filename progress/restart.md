@@ -11,7 +11,7 @@
 
 ## Current launch point
 
-All nine initial passes and deeper-literature reports are complete for the open portions of2017–2025.2026 remains deferred. Last confirmed push:b1c31fa; inspect actual history for newer checkpoints. The user now prioritizes mathematical reasoning. Use computation for counterexamples, intuition, or finite certificates actually needed by a proof. Do not expand routine tests or enumeration instead of resolving an inference.
+All nine initial passes and deeper-literature reports are complete for the open portions of2017–2025.2026 remains deferred. Last confirmed push:be4c8b2; inspect actual history for newer checkpoints. The user now prioritizes mathematical reasoning. Use computation for counterexamples, intuition, or finite certificates actually needed by a proof. Do not expand routine tests or enumeration instead of resolving an inference.
 
 Accepted full results: the2018 literal binomial enumeration, an attributed published reproduction; and the2023 all-exponent classification, with novelty unknown. Other annual questions remain unresolved.
 
@@ -31,10 +31,39 @@ All nine reports are linked in sources/deep-literature-results.md. Verified sett
 
 ### Budget, tokens and runtime
 
-Latest authoritative weekly usage:17% total,83% remaining, at approximately2026-10-16 21:52UTC. Reset1792745187 is unchanged. Stop conservatively at90% TOTAL used with integration reserve. Do not spend into a new weekly window. A checkpoint is not a stop reason.
+Latest authoritative weekly usage:18% total,82% remaining, at2026-10-16 22:17:35UTC. Reset1792745187 is unchanged. Stop conservatively at90% TOTAL used with integration reserve. Do not spend into a new weekly window. A checkpoint is not a stop reason.
 
 Latest local token audit at21:39:37UTC:327243804 total;309796864 cached input;14724214 uncached input;2722726 output, including1180857 reasoning tokens. Uncached input plus output:17446940. All57 session sums match cumulative counters; historical session count is not concurrency. In-flight unreported usage is excluded. These are not billing or a weekly-percentage conversion. tools/report_project_tokens.py reproduces a snapshot without exporting prompts, account identifiers or raw logs.
 
 The initial12-hour keep-awake PID5398/session57629 ended by targeted Ctrl-C at21:27UTC, exit1. The user explicitly authorized another12hours. A new caffeinate -i -t43200 process launched in owned exec session14140 at21:28:10UTC; nominal end2026-10-17 09:28:10UTC,19:28BrisbaneOct17. Its OS PID was not separately queried. Do not extend again without authorization; stop the owned assertion if research ends early. The old optional2020 renderer OS cleanup remains unverified; no global process kills.
 
 A coordinator web/curl call around17:37UTC returned only at21:14UTC. Workers saved reports during that delay; do not claim continuous coordinator activity throughout it. All recorded math children are reaped. New long CAS children require external limits, PID records and checkpoints. Use the project.venv. Normal Git add/commit/plain push is authorized; no force push, default merge, charges or access bypass.
+
+### Next fresh-review wave
+
+The 2022 arithmetic complexity packet is frozen with an attribution supplement
+identifying Dubickas2009 Theorem3/Section4. Two independent blind whole audits
+are active (coarseningR1 actor in a new role, and fresh review_2022_complexity_r2).
+Do not share peer findings before their initial freezes. No universal equality
+result follows. The 2017 fixedD structural/profile packet is frozen unverified;
+it needs two nonconstructor audits. It includes a nonconvex profile example,
+a weak-order band lemma, flat backgrounds and an upper profile-entropy identity;
+closed-annulus recovery and H remain unproved. The coordinator has also frozen
+a new J15 sole-H4 residue classification candidate and manifest, with three
+necessary patterns and exact witness roles. It needs two fresh nonconstructor
+audits; no complete mask is excluded. Do not confuse it with accepted D1–D5.
+
+The token snapshot at22:13:22UTC is354246265 total,335256064 cached input,
+16018769 uncached input,2971432 output including1309467 reasoning;
+uncached input plus output18990201. All62 historical session sums matched.
+
+The 2022 complexity adaptation is now accepted after both full blind reports
+and issue ledgers were coordinator-read and14 frozen records verified.
+See arithmetic-complexity-acceptance.md/json and the reviewed exposition.
+No full equality conclusion follows. Both reviewers now independently audit
+the coordinator's two frozen single-center J15 candidates. R1 owns separate
+soleH4/soleH2 review prefixes; R2 owns single-center-review-2. Each initial
+report must freeze before peer conclusions. SoleH4 has3 necessary residue
+patterns; soleH2 has4. No complete masks are excluded. The 2024 owner is
+constructing a tangent-cone/Frobenius/S3 obstruction; it remains unverified.
+The unreviewed2017 fixedD packet still needs two fresh nonconstructor audits.

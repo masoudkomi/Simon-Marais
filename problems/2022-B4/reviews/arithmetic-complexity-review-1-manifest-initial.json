@@ -1,0 +1,41 @@
+{
+  "status": "initial blind independent whole audit frozen",
+  "frozen_at_utc": "2026-10-16T22:15:38.622970+00:00",
+  "reviewer": "review_2017_coarsening_r1",
+  "candidate_sha256": "e9c24e96982d1d2a74aa97cb5fd045a3319f37c69316fbada884eeec0a0412d3",
+  "attribution_sha256": "b2ddb5337b0e669bab594916ed0e590a358feb812b0d8c338948372422786aed",
+  "requested_launch_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "peer_arithmetic_complexity_review_read_before_freeze": false,
+  "constructor_of_candidate": false,
+  "mathematical_computation_run": false,
+  "recommendation": "accept packaged partial claims after coordinator second-review gate; no substantive objection found; retain adaptation attribution",
+  "full_2022_B4b_solution": false,
+  "artifacts": [
+    {
+      "path": "problems/2022-B4/reviews/arithmetic-complexity-review-1-initial.md",
+      "bytes": 14423,
+      "sha256": "fca182c4fe8ef993a633286f04f6b90380c398fd23d44bcf661c056066a7d187"
+    },
+    {
+      "path": "problems/2022-B4/reviews/arithmetic-complexity-review-1-issues.md",
+      "bytes": 2826,
+      "sha256": "baf8a53593ecc7ffe0c069635ba7e794509bab16201a3ac984bce5fa9d16d7c1"
+    },
+    {
+      "path": "problems/2022-B4/reviews/arithmetic-complexity-review-1-sources.json",
+      "bytes": 3645,
+      "sha256": "92ee4ad7fbb417198af510d191f54c156d4c349d5636863660affd5d911c355d"
+    }
+  ],
+  "previous_frozen_file_preservation_checks": {
+    "problems/2017-B4/reviews/coarsening-review-1-initial.md": true,
+    "problems/2017-B4/reviews/coarsening-review-1-issues.md": true,
+    "problems/2017-B4/reviews/coarsening-review-1-sources.json": true,
+    "problems/2017-B4/notes/fixedD-reasoning-r1-structural-candidate-v1.md": true,
+    "problems/2017-B4/notes/fixedD-reasoning-r1-profile-reduction-v1.md": true
+  }
+}

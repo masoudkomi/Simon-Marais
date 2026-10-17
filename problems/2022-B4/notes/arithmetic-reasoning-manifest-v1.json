@@ -1,0 +1,67 @@
+{
+  "timestamp_utc": "2026-10-16T21:59:01.825988+00:00",
+  "status": "candidate proof - unverified; no universal equality proof; two fresh independent audits required",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "basis": "coordinator assignment and AGENTS.md",
+    "effective_setting_readback": null
+  },
+  "artifacts": [
+    {
+      "path": "problems/2022-B4/notes/arithmetic-reasoning-complexity-candidate-v1.md",
+      "bytes": 12810,
+      "sha256": "e9c24e96982d1d2a74aa97cb5fd045a3319f37c69316fbada884eeec0a0412d3"
+    },
+    {
+      "path": "problems/2022-B4/notes/arithmetic-reasoning-complexity-attribution-v1.md",
+      "bytes": 2969,
+      "sha256": "b2ddb5337b0e669bab594916ed0e590a358feb812b0d8c338948372422786aed"
+    },
+    {
+      "path": "problems/2022-B4/notes/arithmetic-reasoning-research-v1.md",
+      "bytes": 9041,
+      "sha256": "8d018e3cea4e03e43cb7c27cfba4b1eb00b4d1dd9bfa676679d4d9e9ef192131"
+    }
+  ],
+  "accepted_inputs": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2022-B4/statement.md",
+      "bytes": 1195,
+      "sha256": "2011761509ac42d5ffa2ab9e86dd1db464618707443a68f43fb3e45f59ed36c0"
+    },
+    {
+      "path": "problems/2022-B4/proofs/reviewed-partials-v1.md",
+      "bytes": 8666,
+      "sha256": "cb486a611c00a7db640c83f598f859401c4502d0ac70e489595027a4d77b2ae0"
+    },
+    {
+      "path": "problems/2022-B4/proofs/reviewed-density-v3.md",
+      "bytes": 10993,
+      "sha256": "2bd9a860c49c364f4fbe43df88841bda719bcae5ee03376ed45a2188583a3e4b"
+    },
+    {
+      "path": "problems/2022-B4/reviews/acceptance.md",
+      "bytes": 2750,
+      "sha256": "22d2f7c26eee6951a6c0c98b9464378e463b05c0f8e9bfe8a5d9aefa57884d06"
+    }
+  ],
+  "source_retrieval": {
+    "date": "2026-10-16 UTC",
+    "dubickas_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C40C0C07FEC20797475BB2899C436C9A/S0017089508004655a.pdf/on_integer_sequences_generated_by_linear_maps.pdf",
+    "dubickas_doi": "10.1017/S0017089508004655",
+    "read_scope": "Theorem 3 journal p245; complete Section 4 proof journal p249",
+    "discovery_primary_source": "https://arxiv.org/html/2510.11723v2",
+    "discovery_read_scope": "Introduction eq1.3 and original-source citation",
+    "local_download_by_worker": false,
+    "retrieval_hash": null
+  },
+  "mathematical_experiment": null,
+  "numerical_evidence": "Only logarithmic constant decimal and SHA-256 fingerprints, standard-library Python; no mathematical experiment is a premise.",
+  "git_commit_or_push_by_worker": false
+}

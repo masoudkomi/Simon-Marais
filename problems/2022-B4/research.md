@@ -1,5 +1,19 @@
 # 2022 B4 research log
 
+## Current reviewed arithmetic result
+
+The rational-lift complexity obstruction is **proved, independently
+reviewed (partial result)** after two fresh blind whole analytic audits.
+A rational Z10 controller lift is eventually periodic in full state or
+has correction-factor complexity lower slope log10/log(11/10). Every
+admissible actual integer orbit has the latter lower bound. Explicit
+mechanical avoiding paths have irrational lifts, while every finite prefix
+has positive integer lifts. See proofs/reviewed-arithmetic-complexity-v1.1.md
+and reviews/arithmetic-complexity-acceptance.md/json. The mechanism adapts
+Dubickas2009, Theorem3/Section4. No novelty or universal equality result
+is claimed. Arbitrary high-complexity integer avoiding paths remain open.
+Earlier checkpoint text below is historical.
+
 Status: initial research pass and first repair checkpoint completed
 2026-10-16; no full solution claimed. Two independent blind initial audits
 found no substantive defect in v1 P1-P4 and found a blocking uniformity error

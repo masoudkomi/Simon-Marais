@@ -1,0 +1,42 @@
+{
+  "timestamp_utc": "2026-10-16T22:20:57.590970+00:00",
+  "reviewer": "/root/review_2022_complexity_r2",
+  "status": "blind joint initial whole audits frozen; neither candidate has a substantive defect found; coordinator acceptance pending",
+  "candidate_hashes": {
+    "soleH4": "042b15f45a39f6773ec8e5eea6c4294eab5e794e98a961534b899ef2568b508e",
+    "soleH2": "a21d53ab434ea715b85cca9bcf98c715a1522f4faa33d1977c1ad9411b7f9d39"
+  },
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "basis": "coordinator assignment and AGENTS.md",
+    "independent_effective_setting_readback": null
+  },
+  "independence": {
+    "constructed_either_candidate": false,
+    "read_peer_soleH4_soleH2_or_single_center_reports_before_freeze": false,
+    "received_peer_soleH4_soleH2_or_single_center_conclusions_before_freeze": false,
+    "earlier_2022_review_artifacts_verified_unchanged": true,
+    "earlier_2022_peer_findings_unread": true
+  },
+  "artifacts": [
+    {
+      "path": "problems/2021-B4/reviews/single-center-review-2-initial.md",
+      "bytes": 16941,
+      "sha256": "b00cced07457b65012d69e99a3f00d28653272f1bc4d169f15fa06ff9886d8e5"
+    },
+    {
+      "path": "problems/2021-B4/reviews/single-center-review-2-issues.md",
+      "bytes": 5050,
+      "sha256": "8ff538f1f933c0c01aaaab59d82ae26af9689e06f00b89fb72ac15ed00382523"
+    },
+    {
+      "path": "problems/2021-B4/reviews/single-center-review-2-source-checks.md",
+      "bytes": 5251,
+      "sha256": "3c9c3b29a500d0db18c4a9f39c4aa867b9a6604733b4e2a8de74ff93a173702e"
+    }
+  ],
+  "new_mathematical_computation": false,
+  "method": "hand analytic reconstruction and exact finite-field algebra; no enumeration or CAS",
+  "git_operations": false
+}

@@ -1,0 +1,81 @@
+{
+  "accepted_at_utc": "2026-10-16T23:54:43.727601+00:00",
+  "status": "proved, independently reviewed (partial necessary residue classifications)",
+  "accepted_scope": [
+    "Three sole-H4 necessary equal-valuation residue patterns with unique actual rational witness roles and forced H4 center",
+    "Four sole-H2 necessary equal-valuation residue patterns with actual rational witness roles and forced H2 center"
+  ],
+  "unresolved": [
+    "All complete mask lifts and exclusions",
+    "Multiplicity3, multiple low centers, lowerJ and full degree20",
+    "No novelty claim"
+  ],
+  "candidates": [
+    {
+      "path": "problems/2021-B4/notes/coordinator-J15-soleH4-candidate-v1.md",
+      "bytes": 6778,
+      "sha256": "042b15f45a39f6773ec8e5eea6c4294eab5e794e98a961534b899ef2568b508e"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-J15-soleH2-candidate-v1.md",
+      "bytes": 5784,
+      "sha256": "a21d53ab434ea715b85cca9bcf98c715a1522f4faa33d1977c1ad9411b7f9d39"
+    }
+  ],
+  "accepted_proofs": [
+    {
+      "path": "problems/2021-B4/proofs/reviewed-J15-soleH4-v1.1.md",
+      "bytes": 7449,
+      "sha256": "9e5e22f092477e6c2d948a787b9ea89cb138a1c5e112855db8186020557c5a18"
+    },
+    {
+      "path": "problems/2021-B4/proofs/reviewed-J15-soleH2-v1.1.md",
+      "bytes": 6455,
+      "sha256": "04cca15f62611ae736940e40d520ea2556b840391d77531f5e002f37751d15ed"
+    }
+  ],
+  "reports": [
+    {
+      "path": "problems/2021-B4/reviews/soleH4-review-1-initial.md",
+      "bytes": 14011,
+      "sha256": "b480f78d85e208155e09a44fdecb979c49f1b0565beae6fdd2eab11eb3c55781"
+    },
+    {
+      "path": "problems/2021-B4/reviews/soleH2-review-1-initial.md",
+      "bytes": 13882,
+      "sha256": "0fd663af1d109d8b4cfe7ed232f1b9d58c58c3a78ebcdbb3c5df442ba91bac61"
+    },
+    {
+      "path": "problems/2021-B4/reviews/single-center-review-2-initial.md",
+      "bytes": 16941,
+      "sha256": "b00cced07457b65012d69e99a3f00d28653272f1bc4d169f15fa06ff9886d8e5"
+    }
+  ],
+  "issues": [
+    {
+      "path": "problems/2021-B4/reviews/soleH4-review-1-issues.md",
+      "bytes": 3148,
+      "sha256": "e5547a3542272d97a444ca89d1a705d5ed916c5c0f417412ef60f481d0d4e803"
+    },
+    {
+      "path": "problems/2021-B4/reviews/soleH2-review-1-issues.md",
+      "bytes": 3352,
+      "sha256": "d4b5b88e6fe159cad59bdcc10b85d56f7b9b48537ce69fb3adf926c5dd9d250b"
+    },
+    {
+      "path": "problems/2021-B4/reviews/single-center-review-2-issues.md",
+      "bytes": 5050,
+      "sha256": "8ff538f1f933c0c01aaaab59d82ae26af9689e06f00b89fb72ac15ed00382523"
+    }
+  ],
+  "two_independent_nonconstructor_initially_blind_whole_reviews_per_candidate": true,
+  "coordinator_read_all_full_reports_and_issues": true,
+  "substantive_objections_remaining": 0,
+  "substantive_repairs_required": false,
+  "mathematical_enumeration_or_CAS": false,
+  "integrity": {
+    "path": "problems/2021-B4/reviews/single-center-acceptance-integrity.json",
+    "bytes": 6048,
+    "sha256": "63477828f6616141302457c3bfecb11a30f9c370cfad983ec320bb40c4cd5f59"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "reviewer": "review_2017_coarsening_r1",
+  "checked_at_utc": "2026-10-16T22:22:22.951788+00:00",
+  "candidate": {
+    "path": "problems/2021-B4/notes/coordinator-J15-soleH2-candidate-v1.md",
+    "bytes": 5784,
+    "sha256": "a21d53ab434ea715b85cca9bcf98c715a1522f4faa33d1977c1ad9411b7f9d39"
+  },
+  "independent_blind_initial_whole_audit": true,
+  "peer_single_center_conclusions_read": false,
+  "separate_own_soleH4_audit_frozen_first_and_not_a_proof_dependency": true,
+  "requested_model": "gpt-6.1-sol",
+  "requested_reasoning": "max",
+  "effective_settings_verified": false,
+  "official_source": {
+    "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2021-paper-b.pdf",
+    "locator": "page2, B4 rational common-root hypothesis and open part(b)",
+    "verification": "Current public PDF opened through web at approximately22:18 UTC; cached page2 rendered and visually checked in this session before this separate audit. No preliminary part(a) proof or other problem researched.",
+    "cache": {
+      "path": ".cache/official/2021-paper_b.pdf",
+      "bytes": 157688,
+      "sha256": "2d507d593500f762e90b041d03a451e884ea33c8769f9a2132427e14d8f926d1"
+    }
+  },
+  "dependency_scope": "Accepted rational normalization, multiplicity-counted Newton edge, width-one lemma, T1 rational covering restriction, and J15 D1/D2 only. Applicability and D1/D2 proofs reconstructed by hand. No dependence on sole-H4 candidate or accepted D3--D5. No large accepted certificate stream regenerated.",
+  "inputs": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2021-B4/statement.md",
+      "bytes": 1745,
+      "sha256": "5cd9750a2458191370590120fb4ae7d547740784eb1de38ee9e2e7890a2fabed"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-J15-soleH2-candidate-v1.md",
+      "bytes": 5784,
+      "sha256": "a21d53ab434ea715b85cca9bcf98c715a1522f4faa33d1977c1ad9411b7f9d39"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-J15-soleH2-freeze-v1.json",
+      "bytes": 665,
+      "sha256": "d3506b8d8cf735f66d9219a830a60c8e8fed3475b946bc01c34cb4fa7af28cfb"
+    },
+    {
+      "path": "problems/2021-B4/proofs/reviewed-reasoning-J15-v1.1.md",
+      "bytes": 18931,
+      "sha256": "fbc5d212b5b560c8e4e42397d19663f3fc882fa8f206bdcbb4ed897c715627f6"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-J15-acceptance.json",
+      "bytes": 2468,
+      "sha256": "c69ca02744dbb4066dd62db5adb471920ab6a3660ed482818ddf956e619a0465"
+    },
+    {
+      "path": "problems/2021-B4/notes/rational-witness-p-plus-one-reviewed-v1.2.md",
+      "bytes": 8615,
+      "sha256": "fa71a4269a061b09ed74b3cd333b62c2ed7d3ffd39d1c28624a58a6d8fc18d09"
+    },
+    {
+      "path": "problems/2021-B4/notes/padic-rational-newton-reviewed-v1.1.md",
+      "bytes": 2667,
+      "sha256": "691c7c04be6b7d63b528724a59f43636e0e71dd2135f7c0d14e25487f738e963"
+    },
+    {
+      "path": "problems/2021-B4/notes/padic-rational-newton-obstructions-v1.md",
+      "bytes": 16974,
+      "sha256": "ce3ff564b48841ae3ae1bf66c3cf5303ed2833c2166590cb2460706f01b5c335"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-three-rational-witnesses-reviewed-v1.1.md",
+      "bytes": 1962,
+      "sha256": "7ff6b3d92d3268405381c2732d83516d21e6eb7d74e897d4c01ec8bb70342be4"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-three-rational-witnesses-v1.md",
+      "bytes": 11325,
+      "sha256": "be91345a8511338d55f30b140ee2555698c21d0e341efe29fe2536bca4fffbda"
+    },
+    {
+      "path": ".cache/official/2021-paper_b.pdf",
+      "bytes": 157688,
+      "sha256": "2d507d593500f762e90b041d03a451e884ea33c8769f9a2132427e14d8f926d1"
+    }
+  ],
+  "mathematical_method": "Exact hand algebra, exhaustive conceptual actual-witness split and factorization; no enumeration or CAS. Hashing and PDF rendering are administrative.",
+  "commands": [
+    "cat candidate and freeze; named accepted inputs read with cat/sed in this session",
+    "Current official PDF opened through web; cached page2 rendered using pdftoppm",
+    "Python standard library Path/hashlib/json/datetime for file fingerprints and freeze only"
+  ],
+  "weekly_telemetry": {
+    "source": "coordinator supplied authoritative account-wide snapshot",
+    "used_percent": 17,
+    "at_utc": "2026-10-16T22:11:00Z",
+    "reset_unix": 1792745187,
+    "total_ceiling_percent": 90
+  }
+}

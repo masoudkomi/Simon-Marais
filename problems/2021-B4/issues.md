@@ -1,5 +1,12 @@
 # 2021 B4 issue log
 
+The two new single-center necessary classifications passed both fresh
+whole independent audits, fully read and hash-checked by the coordinator.
+No substantive objection or repair remains within scope. Local splitting,
+actual-witness existence, slot uniqueness, nonsquare and zero-discriminant
+cases are explicitly checked. No mask exclusion or full degree claim
+follows. See reviews/single-center-acceptance.md/json.
+
 The J15 double-zero D1–D5 and explicit low-order-family properties have
 passed both fresh independent whole analytic reviews. The coordinator read
 both full reports and issue ledgers and verified the frozen records. No

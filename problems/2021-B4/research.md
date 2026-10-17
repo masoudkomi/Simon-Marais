@@ -1,5 +1,16 @@
 # 2021 B4 research log
 
+## Reviewed single-center classifications
+
+The sole-H4 and sole-H2 double-zero J15 classifications are now **proved,
+independently reviewed necessary conditions**. Both candidates passed two
+fresh whole initially blind audits, full coordinator report/issue reading,
+and exact manifest verification. See proofs/reviewed-J15-soleH4-v1.1.md,
+proofs/reviewed-J15-soleH2-v1.1.md and reviews/single-center-acceptance.md/json.
+These add seven patterns and precise actual witness roles. No complete
+mask is removed and no row is proved to lift. Their distinct small
+residues preclude directly importing the sole-H3 collision parity argument.
+
 ## Current reviewed result
 
 The new J15 double-zero analytic restrictions D1–D5 and the stated

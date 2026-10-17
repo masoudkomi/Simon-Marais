@@ -1,0 +1,22 @@
+# Review 2 initial issue ledger: arithmetic complexity candidate
+
+2026-10-16 UTC. Frozen independently with the initial report, before seeing another new arithmetic-complexity review or its conclusions. Candidate SHA-256: `e9c24e96982d1d2a74aa97cb5fd045a3319f37c69316fbada884eeec0a0412d3`.
+
+**No blocking or substantive defect found; no repair requested.** The rows below are adversarial audit questions and closed dispositions, not a claim that the candidate previously contained errors. Only the coordinator can promote the partial result after both audits.
+
+| ID | Candidate location | Attack point | Independent disposition |
+|---|---|---|---|
+| R2-AC-01 | (2)–(5), lines 45–77 | Signed recurrence, carries, and scalar-ceiling substitution | Closed by exact reconstruction. \(h=10k-e\) and \(10Q'=11Q+h\). The admissible state \((599,600)\) has \(Q'=10\), whereas \(\lceil11Q/10\rceil=11\), so direct import of the scalar theorem would fail; the candidate does not import it. |
+| R2-AC-02 | (6)–(7), lines 90–119 | Existence and uniqueness in a ring with zero divisors | Closed. Powers of 11 are units, the series converges modulo every \(10^N\), and lift differences lie in every \(10^N\) ideal. No field assumption is used. |
+| R2-AC-03 | (9), lines 140–152 | Rational denominators could grow through repeated division by 10 | Closed. The iterated numerator \(K_n\) is an ordinary integer divisible by \(10^n\); injectivity of multiplication by \(10^n\) in the inverse limit gives \(vQ_n\in\mathbb Z\). Both primes 2 and 5 are covered. |
+| R2-AC-04 | (10)–(12), lines 154–200 | Confusing real and 10-adic sums, or claiming monotonicity in bounded cases | Closed. The real constant has the correct plus sign. Nonzero \(C\) gives eventual strict monotonicity in either sign; zero \(C\) is handled separately by finite deterministic full states. |
+| R2-AC-05 | First branch, lines 176–183 | Repetition of a quotient need not determine a future | Closed. The proof uses \((Q,d,r)\), whose 10-adic residue fixes \(e\). Periodic \(A\) and \(B\) paths furnish bounded rational examples already included by this branch. |
+| R2-AC-06 | (13)–(16), lines 203–246 | Vanishing difference, noncoprime factors, overlapping blocks, or integer cutoff error | Closed. The fixed denominator makes the differences integral; strict tail monotonicity makes them nonzero. Coprimality is exactly \(\gcd(10^L,11^L)=1\). Overlap is harmless. \(\lceil x\rceil-1<x\), including integral \(x\). |
+| R2-AC-07 | Section 4, lines 248–277 | Positive small quotients and threshold boundary might permit bounded actual orbits | Closed. Eventual constancy forces \(ab\le551<600\), while the initial inclusive threshold and monotonicity of both coordinates force \(ab\ge600\). Equality at time zero is not excluded. |
+| R2-AC-08 | (17), lines 262–271 | State-factor length shift could change the liminf slope | Closed. \(P_h(L)\le P_S(L+1)\); division by \(L+1\) and reindexing preserve the lower slope. Adding a finite prefix does not remove factors. |
+| R2-AC-09 | (18), lines 279–295 | Loops might leave the strip or not be realizable by the lift | Closed. Both have constant \(d=1\) and residues only 0 and 6; controls and corrections match (2). The series construction recovers those controls modulo 10. |
+| R2-AC-10 | (19)–(21), lines 297–340 | Mechanical-word breakpoints, aperiodicity, coding alignment, and odd/even lengths | Closed. Telescoping frequency is irrational; half-open arcs include the zero breakpoint correctly. An even multiple of any eventual correction period preserves pair alignment. Both parities give the stated \(L+3\) bound. |
+| R2-AC-11 | (22), lines 343–363 | Rational interpretation, sign error in pair summation, or infinite positive lift inferred from finite lifts | Closed. Pair summation gives \(100^j/121^{j+1}\) with positive sign. Low complexity and nonperiodicity contradict both rational branches. Finite positive representatives and an infinite irrational lift are kept distinct. |
+| R2-AC-12 | Attribution supplement and Section 6 | Published mechanism or unproved normality could be silently used | Closed. Original Theorem 3/Section 4 checked. The supplement attributes the mechanism, does not apply its ceiling hypotheses to the controller, and does not invoke the discovery paper's normality conjecture. |
+
+Residual scope limitation, not a defect: an integer-lifted avoiding path with lower correction-complexity slope at least \(\log10/\log(11/10)\) is not excluded. The universal question remains unresolved by this work.

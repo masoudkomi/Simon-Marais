@@ -1,0 +1,38 @@
+{
+  "timestamp_utc": "2026-10-16T22:16:45.744750+00:00",
+  "reviewer": "/root/review_2022_complexity_r2",
+  "status": "blind initial audit frozen; no substantive defect found; coordinator promotion pending",
+  "candidate_sha256": "e9c24e96982d1d2a74aa97cb5fd045a3319f37c69316fbada884eeec0a0412d3",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "basis": "coordinator assignment and AGENTS.md",
+    "independent_effective_setting_readback": null
+  },
+  "independence": {
+    "constructed_candidate": false,
+    "read_peer_arithmetic_complexity_initial_reports_before_freeze": false,
+    "received_peer_arithmetic_complexity_conclusions_before_freeze": false,
+    "prior_acceptance_record_read_for_accepted_dependencies": true
+  },
+  "artifacts": [
+    {
+      "path": "problems/2022-B4/reviews/arithmetic-complexity-review-2-initial.md",
+      "bytes": 14485,
+      "sha256": "3a6e6a88ba38f10dd0885bf27c2e1cf087725372d46824427dc371ad15505b03"
+    },
+    {
+      "path": "problems/2022-B4/reviews/arithmetic-complexity-review-2-issues.md",
+      "bytes": 4574,
+      "sha256": "4e096f3dd81c73c85e472575e15f40fbe6b96006fc7dbcb2f213412a785ab2ab"
+    },
+    {
+      "path": "problems/2022-B4/reviews/arithmetic-complexity-review-2-source-checks.md",
+      "bytes": 5575,
+      "sha256": "0885eadf6c29f532bcd9ab34f4965426cdadca94f77adbf78c1cadfacbd50ed6"
+    }
+  ],
+  "mathematical_experiment": null,
+  "native_cas_job": null,
+  "git_commit_or_push_by_reviewer": false
+}

@@ -1,0 +1,27 @@
+{
+  "status": "candidate proof - unverified",
+  "frozen_at_utc": "2026-10-16T22:15:28.248738+00:00",
+  "constructor": "coordinator",
+  "scope": "J15 zero multiplicity2, H2/H3 noncenter; three necessary residue patterns, no mask exclusion",
+  "artifacts": [
+    {
+      "path": "problems/2021-B4/notes/coordinator-J15-soleH4-candidate-v1.md",
+      "bytes": 6778,
+      "sha256": "042b15f45a39f6773ec8e5eea6c4294eab5e794e98a961534b899ef2568b508e"
+    }
+  ],
+  "accepted_dependencies": [
+    {
+      "path": "problems/2021-B4/proofs/reviewed-reasoning-J15-v1.1.md",
+      "bytes": 18931,
+      "sha256": "fbc5d212b5b560c8e4e42397d19663f3fc882fa8f206bdcbb4ed897c715627f6"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-J15-acceptance.json",
+      "bytes": 2468,
+      "sha256": "c69ca02744dbb4066dd62db5adb471920ab6a3660ed482818ddf956e619a0465"
+    }
+  ],
+  "new_mathematical_compute": false,
+  "requires_two_fresh_independent_nonconstructor_whole_audits": true
+}

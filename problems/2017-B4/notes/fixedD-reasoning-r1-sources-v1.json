@@ -1,0 +1,50 @@
+{
+  "date_utc": "2026-10-16",
+  "constructor": "review_2017_coarsening_r1",
+  "task": "Separate construction attempting hypothesis(H); frozen coarsening review preserved",
+  "requested_launch_settings": {"model": "gpt-6.1-sol", "reasoning": "max"},
+  "verified_effective_settings": null,
+  "mathematical_computation": "None; all displayed examples and lemmas were derived analytically",
+  "sources_relied_on": [
+    {
+      "title": "Entropy along convex shapes, random tilings and shifts of finite type",
+      "authors": "P. Balister, B. Bollobas, A. Quas",
+      "journal": "Illinois Journal of Mathematics 46 (2002), 781-795",
+      "doi": "10.1215/ijm/1258130984",
+      "url": "https://web.uvic.ca/~aquas/papers/paper15.pdf",
+      "access": "Author-hosted primary PDF read through web tool; not downloaded locally",
+      "local_byte_hash": null,
+      "scope": "Definitions of N(Lambda), strong irreducibility and Theorems A-B; full proof of the free-window theorem not independently audited",
+      "use": "Checks the precise free-window restriction count and its distinction from one fixed zonogon boundary. Does not prove(H)."
+    },
+    {
+      "title": "Previously inspected primary variational and zonogon sources",
+      "record": "problems/2017-B4/reviews/coarsening-review-1-sources.json",
+      "sha256": "5fec609c63f708dd1ca01d892803166b765e154e29fc821f2d13f967f08a1518",
+      "use": "Source limitations remain as frozen; no new source theorem(H) is asserted. The integer dictionary, minor obstruction, weak-order envelopes and compact-profile statement have self-contained candidate proofs in this new packet."
+    }
+  ],
+  "bounded_additional_queries": [
+    "rhombus tilings fixed boundary entropy monotonicity side length existence",
+    "\"rhombus tilings\" \"interpolation\" height function",
+    "\"random tilings\" \"higher codimension\" \"variational principle\" rigorous",
+    "\"octagonal\" \"entropy\" \"superadditivity\"",
+    "Balister Bollobas Quas \"Entropy along convex shapes\" pdf",
+    "\"rhombus tilings\" \"boundary\" \"extension\" theorem positive",
+    "\"zonogon tilings\" \"weak order\" lattice paths"
+  ],
+  "unresolved": [
+    "Closed-annulus interpolation with compatible corner lifts and color-rank matching",
+    "Entropy-controlled handling of zero minors, zero-density colors and parallel-row strata",
+    "All-scale lower recovery in the full fixed zonogon frame",
+    "General(H); no exact 2017 exponent is obtained"
+  ],
+  "operational": {
+    "review_bytes_modified": false,
+    "peer_coarsening_review_conclusions_read": false,
+    "git_actions": false,
+    "source_pdf_downloads_or_redistribution": false,
+    "separately_billed_api": false,
+    "native_cas_or_enumeration_run": false
+  }
+}

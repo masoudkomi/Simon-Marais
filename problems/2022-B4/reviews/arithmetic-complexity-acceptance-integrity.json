@@ -1,0 +1,95 @@
+{
+  "verified_at_utc": "2026-10-16T22:18:15.564730+00:00",
+  "all_match": true,
+  "records_checked": 14,
+  "manifests": [
+    {
+      "path": "problems/2022-B4/notes/arithmetic-reasoning-manifest-v1.json",
+      "bytes": 2681,
+      "sha256": "e34d009677784a876b8d5b51b2bcfc056cd6ab0de4389899e38c7b6f596ce278"
+    },
+    {
+      "path": "problems/2022-B4/reviews/arithmetic-complexity-review-1-manifest-initial.json",
+      "bytes": 1852,
+      "sha256": "28a073885c61ca42773736c7afb6ad926728d67bda0a85a9c3c54de72d2254f5"
+    },
+    {
+      "path": "problems/2022-B4/reviews/arithmetic-complexity-review-2-freeze-manifest.json",
+      "bytes": 1500,
+      "sha256": "95d7ab84ebc0c6318950aae8aead8f005fe6190e1c38dc325f3b360af7440719"
+    }
+  ],
+  "checked_records": [
+    {
+      "path": "problems/2022-B4/notes/arithmetic-reasoning-complexity-candidate-v1.md",
+      "bytes": 12810,
+      "sha256": "e9c24e96982d1d2a74aa97cb5fd045a3319f37c69316fbada884eeec0a0412d3"
+    },
+    {
+      "path": "problems/2022-B4/notes/arithmetic-reasoning-complexity-attribution-v1.md",
+      "bytes": 2969,
+      "sha256": "b2ddb5337b0e669bab594916ed0e590a358feb812b0d8c338948372422786aed"
+    },
+    {
+      "path": "problems/2022-B4/notes/arithmetic-reasoning-research-v1.md",
+      "bytes": 9041,
+      "sha256": "8d018e3cea4e03e43cb7c27cfba4b1eb00b4d1dd9bfa676679d4d9e9ef192131"
+    },
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2022-B4/statement.md",
+      "bytes": 1195,
+      "sha256": "2011761509ac42d5ffa2ab9e86dd1db464618707443a68f43fb3e45f59ed36c0"
+    },
+    {
+      "path": "problems/2022-B4/proofs/reviewed-partials-v1.md",
+      "bytes": 8666,
+      "sha256": "cb486a611c00a7db640c83f598f859401c4502d0ac70e489595027a4d77b2ae0"
+    },
+    {
+      "path": "problems/2022-B4/proofs/reviewed-density-v3.md",
+      "bytes": 10993,
+      "sha256": "2bd9a860c49c364f4fbe43df88841bda719bcae5ee03376ed45a2188583a3e4b"
+    },
+    {
+      "path": "problems/2022-B4/reviews/acceptance.md",
+      "bytes": 2750,
+      "sha256": "22d2f7c26eee6951a6c0c98b9464378e463b05c0f8e9bfe8a5d9aefa57884d06"
+    },
+    {
+      "path": "problems/2022-B4/reviews/arithmetic-complexity-review-1-initial.md",
+      "bytes": 14423,
+      "sha256": "fca182c4fe8ef993a633286f04f6b90380c398fd23d44bcf661c056066a7d187"
+    },
+    {
+      "path": "problems/2022-B4/reviews/arithmetic-complexity-review-1-issues.md",
+      "bytes": 2826,
+      "sha256": "baf8a53593ecc7ffe0c069635ba7e794509bab16201a3ac984bce5fa9d16d7c1"
+    },
+    {
+      "path": "problems/2022-B4/reviews/arithmetic-complexity-review-1-sources.json",
+      "bytes": 3645,
+      "sha256": "92ee4ad7fbb417198af510d191f54c156d4c349d5636863660affd5d911c355d"
+    },
+    {
+      "path": "problems/2022-B4/reviews/arithmetic-complexity-review-2-initial.md",
+      "bytes": 14485,
+      "sha256": "3a6e6a88ba38f10dd0885bf27c2e1cf087725372d46824427dc371ad15505b03"
+    },
+    {
+      "path": "problems/2022-B4/reviews/arithmetic-complexity-review-2-issues.md",
+      "bytes": 4574,
+      "sha256": "4e096f3dd81c73c85e472575e15f40fbe6b96006fc7dbcb2f213412a785ab2ab"
+    },
+    {
+      "path": "problems/2022-B4/reviews/arithmetic-complexity-review-2-source-checks.md",
+      "bytes": 5575,
+      "sha256": "0885eadf6c29f532bcd9ab34f4965426cdadca94f77adbf78c1cadfacbd50ed6"
+    }
+  ],
+  "method": "Exact SHA256 and byte-length verification; no mathematical enumeration"
+}

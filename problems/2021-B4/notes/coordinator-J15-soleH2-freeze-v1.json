@@ -1,0 +1,16 @@
+{
+  "status": "candidate proof - unverified",
+  "constructor": "coordinator",
+  "frozen_at_utc": "2026-10-16T22:17:04.142520+00:00",
+  "scope": "J15 multiplicity2, H3/H4 noncenter; four necessary split residue patterns and actual witness roles, no mask exclusion",
+  "artifacts": [
+    {
+      "path": "problems/2021-B4/notes/coordinator-J15-soleH2-candidate-v1.md",
+      "bytes": 5784,
+      "sha256": "a21d53ab434ea715b85cca9bcf98c715a1522f4faa33d1977c1ad9411b7f9d39"
+    }
+  ],
+  "accepted_dependency": "problems/2021-B4/proofs/reviewed-reasoning-J15-v1.1.md",
+  "requires_two_fresh_nonconstructor_whole_audits": true,
+  "new_mathematical_computation": false
+}
