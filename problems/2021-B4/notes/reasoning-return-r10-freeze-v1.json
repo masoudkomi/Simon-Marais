@@ -1,0 +1,92 @@
+{
+  "frozen_at_utc": "2026-10-17T19:29:24.238597+00:00",
+  "status": "candidate proof - unverified; COMPLETE meaningful constructor checkpoint",
+  "constructor": "/root/review_2021_reasoning_j15_r2",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "independently_verified_effective_settings": null,
+  "claims": [
+    "R10A actual m7/outer-r1 branch has an early inner-only odd order",
+    "R10B unique such order forces actual simple tail gcds, exact gaps, nu1/Delta14 and explicit19^12 congruence",
+    "R10C nu>=2 or delta0 forces at least two early inner-only odd orders"
+  ],
+  "all_whole_obligations": 52,
+  "actual_branch_first_break_and_ordinary_geometry_retained": true,
+  "T4_and_a2_unit_are_proved_under_t_at_most_one_not_extra_assumptions": true,
+  "root_broad_assignment_no_new_proof_inference": true,
+  "two_OTHER_fresh_initially_blind_WHOLE_nonconstructor_audits_required": true,
+  "no_full_m7_J15_degree20_annual_lift_or_novelty_claim": true,
+  "no_mathematical_executable_CAS_scan_certificate_or_author_rerun": true,
+  "no_new_2022R8_packet_or_peer_review_finding_opened": true,
+  "no_old_shared_Git_cache_edit_spawn_charge_contact_bypass": true,
+  "compact_old_inputs": {
+    "declared_fingerprint_occurrences_verified": 3367,
+    "unique_paths_fingerprinted": 1085,
+    "canonical_deduplicated_summary_sha256": "eacb15b46531bf0540436f27a0f39f15f1e7577d12535b081c9e9c5b35589f3b",
+    "immutable_parent_metadata_not_expanded_in_new_inventory": true
+  },
+  "authoritative_account_weekly": {
+    "at_utc": "2026-10-17 19:29:14 UTC",
+    "total_used_percent": 59,
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "ordinary_usage_allowed": true,
+    "total_ceiling_percent": 90,
+    "integration_reserve": true
+  },
+  "administrative_command": ".venv/bin/python problems/2021-B4/notes/reasoning-return-r10-freeze-v1.py --freeze",
+  "artifacts": [
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r10-candidate-v1.md",
+      "bytes": 23674,
+      "sha256": "30c6046d83792ffff937f6052f7b00c18288754b3dc8e73345ca4a112015d09f"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r10-obligations-v1.md",
+      "bytes": 7188,
+      "sha256": "30d30655c3eef79d19ed032d8b341f2ee028e23dbf64f2fa4d26814afeeb7944"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r10-failed-routes-v1.md",
+      "bytes": 5189,
+      "sha256": "aabca8cbdca341bb98d6a2371d7cdb26ec87bac60ea68b23e44d8a9888efa5a5"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r10-source-audit-v1.md",
+      "bytes": 6386,
+      "sha256": "7e5b121aefb353205b8ce552493d246c4b6c2d63c6a2bffb1ce18156cbedaa38"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r10-constructor-checks-v1.md",
+      "bytes": 5337,
+      "sha256": "ee210b281ba495fa4dece1b061e27a1bf5898c6901a8a58eb73eef1d4dc61cf7"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r10-worklog-v1.md",
+      "bytes": 5310,
+      "sha256": "2d9207c7ce5ec4bb14a03c790c32675fc1b4021d9a1fd6ae9fa40292c370b52f"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r10-sources-v1.json",
+      "bytes": 3422,
+      "sha256": "6e8450252ea0698d5be0ee5c88c9b9dd3f7cd84755a31675d0a278f1e5715e9e"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r10-freeze-v1.py",
+      "bytes": 13706,
+      "sha256": "ff76fe7d4868d0b24a94c284245b363b306a3a583710af3820fe703655e7b2ee"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r10-input-validation-v1.json",
+      "bytes": 12806,
+      "sha256": "37cb8f6ca6db926b570e377486281be16c7e98176c506e8aadeb7012907a0486"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r10-freeze-output-v1.json",
+      "bytes": 592,
+      "sha256": "c3396151fdf4d220aeb6d4db49891fd2a0248950f9e0e7077c67d568d961ed4b"
+    }
+  ]
+}

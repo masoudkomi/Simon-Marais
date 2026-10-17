@@ -1,0 +1,94 @@
+{
+  "frozen_at_utc": "2026-10-17T19:29:59.406896+00:00",
+  "status": "candidate proof - unverified; COMPLETE constructor checkpoint",
+  "constructor": "/root",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independently_verified_effective_settings": null,
+  "whole_obligations": 24,
+  "claims": [
+    "CG1 exact rigid widths and sharper odd cap agreement",
+    "CG2 exact known omitted rigid tail",
+    "CG3 quantitative lower cap error",
+    "CG4 proposed1.765224<lambda<1.834847"
+  ],
+  "requires_two_OTHER_fresh_initially_blind_nonconstructor_WHOLE_audits": true,
+  "old_roles_disclosed": true,
+  "new_math_execution": "one fixed rational sign certificate only; no enumeration/old replay",
+  "certificate_job": {
+    "path": "problems/2019-B4/notes/coordinator-cap-gap-r1-certificate-job-v1.json",
+    "bytes": 490,
+    "sha256": "4edb115cf3b4f5d8703b0bc21b8b1ea532715e810cd638f9d68b0ef4f98c859e"
+  },
+  "compact_input_validation": {
+    "path": "problems/2019-B4/notes/coordinator-cap-gap-r1-input-validation-v1.json",
+    "bytes": 5007,
+    "sha256": "1ecbf080c5c76d14315b33e3d40dd8e933cdb2f414b41daeb9f4a633f58e0e99"
+  },
+  "artifacts": [
+    {
+      "path": "problems/2019-B4/notes/coordinator-cap-gap-r1-candidate-v1.md",
+      "bytes": 11796,
+      "sha256": "0e8afb24ec9e58004ee9464de327b309d834058b277eae4a2608d0d7afde5f33"
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-cap-gap-r1-obligations-v1.md",
+      "bytes": 3649,
+      "sha256": "dacf583a7053f51c25cea05528b17bf41fb9e509caf7d57afe675ec66ee8bb27"
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-cap-gap-r1-worklog-v1.md",
+      "bytes": 2587,
+      "sha256": "0651707e4ef4063b6770fc9371a88be764edfe036f72bad43b63d31f572290b6"
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-cap-gap-r1-source-audit-v1.md",
+      "bytes": 2121,
+      "sha256": "58e28efdd220e081b2a993f8ef63aa2fc8cca09971201d6d1a3bbae35a0ce5cf"
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-cap-gap-r1-certificate-v1.py",
+      "bytes": 877,
+      "sha256": "dc6593cd6d6e97f464d6d955abffadb2efd9aa210a48176f7cb546c9c11a855d"
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-cap-gap-r1-certificate-output-v1.json",
+      "bytes": 2252,
+      "sha256": "9ce677898a8331f99243a7d112f098349c21060c9185af6fee45a3d56303d28c"
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-cap-gap-r1-certificate-stderr-v1.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-cap-gap-r1-certificate-job-v1.json",
+      "bytes": 490,
+      "sha256": "4edb115cf3b4f5d8703b0bc21b8b1ea532715e810cd638f9d68b0ef4f98c859e"
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-cap-gap-r1-input-validation-v1.json",
+      "bytes": 5007,
+      "sha256": "1ecbf080c5c76d14315b33e3d40dd8e933cdb2f414b41daeb9f4a633f58e0e99"
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-cap-gap-r1-sources-v1.json",
+      "bytes": 1393,
+      "sha256": "f55e8ebf3f95884bcdaef2dac38dafb95f08588010120e483270f87547865e39"
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-cap-gap-r1-freeze-v1.py",
+      "bytes": 5965,
+      "sha256": "059fa79e4b3327bf700732012fbb54ac5c7c1e8ef1872622ec0d6cc3592841d6"
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-cap-gap-r1-freeze-output-v1.json",
+      "bytes": 312,
+      "sha256": "6c797ad6187c62f2ee5476b7032a97244821f369c180ea04d577180bcdd12caa"
+    }
+  ],
+  "annual_answer_actual_moment_regime_or_novelty_claim": false
+}

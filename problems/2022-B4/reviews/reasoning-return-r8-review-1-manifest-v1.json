@@ -1,0 +1,51 @@
+{
+  "frozen_at_utc": "2026-10-17T19:14:17.967667+00:00",
+  "status": "COMPLETE initially blind NONCONSTRUCTOR WHOLE R1, recommendation only",
+  "reviewer": "/root",
+  "constructor": "/root/review_2017_coarsening_r1",
+  "target": {
+    "path": "problems/2022-B4/notes/reasoning-return-r8-candidate-v1.md",
+    "bytes": 16851,
+    "sha256": "5e455e606a589f4a6e5d5086a57564099ccc23f17d3832cc1c355c0c33c532b9"
+  },
+  "target_manifest": {
+    "path": "problems/2022-B4/notes/reasoning-return-r8-freeze-v1.json",
+    "bytes": 3609,
+    "sha256": "d0c587428aa42027a22e2ea954f79a4c51596883658d0917038fafdd08152242"
+  },
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "independently_verified_effective_settings": null,
+  "whole_author_obligations": 32,
+  "independent_inference_rows": 32,
+  "substantive_issues": 0,
+  "required_repairs": 0,
+  "new_construction_contribution": false,
+  "old_roles_disclosed": true,
+  "all_peer_findings_unread_through_entire_initial_freeze": true,
+  "no_ordinary_infinite_q10_termination_no_tenfold_annual_or_novelty_claim": true,
+  "artifacts": [
+    {
+      "path": "problems/2022-B4/reviews/reasoning-return-r8-review-1-initial-v1.md",
+      "bytes": 8605,
+      "sha256": "1dce0d61857e6306f5691b3678629d2c85e72a53d05330a0ba28735a4d50741f"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-return-r8-review-1-issues-v1.md",
+      "bytes": 4202,
+      "sha256": "0fdb503542efb4a536d886d6b69d33986e2e369c99a445d1ed559aded771f4fb"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-return-r8-review-1-source-checks-v1.md",
+      "bytes": 2019,
+      "sha256": "03d0d82dcd85e4c9a4b61d15a0ff2cf3d371500c9d95d5a297d90b96ea833b3e"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-return-r8-review-1-integrity-v1.json",
+      "bytes": 1224,
+      "sha256": "33b7449ad31f3d92524f06c3c194dee128ec9b01725ad65ad4355f76a47f12e9"
+    }
+  ]
+}

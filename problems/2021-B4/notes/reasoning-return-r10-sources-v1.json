@@ -1,0 +1,71 @@
+{
+  "recorded_at_utc": "2026-10-17T19:29:24.238172+00:00",
+  "status": "candidate proof - unverified; constructor source record",
+  "primary_public_sources": [
+    {
+      "title": "Official SMMC2021 Paper B",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2021-paper-b.pdf",
+      "actual_scope": "page2 B4 full hypothesis and(b) target only; no preliminary proof",
+      "local_statement": "problems/2021-B4/statement.md",
+      "fresh_local_PDF_sha256": null
+    },
+    {
+      "title": "Atkinson-Sharma1969, A partial characterization of poised Hermite-Birkhoff interpolation problems",
+      "url": "https://homepage.math.uiowa.edu/~atkinson/papers/HB_interp.pdf",
+      "actual_scope": "complete six pages230-235, all226 browser-extracted lines, definitions/Theorem2/full proof and distinct unused converse conjecture",
+      "use": "published sufficient criterion via accepted R9; no all-roots-real hypothesis",
+      "fresh_local_PDF_sha256": null
+    },
+    {
+      "title": "Castryck-Laterveer-Ounaies, Constraints on counterexamples to the Casas-Alvero conjecture, and a verification in degree12",
+      "url": "https://arxiv.org/pdf/1208.5404",
+      "actual_scope": "Section3.4/Lemma17; Proposition19 complete statement/proof and following unramified remark, not whole23-page external proof or degree certificate",
+      "use": "normalization attribution and exact stronger-theorem boundary",
+      "fresh_local_PDF_sha256": null
+    }
+  ],
+  "accepted_bodies": [
+    {
+      "path": "problems/2021-B4/proofs/reviewed-reasoning-return-r8-v1.1.md",
+      "bytes": 19921,
+      "sha256": "33b8713d402d09f711d0096cdc4e8c00f9e622a5335f8e3345eb4f82ba0d359d"
+    },
+    {
+      "path": "problems/2021-B4/proofs/reviewed-reasoning-return-r9-v1.1.md",
+      "bytes": 22183,
+      "sha256": "9cac411e50b28dd30bd961afc4fb1902556d716154c2d75a64a618115f7ec384"
+    },
+    {
+      "path": "problems/2021-B4/proofs/reviewed-odd-support-exclusion-v1.1.md",
+      "bytes": 8176,
+      "sha256": "56274936ab198f01cb38b1701fdec7907860eb654fd2bc79c3b2d0e03054a271"
+    },
+    {
+      "path": "problems/2021-B4/proofs/reviewed-reasoning-J15-v1.1.md",
+      "bytes": 18931,
+      "sha256": "fbc5d212b5b560c8e4e42397d19663f3fc882fa8f206bdcbb4ed897c715627f6"
+    },
+    {
+      "path": "problems/2021-B4/proofs/reviewed-reasoning-return-r5-v1.1.md",
+      "bytes": 23675,
+      "sha256": "f4f088adc133b0581520488cdbba30082c13b2402c96ae555142e5491ad4137d"
+    }
+  ],
+  "accepted_authority_and_historical_rows": "Exact parents bound in input-validation-v1.json; no inventory duplication",
+  "fresh_full_R6_or_all_R7_read_claim": false,
+  "new_proof_supplied_in_main": [
+    "unit and T4 bootstrap from actual late availability",
+    "quartic Euler functional and complete six-pattern hand proof",
+    "actual gcd uniqueness and coefficient gaps",
+    "exact W/Wprime collision comparison and depth-one congruence"
+  ],
+  "older_roles": [
+    "constructor of accepted R6/R7/R8",
+    "old J15/PN/R5 whole reviewer; no independent self-recertification"
+  ],
+  "root_role": "generic research prompt only; no new R10 mathematical inference",
+  "two_OTHER_fresh_initially_blind_whole_nonconstructor_audits_required": true,
+  "no_new_2022R8_packet_or_peer_findings_opened": true,
+  "no_mathematical_executable_CAS_scan_or_author_rerun": true,
+  "no_charge_contact_bypass_or_full_third_party_paper_in_packet": true
+}

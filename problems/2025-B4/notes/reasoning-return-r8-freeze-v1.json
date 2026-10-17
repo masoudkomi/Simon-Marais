@@ -1,0 +1,103 @@
+{
+  "frozen_at_utc": "2026-10-17T19:25:52.568783+00:00",
+  "status": "candidate proof - unverified; COMPLETE constructor checkpoint",
+  "constructor": "/root/review_2022_complexity_r2",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independently_verified_effective_settings": null,
+  "claims": [
+    "R8A quantitative actual original-weight orbit lower bound",
+    "R8B actual phase-uniform real homogeneous cancellation and integral bounds",
+    "R8C nonzero canonical formal series with finite leading-order/size witness",
+    "R8D signed nonzero/zero arithmetic branch bounds, no useful new unconditional improvement"
+  ],
+  "whole_obligations": 48,
+  "requires_two_OTHER_fresh_initially_blind_nonconstructor_WHOLE_audits": true,
+  "root_new_R8_proof_inference_or_constant_contribution": false,
+  "old_UW_authorship_and_other_roles_disclosed_no_independent_self_recertification": true,
+  "only_assigned_unused_R8_prefix_written": true,
+  "mathematical_code_CAS_prime_phase_scan_certificate_or_author_rerun": false,
+  "new_R8_peer_findings_read": false,
+  "new_annual_classification_exclusion_practical_height_improvement_or_novelty": false,
+  "all_old_bytes_preserved_compact_parent_binding": true,
+  "compact_parent_manifest": {
+    "path": "problems/2017-B4/reviews/reasoning-value-return-r4-review-2-manifest-v1.json",
+    "bytes": 4083,
+    "sha256": "572f3cb6a412c56c499047974aa7b360358198bfd1cefb32128f295b0da83476"
+  },
+  "compact_parent_validation": {
+    "path": "problems/2017-B4/reviews/reasoning-value-return-r4-review-2-input-validation-v1.json",
+    "bytes": 19919,
+    "sha256": "f6001c230523eb97e2ad319e83d478e34c8ed8b2991fe0f909d9e09a0f4e9130"
+  },
+  "older_own_unique_paths_preserved": 365,
+  "record_occurrences_reverified": 438,
+  "unique_paths_reverified": 400,
+  "Git_shared_old_bytes_cache_write_spawn_charge_contact_or_bypass": false,
+  "direct_weekly_telemetry": {
+    "at_utc": "2026-10-17 19:25:31 UTC",
+    "total_used_percent": 59,
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "spend_control_reached": false,
+    "rate_limit_reached_type": null,
+    "total_ceiling_percent": 90,
+    "review_integration_reserve": true
+  },
+  "command": "python3 problems/2025-B4/notes/reasoning-return-r8-freeze-v1.py",
+  "artifacts": [
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r8-candidate-v1.md",
+      "bytes": 25033,
+      "sha256": "2688587a44e9c161c7bb2bcdc6eecfb474c231ab9542572aaec5e9ed557a9b8d"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r8-obligations-v1.md",
+      "bytes": 7934,
+      "sha256": "250c0a055c2436d0f419e093f63407bf11a70b84611fa39a29d5785b0cdd27f8"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r8-failed-routes-v1.md",
+      "bytes": 6075,
+      "sha256": "a01dcd1bdb3837333c8a532873484cb0ef85ceac6b116371fdf79c2d13457cc8"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r8-constructor-checks-v1.md",
+      "bytes": 5227,
+      "sha256": "35b133424e8f09e342ed3f823f455680249ca8ca625f7076f0a2e48904b30644"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r8-source-audit-v1.md",
+      "bytes": 6387,
+      "sha256": "41d1d48c1312aed152e1319b53d39bfa3d8e097d69c3048a979460314bfd2504"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r8-worklog-v1.md",
+      "bytes": 6674,
+      "sha256": "db45863c6cf621e700dbea6316ba66ab01e8745aab3b34274b99adb5b05ac550"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r8-sources-v1.json",
+      "bytes": 14324,
+      "sha256": "34473645de238f1b82a8600b19ace09ac209c77faad4111cbcf39ef5ae018410"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r8-freeze-v1.py",
+      "bytes": 19570,
+      "sha256": "b19494623382636e4fa3a84bfb5e74a14e17f2dd0024fa7a5536190421fdab89"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r8-input-validation-v1.json",
+      "bytes": 12568,
+      "sha256": "6bc2147006802021de1d8d5321d515745be45f71fbb6bbe2e19c16e167d3e7ed"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r8-freeze-output-v1.json",
+      "bytes": 713,
+      "sha256": "77ffdc0b4e36da76fa85ef0716608f874ec3de8a2d312709c291f4300a676373"
+    }
+  ]
+}

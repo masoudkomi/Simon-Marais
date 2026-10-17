@@ -1,0 +1,240 @@
+{
+  "recorded_at_utc": "2026-10-17T19:16:05.660768+00:00",
+  "status": "administrative baseline only; no mathematical program",
+  "unused_fresh_prefix_confirmed": true,
+  "old_R3_prefix_occupied_files": 16,
+  "immutable_parent_manifest": {
+    "path": "problems/2022-B4/notes/reasoning-return-r8-freeze-v1.json",
+    "bytes": 3609,
+    "sha256": "d0c587428aa42027a22e2ea954f79a4c51596883658d0917038fafdd08152242"
+  },
+  "parent_transitive_own_paths_preserved_by_reference": 415,
+  "parent_historical_inventory_not_copied": true,
+  "parent_8_artifacts_reverified": true,
+  "direct_inputs_and_occupied_prefix_and_source_bytes": [
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-07.png",
+      "bytes": 86381,
+      "sha256": "a3ea7a6e5574f48e89e91b37da500c50a6bd4ff2dc7140036927a645e69ef038"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-14.png",
+      "bytes": 97174,
+      "sha256": "e0fcbc6bf13f0c262b511f46fde088cea64f8c2a42aca41a27973294d6b1df8f"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-15.png",
+      "bytes": 121397,
+      "sha256": "1fd54570b0475f15334b3c43bd4193a1c9feb2209a7e2644eb2fae67049bba06"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-18.png",
+      "bytes": 122573,
+      "sha256": "629fba731a8a43732df2b4e36cbf71b9a9757a8d239e5787ebeae6b679ac2016"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-20.png",
+      "bytes": 113286,
+      "sha256": "b33260e32ae214f4f4d26e4e7f79f956f3615297b253c627aeac7e8f4f750475"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-21.png",
+      "bytes": 98268,
+      "sha256": "6b12ece130a5a99f281ce989a77b5c01d53a9035f5666b2f48942e15d5316bbd"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-22.png",
+      "bytes": 103970,
+      "sha256": "1d7b62828564b5dbb08efb6861903e3338d1fdfede491bf13f89d53067bf021f"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-23.png",
+      "bytes": 97033,
+      "sha256": "4fb9388c5944705e712fdf11b6f7c4e07bd55efb954d43dfcea12d8b7a5e2ded"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-24.png",
+      "bytes": 95716,
+      "sha256": "d07f0c310f51372423297698546aaae6aa410336c687cb29a572ea7900210ef3"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-25.png",
+      "bytes": 92905,
+      "sha256": "e568d042b5400a53bd865f4987124e19c17b3ab605480c562ec46a6f1634aa18"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995.pdf",
+      "bytes": 2610589,
+      "sha256": "d8e8e62d873c5ec69e2fd40473a9aee257bb8d4994cb5ffc1a42cb70f8bcbd24"
+    },
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-return-r8-candidate-v1.md",
+      "bytes": 16851,
+      "sha256": "5e455e606a589f4a6e5d5086a57564099ccc23f17d3832cc1c355c0c33c532b9"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-return-r8-failed-routes-v1.md",
+      "bytes": 4054,
+      "sha256": "79993a7bf53a325f2ce8e73420763c3b24e64dfe4b7b9136e333ecfbe6916412"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-return-r8-freeze-v1.json",
+      "bytes": 3609,
+      "sha256": "d0c587428aa42027a22e2ea954f79a4c51596883658d0917038fafdd08152242"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-return-r8-freeze-v1.py",
+      "bytes": 13039,
+      "sha256": "11e02c7f3a411278b105c24924982a920f3b449bf2af760b4312bbbada52caa3"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-return-r8-input-validation-v1.json",
+      "bytes": 7037,
+      "sha256": "1f012c2ce647d4e83fd1127cd849d7fa06ea4aad1ebd8ab30d1fd522a0829fc9"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-return-r8-obligations-v1.md",
+      "bytes": 4947,
+      "sha256": "9296d7a791e24fce544e079f28a70cf3da0a28d7afb48d6ba3be24ff0450c61a"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-return-r8-source-audit-v1.md",
+      "bytes": 5220,
+      "sha256": "bbda1c893e7f4eab82aecef5bccb3bbd2830d5fb50e24aa6293783506560fb20"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-return-r8-sources-v1.json",
+      "bytes": 8935,
+      "sha256": "044d5fe24aa25453b6321b44e28fcf390ad51f63f99f58e04d1ebd4db8d2f130"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-return-r8-worklog-v1.md",
+      "bytes": 4434,
+      "sha256": "af20bff3e825ffca4c844c5dc96f7e321b347a49e5b0f9c04de48bb3d0eb2554"
+    },
+    {
+      "path": "problems/2024-B4/notes/deep-literature-r2-report-v1.md",
+      "bytes": 12012,
+      "sha256": "1c67cfed98d530e1b76296d3f8da6be9e20834557016f1a7a434a8c69516f1e4"
+    },
+    {
+      "path": "problems/2024-B4/notes/deep-literature-r2-search-sources-v1.json",
+      "bytes": 25150,
+      "sha256": "e4267e62904eb2f6b7b06e86545cebad0621b8a92ebdb5c2ca90bcc3e3d0ddad"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-return-r3-candidate-v1.md",
+      "bytes": 15010,
+      "sha256": "cff70e9b104a48613712d0f2920157f29a5c20b56fb26055de829984e11fb021"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-return-r3-failed-routes-v1.md",
+      "bytes": 3489,
+      "sha256": "2b4d389fe05907fe2d42004d2f0e012b57eb1229efed74ee5a6d8fca1293e699"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-return-r3-freeze-v1.json",
+      "bytes": 4596,
+      "sha256": "e2c1b451f486db75597fbd6b99c970f85a7ed70528bebd032e2d7168fbcf7741"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-return-r3-freeze-v1.py",
+      "bytes": 7166,
+      "sha256": "fa0329216aa93a63a73b2ed41159c29c89659fc3c53d089f133ab08ac0ca1d80"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-return-r3-input-validation-v1.json",
+      "bytes": 35730,
+      "sha256": "016383871e657d90fac34386f25971cab15209cbeb29006419013d75cf9364c3"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-return-r3-kasami-target-certificate-v1.json",
+      "bytes": 5857,
+      "sha256": "d3d32bb95b54edda97b9637b26a32d0c4fbd61d1e1d47106fbab2c00560a226c"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-return-r3-kasami-target-check-v1.py",
+      "bytes": 4233,
+      "sha256": "77389d2c400e263a281b0112263ed30852900523414834d80b5ead8ca7de2e44"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-return-r3-kasami-target-completion-v1.json",
+      "bytes": 363,
+      "sha256": "2918fa00db89338fa59183df64649f167325751714dd8053b4d96ee52e00dc84"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-return-r3-kasami-target-job-v1.json",
+      "bytes": 427,
+      "sha256": "fbcedcf3aecf2c3ff2972fea7070dabe2f740cdff235e808e9ef75d533e48d8f"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-return-r3-kasami-target-run-v1.py",
+      "bytes": 1873,
+      "sha256": "725ca63e49d043c30973722108d95fb4cd465815faec970c6577e9d8ffda918c"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-return-r3-kasami-target-stderr-v1.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-return-r3-kasami-target-stdout-v1.txt",
+      "bytes": 513,
+      "sha256": "33e0ff989de0d9785f1bab6302be8a609fc041f1d1f54b87b792b45238b844be"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-return-r3-obligations-v1.md",
+      "bytes": 3243,
+      "sha256": "0204bebdbd09e8c3ea80f1e8b330b8d28642bb29d7c679905c9da8cd7285e100"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-return-r3-source-audit-v1.md",
+      "bytes": 6310,
+      "sha256": "0c06483f9fc55f03b915bb31eb81fef2c6c41758ef701f8b414aea01f03006d1"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-return-r3-sources-v1.json",
+      "bytes": 5818,
+      "sha256": "3fe461e2b3d29a7c8b42afb5a5919c8e99a15f31a0483518b56ae42922d041c8"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-return-r3-worklog-v1.md",
+      "bytes": 5282,
+      "sha256": "978eed35a1402a166bbdbc65365bc86d1a15cce46d1fc413480ea4f012e64a35"
+    },
+    {
+      "path": "problems/2024-B4/proofs/reviewed-component-saturation-v1.1.md",
+      "bytes": 15562,
+      "sha256": "84770c4555e611c7206292d892c1b0364ebe97a8c26db6667a26e4502cd27466"
+    },
+    {
+      "path": "problems/2024-B4/proofs/reviewed-divisor-criteria-v1.1.md",
+      "bytes": 17334,
+      "sha256": "3afbf3eda795ecfcf6989ef6ec855e5c7e795f26f5a84effe8c4bd73ffeb4ed3"
+    },
+    {
+      "path": "problems/2024-B4/proofs/reviewed-reasoning-components-r1-v1.1.md",
+      "bytes": 27459,
+      "sha256": "43f095a4286919a32db16298ae6ddde016f9ee10de9394c45584c69ca186fe36"
+    },
+    {
+      "path": "problems/2024-B4/proofs/reviewed-structural-v1.1.md",
+      "bytes": 17079,
+      "sha256": "082dc054ce2cdaea80eee009f4c97c877c6968afb54b5a8f3141b7354031dd3f"
+    },
+    {
+      "path": "problems/2024-B4/statement.md",
+      "bytes": 2470,
+      "sha256": "60244f7752634772adb434efbdb41a63fb02029dc3be4238f3718c6e5ec84e5f"
+    }
+  ],
+  "record_occurrences": 44,
+  "deduplicated_paths": 44,
+  "canonical_record_array_sha256": "a156df9792b3ea5dfac614fb246bb304bc903462507fa652964f241c2ba77ed6",
+  "no_cache_old_shared_Git_edit": true
+}

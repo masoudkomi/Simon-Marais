@@ -1,0 +1,93 @@
+{
+  "frozen_at_utc": "2026-10-17T19:24:26.728486+00:00",
+  "status": "candidate proof - unverified; COMPLETE source-led mathematical checkpoint",
+  "constructor": "/root/review_2017_coarsening_r1",
+  "contributors": [
+    "C",
+    "root"
+  ],
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "independently_verified_effective_settings": null,
+  "claims": [
+    "S3A attributed published WHOLE sector theorem with complete reconstruction",
+    "S3B arbitrary-odd-target diagonal-germ alternative with exact quotient correction",
+    "S3C every sector base isolated from EVERY other odd index, even over the algebraic closure",
+    "S3D finite graded-sum divisibility consequence"
+  ],
+  "whole_obligations": 36,
+  "two_OTHER_fresh_initially_blind_WHOLE_nonconstructor_audits_required": true,
+  "published_source_attribution_and_original_journal_read_limit_retained": true,
+  "no_source_infinity_defect_claim": true,
+  "old_C7_C11_not_rerun_or_claimed_new": true,
+  "no_full_annual_classification_new_qualifying_family_or_novelty_claim": true,
+  "mathematical_program_CAS_scan_certificate_or_author_rerun": false,
+  "compact_immutable_parent_manifest": {
+    "path": "problems/2022-B4/notes/reasoning-return-r8-freeze-v1.json",
+    "bytes": 3609,
+    "sha256": "d0c587428aa42027a22e2ea954f79a4c51596883658d0917038fafdd08152242"
+  },
+  "earlier_own_paths_preserved_by_compact_reference": 415,
+  "all_47_current_source_input_and_occupied_prefix_records_reverified": true,
+  "source_input_record_occurrences": 47,
+  "source_input_deduplicated_paths": 47,
+  "administrative_command": "/Users/uqmkamga/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 problems/2024-B4/notes/reasoning-sector3-return-r1-freeze-v1.py",
+  "direct_weekly_telemetry": {
+    "at_utc": "2026-10-17 19:20:55 UTC",
+    "total_used_percent": 58,
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "ordinary_usage_allowed": true,
+    "total_ceiling_percent": 90,
+    "review_integration_reserve": true
+  },
+  "artifacts": [
+    {
+      "path": "problems/2024-B4/notes/reasoning-sector3-return-r1-candidate-v1.md",
+      "bytes": 17157,
+      "sha256": "e8ca03cd139df7dcbe7508ad4c701e66d220a177c58ea01f8fac23a1788edd6a"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-sector3-return-r1-obligations-v1.md",
+      "bytes": 4846,
+      "sha256": "b1cbb410f151cb05af460400ab9d7ba17e5a7f271e4b5a363bb69d9271e854df"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-sector3-return-r1-failed-routes-v1.md",
+      "bytes": 4674,
+      "sha256": "fa2f5eabf0b1be678cb1dab0277cbbec10a39e46705d4a31b65604ae545f77ac"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-sector3-return-r1-source-audit-v1.md",
+      "bytes": 5760,
+      "sha256": "6318d3f5ca147dd9bd87095a41ca9c3640840966e880dcb9f1fcb5b8650f94de"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-sector3-return-r1-worklog-v1.md",
+      "bytes": 6669,
+      "sha256": "234c845f03783cc6c3d3e33f39940d8dec2067ac31d55da74dbb460122ae9e64"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-sector3-return-r1-baseline-v1.json",
+      "bytes": 9488,
+      "sha256": "1f33d04c6652c1a4aa5d48be76aca92625f3c02f22098395434aefadba54765f"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-sector3-return-r1-freeze-v1.py",
+      "bytes": 13582,
+      "sha256": "7c5d58845912d63320e4516f03c015e83816960504a231c884bcfe824f287e73"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-sector3-return-r1-sources-v1.json",
+      "bytes": 8417,
+      "sha256": "390ab3454b9a7105d8c3c90a4730ea2e2ed514c2613d8230d1733f87dfbdb99a"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-sector3-return-r1-input-validation-v1.json",
+      "bytes": 3020,
+      "sha256": "0bfd8097ef6a16bf85d61cc3e46be86a6f8117677e37aaaa422437db5aa4d1b4"
+    }
+  ]
+}

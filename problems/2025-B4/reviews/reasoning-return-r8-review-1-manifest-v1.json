@@ -1,0 +1,51 @@
+{
+  "frozen_at_utc": "2026-10-17T19:34:16.162835+00:00",
+  "status": "COMPLETE initially blind NONCONSTRUCTOR WHOLE R1; recommendation only",
+  "reviewer": "/root",
+  "constructor": "/root/review_2022_complexity_r2",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "independently_verified_effective_settings": null,
+  "target": {
+    "path": "problems/2025-B4/notes/reasoning-return-r8-candidate-v1.md",
+    "bytes": 25033,
+    "sha256": "2688587a44e9c161c7bb2bcdc6eecfb474c231ab9542572aaec5e9ed557a9b8d"
+  },
+  "target_manifest": {
+    "path": "problems/2025-B4/notes/reasoning-return-r8-freeze-v1.json",
+    "bytes": 4298,
+    "sha256": "a68ae37d1d5b9f0b209629e6d2027da1ad0fe8d8e6d889b6e261bc0f5a8cff04"
+  },
+  "whole_author_obligations": 48,
+  "independent_inference_rows": 48,
+  "substantive_issues": 0,
+  "required_repairs": 0,
+  "old_UW_root_contribution_and_R6_R7_review_roles_disclosed": true,
+  "new_R8_construction_contribution": false,
+  "all_peer_findings_unread_through_ENTIRE_initial_freeze": true,
+  "actual_zero_branch_retained_no_useful_unconditional_height_or_exclusion": true,
+  "artifacts": [
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r8-review-1-initial-v1.md",
+      "bytes": 10985,
+      "sha256": "649a531218a80160e94abc81459e316d50dba522813b4705b21eeef7abb8d16d"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r8-review-1-issues-v1.md",
+      "bytes": 2246,
+      "sha256": "3ac69f274b0a81a6e16dc617f57b4383fe92b0c8130fb4d08e404e27af77d944"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r8-review-1-source-checks-v1.md",
+      "bytes": 2549,
+      "sha256": "f1cfa8fcd1833ea187989ff0671018ec9448270b5c31ac5a403f8c5da72a6fc9"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r8-review-1-integrity-v1.json",
+      "bytes": 1576,
+      "sha256": "f45015ea88c47f2f11382ae17b7e99fd1e57207ae3a258d0378f0d5acbc4d572"
+    }
+  ]
+}
