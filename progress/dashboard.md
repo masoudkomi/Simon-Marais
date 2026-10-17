@@ -100,3 +100,8 @@ Update approximately12:32UTC:2020 R4 BOTH whole initials are now frozen. R2 foun
 ## Current checkpoint — 2026-10-17 12:52 UTC
 
 [All-nine status and usage](status-2026-10-17-1252.md). NEW2025FS1–FS3 accepted after40/50wholechecks/fullrootreconciliation; no new Diophantine exclusion. NEW2021R6 complete, rootwholeR1frozen, otherR2queued. NEW2022R5 complete frozenUNVERIFIED; root/Bcontributors excluded, A/Cwholeauditsqueued. NEWrootOW1–OW3 frozenUNVERIFIED, A/Cauditsqueued/active.2020R4 fullauthorrepairactive before bothaffectedreaudits.2017newvaluecompressionresearchactive. Twoannualanswers2018/2023; sevenunresolved.39%TOTALweekly,51ppbefore90%,samereset. Raw12:52:11UTC816,309,618total/44,480,882uncached+output. Ownedawakeverified22:52:11Brisbane. Research continues.
+
+
+## Current checkpoint — 2026-10-17 13:09 UTC
+
+[All-nine status](status-2026-10-17-1309.md). NEWrepaired2020R4,2021R6 andconditional2025OW accepted afterbothwholeaudits/fullrootreconciliation and required BOTH2020affectedreaudits.2annualanswers2018/2023,7unresolved.2017V1–V4rootR1frozen/BwholeR2active;2022F5twoOTHERwholeauditsactive;2024CJ1unverifiedtwoOTHERauditsqueued.2019relationrephrasing addsno newreduction.40%TOTALweekly,50ppbefore90%,samereset. Raw13:09:25UTC848,458,187total/45,638,603uncached+output. Researchcontinues.

@@ -1,0 +1,68 @@
+{
+  "frozen_at_utc": "2026-10-17T13:07:13.133477+00:00",
+  "status": "complete fresh initially blind nonconstructor WHOLE R6A-R6C review2; no substantive defect identified in exact scope",
+  "reviewer": "review_2022_complexity_r2",
+  "new_constructor": "review_2021_reasoning_j15_r2",
+  "reviewer_constructed_or_contributed_to_R6": false,
+  "old_R3_R5_single_center_review_roles_disclosed": true,
+  "requested_model": "gpt-6.1-sol",
+  "requested_reasoning_effort": "max",
+  "verified_effective_setting_readback": null,
+  "new_R6_peer_findings_read_before_complete_initial_freeze": false,
+  "full_main_source_log_and_all36_obligations_read": true,
+  "whole_independent_mathematical_reconstruction": true,
+  "per_inference_checks": 48,
+  "substantive_issues_identified": 0,
+  "required_author_repairs": 0,
+  "independent_hand_five_case_certificate_and_all_actual_witness_cases": true,
+  "accepted_old_certificate_reruns_or_new_recertification_claim": false,
+  "mathematical_program_scan_CAS_enumeration_certificate_or_author_rerun": false,
+  "old_shared_Git_cache_other_owner_edits_spawning_contact_charge_or_bypass": false,
+  "complete_degree20_or_novelty_or_coordinator_promotion_claim": false,
+  "author_manifest": {
+    "path": "problems/2021-B4/notes/reasoning-return-r6-freeze-v1.json",
+    "bytes": 2937,
+    "sha256": "9c97c3b704fb2b53ce8108991ffca70e04a01760dcbadb8d2712ba339bc24538"
+  },
+  "author_artifacts_verified": 8,
+  "input_record_occurrences_verified": 2440,
+  "input_unique_paths_verified": 770,
+  "older_own_unique_frozen_paths_preserved": 217,
+  "direct_weekly_telemetry": {
+    "at_utc": "2026-10-17T13:01:15+00:00",
+    "source": "direct account-wide Codex usage tool paired with UTC clock",
+    "total_used_percent": 40,
+    "window_duration_minutes": 10080,
+    "resets_at_unix": 1792745187,
+    "ordinary_usage_allowed": true,
+    "total_used_cutoff_percent": 90,
+    "integration_reserve": true
+  },
+  "artifacts": [
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r6-review-2-initial-v1.md",
+      "bytes": 14328,
+      "sha256": "e3dcdfb7defedb86c092573187b08414bd3e2981228fa1c2181aaeb6e24d4ed0"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r6-review-2-issues-v1.md",
+      "bytes": 9943,
+      "sha256": "a0456cf5b064922f68039540f7b1b05f6fc24cc3a3ac0a786218313d4038e254"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r6-review-2-source-checks-v1.md",
+      "bytes": 8179,
+      "sha256": "e1d59d7dd700eb02a478aaea6a8a82459665854a55ecf01c20c06bb8821518f0"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r6-review-2-freeze-v1.py",
+      "bytes": 11233,
+      "sha256": "9a85ab61d00e485bbc92a9626f4120f3e60ee5553f8c49b564cd65324311f9cd"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r6-review-2-input-validation-v1.json",
+      "bytes": 486545,
+      "sha256": "aea000583886a1a552af06769be6a11153a9fa82f7f254ff0768a9318cd1db06"
+    }
+  ]
+}

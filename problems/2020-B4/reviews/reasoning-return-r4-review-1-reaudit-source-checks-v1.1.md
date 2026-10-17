@@ -1,0 +1,3 @@
+# Affected R4 root source record
+
+Full replacement main,44obligations, repair ledger, full sourceMD/JSON, worklog and ENTIREexactfive-filediff read. Original whole reports and all ledgers/sourcechecks previously read in full. Newotheraffectedreport unread throughthisfreeze. No newexternaltheorem orfreshcompleteexternalproofaudit is claimed; all originalsourcevisits andlimits remainhistorical. The correctionusesonly the displayed elementary Fermat/binomial/evaluation-matrix/countbounds reconstructed in this report. FullR4A--D/E5segments andoldhistoricalsuffixes/textdiff verifiedadministratively. No mathematicalprogram, CAS, scan, authorreplay, contact, charge, newdownload oraccessbypass. RootoriginalR1miss is explicit; oldinitial remainsunchanged.

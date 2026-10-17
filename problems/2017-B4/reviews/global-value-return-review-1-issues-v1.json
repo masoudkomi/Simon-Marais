@@ -1,0 +1,253 @@
+{
+  "frozen_at_utc": "2026-10-17T13:02:45.982344+00:00",
+  "reviewer": "coordinator root",
+  "new_V_constructor": false,
+  "old_global_strategy_authorship_roles_disclosed": true,
+  "peer_new_V_findings_read": false,
+  "whole_audit": true,
+  "all40obligations_reconstructed": true,
+  "issues": [],
+  "required_repairs": [],
+  "checks": [
+    {
+      "id": "GV-O01",
+      "label": "Official marked count",
+      "reconstruction": "OfficialPaperB/notes B4 freshly extracted; fixed polygon and orientation-distinguished count, no rotation/reflection quotient, no reduced-word or extra label-factor substitution. C1 is auxiliary only.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "GV-O02",
+      "label": "Exact accepted interfaces",
+      "reconstruction": "DC full decorated code/section/monotonicity, accepted fixedD G2/scalar G3 and U are the only direct theorem inputs. Allten transitive mathematical fingerprints remain unchanged and no scope is enlarged.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "GV-O03",
+      "label": "No circular limit argument",
+      "reconstruction": "Existence ofL comes from separately acceptedG3, not V2. Internal-block normalized counts can therefore use that already known limit.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "GV-O04",
+      "label": "Restricted reversal",
+      "reconstruction": "Deleting outside original labels preserves each internal pair crossing once. At its crossing the two labels are still adjacent after deletion, so the resulting word has exact minimal reversal length.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "GV-O05",
+      "label": "Restriction descends to classes",
+      "reconstruction": "An allowed commutation either deletes an event or retains two disjoint adjacent label pairs. When both survive, their restricted swaps commute. Thus A_i is independent of sweep representative.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "GV-O06",
+      "label": "Invariant rank lists",
+      "reconstruction": "Commuting generators with indices apart by>1 touch disjoint rank-track pairs. They preserve every directed neighbor-symbol list and its multiplicities.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "GV-O07",
+      "label": "Exact number of ports",
+      "reconstruction": "Each of binom(m,2) internal events contributes one port to each of two smoothed tracks, giving sumk_r=m(m-1), even though individual rank degrees need not all equalm-1.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "GV-O08",
+      "label": "Identification before counting",
+      "reconstruction": "Deleting outside labels preserves same-color current order. Each restored internal crossing therefore has the same rank pair and neighbor symbols in the induced class as in the original color smoothing. Original labels themselves do exchange rank.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "GV-O09",
+      "label": "Retained vertices",
+      "reconstruction": "Accepted block-reversal projection crosses each other-color projected strand once. Each color-i rank track thus has exactlyn-m_i retained vertices, independent of its internal port count.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "GV-O10",
+      "label": "Canonical gap identities",
+      "reconstruction": "The projected strand identities and directed crossing order name every gap, as in the full acceptedDC decorated-code invariance. No chosen linear extension is part of the code.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "GV-O11",
+      "label": "Stars and bars",
+      "reconstruction": "Witha=n-m_i retained vertices there area+1 gaps. Weakly distributingk ordered ports givesbinom(a+k,k), includinga0/k0, without another order factor.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "GV-O12",
+      "label": "Symbols already fixed",
+      "reconstruction": "Each internal class fixes its whole directed symbol list. Gap counts fill that list consecutively, so no independent binary-port choice or within-gap permutation remains.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "GV-O13",
+      "label": "Forced matching",
+      "reconstruction": "For every neighboring same-color rank pair, actual monotone contact times agree on both tracks. Their kth directed contacts must match, including repeated contacts; a crossed matching would reverse an order.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "GV-O14",
+      "label": "Recover class",
+      "reconstruction": "Restore contact cross-routing, follow initial labels and recover each original strand event order. The induced eventposet determines a class because adjacent incomparable events have disjoint label pairs and commute.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "GV-O15",
+      "label": "Invariant injection",
+      "reconstruction": "Restriction invariance plus fullDC decoration invariance makes the combined projected/internal/gap code representative independent and injective on actual original classes.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "GV-O16",
+      "label": "Invalid codes harmless",
+      "reconstruction": "Independently chosen data may fail to lift. V1 only injects actual diagrams into a larger finite code set and never needs arbitrary simultaneous lifting.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "GV-O17",
+      "label": "Weighted count",
+      "reconstruction": "For fixedQ, sum the per-track placement products over INTERNAL CLASSES, then multiply across blocks and sumQ. This gives the displayed W_m fiber upper bound, not a history count.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "GV-O18",
+      "label": "Lower comparison",
+      "reconstruction": "The original DC section prefixes chosen within-block reversals and projects back toQ; its leftinverse suppliesB<=C without a new surjectivity assumption.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "GV-O19",
+      "label": "Smoothing ratio",
+      "reconstruction": "F_a(u-1)F_a(v+1)/(F_a(u)F_a(v)) equals the printed positive fraction. Cross-multiplying givesa(u-v-1)>=0, includinga0 equality.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "GV-O20",
+      "label": "Terminate at mean",
+      "reconstruction": "Replacing u>=v+2 reduces sum of squares and preserves totalm(m-1). At termination allentries differ by<=1; integermeanm-1 then forces allentriesm-1. No maximizing profile realizability is needed.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "GV-O21",
+      "label": "Finite endpoints",
+      "reconstruction": "m1 has noports; a0 givesW_m0=Cm. D1 yields exactC(n), singletonblocks give exactB=C, and auxiliaryn1 usesbinom00=1. Emptyblocks/n0 are excluded.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "GV-O22",
+      "label": "Balanced sandwich",
+      "reconstruction": "For fixedD, floor/ceil monotonicity sandwichesB(m) betweenB_D(p) andB_D(p+1). Exact accepted all-integerG2 and normalization ratios->1 giveell_D.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "GV-O23",
+      "label": "Internal contribution",
+      "reconstruction": "At fixedD allm_i->infinity, (m_i/n)->1/D and logC(m_i)/m_i\u00b2->L. TheD weighted terms therefore sum toL/D.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "GV-O24",
+      "label": "Placement entropy",
+      "reconstruction": "Apply the elementary binomial entropy upper bound withN=n-1, k=m_i-1. Multiplication bym_i and division byn\u00b2 yields the stated weighted continuous limit h2(1/D).",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "GV-O25",
+      "label": "Correct limsup direction",
+      "reconstruction": "Takinglimsup of the finite upper bound givesL<=ell_D+L/D+h. Rearranging by positive1-1/D givesV2a; lowerell<=L is inherited fromB<=C.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "GV-O26",
+      "label": "Quantitative scope",
+      "reconstruction": "Substitute acceptedL<U=324757/500000 to obtain h+U/D. This improves the direction-error constant but provides neither an evaluatedell_D nor uniform side-length threshold/D(n) exchange.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "GV-O27",
+      "label": "Finite computability",
+      "reconstruction": "There are finitely many lengthK words. Target inversionlengthK makes every retained word reduced. Connected components under finite allowedcommutations compute the exact quotientcount; algorithm termination is conceptual and not a performed scan.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "GV-O28",
+      "label": "Computable logarithms",
+      "reconstruction": "Integer comparisons N^(2^t) versus2^(j r\u00b2) give dyadic floor approximants tologN/r\u00b2. Equality is decidable, dyadic refinements are monotone, error<2^-t. A finite crude integer upper range suffices.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "GV-O29",
+      "label": "Balanced GE membership",
+      "reconstruction": "Forv_i=(1,i-1), normv_i<=i givesperimeter<=D(D+1)r; contentsr andemptyexterior satisfyactualGE. G2 onALLmultiplesMr givesLambda(B_r)=r\u00b2k_D withr fixed.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "GV-O30",
+      "label": "E remains additional",
+      "reconstruction": "QualitativeG1 does not produce a computable envelope. The explicitly assumed epsilon bounds only the positive excessa_D(r)-k_D and tends tozero separately at fixedD.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "GV-O31",
+      "label": "Lower sequence",
+      "reconstruction": "d-epsilon<=a-epsilon<=k_D, and maxwith0 isvalid becausek_D>=0. Increasing precision and range makeb(D,s) monotone. Choosinglargefixedr thenincreasings proves convergence toell_D.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "GV-O32",
+      "label": "Uniform diagonal",
+      "reconstruction": "Everyb(D,s)<=ell_D<=L. For anyaccuracy chooseD withell_D nearL, then sufficientlys for itsb; the finite maximumoverD<=s is computable, nondecreasing and tends toL.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "GV-O33",
+      "label": "E plus R algorithm",
+      "reconstruction": "Choosej by a rational terminating search andD2^j. The elementarylogbound givesh2(1/D)+1/D<=(j+3)/2^j. b<=ell<=u andbothconverge, so the intervalwidth search halts and its rational midpoint approximatesL. No convergence modulus is assumed.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "GV-O34",
+      "label": "SFT limitation",
+      "reconstruction": "Fresh primaryTheorem1.3/strongirreducibility definitions and proof context confirm a lattice finite-alphabet hypothesis. No exact entropyidentification or separated globallyadmissible pattern extension is established for these prescribedzonogons.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "GV-O35",
+      "label": "Halting approximants",
+      "reconstruction": "Finite simulations give computable increasing alpha_n and alpha<=1/3. Every fixed finitecollection of actualhaltingprograms eventuallyenters; its remaininggeometrictail gives convergence. The diagonalhalting set is undecidable.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "GV-O36",
+      "label": "Separated-digit noncomputability",
+      "reconstruction": "After smallerweights aredecided, the residual is>=w_e ifehalts and<=w_e/3 otherwise. Error<w_e/6 andthreshold2w_e/3 distinguishcases inductively; computablealpha woulddecidethehalting set.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "GV-O37",
+      "label": "Integer abstractcounts",
+      "reconstruction": "A(n)=2^floor(n\u00b2alpha_n) isfinitecomputable, positive andnondecreasing because bothnonnegative factors increase. It is<=2^(n\u00b2/3) andA1=1.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "GV-O38",
+      "label": "All replicationindices",
+      "reconstruction": "For m<l the exponentfloor(m/l)\u00b2 iszero. Otherwise alpha_m>=alpha_l andm\u00b2>=k\u00b2l\u00b2; floor(k\u00b2x)>=k\u00b2floorx forintegerk\u00b2 gives theexact allm/l inequality.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "GV-O39",
+      "label": "Limit and zero deficit",
+      "reconstruction": "NormalizedlogA differsfromalpha by atmostalpha-alpha_n+1/n\u00b2. Atfixedr theMrsubsequencegivesdilationlimitr\u00b2alpha, andlogA(r)<=r\u00b2alpha, so thepositivepartdeficit isexactlyzero.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "GV-O40",
+      "label": "No geometric/noncomputability extrapolation",
+      "reconstruction": "Theabstractcounts realize noactualtiling/GE/SFT geometry. V4 onlyrefutes aninferencefrom the listedweakcountproperties. NeitherE/R nor actualLcomputability/noncomputability, fullvalue, effectivep-rate ornovelty isclaimed.",
+      "verdict": "pass in exact scope"
+    }
+  ]
+}

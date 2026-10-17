@@ -1,0 +1,69 @@
+{
+  "frozen_at_utc": "2026-10-17T13:04:28.801671+00:00",
+  "status": "complete initially blind whole R1; OW1-OW3 pass in their explicit conditional algebraic scopes, no substantive issue found; coordinator reconciliation pending",
+  "reviewer": "/root/review_2017_coarsening_r1",
+  "new_OW_constructor": false,
+  "older_FS_constructor": true,
+  "old_FS_not_independently_reaudited_by_its_author": true,
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "target": {
+    "path": "problems/2025-B4/notes/coordinator-original-weight-selection-candidate-v1.md",
+    "bytes": 6934,
+    "sha256": "ef41445567edb53e53980b9edfbba2739cb1879f048e19b9e64f48e2e684ad3e"
+  },
+  "target_manifest": {
+    "path": "problems/2025-B4/notes/coordinator-original-weight-selection-manifest-v1.json",
+    "bytes": 2606,
+    "sha256": "f73e2c9152c196f1b39b360fa7c6fb4ba6d53dcf64a4abb7385c78ced8fc91a3"
+  },
+  "whole_author_obligations_audited": 18,
+  "open_substantive_issues": 0,
+  "actual_positivity_under_subtraction_and_original_weights_checked": true,
+  "inverse_moment_and_integer_norm_orbit_separation_reconstructed": true,
+  "iteration_uses_current_support_and_strict_threshold": true,
+  "universal_starting_hypothesis_Diophantine_exclusion_reciprocal_transfer_or_novelty_claim": false,
+  "new_OW_peer_findings_read_before_initial_freeze": false,
+  "unverified_FS2_used_as_premise": false,
+  "mathematical_program_CAS_scan_table_certificate_or_author_rerun": false,
+  "earlier_unique_own_paths_verified_unchanged": 274,
+  "last_direct_weekly_telemetry": {
+    "at_utc": "2026-10-17 12:58:40 UTC",
+    "total_used_percent": 39,
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "total_ceiling_percent": 90,
+    "integration_reserve": true
+  },
+  "administrative_command": "/Users/uqmkamga/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 problems/2025-B4/reviews/original-weight-selection-review-1-freeze-v1.py",
+  "artifacts": [
+    {
+      "path": "problems/2025-B4/reviews/original-weight-selection-review-1-initial-v1.md",
+      "bytes": 9932,
+      "sha256": "e9f2796bf5ea16d8c7f550dcd49d5ca5d0be4a9354c4e8bec2bb8e92fe2502a3"
+    },
+    {
+      "path": "problems/2025-B4/reviews/original-weight-selection-review-1-issues-v1.md",
+      "bytes": 3023,
+      "sha256": "79d5805064bf7adce39421804f0a5198cb75b5be27df7a4c0a20cf5988ea93b8"
+    },
+    {
+      "path": "problems/2025-B4/reviews/original-weight-selection-review-1-source-checks-v1.md",
+      "bytes": 3175,
+      "sha256": "c82c590789db7ab251c5a140bcf56a4b5128df55b3178d910013713853d4c965"
+    },
+    {
+      "path": "problems/2025-B4/reviews/original-weight-selection-review-1-freeze-v1.py",
+      "bytes": 6714,
+      "sha256": "e39dd3d9fb072040caa9a140ddaad0f4e946216e6a90ede4e6acff702ddb0192"
+    },
+    {
+      "path": "problems/2025-B4/reviews/original-weight-selection-review-1-input-validation-v1.json",
+      "bytes": 57221,
+      "sha256": "a19a913fa2108b194c739f405bb15d46c917a5f8656f8b2e833b01b8bd49881a"
+    }
+  ]
+}

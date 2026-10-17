@@ -1,0 +1,70 @@
+{
+  "frozen_at_utc": "2026-10-17T13:02:45.982344+00:00",
+  "reviewer": "coordinator root",
+  "constructor": "review_2017_coarsening_r1",
+  "fresh_initially_blind_nonconstructor_whole": true,
+  "root_old_global_strategy_authorship_roles_disclosed": true,
+  "peer_new_V_conclusions_read": false,
+  "whole_checks": 40,
+  "substantive_issues": 0,
+  "repair_required": false,
+  "recommendation": "scoped V1-V4 acceptance only after second whole audit and reconciliation",
+  "E_or_R_actual_computability_noncomputability_value_effective_p_rate_or_novelty_claim": false,
+  "mathematical_code_CAS_scan_simulation_or_rerun": false,
+  "metadata_inputs": [
+    {
+      "path": "problems/2017-B4/notes/global-value-return-r1-manifest-v1.json",
+      "bytes": 3534,
+      "sha256": "61a261da6ae345a9255b8e9f5ea06cf697af2a1663c8bad4bc4f2010b5eeae53"
+    },
+    {
+      "path": "problems/2017-B4/notes/global-value-return-r1-input-validation-v1.json",
+      "bytes": 56800,
+      "sha256": "72066d2e2be621cf4efb419b1b220f71d2c1df57612f133dc55ffe5953de8bde"
+    },
+    {
+      "path": "problems/2017-B4/notes/global-value-return-r1-sources-v1.json",
+      "bytes": 7520,
+      "sha256": "8bdd210ae5222199148c880a6739332faa6aa648106b1fd5a77e530284d3d8ab"
+    },
+    {
+      "path": "problems/2017-B4/reviews/allD-global-acceptance.json",
+      "bytes": 3248,
+      "sha256": "d05556d1973514ad70c8017633c346748636783718be7871dcd3e8a59dc969b5"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coarsening-acceptance.json",
+      "bytes": 2193,
+      "sha256": "b6869162ed35636014082a783f0c254e459af0b848e77afcb2226d8a21ed2d99"
+    },
+    {
+      "path": "problems/2017-B4/reviews/concavity-acceptance.json",
+      "bytes": 1943,
+      "sha256": "2c1d2b05b3b0644c18d445f515f0e48fd43e5b90ea4fbc87695513480d0a34aa"
+    }
+  ],
+  "artifacts": [
+    {
+      "path": "problems/2017-B4/reviews/global-value-return-review-1-initial-v1.md",
+      "bytes": 6247,
+      "sha256": "fb8aeb2506129db5b3dabeb336a152d96232e44cf9a8ec3cee8008ae2b1a0dde"
+    },
+    {
+      "path": "problems/2017-B4/reviews/global-value-return-review-1-issues-v1.json",
+      "bytes": 13207,
+      "sha256": "cbba32874b4b1f5d1bcf3a891dc24d541882d343f85ea4f4c2330b117a5fce1d"
+    },
+    {
+      "path": "problems/2017-B4/reviews/global-value-return-review-1-source-checks-v1.md",
+      "bytes": 2199,
+      "sha256": "a883d45754ca04031f62f3c415da27818f86d1e99230eee9d97d142ba2a7dc8a"
+    },
+    {
+      "path": "problems/2017-B4/reviews/global-value-return-review-1-integrity-v1.json",
+      "bytes": 1837,
+      "sha256": "6cd986151c2fa912aa7704c8f4ec5dac9c825d7f37be8fa11641b20aa87cd6d6"
+    }
+  ],
+  "account_weekly_total_used_percent": 39,
+  "total_ceiling_percent": 90
+}

@@ -1,0 +1,89 @@
+{
+  "accepted_at_utc": "2026-10-17T13:03:53.580824+00:00",
+  "status": "proved, independently reviewed scoped partial results with explicit published theorem imports",
+  "claims": [
+    "R4A exact q4 cover exception",
+    "R4B classical collision/Sidon bound",
+    "R4C compulsory unit orbit and actual fixed intersection",
+    "R4D saturated branch prime/coset restriction",
+    "R4E full and interior-only exact moment iff"
+  ],
+  "constructor": "review_2022_complexity_r2",
+  "fresh_nonconstructor_whole_reviewers": [
+    "coordinator root",
+    "review_2017_coarsening_r1"
+  ],
+  "original_whole_initials_blind": true,
+  "both_affected_reaudits_complete": true,
+  "resolved_issue": "R4R2-01",
+  "root_initial_miss_preserved": true,
+  "reviewer2_original_detection_preserved": true,
+  "root_full_both_initial_and_affected_reports_ledgers_sources_read": true,
+  "full_replacement_and44obligations_repair_ledger_diff_read": true,
+  "old_roles_disclosed": true,
+  "unresolved_substantive_issues": 0,
+  "repair_required": true,
+  "repair_complete": true,
+  "candidate": {
+    "path": "problems/2020-B4/notes/reasoning-return-r4-candidate-v1.1.md",
+    "bytes": 22700,
+    "sha256": "c8fc32fba5fb12a7af4e25b398b65cd9d148273c3bc6f055ea21394a66e01ce2"
+  },
+  "accepted_copy": {
+    "path": "problems/2020-B4/proofs/reviewed-reasoning-return-r4-v1.2.md",
+    "bytes": 26219,
+    "sha256": "6e1c29498cb3c61f84da80785a2697dc0511718c745098c3624e8a1eb7207493"
+  },
+  "metadata_inputs": [
+    {
+      "path": "problems/2020-B4/notes/reasoning-return-r4-freeze-v1.1.json",
+      "bytes": 3877,
+      "sha256": "a76d1879815282839e87cf51b6a488279d213b11e1d5f00c8f216bbc44cc7b66"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-return-r4-input-validation-v1.1.json",
+      "bytes": 656368,
+      "sha256": "bd2be53e078831fbbaed0fb5469f91b58701c9e87c8f0a2a664d10ad1caa25c1"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-return-r4-sources-v1.1.json",
+      "bytes": 11986,
+      "sha256": "7a4b53531101c658875aa582bdef5118cceeb260697ad2422089469f1b8d3c18"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-return-r4-review-1-manifest-v1.json",
+      "bytes": 2630,
+      "sha256": "ab2ce499628249f4a79853be15c247b9987c95734a995ad9dee92da9796f14d7"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-return-r4-review-2-manifest-v1.json",
+      "bytes": 3301,
+      "sha256": "7353007da13f3f563ebb67684dd2c5fc6a2313b58388d4fc659570a6a8940a07"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-return-r4-review-1-reaudit-manifest-v1.1.json",
+      "bytes": 2661,
+      "sha256": "188b722ff70dd90d453bfdf1c0a61cea1dab8884be390ecee24627535b882a60"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-return-r4-review-1-reaudit-integrity-v1.1.json",
+      "bytes": 1717,
+      "sha256": "236014ade9398e1f261390b35b42e694d585eee2b52ae8c8a3a879274ab9794a"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-return-r4-review-2-manifest-v1.1.json",
+      "bytes": 3022,
+      "sha256": "686eb6646c7de0e33a0d9ef88af63213b4e2c39bb3cec8ab47d4a5122142e227"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-return-r4-review-2-input-validation-v1.1.json",
+      "bytes": 63493,
+      "sha256": "f469fbf4369502eab31fb1db4941b0ded559c896f7e85f8cc1b4a031cfc4bb80"
+    }
+  ],
+  "record_occurrences_verified": 3717,
+  "unique_paths_verified": 708,
+  "last_moment_automatic": true,
+  "interior_list_sufficient_for_prescribed_actual_shapes": true,
+  "full_classification_or_novelty": false
+}

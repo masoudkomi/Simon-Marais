@@ -1,0 +1,58 @@
+{
+  "verified_at_utc": "2026-10-17T13:02:45.982344+00:00",
+  "all_verified": true,
+  "record_occurrences": 343,
+  "unique_paths": 305,
+  "inputs": [
+    {
+      "metadata": {
+        "path": "problems/2017-B4/notes/global-value-return-r1-manifest-v1.json",
+        "bytes": 3534,
+        "sha256": "61a261da6ae345a9255b8e9f5ea06cf697af2a1663c8bad4bc4f2010b5eeae53"
+      },
+      "record_occurrences_verified": 8
+    },
+    {
+      "metadata": {
+        "path": "problems/2017-B4/notes/global-value-return-r1-input-validation-v1.json",
+        "bytes": 56800,
+        "sha256": "72066d2e2be621cf4efb419b1b220f71d2c1df57612f133dc55ffe5953de8bde"
+      },
+      "record_occurrences_verified": 286
+    },
+    {
+      "metadata": {
+        "path": "problems/2017-B4/notes/global-value-return-r1-sources-v1.json",
+        "bytes": 7520,
+        "sha256": "8bdd210ae5222199148c880a6739332faa6aa648106b1fd5a77e530284d3d8ab"
+      },
+      "record_occurrences_verified": 26
+    },
+    {
+      "metadata": {
+        "path": "problems/2017-B4/reviews/allD-global-acceptance.json",
+        "bytes": 3248,
+        "sha256": "d05556d1973514ad70c8017633c346748636783718be7871dcd3e8a59dc969b5"
+      },
+      "record_occurrences_verified": 9
+    },
+    {
+      "metadata": {
+        "path": "problems/2017-B4/reviews/coarsening-acceptance.json",
+        "bytes": 2193,
+        "sha256": "b6869162ed35636014082a783f0c254e459af0b848e77afcb2226d8a21ed2d99"
+      },
+      "record_occurrences_verified": 7
+    },
+    {
+      "metadata": {
+        "path": "problems/2017-B4/reviews/concavity-acceptance.json",
+        "bytes": 1943,
+        "sha256": "2c1d2b05b3b0644c18d445f515f0e48fd43e5b90ea4fbc87695513480d0a34aa"
+      },
+      "record_occurrences_verified": 7
+    }
+  ],
+  "exact_rows_bound_in_immutable_inputs": true,
+  "administrative_only": true
+}

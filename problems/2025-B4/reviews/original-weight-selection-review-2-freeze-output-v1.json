@@ -1,0 +1,38 @@
+{
+  "checked_at_utc": "2026-10-17T12:54:41.450481+00:00",
+  "metadata_only_no_mathematical_computation": true,
+  "candidate": {
+    "path": "problems/2025-B4/notes/coordinator-original-weight-selection-candidate-v1.md",
+    "bytes": 6934,
+    "sha256": "ef41445567edb53e53980b9edfbba2739cb1879f048e19b9e64f48e2e684ad3e"
+  },
+  "constructor_manifest": {
+    "path": "problems/2025-B4/notes/coordinator-original-weight-selection-manifest-v1.json",
+    "bytes": 2606,
+    "sha256": "f73e2c9152c196f1b39b360fa7c6fb4ba6d53dcf64a4abb7385c78ced8fc91a3"
+  },
+  "constructor_artifacts": 3,
+  "constructor_inputs": 5,
+  "accepted_MS_authority_declared_records_checked": 8,
+  "whole_claims": [
+    "OW1",
+    "OW2",
+    "OW3"
+  ],
+  "per_inference_ledger_rows": 30,
+  "author_obligations_covered": 18,
+  "older_own_packets_unchanged": 44,
+  "all_hash_checks_passed": true,
+  "substantive_objections": 0,
+  "required_author_repairs": 0,
+  "peer_OW_findings_or_later_root_inspection_read_before_freeze": false,
+  "latest_authoritative_weekly_usage": {
+    "at_utc": "2026-10-17 12:53:52 UTC (paired clock/telemetry check)",
+    "total_used_percent": 39,
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "total_ceiling_percent": 90,
+    "integration_reserve": true
+  },
+  "command": "python3 problems/2025-B4/reviews/original-weight-selection-review-2-freeze-v1.py"
+}

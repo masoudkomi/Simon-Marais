@@ -1,0 +1,545 @@
+--- problems/2020-B4/notes/reasoning-return-r4-candidate-v1.md
++++ problems/2020-B4/notes/reasoning-return-r4-candidate-v1.1.md
+@@ -1,10 +1,15 @@
+ # Unit orbits, multiplier collisions and a restricted cyclotomic criterion
+ 
+-2026-10-17 UTC. **Candidate proof - unverified.** Constructor:
+-`review_2022_complexity_r2`. Requested `gpt-6.1-sol` with `max`
+-reasoning; independent effective-setting readback unavailable. No part of
+-this new packet has been independently reviewed. Two fresh nonconstructor
+-whole audits and coordinator reconciliation are required before promotion.
++2026-10-17 UTC. **Candidate proof - unverified, full replacement v1.1.**
++Constructor `review_2022_complexity_r2`; requested `gpt-6.1-sol` with `max`
++reasoning, independent effective-setting readback unavailable. Both
++initially blind nonconstructor WHOLE v1 audits are frozen and preserved.
++Reviewer2 correctly found substantive auxiliary error R4R2-01: the author
++falsely called the last moment congruence essential. Reviewer1's initial
++report missed that assertion. This replacement corrects it, proves the
++last row automatic and the earlier rows sufficient, and keeps the entire
++valid full E2 iff. Both reviewers must re-audit the affected arguments
++before coordinator acceptance. Neither old report is retroactively edited.
+ 
+ Only 2020 B4(b) is investigated. This is a structural partial packet,
+ not a classification of taut integers. It reconstructs elementary
+@@ -348,10 +353,15 @@
+ \end{cases}                                           \tag{E2}
+ \]
+ 
+-The final equation is essential; the first congruences alone are
+-not a sufficient test. The index \(m\) here is the **order** of
+-the multiplicative subgroup. Its usual cyclotomic index is \(L\),
+-so source notation using the index must not be substituted blindly.
++The final congruence is AUTOMATIC for every actual size-\(k\) subset
++of \(\mathbb F_\ell\), before imposing any earlier congruence. It is
++included in E2 to display the full target moment sequence. For these
++prescribed \(D_\epsilon\), the earlier even-index congruences alone
++are already sufficient; the proof below also establishes this shorter
++criterion. Redundancy does not change the final target value from
++\(-1\) to zero. The index \(m\) here is the **order** of the
++multiplicative subgroup. Its usual cyclotomic index is \(L\), so
++source notation using the index must not be substituted blindly.
+ 
+ Proof. Work first in \(\mathbb F_\ell\). Define the zeroth
+ power sum by \(S_0=k\), without assigning a value to \(0^0\),
+@@ -414,6 +424,58 @@
+ actual difference set has all the target moments, hence E2. This
+ completes the iff, rather than just a necessary field relaxation.
+ 
++**Automatic final row and sufficient interior list (R4R2-01 repair).**
++For ANY actual subset \(A\subset\mathbb F_\ell\) of size \(k\)
++with \(k(k-1)=\ell-1\), Fermat's theorem gives
++
++\[
++\sum_{a,b\in A}(a-b)^{\ell-1}
++  =\#\{(a,b)\in A^2:a\ne b\}
++  =k(k-1)=-1\quad\text{in }\mathbb F_\ell.             \tag{E2a}
++\]
++
++The diagonal contributes zero and every off-diagonal field summand is
++one. In particular \(B_L\equiv-1\pmod\ell\) holds for the actual
++\(D_\epsilon\), independently of every preceding test. There is also
++a direct check of its formula: for \(1\le i\le L-1\),
++
++\[
++\binom{\ell-1}{im}\equiv(-1)^{im}\pmod\ell,
++\qquad (-1)^i(-1)^{im}=1
++\]
++
++because \(m\) is odd. Thus
++
++\[
++B_L\equiv2mk+m^2(L-1)
++      =(m+1)\ell-1\equiv-1\pmod\ell.                 \tag{E2b}
++\]
++
++The intermediate integer identity uses the exact definitions of
++\(k,L,\ell\); no earlier moment equation is used.
++
++For completeness, sufficiency can be recovered WITHOUT using the last
++moment at all. Suppose the interior equations \(B_t=0\) for even
++\(2\le t<L\) hold. E3/E4 and odd-pair cancellation give all positive
++moment equalities at \(1\le j\le\ell-2\), and the constant moments
++are already equal. Also \(\mu(0)=\nu(0)=k\) EXACTLY for the actual
++subset. Delete this known zero coordinate. The remaining square matrix
++
++\[
++(z^j)_{0\le j\le\ell-2,\ z\in\mathbb F_\ell^\times}
++\]
++
++is invertible: a polynomial of degree at most \(\ell-2\) with all
++\(\ell-1\) distinct nonzero roots is zero. Consequently the count
++vectors agree modulo \(\ell\) at each nonzero residue, and the same
++bound \(0\le\mu(z)\le k<\ell\) lifts the count to the integer one.
++Necessity of the interior equations follows from an actual difference
++set as before. Therefore E2 is equivalent to its interior list alone,
++including an empty interior list when \(L=2\). This is a correction
++of the false v1 necessity/insufficiency assertion, not an unproved
++new external import. The full-matrix proof and full E2 list above remain
++valid with the redundant last row retained.
++
+ When \(L>2\), the first interior congruence \(t=2\) yields
+ 
+ \[
+@@ -441,7 +503,8 @@
+ unit orbit to **actual** fixed intersections. R4D identifies the
+ saturated known-multiplier branch, and R4E gives its full finite-field
+ moment test with an explicit integer lifting step. These remain
+-candidate partial claims until two fresh whole audits have completed.
++candidate partial claims pending BOTH affected v1.1 re-audits and
++coordinator reconciliation; both original whole initials stay preserved.
+ 
+ Cohen's theorem is stronger than R4A as a noncoverage statement:
+ a unit cannot lie in any proper subgroup of a cyclic group. The
+@@ -460,7 +523,10 @@
+ also be unavailable when the modulus is prime. The system E2 may be
+ nontrivial even in the narrow saturated branch, and the broader
+ cyclotomic nonexistence questions are not treated as established
+-theorems. Passing a shortened list of moments, an orbit-size subset
+-sum, or a real norm identity is not promoted to existence. No full
+-taut classification, cyclic prime-power conjecture, numerical answer
+-or new published cutoff follows from this packet.
++theorems. For the prescribed shapes here the interior E2 list IS
++sufficient, because the omitted final row is automatic and the actual
++zero count is known, as proved above. A different shortened moment
++list, an orbit-size subset sum, or a real norm identity is not promoted
++to existence without a valid reconstruction argument of its own. No
++full taut classification, cyclic prime-power conjecture, numerical
++answer or new published cutoff follows from this packet.
+--- problems/2020-B4/notes/reasoning-return-r4-obligations-v1.md
++++ problems/2020-B4/notes/reasoning-return-r4-obligations-v1.1.md
+@@ -1,9 +1,12 @@
+ # Whole-audit obligations for the 2020 r4 partial packet
+ 
+ 2026-10-17 UTC. **Candidate proof - unverified.** These are author
+-self-checks and requests for two fresh independent nonconstructor
+-whole audits, not an independent review or coordinator acceptance.
+-All references are to the complete `reasoning-return-r4-candidate-v1.md`.
++self-checks and requests for BOTH affected nonconstructor v1.1 re-audits,
++not an independent review or coordinator acceptance.
++All references are now to the FULL `reasoning-return-r4-candidate-v1.1.md`.
++Both original whole audits and the v1 bytes are preserved. Reviewer2's
++R4R2-01 was a real author error, not a stylistic issue; the revised rows
++and the eight repair obligations below require BOTH affected re-audits.
+ 
+ |ID|Inference or boundary requiring reconstruction|Author disposition and remaining scope|
+ |---|---|---|
+@@ -34,11 +37,11 @@
+ |R4-O25|Standalone moment parameters and all endpoints.|m>=3 odd, epsilon0/1, ell prime, L=m+2epsilon-1 positive even, k(k-1)=ell-1. In the application m is subgroup ORDER; L is its cyclotomic INDEX.|
+ |R4-O26|Positive power sums and the zero member.|S0=k is defined separately; no0^0 convention is used. For j>0, cyclic-subgroup geometric sums give m or0, and zero contributes0.|
+ |R4-O27|Every term of the binomial moment expansion.|For m not dividing j, both endpoints and every interior term vanish. For j=tm, interior nonzero positions are exactly im; odd m gives sign(-1)^i.|
+-|R4-O28|Odd moments and the full last index.|Ordered-pair reversal cancels every odd moment in odd characteristic. Even t range2..L includes j=ell-1; its target is -1, not0.|
++|R4-O28|Odd moments and the automatic final index.|Ordered-pair reversal cancels every odd moment in odd characteristic. The final target is -1, not0; E2a/Fermat and E2b/binomial proofs show that this row is AUTOMATIC before earlier tests.|
+ |R4-O29|Constant moment and target finite-field sums.|k+ell-1=k^2 from the exact parameter identity. All target positive moments below ell-1 vanish; the last sums ell-1 copies of1.|
+-|R4-O30|All moments imply residue-by-residue equality.|The square Vandermonde evaluation matrix at ALL ell field elements is invertible. Degree at most ell-1 root-count proof includes the separate constant row. A truncated list alone would not justify this step.|
++|R4-O30|Full and reduced matrix recovery.|The ALL-field matrix with degrees0..ell-1 is invertible as before. For the shorter list, the actual known mu(0)=nu(0)=k permits deletion of that coordinate; degrees0..ell-2 at ALL ell-1 nonzero residues give a second square invertible matrix. No unjustified general shortened-list warning remains.|
+ |R4-O31|Field-to-integer lifting, including zero difference.|Actual mu(0)=k. For each nonzero z, 0<=mu(z)<=k<ell, so congruence1 mod ell forces integer1. No real norm or unbounded group-ring coefficient relaxation is being reversed.|
+-|R4-O32|Sufficiency and necessity are both established only for these fixed shapes.|E2 enumerates all nonautomatic moments, so it is an iff for D_epsilon. It is not an iff for a general cyclic set or for existence at arbitrary q with small multiplier group.|
++|R4-O32|Both directions and redundant-row qualification for actual fixed shapes.|The INTERIOR E2 rows cover all nonautomatic moments; its final row is redundant. Both the full E2 system and its interior list alone are iff tests for these prescribed D_epsilon. This does not classify a general cyclic set or arbitrary q with a smaller multiplier group.|
+ |R4-O33|First interior equation and L=2 exception.|E5 is valid only L>2. At m3/epsilon0 the t2 equation is final with right side-1. This boundary is recorded without reproducing a preliminary existence example.|
+ |R4-O34|The 3 not dividing m corollary stays within all hypotheses.|An E2 solution gives actual D and multiplier subgroup H of size m>=q. q4 cannot occur with odd m and prime ell. R4D plus Hall then forces3|m.|
+ |R4-O35|Classical overlap versus project novelty.|Cohen already implies noncoverage by ANY union of proper subgroups; the two-group result and multiplier bound are not advertised as new. Exact moment methods are classical in type; novelty is neither needed nor established.|
+@@ -53,5 +56,19 @@
+ - If pursuing the even flag-transitive route, separately audit every
+   theorem's non-Desarguesian and group-action hypotheses. Do not transfer
+   that theory to all cyclic planes.
+-- Obtain two initially blind whole independent audits of this exact
+-  frozen packet. The author's self-checks above do not count as either.
++- Preserve both complete initially blind whole v1 audits, and obtain
++  BOTH affected v1.1 re-audits before coordinator acceptance. The
++  author's correction does not count as either independent re-audit.
++
++## Explicit repair obligations
++
++|ID|Repair inference or preservation check|Author disposition, pending independent review|
++|---|---|---|
++|R4-R01|Acknowledge the exact false auxiliary claim and both initial dispositions.|R4R2-01 is accepted as a real author error. Original v1, root R1 pass/miss and C R2 finding remain frozen. No retrospective edit.|
++|R4-R02|Automatic last moment for ANY actual size-k subset.|Every off-diagonal nonzero field difference has power ell-1 equal1; diagonal contributes0; k(k-1)=ell-1. No interior equation or difference-set conclusion assumed.|
++|R4-R03|Independent signed-binomial calculation.|binom(ell-1,im)=(-1)^(im) mod ell, m odd; all L-1 interior sign-corrected summands are1; 2mk+m²(L-1)=(m+1)ell-1.|
++|R4-R04|Interior moments and constant row cover all degrees0..ell-2.|Nonmultiples of m and odd powers are automatic; remaining even multiples have t<L; constant k² agrees by parameters.|
++|R4-R05|The zero coordinate is actually known and the reduced matrix is square.|mu0=nu0=k EXACTLY, since D is a subset; after subtracting this coordinate there are ell-1 columns and degrees0..ell-2; polynomial root count proves invertibility.|
++|R4-R06|Exact integer lifting, L2 and final target value.|The same small coefficient bound gives integer1; L2 allows an empty interior list, but final target remains-1. E5 still requires L>2. No preliminary construction researched.|
++|R4-R07|All affected explanations corrected and mathematical core preserved.|Main preamble/E2 explanation/redundancy proof/closing warning and O28/O30/O32 corrected. Entire R4A-D body, actual q4 counterexample, E1-E5 formulas/full iff and all exact prior premises retained.|
++|R4-R08|Full replacement, exact diff, old-byte preservation and review status.|New versioned complete files only; both full reports/ledgers/sources read; input/source/own hashes checked; both affected re-audits required, no promotion or full classification.|
+--- problems/2020-B4/notes/reasoning-return-r4-source-checks-v1.md
++++ problems/2020-B4/notes/reasoning-return-r4-source-checks-v1.1.md
+@@ -1,3 +1,24 @@
++**Candidate proof - unverified, full versioned source record v1.1.**
++
++2026-10-17 UTC. R4R2-01 author repair. The COMPLETE original candidate,
++all36 obligations, both whole v1 reports, both full inference/issue
++ledgers and both source-check records were read after the separate2022
++R5 construction froze. The issue is an elementary internal error, not
++an objection to Cohen, Hall, Xia or an old accepted premise. The final
++moment is automatic; interior sufficiency is proved by the actual known
++zero coordinate and the nonzero-residue Vandermonde. No new external
++theorem, source proof audit, mathematical computation or scan is used.
++
++The complete ORIGINAL source audit follows as a byte-identical suffix.
++Its source visits describe the original construction pass, not fresh
++visits repeated by this repair. All those exact hypotheses, imports,
++cache fingerprints and limitations remain unchanged. Both independent
++affected v1.1 re-audits are still required. The companion new JSON
++distinguishes the original source reads from the current full repair
++reads and hashes both original whole audits without altering them.
++
++---
++
+ # Source scope and attribution audit: 2020 r4
+ 
+ 2026-10-17 UTC. **Candidate proof - unverified.** Constructor's actual
+--- problems/2020-B4/notes/reasoning-return-r4-worklog-v1.md
++++ problems/2020-B4/notes/reasoning-return-r4-worklog-v1.1.md
+@@ -1,3 +1,52 @@
++**Candidate proof - unverified, full versioned worklog v1.1.**
++
++# Author repair of R4R2-01
++
++2026-10-17 UTC. Only new versioned reasoning-return-r4-* files are
++written. Original v1 and both independent whole initials stay unchanged.
++After the COMPLETE2022 R5 proof/42-obligation/source/log/failure freeze,
++the author read BOTH full2020 R4 whole reports, their complete ledgers
++and source checks, plus the original full proof and ancillary records.
++Root R1 missed the auxiliary error; C R2 identified it correctly. The
++author accepts responsibility for the false necessity/insufficiency claim.
++
++The correction is substantive but localized. Every actual size-k subset
++already has final difference moment k(k-1)=-1 mod ell by Fermat. The
++separate signed-binomial formula gives the same identity. The interior
++E2 equations plus automatic lower moments and the EXACT zero count
++give an invertible evaluation matrix on F_ell^*. Thus that interior
++list is sufficient. Full E2 and R4A-D remain valid, and the final target
++does not change from-1 to0. All original claims outside this correction,
++including E5's L>2 boundary, stay within the same scope.
++
++Created: full replacement candidate-v1.1, complete revised obligations
++with36 original/eight repair rows, complete versioned source audit/JSON,
++this complete log, detailed repair ledger, exact unified diff, text-only
++builder and metadata-only freeze/check records. The old source audit
++and old worklog follow in the new records as explicit HISTORICAL suffixes,
++so old chronological statements are not represented as current verdicts.
++
++Text editing is reproduced by:
++
++    python3 problems/2020-B4/notes/reasoning-return-r4-build-repair-v1.1.py
++
++The builder performs exact asserted text replacements and a unified diff;
++it does not evaluate the binomial system, run tests, use CAS, scan orders
++or rerun an old author program. The new freeze script verifies known
++hashes, metadata, suffixes, unchanged proof segments and obligation labels.
++Those operations are administrative, not mathematical evidence.
++
++No promotion is made. Root and C must BOTH re-audit the affected complete
++v1.1 argument and scope before coordinator reconciliation. No claim
++about nonsaturated orders, solving the unbounded interior system,
++novelty or the official full taut classification is added. The queued
++fresh blind2021 R6 R2 starts only after this COMPLETE repair checkpoint;
++no new R6 report, ledger or findings have been opened.
++
++## Preserved original construction log (historical)
++
++---
++
+ # Conceptual research worklog: 2020 r4
+ 
+ 2026-10-17 UTC. **Candidate proof - unverified.** Constructor
+--- problems/2020-B4/notes/reasoning-return-r4-sources-v1.json
++++ problems/2020-B4/notes/reasoning-return-r4-sources-v1.1.json
+@@ -1,6 +1,6 @@
+ {
+-  "recorded_at_utc": "2026-10-17T12:10:57.370118+00:00",
+-  "status": "candidate proof - unverified; constructor source audit",
++  "recorded_at_utc": "2026-10-17T12:52:56.322391+00:00",
++  "status": "candidate proof - unverified; full R4R2-01 author repair source record v1.1",
+   "constructor": "review_2022_complexity_r2",
+   "requested_model": "gpt-6.1-sol",
+   "requested_reasoning_effort": "max",
+@@ -99,104 +99,177 @@
+     "Thas-Zagier2008 full proof and Xia2018 full cyclotomic proof",
+     "Xia2023 full non-Desarguesian flag-transitive theorems"
+   ],
+-  "new_R4E_symbolic_moment_proof": "Complete elementary argument in candidate, not an external theorem import or a finite computation",
++  "new_R4E_symbolic_moment_proof": "Full original iff retained; added elementary automatic-last-row Fermat/binomial proofs and sufficient-interior-list nonzero-residue Vandermonde, no external import",
+   "existing_BBB_raw_hash_limitation_preserved": true,
+-  "direct_full_local_document_or_register_reads": [
+-    {
+-      "path": "AGENTS.md",
+-      "bytes": 4707,
+-      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+-    },
+-    {
+-      "path": "problems/2020-B4/statement.md",
+-      "bytes": 2006,
+-      "sha256": "91c9e7e86eef7bc6a68770f6ee730d18618443304ac3aace5541b42170ac64cc"
+-    },
+-    {
+-      "path": "problems/2020-B4/references.md",
+-      "bytes": 9036,
+-      "sha256": "7ce4ae9b9c7724cbd91cdc0da57a09e79e0eac728399b79efe148aa799262786"
+-    },
+-    {
+-      "path": "problems/2020-B4/issues.md",
+-      "bytes": 4072,
+-      "sha256": "44d744251e638e307f039f55ed4d213d5481d47f5c44c53e48ff62e592eb7397"
+-    },
+-    {
+-      "path": "problems/2020-B4/proofs/partial-v1.md",
+-      "bytes": 8703,
+-      "sha256": "f53945e49bd626847e52a61f7e39e96defd2ae44900f9d235c2c14e720f41525"
+-    },
+-    {
+-      "path": "problems/2020-B4/proofs/reviewed-partial-v1.1.md",
+-      "bytes": 2207,
+-      "sha256": "3fcdd2d50c4545b2e466b8a24f5a958fb69f2b0f10cccf19fa4b628ed02a690f"
+-    },
+-    {
+-      "path": "problems/2020-B4/proofs/reviewed-return-r3-v1.2.md",
+-      "bytes": 20446,
+-      "sha256": "18fc1871219740c528527eb1cfb68c2c1571eba0243e4866b5a8630092a91317"
+-    },
+-    {
+-      "path": "problems/2020-B4/reviews/acceptance.md",
+-      "bytes": 2125,
+-      "sha256": "91d5c59db4f974238113d2ab3f717e7e0f26e404e0eb526d59d0abc5348bc128"
+-    },
+-    {
+-      "path": "problems/2020-B4/reviews/acceptance.json",
+-      "bytes": 1985,
+-      "sha256": "e95e2c0493cc3db7a5618ff3012151311df8175fc63c3d03e3afdf2cbaa8b79c"
+-    },
+-    {
+-      "path": "problems/2020-B4/reviews/return-r3-acceptance.md",
+-      "bytes": 2790,
+-      "sha256": "fd42d45fab639c77a1653ec20afe39d72ed6d5b0f520ecba0404215746433c57"
+-    },
+-    {
+-      "path": "problems/2020-B4/reviews/return-r3-acceptance.json",
+-      "bytes": 2255,
+-      "sha256": "31db4ee6346955c39bccf7d7287d8bcd52d9f0abeebb531eea378d52a82f0bf3"
+-    },
+-    {
+-      "path": "problems/2020-B4/notes/reasoning-return-r3-repair-v1.1.md",
+-      "bytes": 5654,
+-      "sha256": "12fabe3054a308bbb578bf59cdf9696f835eb5092558d8f2a90f2dc6cd678877"
+-    },
+-    {
+-      "path": "problems/2020-B4/notes/reasoning-return-r3-sources-v1.1.json",
+-      "bytes": 2041,
+-      "sha256": "5c134eabd8adbd3f2c1f8f65feadda093bc619fa845c32d8921026a6cd98f0b9"
+-    },
+-    {
+-      "path": "problems/2020-B4/notes/deep-literature-r1-report-v1.md",
+-      "bytes": 9404,
+-      "sha256": "2c54319b2294be5851ff0d93be7dd833e3f2041405ed98b6b026080b4560da50"
+-    },
+-    {
+-      "path": "problems/2020-B4/notes/deep-literature-r1-sources-v1.json",
+-      "bytes": 5487,
+-      "sha256": "7823c32be8aac9eae4c5a31b705ed3f8f6a03bec867e36be4a8079d8ef185999"
+-    },
+-    {
+-      "path": "problems/2020-B4/notes/reviewed-source-clarifications-v1.md",
+-      "bytes": 2491,
+-      "sha256": "03887e1f665d57b5a60a1b6b367376e7f97b2c5d166dea2076a51af44e387207"
+-    },
+-    {
+-      "path": "problems/2020-B4/reviews/initial-review-2-sources.json",
+-      "bytes": 6554,
+-      "sha256": "c5e1032f07f196a2f01c9ce2dc2187589e7f83f9f6c74e65fc8ebd5fda0437d6"
+-    }
+-  ],
+   "no_mathematical_scans_CAS_author_reruns_contacts_charges_bypass": true,
+   "direct_weekly_telemetry": {
+-    "at_utc": "2026-10-17T12:09:00+00:00",
+-    "source": "direct account-wide Codex usage tool, paired with UTC clock read",
+-    "total_used_percent": 36,
++    "at_utc": "2026-10-17T12:46:26+00:00",
++    "source": "direct account-wide Codex usage tool paired with UTC clock",
++    "total_used_percent": 39,
+     "window_duration_minutes": 10080,
+     "resets_at_unix": 1792745187,
+     "ordinary_usage_allowed": true,
+     "total_used_cutoff_percent": 90,
+     "integration_reserve": true
+-  }
++  },
++  "original_v1_recorded_at_utc": "2026-10-17T12:10:57.370118+00:00",
++  "original_v1_direct_full_reads_preserved_unchanged": [
++    {
++      "path": "AGENTS.md",
++      "bytes": 4707,
++      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
++    },
++    {
++      "path": "problems/2020-B4/statement.md",
++      "bytes": 2006,
++      "sha256": "91c9e7e86eef7bc6a68770f6ee730d18618443304ac3aace5541b42170ac64cc"
++    },
++    {
++      "path": "problems/2020-B4/references.md",
++      "bytes": 9036,
++      "sha256": "7ce4ae9b9c7724cbd91cdc0da57a09e79e0eac728399b79efe148aa799262786"
++    },
++    {
++      "path": "problems/2020-B4/issues.md",
++      "bytes": 4072,
++      "sha256": "44d744251e638e307f039f55ed4d213d5481d47f5c44c53e48ff62e592eb7397"
++    },
++    {
++      "path": "problems/2020-B4/proofs/partial-v1.md",
++      "bytes": 8703,
++      "sha256": "f53945e49bd626847e52a61f7e39e96defd2ae44900f9d235c2c14e720f41525"
++    },
++    {
++      "path": "problems/2020-B4/proofs/reviewed-partial-v1.1.md",
++      "bytes": 2207,
++      "sha256": "3fcdd2d50c4545b2e466b8a24f5a958fb69f2b0f10cccf19fa4b628ed02a690f"
++    },
++    {
++      "path": "problems/2020-B4/proofs/reviewed-return-r3-v1.2.md",
++      "bytes": 20446,
++      "sha256": "18fc1871219740c528527eb1cfb68c2c1571eba0243e4866b5a8630092a91317"
++    },
++    {
++      "path": "problems/2020-B4/reviews/acceptance.md",
++      "bytes": 2125,
++      "sha256": "91d5c59db4f974238113d2ab3f717e7e0f26e404e0eb526d59d0abc5348bc128"
++    },
++    {
++      "path": "problems/2020-B4/reviews/acceptance.json",
++      "bytes": 1985,
++      "sha256": "e95e2c0493cc3db7a5618ff3012151311df8175fc63c3d03e3afdf2cbaa8b79c"
++    },
++    {
++      "path": "problems/2020-B4/reviews/return-r3-acceptance.md",
++      "bytes": 2790,
++      "sha256": "fd42d45fab639c77a1653ec20afe39d72ed6d5b0f520ecba0404215746433c57"
++    },
++    {
++      "path": "problems/2020-B4/reviews/return-r3-acceptance.json",
++      "bytes": 2255,
++      "sha256": "31db4ee6346955c39bccf7d7287d8bcd52d9f0abeebb531eea378d52a82f0bf3"
++    },
++    {
++      "path": "problems/2020-B4/notes/reasoning-return-r3-repair-v1.1.md",
++      "bytes": 5654,
++      "sha256": "12fabe3054a308bbb578bf59cdf9696f835eb5092558d8f2a90f2dc6cd678877"
++    },
++    {
++      "path": "problems/2020-B4/notes/reasoning-return-r3-sources-v1.1.json",
++      "bytes": 2041,
++      "sha256": "5c134eabd8adbd3f2c1f8f65feadda093bc619fa845c32d8921026a6cd98f0b9"
++    },
++    {
++      "path": "problems/2020-B4/notes/deep-literature-r1-report-v1.md",
++      "bytes": 9404,
++      "sha256": "2c54319b2294be5851ff0d93be7dd833e3f2041405ed98b6b026080b4560da50"
++    },
++    {
++      "path": "problems/2020-B4/notes/deep-literature-r1-sources-v1.json",
++      "bytes": 5487,
++      "sha256": "7823c32be8aac9eae4c5a31b705ed3f8f6a03bec867e36be4a8079d8ef185999"
++    },
++    {
++      "path": "problems/2020-B4/notes/reviewed-source-clarifications-v1.md",
++      "bytes": 2491,
++      "sha256": "03887e1f665d57b5a60a1b6b367376e7f97b2c5d166dea2076a51af44e387207"
++    },
++    {
++      "path": "problems/2020-B4/reviews/initial-review-2-sources.json",
++      "bytes": 6554,
++      "sha256": "c5e1032f07f196a2f01c9ce2dc2187589e7f83f9f6c74e65fc8ebd5fda0437d6"
++    }
++  ],
++  "actual_primary_read_scopes_are_original_v1_visits_not_fresh_repair_claims": true,
++  "repair_issue": "R4R2-01",
++  "author_acknowledges_false_v1_essential_insufficient_assertion": true,
++  "root_initial_miss_and_C_initial_finding_preserved": true,
++  "full_repair_reads": [
++    {
++      "path": "problems/2020-B4/notes/reasoning-return-r4-candidate-v1.md",
++      "bytes": 19691,
++      "sha256": "685c38ed9f1754aca7613e7e6d74d628737fa3b7111c3f8b01c98005b9af6958"
++    },
++    {
++      "path": "problems/2020-B4/notes/reasoning-return-r4-obligations-v1.md",
++      "bytes": 8946,
++      "sha256": "6b6fca8e32d757c0a7693a5f6592ba28351072ddf88932825c16afb48ed9d3d4"
++    },
++    {
++      "path": "problems/2020-B4/notes/reasoning-return-r4-source-checks-v1.md",
++      "bytes": 6680,
++      "sha256": "67a4dcccee421ec4fac22dc8e1dbe16abbf5ce50a28ec480ab9586f095e6761e"
++    },
++    {
++      "path": "problems/2020-B4/notes/reasoning-return-r4-worklog-v1.md",
++      "bytes": 5207,
++      "sha256": "43e40f2454646be5d99a98f30c565b854562f25a2eea91596ff38d75e63d0710"
++    },
++    {
++      "path": "problems/2020-B4/notes/reasoning-return-r4-sources-v1.json",
++      "bytes": 8924,
++      "sha256": "5561174243ff4042c77f0cc47ce97979f96dea232965e0a901a0deeb8bc70c92"
++    },
++    {
++      "path": "problems/2020-B4/notes/reasoning-return-r4-freeze-v1.json",
++      "bytes": 3180,
++      "sha256": "2e32adb6386d2ce110b22f78f57f29ebcf5016721c3e4025e75d6d6ff280d755"
++    },
++    {
++      "path": "problems/2020-B4/reviews/reasoning-return-r4-review-1-initial-v1.md",
++      "bytes": 6052,
++      "sha256": "f71d2003cea10a85b9883f3714101af52fc9ff7d266c15524d37ff5814725824"
++    },
++    {
++      "path": "problems/2020-B4/reviews/reasoning-return-r4-review-1-issues-v1.json",
++      "bytes": 12284,
++      "sha256": "af41aa6c34004c37b325194acdd53a5a9f51fa23379fc55114041cecf7baa884"
++    },
++    {
++      "path": "problems/2020-B4/reviews/reasoning-return-r4-review-1-source-checks-v1.md",
++      "bytes": 3674,
++      "sha256": "dc79082e9505439708c094290c656c2e81360d58a00bcde7365b3d26aa1a33bd"
++    },
++    {
++      "path": "problems/2020-B4/reviews/reasoning-return-r4-review-2-initial-v1.md",
++      "bytes": 15116,
++      "sha256": "e8f2e900b11b9dd7953dba3709f3212e3dc7c211daed0fa8b8d2d097683388f7"
++    },
++    {
++      "path": "problems/2020-B4/reviews/reasoning-return-r4-review-2-issues-v1.md",
++      "bytes": 7786,
++      "sha256": "702f238380c50a70e63322181462a836c346a543a15bdf654260f92f3c3052cc"
++    },
++    {
++      "path": "problems/2020-B4/reviews/reasoning-return-r4-review-2-source-checks-v1.md",
++      "bytes": 6646,
++      "sha256": "88add021eba12fa430652916c252c39c0811d7980403917ee5bae4515fa40803"
++    }
++  ],
++  "required_affected_reauditors": [
++    "coordinator root",
++    "review_2017_coarsening_r1"
++  ],
++  "independent_issue_resolution_or_coordinator_promotion_claimed": false,
++  "new_external_theorem_or_fresh_full_external_proof_imported": false
+ }

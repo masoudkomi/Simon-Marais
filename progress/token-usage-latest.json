@@ -1,16 +1,16 @@
 {
-  "snapshot_cutoff_utc": "2026-10-17T12:52:11.716802+00:00",
+  "snapshot_cutoff_utc": "2026-10-17T13:09:25.336858+00:00",
   "observed_sessions": 62,
-  "distinct_responses": 4831,
+  "distinct_responses": 4964,
   "usage": {
-    "input_tokens": 809572858,
-    "cached_input_tokens": 771828736,
+    "input_tokens": 841537532,
+    "cached_input_tokens": 802819584,
     "cache_write_input_tokens": 0,
-    "output_tokens": 6736760,
-    "reasoning_output_tokens": 2956346,
-    "total_tokens": 816309618
+    "output_tokens": 6920655,
+    "reasoning_output_tokens": 3029830,
+    "total_tokens": 848458187
   },
-  "uncached_input_plus_output_tokens": 44480882,
+  "uncached_input_plus_output_tokens": 45638603,
   "sessions_without_usage_records": 0,
   "all_recorded_session_sums_match_cumulative": true,
   "method": "Deduplicated own-thread per-response usage records across root and recursively spawned descendants; cached input is a subset of input, reasoning output a subset of output.",
@@ -18,15 +18,15 @@
   "agents": [
     {
       "agent": "/root",
-      "distinct_responses": 1450,
-      "latest_record_utc": "2026-10-17T12:52:11.710Z",
+      "distinct_responses": 1494,
+      "latest_record_utc": "2026-10-17T13:09:25.324Z",
       "usage": {
-        "input_tokens": 288408987,
-        "cached_input_tokens": 278580736,
+        "input_tokens": 298335041,
+        "cached_input_tokens": 288322816,
         "cache_write_input_tokens": 0,
-        "output_tokens": 1409008,
-        "reasoning_output_tokens": 521305,
-        "total_tokens": 289817995
+        "output_tokens": 1447474,
+        "reasoning_output_tokens": 533151,
+        "total_tokens": 299782515
       },
       "matches_latest_thread_cumulative": true
     },
@@ -312,15 +312,15 @@
     },
     {
       "agent": "/root/review_2017_coarsening_r1",
-      "distinct_responses": 496,
-      "latest_record_utc": "2026-10-17T12:51:51.473Z",
+      "distinct_responses": 528,
+      "latest_record_utc": "2026-10-17T13:08:35.583Z",
       "usage": {
-        "input_tokens": 96545958,
-        "cached_input_tokens": 91035008,
+        "input_tokens": 103254609,
+        "cached_input_tokens": 97288960,
         "cache_write_input_tokens": 0,
-        "output_tokens": 885445,
-        "reasoning_output_tokens": 419778,
-        "total_tokens": 97431403
+        "output_tokens": 931721,
+        "reasoning_output_tokens": 441508,
+        "total_tokens": 104186330
       },
       "matches_latest_thread_cumulative": true
     },
@@ -634,15 +634,15 @@
     },
     {
       "agent": "/root/review_2021_reasoning_j15_r2",
-      "distinct_responses": 574,
-      "latest_record_utc": "2026-10-17T12:50:21.498Z",
+      "distinct_responses": 595,
+      "latest_record_utc": "2026-10-17T13:08:56.970Z",
       "usage": {
-        "input_tokens": 113757278,
-        "cached_input_tokens": 107883904,
+        "input_tokens": 118779740,
+        "cached_input_tokens": 112733184,
         "cache_write_input_tokens": 0,
-        "output_tokens": 1214763,
-        "reasoning_output_tokens": 581652,
-        "total_tokens": 114972041
+        "output_tokens": 1266107,
+        "reasoning_output_tokens": 602453,
+        "total_tokens": 120045847
       },
       "matches_latest_thread_cumulative": true
     },
@@ -704,15 +704,15 @@
     },
     {
       "agent": "/root/review_2022_complexity_r2",
-      "distinct_responses": 514,
-      "latest_record_utc": "2026-10-17T12:50:24.604Z",
+      "distinct_responses": 550,
+      "latest_record_utc": "2026-10-17T13:07:45.838Z",
       "usage": {
-        "input_tokens": 96681950,
-        "cached_input_tokens": 91167232,
+        "input_tokens": 106989457,
+        "cached_input_tokens": 101312768,
         "cache_write_input_tokens": 0,
-        "output_tokens": 996593,
-        "reasoning_output_tokens": 442158,
-        "total_tokens": 97678543
+        "output_tokens": 1044402,
+        "reasoning_output_tokens": 461265,
+        "total_tokens": 108033859
       },
       "matches_latest_thread_cumulative": true
     },

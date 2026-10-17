@@ -1,0 +1,30 @@
+{
+  "frozen_at_utc": "2026-10-17T13:04:22.035663+00:00",
+  "status": "candidate proof - unverified",
+  "constructor": "coordinator root",
+  "claims": [
+    "CJ1 necessary q^4-multiplicity congruence for P_(2j)=H(P2)"
+  ],
+  "whole_obligations": 6,
+  "requires_two_other_fresh_initially_blind_whole_audits": true,
+  "mathematical_code_CAS_scan_or_sample": false,
+  "unverified_critical_note_used_as_premise": false,
+  "full_composition_factorization_annual_or_novelty_claim": false,
+  "records": [
+    {
+      "path": "problems/2024-B4/notes/coordinator-P2-critical-jet-return-v1.md",
+      "bytes": 6774,
+      "sha256": "fa5b79ce59303a06a61da18ee902235bc299add309aa0725846bbfd3a7716f26"
+    },
+    {
+      "path": "problems/2024-B4/proofs/reviewed-generalized-Kasami-v1.1.md",
+      "bytes": 12828,
+      "sha256": "eff29275bed2eb037a90bd8935c7c00740e66874c03f973a2996daa8f131d36e"
+    },
+    {
+      "path": "problems/2024-B4/reviews/generalized-Kasami-acceptance.json",
+      "bytes": 5168,
+      "sha256": "c580e2e51475b46283b16c47992a625fc3437c0a0a4669c63394f6a5bafbbf67"
+    }
+  ]
+}

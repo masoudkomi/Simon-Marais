@@ -1,0 +1,69 @@
+{
+  "frozen_at_utc": "2026-10-17T12:59:12.930199+00:00",
+  "reviewer": "coordinator root",
+  "type": "complete affected R4 v1.1 reaudit",
+  "candidate": {
+    "path": "problems/2020-B4/notes/reasoning-return-r4-candidate-v1.1.md",
+    "bytes": 22700,
+    "sha256": "c8fc32fba5fb12a7af4e25b398b65cd9d148273c3bc6f055ea21394a66e01ce2"
+  },
+  "root_initial_miss_acknowledged": true,
+  "peer_new_targeted_report_read": false,
+  "resolved_issue": "R4R2-01",
+  "affected_checks": 14,
+  "all44_obligations_read": true,
+  "new_substantive_issues": 0,
+  "required_repairs": 0,
+  "recommendation": "resolve R4R2-01; scoped acceptance only after other affected reaudit and reconciliation",
+  "full_annual_or_novelty_claim": false,
+  "mathematical_computation": false,
+  "metadata_inputs": [
+    {
+      "path": "problems/2020-B4/notes/reasoning-return-r4-freeze-v1.1.json",
+      "bytes": 3877,
+      "sha256": "a76d1879815282839e87cf51b6a488279d213b11e1d5f00c8f216bbc44cc7b66"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-return-r4-input-validation-v1.1.json",
+      "bytes": 656368,
+      "sha256": "bd2be53e078831fbbaed0fb5469f91b58701c9e87c8f0a2a664d10ad1caa25c1"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-return-r4-sources-v1.1.json",
+      "bytes": 11986,
+      "sha256": "7a4b53531101c658875aa582bdef5118cceeb260697ad2422089469f1b8d3c18"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-return-r4-review-1-manifest-v1.json",
+      "bytes": 2630,
+      "sha256": "ab2ce499628249f4a79853be15c247b9987c95734a995ad9dee92da9796f14d7"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-return-r4-review-2-manifest-v1.json",
+      "bytes": 3301,
+      "sha256": "7353007da13f3f563ebb67684dd2c5fc6a2313b58388d4fc659570a6a8940a07"
+    }
+  ],
+  "artifacts": [
+    {
+      "path": "problems/2020-B4/reviews/reasoning-return-r4-review-1-reaudit-v1.1.md",
+      "bytes": 5141,
+      "sha256": "c4265a38792a186a5e6faa5b70f6fb4112a0c99093b9ec731d654c9c4e7bce53"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-return-r4-review-1-reaudit-issues-v1.1.json",
+      "bytes": 3487,
+      "sha256": "ee3bfe56c4715691e818c2fc1b313caf02d6f8b66a45c32c44c3a3c033c21258"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-return-r4-review-1-reaudit-source-checks-v1.1.md",
+      "bytes": 757,
+      "sha256": "ff126aca21f6d67faa290220ff98f478dee9f1b71e09b1dc2c298982d37d3d95"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-return-r4-review-1-reaudit-integrity-v1.1.json",
+      "bytes": 1717,
+      "sha256": "236014ade9398e1f261390b35b42e694d585eee2b52ae8c8a3a879274ab9794a"
+    }
+  ]
+}

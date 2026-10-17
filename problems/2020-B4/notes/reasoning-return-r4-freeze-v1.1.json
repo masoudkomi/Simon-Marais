@@ -1,0 +1,92 @@
+{
+  "frozen_at_utc": "2026-10-17T12:55:05.247621+00:00",
+  "status": "candidate proof - unverified; COMPLETE R4R2-01 author repair ready for BOTH affected re-audits",
+  "constructor": "review_2022_complexity_r2",
+  "requested_model": "gpt-6.1-sol",
+  "requested_reasoning_effort": "max",
+  "verified_effective_setting_readback": null,
+  "repair_issue": "R4R2-01",
+  "author_accepts_real_auxiliary_error": true,
+  "root_initial_miss_C_initial_objection_and_original_v1_preserved": true,
+  "full_replacement_candidate_not_summary_or_diff_only": true,
+  "original_whole_obligations": 36,
+  "additional_repair_obligations": 8,
+  "entire_R4A_R4D_and_E5_application_core_unchanged": true,
+  "full_E2_iff_unchanged_in_value_and_parameter_scope": true,
+  "last_row_automatic_and_interior_list_sufficient_fully_proved_in_replacement": true,
+  "final_row_minus_one_not_zero_and_L2_boundary_retained": true,
+  "exact_diff_and_complete_source_log_obligation_records": true,
+  "required_affected_reauditors": [
+    "coordinator root",
+    "review_2017_coarsening_r1"
+  ],
+  "independent_repair_acceptance_or_coordinator_promotion": false,
+  "new_external_theorem_full_classification_unbounded_system_solution_cutoff_or_novelty": false,
+  "mathematical_program_scan_CAS_enumeration_certificate_or_old_author_rerun": false,
+  "old_shared_Git_cache_other_owner_edits_spawning_charges_contacts_bypass": false,
+  "input_record_occurrences_verified": 3318,
+  "input_unique_paths_verified": 679,
+  "older_own_unique_frozen_paths_preserved": 206,
+  "direct_weekly_telemetry": {
+    "at_utc": "2026-10-17T12:46:26+00:00",
+    "source": "direct account-wide Codex usage tool paired with UTC clock",
+    "total_used_percent": 39,
+    "window_duration_minutes": 10080,
+    "resets_at_unix": 1792745187,
+    "ordinary_usage_allowed": true,
+    "total_used_cutoff_percent": 90,
+    "integration_reserve": true
+  },
+  "artifacts": [
+    {
+      "path": "problems/2020-B4/notes/reasoning-return-r4-candidate-v1.1.md",
+      "bytes": 22700,
+      "sha256": "c8fc32fba5fb12a7af4e25b398b65cd9d148273c3bc6f055ea21394a66e01ce2"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-return-r4-obligations-v1.1.md",
+      "bytes": 11399,
+      "sha256": "ab449217cefcad39d4f4cd7626cd86829c378f236d60849dbb7576f5360a1c68"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-return-r4-source-checks-v1.1.md",
+      "bytes": 7803,
+      "sha256": "21d116d80d110914121cf6d8a93695aed39c6ff2ba3e3795e0298a784e37c04c"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-return-r4-worklog-v1.1.md",
+      "bytes": 7718,
+      "sha256": "314798717100afa2826514ee652dea6aa253e009236b7196ede05fac69d20291"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-return-r4-sources-v1.1.json",
+      "bytes": 11986,
+      "sha256": "7a4b53531101c658875aa582bdef5118cceeb260697ad2422089469f1b8d3c18"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-return-r4-repair-v1.1.md",
+      "bytes": 6539,
+      "sha256": "7322ba5ce6be2db2783ff440e8030970acd16ce2c00b39c92054d923ae9104c7"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-return-r4-repair-v1.1.diff",
+      "bytes": 28607,
+      "sha256": "378d3721fc9d249cf5f51ad35a946cf5ba87711618aa85b8f1100f0a77b028b8"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-return-r4-build-repair-v1.1.py",
+      "bytes": 18372,
+      "sha256": "2694d0e8b5d928890912166dd0abd89622feb3347acfef8f47c8edf5e10b53de"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-return-r4-freeze-v1.1.py",
+      "bytes": 11851,
+      "sha256": "b2a14b80c46073f52f4d63745e86067f301399d4e3f64cacb6620fc97437fed5"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-return-r4-input-validation-v1.1.json",
+      "bytes": 656368,
+      "sha256": "bd2be53e078831fbbaed0fb5469f91b58701c9e87c8f0a2a664d10ad1caa25c1"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "frozen_at_utc": "2026-10-17T12:59:33.458412+00:00",
+  "status": "complete affected independent R2 reaudit; R4R2-01 resolved in v1.1; no remaining substantive objection in repaired scope; coordinator reconciliation pending",
+  "reviewer": "/root/review_2017_coarsening_r1",
+  "new_R4_or_repair_constructor": false,
+  "old_repaired_R3_F1_F2_constructor": true,
+  "not_new_independent_self_reaudit_of_old_input": true,
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "target": {
+    "path": "problems/2020-B4/notes/reasoning-return-r4-candidate-v1.1.md",
+    "bytes": 22700,
+    "sha256": "c8fc32fba5fb12a7af4e25b398b65cd9d148273c3bc6f055ea21394a66e01ce2"
+  },
+  "target_manifest": {
+    "path": "problems/2020-B4/notes/reasoning-return-r4-freeze-v1.1.json",
+    "bytes": 3877,
+    "sha256": "a76d1879815282839e87cf51b6a488279d213b11e1d5f00c8f216bbc44cc7b66"
+  },
+  "issue": {
+    "id": "R4R2-01",
+    "disposition": "resolved in complete versioned replacement",
+    "automatic_final_minus_one": true,
+    "sufficient_interior_list_proved": true,
+    "reduced_matrix_uses_known_actual_zero_count": true,
+    "full_iff_and_unchanged_R4A_R4D_retained": true
+  },
+  "all_original_plus_repair_obligations_disposed": 44,
+  "open_substantive_repair_issues": 0,
+  "new_targeted_peer_repair_findings_read_before_freeze": false,
+  "official_full_classification_unbounded_system_solution_cutoff_or_novelty": false,
+  "earlier_unique_own_paths_verified_unchanged": 268,
+  "last_direct_weekly_telemetry": {
+    "at_utc": "2026-10-17 12:58:40 UTC",
+    "total_used_percent": 39,
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "total_ceiling_percent": 90,
+    "integration_reserve": true
+  },
+  "administrative_command": "/Users/uqmkamga/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 problems/2020-B4/reviews/reasoning-return-r4-review-2-freeze-v1.1.py",
+  "artifacts": [
+    {
+      "path": "problems/2020-B4/reviews/reasoning-return-r4-review-2-reaudit-v1.1.md",
+      "bytes": 8233,
+      "sha256": "027643ac6e614beafed2d0e090af11824fa455e8ab88ffcc629b7b6505c72dd1"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-return-r4-review-2-issues-v1.1.md",
+      "bytes": 4505,
+      "sha256": "6e7b1e19dad0b5f43c23e54a14e827b525c9c876beafdbfc9d9effeec0e74ece"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-return-r4-review-2-source-checks-v1.1.md",
+      "bytes": 2782,
+      "sha256": "5fe2fed390f4edd4497d319201551ceba6e1431661f5cc55ae9764c801992813"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-return-r4-review-2-freeze-v1.1.py",
+      "bytes": 8425,
+      "sha256": "f1b891146233c3dcb41390805634041bf7eb25170bd5c4305b74149098fd6ff0"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-return-r4-review-2-input-validation-v1.1.json",
+      "bytes": 63493,
+      "sha256": "f469fbf4369502eab31fb1db4941b0ded559c896f7e85f8cc1b4a031cfc4bb80"
+    }
+  ]
+}

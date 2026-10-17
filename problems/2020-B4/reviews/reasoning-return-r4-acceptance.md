@@ -1,0 +1,17 @@
+# Coordinator acceptance: repaired2020 R4A--R4E
+
+2026-10-17 UTC. **Proved, independently reviewed scoped partial results.**
+
+R4A--R4B give a reconstructed classical planar multiplier collision/Sidon restriction with the exact q=4 exception preserved. R4C explicitly imports Cohen1989 Theorem1 to obtain a mandatory UNIT orbit for the actual normalized difference set outsideq4, and couples it to actual fixed-subplane intersections. Its involution corollary requires an ACTUAL numerical involution; square order alone does not suffice. Cohen's complete sieve proof is an attributed published import, not reconstructed here.
+
+R4D proves that the EXTRA saturated hypothesis |T|>=q forces primev, M=T and a single multiplicative coset or that coset pluszero according to the stated parity. Hall's separately accepted multiplier import gives the exact order-three congruence. No theorem that every relevant order satisfies saturation is supplied. Xia's extra non-Desarguesian flag-transitive hypotheses are not dropped or applied to all cyclicplanes.
+
+R4E proves an elementary exact moment iff for the prescribed saturated subgroup shapes. In the repaired version the final moment B_L=-1 is AUTOMATIC, and the INTERIOR equations alone already suffice: the knownactualzero count allows a square nonzero-residue Vandermonde, then0<=mu(z)<=k<ell lifts the fieldcongruence to integercounts. The L2 empty-list boundary and E5's L>2 condition are retained. This does not solve the unbounded interior system or the nonsaturated branch.
+
+R4R2-01 was a REAL author error: v1 falsely called the last moment essential and earlier tests insufficient. Coordinator root's original wholeR1 missed it; reviewer2 found it independently. The COMPLETE fullv1.1 authorreplacement corrects everyaffected explanation and adds both automatic-row proofs plus the reduced-matrix sufficiency proof. BOTH required affected reaudits independently reconstruct the correction and resolveR4R2-01. Originalv1, both differing wholeinitials, their ledgers/sources, the exact counterargument, the five-file diff and the olderq4 errortrail remain unchanged. This record does not retrospectively amend either initial.
+
+The two original fresh nonconstructor WHOLE initials froze before peer comparison. The two affected reaudits also completed before reading each other's new targeted reports. Root read the FULL original and replacementmain, both COMPLETE originalreports/ledgers/sources and both COMPLETE affectedreports/ledgers/sources, all44replacementobligations, repairledger/worklog/sourceJSON and ENTIREexactdiff. Root oldR3reviewmiss and reviewer2 oldrepairedR3F1/F2authorship are disclosed; this is not a new independent self-review of those older acceptedinputs. No substantive objection remains in the repaired scope.
+
+All mathematical arguments and symbolic moment proofs were hand reconstructed. No mathematical scan,CAS,binomial table,certificate orauthorcomputation was rerun. Text equality andmetadatahashes establishpreservation only. Fulltautclassification/CyclicPrimePowerConjecture, improvedpublishedcutoff, arbitrarycyclicplaneclassification andnovelty remainunresolved. Internal review is not externalvalidation.
+
+Verified 3717 declared fingerprint occurrences across 708 paths. Exact metadata inputs are hashed in the integrity summary, avoiding duplication of their preserved historical rows. The fullreplacement is preserved as a byte-identical accepted suffix.

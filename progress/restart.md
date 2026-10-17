@@ -1,3 +1,11 @@
+# Latest restart boundary — 2026-10-17 13:09 UTC
+
+Supersedes historicalnotesbelow. Lastconfirmedpushb1c503c; thisnewcheckpointawaitspush. Readstatus-2026-10-17-1309.md andrun-state.json.40%TOTALweekly,samereset1792745187;continueuntil90%TOTAL withreserve,donotstopataninterimcheckpoint. OwnedUNTIMEDawakePID79293/session64368 verified22:52:11Brisbane;releaseONLYownedassertionat90%oractualtermination.
+
+NEWrepaired2020R4,2021R6 andconditional2025OW accepted.2017V1–V4rootR1frozen/BwholeR2active;2022F5A/Cwholeauditsactive(root/Bcontributors excluded);2024CJ1rootcandidateunverifiedA/Cauditsqueuedafter2022. Preserveallinitials/versions; root's2020miss andcorrectedautomaticfinalmomenttrailremainexplicit.2annualanswers2018/2023,7unresolved. NEW2019relation isarephrasingofearliermodel,notadditionalprogress.
+
+---
+
 # Latest restart boundary — 2026-10-17 12:52 UTC
 
 This latest section supersedes historical launch notes below. Last confirmed pushedcommit e2e0f36; newer complete checkpoint awaits push. Read progress/run-state.json and status-2026-10-17-1252.md. Continue sustained research until90%TOTAL accountweeklyusage or genuine stopping condition; do not stop at an interimcheckpoint. Meter39%TOTAL,reset1792745187. OwnedUNTIMEDcaffeinatePID79293/session64368 verified22:52:11Brisbane; stopONLYownedassertionat90%cutoff/actualtermination. Earlier dated12hexpiry statements below are historical and superseded by the user's later authorization.

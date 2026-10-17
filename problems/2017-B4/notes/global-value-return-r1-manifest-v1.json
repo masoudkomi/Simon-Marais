@@ -1,0 +1,76 @@
+{
+  "frozen_at_utc": "2026-10-17T12:55:23.464294+00:00",
+  "status": "candidate proof - unverified; complete mathematical/source/failure checkpoint awaiting two OTHER whole audits",
+  "constructor": "/root/review_2017_coarsening_r1",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "scope": "2017 B4 entire, marked count; sharper finite coarsening and fixed-D direction error, conditional effective bridge, abstract obstruction only",
+  "proposed_results": {
+    "V1": "C(n)<=B(m) product W_mi(n-mi)<=B(m) product C(mi)binom(n-1,mi-1)^mi",
+    "V2": "ell_D<=L<=D/(D-1)(ell_D+h2(1/D)); 0<=L-ell_D<=h2(1/D)+U/D, U=324757/500000",
+    "V3": "Explicit unestablished E gives left semicomputation; E+R gives computability; no unconditional E/R claim",
+    "V4": "Computable integer abstract counts, exact quadratic replication and zero balanced deficit with noncomputable limit; not a tiling counterexample"
+  },
+  "author_obligations": 40,
+  "new_independent_reviews_complete": 0,
+  "two_OTHER_initially_blind_whole_nonconstructor_audits_required": true,
+  "new_numerical_value_full_annual_solution_effective_p_rate_SFT_application_or_novelty": false,
+  "unconditional_computability_or_noncomputability_of_actual_L_claimed": false,
+  "earlier_unique_own_paths_verified_unchanged": 259,
+  "all_ten_accepted_transitive_input_hashes_checked": true,
+  "mathematical_program_CAS_scan_simulation_certificate_replay_or_author_rerun": false,
+  "last_direct_weekly_telemetry": {
+    "at_utc": "2026-10-17 12:45:25 UTC",
+    "total_used_percent": 38,
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "total_ceiling_percent": 90,
+    "integration_reserve": true
+  },
+  "administrative_command": "/Users/uqmkamga/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 problems/2017-B4/notes/global-value-return-r1-freeze-v1.py",
+  "artifacts": [
+    {
+      "path": "problems/2017-B4/notes/global-value-return-r1-candidate-v1.md",
+      "bytes": 23428,
+      "sha256": "d70cda1ce140e989d4d37d062c9c6c55e562db7044ba4302b6183ee91603c016"
+    },
+    {
+      "path": "problems/2017-B4/notes/global-value-return-r1-obligations-v1.md",
+      "bytes": 5360,
+      "sha256": "2dd49f754143ce4ae795b057b27ee95b0e04862b2054ef0e7db8da8451ad96d5"
+    },
+    {
+      "path": "problems/2017-B4/notes/global-value-return-r1-constructor-checks-v1.md",
+      "bytes": 3409,
+      "sha256": "ebd33233fb3ecdf6ee4479c2b6ab0fc3b5d3359e6dafe47d69d0034cf6be05e6"
+    },
+    {
+      "path": "problems/2017-B4/notes/global-value-return-r1-source-checks-v1.md",
+      "bytes": 6239,
+      "sha256": "4f8c79b4ee1b5ec821e4b5a03f1d896199440d249d22380cce37740a58088ddf"
+    },
+    {
+      "path": "problems/2017-B4/notes/global-value-return-r1-worklog-v1.md",
+      "bytes": 8747,
+      "sha256": "96719f5d1711d23610a6dfdde55c26ac0bb20c63cb1616fb05227f616c61d0ec"
+    },
+    {
+      "path": "problems/2017-B4/notes/global-value-return-r1-freeze-v1.py",
+      "bytes": 10101,
+      "sha256": "aecf2b4403a3f3de0549ee4304fc3cdc3269615b391eca414074fab74c6190da"
+    },
+    {
+      "path": "problems/2017-B4/notes/global-value-return-r1-sources-v1.json",
+      "bytes": 7520,
+      "sha256": "8bdd210ae5222199148c880a6739332faa6aa648106b1fd5a77e530284d3d8ab"
+    },
+    {
+      "path": "problems/2017-B4/notes/global-value-return-r1-input-validation-v1.json",
+      "bytes": 56800,
+      "sha256": "72066d2e2be621cf4efb419b1b220f71d2c1df57612f133dc55ffe5953de8bde"
+    }
+  ]
+}
