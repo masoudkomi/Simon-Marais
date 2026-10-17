@@ -1,0 +1,252 @@
+{
+  "status": "initial independent nonconstructor WHOLE audit frozen before peer findings",
+  "reviewer": "/root/review_2022_complexity_r2",
+  "candidate_sha256": "fc280881b1df650d07ab48f0f4c19d0e77f076e6b39a13f3a0b8d9969074a433",
+  "separate_inference_checks": 40,
+  "open_substantive_issues": [],
+  "author_repairs_requested": [],
+  "checks": [
+    {
+      "id": "ADS-R2-01",
+      "claim": "fixed compact-strict local scope",
+      "status": "reconstructed; no substantive objection",
+      "reason": "D>=3 fixed; nonempty compact VJ=I class with every ordered minor>=rho>0 and bounded rows. Constants may depend on D,K,rho. Actual full tilings/common offset/whole buffer are required; no zero-minor/global theorem or original-reference existence is asserted."
+    },
+    {
+      "id": "ADS-R2-02",
+      "claim": "exact logical versus precedent sources",
+      "status": "reconstructed; no substantive objection",
+      "reason": "DG/CUT already have fixed-D scope and are freshly reread, including original arc definition/Lemma2.2/proof. D4 annulus/ST/US are method sources; full new all-D arguments are checked directly. Root strategy inspection is not an independent audit."
+    },
+    {
+      "id": "ADS-R2-03",
+      "claim": "ranked weak-order swap chain",
+      "status": "reconstructed; no substantive objection",
+      "reason": "At first mismatch with q, moving q desired label left crosses only smaller labels; a larger one would be a forbidden current inversion absent in q. Same-color rank order prevents such crossings. Iteration stays in the interval and reaches q."
+    },
+    {
+      "id": "ADS-R2-04",
+      "claim": "actual physical shelling",
+      "status": "reconstructed; no substantive objection",
+      "reason": "Every ij->ji swap adds its positive parallelogram above the current path; earlier shell interiors remain below. Thus physical regions have disjoint interiors and tile the whole weak lens. Unit-x integer edges exclude partial-edge lattice subdivisions."
+    },
+    {
+      "id": "ADS-R2-05",
+      "claim": "same lift at physical contacts",
+      "status": "reconstructed; no substantive objection",
+      "reason": "At a common abscissa the prefix length is fixed. Only an across-prefix swap changes that vector, and it strictly raises physical y. Equal y at a common vertex forces no such swap, hence equal full height despite ker V. Shared edges have fixed color/rank."
+    },
+    {
+      "id": "ADS-R2-06",
+      "claim": "weak-lens lobe factorization",
+      "status": "reconstructed; no substantive objection",
+      "reason": "No positive-area tile can cross an abscissa where the boundary graphs coincide. Equal contact heights make complete boundaries consistent, so positive-area components factor with no hidden rank matching."
+    },
+    {
+      "id": "ADS-R2-07",
+      "claim": "AD1 full poset characterization",
+      "status": "reconstructed; no substantive objection",
+      "reason": "The intersection of the two total ranked orders forces exactly p0 inversions and q0 noninversions. Its linear extensions are precisely interval shuffles in any D, including same-color rank order."
+    },
+    {
+      "id": "ADS-R2-08",
+      "claim": "AD1 available box and ideals",
+      "status": "reconstructed; no substantive objection",
+      "reason": "Retain 0<=h_i<=N_i for every color before interpreting I(h). Necessity is a prefix ideal; sufficiency concatenates p0 restricted to the ideal and complement. No negative-coordinate truncation is inferred from set notation."
+    },
+    {
+      "id": "ADS-R2-09",
+      "claim": "AD1 all-pair range test",
+      "status": "reconstructed; no substantive objection",
+      "reason": "At i count s the two-color closed range is b_p0(s)<=h_j<=b_q0(s+1). Failures are exactly selected/unselected forced cross-color comparisons. Every violation is seen in one pair; same-color ideality is automatic."
+    },
+    {
+      "id": "ADS-R2-10",
+      "claim": "AD1 absent and endpoint cases",
+      "status": "reconstructed; no substantive objection",
+      "reason": "Sentinels b(0)=0,b(N_i+1)=N_j handle s=0,N_i and N_i=0. All binom(D,2) tests and every absent inner-color coordinate remain present."
+    },
+    {
+      "id": "ADS-R2-11",
+      "claim": "AD2 full ranked extensions",
+      "status": "reconstructed; no substantive objection",
+      "reason": "A=p0 restricted I(a), B restricted complement I(b). Ideality of A prefixes, actual middle vertices and I(b) plus p0-complement prefixes gives p0<=ApB<=AqB<=q0 with all fixed global ranks."
+    },
+    {
+      "id": "ADS-R2-12",
+      "claim": "AD2 actual closed annulus",
+      "status": "reconstructed; no substantive objection",
+      "reason": "Lower/upper swap bands lie on opposite sides of the middle lens and fill the outer region. Entry A lies before its left endpoint, exit B after its right endpoint, so neither enters the inner interior. Seams agree in exact heights/ranks; both corners close geometrically."
+    },
+    {
+      "id": "ADS-R2-13",
+      "claim": "AD2 recoverable fibers",
+      "status": "reconstructed; no substantive objection",
+      "reason": "Fix padding chains from the complete boundary before varying its filling. Restriction recovers the inner tiling; variable O(L)-letter boundaries and one relative endpoint cost O(L+log L) in a bounded relative coordinate range, with no factorial matching."
+    },
+    {
+      "id": "ADS-R2-14",
+      "claim": "AD2 translated outer starts",
+      "status": "reconstructed; no substantive objection",
+      "reason": "Rebase h-z0 and x-Vz0; use the same full translated rank box and one ideal convention, not separate side offsets. Physical positions and canonical increment labels remain exact."
+    },
+    {
+      "id": "ADS-R2-15",
+      "claim": "AD3 strict pair distance",
+      "status": "reconstructed; no substantive objection",
+      "reason": "Every M=(J_i;J_j) has positive determinant. An inner vertex lies inside its affine outer Jordan image and at distance>=sigma(J)d. Inner error moves it <=sqrt(2)E1; outer projected-lift homotopy moves boundary <=sqrt(2)E0."
+    },
+    {
+      "id": "ADS-R2-16",
+      "claim": "AD3 positive winding under complete boundary homotopy",
+      "status": "reconstructed; no substantive objection",
+      "reason": "sigma d>sqrt(2)(E0+E1) keeps point and homotopy disjoint. Winding stays one for the actual projected outer loop. Shared two-color pieces cancel, and winding-one components are exactly their weak-lens interiors."
+    },
+    {
+      "id": "ADS-R2-17",
+      "claim": "AD3 range first and all-color compatibility",
+      "status": "reconstructed; no substantive objection",
+      "reason": "Each projected lens lies in [0,N_i]x[0,N_j]. ALL pair windings first force every coordinate range and both endpoint boxes, including absent inner colors. Only then AD1 yields ideals of the ONE full poset and AD2 supplies the annulus."
+    },
+    {
+      "id": "ADS-R2-18",
+      "claim": "AD3 strict edges and common translated offset",
+      "status": "reconstructed; no substantive objection",
+      "reason": "Containment plus positive vertex gaps gives positive affine gaps on every unit-x interval, eliminating edge-interior contacts. Rebased offset is c-(I-JV)z0 in ker V and errors/distances are unchanged. No color-gap or convex-profile substitution."
+    },
+    {
+      "id": "ADS-R2-19",
+      "claim": "finite physical positive frames",
+      "status": "reconstructed; no substantive objection",
+      "reason": "Strict ordered row angles lie in span<pi, giving an open common positive cone. Choose rational independent directions and scale to integers; compact assigned subsets in finite charts give uniform kappa,K_dir before periods."
+    },
+    {
+      "id": "ADS-R2-20",
+      "claim": "uniform pair and support margins",
+      "status": "reconstructed; no substantive objection",
+      "reason": "Nearby J have minors>=rho/2, row norms<=G+1, hence every pair sigma_min>=rho/(2 sqrt(2)(G+1)). VJ=I makes u_x,v_x positive. Finite frames have positive gamma support gaps and bounded graph/coordinate constants."
+    },
+    {
+      "id": "ADS-R2-21",
+      "claim": "generic common phase existence",
+      "status": "reconstructed; no substantive objection",
+      "reason": "q clears positive J u,J v contents. Finitely many proper affine hyperplanes describe event coincidences, so one rational phase cube point avoids all. The SAME phase is used on both segments and integer translates; no separation lower bound is needed."
+    },
+    {
+      "id": "ADS-R2-22",
+      "claim": "coordinate floor error independent of q",
+      "status": "reconstructed; no substantive objection",
+      "reason": "floor(t rate-theta)+1 starts0, ends at integer content and differs from straight height by<=1, including one-sided/interpolated edge values. Integer content translations preserve it on all powers without accumulation."
+    },
+    {
+      "id": "ADS-R2-23",
+      "claim": "all-pair event comparability",
+      "status": "reconstructed; no substantive objection",
+      "reason": "Positive projected determinant orders lower/upper straight chains. At each i threshold the same j floor count is no larger below, giving each rank inversion inclusion. Checking every pair proves U^mW^n<=W^nU^m for all positive m,n in any fixed D."
+    },
+    {
+      "id": "ADS-R2-24",
+      "claim": "q-free physical and affine digital error",
+      "status": "reconstructed; no substantive objection",
+      "reason": "H lies in im J. Apply V and I-JV to the coordinate-one discrepancy; fixed D and bounded J give uniform physical/affine errors, independent of q,phase,m,n. Endpoint physical translations are exact."
+    },
+    {
+      "id": "ADS-R2-25",
+      "claim": "straight gap and contact boxes",
+      "status": "reconstructed; no substantive objection",
+      "reason": "Exact gap is slope difference times min(x,X-x,ell u_x,ell v_x). Finite frames give a uniform positive bound. Pointwise bands and bounded straight slopes yield same-abscissa graph errors, confining contacts to two bounded end boxes."
+    },
+    {
+      "id": "ADS-R2-26",
+      "claim": "nonempty main lens and bounded lobes",
+      "status": "reconstructed; no substantive objection",
+      "reason": "For large ell choose last/first contact vertices in disjoint boxes with strictly separated middle. Unit-interval graphs force all contacts to vertices/shared edges. Equal lifts give complete main boundary; bounded integer-origin alphabet bounds TOTAL discarded-lobe factor."
+    },
+    {
+      "id": "ADS-R2-27",
+      "claim": "whole-core shape and small spans",
+      "status": "reconstructed; no substantive objection",
+      "reason": "Graph bounds away from boxes and finite-frame erosion removing those boxes prove whole main-lens erosion/enlargement. Small ell uses only a bounded weak lens; no main lens is asserted before its uniform threshold."
+    },
+    {
+      "id": "ADS-R2-28",
+      "claim": "AD5 exact independent block patches",
+      "status": "reconstructed; no substantive objection",
+      "reason": "For m=kl+r bubble U/W blocks. Each exchange is comparable and raises the current physical path, so regions have disjoint interiors with exact integer seam heights. k² size-l choices are recovered by restriction; remainder exchanges are fixed. Thus C_m>=C_l^(k²)."
+    },
+    {
+      "id": "ADS-R2-29",
+      "claim": "AD5 all-size density and EVERY-m upper",
+      "status": "reconstructed; no substantive objection",
+      "reason": "Finite B_D integer-origin alphabet gives log C_m<=H(qm)². Fixed-l block inequality makes liminf normalized counts>=each finite l density; tautological supremum upper gives existence and equality with supremum. Therefore log C_m<=e(qm)² for EVERY m, without continuity/rate."
+    },
+    {
+      "id": "ADS-R2-30",
+      "claim": "single rounded phase/rank alignment",
+      "status": "reconstructed; no substantive objection",
+      "reason": "Round z near J y+c. VJ=I,Vc=0 bound Vz-y and (I-JV)z-c uniformly. Translate the entire frame and heights once; bounded trimming preserves one common affine error and all corner ranks."
+    },
+    {
+      "id": "ADS-R2-31",
+      "claim": "ACUT integer mesh and shared corners",
+      "status": "reconstructed; no substantive objection",
+      "reason": "Use unscaled u,v, N=ceil(1/t), ell in[tL/2,tL], one sample vertex shared by both sides at each corner. E<=epsilon L+C_tile; t<=kappa/8 and L>=8C_tile/(kappa t) imply kappa ell>=2E."
+    },
+    {
+      "id": "ADS-R2-32",
+      "claim": "ACUT complete DG bands",
+      "status": "reconstructed; no substantive objection",
+      "reason": "Positive endpoint coordinate increments give DG paths in the actual full tiling. Coordinate monotonicity bounds every intermediate point by M_V(K_dir ell+3E)<=C_band tL. Whole buffered neighborhood contains every path/sample tile, independently of intermediate flatness or outside shortcuts."
+    },
+    {
+      "id": "ADS-R2-33",
+      "claim": "ACUT Jordan boundary and full ranks",
+      "status": "reconstructed; no substantive objection",
+      "reason": "Positive O(L)-length paths have contacts only in O(tL) end boxes. Trimming gives the whole-core Jordan lens. Each active threshold track has exactly two boundary ports and one interior arc; pair crossings are positive and at most once, giving ranked comparability in arbitrary fixed D."
+    },
+    {
+      "id": "ADS-R2-34",
+      "claim": "ACUT exact upper recovery code",
+      "status": "reconstructed; no substantive objection",
+      "reason": "Deterministic FOUR-side strip of width O(tL+1) has O(tL²+L+1) integer sites. Boundary words plus one common normalized endpoint recover all source tiles with output. Subtract one integer near Jx0+c across the family to put positions/heights in O(L); no arbitrary global range cost is dropped."
+    },
+    {
+      "id": "ADS-R2-35",
+      "claim": "US_D2 outer receiving annulus",
+      "status": "reconstructed; no substantive objection",
+      "reason": "Centered outer span ceil(L+2A0tL) in q units has support margin>=4tL before bounded rounding/trimming. Uniform sigma0 test gives ALL ranks then ideals. One fixed canonical outer family receives every source boundary via AD2, with bounded lobes and recoverable fiber code."
+    },
+    {
+      "id": "ADS-R2-36",
+      "claim": "US_D2 exact M Omega lower insertion",
+      "status": "reconstructed; no substantive objection",
+      "reason": "Fix Omega_T once. M grids give exact scaled lift/boundary and consecutive ranks; letter blocks preserve comparability. Inner canonical floor span lies inside whole erosion with margin>=tML. Swapped AD3 errors give range/ideals and a fixed annulus; arbitrary canonical fillings insert into EXACT M Omega_T with MT exterior."
+    },
+    {
+      "id": "ADS-R2-37",
+      "claim": "all size thresholds and floor/ceiling edges",
+      "status": "reconstructed; no substantive objection",
+      "reason": "Choose t with positive inner factor1-2A0t. Ceiling overshoot/floor undershoot improve buffers. q<=tL,L>=1/t and all uniform geometry follow from L>=C(q+1)/t. Main-lens and k_M positivity require only sufficiently large M; M=1 claim is explicitly thresholded."
+    },
+    {
+      "id": "ADS-R2-38",
+      "claim": "same-density square cancellation",
+      "status": "reconstructed; no substantive objection",
+      "reason": "For fixed rational family and original L, upper EVERY-m e[(1+2A0t)L+q]² and lower all-size M limit e[(1-2A0t)L]² use SAME e. Exact difference is8A0tL²+2qL(1+2A0t)+q²<= (12A0+3)tL²; code<=3K0tL². No denominator-uniform convergence rate."
+    },
+    {
+      "id": "ADS-R2-39",
+      "claim": "real tangent finite net and order",
+      "status": "reconstructed; no substantive objection",
+      "reason": "eta then epsilon for parameter2epsilon and all geometry; finite rational net in VJ=I using unimodular first two columns, compact assigned chart margins; c_alpha=c+(J-Jalpha)x0 keeps one offset on WHOLE buffer. Enlarge buffer by sqrt2 before net. Then choose periods/phases and max L0; epsilon never shrinks afterwards."
+    },
+    {
+      "id": "ADS-R2-40",
+      "claim": "profile, edge cases and no global conclusion",
+      "status": "reconstructed; no substantive objection",
+      "reason": "Global full-domain Lipschitz gives O(L) replacement height change, normalized O(lambda), not O(epsilon lambda). D=3, absent auxiliary colors, small spans, near phase ties and empty side pieces are covered. No substantive counterexample found; no uniform rho->0/D->infinity, all-scale references, UR_D,H,PR,official limit or novelty."
+    }
+  ],
+  "peer_allD_findings_read_before_freeze": false,
+  "promotion_by_reviewer": false
+}

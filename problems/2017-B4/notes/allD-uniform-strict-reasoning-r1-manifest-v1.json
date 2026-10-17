@@ -1,0 +1,78 @@
+{
+  "frozen_at_utc": "2026-10-17T07:26:17.872826+00:00",
+  "status": "candidate proof - unverified; complete fixed-D strict local extension",
+  "constructor": "review_2021_reasoning_j15_r2",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "candidate_sha256": "fc280881b1df650d07ab48f0f4c19d0e77f076e6b39a13f3a0b8d9969074a433",
+  "candidate_bytes": 37267,
+  "dimension": "each fixed D>=3",
+  "claims": [
+    "AD1",
+    "AD2",
+    "AD3",
+    "AD4",
+    "AD5",
+    "US_D1",
+    "US_D2",
+    "US_D3"
+  ],
+  "independent_whole_nonconstructor_audits_required": 2,
+  "coordinator_strategy_role_disclosed_not_independent_audit": true,
+  "full_all_color_rank_phase_annulus_and_uniform_proofs_included": true,
+  "denominators_change_L0_not_epsilon": true,
+  "global_UR_D_H_PR_or_official_limit_claim": false,
+  "own_old_D4_proof_or_other_frozen_packet_changed": false,
+  "mathematical_program_enumeration_or_CAS": false,
+  "git_shared_edits_or_spawning": false,
+  "latest_weekly_total_used_percent": 29,
+  "weekly_window_minutes": 10080,
+  "weekly_reset_unix": 1792745187,
+  "total_used_ceiling_percent": 90,
+  "command": "python3 problems/2017-B4/notes/allD-uniform-strict-reasoning-r1-freeze-v1.py",
+  "records": [
+    {
+      "path": "problems/2017-B4/notes/allD-uniform-strict-reasoning-r1-candidate-v1.md",
+      "bytes": 37267,
+      "sha256": "fc280881b1df650d07ab48f0f4c19d0e77f076e6b39a13f3a0b8d9969074a433"
+    },
+    {
+      "path": "problems/2017-B4/notes/allD-uniform-strict-reasoning-r1-researchlog-v1.md",
+      "bytes": 7698,
+      "sha256": "175a81c7fe065648b7fbf9315e0c3150b1a7e2ca6e2274f64ed9fd8442b1bf5b"
+    },
+    {
+      "path": "problems/2017-B4/notes/allD-uniform-strict-reasoning-r1-sources-v1.md",
+      "bytes": 4609,
+      "sha256": "60ec709bfa93b525e0b15732d56155a7e6630b0a81cb9b029d9e1c36179b15d5"
+    },
+    {
+      "path": "problems/2017-B4/notes/allD-uniform-strict-reasoning-r1-obligations-v1.json",
+      "bytes": 4084,
+      "sha256": "4e3eba16ca89900b2e64b30930ec3085e84f15a9b15586253bec14442c267381"
+    },
+    {
+      "path": "problems/2017-B4/notes/allD-uniform-strict-reasoning-r1-freeze-v1.py",
+      "bytes": 8337,
+      "sha256": "f72103ece7869ec42504335dbd281ac356ed8103e62837554b14b17629e11429"
+    },
+    {
+      "path": "problems/2017-B4/notes/allD-uniform-strict-reasoning-r1-sources-v1.json",
+      "bytes": 4845,
+      "sha256": "e25eea69ce6edbe7e8a4313778bffeab1c6f00f91a6e676f8cc97d4942f89642"
+    },
+    {
+      "path": "problems/2017-B4/notes/allD-uniform-strict-reasoning-r1-input-validation-v1.json",
+      "bytes": 61196,
+      "sha256": "2aa2e6ef9fb8b22de684a0f631ea1bf8187f9617c69a15f1f68f3383a7693222"
+    },
+    {
+      "path": "problems/2017-B4/notes/allD-uniform-strict-reasoning-r1-freeze-output-v1.json",
+      "bytes": 689,
+      "sha256": "45a994786b4be0c294494abe213059a671e3b4c39f926b5781db0056038e34c3"
+    }
+  ]
+}

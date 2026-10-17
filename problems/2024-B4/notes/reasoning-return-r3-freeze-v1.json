@@ -1,0 +1,116 @@
+{
+  "frozen_at_utc": "2026-10-17T07:31:45.758679+00:00",
+  "status": "candidate proof - unverified; complete CP1--CP3 construction awaiting two other fresh whole audits",
+  "constructor": "review_2017_coarsening_r1",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "whole_claims": [
+    "CP1 all whole fixed divisors iff F2 univariate composition",
+    "CP2 unrestricted q=2^k composition identity including k1/k2 endpoints",
+    "CP3 genuine k>=3 family, v2=k, outside accepted whole-phi13 progression"
+  ],
+  "fresh_audit_obligations": 16,
+  "artifacts": [
+    {
+      "path": "problems/2024-B4/notes/reasoning-return-r3-candidate-v1.md",
+      "bytes": 15010,
+      "sha256": "cff70e9b104a48613712d0f2920157f29a5c20b56fb26055de829984e11fb021"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-return-r3-obligations-v1.md",
+      "bytes": 3243,
+      "sha256": "0204bebdbd09e8c3ea80f1e8b330b8d28642bb29d7c679905c9da8cd7285e100"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-return-r3-failed-routes-v1.md",
+      "bytes": 3489,
+      "sha256": "2b4d389fe05907fe2d42004d2f0e012b57eb1229efed74ee5a6d8fca1293e699"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-return-r3-source-audit-v1.md",
+      "bytes": 6310,
+      "sha256": "0c06483f9fc55f03b915bb31eb81fef2c6c41758ef701f8b414aea01f03006d1"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-return-r3-worklog-v1.md",
+      "bytes": 5282,
+      "sha256": "978eed35a1402a166bbdbc65365bc86d1a15cce46d1fc413480ea4f012e64a35"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-return-r3-sources-v1.json",
+      "bytes": 5818,
+      "sha256": "3fe461e2b3d29a7c8b42afb5a5919c8e99a15f31a0483518b56ae42922d041c8"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-return-r3-kasami-target-check-v1.py",
+      "bytes": 4233,
+      "sha256": "77389d2c400e263a281b0112263ed30852900523414834d80b5ead8ca7de2e44"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-return-r3-kasami-target-run-v1.py",
+      "bytes": 1873,
+      "sha256": "725ca63e49d043c30973722108d95fb4cd465815faec970c6577e9d8ffda918c"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-return-r3-kasami-target-job-v1.json",
+      "bytes": 427,
+      "sha256": "fbcedcf3aecf2c3ff2972fea7070dabe2f740cdff235e808e9ef75d533e48d8f"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-return-r3-kasami-target-completion-v1.json",
+      "bytes": 363,
+      "sha256": "2918fa00db89338fa59183df64649f167325751714dd8053b4d96ee52e00dc84"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-return-r3-kasami-target-stdout-v1.txt",
+      "bytes": 513,
+      "sha256": "33e0ff989de0d9785f1bab6302be8a609fc041f1d1f54b87b792b45238b844be"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-return-r3-kasami-target-stderr-v1.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-return-r3-kasami-target-certificate-v1.json",
+      "bytes": 5857,
+      "sha256": "d3d32bb95b54edda97b9637b26a32d0c4fbd61d1e1d47106fbab2c00560a226c"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-return-r3-freeze-v1.py",
+      "bytes": 7166,
+      "sha256": "fa0329216aa93a63a73b2ed41159c29c89659fc3c53d089f133ab08ac0ca1d80"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-return-r3-input-validation-v1.json",
+      "bytes": 35730,
+      "sha256": "016383871e657d90fac34386f25971cab15209cbeb29006419013d75cf9364c3"
+    }
+  ],
+  "earlier_unique_frozen_records_preserved": 165,
+  "accepted_phi13_criterion_used_only_for_progression_comparison": true,
+  "APN_absolute_component_or_monodromy_theorem_import": false,
+  "finite_q8_certificate_is_proof_premise": false,
+  "math_child": {
+    "pid": 95340,
+    "harness_pid": 95339,
+    "external_timeout_seconds": 10,
+    "return_code": 0,
+    "reaped": true,
+    "scope": "single q8,d57,N3641 univariate symbolic corroboration"
+  },
+  "q2_endpoint_genuine_factor_claim": false,
+  "q4_old205_context_attributed_and_not_rerun": true,
+  "all_m_general_q_family_AS_S4_or_full_classification_claim": false,
+  "novelty_claim": false,
+  "author_promotion_or_independent_review_claim": false,
+  "only_assigned_prefix_written": true,
+  "git_shared_mutation_spawning_contacts_charges_or_bypass": false,
+  "weekly_total_used_percent": 29,
+  "telemetry_at_utc": "2026-10-17 07:27:04 UTC",
+  "weekly_reset_unix": 1792745187,
+  "total_used_ceiling_percent": 90
+}

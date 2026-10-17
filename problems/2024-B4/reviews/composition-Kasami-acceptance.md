@@ -1,0 +1,13 @@
+# Coordinator acceptance: composition-Kasami
+
+2026-10-17 UTC. **Proved, independently reviewed scoped partial result.**
+
+CP1 proves, for ALL odd d,n>=3, that the WHOLE homogeneous polynomial phi_d divides phi_n over F2 if and only if g_n=H composed with g_d for some H in F2[T], where x^n+(x+1)^n=g_n(x²+x). Both homogeneous directions, the full-degree dehomogenization, rank-four free-module descent and monic h-adic argument are included. Repeated diagonal factors and d=3/n=3 unit endpoints are retained. This criterion does not classify arbitrary factors of phi_n.
+
+CP2 proves for EVERY q=2^k,k>=1, d=q²−q+1 and N=(q⁵+1)/(q+1) that g_N=g_d^(q²+1)+(g_d+1)^d, by an unrestricted four-term Frobenius identity. CP3 gives actual positive-degree homogeneous F2 factors and coefficientwise integer lifts for k>=2. Its advertised family beyond the attributed q=4,n=205 endpoint uses k>=3; the first is n=3641 with whole divisor phi_57 and factor degrees54 and3584. Every k>=3 member lacks the WHOLE phi13 divisor, by the separately accepted exact criterion and the valuation v2(N−1)=k. This does not exclude its other factors.
+
+Root's whole R1 and the other reviewer's whole R2 were independently frozen before comparison, with23 and38 inference checks respectively. Reviewer2 authored old T1–T4/C7/C11 context but did not construct the new CP1–CP3. Root inspected an unrelated MCM-polynomial literature lead after the independent R1; that lead is no premise, contribution or repair of the CP proof. No substantive objection was found and no author repair was required. The saved q8 computation is finite corroboration only, and neither reviewer reran it. The elementary all-q proof stands without it.
+
+The n=1 zero-polynomial and n=3 unit boundaries do not qualify for the official problem. No full reducibility classification, arbitrary-m extension of the family, absolute-component list, APN classification, or novelty is accepted. The annual 2024 problem remains unresolved. The q=4/205 context and published coordinate methods are attributed, with exact external proof-read limits in the source records.
+
+Both initially blind nonconstructor WHOLE audits were frozen before comparison. The coordinator read the complete candidate, both full reports, inference ledgers and source checks. Independent metadata verification covered 1042 record occurrences across 434 unique paths. No substantive objection remains in this scope; no repair was required. The full submitted candidate is preserved as a byte-identical suffix of the accepted exposition. Existing records remain unchanged. Hash checks are administrative integrity, not mathematical proof. No novelty claim.

@@ -1,0 +1,32 @@
+{
+  "date_utc":"2026-10-17",
+  "status":"candidate proof - unverified",
+  "constructor":"review_2021_reasoning_j15_r2",
+  "requested_settings":{"model":"gpt-6.1-sol","reasoning":"max"},
+  "verified_effective_settings":null,
+  "new_claims":["AD1","AD2","AD3","AD4","AD5","US_D1","US_D2","US_D3"],
+  "dimension":"each fixed integerD>=3; no uniformity inD or asrho->0",
+  "independent_whole_nonconstructor_audits_required":2,
+  "coordinator_strategy_contribution_disclosed":true,
+  "coordinator_inspection_counted_as_independent_audit":false,
+  "claims_for_review":[
+    {"claim":"ranked shellings/contact heights","proof":"Section2","critical_checks":["inversion-creating chain across arbitraryD","actual nonoverlapping physical ij tiles","unit-x primitive edges","same lift at a shared physical vertex despitekerV","factorization at pinched contacts"]},
+    {"claim":"AD1","proof":"Section3","critical_checks":["full poset intersection, not independent pair patches","all-coordinate available box BEFORE literal ideals","all rank comparisons via b_lower(s),b_upper(s+1)","endpoint sentinels and absent colors"]},
+    {"claim":"AD2","proof":"Section4","critical_checks":["actual entry/exit seams and corners","w_lower/w_upper full extensions with fixed global ranks","physical bands cover outerlens","one boundary-fixed padding and exact restriction recovery","D-letter/relative-height fiber count"]},
+    {"claim":"AD3","proof":"Section5","critical_checks":["all binom(D,2) positive affine windings","range first, ideals second","common offset and translated relative frame","strict nesting via unit-x edges","no bounded-gap substitution"]},
+    {"claim":"US_D1/AD4","proof":"Sections6-7","critical_checks":["finite physical common-cone charts","q-independent coordinate floor error","same generic phase on both segments and integer translations","every pair gives full weak order","bounded main-lens/lobe geometry and exact rank contacts"]},
+    {"claim":"US_D1/AD5","proof":"Section7","critical_checks":["uniform integer-origin alphabet bound withbinom(D,2) types","actual k² independent block patches, full seam heights","all-integer-size supremum identity","EVERY-m upper bound, not only asymptotic","no density continuity or uniform convergence rate"]},
+    {"claim":"uniform CUT","proof":"Section8","critical_checks":["already fixed-D accepted scope retained","unscaled physicalu/v exactmeshN=ceil(1/t)","shared corner vertices and complete DG bands","actual Jordan main lens and all globalrank labels","deterministic FOUR-side strip code and one common normalization"]},
+    {"claim":"US_D2/strict transfer","proof":"Section9","critical_checks":["shape inclusions from supporting-line gaps and whole-core bounds","uniform rounding/lobe constants independentq","all-color available ranks before annular ideality","one canonical upperframe fixed acrossfamily","exact M Omega_T and ONE full reference","arbitrary canonical interior fillings, fixed boundary/exterior"]},
+    {"claim":"US_D3","proof":"Sections10-11","critical_checks":["SAME canonical density upper/lower","fixed originalL beforeM limit","exact square-loss arithmetic and period floor/ceiling terms","eta thenepsilon then finite rationalnet then periods/phases thenmaxL0","common recentered affine offset onWHOLEbuffer"]},
+    {"claim":"profile/scope","proof":"Section12","critical_checks":["only O(L) height change via full convex-domain Lipschitz bound","no near-flatness of arbitrary inserted interiors","no reference existence allscales","no boundarystrata/globalUR_D/H/PR/official limit"]}
+  ],
+  "open_author_identified_mathematical_gap_in_stated_local_scope":null,
+  "unproved_outside_scope":["uniformity atzero minors/zero rows","global window selection and joint coding","global induction/UR_D","H/PR and official growing-direction limit","numerical evaluation or novelty"],
+  "old_D4_accepted_bodies_modified":false,
+  "mathematical_program_enumeration_or_CAS":false,
+  "weekly_total_used_percent":29,
+  "weekly_window_minutes":10080,
+  "weekly_reset_unix":1792745187,
+  "total_used_ceiling_percent":90
+}

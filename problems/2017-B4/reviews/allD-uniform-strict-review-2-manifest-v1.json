@@ -1,0 +1,80 @@
+{
+  "frozen_at_utc": "2026-10-17T07:37:30.937326+00:00",
+  "status": "initial independent nonconstructor WHOLE audit frozen before peer findings",
+  "reviewer": "/root/review_2022_complexity_r2",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "candidate": {
+    "path": "problems/2017-B4/notes/allD-uniform-strict-reasoning-r1-candidate-v1.md",
+    "bytes": 37267,
+    "sha256": "fc280881b1df650d07ab48f0f4c19d0e77f076e6b39a13f3a0b8d9969074a433"
+  },
+  "candidate_manifest": {
+    "path": "problems/2017-B4/notes/allD-uniform-strict-reasoning-r1-manifest-v1.json",
+    "bytes": 2952,
+    "sha256": "126fd14f143d6ab619c7aba5d57be968471080d7f07bb081805f6706434b1f18"
+  },
+  "whole_claims_reconstructed": [
+    "AD1",
+    "AD2",
+    "AD3",
+    "AD4",
+    "AD5",
+    "ACUT",
+    "AST",
+    "US_D1",
+    "US_D2",
+    "US_D3"
+  ],
+  "dimension": "each fixed integer D>=3, compact STRICT set only",
+  "separate_inference_checks": 40,
+  "substantive_objections": 0,
+  "author_repair_requested": false,
+  "promotion_by_reviewer": false,
+  "peer_findings_read_before_initial_freeze": false,
+  "D4_precedent_not_imported_as_allD_theorem": true,
+  "primary_arc_definition_Lemma2_2_and_proof_freshly_read": true,
+  "all_rank_boxes_pair_windings_phase_lobes_exact_dilation_and_parameter_orders_reconstructed": true,
+  "mathematical_enumeration_CAS_or_certificate": false,
+  "global_URD_H_PR_official_limit_numeric_value_or_novelty_claimed": false,
+  "author_manifest_rows_verified": 8,
+  "input_paths_verified": 26,
+  "author_input_validation_occurrences_verified": 242,
+  "author_input_validation_unique_paths_verified": 242,
+  "earlier_own_paths_verified_unchanged": 133,
+  "git_or_shared_candidate_edits": false,
+  "only_assigned_prefix_written": true,
+  "latest_authoritative_weekly_usage": {
+    "used_percent": 29,
+    "at_utc": "2026-10-17 07:29:50 UTC",
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "total_used_ceiling_percent": 90,
+    "integration_reserve": true
+  },
+  "records": [
+    {
+      "path": "problems/2017-B4/reviews/allD-uniform-strict-review-2-initial-v1.md",
+      "bytes": 23992,
+      "sha256": "2c5573b56a80bf6d14087c9ffeff894a8d42b8aca3a0a56d98f56d5ed48641c6"
+    },
+    {
+      "path": "problems/2017-B4/reviews/allD-uniform-strict-review-2-issues-v1.json",
+      "bytes": 16717,
+      "sha256": "8da7ae727dde69bf2654a34e7514e8ab7febc9627f1fc9103c84bc5021cb0b5c"
+    },
+    {
+      "path": "problems/2017-B4/reviews/allD-uniform-strict-review-2-source-checks-v1.md",
+      "bytes": 5790,
+      "sha256": "eefdb020efebb478f082e265b081137881da40b27f57e7f73e7e2ffb07105aad"
+    },
+    {
+      "path": "problems/2017-B4/reviews/allD-uniform-strict-review-2-input-checks-v1.json",
+      "bytes": 80869,
+      "sha256": "d563d2e129d8691947290b6b9f00345d561a9aa8ac6efe6eed9f02319f951d8c"
+    }
+  ]
+}

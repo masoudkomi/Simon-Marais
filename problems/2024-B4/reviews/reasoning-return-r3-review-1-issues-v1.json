@@ -1,0 +1,148 @@
+{
+  "reviewer": "coordinator root",
+  "initially_blind_whole_nonconstructor": true,
+  "open_substantive_issues": [],
+  "required_repairs": [],
+  "checks": [
+    {
+      "id": "CP-R1-01",
+      "claim": "Official part(b)",
+      "resolution": "positiveoddn, coefficientwiseF2, two nonconstantfactors",
+      "result": "reconstructed; no substantive objection"
+    },
+    {
+      "id": "CP-R1-02",
+      "claim": "Invariant ring",
+      "resolution": "free1,s basis; invariance removes s coefficient",
+      "result": "reconstructed; no substantive objection"
+    },
+    {
+      "id": "CP-R1-03",
+      "claim": "Degree g",
+      "resolution": "monic(n\u22121)/2 for odd n>1",
+      "result": "reconstructed; no substantive objection"
+    },
+    {
+      "id": "CP-R1-04",
+      "claim": "Linear coordinate map",
+      "resolution": "explicitinverse, exactdenominatorU+V",
+      "result": "reconstructed; no substantive objection"
+    },
+    {
+      "id": "CP-R1-05",
+      "claim": "Full homogenization",
+      "resolution": "degree doubles to n\u22123, no lostu factor",
+      "result": "reconstructed; no substantive objection"
+    },
+    {
+      "id": "CP-R1-06",
+      "claim": "Rank4free cover",
+      "resolution": "distinctparityleadingpairs",
+      "result": "reconstructed; no substantive objection"
+    },
+    {
+      "id": "CP-R1-07",
+      "claim": "Whole descent",
+      "resolution": "annihilatedbasiscoefficients vanishindomain",
+      "result": "reconstructed; no substantive objection"
+    },
+    {
+      "id": "CP-R1-08",
+      "claim": "h-adic expansion",
+      "resolution": "existenceEuclidean, uniquenessleadingdegreesmode",
+      "result": "reconstructed; no substantive objection"
+    },
+    {
+      "id": "CP-R1-09",
+      "claim": "Monic remainder",
+      "resolution": "forcesC_j=0 with no separabilityassumption",
+      "result": "reconstructed; no substantive objection"
+    },
+    {
+      "id": "CP-R1-10",
+      "claim": "Diagonal cancellation",
+      "resolution": "sameU+V, no coprimalityneeded",
+      "result": "reconstructed; no substantive objection"
+    },
+    {
+      "id": "CP-R1-11",
+      "claim": "CP1endpoint",
+      "resolution": "d3/n3/n<d/d=n handled",
+      "result": "reconstructed; no substantive objection"
+    },
+    {
+      "id": "CP-R1-12",
+      "claim": "First four terms",
+      "resolution": "c+1=w p^(q+1) allq withoutdivision",
+      "result": "reconstructed; no substantive objection"
+    },
+    {
+      "id": "CP-R1-13",
+      "claim": "Exponent equalities",
+      "resolution": "allfive integerrelations reconstructed",
+      "result": "reconstructed; no substantive objection"
+    },
+    {
+      "id": "CP-R1-14",
+      "claim": "Second four terms",
+      "resolution": "factorw^d, Frobeniusq\u00b3, exactCP2",
+      "result": "reconstructed; no substantive objection"
+    },
+    {
+      "id": "CP-R1-15",
+      "claim": "F2 descent",
+      "resolution": "injectivequadratic substitution",
+      "result": "reconstructed; no substantive objection"
+    },
+    {
+      "id": "CP-R1-16",
+      "claim": "Proper degrees",
+      "resolution": "d\u22123andN\u2212d positiveforq>=4",
+      "result": "reconstructed; no substantive objection"
+    },
+    {
+      "id": "CP-R1-17",
+      "claim": "Integer lift",
+      "resolution": "coefficientwise0/1positive-degreefactors",
+      "result": "reconstructed; no substantive objection"
+    },
+    {
+      "id": "CP-R1-18",
+      "claim": "Smallq endpoints",
+      "resolution": "q2unit, q4known205",
+      "result": "reconstructed; no substantive objection"
+    },
+    {
+      "id": "CP-R1-19",
+      "claim": "Infinite family",
+      "resolution": "valuationk distinguishesallk>=3",
+      "result": "reconstructed; no substantive objection"
+    },
+    {
+      "id": "CP-R1-20",
+      "claim": "Prior progression",
+      "resolution": "valuation2andacceptedexactphi13criteriononly",
+      "result": "reconstructed; no substantive objection"
+    },
+    {
+      "id": "CP-R1-21",
+      "claim": "Finite corroboration",
+      "resolution": "oneq8jobnotpremise, PID/reapmetadata",
+      "result": "reconstructed; no substantive objection"
+    },
+    {
+      "id": "CP-R1-22",
+      "claim": "Source firewall",
+      "resolution": "noabsolutecomponent/APN/MCMtheoremimport",
+      "result": "reconstructed; no substantive objection"
+    },
+    {
+      "id": "CP-R1-23",
+      "claim": "Remaining gap",
+      "resolution": "allotherfactors/allm/wholeclassification/noveltynotclaimed",
+      "result": "reconstructed; no substantive objection"
+    }
+  ],
+  "mathematical_computation_or_CAS": false,
+  "promotion": false
+}

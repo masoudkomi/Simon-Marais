@@ -1,0 +1,75 @@
+{
+  "accepted_at_utc": "2026-10-17T10:44:07.215968+00:00",
+  "status": "proved, independently reviewed scoped partial result",
+  "claims": [
+    "CP1 exact whole-divisor composition equivalence",
+    "CP2 all-q Kasami composition identity",
+    "CP3 infinite qualifying family outside whole-phi13 progression"
+  ],
+  "constructor": "review_2017_coarsening_r1",
+  "reviewers": [
+    "coordinator root",
+    "review_2021_reasoning_j15_r2"
+  ],
+  "whole_initials_blind": true,
+  "root_read_full_candidate_reports_ledgers_sources": true,
+  "unresolved_substantive_issues": 0,
+  "repair_required": false,
+  "record_occurrences_verified": 1042,
+  "unique_paths_verified": 434,
+  "candidate": {
+    "path": "problems/2024-B4/notes/reasoning-return-r3-candidate-v1.md",
+    "bytes": 15010,
+    "sha256": "cff70e9b104a48613712d0f2920157f29a5c20b56fb26055de829984e11fb021"
+  },
+  "accepted_copy": {
+    "path": "problems/2024-B4/proofs/reviewed-composition-Kasami-v1.1.md",
+    "bytes": 17366,
+    "sha256": "f1e82d443b5ac997889c7a7f7f340437f8401516cccf9516eac132558df220c5"
+  },
+  "verification_metadata": [
+    {
+      "path": "problems/2024-B4/notes/reasoning-return-r3-freeze-v1.json",
+      "bytes": 4596,
+      "sha256": "e2c1b451f486db75597fbd6b99c970f85a7ed70528bebd032e2d7168fbcf7741"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-return-r3-input-validation-v1.json",
+      "bytes": 35730,
+      "sha256": "016383871e657d90fac34386f25971cab15209cbeb29006419013d75cf9364c3"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-return-r3-sources-v1.json",
+      "bytes": 5818,
+      "sha256": "3fe461e2b3d29a7c8b42afb5a5919c8e99a15f31a0483518b56ae42922d041c8"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-return-r3-review-1-manifest-v1.json",
+      "bytes": 1875,
+      "sha256": "41eab74d5ef2c088c527403e6d6c7c522bbdc878053411dee6e26d8e9348f932"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-return-r3-review-1-input-checks-v1.json",
+      "bytes": 143486,
+      "sha256": "9e2469f2de0b582d2e05b302e81f0cb40d0d5c262457e5199ab2c391fac9d0b6"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-return-r3-review-2-manifest-v1.json",
+      "bytes": 2862,
+      "sha256": "3c6339e2715e1a6c5fa53f314ab280c6406177858e09864e10869b8262b6a6e4"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-return-r3-review-2-input-validation-v1.json",
+      "bytes": 106035,
+      "sha256": "7cf74e0b13785be79bc290b5684340a34d9cc0190c35466599ccea8cb368da60"
+    }
+  ],
+  "whole_reports_blind_before_comparison": true,
+  "whole_initial_checks": [
+    23,
+    38
+  ],
+  "reviewer2_older_structural_authorship_disclosed": true,
+  "finite_q8_record_is_proof_premise": false,
+  "full_reducibility_classification_or_novelty": false
+}

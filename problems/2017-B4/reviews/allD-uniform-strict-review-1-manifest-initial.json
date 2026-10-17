@@ -1,0 +1,83 @@
+{
+  "frozen_at_utc": "2026-10-17T07:39:52.244566+00:00",
+  "status": "initially blind whole independent new-construction audit; no substantive defect found in stated strict local scope; no promotion",
+  "reviewer": "review_2017_coarsening_r1",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "candidate": {
+    "path": "problems/2017-B4/notes/allD-uniform-strict-reasoning-r1-candidate-v1.md",
+    "bytes": 37267,
+    "sha256": "fc280881b1df650d07ab48f0f4c19d0e77f076e6b39a13f3a0b8d9969074a433"
+  },
+  "candidate_manifest": {
+    "path": "problems/2017-B4/notes/allD-uniform-strict-reasoning-r1-manifest-v1.json",
+    "bytes": 2952,
+    "sha256": "126fd14f143d6ab619c7aba5d57be968471080d7f07bb081805f6706434b1f18"
+  },
+  "whole_claims_reconstructed": [
+    "AD1",
+    "AD2",
+    "AD3",
+    "AD4",
+    "AD5",
+    "fixed-D CUT interface",
+    "US_D1",
+    "US_D2",
+    "US_D3"
+  ],
+  "inference_ledger_rows": 40,
+  "substantive_issues": [],
+  "nonblocking_author_changes_requested": [],
+  "dimension": "each fixed D>=3, compact strictly positive ordered-minor tangent set only",
+  "all_pairs_global_poset_rank_box_seams_and_common_phase_reconstructed": true,
+  "q_independent_event_lobe_geometry_and_code_constants_checked": true,
+  "every_m_supremum_upper_bound_same_e_and_fixed_original_lens_M_limit_checked": true,
+  "epsilon_first_net_second_periods_third_max_threshold_last_checked": true,
+  "prior_own_annulus_background_not_independently_reaudited": true,
+  "constructed_new_allD_argument": false,
+  "peer_allD_strict_findings_read_before_freeze": false,
+  "artifacts": [
+    {
+      "path": "problems/2017-B4/reviews/allD-uniform-strict-review-1-initial.md",
+      "bytes": 26997,
+      "sha256": "7f237da45bba6308f3f7fbda4e43a9ee1132d71cad35677e52be229e95038213"
+    },
+    {
+      "path": "problems/2017-B4/reviews/allD-uniform-strict-review-1-issues.md",
+      "bytes": 10065,
+      "sha256": "7569662cc43addbeee10dd18d60d1068ddb99a3834e3581af14a367e3046c626"
+    },
+    {
+      "path": "problems/2017-B4/reviews/allD-uniform-strict-review-1-source-checks.md",
+      "bytes": 5837,
+      "sha256": "3d9f7f8c545dd9976dea4fe0f84a8fc55e7db2e494f2681b9d9bd96c32149b68"
+    },
+    {
+      "path": "problems/2017-B4/reviews/allD-uniform-strict-review-1-freeze.py",
+      "bytes": 7292,
+      "sha256": "167e1c2c7bbe6f8ac422e803389946d55847959579d9dd7cb706e3e6b5668d75"
+    },
+    {
+      "path": "problems/2017-B4/reviews/allD-uniform-strict-review-1-input-validation.json",
+      "bytes": 89749,
+      "sha256": "9b8ed2e43e105fb4ad539ed7b1e48916a16400e320066e520fe58570964da721"
+    }
+  ],
+  "declared_candidate_records_verified": 8,
+  "source_named_local_records_verified": 7,
+  "acceptance_scope_records_verified": 6,
+  "constructor_input_hash_occurrences_checked": 242,
+  "constructor_input_unique_count": 242,
+  "earlier_unique_frozen_own_records_preserved": 181,
+  "H_PR_UR_D_global_induction_or_official_limit_claim": false,
+  "reviewer_promotion": false,
+  "mathematical_program_enumeration_CAS_certificate_or_author_rerun": false,
+  "only_assigned_review_prefix_written": true,
+  "git_shared_mutation_spawning_contacts_charges_or_bypass": false,
+  "direct_weekly_total_used_percent_during_audit": 30,
+  "weekly_reset_unix": 1792745187,
+  "total_used_ceiling_percent": 90
+}

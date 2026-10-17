@@ -1,0 +1,253 @@
+{
+  "status": "initial independent nonconstructor WHOLE audit frozen before peer G4 findings",
+  "reviewer": "/root/review_2022_complexity_r2",
+  "candidate_sha256": "fa0bd05d345dee884335e3a5cd0e601ce08e8212da3d812227750f04c5113d0f",
+  "separate_inference_checks": 40,
+  "open_substantive_issues": [],
+  "author_repairs_requested": [],
+  "checks": [
+    {
+      "id": "G4-R2-01",
+      "claim": "exact official and GE4 domain",
+      "status": "reconstructed; no substantive objection",
+      "reason": "Actual Jordan disk, complete marked/lifted boundary and every filling sharing one small full exterior. Fixed-D4 balanced rate is distinct from the official growing-direction rates. A standalone nonextendable paired boundary is excluded."
+    },
+    {
+      "id": "G4-R2-02",
+      "claim": "exact premises and independence",
+      "status": "reconstructed; no substantive objection",
+      "reason": "Read complete candidate/draft and all listed proof bodies. All 14 author rows verified. Separate local LW/CW acceptance preserves exact frozen bodies as suffixes and is not a peer G4 finding. Root is constructor; reviewer is not."
+    },
+    {
+      "id": "G4-R2-03",
+      "claim": "new extrusion geometry",
+      "status": "reconstructed; no substantive objection",
+      "reason": "Transverse t=det(v_i,x) sections of convex Z are intervals. Minkowski addition keeps left endpoints and shifts right endpoints by v_i. Visible edges have consecutive disjoint transverse intervals; their extrusions exactly tile the new belt."
+    },
+    {
+      "id": "G4-R2-04",
+      "claim": "extrusion heights and ranks",
+      "status": "reconstructed; no substantive objection",
+      "reason": "Visible chain has a_i=N_i; add a_i in [N_i,N_i+1]. New i edges all rank N_i+1, other ranks are inherited, including reversed -v_j edges. Old positions and canonical normalization are fixed and seams agree."
+    },
+    {
+      "id": "G4-R2-05",
+      "claim": "extrusion inactive and endpoint cases",
+      "status": "reconstructed; no substantive objection",
+      "reason": "Missing colors give absent steps; zero-area parallel support ends require no new face. Existing positive-area B guarantees at least two old active directions. Content already p needs no belt. No inadmissible zero-area ambient frame is used."
+    },
+    {
+      "id": "G4-R2-06",
+      "claim": "one balanced full exterior",
+      "status": "reconstructed; no substantive objection",
+      "reason": "Iterate to p=max N_i<=Cr. Belts depend only on complete old boundaries, so all B fillings extend to one fixed balanced exterior. For every M use this single reference grid; no comparison with independently rerun padding is required."
+    },
+    {
+      "id": "G4-R2-07",
+      "claim": "p versus r normalization",
+      "status": "reconstructed; no substantive objection",
+      "reason": "Finite alphabet gives log Z(B)<=Kp² and deficit<=log Z(B). A positive a r² deficit forces p/r>=sqrt(a/K), while p/r<=C. Then p tends to infinity, normalized perimeter is bounded and deficit/p²>=a/C²."
+    },
+    {
+      "id": "G4-R2-08",
+      "claim": "boundary compactness",
+      "status": "reconstructed; no substantive objection",
+      "reason": "Constant-speed positive Jordan parametrizations have one bounded Lipschitz constant after scaling by p. Compactness gives a Lipschitz rectifiable limit whose image has area zero; it need not be Jordan."
+    },
+    {
+      "id": "G4-R2-09",
+      "claim": "winding interior and compact containment",
+      "status": "reconstructed; no substantive objection",
+      "reason": "For x away from the limit image, uniform boundary homotopy avoids x and preserves eventual winding 0 or 1. The winding-one set Omega is open; compact subsets have a uniform positive boundary distance and lie in B_j/p_j eventually."
+    },
+    {
+      "id": "G4-R2-10",
+      "claim": "area convergence and zero-area exclusion",
+      "status": "reconstructed; no substantive objection",
+      "reason": "Indicators converge off the measure-zero limit image, so areas converge. If Omega has zero area, the finite alphabet in B_j plus its actual ONE-curve O(p_j) boundary tube gives log Z(B_j)=o(p_j²), contradiction."
+    },
+    {
+      "id": "G4-R2-11",
+      "claim": "quantitative full profile cover",
+      "status": "reconstructed; no substantive objection",
+      "reason": "Full balanced lifts on fixed Z have uniform extrinsic Lipschitz and [0,1] bounds. A delta mesh/height quantization gives log N=O(delta^-2 log(2/delta)); delta_j=1/log(p_j+2) has subquadratic log cover size."
+    },
+    {
+      "id": "G4-R2-12",
+      "claim": "largest fiber and common h",
+      "status": "reconstructed; no substantive objection",
+      "reason": "Choose a largest cover fiber and actual representative h_j, then a uniformly convergent subsequence. Every fiber member differs by O(delta_j), hence converges to the SAME h. One global cover precedes all windows."
+    },
+    {
+      "id": "G4-R2-13",
+      "claim": "necessary K4 and affine offsets",
+      "status": "reconstructed; no substantive objection",
+      "reason": "Vh=x and nonnegative minors pass by the accepted distributional Jacobian closure with bounded derivatives. Rademacher gives almost-everywhere J=Dh. c=h(x0)-Jx0 lies in ker V. No convexity or profile sufficiency is assumed."
+    },
+    {
+      "id": "G4-R2-14",
+      "claim": "strict-set truncation",
+      "status": "reconstructed; no substantive objection",
+      "reason": "Within strict tangents, the set with minimum minor below rho decreases to empty as rho goes to zero. Lose area<delta and retain one compact K_rho, with finite US frames and constants fixed before radii."
+    },
+    {
+      "id": "G4-R2-15",
+      "claim": "uniform boundary chart shapes",
+      "status": "reconstructed; no substantive objection",
+      "reason": "Finite OC cuts and compact K4 bound A,A inverse and det A away from zero even at zero minors. Inverse images of squares have uniformly regular unit shapes with positive area m0 after strict frames are fixed."
+    },
+    {
+      "id": "G4-R2-16",
+      "claim": "all exact non-strict tangent cases",
+      "status": "reconstructed; no substantive objection",
+      "reason": "A zero row can be paired with an adjacent slot, even another zero row. Otherwise a zero minor yields a positive parallel consecutive group after OC. Merge only one adjacent pair; the other two COLOR groups remain singleton regardless of their tangent degeneracy."
+    },
+    {
+      "id": "G4-R2-17",
+      "claim": "tolerances before windows and periods",
+      "status": "reconstructed; no substantive objection",
+      "reason": "Choose desired per-area loss and collar, beta then r0, then source/US/CW tolerances meeting all uniform caps, and only then US rational net/periods. Differentiability supplies arbitrarily small whole outer-window approximations. No period forces a later tolerance shrink."
+    },
+    {
+      "id": "G4-R2-18",
+      "claim": "regular Vitali and finite selection",
+      "status": "reconstructed; no substantive objection",
+      "reason": "Bounded-eccentricity centered closed windows form a fine cover. Greedy disjoint selection and enlarged-tail area prove almost-everywhere coverage. Finite truncation covers all but O(delta); inner homotheties lose O(theta) area. No unrestricted-rectangle Vitali claim."
+    },
+    {
+      "id": "G4-R2-19",
+      "claim": "same affine data for every source",
+      "status": "reconstructed; no substantive objection",
+      "reason": "Finite normalized windows are compact inside Omega. All physical L=ell p tend to infinity. Uniform convergence of the entire profile fiber gives common p(h(x0)-Jx0) and whole buffered bounds simultaneously for large j."
+    },
+    {
+      "id": "G4-R2-20",
+      "claim": "strict nested geometry",
+      "status": "reconstructed; no substantive objection",
+      "reason": "US count window at factor1-theta/2 covers inner factor1-theta; choose error so its WHOLE buffer and extracted lens remain inside the outer window. Fixed shape margins absorb norm and scale conversions."
+    },
+    {
+      "id": "G4-R2-21",
+      "claim": "strict count comparison to any common reference",
+      "status": "reconstructed; no substantive objection",
+      "reason": "Count larger US restrictions, which recover inner restrictions. Accepted US3 compares their family count to liminf exact M Omega_T counts for ANY actual same-family reference, using SAME canonical density. No real-slope entropy continuity or interior flatness."
+    },
+    {
+      "id": "G4-R2-22",
+      "claim": "fixed target square and whole buffer",
+      "status": "reconstructed; no substantive objection",
+      "reason": "CW winding inclusion places intermediate target square/star inside every outer image. Uniform error and fixed tile diameters also put every ENTIRE image source tile meeting the inner window inside that square. Margins, not four corners, are checked."
+    },
+    {
+      "id": "G4-R2-23",
+      "claim": "all source tiles and anchors",
+      "status": "reconstructed; no substantive objection",
+      "reason": "CW2 recovers the complete inner source restriction from target restriction plus one anchor. R=C_D p_j bounds all coordinates/heights; O(log p_j) is retained without using local-window size as global content."
+    },
+    {
+      "id": "G4-R2-24",
+      "claim": "FL1 intersecting rare events",
+      "status": "reconstructed; no substantive objection",
+      "reason": "For the fixed adjacent zero-minor pair, target boundary affine error gives S<=C(epsilon L²+L+1), including tile-star/boundary contacts. It is a count bound, not a location band."
+    },
+    {
+      "id": "G4-R2-25",
+      "claim": "LW local code and no M2 substitution",
+      "status": "reconstructed; no substantive objection",
+      "reason": "Exact LW yields C[L²/r0+epsilon r0²L²+r0²L+r0L+r0²+log p_j]. It uses local rank ranges despite global p_j, and pays actual ONE-Jordan fringe and anchors separately for every finite window."
+    },
+    {
+      "id": "G4-R2-26",
+      "claim": "closed-face cleanliness and fixed good disks",
+      "status": "reconstructed; no substantive objection",
+      "reason": "LW retains actual global selected faces whose full closure/star is inside the window; rare-contact faces are discarded. Complete boundaries/lifts are coded. Thus RM2 clean closed-face hypothesis, including external touching forbidden tiles, holds."
+    },
+    {
+      "id": "G4-R2-27",
+      "claim": "actual GE3 count and fixed exterior",
+      "status": "reconstructed; no substantive objection",
+      "reason": "D4 one-pair/two-singleton RM2 gives exact whole count and every-M port bijection. RM3 removes inactive curves, retains fixed translation/rank shift and one O(r0)-content full exterior, then standard lozenge deformation. UR3 GE hypotheses all hold."
+    },
+    {
+      "id": "G4-R2-28",
+      "claim": "multiple-block aggregation",
+      "status": "reconstructed; no substantive objection",
+      "reason": "Aggregate perimeter O(r0) gives small-block area O(sqrt(beta)r0²). Their whole log count is O(area). At most O(1/beta) other blocks cost eta3(r0)r0² each. Across O((L/r0+1)²) faces the normalized loss is C[sqrt(beta)+eta3(r0)/beta]+o_L(1)."
+    },
+    {
+      "id": "G4-R2-29",
+      "claim": "outside information and actual boundary costs",
+      "status": "reconstructed; no substantive objection",
+      "reason": "Area outside inner windows is O(delta+theta)p_j²+o(p_j²). Record original finite alphabet including crossing tiles. Origin count uses that area plus actual B_j one-curve tube and finitely many window-side tubes, all O(p_j). Area coefficient is independent of rho/window count."
+    },
+    {
+      "id": "G4-R2-30",
+      "claim": "joint conditioning before reference",
+      "status": "reconstructed; no substantive objection",
+      "reason": "Within the largest profile fiber, condition jointly on outside records, all boundary LW codes and anchors. A largest JOINT class loses at most the summed bounds. Choose ONE actual T_j only afterwards; no independent local maximization is used."
+    },
+    {
+      "id": "G4-R2-31",
+      "claim": "whole original upper recovery",
+      "status": "reconstructed; no substantive objection",
+      "reason": "Strict larger restrictions recover their inner tiles. Boundary good target fillings plus LW/CW codes/anchors recover all original inner tiles. Outside record supplies the remainder. Therefore class count is bounded by product of those local counts, even if arbitrary upper-product choices are incompatible."
+    },
+    {
+      "id": "G4-R2-32",
+      "claim": "one reference exact inverse and geometry",
+      "status": "reconstructed; no substantive objection",
+      "reason": "Recorded good target boundaries invert to fixed fine source boundaries. CW3 applies through a newly completed FULL target tiling with fixed exterior, so replacement occupies the same old fine Jordan disk. Its interior inverse map may change. Every pullback lies inside its outer source window."
+    },
+    {
+      "id": "G4-R2-33",
+      "claim": "exact every-M product gluing",
+      "status": "reconstructed; no substantive objection",
+      "reason": "CW4 grid identity and RM2 ranked ports identify exact M-fold source patches. Strict R_M already uses M Omega of the same reference. Source patches are disjoint across windows and independent inside them. Glue into EXACT M B_j with ONE fixed M T_j exterior; restriction recovers choices."
+    },
+    {
+      "id": "G4-R2-34",
+      "claim": "finite-sum liminf in correct order",
+      "status": "reconstructed; no substantive objection",
+      "reason": "For fixed j there are finitely many blocks/cores and an every-M product injection. liminf of a finite sum is at least the sum of liminfs. j is fixed before M; thresholds may depend on j. No opposite inequality or infinite-sum uniformity is assumed."
+    },
+    {
+      "id": "G4-R2-35",
+      "claim": "physical-area budgets",
+      "status": "reconstructed; no substantive objection",
+      "reason": "Unit outer shapes have area>=m0 and bounded source/target Jacobian ratios. Choose local losses as fractions of zeta*m0 side²; summing is bounded by zeta times total outer physical area<=zeta area(Z)p_j². All perimeter/log terms are lower order for the fixed finite list."
+    },
+    {
+      "id": "G4-R2-36",
+      "claim": "parameter order and contradiction",
+      "status": "reconstructed; no substantive objection",
+      "reason": "Choose delta,theta,zeta against a/C²; then rho/shape constants; local beta,r0,tolerances; US rational periods; fine finite Vitali family; large j; finally M at fixed j. Cover/outside/code/local losses give deficit/p_j²<=C_D(delta+theta)+C_Z zeta+o_j(1), contradicting the lower bound."
+    },
+    {
+      "id": "G4-R2-37",
+      "claim": "balanced full disk is in GE4",
+      "status": "reconstructed; no substantive objection",
+      "reason": "Full balanced content-r zonogon has O(r) Jordan perimeter, r curves/color and valid empty fixed exterior. G4 yields liminf over ALL integer M of log B4(Mr)/(Mr)² >=log B4(r)/r²-eta_C(r)."
+    },
+    {
+      "id": "G4-R2-38",
+      "claim": "all multiples to all integers",
+      "status": "reconstructed; no substantive objection",
+      "reason": "For FIXED r, RP pads n=r floor(p/r) injectively into content p; n/p tends uniformly to one over bounded remainders. The supplied liminf controls all large M, so RP3 applies. A sparse subsequence or one finite reference would not suffice."
+    },
+    {
+      "id": "G4-R2-39",
+      "claim": "finite limsup and H4 consequence",
+      "status": "reconstructed; no substantive objection",
+      "reason": "Finite alphabet bounds limsup_p log B4(p)/p². Full liminf is at least log B4(r)/r²-eta_C(r) for every fixed r; taking r along a limsup sequence and then r to infinity makes liminf>=limsup. No exact quadratic finite supermultiplicativity or numerical value."
+    },
+    {
+      "id": "G4-R2-40",
+      "claim": "adversarial attempts and final scope",
+      "status": "reconstructed; no substantive objection",
+      "reason": "Checked inactive contents, rank signs, non-Jordan limits, zero area, separate profiles, degenerate tangent groups, irregular covers, premature periods, corner-only buffers, global M2, tiny blocks, incompatible code maxima, incomplete source recovery, changed inverses, overlapping charts and sparse scales. No substantive counterexample found. G4 remains a new global candidate; no promotion/all-D/official-rate conclusion."
+    }
+  ],
+  "local_acceptance_update_is_not_peer_G4_findings": true,
+  "peer_G4_findings_read_before_freeze": false,
+  "promotion_by_reviewer": false
+}

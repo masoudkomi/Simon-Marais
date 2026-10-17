@@ -1,0 +1,120 @@
+{
+  "recorded_at_utc": "2026-10-17T07:26:17.872826+00:00",
+  "status": "candidate proof - unverified",
+  "local_records": [
+    {
+      "path": "problems/2017-B4/proofs/reviewed-fixedD-structural-v1.2.md",
+      "bytes": 16602,
+      "sha256": "421dc271ed65831e3aa70057a0d74c4d999ba8249dfa2b99066dfdc298f86868",
+      "matches": true,
+      "role": "accepted logical marked dictionary/gradient input",
+      "whole_body_read": true
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-directed-geodesics-v1.1.md",
+      "bytes": 7062,
+      "sha256": "061ae1749e938aad68f1824ab5f33583a3a1c58e556bd62649309c7cb12da9aa",
+      "matches": true,
+      "role": "accepted logical DG1/DG2 fixed-D full-tiling input",
+      "whole_body_read": true
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-lens-cutting-v1.1.md",
+      "bytes": 11394,
+      "sha256": "81f175e2a0f10665e9228d18885180e91b4db6167001584182d9de4b9cb437fc",
+      "matches": true,
+      "role": "accepted logical fixed-D CUT, constants reconstructed",
+      "whole_body_read": true
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-annulus-v1.2.md",
+      "bytes": 28382,
+      "sha256": "51c02b22a36705c736e4debefcfde0afbc1b2678a8d6092213d8ed00e6a75baf",
+      "matches": true,
+      "role": "D4 method/provenance only; all-D AD1-AD5 proved anew",
+      "whole_body_read": true
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-strict-transfer-v1.1.md",
+      "bytes": 10589,
+      "sha256": "89f2bc8068a4f151621ed4cdcdfb0e6dc891d51d43452b5f176d41fa62a840eb",
+      "matches": true,
+      "role": "D4 method/provenance, not a D>4 theorem premise",
+      "whole_body_read": true
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-uniform-strict-v1.1.md",
+      "bytes": 24298,
+      "sha256": "096eeb2328483c17519528e801b479076e35f582d17e05479fc3def4a6a2804a",
+      "matches": true,
+      "role": "own accepted D4 method, new extension requires two others",
+      "whole_body_read": true
+    },
+    {
+      "path": "problems/2017-B4/statement.md",
+      "bytes": 2140,
+      "sha256": "e459750064b4e25e3eaa71f25f236c046548147e415b06d8bd097839020228f3",
+      "matches": true,
+      "role": "official authorized problem/domain record",
+      "whole_body_read": true
+    }
+  ],
+  "acceptance_scopes_read": [
+    {
+      "path": "problems/2017-B4/reviews/fixedD-structural-acceptance.md",
+      "bytes": 1602,
+      "sha256": "0ed34669cc8c3753cb623690b8cd70ece8e344fd44b28ede63f3775af32d5aa3"
+    },
+    {
+      "path": "problems/2017-B4/reviews/directed-geodesics-acceptance.md",
+      "bytes": 1655,
+      "sha256": "3f01ad6fe091bf7723d6245a792d2b803798ccae7ea2b2fe8a4044ee7a3c0538"
+    },
+    {
+      "path": "problems/2017-B4/reviews/lens-cutting-acceptance.md",
+      "bytes": 1249,
+      "sha256": "8c18ae4fc7daf5121cc87d81e0f6d13cedfd1ee10a00d320a2d8a26d97455afe"
+    },
+    {
+      "path": "problems/2017-B4/reviews/annulus-acceptance.md",
+      "bytes": 1543,
+      "sha256": "cc0ff03653197d0e34ef082e63124c80f06ab87cf3f934c119e0b10d87e32a25"
+    },
+    {
+      "path": "problems/2017-B4/reviews/strict-transfer-acceptance.md",
+      "bytes": 1814,
+      "sha256": "3c0d3ec79b2bf91563a38263d8a7e2a9de4c0807721d4dcbdf3d4d5a1a053640"
+    },
+    {
+      "path": "problems/2017-B4/reviews/uniform-strict-acceptance.md",
+      "bytes": 2185,
+      "sha256": "427a0d27a7b21c0bbf96c3b1440d780a2b71064af6aa43074c67fafcf34e35e2"
+    }
+  ],
+  "dimension_program_motivation_not_premise": {
+    "path": "problems/2017-B4/notes/coordinator-dimension-induction-program-v1.md",
+    "bytes": 11884,
+    "sha256": "b499899787f8d8607ba030ec21173451267ea0b1dd6d419481a548a103c2f291",
+    "matches": true
+  },
+  "primary_external_source": {
+    "authors": "Alan Arroyo, Dan McQuillan, R. Bruce Richter, Gelasio Salazar",
+    "title": "Levi's Lemma, pseudolinear drawings of K_n, and empty triangles",
+    "author_version_date": "2015-11-20",
+    "url": "https://www.ifisica.uaslp.mx/~gsalazar/RESEARCH/levi.pdf",
+    "retrieved_date_utc": "2026-10-17",
+    "access": "fresh complete primary PDF opened via web viewer, no native download",
+    "pdf_pages": 22,
+    "applicable_text_read": "Section2 complete arrangement-of-arcs definition, Lemma2.2 statement and induction proof, printed pp4-5",
+    "parallel_disjoint_pairs_permitted": true,
+    "raw_binary_sha256": null,
+    "raw_binary_hash_limitation": "Web viewer supplies text without raw binary bytes; none invented",
+    "logical_role": "published arc input behind accepted DG disk/cell adaptation",
+    "full_external_paper_proof_claimed": false,
+    "redistribution_or_charge": false
+  },
+  "new_external_entropy_theorem": false,
+  "CW_SP_RM_UR3_or_global_G4_premise": false,
+  "global_G4_candidate_read_during_construction": false,
+  "mathematical_program_enumeration_or_CAS": false
+}

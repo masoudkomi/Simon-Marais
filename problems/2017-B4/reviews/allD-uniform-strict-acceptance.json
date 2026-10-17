@@ -1,0 +1,76 @@
+{
+  "accepted_at_utc": "2026-10-17T10:41:50.658043+00:00",
+  "status": "proved, independently reviewed scoped partial result",
+  "claims": [
+    "AD1",
+    "AD2",
+    "AD3",
+    "AD4",
+    "AD5",
+    "US_D1",
+    "US_D2",
+    "US_D3"
+  ],
+  "constructor": "review_2021_reasoning_j15_r2; coordinator supplied precursor strategy",
+  "reviewers": [
+    "review_2017_coarsening_r1",
+    "review_2022_complexity_r2"
+  ],
+  "whole_initials_blind": true,
+  "root_read_full_candidate_reports_ledgers_sources": true,
+  "unresolved_substantive_issues": 0,
+  "repair_required": false,
+  "record_occurrences_verified": 1126,
+  "unique_paths_verified": 544,
+  "candidate": {
+    "path": "problems/2017-B4/notes/allD-uniform-strict-reasoning-r1-candidate-v1.md",
+    "bytes": 37267,
+    "sha256": "fc280881b1df650d07ab48f0f4c19d0e77f076e6b39a13f3a0b8d9969074a433"
+  },
+  "accepted_copy": {
+    "path": "problems/2017-B4/proofs/reviewed-allD-uniform-strict-v1.1.md",
+    "bytes": 39136,
+    "sha256": "a5ebfd81d59b26f301b1e105889451f4c86262da80e6e77e6913c045d71147d2"
+  },
+  "verification_metadata": [
+    {
+      "path": "problems/2017-B4/notes/allD-uniform-strict-reasoning-r1-manifest-v1.json",
+      "bytes": 2952,
+      "sha256": "126fd14f143d6ab619c7aba5d57be968471080d7f07bb081805f6706434b1f18"
+    },
+    {
+      "path": "problems/2017-B4/notes/allD-uniform-strict-reasoning-r1-input-validation-v1.json",
+      "bytes": 61196,
+      "sha256": "2aa2e6ef9fb8b22de684a0f631ea1bf8187f9617c69a15f1f68f3383a7693222"
+    },
+    {
+      "path": "problems/2017-B4/notes/allD-uniform-strict-reasoning-r1-sources-v1.json",
+      "bytes": 4845,
+      "sha256": "e25eea69ce6edbe7e8a4313778bffeab1c6f00f91a6e676f8cc97d4942f89642"
+    },
+    {
+      "path": "problems/2017-B4/reviews/allD-uniform-strict-review-1-manifest-initial.json",
+      "bytes": 3360,
+      "sha256": "9037242ee986643789c5e5ec966b19f2a59aa2dd881998727f8fcb444609262f"
+    },
+    {
+      "path": "problems/2017-B4/reviews/allD-uniform-strict-review-1-input-validation.json",
+      "bytes": 89749,
+      "sha256": "9b8ed2e43e105fb4ad539ed7b1e48916a16400e320066e520fe58570964da721"
+    },
+    {
+      "path": "problems/2017-B4/reviews/allD-uniform-strict-review-2-manifest-v1.json",
+      "bytes": 2903,
+      "sha256": "d4e72df92c91ee1e46f5cbdd9a43acf5d57598f1ca7c81c413baccbc465d8a52"
+    },
+    {
+      "path": "problems/2017-B4/reviews/allD-uniform-strict-review-2-input-checks-v1.json",
+      "bytes": 80869,
+      "sha256": "d563d2e129d8691947290b6b9f00345d561a9aa8ac6efe6eed9f02319f951d8c"
+    }
+  ],
+  "dimension": "each fixed D>=3; compact strict local domain only",
+  "coordinator_inspection_counted_as_independent_audit": false,
+  "reviewer1_older_annulus_authorship_disclosed": true,
+  "global_URD_H_PR_official_equality_or_numeric_value": false
+}

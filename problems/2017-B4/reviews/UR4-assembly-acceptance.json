@@ -1,0 +1,70 @@
+{
+  "accepted_at_utc": "2026-10-17T10:41:50.658043+00:00",
+  "status": "proved, independently reviewed scoped partial result",
+  "claims": [
+    "UR4-GE uniform dilation deficit",
+    "existence of balanced fixed-D4 limit H4"
+  ],
+  "constructor": "coordinator root",
+  "reviewers": [
+    "review_2021_reasoning_j15_r2",
+    "review_2022_complexity_r2"
+  ],
+  "whole_initials_blind": true,
+  "root_read_full_candidate_reports_ledgers_sources": true,
+  "unresolved_substantive_issues": 0,
+  "repair_required": false,
+  "record_occurrences_verified": 470,
+  "unique_paths_verified": 406,
+  "candidate": {
+    "path": "problems/2017-B4/notes/coordinator-UR4-assembly-candidate-v1.md",
+    "bytes": 22839,
+    "sha256": "fa0bd05d345dee884335e3a5cd0e601ce08e8212da3d812227750f04c5113d0f"
+  },
+  "accepted_copy": {
+    "path": "problems/2017-B4/proofs/reviewed-UR4-assembly-v1.1.md",
+    "bytes": 24340,
+    "sha256": "d57593f00439b76dcd283d0cd9487ccfce92782c137d2bc75f95db003179ffdc"
+  },
+  "verification_metadata": [
+    {
+      "path": "problems/2017-B4/notes/coordinator-UR4-assembly-freeze-v1.json",
+      "bytes": 3465,
+      "sha256": "20c10f07ba8cc7977628e218e4339976428e552f65d0efa1ec5764db33a03a0f"
+    },
+    {
+      "path": "problems/2017-B4/reviews/UR4-assembly-review-1-manifest-v1.json",
+      "bytes": 2430,
+      "sha256": "85afd2d30497a3e578b1b4d27a5e71836951b7590d81ac747322f1f1aa2792b0"
+    },
+    {
+      "path": "problems/2017-B4/reviews/UR4-assembly-review-1-input-validation-v1.json",
+      "bytes": 68296,
+      "sha256": "b2d7cd0f507978baa8f0324fb2aa949926f62e004d1b70f3f08054c965b4418f"
+    },
+    {
+      "path": "problems/2017-B4/reviews/UR4-assembly-review-2-manifest-v1.json",
+      "bytes": 2789,
+      "sha256": "e36bfe55f7872e19c0419f60ed452af7d421d2ce7193bfdc7ff4d9db59889766"
+    },
+    {
+      "path": "problems/2017-B4/reviews/UR4-assembly-review-2-input-checks-v1.json",
+      "bytes": 32357,
+      "sha256": "025f270e531b0c3171a713862414ebfb10b6d943854be015bc1ee342fe6dc3c3"
+    },
+    {
+      "path": "problems/2017-B4/reviews/local-rank-mesh-acceptance.json",
+      "bytes": 2395,
+      "sha256": "52e162d73208591aa030abd7e1d64f66377372e6745f4415d8e23798d7df3446"
+    },
+    {
+      "path": "problems/2017-B4/reviews/chart-window-acceptance.json",
+      "bytes": 2379,
+      "sha256": "d9278823b9d7cdb0605009c8658951c455301363ba914f51e658eb550b8fd2eb"
+    }
+  ],
+  "exact_LW_CW_premises_separately_accepted_unchanged": true,
+  "reviewer1_older_local_US_authorship_disclosed": true,
+  "fixed_D4_limit_exists": true,
+  "allD_limit_or_official_equality_or_numeric_value": false
+}

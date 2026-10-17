@@ -1,0 +1,73 @@
+{
+  "frozen_at_utc": "2026-10-17T07:29:34.336513+00:00",
+  "status": "initial independent nonconstructor WHOLE audit frozen before peer G4 findings",
+  "reviewer": "/root/review_2022_complexity_r2",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "candidate": {
+    "path": "problems/2017-B4/notes/coordinator-UR4-assembly-candidate-v1.md",
+    "bytes": 22839,
+    "sha256": "fa0bd05d345dee884335e3a5cd0e601ce08e8212da3d812227750f04c5113d0f"
+  },
+  "candidate_freeze": {
+    "path": "problems/2017-B4/notes/coordinator-UR4-assembly-freeze-v1.json",
+    "bytes": 3465,
+    "sha256": "20c10f07ba8cc7977628e218e4339976428e552f65d0efa1ec5764db33a03a0f"
+  },
+  "whole_claims_reconstructed": [
+    "G4 UR4-GE uniform dilation deficit conditional on exact LW/CW",
+    "fixed balanced D4 limit consequence"
+  ],
+  "separate_inference_checks": 40,
+  "substantive_objections": 0,
+  "author_repair_requested": false,
+  "promotion_by_reviewer": false,
+  "local_LW_CW_status_update_during_audit": {
+    "unchanged_exact_bodies_separately_accepted": true,
+    "G4_itself_accepted": false
+  },
+  "peer_G4_findings_read_before_initial_freeze": false,
+  "all_listed_premises_full_bodies_read": true,
+  "new_padding_variable_domains_Vitali_joint_reference_whole_recovery_and_limits_reconstructed": true,
+  "mathematical_enumeration_CAS_or_certificate": false,
+  "official_growing_D_numeric_value_allD_URD_global_PR_or_novelty_claimed": false,
+  "author_freeze_rows_verified": 14,
+  "nested_LW_CW_rows_verified": 11,
+  "input_paths_verified": 28,
+  "earlier_own_paths_verified_unchanged": 128,
+  "git_or_shared_candidate_edits": false,
+  "only_assigned_prefix_written": true,
+  "latest_authoritative_weekly_usage": {
+    "used_percent": 29,
+    "at_utc": "2026-10-17 07:19:25 UTC",
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "total_used_ceiling_percent": 90,
+    "integration_reserve": true
+  },
+  "records": [
+    {
+      "path": "problems/2017-B4/reviews/UR4-assembly-review-2-initial-v1.md",
+      "bytes": 30805,
+      "sha256": "a565270730eedb1a7359b02e7810cef9727e7481421a92c5cd7e0c5ac5191e8a"
+    },
+    {
+      "path": "problems/2017-B4/reviews/UR4-assembly-review-2-issues-v1.json",
+      "bytes": 16758,
+      "sha256": "a50a8c1279f7204d9c80cb9e1e7c60b85ecec1adf93fb4339fcbc5bd1d6da77e"
+    },
+    {
+      "path": "problems/2017-B4/reviews/UR4-assembly-review-2-source-checks-v1.md",
+      "bytes": 8909,
+      "sha256": "08a859b1adbcc35400cfc98ead10da2cb211bb2af5940956009e46f4938a4cf6"
+    },
+    {
+      "path": "problems/2017-B4/reviews/UR4-assembly-review-2-input-checks-v1.json",
+      "bytes": 32357,
+      "sha256": "025f270e531b0c3171a713862414ebfb10b6d943854be015bc1ee342fe6dc3c3"
+    }
+  ]
+}

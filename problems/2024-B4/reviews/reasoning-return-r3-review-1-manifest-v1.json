@@ -1,0 +1,52 @@
+{
+  "frozen_at_utc": "2026-10-17T10:36:21.750847+00:00",
+  "status": "initially blind whole independent nonconstructor R1; no substantive objection; no promotion",
+  "reviewer": "coordinator root",
+  "candidate": {
+    "path": "problems/2024-B4/notes/reasoning-return-r3-candidate-v1.md",
+    "bytes": 15010,
+    "sha256": "cff70e9b104a48613712d0f2920157f29a5c20b56fb26055de829984e11fb021"
+  },
+  "candidate_freeze": {
+    "path": "problems/2024-B4/notes/reasoning-return-r3-freeze-v1.json",
+    "bytes": 4596,
+    "sha256": "e2c1b451f486db75597fbd6b99c970f85a7ed70528bebd032e2d7168fbcf7741"
+  },
+  "whole_claims": [
+    "CP1",
+    "CP2",
+    "CP3"
+  ],
+  "whole_argument_reconstructed": true,
+  "separate_inference_checks": 23,
+  "substantive_issues": [],
+  "required_repairs": [],
+  "peer_CP_findings_read_before_freeze": false,
+  "constructed_new_CP_packet": false,
+  "finite_certificate_math_rerun": false,
+  "record_occurrences_verified": 391,
+  "unique_paths_verified": 202,
+  "full_annual_solution_or_novelty_claim": false,
+  "records": [
+    {
+      "path": "problems/2024-B4/reviews/reasoning-return-r3-review-1-initial-v1.md",
+      "bytes": 9128,
+      "sha256": "c00ceb3ec79c6f2ee80ec2fa796b6dc029bafed30e0de070f90351618a2d6a76"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-return-r3-review-1-issues-v1.json",
+      "bytes": 4616,
+      "sha256": "398035642033d923943d366522494f597c2f4a7febccfb24ba7a223dbdb2a2b1"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-return-r3-review-1-source-checks-v1.md",
+      "bytes": 2686,
+      "sha256": "30e2ab02d090315958150ab308cc35a326a3a799d63da7407855e61706083050"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-return-r3-review-1-input-checks-v1.json",
+      "bytes": 143486,
+      "sha256": "9e2469f2de0b582d2e05b302e81f0cb40d0d5c262457e5199ab2c391fac9d0b6"
+    }
+  ]
+}

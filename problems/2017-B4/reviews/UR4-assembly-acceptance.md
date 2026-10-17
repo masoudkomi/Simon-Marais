@@ -1,0 +1,9 @@
+# Coordinator acceptance: UR4-assembly
+
+2026-10-17 UTC. **Proved, independently reviewed scoped partial result.**
+
+G4 proves the uniform GE4 dilation deficit and hence existence of the BALANCED fixed-four-direction limit H4, in the exact accepted marked tiling convention. The frozen candidate's exact LW1 and CW0–CW4 premises have now separately been accepted; their mathematical bodies are unchanged. All other listed premises retain their stated accepted scopes. The proof includes deterministic belt padding, variable Jordan domains, nonconvex tangent constraints, strict and one-pair boundary windows, local rank codes with the absolute anchor retained, aggregate small-block bounds, JOINT conditioning before choosing ONE reference, exact fine patches under every integer dilation, fixed-original-scale limit order and all-integer remainder padding.
+
+Reviewer1 authored older LOCAL D4 uniform strict background, and discloses this boundary. These are independent audits of the new whole global assembly, not a new independent audit of that earlier input. This record does not establish arbitrary fixed D, global PR, any numerical entropy value, or the official growing-direction liminf/limsup equality or value. The annual 2017 target remains unresolved.
+
+Both initially blind nonconstructor WHOLE audits were frozen before comparison. The coordinator read the complete candidate, both full reports, inference ledgers and source checks. Independent metadata verification covered 470 record occurrences across 406 unique paths. No substantive objection remains in this scope; no repair was required. The full submitted candidate is preserved as a byte-identical suffix of the accepted exposition. Existing records remain unchanged. Hash checks are administrative integrity, not mathematical proof. No novelty claim.
