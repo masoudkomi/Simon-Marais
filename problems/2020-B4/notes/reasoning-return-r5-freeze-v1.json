@@ -1,0 +1,83 @@
+{
+  "frozen_at_utc": "2026-10-17T14:05:16.531250+00:00",
+  "status": "candidate proof - unverified; COMPLETE R5A-R5E structural/literature checkpoint awaiting two OTHER whole audits",
+  "constructor": "review_2022_complexity_r2",
+  "old_R4_authorship_and_repair_role_disclosed": true,
+  "requested_model": "gpt-6.1-sol",
+  "requested_reasoning_effort": "max",
+  "verified_effective_setting_readback": null,
+  "scope": "2020 B4(b) EXTRA saturated subgroup branch only; no preliminary proof or full taut classification",
+  "proposed_claims": {
+    "R5A": "Exact coset/image-polynomial iff and product reconstruction of3-divisibility, odd subgrouporder includingL2",
+    "R5B": "PrimePhi3 perfect-power restriction; exact classical prime-degree multiplier normalizer; saturatedDesarguesian orders only2/3/8",
+    "R5C": "Pair sums including repeats, exact0/1/2 row; modifiedsumfree subgroup and cube-rootzero-triple classification",
+    "R5D": "Actual modified oddbranch yields symmetricintegerT with rowzero,T²=qI-J,entries>=-1,exactdiagonal and spectrum; NECESSARY ONLY",
+    "R5E": "Attributed exact evenresidual flag-transitive equivalence and restrictedindex sourceapplications; nooddbranchmisapplication"
+  },
+  "author_obligations": 52,
+  "constructor_issue_rows": 10,
+  "new_independent_whole_audits_complete": 0,
+  "two_OTHER_initially_blind_whole_nonconstructor_audits_required": true,
+  "old_R4_accepted_suffix_exactly_unchanged": true,
+  "old_last_moment_automatic_and_interior_sufficient_preserved": true,
+  "full_primary_source_scope_and_failed_inferences_recorded": true,
+  "input_record_occurrences_verified": 273,
+  "input_unique_paths_verified": 265,
+  "older_own_unique_frozen_paths_preserved": 238,
+  "mathematical_program_scan_CAS_certificate_or_author_rerun": false,
+  "old_shared_Git_other_owner_edits_spawning_contact_charge_or_bypass": false,
+  "public_PDFs_only_ignored_cache": true,
+  "full_annual_answer_novelty_or_improved_published_cutoff": false,
+  "direct_weekly_telemetry": {
+    "at_utc": "2026-10-17T13:52:54+00:00",
+    "source": "direct account-wide usage tool paired with UTC clock",
+    "total_used_percent": 42,
+    "window_duration_minutes": 10080,
+    "resets_at_unix": 1792745187,
+    "ordinary_usage_allowed": true,
+    "total_used_cutoff_percent": 90,
+    "integration_reserve": true
+  },
+  "artifacts": [
+    {
+      "path": "problems/2020-B4/notes/reasoning-return-r5-candidate-v1.md",
+      "bytes": 23485,
+      "sha256": "26cb2d236722c41a67fc7d23bcc6af1da162cb39182d6e846286b19cb554c67a"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-return-r5-obligations-v1.md",
+      "bytes": 8909,
+      "sha256": "2a4213bf7c5021c475448a2b99229bdd3d6dfaad749d2e3eee771cb5584dcf9a"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-return-r5-constructor-checks-v1.md",
+      "bytes": 3275,
+      "sha256": "320a1d103db61e4468aa983f5d1e60839252217bbb5d73a9364bfb666b92fb58"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-return-r5-source-audit-v1.md",
+      "bytes": 8964,
+      "sha256": "e96b1ff75bc0e1345b848674de769b953c9e088d39a4ced276aed60f2bc36d02"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-return-r5-worklog-v1.md",
+      "bytes": 7988,
+      "sha256": "044c5436006e1b041aef49e1db6aed1318b56a11c9578d9d89306036f74e5d26"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-return-r5-freeze-v1.py",
+      "bytes": 17563,
+      "sha256": "6a52c539f7e5964708462d2ceff988caab7b52b04f0e8631d5f829ed5c9e11fc"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-return-r5-sources-v1.json",
+      "bytes": 11951,
+      "sha256": "867264abbad2a36cf5013745fdd2e6bc1ff6f6bb8bffde534e27ed16d70d041a"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-return-r5-input-validation-v1.json",
+      "bytes": 56028,
+      "sha256": "86b20671926b728eb4ead2478c5418b72ab9160fd1d639bd187272fb9e73e335"
+    }
+  ]
+}

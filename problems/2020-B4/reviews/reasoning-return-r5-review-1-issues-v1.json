@@ -1,0 +1,328 @@
+{
+  "frozen_at_utc": "2026-10-17T14:14:19.128315+00:00",
+  "status": "complete initially blind WHOLE nonconstructor R1; not acceptance",
+  "reviewer": "coordinator root",
+  "new_peer_findings_read_before_complete_freeze": false,
+  "checks": [
+    {
+      "id": "R5-O01",
+      "claim": "Exact official domain and ordered-difference dictionary",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Official integer n>=2; q=n-1, actual distinct subset; preliminary existence unused."
+    },
+    {
+      "id": "R5-O02",
+      "claim": "Accepted repaired R4 scope",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Complete repaired R4 reread; last moment automatic and interior sufficiency preserved."
+    },
+    {
+      "id": "R5-O03",
+      "claim": "Extra saturation and q4 exception",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Extra saturation q!=4 and actual T<=M; prime/coset statement is an accepted input."
+    },
+    {
+      "id": "R5-O04",
+      "claim": "Common normalization and actual multipliers",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Unique common sum-zero translate plus unit scaling; Hall import retains planar hypotheses."
+    },
+    {
+      "id": "R5-O05",
+      "claim": "R5A standalone parameters",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Odd m>=3, prime polynomial value, even L and p-1=mL all consistent."
+    },
+    {
+      "id": "R5-O06",
+      "claim": "Partition of internal ordered differences",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Pairs (bh,b) partition internal pairs and contribute each point in a coset once."
+    },
+    {
+      "id": "R5-O07",
+      "claim": "Zero contributions and exact range",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Added zero contributes distinct H and -H once; exactly L-2 remaining cosets."
+    },
+    {
+      "id": "R5-O08",
+      "claim": "Coset quotient versus image powers",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Power map kernel H, image muL; deleted cosets map to1,-1 since m odd."
+    },
+    {
+      "id": "R5-O09",
+      "claim": "Polynomial identity is a full iff",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Distinct target roots plus exact degree make the monic polynomial criterion a full iff."
+    },
+    {
+      "id": "R5-O10",
+      "claim": "Derivative and products",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Derivative product at1 has no remaining sign; target products -1 or1 correct."
+    },
+    {
+      "id": "R5-O11",
+      "claim": "Order-six and order-three endpoints",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Orders exactly6 or3; product congruence forces3|m, including m3/L2."
+    },
+    {
+      "id": "R5-O12",
+      "claim": "Prime Phi3 proper-power obstruction",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Non-three part u>1 gives a strictly proper positive Phi3 divisor."
+    },
+    {
+      "id": "R5-O13",
+      "claim": "Prime-power families are necessary only",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Base2/even and base3/odd restrictions are necessary only; no primality/existence inference."
+    },
+    {
+      "id": "R5-O14",
+      "claim": "Classical coordinates require the actual classical plane",
+      "verdict": "passed in exact scoped statement",
+      "reason": "P-Gamma-L is used ONLY for the explicitly classical plane; attributed standard theorem."
+    },
+    {
+      "id": "R5-O15",
+      "claim": "Translation group lies in PGL",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Prime p>e kills field-automorphism image; translation C is regular on points."
+    },
+    {
+      "id": "R5-O16",
+      "claim": "Irreducible matrix lift",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Proper invariant subspace would give fewer than p points in a nonempty union of p-orbits."
+    },
+    {
+      "id": "R5-O17",
+      "claim": "Field E and irreducibility of A^t",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Irreducible cubic gives field E; A^t is another generator and equally irreducible."
+    },
+    {
+      "id": "R5-O18",
+      "claim": "Numerical multiplier really normalizes C",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Numerical multiplier maps actual lines to lines and conjugates translation by exponentt."
+    },
+    {
+      "id": "R5-O19",
+      "claim": "Semilinear conjugation and scalar factors",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Semilinear conjugation preserves E and Fr; scalar factor disappears only projectively."
+    },
+    {
+      "id": "R5-O20",
+      "claim": "Exact group of classical multipliers",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Finite-field Frobenius gives M subset<r>; accepted Hall gives reverse inclusion."
+    },
+    {
+      "id": "R5-O21",
+      "claim": "Exact Frobenius order3e",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Proper divisor of3e is below2e; r^d-1<p rules out a smaller order."
+    },
+    {
+      "id": "R5-O22",
+      "claim": "Classical saturated odd inequality",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Odd equality q=3e and elementary exponential inequality leave onlyq3."
+    },
+    {
+      "id": "R5-O23",
+      "claim": "Classical saturated even inequality and exceptional e2",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Even equality 2^e+1=3e excludes e>=4; e2 composite modulus, e1/e3 remain."
+    },
+    {
+      "id": "R5-O24",
+      "claim": "Pair sums with repeated entries",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Ordered-difference uniqueness proves unordered multiset sums, including diagonal entries."
+    },
+    {
+      "id": "R5-O25",
+      "claim": "Sum multiplicity and unique diagonal coset",
+      "verdict": "passed in exact scoped statement",
+      "reason": "No zero sums; one representation exactly on2H, at mosttwo otherwise."
+    },
+    {
+      "id": "R5-O26",
+      "claim": "Sum-to-row bijection and complete first-row counts",
+      "verdict": "passed in exact scoped statement",
+      "reason": "h=a/b bijection and inverse denominator1+h nonzero; exact row counts follow."
+    },
+    {
+      "id": "R5-O27",
+      "claim": "Even and odd first-row positions",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Hall places2H=H in even case; modified H is sum-free so2H differs."
+    },
+    {
+      "id": "R5-O28",
+      "claim": "Zero triples and minus coset",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Cube-root comparison classifies all zero triples; q/3 unordered,2q ordered, R(-H)=2."
+    },
+    {
+      "id": "R5-O29",
+      "claim": "Odd branch cyclotomic convention",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Odd q gives even L and u=L/2 with -H=Cu; matrix uses stated plus-one convention."
+    },
+    {
+      "id": "R5-O30",
+      "claim": "Full first column including absent entries",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Full coset criterion gives first column zero at0/u and1 elsewhere; Be0 exact."
+    },
+    {
+      "id": "R5-O31",
+      "claim": "Transpose symmetry and symmetric shift",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Minus-one involution gives At=PAP and C symmetric; P has no diagonal entries."
+    },
+    {
+      "id": "R5-O32",
+      "claim": "Whole convolution Gram",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Actual convolution pair counts give NN^t=qI+J, including the zero-difference diagonal."
+    },
+    {
+      "id": "R5-O33",
+      "claim": "Invariant subspace and adjoint",
+      "verdict": "passed in exact scoped statement",
+      "reason": "H-invariance holds for N and adjoint, so restriction of product is legitimate."
+    },
+    {
+      "id": "R5-O34",
+      "claim": "Every block of R with square-root normalization",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Basis normalization gives top-rightu/bottom-left0 and lowerblockB^t via actual pair count."
+    },
+    {
+      "id": "R5-O35",
+      "claim": "Restricted J and missing rank-one term",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Restricted J is zz^t; lower block retains the subtraction qE00."
+    },
+    {
+      "id": "R5-O36",
+      "claim": "C square and exceptional two-dimensional space",
+      "verdict": "passed in exact scoped statement",
+      "reason": "C\u00b2=BtB, Ce0=w, Cw=q(e0+w) give exact symmetric block decomposition."
+    },
+    {
+      "id": "R5-O37",
+      "claim": "Principal block and normalized T",
+      "verdict": "passed in exact scoped statement",
+      "reason": "S row sums and square yield T=S-J with integer lowerbound-1 and stated square."
+    },
+    {
+      "id": "R5-O38",
+      "claim": "Diagonal identities and counts",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Inversion and transpose yield diagonal first-row permutation; delete C00 then subtract1."
+    },
+    {
+      "id": "R5-O39",
+      "claim": "All eigenvalues and multiplicities",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Real symmetry, invariant plane and zero trace give all listed eigenvalues/multiplicities."
+    },
+    {
+      "id": "R5-O40",
+      "claim": "Scope of matrix condition",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Necessary matrix only; no arbitrary T reconstruction or impossibility theorem."
+    },
+    {
+      "id": "R5-O41",
+      "claim": "Even affine action and exact flags",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Even affine group transitive on flags; its size equals flag count, proving regularity."
+    },
+    {
+      "id": "R5-O42",
+      "claim": "New E1 reverse source import",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Fresh Xia2023v7 Prop1.2 exact hypotheses and subgroup conclusion checked; prior proofchain attributed."
+    },
+    {
+      "id": "R5-O43",
+      "claim": "Reverse saturation and exact multiplier group",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Source subgroup fixes itself and saturates R4D; existence equivalence rather than labelled identification."
+    },
+    {
+      "id": "R5-O44",
+      "claim": "Forward nonclassical conclusion forq>8",
+      "verdict": "passed in exact scoped statement",
+      "reason": "For q>8 the proved classical bound makes actual even saturated plane nonclassical only."
+    },
+    {
+      "id": "R5-O45",
+      "claim": "Extra source necessary conditions and finite imports",
+      "verdict": "passed in exact scoped statement",
+      "reason": "q8mod24 has flag hypotheses; ordinary26/32 are source finite imports, no certificate rerun."
+    },
+    {
+      "id": "R5-O46",
+      "claim": "Index<=22 mapping for BOTH rows",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Xia2018 indexL not orderm; both ordinary/modified range and remaining2/3/8 mapped correctly."
+    },
+    {
+      "id": "R5-O47",
+      "claim": "Odd two flag orbits and full-group caveat",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Odd available affine group has two flag orbits; full automorphism group may be larger."
+    },
+    {
+      "id": "R5-O48",
+      "claim": "Original Kantor source and failed inference",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Original Kantor B exception lacks even-order clause; stronger later restatement not imported."
+    },
+    {
+      "id": "R5-O49",
+      "claim": "Original source attribution and actual read scopes",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Fresh exact primary statements/proof passages match report; unchecked chains remain attributed."
+    },
+    {
+      "id": "R5-O50",
+      "claim": "Automatic old moment and nonsaturated gap",
+      "verdict": "passed in exact scoped statement",
+      "reason": "No use of redundant final moment or universal saturation; nonsaturated/full annual gap retained."
+    },
+    {
+      "id": "R5-O51",
+      "claim": "Frozen older files and permissible writes",
+      "verdict": "passed in exact scoped statement",
+      "reason": "All declared fingerprints verified and accepted R4 suffix unchanged; metadata is administrative only."
+    },
+    {
+      "id": "R5-O52",
+      "claim": "Model, account telemetry and review independence",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Constructor excluded; old reviewer misses disclosed; two new complete blind whole audits required."
+    }
+  ],
+  "substantive_issues": [],
+  "author_repair_required": false,
+  "program_gaps_outside_claim": [
+    "universal saturation unproved",
+    "even residual flag-transitive existence open",
+    "odd matrix necessary only",
+    "full taut classification open"
+  ]
+}

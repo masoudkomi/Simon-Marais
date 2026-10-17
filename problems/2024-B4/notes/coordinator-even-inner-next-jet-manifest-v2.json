@@ -1,0 +1,61 @@
+{
+  "frozen_at_utc": "2026-10-17T14:07:09.470040+00:00",
+  "status": "candidate proof - unverified",
+  "constructor": "coordinator root",
+  "claims": [
+    "NJ1-v2 for every even inner r>=2 and every s>=1, P_s in K[P_r] exactly s=r",
+    "NJ2-v2 whole phi_Lr divides phi_Ls exactly s=r for every even inner r>=2 inside fixed-q GK family"
+  ],
+  "whole_obligations": 10,
+  "requires_two_other_fresh_initially_blind_whole_audits": true,
+  "mathematical_code_CAS_scan_or_sample": false,
+  "DI_unverified_candidate_used_as_premise": false,
+  "all_factors_or_full_annual_or_novelty_claim": false,
+  "records": [
+    {
+      "path": "problems/2024-B4/notes/coordinator-even-inner-next-jet-return-v2.md",
+      "bytes": 12232,
+      "sha256": "5197ab6841d0a97356484cf3a08a7163055449fa879bd8010886e28158532ef6"
+    },
+    {
+      "path": "problems/2024-B4/proofs/reviewed-generalized-Kasami-v1.1.md",
+      "bytes": 12828,
+      "sha256": "eff29275bed2eb037a90bd8935c7c00740e66874c03f973a2996daa8f131d36e"
+    },
+    {
+      "path": "problems/2024-B4/reviews/generalized-Kasami-acceptance.json",
+      "bytes": 5168,
+      "sha256": "c580e2e51475b46283b16c47992a625fc3437c0a0a4669c63394f6a5bafbbf67"
+    },
+    {
+      "path": "problems/2024-B4/proofs/reviewed-composition-Kasami-v1.1.md",
+      "bytes": 17366,
+      "sha256": "f1e82d443b5ac997889c7a7f7f340437f8401516cccf9516eac132558df220c5"
+    },
+    {
+      "path": "problems/2024-B4/reviews/composition-Kasami-acceptance.json",
+      "bytes": 2786,
+      "sha256": "fb34aeef979003960d3563e70b4a97444279dfe9cce9448e11b0712126fb250d"
+    },
+    {
+      "path": "problems/2024-B4/proofs/reviewed-P2-critical-jet-v1.1.md",
+      "bytes": 9376,
+      "sha256": "4d8de33dd124a1352ec1a404863f3ea2eb4b2c696adf8a02d0a35bf6233cf53f"
+    },
+    {
+      "path": "problems/2024-B4/reviews/P2-critical-jet-acceptance.json",
+      "bytes": 2293,
+      "sha256": "816640ee8a85c3048bdb597757c06db6b6a55dccf9fda06857b0e58738c0acc0"
+    },
+    {
+      "path": "problems/2024-B4/notes/coordinator-P2-next-jet-return-v1.md",
+      "bytes": 10510,
+      "sha256": "b6b9b0a862e8da225c92304870c2e19ea07913715eadb26d6f7d39fb691555ea"
+    },
+    {
+      "path": "problems/2024-B4/notes/coordinator-P2-next-jet-manifest-v1.json",
+      "bytes": 1932,
+      "sha256": "0366df190099f002e50ba4d3186d6dddbd85b29cd3018a77eecd380eb5b235a0"
+    }
+  ]
+}

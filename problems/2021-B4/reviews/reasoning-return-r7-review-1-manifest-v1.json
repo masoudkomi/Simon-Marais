@@ -1,0 +1,56 @@
+{
+  "frozen_at_utc": "2026-10-17T13:49:47.711284+00:00",
+  "reviewer": "coordinator root",
+  "constructor": "review_2021_reasoning_j15_r2",
+  "fresh_initially_blind_whole_nonconstructor": true,
+  "root_generic_prompt_did_not_supply_new_R7_inferences": true,
+  "old_R5_strategy_and_R6_review_roles_disclosed": true,
+  "peer_new_R7_findings_read": false,
+  "whole_checks": 36,
+  "author_obligations": 36,
+  "substantive_issues": 0,
+  "repair_required": false,
+  "full_annual_branch_lift_or_novelty_claim": false,
+  "mathematical_program_CAS_scan_or_author_rerun": false,
+  "metadata_inputs": [
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r7-freeze-v1.json",
+      "bytes": 3391,
+      "sha256": "d29dc9823b24ae2df97ee1c506cb8fe8881a2ec2d82a206e2a7411566df7afa8"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r7-input-validation-v1.json",
+      "bytes": 575668,
+      "sha256": "6b88e67b84c41f581208c441cf1fcad6b827054c4a18a0747766f75bda454322"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r7-sources-v1.json",
+      "bytes": 8713,
+      "sha256": "866b10d899b6d9e084b2308eeeb0e2f061a112c93a4d7893042d6f4cbc6afc2b"
+    }
+  ],
+  "artifacts": [
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r7-review-1-initial-v1.md",
+      "bytes": 8173,
+      "sha256": "46da3feba7b8761938ee0b58f63e5e6dd6c31286f74b88333b29acab186a62dc"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r7-review-1-issues-v1.json",
+      "bytes": 8416,
+      "sha256": "b6939103be879fb825d30ef2f5e8ea0123a18f11041fd8fde04ecdd1b590a50c"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r7-review-1-source-checks-v1.md",
+      "bytes": 2191,
+      "sha256": "ad1b1354b53cf4dbd0f0ba908ab3c0f6c4b60e18151d327e836a03a89eda6ce5"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r7-review-1-integrity-v1.json",
+      "bytes": 1053,
+      "sha256": "70d0fc32d544607a89ec7717277d90b0ac0a57c9101dd9008b26646cf2f51f1e"
+    }
+  ],
+  "account_weekly_total_used_percent": 42,
+  "total_ceiling_percent": 90
+}

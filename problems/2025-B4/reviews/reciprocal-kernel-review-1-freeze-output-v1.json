@@ -1,0 +1,41 @@
+{
+  "checked_at_utc": "2026-10-17T14:00:36.793783+00:00",
+  "metadata_only_no_mathematical_computation": true,
+  "candidate": {
+    "path": "problems/2025-B4/notes/coordinator-reciprocal-kernel-return-v1.md",
+    "bytes": 9541,
+    "sha256": "4c752f3ca4699ea0c184dbb79d79f9f192182cc91aeac7fd8a459b7b8bea49b8"
+  },
+  "constructor_manifest": {
+    "path": "problems/2025-B4/notes/coordinator-reciprocal-kernel-manifest-v1.json",
+    "bytes": 1319,
+    "sha256": "6ba9a9c094b36a530e383e33e65961f1032ffe72fee601699dd135a88223aa86"
+  },
+  "constructor_records_checked": 4,
+  "accepted_MS_authority_fingerprint_occurrences_checked": 8,
+  "accepted_MS_source_fingerprint_occurrences_checked": 6,
+  "actual_primary_scanned_spreads_visually_read_and_fingerprinted": 4,
+  "whole_claims": [
+    "RK1",
+    "RK2",
+    "RK3"
+  ],
+  "per_inference_ledger_rows": 32,
+  "author_obligations_covered": 8,
+  "older_own_packets_unchanged": 50,
+  "all_hash_checks_passed": true,
+  "substantive_objections": 0,
+  "required_author_repairs": 0,
+  "new_peer_RK_findings_or_later_root_inspection_read_before_freeze": false,
+  "separate_UW_existence_and_RK3_universal_corollary_remain_conditional": true,
+  "latest_authoritative_weekly_usage": {
+    "at_utc": "2026-10-17 13:59:28 UTC (direct telemetry followed by UTC clock)",
+    "total_used_percent": 43,
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "total_ceiling_percent": 90,
+    "integration_reserve": true,
+    "ordinary_usage_allowed": true
+  },
+  "command": "python3 problems/2025-B4/reviews/reciprocal-kernel-review-1-freeze-v1.py"
+}

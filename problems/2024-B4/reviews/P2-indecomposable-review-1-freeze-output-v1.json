@@ -1,0 +1,40 @@
+{
+  "checked_at_utc": "2026-10-17T13:49:03.381779+00:00",
+  "metadata_only_no_mathematical_computation": true,
+  "candidate": {
+    "path": "problems/2024-B4/notes/coordinator-P2-indecomposable-return-v1.md",
+    "bytes": 8550,
+    "sha256": "44a91d25943bb3d25f3c4a9c7fc2c2b7f498692889bf82b7dabbdb610b57c957"
+  },
+  "constructor_manifest": {
+    "path": "problems/2024-B4/notes/coordinator-P2-indecomposable-manifest-v1.json",
+    "bytes": 1108,
+    "sha256": "ab71ed21157e434de2d487628fae2c72748e6582e2f0e16fc7ed6e37005fc17b"
+  },
+  "constructor_records_checked": 3,
+  "accepted_GK_authority_fingerprint_occurrences_checked": 19,
+  "accepted_GK_frozen_artifacts_checked": 6,
+  "accepted_GK_old_input_occurrences_checked": 417,
+  "accepted_GK_old_input_unique_paths_checked": 214,
+  "whole_claims": [
+    "DI1",
+    "DI2"
+  ],
+  "per_inference_ledger_rows": 32,
+  "author_obligations_covered": 8,
+  "older_own_packets_unchanged": 48,
+  "all_hash_checks_passed": true,
+  "substantive_objections": 0,
+  "required_author_repairs": 0,
+  "new_peer_DI_findings_or_later_root_inspection_read_before_freeze": false,
+  "latest_authoritative_weekly_usage": {
+    "at_utc": "2026-10-17 13:48:08 UTC (paired direct telemetry and clock)",
+    "total_used_percent": 42,
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "total_ceiling_percent": 90,
+    "integration_reserve": true,
+    "ordinary_usage_allowed": true
+  },
+  "command": "python3 problems/2024-B4/reviews/P2-indecomposable-review-1-freeze-v1.py"
+}

@@ -1,0 +1,264 @@
+{
+  "recorded_at_utc": "2026-10-17T14:05:16.531250+00:00",
+  "status": "candidate proof - unverified; complete R5 mathematical/source/failure checkpoint",
+  "constructor": "review_2022_complexity_r2",
+  "constructor_of_accepted_R4_and_its_repair_disclosed": true,
+  "new_R5_proof_contribution_from_another_agent_received": false,
+  "two_OTHER_fresh_whole_audits_required": true,
+  "requested_model": "gpt-6.1-sol",
+  "requested_reasoning_effort": "max",
+  "verified_effective_setting_readback": null,
+  "complete_accepted_bodies_read_and_verified": [
+    {
+      "path": "problems/2020-B4/proofs/reviewed-partial-v1.1.md",
+      "bytes": 2207,
+      "sha256": "3fcdd2d50c4545b2e466b8a24f5a958fb69f2b0f10cccf19fa4b628ed02a690f"
+    },
+    {
+      "path": "problems/2020-B4/proofs/partial-v1.md",
+      "bytes": 8703,
+      "sha256": "f53945e49bd626847e52a61f7e39e96defd2ae44900f9d235c2c14e720f41525"
+    },
+    {
+      "path": "problems/2020-B4/proofs/reviewed-reasoning-return-r4-v1.2.md",
+      "bytes": 26219,
+      "sha256": "6e1c29498cb3c61f84da80785a2697dc0511718c745098c3624e8a1eb7207493"
+    }
+  ],
+  "accepted_R4_raw_suffix_verified": {
+    "path": "problems/2020-B4/notes/reasoning-return-r4-candidate-v1.1.md",
+    "bytes": 22700,
+    "sha256": "c8fc32fba5fb12a7af4e25b398b65cd9d148273c3bc6f055ea21394a66e01ce2"
+  },
+  "complete_scope_acceptance_records_read": [
+    {
+      "path": "problems/2020-B4/reviews/acceptance.md",
+      "bytes": 2125,
+      "sha256": "91d5c59db4f974238113d2ab3f717e7e0f26e404e0eb526d59d0abc5348bc128"
+    },
+    {
+      "path": "problems/2020-B4/notes/reviewed-source-clarifications-v1.md",
+      "bytes": 2491,
+      "sha256": "03887e1f665d57b5a60a1b6b367376e7f97b2c5d166dea2076a51af44e387207"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-return-r4-acceptance.md",
+      "bytes": 3446,
+      "sha256": "9c4ede03839e7b67d3ee3491903d7c0d4af7ea6e01c6cba0037e5db672dfc968"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-return-r4-acceptance.json",
+      "bytes": 3556,
+      "sha256": "b8b0c769617555de1deb95531b07fcfc8bf163b9fd3dd1bffc5253b63018e1b9"
+    }
+  ],
+  "context_metadata_not_all_external_proofs_newly_read": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 166,
+      "sha256": "798a56dbcda9a2c9882f91ba4cea6394ff7f47915f382514b0115fed42321d4e"
+    },
+    {
+      "path": "problems/2020-B4/statement.md",
+      "bytes": 2006,
+      "sha256": "91c9e7e86eef7bc6a68770f6ee730d18618443304ac3aace5541b42170ac64cc"
+    },
+    {
+      "path": "problems/2020-B4/references.md",
+      "bytes": 9036,
+      "sha256": "7ce4ae9b9c7724cbd91cdc0da57a09e79e0eac728399b79efe148aa799262786"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-return-r4-source-checks-v1.1.md",
+      "bytes": 7803,
+      "sha256": "21d116d80d110914121cf6d8a93695aed39c6ff2ba3e3795e0298a784e37c04c"
+    },
+    {
+      "path": "problems/2020-B4/notes/deep-literature-r1-report-v1.md",
+      "bytes": 9404,
+      "sha256": "2c54319b2294be5851ff0d93be7dd833e3f2041405ed98b6b026080b4560da50"
+    },
+    {
+      "path": "problems/2020-B4/notes/deep-literature-r1-sources-v1.json",
+      "bytes": 5487,
+      "sha256": "7823c32be8aac9eae4c5a31b705ed3f8f6a03bec867e36be4a8079d8ef185999"
+    },
+    {
+      "path": ".cache/official/2020-paper_b.pdf",
+      "bytes": 118979,
+      "sha256": "87d99c8f1c3d077bddeb542e3825a515e90b0f29339acde94758d57a102bb3da"
+    },
+    {
+      "path": ".cache/official/2020-solutions.pdf",
+      "bytes": 287864,
+      "sha256": "d77ecfa277a693f57992ca2286c01e95f50821c02abc6ff63a41966f578f09b3"
+    }
+  ],
+  "public_native_PDF_downloads": [
+    {
+      "path": ".cache/literature/2020/reasoning-return-r5/Kantor1987.pdf",
+      "bytes": 1715166,
+      "sha256": "28b4bf0808e4f92ceba1d4cbf93b1981dfa6a6dd1bd320ff39dae37b7c1afcf3"
+    },
+    {
+      "path": ".cache/literature/2020/reasoning-return-r5/ThasZagier2008.pdf",
+      "bytes": 171081,
+      "sha256": "a8c2d922863e7f459eeb024dedbe965d7b0572a8941744e09f36b3db9b038592"
+    },
+    {
+      "path": ".cache/literature/2020/reasoning-return-r5/HuangSchmidt2008.pdf",
+      "bytes": 178716,
+      "sha256": "01e1606d116c69a2541e7be4b4e67d30574111907b9367bc1ba96f15bebf381b"
+    },
+    {
+      "path": ".cache/literature/2020/reasoning-return-r5/Xia2018v3.pdf",
+      "bytes": 276257,
+      "sha256": "e48723f71b74a53eae4613028ebe5a52f3ccf995ccbc53c3364915fd1f2443b7"
+    },
+    {
+      "path": ".cache/literature/2020/reasoning-return-r5/Xia2023v7.pdf",
+      "bytes": 202492,
+      "sha256": "dbb9cbf51d43223d87a4de9a96a94a50e4a860022c86057c9a9c62cb3ff3228a"
+    },
+    {
+      "path": ".cache/literature/2020/reasoning-return-r5/Sun2025v1.pdf",
+      "bytes": 319374,
+      "sha256": "769b10daaa6490c18e9cb030118e012c7a72608ae2881e738ec4f82de9976b06"
+    }
+  ],
+  "PDF_magic_verified": true,
+  "full_PDFs_only_in_ignored_cache": true,
+  "redistribution_licence_verified_or_full_papers_tracked": false,
+  "native_download_and_web_extraction_byte_identity_claimed": false,
+  "pdftotext_and_shell_python_pypdf_available": false,
+  "all_curl_downloads_completed_exit0": true,
+  "initial_pending_sessions_reaped": [
+    10823,
+    34283,
+    29745
+  ],
+  "primary_actual_read_scopes": [
+    {
+      "title": "Official2020 PaperB and solution discussion",
+      "urls": [
+        "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2020-paper-b_1.pdf",
+        "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2020-solutions_1.pdf"
+      ],
+      "actual_read_scope": "p2 B4(b) and printedp27 discussion; neighboring preliminary excerpts returned but no preliminary proof investigated/reproduced",
+      "individual_setter_credit_verified": false,
+      "live_extraction_existing_cache_byte_identity_claimed": false
+    },
+    {
+      "title": "Kantor1987 Primitive Permutation Groups of Odd Degree",
+      "url": "https://pages.uoregon.edu/kantor/PAPERS/odddegree_planes.pdf",
+      "doi": "10.1016/0021-8693(87)90019-6",
+      "actual_read_scope": "Original printedpp15-16, TheoremsA/B and following arithmetic-exception warning",
+      "full_CFSG_proof_reconstructed_or_imported": false,
+      "original_TheoremB_has_even_order_clause_in_exception": false,
+      "later_stronger_formulation_used_to_eliminate_odd_row": false,
+      "cache_record": {
+        "path": ".cache/literature/2020/reasoning-return-r5/Kantor1987.pdf",
+        "bytes": 1715166,
+        "sha256": "28b4bf0808e4f92ceba1d4cbf93b1981dfa6a6dd1bd320ff39dae37b7c1afcf3"
+      }
+    },
+    {
+      "title": "Thas-Zagier2008 Finite projective planes, Fermat curves, and Gaussian periods",
+      "url": "https://ems.press/content/serial-article-files/31619?nt=1",
+      "doi": "10.4171/JEMS/107",
+      "actual_read_scope": "pp173-177 definitions, classical P-Gamma-L automorphism statement, Theorems1.1/1.3, Remark1.2, COMPLETE Proposition2.1 proof and Theorem2.4",
+      "classical_collineation_theorem_standard_attributed_input": true,
+      "full_synthetic_or_external_classification_proof_reconstructed": false,
+      "odd_branch_exclusion_from_Theorem1_3_imported": false,
+      "cache_record": {
+        "path": ".cache/literature/2020/reasoning-return-r5/ThasZagier2008.pdf",
+        "bytes": 171081,
+        "sha256": "a8c2d922863e7f459eeb024dedbe965d7b0572a8941744e09f36b3db9b038592"
+      }
+    },
+    {
+      "title": "Huang-Schmidt2008 Uniqueness of Some Cyclic Projective Planes",
+      "url": "https://personal.ntu.edu.sg/bernhard/Publications/pub/Singer.pdf",
+      "edition": "author version2008-01-15",
+      "actual_read_scope": "Definitions and COMPLETE Proposition5 proof, pp1-5",
+      "Ellers_Karzel_or_general_Singer_conjugacy_theorem_imported": false,
+      "cache_record": {
+        "path": ".cache/literature/2020/reasoning-return-r5/HuangSchmidt2008.pdf",
+        "bytes": 178716,
+        "sha256": "01e1606d116c69a2541e7be4b4e67d30574111907b9367bc1ba96f15bebf381b"
+      }
+    },
+    {
+      "title": "Xia2018 Cyclotomic difference sets in finite fields",
+      "url": "https://arxiv.org/pdf/1501.03275v3",
+      "doi": "10.1090/mcom/3311",
+      "edition": "arXivv3 dated2017-07-04; published MathComp87(2018)",
+      "actual_read_scope": "Introduction/Notation1.1, Lemmas2.2-2.5, Theorem4.1 domain, Section5.1 computation explanation/Table9, COMPLETE Theorem5.1 statement/written proof, Conjectures5.2/5.3, Proposition5.4",
+      "attributed_import": "Theorem5.1 even cyclotomic INDEX<=22 other than2/4/8, both ordinary/modified",
+      "finite_Groebner_data_independently_certified_or_rerun": false,
+      "general_classification_conjecture_imported": false,
+      "cache_record": {
+        "path": ".cache/literature/2020/reasoning-return-r5/Xia2018v3.pdf",
+        "bytes": 276257,
+        "sha256": "e48723f71b74a53eae4613028ebe5a52f3ccf995ccbc53c3364915fd1f2443b7"
+      }
+    },
+    {
+      "title": "Xia2023 New necessary conditions for finite non-Desarguesian flag-transitive projective planes",
+      "url": "https://arxiv.org/pdf/1707.05486v7",
+      "edition": "activev7 dated2023-01-11",
+      "actual_read_scope": "Introduction/definitions; COMPLETE Proposition1.2 and Theorem1.3 statements; Theorem3.4 context; Corollary3.6 and Theorem3.7 computation paragraph; Section4 through Lemma4.1 and q8mod24 deduction",
+      "attributed_imports": [
+        "Proposition1.2 exact nonclassical FLAG-transitive reverse reduction",
+        "Theorem1.3 congruence within its exact hypotheses",
+        "Theorem3.7 ordinary indices26/32 in primefields"
+      ],
+      "full_prior_classification_or_Groebner_certificates_newly_audited": false,
+      "necessary_char3_systems_treated_as_nonsolvability": false,
+      "cache_record": {
+        "path": ".cache/literature/2020/reasoning-return-r5/Xia2023v7.pdf",
+        "bytes": 202492,
+        "sha256": "dbb9cbf51d43223d87a4de9a96a94a50e4a860022c86057c9a9c62cb3ff3228a"
+      }
+    },
+    {
+      "title": "Sun2025 Cyclotomic Matrices and Power Difference Sets",
+      "url": "https://arxiv.org/pdf/2511.13613v1",
+      "edition": "PREPRINTv1 dated2025-11-17",
+      "actual_read_scope": "Introduction/TheoremsA-C, Section2 definitions/Lemma2.1 complete proof, Section5.1 Lehmer parity/Theorem5.2 proof, Section5.3 Proposition5.17 proof, Section5.4 shifted matrices/spectral discussion, COMPLETE Section5.5, Section6 unresolved questions",
+      "known_mechanism_attributed": "Modified Gram identity Proposition5.23, ordinary lambda-one0-or2 row, shifted symmetric matrices",
+      "R5_proofs": "Own full coset-count, pair-sum and convolution/zero-orbit derivations; modified lambda-one normalizedT/diagonal/spectrum complete",
+      "general_characterization_or_open_problem_solution_imported": false,
+      "cache_record": {
+        "path": ".cache/literature/2020/reasoning-return-r5/Sun2025v1.pdf",
+        "bytes": 319374,
+        "sha256": "769b10daaa6490c18e9cb030118e012c7a72608ae2881e738ec4f82de9976b06"
+      }
+    }
+  ],
+  "theorem_attribution_and_open_gaps": {
+    "classical_normalizer_reconstruction_not_global_classification": true,
+    "cyclotomic_count_and_Gram_mechanisms_attributed": true,
+    "Xia_imports_retain_all_additional_hypotheses": true,
+    "modified_T_condition_necessary_only": true,
+    "nonsaturated_branch_unresolved": true,
+    "old_R4_last_moment_automatic_and_interior_sufficient": true,
+    "novelty_or_improved_cutoff_established": false
+  },
+  "mathematical_program_scan_CAS_certificate_or_author_rerun": false,
+  "direct_weekly_telemetry": {
+    "at_utc": "2026-10-17T13:52:54+00:00",
+    "source": "direct account-wide usage tool paired with UTC clock",
+    "total_used_percent": 42,
+    "window_duration_minutes": 10080,
+    "resets_at_unix": 1792745187,
+    "ordinary_usage_allowed": true,
+    "total_used_cutoff_percent": 90,
+    "integration_reserve": true
+  }
+}
