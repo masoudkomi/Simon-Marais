@@ -1,0 +1,26 @@
+{
+  "frozen_at_utc": "2026-10-17T11:21:51.658536+00:00",
+  "metadata_only": true,
+  "per_inference_ledger_rows": 46,
+  "constructor_obligations_covered": 40,
+  "constructor_submission_artifacts": 8,
+  "constructor_declared_fingerprint_occurrences": 215,
+  "constructor_declared_unique_paths": 176,
+  "exact_accepted_bodies_checked": 10,
+  "complete_acceptance_scope_MDs_checked": 10,
+  "strict_accepted_exact_raw_suffix": true,
+  "older_own_packets_preserved": 36,
+  "separate_GK_telemetry_addendum_preserved": true,
+  "substantive_objections": [],
+  "required_author_repairs": [],
+  "whole_initial_blind_freeze": true,
+  "latest_authoritative_weekly_usage": {
+    "used_percent": 33,
+    "at_utc": "2026-10-17 11:17:26 UTC",
+    "source": "authoritative account-wide get_usage_limits tool",
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "ceiling_total_used_percent": 90,
+    "integration_reserve": true
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "verified_at_utc": "2026-10-17T11:24:05.514549+00:00",
+  "all_verified": true,
+  "record_occurrences_checked": 1179,
+  "unique_paths_checked": 620,
+  "exact_verification_metadata": [
+    {
+      "path": "problems/2017-B4/reviews/allD-global-acceptance.json",
+      "bytes": 3248,
+      "sha256": "d05556d1973514ad70c8017633c346748636783718be7871dcd3e8a59dc969b5"
+    },
+    {
+      "path": "problems/2017-B4/reviews/allD-global-acceptance-integrity.json",
+      "bytes": 394181,
+      "sha256": "32400b27af7370e09e37bb19c720cd45360838e44b4886115ec2eff920480e1d"
+    }
+  ],
+  "complete_rows_retained_in_acceptance_integrity": true,
+  "new_research_context_only": [
+    {
+      "path": "problems/2017-B4/notes/coordinator-global-limit-literature-recheck-v1.md",
+      "bytes": 1513,
+      "sha256": "68ca65778767d024f3463880b9ecf2567e48ebf757a0ef0294e24c4105b26e6a"
+    },
+    {
+      "path": "problems/2025-B4/notes/coordinator-diagonal-moment-separation-v1.3.md",
+      "bytes": 3219,
+      "sha256": "cdf9ad99a74d1c03ef258a5cd1bbe8bd9541135038ea5fdbca0e70622fd50043"
+    }
+  ]
+}
