@@ -1,5 +1,25 @@
 # 2017 B4 issue log
 
+## Fixed-D profile repair, 2026-10-17 UTC
+
+The second fresh whole audit found substantive issue **FD2-01** in frozen
+`fixedD-reasoning-r1-profile-reduction-v1.md`, Section 4. Prefix-height
+closeness alone does not imply a uniform fixed-D weak-order envelope.
+The exact three-color counterexample in the frozen R2 issue ledger has
+prefix discrepancy at most 1 but a join discrepancy of order L and
+enclosed area of order L squared. The valid labelled-displacement lemma
+and fixed bounded-gap conversion do not imply the overstrong corollary.
+The first reviewer has acknowledged the missed qualification after both
+initial reports were frozen. The author is preparing complete v1.1
+copies retaining explicit gap-dependent constants and rounding losses.
+**Both independent targeted re-audits are required before promotion.**
+All original v1 bytes and the counterexample are preserved. EAI, profile
+recovery and H remain open.
+
+The separate directed-geodesic candidate and annulus candidate remain
+unverified. They state positive-margin and buffer restrictions explicitly;
+neither supplies a full fixed-boundary entropy limit.
+
 DC1, DC2 and the conditional H transfer are accepted after both fresh
 whole reconstructions. Canonical gaps, port-code invariance, forced matching,
 event-poset recovery and strand cloning are explicit in the accepted

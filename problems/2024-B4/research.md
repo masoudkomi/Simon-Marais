@@ -1,5 +1,17 @@
 # 2024 B4 research log
 
+## Current reviewed structural result
+
+T1–T4 are now **proved, independently reviewed partial restrictions**.
+For odd binary-weight>=3 exponents, no absolute line or F2 factor of
+degree at most three occurs. Individual factors through P obey exact
+Frobenius/tangent-field constraints; v2(n-1)=3 has the stated necessary
+local trichotomy. Two fresh whole blind audits were fully read and
+hash-verified by the coordinator. See proofs/reviewed-structural-v1.1.md
+and reviews/structural-acceptance.md/json. The only copy change is the
+heading binary -> ternary cubics. No full exponent classification or
+novelty is claimed. Factors avoiding P remain unrestricted by T3/T4.
+
 Status: serious initial investigation checkpoint, 2026-10-16. **No full solution claimed.** The fixed-factor family in proofs/fixed-factor-family-reviewed-v1.1.md is **proved, independently reviewed (partial result)** after two blind full reconstructions. Other mathematical deductions below remain **candidate proof - unverified** unless identified as attributed published results. The exact whole-phi13 criterion in notes/zero-automaton-criterion-reviewed-v1.1.md has also passed two additional fresh blind full reconstructions. Later small-divisor probes remain separate and unreviewed. Computational identities are exact finite certificates, not a classification of unrestricted n.
 
 Requested worker settings: gpt-6.1-sol, max reasoning. Verified effective-setting readback: unavailable. Worker owns only this directory; no commits, pushes, helpers or installations performed.

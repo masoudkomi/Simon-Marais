@@ -1,0 +1,206 @@
+{
+  "checked_at_utc": "2026-10-17T00:27:57.854799+00:00",
+  "older_frozen_packet_records": [
+    {
+      "manifest": {
+        "path": "problems/2021-B4/reviews/reasoning-J15-review-2-manifest.json",
+        "bytes": 2141,
+        "sha256": "06a759acf37d30deac27bafe82f4c8c0f7ff39b5d99e3f53637050b4f490b671"
+      },
+      "all_records_match": true,
+      "checks": [
+        {
+          "path": "problems/2021-B4/reviews/reasoning-J15-review-2.md",
+          "bytes": 17660,
+          "sha256": "491adc49bdab13808df45ebd272b8e66d6ff8f642031a0cf07802bd909b7cdea",
+          "matches": true
+        },
+        {
+          "path": "problems/2021-B4/reviews/reasoning-J15-review-2-issues.json",
+          "bytes": 3166,
+          "sha256": "23b2aabefa9b6f759320e4d9977fe8a7a1a56b6009b2e918265d68949c5eba71",
+          "matches": true
+        },
+        {
+          "path": "problems/2021-B4/reviews/reasoning-J15-review-2-sources.json",
+          "bytes": 4308,
+          "sha256": "5bf87b836bdc2216d0d62d462886d1fa760b17e3f7cd62a4fafb99eaed486f38",
+          "matches": true
+        },
+        {
+          "path": "problems/2021-B4/reviews/reasoning-J15-review-2-input-validation.json",
+          "bytes": 5304,
+          "sha256": "20a09c10f24a5ea8998d889710de83411f97347ef7ad718c30ec4b6d055ac8a7",
+          "matches": true
+        },
+        {
+          "path": "problems/2021-B4/reviews/reasoning-J15-review-2-freeze.py",
+          "bytes": 4165,
+          "sha256": "9032d041f634039361bd6554a104757db19eae8b60618c220304d2146db9b9e6",
+          "matches": true
+        }
+      ]
+    },
+    {
+      "manifest": {
+        "path": "problems/2024-B4/notes/structural-reasoning-r2-manifest-v1.json",
+        "bytes": 2381,
+        "sha256": "55a13b078de0f0e2b404e294dc4015442c66cd103a8397079f1c1ab1d8704200"
+      },
+      "all_records_match": true,
+      "checks": [
+        {
+          "path": "problems/2024-B4/notes/structural-reasoning-r2-candidate-v1.md",
+          "bytes": 16027,
+          "sha256": "0c451d5f9410573625725bc6be35af91fe938deee4dc1d92910572374dc69f52",
+          "matches": true
+        },
+        {
+          "path": "problems/2024-B4/notes/structural-reasoning-r2-source-audit-v1.md",
+          "bytes": 6358,
+          "sha256": "8c18686381299e2e2a4b81c4728820a4ca5e52241df62a4b802fe1f4df4f4687",
+          "matches": true
+        },
+        {
+          "path": "problems/2024-B4/notes/structural-reasoning-r2-research-log-v1.md",
+          "bytes": 5280,
+          "sha256": "ceeab21a0ff6b1f7e4515c6fd5e4e3919f5ba6f411a338f37ecb37eaf94af70b",
+          "matches": true
+        },
+        {
+          "path": "problems/2024-B4/notes/structural-reasoning-r2-sources-v1.json",
+          "bytes": 11775,
+          "sha256": "4c71233c20137e1964869e55b33cd52f80bedaf8ab47c1518b8d20e97bc35d68",
+          "matches": true
+        },
+        {
+          "path": "problems/2024-B4/notes/structural-reasoning-r2-freeze-v1.py",
+          "bytes": 10610,
+          "sha256": "87bb430f34092f79da92b2848a25ff079d1a7b130f09b7cb0fd0afdd5475562e",
+          "matches": true
+        },
+        {
+          "path": "problems/2024-B4/notes/structural-reasoning-r2-freeze-output-v1.json",
+          "bytes": 618,
+          "sha256": "5e6395b554069ba10ca5355a9846deb6b08606235c46cc02c7e2208a18082bf6",
+          "matches": true
+        }
+      ]
+    },
+    {
+      "manifest": {
+        "path": "problems/2017-B4/reviews/fixedD-structural-review-1-manifest-v1.json",
+        "bytes": 2336,
+        "sha256": "3b9b23ae55f9864c7f2e6e5122fe3d7de29e1be0b276ecb8e78e8ad6f2ece2d1"
+      },
+      "all_records_match": true,
+      "checks": [
+        {
+          "path": "problems/2017-B4/reviews/fixedD-structural-review-1-initial-v1.md",
+          "bytes": 26568,
+          "sha256": "bf1e2ee89f6f3f5500b4f2a779230b8cdcc32ad2d03b47b46b31a03b00863e2c",
+          "matches": true
+        },
+        {
+          "path": "problems/2017-B4/reviews/fixedD-structural-review-1-issues-v1.json",
+          "bytes": 4097,
+          "sha256": "cef0a0def71ecd9302c6c8450a85a6358c935b70e07b4445ade01297d18d8727",
+          "matches": true
+        },
+        {
+          "path": "problems/2017-B4/reviews/fixedD-structural-review-1-sources-v1.json",
+          "bytes": 4137,
+          "sha256": "24493ecff19aaf25bc45a9760f1041fb9085b5e59f6a8ed6a5fee067fa57b66d",
+          "matches": true
+        },
+        {
+          "path": "problems/2017-B4/reviews/fixedD-structural-review-1-freeze-v1.py",
+          "bytes": 6240,
+          "sha256": "d1401df1f2beb965dabdbd1aa204be520d0392330fb9a816572295dbfb445db4",
+          "matches": true
+        },
+        {
+          "path": "problems/2017-B4/reviews/fixedD-structural-review-1-input-validation-v1.json",
+          "bytes": 6344,
+          "sha256": "f69ea8df180e33f85a8deea964c489a43b707fccc550d554bec1538707223a51",
+          "matches": true
+        },
+        {
+          "path": "problems/2017-B4/reviews/fixedD-structural-review-1-freeze-output-v1.json",
+          "bytes": 403,
+          "sha256": "4aa595f9f6388f9317bef9bb90c5e8a6d52558ee4d820dbd892bc7bfbbd931fb",
+          "matches": true
+        }
+      ]
+    }
+  ],
+  "older_frozen_packets_unchanged": true,
+  "local_dependency_records": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2024-B4/statement.md",
+      "bytes": 2470,
+      "sha256": "60244f7752634772adb434efbdb41a63fb02029dc3be4238f3718c6e5ec84e5f"
+    },
+    {
+      "path": "problems/2024-B4/reviews/criterion-acceptance.md",
+      "bytes": 1859,
+      "sha256": "526aaca33ea562ee2641a7fbd8ad891b46308f224c1cf0656eb841c29c34217d"
+    },
+    {
+      "path": "problems/2024-B4/notes/zero-automaton-criterion-reviewed-v1.1.md",
+      "bytes": 16607,
+      "sha256": "362f2541b2bb1ab1e22ba768b41d55e7282f08631b0ad39522682244d213f226"
+    },
+    {
+      "path": "problems/2024-B4/notes/coordinator-small-divisor-lead-v1.md",
+      "bytes": 4342,
+      "sha256": "9fb0f704f103104feafd9856bbf56a1fbea4b2b86483b173fec6c27da13e3177"
+    },
+    {
+      "path": "problems/2024-B4/computations/coordinator-small-divisor-probe-v1.json",
+      "bytes": 12416,
+      "sha256": "2eef2e578ae3c194ce3bdb2f184b0442bf5e43cec5f73d62be9be4604db3dde1"
+    },
+    {
+      "path": "problems/2024-B4/notes/structural-reasoning-r2-candidate-v1.md",
+      "bytes": 16027,
+      "sha256": "0c451d5f9410573625725bc6be35af91fe938deee4dc1d92910572374dc69f52"
+    },
+    {
+      "path": "problems/2024-B4/notes/deep-literature-r2-report-v1.md",
+      "bytes": 12012,
+      "sha256": "1c67cfed98d530e1b76296d3f8da6be9e20834557016f1a7a434a8c69516f1e4"
+    },
+    {
+      "path": "problems/2024-B4/notes/deep-literature-r2-kasami-orbit-lead-v1.md",
+      "bytes": 4355,
+      "sha256": "9e2123e23c9637eab09a30a69be6ced27314331453eba993dab83b1d0e67b5ac"
+    }
+  ],
+  "cached_primary_thesis": {
+    "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995.pdf",
+    "bytes": 2610589,
+    "sha256": "d8e8e62d873c5ec69e2fd40473a9aee257bb8d4994cb5ffc1a42cb70f8bcbd24"
+  },
+  "viewed_cached_primary_pages": [
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-24.png",
+      "bytes": 95716,
+      "sha256": "d07f0c310f51372423297698546aaae6aa410336c687cb29a572ea7900210ef3"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995-25.png",
+      "bytes": 92905,
+      "sha256": "e568d042b5400a53bd865f4987124e19c17b3ab605480c562ec46a6f1634aa18"
+    }
+  ],
+  "certificate_hash_matches_completed_check": true,
+  "finite_check_completed_successfully": true,
+  "new_index_scan_or_CAS": false,
+  "metadata_only_freeze": true
+}

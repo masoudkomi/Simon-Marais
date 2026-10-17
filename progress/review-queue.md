@@ -1,5 +1,12 @@
 # Independent review queue
 
+Current 2026-10-17 00:35UTC checkpoint: fixedD structural/profile v1 has
+substantive FD2-01 and is **not accepted**; author v1.1 repair and both
+targeted re-audits are pending. DG1/DG2 has one completed blind whole
+audit and a second active audit. The annulus A1–A5 packet is frozen and
+its first fresh whole audit is active. The separate phi7/phi11 divisor
+packet is frozen and awaits two fresh nonconstructor whole audits.
+
 Initial reviews must be blind to the other reviewer's conclusions. A constructor cannot review its own proof. The coordinator records a final acceptance only after both audits, reconstruction and all repairs.
 
 | Candidate | Version / SHA-256 | Claimed scope | Reviewer 1 | Reviewer 2 | Acceptance |
@@ -47,8 +54,12 @@ Finite exact checks by an author or coordinator do not count as the two independ
 
 | 2022 rational-lift factor complexity | arithmetic-reasoning-complexity-candidate-v1.md SHAe9c24e96982d1d2a74aa97cb5fd045a3319f37c69316fbada884eeec0a0412d3 | Rational controller lift periodic or complexity slope>=log10/log1.1; explicit low-complexity irrational avoiding lifts; Dubickas adaptation | Fresh arithmetic-complexity R1 complete, blind whole reconstruction | Fresh arithmetic-complexity R2 complete, blind whole reconstruction | Proved, independently reviewed partial adaptation; arithmetic-complexity-acceptance.md/json; high-complexity integer avoiding paths unresolved |
 
-| 2017 fixedD structural/profile lemmas | fixedD-reasoning-r1-freeze-v1.json | Integer model, lift constraints, nonconvex fixed-frame example, weak-order band lemma, periodic backgrounds and profile limsup identity | Pending nonconstructor audit | Pending second independent audit | Candidate proof - unverified; H and annular recovery open |
+| 2017 fixedD structural/profile lemmas | fixedD-reasoning-r1-freeze-v1.json | Integer model, lift constraints, nonconvex fixed-frame example, weak-order band lemma, periodic backgrounds and profile limsup identity | Fresh fixedD R1 complete, blind whole report root-read | Fresh fixedD R2 active, blind | Candidate proof - unverified; H and annular recovery open |
 
 | 2021 sole-H4 residue classification | coordinator-J15-soleH4-freeze-v1.json | Three necessary equal-valuation residue patterns and exact actual witness roles; no mask exclusion | Fresh R1 complete, blind whole reconstruction | Fresh R2 joint whole reconstruction complete, blind | Proved, independently reviewed necessary patterns only; single-center-acceptance.md/json |
 
 | 2021 sole-H2 residue classification | coordinator-J15-soleH2-freeze-v1.json | Four necessary equal-valuation residue patterns and exact actual witness roles; no mask exclusion | Fresh soleH2 R1 complete, blind whole reconstruction | Fresh single-center R2 complete, blind whole reconstruction | Proved, independently reviewed necessary patterns only; single-center-acceptance.md/json |
+
+| 2024 low factors and ordinary-point descent | structural-reasoning-r2-candidate-v1.md SHA0c451d5f9410573625725bc6be35af91fe938deee4dc1d92910572374dc69f52 | T1-T4 partial structural restrictions, exact hypotheses; no exponent classification | Fresh R1 whole blind audit complete | Fresh R2 whole blind audit complete | Proved, independently reviewed; structural-acceptance.md/json; editorial heading correction only |
+
+| 2017 directed geodesics and affine side paths | coordinator-directed-geodesics-freeze-v1.json SHA0fe9e72b07d12d7a5e417e14a56fec06191ea7f76a9f8787ea533cdd9824bcb6 is candidate hash | DG1/DG2 disk adaptation of source arc lemma and strictly positive affine side localization; no closed annulus | Pending fresh nonconstructor | Pending second fresh nonconstructor | Candidate proof - unverified |

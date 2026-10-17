@@ -1,0 +1,230 @@
+{
+  "verified_at_utc": "2026-10-17T00:16:47.987172+00:00",
+  "all_match": true,
+  "records_checked": 41,
+  "manifests": [
+    {
+      "path": "problems/2024-B4/notes/structural-reasoning-r2-manifest-v1.json",
+      "bytes": 2381,
+      "sha256": "55a13b078de0f0e2b404e294dc4015442c66cd103a8397079f1c1ab1d8704200"
+    },
+    {
+      "path": "problems/2024-B4/reviews/structural-review-1-manifest-initial.json",
+      "bytes": 5556,
+      "sha256": "77c28831556074148c3c930e86041515838c909bab9f4242ecda52cc43baa3a4"
+    },
+    {
+      "path": "problems/2024-B4/reviews/structural-review-2-freeze-manifest.json",
+      "bytes": 3047,
+      "sha256": "0844ce6cee0cfc7264c8a9df79edb4048193e0d06e4034e36f3561abfbb3197c"
+    }
+  ],
+  "checked_records": [
+    {
+      "path": "problems/2024-B4/notes/structural-reasoning-r2-candidate-v1.md",
+      "bytes": 16027,
+      "sha256": "0c451d5f9410573625725bc6be35af91fe938deee4dc1d92910572374dc69f52"
+    },
+    {
+      "path": "problems/2024-B4/notes/structural-reasoning-r2-candidate-v1.md",
+      "bytes": 16027,
+      "sha256": "0c451d5f9410573625725bc6be35af91fe938deee4dc1d92910572374dc69f52"
+    },
+    {
+      "path": "problems/2024-B4/notes/structural-reasoning-r2-source-audit-v1.md",
+      "bytes": 6358,
+      "sha256": "8c18686381299e2e2a4b81c4728820a4ca5e52241df62a4b802fe1f4df4f4687"
+    },
+    {
+      "path": "problems/2024-B4/notes/structural-reasoning-r2-research-log-v1.md",
+      "bytes": 5280,
+      "sha256": "ceeab21a0ff6b1f7e4515c6fd5e4e3919f5ba6f411a338f37ecb37eaf94af70b"
+    },
+    {
+      "path": "problems/2024-B4/notes/structural-reasoning-r2-sources-v1.json",
+      "bytes": 11775,
+      "sha256": "4c71233c20137e1964869e55b33cd52f80bedaf8ab47c1518b8d20e97bc35d68"
+    },
+    {
+      "path": "problems/2024-B4/notes/structural-reasoning-r2-freeze-v1.py",
+      "bytes": 10610,
+      "sha256": "87bb430f34092f79da92b2848a25ff079d1a7b130f09b7cb0fd0afdd5475562e"
+    },
+    {
+      "path": "problems/2024-B4/notes/structural-reasoning-r2-freeze-output-v1.json",
+      "bytes": 618,
+      "sha256": "5e6395b554069ba10ca5355a9846deb6b08606235c46cc02c7e2208a18082bf6"
+    },
+    {
+      "path": "problems/2024-B4/notes/structural-reasoning-r2-candidate-v1.md",
+      "bytes": 16027,
+      "sha256": "0c451d5f9410573625725bc6be35af91fe938deee4dc1d92910572374dc69f52"
+    },
+    {
+      "path": "problems/2024-B4/notes/structural-reasoning-r2-manifest-v1.json",
+      "bytes": 2381,
+      "sha256": "55a13b078de0f0e2b404e294dc4015442c66cd103a8397079f1c1ab1d8704200"
+    },
+    {
+      "path": "problems/2024-B4/reviews/structural-review-1-initial.md",
+      "bytes": 20480,
+      "sha256": "4a159bbc591957116b7fbd5b2ba6993cc749da93620358e1d27b82a26d2d9c0b"
+    },
+    {
+      "path": "problems/2024-B4/reviews/structural-review-1-issues.md",
+      "bytes": 5283,
+      "sha256": "292c76396f7ed3aa0ad749614741da99f987877444b4d121d72c0948cc69a1d6"
+    },
+    {
+      "path": "problems/2024-B4/reviews/structural-review-1-sources.json",
+      "bytes": 7972,
+      "sha256": "779355db93575ac6365a549972027b0d1b0071361b26b4eb1cdd1fb38fa0ed17"
+    },
+    {
+      "path": "problems/2017-B4/notes/fixedD-reasoning-r1-freeze-v1.json",
+      "bytes": 1824,
+      "sha256": "fb277c1a3fe5fe3a0283992168b009094d05699c1f47d7ba10123b61e95eb6dd"
+    },
+    {
+      "path": "problems/2017-B4/notes/fixedD-reasoning-r1-profile-reduction-v1.md",
+      "bytes": 12092,
+      "sha256": "973e8d7da034082b4416100d51650798ec3eb90e75cfd44106b5810dd9ec7e8d"
+    },
+    {
+      "path": "problems/2017-B4/notes/fixedD-reasoning-r1-sources-v1.json",
+      "bytes": 2750,
+      "sha256": "e33ef844964e5cdfa0420696c2ee08ab90600ac766b9d7aa3667e8776c7ac3c0"
+    },
+    {
+      "path": "problems/2017-B4/notes/fixedD-reasoning-r1-structural-candidate-v1.md",
+      "bytes": 15107,
+      "sha256": "c776e81d0fd44c0e8042ddc00a0d949966cdc106ba9b7e67486dc4d14a1b7d87"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coarsening-review-1-initial.md",
+      "bytes": 14896,
+      "sha256": "de353b13c44f4d0381e091ed28883187daa1e3953f6e844001da829e237de846"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coarsening-review-1-issues.md",
+      "bytes": 2065,
+      "sha256": "373cb9f3505346a8345178b615dbc785ebef9ab44f546028782d7100e0bbc446"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coarsening-review-1-manifest-initial.json",
+      "bytes": 1456,
+      "sha256": "6e7fa2262dadcad30a6b6c768fa2ab809dc7f1cf6abeeff048b7df34c468a3fb"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coarsening-review-1-sources.json",
+      "bytes": 3906,
+      "sha256": "5fec609c63f708dd1ca01d892803166b765e154e29fc821f2d13f967f08a1518"
+    },
+    {
+      "path": "problems/2021-B4/reviews/soleH2-review-1-initial.md",
+      "bytes": 13882,
+      "sha256": "0fd663af1d109d8b4cfe7ed232f1b9d58c58c3a78ebcdbb3c5df442ba91bac61"
+    },
+    {
+      "path": "problems/2021-B4/reviews/soleH2-review-1-issues.md",
+      "bytes": 3352,
+      "sha256": "d4b5b88e6fe159cad59bdcc10b85d56f7b9b48537ce69fb3adf926c5dd9d250b"
+    },
+    {
+      "path": "problems/2021-B4/reviews/soleH2-review-1-manifest-initial.json",
+      "bytes": 2555,
+      "sha256": "2a99b0ab1e97306a3d8d8cb087c27657dfd20a63303896bc99db5ccad9601bed"
+    },
+    {
+      "path": "problems/2021-B4/reviews/soleH2-review-1-sources.json",
+      "bytes": 4478,
+      "sha256": "8ca8d1d1010b3da6b73741c3e79a7b021cd919826f1225031c2a9e0225a90982"
+    },
+    {
+      "path": "problems/2021-B4/reviews/soleH4-review-1-initial.md",
+      "bytes": 14011,
+      "sha256": "b480f78d85e208155e09a44fdecb979c49f1b0565beae6fdd2eab11eb3c55781"
+    },
+    {
+      "path": "problems/2021-B4/reviews/soleH4-review-1-issues.md",
+      "bytes": 3148,
+      "sha256": "e5547a3542272d97a444ca89d1a705d5ed916c5c0f417412ef60f481d0d4e803"
+    },
+    {
+      "path": "problems/2021-B4/reviews/soleH4-review-1-manifest-initial.json",
+      "bytes": 1798,
+      "sha256": "4e3cd87b19bdeebc9e03e630b1660829cfcb19fcdcc3bb6aad80c403b0a0b19a"
+    },
+    {
+      "path": "problems/2021-B4/reviews/soleH4-review-1-sources.json",
+      "bytes": 4394,
+      "sha256": "4bec12ab29b2d18166c8fd57cc92d26b188d7ae961825bc8d0eeebd61b8371c6"
+    },
+    {
+      "path": "problems/2022-B4/reviews/arithmetic-complexity-review-1-initial.md",
+      "bytes": 14423,
+      "sha256": "fca182c4fe8ef993a633286f04f6b90380c398fd23d44bcf661c056066a7d187"
+    },
+    {
+      "path": "problems/2022-B4/reviews/arithmetic-complexity-review-1-issues.md",
+      "bytes": 2826,
+      "sha256": "baf8a53593ecc7ffe0c069635ba7e794509bab16201a3ac984bce5fa9d16d7c1"
+    },
+    {
+      "path": "problems/2022-B4/reviews/arithmetic-complexity-review-1-manifest-initial.json",
+      "bytes": 1852,
+      "sha256": "28a073885c61ca42773736c7afb6ad926728d67bda0a85a9c3c54de72d2254f5"
+    },
+    {
+      "path": "problems/2022-B4/reviews/arithmetic-complexity-review-1-sources.json",
+      "bytes": 3645,
+      "sha256": "92ee4ad7fbb417198af510d191f54c156d4c349d5636863660affd5d911c355d"
+    },
+    {
+      "path": "problems/2024-B4/reviews/structural-review-2-initial.md",
+      "bytes": 19441,
+      "sha256": "3495313e5ed98300b0eb62f0846a51105de4dad27975ea2fecf7c4389308ceb1"
+    },
+    {
+      "path": "problems/2024-B4/reviews/structural-review-2-issues.md",
+      "bytes": 5627,
+      "sha256": "b71585703f36d0944da1895d7f0e36c03e52cd0455261e3f7473d27f6ab172e2"
+    },
+    {
+      "path": "problems/2024-B4/reviews/structural-review-2-source-checks.md",
+      "bytes": 5908,
+      "sha256": "18f290c2d07ee41bd858a5bd0823965d0c6412897bf712863e0c1c8d0e2292c5"
+    },
+    {
+      "path": "problems/2024-B4/notes/structural-reasoning-r2-candidate-v1.md",
+      "bytes": 16027,
+      "sha256": "0c451d5f9410573625725bc6be35af91fe938deee4dc1d92910572374dc69f52"
+    },
+    {
+      "path": "problems/2024-B4/notes/structural-reasoning-r2-source-audit-v1.md",
+      "bytes": 6358,
+      "sha256": "8c18686381299e2e2a4b81c4728820a4ca5e52241df62a4b802fe1f4df4f4687"
+    },
+    {
+      "path": "problems/2024-B4/notes/structural-reasoning-r2-research-log-v1.md",
+      "bytes": 5280,
+      "sha256": "ceeab21a0ff6b1f7e4515c6fd5e4e3919f5ba6f411a338f37ecb37eaf94af70b"
+    },
+    {
+      "path": "problems/2024-B4/notes/structural-reasoning-r2-sources-v1.json",
+      "bytes": 11775,
+      "sha256": "4c71233c20137e1964869e55b33cd52f80bedaf8ab47c1518b8d20e97bc35d68"
+    },
+    {
+      "path": "problems/2024-B4/notes/structural-reasoning-r2-freeze-v1.py",
+      "bytes": 10610,
+      "sha256": "87bb430f34092f79da92b2848a25ff079d1a7b130f09b7cb0fd0afdd5475562e"
+    },
+    {
+      "path": "problems/2024-B4/notes/structural-reasoning-r2-freeze-output-v1.json",
+      "bytes": 618,
+      "sha256": "5e6395b554069ba10ca5355a9846deb6b08606235c46cc02c7e2208a18082bf6"
+    }
+  ],
+  "method": "SHA256 and byte-length checks; no mathematical enumeration"
+}

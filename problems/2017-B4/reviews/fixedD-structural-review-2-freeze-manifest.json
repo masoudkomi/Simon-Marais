@@ -1,0 +1,71 @@
+{
+  "timestamp_utc": "2026-10-17T00:27:16.103710+00:00",
+  "reviewer": "/root/review_2022_complexity_r2",
+  "status": "blind initial whole audit frozen; one substantive hypothesis qualification required in profile Section4; other reconstructed lemmas survive; H and EAI unproved",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "independent_effective_setting_readback": null
+  },
+  "independence": {
+    "constructed_candidate": false,
+    "read_peer_fixedD_structural_reports_issues_or_conclusions_before_freeze": false,
+    "received_peer_fixedD_structural_conclusions_before_freeze": false,
+    "all_twelve_earlier_review_artifacts_verified_unchanged": true,
+    "earlier_peer_findings_unread": true
+  },
+  "artifacts": [
+    {
+      "path": "problems/2017-B4/reviews/fixedD-structural-review-2-initial.md",
+      "bytes": 24189,
+      "sha256": "7566c54d8fe7b6c5615b6c750df3385798115112a7ae8fb93fa305af7eb0c6e9"
+    },
+    {
+      "path": "problems/2017-B4/reviews/fixedD-structural-review-2-issues.md",
+      "bytes": 6935,
+      "sha256": "69b560e9185f843f58661b5ea9dd9865c6fae564c480b55b03b589ec5d4f087a"
+    },
+    {
+      "path": "problems/2017-B4/reviews/fixedD-structural-review-2-source-checks.md",
+      "bytes": 4371,
+      "sha256": "a4ca12919f4be296dd8a6833b3821611df5007681d0c6ef2200707b5f999060e"
+    }
+  ],
+  "verified_constructor_artifacts": [
+    {
+      "path": "problems/2017-B4/notes/fixedD-reasoning-r1-structural-candidate-v1.md",
+      "bytes": 15107,
+      "sha256": "c776e81d0fd44c0e8042ddc00a0d949966cdc106ba9b7e67486dc4d14a1b7d87"
+    },
+    {
+      "path": "problems/2017-B4/notes/fixedD-reasoning-r1-profile-reduction-v1.md",
+      "bytes": 12092,
+      "sha256": "973e8d7da034082b4416100d51650798ec3eb90e75cfd44106b5810dd9ec7e8d"
+    },
+    {
+      "path": "problems/2017-B4/notes/fixedD-reasoning-r1-sources-v1.json",
+      "bytes": 2750,
+      "sha256": "e33ef844964e5cdfa0420696c2ee08ab90600ac766b9d7aa3667e8776c7ac3c0"
+    }
+  ],
+  "substantive_open_issues": [
+    "FD2-01: prefix-height closeness does not imply the uniform labelled-envelope padding bound; equal-count analytic family"
+  ],
+  "exact_counterexample": {
+    "D": 3,
+    "M": "any integer>=2",
+    "L": "3M",
+    "prefix_error": 1,
+    "join_prefix_error": "M",
+    "join_added_area": "2M^2+2M",
+    "mathematical_enumeration_or_CAS": false
+  },
+  "authoritative_usage": {
+    "used_percent_total_weekly": 19,
+    "window_duration_mins": 10080,
+    "resets_at_unix": 1792745187,
+    "read_time_utc": "2026-10-17 00:26:37 UTC"
+  },
+  "native_cas_job": null,
+  "git_operations": false
+}

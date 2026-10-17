@@ -1,0 +1,71 @@
+{
+  "recorded_at_utc": "2026-10-17T00:31:35.565350+00:00",
+  "status": "candidate proof - unverified; annulus checkpoint before versioned fixedD repair",
+  "constructor": "review_2017_coarsening_r1",
+  "settings": {
+    "requested_model": "gpt-6.1-sol",
+    "requested_reasoning": "max",
+    "verified_effective_settings": null
+  },
+  "mathematical_computation": false,
+  "new_claims": [
+    "A1 exact whole-frame rank-prefix ideal criterion",
+    "A2 closed tiled annulus and injective fixed-boundary absorption",
+    "A3 strictly-positive pair-winding collar with explicit slope-dependent width",
+    "A4 rational repeated-word flat frames and integer affine-offset matching",
+    "A5 actual boundary-preserving local frame entropy limit"
+  ],
+  "H_proved": false,
+  "scope": "D4 integer parallelogram tilings; strict ordered row minors for geometric collar. Actual inner two-path lens assumed; arbitrary window framing and boundary strata remain open.",
+  "previous_packets_read": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2017-B4/notes/fixedD-reasoning-r1-structural-candidate-v1.md",
+      "bytes": 15107,
+      "sha256": "c776e81d0fd44c0e8042ddc00a0d949966cdc106ba9b7e67486dc4d14a1b7d87"
+    },
+    {
+      "path": "problems/2017-B4/notes/fixedD-reasoning-r1-profile-reduction-v1.md",
+      "bytes": 12092,
+      "sha256": "973e8d7da034082b4416100d51650798ec3eb90e75cfd44106b5810dd9ec7e8d"
+    },
+    {
+      "path": "problems/2017-B4/notes/fixedD-reasoning-r1-freeze-v1.json",
+      "bytes": 1824,
+      "sha256": "fb277c1a3fe5fe3a0283992168b009094d05699c1f47d7ba10123b61e95eb6dd"
+    }
+  ],
+  "dependency_distinction": "New A1--A5 proofs restate their word and geometry arguments; no promotion or unqualified use of old candidate prefix-to-displacement conversion. Canonical words have an explicit fixed J-dependent bounded gap.",
+  "primary_source_lead": {
+    "title": "Arroyo--McQuillan--Richter--Salazar, Levi's Lemma, pseudolinear drawings of K_n, and empty triangles",
+    "url": "https://www.ifisica.uaslp.mx/~gsalazar/RESEARCH/levi.pdf",
+    "read_at_utc": "2026-10-17",
+    "scope": "Full22-page original-author PDF accessible through web; complete relevant section2 definition and Lemma2.2 proof on printedpp4--5 read. Allows parallel arcs and at-most-once dual paths.",
+    "use": "Lead for a still-separate directed-window interface; no disk-relative adaptation assumed in A1--A5.",
+    "cache": "No new local PDF copied in this pass; no paper redistribution or local retrieval hash asserted."
+  },
+  "peer_information": "No fresh fixedD reports read before this checkpoint. Coordinator reported FD2-01 after both initial audits froze; separate versioned repair to follow. No annulus peer report read.",
+  "remaining_gaps": [
+    "arbitrary cut-window to thin-band lens extraction",
+    "non-strict slope strata and controlled coarsening/re-insertion",
+    "global original-frame entropy recovery and H"
+  ],
+  "commands": [
+    "cat own frozen fixedD structural/profile/freeze files",
+    "web open primary Levi paper and relevant section2",
+    "apply_patch only new annulus-reasoning-r1 notes",
+    "Python standard library hashing/json/datetime freeze; no mathematical calculation routine"
+  ],
+  "weekly_telemetry": {
+    "authority": "fresh mcp__codex_app__get_usage_limits in this session",
+    "verified_at_utc": "2026-10-17T00:00:00Z",
+    "used_percent": 18,
+    "window_minutes": 10080,
+    "resets_at": 1792745187,
+    "total_used_ceiling_percent": 90
+  }
+}

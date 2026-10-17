@@ -1,0 +1,66 @@
+{
+  "reviewer": "review_2021_reasoning_j15_r2",
+  "verification_date_utc": "2026-10-16",
+  "requested_settings": {"model": "gpt-6.1-sol", "reasoning": "max"},
+  "verified_effective_settings": null,
+  "primary_sources": [
+    {
+      "title": "2017 Session B official problem paper, B4 only",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2017-paper-2_1.pdf",
+      "access": "Public primary PDF through web open; no local download",
+      "scope": "Page 2, B4 statement and quantifiers only",
+      "finding": "Full regular-polygon tiling count and lower/upper logarithmic limits for n>=2",
+      "full_document_proof_audit": false
+    },
+    {
+      "title": "2017 official preliminary solutions, B4 comments only",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2017-solutions-preliminary_1.pdf",
+      "access": "Public primary PDF through web open/find; no local download",
+      "scope": "Printed page 12, B4 statement, count convention and commutation-class identification; no other problem researched",
+      "finding": "The official small counts and stated equivalence agree with the project's marked wiring count",
+      "full_document_proof_audit": false
+    },
+    {
+      "title": "Entropy along convex shapes, random tilings and shifts of finite type",
+      "authors": ["Paul Balister", "Bela Bollobas", "Anthony Quas"],
+      "journal": "Illinois Journal of Mathematics 46 (2002), 781-795",
+      "doi": "10.1215/ijm/1258130984",
+      "url": "https://web.uvic.ca/~aquas/papers/paper15.pdf",
+      "access": "Public author-hosted primary PDF through web open; no local download",
+      "scope": "Definitions on printed pp. 1-2 and Theorems A-B on printed pp. 2-4, including strong irreducibility/filling length",
+      "finding": "Theorem A counts restrictions of global shift configurations in convex windows. Theorem B assumes strong irreducibility. Neither supplies the prescribed full zonogon lift or proves H here.",
+      "full_document_proof_audit": false
+    }
+  ],
+  "local_dependencies": [
+    {"path": "AGENTS.md", "scope": "Current research protocol"},
+    {"path": "problems/2017-B4/statement.md", "scope": "Official marked-count convention and scope"},
+    {"path": "problems/2017-B4/reviews/coarsening-acceptance.md", "scope": "Accepted DC1/DC2 and conditional H transfer; no new structural review"},
+    {"path": "problems/2017-B4/proofs/reviewed-direction-coarsening-v1.1.md", "scope": "Full marked block count, accepted wiring dependency and explicit boundary of H"},
+    {"path": "problems/2017-B4/notes/fixedD-reasoning-r1-structural-candidate-v1.md", "scope": "Whole independent analytic reconstruction"},
+    {"path": "problems/2017-B4/notes/fixedD-reasoning-r1-profile-reduction-v1.md", "scope": "Whole independent analytic reconstruction and separation of partial lemmas from open targets"},
+    {"path": "problems/2017-B4/notes/fixedD-reasoning-r1-sources-v1.json", "scope": "Source theorem and operational claims checked"},
+    {"path": "problems/2017-B4/notes/fixedD-reasoning-r1-freeze-v1.json", "scope": "Input byte validation only"}
+  ],
+  "source_searches": "No broad literature search; direct primary URLs were sufficient for the theorem-hypothesis and count-convention checks.",
+  "computations": {
+    "mathematical_enumeration_or_CAS": false,
+    "numerical_experiment": false,
+    "finite_mathematical_certificate": false,
+    "metadata_only": "A one-time local Python script hashes frozen inputs, dependencies, prior packets and this initial review; it performs no mathematics."
+  },
+  "operational": {
+    "peer_new_fixedD_reviews_read": false,
+    "candidate_changed": false,
+    "older_packets_changed": false,
+    "git_actions": false,
+    "spawning": false,
+    "charges_or_contact_or_access_bypass": false,
+    "full_source_papers_downloaded_or_redistributed": false,
+    "latest_weekly_total_used_percent": 18,
+    "weekly_window_minutes": 10080,
+    "weekly_reset_unix": 1792745187,
+    "cutoff_total_used_percent": 90,
+    "telemetry_source": "mcp__codex_app__get_usage_limits; authoritative account-wide codex window"
+  }
+}

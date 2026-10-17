@@ -1,0 +1,56 @@
+{
+  "status": "initial blind whole DG1/DG2 audit complete; no reviewer promotion",
+  "frozen_at_utc": "2026-10-17T00:33:34.269229+00:00",
+  "reviewer": "review_2021_reasoning_j15_r2",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "candidate_sha256": "0fe9e72b07d12d7a5e417e14a56fec06191ea7f76a9f8787ea533cdd9824bcb6",
+  "nonconstructor": true,
+  "disk_adaptation_contribution": false,
+  "no_peer_DG_review_or_findings_read_before_freeze": true,
+  "whole_reconstruction": true,
+  "primary_Lemma_2_2_definition_and_complete_proof_read": true,
+  "substantive_objections": 0,
+  "repair_requested": false,
+  "no_closed_annulus_or_H_acceptance": true,
+  "candidate_and_older_packets_unchanged": true,
+  "mathematical_enumeration_or_CAS": false,
+  "latest_weekly_total_used_percent": 20,
+  "weekly_reset_unix": 1792745187,
+  "command": ".venv/bin/python problems/2017-B4/reviews/directed-geodesics-review-2-freeze-v1.py",
+  "records": [
+    {
+      "path": "problems/2017-B4/reviews/directed-geodesics-review-2-initial-v1.md",
+      "bytes": 14605,
+      "sha256": "986a0d925346c7d94979b5c4e5d2e8b7f5a0115b5fd7c0d83c7c93fcfdf595dd"
+    },
+    {
+      "path": "problems/2017-B4/reviews/directed-geodesics-review-2-issues-v1.json",
+      "bytes": 1858,
+      "sha256": "e81c95126333fa634c1bda2a5c18d3b2da4b5e7d7a7479e225cbf9ef5831bb7d"
+    },
+    {
+      "path": "problems/2017-B4/reviews/directed-geodesics-review-2-sources-v1.json",
+      "bytes": 2629,
+      "sha256": "25dbd67b53791bd886b00ceb6dba3024a8dcb456f1132ffe71250fddcdeda6f8"
+    },
+    {
+      "path": "problems/2017-B4/reviews/directed-geodesics-review-2-freeze-v1.py",
+      "bytes": 4816,
+      "sha256": "92758f02e5839006d1369ff99c6388889474d5be833652f01dcc9badd6835f8e"
+    },
+    {
+      "path": "problems/2017-B4/reviews/directed-geodesics-review-2-input-validation-v1.json",
+      "bytes": 10032,
+      "sha256": "e6c25d0542c968da780365b5be668cfb9771462892c2ac8a91ad00235f3c0704"
+    },
+    {
+      "path": "problems/2017-B4/reviews/directed-geodesics-review-2-freeze-output-v1.json",
+      "bytes": 354,
+      "sha256": "f9b0f68599e2b8f317966d6ae479c33f5658eb72d2245fba66413090bee71440"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "status": "candidate proof - unverified; source and provenance record",
+  "constructor": "review_2021_reasoning_j15_r2",
+  "verification_date_utc": "2026-10-17",
+  "requested_settings": {"model": "gpt-6.1-sol", "reasoning": "max"},
+  "verified_effective_settings": null,
+  "primary_sources": [
+    {
+      "title": "Absolutely irreducible curves with applications to combinatorics and coding theory",
+      "author": "Gary M. McGuire",
+      "year": 1995,
+      "url": "https://thesis.caltech.edu/4053/01/McGuire_gm_1995.pdf",
+      "doi": "10.7907/1CZ2-6S05",
+      "cached_path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995.pdf",
+      "sha256": "d8e8e62d873c5ec69e2fd40473a9aee257bb8d4994cb5ffc1a42cb70f8bcbd24",
+      "read_scope_this_assignment": "Printed pp. 19-20, Theorem 2.1' and its proof; full cached PNG pages 24 and 25 viewed",
+      "use": "Published JMW absolute irreducibility for 7 and 11; not a new result",
+      "full_thesis_audited": false
+    },
+    {
+      "title": "On the Conjecture on APN Functions",
+      "authors": ["Moises Delgado", "Heeralal Janwa"],
+      "version": "arXiv:1207.5528v1",
+      "url": "https://arxiv.org/pdf/1207.5528v1",
+      "read_scope": "The decomposition premises and Lemma 1 on printed p. 5 and its short proof, plus gcd references",
+      "use": "Selected-family gcd scope check; not a proof of arbitrary-n C7 or C11",
+      "local_byte_hash": null
+    },
+    {
+      "title": "Progress Towards the Conjecture on APN Functions and Absolutely Irreducible Polynomials",
+      "authors": ["Moises Delgado", "Heeralal Janwa"],
+      "version": "arXiv:1602.02576v1",
+      "url": "https://arxiv.org/pdf/1602.02576v1",
+      "read_scope": "Theorem 10 and surrounding scope on printed pp. 8-10; theorem statements and references",
+      "use": "Precise scope of a published arbitrary-odd-index gcd theorem; its designated divisor family does not supply fixed 7 or 11",
+      "local_byte_hash": null,
+      "preliminary_construction_reproduced": false
+    },
+    {
+      "title": "A Skolem-Mahler-Lech Theorem in Positive Characteristic and Finite Automata",
+      "author": "Harm Derksen",
+      "version": "arXiv:math/0510583v1",
+      "url": "https://arxiv.org/pdf/math/0510583v1",
+      "journal": "Inventiones Mathematicae 168 (2007), 175-224",
+      "doi": "10.1007/s00222-006-0031-0",
+      "read_scope": "Definitions and Theorems 1.8-1.10 pp. 3-4, Theorem 4.14 p. 20, effective-comparison proof p. 25",
+      "use": "Attributed general fixed-divisor function-field recurrence reduction; no novel automaticity theorem claimed",
+      "full_proof_audited": false,
+      "local_byte_hash": null
+    },
+    {
+      "title": "On vanishing coefficients of algebraic power series over fields of positive characteristic",
+      "authors": ["Boris Adamczewski", "Jason P. Bell"],
+      "version": "arXiv:1205.4091v1",
+      "url": "https://arxiv.org/pdf/1205.4091v1",
+      "read_scope": "Theorems 1.4-1.5 and discussion on printed pp. 5-7",
+      "use": "Published method attribution for effective automatic zero sets; not needed for explicit phi11 certificate",
+      "full_proof_audited": false,
+      "local_byte_hash": null
+    },
+    {
+      "title": "A note on exceptional APN functions of Gold and Kasami-Welch type",
+      "authors": ["Nurdagul Anbar", "Tekgul Kalayci", "Nihal Yurdakul"],
+      "version": "WCC 2022 publicly hosted paper",
+      "url": "https://www.wcc2022.uni-rostock.de/storages/uni-rostock/Tagungen/WCC2022/Papers/WCC_2022_paper_64.pdf",
+      "read_scope": "Abstract, definitions, Lemma 1 and source boundary pp. 1-3; later theorem headings only",
+      "use": "Further scope check, not a theorem premise or full audit",
+      "local_byte_hash": null
+    },
+    {
+      "title": "A divisibility criterion for exceptional APN functions",
+      "author": "Florian Caullery",
+      "doi": "10.1090/conm/632/12619",
+      "hal": "hal-00985950",
+      "url": "https://www.researchgate.net/publication/280793382_A_divisibility_criterion_for_exceptional_APN_functions",
+      "access": "Public author-uploaded paper text",
+      "read_scope": "Abstract, main theorem scope and preliminary lemma statements",
+      "use": "Disambiguates apparently matching title; targets degree 4e exceptional APN polynomial shapes, not either exact singleton set",
+      "local_byte_hash": null,
+      "full_proof_audited": false
+    }
+  ],
+  "access_limits": [
+    {"url": "https://hal.science/hal-00985950/document", "outcome": "Anti-bot page; no bypass"},
+    {"url": "https://files01.core.ac.uk/download/pdf/52438445.pdf", "outcome": "Web tool internal error; no bypass"},
+    {"url": "https://www.aimsciences.org/article/doi/10.3934/amc.2014.8.497", "outcome": "Publisher page revisited; complete Ferard theorem text remains unread. Earlier frozen packet records normal zero-byte PDF endpoint and sequel limitations."},
+    {"title": "Janwa-Wilson 1993 original chapter", "outcome": "Still unread in full; prior legal access boundary retained"}
+  ],
+  "local_dependencies": [
+    "AGENTS.md",
+    "problems/2024-B4/statement.md",
+    "problems/2024-B4/reviews/criterion-acceptance.md",
+    "problems/2024-B4/notes/zero-automaton-criterion-reviewed-v1.1.md",
+    "problems/2024-B4/notes/coordinator-small-divisor-lead-v1.md",
+    "problems/2024-B4/computations/coordinator-small-divisor-probe-v1.json",
+    "problems/2024-B4/notes/structural-reasoning-r2-candidate-v1.md",
+    "problems/2024-B4/notes/deep-literature-r2-report-v1.md",
+    "problems/2024-B4/notes/deep-literature-r2-kasami-orbit-lead-v1.md"
+  ],
+  "new_exact_computation": {
+    "role": "Necessary static certificate for the phi11 general section invariant",
+    "command": ".venv/bin/python problems/2024-B4/notes/divisor-reasoning-r2-phi11-run-v1.py",
+    "child_pid": 75264,
+    "timeout_seconds": 5,
+    "returncode": 0,
+    "elapsed_seconds": 0.04884912498528138,
+    "states": 15,
+    "transitions": 30,
+    "operator_columns": 48,
+    "index_scan": false,
+    "larger_enumeration_or_factorization_or_native_CAS": false,
+    "phi7_mathematical_computation": false,
+    "provenance": "State bases and edges transcribed from old probe; new checker rebuilds polynomial support maps and all complete subspace equalities. No independent review is claimed by a constructor."
+  },
+  "operational": {
+    "candidate_status": "candidate proof - unverified",
+    "two_fresh_nonconstructor_reviews_required": true,
+    "old_packets_modified": false,
+    "peer_2017_structural_reviews_read": false,
+    "shared_status_or_git_changes": false,
+    "spawning": false,
+    "new_source_paper_downloads_or_redistribution": false,
+    "charges_or_contact_or_access_bypass": false,
+    "latest_authoritative_weekly_total_used_percent": 19,
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "total_used_cutoff_percent": 90
+  }
+}

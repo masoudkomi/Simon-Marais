@@ -1,0 +1,48 @@
+{
+  "reviewer": "review_2021_reasoning_j15_r2",
+  "verification_date_utc": "2026-10-17",
+  "requested_settings": {"model": "gpt-6.1-sol", "reasoning": "max"},
+  "verified_effective_settings": null,
+  "primary_source": {
+    "title": "Levi's Lemma, pseudolinear drawings of K_n, and empty triangles",
+    "authors": ["Alan Arroyo", "Dan McQuillan", "R. Bruce Richter", "Gelasio Salazar"],
+    "version_date": "2015-11-20",
+    "url": "https://www.ifisica.uaslp.mx/~gsalazar/RESEARCH/levi.pdf",
+    "access": "Public full original-author PDF read through web tool; no local download",
+    "read_scope": "Section 2, printed pp. 4-5, complete arrangement-of-arcs definition, dual definition, Lemma 2.2 and its complete induction proof; Theorem 2.1 distinguished by scope only",
+    "hypothesis_check": "Disjoint parallel arc pairs are explicitly allowed. Proper extended disk curves satisfy plane separation and at-most-one-crossing premises.",
+    "use": "Plane dual path with each arc crossed at most once. Disk cell graph and signs independently reconstructed in review.",
+    "local_byte_hash": null,
+    "full_paper_proofs_audited": false
+  },
+  "local_dependencies": [
+    {"path": "AGENTS.md", "scope": "Research and blind-review protocol"},
+    {"path": "problems/2017-B4/notes/coordinator-directed-geodesics-candidate-v1.md", "scope": "Whole candidate and all qualifications"},
+    {"path": "problems/2017-B4/notes/coordinator-directed-geodesics-freeze-v1.json", "scope": "Input byte validation"},
+    {"path": "problems/2017-B4/proofs/reviewed-direction-coarsening-v1.1.md", "scope": "Previously read accepted marked-tiling dictionary context; no new conditional H acceptance"}
+  ],
+  "independence": {
+    "nonconstructor": true,
+    "disk_adaptation_contribution": false,
+    "peer_DG_review_read_before_freeze": false,
+    "separate_fixedD_repair_not_read_or_used_here": true
+  },
+  "computations": {
+    "mathematical_computation": false,
+    "enumeration_or_native_CAS": false,
+    "metadata_only": "One-time freeze script hashes input, this review and prior frozen packets; it does not perform mathematical tests."
+  },
+  "operational": {
+    "candidate_or_shared_status_edits": false,
+    "git_actions": false,
+    "spawning": false,
+    "source_paper_download_or_redistribution": false,
+    "contact_or_charge_or_access_bypass": false,
+    "weekly_total_used_percent_at_assignment": 19,
+    "latest_authoritative_weekly_total_used_percent": 20,
+    "latest_telemetry_utc": "2026-10-17 00:32:57 UTC",
+    "weekly_window_minutes": 10080,
+    "weekly_reset_unix": 1792745187,
+    "cutoff_total_used_percent": 90
+  }
+}

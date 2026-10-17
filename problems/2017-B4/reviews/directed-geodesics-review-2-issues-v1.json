@@ -1,0 +1,28 @@
+{
+  "reviewer": "review_2021_reasoning_j15_r2",
+  "type": "initial blind fresh independent whole audit of DG1 and DG2",
+  "candidate_sha256": "0fe9e72b07d12d7a5e417e14a56fec06191ea7f76a9f8787ea533cdd9824bcb6",
+  "constructed_or_contributed_disk_adaptation": false,
+  "peer_DG_review_or_findings_read_before_freeze": false,
+  "unresolved_substantive_objections": 0,
+  "repair_requested": false,
+  "recommendation": "DG1 and conditional DG2 pass this audit, with the candidate's full-tiling, positive-margin and buffer restrictions. Coordinator promotion requires both independent audits.",
+  "items": [],
+  "clarifications_reconstructed_without_new_hypotheses": [
+    "A tiled zonogon is a nondegenerate two-dimensional polygon; empty direction classes may be omitted while retaining two-dimensionality.",
+    "Every exterior radial sector attaches to one boundary-vertex cell, and every unbounded dual edge is the existing corresponding boundary edge.",
+    "Same-color sign sets are nested by their common two opposite-side corner cells; zero coordinate difference means no crossing of that color.",
+    "The exact DG2 constant is M_V(K ell+3E); Vc=0 and kappa ell>=2E are essential and stated.",
+    "Vertex choice adds a fixed tile-scale error; a whole-segment buffer of at least the proved band width is required for confinement.",
+    "The sqrt(epsilon)L conclusion fixes kappa,K and the affine-error constant before choosing small epsilon and a sufficiently large L."
+  ],
+  "outside_scope_open_obligations": [
+    "Compatible closed side boundaries and corner rank offsets",
+    "Periodic phases and zero-margin strata",
+    "Recovery of every inserted interior",
+    "EAI, profile recovery, H and the full 2017 problem"
+  ],
+  "mathematical_enumeration_or_CAS": false,
+  "candidate_or_shared_files_changed": false,
+  "promotion_by_reviewer": false
+}

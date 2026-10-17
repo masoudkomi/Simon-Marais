@@ -1,5 +1,13 @@
 # 2024 B4 issue log
 
+The structural T1–T4 partial packet passed both fresh independent whole
+blind audits, complete coordinator report/issue reading and manifest
+verification. No substantive objection or mathematical repair remains.
+The nonblocking heading advisory is corrected only in the accepted copy;
+frozen originals are unchanged. Exact exponent and component hypotheses
+remain essential, and no full reducibility classification follows. See
+reviews/structural-acceptance.md/json.
+
 The coordinator accepted the fixed-factor family after both blind full reconstructions. The full classification remains open; acceptance does not cover the later zero-automaton candidate.
 
 | ID | Version / location | Objection | Severity | Repair / evidence | Re-review | Status |

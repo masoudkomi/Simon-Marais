@@ -1,0 +1,140 @@
+{
+  "frozen_at_utc": "2026-10-17T00:00:54.811988+00:00",
+  "status": "initial independent blind whole audit frozen; no substantive defects found; coordinator decision pending second audit",
+  "candidate": {
+    "path": "problems/2024-B4/notes/structural-reasoning-r2-candidate-v1.md",
+    "bytes": 16027,
+    "sha256": "0c451d5f9410573625725bc6be35af91fe938deee4dc1d92910572374dc69f52"
+  },
+  "candidate_manifest": {
+    "path": "problems/2024-B4/notes/structural-reasoning-r2-manifest-v1.json",
+    "bytes": 2381,
+    "sha256": "55a13b078de0f0e2b404e294dc4015442c66cd103a8397079f1c1ab1d8704200"
+  },
+  "candidate_six_artifacts_rehashed_and_unchanged": true,
+  "artifacts": [
+    {
+      "path": "problems/2024-B4/reviews/structural-review-1-initial.md",
+      "bytes": 20480,
+      "sha256": "4a159bbc591957116b7fbd5b2ba6993cc749da93620358e1d27b82a26d2d9c0b"
+    },
+    {
+      "path": "problems/2024-B4/reviews/structural-review-1-issues.md",
+      "bytes": 5283,
+      "sha256": "292c76396f7ed3aa0ad749614741da99f987877444b4d121d72c0948cc69a1d6"
+    },
+    {
+      "path": "problems/2024-B4/reviews/structural-review-1-sources.json",
+      "bytes": 7972,
+      "sha256": "779355db93575ac6365a549972027b0d1b0071361b26b4eb1cdd1fb38fa0ed17"
+    }
+  ],
+  "unresolved_substantive_objections": 0,
+  "requested_author_repairs": 0,
+  "recommendation": "Accept T1--T4 only as their stated partial structural restrictions; no full exponent classification or novelty.",
+  "reviewer_did_not_construct": true,
+  "no_peer_structural_reviews_or_conclusions_before_freeze": true,
+  "no_mathematical_enumeration_or_CAS": true,
+  "prior_own_frozen_packets_preserved": [
+    {
+      "path": "problems/2017-B4/notes/fixedD-reasoning-r1-freeze-v1.json",
+      "bytes": 1824,
+      "sha256": "fb277c1a3fe5fe3a0283992168b009094d05699c1f47d7ba10123b61e95eb6dd"
+    },
+    {
+      "path": "problems/2017-B4/notes/fixedD-reasoning-r1-profile-reduction-v1.md",
+      "bytes": 12092,
+      "sha256": "973e8d7da034082b4416100d51650798ec3eb90e75cfd44106b5810dd9ec7e8d"
+    },
+    {
+      "path": "problems/2017-B4/notes/fixedD-reasoning-r1-sources-v1.json",
+      "bytes": 2750,
+      "sha256": "e33ef844964e5cdfa0420696c2ee08ab90600ac766b9d7aa3667e8776c7ac3c0"
+    },
+    {
+      "path": "problems/2017-B4/notes/fixedD-reasoning-r1-structural-candidate-v1.md",
+      "bytes": 15107,
+      "sha256": "c776e81d0fd44c0e8042ddc00a0d949966cdc106ba9b7e67486dc4d14a1b7d87"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coarsening-review-1-initial.md",
+      "bytes": 14896,
+      "sha256": "de353b13c44f4d0381e091ed28883187daa1e3953f6e844001da829e237de846"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coarsening-review-1-issues.md",
+      "bytes": 2065,
+      "sha256": "373cb9f3505346a8345178b615dbc785ebef9ab44f546028782d7100e0bbc446"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coarsening-review-1-manifest-initial.json",
+      "bytes": 1456,
+      "sha256": "6e7fa2262dadcad30a6b6c768fa2ab809dc7f1cf6abeeff048b7df34c468a3fb"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coarsening-review-1-sources.json",
+      "bytes": 3906,
+      "sha256": "5fec609c63f708dd1ca01d892803166b765e154e29fc821f2d13f967f08a1518"
+    },
+    {
+      "path": "problems/2021-B4/reviews/soleH2-review-1-initial.md",
+      "bytes": 13882,
+      "sha256": "0fd663af1d109d8b4cfe7ed232f1b9d58c58c3a78ebcdbb3c5df442ba91bac61"
+    },
+    {
+      "path": "problems/2021-B4/reviews/soleH2-review-1-issues.md",
+      "bytes": 3352,
+      "sha256": "d4b5b88e6fe159cad59bdcc10b85d56f7b9b48537ce69fb3adf926c5dd9d250b"
+    },
+    {
+      "path": "problems/2021-B4/reviews/soleH2-review-1-manifest-initial.json",
+      "bytes": 2555,
+      "sha256": "2a99b0ab1e97306a3d8d8cb087c27657dfd20a63303896bc99db5ccad9601bed"
+    },
+    {
+      "path": "problems/2021-B4/reviews/soleH2-review-1-sources.json",
+      "bytes": 4478,
+      "sha256": "8ca8d1d1010b3da6b73741c3e79a7b021cd919826f1225031c2a9e0225a90982"
+    },
+    {
+      "path": "problems/2021-B4/reviews/soleH4-review-1-initial.md",
+      "bytes": 14011,
+      "sha256": "b480f78d85e208155e09a44fdecb979c49f1b0565beae6fdd2eab11eb3c55781"
+    },
+    {
+      "path": "problems/2021-B4/reviews/soleH4-review-1-issues.md",
+      "bytes": 3148,
+      "sha256": "e5547a3542272d97a444ca89d1a705d5ed916c5c0f417412ef60f481d0d4e803"
+    },
+    {
+      "path": "problems/2021-B4/reviews/soleH4-review-1-manifest-initial.json",
+      "bytes": 1798,
+      "sha256": "4e3cd87b19bdeebc9e03e630b1660829cfcb19fcdcc3bb6aad80c403b0a0b19a"
+    },
+    {
+      "path": "problems/2021-B4/reviews/soleH4-review-1-sources.json",
+      "bytes": 4394,
+      "sha256": "4bec12ab29b2d18166c8fd57cc92d26b188d7ae961825bc8d0eeebd61b8371c6"
+    },
+    {
+      "path": "problems/2022-B4/reviews/arithmetic-complexity-review-1-initial.md",
+      "bytes": 14423,
+      "sha256": "fca182c4fe8ef993a633286f04f6b90380c398fd23d44bcf661c056066a7d187"
+    },
+    {
+      "path": "problems/2022-B4/reviews/arithmetic-complexity-review-1-issues.md",
+      "bytes": 2826,
+      "sha256": "baf8a53593ecc7ffe0c069635ba7e794509bab16201a3ac984bce5fa9d16d7c1"
+    },
+    {
+      "path": "problems/2022-B4/reviews/arithmetic-complexity-review-1-manifest-initial.json",
+      "bytes": 1852,
+      "sha256": "28a073885c61ca42773736c7afb6ad926728d67bda0a85a9c3c54de72d2254f5"
+    },
+    {
+      "path": "problems/2022-B4/reviews/arithmetic-complexity-review-1-sources.json",
+      "bytes": 3645,
+      "sha256": "92ee4ad7fbb417198af510d191f54c156d4c349d5636863660affd5d911c355d"
+    }
+  ]
+}

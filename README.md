@@ -22,6 +22,8 @@ The [2022 rational-lift factor-complexity obstruction](problems/2022-B4/reviews/
 
 Further reviewed partial results are the [2017 direction-coarsening comparison](problems/2017-B4/reviews/coarsening-acceptance.md) and [2021 J15 double-zero analytic restrictions](problems/2021-B4/reviews/reasoning-J15-acceptance.md). The former leaves its fixed-direction limit hypothesis open; the latter leaves the nonunit branch and other patterns open. Two full blind source audits also support [four specific objections to the Strong Fermat–Catalan preprint](problems/2025-B4/reviews/strongfc-acceptance.md); this does not refute its theorem or solve 2025.
 
+The [2021 single-center residue classifications](problems/2021-B4/reviews/single-center-acceptance.md) and [2024 low-factor/tangent-descent restrictions](problems/2024-B4/reviews/structural-acceptance.md) also passed two independent whole audits. They are necessary structural restrictions, with their full annual questions still unresolved.
+
 Each `problems/<year>-B4/` directory contains `statement.md`, `references.md`, `research.md`, `proof.md`, `issues.md`, `reviews/`, and `computations/`. Statements are mathematical normalizations of the linked official papers, not a claim that old descriptions of openness establish present-day status. Literature searches must be dated and primary sources verified.
 
 ## Acceptance labels

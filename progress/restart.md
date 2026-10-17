@@ -11,7 +11,7 @@
 
 ## Current launch point
 
-All nine initial passes and deeper-literature reports are complete for the open portions of2017–2025.2026 remains deferred. Last confirmed push:be4c8b2; inspect actual history for newer checkpoints. The user now prioritizes mathematical reasoning. Use computation for counterexamples, intuition, or finite certificates actually needed by a proof. Do not expand routine tests or enumeration instead of resolving an inference.
+All nine initial passes and deeper-literature reports are complete for the open portions of2017–2025.2026 remains deferred. Last confirmed push:2f53947; inspect actual history for newer checkpoints. The user now prioritizes mathematical reasoning. Use computation for counterexamples, intuition, or finite certificates actually needed by a proof. Do not expand routine tests or enumeration instead of resolving an inference.
 
 Accepted full results: the2018 literal binomial enumeration, an attributed published reproduction; and the2023 all-exponent classification, with novelty unknown. Other annual questions remain unresolved.
 
@@ -31,7 +31,7 @@ All nine reports are linked in sources/deep-literature-results.md. Verified sett
 
 ### Budget, tokens and runtime
 
-Latest authoritative weekly usage:18% total,82% remaining, at2026-10-16 22:17:35UTC. Reset1792745187 is unchanged. Stop conservatively at90% TOTAL used with integration reserve. Do not spend into a new weekly window. A checkpoint is not a stop reason.
+Latest authoritative weekly usage:19% total,81% remaining, at2026-10-17 00:22:55UTC. Reset1792745187 is unchanged. Stop conservatively at90% TOTAL used with integration reserve. Do not spend into a new weekly window. A checkpoint is not a stop reason.
 
 Latest local token audit at21:39:37UTC:327243804 total;309796864 cached input;14724214 uncached input;2722726 output, including1180857 reasoning tokens. Uncached input plus output:17446940. All57 session sums match cumulative counters; historical session count is not concurrency. In-flight unreported usage is excluded. These are not billing or a weekly-percentage conversion. tools/report_project_tokens.py reproduces a snapshot without exporting prompts, account identifiers or raw logs.
 
@@ -67,3 +67,56 @@ report must freeze before peer conclusions. SoleH4 has3 necessary residue
 patterns; soleH2 has4. No complete masks are excluded. The 2024 owner is
 constructing a tangent-cone/Frobenius/S3 obstruction; it remains unverified.
 The unreviewed2017 fixedD packet still needs two fresh nonconstructor audits.
+
+### Current mathematical launch point, Oct17 00:23UTC
+
+The user repeatedly explicitly asks to keep going. This reinforces the
+sustained objective and does not change the90%-total weekly ceiling or
+permission limits. The new2021 sole-H4 and sole-H2 classifications are
+accepted after all three whole reports/ledgers were fully read and25
+manifest records verified. Accepted copies add only status preambles.
+Seven necessary patterns and witness roles are proved; no mask is excluded.
+The2024 structural T1–T4 packet is now accepted after both whole reports,
+issues and41 manifest records were checked. One editorial heading change
+binary -> ternary cubics appears only in the accepted copy. No full
+exponent classification or novelty claim follows. These newest2024
+acceptance files await a later push; last confirmed push is2f53947.
+
+The2017 fixedD first report was fully read; second blind whole audit is
+active. EAI, all-scale recovery and H remain open, regardless of acceptance
+of limited structural lemmas. The constructor now owns annulus-reasoning-r1
+prefix and is investigating a quantitative weak-order ideal/pairwise-winding
+absorption theorem. Root has frozen a separate DG1/DG2 directed-geodesic
+candidate, SHA0fe9e72b07d12d7a5e417e14a56fec06191ea7f76a9f8787ea533cdd9824bcb6.
+It adapts Arroyo etal Lemma2.2 for arc arrangements with parallel curves;
+the disk-to-plane adaptation and side localization need two fresh
+nonconstructor audits. The annulus constructor has contributed related
+ideas and should not count as a fresh reviewer of DG1/DG2. The2024
+constructor now owns divisor-reasoning-r2 and seeks exact phi7/phi11 criteria;
+its active files must not be staged until frozen. No routine broad tests.
+
+Latest tokens00:22:56UTC:389511772 total;367888512 cached input;18354949
+uncached input;3268311 output including1460285 reasoning. Uncached input
+plus output21623260; all62 historical sums match. Keep-awake remains owned
+session14140 with nominal09:28UTC end,19:28Brisbane; do not extend again
+without authorization. Host-mediated tool/agent dispatches caused long
+coordinator gaps; do not describe these as uninterrupted coordinator work.
+
+### Current mathematical launch point, Oct17 00:35UTC
+
+FixedD v1 is NOT accepted: R2 found FD2-01, an exact three-color family
+with prefix error1 and join error of order L. The author is producing full
+v1.1 copies retaining label-displacement or explicit bounded-gap G and
+G-dependent constants, including rounding. Both initial reviewers must
+independently target-reaudit the repair; R1 acknowledged its missed
+qualification after initial freezes. Frozen v1 and counterexample stay.
+The annulus A1-A5 candidate is now frozen (SHA020d3f6408f9423b83ac2d5633d3e508a7468a16ebe6db673879fca2af1ff610);
+reviewer2021 is performing its first fresh whole audit. DG1/DG2 second
+blind whole audit is frozen and fully root-read with no substantive
+objection; reviewer2022 performs the first. The 2024 phi7/phi11 packet is
+frozen, SHA48d2ca76b3492584b38d8798650e078c7c9771fea97bae8db4d7cd51b21e2fc4,
+and requires two fresh nonconstructor whole audits. No fixedD, DG, annulus
+or new divisor promotion yet. Root develops a separate DG-to-lens cutting
+interface; zero-minor strata and full H remain open. Author annulus scope
+is D4, so extension to arbitrary fixed D also needs explicit proof/audit.
+Weekly telemetry20% at00:34:31UTC, same reset1792745187. Continue.

@@ -1,0 +1,111 @@
+{
+  "status": "candidate proof - unverified; immutable construction packet before fresh audits",
+  "frozen_at_utc": "2026-10-17T00:27:57.854799+00:00",
+  "constructor": "review_2021_reasoning_j15_r2",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "candidate": {
+    "path": "problems/2024-B4/notes/divisor-reasoning-r2-candidate-v1.md",
+    "bytes": 16935,
+    "sha256": "48d2ca76b3492584b38d8798650e078c7c9771fea97bae8db4d7cd51b21e2fc4"
+  },
+  "proposed_results": [
+    "C7: whole phi7 divides phi_n iff odd n>=3 equals 7; analytic proof",
+    "C11: whole phi11 divides phi_n iff odd n>=3 equals 11; exact closed finite certificate",
+    "G: common absolute components excluded using attributed JMW irreducibility",
+    "Graded finite odd-polynomial sum divisibility corollary",
+    "Attributed general fixed-factor function-field zero-set reduction from Derksen"
+  ],
+  "required_reviews": "Two fresh independent nonconstructors, initial reports blind to each other, one reconstructing the whole packet; coordinator alone promotes",
+  "old_J15_2024structural_2017review_records_unchanged": true,
+  "peer_2017_new_structural_review_read": false,
+  "mathematical_index_scan_or_larger_enumeration_or_native_CAS": false,
+  "finite_exact_certificate": {
+    "states": 15,
+    "edges": 30,
+    "operator_columns": 48,
+    "child_pid": 75264,
+    "timeout_seconds": 5,
+    "returncode": 0
+  },
+  "latest_weekly_total_used_percent": 19,
+  "weekly_reset_unix": 1792745187,
+  "full_B4b_solution": false,
+  "priority_or_novelty_claimed": false,
+  "command": ".venv/bin/python problems/2024-B4/notes/divisor-reasoning-r2-freeze-v1.py",
+  "records": [
+    {
+      "path": "problems/2024-B4/notes/divisor-reasoning-r2-candidate-v1.md",
+      "bytes": 16935,
+      "sha256": "48d2ca76b3492584b38d8798650e078c7c9771fea97bae8db4d7cd51b21e2fc4"
+    },
+    {
+      "path": "problems/2024-B4/notes/divisor-reasoning-r2-source-audit-v1.md",
+      "bytes": 6605,
+      "sha256": "ff51f8f991d6e470b1b4b4e91853c4e5f8199c93ddb820f4cd057c9cca8a73e3"
+    },
+    {
+      "path": "problems/2024-B4/notes/divisor-reasoning-r2-research-log-v1.md",
+      "bytes": 5620,
+      "sha256": "315cd1b3120988f3371eee265a5280ab2ffa0f454861c2a546305b7e801c1582"
+    },
+    {
+      "path": "problems/2024-B4/notes/divisor-reasoning-r2-sources-v1.json",
+      "bytes": 6875,
+      "sha256": "10ea3bdf3ffaf1395c5db90c5e6b70c336a4b89826cd202a99e0cb421405cc5f"
+    },
+    {
+      "path": "problems/2024-B4/notes/divisor-reasoning-r2-phi11-certificate-v1.json",
+      "bytes": 1323,
+      "sha256": "7250fe21f0953d43a995b3773e39e7c1b943306bb163699843fdfd6de77c4f0e"
+    },
+    {
+      "path": "problems/2024-B4/notes/divisor-reasoning-r2-phi11-check-v1.py",
+      "bytes": 4269,
+      "sha256": "968c6ab7975e1e028a80599c456bf6bc9e05c2fcf4184631ea9ae52ec7a75fd0"
+    },
+    {
+      "path": "problems/2024-B4/notes/divisor-reasoning-r2-phi11-run-v1.py",
+      "bytes": 1853,
+      "sha256": "e1f9aee7c6ebc8cd4911c8a43e4b90d2ead0995e52ec70072d9da3138b4e01c9"
+    },
+    {
+      "path": "problems/2024-B4/notes/divisor-reasoning-r2-phi11-check-output-v1.json",
+      "bytes": 5638,
+      "sha256": "180747bb860b62a797436ff3e081fdb48f04beda99bc6925a03f8644bc432899"
+    },
+    {
+      "path": "problems/2024-B4/notes/divisor-reasoning-r2-phi11-job-v1.json",
+      "bytes": 933,
+      "sha256": "902dc225bf85fc460b9858c7fe6d8e860e951bb1617741e4b3deb23c9f0a886f"
+    },
+    {
+      "path": "problems/2024-B4/notes/divisor-reasoning-r2-phi11-stdout-v1.txt",
+      "bytes": 271,
+      "sha256": "dc570727c0fdfdf37632cd140076060b413968619d5ea4bc3cff2284c3833a60"
+    },
+    {
+      "path": "problems/2024-B4/notes/divisor-reasoning-r2-phi11-stderr-v1.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "problems/2024-B4/notes/divisor-reasoning-r2-freeze-v1.py",
+      "bytes": 6420,
+      "sha256": "1d203d16eeabd35d36dab114f4c996cbba2426c128b893ca36389072799396e3"
+    },
+    {
+      "path": "problems/2024-B4/notes/divisor-reasoning-r2-input-validation-v1.json",
+      "bytes": 7744,
+      "sha256": "d3e7d73893062b59127e9e64ed5c6d8953b18b7645f3ff58b95b50351b84ce8b"
+    },
+    {
+      "path": "problems/2024-B4/notes/divisor-reasoning-r2-freeze-output-v1.json",
+      "bytes": 619,
+      "sha256": "cf2c8e6b602f3999c4d101dfe7d6c82d5fbd26ac8f4ad3c381a11d64752b6a00"
+    }
+  ]
+}

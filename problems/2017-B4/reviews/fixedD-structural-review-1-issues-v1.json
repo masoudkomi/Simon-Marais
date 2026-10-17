@@ -1,0 +1,49 @@
+{
+  "reviewer": "review_2021_reasoning_j15_r2",
+  "review_type": "initial blind independent whole reconstruction",
+  "candidate_status": "candidate proof - unverified",
+  "peer_new_fixedD_review_conclusions_read": false,
+  "candidate_files_modified": false,
+  "unresolved_substantive_objections_to_claimed_partial_lemmas": 0,
+  "recommendation": "Partial structural lemmas and compact-profile identity pass this audit; coordinator decision still requires a second fresh independent nonconstructor audit. No H or formal EAI_D-to-PR theorem is certified.",
+  "items": [
+    {
+      "id": "FD-R1-OPEN-EAI",
+      "classification": "explicit open research obligation; not a defect in a claimed proved partial lemma",
+      "status": "open",
+      "location": "profile-reduction-v1.md section 3",
+      "finding": "EAI_D is an informal target. To use it as a formal sufficient hypothesis one must define commensurate cut windows and boundary collars, the shared phase and integer offset selected by extraction, compatible insertion of the same fixed periodic family, and quantitative losses with the needed uniformity.",
+      "required_next_work": "Author must state and prove the actual annulus transfer, including all relevant strata, or an independently proved entropy approximation of those strata within the fixed frame.",
+      "effect": "Blocks any claim of PR, H or a full 2017 solution; does not block acceptance of the explicitly limited structural partials."
+    },
+    {
+      "id": "FD-R1-OPEN-RECOVERY",
+      "classification": "explicit open all-scale application",
+      "status": "open",
+      "location": "profile-reduction-v1.md section 3 recovery program",
+      "finding": "The upper estimate and all-scale reference alone do not produce many full-frame tilings. A future proof must put the finite local window selection, rational periods, offsets, extraction losses, replication collars, exceptional area and insertion recoverability into one quantified lower construction.",
+      "required_next_work": "Supply the all-scale count lower bound after EAI is precise and proved; the present sketch cannot be promoted as a completed implication theorem.",
+      "effect": "H remains open exactly as the packet says."
+    },
+    {
+      "id": "FD-R1-DETAIL-MULTIGRID",
+      "classification": "standard proof detail independently reconstructed",
+      "status": "resolved in initial reconstruction; no author repair requested",
+      "location": "structural-candidate-v1.md section 6",
+      "finding": "The dual complex must be viewed as an embedded plane cellulation before taking degree. Bounded grid cells permit this. The map stays a bounded distance from identity, is proper degree one, and all face interior degrees are positive. This establishes single coverage and excludes edge crossings or vertex multiwinding, also at zero or parallel-row strata.",
+      "effect": "No substantive gap found in the stated rational periodic-background result."
+    },
+    {
+      "id": "FD-R1-DETAIL-PERIODIC",
+      "classification": "qualification for the open recovery program",
+      "status": "recorded; no correction to the limited partial result requested",
+      "location": "structural-candidate-v1.md section 5 and profile-reduction-v1.md section 3",
+      "finding": "The bounded-gap conversion constant belongs to a fixed periodic reference, and elementary replication requires opposite collars related by actual period translations. Neither is uniform over all backgrounds without additional choices. Freezing finitely many backgrounds after a local extraction may suffice, but this belongs in the future quantified EAI application.",
+      "effect": "Do not read the partial side-padding or periodic-family statement as an unrestricted annulus theorem."
+    }
+  ],
+  "counterexample_search": "Analytic audit of zero rows, parallel/opposite rows, same-frame geometry, absent colors, r=0, boundary offsets and noncommensurate periodic collars; no numerical enumeration or CAS.",
+  "H_proved": false,
+  "full_2017_solution": false,
+  "promotion_authority": "coordinator only"
+}

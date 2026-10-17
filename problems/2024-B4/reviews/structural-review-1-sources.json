@@ -1,0 +1,155 @@
+{
+  "reviewer": "review_2017_coarsening_r1",
+  "checked_at_utc": "2026-10-17T00:00:54.811988+00:00",
+  "candidate": {
+    "path": "problems/2024-B4/notes/structural-reasoning-r2-candidate-v1.md",
+    "bytes": 16027,
+    "sha256": "0c451d5f9410573625725bc6be35af91fe938deee4dc1d92910572374dc69f52"
+  },
+  "candidate_manifest": {
+    "path": "problems/2024-B4/notes/structural-reasoning-r2-manifest-v1.json",
+    "bytes": 2381,
+    "sha256": "55a13b078de0f0e2b404e294dc4015442c66cd103a8397079f1c1ab1d8704200"
+  },
+  "all_six_candidate_artifacts_match": true,
+  "initial_independent_blind_whole_audit": true,
+  "constructor": "review_2021_reasoning_j15_r2",
+  "reviewer_did_not_construct": true,
+  "no_peer_structural_review_or_conclusions_read_before_freeze": true,
+  "settings": {
+    "requested_model": "gpt-6.1-sol",
+    "requested_reasoning": "max",
+    "verified_effective_settings": null
+  },
+  "official": {
+    "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc2024_paper_b.pdf",
+    "locator": "page2 B4(b), hypothesis and definition of congruence/constant modulo2",
+    "method": "Current public PDF text read; cached page2 rendered and visually inspected. No preliminary-family proof or other problem investigated.",
+    "cache": {
+      "path": ".cache/official/2024-paper_b.pdf",
+      "bytes": 151590,
+      "sha256": "1401f21218ad4c387c4d537ed8fd7de119b376cba52957ef788c772dc5ab4ddc"
+    }
+  },
+  "proof_dependency": "T1--T4 self-contained. Finite-field arithmetic, norm counting, UFD, orbit transitivity, minimal-field stabilizers, local multiplicity and S3 action reconstructed by hand. No Kasami, HM, phi13, APN classification or singularity-resolution theorem needed as a proof premise.",
+  "context_sources": [
+    {
+      "url": "https://thesis.caltech.edu/4053/01/McGuire_gm_1995.pdf",
+      "file": {
+        "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995.pdf",
+        "bytes": 2610589,
+        "sha256": "d8e8e62d873c5ec69e2fd40473a9aee257bb8d4994cb5ffc1a42cb70f8bcbd24"
+      },
+      "scope_checked": "Cached full scan, visually inspected printed pp10--11,29,35--37 via existing page images15,16,34,40,41,42. PropositionB irreducibility/nonsingularity conditions; Proposition9 whole-F2-irreducibility assumption; attributed n13/n57 examples including degree/field/multiplicity. Not all thesis proofs re-audited."
+    },
+    {
+      "url": "https://arxiv.org/pdf/0903.2016",
+      "file": {
+        "path": ".cache/literature/2024/cited-3e7f3cb84c20c6b1.pdf",
+        "bytes": 198696,
+        "sha256": "bc9389858756658a7a2769a74ebb40b4df05523ddfe24a4639cd7d79ef31df16"
+      },
+      "scope_checked": "Full public primary text available; section2.1 identifies exact homogeneous quotient and component theorem. Section4 and Theorems15--16 checked for irreducibility assumption, gcd case split and nonexceptional domain. No full re-proof of published global theorem. Used as attribution/context only."
+    },
+    {
+      "url": "https://arxiv.org/pdf/1612.05997v1",
+      "file": {
+        "path": ".cache/literature/deep-literature-r2/2024-delgado-janwa-1612.05997v1.pdf",
+        "bytes": 191161,
+        "sha256": "9704f18d5acbec194e89ab26eed3c0a39d944a3de0c73896e4a05269c18528d9"
+      },
+      "scope_checked": "Section3 eq5--6 read in public text and PDFp7 image; PDFpp8--9 rendered and visually read for Lemma1 parity inference and later dependence. Attributed Kasami decomposition and coefficient-field/specialization premises checked. False parity implication independently verified by displayed hand example; no conclusion that the theorem or Kasami decomposition is false."
+    }
+  ],
+  "access_gaps": {
+    "original_Janwa_Wilson_1993": "Original full proof not inspected; coauthor full text records its stated decomposition. No T1--T4 dependency. Constructor documented normal public routes; this audit did not repeat failed requests.",
+    "Ferard": "Full theorem unread. Existing failed retrieval verified0bytes, not a paper; no theorem premise inferred.",
+    "empty_failed_file": {
+      "path": ".cache/literature/structural-reasoning-r2-ferard2014.pdf",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  },
+  "inputs": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 166,
+      "sha256": "798a56dbcda9a2c9882f91ba4cea6394ff7f47915f382514b0115fed42321d4e"
+    },
+    {
+      "path": "problems/2024-B4/statement.md",
+      "bytes": 2470,
+      "sha256": "60244f7752634772adb434efbdb41a63fb02029dc3be4238f3718c6e5ec84e5f"
+    },
+    {
+      "path": "problems/2024-B4/notes/structural-reasoning-r2-manifest-v1.json",
+      "bytes": 2381,
+      "sha256": "55a13b078de0f0e2b404e294dc4015442c66cd103a8397079f1c1ab1d8704200"
+    },
+    {
+      "path": "problems/2024-B4/notes/structural-reasoning-r2-candidate-v1.md",
+      "bytes": 16027,
+      "sha256": "0c451d5f9410573625725bc6be35af91fe938deee4dc1d92910572374dc69f52"
+    },
+    {
+      "path": "problems/2024-B4/notes/structural-reasoning-r2-source-audit-v1.md",
+      "bytes": 6358,
+      "sha256": "8c18686381299e2e2a4b81c4728820a4ca5e52241df62a4b802fe1f4df4f4687"
+    },
+    {
+      "path": "problems/2024-B4/notes/structural-reasoning-r2-research-log-v1.md",
+      "bytes": 5280,
+      "sha256": "ceeab21a0ff6b1f7e4515c6fd5e4e3919f5ba6f411a338f37ecb37eaf94af70b"
+    },
+    {
+      "path": "problems/2024-B4/notes/structural-reasoning-r2-sources-v1.json",
+      "bytes": 11775,
+      "sha256": "4c71233c20137e1964869e55b33cd52f80bedaf8ab47c1518b8d20e97bc35d68"
+    },
+    {
+      "path": "problems/2024-B4/notes/structural-reasoning-r2-freeze-v1.py",
+      "bytes": 10610,
+      "sha256": "87bb430f34092f79da92b2848a25ff079d1a7b130f09b7cb0fd0afdd5475562e"
+    },
+    {
+      "path": "problems/2024-B4/notes/structural-reasoning-r2-freeze-output-v1.json",
+      "bytes": 618,
+      "sha256": "5e6395b554069ba10ca5355a9846deb6b08606235c46cc02c7e2208a18082bf6"
+    },
+    {
+      "path": "problems/2024-B4/reviews/family-acceptance.md",
+      "bytes": 1855,
+      "sha256": "03cbb4aec2437bc083ab35ffe34ccdf4d211be969f720dd0f757996d2b502ab5"
+    },
+    {
+      "path": "problems/2024-B4/reviews/criterion-acceptance.md",
+      "bytes": 1859,
+      "sha256": "526aaca33ea562ee2641a7fbd8ad891b46308f224c1cf0656eb841c29c34217d"
+    }
+  ],
+  "commands": [
+    "rg --files for explicitly named cached sources",
+    "cat/sed of candidate, six freeze artifacts, source-audit/research-log and official statement/AGENTS",
+    "web open/find of official PaperB, HM0903.2016 and Delgado--Janwa1612.05997v1",
+    "view_image of cached thesis pages15,16,34,40,41,42 and Delgado--Janwa p7",
+    "pdftoppm -f 2 -singlefile -scale-to 1600 -png .cache/official/2024-paper_b.pdf /private/tmp/structural-review-1-official-b4",
+    "pdftoppm -f 8 -l 9 -scale-to 1500 -png .cache/literature/deep-literature-r2/2024-delgado-janwa-1612.05997v1.pdf /private/tmp/structural-review-1-delgado",
+    "Python standard library Path/hashlib/json/datetime for integrity and review freeze only"
+  ],
+  "mathematical_computation": "None: no enumeration, CAS, finite-field scan or native mathematical subprocess. All displayed derivations/counterexample checks by hand. PDF rendering and hashing administrative only.",
+  "weekly_telemetry": {
+    "authority": "mcp__codex_app__get_usage_limits, account-wide codex bucket",
+    "verified_at_utc": "2026-10-17T00:00:00Z",
+    "used_percent": 18,
+    "window_minutes": 10080,
+    "resets_at": 1792745187,
+    "total_used_ceiling_percent": 90,
+    "no_new_weekly_window": true
+  },
+  "permissions_and_scope": "Only assigned structural-review-1* review artifacts and temporary PDF renderings written; no source-paper download/mutation, candidate edit, Git/shared-state operation, charges, account contacts or access bypass."
+}

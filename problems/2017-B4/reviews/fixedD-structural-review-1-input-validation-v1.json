@@ -1,0 +1,170 @@
+{
+  "checked_at_utc": "2026-10-17T00:02:54.200629+00:00",
+  "candidate_input_records": [
+    {
+      "path": "problems/2017-B4/notes/fixedD-reasoning-r1-structural-candidate-v1.md",
+      "bytes": 15107,
+      "sha256": "c776e81d0fd44c0e8042ddc00a0d949966cdc106ba9b7e67486dc4d14a1b7d87",
+      "expected_sha256": "c776e81d0fd44c0e8042ddc00a0d949966cdc106ba9b7e67486dc4d14a1b7d87",
+      "matches": true
+    },
+    {
+      "path": "problems/2017-B4/notes/fixedD-reasoning-r1-profile-reduction-v1.md",
+      "bytes": 12092,
+      "sha256": "973e8d7da034082b4416100d51650798ec3eb90e75cfd44106b5810dd9ec7e8d",
+      "expected_sha256": "973e8d7da034082b4416100d51650798ec3eb90e75cfd44106b5810dd9ec7e8d",
+      "matches": true
+    },
+    {
+      "path": "problems/2017-B4/notes/fixedD-reasoning-r1-sources-v1.json",
+      "bytes": 2750,
+      "sha256": "e33ef844964e5cdfa0420696c2ee08ab90600ac766b9d7aa3667e8776c7ac3c0",
+      "expected_sha256": "e33ef844964e5cdfa0420696c2ee08ab90600ac766b9d7aa3667e8776c7ac3c0",
+      "matches": true
+    }
+  ],
+  "constructor_manifest_all_entries_match": true,
+  "constructor_manifest_checks": [
+    {
+      "path": "problems/2017-B4/notes/fixedD-reasoning-r1-structural-candidate-v1.md",
+      "bytes": 15107,
+      "sha256": "c776e81d0fd44c0e8042ddc00a0d949966cdc106ba9b7e67486dc4d14a1b7d87",
+      "matches": true
+    },
+    {
+      "path": "problems/2017-B4/notes/fixedD-reasoning-r1-profile-reduction-v1.md",
+      "bytes": 12092,
+      "sha256": "973e8d7da034082b4416100d51650798ec3eb90e75cfd44106b5810dd9ec7e8d",
+      "matches": true
+    },
+    {
+      "path": "problems/2017-B4/notes/fixedD-reasoning-r1-sources-v1.json",
+      "bytes": 2750,
+      "sha256": "e33ef844964e5cdfa0420696c2ee08ab90600ac766b9d7aa3667e8776c7ac3c0",
+      "matches": true
+    }
+  ],
+  "dependency_records": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2017-B4/statement.md",
+      "bytes": 2140,
+      "sha256": "e459750064b4e25e3eaa71f25f236c046548147e415b06d8bd097839020228f3"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coarsening-acceptance.md",
+      "bytes": 2078,
+      "sha256": "ad7884bfe60386b7e99537f3a1b35a821cf7f34089e8373bf4d998f50275c889"
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-direction-coarsening-v1.1.md",
+      "bytes": 9175,
+      "sha256": "98c04673acdb4c59d44eb4d977f844d3f01ef27365399982e02df8cbaa4a6241"
+    },
+    {
+      "path": "problems/2017-B4/notes/fixedD-reasoning-r1-freeze-v1.json",
+      "bytes": 1824,
+      "sha256": "fb277c1a3fe5fe3a0283992168b009094d05699c1f47d7ba10123b61e95eb6dd"
+    }
+  ],
+  "constructor_prior_source_record_hash_only": {
+    "path": "problems/2017-B4/reviews/coarsening-review-1-sources.json",
+    "bytes": 3906,
+    "sha256": "5fec609c63f708dd1ca01d892803166b765e154e29fc821f2d13f967f08a1518",
+    "declared_sha256_matches": true
+  },
+  "older_frozen_packets": [
+    {
+      "manifest": {
+        "path": "problems/2021-B4/reviews/reasoning-J15-review-2-manifest.json",
+        "bytes": 2141,
+        "sha256": "06a759acf37d30deac27bafe82f4c8c0f7ff39b5d99e3f53637050b4f490b671"
+      },
+      "all_records_unchanged": true,
+      "checks": [
+        {
+          "path": "problems/2021-B4/reviews/reasoning-J15-review-2.md",
+          "bytes": 17660,
+          "sha256": "491adc49bdab13808df45ebd272b8e66d6ff8f642031a0cf07802bd909b7cdea",
+          "matches": true
+        },
+        {
+          "path": "problems/2021-B4/reviews/reasoning-J15-review-2-issues.json",
+          "bytes": 3166,
+          "sha256": "23b2aabefa9b6f759320e4d9977fe8a7a1a56b6009b2e918265d68949c5eba71",
+          "matches": true
+        },
+        {
+          "path": "problems/2021-B4/reviews/reasoning-J15-review-2-sources.json",
+          "bytes": 4308,
+          "sha256": "5bf87b836bdc2216d0d62d462886d1fa760b17e3f7cd62a4fafb99eaed486f38",
+          "matches": true
+        },
+        {
+          "path": "problems/2021-B4/reviews/reasoning-J15-review-2-input-validation.json",
+          "bytes": 5304,
+          "sha256": "20a09c10f24a5ea8998d889710de83411f97347ef7ad718c30ec4b6d055ac8a7",
+          "matches": true
+        },
+        {
+          "path": "problems/2021-B4/reviews/reasoning-J15-review-2-freeze.py",
+          "bytes": 4165,
+          "sha256": "9032d041f634039361bd6554a104757db19eae8b60618c220304d2146db9b9e6",
+          "matches": true
+        }
+      ]
+    },
+    {
+      "manifest": {
+        "path": "problems/2024-B4/notes/structural-reasoning-r2-manifest-v1.json",
+        "bytes": 2381,
+        "sha256": "55a13b078de0f0e2b404e294dc4015442c66cd103a8397079f1c1ab1d8704200"
+      },
+      "all_records_unchanged": true,
+      "checks": [
+        {
+          "path": "problems/2024-B4/notes/structural-reasoning-r2-candidate-v1.md",
+          "bytes": 16027,
+          "sha256": "0c451d5f9410573625725bc6be35af91fe938deee4dc1d92910572374dc69f52",
+          "matches": true
+        },
+        {
+          "path": "problems/2024-B4/notes/structural-reasoning-r2-source-audit-v1.md",
+          "bytes": 6358,
+          "sha256": "8c18686381299e2e2a4b81c4728820a4ca5e52241df62a4b802fe1f4df4f4687",
+          "matches": true
+        },
+        {
+          "path": "problems/2024-B4/notes/structural-reasoning-r2-research-log-v1.md",
+          "bytes": 5280,
+          "sha256": "ceeab21a0ff6b1f7e4515c6fd5e4e3919f5ba6f411a338f37ecb37eaf94af70b",
+          "matches": true
+        },
+        {
+          "path": "problems/2024-B4/notes/structural-reasoning-r2-sources-v1.json",
+          "bytes": 11775,
+          "sha256": "4c71233c20137e1964869e55b33cd52f80bedaf8ab47c1518b8d20e97bc35d68",
+          "matches": true
+        },
+        {
+          "path": "problems/2024-B4/notes/structural-reasoning-r2-freeze-v1.py",
+          "bytes": 10610,
+          "sha256": "87bb430f34092f79da92b2848a25ff079d1a7b130f09b7cb0fd0afdd5475562e",
+          "matches": true
+        },
+        {
+          "path": "problems/2024-B4/notes/structural-reasoning-r2-freeze-output-v1.json",
+          "bytes": 618,
+          "sha256": "5e6395b554069ba10ca5355a9846deb6b08606235c46cc02c7e2208a18082bf6",
+          "matches": true
+        }
+      ]
+    }
+  ],
+  "metadata_only": true,
+  "mathematical_enumeration_or_CAS": false
+}

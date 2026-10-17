@@ -1,0 +1,28 @@
+{
+  "status": "candidate proof - unverified",
+  "constructor": "coordinator",
+  "frozen_at_utc": "2026-10-17T00:20:10.888643+00:00",
+  "artifacts": [
+    {
+      "path": "problems/2017-B4/notes/coordinator-directed-geodesics-candidate-v1.md",
+      "bytes": 5952,
+      "sha256": "0fe9e72b07d12d7a5e417e14a56fec06191ea7f76a9f8787ea533cdd9824bcb6"
+    }
+  ],
+  "source": {
+    "url": "https://www.ifisica.uaslp.mx/~gsalazar/RESEARCH/levi.pdf",
+    "paper": "Arroyo-McQuillan-Richter-Salazar, Levi\u2019s Lemma, pseudolinear drawings of Kn, and empty triangles",
+    "version_date": "2015-11-20",
+    "read_scope": "Section2 definitions and complete Lemma2.2 proof, printedpp4-5",
+    "new_local_download": false
+  },
+  "new_claims": [
+    "DG1 zonogon vertex distance and coordinate-ordered positive paths via disk-to-plane adaptation",
+    "DG2 strictly positive affine side-path localization"
+  ],
+  "unresolved": [
+    "Two independent nonconstructor whole audits required",
+    "No closed annulus, EAI, profile recovery, H or full2017 solution"
+  ],
+  "mathematical_enumeration_or_CAS": false
+}

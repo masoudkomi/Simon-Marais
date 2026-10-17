@@ -1,0 +1,78 @@
+{
+  "timestamp_utc": "2026-10-16T23:59:57.522036+00:00",
+  "reviewer": "/root/review_2022_complexity_r2",
+  "status": "blind initial whole review frozen; no substantive T1-T4 defect found; one nonblocking terminology advisory; coordinator acceptance pending",
+  "candidate_sha256": "0c451d5f9410573625725bc6be35af91fe938deee4dc1d92910572374dc69f52",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "basis": "coordinator assignment and AGENTS.md",
+    "independent_effective_setting_readback": null
+  },
+  "independence": {
+    "constructed_candidate": false,
+    "read_peer_structural_reports_before_freeze": false,
+    "received_peer_structural_conclusions_before_freeze": false,
+    "all_eight_earlier_review_artifacts_verified_unchanged": true,
+    "earlier_peer_findings_unread": true
+  },
+  "artifacts": [
+    {
+      "path": "problems/2024-B4/reviews/structural-review-2-initial.md",
+      "bytes": 19441,
+      "sha256": "3495313e5ed98300b0eb62f0846a51105de4dad27975ea2fecf7c4389308ceb1"
+    },
+    {
+      "path": "problems/2024-B4/reviews/structural-review-2-issues.md",
+      "bytes": 5627,
+      "sha256": "b71585703f36d0944da1895d7f0e36c03e52cd0455261e3f7473d27f6ab172e2"
+    },
+    {
+      "path": "problems/2024-B4/reviews/structural-review-2-source-checks.md",
+      "bytes": 5908,
+      "sha256": "18f290c2d07ee41bd858a5bd0823965d0c6412897bf712863e0c1c8d0e2292c5"
+    }
+  ],
+  "verified_candidate_packet_records": [
+    {
+      "path": "problems/2024-B4/notes/structural-reasoning-r2-candidate-v1.md",
+      "bytes": 16027,
+      "sha256": "0c451d5f9410573625725bc6be35af91fe938deee4dc1d92910572374dc69f52"
+    },
+    {
+      "path": "problems/2024-B4/notes/structural-reasoning-r2-source-audit-v1.md",
+      "bytes": 6358,
+      "sha256": "8c18686381299e2e2a4b81c4728820a4ca5e52241df62a4b802fe1f4df4f4687"
+    },
+    {
+      "path": "problems/2024-B4/notes/structural-reasoning-r2-research-log-v1.md",
+      "bytes": 5280,
+      "sha256": "ceeab21a0ff6b1f7e4515c6fd5e4e3919f5ba6f411a338f37ecb37eaf94af70b"
+    },
+    {
+      "path": "problems/2024-B4/notes/structural-reasoning-r2-sources-v1.json",
+      "bytes": 11775,
+      "sha256": "4c71233c20137e1964869e55b33cd52f80bedaf8ab47c1518b8d20e97bc35d68"
+    },
+    {
+      "path": "problems/2024-B4/notes/structural-reasoning-r2-freeze-v1.py",
+      "bytes": 10610,
+      "sha256": "87bb430f34092f79da92b2848a25ff079d1a7b130f09b7cb0fd0afdd5475562e"
+    },
+    {
+      "path": "problems/2024-B4/notes/structural-reasoning-r2-freeze-output-v1.json",
+      "bytes": 618,
+      "sha256": "5e6395b554069ba10ca5355a9846deb6b08606235c46cc02c7e2208a18082bf6"
+    }
+  ],
+  "authoritative_usage": {
+    "used_percent_total_weekly": 18,
+    "window_duration_mins": 10080,
+    "resets_at_unix": 1792745187,
+    "read_time_utc_approx": "2026-10-16 23:55-23:56 UTC"
+  },
+  "new_mathematical_computation": false,
+  "native_cas_job": null,
+  "method": "exact analytic reconstruction and primary-source checks; no enumeration or CAS",
+  "git_operations": false
+}

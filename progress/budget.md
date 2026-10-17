@@ -49,6 +49,9 @@ Recheck before launching each group, during sustained work, before expensive com
 
 | 2026-10-16 22:17:35 UTC | 18% | 82% | Same reset; 2022 complexity adaptation accepted, fresh 2021 single-center audits and 2024 factor-field research continue. |
 
+| 2026-10-17 00:22:55 UTC | 19% | 81% | Same reset; continue annulus/divisor reasoning and fresh audits, with review and integration reserve. |
+| 2026-10-17 00:34:31 UTC | 20% | 80% | Same reset; continue author repair, independent geometric audits and fixed-divisor review. No stop condition. |
+
 User clarification during the initial group: investigate only the explicitly open portion of B4. This narrows mathematical targets, not the weekly cutoff.
 
 ## Stop record
@@ -64,3 +67,5 @@ At **17:31:36 UTC**, the latest audit records **298,729,173 total tokens**: **28
 At **21:39:37 UTC**, the refreshed audit records **327,243,804 total**:309,796,864 cached input,14,724,214 uncached input and2,722,726 output. Output includes **1,180,857 reasoning tokens**, a subset rather than an added category. Uncached input plus output is17,446,940. All57 recorded session sums match cumulative counters; no billing or weekly conversion is inferred. The user requested greater emphasis on mathematical reasoning; Max remains the requested worker setting, with no independent effective-setting readback.
 
 At **22:13:22 UTC**, recorded project usage was **354,246,265 total**:335,256,064 cached input,16,018,769 uncached input and2,971,432 output, including1,309,467 reasoning tokens. Uncached input plus output was18,990,201. All62 historical session sums matched cumulative counters; simultaneous capacity remains four total agents.
+
+At **2026-10-17 00:22:56 UTC**, recorded project usage was **389,511,772 total**:367,888,512 cached input,18,354,949 uncached input and3,268,311 output, including1,460,285 reasoning tokens. Uncached input plus output was21,623,260. All62 historical session sums matched cumulative counters. This is a local recorded snapshot excluding unreported in-flight usage; it is not a bill or weekly-percentage conversion.
