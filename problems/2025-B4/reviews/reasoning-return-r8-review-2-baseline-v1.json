@@ -1,0 +1,679 @@
+{
+  "at_utc": "2026-10-17T20:02:32.855058+00:00",
+  "target": {
+    "path": "problems/2025-B4/notes/reasoning-return-r8-freeze-v1.json",
+    "bytes": 4298,
+    "sha256": "a68ae37d1d5b9f0b209629e6d2027da1ad0fe8d8e6d889b6e261bc0f5a8cff04"
+  },
+  "target_main": {
+    "path": "problems/2025-B4/notes/reasoning-return-r8-candidate-v1.md",
+    "bytes": 25033,
+    "sha256": "2688587a44e9c161c7bb2bcdc6eecfb474c231ab9542572aaec5e9ed557a9b8d"
+  },
+  "record_occurrences": 130,
+  "deduplicated_paths": 65,
+  "records": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff",
+      "occurrences": 2,
+      "roles": [
+        "explicit constructor sources-v1.json declaration",
+        "explicit constructor input-validation-v1.json declaration"
+      ]
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r4-review-2-input-validation-v1.json",
+      "bytes": 19919,
+      "sha256": "f6001c230523eb97e2ad319e83d478e34c8ed8b2991fe0f909d9e09a0f4e9130",
+      "occurrences": 3,
+      "roles": [
+        "explicit constructor freeze-v1.json declaration",
+        "explicit constructor sources-v1.json declaration",
+        "explicit constructor input-validation-v1.json declaration"
+      ]
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r4-review-2-manifest-v1.json",
+      "bytes": 4083,
+      "sha256": "572f3cb6a412c56c499047974aa7b360358198bfd1cefb32128f295b0da83476",
+      "occurrences": 3,
+      "roles": [
+        "explicit constructor freeze-v1.json declaration",
+        "explicit constructor sources-v1.json declaration",
+        "explicit constructor input-validation-v1.json declaration"
+      ]
+    },
+    {
+      "path": "problems/2019-B4/reviews/coordinator-cap-gap-r1-review-1-baseline-v1.json",
+      "bytes": 14154,
+      "sha256": "39f13443796fd5bed1e4861f1251f9c12a69275c1bc29ecf45b0418eb3c9583a",
+      "occurrences": 1,
+      "roles": [
+        "immediate immutable own parent artifact"
+      ]
+    },
+    {
+      "path": "problems/2019-B4/reviews/coordinator-cap-gap-r1-review-1-freeze-v1.py",
+      "bytes": 6828,
+      "sha256": "e6cc7e56998635859ee5f2f09e2092f7cb525e141f6223996f0ccf6f61ddd9ac",
+      "occurrences": 1,
+      "roles": [
+        "immediate immutable own parent artifact"
+      ]
+    },
+    {
+      "path": "problems/2019-B4/reviews/coordinator-cap-gap-r1-review-1-initial-v1.md",
+      "bytes": 11936,
+      "sha256": "eea936efda43e03f67f0980d75c8b182712c5e91a9b95637979223ed8d4d9d2f",
+      "occurrences": 1,
+      "roles": [
+        "immediate immutable own parent artifact"
+      ]
+    },
+    {
+      "path": "problems/2019-B4/reviews/coordinator-cap-gap-r1-review-1-input-validation-v1.json",
+      "bytes": 682,
+      "sha256": "89d77f5fe0bd9e918e18c8d6c53909f392400bbab57fdff0250cca8726ed6e8d",
+      "occurrences": 1,
+      "roles": [
+        "immediate immutable own parent artifact"
+      ]
+    },
+    {
+      "path": "problems/2019-B4/reviews/coordinator-cap-gap-r1-review-1-issues-v1.md",
+      "bytes": 1330,
+      "sha256": "92d6405c127bf5573b4a5a085049d5975561cd803f26b6e835f1338d406895c5",
+      "occurrences": 1,
+      "roles": [
+        "immediate immutable own parent artifact"
+      ]
+    },
+    {
+      "path": "problems/2019-B4/reviews/coordinator-cap-gap-r1-review-1-ledger-v1.md",
+      "bytes": 4000,
+      "sha256": "63c3268ffd619fc7a047f3cb1b9b0920a8f6da3fc7311b5c4c6ff353fe308a75",
+      "occurrences": 1,
+      "roles": [
+        "immediate immutable own parent artifact"
+      ]
+    },
+    {
+      "path": "problems/2019-B4/reviews/coordinator-cap-gap-r1-review-1-manifest-v1.json",
+      "bytes": 3126,
+      "sha256": "c482bb0b681d7ff110ecfc4eea97370fbf1dac041e8f84196f0758d8638df400",
+      "occurrences": 1,
+      "roles": [
+        "compact immutable own parent"
+      ]
+    },
+    {
+      "path": "problems/2019-B4/reviews/coordinator-cap-gap-r1-review-1-metadata-v1.json",
+      "bytes": 1468,
+      "sha256": "9dab1682659aa8ecde81cc8f4b569291ed4a7d6bf9ead84b11890c83a15c46c6",
+      "occurrences": 1,
+      "roles": [
+        "immediate immutable own parent artifact"
+      ]
+    },
+    {
+      "path": "problems/2019-B4/reviews/coordinator-cap-gap-r1-review-1-sources-v1.md",
+      "bytes": 5067,
+      "sha256": "0d7b660cbfd6809c295028f036cddcfa3f0d12282d6678f86c8190aa5b81db9a",
+      "occurrences": 1,
+      "roles": [
+        "immediate immutable own parent artifact"
+      ]
+    },
+    {
+      "path": "problems/2019-B4/reviews/coordinator-cap-gap-r1-review-1-worklog-v1.md",
+      "bytes": 3316,
+      "sha256": "01e97e13cfc75e39af935b75db8eba992b023d465b5d1e75b0086b0a048446db",
+      "occurrences": 1,
+      "roles": [
+        "immediate immutable own parent artifact"
+      ]
+    },
+    {
+      "path": "problems/2025-B4/notes/original-weight-universal-return-r1-candidate-v1.md",
+      "bytes": 19429,
+      "sha256": "89fb03923c61b7785dbcd2b4ff6e6b6f08e17b7fc1653be6ea72f004831040ed",
+      "occurrences": 1,
+      "roles": [
+        "necessary accepted original-weight-universal declaration"
+      ]
+    },
+    {
+      "path": "problems/2025-B4/notes/original-weight-universal-return-r1-manifest-v1.json",
+      "bytes": 4060,
+      "sha256": "96ea49d93cec3b08514c1d5d67704f72163332bdbe7feb354c86b821ee90c1a7",
+      "occurrences": 1,
+      "roles": [
+        "necessary accepted original-weight-universal declaration"
+      ]
+    },
+    {
+      "path": "problems/2025-B4/notes/original-weight-universal-return-r1-sources-v1.json",
+      "bytes": 7786,
+      "sha256": "4193d91071326dcd8db9b24955ce342cc8dbe4b0afe136b794bc0dcba9c0990c",
+      "occurrences": 1,
+      "roles": [
+        "necessary accepted original-weight-universal declaration"
+      ]
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r6-candidate-v1.md",
+      "bytes": 25588,
+      "sha256": "bdf566f44dcabb5b7bbfb96778b1dd58b7375bf46fcd697c3579564e5e9da627",
+      "occurrences": 1,
+      "roles": [
+        "necessary accepted reasoning-return-r6 declaration"
+      ]
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r6-freeze-v1.json",
+      "bytes": 3350,
+      "sha256": "72885d683855f2bf61f5aeb225f7d17ccecc2dc1e8898c7aae88161b549a26f0",
+      "occurrences": 1,
+      "roles": [
+        "necessary accepted reasoning-return-r6 declaration"
+      ]
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r6-input-validation-v1.json",
+      "bytes": 66816,
+      "sha256": "46be668eb16c7b6b4bd99e643422556c20b2e3aa2bae04343f2d914619f5e934",
+      "occurrences": 1,
+      "roles": [
+        "necessary accepted reasoning-return-r6 declaration"
+      ]
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r7-candidate-v1.md",
+      "bytes": 24429,
+      "sha256": "ee144e23b5a40e828f3e4f74790f5ec1394b4a9462609a8102f8b3a16465c8e0",
+      "occurrences": 5,
+      "roles": [
+        "explicit constructor sources-v1.json declaration",
+        "explicit constructor input-validation-v1.json declaration",
+        "necessary accepted reasoning-return-r7 declaration"
+      ]
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r7-failed-routes-v1.md",
+      "bytes": 4762,
+      "sha256": "d515d88d23d2b40343677b22595a38b9462eceb90c7f2a0e1acbc16919257555",
+      "occurrences": 4,
+      "roles": [
+        "explicit constructor sources-v1.json declaration",
+        "explicit constructor input-validation-v1.json declaration"
+      ]
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r7-freeze-v1.json",
+      "bytes": 3864,
+      "sha256": "0f3dc3419bc3f7a031a38f5d5d9448187cad39fe62588e4d5f43967e9c644174",
+      "occurrences": 3,
+      "roles": [
+        "explicit constructor sources-v1.json declaration",
+        "explicit constructor input-validation-v1.json declaration",
+        "necessary accepted reasoning-return-r7 declaration"
+      ]
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r7-freeze-v1.py",
+      "bytes": 11435,
+      "sha256": "6c9975bc3b1947fa41ab39af079b9a56c8972b4822d96da491b512f03a3716e7",
+      "occurrences": 2,
+      "roles": [
+        "explicit constructor sources-v1.json declaration",
+        "explicit constructor input-validation-v1.json declaration"
+      ]
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r7-input-validation-v1.json",
+      "bytes": 3060,
+      "sha256": "e8145f2fda92a17ebe38a3a790207f736ffa9fd633fce9cb601a292f0eced9c8",
+      "occurrences": 3,
+      "roles": [
+        "explicit constructor sources-v1.json declaration",
+        "explicit constructor input-validation-v1.json declaration",
+        "necessary accepted reasoning-return-r7 declaration"
+      ]
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r7-obligations-v1.md",
+      "bytes": 7188,
+      "sha256": "3973da0b34c1ba312c132f64f02bf431a0b964c129fbe2f2f6e72bf7d021ef1e",
+      "occurrences": 2,
+      "roles": [
+        "explicit constructor sources-v1.json declaration",
+        "explicit constructor input-validation-v1.json declaration"
+      ]
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r7-source-audit-v1.md",
+      "bytes": 5933,
+      "sha256": "145ce84733e84344cb75e6304f4b95125f1f2852e3a0a2f53431501a26b7946e",
+      "occurrences": 2,
+      "roles": [
+        "explicit constructor sources-v1.json declaration",
+        "explicit constructor input-validation-v1.json declaration"
+      ]
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r7-sources-v1.json",
+      "bytes": 5653,
+      "sha256": "c1c89cd63f746412ed39b5644a653e583c614914c99f5d0cf8aaf1a5d7862126",
+      "occurrences": 5,
+      "roles": [
+        "explicit constructor sources-v1.json declaration",
+        "explicit constructor input-validation-v1.json declaration",
+        "necessary accepted reasoning-return-r7 declaration"
+      ]
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r7-worklog-v1.md",
+      "bytes": 6038,
+      "sha256": "2dd59062e82c03807e04d49cabc5a0a9d2bd88d73e6a4e307ecec7340ea31910",
+      "occurrences": 2,
+      "roles": [
+        "explicit constructor sources-v1.json declaration",
+        "explicit constructor input-validation-v1.json declaration"
+      ]
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r8-candidate-v1.md",
+      "bytes": 25033,
+      "sha256": "2688587a44e9c161c7bb2bcdc6eecfb474c231ab9542572aaec5e9ed557a9b8d",
+      "occurrences": 2,
+      "roles": [
+        "explicit constructor freeze-v1.json declaration",
+        "explicit constructor input-validation-v1.json declaration"
+      ]
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r8-constructor-checks-v1.md",
+      "bytes": 5227,
+      "sha256": "35b133424e8f09e342ed3f823f455680249ca8ca625f7076f0a2e48904b30644",
+      "occurrences": 2,
+      "roles": [
+        "explicit constructor freeze-v1.json declaration",
+        "explicit constructor input-validation-v1.json declaration"
+      ]
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r8-failed-routes-v1.md",
+      "bytes": 6075,
+      "sha256": "a01dcd1bdb3837333c8a532873484cb0ef85ceac6b116371fdf79c2d13457cc8",
+      "occurrences": 2,
+      "roles": [
+        "explicit constructor freeze-v1.json declaration",
+        "explicit constructor input-validation-v1.json declaration"
+      ]
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r8-freeze-output-v1.json",
+      "bytes": 713,
+      "sha256": "77ffdc0b4e36da76fa85ef0716608f874ec3de8a2d312709c291f4300a676373",
+      "occurrences": 1,
+      "roles": [
+        "explicit constructor freeze-v1.json declaration"
+      ]
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r8-freeze-v1.json",
+      "bytes": 4298,
+      "sha256": "a68ae37d1d5b9f0b209629e6d2027da1ad0fe8d8e6d889b6e261bc0f5a8cff04",
+      "occurrences": 1,
+      "roles": [
+        "exact target freeze"
+      ]
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r8-freeze-v1.py",
+      "bytes": 19570,
+      "sha256": "b19494623382636e4fa3a84bfb5e74a14e17f2dd0024fa7a5536190421fdab89",
+      "occurrences": 1,
+      "roles": [
+        "explicit constructor freeze-v1.json declaration"
+      ]
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r8-input-validation-v1.json",
+      "bytes": 12568,
+      "sha256": "6bc2147006802021de1d8d5321d515745be45f71fbb6bbe2e19c16e167d3e7ed",
+      "occurrences": 1,
+      "roles": [
+        "explicit constructor freeze-v1.json declaration"
+      ]
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r8-obligations-v1.md",
+      "bytes": 7934,
+      "sha256": "250c0a055c2436d0f419e093f63407bf11a70b84611fa39a29d5785b0cdd27f8",
+      "occurrences": 2,
+      "roles": [
+        "explicit constructor freeze-v1.json declaration",
+        "explicit constructor input-validation-v1.json declaration"
+      ]
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r8-source-audit-v1.md",
+      "bytes": 6387,
+      "sha256": "41d1d48c1312aed152e1319b53d39bfa3d8e097d69c3048a979460314bfd2504",
+      "occurrences": 2,
+      "roles": [
+        "explicit constructor freeze-v1.json declaration",
+        "explicit constructor input-validation-v1.json declaration"
+      ]
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r8-sources-v1.json",
+      "bytes": 14324,
+      "sha256": "34473645de238f1b82a8600b19ace09ac209c77faad4111cbcf39ef5ae018410",
+      "occurrences": 1,
+      "roles": [
+        "explicit constructor freeze-v1.json declaration"
+      ]
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r8-worklog-v1.md",
+      "bytes": 6674,
+      "sha256": "db45863c6cf621e700dbea6316ba66ab01e8745aab3b34274b99adb5b05ac550",
+      "occurrences": 2,
+      "roles": [
+        "explicit constructor freeze-v1.json declaration",
+        "explicit constructor input-validation-v1.json declaration"
+      ]
+    },
+    {
+      "path": "problems/2025-B4/proofs/reviewed-original-weight-universal-v1.1.md",
+      "bytes": 22590,
+      "sha256": "bb4d3f1b378f8062ba5d1f6e8ee0a197f0f09f01e4f97b7abe8195a9627cd2c4",
+      "occurrences": 3,
+      "roles": [
+        "explicit constructor sources-v1.json declaration",
+        "explicit constructor input-validation-v1.json declaration",
+        "necessary accepted original-weight-universal declaration"
+      ]
+    },
+    {
+      "path": "problems/2025-B4/proofs/reviewed-reasoning-return-r6-v1.1.md",
+      "bytes": 28748,
+      "sha256": "4e157819789da12d6f26e89929d88ec886d52947405d836fe3957ab8ee727d3a",
+      "occurrences": 3,
+      "roles": [
+        "explicit constructor sources-v1.json declaration",
+        "explicit constructor input-validation-v1.json declaration",
+        "necessary accepted reasoning-return-r6 declaration"
+      ]
+    },
+    {
+      "path": "problems/2025-B4/proofs/reviewed-reasoning-return-r7-v1.1.md",
+      "bytes": 26875,
+      "sha256": "f3bdf6dd49210954e619daec5ef50ef7bc288777230127c0c9d086f46af3634d",
+      "occurrences": 3,
+      "roles": [
+        "explicit constructor sources-v1.json declaration",
+        "explicit constructor input-validation-v1.json declaration",
+        "necessary accepted reasoning-return-r7 declaration"
+      ]
+    },
+    {
+      "path": "problems/2025-B4/proofs/reviewed-reciprocal-kernel-v1.1.md",
+      "bytes": 12969,
+      "sha256": "41d1882ce1efa59f24b5d76636125edeb037e712add8ee93632c2aa3d8030e60",
+      "occurrences": 2,
+      "roles": [
+        "explicit constructor sources-v1.json declaration",
+        "explicit constructor input-validation-v1.json declaration"
+      ]
+    },
+    {
+      "path": "problems/2025-B4/reviews/original-weight-universal-acceptance-integrity.json",
+      "bytes": 1966,
+      "sha256": "a11556552df0ca9d9822eaf325790e217b39bff171e6a4ecce8e997a8229d19b",
+      "occurrences": 4,
+      "roles": [
+        "explicit constructor sources-v1.json declaration",
+        "explicit constructor input-validation-v1.json declaration"
+      ]
+    },
+    {
+      "path": "problems/2025-B4/reviews/original-weight-universal-acceptance.json",
+      "bytes": 2537,
+      "sha256": "73c04300bef8cfd0db3903c862af47dbdab5f859dc1a85d2cbb0c5a96fa6fa49",
+      "occurrences": 4,
+      "roles": [
+        "explicit constructor sources-v1.json declaration",
+        "explicit constructor input-validation-v1.json declaration"
+      ]
+    },
+    {
+      "path": "problems/2025-B4/reviews/original-weight-universal-acceptance.md",
+      "bytes": 3261,
+      "sha256": "52b9cc1fedf397eeb764189144805cd330178fa9eb6c805eabf7e43de405c936",
+      "occurrences": 4,
+      "roles": [
+        "explicit constructor sources-v1.json declaration",
+        "explicit constructor input-validation-v1.json declaration"
+      ]
+    },
+    {
+      "path": "problems/2025-B4/reviews/original-weight-universal-review-1-input-validation-v1.json",
+      "bytes": 172181,
+      "sha256": "1f0cc5f76162eebc34660e08322a4139b603219208422aa6c2c13193310360a3",
+      "occurrences": 1,
+      "roles": [
+        "necessary accepted original-weight-universal declaration"
+      ]
+    },
+    {
+      "path": "problems/2025-B4/reviews/original-weight-universal-review-1-manifest-v1.json",
+      "bytes": 3042,
+      "sha256": "cd8f4db3a4d5ff6926e36d41e4d37d6ab5ab4f78278e261b2efe11578f93f1c3",
+      "occurrences": 1,
+      "roles": [
+        "necessary accepted original-weight-universal declaration"
+      ]
+    },
+    {
+      "path": "problems/2025-B4/reviews/original-weight-universal-review-2-input-validation-v1.json",
+      "bytes": 118675,
+      "sha256": "68f4dae3784b2cc56ee427030b033fc8b2dd414be93050dd9f1ba4ac5356ac28",
+      "occurrences": 1,
+      "roles": [
+        "necessary accepted original-weight-universal declaration"
+      ]
+    },
+    {
+      "path": "problems/2025-B4/reviews/original-weight-universal-review-2-manifest-v1.json",
+      "bytes": 3203,
+      "sha256": "2a57f089737aab5364d3e0329ba07ddfb38dab246b4a92f0fee47afe3abf6bd8",
+      "occurrences": 1,
+      "roles": [
+        "necessary accepted original-weight-universal declaration"
+      ]
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r6-acceptance-integrity.json",
+      "bytes": 1918,
+      "sha256": "16b3a89c3f990a81da68e428f7685631816b0ef106ec0dc8b7c5ea9aed9ad077",
+      "occurrences": 4,
+      "roles": [
+        "explicit constructor sources-v1.json declaration",
+        "explicit constructor input-validation-v1.json declaration"
+      ]
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r6-acceptance.json",
+      "bytes": 2483,
+      "sha256": "9d32b3f32be2bf758dc2bbe0182c11a6597a96139d0bd3b24680ba7041d56135",
+      "occurrences": 4,
+      "roles": [
+        "explicit constructor sources-v1.json declaration",
+        "explicit constructor input-validation-v1.json declaration"
+      ]
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r6-acceptance.md",
+      "bytes": 3261,
+      "sha256": "9eec12d169ef7c33efeeb1254dff467990b41822707db0086a4b14016544cf20",
+      "occurrences": 4,
+      "roles": [
+        "explicit constructor sources-v1.json declaration",
+        "explicit constructor input-validation-v1.json declaration"
+      ]
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r6-review-1-input-validation-v1.json",
+      "bytes": 1016,
+      "sha256": "7c8d0fe659d9afb1d0ff7c8e985301a7e3e73b06f4ff9632851cdb3107a3db98",
+      "occurrences": 1,
+      "roles": [
+        "necessary accepted reasoning-return-r6 declaration"
+      ]
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r6-review-1-manifest-v1.json",
+      "bytes": 1945,
+      "sha256": "0a489b23b596cb40e2af20acca7a0b0a19bece4f8465ccf79d7a836621a6281b",
+      "occurrences": 1,
+      "roles": [
+        "necessary accepted reasoning-return-r6 declaration"
+      ]
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r6-review-2-input-validation-v1.json",
+      "bytes": 1357865,
+      "sha256": "0249ff1de6aced191c2b1230764b3482adeb3ab87a65cdcef20365a393c30293",
+      "occurrences": 1,
+      "roles": [
+        "necessary accepted reasoning-return-r6 declaration"
+      ]
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r6-review-2-manifest-v1.json",
+      "bytes": 3670,
+      "sha256": "15bc55817d068fa6dd81ea393d95c0b2fe6213c8827f89543da54c3ca8052579",
+      "occurrences": 1,
+      "roles": [
+        "necessary accepted reasoning-return-r6 declaration"
+      ]
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r7-acceptance-integrity.json",
+      "bytes": 2172,
+      "sha256": "51a024505f5e7f594bf3fc7c25d752069a56161913be504c1978b50e672a46f8",
+      "occurrences": 4,
+      "roles": [
+        "explicit constructor sources-v1.json declaration",
+        "explicit constructor input-validation-v1.json declaration"
+      ]
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r7-acceptance.json",
+      "bytes": 2604,
+      "sha256": "0f9d4d01ba72b582768d89c142d1c8004417f0ab9e89b0a1213f78add921cac2",
+      "occurrences": 4,
+      "roles": [
+        "explicit constructor sources-v1.json declaration",
+        "explicit constructor input-validation-v1.json declaration"
+      ]
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r7-acceptance.md",
+      "bytes": 2544,
+      "sha256": "19946bfbb0df58428c7c14d32cf7a5fd036615479b1adfb6177c5e38c5980bb8",
+      "occurrences": 4,
+      "roles": [
+        "explicit constructor sources-v1.json declaration",
+        "explicit constructor input-validation-v1.json declaration"
+      ]
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r7-review-1-integrity-v1.json",
+      "bytes": 1956,
+      "sha256": "38b1ec36ec94582c4fc209964fd0d879bdac6ea5a56183050c286ab880cc0fde",
+      "occurrences": 1,
+      "roles": [
+        "necessary accepted reasoning-return-r7 declaration"
+      ]
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r7-review-1-manifest-v1.json",
+      "bytes": 3026,
+      "sha256": "fd1aaa2a40811776ea01fdbcc1b2699471ed1974d0b8b39b9212ebe94493d17c",
+      "occurrences": 1,
+      "roles": [
+        "necessary accepted reasoning-return-r7 declaration"
+      ]
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r7-review-2-input-validation-v1.json",
+      "bytes": 14846,
+      "sha256": "8006b0f7a89865bfcd29b33d1dabac3fadf911188d4b38f1d6a5a740ccc9e256",
+      "occurrences": 1,
+      "roles": [
+        "necessary accepted reasoning-return-r7 declaration"
+      ]
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r7-review-2-manifest-v1.json",
+      "bytes": 3975,
+      "sha256": "e7aa0fe112734e27ba562cd8465b0f81bc62b6c6975cfe9adbb0e37e808a9b91",
+      "occurrences": 1,
+      "roles": [
+        "necessary accepted reasoning-return-r7 declaration"
+      ]
+    },
+    {
+      "path": "problems/2025-B4/statement.md",
+      "bytes": 2024,
+      "sha256": "af0075dd635e8e4d31bb3ae9148d1731a7fbb57c06cf104763332e1496673f59",
+      "occurrences": 2,
+      "roles": [
+        "explicit constructor sources-v1.json declaration",
+        "explicit constructor input-validation-v1.json declaration"
+      ]
+    }
+  ],
+  "accepted_authority_occurrence_summaries": [
+    {
+      "acceptance": {
+        "path": "problems/2025-B4/reviews/original-weight-universal-acceptance.json",
+        "bytes": 2537,
+        "sha256": "73c04300bef8cfd0db3903c862af47dbdab5f859dc1a85d2cbb0c5a96fa6fa49"
+      },
+      "explicit_occurrences_checked": 8
+    },
+    {
+      "acceptance": {
+        "path": "problems/2025-B4/reviews/reasoning-return-r6-acceptance.json",
+        "bytes": 2483,
+        "sha256": "9d32b3f32be2bf758dc2bbe0182c11a6597a96139d0bd3b24680ba7041d56135"
+      },
+      "explicit_occurrences_checked": 8
+    },
+    {
+      "acceptance": {
+        "path": "problems/2025-B4/reviews/reasoning-return-r7-acceptance.json",
+        "bytes": 2604,
+        "sha256": "0f9d4d01ba72b582768d89c142d1c8004417f0ab9e89b0a1213f78add921cac2"
+      },
+      "explicit_occurrences_checked": 9
+    }
+  ],
+  "compact_own_parent": {
+    "path": "problems/2019-B4/reviews/coordinator-cap-gap-r1-review-1-manifest-v1.json",
+    "bytes": 3126,
+    "sha256": "c482bb0b681d7ff110ecfc4eea97370fbf1dac041e8f84196f0758d8638df400"
+  },
+  "earlier_own_paths_bound_compactly": 445,
+  "constructor_historical_438_occurrence_400_path_inventory_reexpanded": false,
+  "old_transitive_inventory_bound_by_immutable_wrappers": true,
+  "new_peer_R8_files_or_findings_read": false,
+  "mathematical_program_CAS_or_author_rerun": false
+}

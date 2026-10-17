@@ -4,15 +4,15 @@ Initial scope: nine official B4 open portions, 2017-2025. **2026 deferred by the
 
 |Year|Accepted result and present position|
 |---|---|
-|2017|Scalar limit exists, value unknown, reviewed upper<0.649514. NEW EC1--EC4 accepted after two complete WHOLE64-obligation audits: actual finite-M GE recovery and increasing certified LOWER approximations. UpperR, two-sided rate and numerical value remain open.|
+|2017|Scalar limit exists, value unknown, upper<0.649514 and certified LOWER approximations. NEW GR1--GR4 accepted: EVERY-p full admissible-profile realization with explicit geometric error after both40/56 WHOLE checks. EntropyMASS/upperR/value remain open.|
 |2018|COMPLETE general enumeration formula, independently reviewed and attributed to Hering--Howard/Ottaviani. This is a published-result reproduction.|
 |2019|NEW accepted1.765224<lambda<1.834847. CG1--CG4 give exact asymmetric minimum widths, actual omitted rigid-tail series and strict quantitative cap-gap floors after BOTH OTHER WHOLE24-obligation audits. Exact value/renewal regime remain open.|
 |2020|NEW R7 accepted after both WHOLE56-obligation audits: complete integral Fourier lift, prime-modulus norm iff and exact ideal/composite-gluing obstructions. Actual classification and solving the norm/integrality conditions remain open.|
-|2021|New R9 accepted after both complete initially blind whole audits: real witness-run/gcd-support restrictions and exact cubic collision depths in a restricted actual-double degree20 branch. Essential, weighted and cubic alternatives survive; degree20/general classification remain open.|
+|2021|NEW R10 accepted after both52/52 WHOLE audits: restricted actual-double degree20/m7/endpoint branch narrows to t>=2 or nu1/depth14 exception, with actual simple tail gcds. Remaining degree20/general classification open.|
 |2022|R8 accepted after both WHOLE audits: exact canonical prefix mergers, actual q2 predecessor counterexample, and separate binary-past/A-B phase obstructions. Literal scaling claim only for positive multipliers. No ordinary q10 infinite survivor or termination theorem.|
 |2023|COMPLETE internally reviewed classification for fixed positive nonsquare N: all(k,k),k>0, and(k,2k),(2k,k) for positive odd k. Priority remains unestablished.|
 |2024|NEW accepted S3A--D: attributed WHOLE absolute irreducibility for everym>3,3mod4, plus exact all-index isolation/gcd and graded-sum consequences after BOTH OTHER WHOLE audits. Earlier Kasami occurrence/saturation remains. The residual1mod4 ordinary reducibility classification remains open.|
-|2025|NEW R7A--E accepted after both WHOLE56-obligation audits: actual phase lattice/divided moments, exact pure-signature boundary, conditional original-weight bound and high-weight rank-collapse. No new Diophantine exclusion; full equation open.|
+|2025|NEW R8 accepted after both48/48 WHOLE audits: quantitative actual original-weight orbit amplification, real phase cancellation, all-order integral jets and formal leading-order bound with BOTH evaluated branches. Large zero-branch cost means no useful new unconditional exclusion/full solution.|
 
 ## Coordination
 
@@ -172,3 +172,7 @@ Five new exact partial packets accepted after both complete blind WHOLE audits a
 ## Checkpoint2026-10-17 19:54UTC
 
 [All-nine status and token update](status-2026-10-17-1954.md). Newly accepted2019CG,2022R8,2024sector3 after BOTH OTHER complete blind WHOLE audits and root reconciliation. Two annual answers unchanged.2017R5,2021R10,2025R8 remainUNVERIFIED; each rootwholeR1frozen/OTHERwholeR2active.61%TOTALweekly;raw1,343,156,767incl1,271,814,400cached;uncached+output71,342,367;reasoning4,404,073 is an output subset. Ownedawake lastverified19:44:08UTC,next20:44:08UTC. Researchcontinues.
+
+## Checkpoint2026-10-17 20:06UTC
+
+[All-nine status and usage](status-2026-10-17-2006.md).2017GR/2021R10/2025R8 now accepted after both OTHER complete blind WHOLE audits/full root reconciliation. Two annual answers unchanged. New2019retained-core upper1.834843 remainsUNVERIFIED with A/Cwholeauditsactive;acceptedupper1.834847.62%TOTALweekly;raw1,372,405,268incl1,299,407,104cached;uncached+output72,998,164;reasoning4,465,483 is an outputsubset. Researchcontinues.

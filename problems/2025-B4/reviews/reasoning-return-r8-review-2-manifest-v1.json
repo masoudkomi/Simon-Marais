@@ -1,0 +1,80 @@
+{
+  "frozen_at_utc": "2026-10-17T20:02:32.858450+00:00",
+  "status": "COMPLETE initially blind WHOLE R8 R2 initial",
+  "reviewer": "/root/review_2017_coarsening_r1",
+  "new_constructor": "/root/review_2022_complexity_r2",
+  "target_main": {
+    "path": "problems/2025-B4/notes/reasoning-return-r8-candidate-v1.md",
+    "bytes": 25033,
+    "sha256": "2688587a44e9c161c7bb2bcdc6eecfb474c231ab9542572aaec5e9ed557a9b8d"
+  },
+  "target_freeze": {
+    "path": "problems/2025-B4/notes/reasoning-return-r8-freeze-v1.json",
+    "bytes": 4298,
+    "sha256": "a68ae37d1d5b9f0b209629e6d2027da1ad0fe8d8e6d889b6e261bc0f5a8cff04"
+  },
+  "whole_obligations": 48,
+  "all_ten_constructor_artifacts_and_exact_accepted_input_scopes_covered": true,
+  "new_root_peer_R8_findings_unread_until_entire_initial_frozen": true,
+  "old_constructor_roles_disclosed_no_independent_self_recertification": true,
+  "verdict": "no substantive defect in exact R8A-R8D scope relative to accepted inputs",
+  "substantive_issues": 0,
+  "required_repairs": 0,
+  "record_occurrences_verified": 130,
+  "deduplicated_paths_verified": 65,
+  "compact_immutable_own_parent": {
+    "path": "problems/2019-B4/reviews/coordinator-cap-gap-r1-review-1-manifest-v1.json",
+    "bytes": 3126,
+    "sha256": "c482bb0b681d7ff110ecfc4eea97370fbf1dac041e8f84196f0758d8638df400"
+  },
+  "earlier_own_paths_preserved": 445,
+  "mathematical_code_CAS_scan_rank_test_or_author_rerun": false,
+  "no_evaluated_nonvanishing_annual_exclusion_useful_global_height_or_novelty_claim": true,
+  "artifacts": [
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r8-review-2-initial-v1.md",
+      "bytes": 15561,
+      "sha256": "e1012f0f4bb43cada70fcc5f8b5cb0fa3399575282b4aefd2038db8cc3656aaa"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r8-review-2-issues-v1.md",
+      "bytes": 1547,
+      "sha256": "bff133f51bb095fec8e6374b8945d08583e633d45bb4a4c46b94d27dff85bbd0"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r8-review-2-ledger-v1.md",
+      "bytes": 7522,
+      "sha256": "06f7b2eb13f9db811f72132a4178d0598532f2be9de392b647da507e43653dfb"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r8-review-2-sources-v1.md",
+      "bytes": 6286,
+      "sha256": "1e06f850169f34c1eb2ca23525f4cc35d4e4f58beca16f8d3270871c62a9ffd9"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r8-review-2-worklog-v1.md",
+      "bytes": 3809,
+      "sha256": "fea2a358dcdff4c8585d5103c17bb76e5aa0119ea2a5943d52e2df93816a50f2"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r8-review-2-baseline-v1.json",
+      "bytes": 24735,
+      "sha256": "1bdb079f3c843a53a3b39db43975746d4511f48d1b2dc4caf9a75682df3d3662"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r8-review-2-metadata-v1.json",
+      "bytes": 1593,
+      "sha256": "b8aed1b12c89994ebac32da5ce454714060c49e00cb4f1d09d952de701b7b4af"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r8-review-2-input-validation-v1.json",
+      "bytes": 738,
+      "sha256": "69d8728c74701b3fc5dc97a98d2e19c2b4fa0d89bf024e574d761c2325390709"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r8-review-2-freeze-v1.py",
+      "bytes": 7552,
+      "sha256": "eb36ad5ecf2ae0d028b5b46e6c1cb24ea842ad705194d90c4ed2bb25a0df4b4a"
+    }
+  ]
+}

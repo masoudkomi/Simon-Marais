@@ -85,3 +85,6 @@ The [2022 canonical-fork and phase-interface partials](problems/2022-B4/reviews/
 
 
 Latest [all-nine research/usage report](progress/status-2026-10-17-1954.md): newly accepted [2019 cap-gap bound1.765224<lambda<1.834847](problems/2019-B4/reviews/coordinator-cap-gap-r1-acceptance.md), [2024 published-sector reconstruction/all-index isolation](problems/2024-B4/reviews/reasoning-sector3-return-r1-acceptance.md), and2022R8. Each exact partial passed two OTHER initially blind WHOLE audits and root reconciliation. Two complete annual answers remain2018/2023;seven unresolved.2017R5/2021R10/2025R8 are explicitly unverified pending their other audits.61%TOTAL weekly usage; work continues toward the authorized90% ceiling.
+
+
+[Current all-nine update20:06UTC](progress/status-2026-10-17-2006.md):2017GR,2021R10,2025R8 now accepted as exact scoped partials after both OTHER whole audits/full reconciliation. Two completeannualanswers2018/2023 unchanged. New2019 retained-core candidate remainsunverified.62%TOTALweekly;researchcontinues.

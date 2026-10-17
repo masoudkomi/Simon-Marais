@@ -1,0 +1,83 @@
+{
+  "recorded_at_utc": "2026-10-17T20:02:43.849673+00:00",
+  "actual_read_scope": "Complete source-checks-v1.md; not a claim of fresh whole audits of old own work",
+  "primary_analytic": {
+    "title": "Leon Simon, Introduction to Geometric Measure Theory,2017/2018",
+    "url": "https://math.stanford.edu/~lms/ntu-gmt-text.pdf",
+    "read_scope": "Chapter2 Theorems1.2,1.4,3.3 and relevant proofs,printed44--46,57--60",
+    "application": "scalar extension/Rademacher; area formula on open planar domain for measurable zero-Jacobian set",
+    "downloaded_byte_sha256": null
+  },
+  "primary_context": [
+    {
+      "url": "https://lipn.fr/~fernique/info/hammingflip.pdf",
+      "read_scope": "actual title and COMPLETEsection2,printed4--5; unit-generator edge-to-edge/ribbon definitions only",
+      "full_later_proof_read": false,
+      "downloaded_byte_sha256": null
+    },
+    {
+      "url": "https://lipn.univ-paris13.fr/~fernique/qc/structure_3.pdf",
+      "read_scope": "text PDFpages17--25,multigrid/pseudogrid context; no imported straightening or diagram theorem",
+      "downloaded_byte_sha256": null
+    }
+  ],
+  "official": [
+    {
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2017-paper-2_1.pdf",
+      "read_scope": "actual B4,PDFpage2",
+      "existing_cache": {
+        "path": ".cache/official/2017-paper_b.pdf",
+        "bytes": 112458,
+        "sha256": "69d7cf84128c2464d962136ed613808b6c7a7b07122cfba9c06b5adf775e2a68"
+      }
+    },
+    {
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2017-solutions-preliminary_1.pdf",
+      "read_scope": "B4/comments,PDFpage12",
+      "existing_cache": {
+        "path": ".cache/official/2017-solutions.pdf",
+        "bytes": 231254,
+        "sha256": "c272a72239ef4c2ccd54df0702140179e0a9b85f5a9028c87d485841eb1a2c12"
+      }
+    }
+  ],
+  "old_accepted_actual_read_scopes": [
+    {
+      "path": "problems/2017-B4/proofs/reviewed-fixedD-structural-v1.2.md",
+      "scope": "FULLsections1--3,lines1--185; old necessary geometry/dictionary and actual convexity counterexample"
+    },
+    {
+      "path": "problems/2017-B4/reviews/fixedD-structural-acceptance.md",
+      "scope": "FULL acceptance text; FD2-01 preservation; later envelope unused",
+      "fingerprint": {
+        "path": "problems/2017-B4/reviews/fixedD-structural-acceptance.md",
+        "bytes": 1602,
+        "sha256": "0ed34669cc8c3753cb623690b8cd70ece8e344fd44b28ede63f3775af32d5aa3"
+      }
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-clean-strata-v1.1.md",
+      "scope": "FULL accepted body FL1/CL1/OB1; no arbitrary-decoration inference"
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-global-value-return-v1.1.md",
+      "scope": "throughline52,accepted scope/setup only; not a fresh whole proof audit"
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-global-value-return-r2-v1.1.md",
+      "scope": "throughline70 and COMPLETEsmall fiber lines305--325"
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-reasoning-value-return-r3-v1.1.md",
+      "scope": "throughline60,accepted own HC scope/setup only"
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-reasoning-value-return-r4-v1.1.md",
+      "scope": "throughline54,accepted own EC scope/setup; FULL acceptance.md/json/integrity"
+    }
+  ],
+  "old_roles": "A older strict-local/HC/EC constructor and local/global reviewer; no NEW R5 construction role",
+  "no_new_root_R5_review_or_separate_closure_lead_opened": true,
+  "no_new_download_render_cache_write_or_stalled_wait": true,
+  "no_math_code_CAS_scan_author_rerun_or_proposed_algorithm_execution": true
+}

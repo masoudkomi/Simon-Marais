@@ -1,0 +1,19 @@
+# Coordinator acceptance: reasoning-value-return-r5
+
+2026-10-17 UTC. **Proved, independently reviewed scoped partial result.**
+
+GR1--GR4 are accepted ONLY for the exact FULL admissible profiles on the balanced fixed-D integer zonogon: D>=2, vi=(1,i-1), h:Omega->[0,1]^D continuous/Lipschitz, Vh=x, the WHOLE canonical marked boundary lift, and every ordered row minor nonnegative almost everywhere. No arbitrary finite decoration, partial boundary or convexified slope is admitted.
+
+GR1 obtains a coordinate-D Lipschitz bound and the fixed SCALAR cone q_u>=|q_s| without smoothing the nonconvex vector constraint. Outside a countable set, ENTIRE scalar levels are proper Lipschitz graph arcs with their exact opposite-side ports. GR2 uses the actual Lipschitz area formula/positive winding and one common phase to obtain once-only transverse pair crossings and no triples at EVERY fixed integer p>=1. It does not assert a common phase for all p or an algorithm for arbitrary Lipschitz input.
+
+GR3 constructs an ACTUAL full marked balanced tiling at EVERY p with p² tiles of each pair type and canonical height error <=(1+D M_D)/p<=(1+D³)/p on the WHOLE closed domain. The finite arrangement has Jordan cells and unique ranks, one interval per boundary region and an outside-dual star that is a cone over a simple cycle. Its complement is a disk. Summed positive face windings give physical multiplicityONE, while integral primitive horizontal edges and positive vertex fans rule out extra identifications/T-junctions. The boundary fan follows from existing containment and exact boundary rays; no new hypothesis or author repair is needed.
+
+GR4 supplies a separate exact finite algorithm for rational finite PL data: finitely many proper affine hyperplane exclusions and moment-curve trials find a rational phase, then rational intersection solving produces the actual tiling. The algorithm was not executed. Uniform-limit minor preservation and every-p realization identify the exact uniform-profile closure; integer subdivision equates union closure with limits of unbounded side contents. This is a geometric shape theorem, not exponential count mass or an entropy upper rate.
+
+Constructor C is excluded. Root R1 and A R2 are TWO OTHER fresh initially blind NONCONSTRUCTOR WHOLE audits,40/56 checks covering ALL40 obligations. Each ENTIRE initial froze before peer comparison. Root read the full main, BOTH complete reports, ALL ledgers and source/worklog/metadata companions and reconciled every inference. No substantive defect, required repair or separate scope advisory remains. Older FD/EC/value strategy/authorship/review roles are disclosed, not fresh self-certification; root's separate unverified profile-closure lead was neither a new construction contribution nor a premise of either audit.
+
+The exact Simon analytic hypotheses/proof cases are read and attributed. No smooth Sard or nonsmooth neighborhood inverse, arbitrary pseudogrid straightening or positive-faces-alone embedding is assumed. No mathematical executable, algorithm run, CAS, scan, native child, old certificate or author program supplied the proof. The old negative-minor mixture, OB1 extra-decoration obstruction and2-versus3 multiplicity comparison retain their actual meanings; an OB1 fine extension may be admissible without forcing its forbidden coarse filling.
+
+The numerical scalar limit, practical error bound, effective entropy upper R, exponential profile-neighborhood mass, two-sided entropy computability, full annual answer and novelty remain OPEN. Internal independent review is not external validation.
+
+Verified 70 declared fingerprint occurrences across 56 paths. Exact inputs are hashed in the integrity summary, without duplicating their preserved historical rows. The unchanged main is an accepted-copy suffix. Metadata checks are integrity only. Internal review is not externalvalidation; novelty is unestablished.

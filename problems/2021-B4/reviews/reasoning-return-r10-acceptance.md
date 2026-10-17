@@ -1,0 +1,17 @@
+# Coordinator acceptance: reasoning-return-r10
+
+2026-10-17 UTC. **Proved, independently reviewed scoped partial result.**
+
+R10A--R10C are accepted ONLY in the complete normalized integral degree20/J15/sole-H3/multiplicity-two branch, with an ADDITIONAL actual double root s, first even break m7, all actual derivative witnesses, global carrier exclusion, and the EXTRA ordinary endpoint geometry {r,1}. Thus r<0 and r<s<1. Local residue order alone does not provide that real geometry. Define B as the ACTUAL unavailability of BOTH endpoints at orders7,9,11,13 and t=|B|; it is not a chosen-witness label count.
+
+R10A: t>=1 for every integer nu=v19(r)>=1. The proof obtains rather than assumes the exact a2=1 and T4 depths under t<=1. It combines the accepted EVERY-selection odd-run theorem with a complete six-case HAND quartic calculation in the correct local0,1,2 frame. The actual affine origin exchange, strict controlled-quadratic/m7 fork and13/14 seam are retained. A different first break or a residue-only witness is outside the conclusion.
+
+R10B: IF t=1, orient the actual origin so the first tail witness is0. Then the FULL monic gcds at orders14..17 are exactly X,X-r,X-s,X and are simple; a2=1,a3=a6=0 EXACTLY. The coefficient identities yield v19(a4)=2nu and v19(a5)=3nu. The exact double-root W/Wprime identities and reference coefficients exclude s=2r, force nu=1 and v19(s-2r)=14, and give P(r/19) divisible by19^12, where P(T)=33580-923120T+9036116T² and r/19 is10 or14mod19 in this oriented frame. Wprime means differentiation in its argument BEFORE evaluation, not differentiation of the evaluated expression in r. Higher cancellation is allowed in the reference W0 step.
+
+R10C: within the SAME domain, nu>=2 or exact s=2r implies t>=2. The t>=2 branch and the surviving t1/nu1 configuration are OPEN. Simple residue roots lift to finite congruences with negative integer representatives; that does not construct an actual rational polynomial or contradict the ordinary sign. No height bound or rational lift is supplied.
+
+Constructor A is excluded. Root R1 and B R2 are TWO OTHER fresh initially blind NONCONSTRUCTOR WHOLE audits,52/52 checks covering ALL52 obligations. Each ENTIRE initial froze before peer comparison. Root read the complete main, BOTH full reports, ALL ledgers and source/companion/metadata scopes and reconciled every substantive inference. No substantive issue or required repair remains. Root's older PN authorship/R5 strategy and earlier reviews, and B's OLD R9 authorship, are explicitly disclosed; neither is fresh independent self-certification of the accepted inputs. Both reconstructed the new bootstrap, all six quartics, actual simple gcds, exact integer coefficients and nu1 endpoint by HAND. No mathematical executable, scan, CAS, author program or old certificate was run.
+
+The actual rational-common-value official hypothesis, published sufficient interpolation hypotheses and fractional carrier boundary remain explicit. Internal independent review is not external validation. Other real geometries, other first breaks, remaining J15/degree20 cases, the full annual classification and novelty remain OPEN.
+
+Verified 115 declared fingerprint occurrences across 66 paths. Exact inputs are hashed in the integrity summary, without duplicating their preserved historical rows. The unchanged main is an accepted-copy suffix. Metadata checks are integrity only. Internal review is not externalvalidation; novelty is unestablished.

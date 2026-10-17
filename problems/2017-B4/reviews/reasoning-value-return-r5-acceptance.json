@@ -1,0 +1,74 @@
+{
+  "accepted_at_utc": "2026-10-17T20:03:31.914036+00:00",
+  "status": "proved, independently reviewed scoped partial result",
+  "whole_initials_blind": true,
+  "root_read_full_candidate_both_reports_all_ledgers_sources": true,
+  "unresolved_substantive_issues": 0,
+  "repair_required": false,
+  "candidate": {
+    "path": "problems/2017-B4/notes/reasoning-value-return-r5-candidate-v1.md",
+    "bytes": 30791,
+    "sha256": "f0313ffa047c8c0ac7664192a01936f842b300f22168a9b929c8d4d39c41879e"
+  },
+  "accepted_copy": {
+    "path": "problems/2017-B4/proofs/reviewed-reasoning-value-return-r5-v1.1.md",
+    "bytes": 34615,
+    "sha256": "e6c9da16c39c038c1646e7756f38b299f4ddc1443555c7bb668d0444741f869a"
+  },
+  "verification_metadata": [
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r5-freeze-v1.json",
+      "bytes": 3146,
+      "sha256": "31b1789d41b1d492ef9f0d2235050025bb341ca70c8eb8d0c66765e63e43fed1"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r5-baseline-v1.json",
+      "bytes": 9994,
+      "sha256": "c2eb10cd228bacf0e40253ea468bda86b00a2490e93f1f6b9a55d8018142c2a5"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r5-input-validation-v1.json",
+      "bytes": 712,
+      "sha256": "cf507e62befd9670d63e6e2bc15a949b64806d3809c4439c6bcb155f03d65036"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r5-review-1-manifest-v1.json",
+      "bytes": 2012,
+      "sha256": "1953e4877ea11fc50e4f5a2361745f087643229b065181e8c1f08d8b1f002493"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r5-review-1-integrity-v1.json",
+      "bytes": 979,
+      "sha256": "996f4037dcd90d12d6fa95ab74b7a52c1de30ba7ebfec14ca84c00879fe5a363"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r5-review-2-manifest-v1.json",
+      "bytes": 3805,
+      "sha256": "11741a6e3049d5dafa6403ec18d109b711bef40996662eb78932db6877842f79"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r5-review-2-input-validation-v1.json",
+      "bytes": 4202,
+      "sha256": "6a6a9a28d46b2f9919a230c8a033589143777828e3b91060c50191f7981f924f"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r5-review-2-sources-v1.json",
+      "bytes": 3662,
+      "sha256": "80d8d75ffa67d69178a0699c7051310a175835e0a8f791efad3e64104f88de1c"
+    }
+  ],
+  "record_occurrences_verified": 70,
+  "unique_paths_verified": 56,
+  "constructor_excluded": "/root/review_2017_coarsening_r1",
+  "independent_nonconstructor_reviewers": [
+    "/root",
+    "/root/review_2021_reasoning_j15_r2"
+  ],
+  "whole_author_obligations": 40,
+  "whole_review_inference_rows": [
+    40,
+    56
+  ],
+  "one_profile_geometry_not_mass": true,
+  "entropy_upper_R_numerical_value_computability_annual_or_novelty_claim": false
+}

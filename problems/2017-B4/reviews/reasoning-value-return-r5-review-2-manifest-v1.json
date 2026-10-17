@@ -1,0 +1,85 @@
+{
+  "frozen_at_utc": "2026-10-17T20:02:43.849673+00:00",
+  "status": "COMPLETE initially blind NONCONSTRUCTOR WHOLE R2 initial; recommendation only",
+  "reviewer": "/root/review_2021_reasoning_j15_r2",
+  "new_constructor_excluded": "/root/review_2017_coarsening_r1",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "independently_verified_effective_settings": null,
+  "whole_checks": 56,
+  "all_author_obligations": 40,
+  "recommendation": "No substantive defect found in exact geometric GR1--GR4; other whole review and root reconciliation required",
+  "substantive_open_issues": 0,
+  "required_author_repairs": 0,
+  "advisories": [],
+  "complete_initial_before_ANY_new_root_R5_report_ledger_source_manifest_or_finding_opened": true,
+  "identity_only_peer_completion_notification_not_a_finding": true,
+  "older_strict_local_HC_EC_authorship_and_other_reviews_disclosed": true,
+  "new_R5_constructor_or_contributor": false,
+  "root_separate_profile_closure_lead_unread_unused": true,
+  "no_exponential_mass_entropy_upper_R_numeric_value_two_sided_computability_annual_or_novelty_claim": true,
+  "no_math_code_CAS_scan_author_rerun_proposed_algorithm_execution_or_native_child": true,
+  "no_old_shared_cache_Git_edits_spawn_contact_charge_bypass": true,
+  "compact_input_summary": {
+    "declared_fingerprint_occurrences_verified": 72,
+    "unique_paths_fingerprinted": 52,
+    "canonical_deduplicated_summary_sha256": "a8d76993e9a1fb154a42ed830386f80a01219380ea0f091663b3af15cbb2443f",
+    "historical_inventories_bound_not_duplicated": true,
+    "constructor_baseline_occurrences_verified": 33,
+    "constructor_baseline_unique_paths_verified": 32
+  },
+  "authoritative_account_weekly": {
+    "at_utc": "2026-10-17 20:02:23 UTC",
+    "total_used_percent": 62,
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "ordinary_usage_allowed": true,
+    "total_ceiling_percent": 90,
+    "integration_reserve": true
+  },
+  "administrative_command": ".venv/bin/python problems/2017-B4/reviews/reasoning-value-return-r5-review-2-freeze-v1.py --freeze",
+  "artifacts": [
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r5-review-2-initial-v1.md",
+      "bytes": 24069,
+      "sha256": "26e7db9484877fb82691227319cbcc3de55051d8124d271b439849efa5ecea18"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r5-review-2-issues-v1.md",
+      "bytes": 10014,
+      "sha256": "3e8b23e627bb978b5b1c09041107232c3e7d38d68691249e00d43d82555ad729"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r5-review-2-source-checks-v1.md",
+      "bytes": 7028,
+      "sha256": "e6e1ca924a4df9661768274f2018940732d1f1737f01e9d4ab81c4957cf36606"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r5-review-2-worklog-v1.md",
+      "bytes": 5825,
+      "sha256": "fb9c816f5d8f174ef8e0f6099761ef90cd5a96b0334bb72a9cacbf30f4e37e6f"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r5-review-2-freeze-v1.py",
+      "bytes": 13550,
+      "sha256": "f2ec04743e15965c8e849cd55eeb94f98050f3b4504fc1e5141415f5b118020d"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r5-review-2-sources-v1.json",
+      "bytes": 3662,
+      "sha256": "80d8d75ffa67d69178a0699c7051310a175835e0a8f791efad3e64104f88de1c"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r5-review-2-input-validation-v1.json",
+      "bytes": 4202,
+      "sha256": "6a6a9a28d46b2f9919a230c8a033589143777828e3b91060c50191f7981f924f"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r5-review-2-freeze-output-v1.json",
+      "bytes": 932,
+      "sha256": "b175529318c3b1087408a929f2ade9cdfc48cf580403b83239e71ee2af9efde0"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "recorded_at_utc": "2026-10-17T19:56:56.437542+00:00",
+  "status": "COMPLETE initially blind NONCONSTRUCTOR WHOLE R2 source record; no promotion",
+  "reviewer": "/root/review_2022_complexity_r2",
+  "new_R10_constructed_or_contributed_by_reviewer": false,
+  "older_R9_constructor_role_disclosed_not_fresh_self_recertification": true,
+  "older_J15_single_center_and_return_review_roles_disclosed": true,
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independently_verified_effective_settings": null,
+  "constructor_main": {
+    "path": "problems/2021-B4/notes/reasoning-return-r10-candidate-v1.md",
+    "bytes": 23674,
+    "sha256": "30c6046d83792ffff937f6052f7b00c18288754b3dc8e73345ca4a112015d09f"
+  },
+  "constructor_freeze": {
+    "path": "problems/2021-B4/notes/reasoning-return-r10-freeze-v1.json",
+    "bytes": 3884,
+    "sha256": "ff20fd17e080ce3fb5d3c0f4f3f7c1f58624741b0fadc1be4a0fee26fc73f2bd"
+  },
+  "all_ten_constructor_artifacts_plus_freeze_actually_read": true,
+  "constructor_freezer_read_as_text_only_not_executed": true,
+  "complete_accepted_bodies_freshly_read": [
+    {
+      "path": "problems/2021-B4/proofs/reviewed-reasoning-return-r8-v1.1.md",
+      "bytes": 19921,
+      "sha256": "33b8713d402d09f711d0096cdc4e8c00f9e622a5335f8e3345eb4f82ba0d359d"
+    },
+    {
+      "path": "problems/2021-B4/proofs/reviewed-reasoning-return-r9-v1.1.md",
+      "bytes": 22183,
+      "sha256": "9cac411e50b28dd30bd961afc4fb1902556d716154c2d75a64a618115f7ec384"
+    },
+    {
+      "path": "problems/2021-B4/proofs/reviewed-odd-support-exclusion-v1.1.md",
+      "bytes": 8176,
+      "sha256": "56274936ab198f01cb38b1701fdec7907860eb654fd2bc79c3b2d0e03054a271"
+    },
+    {
+      "path": "problems/2021-B4/proofs/reviewed-reasoning-J15-v1.1.md",
+      "bytes": 18931,
+      "sha256": "fbc5d212b5b560c8e4e42397d19663f3fc882fa8f206bdcbb4ed897c715627f6"
+    },
+    {
+      "path": "problems/2021-B4/proofs/reviewed-reasoning-return-r5-v1.1.md",
+      "bytes": 23675,
+      "sha256": "f4f088adc133b0581520488cdbba30082c13b2402c96ae555142e5491ad4137d"
+    }
+  ],
+  "all_five_acceptance_md_and_json_scopes_read": true,
+  "R9_source_audit_and_failed_routes_freshly_read_complete": true,
+  "truncated_combined_reads_completed_in_bounded_followups": true,
+  "primary_public_sources": [
+    {
+      "title": "Official SMMC2021 Paper B",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2021-paper-b.pdf",
+      "actual_scope": "page2 B4 full hypothesis and(b), checked against complete local statement; no preliminary proof",
+      "fresh_native_PDF_sha256": null
+    },
+    {
+      "title": "Atkinson-Sharma1969, A partial characterization of poised Hermite-Birkhoff interpolation problems",
+      "url": "https://homepage.math.uiowa.edu/~atkinson/papers/HB_interp.pdf",
+      "actual_scope": "all226 extracted lines/all six pages230-235, incidence definitions, Theorem2 and full proof, distinct unused converse",
+      "use": "published sufficient criterion via exact accepted R9 adaptation; no all-roots-real premise",
+      "fresh_native_PDF_sha256": null
+    },
+    {
+      "title": "Castryck-Laterveer-Ounaies, Constraints on counterexamples to the Casas-Alvero conjecture, and a verification in degree12",
+      "url": "https://arxiv.org/pdf/1208.5404",
+      "actual_scope": "Section3.4 normalization through Lemma17, returned lines898-1013; complete Proposition19 and following unramified remark, lines1163-1307; nearby3.5 context, not full23pages/degree certificate",
+      "use": "normalization attribution and stronger ALL-root hypothesis boundary",
+      "fresh_native_PDF_sha256": null
+    }
+  ],
+  "new_R10_peer_report_ledger_source_integrity_manifest_contents_or_findings_read": false,
+  "only_peer_path_names_in_inventory_no_contents": true,
+  "no_new_full_R6_R7_or_unlisted_external_paper_read_claim": true,
+  "no_mathematical_executable_CAS_scan_author_or_certificate_rerun": true,
+  "no_old_shared_Git_cache_edit_spawn_contact_charge_or_bypass": true,
+  "necessary_current_old_fingerprint_summary_reverified": {
+    "occurrences": 80,
+    "unique_paths": 67,
+    "canonical_deduplicated_summary_sha256": "0b475cbf578427fb2b5d8bd6fb211a2df101242ffd7e477fff48656c588d03eb",
+    "encoding": "UTF8 sorted unique path/bytes/sha256 JSON, sorted keys, compact separators"
+  },
+  "constructor_historical_summary_immutable_bound_not_newly_replayed": {
+    "occurrences": 3367,
+    "unique_paths": 1085,
+    "canonical_sha256": "eacb15b46531bf0540436f27a0f39f15f1e7577d12535b081c9e9c5b35589f3b"
+  },
+  "older_own_paths_bound_transitively": 400,
+  "compact_own_parent_manifest": {
+    "path": "problems/2019-B4/reviews/coordinator-cap-gap-r1-review-2-manifest-v1.json",
+    "bytes": 5859,
+    "sha256": "12fd86248b4303504a4abb7480d8b3affbc62c99380d64aeae1316b902d00543"
+  },
+  "compact_own_parent_validation": {
+    "path": "problems/2019-B4/reviews/coordinator-cap-gap-r1-review-2-input-validation-v1.json",
+    "bytes": 11444,
+    "sha256": "0a5c91c235bed3b0a49da0dd0f36a8c7a2466e0a70cb3bdc5ec54ee2c333cb80"
+  },
+  "historical_inventory_not_recopied_or_claimed_freshly_reread": true,
+  "direct_weekly_telemetry": {
+    "at_utc": "2026-10-17 19:51:56 UTC",
+    "total_used_percent": 61,
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "ordinary_usage_allowed": true,
+    "total_ceiling_percent": 90,
+    "review_integration_reserve": true
+  }
+}
