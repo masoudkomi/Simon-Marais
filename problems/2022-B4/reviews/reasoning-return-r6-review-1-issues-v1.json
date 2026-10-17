@@ -1,0 +1,256 @@
+{
+  "frozen_at_utc": "2026-10-17T14:59:56.512045+00:00",
+  "status": "COMPLETE initially blind nonconstructor WHOLE R1; not acceptance",
+  "reviewer": "coordinator root",
+  "new_peer_findings_read_before_complete_freeze": false,
+  "all_author_obligations": 40,
+  "checks": [
+    {
+      "id": "R6-O01",
+      "claim": "Match actual official B4(b): positive ordinary integers, inclusive product600, simultaneous old-pair updates, equality question; no preliminary proof.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Actual cached official p2 freshly read; positive ordinary starts, simultaneous updates and inclusive600 preserved."
+    },
+    {
+      "id": "R6-O02",
+      "claim": "Read complete exact accepted F5 proof/acceptance: actual A/B realization, digit10, exact-nine conditionality, real/two-prime image distinction and remaining ordinary gap.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Complete accepted F5 body/scopes reread; root old carry contribution disclosed, no new R6 inference supplied."
+    },
+    {
+      "id": "R6-O03",
+      "claim": "Use stopped0/81-mod100 map ONLY on actual positive ordinary states; minimum81 and strict growth; both intermediate contest steps and fixed return controller are accepted inputs.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "F5 exact actual loop map/branches and intermediate realization retained; allowed positive minima81 and strict growth valid."
+    },
+    {
+      "id": "R6-O04",
+      "claim": "Distinguish an S-integral positive rational cycle from any ordinary integer start; retain one-rational-versus-varying-rational local/global quantifiers.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "S-integrality defined by finite denominator primes and never equated with ordinary integrality or one all-prime point."
+    },
+    {
+      "id": "R6-O05",
+      "claim": "For arbitrary finite S,E enlarge S by2,3,5,7,11 and form K_S=21 product(ell-1) over remaining primes, without a search or primitive-root computation.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Finite prime-set enlargement and positive multiples of stated integer K_S require no search; infinite supply remains."
+    },
+    {
+      "id": "R6-O06",
+      "claim": "Derive the fixed point of B^M A, not A^M B; verify P/Q orientation and both equivalent c0 formulas.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Delta-21Q^M=P(P^M-Q^M) verifies c0 and B-first orientation; final A sends c_M to c0."
+    },
+    {
+      "id": "R6-O07",
+      "claim": "Check all intermediate phases c_j=1/21-P^jQ^(M-j)/Delta_M and exact final A return gamma*c_M=c0.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Direct affine substitution recovers every displayed c_j and final return, not merely the fixed-point equation."
+    },
+    {
+      "id": "R6-O08",
+      "claim": "Prove strict real0<c_M<=c_j<=c0<1/21 for every M>=1; these are not official integer cycles.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "P>Q gives last phase minimum Q(P^M-Q^M)/(21Delta)>0 and every c_j<1/21."
+    },
+    {
+      "id": "R6-O09",
+      "claim": "At2/5, Delta_M and21 are units; EVERY phase is integral. For j<M its rational mod100 class is81; last phase is0mod100.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Both denominator primes see Delta/21 units; subtracted term has Q for j<M, last alternate numerator has Q."
+    },
+    {
+      "id": "R6-O10",
+      "claim": "At11, Delta_M is a unit and every phase integral; do not assume ordinary integrality from these three primes.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "At11 Delta reduces to -Q^(M+1), a unit; all rational phases integral there."
+    },
+    {
+      "id": "R6-O11",
+      "claim": "At3/7, use exact nu(P-Q)=1 and M divisible21: numerator contains ell\u00b2; Delta_M has exact valuation one as M+1 is a unit.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Geometric quotient reduces to nQ^(n-1); M divisible3/7 gives numerator depth>=2 and M+1 unit gives Delta depth1."
+    },
+    {
+      "id": "R6-O12",
+      "claim": "Cancel BOTH factors at3/7 in21*Delta_M, then propagate integrality through each affine step since100 is a unit there.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Denominator21Delta has depth exactly2 at3/7, canceled by numerator; later maps divide only by100 units."
+    },
+    {
+      "id": "R6-O13",
+      "claim": "For each other prime ell in S, M divisible ell-1 gives gamma^M=1 and gamma^(M+1)-1=gamma-1 nonzero moduloell, so the cycle denominator is a unit.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "For other selected primes, Fermat gives gamma^M=1 and gamma-1=21/100 nonzero, so Delta is a unit."
+    },
+    {
+      "id": "R6-O14",
+      "claim": "Prove exact nu_11(1/21-c_j)=2j at every phase, with no denominator cancellation mistake.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Exact gap1/21-c_j=P^jQ^(M-j)/Delta has11-valuation2j without cancellation."
+    },
+    {
+      "id": "R6-O15",
+      "claim": "For e!=1/21, a possible phase index j is uniquely fixed by its11-adic valuation; negative or odd values preclude a hit. e=1/21 is never hit.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "A forbidden rational value fixes at most one nonnegative phase via the exact11 valuation;1/21 is excluded directly."
+    },
+    {
+      "id": "R6-O16",
+      "claim": "For each fixed j, c_j is strictly increasing with M>=j; every rational forbidden value excludes at most one M, so infinitely many multiples survive.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "At fixed j the real denominator gamma^(M+1)-1 grows, so c_j strictly increases; each forbidden value removes at most one M."
+    },
+    {
+      "id": "R6-O17",
+      "claim": "A finite list of nonzero rational functions has finitely many rational zeros/poles; every phase can avoid them, including irrational-root and identically-zero-feature boundaries.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Nonzero rational functions have finitely many rational zeros/poles; irrational roots never hit rational phases and constant/undefined cases stay qualified."
+    },
+    {
+      "id": "R6-O18",
+      "claim": "R6B quantifiers: fix finite prime/function features, modulus m and height threshold first; choose ONE M/cycle independent of arbitrary repeat count J.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "All finite observed data fixed first; one rational cycle is chosen before arbitrary shadow repeat count J."
+    },
+    {
+      "id": "R6-O19",
+      "claim": "Include all prime divisors of m and observed primes in S; rational cycle residues modulo m are well defined.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Observed primes and every prime divisor of m are included, making all cycle target residues well defined."
+    },
+    {
+      "id": "R6-O20",
+      "claim": "Prove finite valuation thresholds k_ell for all phases and functions by clearing numerator/denominator coefficient denominators and local stability of a nonzero value. Unit values are not required.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Cleared polynomial coefficients and a fixed nonzero value give local valuation stability; finite maxima cover every phase/function."
+    },
+    {
+      "id": "R6-O21",
+      "claim": "CRT produces ONE ordinary residue class with nu(x0-c0)>=k+2JL at2/5 and>=k elsewhere, and arbitrarily large positive representatives.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Coprime prime-power congruences have S-integral targets and CRT supplies a full ordinary class with arbitrarily large representatives."
+    },
+    {
+      "id": "R6-O22",
+      "claim": "Apply the prescribed affine word initially over Q and derive exact difference gamma^t(x0-c0) for all times through JL.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Affine subtraction cancels the inhomogeneous term at each step and yields the exact gamma^t difference."
+    },
+    {
+      "id": "R6-O23",
+      "claim": "Track losses EXACTLY at both2/5, gains at11 and unchanged precision at every other selected prime; do not use a fictitious inverse of100 in Z10.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Nu gamma is -2 at2/5,+2 at11 and0 at every other selected prime; prescribed precision lasts through N."
+    },
+    {
+      "id": "R6-O24",
+      "claim": "Rational iterates have denominator support only2/5; integrality at BOTH proves actual ordinary integrality at every phase, not just inverse-limit compatibility.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Affine rational denominator support is only2/5; proved integrality at BOTH therefore establishes ordinary integrality, not just compatibility."
+    },
+    {
+      "id": "R6-O25",
+      "claim": "Retained precision at2/5>=2 forces exact0/81-mod100 branches and every actual finite F step; real positive difference plus c_j>0 proves positivity.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Precision>=2 at both denominator primes fixes mod100 and branches; positive real difference/cycle gives actual positive states."
+    },
+    {
+      "id": "R6-O26",
+      "claim": "All specified valuations and residues match the fixed rational phase at EVERY time, not only endpoints; functions remain defined/nonzero.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "All required valuation/residue thresholds hold at every time; nonzero function values stay nonzero and defined."
+    },
+    {
+      "id": "R6-O27",
+      "claim": "Prove I(x_(t+L))=I(x_t) across the whole finite shadow and exact whole-period growth x_N=gamma^N(x0-c0)+c0>x0.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Periodicity of the rational phase gives exact repeating feature vector; whole-period difference formula gives strict actual growth."
+    },
+    {
+      "id": "R6-O28",
+      "claim": "At fixed J starting representatives may be arbitrarily large; as J varies they change. No one positive ordinary point or infinite orbit follows by compactness.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Representatives are arbitrarily large at each fixed J but may change with J; no compactness-to-ordinary step is made."
+    },
+    {
+      "id": "R6-O29",
+      "claim": "For a rank depending only on I, identical endpoint features contradict strict decrease in ANY strictly ordered range on every sufficiently large locally allowed edge.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Actual finite path begins and ends with the same feature; transitive strict rank on all such edges would strictly decrease to itself."
+    },
+    {
+      "id": "R6-O30",
+      "claim": "R6C(ii) permits arbitrary unbounded/nonlinear Phi, arbitrary bounded possibly nonlocal eta, and ANY positive log coefficient a; no hidden finite-state/causality assumption.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Only feature equality is used for Phi, so no boundedness/linearity/computability of Phi is assumed; eta alone has a uniform bound."
+    },
+    {
+      "id": "R6-O31",
+      "claim": "Choose J from a,N,L,uniform boundB BEFORE the starting CRT representative; then choose x0 above domain threshold and at least2c0.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "J chosen from fixed cycle/a/B first, then large CRT representative; increasing path stays in sufficiently large domain."
+    },
+    {
+      "id": "R6-O32",
+      "claim": "Use endpoint feature equality to cancel Phi exactly; x_N/x0>=gamma^N/2 gives positive net V increase exceeding2B.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Endpoint Phi cancels, x_N/x0>=gamma^N/2 and bounded eta contributes at worst -2B, contradicting nonincrease."
+    },
+    {
+      "id": "R6-O33",
+      "claim": "Conclude failure of nonincrease on all locally allowed ordinary edges, WITHOUT assuming an infinite surviving path. State positive-height and bounded-error restrictions exactly.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Contradiction uses finite actual edges only; positive log coefficient and bounded-error hypotheses remain essential scope."
+    },
+    {
+      "id": "R6-O34",
+      "claim": "Transfer only the precisely specified restriction of a hypothetical contest Lyapunov/rank to accepted A/B return line; finite paths satisfy all official hypotheses and avoid equality at intermediate times.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Accepted A/B return line and every intermediate contest step preserve nonequality/product; restricted global rank must decrease on returns."
+    },
+    {
+      "id": "R6-O35",
+      "claim": "Log b/log(a+b)/logmax differ by bounded terms; rational two-variable observables restrict to rational functions in x, with constant features removed and undefined restrictions disallowed. No classification of every possible rank.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Specified logarithms differ from log x by bounded functions; rational observables restrict rationally with stated constant/undefined limits."
+    },
+    {
+      "id": "R6-O36",
+      "claim": "Exact numerator-prime memory nu_11(U_next)=2k follows from accepted V1 because PU-1 and Q are11-adic units; label this a direct corollary, not a new branch exclusion.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "PU-1 and Q are11-units, so accepted gap formula has exact valuation2k; explicitly only a direct old-formula corollary."
+    },
+    {
+      "id": "R6-O37",
+      "claim": "Every noninteger rational cycle integral at finite S has some denominator prime outside S; enlarging S changes the point. No all-prime diagonal conclusion or integer periodic counterexample.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Positive c0<1/21 is noninteger, so its finite-set-integral denominator has some prime outside S; changing S changes the witness."
+    },
+    {
+      "id": "R6-O38",
+      "claim": "Primary source scope: Frougny--Klouda requires canonical/GMD direction and p>q; PAM results require bounded interval domains and/or density hypotheses, not this unbounded residue-stopped integer map. No source theorem closes termination.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "No external rational-base/PAM theorem is imported; contextual canonical-direction/interval/density/conjectural hypotheses retained."
+    },
+    {
+      "id": "R6-O39",
+      "claim": "Record all genuine failed routes, timeout/read limits, absence of math computation, requested-versus-effective settings, weeklyTOTAL ceiling/reserve, ownership and immutable old-byte hashes.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Full failed-route/source/log record read and known frozen bytes verified; no math program in this audit or peer findings used."
+    },
+    {
+      "id": "R6-O40",
+      "claim": "Whole R6A--R6C proofs, actual-contest scoped corollary and explicit unsolved ordinary infinite-lift/equality gap must survive BOTH OTHER fresh whole audits before root alone may accept; no priority or annual solution claim.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Entire new theorem/contest corollary reconstructed before fresh peer comparison; ordinary infinite lift, termination and novelty remain unproved."
+    }
+  ],
+  "substantive_issues": [],
+  "author_repair_required": false,
+  "remaining_annual_gaps": [
+    "positive ordinary infinite lift unknown",
+    "universal termination unknown",
+    "other global or scale-dependent ranks not excluded"
+  ]
+}

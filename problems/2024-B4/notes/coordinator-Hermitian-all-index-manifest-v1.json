@@ -1,0 +1,83 @@
+{
+  "frozen_at_utc": "2026-10-17T14:49:00.242010+00:00",
+  "status": "candidate proof - unverified",
+  "constructor": "coordinator root",
+  "claims": [
+    "HR1 every inner r>=2 composition identity iff s=r,H=T",
+    "HR2 fixed-q whole-divisor iff r1 or r=s for every r,s>=1"
+  ],
+  "whole_obligations": 24,
+  "requires_two_OTHER_fresh_initially_blind_whole_audits": true,
+  "new_external_inputs": [
+    "classical Hasse--Weil lower bound",
+    "standard smooth-plane genus formula"
+  ],
+  "exact_Hermitian_zeta_or_maximality_or_quotient_classification_used": false,
+  "mathematical_program_CAS_scan_or_sample": false,
+  "annual_or_arbitrary_factor_or_novelty_claim": false,
+  "records": [
+    {
+      "path": "problems/2024-B4/notes/coordinator-Hermitian-all-index-return-v1.md",
+      "bytes": 15281,
+      "sha256": "296241f7538f7eb86315998ff760f4fa363d3a2d1c911988d6fa2b1a4f0287cc"
+    },
+    {
+      "path": "problems/2024-B4/notes/coordinator-Hermitian-all-index-obligations-v1.md",
+      "bytes": 3579,
+      "sha256": "b6614f87c79f777007d24a7be28a6500f0e7e3a3ea6a5456f9f07fdd4d5a9f97"
+    },
+    {
+      "path": "problems/2024-B4/notes/coordinator-Hermitian-all-index-source-checks-v1.md",
+      "bytes": 3796,
+      "sha256": "1b876bd06f40a3a948e29ead6b729c0d78a8978315b6398ce2e8e0e2ac86ce45"
+    },
+    {
+      "path": "problems/2024-B4/notes/coordinator-Hermitian-all-index-worklog-v1.md",
+      "bytes": 3575,
+      "sha256": "a7fe69ecb111e0e285ada3ae75f91629ef5d4e419c18f05f297ccbaeb815334a"
+    }
+  ],
+  "accepted_and_context_inputs": [
+    {
+      "path": "problems/2024-B4/proofs/reviewed-generalized-Kasami-v1.1.md",
+      "bytes": 12828,
+      "sha256": "eff29275bed2eb037a90bd8935c7c00740e66874c03f973a2996daa8f131d36e"
+    },
+    {
+      "path": "problems/2024-B4/reviews/generalized-Kasami-acceptance.json",
+      "bytes": 5168,
+      "sha256": "c580e2e51475b46283b16c47992a625fc3437c0a0a4669c63394f6a5bafbbf67"
+    },
+    {
+      "path": "problems/2024-B4/proofs/reviewed-composition-Kasami-v1.1.md",
+      "bytes": 17366,
+      "sha256": "f1e82d443b5ac997889c7a7f7f340437f8401516cccf9516eac132558df220c5"
+    },
+    {
+      "path": "problems/2024-B4/reviews/composition-Kasami-acceptance.json",
+      "bytes": 2786,
+      "sha256": "fb34aeef979003960d3563e70b4a97444279dfe9cce9448e11b0712126fb250d"
+    },
+    {
+      "path": "problems/2024-B4/proofs/reviewed-even-inner-next-jet-v2.1.md",
+      "bytes": 14959,
+      "sha256": "4058c8356c4b6f9d071a3713609b82ddde10b2989e9a177050f0b2951a28bb52"
+    },
+    {
+      "path": "problems/2024-B4/reviews/even-inner-next-jet-acceptance.json",
+      "bytes": 2228,
+      "sha256": "d0e20b10dee76d666db744a5cbb3a773ee610dd5a87e30b0b1ff0b845f35a697"
+    },
+    {
+      "path": "problems/2024-B4/notes/coordinator-odd-period-composition-lead-v1.md",
+      "bytes": 5070,
+      "sha256": "9b05ee38899c5dcd665b95f83f703f3a7864a11c210e923f73b465dbc761e0a1"
+    },
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    }
+  ],
+  "note": "Metadata hashing only; no author mathematical computation. Older odd-period lead is historical context, not an imported theorem."
+}
