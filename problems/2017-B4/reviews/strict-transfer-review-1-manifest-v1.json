@@ -1,0 +1,62 @@
+{
+  "frozen_at_utc": "2026-10-17T06:07:25.724854+00:00",
+  "status": "independent initially blind whole review; scoped recommendation only; no promotion",
+  "reviewer": "review_2021_reasoning_j15_r2",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "candidate_sha256": "a19f8e66cb0fb810098eb209a47e73ecbb26e1d43316c13fa64bb5f743c8c3f1",
+  "whole_claims": [
+    "ST1",
+    "ST2",
+    "ST3",
+    "all accepted dependency interfaces"
+  ],
+  "substantive_objections": 0,
+  "repair_requested": false,
+  "peer_findings_read_before_freeze": false,
+  "no_H_PR_or_uniform_strata_claim": true,
+  "mathematical_program_enumeration_or_CAS": false,
+  "candidate_or_shared_changes": false,
+  "git_operations": false,
+  "spawned_agents": false,
+  "latest_weekly_total_used_percent": 24,
+  "weekly_window_minutes": 10080,
+  "weekly_reset_unix": 1792745187,
+  "total_used_ceiling_percent": 90,
+  "command": "python3 problems/2017-B4/reviews/strict-transfer-review-1-freeze-v1.py",
+  "records": [
+    {
+      "path": "problems/2017-B4/reviews/strict-transfer-review-1-initial.md",
+      "bytes": 18800,
+      "sha256": "5a3c8517e8abe0333dd11e8ae3c60fb4e2e665d5494c06eda43c9fbde146ed27"
+    },
+    {
+      "path": "problems/2017-B4/reviews/strict-transfer-review-1-issues.md",
+      "bytes": 5457,
+      "sha256": "b2973bf095383baa25019f140cde856e25a1a4dd827516356c46962b634aa09c"
+    },
+    {
+      "path": "problems/2017-B4/reviews/strict-transfer-review-1-source-checks.md",
+      "bytes": 5152,
+      "sha256": "65f5fee0d411aa5aedcad7a063fcd14b9c9b0e65d4f16c76cec9c72e79c8e821"
+    },
+    {
+      "path": "problems/2017-B4/reviews/strict-transfer-review-1-freeze-v1.py",
+      "bytes": 6276,
+      "sha256": "2de188005027605c4bb9eedef3b1da5d0b9e704262008dfe97e4c4f5ec27c7d2"
+    },
+    {
+      "path": "problems/2017-B4/reviews/strict-transfer-review-1-input-validation-v1.json",
+      "bytes": 41999,
+      "sha256": "10b10f7b47924599b979afec07668dea6f4ea098a6160938306bf6a5b0630ca5"
+    },
+    {
+      "path": "problems/2017-B4/reviews/strict-transfer-review-1-freeze-output-v1.json",
+      "bytes": 353,
+      "sha256": "0b5eecefe11720ee6d1150bc6861627dae4221caf3afc06a33b4b8f7b7132c19"
+    }
+  ]
+}

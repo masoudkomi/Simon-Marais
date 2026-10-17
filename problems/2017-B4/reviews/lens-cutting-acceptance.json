@@ -1,0 +1,25 @@
+{
+  "accepted_at_utc": "2026-10-17T06:00:53.086352+00:00",
+  "status": "proved, independently reviewed partial results",
+  "claims": [
+    "CUT1",
+    "CUT2"
+  ],
+  "scope": "CUT1 extracts an actual comparable Jordan tiled lens near a fixed parallelogram from a genuine full tiling with a WHOLE-neighborhood near-affine buffer and two fixed common positive directions. CUT2 bounds recovery fibers by2^O(sqrt(epsilon)L\u00b2+L) for O(L) coordinate ranges, retaining explicit logarithmic range costs otherwise.",
+  "root_full_both_reports_issues_sources_read": true,
+  "substantive_objections": [],
+  "author_repair_required": false,
+  "clarifications": "Constants depend on fixed slope/directions/margins; epsilon is positive and L>=L0(epsilon). Shared corners, exact integer meshes, all contact trims, canonical global ranks and pair orientation are reconstructed by both audits. This is extraction plus an UPPER fiber bound, not arbitrary insertion, annular matching, uniform zero/antiparallel-row recovery or a lower entropy theorem.",
+  "verified_records": 121,
+  "candidate": {
+    "path": "problems/2017-B4/notes/coordinator-lens-cutting-candidate-v1.md",
+    "sha256": "1937c12d4cf9c9e2d7b4f713566a77e1b32e1a88ea0c55f09ae7e43870b8482f"
+  },
+  "proof": {
+    "path": "problems/2017-B4/proofs/reviewed-lens-cutting-v1.1.md",
+    "bytes": 11394,
+    "sha256": "81f175e2a0f10665e9228d18885180e91b4db6167001584182d9de4b9cb437fc"
+  },
+  "both_initial_audits_frozen_before_peer_comparison": true,
+  "full_solution_H_PR_EAI_novelty": false
+}

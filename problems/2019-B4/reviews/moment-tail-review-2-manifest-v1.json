@@ -1,0 +1,103 @@
+{
+  "frozen_at_utc": "2026-10-17T06:05:42.541859+00:00",
+  "status": "initial independent nonconstructor whole audit frozen before peer comparison",
+  "reviewer": "/root/review_2022_complexity_r2",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "candidate": {
+    "path": "problems/2019-B4/notes/coordinator-moment-regular-tail-candidate-v1.md",
+    "bytes": 8455,
+    "sha256": "29b02df71668db17b7111319d40ccdcdf798bed19dad4a8b76c7bcedaa332ef2"
+  },
+  "candidate_freeze": {
+    "path": "problems/2019-B4/notes/coordinator-moment-regular-tail-freeze-v1.json",
+    "bytes": 2682,
+    "sha256": "320264ddc543a1936329ac8ffe78c7336f6b2064e591ca8f892791d11787171c"
+  },
+  "whole_claims_reconstructed": [
+    "M1 arbitrary subset first-moment bound",
+    "M2 monotonic sign criterion through R",
+    "M3 actual union with regular tail and strict exact lower bound"
+  ],
+  "separate_claim_checks": 10,
+  "substantive_objections": 0,
+  "author_repair_requested": false,
+  "promotion_by_reviewer": false,
+  "peer_findings_read_before_initial_freeze": false,
+  "accepted_finite_certificates_rerun": false,
+  "computation_scope": {
+    "fixed_proof_trial": 1,
+    "adjacent_diagnostic_trial": 1,
+    "integer_polynomial_degree": 40,
+    "bisection_or_enumeration": false,
+    "child_pid": 89654,
+    "external_timeout_seconds": 10,
+    "exit_code": 0,
+    "reaped": true
+  },
+  "author_frozen_rows_verified": 13,
+  "earlier_own_paths_verified_unchanged": 67,
+  "git_candidate_or_shared_file_edits": false,
+  "latest_authoritative_weekly_usage": {
+    "used_percent": 24,
+    "reset_unix": 1792745187,
+    "window_minutes": 10080,
+    "total_used_ceiling_percent": 90,
+    "integration_reserve": true
+  },
+  "records": [
+    {
+      "path": "problems/2019-B4/reviews/moment-tail-review-2-initial-v1.md",
+      "bytes": 14544,
+      "sha256": "de6829492183df76cdf5dcbebcc98307987a0b1d0b715fd7d4f6833eb56524f8"
+    },
+    {
+      "path": "problems/2019-B4/reviews/moment-tail-review-2-issues-v1.json",
+      "bytes": 5780,
+      "sha256": "9a259ae05642d3e0f9a5ca639e2b75770e5c2eca3b4bf697f35b6806dab6f3fa"
+    },
+    {
+      "path": "problems/2019-B4/reviews/moment-tail-review-2-source-checks-v1.md",
+      "bytes": 5205,
+      "sha256": "92d69af4a0a66696cc227dc5473d5d92ff0518e3b8fb6bb4cb7d8b79ee3da0e8"
+    },
+    {
+      "path": "problems/2019-B4/reviews/moment-tail-review-2-input-checks-v1.json",
+      "bytes": 16865,
+      "sha256": "a0dcb9130a509459748441941671c87205866dfdd3d8ec612c2be428ff66e8bb"
+    },
+    {
+      "path": "problems/2019-B4/reviews/moment-tail-review-2-certificate-v1.py",
+      "bytes": 4195,
+      "sha256": "7ecdc069a4f4133279ba470bfaa310a83bde26356414f83b4089c1a77f332f2f"
+    },
+    {
+      "path": "problems/2019-B4/reviews/moment-tail-review-2-certificate-v1.json",
+      "bytes": 3363,
+      "sha256": "363f2f4db56a3b82f6357bec5e22c558b48fc46afeb0d72168ad9d353d267fad"
+    },
+    {
+      "path": "problems/2019-B4/reviews/moment-tail-review-2-certificate-job-start-v1.json",
+      "bytes": 362,
+      "sha256": "0508d53fa10eedc6809e4922172573e5f36989e1b890ad1c65b9075a038e0e77"
+    },
+    {
+      "path": "problems/2019-B4/reviews/moment-tail-review-2-certificate-job-v1.json",
+      "bytes": 520,
+      "sha256": "23495cc407c5b758fbf2aa7e83e9ecdf85f955492db17464b0e0a5ef4698ea6b"
+    },
+    {
+      "path": "problems/2019-B4/reviews/moment-tail-review-2-certificate-stdout-v1.txt",
+      "bytes": 448,
+      "sha256": "ff1b0e1e0bcadfa798a10e5a3529c4953a645acce8a2836c6602908450966f22"
+    },
+    {
+      "path": "problems/2019-B4/reviews/moment-tail-review-2-certificate-stderr-v1.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  ]
+}

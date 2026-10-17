@@ -1,0 +1,203 @@
+{
+  "status": "initial independent whole audit frozen before peer comparison",
+  "reviewer": "/root/review_2022_complexity_r2",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "all_seven_candidates_wholly_reconstructed": true,
+  "substantive_objections": [],
+  "unresolved_substantive_objections": 0,
+  "author_repair_requested": false,
+  "promotion_by_reviewer": false,
+  "per_claim_checks": [
+    {
+      "id": "RR1-01",
+      "claim": "DOMAIN-INPUTS",
+      "location": "All packets; report section 1",
+      "adversarial_concern": "Actual rational witnesses, accepted T1 and local D1/D3/D5 interface",
+      "resolution": "Checked the official domain and accepted scope. Reconstructed local one-slot Galois descent, Eisenstein coefficients, exact unique R-slot witness and q0 nonzero qualification. Old finite certificates were accepted dependencies, not rerun.",
+      "disposition": "no substantive objection after reconstruction",
+      "required_repair": false
+    },
+    {
+      "id": "RR1-02",
+      "claim": "G1",
+      "location": "General G1; report section 2",
+      "adversarial_concern": "A local irreducible factor need not be a rational factor",
+      "resolution": "Used its global rational irreducible carrier. Hasse nonvanishing excludes orders 1..5, degrees exclude higher orders except M=14,k=6, where the X13 coefficient gives a contradiction.",
+      "disposition": "no substantive objection after reconstruction",
+      "required_repair": false
+    },
+    {
+      "id": "RR1-03",
+      "claim": "G2",
+      "location": "General G2; report section 2",
+      "adversarial_concern": "Nonrational local small root and repeated rational slots",
+      "resolution": "A proper rational factor of the degree15 quotient would supply a rational linear factor. If w is rational the residual g becomes rational only after exact division. The global carrier excludes nonrational derivative common roots.",
+      "disposition": "no substantive objection after reconstruction",
+      "required_repair": false
+    },
+    {
+      "id": "RR1-04",
+      "claim": "C1",
+      "location": "General C1; report section 3",
+      "adversarial_concern": "Tied least weights and repeated roots invalidate a naive leading term",
+      "resolution": "The assertion explicitly requires a unique minimum. Computed P,S and strict dominance of -4P. Q19 splitting, not Q rationality, supplies the square and even valuation. All-zero earlier terms and e20 are handled.",
+      "disposition": "no substantive objection after reconstruction",
+      "required_repair": false
+    },
+    {
+      "id": "RR1-05",
+      "claim": "C2",
+      "location": "General C2; report section 3",
+      "adversarial_concern": "Hensel zero may be irrational over Q; residue slots may not be actual witnesses",
+      "resolution": "Actual rational common-witness existence is an explicit hypothesis. Injectivity forces its exact value. Checked a14 exact zero or valuation nu, both square classes, separation and the conditional middle option.",
+      "disposition": "no substantive objection after reconstruction",
+      "required_repair": false
+    },
+    {
+      "id": "RR1-06",
+      "claim": "W",
+      "location": "General W; report section 3",
+      "adversarial_concern": "An additional fourth value might be unnecessary or occur only at H1",
+      "resolution": "Low supports and the three-value cover force a higher rational 2R witness. In the degree15 branch indispensability gives a sole common value at order6..18; simplicity gives the exact gcd there.",
+      "disposition": "no substantive objection after reconstruction",
+      "required_repair": false
+    },
+    {
+      "id": "RR1-07",
+      "claim": "TIED-BARRIER",
+      "location": "General tied-weight discussion; report section 3",
+      "adversarial_concern": "The accepted low-order family might contradict C1",
+      "resolution": "Its exact even part has three tied weights and vanishes with its derivative at r. It is outside C1 unique-minimum hypothesis and lacks the full rational-witness conditions.",
+      "disposition": "no substantive objection after reconstruction",
+      "required_repair": false
+    },
+    {
+      "id": "RR1-08",
+      "claim": "PRIME5",
+      "location": "General prime5 discussion; report section 3",
+      "adversarial_concern": "Importing the corrected degree family or characteristic-zero theorem",
+      "resolution": "Checked G=X4-X2 and its fifth power using Hasse derivatives. The normalized residue witness assignment is valid but supplies no characteristic-zero lift. The original erratum applies.",
+      "disposition": "no substantive objection after reconstruction",
+      "required_repair": false
+    },
+    {
+      "id": "RR1-09",
+      "claim": "M1",
+      "location": "Mirror whole proof; report section 4",
+      "adversarial_concern": "Missing rational root choices, a3-unit branch, or a sign error in D4",
+      "resolution": "Reconstructed h18=-2r2,h16=r4, excluded the a3-unit branch, expanded C+rA with the plus 4a3X sign, checked all six actual top-witness alternatives and both final rational inconsistencies.",
+      "disposition": "no substantive objection after reconstruction",
+      "required_repair": false
+    },
+    {
+      "id": "RR1-10",
+      "claim": "RC1",
+      "location": "Collision RC1; report section 5",
+      "adversarial_concern": "Division by delta and tied Taylor weights",
+      "resolution": "Derived the exact Euler identity without dividing by delta in its zero case. The bracket is a unit for finite k>nu. Verified m3..8 divisibility and m9 derivative Aprime=1 separately.",
+      "disposition": "no substantive objection after reconstruction",
+      "required_repair": false
+    },
+    {
+      "id": "RR1-11",
+      "claim": "RC2",
+      "location": "Collision RC2; report section 6",
+      "adversarial_concern": "Unjustified replacement of d by 2r or inadequate modulus after division",
+      "resolution": "Checked all center and nu>=2 splits. Reconstructed the e0,epsilon,rho errors, every loss of a factor19, the six residue alternatives, the exact numerator1008995 valuation and exclusion of k>=17 plus delta0. Depths15,16 remain.",
+      "disposition": "no substantive objection after reconstruction",
+      "required_repair": false
+    },
+    {
+      "id": "RR1-12",
+      "claim": "RC3",
+      "location": "Collision RC3; report section 7",
+      "adversarial_concern": "Indispensability confused with full gcd information",
+      "resolution": "T1 applied to the exact four rational values forces two distinct sole rational support orders in the stated eight-order set. Hk(0)=0 gives one exact coefficient zero. No complete gcd assertion is needed.",
+      "disposition": "no substantive objection after reconstruction",
+      "required_repair": false
+    },
+    {
+      "id": "RR1-13",
+      "claim": "PP1",
+      "location": "Parity PP1; report section 8",
+      "adversarial_concern": "Losing the divided degree20 endpoint; dropping coefficient nonvanishing",
+      "resolution": "Reconstructed the residual Hasse cover, exact integer recursion and same support at lengths17,20. Both beta and denominator integrality are sufficient; Taylor at exact root1 gives the second endpoint. The b_j unit conditions are retained.",
+      "disposition": "no substantive objection after reconstruction",
+      "required_repair": false
+    },
+    {
+      "id": "RR1-14",
+      "claim": "PP2",
+      "location": "Parity PP2; report section 8",
+      "adversarial_concern": "Using an unreviewed collision conclusion as a premise",
+      "resolution": "Independently rederived the Euler bounds and all eight even nonunit coefficient conclusions, including division by4845 and delta0. The noncenter H18 hypothesis is explicit.",
+      "disposition": "no substantive objection after reconstruction",
+      "required_repair": false
+    },
+    {
+      "id": "RR1-15",
+      "claim": "SD1",
+      "location": "Sparse-descent SD1; report section 9",
+      "adversarial_concern": "A necessary residue claim substituted for a support classification",
+      "resolution": "Checked size2 explicitly and eliminated F_J(15) symbolically for size3. The cubic factors with nonsquare quadratic discriminant13. No nonvanishing assumption or larger-support conclusion was used.",
+      "disposition": "no substantive objection after reconstruction",
+      "required_repair": false
+    },
+    {
+      "id": "RR1-16",
+      "claim": "PB1",
+      "location": "Parity barrier PB1 and source-log identity; report section 9",
+      "adversarial_concern": "A residual CA example mistaken for a degree20 lift",
+      "resolution": "Verified every coefficient and all sixteen Hasse derivative witness orders by hand. Its first endpoint holds; the divided second endpoint equals1. Also checked the exploratory centered-factor identity without inferring an interpolation family.",
+      "disposition": "no substantive objection after reconstruction",
+      "required_repair": false
+    },
+    {
+      "id": "RR1-17",
+      "claim": "TA1",
+      "location": "Transfer TA1; report section 10",
+      "adversarial_concern": "A zero earlier coefficient, m8 endpoint, or delta0 breaks the valuation proof",
+      "resolution": "The degree of A stays at least2 and each nonconstant term is high enough. Unit normalized linear coefficient gives an exact isometry. Unique next even weight contradicts the two exact reflection valuations; delta0 treated separately.",
+      "disposition": "no substantive objection after reconstruction",
+      "required_repair": false
+    },
+    {
+      "id": "RR1-18",
+      "claim": "TA2",
+      "location": "Transfer TA2; report section 10",
+      "adversarial_concern": "H16 assumption or a fourth necessary H18/H1 value omitted",
+      "resolution": "Successive transfer uses exactly the six specified odd units. H16 is covered by r or1 with no extra assumption. One actual H18 witness can be shared with a double-root H1 witness, giving the forbidden three-value cover.",
+      "disposition": "no substantive objection after reconstruction",
+      "required_repair": false
+    },
+    {
+      "id": "RR1-19",
+      "claim": "CRITICAL-VALUE",
+      "location": "Transfer final representation; report section 10",
+      "adversarial_concern": "An odd degree19 critical-value polynomial need not be CA",
+      "resolution": "Checked f(1+T)=T(g+c), c unit and the two rational equal critical values. The packet explicitly does not apply the prime-degree theorem to g.",
+      "disposition": "no substantive objection after reconstruction",
+      "required_repair": false
+    },
+    {
+      "id": "RR1-20",
+      "claim": "SOURCE-SCOPE",
+      "location": "All sources and final boundaries; report section 11",
+      "adversarial_concern": "All-roots-rational, uniradical, coefficient-support and rational-witness statements conflated",
+      "resolution": "Read precise primary hypotheses. CLO19 requires all roots rational or the stated unramified field; the descent connection is attributed and limited to its applicable scenario; no source theorem closes the four-rational-witness problem or establishes novelty.",
+      "disposition": "no substantive objection after reconstruction",
+      "required_repair": false
+    }
+  ],
+  "preserve_scope": [
+    "No full mask or repeated-root branch exclusion",
+    "No degree20 or annual solution",
+    "No rational or Q19 existence claim from necessary residues",
+    "No novelty claim",
+    "Second independent audit and coordinator decision still required"
+  ]
+}

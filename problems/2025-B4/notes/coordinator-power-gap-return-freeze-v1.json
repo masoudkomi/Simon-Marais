@@ -1,0 +1,65 @@
+{
+  "frozen_at_utc": "2026-10-17T06:12:30.751591+00:00",
+  "status": "candidate proof - unverified",
+  "author": "coordinator root",
+  "whole_nonconstructor_initially_blind_audits_required": 2,
+  "review_targets": [
+    "PG1",
+    "PG2",
+    "PG3",
+    "PG4 attributed corollary with published inputs explicitly separated"
+  ],
+  "computation_used_for_mathematical_construction": false,
+  "files": [
+    {
+      "path": "problems/2025-B4/notes/coordinator-power-gap-return-candidate-v1.md",
+      "bytes": 6384,
+      "sha256": "233e00fec364f6f865179c6e3f810173d92b2cd0f5e8a59279e63b605a5d05fb"
+    },
+    {
+      "path": "problems/2025-B4/notes/coordinator-power-gap-return-sources-v1.md",
+      "bytes": 4044,
+      "sha256": "ae388dc3e6030dcc01b61fe000ff5398b6f3958df252fd9188759e90a1078f60"
+    },
+    {
+      "path": "problems/2025-B4/notes/coordinator-power-gap-return-worklog-v1.md",
+      "bytes": 1587,
+      "sha256": "2947e1b291f816daefa99e37732f11720656d811b161c85aaa124cdda3291044"
+    },
+    {
+      "path": "problems/2025-B4/statement.md",
+      "bytes": 2024,
+      "sha256": "af0075dd635e8e4d31bb3ae9148d1731a7fbb57c06cf104763332e1496673f59"
+    },
+    {
+      "path": "problems/2025-B4/proof.md",
+      "bytes": 5423,
+      "sha256": "c422139567ee3e2f4eafd852c9a3f5fac73cb6c8e0bfdf9e2c9c5311a9348b0d"
+    },
+    {
+      "path": "problems/2025-B4/proofs/reviewed-partial-v1.1.md",
+      "bytes": 1803,
+      "sha256": "29276223791ec301bdbacf335e1fa20a5ca1e65c50f354035abd46b9400e9674"
+    },
+    {
+      "path": "problems/2025-B4/reviews/acceptance.md",
+      "bytes": 1781,
+      "sha256": "7427e93575a6f1c57e545fbcc26641fab630d42233a80a336e925133b68a98c0"
+    },
+    {
+      "path": ".cache/literature/2025/bugeaud-mihailescu-2007.pdf",
+      "bytes": 67833,
+      "sha256": "105ea336a19143e6c9189843686185c4da6cf5d68ffdcc565664d4829fd8567c"
+    },
+    {
+      "path": ".cache/literature/2025/initial-review-2-bugeaud-mihailescu.txt",
+      "bytes": 12569,
+      "sha256": "64ed9583e8ea5e8b2bde3a2c3aad05b8be037496b583c19d4ada18b5f4a1e96a"
+    },
+    {
+      "path": ".cache/literature/2025/bennett-levin-2015.pdf",
+      "bytes": 187127,
+      "sha256": "ac38ad33a480068a707054a0a9acc7c937f70af84171cb7465b7d0fdd99b2b99"
+    }
+  ]
+}

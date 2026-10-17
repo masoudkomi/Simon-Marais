@@ -1,0 +1,24 @@
+{
+  "accepted_at_utc": "2026-10-17T06:01:47.897781+00:00",
+  "status": "proved, independently reviewed partial results",
+  "claims": [
+    "RP1",
+    "RP2",
+    "RP3"
+  ],
+  "both_complete_initially_blind_nonconstructor_whole_reports_issues_sources_read": true,
+  "substantive_objections": [],
+  "repair_required": false,
+  "verified_records": 151,
+  "proof": {
+    "path": "problems/2017-B4/proofs/reviewed-remainder-padding-v1.1.md",
+    "sha256": "4b1742c46ddd120f935653538758fed41759187ad26cfed79b9bd86a48d99018",
+    "bytes": 6575
+  },
+  "essential_quantifiers": [
+    "all sufficiently large multiples of FIXED p0, not sparse subsequence",
+    "target profile ball delta<epsilon before large size",
+    "one base tiling gives zero entropy"
+  ],
+  "H_PR_EAI_full_solution_novelty": false
+}

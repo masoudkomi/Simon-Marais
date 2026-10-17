@@ -1,0 +1,111 @@
+{
+  "status": "initial independent nonconstructor whole audit frozen before peer findings",
+  "reviewer": "/root/review_2022_complexity_r2",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "claims_wholly_reconstructed": [
+    "M1",
+    "M2",
+    "M3"
+  ],
+  "substantive_objections": [],
+  "unresolved_substantive_objections": 0,
+  "author_repair_requested": false,
+  "promotion_by_reviewer": false,
+  "per_claim_checks": [
+    {
+      "id": "MT2-01",
+      "claim": "OFFICIAL-INTERFACE",
+      "location": "Report section1",
+      "adversarial_concern": "Distinct strings confused with histories or a preliminary result reproved",
+      "resolution": "Read official B4(b) and accepted equality of rates. The new claims apply to the accepted lambda and do not reprove part(a).",
+      "disposition": "no substantive objection after reconstruction",
+      "required_repair": false
+    },
+    {
+      "id": "MT2-02",
+      "claim": "M1-RENEWAL",
+      "location": "Report section2",
+      "adversarial_concern": "An infinite arbitrary obstruction subset may not inherit a finite-state model",
+      "resolution": "Reconstructed the append/remove suffix bijection using the actual subset, factor-freeness and no proper suffix-prefix overlaps. No finite-state or regularity assumption is needed.",
+      "disposition": "no substantive objection after reconstruction",
+      "required_repair": false
+    },
+    {
+      "id": "MT2-03",
+      "claim": "M1-RADIUS",
+      "location": "Report section2",
+      "adversarial_concern": "A reciprocal formal series may have a convergent boundary or a multiple zero",
+      "resolution": "Positive factorial counts are submultiplicative and at least rho_G^n, so the series diverges at R_G. Monotone limits with G(R_G) finite give D_G(R_G)=0 even when R_G=R or the zero is multiple.",
+      "disposition": "no substantive objection after reconstruction",
+      "required_repair": false
+    },
+    {
+      "id": "MT2-04",
+      "claim": "M1-ZERO-GAP",
+      "location": "Report section2",
+      "adversarial_concern": "Cancellation by A=2-Gprime(R) when A=0",
+      "resolution": "First moments converge uniformly on the closed interval. The missing tail has Hprime(R)<=A. If A=0, nonnegative positive-degree terms force H=0 and G=F. The proof explicitly separates that case.",
+      "disposition": "no substantive objection after reconstruction",
+      "required_repair": false
+    },
+    {
+      "id": "MT2-05",
+      "claim": "M1-CAP-QUANTIFIERS",
+      "location": "Report section2",
+      "adversarial_concern": "Off-by-one cutoff or a bound only on a subsequence of caps",
+      "resolution": "Agreement through2D+1 means N=2D+2 for every integer D>=1. The reciprocal ratio is lambda/rho_G=R_G/R and rho_G<=2, giving the stated1/(D+1) error uniformly.",
+      "disposition": "no substantive objection after reconstruction",
+      "required_repair": false
+    },
+    {
+      "id": "MT2-06",
+      "claim": "M2-DERIVATIVES",
+      "location": "Report section3",
+      "adversarial_concern": "A possibly infinite Gsecond(R) invalidates monotonicity",
+      "resolution": "EG derivative is used only in the open interval. Gprime is continuous at R by finite first moment, so monotonicity extends to the closed interval without a second moment at R.",
+      "disposition": "no substantive objection after reconstruction",
+      "required_repair": false
+    },
+    {
+      "id": "MT2-07",
+      "claim": "M2-TRIAL-DOMAIN",
+      "location": "Report section3",
+      "adversarial_concern": "A trial outside the unknown convergence boundary of F is used in the proof",
+      "resolution": "The contradiction assumes r<=R and differentiates only there. The actual rational G and its derivative converge at the chosen trial because its loop denominator is strictly positive.",
+      "disposition": "no substantive objection after reconstruction",
+      "required_repair": false
+    },
+    {
+      "id": "MT2-08",
+      "claim": "M3-SET-UNION",
+      "location": "Report section4",
+      "adversarial_concern": "Subtracting prefix coefficients without a justified word-set intersection",
+      "resolution": "The accepted infinite F3 is an actual subset of F. Its prefix through24 is exactly z12+2z17+z20+4z22, with z4 already in P24. This proves the exact union and N25 agreement.",
+      "disposition": "no substantive objection after reconstruction",
+      "required_repair": false
+    },
+    {
+      "id": "MT2-09",
+      "claim": "M3-EXACT-SIGN",
+      "location": "Report section5",
+      "adversarial_concern": "A rounded eigenvalue or unjustified bisection sign used as proof",
+      "resolution": "Independently cleared denominators to a degree40 integer polynomial, proved its numerator negative and the plain P24 numerator positive at the fixed trial, then matched both reduced author fractions exactly. No search, new histories, factors, queues or automata.",
+      "disposition": "no substantive objection after reconstruction",
+      "required_repair": false
+    },
+    {
+      "id": "MT2-10",
+      "claim": "SCOPE-SOURCES",
+      "location": "Report section6 and source checks",
+      "adversarial_concern": "Improved enclosure treated as an exact growth evaluation or imported external theorem",
+      "resolution": "All premises are explicitly accepted project results. No new external theorem, full grammar, tail complement, regularity/algebraicity or novelty is inferred.",
+      "disposition": "no substantive objection after reconstruction",
+      "required_repair": false
+    }
+  ],
+  "finite_computation_scope": "two fixed exact rational sign evaluations; first is proof-critical, adjacent one verifies saved diagnostic; no bisection or enumeration"
+}

@@ -1,0 +1,95 @@
+{
+  "accepted_at_utc": "2026-10-17T06:02:33.697590+00:00",
+  "status": "proved, independently reviewed partial results only",
+  "whole_fresh_nonconstructor_audits": [
+    "review_2022_complexity_r2 audit1",
+    "coordinator root audit2"
+  ],
+  "audits_initially_blind": true,
+  "root_full_both_reports_issues_sources_read": true,
+  "substantive_objections": [],
+  "repair_required": false,
+  "verified_record_occurrences": 1085,
+  "verified_unique_paths": 216,
+  "accepted_packets": [
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r3-candidate-v1.md",
+      "claims": [
+        "G1",
+        "G2",
+        "C1",
+        "C2",
+        "W"
+      ],
+      "bytes": 13138,
+      "sha256": "0caf8d3f8df7144a7768230d566930da91ca107ab552935e9c2a73556f8aacc8"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r3-mirror-candidate-v1.md",
+      "claims": [
+        "M1"
+      ],
+      "bytes": 7446,
+      "sha256": "20a72646d0e1bcfcf2ef3ca907d1363c6576a96df42dc2cb6909e11976e2945c"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r3-collision-candidate-v1.md",
+      "claims": [
+        "RC1",
+        "RC2",
+        "RC3"
+      ],
+      "bytes": 16531,
+      "sha256": "e7eab1257632a3d0e96c7e8eebcb9389197c7cd9041aca3dda6b5b463763c5ee"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r3-parity-candidate-v1.md",
+      "claims": [
+        "PP1",
+        "PP2"
+      ],
+      "bytes": 10560,
+      "sha256": "6506e371c2a3eb8506f75c55ef3d80be9933ecbcd187be21fe5bd18932fe8789"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r3-sparse-descent-candidate-v1.md",
+      "claims": [
+        "SD1"
+      ],
+      "bytes": 3809,
+      "sha256": "5c454767cda1bbbe4e4e4041256b837e6b0086c5489ad68007f522b24eccc864"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r3-parity-barrier-candidate-v1.md",
+      "claims": [
+        "PB1"
+      ],
+      "bytes": 4373,
+      "sha256": "284e7ddc5a3d26111d2af4bd169b7fc6d2739a169a70ae3d38ff68d3ac03ada5"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r3-transfer-candidate-v1.md",
+      "claims": [
+        "TA1",
+        "TA2",
+        "critical-value representation"
+      ],
+      "bytes": 9020,
+      "sha256": "0bcc9898ff010abf489f7b4c58d4a5011e91df99ab680bd0094d76054b3e3961"
+    }
+  ],
+  "proof_register": {
+    "path": "problems/2021-B4/proofs/reviewed-return-r3-v1.1.md",
+    "bytes": 5304,
+    "sha256": "9cda0a35c42e7a3098418ec052180f4868ca995feee47b503971b8fc2cb6d4b4"
+  },
+  "excluded": [
+    "full degree20",
+    "annual degree classification",
+    "full remaining J15 mask",
+    "general repeated-root branch",
+    "joint descent nonvanishing",
+    "rational lift or existence",
+    "novelty"
+  ]
+}

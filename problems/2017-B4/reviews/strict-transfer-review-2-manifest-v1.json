@@ -1,0 +1,64 @@
+{
+  "frozen_at_utc": "2026-10-17T06:12:14.037968+00:00",
+  "status": "initial independent whole nonconstructor audit frozen before peer findings",
+  "reviewer": "/root/review_2022_complexity_r2",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "candidate": {
+    "path": "problems/2017-B4/notes/coordinator-strict-transfer-candidate-v1.md",
+    "bytes": 9161,
+    "sha256": "a19f8e66cb0fb810098eb209a47e73ecbb26e1d43316c13fa64bb5f743c8c3f1"
+  },
+  "candidate_freeze": {
+    "path": "problems/2017-B4/notes/coordinator-strict-transfer-freeze-v1.json",
+    "bytes": 679,
+    "sha256": "a1b47d24cd01e032e97d11cfc917d787518f53d1902b71ddbeece24be428410e"
+  },
+  "whole_claims_reconstructed": [
+    "ST1",
+    "ST2",
+    "ST3"
+  ],
+  "separate_claim_checks": 11,
+  "substantive_objections": 0,
+  "author_repair_requested": false,
+  "promotion_by_reviewer": false,
+  "peer_findings_read_before_initial_freeze": false,
+  "mathematical_program_enumeration_CAS": false,
+  "scope": "fixed strict rational D4 slope, matching shape/phase/common offset, whole buffer, exact rank matching, qualified all-scale reference",
+  "no_H_PR_strata_or_full_solution": true,
+  "input_paths_verified": 11,
+  "earlier_own_paths_verified_unchanged": 78,
+  "git_or_shared_candidate_edits": false,
+  "latest_authoritative_weekly_usage": {
+    "used_percent": 24,
+    "reset_unix": 1792745187,
+    "total_used_ceiling_percent": 90,
+    "integration_reserve": true
+  },
+  "records": [
+    {
+      "path": "problems/2017-B4/reviews/strict-transfer-review-2-initial-v1.md",
+      "bytes": 15708,
+      "sha256": "abef0135feabe46562d4f0c46392b4cd7e32cef5b8dd565c6206c5a9c7ea4109"
+    },
+    {
+      "path": "problems/2017-B4/reviews/strict-transfer-review-2-issues-v1.json",
+      "bytes": 6418,
+      "sha256": "5c21dd37b150dc8edc8197031f5d47ca106ba4e93ff0721916175eef69435261"
+    },
+    {
+      "path": "problems/2017-B4/reviews/strict-transfer-review-2-source-checks-v1.md",
+      "bytes": 5002,
+      "sha256": "921455cc50955b4a3b90908367c565dae88fb3a263d2970aeeaa907f4daac1a5"
+    },
+    {
+      "path": "problems/2017-B4/reviews/strict-transfer-review-2-input-checks-v1.json",
+      "bytes": 18321,
+      "sha256": "8ad637ebd638736f2cf386b22ccbcd66c148e7d34577d03838dcc4ad3bbd836a"
+    }
+  ]
+}

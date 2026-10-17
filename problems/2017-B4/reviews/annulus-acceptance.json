@@ -1,0 +1,50 @@
+{
+  "accepted_at_utc": "2026-10-17T05:58:46.504920+00:00",
+  "status": "proved, independently reviewed partial results after substantive repair",
+  "claims": [
+    "A1",
+    "A2 range-corrected",
+    "A3 range-before-ideality",
+    "A4",
+    "A5"
+  ],
+  "accepted_constructor": {
+    "path": "problems/2017-B4/notes/annulus-reasoning-r1-candidate-v1.1.md",
+    "sha256": "c6da61f229ffa72dd830cd40132969717a395e3744b6d775cbe83a32bdd3747c"
+  },
+  "proof": {
+    "path": "problems/2017-B4/proofs/reviewed-annulus-v1.2.md",
+    "sha256": "51c02b22a36705c736e4debefcfde0afbc1b2678a8d6092213d8ed00e6a75baf",
+    "bytes": 28382
+  },
+  "full_initial_reports_and_issue_ledgers_read": true,
+  "full_author_replacement_and_repair_read": true,
+  "both_full_targeted_reports_issues_sources_read": true,
+  "resolved": [
+    {
+      "id": "AR1-01",
+      "severity": "substantive",
+      "resolution": "Full v1.1 all-color range and relative-frame hypotheses; A3 winding derives range before applying ideals. Both independent targeted reaudits passed."
+    },
+    {
+      "id": "ANN2-N1",
+      "severity": "nonblocking",
+      "resolution": "Integral unit-horizontal edge graph gap gives strict nesting, not a false all-points numerical t bound."
+    },
+    {
+      "id": "ANN2-N2",
+      "severity": "nonblocking",
+      "resolution": "Full slope/offset/phase/frame, actual Jordan comparable lens, rank or quantitative buffer and bounded code ranges retained."
+    }
+  ],
+  "unresolved_substantive": [],
+  "frozen_failed_v1_and_all_reports_preserved": true,
+  "verified_records": 167,
+  "excluded": [
+    "H full balanced-zonogon limit",
+    "arbitrary thin surrounding frame",
+    "zero-minor uniformity",
+    "global profile recovery",
+    "novelty"
+  ]
+}

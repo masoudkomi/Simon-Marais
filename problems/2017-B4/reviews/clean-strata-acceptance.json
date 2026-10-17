@@ -1,0 +1,26 @@
+{
+  "accepted_at_utc": "2026-10-17T06:00:53.086352+00:00",
+  "status": "proved, independently reviewed partial results",
+  "claims": [
+    "FL1",
+    "CL1",
+    "OB1"
+  ],
+  "scope": "FL1 is a boundary-flux and rare-tile COUNT estimate. CL1 is a boundary-preserving tiling bijection only when EVERY within-consecutive-group tile count is ZERO. OB1 is the exact four-label prescribed-boundary obstruction: one fine class, two coarse weak-lens classes and one erased internal crossing, with only one coarse class liftable.",
+  "root_full_both_reports_issues_sources_read": true,
+  "substantive_objections": [],
+  "author_repair_required": false,
+  "clarifications": "Retain O(epsilon L\u00b2+L+1) at finite scales. Discarding fixed-side-l cells meeting rare tiles costs O(l\u00b2(epsilon L\u00b2+L+1)); its boundary term cannot be dropped in joint limits. The rare-tile estimate gives no thin location band. OB1 does not refute global DC1 surjectivity or clean CL1; it blocks arbitrary local reinsertion after even one forbidden event. The discovery search was not a proof premise; both audits reconstructed the exact example by hand.",
+  "verified_records": 156,
+  "candidate": {
+    "path": "problems/2017-B4/notes/coordinator-stratum-clean-lens-candidate-v1.md",
+    "sha256": "aa4c79b1fb3136ecd3e7c5ab845733697cca925ba8203b2988fba5c9a793bd95"
+  },
+  "proof": {
+    "path": "problems/2017-B4/proofs/reviewed-clean-strata-v1.1.md",
+    "bytes": 10682,
+    "sha256": "10a2efb8d11433726b7812e18217719ab24543887a2d01e0fd96ad51d96204b0"
+  },
+  "both_initial_audits_frozen_before_peer_comparison": true,
+  "full_solution_H_PR_EAI_novelty": false
+}

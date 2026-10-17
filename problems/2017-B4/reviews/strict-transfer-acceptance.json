@@ -1,0 +1,54 @@
+{
+  "accepted_at_utc": "2026-10-17T06:14:08.426003+00:00",
+  "status": "proved, independently reviewed partial results only",
+  "claims": [
+    "ST1",
+    "ST2",
+    "ST3"
+  ],
+  "whole_fresh_nonconstructor_audits": [
+    "review_2021_reasoning_j15_r2",
+    "review_2022_complexity_r2"
+  ],
+  "audits_initially_blind": true,
+  "root_full_both_reports_issues_sources_read": true,
+  "substantive_objections": [],
+  "repair_required": false,
+  "candidate": {
+    "path": "problems/2017-B4/notes/coordinator-strict-transfer-candidate-v1.md",
+    "bytes": 9161,
+    "sha256": "a19f8e66cb0fb810098eb209a47e73ecbb26e1d43316c13fa64bb5f743c8c3f1"
+  },
+  "proof_register": {
+    "path": "problems/2017-B4/proofs/reviewed-strict-transfer-v1.1.md",
+    "bytes": 10589,
+    "sha256": "89f2bc8068a4f151621ed4cdcdfb0e6dc891d51d43452b5f176d41fa62a840eb"
+  },
+  "integrity": {
+    "path": "problems/2017-B4/reviews/strict-transfer-acceptance-integrity.json",
+    "bytes": 85440,
+    "sha256": "65ae4bca8ff25d53e49de73ae559034e962a612bddeaaac1aa58d28dfa744300"
+  },
+  "verified_record_occurrences": 268,
+  "verified_unique_paths": 255,
+  "review_manifests": [
+    {
+      "path": "problems/2017-B4/reviews/strict-transfer-review-1-manifest-v1.json",
+      "bytes": 2262,
+      "sha256": "70b2efcb2a9a34244b5f01ce3eb75357c002f92ccc0820462dc3ca15154fa0cd"
+    },
+    {
+      "path": "problems/2017-B4/reviews/strict-transfer-review-2-manifest-v1.json",
+      "bytes": 2341,
+      "sha256": "84f3c9e96e5a2504ab79aa6cb2f192e8b7f7ec692fe650e1f51c2f12a37ef0d3"
+    }
+  ],
+  "excluded": [
+    "H",
+    "PR",
+    "zero-minor or zero-row or antiparallel uniformity",
+    "full balanced-zonogon count",
+    "official exact limits",
+    "novelty"
+  ]
+}

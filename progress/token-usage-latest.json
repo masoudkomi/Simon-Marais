@@ -1,16 +1,16 @@
 {
-  "snapshot_cutoff_utc": "2026-10-17T05:49:57.999802+00:00",
+  "snapshot_cutoff_utc": "2026-10-17T06:14:09.195620+00:00",
   "observed_sessions": 62,
-  "distinct_responses": 3178,
+  "distinct_responses": 3349,
   "usage": {
-    "input_tokens": 473917381,
-    "cached_input_tokens": 451011712,
+    "input_tokens": 504132998,
+    "cached_input_tokens": 479825152,
     "cache_write_input_tokens": 0,
-    "output_tokens": 4137109,
-    "reasoning_output_tokens": 1900963,
-    "total_tokens": 478054490
+    "output_tokens": 4384200,
+    "reasoning_output_tokens": 1993743,
+    "total_tokens": 508517198
   },
-  "uncached_input_plus_output_tokens": 27042778,
+  "uncached_input_plus_output_tokens": 28692046,
   "sessions_without_usage_records": 0,
   "all_recorded_session_sums_match_cumulative": true,
   "method": "Deduplicated own-thread per-response usage records across root and recursively spawned descendants; cached input is a subset of input, reasoning output a subset of output.",
@@ -18,15 +18,15 @@
   "agents": [
     {
       "agent": "/root",
-      "distinct_responses": 833,
-      "latest_record_utc": "2026-10-17T05:49:57.959Z",
+      "distinct_responses": 899,
+      "latest_record_utc": "2026-10-17T06:14:08.366Z",
       "usage": {
-        "input_tokens": 156721516,
-        "cached_input_tokens": 150920448,
+        "input_tokens": 170581383,
+        "cached_input_tokens": 164194048,
         "cache_write_input_tokens": 0,
-        "output_tokens": 809816,
-        "reasoning_output_tokens": 320481,
-        "total_tokens": 157531332
+        "output_tokens": 878227,
+        "reasoning_output_tokens": 337886,
+        "total_tokens": 171459610
       },
       "matches_latest_thread_cumulative": true
     },
@@ -312,15 +312,15 @@
     },
     {
       "agent": "/root/review_2017_coarsening_r1",
-      "distinct_responses": 156,
-      "latest_record_utc": "2026-10-17T05:48:46.593Z",
+      "distinct_responses": 188,
+      "latest_record_utc": "2026-10-17T05:59:28.235Z",
       "usage": {
-        "input_tokens": 28453269,
-        "cached_input_tokens": 26537856,
+        "input_tokens": 32073040,
+        "cached_input_tokens": 29981568,
         "cache_write_input_tokens": 0,
-        "output_tokens": 291354,
-        "reasoning_output_tokens": 156347,
-        "total_tokens": 28744623
+        "output_tokens": 324100,
+        "reasoning_output_tokens": 173862,
+        "total_tokens": 32397140
       },
       "matches_latest_thread_cumulative": true
     },
@@ -634,15 +634,15 @@
     },
     {
       "agent": "/root/review_2021_reasoning_j15_r2",
-      "distinct_responses": 236,
-      "latest_record_utc": "2026-10-17T05:49:56.574Z",
+      "distinct_responses": 268,
+      "latest_record_utc": "2026-10-17T06:12:58.746Z",
       "usage": {
-        "input_tokens": 46100487,
-        "cached_input_tokens": 43777152,
+        "input_tokens": 51730500,
+        "cached_input_tokens": 49060224,
         "cache_write_input_tokens": 0,
-        "output_tokens": 499141,
-        "reasoning_output_tokens": 284894,
-        "total_tokens": 46599628
+        "output_tokens": 562008,
+        "reasoning_output_tokens": 309509,
+        "total_tokens": 52292508
       },
       "matches_latest_thread_cumulative": true
     },
@@ -704,15 +704,15 @@
     },
     {
       "agent": "/root/review_2022_complexity_r2",
-      "distinct_responses": 156,
-      "latest_record_utc": "2026-10-17T05:48:10.700Z",
+      "distinct_responses": 197,
+      "latest_record_utc": "2026-10-17T06:12:27.276Z",
       "usage": {
-        "input_tokens": 28463424,
-        "cached_input_tokens": 26614400,
+        "input_tokens": 35569390,
+        "cached_input_tokens": 33427456,
         "cache_write_input_tokens": 0,
-        "output_tokens": 305847,
-        "reasoning_output_tokens": 147788,
-        "total_tokens": 28769271
+        "output_tokens": 388914,
+        "reasoning_output_tokens": 181033,
+        "total_tokens": 35958304
       },
       "matches_latest_thread_cumulative": true
     },
