@@ -1,0 +1,37 @@
+{
+  "frozen_at_utc": "2026-10-17T13:43:40.120252+00:00",
+  "status": "candidate proof - unverified",
+  "constructor": "coordinator root",
+  "claims": [
+    "RK1 exact rational reciprocal kernel",
+    "RK2 fixed-complement separation",
+    "RK3 conditional original-weight application"
+  ],
+  "whole_obligations": 8,
+  "two_other_fresh_whole_audits_required": true,
+  "unreviewed_UW_existence_used_unconditionally": false,
+  "full_classical_analytic_proof_reconstructed": false,
+  "mathematical_code_CAS_scan": false,
+  "records": [
+    {
+      "path": "problems/2025-B4/notes/coordinator-reciprocal-kernel-return-v1.md",
+      "bytes": 9541,
+      "sha256": "4c752f3ca4699ea0c184dbb79d79f9f192182cc91aeac7fd8a459b7b8bea49b8"
+    },
+    {
+      "path": "problems/2025-B4/proofs/reviewed-diagonal-moment-v1.1.md",
+      "bytes": 10168,
+      "sha256": "4e25e67e6459134cb5b6c618baef91c37f30bb1dae542d7426fb61450ce4a4f7"
+    },
+    {
+      "path": "problems/2025-B4/reviews/diagonal-moment-acceptance.json",
+      "bytes": 3000,
+      "sha256": "215a0fe8511769d62a3621c010e768f1a043b0bf82145e87dc637274e49b4722"
+    },
+    {
+      "path": ".cache/literature/2025-reciprocal-return/hasse-chowla-1971.pdf",
+      "bytes": 520142,
+      "sha256": "5536c10633a189e98ad59a2fee0a1dc1d9a760263b66bd5b6d35277a8e5758a3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "checked_at_utc": "2026-10-17T13:41:29.348651+00:00",
+  "metadata_only_no_mathematical_computation": true,
+  "candidate": {
+    "path": "problems/2021-B4/notes/reasoning-return-r7-candidate-v1.md",
+    "bytes": 17704,
+    "sha256": "8f4d1f71930b82e029066c4f4d249489c34e70b731e80a11458c833223fc18a6"
+  },
+  "claims": [
+    "R7A",
+    "R7B",
+    "R7C",
+    "R7D"
+  ],
+  "whole_obligations": 36,
+  "accepted_R6_authority_declared_records_checked": 9,
+  "accepted_R6_frozen_artifacts_checked": 8,
+  "R6_old_input_record_occurrences_checked": 2139,
+  "R6_old_input_unique_paths_checked": 725,
+  "R6_old_source_fingerprint_occurrences_checked": 22,
+  "new_source_fingerprint_occurrences_checked": 21,
+  "older_own_packets_unchanged": 47,
+  "all_hash_checks_passed": true,
+  "status": "candidate proof - unverified; complete meaningful conceptual checkpoint",
+  "first_break_alternatives_excluded_or_full_annual_solved": false,
+  "latest_authoritative_weekly_usage": {
+    "at_utc": "2026-10-17 13:39:33 UTC (paired clock and telemetry)",
+    "total_used_percent": 42,
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "total_ceiling_percent": 90,
+    "ordinary_usage_allowed": true,
+    "integration_reserve": true,
+    "separately_billed_API": false
+  },
+  "command": "python3 problems/2021-B4/notes/reasoning-return-r7-freeze-v1.py"
+}

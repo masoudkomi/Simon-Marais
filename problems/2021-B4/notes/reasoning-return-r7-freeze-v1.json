@@ -1,0 +1,87 @@
+{
+  "frozen_at_utc": "2026-10-17T13:41:29.348651+00:00",
+  "status": "candidate proof - unverified; complete R7 conceptual construction checkpoint",
+  "constructor": "/root/review_2021_reasoning_j15_r2",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "claims": [
+    "R7A",
+    "R7B",
+    "R7C",
+    "R7D"
+  ],
+  "whole_independent_audit_obligations": 36,
+  "requires_two_OTHER_fresh_initially_blind_nonconstructor_whole_audits": true,
+  "root_broad_cover_lead_disclosed": true,
+  "root_supplied_new_weighted_proof_or_triple_bounds": false,
+  "old_RC3_mechanism_not_claimed_new": true,
+  "strict_tau_nu_boundary_and_deep_triple_retained": true,
+  "double_origin_involution_preserves_remaining_deep_alternative": true,
+  "cubic_only_reduced_jet_no_actual_lift": true,
+  "whole_branch_degree20_annual_rational_lift_or_novelty_claim": false,
+  "mathematical_program_CAS_scan_enumeration_certificate_or_author_rerun": false,
+  "old_shared_Git_cache_mutation_spawning_charge_contact_or_bypass": false,
+  "queued_DI_and_UW_targets_or_new_peer_findings_read_before_freeze": false,
+  "older_own_packets_unchanged": 47,
+  "latest_authoritative_weekly_usage": {
+    "at_utc": "2026-10-17 13:39:33 UTC (paired clock and telemetry)",
+    "total_used_percent": 42,
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "total_ceiling_percent": 90,
+    "ordinary_usage_allowed": true,
+    "integration_reserve": true,
+    "separately_billed_API": false
+  },
+  "command": "python3 problems/2021-B4/notes/reasoning-return-r7-freeze-v1.py",
+  "artifacts": [
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r7-candidate-v1.md",
+      "bytes": 17704,
+      "sha256": "8f4d1f71930b82e029066c4f4d249489c34e70b731e80a11458c833223fc18a6"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r7-obligations-v1.md",
+      "bytes": 5946,
+      "sha256": "59aef188cb2a6a9bbb162dd2e6e3513e46f28c4d8ff43313dfde1c8a5aa3e8aa"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r7-failed-routes-v1.md",
+      "bytes": 3944,
+      "sha256": "8b52f6f84e0eed13fa66a38b063a0981a24d6746d620c7da43030efa52ab2e61"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r7-worklog-v1.md",
+      "bytes": 7314,
+      "sha256": "ed98de86da00b21771e6b65b2c0fe665a96c298dbc787a6377435a1b3751b132"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r7-source-audit-v1.md",
+      "bytes": 6874,
+      "sha256": "aaefd5e05b6b14ddab9f762748b725f104bda244f4539643122a57fe12d8764b"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r7-sources-v1.json",
+      "bytes": 8713,
+      "sha256": "866b10d899b6d9e084b2308eeeb0e2f061a112c93a4d7893042d6f4cbc6afc2b"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r7-freeze-v1.py",
+      "bytes": 13659,
+      "sha256": "653eeebe62c606802dd9abe256960e9debf53d9bff1eb3bbbd263f9373fb9748"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r7-input-validation-v1.json",
+      "bytes": 575668,
+      "sha256": "6b88e67b84c41f581208c441cf1fcad6b827054c4a18a0747766f75bda454322"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r7-freeze-output-v1.json",
+      "bytes": 1348,
+      "sha256": "9a48d0febfdc15aa3050643620c4c8c53e3e57d6ae4b2909fb39decda23bcc99"
+    }
+  ]
+}

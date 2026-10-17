@@ -1,0 +1,175 @@
+{
+  "recorded_at_utc": "2026-10-17T13:37:06.831554+00:00",
+  "status": "candidate proof - unverified; complete source/hypothesis checkpoint",
+  "constructor": "review_2022_complexity_r2",
+  "root_cubic_ratio_lead_is_contribution_not_theorem_premise": true,
+  "two_OTHER_whole_nonconstructor_audits_required": true,
+  "requested_model": "gpt-6.1-sol",
+  "requested_reasoning_effort": "max",
+  "verified_effective_setting_readback": null,
+  "complete_accepted_mathematical_bodies_reread": [
+    {
+      "path": "problems/2025-B4/proofs/reviewed-diagonal-moment-v1.1.md",
+      "bytes": 10168,
+      "sha256": "4e25e67e6459134cb5b6c618baef91c37f30bb1dae542d7426fb61450ce4a4f7"
+    },
+    {
+      "path": "problems/2025-B4/proofs/reviewed-Fueter-selection-return-v1.1.md",
+      "bytes": 20505,
+      "sha256": "230dfe9da040e98506bc6fabd5c37c356fb756d5128f990eb9a4fe2ee7e3181a"
+    },
+    {
+      "path": "problems/2025-B4/proofs/reviewed-original-weight-selection-v1.1.md",
+      "bytes": 9301,
+      "sha256": "06071958bafd1fa51d5ceba798b2dab18fb1e441c4a105f093595be78c96110f"
+    }
+  ],
+  "original_frozen_candidates_preserved_as_exact_suffixes": [
+    {
+      "path": "problems/2025-B4/notes/coordinator-diagonal-moment-candidate-v2.md",
+      "bytes": 7096,
+      "sha256": "dae1907e2c3afe744ede7ffc89321d560ebbfab326afd78786f30dac960fcb2f"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r4-candidate-v1.md",
+      "bytes": 17661,
+      "sha256": "29c98bf01d6336020a3720935fc571159db0bdd5159a75a75adf4a78ae038482"
+    },
+    {
+      "path": "problems/2025-B4/notes/coordinator-original-weight-selection-candidate-v1.md",
+      "bytes": 6934,
+      "sha256": "ef41445567edb53e53980b9edfbba2739cb1879f048e19b9e64f48e2e684ad3e"
+    }
+  ],
+  "complete_scope_acceptance_records_read": [
+    {
+      "path": "problems/2025-B4/reviews/diagonal-moment-acceptance.json",
+      "bytes": 3000,
+      "sha256": "215a0fe8511769d62a3621c010e768f1a043b0bf82145e87dc637274e49b4722"
+    },
+    {
+      "path": "problems/2025-B4/reviews/Fueter-selection-return-acceptance.md",
+      "bytes": 2949,
+      "sha256": "479d2ce13498ceaa6870d5753d6cf8997aae73f00eccaec866b8f63933560f6f"
+    },
+    {
+      "path": "problems/2025-B4/reviews/Fueter-selection-return-acceptance.json",
+      "bytes": 2875,
+      "sha256": "b4c2508a5f774723c0a4b812ee2fed74acaee70173f9b6f0cb4ae828fdbb21a0"
+    },
+    {
+      "path": "problems/2025-B4/reviews/original-weight-selection-acceptance.md",
+      "bytes": 2376,
+      "sha256": "eaf80dd5489f974a908d2303fe444b11ffa612fb8aa360295d7939f917680551"
+    },
+    {
+      "path": "problems/2025-B4/reviews/original-weight-selection-acceptance.json",
+      "bytes": 2698,
+      "sha256": "a8cac0794e3a5d4de06e9bf18470d2394d162f19b49e68d602386cbdbc64c915"
+    }
+  ],
+  "complete_relevant_context_and_source_limit_reads": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2025-B4/statement.md",
+      "bytes": 2024,
+      "sha256": "af0075dd635e8e4d31bb3ae9148d1731a7fbb57c06cf104763332e1496673f59"
+    },
+    {
+      "path": "problems/2025-B4/references.md",
+      "bytes": 3975,
+      "sha256": "95eee8484284dbca050d5ee71896073af58f291ae68c8b461c48505610921396"
+    },
+    {
+      "path": "problems/2025-B4/notes/coordinator-diagonal-appendix-inspection-v1.md",
+      "bytes": 3073,
+      "sha256": "6dd88dac8ab77b6ddbeafdeb92c434004f18e359e8a52a76dec772ef9260c44d"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r4-source-audit-v1.md",
+      "bytes": 5523,
+      "sha256": "63fa5c2d66ecf33523e9505ba086906904f352680acdd1b59740c5fc4a09d73a"
+    },
+    {
+      "path": "problems/2025-B4/notes/coordinator-diagonal-moment-separation-v1.3.md",
+      "bytes": 3219,
+      "sha256": "cdf9ad99a74d1c03ef258a5cd1bbe8bd9541135038ea5fdbca0e70622fd50043"
+    },
+    {
+      "path": "problems/2025-B4/notes/deep-literature-r1-sources-v1.json",
+      "bytes": 7378,
+      "sha256": "884784f269fb751c2cb2dbb7441ff314d74f24251d9314cc67ea2a0fe5db33fa"
+    }
+  ],
+  "existing_cache_records_verified": [
+    {
+      "path": ".cache/official/2025-paper_b.pdf",
+      "bytes": 195520,
+      "sha256": "c6d1d0c47c84521da836e766201224c84cae7c481449f28c72df842caa8e2893"
+    },
+    {
+      "path": ".cache/official/2025-solutions.pdf",
+      "bytes": 276484,
+      "sha256": "46872f990326e1a0f484f02ce863b3341178a299622041768f4964a5cafd2e5e"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r1/2025-bartolome-mihailescu-binary-thue-v2.pdf",
+      "bytes": 300321,
+      "sha256": "7108b665ebed8b2364c5a6629951d21abd400c96d4e7d5f4f81028f12ed424aa"
+    }
+  ],
+  "primary_actual_read_scopes": [
+    {
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc2025_paper_b.pdf",
+      "actual_read_scope": "Official p2 B4(b) all-integer domain and degree/term indexing; no preliminary proof investigated",
+      "new_binary_download_or_live_cache_identity_claim": false
+    },
+    {
+      "url": "https://www.researchgate.net/publication/226863681_Class_Number_Conditions_for_the_Diagonal_Case_of_the_Equation_of_Nagell_and_Ljunggren",
+      "title": "Mihailescu, Class Number Conditions for the Diagonal Case of the Equation of Nagell and Ljunggren",
+      "doi": "10.1007/978-3-211-74280-8_15",
+      "edition": "Published2008; actual author-uploaded version2.0 dated2007-09-17",
+      "actual_read_scope": "Section2.3 equations14-18 and full Lemma3/proof; COMPLETE Section4.3 printed19-24 including full two-list weight-p-1 application and regular/singular alternatives",
+      "full_chapter_Diophantine_proof_newly_reconstructed_or_imported": false,
+      "new_binary_hash": null
+    },
+    {
+      "url": "https://arxiv.org/pdf/1412.5798v2",
+      "title": "Bartolome-Mihailescu, On the equation X^n-1=BZ^n",
+      "edition": "arXivv2; cached internal version1.13 dated2021-11-02",
+      "actual_read_scope": "COMPLETE cached PDF pp5-18 including definitions2.4-2.5, Lemmas2.4-2.10, selection application and full Appendices5.1,5.1.1,5.2; primary live viewer reopened",
+      "Voronoi_hypotheses_retained": "Even2<=m<=p-1 and a unit; m6 matches the independently derived inverse fifth moment",
+      "binary_Thue_theorem_or_appendix_repair_imported": false,
+      "cache_record": {
+        "path": ".cache/literature/deep-literature-r1/2025-bartolome-mihailescu-binary-thue-v2.pdf",
+        "bytes": 300321,
+        "sha256": "7108b665ebed8b2364c5a6629951d21abd400c96d4e7d5f4f81028f12ed424aa"
+      },
+      "live_cache_byte_identity_claimed": false
+    }
+  ],
+  "attribution_boundary": {
+    "existing_mechanism": "Published positive two-Fueter translate pairing kills direct action; source Voronoi identity includes the fifth inverse moment",
+    "root_contribution": "Exploratory normalized cubic pair invariant and unverified distribution lead",
+    "new_proposed_completion": "Fifth ratio plus normalized linear identity, bounded fibers and common-ratio polynomial contradiction",
+    "novelty_established": false,
+    "odd_annihilator_basis_character_nonvanishing_or_decomposition_count_imported": false
+  },
+  "source_specific_Diophantine_normalization_rank_cancellation_nonzero_delta_size_remaining": true,
+  "mathematical_program_scan_CAS_certificate_or_author_rerun": false,
+  "cache_PDF_extraction_only_not_mathematical_evidence": true,
+  "direct_weekly_telemetry": {
+    "at_utc": "2026-10-17T13:27:37+00:00",
+    "source": "direct account-wide usage tool paired with UTC clock",
+    "total_used_percent": 41,
+    "window_duration_minutes": 10080,
+    "resets_at_unix": 1792745187,
+    "ordinary_usage_allowed": true,
+    "total_used_cutoff_percent": 90,
+    "integration_reserve": true
+  }
+}

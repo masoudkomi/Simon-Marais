@@ -1,0 +1,30 @@
+{
+  "frozen_at_utc": "2026-10-17T13:28:14.985871+00:00",
+  "status": "candidate proof - unverified",
+  "constructor": "coordinator root",
+  "claims": [
+    "DI1 coprime-local-order indecomposability criterion",
+    "DI2 P2 absolutely composition-indecomposable"
+  ],
+  "whole_obligations": 8,
+  "requires_two_other_fresh_initially_blind_whole_audits": true,
+  "mathematical_code_CAS_scan_or_sample": false,
+  "ordinary_irreducibility_full_composition_classification_annual_or_novelty_claim": false,
+  "records": [
+    {
+      "path": "problems/2024-B4/notes/coordinator-P2-indecomposable-return-v1.md",
+      "bytes": 8550,
+      "sha256": "44a91d25943bb3d25f3c4a9c7fc2c2b7f498692889bf82b7dabbdb610b57c957"
+    },
+    {
+      "path": "problems/2024-B4/proofs/reviewed-generalized-Kasami-v1.1.md",
+      "bytes": 12828,
+      "sha256": "eff29275bed2eb037a90bd8935c7c00740e66874c03f973a2996daa8f131d36e"
+    },
+    {
+      "path": "problems/2024-B4/reviews/generalized-Kasami-acceptance.json",
+      "bytes": 5168,
+      "sha256": "c580e2e51475b46283b16c47992a625fc3437c0a0a4669c63394f6a5bafbbf67"
+    }
+  ]
+}

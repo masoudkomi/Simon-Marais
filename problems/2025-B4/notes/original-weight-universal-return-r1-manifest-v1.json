@@ -1,0 +1,84 @@
+{
+  "frozen_at_utc": "2026-10-17T13:37:06.831554+00:00",
+  "status": "candidate proof - unverified; COMPLETE UW1-UW4 mathematical/source/failure checkpoint awaiting two OTHER whole audits",
+  "constructor": "review_2022_complexity_r2",
+  "root_exploratory_cubic_lead_contributor": true,
+  "constructor_or_root_counted_as_independent_reviewer": false,
+  "requested_model": "gpt-6.1-sol",
+  "requested_reasoning_effort": "max",
+  "verified_effective_setting_readback": null,
+  "scope": "2025 B4(b) algebraic original-weight selection partial result; no Diophantine exclusion",
+  "proposed_claims": {
+    "UW1": "For p>=11, first/cubic/fifth inverse Fueter moments, 7w5+800w3+4608=0 and at most six points per w3 fiber",
+    "UW2": "Exact abstract two-ratio separation under nonconstant nonzero u, more than30 points and six-point fibers",
+    "UW3": "Every prime p>=37 admits TWO nonconjugate free positive I_f elements, each augmentation p-1, complement2N, coefficients0/1/2 and nonzero inverse first moment",
+    "UW4": "Two disjoint free Fourier orbits at original weight; no reciprocal cross-set or higher-series transfer"
+  },
+  "author_obligations": 40,
+  "constructor_issue_rows": 6,
+  "new_independent_whole_audits_complete": 0,
+  "two_OTHER_initially_blind_whole_nonconstructor_audits_required": true,
+  "root_and_constructor_cannot_supply_independent_reviews": true,
+  "old_MS_FS_OW_accepted_suffixes_exactly_unchanged": true,
+  "whole_original_Section4_3_and_later_selection_appendices_read": true,
+  "ordinary_moment_and_root_count_algebra_not_mathematical_code": true,
+  "input_record_occurrences_verified": 276,
+  "input_unique_paths_verified": 266,
+  "older_own_unique_frozen_paths_preserved": 229,
+  "source_specific_Diophantine_gaps_preserved": true,
+  "new_Diophantine_exclusion_full_annual_answer_or_novelty": false,
+  "mathematical_program_scan_CAS_certificate_or_author_rerun": false,
+  "old_shared_Git_cache_other_owner_edits_spawning_contact_charge_or_bypass": false,
+  "direct_weekly_telemetry": {
+    "at_utc": "2026-10-17T13:27:37+00:00",
+    "source": "direct account-wide usage tool paired with UTC clock",
+    "total_used_percent": 41,
+    "window_duration_minutes": 10080,
+    "resets_at_unix": 1792745187,
+    "ordinary_usage_allowed": true,
+    "total_used_cutoff_percent": 90,
+    "integration_reserve": true
+  },
+  "artifacts": [
+    {
+      "path": "problems/2025-B4/notes/original-weight-universal-return-r1-candidate-v1.md",
+      "bytes": 19429,
+      "sha256": "89fb03923c61b7785dbcd2b4ff6e6b6f08e17b7fc1653be6ea72f004831040ed"
+    },
+    {
+      "path": "problems/2025-B4/notes/original-weight-universal-return-r1-obligations-v1.md",
+      "bytes": 6277,
+      "sha256": "756b78e743739cf7a4cb12508ac3fc7927567b2f0bbbfc01e18e2aab68ef5892"
+    },
+    {
+      "path": "problems/2025-B4/notes/original-weight-universal-return-r1-constructor-checks-v1.md",
+      "bytes": 4846,
+      "sha256": "b2bb4652bae80a8aa469ab6fba368f4cae82004ef979be2bb18d1c96054d9d79"
+    },
+    {
+      "path": "problems/2025-B4/notes/original-weight-universal-return-r1-source-audit-v1.md",
+      "bytes": 8641,
+      "sha256": "5521f2d3758d4d4a4057b179aa1a8a0f34c5cd73caca0d2348d4e6dbcd4571dd"
+    },
+    {
+      "path": "problems/2025-B4/notes/original-weight-universal-return-r1-worklog-v1.md",
+      "bytes": 8816,
+      "sha256": "b5f26ee94a27f1eb00c9292c682f26fd3eff5f6ddf336c88686d44de12023c42"
+    },
+    {
+      "path": "problems/2025-B4/notes/original-weight-universal-return-r1-freeze-v1.py",
+      "bytes": 14995,
+      "sha256": "8273045b512e3c612c7e901601b4c17a51b641c3930e4bf23e89f6c46d0b01c2"
+    },
+    {
+      "path": "problems/2025-B4/notes/original-weight-universal-return-r1-sources-v1.json",
+      "bytes": 7786,
+      "sha256": "4193d91071326dcd8db9b24955ce342cc8dbe4b0afe136b794bc0dcba9c0990c"
+    },
+    {
+      "path": "problems/2025-B4/notes/original-weight-universal-return-r1-input-validation-v1.json",
+      "bytes": 56955,
+      "sha256": "2b4bd89b8e2e40e093911f35b3e5ed6690ef6418074937865099626ead1fc708"
+    }
+  ]
+}

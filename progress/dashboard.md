@@ -110,3 +110,8 @@ Update approximately12:32UTC:2020 R4 BOTH whole initials are now frozen. R2 foun
 ## Current checkpoint — 2026-10-17 13:25 UTC
 
 [All-nine status and usage](status-2026-10-17-1325.md). NEW2017V1–V4/2022F5A–E/2024CJ1 accepted as scoped partials after both whole audits/full reconciliation. Two annual answers2018/2023;seven unresolved. Three workers now research2017/2021/2025, root2019/2024.41%TOTALweekly;864,439,418rawtotal/46,427,514uncached+output. Ownedawake active; research continues.
+
+
+## Current research — 2026-10-17 13:44 UTC
+
+[Candidate/source/usage checkpoint](checkpoint-2026-10-17-1344.md). New2021R7/2024DI/2025UW/RK remainUNVERIFIED; two whole audits required for each. Two completeannualanswers2018/2023;seven unresolved.42%TOTALweekly;889,687,784rawtotal/47,795,048uncached+output. Ownedawakeverified23:44:21Brisbane. Research continues.
