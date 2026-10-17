@@ -1,0 +1,69 @@
+{
+  "accepted_at_utc": "2026-10-17T18:59:11.945665+00:00",
+  "status": "proved, independently reviewed scoped partial result",
+  "whole_initials_blind": true,
+  "root_read_full_candidate_both_reports_all_ledgers_sources": true,
+  "unresolved_substantive_issues": 0,
+  "repair_required": false,
+  "candidate": {
+    "path": "problems/2025-B4/notes/reasoning-return-r7-candidate-v1.md",
+    "bytes": 24429,
+    "sha256": "ee144e23b5a40e828f3e4f74790f5ec1394b4a9462609a8102f8b3a16465c8e0"
+  },
+  "accepted_copy": {
+    "path": "problems/2025-B4/proofs/reviewed-reasoning-return-r7-v1.1.md",
+    "bytes": 26875,
+    "sha256": "f3bdf6dd49210954e619daec5ef50ef7bc288777230127c0c9d086f46af3634d"
+  },
+  "verification_metadata": [
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r7-freeze-v1.json",
+      "bytes": 3864,
+      "sha256": "0f3dc3419bc3f7a031a38f5d5d9448187cad39fe62588e4d5f43967e9c644174"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r7-sources-v1.json",
+      "bytes": 5653,
+      "sha256": "c1c89cd63f746412ed39b5644a653e583c614914c99f5d0cf8aaf1a5d7862126"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r7-input-validation-v1.json",
+      "bytes": 3060,
+      "sha256": "e8145f2fda92a17ebe38a3a790207f736ffa9fd633fce9cb601a292f0eced9c8"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r7-review-1-manifest-v1.json",
+      "bytes": 3026,
+      "sha256": "fd1aaa2a40811776ea01fdbcc1b2699471ed1974d0b8b39b9212ebe94493d17c"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r7-review-1-integrity-v1.json",
+      "bytes": 1956,
+      "sha256": "38b1ec36ec94582c4fc209964fd0d879bdac6ea5a56183050c286ab880cc0fde"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r7-review-2-manifest-v1.json",
+      "bytes": 3975,
+      "sha256": "e7aa0fe112734e27ba562cd8465b0f81bc62b6c6975cfe9adbb0e37e808a9b91"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r7-review-2-input-validation-v1.json",
+      "bytes": 14846,
+      "sha256": "8006b0f7a89865bfcd29b33d1dabac3fadf911188d4b38f1d6a5a740ccc9e256"
+    }
+  ],
+  "record_occurrences_verified": 102,
+  "unique_paths_verified": 53,
+  "whole_author_obligations": 56,
+  "independent_whole_audits": 2,
+  "reviewers": [
+    "/root",
+    "/root/review_2022_complexity_r2"
+  ],
+  "new_constructor": "/root/review_2017_coarsening_r1",
+  "original_weight_counterexample": false,
+  "annual_solution": false,
+  "unconditional_height_improvement": false,
+  "novelty_established": false,
+  "mathematical_code_or_author_rerun": false
+}

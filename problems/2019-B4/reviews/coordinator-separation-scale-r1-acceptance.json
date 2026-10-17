@@ -1,0 +1,74 @@
+{
+  "accepted_at_utc": "2026-10-17T19:00:10.142214+00:00",
+  "status": "proved, independently reviewed scoped partial result",
+  "whole_initials_blind": true,
+  "root_read_full_candidate_both_reports_all_ledgers_sources": true,
+  "unresolved_substantive_issues": 0,
+  "repair_required": false,
+  "candidate": {
+    "path": "problems/2019-B4/notes/coordinator-separation-scale-r1-candidate-v1.md",
+    "bytes": 9068,
+    "sha256": "d08d778d7bfe2e915b67d85833d4dfb312d78393f0e80aeecdc7859abae5070e"
+  },
+  "accepted_copy": {
+    "path": "problems/2019-B4/proofs/reviewed-separation-scale-v1.1.md",
+    "bytes": 11544,
+    "sha256": "40776fab233b7503a1c79e91959692dc8dd09d4d116f68831007278bb054d2a6"
+  },
+  "verification_metadata": [
+    {
+      "path": "problems/2019-B4/notes/coordinator-separation-scale-r1-freeze-v1.json",
+      "bytes": 3809,
+      "sha256": "33abb0fd6e571f623f31c9d767be471b95cad1990f39d898700f3568acad732c"
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-separation-scale-r1-sources-v1.json",
+      "bytes": 3035,
+      "sha256": "f99dfce688242be348e1e6c9eb5f5c13f3802faa145989c2e3900b885a7fcc83"
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-separation-scale-r1-input-validation-v1.json",
+      "bytes": 1992,
+      "sha256": "27f11a432f37ac409bd8330b7f761ef93d86bac9b2bf002d8b3c58bc06b20f56"
+    },
+    {
+      "path": "problems/2019-B4/reviews/coordinator-separation-scale-r1-review-1-manifest-v1.json",
+      "bytes": 4959,
+      "sha256": "7268fc828f2b066569daf08da5606351b5f71b7e27078cc6f4a7c898667d191e"
+    },
+    {
+      "path": "problems/2019-B4/reviews/coordinator-separation-scale-r1-review-1-input-validation-v1.json",
+      "bytes": 4352,
+      "sha256": "91407be5dd139ec21dcf8019fc34fc8a779b6fc3a8bd75093f7c112200dab0c8"
+    },
+    {
+      "path": "problems/2019-B4/reviews/coordinator-separation-scale-r1-review-2-manifest-v1.json",
+      "bytes": 4632,
+      "sha256": "98718a43fdd13ab3f5d52881659895906ccfabcc6faa77f4b84456eba7066d38"
+    },
+    {
+      "path": "problems/2019-B4/reviews/coordinator-separation-scale-r1-review-2-input-validation-v1.json",
+      "bytes": 11536,
+      "sha256": "a329e0cfc41727089de830895a01d237470ac086ca96d55e4d6baa6e75d56ab9"
+    }
+  ],
+  "record_occurrences_verified": 105,
+  "unique_paths_verified": 68,
+  "whole_author_obligations": 13,
+  "independent_whole_audits": 2,
+  "reviewers": [
+    "/root/review_2021_reasoning_j15_r2",
+    "/root/review_2017_coarsening_r1"
+  ],
+  "constructor": "/root",
+  "root_excluded_from_independent_count": true,
+  "strict_lower_bound": "220653/125000",
+  "strict_upper_bound": "1.834856083",
+  "optional_E1_block_count_clarification_resolved_in_header": true,
+  "independent_certificate_children": [
+    33186,
+    32567
+  ],
+  "annual_solution": false,
+  "novelty_established": false
+}

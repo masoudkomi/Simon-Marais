@@ -1,0 +1,99 @@
+{
+  "frozen_at_utc": "2026-10-17T19:02:38.105959+00:00",
+  "status": "COMPLETE initially blind NONCONSTRUCTOR WHOLE R2 initial; recommendation only, no promotion",
+  "reviewer": "/root/review_2022_complexity_r2",
+  "constructor": "/root/review_2021_reasoning_j15_r2",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independently_verified_effective_settings": null,
+  "target": {
+    "path": "problems/2017-B4/notes/reasoning-value-return-r4-candidate-v1.md",
+    "bytes": 42968,
+    "sha256": "e2c497814ebd8c9ec8b767c30be6cd37ca8ea9d2d9e51f5496bbd91c91bc854a"
+  },
+  "constructor_freeze": {
+    "path": "problems/2017-B4/notes/reasoning-value-return-r4-freeze-v1.json",
+    "bytes": 3773,
+    "sha256": "99df2683197f1a6e6e0f5c5696859c8c57b8a601bff3bf07d1bd6bd1fa831dca"
+  },
+  "whole_claims": [
+    "EC1 finite affine extraction",
+    "EC2 effective local catalogue/finite strict block",
+    "EC3 total finite-M exact-GE recovery",
+    "EC4 actual one-sided lower certificates"
+  ],
+  "whole_author_obligations": 64,
+  "substantive_issues": 0,
+  "required_repairs": 0,
+  "new_EC_peer_findings_unread_before_entire_freeze": true,
+  "old_G_authorship_and_other_review_roles_disclosed_no_self_recertification": true,
+  "no_new_EC_construction_contribution": true,
+  "root_pending_initial_findings_withheld_completion_identity_only": true,
+  "no_upper_R_two_sided_rate_value_annual_or_novelty_claim": true,
+  "no_math_code_CAS_scan_algorithm_execution_author_rerun_old_shared_Git_cache_edit": true,
+  "compact_parent_manifest": {
+    "path": "problems/2025-B4/reviews/reasoning-return-r7-review-2-manifest-v1.json",
+    "bytes": 3975,
+    "sha256": "e7aa0fe112734e27ba562cd8465b0f81bc62b6c6975cfe9adbb0e37e808a9b91"
+  },
+  "compact_parent_validation": {
+    "path": "problems/2025-B4/reviews/reasoning-return-r7-review-2-input-validation-v1.json",
+    "bytes": 14846,
+    "sha256": "8006b0f7a89865bfcd29b33d1dabac3fadf911188d4b38f1d6a5a740ccc9e256"
+  },
+  "historical_inventory_not_copied": true,
+  "older_own_unique_paths_preserved": 357,
+  "record_occurrences_reverified": 507,
+  "unique_paths_reverified": 459,
+  "direct_weekly_telemetry": {
+    "at_utc": "2026-10-17 18:56:21 UTC",
+    "total_used_percent": 56,
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "spend_control_reached": false,
+    "rate_limit_reached_type": null,
+    "total_ceiling_percent": 90,
+    "review_integration_reserve": true
+  },
+  "command": "python3 problems/2017-B4/reviews/reasoning-value-return-r4-review-2-freeze-v1.py",
+  "artifacts": [
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r4-review-2-initial.md",
+      "bytes": 22863,
+      "sha256": "72484e6071005863b88ae8af81119ab7294be0c89662fee2d537f311339cd6a7"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r4-review-2-issues-v1.md",
+      "bytes": 11972,
+      "sha256": "95b82b5fb2b08e2947dff6a34d42415ba0597e7f5440f0bfbcdf898bddb437f8"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r4-review-2-source-checks-v1.md",
+      "bytes": 8039,
+      "sha256": "5c22db344d24073bb5d9f039cb6c4cc2411147884f51aca9ace0bebc8a15e612"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r4-review-2-freeze-v1.py",
+      "bytes": 15262,
+      "sha256": "9863388977a4dc7be36443311df5c7d88bcef6309d2d36a794eae05d9f2dac64"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r4-review-2-sources-v1.json",
+      "bytes": 17258,
+      "sha256": "b24d2ee6cb3a95f7f66f426a95dd7b7524c26814c7e0afcadfe2f686d2f288c5"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r4-review-2-input-validation-v1.json",
+      "bytes": 19919,
+      "sha256": "f6001c230523eb97e2ad319e83d478e34c8ed8b2991fe0f909d9e09a0f4e9130"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r4-review-2-freeze-output-v1.json",
+      "bytes": 858,
+      "sha256": "f5b0f66638a7939ceef929f920546dcc82173f59d3fb8174fc5616c6458ff276"
+    }
+  ]
+}

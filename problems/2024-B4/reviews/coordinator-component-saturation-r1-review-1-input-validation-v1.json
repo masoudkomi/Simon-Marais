@@ -1,0 +1,194 @@
+{
+  "verified_at_utc": "2026-10-17T18:46:10.026994+00:00",
+  "administrative_only": true,
+  "all_verified": true,
+  "record_occurrences": 724,
+  "unique_paths": 615,
+  "deduplicated_path_bytes_sha256_digest": "cd2996df396b8e3f4ab6b23ac0258916b1cca05a433383b6d451acc8122653cc",
+  "immutable_metadata": [
+    {
+      "metadata": {
+        "path": "problems/2024-B4/notes/coordinator-component-saturation-r1-freeze-v1.json",
+        "bytes": 3452,
+        "sha256": "13dff01ab6757aa2214d4be9667c96f8381446f7b41c0b06b3458babfe80f0fb"
+      },
+      "declared_record_occurrences_verified": 9
+    },
+    {
+      "metadata": {
+        "path": "problems/2024-B4/notes/coordinator-component-saturation-r1-sources-v1.json",
+        "bytes": 2594,
+        "sha256": "fd845efd939a0dfff900edfe3ff219f24dae299e688fecb601cd527aa0adac8f"
+      },
+      "declared_record_occurrences_verified": 7
+    },
+    {
+      "metadata": {
+        "path": "problems/2024-B4/notes/coordinator-component-saturation-r1-input-validation-v1.json",
+        "bytes": 3952,
+        "sha256": "401859c359caf55d8de5f09950791f35ae45cce3985966f2b7bc0894149a2b92"
+      },
+      "declared_record_occurrences_verified": 13
+    },
+    {
+      "metadata": {
+        "path": "problems/2024-B4/reviews/reasoning-components-r1-acceptance.json",
+        "bytes": 3747,
+        "sha256": "58053138aaac34aaf01cdbcb9e703f6b53afff113c05d176c538919f19ba924c"
+      },
+      "declared_record_occurrences_verified": 12
+    },
+    {
+      "metadata": {
+        "path": "problems/2024-B4/reviews/reasoning-components-r1-acceptance-integrity.json",
+        "bytes": 3043,
+        "sha256": "0631a1af3994447bd1c2f4b0ffedef7f9b244af4a8279759825cfe1edb6aacd3"
+      },
+      "declared_record_occurrences_verified": 10
+    },
+    {
+      "metadata": {
+        "path": "problems/2024-B4/notes/reasoning-components-r1-input-validation-v1.json",
+        "bytes": 154029,
+        "sha256": "7babd6039aa29df860b8ee1e7a45a887ed5f24d72cf8e701ebc3a8784edc7eaf"
+      },
+      "declared_record_occurrences_verified": 602
+    },
+    {
+      "metadata": {
+        "path": "problems/2024-B4/notes/reasoning-components-r1-authority-hash-only-addendum-v1.json",
+        "bytes": 3673,
+        "sha256": "3aac70a9a54b40f00087007562de109d9325419190e65aecbea9bae76c9b7133"
+      },
+      "declared_record_occurrences_verified": 13
+    },
+    {
+      "metadata": {
+        "path": "problems/2024-B4/reviews/Kasami-whole-criterion-acceptance.json",
+        "bytes": 3104,
+        "sha256": "d191f7c685c2e02065aebd2b63aac39f007aa04ec5f58253b3ee3da918a452f4"
+      },
+      "declared_record_occurrences_verified": 10
+    },
+    {
+      "metadata": {
+        "path": "problems/2024-B4/reviews/generalized-Kasami-acceptance.json",
+        "bytes": 5168,
+        "sha256": "c580e2e51475b46283b16c47992a625fc3437c0a0a4669c63394f6a5bafbbf67"
+      },
+      "declared_record_occurrences_verified": 19
+    },
+    {
+      "metadata": {
+        "path": "problems/2017-B4/notes/reasoning-value-return-r4-freeze-v1.json",
+        "bytes": 3773,
+        "sha256": "99df2683197f1a6e6e0f5c5696859c8c57b8a601bff3bf07d1bd6bd1fa831dca"
+      },
+      "declared_record_occurrences_verified": 10
+    },
+    {
+      "metadata": {
+        "path": "problems/2017-B4/notes/reasoning-value-return-r4-input-validation-v1.json",
+        "bytes": 7878,
+        "sha256": "543ada00ce67cda9de7714a209db9db854e7b600310989b51ad4d919548ea1d0"
+      },
+      "declared_record_occurrences_verified": 19
+    }
+  ],
+  "direct_assigned_inputs": [
+    {
+      "path": "problems/2024-B4/notes/coordinator-component-saturation-r1-candidate-v1.md",
+      "bytes": 13194,
+      "sha256": "61f8c60491880e941149649c2c4180abef91671496d56c5869f8543a915aba46"
+    },
+    {
+      "path": "problems/2024-B4/notes/coordinator-component-saturation-r1-freeze-v1.json",
+      "bytes": 3452,
+      "sha256": "13dff01ab6757aa2214d4be9667c96f8381446f7b41c0b06b3458babfe80f0fb"
+    }
+  ],
+  "prior_own_complete_checkpoint": {
+    "path": "problems/2017-B4/notes/reasoning-value-return-r4-freeze-v1.json",
+    "bytes": 3773,
+    "sha256": "99df2683197f1a6e6e0f5c5696859c8c57b8a601bff3bf07d1bd6bd1fa831dca"
+  },
+  "author_obligations": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07",
+    "08",
+    "09",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30"
+  ],
+  "reviewer_checks": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07",
+    "08",
+    "09",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40"
+  ],
+  "compact_binding_instead_of_copying_historical_inventory": true,
+  "exact_declared_records_reproducible_in_bound_parent_metadata": true,
+  "no_new_peer_CS_findings_or_queued_2019_packet_opened_before_complete_freeze": true,
+  "no_old_bytes_changed": true,
+  "mathematical_code_CAS_scan_or_author_rerun": false
+}

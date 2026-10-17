@@ -4,15 +4,15 @@ Initial scope: nine official B4 open portions, 2017-2025. **2026 deferred by the
 
 |Year|Accepted result and present position|
 |---|---|
-|2017|Scalar limit exists, value unknown, reviewed upper bound<0.649514. NEW HC1--HC3 accepted: exact special heap capacity and improved error h2(1/D)/2+L/D. No effective finite-side rate/E/R or new value.|
+|2017|Scalar limit exists, value unknown, reviewed upper<0.649514. NEW EC1--EC4 accepted after two complete WHOLE64-obligation audits: actual finite-M GE recovery and increasing certified LOWER approximations. UpperR, two-sided rate and numerical value remain open.|
 |2018|COMPLETE general enumeration formula, independently reviewed and attributed to Hering--Howard/Ottaviani. This is a published-result reproduction.|
-|2019|Reviewed1.76522347<lambda<1.834856083; exact walk/Frechet and balanced-rate bridge. NEW AF1/AF2 accepted: no finite presentation of the actual even context monoid on ANY finite alphabet. No growth improvement; exact value/moment regime remain open.|
-|2020|NEW R6 accepted after BOTH complete WHOLE audits: exact coinvariant fiber energy retaining overlap, common-Baer numerical restriction, actual residual-kernel smallness and faithful logarithmic gap for s>12, and nonsquare modulo3 character bound. Actual-source limits retained. General taut classification and nonsaturated incidence/phase gap remain unresolved.|
+|2019|NEW reviewed1.765224<lambda<1.834856083. SS1--SS3 give exact minimum witness width, first canonical cap discrepancy2D+O(1), actual disjoint-tail union and one fixed sign certificate. Exact value/renewal regime remain open.|
+|2020|NEW R7 accepted after both WHOLE56-obligation audits: complete integral Fourier lift, prime-modulus norm iff and exact ideal/composite-gluing obstructions. Actual classification and solving the norm/integrality conditions remain open.|
 |2021|New R9 accepted after both complete initially blind whole audits: real witness-run/gcd-support restrictions and exact cubic collision depths in a restricted actual-double degree20 branch. Essential, weighted and cubic alternatives survive; degree20/general classification remain open.|
-|2022|NEW R7 accepted after fresh A/B WHOLE audits: exact phased criterion and ordinary converse, scaled full-ten/ordinary-nine fibers conditional on an A/B path, and exact predecessor restriction. Root excluded from blind count. No ordinary infinite survivor, termination or annual answer.|
+|2022|R7 accepted: exact phased converse, conditional scaled ten/nine fibers and predecessor restriction. NEW R8 canonical-merger/phase-alignment checkpoint frozen UNVERIFIED; both OTHER whole audits required. No ordinary infinite survivor or termination theorem.|
 |2023|COMPLETE internally reviewed classification for fixed positive nonsquare N: all(k,k),k>0, and(k,2k),(2k,k) for positive odd k. Priority remains unestablished.|
-|2024|NEW IC1--IC4 accepted after BOTH WHOLE audits: exact boundary contact, individual valuation/all mixed-q obstructions, transitive k2/3/5 occurrence tests, q16 two-block alternatives. Original1993 J proof unread/exact coauthor statement imported. General component/reducibility classification remains open.|
-|2025|UW/RK and NEW R6 accepted after BOTH complete whole audits: actual normalized Jacobi lifts, exact phase systems and a deliberately weak signed diagonal height bound. The bound is weaker than published bounds and supplies no new Diophantine exclusion. The full equation remains open.|
+|2024|NEW CS1--CS2 accepted after both OTHER WHOLE30-obligation audits: any common absolute base-Kasami component forces WHOLE division for everyk; exact KC occurrence test, properq16 blocks excluded. Non-base/general reducibility remains open.|
+|2025|NEW R7A--E accepted after both WHOLE56-obligation audits: actual phase lattice/divided moments, exact pure-signature boundary, conditional original-weight bound and high-weight rank-collapse. No new Diophantine exclusion; full equation open.|
 
 ## Coordination
 
@@ -164,3 +164,7 @@ Current all-nine/token report: [status-2026-10-17-1548.md](status-2026-10-17-154
 [All-nine status and usage](status-2026-10-17-1758.md). NEW2017HC,2019AF and2024IC accepted after BOTH complete initially blind WHOLE audits/full root reconciliation. Two annual answers remain2018/2023; seven unresolved.2022R7 now accepted after fresh A/B WHOLE audits/full root reconciliation; root excluded from blind count.2017R4/2021R9/2025R7 reasoning active.53% TOTAL weekly,37pp before90%. Raw1149132618 including1089263872 cached; uncached+output59868746. Sustained work continues.
 
 Latest current report: [all nine, new candidates and usage at 18:38 UTC](status-2026-10-17-1838.md). Two annual answers unchanged. New 2017/2019/2020/2024/2025 candidates remain unverified; 2021 R9 is accepted. Weekly 55% total. Historical dated checkpoints above remain historical.
+
+## Checkpoint 2026-10-17 19:07 UTC
+
+Five new exact partial packets accepted after both complete blind WHOLE audits and root full reconciliation:2017EC,2019SS,2020R7,2024CS,2025R7. No additional complete annual solution.2022R8 frozen UNVERIFIED; actual research continues2021R10/2024source-sector/2025R8. Weekly57%TOTAL; latest raw1,263,065,711 including1,195,540,992cached input;uncached+output67,524,719;reasoning4,168,812. See [status-2026-10-17-1907.md](status-2026-10-17-1907.md).

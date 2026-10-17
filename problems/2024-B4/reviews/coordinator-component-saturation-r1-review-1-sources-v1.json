@@ -1,0 +1,52 @@
+{
+  "recorded_at_utc": "2026-10-17T18:46:10.026994+00:00",
+  "detailed_source_record": {
+    "path": "problems/2024-B4/reviews/coordinator-component-saturation-r1-review-1-source-checks-v1.md",
+    "bytes": 6958,
+    "sha256": "e7ab15b3b43f6ffd144aae6f26b12bb8e36b247ea79dbd17609b93e62d1a8777"
+  },
+  "actual_primary_reads": [
+    {
+      "name": "Official2024 Paper B",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc2024_paper_b.pdf",
+      "read": "Page2 B4(b) and exact congruence/constant definitions",
+      "role": "Actual open target only"
+    },
+    {
+      "name": "Bensimhoun2004 authored Lueroth proof",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Another_elementary_proof_of_Luroth%27s_theorem-06.2004.pdf",
+      "read": "COMPLETE theorem and BOTH written proof pages",
+      "role": "Classical foundational arbitrary-characteristic theorem"
+    },
+    {
+      "name": "Mesnager--Qu1907.01066v1",
+      "url": "https://arxiv.org/pdf/1907.01066v1",
+      "read": "Actual Section5.4 Definition44, parameter paragraph, Proposition45",
+      "role": "Classical trace-form attribution only; NO exceptionality or permutation theorem",
+      "two_screenshot_cache_miss_failures_disclosed": true,
+      "full28page_audit": false
+    }
+  ],
+  "accepted_bodies_read_in_full": [
+    {
+      "path": "problems/2024-B4/proofs/reviewed-Kasami-whole-criterion-v1.1.md",
+      "bytes": 10678,
+      "sha256": "b78b770e4f0b19481c1c7b136295cff2a2876d0e4e5f9c0fa1f6112c64944e1c"
+    },
+    {
+      "path": "problems/2024-B4/proofs/reviewed-generalized-Kasami-v1.1.md",
+      "bytes": 12828,
+      "sha256": "eff29275bed2eb037a90bd8935c7c00740e66874c03f973a2996daa8f131d36e"
+    },
+    {
+      "path": "problems/2024-B4/proofs/reviewed-reasoning-components-r1-v1.1.md",
+      "bytes": 27459,
+      "sha256": "43f095a4286919a32db16298ae6ddde016f9ee10de9394c45584c69ca186fe36"
+    }
+  ],
+  "old_IC_authorship_not_independently_self_recertified": true,
+  "original_JW1993_full_proof_and_Ferard2014_exact_theorem_unread_unused_by_core_CS": true,
+  "binary_remote_source_hash_claim": false,
+  "new_download_or_source_cache_mutation": false,
+  "novelty_full_annual_solution_or_general_irreducibility_claim": false
+}

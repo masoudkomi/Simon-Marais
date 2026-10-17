@@ -1,0 +1,260 @@
+{
+  "frozen_at_utc": "2026-10-17T18:47:41.887013+00:00",
+  "reviewer": "/root/review_2022_complexity_r2",
+  "role": "fresh initially blind NONCONSTRUCTOR WHOLE R2, all56 obligations",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "independently_verified_effective_settings": null,
+  "target": {
+    "path": "problems/2025-B4/notes/reasoning-return-r7-candidate-v1.md",
+    "bytes": 24429,
+    "sha256": "ee144e23b5a40e828f3e4f74790f5ec1394b4a9462609a8102f8b3a16465c8e0"
+  },
+  "constructor_freeze": {
+    "path": "problems/2025-B4/notes/reasoning-return-r7-freeze-v1.json",
+    "bytes": 3864,
+    "sha256": "0f3dc3419bc3f7a031a38f5d5d9448187cad39fe62588e4d5f43967e9c644174"
+  },
+  "complete_constructor_artifacts": [
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r7-candidate-v1.md",
+      "bytes": 24429,
+      "sha256": "ee144e23b5a40e828f3e4f74790f5ec1394b4a9462609a8102f8b3a16465c8e0"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r7-obligations-v1.md",
+      "bytes": 7188,
+      "sha256": "3973da0b34c1ba312c132f64f02bf431a0b964c129fbe2f2f6e72bf7d021ef1e"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r7-failed-routes-v1.md",
+      "bytes": 4762,
+      "sha256": "d515d88d23d2b40343677b22595a38b9462eceb90c7f2a0e1acbc16919257555"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r7-source-audit-v1.md",
+      "bytes": 5933,
+      "sha256": "145ce84733e84344cb75e6304f4b95125f1f2852e3a0a2f53431501a26b7946e"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r7-worklog-v1.md",
+      "bytes": 6038,
+      "sha256": "2dd59062e82c03807e04d49cabc5a0a9d2bd88d73e6a4e307ecec7340ea31910"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r7-sources-v1.json",
+      "bytes": 5653,
+      "sha256": "c1c89cd63f746412ed39b5644a653e583c614914c99f5d0cf8aaf1a5d7862126"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r7-freeze-v1.py",
+      "bytes": 11435,
+      "sha256": "6c9975bc3b1947fa41ab39af079b9a56c8972b4822d96da491b512f03a3716e7"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r7-input-validation-v1.json",
+      "bytes": 3060,
+      "sha256": "e8145f2fda92a17ebe38a3a790207f736ffa9fd633fce9cb601a292f0eced9c8"
+    }
+  ],
+  "exact_accepted_inputs_and_context": [
+    {
+      "path": "problems/2025-B4/proofs/reviewed-partial-v1.1.md",
+      "bytes": 1803,
+      "sha256": "29276223791ec301bdbacf335e1fa20a5ca1e65c50f354035abd46b9400e9674"
+    },
+    {
+      "path": "problems/2025-B4/proofs/reviewed-power-gap-return-v1.1.md",
+      "bytes": 11931,
+      "sha256": "178bcd9ace1c34ac6762f4857f7da85b5b55ff07f4d2308a83bfe57a11749850"
+    },
+    {
+      "path": "problems/2025-B4/proofs/reviewed-diagonal-firstcase-v1.1.md",
+      "bytes": 5436,
+      "sha256": "1f4e63b83f0e5de1163691d5fe715efaaa16d1b9ad058546cee41ea46f04a281"
+    },
+    {
+      "path": "problems/2025-B4/proofs/reviewed-diagonal-moment-v1.1.md",
+      "bytes": 10168,
+      "sha256": "4e25e67e6459134cb5b6c618baef91c37f30bb1dae542d7426fb61450ce4a4f7"
+    },
+    {
+      "path": "problems/2025-B4/proofs/reviewed-Fueter-selection-return-v1.1.md",
+      "bytes": 20505,
+      "sha256": "230dfe9da040e98506bc6fabd5c37c356fb756d5128f990eb9a4fe2ee7e3181a"
+    },
+    {
+      "path": "problems/2025-B4/proofs/reviewed-original-weight-selection-v1.1.md",
+      "bytes": 9301,
+      "sha256": "06071958bafd1fa51d5ceba798b2dab18fb1e441c4a105f093595be78c96110f"
+    },
+    {
+      "path": "problems/2025-B4/proofs/reviewed-original-weight-universal-v1.1.md",
+      "bytes": 22590,
+      "sha256": "bb4d3f1b378f8062ba5d1f6e8ee0a197f0f09f01e4f97b7abe8195a9627cd2c4"
+    },
+    {
+      "path": "problems/2025-B4/proofs/reviewed-reciprocal-kernel-v1.1.md",
+      "bytes": 12969,
+      "sha256": "41d1882ce1efa59f24b5d76636125edeb037e712add8ee93632c2aa3d8030e60"
+    },
+    {
+      "path": "problems/2025-B4/proofs/reviewed-reasoning-return-r6-v1.1.md",
+      "bytes": 28748,
+      "sha256": "4e157819789da12d6f26e89929d88ec886d52947405d836fe3957ab8ee727d3a"
+    },
+    {
+      "path": "problems/2025-B4/statement.md",
+      "bytes": 2024,
+      "sha256": "af0075dd635e8e4d31bb3ae9148d1731a7fbb57c06cf104763332e1496673f59"
+    },
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r1/2025-bartolome-mihailescu-binary-thue-v2.pdf",
+      "bytes": 300321,
+      "sha256": "7108b665ebed8b2364c5a6629951d21abd400c96d4e7d5f4f81028f12ed424aa"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r6-acceptance.md",
+      "bytes": 3261,
+      "sha256": "9eec12d169ef7c33efeeb1254dff467990b41822707db0086a4b14016544cf20"
+    },
+    {
+      "path": "problems/2025-B4/reviews/original-weight-universal-acceptance.md",
+      "bytes": 3261,
+      "sha256": "52b9cc1fedf397eeb764189144805cd330178fa9eb6c805eabf7e43de405c936"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reciprocal-kernel-acceptance.md",
+      "bytes": 3527,
+      "sha256": "a3c0955afb1470b031d45ef59b7f91526fb6c581ca07c3338ad41c2c1f3a540a"
+    },
+    {
+      "path": "problems/2025-B4/reviews/Fueter-selection-return-acceptance.md",
+      "bytes": 2949,
+      "sha256": "479d2ce13498ceaa6870d5753d6cf8997aae73f00eccaec866b8f63933560f6f"
+    },
+    {
+      "path": "problems/2025-B4/reviews/original-weight-selection-acceptance.md",
+      "bytes": 2376,
+      "sha256": "eaf80dd5489f974a908d2303fe444b11ffa612fb8aa360295d7939f917680551"
+    }
+  ],
+  "accepted_R6_exact_eight_artifact_packet": [
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r6-candidate-v1.md",
+      "bytes": 25588,
+      "sha256": "bdf566f44dcabb5b7bbfb96778b1dd58b7375bf46fcd697c3579564e5e9da627"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r6-obligations-v1.md",
+      "bytes": 6324,
+      "sha256": "2db5da98197f59d505146763b4dd9806165a490762be62da2ef906b06750ab5d"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r6-source-audit-v1.md",
+      "bytes": 6986,
+      "sha256": "6663609e374c367ec482ce72bb1847f3a2408b2bfc74fa08bf226c4351468c85"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r6-constructor-check-v1.md",
+      "bytes": 4913,
+      "sha256": "fd671bd8ab453bbd7ef1ffd361e3b729fdfe5dd4a8a7299f510e241b71cf4479"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r6-worklog-v1.md",
+      "bytes": 7142,
+      "sha256": "6b5104d1d316c9d759219b9177723dbbe8798d7bab7e1d0d0bd4755e0b1b27a6"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r6-sources-v1.json",
+      "bytes": 4729,
+      "sha256": "5081ec125d38e3ed71d87fb58a00acbb3f9932cd33ddc8b05655cfbff3ac996f"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r6-freeze-v1.py",
+      "bytes": 9771,
+      "sha256": "0c452cd0ff5a43a4aafd1f0608dc90e7c14a9bc7f48c28f493333f7ffc0a259c"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r6-input-validation-v1.json",
+      "bytes": 66816,
+      "sha256": "46be668eb16c7b6b4bd99e643422556c20b2e3aa2bae04343f2d914619f5e934"
+    }
+  ],
+  "accepted_R6_suffix_byte_identical": true,
+  "actual_local_read_scope": "Complete constructor8 plus freeze; COMPLETE accepted R6/UW/RK/FS/OW and their5 acceptance Markdown scopes; partial header/fullCF1; MS/PG other old metadata not claimed full freshly reread",
+  "primary_actual_reads": [
+    {
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc2025_paper_b.pdf",
+      "scope": "Actual official B4(b), signed integer domain, no preliminary proof",
+      "read_date_utc": "2026-10-17",
+      "new_native_pdf_hash": null,
+      "new_pdf_or_cache_write": false
+    },
+    {
+      "url": "https://www.researchgate.net/publication/226863681_Class_Number_Conditions_for_the_Diagonal_Case_of_the_Equation_of_Nagell_and_Ljunggren",
+      "scope": "Fresh actual2.2 equations10--13, Stickelberger definitions/generation context, selected2.5/2.5.1/4.2 canonical/phase passages, COMPLETE Theorem3 statement; old full4.3 read retained as context, no new full external proof certification",
+      "import": "Attributed matched-prime Jacobi ideal formula, ordinary cyclotomic background; no full Diophantine/class-number theorem",
+      "read_date_utc": "2026-10-17",
+      "new_native_pdf_hash": null,
+      "new_pdf_or_cache_write": false
+    },
+    {
+      "url": "https://arxiv.org/pdf/1412.5798v2",
+      "scope": "Fresh Jacobi/series normalization, Lemma2.7, relevant2.8--2.10, beginning5.2 selection; earlier complete relevant appendices retained as old context",
+      "strict_N_less_than_p_minus_1_not_extended_by_source_import": true,
+      "read_date_utc": "2026-10-17",
+      "new_native_pdf_hash": null,
+      "new_pdf_or_cache_write": false
+    },
+    {
+      "url": "https://webbut.unitbv.ro/index.php/Series_III/article/download/8768/6170/17457",
+      "scope": "ALL12 primary PDF pages including Proposition1, quotient/module action, applications and final remark",
+      "hypotheses": "q>p; q=p and q<p explicitly deferred; NOT a diagonal input or theorem refutation",
+      "read_date_utc": "2026-10-17",
+      "new_native_pdf_hash": null,
+      "new_pdf_or_cache_write": false
+    }
+  ],
+  "old_UW_authorship_R6_MS_related_review_roles_disclosed": true,
+  "new_R7_construction_contribution": false,
+  "old_own_accepted_inputs_not_independently_self_recertified": true,
+  "new_peer_R7_findings_and_queued2017R4_unread_before_entire_freeze": true,
+  "compact_immutable_binding": {
+    "immutable_parent_manifest": {
+      "path": "problems/2024-B4/reviews/coordinator-component-saturation-r1-review-2-manifest-v1.json",
+      "bytes": 4039,
+      "sha256": "287e5e85ecf37f74b7213c5bb4570889b4e613726c3248cffbfa8290260b05e2"
+    },
+    "immutable_parent_validation": {
+      "path": "problems/2024-B4/reviews/coordinator-component-saturation-r1-review-2-input-validation-v1.json",
+      "bytes": 11799,
+      "sha256": "bd2dbaf3b35fdad2496f9c085c46f12e5de4de4adba5361e09b090d536177ec5"
+    },
+    "exact_reproduction_chain_bound_in_parent_validation": true,
+    "older_own_preserved_summary": {
+      "unique_paths": 349,
+      "canonical_sorted_record_array_sha256": "7f9127d72e3d7ec5157b9f1e9f22faa489b06018e649495fae76c7893f042313",
+      "canonical_encoding": "UTF8 JSON ensure_ascii=false sort_keys=true separators=(comma,colon), records sorted by path"
+    },
+    "historical_inventory_not_copied": true,
+    "reproduction": "Use exact CS parent validation compact_immutable_parent_binding to reconstruct341 paths from full older2022 validation/manifest plus R9 and2020R7 artifacts/manifests; append exact CS artifacts/manifest. This script re-verifies349 own paths without copying the inventory."
+  },
+  "no_mathematical_program_CAS_scan_author_rerun_certificate_or_new_binary_download": true,
+  "direct_weekly_telemetry": {
+    "at_utc": "2026-10-17 18:46:21 UTC",
+    "total_used_percent": 56,
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "ordinary_usage_allowed": true,
+    "total_ceiling_percent": 90,
+    "review_integration_reserve": true
+  }
+}

@@ -1,0 +1,13 @@
+# Coordinator acceptance: reasoning-value-return-r4
+
+2026-10-17 UTC. **Proved, independently reviewed scoped partial result.**
+
+Accepted EC1--EC4 in the exact fixed-D, fixed-C actual-GE domains. The explicit dyadic affine-energy estimate and whole-square Lipschitz conversion give finite profile extraction. The local catalogue's algebraic coverage, new quantitative geometric/code constants and ACTUAL finite receiving-block replication yield total finite-M recovery algorithms R(D,C,e), M0(D,C,e). The global proof retains the whole actual family through one finite profile class, conditions codes jointly, and uses ONE final reference with exact every-M boundaries and exterior.
+
+Consequently there is an actual uniformly computable rational positive-excess envelope epsilon(D,p)->0 at every fixed D, giving k_D>=p^-2 log2 B_D(p)-epsilon(D,p). Thus the old V3 EXTRA hypothesis E is discharged by this new result, and ell_D and the official common scalar L have increasing enumerable certified LOWER bounds tending to them. This is one-sided lower semicomputability. The theoretical algorithms have not been executed to produce a practical error bound.
+
+Both OTHER initially blind nonconstructor WHOLE audits are complete. Root R1 and B R2 each independently reconstructed ALL64 obligations, including the NEW Fourier constants, T/K compiler bounds, all-M floor inequality, exact-GE boundary induction and entire finite global assembly. Both complete initials froze before either saw the other's findings. Root has read the complete submission, both full reports, ALL ledgers, source/companion/integrity records and reconciled them; no substantive defect or required repair remains. Old authorship/strategy/review roles are disclosed and are not independent self-recertification of accepted inputs. Classical quantitative differentiation and finite real-closed-field quantifier elimination are attributed with exact actual-read limits. No mathematical code, CAS, count, proposed-algorithm execution, old certificate or author rerun was used.
+
+The upper approximation hypothesis R, two-sided absolute convergence rate, practical complexity, numerical evaluation, actual two-sided computability or noncomputability of L, complete annual answer and novelty remain OPEN. The old V4 abstract obstruction still blocks reversing the LOWER certificate. Internal independent review is not external validation.
+
+Verified 142 declared fingerprint occurrences across 66 paths. Exact inputs are hashed in the integrity summary, without duplicating their preserved historical rows. The unchanged main is an accepted-copy suffix. Metadata checks are integrity only. Internal review is not externalvalidation; novelty is unestablished.

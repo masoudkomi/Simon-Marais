@@ -1,0 +1,345 @@
+{
+  "status": "COMPLETE initially blind WHOLE R1; no substantive scoped issue",
+  "whole_author_obligations": 56,
+  "checks": [
+    {
+      "check": 1,
+      "author_obligation": "R7-01",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Official n>=2,open(b),q=n-1;new q>=2 and inherited n2 boundary retained."
+    },
+    {
+      "check": 2,
+      "author_obligation": "R7-02",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Actual distinct subset/ordered-difference dictionary,not arbitrary incidence data."
+    },
+    {
+      "check": 3,
+      "author_obligation": "R7-03",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Old author/reviewer roles and prior repaired root miss disclosed;new nonconstructor audit."
+    },
+    {
+      "check": 4,
+      "author_obligation": "R7-04",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Cyclicity,classicality,saturation,numerical/full group boundaries all retained."
+    },
+    {
+      "check": 5,
+      "author_obligation": "R7-05",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Every norm-q condition is relative alpha*bar(alpha)=q,not mere absolute norm."
+    },
+    {
+      "check": 6,
+      "author_obligation": "R7-06",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Unique nonzero frequency j=(v/d)b covers EVERY character order and conjugate."
+    },
+    {
+      "check": 7,
+      "author_obligation": "R7-07",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Trace of each algebraic integer is ordinary integer,N_x integral."
+    },
+    {
+      "check": 8,
+      "author_obligation": "R7-08",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Inverse Fourier minus exponent and denominator v reconstructed by orthogonality."
+    },
+    {
+      "check": 9,
+      "author_obligation": "R7-09",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Inversion gives complete prescribed tuple,unique rational A and augmentation k."
+    },
+    {
+      "check": 10,
+      "author_obligation": "R7-10",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Negative frequency conjugation holds in each order."
+    },
+    {
+      "check": 11,
+      "author_obligation": "R7-11",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "All character values give exact AAminus=q1+N using k\u00b2=q+v."
+    },
+    {
+      "check": 12,
+      "author_obligation": "R7-12",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Integral negative coefficients allowed;each a(a-1)>=0 forces binary."
+    },
+    {
+      "check": 13,
+      "author_obligation": "R7-13",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Binary augmentation gives k distinct points and each ordered difference once."
+    },
+    {
+      "check": 14,
+      "author_obligation": "R7-14",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Actual indicator conversely has same tuple and all v-divisibilities."
+    },
+    {
+      "check": 15,
+      "author_obligation": "R7-15",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "T action uses correct image at each divisor,not presumed faithful."
+    },
+    {
+      "check": 16,
+      "author_obligation": "R7-16",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "S and c lie in COMMON G^T,one centering preserves invariance."
+    },
+    {
+      "check": 17,
+      "author_obligation": "R7-17",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Attributed cyclotomic integer basis and lambda residue Fp checked."
+    },
+    {
+      "check": 18,
+      "author_obligation": "R7-18",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "p>=7,k nonzero and q=k\u00b2 modp give exactly two distinct sign residues."
+    },
+    {
+      "check": 19,
+      "author_obligation": "R7-19",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Add integer(k-s)/p to all p coefficients to lift augmentation k."
+    },
+    {
+      "check": 20,
+      "author_obligation": "R7-20",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Monic Phi_p degree p-1 gives INTEGRAL kernel scalar."
+    },
+    {
+      "check": 21,
+      "author_obligation": "R7-21",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Fixed augmentation makes evaluation lift unique."
+    },
+    {
+      "check": 22,
+      "author_obligation": "R7-22",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Kernel identity and k\u00b2-q=p force full AAminus and binary recovery at prime v."
+    },
+    {
+      "check": 23,
+      "author_obligation": "R7-23",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Actual converse,with no saturation or classicality premise."
+    },
+    {
+      "check": 24,
+      "author_obligation": "R7-24",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Sign stays in F and O_F=O_K intersect F,standard integrality."
+    },
+    {
+      "check": 25,
+      "author_obligation": "R7-25",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Fixed beta iff actual T-stable D via evaluation/augmentation uniqueness."
+    },
+    {
+      "check": 26,
+      "author_obligation": "R7-26",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Nonidentity T fixes only0 in Cp,so already common-centered."
+    },
+    {
+      "check": 27,
+      "author_obligation": "R7-27",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Numerical multiplier translation first killed by sumzero,k invertible;full M identity exact."
+    },
+    {
+      "check": 28,
+      "author_obligation": "R7-28",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Norm-one integral lift argument proves +/-zeta^c without hidden surjectivity."
+    },
+    {
+      "check": 29,
+      "author_obligation": "R7-29",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Nonidentity fixed-field condition forces c0,only +/-1 norm-one units."
+    },
+    {
+      "check": 30,
+      "author_obligation": "R7-30",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Abelian G ensures conjugation preserves every specified fixed field."
+    },
+    {
+      "check": 31,
+      "author_obligation": "R7-31",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Ideal balance,principality and unit norm remain three separate conditions."
+    },
+    {
+      "check": 32,
+      "author_obligation": "R7-32",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Epsilon is conjugation-fixed positive UNIT by exact ideal cancellation;inverse equation correct."
+    },
+    {
+      "check": 33,
+      "author_obligation": "R7-33",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Necessity and sufficiency alpha=u gamma both reconstructed."
+    },
+    {
+      "check": 34,
+      "author_obligation": "R7-34",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Generator choice changes epsilon by unit norm;only same-ideal fiber counted."
+    },
+    {
+      "check": 35,
+      "author_obligation": "R7-35",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Balance exponents and self-conjugate even parity exact."
+    },
+    {
+      "check": 36,
+      "author_obligation": "R7-36",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Prime divisors ell|q unramified,Frobenius in T gives complete splitting in F."
+    },
+    {
+      "check": 37,
+      "author_obligation": "R7-37",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Odd T and trivial decomposition give distinct conjugate primes,not principality."
+    },
+    {
+      "check": 38,
+      "author_obligation": "R7-38",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "q5,p31,T order3,R order15,F/E degree5 and nonsaturation exact."
+    },
+    {
+      "check": 39,
+      "author_obligation": "R7-39",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Quadratic Gauss substitution gives tau\u00b2=-31 and exact subfield E."
+    },
+    {
+      "check": 40,
+      "author_obligation": "R7-40",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Integral-basis rational denominator considered;n\u00b2|31,then parity."
+    },
+    {
+      "check": 41,
+      "author_obligation": "R7-41",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Distinct residue ideals at2/4,norm5,conjugate/comaximal and product(5)."
+    },
+    {
+      "check": 42,
+      "author_obligation": "R7-42",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Gamma4omega-3 norm125 and Q residue3 give exactly P\u00b3."
+    },
+    {
+      "check": 43,
+      "author_obligation": "R7-43",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Norm5 equation impossible,so P nonprincipal of EXACT class order3."
+    },
+    {
+      "check": 44,
+      "author_obligation": "R7-44",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Extended ideal remains balanced by conjugation-compatible extension."
+    },
+    {
+      "check": 45,
+      "author_obligation": "R7-45",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Milne4.1 gives P^5 under norm;gcd3,5 prevents this specific capitulation."
+    },
+    {
+      "check": 46,
+      "author_obligation": "R7-46",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Bad balanced ideal does not forbid other ideals or known order5 examples."
+    },
+    {
+      "check": 47,
+      "author_obligation": "R7-47",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "q16 primitive rational4 is integral,norm16 and fully invariant."
+    },
+    {
+      "check": 48,
+      "author_obligation": "R7-48",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "CRT proof of Ramanujan trace product,not numerical scan."
+    },
+    {
+      "check": 49,
+      "author_obligation": "R7-49",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "c0=144,all other c<=12,optional zero handled separately."
+    },
+    {
+      "check": 50,
+      "author_obligation": "R7-50",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "17-set trace<=336<576 forbids primitive4 without any difference-set hypothesis."
+    },
+    {
+      "check": 51,
+      "author_obligation": "R7-51",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Multiset H order13,augmentation17,coefficient5,sum6v and unit stability exact."
+    },
+    {
+      "check": 52,
+      "author_obligation": "R7-52",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Order3 value17 violates norm;multiset not an actual Cohen/full-M input."
+    },
+    {
+      "check": 53,
+      "author_obligation": "R7-53",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Strong tuple uses ONE actual centered D0 and accepted Hall2;T order12 checked."
+    },
+    {
+      "check": 54,
+      "author_obligation": "R7-54",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Every proper quotient frequency unchanged,so whole quotient images jointly actual."
+    },
+    {
+      "check": 55,
+      "author_obligation": "R7-55",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Primitive trace forbids subset;full iff forces some inverse coefficient noninteger."
+    },
+    {
+      "check": 56,
+      "author_obligation": "R7-56",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "General realization/classification/novelty remain open;metadata and no-math-code limits honest."
+    }
+  ],
+  "substantive_issues": 0,
+  "repair_required": false,
+  "peer_R7_findings_read": false
+}

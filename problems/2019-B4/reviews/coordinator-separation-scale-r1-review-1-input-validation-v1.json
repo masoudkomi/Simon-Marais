@@ -1,0 +1,150 @@
+{
+  "checked_at_utc": "2026-10-17T18:56:21.973044+00:00",
+  "administrative_only": true,
+  "all_verified": true,
+  "record_occurrences": 87,
+  "unique_paths": 73,
+  "deduplicated_path_bytes_sha256_digest": "cdff529b0fc6cfe2bdc191bb5f8e2e0e26562100762b12a70422ae1479dc48e6",
+  "immutable_metadata": [
+    {
+      "metadata": {
+        "path": "problems/2019-B4/notes/coordinator-separation-scale-r1-freeze-v1.json",
+        "bytes": 3809,
+        "sha256": "33abb0fd6e571f623f31c9d767be471b95cad1990f39d898700f3568acad732c"
+      },
+      "declared_record_occurrences_verified": 14
+    },
+    {
+      "metadata": {
+        "path": "problems/2019-B4/notes/coordinator-separation-scale-r1-sources-v1.json",
+        "bytes": 3035,
+        "sha256": "f99dfce688242be348e1e6c9eb5f5c13f3802faa145989c2e3900b885a7fcc83"
+      },
+      "declared_record_occurrences_verified": 12
+    },
+    {
+      "metadata": {
+        "path": "problems/2019-B4/notes/coordinator-separation-scale-r1-input-validation-v1.json",
+        "bytes": 1992,
+        "sha256": "27f11a432f37ac409bd8330b7f761ef93d86bac9b2bf002d8b3c58bc06b20f56"
+      },
+      "declared_record_occurrences_verified": 5
+    },
+    {
+      "metadata": {
+        "path": "problems/2019-B4/reviews/acceptance.json",
+        "bytes": 1332,
+        "sha256": "f4e6077a25b81d9b52fd7a24cfc9e4f40e572d11c8125edaca420a7e0e28bb7d"
+      },
+      "declared_record_occurrences_verified": 7
+    },
+    {
+      "metadata": {
+        "path": "problems/2019-B4/reviews/secondpass-acceptance.json",
+        "bytes": 2679,
+        "sha256": "66e98c9c9eb36ce02c87c69532a0e930be8bd4a4f0eec5e043ecd5f6bf068d6b"
+      },
+      "declared_record_occurrences_verified": 14
+    },
+    {
+      "metadata": {
+        "path": "problems/2019-B4/reviews/thirdpass-acceptance.json",
+        "bytes": 1972,
+        "sha256": "a15e724834992260d040295c402953f7aa65a903f656aafae7b3ea61ca1f0606"
+      },
+      "declared_record_occurrences_verified": 7
+    },
+    {
+      "metadata": {
+        "path": "problems/2019-B4/reviews/moment-tail-acceptance.json",
+        "bytes": 2076,
+        "sha256": "794c5ce1bb7793cb597bc55b40b94bb451353e742fadf2a4100b0a18782f09f2"
+      },
+      "declared_record_occurrences_verified": 6
+    },
+    {
+      "metadata": {
+        "path": "problems/2024-B4/reviews/coordinator-component-saturation-r1-review-1-manifest-v1.json",
+        "bytes": 3358,
+        "sha256": "ecac39bcef8df420738d992cae75053730f7b12086452b863658fcae469e75ac"
+      },
+      "declared_record_occurrences_verified": 8
+    },
+    {
+      "metadata": {
+        "path": "problems/2024-B4/reviews/coordinator-component-saturation-r1-review-1-input-validation-v1.json",
+        "bytes": 5241,
+        "sha256": "d7c657692b6226ee76a345d4cf74c85151e62f565188cc76344290583c85b4ac"
+      },
+      "declared_record_occurrences_verified": 14
+    }
+  ],
+  "assigned_main": {
+    "path": "problems/2019-B4/notes/coordinator-separation-scale-r1-candidate-v1.md",
+    "bytes": 9068,
+    "sha256": "d08d778d7bfe2e915b67d85833d4dfb312d78393f0e80aeecdc7859abae5070e"
+  },
+  "assigned_freeze": {
+    "path": "problems/2019-B4/notes/coordinator-separation-scale-r1-freeze-v1.json",
+    "bytes": 3809,
+    "sha256": "33abb0fd6e571f623f31c9d767be471b95cad1990f39d898700f3568acad732c"
+  },
+  "previous_complete_own_CS_freeze": {
+    "path": "problems/2024-B4/reviews/coordinator-component-saturation-r1-review-1-manifest-v1.json",
+    "bytes": 3358,
+    "sha256": "ecac39bcef8df420738d992cae75053730f7b12086452b863658fcae469e75ac"
+  },
+  "constructor14_artifacts_and_all_declared_dependencies_unchanged": true,
+  "exact_saved_fraction_string_comparison_only": true,
+  "independent_one_child_not_rerun_in_freeze": true,
+  "author_obligations": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13"
+  ],
+  "whole_review_checks": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07",
+    "08",
+    "09",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30"
+  ],
+  "compact_parent_bindings_no_historical_inventory_copy": true,
+  "no_new_peer_SS_file_or_finding_opened": true,
+  "old_shared_Git_or_cache_edit": false
+}

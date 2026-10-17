@@ -1,0 +1,122 @@
+{
+  "recorded_at_utc": "2026-10-17T18:56:21.973044+00:00",
+  "detailed_source_checks": {
+    "path": "problems/2019-B4/reviews/coordinator-separation-scale-r1-review-1-source-checks-v1.md",
+    "bytes": 5824,
+    "sha256": "e9e1f4a0a35a3a195bdaa0796a7a80eacc1080d856a9c0414ec5c9873717ba39"
+  },
+  "exact_accepted_inputs": [
+    {
+      "path": "problems/2019-B4/notes/secondpass-canonical-renewal.md",
+      "bytes": 11807,
+      "sha256": "886266000a34023b033099889a3bb23bc6b3e642194ded12ce53b3aaa1642763"
+    },
+    {
+      "path": "problems/2019-B4/notes/secondpass-rigidity-obstructions.md",
+      "bytes": 8447,
+      "sha256": "58112ed40ba7146c8b5885669602d44770bdd525540c4221eaf17b101eb1c109"
+    },
+    {
+      "path": "problems/2019-B4/notes/secondpass-staircases-and-pumping.md",
+      "bytes": 10885,
+      "sha256": "5e2539982e32d116076c2c17ad8e85d865792a14630db04634c7372ae345cd52"
+    },
+    {
+      "path": "problems/2019-B4/notes/thirdpass-bounded-separation-v1.md",
+      "bytes": 15965,
+      "sha256": "3364e8c6cf23ba3ecb250f13a5873732c108b6904a68126f52f5d7234eb916d4"
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-moment-regular-tail-candidate-v1.md",
+      "bytes": 8455,
+      "sha256": "29b02df71668db17b7111319d40ccdcdf798bed19dad4a8b76c7bcedaa332ef2"
+    },
+    {
+      "path": "problems/2019-B4/proofs/reviewed-moment-tail-v1.1.md",
+      "bytes": 9630,
+      "sha256": "b9d934da65eedf4514ef7883e29dda98ee846982e89c8e3ee677f2c96bff2ee8"
+    },
+    {
+      "path": "problems/2019-B4/reviews/secondpass-acceptance.md",
+      "bytes": 2340,
+      "sha256": "a167e1f52bff2503c6ac571ea047efe7621425f2379868a0a6db31eccd22aefa"
+    },
+    {
+      "path": "problems/2019-B4/reviews/thirdpass-acceptance.md",
+      "bytes": 2856,
+      "sha256": "3aa35ed0db260b45394676681426fa5c504e7414d9bbad143ac1eed65ffb105f"
+    },
+    {
+      "path": "problems/2019-B4/reviews/moment-tail-acceptance.md",
+      "bytes": 1912,
+      "sha256": "d3647718f04eb1a67dce90b5ffb103cdefc4400dc86d64103e828a199b6e064e"
+    }
+  ],
+  "additional_actual_reads": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2019-B4/statement.md",
+      "bytes": 1252,
+      "sha256": "53d4201dca8bc4a77d995e3df14f95dd146e2df0c82d3b6447ad35a348e89de9"
+    },
+    {
+      "path": "problems/2019-B4/proof.md",
+      "bytes": 10500,
+      "sha256": "58f140f1fe9c64aa77d04a9c80a76f13411264d09d5f9e908f8e0997dc6985e2"
+    },
+    {
+      "path": "problems/2019-B4/reviews/acceptance.md",
+      "bytes": 2209,
+      "sha256": "9a4c893182bf84dec4b00a86268f9b1d24f39ba1f54c11fe08695777eb20d7b8"
+    }
+  ],
+  "primary_reads": [
+    {
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2019-paper-b_1.pdf",
+      "actual_read": "Page2 B4 definition and part(b)",
+      "role": "Actual distinct-string open target"
+    },
+    {
+      "url": "https://lipn.univ-paris13.fr/~banderier/Papers/Dyck/",
+      "actual_read": "Entire20-line unfinished authored outline",
+      "theorem_imported": false
+    }
+  ],
+  "no_new_external_counting_or_language_theorem_imported": true,
+  "old_2019_research_and_review_roles_disclosed_no_new_SS_contribution": true,
+  "finite_critical_certificate": {
+    "method": "Independent hand-derived cleared degree46/40 homogeneous integer forms; one fixed trial, no author input or Fraction",
+    "source": {
+      "path": "problems/2019-B4/reviews/coordinator-separation-scale-r1-review-1-integer-certificate-v1.py",
+      "bytes": 1875,
+      "sha256": "529e2a3d2b113c7a071e9d70064c2855bc6f06c92183f13402ba7463f2470c55"
+    },
+    "derivation": {
+      "path": "problems/2019-B4/reviews/coordinator-separation-scale-r1-review-1-integer-certificate-v1.md",
+      "bytes": 2631,
+      "sha256": "e505e79dde349ec76b09db1817332e1952b7b04b6a4f050818d833b572f60c23"
+    },
+    "output": {
+      "path": "problems/2019-B4/reviews/coordinator-separation-scale-r1-review-1-integer-output-v1.json",
+      "bytes": 2927,
+      "sha256": "5e9b8313fe060bbd52d5c9cfbb8d8b56d112ac5afe9c0050bcbbdbd685a0ba26"
+    },
+    "job": {
+      "path": "problems/2019-B4/reviews/coordinator-separation-scale-r1-review-1-integer-job-v1.json",
+      "bytes": 502,
+      "sha256": "e99f47157bfa4bbedef10d370ebb4fe7f989113046417e8c14677f2881f2de67"
+    },
+    "child_pid": 33186,
+    "external_timeout_seconds": 10,
+    "exit_code": 0,
+    "reaped": true
+  },
+  "no_history_factor_count_automaton_enumeration_or_constructor_rerun": true,
+  "no_native_source_wait_fee_contact_access_bypass_or_cache_edit": true,
+  "original_published_or_old_finite_certificates_not_claimed_freshly_reconstructed": true,
+  "exact_lambda_annual_solution_or_novelty_claim": false
+}

@@ -1,0 +1,97 @@
+{
+  "frozen_at_utc": "2026-10-17T18:47:41.887013+00:00",
+  "status": "COMPLETE initially blind NONCONSTRUCTOR WHOLE R2 initial; recommendation only, no promotion",
+  "reviewer": "/root/review_2022_complexity_r2",
+  "constructor": "/root/review_2017_coarsening_r1",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "independently_verified_effective_settings": null,
+  "target": {
+    "path": "problems/2025-B4/notes/reasoning-return-r7-candidate-v1.md",
+    "bytes": 24429,
+    "sha256": "ee144e23b5a40e828f3e4f74790f5ec1394b4a9462609a8102f8b3a16465c8e0"
+  },
+  "constructor_freeze": {
+    "path": "problems/2025-B4/notes/reasoning-return-r7-freeze-v1.json",
+    "bytes": 3864,
+    "sha256": "0f3dc3419bc3f7a031a38f5d5d9448187cad39fe62588e4d5f43967e9c644174"
+  },
+  "whole_claims": [
+    "R7A actual odd-lattice normalization",
+    "R7B divided moment/projection/product",
+    "R7C residual quotient/kernel boundary",
+    "R7D conditional original-weight purity bound",
+    "R7E ACTUAL higher-weight Jacobi row-collapse"
+  ],
+  "whole_author_obligations": 56,
+  "substantive_issues": 0,
+  "required_repairs": 0,
+  "new_peer_findings_unread_before_entire_freeze": true,
+  "old_UW_authorship_R6_MS_related_roles_disclosed_no_self_review": true,
+  "no_new_R7_construction_contribution": true,
+  "no_original_weight_counterexample_Diophantine_exclusion_annual_or_novelty_claim": true,
+  "no_math_code_CAS_scan_author_rerun_certificate_or_old_shared_Git_cache_edit": true,
+  "compact_parent_manifest": {
+    "path": "problems/2024-B4/reviews/coordinator-component-saturation-r1-review-2-manifest-v1.json",
+    "bytes": 4039,
+    "sha256": "287e5e85ecf37f74b7213c5bb4570889b4e613726c3248cffbfa8290260b05e2"
+  },
+  "compact_parent_validation": {
+    "path": "problems/2024-B4/reviews/coordinator-component-saturation-r1-review-2-input-validation-v1.json",
+    "bytes": 11799,
+    "sha256": "bd2dbaf3b35fdad2496f9c085c46f12e5de4de4adba5361e09b090d536177ec5"
+  },
+  "historical_inventory_not_copied": true,
+  "older_own_unique_paths_preserved": 349,
+  "record_occurrences_reverified": 447,
+  "unique_paths_reverified": 423,
+  "direct_weekly_telemetry": {
+    "at_utc": "2026-10-17 18:46:21 UTC",
+    "total_used_percent": 56,
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "ordinary_usage_allowed": true,
+    "total_ceiling_percent": 90,
+    "review_integration_reserve": true
+  },
+  "command": "python3 problems/2025-B4/reviews/reasoning-return-r7-review-2-freeze-v1.py",
+  "artifacts": [
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r7-review-2-initial.md",
+      "bytes": 16019,
+      "sha256": "838552599109a9d3d683c2d53ebb4fd42120f8675e82cdc45a452d4cd6cdf8a6"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r7-review-2-issues-v1.md",
+      "bytes": 9218,
+      "sha256": "342c9c8dc28c266abb859db69093a6dd3c3f258ed329af13fb03b5e7be283ff3"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r7-review-2-source-checks-v1.md",
+      "bytes": 8193,
+      "sha256": "d641b52b4296b4a155ff9a069b260e016651c8a17496f8d601333801fb6bc412"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r7-review-2-freeze-v1.py",
+      "bytes": 14788,
+      "sha256": "f7a5acb9552d2c95483ea2e7a673a26dff26e1d976a58bcde08aa4a7cd90cf8e"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r7-review-2-sources-v1.json",
+      "bytes": 11241,
+      "sha256": "b468b639c71bff8a52dc2357faffcd35add3aceb8b80e4d49697662ffa5355c2"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r7-review-2-input-validation-v1.json",
+      "bytes": 14846,
+      "sha256": "8006b0f7a89865bfcd29b33d1dabac3fadf911188d4b38f1d6a5a740ccc9e256"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r7-review-2-freeze-output-v1.json",
+      "bytes": 741,
+      "sha256": "a38b81a3a586d497cc85f9713ee549812e0123612b6a39f16469eabcd1e65174"
+    }
+  ]
+}

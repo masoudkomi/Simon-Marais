@@ -1,0 +1,447 @@
+{
+  "frozen_at_utc": "2026-10-17T19:02:38.105959+00:00",
+  "administrative_only_not_mathematical_evidence": true,
+  "constructor_artifacts_verified": [
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r4-candidate-v1.md",
+      "bytes": 42968,
+      "sha256": "e2c497814ebd8c9ec8b767c30be6cd37ca8ea9d2d9e51f5496bbd91c91bc854a"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r4-obligations-v1.md",
+      "bytes": 9202,
+      "sha256": "62e8998d40973fb0596be7dd4ddfb7f141c346ab8e5bb2aee98717853f0c6870"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r4-failed-routes-v1.md",
+      "bytes": 6207,
+      "sha256": "3bfe3731f5d9f3f98b6a4b8732aff8be3e3a15a26ff99f22cd79cba6f779341b"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r4-constructor-checks-v1.md",
+      "bytes": 5625,
+      "sha256": "70e1be759618803fcf669335413fac17b7b07e0513b821df22724b9cfa54e4fa"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r4-source-audit-v1.md",
+      "bytes": 7607,
+      "sha256": "d88bebe5b7cc18942c6522908b29ec1468ef3e376433b48ba9a86d7da73924c6"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r4-worklog-v1.md",
+      "bytes": 6162,
+      "sha256": "38a6a87e68c75cd82165d1413a3b61136ff3c6fae9d83776854b30470fee7aae"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r4-sources-v1.json",
+      "bytes": 13654,
+      "sha256": "2b6dc2d1184a8b1496d0a6249a6da47cf5c569289494a9894ef5062c2ad57002"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r4-freeze-v1.py",
+      "bytes": 9484,
+      "sha256": "7839c852316e94d36d1325604a9fc3539f19bf9d0a116ba785f3627aa2f30bd6"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r4-input-validation-v1.json",
+      "bytes": 7878,
+      "sha256": "543ada00ce67cda9de7714a209db9db854e7b600310989b51ad4d919548ea1d0"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r4-freeze-output-v1.json",
+      "bytes": 744,
+      "sha256": "7f74b4b0fe119f4063f6c68195f865a11d44313c466391c06dbb916d16a5113b"
+    }
+  ],
+  "exact_direct_records": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2017-B4/statement.md",
+      "bytes": 2140,
+      "sha256": "e459750064b4e25e3eaa71f25f236c046548147e415b06d8bd097839020228f3"
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-allD-global-v1.1.md",
+      "bytes": 50352,
+      "sha256": "47bc1477db5c54c0b40565460fb95a2a6a1c6da8368b054cbc9c61f1615ee14c"
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-direction-coarsening-v1.1.md",
+      "bytes": 9175,
+      "sha256": "98c04673acdb4c59d44eb4d977f844d3f01ef27365399982e02df8cbaa4a6241"
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-global-value-return-v1.1.md",
+      "bytes": 26930,
+      "sha256": "34828173c86d84eeb863b40443ef6e1e7b6d24ac5a9b107fba036141165937d3"
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-global-value-return-r2-v1.1.md",
+      "bytes": 25152,
+      "sha256": "18db84b72cc680e6a337721f8b43f3940adf6c3c17a8ee20e9c4d43d38c4a342"
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-reasoning-value-return-r3-v1.1.md",
+      "bytes": 25476,
+      "sha256": "33918a64abe7766e982479b1e99fd1df0bf6bf00a25e7d50a3f028623a7d6e07"
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-fixedD-structural-v1.2.md",
+      "bytes": 16602,
+      "sha256": "421dc271ed65831e3aa70057a0d74c4d999ba8249dfa2b99066dfdc298f86868"
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-clean-strata-v1.1.md",
+      "bytes": 10682,
+      "sha256": "10a2efb8d11433726b7812e18217719ab24543887a2d01e0fd96ad51d96204b0"
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-rank-mesh-v1.2.md",
+      "bytes": 22875,
+      "sha256": "791ed756bd0ad4ceeb8d98265d35e5dfffee95adcfdeebf156253872b4fdf634"
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-orientation-charts-v1.1.md",
+      "bytes": 10052,
+      "sha256": "d15ed547defaffc617ffc6faf6df683c8473ecd9077be63e52d02bbb4edb4ca8"
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-local-rank-mesh-v1.1.md",
+      "bytes": 13490,
+      "sha256": "67d6821f64c0be2a64bb49ccd595dd80105ca7ed913b2fd6be342b81cf756a10"
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-chart-window-v1.1.md",
+      "bytes": 12988,
+      "sha256": "f89e784c407f3c780d2ca9a95ea4f58e0cd71841f2855ffa7225465f9dd9abc1"
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-single-pair-allD-v1.1.md",
+      "bytes": 11824,
+      "sha256": "b66e494bab6ef872565d8f1574fb96094c5b0c7f5a59f7ba9d79c03d23a08c84"
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-allD-uniform-strict-v1.1.md",
+      "bytes": 39136,
+      "sha256": "a5ebfd81d59b26f301b1e105889451f4c86262da80e6e77e6913c045d71147d2"
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-remainder-padding-v1.1.md",
+      "bytes": 6575,
+      "sha256": "4b1742c46ddd120f935653538758fed41759187ad26cfed79b9bd86a48d99018"
+    },
+    {
+      "path": "problems/2017-B4/reviews/allD-global-acceptance.md",
+      "bytes": 4169,
+      "sha256": "de08ed83c47a8849b4ab384b16ca9deba59b995fcedbaa64f818141dd2ee7e89"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coarsening-acceptance.md",
+      "bytes": 2078,
+      "sha256": "ad7884bfe60386b7e99537f3a1b35a821cf7f34089e8373bf4d998f50275c889"
+    },
+    {
+      "path": "problems/2017-B4/reviews/global-value-return-acceptance.md",
+      "bytes": 3601,
+      "sha256": "fe3fb5d56e4a5147950864ca345f3d0edb8bd0306ba3944f633fdc30107c16f7"
+    },
+    {
+      "path": "problems/2017-B4/reviews/global-value-return-r2-acceptance.md",
+      "bytes": 3025,
+      "sha256": "bc1952332c9c6818f0c6d73088a8f7addfa75fc9b72342f2db2de900af12b2a4"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r3-acceptance.md",
+      "bytes": 2662,
+      "sha256": "8cc141b96e331c045ecf755c29c901308028b09225f48de5583621b1e10abe76"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r3-source-audit-v1.md",
+      "bytes": 6900,
+      "sha256": "cf814ed4f43f979f67e5f8220ad2a8c09d30f355d3af138d629234a6f58beb3f"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-variational-literature-check-v1.md",
+      "bytes": 2258,
+      "sha256": "16701abc9d2911c72b5a9df99095d394bce70ff309120d526087534bb6af8819"
+    },
+    {
+      "path": "problems/2017-B4/notes/global-value-return-r1-sources-v1.json",
+      "bytes": 7520,
+      "sha256": "8bdd210ae5222199148c880a6739332faa6aa648106b1fd5a77e530284d3d8ab"
+    }
+  ],
+  "accepted_authority_compact_summaries": [
+    {
+      "immutable_authority": {
+        "path": "problems/2017-B4/reviews/allD-global-acceptance.json",
+        "bytes": 3248,
+        "sha256": "d05556d1973514ad70c8017633c346748636783718be7871dcd3e8a59dc969b5"
+      },
+      "necessary_declared_fingerprint_occurrences_reverified": 9,
+      "necessary_declared_deduplicated_summary": {
+        "unique_paths": 9,
+        "canonical_sorted_record_array_sha256": "5b59290d26436f0fc020e26457da0cafabcb9f1715a502d8278127cf5fcec8de",
+        "canonical_encoding": "UTF8 JSON ensure_ascii=false sort_keys=true separators=(comma,colon), records sorted by path"
+      },
+      "transitive_historical_inventories_not_replayed": true
+    },
+    {
+      "immutable_authority": {
+        "path": "problems/2017-B4/reviews/coarsening-acceptance.json",
+        "bytes": 2193,
+        "sha256": "b6869162ed35636014082a783f0c254e459af0b848e77afcb2226d8a21ed2d99"
+      },
+      "necessary_declared_fingerprint_occurrences_reverified": 7,
+      "necessary_declared_deduplicated_summary": {
+        "unique_paths": 7,
+        "canonical_sorted_record_array_sha256": "2e0d3fa68e95aa606acebb7df2f029a02c1f186d474047319a0666dfb48cc6e3",
+        "canonical_encoding": "UTF8 JSON ensure_ascii=false sort_keys=true separators=(comma,colon), records sorted by path"
+      },
+      "transitive_historical_inventories_not_replayed": true
+    },
+    {
+      "immutable_authority": {
+        "path": "problems/2017-B4/reviews/global-value-return-acceptance.json",
+        "bytes": 2830,
+        "sha256": "1f0fc30de26a1f44fbbefa2503fe4d938323b6e0c2bfe88e67f0c4e427ce27c2"
+      },
+      "necessary_declared_fingerprint_occurrences_reverified": 9,
+      "necessary_declared_deduplicated_summary": {
+        "unique_paths": 9,
+        "canonical_sorted_record_array_sha256": "69b2b753b9b6acfe036adb0eda7c898eb56a24a49da35f9da95bdf8fcfdb8b58",
+        "canonical_encoding": "UTF8 JSON ensure_ascii=false sort_keys=true separators=(comma,colon), records sorted by path"
+      },
+      "transitive_historical_inventories_not_replayed": true
+    },
+    {
+      "immutable_authority": {
+        "path": "problems/2017-B4/reviews/global-value-return-r2-acceptance.json",
+        "bytes": 2548,
+        "sha256": "54dcf6a2d4d4e5af0ea9cebaf24f7612d0b01e8d1bcaec865d4b14d9da27b9a1"
+      },
+      "necessary_declared_fingerprint_occurrences_reverified": 9,
+      "necessary_declared_deduplicated_summary": {
+        "unique_paths": 9,
+        "canonical_sorted_record_array_sha256": "47844066535815f6fff46542cc520b9e1b3697d8d4cfea1bf77df6978e1e0d09",
+        "canonical_encoding": "UTF8 JSON ensure_ascii=false sort_keys=true separators=(comma,colon), records sorted by path"
+      },
+      "transitive_historical_inventories_not_replayed": true
+    },
+    {
+      "immutable_authority": {
+        "path": "problems/2017-B4/reviews/reasoning-value-return-r3-acceptance.json",
+        "bytes": 2370,
+        "sha256": "024f72aec10c703871593df3e50a13c7fd77dabe45ba0802f4ef5f7e83c55259"
+      },
+      "necessary_declared_fingerprint_occurrences_reverified": 8,
+      "necessary_declared_deduplicated_summary": {
+        "unique_paths": 8,
+        "canonical_sorted_record_array_sha256": "4d00482f9db61c77daf97e7296ed77d2944bcc946bedf956829b194c5e5ecde6",
+        "canonical_encoding": "UTF8 JSON ensure_ascii=false sort_keys=true separators=(comma,colon), records sorted by path"
+      },
+      "transitive_historical_inventories_not_replayed": true
+    },
+    {
+      "immutable_authority": {
+        "path": "problems/2017-B4/reviews/fixedD-structural-acceptance.json",
+        "bytes": 2548,
+        "sha256": "5ff3eeb3a21f33b4e2d17844d62d3183f6ab14b20648a81785236d13003bd4fc"
+      },
+      "necessary_declared_fingerprint_occurrences_reverified": 2,
+      "necessary_declared_deduplicated_summary": {
+        "unique_paths": 2,
+        "canonical_sorted_record_array_sha256": "3274c4f2c629141613b43012a9b3df5063d9338785eb44a1581d134dc7c8119f",
+        "canonical_encoding": "UTF8 JSON ensure_ascii=false sort_keys=true separators=(comma,colon), records sorted by path"
+      },
+      "transitive_historical_inventories_not_replayed": true
+    },
+    {
+      "immutable_authority": {
+        "path": "problems/2017-B4/reviews/clean-strata-acceptance.json",
+        "bytes": 1643,
+        "sha256": "af5ccc0c579d268a1c393f2ff78fbee88189aeda53a8a60bd5421f85dc64fc42"
+      },
+      "necessary_declared_fingerprint_occurrences_reverified": 2,
+      "necessary_declared_deduplicated_summary": {
+        "unique_paths": 2,
+        "canonical_sorted_record_array_sha256": "11271bbcbb8f9539275e8e92555ff272029b45268806b587651367273250a05a",
+        "canonical_encoding": "UTF8 JSON ensure_ascii=false sort_keys=true separators=(comma,colon), records sorted by path"
+      },
+      "transitive_historical_inventories_not_replayed": true
+    },
+    {
+      "immutable_authority": {
+        "path": "problems/2017-B4/reviews/rank-mesh-acceptance.json",
+        "bytes": 2573,
+        "sha256": "bf5849828493a5d1e005e94671464e576678ae924c56f7f5b2dc052441474eb2"
+      },
+      "necessary_declared_fingerprint_occurrences_reverified": 8,
+      "necessary_declared_deduplicated_summary": {
+        "unique_paths": 8,
+        "canonical_sorted_record_array_sha256": "842cd4f466c4baa8bb76bf89dda42f053e56311c9115ceead5d257f16fd52d4d",
+        "canonical_encoding": "UTF8 JSON ensure_ascii=false sort_keys=true separators=(comma,colon), records sorted by path"
+      },
+      "transitive_historical_inventories_not_replayed": true
+    },
+    {
+      "immutable_authority": {
+        "path": "problems/2017-B4/reviews/orientation-charts-acceptance.json",
+        "bytes": 1494,
+        "sha256": "7694de4d8bf091f683fcab39be7461580ff8a5aa34f481590cca90f93f6479a1"
+      },
+      "necessary_declared_fingerprint_occurrences_reverified": 4,
+      "necessary_declared_deduplicated_summary": {
+        "unique_paths": 4,
+        "canonical_sorted_record_array_sha256": "3c0a006e4a1c54c86de8a73bdf9a69e38c001a25923cb872878acd967d28a5e2",
+        "canonical_encoding": "UTF8 JSON ensure_ascii=false sort_keys=true separators=(comma,colon), records sorted by path"
+      },
+      "transitive_historical_inventories_not_replayed": true
+    },
+    {
+      "immutable_authority": {
+        "path": "problems/2017-B4/reviews/local-rank-mesh-acceptance.json",
+        "bytes": 2395,
+        "sha256": "52e162d73208591aa030abd7e1d64f66377372e6745f4415d8e23798d7df3446"
+      },
+      "necessary_declared_fingerprint_occurrences_reverified": 8,
+      "necessary_declared_deduplicated_summary": {
+        "unique_paths": 8,
+        "canonical_sorted_record_array_sha256": "d08411c9273847f9b6b34e91a83c30629c0f9661df322e18656072894b215895",
+        "canonical_encoding": "UTF8 JSON ensure_ascii=false sort_keys=true separators=(comma,colon), records sorted by path"
+      },
+      "transitive_historical_inventories_not_replayed": true
+    },
+    {
+      "immutable_authority": {
+        "path": "problems/2017-B4/reviews/chart-window-acceptance.json",
+        "bytes": 2379,
+        "sha256": "d9278823b9d7cdb0605009c8658951c455301363ba914f51e658eb550b8fd2eb"
+      },
+      "necessary_declared_fingerprint_occurrences_reverified": 8,
+      "necessary_declared_deduplicated_summary": {
+        "unique_paths": 8,
+        "canonical_sorted_record_array_sha256": "02d5da9595ed63b0f13779a27c605bcf65eb6d1b267d822cbc280eb6730fc02f",
+        "canonical_encoding": "UTF8 JSON ensure_ascii=false sort_keys=true separators=(comma,colon), records sorted by path"
+      },
+      "transitive_historical_inventories_not_replayed": true
+    },
+    {
+      "immutable_authority": {
+        "path": "problems/2017-B4/reviews/single-pair-allD-acceptance.json",
+        "bytes": 1605,
+        "sha256": "ecbb5ce66b37fee23b0a2281bca30010dda9921c643a78619d24a7e63e8fe899"
+      },
+      "necessary_declared_fingerprint_occurrences_reverified": 4,
+      "necessary_declared_deduplicated_summary": {
+        "unique_paths": 4,
+        "canonical_sorted_record_array_sha256": "b5a6b76f62011bc1e927d776998444287b516b5ed7f6c0f8280c10d375b74a09",
+        "canonical_encoding": "UTF8 JSON ensure_ascii=false sort_keys=true separators=(comma,colon), records sorted by path"
+      },
+      "transitive_historical_inventories_not_replayed": true
+    },
+    {
+      "immutable_authority": {
+        "path": "problems/2017-B4/reviews/allD-uniform-strict-acceptance.json",
+        "bytes": 2808,
+        "sha256": "a481e698f4e8efb6549bc1ea93b989683e430e9a6ae7aa8bf01802fb2912e514"
+      },
+      "necessary_declared_fingerprint_occurrences_reverified": 9,
+      "necessary_declared_deduplicated_summary": {
+        "unique_paths": 9,
+        "canonical_sorted_record_array_sha256": "9a4cf7975cddb611493a52cb6daf39bd7a375887ea4a7f573b3dd4697975c4c9",
+        "canonical_encoding": "UTF8 JSON ensure_ascii=false sort_keys=true separators=(comma,colon), records sorted by path"
+      },
+      "transitive_historical_inventories_not_replayed": true
+    },
+    {
+      "immutable_authority": {
+        "path": "problems/2017-B4/reviews/remainder-padding-acceptance.json",
+        "bytes": 795,
+        "sha256": "e930556031cd683401e701a0439c446d7c0d8b43d0f655ab019a808dc62183b4"
+      },
+      "necessary_declared_fingerprint_occurrences_reverified": 1,
+      "necessary_declared_deduplicated_summary": {
+        "unique_paths": 1,
+        "canonical_sorted_record_array_sha256": "e0e42e0f3a1a86a08da4828211c4b75f0f11e026e239f284994133fbd7ade0de",
+        "canonical_encoding": "UTF8 JSON ensure_ascii=false sort_keys=true separators=(comma,colon), records sorted by path"
+      },
+      "transitive_historical_inventories_not_replayed": true
+    }
+  ],
+  "constructor_old_parent_metadata_bound_only": [
+    {
+      "path": "problems/2022-B4/reviews/reasoning-return-r7-review-1-manifest-v1.json",
+      "bytes": 3334,
+      "sha256": "d55d873a3b1afc6730b07d53591efe2007fb55f8ba96c2ebb3fe81cb0a26192b"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-return-r7-review-1-input-validation-v1.json",
+      "bytes": 208204,
+      "sha256": "71e86424ce281319a76d4ce2f5152932c715c2b9455285914511ab128ffbf23e"
+    }
+  ],
+  "constructor_old_occurrences_recorded_not_replayed": 601,
+  "constructor_old_deduplicated_paths_recorded_not_replayed": 567,
+  "compact_immutable_parent_binding": {
+    "immutable_parent_manifest": {
+      "path": "problems/2025-B4/reviews/reasoning-return-r7-review-2-manifest-v1.json",
+      "bytes": 3975,
+      "sha256": "e7aa0fe112734e27ba562cd8465b0f81bc62b6c6975cfe9adbb0e37e808a9b91"
+    },
+    "immutable_parent_validation": {
+      "path": "problems/2025-B4/reviews/reasoning-return-r7-review-2-input-validation-v1.json",
+      "bytes": 14846,
+      "sha256": "8006b0f7a89865bfcd29b33d1dabac3fadf911188d4b38f1d6a5a740ccc9e256"
+    },
+    "older_own_preserved_summary": {
+      "unique_paths": 357,
+      "canonical_sorted_record_array_sha256": "0ed25ede47cdceb2a0ae63e075b621c119a9b46690f46580fbff56d46e29bdac",
+      "canonical_encoding": "UTF8 JSON ensure_ascii=false sort_keys=true separators=(comma,colon), records sorted by path"
+    },
+    "historical_inventory_not_copied": true,
+    "reproduction": "Follow exact2025R7 parent validation to exact CS validation; reconstruct341 paths from its full older2022 inventory plus R9/2020R7 manifests; append CS8, then2025R7 eight artifacts/manifest paths, giving357. All are reverified without copying that growing inventory."
+  },
+  "older_own_unique_paths_preserved": 357,
+  "current_fingerprint_occurrences_reverified": 507,
+  "current_verified_records_deduplicated_summary_only": {
+    "unique_paths": 459,
+    "canonical_sorted_record_array_sha256": "c767b16e2269def29ec7fcadda02ad3c6446b951fe9e096a46a021ae223031b5",
+    "canonical_encoding": "UTF8 JSON ensure_ascii=false sort_keys=true separators=(comma,colon), records sorted by path"
+  },
+  "whole64_obligation_rows_covered_once": true,
+  "prose_records": [
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r4-review-2-initial.md",
+      "bytes": 22863,
+      "sha256": "72484e6071005863b88ae8af81119ab7294be0c89662fee2d537f311339cd6a7"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r4-review-2-issues-v1.md",
+      "bytes": 11972,
+      "sha256": "95b82b5fb2b08e2947dff6a34d42415ba0597e7f5440f0bfbcdf898bddb437f8"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r4-review-2-source-checks-v1.md",
+      "bytes": 8039,
+      "sha256": "5c22db344d24073bb5d9f039cb6c4cc2411147884f51aca9ace0bebc8a15e612"
+    }
+  ],
+  "all_new_EC_peer_findings_unread_before_entire_freeze": true,
+  "root_pending_initial_completion_identity_only": true,
+  "no_math_code_CAS_scan_author_rerun_old_shared_Git_cache_edit": true,
+  "direct_weekly_telemetry": {
+    "at_utc": "2026-10-17 18:56:21 UTC",
+    "total_used_percent": 56,
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "spend_control_reached": false,
+    "rate_limit_reached_type": null,
+    "total_ceiling_percent": 90,
+    "review_integration_reserve": true
+  }
+}

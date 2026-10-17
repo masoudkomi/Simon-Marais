@@ -1,0 +1,403 @@
+{
+  "frozen_at_utc": "2026-10-17T19:02:38.105959+00:00",
+  "reviewer": "/root/review_2022_complexity_r2",
+  "role": "fresh initially blind NONCONSTRUCTOR WHOLE R2, complete EC1--EC4/all64 obligations",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independently_verified_effective_settings": null,
+  "target": {
+    "path": "problems/2017-B4/notes/reasoning-value-return-r4-candidate-v1.md",
+    "bytes": 42968,
+    "sha256": "e2c497814ebd8c9ec8b767c30be6cd37ca8ea9d2d9e51f5496bbd91c91bc854a"
+  },
+  "constructor_freeze": {
+    "path": "problems/2017-B4/notes/reasoning-value-return-r4-freeze-v1.json",
+    "bytes": 3773,
+    "sha256": "99df2683197f1a6e6e0f5c5696859c8c57b8a601bff3bf07d1bd6bd1fa831dca"
+  },
+  "complete_constructor_artifacts": [
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r4-candidate-v1.md",
+      "bytes": 42968,
+      "sha256": "e2c497814ebd8c9ec8b767c30be6cd37ca8ea9d2d9e51f5496bbd91c91bc854a"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r4-obligations-v1.md",
+      "bytes": 9202,
+      "sha256": "62e8998d40973fb0596be7dd4ddfb7f141c346ab8e5bb2aee98717853f0c6870"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r4-failed-routes-v1.md",
+      "bytes": 6207,
+      "sha256": "3bfe3731f5d9f3f98b6a4b8732aff8be3e3a15a26ff99f22cd79cba6f779341b"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r4-constructor-checks-v1.md",
+      "bytes": 5625,
+      "sha256": "70e1be759618803fcf669335413fac17b7b07e0513b821df22724b9cfa54e4fa"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r4-source-audit-v1.md",
+      "bytes": 7607,
+      "sha256": "d88bebe5b7cc18942c6522908b29ec1468ef3e376433b48ba9a86d7da73924c6"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r4-worklog-v1.md",
+      "bytes": 6162,
+      "sha256": "38a6a87e68c75cd82165d1413a3b61136ff3c6fae9d83776854b30470fee7aae"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r4-sources-v1.json",
+      "bytes": 13654,
+      "sha256": "2b6dc2d1184a8b1496d0a6249a6da47cf5c569289494a9894ef5062c2ad57002"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r4-freeze-v1.py",
+      "bytes": 9484,
+      "sha256": "7839c852316e94d36d1325604a9fc3539f19bf9d0a116ba785f3627aa2f30bd6"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r4-input-validation-v1.json",
+      "bytes": 7878,
+      "sha256": "543ada00ce67cda9de7714a209db9db854e7b600310989b51ad4d919548ea1d0"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r4-freeze-output-v1.json",
+      "bytes": 744,
+      "sha256": "7f74b4b0fe119f4063f6c68195f865a11d44313c466391c06dbb916d16a5113b"
+    }
+  ],
+  "exact_direct_inputs_and_context": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2017-B4/statement.md",
+      "bytes": 2140,
+      "sha256": "e459750064b4e25e3eaa71f25f236c046548147e415b06d8bd097839020228f3"
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-allD-global-v1.1.md",
+      "bytes": 50352,
+      "sha256": "47bc1477db5c54c0b40565460fb95a2a6a1c6da8368b054cbc9c61f1615ee14c"
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-direction-coarsening-v1.1.md",
+      "bytes": 9175,
+      "sha256": "98c04673acdb4c59d44eb4d977f844d3f01ef27365399982e02df8cbaa4a6241"
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-global-value-return-v1.1.md",
+      "bytes": 26930,
+      "sha256": "34828173c86d84eeb863b40443ef6e1e7b6d24ac5a9b107fba036141165937d3"
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-global-value-return-r2-v1.1.md",
+      "bytes": 25152,
+      "sha256": "18db84b72cc680e6a337721f8b43f3940adf6c3c17a8ee20e9c4d43d38c4a342"
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-reasoning-value-return-r3-v1.1.md",
+      "bytes": 25476,
+      "sha256": "33918a64abe7766e982479b1e99fd1df0bf6bf00a25e7d50a3f028623a7d6e07"
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-fixedD-structural-v1.2.md",
+      "bytes": 16602,
+      "sha256": "421dc271ed65831e3aa70057a0d74c4d999ba8249dfa2b99066dfdc298f86868"
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-clean-strata-v1.1.md",
+      "bytes": 10682,
+      "sha256": "10a2efb8d11433726b7812e18217719ab24543887a2d01e0fd96ad51d96204b0"
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-rank-mesh-v1.2.md",
+      "bytes": 22875,
+      "sha256": "791ed756bd0ad4ceeb8d98265d35e5dfffee95adcfdeebf156253872b4fdf634"
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-orientation-charts-v1.1.md",
+      "bytes": 10052,
+      "sha256": "d15ed547defaffc617ffc6faf6df683c8473ecd9077be63e52d02bbb4edb4ca8"
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-local-rank-mesh-v1.1.md",
+      "bytes": 13490,
+      "sha256": "67d6821f64c0be2a64bb49ccd595dd80105ca7ed913b2fd6be342b81cf756a10"
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-chart-window-v1.1.md",
+      "bytes": 12988,
+      "sha256": "f89e784c407f3c780d2ca9a95ea4f58e0cd71841f2855ffa7225465f9dd9abc1"
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-single-pair-allD-v1.1.md",
+      "bytes": 11824,
+      "sha256": "b66e494bab6ef872565d8f1574fb96094c5b0c7f5a59f7ba9d79c03d23a08c84"
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-allD-uniform-strict-v1.1.md",
+      "bytes": 39136,
+      "sha256": "a5ebfd81d59b26f301b1e105889451f4c86262da80e6e77e6913c045d71147d2"
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-remainder-padding-v1.1.md",
+      "bytes": 6575,
+      "sha256": "4b1742c46ddd120f935653538758fed41759187ad26cfed79b9bd86a48d99018"
+    },
+    {
+      "path": "problems/2017-B4/reviews/allD-global-acceptance.md",
+      "bytes": 4169,
+      "sha256": "de08ed83c47a8849b4ab384b16ca9deba59b995fcedbaa64f818141dd2ee7e89"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coarsening-acceptance.md",
+      "bytes": 2078,
+      "sha256": "ad7884bfe60386b7e99537f3a1b35a821cf7f34089e8373bf4d998f50275c889"
+    },
+    {
+      "path": "problems/2017-B4/reviews/global-value-return-acceptance.md",
+      "bytes": 3601,
+      "sha256": "fe3fb5d56e4a5147950864ca345f3d0edb8bd0306ba3944f633fdc30107c16f7"
+    },
+    {
+      "path": "problems/2017-B4/reviews/global-value-return-r2-acceptance.md",
+      "bytes": 3025,
+      "sha256": "bc1952332c9c6818f0c6d73088a8f7addfa75fc9b72342f2db2de900af12b2a4"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r3-acceptance.md",
+      "bytes": 2662,
+      "sha256": "8cc141b96e331c045ecf755c29c901308028b09225f48de5583621b1e10abe76"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r3-source-audit-v1.md",
+      "bytes": 6900,
+      "sha256": "cf814ed4f43f979f67e5f8220ad2a8c09d30f355d3af138d629234a6f58beb3f"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-variational-literature-check-v1.md",
+      "bytes": 2258,
+      "sha256": "16701abc9d2911c72b5a9df99095d394bce70ff309120d526087534bb6af8819"
+    },
+    {
+      "path": "problems/2017-B4/notes/global-value-return-r1-sources-v1.json",
+      "bytes": 7520,
+      "sha256": "8bdd210ae5222199148c880a6739332faa6aa648106b1fd5a77e530284d3d8ab"
+    }
+  ],
+  "all14_accepted_bodies_freshly_read_completely": [
+    {
+      "path": "problems/2017-B4/proofs/reviewed-allD-global-v1.1.md",
+      "bytes": 50352,
+      "sha256": "47bc1477db5c54c0b40565460fb95a2a6a1c6da8368b054cbc9c61f1615ee14c",
+      "actual_scope": "COMPLETE G1--G3 body/ten scopes; qualitative limits accepted, new effectivity not assumed."
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-direction-coarsening-v1.1.md",
+      "bytes": 9175,
+      "sha256": "98c04673acdb4c59d44eb4d977f844d3f01ef27365399982e02df8cbaa4a6241",
+      "actual_scope": "COMPLETE DC body; historical H discharged separately by G."
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-global-value-return-v1.1.md",
+      "bytes": 26930,
+      "sha256": "34828173c86d84eeb863b40443ef6e1e7b6d24ac5a9b107fba036141165937d3",
+      "actual_scope": "COMPLETE V1--V4, exact E/R polarity and abstract obstruction."
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-global-value-return-r2-v1.1.md",
+      "bytes": 25152,
+      "sha256": "18db84b72cc680e6a337721f8b43f3940adf6c3c17a8ee20e9c4d43d38c4a342",
+      "actual_scope": "COMPLETE OP body, necessary-only prefix matches and small-fiber scope."
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-reasoning-value-return-r3-v1.1.md",
+      "bytes": 25476,
+      "sha256": "33918a64abe7766e982479b1e99fd1df0bf6bf00a25e7d50a3f028623a7d6e07",
+      "actual_scope": "COMPLETE HC body; older own authored premise not independently self-recertified."
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-fixedD-structural-v1.2.md",
+      "bytes": 16602,
+      "sha256": "421dc271ed65831e3aa70057a0d74c4d999ba8249dfa2b99066dfdc298f86868",
+      "actual_scope": "COMPLETE finite dictionary, lifts, K/nonconvexity and qualified background."
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-clean-strata-v1.1.md",
+      "bytes": 10682,
+      "sha256": "10a2efb8d11433726b7812e18217719ab24543887a2d01e0fd96ad51d96204b0",
+      "actual_scope": "COMPLETE body; only exact FL1 count interface imported."
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-rank-mesh-v1.2.md",
+      "bytes": 22875,
+      "sha256": "791ed756bd0ad4ceeb8d98265d35e5dfffee95adcfdeebf156253872b4fdf634",
+      "actual_scope": "COMPLETE repaired body; exact RM1 interface, not a new CKP/UR3 premise."
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-orientation-charts-v1.1.md",
+      "bytes": 10052,
+      "sha256": "d15ed547defaffc617ffc6faf6df683c8473ecd9077be63e52d02bbb4edb4ca8",
+      "actual_scope": "COMPLETE OC body and endpoints; same full balanced chart/offset scope."
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-local-rank-mesh-v1.1.md",
+      "bytes": 13490,
+      "sha256": "67d6821f64c0be2a64bb49ccd595dd80105ca7ed913b2fd6be342b81cf756a10",
+      "actual_scope": "COMPLETE LW body; local contents, one trace anchor, actual whole faces."
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-chart-window-v1.1.md",
+      "bytes": 12988,
+      "sha256": "f89e784c407f3c780d2ca9a95ea4f58e0cd71841f2855ffa7225465f9dd9abc1",
+      "actual_scope": "COMPLETE CW0--CW4 body; whole buffers, exact pullbacks/every integer M."
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-single-pair-allD-v1.1.md",
+      "bytes": 11824,
+      "sha256": "b66e494bab6ef872565d8f1574fb96094c5b0c7f5a59f7ba9d79c03d23a08c84",
+      "actual_scope": "COMPLETE SP1--SP3 body; ONE pair, all other singleton groups, actual GE exterior."
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-allD-uniform-strict-v1.1.md",
+      "bytes": 39136,
+      "sha256": "a5ebfd81d59b26f301b1e105889451f4c86262da80e6e77e6913c045d71147d2",
+      "actual_scope": "COMPLETE all-D strict body/AD1--AD5; old authored premise, NEW finite-M/compiler not self-certified."
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-remainder-padding-v1.1.md",
+      "bytes": 6575,
+      "sha256": "4b1742c46ddd120f935653538758fed41759187ad26cfed79b9bd86a48d99018",
+      "actual_scope": "COMPLETE RP body; actual all-integer padding and all-multiples quantifiers."
+    }
+  ],
+  "five_core_acceptance_MD_freshly_read_completely": [
+    {
+      "path": "problems/2017-B4/reviews/allD-global-acceptance.md",
+      "bytes": 4169,
+      "sha256": "de08ed83c47a8849b4ab384b16ca9deba59b995fcedbaa64f818141dd2ee7e89"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coarsening-acceptance.md",
+      "bytes": 2078,
+      "sha256": "ad7884bfe60386b7e99537f3a1b35a821cf7f34089e8373bf4d998f50275c889"
+    },
+    {
+      "path": "problems/2017-B4/reviews/global-value-return-acceptance.md",
+      "bytes": 3601,
+      "sha256": "fe3fb5d56e4a5147950864ca345f3d0edb8bd0306ba3944f633fdc30107c16f7"
+    },
+    {
+      "path": "problems/2017-B4/reviews/global-value-return-r2-acceptance.md",
+      "bytes": 3025,
+      "sha256": "bc1952332c9c6818f0c6d73088a8f7addfa75fc9b72342f2db2de900af12b2a4"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r3-acceptance.md",
+      "bytes": 2662,
+      "sha256": "8cc141b96e331c045ecf755c29c901308028b09225f48de5583621b1e10abe76"
+    }
+  ],
+  "old_context_rows_metadata_bound_not_claimed_fresh_complete_math_reads": [
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r3-source-audit-v1.md",
+      "bytes": 6900,
+      "sha256": "cf814ed4f43f979f67e5f8220ad2a8c09d30f355d3af138d629234a6f58beb3f"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-variational-literature-check-v1.md",
+      "bytes": 2258,
+      "sha256": "16701abc9d2911c72b5a9df99095d394bce70ff309120d526087534bb6af8819"
+    },
+    {
+      "path": "problems/2017-B4/notes/global-value-return-r1-sources-v1.json",
+      "bytes": 7520,
+      "sha256": "8bdd210ae5222199148c880a6739332faa6aa648106b1fd5a77e530284d3d8ab"
+    }
+  ],
+  "primary_actual_reads": [
+    {
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2017-paper-2_1.pdf",
+      "scope": "Actual p2 B4 official whole domain/normalization only",
+      "read_date_utc": "2026-10-17",
+      "new_native_binary_hash": null,
+      "native_download_or_cache_write": false
+    },
+    {
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2017-solutions-preliminary_1.pdf",
+      "scope": "Actual p12 B4 comments/count convention and attributed dictionary context, no numerical replay",
+      "read_date_utc": "2026-10-17",
+      "new_native_binary_hash": null,
+      "native_download_or_cache_write": false
+    },
+    {
+      "url": "https://arxiv.org/pdf/1609.02879",
+      "version": "v2",
+      "scope": "Complete Theorem1,2.1, relevant2.2 and Section4 constructive logical elimination; not whole Section3 or independent full complexity reconstruction",
+      "import": "Published finite rational/real-algebraic polynomial QE, computable signs and dummy free variable",
+      "read_date_utc": "2026-10-17",
+      "new_native_binary_hash": null,
+      "native_download_or_cache_write": false
+    },
+    {
+      "url": "https://arxiv.org/pdf/1811.01702",
+      "version": "v2",
+      "scope": "Introduction beta definitions/Theorem1.1/Fourier-method attribution, Lemmas2.5--2.6 and complete planar2.4.1; not full general-dimensional/parabolic proofs",
+      "import": "Classical methodology attribution only; EC1 special estimate reconstructed directly",
+      "read_date_utc": "2026-10-17",
+      "new_native_binary_hash": null,
+      "native_download_or_cache_write": false
+    },
+    {
+      "url": "https://annals.math.princeton.edu/2010/171-3/p12",
+      "scope": "Publisher abstract/model context only",
+      "import": "None; no SFT/strong-irreducibility theorem applied",
+      "read_date_utc": "2026-10-17",
+      "new_native_binary_hash": null,
+      "native_download_or_cache_write": false
+    }
+  ],
+  "old_allD_G_authorship_with_root_strategy_and_local_V_OP_HC_review_roles_disclosed": true,
+  "new_EC_construction_contribution": false,
+  "old_own_accepted_premises_not_independently_self_recertified": true,
+  "new_EC_peer_findings_unread_before_entire_freeze": true,
+  "root_pending_initial_findings_withheld_completion_identity_only": true,
+  "compact_immutable_parent_binding": {
+    "immutable_parent_manifest": {
+      "path": "problems/2025-B4/reviews/reasoning-return-r7-review-2-manifest-v1.json",
+      "bytes": 3975,
+      "sha256": "e7aa0fe112734e27ba562cd8465b0f81bc62b6c6975cfe9adbb0e37e808a9b91"
+    },
+    "immutable_parent_validation": {
+      "path": "problems/2025-B4/reviews/reasoning-return-r7-review-2-input-validation-v1.json",
+      "bytes": 14846,
+      "sha256": "8006b0f7a89865bfcd29b33d1dabac3fadf911188d4b38f1d6a5a740ccc9e256"
+    },
+    "older_own_preserved_summary": {
+      "unique_paths": 357,
+      "canonical_sorted_record_array_sha256": "0ed25ede47cdceb2a0ae63e075b621c119a9b46690f46580fbff56d46e29bdac",
+      "canonical_encoding": "UTF8 JSON ensure_ascii=false sort_keys=true separators=(comma,colon), records sorted by path"
+    },
+    "historical_inventory_not_copied": true,
+    "reproduction": "Follow exact2025R7 parent validation to exact CS validation; reconstruct341 paths from its full older2022 inventory plus R9/2020R7 manifests; append CS8, then2025R7 eight artifacts/manifest paths, giving357. All are reverified without copying that growing inventory."
+  },
+  "no_math_code_CAS_scan_QE_catalogue_or_count_execution_author_rerun": true,
+  "no_old_shared_Git_cache_write_spawn_charge_contact_or_bypass": true,
+  "direct_weekly_telemetry": {
+    "at_utc": "2026-10-17 18:56:21 UTC",
+    "total_used_percent": 56,
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "spend_control_reached": false,
+    "rate_limit_reached_type": null,
+    "total_ceiling_percent": 90,
+    "review_integration_reserve": true
+  }
+}

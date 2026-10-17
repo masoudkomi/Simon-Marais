@@ -1,0 +1,107 @@
+{
+  "frozen_at_utc": "2026-10-17T18:49:01.617375+00:00",
+  "status": "COMPLETE initially blind NONCONSTRUCTOR WHOLE2019SS R2; exact partial scope; root reconciliation pending",
+  "reviewer": "/root/review_2017_coarsening_r1",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "independently_verified_effective_settings": null,
+  "target": {
+    "path": "problems/2019-B4/notes/coordinator-separation-scale-r1-candidate-v1.md",
+    "bytes": 9068,
+    "sha256": "d08d778d7bfe2e915b67d85833d4dfb312d78393f0e80aeecdc7859abae5070e"
+  },
+  "target_manifest": {
+    "path": "problems/2019-B4/notes/coordinator-separation-scale-r1-freeze-v1.json",
+    "bytes": 3809,
+    "sha256": "33abb0fd6e571f623f31c9d767be471b95cad1990f39d898700f3568acad732c"
+  },
+  "author_artifact_count": 14,
+  "whole_author_obligations": 13,
+  "independent_inference_rows": 13,
+  "open_substantive_issues": 0,
+  "required_author_repairs": 0,
+  "optional_editorial_notes": 1,
+  "NEW_SS_constructor_or_proof_contributor": false,
+  "OLD_2019_roles_disclosed_no_self_recertification": true,
+  "whole_minimum_width_first_count_union_and_fixed_sign_reconstructed": true,
+  "independent_fixed_integer_sign_child_pid": 32567,
+  "external_timeout_seconds": 10,
+  "child_exited0_and_reaped": true,
+  "constructor_program_or_old_certificate_rerun": false,
+  "all_new_peer_SS_findings_unread_through_complete_initial_freeze": true,
+  "withhold_findings_until_both_whole_initial_freezes": true,
+  "no_exact_growth_entropy_gap_annual_or_novelty_claim": true,
+  "declared_fingerprint_occurrences_verified": 58,
+  "declared_deduplicated_paths_verified": 46,
+  "earlier_own_paths_preserved": 394,
+  "compact_provenance_without_repeated_historical_inventory": true,
+  "last_direct_weekly_telemetry": {
+    "at_utc": "2026-10-17 18:41:50UTC",
+    "total_used_percent": 56,
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "ordinary_usage_allowed": true,
+    "total_ceiling_percent": 90,
+    "review_integration_reserve": true
+  },
+  "administrative_command": "/Users/uqmkamga/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 problems/2019-B4/reviews/coordinator-separation-scale-r1-review-2-freeze-v1.py",
+  "artifacts": [
+    {
+      "path": "problems/2019-B4/reviews/coordinator-separation-scale-r1-review-2-initial-v1.md",
+      "bytes": 13660,
+      "sha256": "ec330abfbe58e5999a2e72352a0509805c68770df5b92690f3e3f1511ea17dcd"
+    },
+    {
+      "path": "problems/2019-B4/reviews/coordinator-separation-scale-r1-review-2-issues-v1.md",
+      "bytes": 4090,
+      "sha256": "13139acf93086c4fe87b088511d676a765a036eb7948e1491fbbf72e68b098fb"
+    },
+    {
+      "path": "problems/2019-B4/reviews/coordinator-separation-scale-r1-review-2-source-checks-v1.md",
+      "bytes": 6472,
+      "sha256": "d16e3a51d0ea55134b04ecd5637fff9bef0112245095b231d88a7195f8757d9d"
+    },
+    {
+      "path": "problems/2019-B4/reviews/coordinator-separation-scale-r1-review-2-sign-v1.py",
+      "bytes": 4656,
+      "sha256": "5e2a14b6a6b6c950a707b348ebde665c4aa1d17fcc475fa5b6dd7aeef3c35ce2"
+    },
+    {
+      "path": "problems/2019-B4/reviews/coordinator-separation-scale-r1-review-2-sign-v1.json",
+      "bytes": 3787,
+      "sha256": "02fa34deb812a38258d8049ff6823522fc4dffb6447d4d5b5a1a547f5c7f165e"
+    },
+    {
+      "path": "problems/2019-B4/reviews/coordinator-separation-scale-r1-review-2-sign-start-v1.json",
+      "bytes": 446,
+      "sha256": "b71fcff9341135668f77c3df4f02d79cfd0f43fd0b70b9ffa03b896d0ec9d802"
+    },
+    {
+      "path": "problems/2019-B4/reviews/coordinator-separation-scale-r1-review-2-sign-job-v1.json",
+      "bytes": 603,
+      "sha256": "509958e55eae6b33bb9b858fd7f0a9a7c91423662f1b154daeb573fab14a5ade"
+    },
+    {
+      "path": "problems/2019-B4/reviews/coordinator-separation-scale-r1-review-2-sign-stdout-v1.txt",
+      "bytes": 138,
+      "sha256": "3486f46f24b9ece15fc65f88fb5ba4f31a80a594cbf6e7eb3226cb4fbe89675a"
+    },
+    {
+      "path": "problems/2019-B4/reviews/coordinator-separation-scale-r1-review-2-sign-stderr-v1.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "problems/2019-B4/reviews/coordinator-separation-scale-r1-review-2-freeze-v1.py",
+      "bytes": 13292,
+      "sha256": "55826f639872fe5284e5649b2f30adf8db9e9b972585e05a005552a1e60410d4"
+    },
+    {
+      "path": "problems/2019-B4/reviews/coordinator-separation-scale-r1-review-2-input-validation-v1.json",
+      "bytes": 11536,
+      "sha256": "a329e0cfc41727089de830895a01d237470ac086ca96d55e4d6baa6e75d56ab9"
+    }
+  ]
+}
