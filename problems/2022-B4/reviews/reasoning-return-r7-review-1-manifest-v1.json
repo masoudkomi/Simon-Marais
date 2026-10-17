@@ -1,0 +1,83 @@
+{
+  "frozen_at_utc": "2026-10-17T17:58:14.410298+00:00",
+  "reviewer": "/root/review_2021_reasoning_j15_r2",
+  "status": "COMPLETE initially blind WHOLE nonconstructor R1; scoped recommendation, no promotion",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "verified_effective_settings": null,
+  "target_main": {
+    "path": "problems/2022-B4/notes/reasoning-return-r7-candidate-v1.md",
+    "bytes": 20450,
+    "sha256": "874e30f4fef000510edc0e67541161a735d5e11654e430ff283f4610047abd1e",
+    "matches": true
+  },
+  "target_manifest": {
+    "path": "problems/2022-B4/notes/reasoning-return-r7-freeze-v1.json",
+    "bytes": 3683,
+    "sha256": "f1894610350eb829c7be4c93329cc9054420ac111f5f28c3d0c709099529df69",
+    "matches": true
+  },
+  "whole_review_inference_checks": 52,
+  "constructor_obligations_matched": 46,
+  "new_R7_construction_contribution": false,
+  "older_authorship_review_roles_disclosed": true,
+  "substantive_issues": 0,
+  "nonblocking_integration_notes": [
+    "R7R1-N1 old F5 explanatory tenfold qualification at DIFFERENT value10C"
+  ],
+  "new_peer_R7_records_or_findings_read_before_complete_initial_freeze": false,
+  "all_sixty_one_older_own_packets_and_two_addenda_preserved": true,
+  "ordinary_infinite_existence_no_tenfold_bridge_termination_annual_or_novelty_claim": false,
+  "mathematical_code_CAS_scan_or_author_rerun": false,
+  "Git_shared_old_byte_cache_edits_spawning_charge_contact_or_bypass": false,
+  "latest_authoritative_weekly_usage": {
+    "at_utc": "2026-10-17 17:56:28 UTC",
+    "total_used_percent": 53,
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "ordinary_usage_allowed": true,
+    "stop_at_or_below_total_percent": 90,
+    "integration_reserve": true
+  },
+  "command": "python3 problems/2022-B4/reviews/reasoning-return-r7-review-1-freeze-v1.py",
+  "artifacts": [
+    {
+      "path": "problems/2022-B4/reviews/reasoning-return-r7-review-1-initial-v1.md",
+      "bytes": 16281,
+      "sha256": "a22cf0a897142f013923505d1778967cb12ce986c92d3d3b72eb0c6681eb2e58"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-return-r7-review-1-issues-v1.md",
+      "bytes": 9718,
+      "sha256": "2001fa095538e63f650cde6c0ef0f93c17a9a1563c78e82b0df10d8574f78da1"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-return-r7-review-1-source-checks-v1.md",
+      "bytes": 7975,
+      "sha256": "4962084bb6df22388d4deb6ce1bd033f1033d6a1f61cb56f52753386f9859a12"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-return-r7-review-1-sources-v1.json",
+      "bytes": 6141,
+      "sha256": "e9088e87845a9725e1603790e2de406d8c137e897549b808ec842051c7015aad"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-return-r7-review-1-freeze-v1.py",
+      "bytes": 9624,
+      "sha256": "b3e742c6149b203c13689606da9f09ba8d7371346e4f189bb45e4a7c720c8ca5"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-return-r7-review-1-input-validation-v1.json",
+      "bytes": 208204,
+      "sha256": "71e86424ce281319a76d4ce2f5152932c715c2b9455285914511ab128ffbf23e"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-return-r7-review-1-freeze-output-v1.json",
+      "bytes": 703,
+      "sha256": "96deb0799653e3526f765371242993f921fffeed59fa5c735904ee1072b4d20f"
+    }
+  ]
+}

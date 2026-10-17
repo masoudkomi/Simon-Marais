@@ -1,0 +1,84 @@
+{
+  "frozen_at_utc": "2026-10-17T16:37:21.064431+00:00",
+  "status": "candidate proof - unverified",
+  "constructor": "/root/review_2021_reasoning_j15_r2",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "claims": [
+    "IC1 source-free global squarefreeness, smooth coordinate boundary and exact contact1/Q/Q+1",
+    "IC2 individual Kasami component valuation necessity and arbitrary different-valuation/mixed-q coprimality using J",
+    "IC3 actual symmetry saturation, exact transitive cases2/3/5 and unrestricted individual iff via accepted KC using J",
+    "IC4 exact two-block q16 gcd obstruction with proper occurrences explicitly unresolved using J"
+  ],
+  "whole_audit_obligations": 48,
+  "requires_two_OTHER_fresh_initially_blind_nonconstructor_whole_audits": true,
+  "root_broad_assignment_source_pointer_only_no_new_IC_proof_inference_contribution": true,
+  "old_author_and_reviewer_roles_disclosed": true,
+  "J_primary_coauthor_statement_verified_original_1993_proof_not_read": true,
+  "IC1_source_free_and_later_applications_external_J_dependency_explicit": true,
+  "same_valuation_proper_blocks_non_base_components_annual_classification_or_novelty_resolved": false,
+  "new_qualifying_exponent_family_claimed": false,
+  "mathematical_program_CAS_scan_sampler_optimizer_or_author_rerun": false,
+  "all_sixty_older_own_packets_unchanged": true,
+  "Git_shared_old_byte_cache_edit_spawning_charge_contact_or_bypass": false,
+  "latest_authoritative_weekly_usage": {
+    "at_utc": "2026-10-17 16:33:40 UTC",
+    "total_used_percent": 51,
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "total_ceiling_percent": 90,
+    "integration_reserve": true,
+    "ordinary_usage_allowed": true
+  },
+  "command": "python3 problems/2024-B4/notes/reasoning-components-r1-freeze-v1.py",
+  "artifacts": [
+    {
+      "path": "problems/2024-B4/notes/reasoning-components-r1-candidate-v1.md",
+      "bytes": 24588,
+      "sha256": "21a23e6dedf5531b23c004e78cc4bf54253e356fa29676d97a9ae6e23d5bee48"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-components-r1-obligations-v1.md",
+      "bytes": 8467,
+      "sha256": "569feeae5bff730d8c43b3110ade0871d14afd43cfb2385897e443dc31c923da"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-components-r1-failed-routes-v1.md",
+      "bytes": 7258,
+      "sha256": "8025de6e0701112ca200d30d4767a88b2b224706934f494617a3269a636315b2"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-components-r1-source-audit-v1.md",
+      "bytes": 7878,
+      "sha256": "ce403ce617f219cebb60ec6324a6259fc2112babe38217e357ded05269ec835e"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-components-r1-worklog-v1.md",
+      "bytes": 8367,
+      "sha256": "9cfd08e0cbe995a0f6ba17c31122413fc86f4b13d7590ef1689ef93b722456ee"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-components-r1-sources-v1.json",
+      "bytes": 11596,
+      "sha256": "96eed758282db4d706bfac75e04869136285dee37f73c7e9c971d33d6d9178f9"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-components-r1-freeze-v1.py",
+      "bytes": 10115,
+      "sha256": "95e69b385356686f0b5f81e2e3c720ff65358e3a905f036e957992a0c15fe250"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-components-r1-input-validation-v1.json",
+      "bytes": 154029,
+      "sha256": "7babd6039aa29df860b8ee1e7a45a887ed5f24d72cf8e701ebc3a8784edc7eaf"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-components-r1-freeze-output-v1.json",
+      "bytes": 1276,
+      "sha256": "e6321d9a3640d1892401b7efc0f3f63c01ca044cbc697e649e5d65df0c002472"
+    }
+  ]
+}

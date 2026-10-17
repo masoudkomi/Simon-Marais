@@ -1,0 +1,58 @@
+{
+  "frozen_at_utc": "2026-10-17T16:37:21.064431+00:00",
+  "metadata_only_not_mathematical_evidence": true,
+  "exact_accepted_and_scope_records_checked": 14,
+  "authority_declared_fingerprint_counts": [
+    0,
+    0,
+    7,
+    0,
+    9,
+    19,
+    9,
+    10,
+    7,
+    7,
+    7,
+    7
+  ],
+  "authority_legacy_path_hash_map_counts": [
+    6,
+    10,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "complete_authority_MD_scopes_bound": 12,
+  "complete_prior_context_bound": 9,
+  "existing_ignored_read_only_source_records_checked": 2,
+  "whole_audit_obligations": 48,
+  "older_own_packets_unchanged": 60,
+  "all_hash_checks_passed": true,
+  "claims": [
+    "IC1",
+    "IC2",
+    "IC3",
+    "IC4"
+  ],
+  "status": "candidate proof - unverified",
+  "external_J_source_limit_explicit_original_1993_proof_not_read": true,
+  "requires_two_OTHER_fresh_initially_blind_whole_audits": true,
+  "latest_authoritative_weekly_usage": {
+    "at_utc": "2026-10-17 16:33:40 UTC",
+    "total_used_percent": 51,
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "total_ceiling_percent": 90,
+    "integration_reserve": true,
+    "ordinary_usage_allowed": true
+  },
+  "command": "python3 problems/2024-B4/notes/reasoning-components-r1-freeze-v1.py"
+}

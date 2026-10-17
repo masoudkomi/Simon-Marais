@@ -1,0 +1,550 @@
+# Accepted reasoning-components-r1: exact coordinator scope
+
+2026-10-17 UTC. **Proved, independently reviewed scoped partial result.**
+
+IC1 proves, without J, global squarefreeness and smooth coordinate-boundary intersections for every odd n>=3, with exact contact1/Q/Q+1 for Q=2^v2(n-1). The local cofactor is a UNIT, so odd contact>1 determines the valuation exactly. IC2 imports the clearly attributed Janwa--Wilson component statement J to deduce ONE base Kasami component in phi_n forces v2(n-1)=k and both label-order divisibilities. Thus every different-valuation target, including EVERY later different-q GK family member, is coprime to the whole base polynomial. The distinct-pure-base subcase was already published and is attributed.
+
+IC3 proves the actual normalized S/T coordinate actions, including the reciprocal scalar, and semilinear saturation. The action is transitive EXACTLY for k2/3/5. In those cases EACH individual absolute or irreducible F2 orbit factor has exactly the accepted whole-Kasami progression as its unrestricted occurrence criterion. KC/GK is applied only AFTER whole saturation; no arbitrary factor descent is asserted. IC4 gives precisely two invariant q16 blocks, with gcd among1,A,B,AB; proper A-only/B-only occurrences remain unresolved.
+
+A constructed NEW IC; root and C completed initially blind NONCONSTRUCTOR WHOLE audits with48/48 inference checks, ALL48 author obligations. Root froze its full initial before receiving C's findings, then read the ENTIRE candidate/companions, BOTH COMPLETE reports, ALL ledgers, source records and manifests, and reconciled them. No substantive issue or repair. Root's older KC/GK construction and C's older CP construction/other review roles are disclosed; old accepted premises are not newly independently self-certified.
+
+J's COMPLETE primary-coauthor statement, matching quotient definitions, normalization and actual cached page image were verified. The original1993 proof remains UNREAD; this is an explicitly attributed published theorem input, not a new proof of its absolute factorization. Later source transversality/parity/APN claims are unused. Accepted KC/GK bodies were freshly read in full for their exact premise scope. Separate administrative addendum preserves the original freeze and verifies two legacy hash-only authority records.
+
+No new qualifying exponent family, general same-valuation component test, proper q16 occurrence, non-base higher-component classification, annual answer or novelty is proved. Ordinary F2 positive-degree endpoints and coefficientwise integer lifts are explicit. No mathematical program, CAS, scan or certificate rerun was used.
+
+The COMPLETE frozen mathematical submission follows as a byte-identical suffix. Its historical unverified label records submission status; this header and acceptance record state the current exact scope.
+
+---
+
+# Individual Kasami components: boundary contact, mixed fields and exact small-field tests
+
+2026-10-17 UTC. **Candidate proof - unverified.** Constructor:
+`/root/review_2021_reasoning_j15_r2`. TWO OTHER fresh initially blind
+WHOLE nonconstructor audits and coordinator reconciliation are required.
+Requested inherited model/reasoning: gpt-6.1-sol/max; independent
+effective-setting readback unavailable. This studies only open B4(b).
+No complete annual classification, new qualifying exponent family,
+priority or novelty is claimed.
+
+The constructor authored old accepted T1--T4/C7/C11 and independently
+reviewed CP/GK/KC/CJ/DI/NJ/HR. Those roles are not independent
+recertification of old own work. Root supplied the broad research
+question and pointed to the published Janwa--Wilson statement; root
+supplied no new contact, valuation, orbit or component inference below.
+
+## Exact domain, source premise and results
+
+For odd n>=3 work coefficientwise over F2, or its algebraic closure K:
+
+    f_n=X^n+Y^n+Z^n+(X+Y+Z)^n,
+    R=(X+Y)(Y+Z)(Z+X),       phi_n=f_n/R.
+
+The quotient is the actual homogeneous polynomial of degree n-3 in the
+accepted inputs. Set psi_n(x,y)=phi_n(x,y,1), G_n(x)=x^n+(x+1)^n.
+The official question is ordinary reducibility over F2 with two
+positive-degree factors and coefficientwise integer lifts. Splitting
+only over K does not suffice. n=1/zero and n=3/unit are handled in §9.
+
+The only NEW external component input is the following attributed
+Janwa--Wilson statement, denoted **J**. For k>=2, q=2^k and
+d_q=q²-q+1,
+
+    psi_(d_q)(x,y)=product_(alpha in F_q minus F2) p_(q,alpha)(x,y),
+    p_(q,alpha) in F_q[x,y], absolutely irreducible, degree q+1,
+    p_(q,alpha)(x,0)=(x+alpha)^(q+1).                    (J)
+
+The COMPLETE statement was freshly checked in the primary coauthor
+Delgado--Janwa source, arXiv1612.05997v1, §3 eq(5), printed7, including
+the existing page image. Its definitions identify the same psi. No odd-k
+or extension-field coprimality condition is attached to (J). The original
+1993 chapter remains subscription preview/metadata only and its proof
+is NOT claimed read. Thus applications below explicitly import the
+PUBLISHED statement (J), as reproduced by Janwa, rather than claiming
+to establish its absolute irreducibility. The old conditional orbit note
+is history, not a promoted premise. §1 and IC1 use NO part of (J).
+
+Write P_(q,alpha) for the degree-(q+1) homogenization of p_(q,alpha).
+Their full homogeneous transport, distinctness and normalization are
+proved in §3. The source's later transversality claim at (1:1:1), its
+parity argument, and APN conclusions are NOT imported.
+
+**IC1 (source-free boundary theorem).** For EVERY odd n>=3, f_n and
+phi_n are squarefree over K. On the coordinate line Y=0, phi_n has no
+F2-projective zero. Every point of its intersection with Y=0 is smooth
+on phi_n and belongs to exactly one absolute component. Put
+Q=2^s, s=v2(n-1), n=1+Qh, h odd. At such a point (a:0:1), a!=0,1,
+the line-intersection multiplicity is either1 or
+
+    Q+1, if a^h=(a+1)^h=1 and a in F_Q;
+    Q,   if a^h=(a+1)^h=1 and a not in F_Q.             (1)
+
+In particular ANY factor whose restriction to Y=0 has an odd root
+multiplicity e>1 at a!=0,1 must have
+
+    e=2^s+1,       a in F_(2^s),
+    a^(n-1)=(a+1)^(n-1)=1.                             (2)
+
+The cofactor is a unit at that point; the multiplicity in (2) is EXACT.
+
+**IC2 (individual valuation and mixed-q obstruction, using J).** For
+EVERY k>=2, EVERY alpha in F_q minus F2 and EVERY odd n>=3,
+
+    P_(q,alpha) | phi_n  ==>  v2(n-1)=k,
+       ord(alpha) | (n-1), ord(alpha+1) | (n-1).         (3)
+
+This is about an INDIVIDUAL absolute component, not just phi_(d_q).
+Consequently
+
+    v2(n-1)!=k  ==>  gcd_K(phi_(d_q),phi_n)=1.          (4)
+
+It also holds over F2. For t=2^ell, ell>=1, and every r>=1, put
+L_(t,r)=(t^(2r+1)+1)/(t+1). Then
+
+    k!=ell ==> gcd_K(phi_(d_q),phi_(L_(t,r)))=1.        (5)
+
+Thus none of the base Kasami components of a DIFFERENT q can occur in
+any member of a fixed-t GK family. For a given n, base Kasami
+components can come from at most q=2^(v2(n-1)). Same-q containment
+and components of other kinds remain open. Every occurrence is simple.
+
+**IC3 (symmetry saturation and exact individual tests, using J and KC).**
+If P_(q,alpha) divides phi_n, then so does P_(q,beta) for EVERY beta in
+the orbit generated by
+
+    alpha -> alpha², alpha -> alpha+1, alpha -> 1/alpha. (6)
+
+These actions are transitive on F_q minus F2 EXACTLY for k=2,3,5.
+In those three cases, for EVERY alpha and EVERY odd n>=3,
+
+    P_(q,alpha) | phi_n
+      iff phi_(d_q) | phi_n
+      iff n=(q^(2r+1)+1)/(q+1), r>=1.                  (7)
+
+The final iff is the separately accepted KC theorem; no new necessity
+proof for the WHOLE divisor is claimed. The new bridge is from ONE
+component to the WHOLE divisor. Each irreducible F2 orbit factor has
+the SAME exact divisibility test (7). In particular the two degree 27
+F2 factors of phi57, and the six degree 165 F2 factors of phi993,
+each occur only on their respective displayed progression. These
+are unrestricted proper-component criteria, not an exponent scan.
+
+**IC4 (the first precise remaining split, using J).** For q16 let
+
+    A=product_(alpha in F4 minus F2) P_(16,alpha),
+    B=product_(alpha in F16 minus F4) P_(16,alpha).
+
+Then A is irreducible over F2 of degree 34; B is the product of three
+distinct irreducible F2 factors of degree 68. For every odd n>=3,
+
+    gcd(phi241,phi_n) is one of 1,A,B,AB.               (8)
+
+Nontrivial intersection requires v2(n-1)=4. A additionally requires
+3|(n-1), and B requires15|(n-1). AB occurs exactly on the accepted
+whole-q16 progression. No realization or exclusion of the two proper
+possibilities A and B is proved. Failure of symmetry transitivity is
+not evidence that either proper possibility actually occurs.
+
+## 1. Squarefreeness and smooth boundary intersections
+
+Fix K=Fbar_2. Put W=X+Y+Z, n-1=Qh as above. The two derivatives of
+the numerator are
+
+    f_(n,X)=(X^h+W^h)^Q,
+    f_(n,Y)=(Y^h+W^h)^Q.                               (9)
+
+Over K, X^h+W^h is the product of the forms X+zeta W over the h-th
+roots of unity zeta; similarly for Y+eta W. The roots are distinct
+because h is odd. NONE of a form in the first list and one in the
+second list are associates. Indeed their coefficient vectors are
+
+    (1+zeta,zeta,zeta),       (eta,1+eta,eta).
+
+If the first were c times the second, comparing Z and X would give
+zeta=c eta and1+zeta=c eta, impossible. Thus the two polynomials
+in (9) are coprime, including h=1. A repeated irreducible factor of
+f_n would divide both derivatives by the product rule. Hence f_n
+is squarefree over K. Since R is a product of three distinct linear
+factors and f_n=R phi_n, phi_n is squarefree and gcd(R,phi_n)=1.
+This calculation is not a claim about the zero numerator n=1.
+
+On Y=0, dehomogenize Z=1. The EXACT identity is
+
+    psi_n(x,0)=[G_n(x)+1]/[x(x+1)].                    (10)
+
+The numerator is monic of degree n-1, because n is odd, and has
+simple roots0 and1: its derivative has value1 at each. Consequently
+psi_n(x,0) is monic of degree n-3, has value1 at0 and1, and its
+degree-(n-3) homogenization has value1 at the point at infinity on
+Y=0. Thus no intersection was hidden at these three F2 points. For
+n=3, (10) is the constant 1 and there is no boundary intersection.
+
+Let (a,0) be ANY root of psi_n(x,0), with b=a+1. Then a,b are
+nonzero. At that point R(a,0,1)=ab is nonzero, and differentiating
+f_n=R phi_n in the affine y variable gives
+
+    psi_(n,y)(a,0)=b^(n-1)/(ab)!=0.                    (11)
+
+The numerator derivative is y^(n-1)+(x+y+1)^(n-1); the first term
+vanishes at y0 because n>=3. Equation (11) proves smoothness.
+
+If psi_n=H C and H(a,0)=0, differentiating this product yields
+
+    psi_(n,y)(a,0)=H_y(a,0) C(a,0).
+
+Both factors on the right are NONZERO. Thus C is a unit in the
+local ring at (a,0). In particular exactly one absolute component
+passes this point, and ANY factor H through it has the EXACT same
+root multiplicity in its y0 restriction as psi_n. This is the
+crucial unit assertion. A lower bound from divisibility alone would
+not suffice for the later valuation exclusion.
+
+## 2. Exact contact multiplicity, including the even alternative
+
+Let e be the multiplicity of a as a root of psi_n(x,0). The
+denominator in (10) is a unit at a, so e=ord_(x=a)(G_n+1).
+If the derivative is nonzero, e=1. If e>1, differentiation of G_n
+gives
+
+    a^(n-1)+b^(n-1)=0.
+
+Set their common value equal to t. The root equation G_n(a)+1=0
+then gives t(a+b)+1=0, so t=1. Since Frobenius^s is injective,
+
+    a^(n-1)=b^(n-1)=1,
+    a^h=b^h=1.                                        (12)
+
+The case h=1 is impossible: it would force a=1 and b=1. In particular
+h>=3, so the coefficients through Q+1 below are legitimate proper
+terms of the binomial expansion, not terms past its degree.
+
+Write x=a+z. The identity
+
+    (a+z)^n=(a+z)(a^Q+z^Q)^h
+
+and its counterpart for b have no possible exponents from2 through
+Q-1. The constant and linear terms in G_n(a+z)+1 vanish. Using
+(12), the coefficients at the next two exponents are EXACTLY
+
+    [z^Q]     =a^(1-Q)+b^(1-Q) =: gamma,
+    [z^(Q+1)] =a^(-Q)+b^(-Q)=(ab)^(-Q)!=0.             (13)
+
+Here h is odd, hence its first binomial coefficient is1. The next
+possible binomial powers are at least2Q>Q+1, so no term was omitted.
+The condition gamma=0 is equivalent to
+
+    a^(Q-1)=b^(Q-1)
+      iff a^Q b=b^Q a
+      iff a^Q=a,
+
+using b=a+1 and b^Q=a^Q+1. Thus gamma=0 exactly for a in F_Q.
+It follows that e is Q+1 in that case and Q otherwise. This proves
+the full trichotomy1/Q/Q+1 in IC1.
+
+For ANY factor H through this point, the unit cofactor in §1 makes
+its contact multiplicity the same e. Since Q is even, an ODD e>1
+forces e=Q+1 and a in F_Q. No absolute irreducibility assumption on
+H is needed for this local assertion. An arbitrary lower bound e>=q+1
+would fail to distinguish s>k; the exact multiplicity is essential.
+
+## 3. Homogeneous components, normalization and genuine coefficient fields
+
+Now import exactly (J), without its source's subsequent claim about
+the point (1,1). Each p_(q,alpha) has degree q+1 already in the
+restriction y0. Therefore it has full affine degree q+1, and its
+homogenization P_(q,alpha) has no Z factor. Also
+
+    P_(q,alpha)(X,0,Z)=(X+alpha Z)^(q+1),              (14)
+
+so its coefficient of X^(q+1) is1. Distinct alpha give nonassociate
+factors, since (14) distinguishes them even up to a scalar. Absolute
+irreducibility rehomogenizes: a factorization of P dehomogenizes,
+and a homogeneous factor that dehomogenized to a unit would be a
+power of Z, already excluded.
+
+The product in (J) has full degree
+
+    (q-2)(q+1)=q²-q-2=d_q-3.
+
+Homogenizing its equality gives precisely
+
+    phi_(d_q)=product_alpha P_(q,alpha).                (15)
+
+For completeness every odd n>=3 has phi_n(X,Y,0)!=0: its numerator
+there has nonzero coefficient X^(n-1)Y, whereas R(X,Y,0)=XY(X+Y)
+is nonzero. Thus phi_n loses no degree on dehomogenization Z=1.
+Affine divisibility by p_(q,alpha) is equivalent to homogeneous
+divisibility by P_(q,alpha): degrees add in a polynomial domain,
+so rehomogenizing the quotient introduces no missing power of Z.
+
+Let sigma square coefficients while fixing variables. By (15), unique
+factorization makes sigma(P_(q,alpha)) another normalized factor.
+Its restriction in (14) has label alpha². Hence
+
+    sigma(P_(q,alpha))=P_(q,alpha²).                    (16)
+
+If alpha has exact degree t over F2, (16) gives orbit length t and
+all coefficients in F_(2^t). Conversely the coefficient of X^q Z
+in (14) is alpha, so any coefficient field contains alpha. The
+minimal coefficient field is EXACTLY F_(2^t), not automatically F_q.
+
+For a Frobenius orbit O set Q_O=product_(alpha in O)P_(q,alpha).
+It is over F2 and has degree |O|(q+1). It is F2-irreducible: a
+proper F2 divisor would select a proper nonempty sigma-invariant
+subset of the single absolute orbit O, contrary to transitivity.
+These Q_O are precisely the irreducible F2 factors of phi_(d_q).
+This recovers the older conditional orbit deduction; that deduction
+alone is NOT the new progress of this packet.
+
+For an F2 polynomial phi_n, containment of one P_(q,alpha) is
+equivalent to containment of its whole Frobenius orbit product Q_O.
+The forward direction follows by applying sigma and multiplying
+the distinct prime factors. The resulting quotient is over F2:
+sigma fixes numerator and divisor and uniqueness of the polynomial
+quotient makes it fixed. The reverse direction is immediate.
+
+## 4. Individual components determine the valuation; all mixed-q exclusions
+
+Assume P_(q,alpha)|phi_n. Work at (alpha,0,1), where (14) has odd
+contact q+1>1. IC1 applies and gives
+
+    q+1=2^(v2(n-1))+1,
+    alpha^(n-1)=(alpha+1)^(n-1)=1.
+
+Thus v2(n-1)=k, proving (3). Equivalently, if m_alpha is the least
+common multiple of the two multiplicative orders, then
+
+    q*m_alpha | (n-1),
+    (n-1)/(q*m_alpha) is odd.                          (17)
+
+No primitivity assumption on alpha is made. Replacing m_alpha by
+q-1 without justification would be false as an arithmetic step for
+labels in proper subfields. No sufficient criterion is asserted in
+(3) or (17).
+
+If the gcd in (4) were nonconstant over K, (15) would select one
+absolute factor P_(q,alpha) that divides phi_n, contradicting (3).
+This proves (4), including ALL individual factors and all possible
+F2 orbit products. It does not infer an absolute-component conclusion
+from failure of a whole-divisor test.
+
+For L=L_(t,r), the integer identity
+
+    L-1=t*(t^(2r)-1)/(t+1)
+
+has an odd integer quotient: t+1 divides t^(2r)-1 and both are odd.
+Hence v2(L-1)=ell exactly, including r=1 and t=2. Applying (4) proves
+(5) at every index, without using a finite family test or an
+irreducibility theorem for phi_L.
+
+Squarefreeness from §1 implies every occurrence is simple. In
+particular, whenever accepted GK supplies phi_(d_q)|phi_(L_(q,r)),
+
+    gcd_K(phi_(d_q), phi_(L_(q,r))/phi_(d_q))=1.        (18)
+
+For r=1 the cofactor is 1; for r>=2 both factors are positive degree.
+Equation (18) is a factor-structure consequence, not a new exponent
+construction. No component of a different base-q family can be hidden
+in the same target in violation of (5). Components that are not base
+Kasami components are not excluded.
+
+## 5. Coordinate symmetries act on the ACTUAL normalized factors
+
+Two invertible F2-linear changes of variables are
+
+    S(X,Y,Z)=(Z,Y,X),
+    T(X,Y,Z)=(X+Y+Z,Y,Z).
+
+S permutes X,Z. T exchanges X and W=X+Y+Z while fixing Y,Z.
+Thus each preserves f_n for every n. S also preserves R, and
+
+    R(T(X,Y,Z))=(X+Z)(Y+Z)(X+Y)=R(X,Y,Z).
+
+Cancellation in the domain proves phi_n composed with S and T is
+phi_n, as polynomial identities. No restriction to finite points
+or field-valued equality is involved.
+
+Apply S,T to P_(q,alpha), which remains an absolute factor of
+phi_(d_q). By (14) their restrictions are respectively
+
+    (Z+alpha X)^(q+1)
+       =alpha^(q+1)(X+alpha^-1 Z)^(q+1),
+    (X+(alpha+1)Z)^(q+1).
+
+Unique factorization and the distinguishing restrictions therefore
+give the EXACT normalized relations
+
+    P_(q,alpha) composed with S
+           =alpha^(q+1) P_(q,alpha^-1),
+    P_(q,alpha) composed with T=P_(q,alpha+1).           (19)
+
+The nonzero scalar in the first equality must be retained; it is
+irrelevant to divisibility. With (16), (19) proves (6).
+
+The two label transformations generate the following six rational
+functions, all defined on alpha!=0,1:
+
+    a, a+1, 1/a, 1/(a+1), a/(a+1), (a+1)/a.           (20)
+
+They form the group H=PGL2(F2), here established by its explicit six
+matrices/functions, not a finite subgroup classification theorem.
+Their action commutes with squaring and preserves the EXACT field
+degree of a, because both a transformation and its inverse have F2
+coefficients. Squaring preserves that degree as well.
+
+The three nonidentity involutions in (20) have no fixed point outside
+{0,1,infinity}. The two elements of order3 fix precisely the two
+roots of a²+a+1. It follows that an H orbit has size 2 on F4 minus
+F2, and size 6 on every other label. These fixed-point equations
+also follow immediately by multiplying the nonzero denominators
+in (20). No orbit scan was used.
+
+## 6. The exact transitive cases and unrestricted individual iff tests
+
+For k=2, the two labels in F4 minus F2 form one H orbit. For k=3,
+none of the six labels lies in F4, since F8 intersect F4=F2.
+Each has H orbit size 6, so H is already transitive.
+
+For k=5, all 30 labels have degree 5 and are outside F4. H acts freely.
+Let sigma be squaring on F32, of order5. If h sigma^j fixes a label,
+then, since the actions commute, its fifth power says h^5 fixes that
+label. The order of h is1,2 or3, so h is a power of h^5. Freeness
+forces h=id. The label's degree 5 then forces j0 modulo5. Thus the
+H times <sigma> orbit has30 distinct labels, exhausting F32 minus
+F2. This is a group-action proof, not a finite-field test.
+
+There are no other transitive k>=2. For composite k>=4, choose a
+proper divisor e with1<e<k. Labels of degree e in F_(2^e) and of
+degree k in F_q cannot mix under (6). Such elements exist, for
+example generators of the respective finite multiplicative groups;
+an element of order2^j-1 cannot lie in a smaller finite field.
+The cyclicity fact used here is the standard elementary finite-field
+fact: in a finite subgroup of a field's multiplicative group, the
+largest possible element order equals the group size, since prime
+power orders can be combined and a polynomial of degree m has at
+most m roots. For prime k>=7 an orbit has size at most6k, whereas
+2^k-2>6k. The inequality holds at k=7, and its left-minus-right
+increases by2^k-6 at each subsequent integer. These arguments
+exhaust all k>=2 and prove the transitivity assertion.
+
+Now k in{2,3,5}. If any P_(q,alpha)|phi_n, saturation and
+transitivity force ALL the distinct factors in (15), hence
+phi_(d_q)|phi_n over K. The quotient descends to F2 by the same
+Frobenius uniqueness argument as §3. Accepted KC applies in its
+actual domain k>=2 and odd n>=3, giving the last iff in (7).
+Conversely the progression gives the whole divisor by accepted GK/KC,
+so every P_(q,alpha) and every Q_O divides. Both directions are proved.
+
+For q8, all labels have degree 3, hence there are two Frobenius orbits
+and two irreducible F2 factors of degree 3*9=27. For q32, all labels
+have degree 5, giving six factors of degree 5*33=165. Each proper
+factor has the exact test (7). At the self exponents n57 and n993,
+the two/all six orbit factors are genuine proper F2 factors. Their
+existence and degrees are published Kasami context; the new result
+here is the UNRESTRICTED occurrence test in every odd target n.
+It gives no exclusion of any different kind of factor of phi_n.
+
+## 7. The first nontransitive case is exactly two blocks
+
+For k=4, F16 minus F2 consists of two degree 2 labels and12 degree 4
+labels. The first pair is one orbit under (6). On the12 degree 4
+labels H acts freely and has two size 6 orbits. Squaring either
+fixes both H orbits or exchanges them.
+
+Suppose it fixed one. For a label a in that orbit, sigma(a)=h(a)
+for some h in H. Commutation and sigma^4=id give h^4(a)=a.
+Since H acts freely there, h^4=id, so h has order1 or2. Applying
+sigma twice then gives sigma²(a)=h²(a)=a, which would put a in F4,
+contrary to its degree 4. Thus sigma exchanges the two H orbits.
+All12 labels form one combined orbit. This proves the two-block
+description without an enumeration.
+
+Under Frobenius alone, the first block is one orbit of length2 and
+the second consists of three orbits of length4. The degree and
+irreducibility conclusions about A and B in IC4 follow from §3.
+Saturation and the squarefree factorization (15) make the gcd choose
+neither, either, or both ENTIRE blocks, proving (8).
+
+IC2 supplies v2(n-1)=4 in every nontrivial case. If A divides, its
+nontrivial F4 labels have multiplicative order3, giving3|(n-1).
+If B divides, it includes a primitive element of F16 of order15,
+giving15|(n-1). When both occur, the whole phi241 divides and
+accepted KC gives exactly the q16 progression. None of these
+necessary restrictions proves that a proper block ever occurs.
+
+The two sets of labels are nonempty and stable under every action
+used here. Consequently the symmetry argument by itself cannot
+upgrade a single q16 component to the whole divisor. Additional
+global algebra, beyond local contact and these symmetries, is
+needed to settle proper A/B containment. This is an explicit
+remaining interface, not a proposed actual counterexample.
+
+## 8. What is new relative to the accepted results
+
+Accepted NV and KC assumed the WHOLE phi_(d_q) divisor and obtained
+v2(n-1)=k or the full progression. They do not imply (3)--(5) for a
+single proper component. Accepted CP explicitly forbids descending
+arbitrary factors through its rank-four invariant cover. No such
+descent is made here. The local nonzero derivative in (11) supplies
+the missing exact-contact bridge directly on the actual component.
+
+Accepted HR classifies WHOLE higher members within ONE fixed-q
+family, using composition and Hermitian point/jet arguments. It
+supplies no individual-factor or mixed-q theorem. The new (5) is
+an individual-component obstruction across every pair of DIFFERENT
+base q values, whereas (7) supplies exact same-q individual tests
+in the three transitive cases. No Hasse--Weil estimate or HR conclusion
+is needed in this packet. The ordinary F2 factor statements follow
+from the actual Frobenius orbit products, not APN nonexceptionality.
+
+The r=1 distinct-base subcase of (5) is already the published
+Delgado--Janwa arXiv1207.5528v1 Lemma1(b), following from the different
+absolute factor degrees. It is NOT new progress here. The extension
+to EVERY odd target with a different valuation, and hence EVERY later
+member r>=2 of a different-q GK family, uses the boundary argument.
+
+The lower-bound-only route would allow v2(n-1)>k. Exact contact
+excludes it because the complementary factor is a unit at the
+specific smooth point. Likewise mere orbit counting only establishes
+reducibility of some Kasami polynomials; the coordinate action (19)
+is what forces individual containment to propagate among DISTINCT
+F2 orbit factors. These are substantive new deductions in this
+checkpoint, with no assertion of literature priority.
+
+## 9. Official endpoints, source limits and unresolved mathematics
+
+All gcd and divisor assertions explicitly assume odd n>=3 and k>=2.
+For n=3, phi3=1 and all component tests reject. The auxiliary GK
+r=0 value is n=1 and is not passed into these tests. At n=1 the
+numerator is zero; in a polynomial domain it cannot equal Rgh
+with both reductions nonconstant and hence nonzero. At q=2 the
+base phi3 is a unit and there are no component labels; no individual
+criterion is asserted for it. The other family's t=2 endpoint in
+(5) is legitimate because its targets have valuation1.
+
+At r=1 in the WHOLE progression the cofactor is a unit. For k=3,5
+the individual Q_O factors are nevertheless proper already in that
+base polynomial, as their displayed degrees show. For k=2 the whole
+factor has unit cofactor at n13, so that particular divisibility
+does not alone supply the official two-factor construction. At
+r>=2 accepted GK supplies positive degrees. Whenever two actual
+F2 factors have positive degree, coefficientwise0/1 integer lifts
+give exactly the required official congruence.
+
+The exact 1993 proof is still unread. Applications IC2--IC4 retain
+(J) as a clearly attributed published theorem input verified in a
+full primary-coauthor statement. If a future audit requires original
+proof reconstruction, that is a source dependency to resolve; no
+claim of having silently completed it is made. IC1 and the generic
+odd-contact implication are self-contained and independent of J.
+The source's separate all-components-through-(1,1) argument is not
+used, so its recorded parity problem is immaterial to these proofs.
+
+The same-valuation individual problem for general k remains open,
+already concretely for the proper q16 blocks in IC4. Higher GK
+components that are not base Kasami components, other arbitrary
+factors, and the full odd-exponent reducibility classification
+remain open. No finite test, factor list, larger table, mathematical
+program, CAS or source-certificate replay is a premise. A complete
+literature priority audit is not claimed. Every new assertion above
+remains CANDIDATE-UNVERIFIED until TWO OTHER complete initially
+blind WHOLE audits and root reconciliation are complete.

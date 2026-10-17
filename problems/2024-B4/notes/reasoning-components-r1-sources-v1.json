@@ -1,0 +1,252 @@
+{
+  "status": "source record for candidate proof - unverified",
+  "settings": {
+    "requested_model": "gpt-6.1-sol",
+    "requested_reasoning": "max",
+    "verified_effective_settings": null
+  },
+  "scope": "2024 B4(b) only; ordinary F2 reducibility and individual components; no preliminary construction",
+  "exact_accepted_and_scope_inputs": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff",
+      "role": "complete protocol read"
+    },
+    {
+      "path": "problems/2024-B4/statement.md",
+      "bytes": 2470,
+      "sha256": "60244f7752634772adb434efbdb41a63fb02029dc3be4238f3718c6e5ec84e5f",
+      "role": "complete official local target read"
+    },
+    {
+      "path": "problems/2024-B4/proofs/fixed-factor-family-reviewed-v1.1.md",
+      "bytes": 13109,
+      "sha256": "08526b6f068792bd649d46b9010a4cda8de0378966e6489246d25992dc586d4e",
+      "role": "accepted old sufficient family; context",
+      "complete_body_read": true
+    },
+    {
+      "path": "problems/2024-B4/notes/zero-automaton-criterion-reviewed-v1.1.md",
+      "bytes": 16607,
+      "sha256": "362f2541b2bb1ab1e22ba768b41d55e7282f08631b0ad39522682244d213f226",
+      "role": "accepted old whole-phi13 iff; context",
+      "complete_body_read": true
+    },
+    {
+      "path": "problems/2024-B4/proofs/reviewed-structural-v1.1.md",
+      "bytes": 17079,
+      "sha256": "082dc054ce2cdaea80eee009f4c97c877c6968afb54b5a8f3141b7354031dd3f",
+      "role": "accepted old own T1-T4; context, not independent re-audit",
+      "complete_body_read": true
+    },
+    {
+      "path": "problems/2024-B4/proofs/reviewed-divisor-criteria-v1.1.md",
+      "bytes": 17334,
+      "sha256": "3afbf3eda795ecfcf6989ef6ec855e5c7e795f26f5a84effe8c4bd73ffeb4ed3",
+      "role": "accepted old own C7/C11; context, no certificate rerun",
+      "complete_body_read": true
+    },
+    {
+      "path": "problems/2024-B4/proofs/reviewed-composition-Kasami-v1.1.md",
+      "bytes": 17366,
+      "sha256": "f1e82d443b5ac997889c7a7f7f340437f8401516cccf9516eac132558df220c5",
+      "role": "accepted CP1-CP3; whole-factor scope boundary",
+      "complete_body_read": true
+    },
+    {
+      "path": "problems/2024-B4/proofs/reviewed-generalized-Kasami-v1.1.md",
+      "bytes": 12828,
+      "sha256": "eff29275bed2eb037a90bd8935c7c00740e66874c03f973a2996daa8f131d36e",
+      "role": "accepted GK1-GK3; family and reverse containment through KC",
+      "complete_body_read": true
+    },
+    {
+      "path": "problems/2024-B4/proofs/reviewed-Kasami-necessary-valuation-v1.1.md",
+      "bytes": 5874,
+      "sha256": "6b92d01d50a131fcbf695667c08e5fed9bc49c03c37be5dca9af14a70cb33b1f",
+      "role": "accepted WHOLE NV; insufficient for individual necessity",
+      "complete_body_read": true
+    },
+    {
+      "path": "problems/2024-B4/proofs/reviewed-Kasami-whole-criterion-v1.1.md",
+      "bytes": 10678,
+      "sha256": "b78b770e4f0b19481c1c7b136295cff2a2876d0e4e5f9c0fa1f6112c64944e1c",
+      "role": "accepted WHOLE KC; explicit final application in IC3/IC4",
+      "complete_body_read": true
+    },
+    {
+      "path": "problems/2024-B4/proofs/reviewed-P2-critical-jet-v1.1.md",
+      "bytes": 9376,
+      "sha256": "4d8de33dd124a1352ec1a404863f3ea2eb4b2c696adf8a02d0a35bf6233cf53f",
+      "role": "accepted CJ; context, not a premise",
+      "complete_body_read": true
+    },
+    {
+      "path": "problems/2024-B4/proofs/reviewed-P2-indecomposable-v1.1.md",
+      "bytes": 11265,
+      "sha256": "346a9a38536c88df1ff9da17fe29c7e4a3e6755be36fd3a6c90f12979d6cdf3d",
+      "role": "accepted composition DI; context, not multiplicative irreducibility",
+      "complete_body_read": true
+    },
+    {
+      "path": "problems/2024-B4/proofs/reviewed-even-inner-next-jet-v2.1.md",
+      "bytes": 14959,
+      "sha256": "4058c8356c4b6f9d071a3713609b82ddde10b2989e9a177050f0b2951a28bb52",
+      "role": "accepted even-inner NJ; context",
+      "complete_body_read": true
+    },
+    {
+      "path": "problems/2024-B4/proofs/reviewed-Hermitian-all-index-v1.1.md",
+      "bytes": 17767,
+      "sha256": "ccb3707502292726e2484ba5b255f3f5b25ecd3a876d7b3282be0f69f6c9abdf",
+      "role": "accepted fixed-q higher WHOLE HR; context, no individual inference",
+      "complete_body_read": true
+    }
+  ],
+  "accepted_authority_paths": [
+    "problems/2024-B4/reviews/family-acceptance.json",
+    "problems/2024-B4/reviews/criterion-acceptance.json",
+    "problems/2024-B4/reviews/structural-acceptance.json",
+    "problems/2024-B4/reviews/divisor-acceptance.json",
+    "problems/2024-B4/reviews/composition-Kasami-acceptance.json",
+    "problems/2024-B4/reviews/generalized-Kasami-acceptance.json",
+    "problems/2024-B4/reviews/necessary-valuation-acceptance.json",
+    "problems/2024-B4/reviews/Kasami-whole-criterion-acceptance.json",
+    "problems/2024-B4/reviews/P2-critical-jet-acceptance.json",
+    "problems/2024-B4/reviews/P2-indecomposable-acceptance.json",
+    "problems/2024-B4/reviews/even-inner-next-jet-acceptance.json",
+    "problems/2024-B4/reviews/Hermitian-all-index-acceptance.json"
+  ],
+  "complete_authority_md_read_paths": [
+    "problems/2024-B4/reviews/family-acceptance.md",
+    "problems/2024-B4/reviews/criterion-acceptance.md",
+    "problems/2024-B4/reviews/structural-acceptance.md",
+    "problems/2024-B4/reviews/divisor-acceptance.md",
+    "problems/2024-B4/reviews/composition-Kasami-acceptance.md",
+    "problems/2024-B4/reviews/generalized-Kasami-acceptance.md",
+    "problems/2024-B4/reviews/necessary-valuation-acceptance.md",
+    "problems/2024-B4/reviews/Kasami-whole-criterion-acceptance.md",
+    "problems/2024-B4/reviews/P2-critical-jet-acceptance.md",
+    "problems/2024-B4/reviews/P2-indecomposable-acceptance.md",
+    "problems/2024-B4/reviews/even-inner-next-jet-acceptance.md",
+    "problems/2024-B4/reviews/Hermitian-all-index-acceptance.md"
+  ],
+  "complete_prior_context_read_paths": [
+    "problems/2024-B4/notes/deep-literature-r2-report-v1.md",
+    "problems/2024-B4/notes/deep-literature-r2-kasami-orbit-lead-v1.md",
+    "problems/2024-B4/notes/structural-reasoning-r2-source-audit-v1.md",
+    "problems/2024-B4/notes/structural-reasoning-r2-sources-v1.json",
+    "problems/2024-B4/notes/coordinator-MCM-literature-bridge-v1.md",
+    "problems/2024-B4/notes/reasoning-return-r3-source-audit-v1.md",
+    "problems/2024-B4/notes/coordinator-generalized-Kasami-r1-sources-v1.md",
+    "problems/2024-B4/notes/coordinator-Kasami-whole-criterion-source-audit-v1.md",
+    "problems/2024-B4/notes/coordinator-Hermitian-all-index-source-checks-v1.md"
+  ],
+  "external_premise_J": {
+    "original_attribution": "Janwa-Wilson1993, LNCS673, pp180-194, DOI10.1007/3-540-56686-4_43",
+    "primary_coauthor_full_statement_url": "https://arxiv.org/pdf/1612.05997v1",
+    "actual_fresh_read": "complete quotient definitions printed6 eq2-4 and full J statement printed7 section3 eq5-6, plus existing full-page image",
+    "original_1993_full_proof_read": false,
+    "adjacent_odd_k_extension_coprimality_APN_conditions_attached_to_J": false,
+    "later_transversality_all_components_through_P_or_parity_argument_imported": false,
+    "applications_explicitly_depend_on_attributed_published_J": true,
+    "IC1_and_generic_odd_contact_theorem_depend_on_J": false
+  },
+  "read_only_ignored_source_records": [
+    {
+      "path": ".cache/literature/deep-literature-r2/2024-delgado-janwa-1612.05997v1.pdf",
+      "bytes": 191161,
+      "sha256": "9704f18d5acbec194e89ab26eed3c0a39d944a3de0c73896e4a05269c18528d9",
+      "expected_sha256": "9704f18d5acbec194e89ab26eed3c0a39d944a3de0c73896e4a05269c18528d9"
+    },
+    {
+      "path": ".cache/literature/structural-reasoning-r2-delgado-janwa-page7.png",
+      "bytes": 297247,
+      "sha256": "055136f7ba6ffdbcf3def915fb3f2c8815bed47480d7ebbd968d90901527934b",
+      "expected_sha256": "055136f7ba6ffdbcf3def915fb3f2c8815bed47480d7ebbd968d90901527934b"
+    }
+  ],
+  "web_sources": [
+    {
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc2024_paper_b.pdf",
+      "actual_read": "actual B4(b) domain and definition, p2; no preliminary construction research",
+      "new_binary_hash": null
+    },
+    {
+      "url": "https://arxiv.org/pdf/1612.05997v1",
+      "actual_read": "exact source premise J and definitions; full primary-coauthor statement, no original1993 proof reconstruction",
+      "new_binary_hash": null
+    },
+    {
+      "url": "https://link.springer.com/chapter/10.1007/3-540-56686-4_43",
+      "actual_read": "publisher metadata and subscription-preview limitation",
+      "full_proof_obtained": false,
+      "new_binary_hash": null
+    },
+    {
+      "url": "https://authors.library.caltech.edu/records/wcxdz-pkj80",
+      "actual_read": "metadata-only institutional record",
+      "full_proof_obtained": false,
+      "new_binary_hash": null
+    },
+    {
+      "url": "https://arxiv.org/pdf/1207.5528v1",
+      "actual_read": "complete cited Kasami statement and Lemma1/proof, printed5; distinct pure Kasami bases already coprime",
+      "new_binary_hash": null
+    },
+    {
+      "url": "https://websites.umich.edu/~zieve/papers/biv.pdf",
+      "actual_read": "AppendixB opening definition/factor statement only as contextual MCM lead; no imported factor/monodromy theorem",
+      "new_binary_hash": null
+    },
+    {
+      "url": "https://files01.core.ac.uk/download/pdf/52429522.pdf",
+      "actual_read": "web-viewer internal error; no theorem premise",
+      "new_binary_hash": null
+    },
+    {
+      "url": "https://arxiv.org/pdf/1101.6033v1",
+      "actual_read": "web PDF cache miss; no theorem premise",
+      "new_binary_hash": null
+    }
+  ],
+  "queries_exact": [
+    "\"Janwa\" \"Wilson\" \"Hyperplane sections\" pdf",
+    "\"Kasami\" \"P_alpha\" divisibility factorization",
+    "\"Kasami\" \"gcd\" \"phi\" \"57\"",
+    "\"Kasami\" \"components\" \"993\"",
+    "\"Kasami\" \"Pα\" \"divides\"",
+    "\"Janwa\" \"Wilson\" \"fermat\" \"pdf\" \"180\"",
+    "\"Polynomials of Kasami Degree\" \"Férard\" arxiv",
+    "\"Kasami\" \"Möbius\" factors polynomial",
+    "\"Janwa\" \"Wilson\" \"P_alpha\"",
+    "\"Kasami\" \"coprime\" \"valuation\"",
+    "\"Kasami\" \"phi\" \"relatively prime\" \"k\" \"l\"",
+    "\"Kasami\" \"Pα\" \"x, 0\" \"divides\"",
+    "\"Kasami\" \"gcd\" \"φ\" \"2\" polynomial",
+    "\"Kasami\" \"coprimality\" polynomial (arxiv.org filter)",
+    "\"Kasami\" \"relatively prime\" \"φ\" (arxiv.org filter)",
+    "\"Kasami\" \"Pα\" \"Frobenius\" (arxiv.org filter)",
+    "\"Some more functions that are not APN infinitely often\""
+  ],
+  "new_native_source_download_long_wait_cache_mutation_or_third_party_redistribution": false,
+  "mathematical_code_CAS_factor_or_orbit_scan_certificate_replay_or_author_rerun": false,
+  "unresolved": "same-valuation partial blocks, non-base higher-family components, full ordinary reducibility and priority",
+  "requires_two_OTHER_fresh_initially_blind_nonconstructor_whole_audits": true,
+  "previous_own_manifest": {
+    "path": "problems/2017-B4/notes/reasoning-value-return-r3-freeze-v1.json",
+    "bytes": 3565,
+    "sha256": "d638920197fdda4767a14d94072347361c3a53373c0c2e0242333199335152e5"
+  },
+  "previous_input_validation_path": "problems/2017-B4/notes/reasoning-value-return-r3-input-validation-v1.json",
+  "latest_authoritative_weekly_usage": {
+    "at_utc": "2026-10-17 16:33:40 UTC",
+    "total_used_percent": 51,
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "total_ceiling_percent": 90,
+    "integration_reserve": true,
+    "ordinary_usage_allowed": true
+  }
+}

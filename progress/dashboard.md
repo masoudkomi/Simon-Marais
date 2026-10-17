@@ -4,14 +4,14 @@ Initial scope: nine official B4 open portions, 2017-2025. **2026 deferred by the
 
 |Year|Accepted result and present position|
 |---|---|
-|2017|The scalar growth limit exists; its exact value is unknown and the reviewed upper bound is below0.649514. NEW one-sided-port OP1–OP3 is accepted: it sharpens the direction approximation error to f_D+L/D, with D*f_D/log2(D) tending to1/2. It gives no effective finite-side rate or numerical value.|
+|2017|Scalar limit exists, value unknown, reviewed upper bound<0.649514. NEW HC1--HC3 accepted: exact special heap capacity and improved error h2(1/D)/2+L/D. No effective finite-side rate/E/R or new value.|
 |2018|COMPLETE general enumeration formula, independently reviewed and attributed to Hering--Howard/Ottaviani. This is a published-result reproduction.|
-|2019|Reviewed bounds1.76522347<lambda<1.834856083. NEW DG exact half-offset walk/closed Frechet bridge, balanced all-m rate and exact probability identity are accepted after BOTH whole audits. They reformulate the SAME unknown lambda. R7/MR remain accepted; joining and actual moment regime remain unresolved.|
+|2019|Reviewed1.76522347<lambda<1.834856083; exact walk/Frechet and balanced-rate bridge. NEW AF1/AF2 accepted: no finite presentation of the actual even context monoid on ANY finite alphabet. No growth improvement; exact value/moment regime remain open.|
 |2020|NEW R6 accepted after BOTH complete WHOLE audits: exact coinvariant fiber energy retaining overlap, common-Baer numerical restriction, actual residual-kernel smallness and faithful logarithmic gap for s>12, and nonsquare modulo3 character bound. Actual-source limits retained. General taut classification and nonsaturated incidence/phase gap remain unresolved.|
 |2021|NEW R8 is accepted after BOTH whole audits: a restricted actual-double degree20 branch has an essential nonunit center, four weighted depths, or four rigid actual-witness cubic patterns. Origin change preserves/pairs the remaining patterns. None is excluded; degree20 and the general problem remain unresolved.|
-|2022|Reviewed sharp rational-base fibers/CONDITIONAL exact-nine theorem. NEW R6 finite-prime periodic cycles, arbitrary finite ordinary shadows and restricted-ranking obstruction are accepted after both WHOLE audits. No ordinary infinite avoiding lift or universal termination proof is supplied.|
+|2022|NEW R7 accepted after fresh A/B WHOLE audits: exact phased criterion and ordinary converse, scaled full-ten/ordinary-nine fibers conditional on an A/B path, and exact predecessor restriction. Root excluded from blind count. No ordinary infinite survivor, termination or annual answer.|
 |2023|COMPLETE internally reviewed classification for fixed positive nonsquare N: all(k,k),k>0, and(k,2k),(2k,k) for positive odd k. Priority remains unestablished.|
-|2024|NEW HR1/HR2 is accepted after both COMPLETE WHOLE audits: EVERY inner r>=2 in one fixed-q GK family has P_s=H(P_r) exactly s=r,H=T; the WHOLE homogeneous divisor criterion is exactly r1 or r=s. Other components, mixed-q cases and general factorization remain open. Earlier DI/NJ remain accepted.|
+|2024|NEW IC1--IC4 accepted after BOTH WHOLE audits: exact boundary contact, individual valuation/all mixed-q obstructions, transitive k2/3/5 occurrence tests, q16 two-block alternatives. Original1993 J proof unread/exact coauthor statement imported. General component/reducibility classification remains open.|
 |2025|UW/RK and NEW R6 accepted after BOTH complete whole audits: actual normalized Jacobi lifts, exact phase systems and a deliberately weak signed diagonal height bound. The bound is weaker than published bounds and supplies no new Diophantine exclusion. The full equation remains open.|
 
 ## Coordination
@@ -158,3 +158,7 @@ Current all-nine/token report: [status-2026-10-17-1548.md](status-2026-10-17-154
 ## Current checkpoint —2026-10-17 approximately16:26UTC
 
 [All-nine status and usage](status-2026-10-17-1626.md).2020R6 accepted after54/65 whole checks/ALL54 obligations and fullroot reconciliation.2017HC candidate has rootwholeR1 complete/otherR2active;2019AF candidate has twoOTHER whole audits queued. New2022ordinary dynamics/2024individual components research active. Two complete annual answers2018/2023 unchanged.51%TOTALweekly/39ppbefore90%;raw1,099,868,151total,57,910,007uncached+output;3,736,668reasoning is an output subset. Research continues.
+
+## Current checkpoint — 2026-10-17 17:58 UTC
+
+[All-nine status and usage](status-2026-10-17-1758.md). NEW2017HC,2019AF and2024IC accepted after BOTH complete initially blind WHOLE audits/full root reconciliation. Two annual answers remain2018/2023; seven unresolved.2022R7 now accepted after fresh A/B WHOLE audits/full root reconciliation; root excluded from blind count.2017R4/2021R9/2025R7 reasoning active.53% TOTAL weekly,37pp before90%. Raw1149132618 including1089263872 cached; uncached+output59868746. Sustained work continues.

@@ -1,0 +1,146 @@
+{
+  "accepted_at_utc": "2026-10-17T17:54:25.014152+00:00",
+  "status": "proved, independently reviewed scoped partial result",
+  "whole_initials_blind": true,
+  "root_read_full_candidate_both_reports_all_ledgers_sources": true,
+  "unresolved_substantive_issues": 0,
+  "repair_required": false,
+  "candidate": {
+    "path": "problems/2019-B4/notes/auxiliary-presentation-r1-candidate-v1.md",
+    "bytes": 8849,
+    "sha256": "a0cc010860ee21155239421bef44e95e3ce2cec84be6796a9e067b39afcf4372"
+  },
+  "accepted_copy": {
+    "path": "problems/2019-B4/proofs/reviewed-auxiliary-presentation-r1-v1.1.md",
+    "bytes": 11103,
+    "sha256": "fb315bd75a528bbfb7c98d0464ea667cd3e93ef88cd1251fff20c8a219270929"
+  },
+  "verification_metadata": [
+    {
+      "path": "problems/2019-B4/notes/auxiliary-presentation-r1-freeze-v1.json",
+      "bytes": 1705,
+      "sha256": "114dabe97999c84e37687c3e88b7e8f65080f93ac3477ab708e99712d0ffcbb5"
+    },
+    {
+      "path": "problems/2019-B4/notes/auxiliary-presentation-r1-integrity-v1.json",
+      "bytes": 3972,
+      "sha256": "3149dbf648fad530b756b778175874cd53d911d7478df13b9f1cfce6d2f4e3d1"
+    },
+    {
+      "path": "problems/2019-B4/reviews/auxiliary-presentation-r1-review-1-manifest-v1.json",
+      "bytes": 3352,
+      "sha256": "db33ac733a1bb5321ab6fc059357e48d8162d19165d4bf40dbd14f26379230c4"
+    },
+    {
+      "path": "problems/2019-B4/reviews/auxiliary-presentation-r1-review-1-input-validation-v1.json",
+      "bytes": 349045,
+      "sha256": "8e16e569a73a5c7ebb69c5f0f75115bbcc05f6f546d2c9b00399e6bb2ffc65f2"
+    },
+    {
+      "path": "problems/2019-B4/reviews/auxiliary-presentation-r1-review-2-manifest-v1.json",
+      "bytes": 3194,
+      "sha256": "9050e6b9373c873012f8aeb668b9c9a89306273aaaefcff4ed923440021e5d50"
+    },
+    {
+      "path": "problems/2019-B4/reviews/auxiliary-presentation-r1-review-2-input-validation-v1.json",
+      "bytes": 81759,
+      "sha256": "a3a55eb45c957e79618c53bb24052abe9872cbbc83dbdf8dd109b466d3eafbda"
+    },
+    {
+      "path": "problems/2019-B4/reviews/secondpass-acceptance.json",
+      "bytes": 2679,
+      "sha256": "66e98c9c9eb36ce02c87c69532a0e930be8bd4a4f0eec5e043ecd5f6bf068d6b"
+    }
+  ],
+  "record_occurrences_verified": 2169,
+  "unique_paths_verified": 1395,
+  "constructor": "coordinator root",
+  "reviewers": [
+    "/root/review_2022_complexity_r2",
+    "/root/review_2017_coarsening_r1"
+  ],
+  "coordinator_constructor_excluded_from_independent_reviewer_count": true,
+  "whole_inference_checks": [
+    24,
+    16
+  ],
+  "all_author_obligations": 10,
+  "legacy14_old_artifact_dictionary_checked": [
+    {
+      "path": "problems/2019-B4/notes/secondpass-canonical-renewal.md",
+      "bytes": 11807,
+      "sha256": "886266000a34023b033099889a3bb23bc6b3e642194ded12ce53b3aaa1642763"
+    },
+    {
+      "path": "problems/2019-B4/notes/secondpass-rigidity-obstructions.md",
+      "bytes": 8447,
+      "sha256": "58112ed40ba7146c8b5885669602d44770bdd525540c4221eaf17b101eb1c109"
+    },
+    {
+      "path": "problems/2019-B4/notes/secondpass-staircases-and-pumping.md",
+      "bytes": 10885,
+      "sha256": "5e2539982e32d116076c2c17ad8e85d865792a14630db04634c7372ae345cd52"
+    },
+    {
+      "path": "problems/2019-B4/notes/secondpass-checkpoint-2.md",
+      "bytes": 8339,
+      "sha256": "fbe7680f25cfcc216449e48755e87fa261d7c468721928075de0710f7b77d961"
+    },
+    {
+      "path": "problems/2019-B4/notes/secondpass-checkpoint-1-sha256.txt",
+      "bytes": 1916,
+      "sha256": "db5d9f39615232712cff6096363c1eca645bbd90ce6af1264cbad139cea61393"
+    },
+    {
+      "path": "problems/2019-B4/notes/secondpass-checkpoint-2-sha256.txt",
+      "bytes": 2200,
+      "sha256": "dc949f1db82a665384cea9dc2fd8ef23edb9cf901502773bc61b9cb9dad760b9"
+    },
+    {
+      "path": "problems/2019-B4/reviews/secondpass-review-1.md",
+      "bytes": 20737,
+      "sha256": "ba8040f5dfbf6f9570604bca9770e35a4ab903c5610053077e15953c332ec210"
+    },
+    {
+      "path": "problems/2019-B4/reviews/secondpass-review-2.md",
+      "bytes": 27648,
+      "sha256": "88cfa4d90ced7614a6abd5338ce045aaef1f9d542441fce2c7c75ea24ef975d8"
+    },
+    {
+      "path": "problems/2019-B4/reviews/secondpass-review-1-sha256.txt",
+      "bytes": 904,
+      "sha256": "06b7650748883ee7bf995be9018338d23ff443ee72f28888ef58968924d683fe"
+    },
+    {
+      "path": "problems/2019-B4/reviews/secondpass-review-2-manifest.json",
+      "bytes": 8665,
+      "sha256": "a8a3c6c1d28db60d7b6ea5737c8d90a2aef1250235bb50c570070371f0bfd4fd"
+    },
+    {
+      "path": "problems/2019-B4/reviews/secondpass-review-2-sha256.txt",
+      "bytes": 7271,
+      "sha256": "a6480a3ea8aa533633229e86dd97282201a707926da96b7fe79a2d3a7922a725"
+    },
+    {
+      "path": "problems/2019-B4/reviews/secondpass-acceptance.md",
+      "bytes": 2340,
+      "sha256": "a167e1f52bff2503c6ac571ea047efe7621425f2379868a0a6db31eccd22aefa"
+    },
+    {
+      "path": "problems/2019-B4/reviews/secondpass-acceptance-issues-snapshot.md",
+      "bytes": 3756,
+      "sha256": "8b8b66bf0438297829cc1050a78ab774f86ff813718198aee0aad0d7599767a0"
+    },
+    {
+      "path": "problems/2019-B4/proofs/reviewed-secondpass-v1.1.md",
+      "bytes": 2836,
+      "sha256": "5fbaa388fe2ff795034094823c088fa5402da60eb9eca83f78165df0c8ad2cd7"
+    }
+  ],
+  "claims": [
+    "AF1 classical finite-generator transport",
+    "AF2 no finite presentation of actual M0 on ANY finite alphabet with precise same-monoid consequences"
+  ],
+  "growth_bound_exact_value_defect_annual_answer_or_novelty_claim": false,
+  "no_mathematical_program_CAS_or_scan": true
+}

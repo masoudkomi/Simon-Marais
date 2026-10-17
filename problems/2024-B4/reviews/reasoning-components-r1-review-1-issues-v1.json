@@ -1,0 +1,297 @@
+{
+  "status": "COMPLETE initially blind WHOLE R1; no substantive scoped issue",
+  "checks": [
+    {
+      "check": 1,
+      "author_obligation": "IC-01",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Official odd n and ordinary F2 positive-degree factors, coefficientwise integer lift retained."
+    },
+    {
+      "check": 2,
+      "author_obligation": "IC-02",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "n1 zero,n3 unit,q2 no labels,r0 excluded; valid t2/r1 mixed endpoints retained."
+    },
+    {
+      "check": 3,
+      "author_obligation": "IC-03",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "IC1 source-free; IC2--4 explicitly external J; KC/GK used only for whole criterion/reverse."
+    },
+    {
+      "check": 4,
+      "author_obligation": "IC-04",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Primary coauthor exact quotient/J degree and specialization checked; no odd-k assumption."
+    },
+    {
+      "check": 5,
+      "author_obligation": "IC-05",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Original1993 proof unread; actual cached page viewed; later parity/transversality unused."
+    },
+    {
+      "check": 6,
+      "author_obligation": "IC-06",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Both derivatives are exact Q-th powers; h1 calculation valid."
+    },
+    {
+      "check": 7,
+      "author_obligation": "IC-07",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Distinct odd-h roots; coefficient Z/X contradiction excludes every cross-pair associate."
+    },
+    {
+      "check": 8,
+      "author_obligation": "IC-08",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Repeated prime divides both derivatives; squarefree f implies squarefree phi and gcd(R,phi)1."
+    },
+    {
+      "check": 9,
+      "author_obligation": "IC-09",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Restriction polynomial monic n-3 after simple endpoint cancellation, n3 constant."
+    },
+    {
+      "check": 10,
+      "author_obligation": "IC-10",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Values0,1,infinity all1; no projective boundary zero lost."
+    },
+    {
+      "check": 11,
+      "author_obligation": "IC-11",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "At a,b nonzero R=ab; exact y derivative b^(n-1)/(ab) never zero."
+    },
+    {
+      "check": 12,
+      "author_obligation": "IC-12",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Product derivative forces H_y and cofactor nonzero; unique component/exact contact."
+    },
+    {
+      "check": 13,
+      "author_obligation": "IC-13",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Contact>1 gives common power t and root equation t1 without primitivity."
+    },
+    {
+      "check": 14,
+      "author_obligation": "IC-14",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Q-Frobenius injective gives a^h=b^h=1; h1 impossible."
+    },
+    {
+      "check": 15,
+      "author_obligation": "IC-15",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Expansion (a+z)(a^Q+z^Q)^h omits exponents2..Q-1 also Q2."
+    },
+    {
+      "check": 16,
+      "author_obligation": "IC-16",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Q+1 coefficient (ab)^(-Q) nonzero; next term2Q>Q+1."
+    },
+    {
+      "check": 17,
+      "author_obligation": "IC-17",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "gamma0 iff a^Q b=b^Q a iff a^Q=a; exact trichotomy."
+    },
+    {
+      "check": 18,
+      "author_obligation": "IC-18",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Odd contact>1 exactlyQ+1, fixes valuation rather than only lower bound."
+    },
+    {
+      "check": 19,
+      "author_obligation": "IC-19",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Full-degree specialization; homogenization absolutely irreducible,no Z factor."
+    },
+    {
+      "check": 20,
+      "author_obligation": "IC-20",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Normalization distinguishes primes; total degrees give whole homogeneous product."
+    },
+    {
+      "check": 21,
+      "author_obligation": "IC-21",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Nonzero X^(n-1)Y numerator at Z0 ensures full degree; both divisibilities."
+    },
+    {
+      "check": 22,
+      "author_obligation": "IC-22",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Frobenius labels alpha\u00b2; X^q Z coefficient alpha gives exact field."
+    },
+    {
+      "check": 23,
+      "author_obligation": "IC-23",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Orbit-product F2 irreducibility via invariant subset; target quotient descends."
+    },
+    {
+      "check": 24,
+      "author_obligation": "IC-24",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "ONE prime gives exact odd contact q+1 hence s=k and both order divisibilities."
+    },
+    {
+      "check": 25,
+      "author_obligation": "IC-25",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Odd lcm m_alpha divides odd part; no unjustified q-1 replacement."
+    },
+    {
+      "check": 26,
+      "author_obligation": "IC-26",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Exhaustive prime product makes mismatched valuation a complete gcd exclusion."
+    },
+    {
+      "check": 27,
+      "author_obligation": "IC-27",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "L-1=t odd quotient; all t2ell,r>=1 including t2/r1."
+    },
+    {
+      "check": 28,
+      "author_obligation": "IC-28",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Different-q exclusion applies every later target, no non-base component claim."
+    },
+    {
+      "check": 29,
+      "author_obligation": "IC-29",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Squarefree occurrence and coprime cofactor, r1 unit, no new exponent."
+    },
+    {
+      "check": 30,
+      "author_obligation": "IC-30",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "S/T invertible F2 maps preserve numerator AND R for every n."
+    },
+    {
+      "check": 31,
+      "author_obligation": "IC-31",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Boundary specialization/unique primes gives normalized formulas incl reciprocal scalar."
+    },
+    {
+      "check": 32,
+      "author_obligation": "IC-32",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Six actual functions have no admissible poles; commute sigma/preserve exact degree."
+    },
+    {
+      "check": 33,
+      "author_obligation": "IC-33",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Fixed-point equations give H orbit2 on F4 minusF2 and6 otherwise."
+    },
+    {
+      "check": 34,
+      "author_obligation": "IC-34",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "k2 and k3 transitive, exact F8/F4 intersection used."
+    },
+    {
+      "check": 35,
+      "author_obligation": "IC-35",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "k5 fifth-power/freeness proves all30 distinct orbit elements without scan."
+    },
+    {
+      "check": 36,
+      "author_obligation": "IC-36",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Composite field strata plus prime size bound exhaust all other k."
+    },
+    {
+      "check": 37,
+      "author_obligation": "IC-37",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Transitivity forces all DISTINCT primes; whole quotient overF2."
+    },
+    {
+      "check": 38,
+      "author_obligation": "IC-38",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Exact accepted KC whole-domain iff only after saturation; GK supplies reverse."
+    },
+    {
+      "check": 39,
+      "author_obligation": "IC-39",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "q8 two27 and q32 six165 factors, proper by total degrees, every odd target."
+    },
+    {
+      "check": 40,
+      "author_obligation": "IC-40",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Published base factorizations not novel; failure excludes no unrelated factors."
+    },
+    {
+      "check": 41,
+      "author_obligation": "IC-41",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "q16 degree2/degree4 partition2/12, free H gives two six-orbits."
+    },
+    {
+      "check": 42,
+      "author_obligation": "IC-42",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "sigma fixed H orbit implies h4=id then sigma2 fixed contradicts degree4."
+    },
+    {
+      "check": 43,
+      "author_obligation": "IC-43",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Frobenius factors34 and3*68; combined actions give precisely A/B saturation blocks."
+    },
+    {
+      "check": 44,
+      "author_obligation": "IC-44",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Nontrivial valuation4; order3 and primitive15 give separate necessary conditions."
+    },
+    {
+      "check": 45,
+      "author_obligation": "IC-45",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "AB exact KC progression; proper A/B not proved/excluded or inferred from nontransitivity."
+    },
+    {
+      "check": 46,
+      "author_obligation": "IC-46",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Published1207.5528v1 Lemma1(b) and proof read, old distinct-base subcase attributed."
+    },
+    {
+      "check": 47,
+      "author_obligation": "IC-47",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Old constructor/reviewer roles disclosed; root broad pointer not new construction."
+    },
+    {
+      "check": 48,
+      "author_obligation": "IC-48",
+      "verdict": "PASS within exact scope",
+      "reconstruction": "Official positive-degree lift endpoints and unresolved general/priority gaps explicit; no math code."
+    }
+  ],
+  "whole_author_obligations": 48,
+  "substantive_issues": 0,
+  "repair_required": false,
+  "peer_IC_findings_read": false
+}

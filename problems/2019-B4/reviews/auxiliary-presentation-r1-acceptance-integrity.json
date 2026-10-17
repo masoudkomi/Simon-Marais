@@ -1,0 +1,66 @@
+{
+  "verified_at_utc": "2026-10-17T17:54:25.014152+00:00",
+  "all_verified": true,
+  "record_occurrences": 2169,
+  "unique_paths": 1395,
+  "inputs": [
+    {
+      "metadata": {
+        "path": "problems/2019-B4/notes/auxiliary-presentation-r1-freeze-v1.json",
+        "bytes": 1705,
+        "sha256": "114dabe97999c84e37687c3e88b7e8f65080f93ac3477ab708e99712d0ffcbb5"
+      },
+      "record_occurrences_verified": 5
+    },
+    {
+      "metadata": {
+        "path": "problems/2019-B4/notes/auxiliary-presentation-r1-integrity-v1.json",
+        "bytes": 3972,
+        "sha256": "3149dbf648fad530b756b778175874cd53d911d7478df13b9f1cfce6d2f4e3d1"
+      },
+      "record_occurrences_verified": 20
+    },
+    {
+      "metadata": {
+        "path": "problems/2019-B4/reviews/auxiliary-presentation-r1-review-1-manifest-v1.json",
+        "bytes": 3352,
+        "sha256": "db33ac733a1bb5321ab6fc059357e48d8162d19165d4bf40dbd14f26379230c4"
+      },
+      "record_occurrences_verified": 7
+    },
+    {
+      "metadata": {
+        "path": "problems/2019-B4/reviews/auxiliary-presentation-r1-review-1-input-validation-v1.json",
+        "bytes": 349045,
+        "sha256": "8e16e569a73a5c7ebb69c5f0f75115bbcc05f6f546d2c9b00399e6bb2ffc65f2"
+      },
+      "record_occurrences_verified": 1727
+    },
+    {
+      "metadata": {
+        "path": "problems/2019-B4/reviews/auxiliary-presentation-r1-review-2-manifest-v1.json",
+        "bytes": 3194,
+        "sha256": "9050e6b9373c873012f8aeb668b9c9a89306273aaaefcff4ed923440021e5d50"
+      },
+      "record_occurrences_verified": 7
+    },
+    {
+      "metadata": {
+        "path": "problems/2019-B4/reviews/auxiliary-presentation-r1-review-2-input-validation-v1.json",
+        "bytes": 81759,
+        "sha256": "a3a55eb45c957e79618c53bb24052abe9872cbbc83dbdf8dd109b466d3eafbda"
+      },
+      "record_occurrences_verified": 403
+    },
+    {
+      "metadata": {
+        "path": "problems/2019-B4/reviews/secondpass-acceptance.json",
+        "bytes": 2679,
+        "sha256": "66e98c9c9eb36ce02c87c69532a0e930be8bd4a4f0eec5e043ecd5f6bf068d6b"
+      },
+      "record_occurrences_verified": 0
+    }
+  ],
+  "exact_rows_bound_in_immutable_inputs": true,
+  "administrative_only": true
+}

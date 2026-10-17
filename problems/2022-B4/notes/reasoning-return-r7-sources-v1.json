@@ -1,0 +1,104 @@
+{
+  "recorded_at_utc": "2026-10-17T16:30:04.606004+00:00",
+  "status": "candidate proof - unverified",
+  "requested_model": "gpt-6.1-sol",
+  "requested_reasoning": "max",
+  "verified_effective_settings": null,
+  "primary_actual_reads": [
+    {
+      "name": "Official2022 Paper B, B4(b)",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2022-paper-b.pdf",
+      "read": "Complete B4 actual domain and(b), simultaneous updates and product600; no preliminary proof research",
+      "role": "Official problem only"
+    },
+    {
+      "name": "Dubickas2009, Acta Arithmetica137,233--239",
+      "url": "https://www.impan.pl/shop/publication/transaction/download/product/82938",
+      "doi": "10.4064/aa137-3-4",
+      "read": "Intro, Theorems1/3 statements and written Theorem1 proof throughp237; concluding context only",
+      "limit": "SINGLE closed circular interval and1<q<p<q². Not applicable to disconnected J; no Sturmian extension imported",
+      "role": "Failed-bridge scope check, not a premise of R7A--D"
+    },
+    {
+      "name": "Kari--Kopra2017, RAIRO51(4),191--204",
+      "url": "https://www.numdam.org/item/10.1051/ita/2017014.pdf",
+      "alternative_version": "https://arxiv.org/pdf/1710.05737",
+      "doi": "10.1051/ita/2017014",
+      "read": "Intro encoding definitions, complete published Theorem4.9/Cor4.11 written proofs pp199--200, Theorem5.9 statement/proof and conclusions",
+      "limit": "Existential small supporting unions and other forbidden unions do not identify J or the even/odd phase restriction; complete CA/ergodicity proof audit not claimed",
+      "role": "Attribution of measure-only obstruction, not R7A--D proof premise"
+    },
+    {
+      "name": "Akiyama--Frougny--Sakarovitch author rational-base PDF",
+      "url": "https://perso.telecom-paristech.fr/jsaka/PUB/Files/RBNS-rev.pdf",
+      "read": "Finite-word convention and complete Proposition37/Corollary38 proofs pp21--22",
+      "limit": "Integer bound parameter and p>=2q-1 respected; no no-tenfold theorem at11/10, no complete thirty-page fresh audit",
+      "role": "Published representation method attribution; direct accepted F5 supplies specialized finite language"
+    },
+    {
+      "name": "Primary recent rational-base v2, arXiv2510.11723",
+      "url": "https://arxiv.org/html/2510.11723v2",
+      "read": "Section3.3 definitions, Conjecture3.9, Prop3.10 proof, Remark3.11, Question3.12 and Prop3.13 proof",
+      "limit": "Normality/two-expansion conjectures and proper-residue termination remain conjectural/conditional here",
+      "role": "Open-bridge status check, no arithmetic exclusion imported"
+    },
+    {
+      "name": "Dubickas--Mossinghoff2009, Lower bounds for Z-numbers, author upload",
+      "url": "https://www.researchgate.net/publication/220576840_Lower_bounds_for_Z-numbers",
+      "read": "Intro proper-residue question, complete Lemma3.1/Propositions3.1--3.2 statements and written proofs, adjacent binary-series/countability context",
+      "limit": "Proved singleton case does not cover two residues0/9; conditional direction not a proved hypothesis",
+      "role": "Classical residue/countability context, not R7 termination"
+    }
+  ],
+  "discovery_or_access_limits": [
+    {
+      "url": "https://www.mscand.dk/article/download/15004/12999/34505",
+      "result": "Web tool InternalError; no completed retrieval, cache identity, binary hash or theorem read claimed"
+    },
+    {
+      "doi": "10.1002/mana.200510651",
+      "result": "Publisher abstract/discovery only; full paper not retrieved; no theorem imported"
+    }
+  ],
+  "complete_accepted_F5_R6_bodies_and_scopes_read": true,
+  "other_R3_R4_relevant_sections_only_freshly_consulted": true,
+  "local_context_fingerprints_not_independent_theorem_recertification": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2022-B4/statement.md",
+      "bytes": 1195,
+      "sha256": "2011761509ac42d5ffa2ab9e86dd1db464618707443a68f43fb3e45f59ed36c0"
+    },
+    {
+      "path": "problems/2022-B4/proofs/reviewed-reasoning-return-r5-v1.1.md",
+      "bytes": 30324,
+      "sha256": "1a2544cb8ced3bba9cc6efed1870c242c652b3e6029f39881028d4637d7c6da6"
+    },
+    {
+      "path": "problems/2022-B4/proofs/reviewed-reasoning-return-r6-v1.1.md",
+      "bytes": 18580,
+      "sha256": "696cfaf139c3ce1cfccc17ca1643e378a4ad70bedd91374f24a82b4fe95daf8d"
+    },
+    {
+      "path": "problems/2022-B4/proofs/reviewed-return-r3-v1.1.md",
+      "bytes": 26823,
+      "sha256": "c4b734830e9706fa5553e21fcadfa2b15c912b909ec15511066ccd5e8672c6be"
+    },
+    {
+      "path": "problems/2022-B4/proofs/reviewed-rational-base-shadow-return-v1.1.md",
+      "bytes": 27405,
+      "sha256": "f58c75a8bc975ab49073bf03ac5db4a55fa9b65458c2a61f4f5fd40b9be1be6e"
+    },
+    {
+      "path": "problems/2022-B4/references.md",
+      "bytes": 2728,
+      "sha256": "44de188fba0723c7930c584f6b05f22b5088eeda7f3d7b8d3fd03d2401daaf18"
+    }
+  ],
+  "new_native_PDF_download_or_live_text_binary_hash_claim": false,
+  "third_party_redistribution_licence_or_priority_claim": false
+}

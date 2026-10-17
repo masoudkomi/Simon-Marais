@@ -1,0 +1,74 @@
+{
+  "frozen_at_utc": "2026-10-17T16:34:01.221754+00:00",
+  "reviewer": "/root/review_2022_complexity_r2",
+  "status": "complete initially blind whole R1; no substantive defect found; no promotion",
+  "requested_model": "gpt-6.1-sol",
+  "requested_reasoning_effort": "max",
+  "independently_verified_effective_settings": null,
+  "constructor_target_main": {
+    "path": "problems/2019-B4/notes/auxiliary-presentation-r1-candidate-v1.md",
+    "bytes": 8849,
+    "sha256": "a0cc010860ee21155239421bef44e95e3ce2cec84be6796a9e067b39afcf4372"
+  },
+  "constructor_target_freeze": {
+    "path": "problems/2019-B4/notes/auxiliary-presentation-r1-freeze-v1.json",
+    "bytes": 1705,
+    "sha256": "114dabe97999c84e37687c3e88b7e8f65080f93ac3477ab708e99712d0ffcbb5"
+  },
+  "whole_claims_reviewed": [
+    "AF1 finite-generator transport for arbitrary finite monoid presentation",
+    "AF2 no finite presentation of actual even M0 on any finite alphabet and precise rewriting/trace consequences"
+  ],
+  "all10_constructor_obligations_covered": true,
+  "complete_reviewer_inference_checks": 24,
+  "substantive_issues_identified": 0,
+  "author_repair_requested": false,
+  "initial_frozen_before_any_new_AF_peer_findings": true,
+  "new_AF_nonconstructor_independence_and_old_roles_disclosed": true,
+  "actual_even_homomorphism_identity_and_odd_phase_firewall_preserved": true,
+  "accepted_fixed_generator_result_not_rediscovered_or_repaired": true,
+  "external_classical_attribution_actual_bounded_read_scopes_preserved": true,
+  "embedding_transducer_regular_cross_section_growth_value_or_novelty_exclusion_claim": false,
+  "mathematical_program_scan_CAS_certificate_source_algorithm_or_author_rerun": false,
+  "source_document_fingerprint_occurrences_verified": 2063,
+  "input_unique_paths_verified": 1368,
+  "repeated_historical_rows_deduplicated_with_immutable_source_references": true,
+  "older_own_unique_frozen_paths_preserved": 307,
+  "old_shared_Git_cache_other_owner_edits_spawning_contact_charge_bypass": false,
+  "direct_weekly_telemetry": {
+    "at_utc": "2026-10-17 16:29:42 UTC",
+    "total_used_percent": 51,
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "ordinary_usage_allowed": true,
+    "total_ceiling_percent": 90,
+    "integration_reserve": true
+  },
+  "records": [
+    {
+      "path": "problems/2019-B4/reviews/auxiliary-presentation-r1-review-1-initial-v1.md",
+      "bytes": 13546,
+      "sha256": "75b4bd6b9549f1e91fd626159db5556a343b7f97677a149fd53daf5c49749a38"
+    },
+    {
+      "path": "problems/2019-B4/reviews/auxiliary-presentation-r1-review-1-issues-v1.md",
+      "bytes": 9390,
+      "sha256": "80b94f0f1fbdc04f6d4cdb539d79b3753a8b2c66421ec83c64521d06b61485b5"
+    },
+    {
+      "path": "problems/2019-B4/reviews/auxiliary-presentation-r1-review-1-source-checks-v1.md",
+      "bytes": 7750,
+      "sha256": "854a256c1baadb653719409980187f42337213883c8dd495b7521478a8753be0"
+    },
+    {
+      "path": "problems/2019-B4/reviews/auxiliary-presentation-r1-review-1-freeze-v1.py",
+      "bytes": 11422,
+      "sha256": "2e15685ef1d29257bfe1d5706fff93e494aa36eca97ba13e8609e6be38d2b793"
+    },
+    {
+      "path": "problems/2019-B4/reviews/auxiliary-presentation-r1-review-1-input-validation-v1.json",
+      "bytes": 349045,
+      "sha256": "8e16e569a73a5c7ebb69c5f0f75115bbcc05f6f546d2c9b00399e6bb2ffc65f2"
+    }
+  ]
+}

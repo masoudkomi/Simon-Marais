@@ -1,0 +1,94 @@
+{
+  "accepted_at_utc": "2026-10-17T17:56:02.600481+00:00",
+  "status": "proved, independently reviewed scoped partial result",
+  "whole_initials_blind": true,
+  "root_read_full_candidate_both_reports_all_ledgers_sources": true,
+  "unresolved_substantive_issues": 0,
+  "repair_required": false,
+  "candidate": {
+    "path": "problems/2024-B4/notes/reasoning-components-r1-candidate-v1.md",
+    "bytes": 24588,
+    "sha256": "21a23e6dedf5531b23c004e78cc4bf54253e356fa29676d97a9ae6e23d5bee48"
+  },
+  "accepted_copy": {
+    "path": "problems/2024-B4/proofs/reviewed-reasoning-components-r1-v1.1.md",
+    "bytes": 27459,
+    "sha256": "43f095a4286919a32db16298ae6ddde016f9ee10de9394c45584c69ca186fe36"
+  },
+  "verification_metadata": [
+    {
+      "path": "problems/2024-B4/notes/reasoning-components-r1-freeze-v1.json",
+      "bytes": 3689,
+      "sha256": "1c2ac7f2322f7e83d62cfbb563c312eca75aa536448e875f849c9b2195ffd5e9"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-components-r1-input-validation-v1.json",
+      "bytes": 154029,
+      "sha256": "7babd6039aa29df860b8ee1e7a45a887ed5f24d72cf8e701ebc3a8784edc7eaf"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-components-r1-sources-v1.json",
+      "bytes": 11596,
+      "sha256": "96eed758282db4d706bfac75e04869136285dee37f73c7e9c971d33d6d9178f9"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-components-r1-authority-hash-only-addendum-v1.json",
+      "bytes": 3673,
+      "sha256": "3aac70a9a54b40f00087007562de109d9325419190e65aecbea9bae76c9b7133"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-components-r1-review-1-manifest-v1.json",
+      "bytes": 3081,
+      "sha256": "84039b76f17d02ceb2ad6619e573489e22749d7a1d7bfa988cbb1f0a16db1f54"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-components-r1-review-1-integrity-v1.json",
+      "bytes": 2236,
+      "sha256": "0153115f0ee771925e33dd3d38961efae7567f5154bed46374cf28ebc744baaf"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-components-r1-review-2-manifest-v1.json",
+      "bytes": 3599,
+      "sha256": "4c82042830db3d3e45a602a96c4ae9680804c48f994c563e39c8aeff53d0f956"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-components-r1-review-2-input-validation-v1.json",
+      "bytes": 219785,
+      "sha256": "066ab3aeb52d9e278b4335ef7a4feee885e8c484bb7ac147ecc2578a992d9890"
+    },
+    {
+      "path": "problems/2024-B4/reviews/Kasami-whole-criterion-acceptance.json",
+      "bytes": 3104,
+      "sha256": "d191f7c685c2e02065aebd2b63aac39f007aa04ec5f58253b3ee3da918a452f4"
+    },
+    {
+      "path": "problems/2024-B4/reviews/generalized-Kasami-acceptance.json",
+      "bytes": 5168,
+      "sha256": "c580e2e51475b46283b16c47992a625fc3437c0a0a4669c63394f6a5bafbbf67"
+    }
+  ],
+  "record_occurrences_verified": 1758,
+  "unique_paths_verified": 910,
+  "constructor": "/root/review_2021_reasoning_j15_r2",
+  "reviewers": [
+    "coordinator root",
+    "/root/review_2017_coarsening_r1"
+  ],
+  "root_generic_assignment_source_pointer_no_new_inference": true,
+  "whole_inference_checks": [
+    48,
+    48
+  ],
+  "all_author_obligations": 48,
+  "J_primary_coauthor_statement_verified_original1993_proof_unread": true,
+  "IC1_source_free_others_exact_J_dependency": true,
+  "legacy_hash_only_authority_addendum_bound": true,
+  "claims": [
+    "IC1 global squarefreeness and exact boundary contact",
+    "IC2 individual valuation and every different-q target obstruction",
+    "IC3 exact transitive cases and all-target individual iff via KC",
+    "IC4 exact two q16 saturation blocks with proper occurrences unresolved"
+  ],
+  "annual_answer_new_qualifying_family_or_novelty_claim": false,
+  "no_mathematical_program_CAS_or_scan": true
+}

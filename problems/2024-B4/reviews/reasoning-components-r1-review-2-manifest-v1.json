@@ -1,0 +1,79 @@
+{
+  "frozen_at_utc": "2026-10-17T17:54:48.123432+00:00",
+  "status": "COMPLETE initially blind NONCONSTRUCTOR WHOLE IC R2; no substantive scoped defect or required repair; coordinator reconciliation pending",
+  "reviewer": "/root/review_2017_coarsening_r1",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "target": {
+    "path": "problems/2024-B4/notes/reasoning-components-r1-candidate-v1.md",
+    "bytes": 24588,
+    "sha256": "21a23e6dedf5531b23c004e78cc4bf54253e356fa29676d97a9ae6e23d5bee48"
+  },
+  "target_manifest": {
+    "path": "problems/2024-B4/notes/reasoning-components-r1-freeze-v1.json",
+    "bytes": 3689,
+    "sha256": "1c2ac7f2322f7e83d62cfbb563c312eca75aa536448e875f849c9b2195ffd5e9"
+  },
+  "separate_administrative_addendum": {
+    "path": "problems/2024-B4/notes/reasoning-components-r1-authority-hash-only-addendum-v1.json",
+    "bytes": 3673,
+    "sha256": "3aac70a9a54b40f00087007562de109d9325419190e65aecbea9bae76c9b7133"
+  },
+  "whole_author_obligations": 48,
+  "independent_inference_rows": 48,
+  "open_substantive_issues": 0,
+  "required_author_repairs": 0,
+  "reviewer_NEW_IC_constructor_or_contributor": false,
+  "OLD_CP_authorship_and_older_review_roles_disclosed_not_self_recertification": true,
+  "complete_IC1_IC2_IC3_IC4_and_every_boundary_reconstructed": true,
+  "exact_cofactor_unit_contact_not_lower_bound_and_individual_to_whole_order_checked": true,
+  "ordinary_F2_orbits_mixed_q_every_index_and_q16_proper_gaps_retained": true,
+  "published_J_coauthor_statement_verified_original1993_proof_unread": true,
+  "no_annual_new_qualifying_family_or_novelty_claim": true,
+  "new_IC_peer_root_findings_read_before_complete_initial_freeze": false,
+  "declared_author_fingerprint_occurrences_verified": 741,
+  "declared_author_unique_paths_verified": 570,
+  "explicit_hash_only_declarations_verified": 2,
+  "author_older_packet_metadata_count": 60,
+  "earlier_frozen_context_records_verified_unchanged": 367,
+  "mathematical_program_CAS_scan_source_certificate_or_author_rerun": false,
+  "last_direct_weekly_telemetry": {
+    "at_utc": "2026-10-17 17:53:46UTC",
+    "total_used_percent": 52,
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "total_ceiling_percent": 90,
+    "review_integration_reserve": true
+  },
+  "administrative_command": "/Users/uqmkamga/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 problems/2024-B4/reviews/reasoning-components-r1-review-2-freeze-v1.py",
+  "artifacts": [
+    {
+      "path": "problems/2024-B4/reviews/reasoning-components-r1-review-2-initial-v1.md",
+      "bytes": 18671,
+      "sha256": "920b81beeb5a2ffab9f0279ae95725626427dc92a7329da512620979e5d2378d"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-components-r1-review-2-issues-v1.md",
+      "bytes": 13383,
+      "sha256": "bd20d4e8cb88a459febc844c42b3883d4cb2aa2574698e8c4c3ae91b3f80efdb"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-components-r1-review-2-source-checks-v1.md",
+      "bytes": 7677,
+      "sha256": "4635c5da6a1d93c06b940a80988b2ea1ff3c2de7962a96471a055f1f126c79a1"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-components-r1-review-2-freeze-v1.py",
+      "bytes": 10740,
+      "sha256": "748d22ac3b46a7cc0d48a5aa245a0362e57a83d296b538133d1708356e24b9cd"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-components-r1-review-2-input-validation-v1.json",
+      "bytes": 219785,
+      "sha256": "066ab3aeb52d9e278b4335ef7a4feee885e8c484bb7ac147ecc2578a992d9890"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "frozen_at_utc": "2026-10-17T16:34:15.762985+00:00",
+  "status": "COMPLETE initially blind WHOLE AF R2; no substantive scoped defect or required repair; coordinator reconciliation pending",
+  "reviewer": "/root/review_2017_coarsening_r1",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "target": {
+    "path": "problems/2019-B4/notes/auxiliary-presentation-r1-candidate-v1.md",
+    "bytes": 8849,
+    "sha256": "a0cc010860ee21155239421bef44e95e3ce2cec84be6796a9e067b39afcf4372"
+  },
+  "target_manifest": {
+    "path": "problems/2019-B4/notes/auxiliary-presentation-r1-freeze-v1.json",
+    "bytes": 1705,
+    "sha256": "114dabe97999c84e37687c3e88b7e8f65080f93ac3477ab708e99712d0ffcbb5"
+  },
+  "whole_author_obligations": 10,
+  "independent_inference_rows": 16,
+  "open_substantive_issues": 0,
+  "required_author_repairs": 0,
+  "reviewer_NEW_AF_constructor_or_contributor": false,
+  "OLD_linear_output_authorship_CCL_review_roles_disclosed": true,
+  "complete_maps_two_congruence_inclusions_rigidity_application_and_consequences_reconstructed": true,
+  "empty_identity_generators_both_rewrite_directions_arbitrary_contexts_and_lengths_checked": true,
+  "no_annual_growth_value_regularity_algebraicity_embedding_or_novelty_claim": true,
+  "new_AF_peer_findings_read_before_initial_freeze": false,
+  "declared_author_fingerprint_occurrences_verified": 25,
+  "declared_author_unique_paths_verified": 22,
+  "old_acceptance_dictionary_records_verified": 14,
+  "earlier_frozen_context_records_verified_unchanged": 361,
+  "mathematical_program_CAS_scan_source_certificate_or_author_rerun": false,
+  "last_direct_weekly_telemetry": {
+    "at_utc": "2026-10-17 about16:25--16:26UTC",
+    "total_used_percent": 51,
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "total_ceiling_percent": 90,
+    "review_integration_reserve": true
+  },
+  "administrative_command": "/Users/uqmkamga/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 problems/2019-B4/reviews/auxiliary-presentation-r1-review-2-freeze-v1.py",
+  "artifacts": [
+    {
+      "path": "problems/2019-B4/reviews/auxiliary-presentation-r1-review-2-initial-v1.md",
+      "bytes": 11070,
+      "sha256": "47d20a0d806d70ebcbd56d4125470dcaba477e37093c01e2149c31748c017a5c"
+    },
+    {
+      "path": "problems/2019-B4/reviews/auxiliary-presentation-r1-review-2-issues-v1.md",
+      "bytes": 5480,
+      "sha256": "d37c98240ca7283d9bd5e64f6a5192bd34138d3534e9dbcfaa78670bc2dd96ea"
+    },
+    {
+      "path": "problems/2019-B4/reviews/auxiliary-presentation-r1-review-2-source-checks-v1.md",
+      "bytes": 3480,
+      "sha256": "eac8aab0042a78213e9e520d936746fe7d84505389f09ffa7a38aba76c134fc0"
+    },
+    {
+      "path": "problems/2019-B4/reviews/auxiliary-presentation-r1-review-2-freeze-v1.py",
+      "bytes": 8267,
+      "sha256": "fa3485889e89c42f4f60ab97e51388d1abe8e22f7a4155872177be35be7c3b13"
+    },
+    {
+      "path": "problems/2019-B4/reviews/auxiliary-presentation-r1-review-2-input-validation-v1.json",
+      "bytes": 81759,
+      "sha256": "a3a55eb45c957e79618c53bb24052abe9872cbbc83dbdf8dd109b466d3eafbda"
+    }
+  ]
+}

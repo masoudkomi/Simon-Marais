@@ -1,0 +1,93 @@
+{
+  "recorded_at_utc": "2026-10-17T16:38:03.282666+00:00",
+  "administrative_only_no_math_or_status_change": true,
+  "reason": "The legacy divisor authority declares path plus SHA256 without bytes. The frozen main verifier recognizes full path/bytes/SHA and old path-to-hash maps; this separate addendum completes the two hash-only declarations without modifying the frozen packet.",
+  "frozen_initial_manifest_preserved": {
+    "path": "problems/2024-B4/notes/reasoning-components-r1-freeze-v1.json",
+    "bytes": 3689,
+    "sha256": "1c2ac7f2322f7e83d62cfbb563c312eca75aa536448e875f849c9b2195ffd5e9"
+  },
+  "all_nine_frozen_artifacts_unchanged": [
+    {
+      "path": "problems/2024-B4/notes/reasoning-components-r1-candidate-v1.md",
+      "bytes": 24588,
+      "sha256": "21a23e6dedf5531b23c004e78cc4bf54253e356fa29676d97a9ae6e23d5bee48",
+      "matches": true
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-components-r1-obligations-v1.md",
+      "bytes": 8467,
+      "sha256": "569feeae5bff730d8c43b3110ade0871d14afd43cfb2385897e443dc31c923da",
+      "matches": true
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-components-r1-failed-routes-v1.md",
+      "bytes": 7258,
+      "sha256": "8025de6e0701112ca200d30d4767a88b2b224706934f494617a3269a636315b2",
+      "matches": true
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-components-r1-source-audit-v1.md",
+      "bytes": 7878,
+      "sha256": "ce403ce617f219cebb60ec6324a6259fc2112babe38217e357ded05269ec835e",
+      "matches": true
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-components-r1-worklog-v1.md",
+      "bytes": 8367,
+      "sha256": "9cfd08e0cbe995a0f6ba17c31122413fc86f4b13d7590ef1689ef93b722456ee",
+      "matches": true
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-components-r1-sources-v1.json",
+      "bytes": 11596,
+      "sha256": "96eed758282db4d706bfac75e04869136285dee37f73c7e9c971d33d6d9178f9",
+      "matches": true
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-components-r1-freeze-v1.py",
+      "bytes": 10115,
+      "sha256": "95e69b385356686f0b5f81e2e3c720ff65358e3a905f036e957992a0c15fe250",
+      "matches": true
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-components-r1-input-validation-v1.json",
+      "bytes": 154029,
+      "sha256": "7babd6039aa29df860b8ee1e7a45a887ed5f24d72cf8e701ebc3a8784edc7eaf",
+      "matches": true
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-components-r1-freeze-output-v1.json",
+      "bytes": 1276,
+      "sha256": "e6321d9a3640d1892401b7efc0f3f63c01ca044cbc697e649e5d65df0c002472",
+      "matches": true
+    }
+  ],
+  "additional_hash_only_authority_records_checked": [
+    {
+      "authority": {
+        "path": "problems/2024-B4/reviews/divisor-acceptance.json",
+        "bytes": 2767,
+        "sha256": "1d9cc87c94486538087eeaa895ff3dabd76c918424fdcfead620c3b12693eeb9"
+      },
+      "hash_only_records_checked": [
+        {
+          "path": "problems/2024-B4/notes/divisor-reasoning-r2-candidate-v1.md",
+          "bytes": 16935,
+          "sha256": "48d2ca76b3492584b38d8798650e078c7c9771fea97bae8db4d7cd51b21e2fc4",
+          "matches": true
+        },
+        {
+          "path": "problems/2024-B4/proofs/reviewed-divisor-criteria-v1.1.md",
+          "bytes": 17334,
+          "sha256": "3afbf3eda795ecfcf6989ef6ec855e5c7e795f26f5a84effe8c4bd73ffeb4ed3",
+          "matches": true
+        }
+      ]
+    }
+  ],
+  "all_checks_passed": true,
+  "original_math_source_boundaries_and_candidate_unverified_status_unchanged": true,
+  "requires_two_OTHER_fresh_initially_blind_WHOLE_audits": true,
+  "no_old_file_mutation": true
+}

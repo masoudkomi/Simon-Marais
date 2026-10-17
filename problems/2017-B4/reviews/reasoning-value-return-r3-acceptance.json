@@ -1,0 +1,64 @@
+{
+  "accepted_at_utc": "2026-10-17T16:28:32.198210+00:00",
+  "status": "proved, independently reviewed scoped partial result",
+  "whole_initials_blind": true,
+  "root_read_full_candidate_both_reports_all_ledgers_sources": true,
+  "unresolved_substantive_issues": 0,
+  "repair_required": false,
+  "candidate": {
+    "path": "problems/2017-B4/notes/reasoning-value-return-r3-candidate-v1.md",
+    "bytes": 22915,
+    "sha256": "e76949699e6f6bfbcf58a4f0c8a8f7e3affa903a92dc5ec61b92887e4fe07bff"
+  },
+  "accepted_copy": {
+    "path": "problems/2017-B4/proofs/reviewed-reasoning-value-return-r3-v1.1.md",
+    "bytes": 25476,
+    "sha256": "33918a64abe7766e982479b1e99fd1df0bf6bf00a25e7d50a3f028623a7d6e07"
+  },
+  "verification_metadata": [
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r3-freeze-v1.json",
+      "bytes": 3565,
+      "sha256": "d638920197fdda4767a14d94072347361c3a53373c0c2e0242333199335152e5"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r3-input-validation-v1.json",
+      "bytes": 131790,
+      "sha256": "453c8d5dda98a37a0e4eccb856e3ecb091731930a8c3ee998e81e9426c02a2c0"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r3-sources-v1.json",
+      "bytes": 5177,
+      "sha256": "07862c0a5859a0ac89a2aecec30716e0279108d7c96e78fce1ce957caa60234f"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r3-review-1-manifest-v1.json",
+      "bytes": 3222,
+      "sha256": "e7cc9ec6c7ad009668f74636cb86d44aa7fa458bc2148a4b7d9f8f4714d2946c"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r3-review-2-manifest-v1.json",
+      "bytes": 3394,
+      "sha256": "f286838bef70e2b2b67848c150d13d5e57ac8f94ba247dc0e2e3a4bf7d4d8e30"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r3-review-2-input-validation-v1.json",
+      "bytes": 344659,
+      "sha256": "4186a2d9e6993c3b6a329a2e91f18006631c2d3a3da8817c24393c7f24ed95e6"
+    }
+  ],
+  "record_occurrences_verified": 2244,
+  "unique_paths_verified": 1365,
+  "constructor": "/root/review_2021_reasoning_j15_r2",
+  "whole_reviewers": [
+    "coordinator root",
+    "/root/review_2022_complexity_r2"
+  ],
+  "constructor_obligations": 40,
+  "whole_checks": [
+    40,
+    52
+  ],
+  "annual_problem_solved": false,
+  "exact_value_effective_rate_or_novelty_claim": false
+}
