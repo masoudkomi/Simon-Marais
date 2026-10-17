@@ -1,0 +1,150 @@
+{
+  "checked_at_utc": "2026-10-17T20:11:11.009321+00:00",
+  "administrative_only_not_mathematical_evidence": true,
+  "constructor_metadata": {
+    "path": "problems/2019-B4/notes/coordinator-retained-core-gap-r1-freeze-v1.json",
+    "bytes": 1965,
+    "sha256": "d2ea714f15cc653c044943a0485bfd0908fa0279b350c07a42a811ff9b4f0681"
+  },
+  "constructor_5_artifacts_verified": true,
+  "constructor_inputs_metadata": {
+    "path": "problems/2019-B4/notes/coordinator-retained-core-gap-r1-inputs-v1.json",
+    "bytes": 4308,
+    "sha256": "10e1005b76a9e8445a81a31bab767a6d6d3fbd1dcf5e515367df65c30f939f91"
+  },
+  "constructor19_current_records_verified": true,
+  "constructor_current_canonical_sha256": "df8d088e43ef8cdba4d5d34f2e4750ff0776cb2db333adb5bbcefee10c63ccaf",
+  "accepted_CG_parent_metadata": {
+    "path": "problems/2019-B4/reviews/coordinator-cap-gap-r1-acceptance.json",
+    "bytes": 3048,
+    "sha256": "81e32cb11a1eb61330534c179097958f31701755eba0804624a5678ae08a569a"
+  },
+  "accepted_CG11_direct_declared_fingerprints_verified": true,
+  "accepted_CG_historical_summary_bound_not_freshly_expanded": {
+    "occurrences": 168,
+    "unique_paths": 72
+  },
+  "old_secondpass_acceptance_metadata": {
+    "path": "problems/2019-B4/reviews/secondpass-acceptance.json",
+    "bytes": 2679,
+    "sha256": "66e98c9c9eb36ce02c87c69532a0e930be8bd4a4f0eec5e043ecd5f6bf068d6b"
+  },
+  "old_secondpass14_declared_hashes_verified": true,
+  "old_thirdpass_acceptance_metadata": {
+    "path": "problems/2019-B4/reviews/thirdpass-acceptance.json",
+    "bytes": 1972,
+    "sha256": "a15e724834992260d040295c402953f7aa65a903f656aafae7b3ea61ca1f0606"
+  },
+  "old_thirdpass7_declared_fingerprints_verified": true,
+  "additional_accepted_scope_fingerprints": [
+    {
+      "path": "problems/2019-B4/proof.md",
+      "bytes": 10500,
+      "sha256": "58f140f1fe9c64aa77d04a9c80a76f13411264d09d5f9e908f8e0997dc6985e2"
+    },
+    {
+      "path": "problems/2019-B4/reviews/thirdpass-acceptance.md",
+      "bytes": 2856,
+      "sha256": "3aa35ed0db260b45394676681426fa5c504e7414d9bbad143ac1eed65ffb105f"
+    },
+    {
+      "path": "problems/2019-B4/reviews/moment-tail-acceptance.md",
+      "bytes": 1912,
+      "sha256": "d3647718f04eb1a67dce90b5ffb103cdefc4400dc86d64103e828a199b6e064e"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-return-r7-candidate-v1.md",
+      "bytes": 14206,
+      "sha256": "22ab005f7f66f90f194b79cf79520b77983a67716a53f04f1c401bfed646d96f"
+    }
+  ],
+  "previous_own_review_metadata": {
+    "path": "problems/2017-B4/reviews/reasoning-value-return-r5-review-2-manifest-v1.json",
+    "bytes": 3805,
+    "sha256": "11741a6e3049d5dafa6403ec18d109b711bef40996662eb78932db6877842f79"
+  },
+  "previous_own_review8_payloads_verified": true,
+  "previous_own_review_compact_summary": {
+    "declared_fingerprint_occurrences_verified": 72,
+    "unique_paths_fingerprinted": 52,
+    "canonical_deduplicated_summary_sha256": "a8d76993e9a1fb154a42ed830386f80a01219380ea0f091663b3af15cbb2443f",
+    "historical_inventories_bound_not_duplicated": true,
+    "constructor_baseline_occurrences_verified": 33,
+    "constructor_baseline_unique_paths_verified": 32
+  },
+  "all28_ledger_checks": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07",
+    "08",
+    "09",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28"
+  ],
+  "all16_author_obligations": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07",
+    "08",
+    "09",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16"
+  ],
+  "compact_input_summary": {
+    "declared_fingerprint_occurrences_verified": 73,
+    "unique_paths_fingerprinted": 60,
+    "canonical_deduplicated_summary_sha256": "ec5e53313609e30934e398cdb8820cba4b35bb4c53574976a9586e3d79fc030b",
+    "historical_inventories_bound_not_duplicated": true,
+    "constructor_current19_records_verified": true
+  },
+  "new_C_RC_peer_material_read_even_for_metadata": false,
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "independently_verified_effective_settings": null,
+  "authoritative_account_weekly": {
+    "at_utc": "2026-10-17 20:09:51 UTC",
+    "total_used_percent": 62,
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "ordinary_usage_allowed": true,
+    "total_ceiling_percent": 90,
+    "integration_reserve": true
+  },
+  "source_metadata": {
+    "path": "problems/2019-B4/reviews/coordinator-retained-core-gap-r1-review-1-sources-v1.json",
+    "bytes": 2272,
+    "sha256": "b467a109775a835a018ae5326a91e74fa0ba658277dbd7170561fe5219aa5b00"
+  }
+}

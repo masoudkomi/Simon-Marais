@@ -6,7 +6,7 @@ Initial scope: nine official B4 open portions, 2017-2025. **2026 deferred by the
 |---|---|
 |2017|Scalar limit exists, value unknown, upper<0.649514 and certified LOWER approximations. NEW GR1--GR4 accepted: EVERY-p full admissible-profile realization with explicit geometric error after both40/56 WHOLE checks. EntropyMASS/upperR/value remain open.|
 |2018|COMPLETE general enumeration formula, independently reviewed and attributed to Hering--Howard/Ottaviani. This is a published-result reproduction.|
-|2019|NEW accepted1.765224<lambda<1.834847. CG1--CG4 give exact asymmetric minimum widths, actual omitted rigid-tail series and strict quantitative cap-gap floors after BOTH OTHER WHOLE24-obligation audits. Exact value/renewal regime remain open.|
+|2019|NEW retained-core accepted1.765224<lambda<1.834843. Actual retained-word derivative and missing-mass gap sharpen the cap bound after BOTH OTHER WHOLE audits. CG1--CG4 give exact asymmetric minimum widths, actual omitted rigid-tail series and strict quantitative cap-gap floors after BOTH OTHER WHOLE24-obligation audits. Exact value/renewal regime remain open.|
 |2020|NEW R7 accepted after both WHOLE56-obligation audits: complete integral Fourier lift, prime-modulus norm iff and exact ideal/composite-gluing obstructions. Actual classification and solving the norm/integrality conditions remain open.|
 |2021|NEW R10 accepted after both52/52 WHOLE audits: restricted actual-double degree20/m7/endpoint branch narrows to t>=2 or nu1/depth14 exception, with actual simple tail gcds. Remaining degree20/general classification open.|
 |2022|R8 accepted after both WHOLE audits: exact canonical prefix mergers, actual q2 predecessor counterexample, and separate binary-past/A-B phase obstructions. Literal scaling claim only for positive multipliers. No ordinary q10 infinite survivor or termination theorem.|
@@ -176,3 +176,8 @@ Five new exact partial packets accepted after both complete blind WHOLE audits a
 ## Checkpoint2026-10-17 20:06UTC
 
 [All-nine status and usage](status-2026-10-17-2006.md).2017GR/2021R10/2025R8 now accepted after both OTHER complete blind WHOLE audits/full root reconciliation. Two annual answers unchanged. New2019retained-core upper1.834843 remainsUNVERIFIED with A/Cwholeauditsactive;acceptedupper1.834847.62%TOTALweekly;raw1,372,405,268incl1,299,407,104cached;uncached+output72,998,164;reasoning4,465,483 is an outputsubset. Researchcontinues.
+
+
+## Current checkpoint 2026-10-17T20:20:27.709426+00:00
+
+[All-nine status and tokens](status-2026-10-17-2020.md).2019retained-core upper1.834843 now accepted after both OTHER whole audits/full reconciliation;100 fingerprint occurrences/61paths.2024three-bit TB1--TB4 frozen UNVERIFIED with two OTHER whole audits queued.2017R6/2020R8/2021R11 actual reasoning continues through owner checkpoints. Two complete annual answers2018/2023 unchanged.63%TOTAL weekly,27ppbefore90%;recorded uncached+output74196498. Owned awake remains active.

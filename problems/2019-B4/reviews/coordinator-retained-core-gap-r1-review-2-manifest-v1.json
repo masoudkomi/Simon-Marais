@@ -1,0 +1,80 @@
+{
+  "frozen_at_utc": "2026-10-17T20:08:08.382407+00:00",
+  "status": "COMPLETE initially blind WHOLE retained-core gap R2 initial",
+  "reviewer": "/root/review_2017_coarsening_r1",
+  "new_constructor": "/root",
+  "target_main": {
+    "path": "problems/2019-B4/notes/coordinator-retained-core-gap-r1-candidate-v1.md",
+    "bytes": 6152,
+    "sha256": "9bea48691719c0384e0a027131e6db1fad83ddd0572e8ae59578f72d71431b42"
+  },
+  "target_freeze": {
+    "path": "problems/2019-B4/notes/coordinator-retained-core-gap-r1-freeze-v1.json",
+    "bytes": 1965,
+    "sha256": "d2ea714f15cc653c044943a0485bfd0908fa0279b350c07a42a811ff9b4f0681"
+  },
+  "whole_obligations": 16,
+  "all_five_constructor_artifacts_and_exact_accepted_inputs_covered": true,
+  "new_peer_RC_reports_findings_and_metadata_unread_until_entire_initial_frozen": true,
+  "old_CG_hand_method_role_disclosed_no_self_recertification": true,
+  "verdict": "no substantive defect in exact scoped retained-core estimate and hand endpoint",
+  "substantive_issues": 0,
+  "required_repairs": 0,
+  "record_occurrences_verified": 53,
+  "deduplicated_paths_verified": 37,
+  "compact_immutable_own_parent": {
+    "path": "problems/2025-B4/reviews/reasoning-return-r8-review-2-manifest-v1.json",
+    "bytes": 3375,
+    "sha256": "0567ac1077215e74c85e88bbae3477f414b7d202f20e9f1acec600dbfbd8c73d"
+  },
+  "earlier_own_paths_preserved": 455,
+  "mathematical_code_CAS_scan_sign_child_or_author_rerun": false,
+  "no_exact_rate_annual_renewal_regime_matching_scale_or_novelty_claim": true,
+  "artifacts": [
+    {
+      "path": "problems/2019-B4/reviews/coordinator-retained-core-gap-r1-review-2-initial-v1.md",
+      "bytes": 10218,
+      "sha256": "620ecae8ec068fb82a527d25177275a5f7fc940e3f9427a1dcd5c08461091962"
+    },
+    {
+      "path": "problems/2019-B4/reviews/coordinator-retained-core-gap-r1-review-2-issues-v1.md",
+      "bytes": 1519,
+      "sha256": "4e37d2107ce42619cde9bfee37baf0c232ebd38ba023043ae9dad33c30dbbbdf"
+    },
+    {
+      "path": "problems/2019-B4/reviews/coordinator-retained-core-gap-r1-review-2-ledger-v1.md",
+      "bytes": 3436,
+      "sha256": "5f653b19f626929de8cfb4c6322de20f2e19f206d9b32cd5ef8ad1fbfbe6e49b"
+    },
+    {
+      "path": "problems/2019-B4/reviews/coordinator-retained-core-gap-r1-review-2-sources-v1.md",
+      "bytes": 4080,
+      "sha256": "a0a8b60e40337cf267fe69fd281340f4bbf5dec74b6b9b912065c3cc53e16788"
+    },
+    {
+      "path": "problems/2019-B4/reviews/coordinator-retained-core-gap-r1-review-2-worklog-v1.md",
+      "bytes": 2967,
+      "sha256": "56d63c8c0b9b060cbc6f12c2cef3f41bd9b43a9d8177b2e1e1dd03e7eced2ae9"
+    },
+    {
+      "path": "problems/2019-B4/reviews/coordinator-retained-core-gap-r1-review-2-baseline-v1.json",
+      "bytes": 9191,
+      "sha256": "cb69ab892d87c1b6787950d704b0f6514cd6a7e07b39958eeaaf50b4fbc1f992"
+    },
+    {
+      "path": "problems/2019-B4/reviews/coordinator-retained-core-gap-r1-review-2-metadata-v1.json",
+      "bytes": 999,
+      "sha256": "6f06714466a8053fc17c076329a3de683f034fb54407b917d621d907df5522fe"
+    },
+    {
+      "path": "problems/2019-B4/reviews/coordinator-retained-core-gap-r1-review-2-input-validation-v1.json",
+      "bytes": 578,
+      "sha256": "dd94d085201cec9f98f388a001036323d1e96d5f98ad6d5816dabbbd5a1c446c"
+    },
+    {
+      "path": "problems/2019-B4/reviews/coordinator-retained-core-gap-r1-review-2-freeze-v1.py",
+      "bytes": 7394,
+      "sha256": "570fd0bab30ceb97a83e5ce32fefc06df5b39d6b4e256f0c441489b9765183a7"
+    }
+  ]
+}

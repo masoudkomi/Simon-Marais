@@ -1,0 +1,74 @@
+{
+  "verified_at_utc": "2026-10-17T20:15:00.700949+00:00",
+  "all_verified": true,
+  "record_occurrences": 100,
+  "unique_paths": 61,
+  "inputs": [
+    {
+      "metadata": {
+        "path": "problems/2019-B4/notes/coordinator-retained-core-gap-r1-freeze-v1.json",
+        "bytes": 1965,
+        "sha256": "d2ea714f15cc653c044943a0485bfd0908fa0279b350c07a42a811ff9b4f0681"
+      },
+      "record_occurrences_verified": 6
+    },
+    {
+      "metadata": {
+        "path": "problems/2019-B4/notes/coordinator-retained-core-gap-r1-inputs-v1.json",
+        "bytes": 4308,
+        "sha256": "10e1005b76a9e8445a81a31bab767a6d6d3fbd1dcf5e515367df65c30f939f91"
+      },
+      "record_occurrences_verified": 20
+    },
+    {
+      "metadata": {
+        "path": "problems/2019-B4/reviews/coordinator-retained-core-gap-r1-review-1-manifest-v1.json",
+        "bytes": 3766,
+        "sha256": "f05ab8b1f3ce97acfcb020906b774655531402fbcf390f6b0eb748fbd7a4ae3d"
+      },
+      "record_occurrences_verified": 8
+    },
+    {
+      "metadata": {
+        "path": "problems/2019-B4/reviews/coordinator-retained-core-gap-r1-review-1-input-validation-v1.json",
+        "bytes": 4715,
+        "sha256": "525c74ac20cbcd76a4c866c076c7caa7777a286267ad07bed05150698a268f50"
+      },
+      "record_occurrences_verified": 11
+    },
+    {
+      "metadata": {
+        "path": "problems/2019-B4/reviews/coordinator-retained-core-gap-r1-review-1-sources-v1.json",
+        "bytes": 2272,
+        "sha256": "b467a109775a835a018ae5326a91e74fa0ba658277dbd7170561fe5219aa5b00"
+      },
+      "record_occurrences_verified": 0
+    },
+    {
+      "metadata": {
+        "path": "problems/2019-B4/reviews/coordinator-retained-core-gap-r1-review-2-manifest-v1.json",
+        "bytes": 3495,
+        "sha256": "c53e1f875b1c3cc6c2b3dbae1492829cdf9ef7778e96c249e3027cb92edb316d"
+      },
+      "record_occurrences_verified": 12
+    },
+    {
+      "metadata": {
+        "path": "problems/2019-B4/reviews/coordinator-retained-core-gap-r1-review-2-baseline-v1.json",
+        "bytes": 9191,
+        "sha256": "cb69ab892d87c1b6787950d704b0f6514cd6a7e07b39958eeaaf50b4fbc1f992"
+      },
+      "record_occurrences_verified": 42
+    },
+    {
+      "metadata": {
+        "path": "problems/2019-B4/reviews/coordinator-retained-core-gap-r1-review-2-input-validation-v1.json",
+        "bytes": 578,
+        "sha256": "dd94d085201cec9f98f388a001036323d1e96d5f98ad6d5816dabbbd5a1c446c"
+      },
+      "record_occurrences_verified": 1
+    }
+  ],
+  "exact_rows_bound_in_immutable_inputs": true,
+  "administrative_only": true
+}

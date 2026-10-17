@@ -1,0 +1,236 @@
+{
+  "recorded_at_utc": "2026-10-17T20:06:04.754587+00:00",
+  "administrative_only": true,
+  "assigned_prefix_confirmed_unused_before_this_helper": true,
+  "current_record_occurrences_verified": 53,
+  "current_deduplicated_paths_verified": 37,
+  "metadata_sources": [
+    {
+      "metadata": {
+        "path": "problems/2019-B4/notes/coordinator-retained-core-gap-r1-freeze-v1.json",
+        "bytes": 1965,
+        "sha256": "d2ea714f15cc653c044943a0485bfd0908fa0279b350c07a42a811ff9b4f0681"
+      },
+      "fingerprint_occurrences": 6
+    },
+    {
+      "metadata": {
+        "path": "problems/2019-B4/notes/coordinator-retained-core-gap-r1-inputs-v1.json",
+        "bytes": 4308,
+        "sha256": "10e1005b76a9e8445a81a31bab767a6d6d3fbd1dcf5e515367df65c30f939f91"
+      },
+      "fingerprint_occurrences": 20
+    },
+    {
+      "metadata": {
+        "path": "problems/2019-B4/reviews/coordinator-cap-gap-r1-acceptance.json",
+        "bytes": 3048,
+        "sha256": "81e32cb11a1eb61330534c179097958f31701755eba0804624a5678ae08a569a"
+      },
+      "fingerprint_occurrences": 11
+    },
+    {
+      "metadata": {
+        "path": "problems/2025-B4/reviews/reasoning-return-r8-review-2-manifest-v1.json",
+        "bytes": 3375,
+        "sha256": "0567ac1077215e74c85e88bbae3477f414b7d202f20e9f1acec600dbfbd8c73d"
+      },
+      "fingerprint_occurrences": 12
+    }
+  ],
+  "records": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-cap-gap-r1-candidate-v1.md",
+      "bytes": 11796,
+      "sha256": "0e8afb24ec9e58004ee9464de327b309d834058b277eae4a2608d0d7afde5f33"
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-cap-gap-r1-freeze-v1.json",
+      "bytes": 3669,
+      "sha256": "9b3751764cb2ba0177f3b8ff9e5f90721acf134f3e92c42cf4be67e5179d3d49"
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-cap-gap-r1-input-validation-v1.json",
+      "bytes": 5007,
+      "sha256": "1ecbf080c5c76d14315b33e3d40dd8e933cdb2f414b41daeb9f4a633f58e0e99"
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-cap-gap-r1-sources-v1.json",
+      "bytes": 1393,
+      "sha256": "f55e8ebf3f95884bcdaef2dac38dafb95f08588010120e483270f87547865e39"
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-retained-core-gap-r1-candidate-v1.md",
+      "bytes": 6152,
+      "sha256": "9bea48691719c0384e0a027131e6db1fad83ddd0572e8ae59578f72d71431b42"
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-retained-core-gap-r1-freeze-v1.json",
+      "bytes": 1965,
+      "sha256": "d2ea714f15cc653c044943a0485bfd0908fa0279b350c07a42a811ff9b4f0681"
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-retained-core-gap-r1-freeze-v1.py",
+      "bytes": 4311,
+      "sha256": "e230cda4c18b7f62000bbf0a1eee8bed0778d57f984fc72dd87a5c3b6b14640e"
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-retained-core-gap-r1-inputs-v1.json",
+      "bytes": 4308,
+      "sha256": "10e1005b76a9e8445a81a31bab767a6d6d3fbd1dcf5e515367df65c30f939f91"
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-retained-core-gap-r1-obligations-v1.md",
+      "bytes": 2501,
+      "sha256": "cdbd6a999dc1b63a1dc874f15b0a0434a74426647c0e0d9c56a2b4a6614675d7"
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-retained-core-gap-r1-source-audit-v1.md",
+      "bytes": 3423,
+      "sha256": "07f348eb1caaac95a413e905c6132862a540a7419ab23a71e7eb1d7aac55c6a7"
+    },
+    {
+      "path": "problems/2019-B4/proofs/reviewed-cap-gap-v1.1.md",
+      "bytes": 15013,
+      "sha256": "b803cff97e245abb7a087597e28aa8920b8f3933a03ea8df6f82d6a90d70136e"
+    },
+    {
+      "path": "problems/2019-B4/proofs/reviewed-moment-tail-v1.1.md",
+      "bytes": 9630,
+      "sha256": "b9d934da65eedf4514ef7883e29dda98ee846982e89c8e3ee677f2c96bff2ee8"
+    },
+    {
+      "path": "problems/2019-B4/proofs/reviewed-thirdpass-v1.1.md",
+      "bytes": 16255,
+      "sha256": "58462ad7e44a7d3477d086a663cdb127128c5adcae65d6a904f1fdaa7e862cbf"
+    },
+    {
+      "path": "problems/2019-B4/reviews/coordinator-cap-gap-r1-acceptance-integrity.json",
+      "bytes": 2765,
+      "sha256": "e3f5272ecd4f5aa936ca730727eb9bbe49a6d5b634acb42f21a98a09d5912edd"
+    },
+    {
+      "path": "problems/2019-B4/reviews/coordinator-cap-gap-r1-acceptance.json",
+      "bytes": 3048,
+      "sha256": "81e32cb11a1eb61330534c179097958f31701755eba0804624a5678ae08a569a"
+    },
+    {
+      "path": "problems/2019-B4/reviews/coordinator-cap-gap-r1-acceptance.md",
+      "bytes": 3315,
+      "sha256": "ef58050c23f6eda6c6579101fb0814a780f66784fee6662cc852a31a0c63a2ba"
+    },
+    {
+      "path": "problems/2019-B4/reviews/coordinator-cap-gap-r1-review-1-baseline-v1.json",
+      "bytes": 14154,
+      "sha256": "39f13443796fd5bed1e4861f1251f9c12a69275c1bc29ecf45b0418eb3c9583a"
+    },
+    {
+      "path": "problems/2019-B4/reviews/coordinator-cap-gap-r1-review-1-initial-v1.md",
+      "bytes": 11936,
+      "sha256": "eea936efda43e03f67f0980d75c8b182712c5e91a9b95637979223ed8d4d9d2f"
+    },
+    {
+      "path": "problems/2019-B4/reviews/coordinator-cap-gap-r1-review-1-input-validation-v1.json",
+      "bytes": 682,
+      "sha256": "89d77f5fe0bd9e918e18c8d6c53909f392400bbab57fdff0250cca8726ed6e8d"
+    },
+    {
+      "path": "problems/2019-B4/reviews/coordinator-cap-gap-r1-review-1-manifest-v1.json",
+      "bytes": 3126,
+      "sha256": "c482bb0b681d7ff110ecfc4eea97370fbf1dac041e8f84196f0758d8638df400"
+    },
+    {
+      "path": "problems/2019-B4/reviews/coordinator-cap-gap-r1-review-2-input-validation-v1.json",
+      "bytes": 11444,
+      "sha256": "0a5c91c235bed3b0a49da0dd0f36a8c7a2466e0a70cb3bdc5ec54ee2c333cb80"
+    },
+    {
+      "path": "problems/2019-B4/reviews/coordinator-cap-gap-r1-review-2-manifest-v1.json",
+      "bytes": 5859,
+      "sha256": "12fd86248b4303504a4abb7480d8b3affbc62c99380d64aeae1316b902d00543"
+    },
+    {
+      "path": "problems/2019-B4/reviews/coordinator-cap-gap-r1-review-2-sources-v1.json",
+      "bytes": 7140,
+      "sha256": "bac3b35f236f0e0f76e6a1736a662bf2a635c9a40baff4210fb91ed1c0cdf203"
+    },
+    {
+      "path": "problems/2019-B4/statement.md",
+      "bytes": 1252,
+      "sha256": "53d4201dca8bc4a77d995e3df14f95dd146e2df0c82d3b6447ad35a348e89de9"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r8-candidate-v1.md",
+      "bytes": 25033,
+      "sha256": "2688587a44e9c161c7bb2bcdc6eecfb474c231ab9542572aaec5e9ed557a9b8d"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r8-freeze-v1.json",
+      "bytes": 4298,
+      "sha256": "a68ae37d1d5b9f0b209629e6d2027da1ad0fe8d8e6d889b6e261bc0f5a8cff04"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r8-review-2-baseline-v1.json",
+      "bytes": 24735,
+      "sha256": "1bdb079f3c843a53a3b39db43975746d4511f48d1b2dc4caf9a75682df3d3662"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r8-review-2-freeze-v1.py",
+      "bytes": 7552,
+      "sha256": "eb36ad5ecf2ae0d028b5b46e6c1cb24ea842ad705194d90c4ed2bb25a0df4b4a"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r8-review-2-initial-v1.md",
+      "bytes": 15561,
+      "sha256": "e1012f0f4bb43cada70fcc5f8b5cb0fa3399575282b4aefd2038db8cc3656aaa"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r8-review-2-input-validation-v1.json",
+      "bytes": 738,
+      "sha256": "69d8728c74701b3fc5dc97a98d2e19c2b4fa0d89bf024e574d761c2325390709"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r8-review-2-issues-v1.md",
+      "bytes": 1547,
+      "sha256": "bff133f51bb095fec8e6374b8945d08583e633d45bb4a4c46b94d27dff85bbd0"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r8-review-2-ledger-v1.md",
+      "bytes": 7522,
+      "sha256": "06f7b2eb13f9db811f72132a4178d0598532f2be9de392b647da507e43653dfb"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r8-review-2-manifest-v1.json",
+      "bytes": 3375,
+      "sha256": "0567ac1077215e74c85e88bbae3477f414b7d202f20e9f1acec600dbfbd8c73d"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r8-review-2-metadata-v1.json",
+      "bytes": 1593,
+      "sha256": "b8aed1b12c89994ebac32da5ce454714060c49e00cb4f1d09d952de701b7b4af"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r8-review-2-sources-v1.md",
+      "bytes": 6286,
+      "sha256": "1e06f850169f34c1eb2ca23525f4cc35d4e4f58beca16f8d3270871c62a9ffd9"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r8-review-2-worklog-v1.md",
+      "bytes": 3809,
+      "sha256": "fea2a358dcdff4c8585d5103c17bb76e5aa0119ea2a5943d52e2df93816a50f2"
+    }
+  ],
+  "compact_immutable_own_parent": {
+    "path": "problems/2025-B4/reviews/reasoning-return-r8-review-2-manifest-v1.json",
+    "bytes": 3375,
+    "sha256": "0567ac1077215e74c85e88bbae3477f414b7d202f20e9f1acec600dbfbd8c73d"
+  },
+  "earlier_own_paths_bound_by_parent": 455,
+  "historical_inventory_not_recopied_or_claimed_freshly_rehashed": true,
+  "new_peer_retained_core_report_findings_and_metadata_unread": true
+}
