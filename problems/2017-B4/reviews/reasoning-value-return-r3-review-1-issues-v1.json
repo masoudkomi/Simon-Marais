@@ -1,0 +1,249 @@
+{
+  "status": "COMPLETE initially blind WHOLE R1; no substantive scoped issue",
+  "constructor_obligations": 40,
+  "checks": [
+    {
+      "check": 1,
+      "author_obligation": "R3-01",
+      "verdict": "PASS within stated scope",
+      "reconstruction": "Official n>=2, fixed polygon and distinguished orientations; C1 auxiliary; counts are classes."
+    },
+    {
+      "check": 2,
+      "author_obligation": "R3-02",
+      "verdict": "PASS within stated scope",
+      "reconstruction": "Consecutive positive color blocks and prescribed full reversal only; no arbitrary recoloring."
+    },
+    {
+      "check": 3,
+      "author_obligation": "R3-03",
+      "verdict": "PASS within stated scope",
+      "reconstruction": "Exact DC/G/V/OP/U scopes checked; all-integer G limit accepted, effectiveness absent."
+    },
+    {
+      "check": 4,
+      "author_obligation": "R3-04",
+      "verdict": "PASS within stated scope",
+      "reconstruction": "New A construction/root broad assignment only; old DC/G and review roles disclosed."
+    },
+    {
+      "check": 5,
+      "author_obligation": "R3-05",
+      "verdict": "PASS within stated scope",
+      "reconstruction": "Occurrence IDs and forward relations define a finite acyclic heap; m1 empty."
+    },
+    {
+      "check": 6,
+      "author_obligation": "R3-06",
+      "verdict": "PASS within stated scope",
+      "reconstruction": "Commutations preserve IDs and every noncommuting order, hence the whole heap."
+    },
+    {
+      "check": 7,
+      "author_obligation": "R3-07",
+      "verdict": "PASS within stated scope",
+      "reconstruction": "Bring-first-element induction proves both directions between extensions and same class."
+    },
+    {
+      "check": 8,
+      "author_obligation": "R3-08",
+      "verdict": "PASS within stated scope",
+      "reconstruction": "Rank lists have indices r-1/r; each generating heap relation shares a rank and conversely."
+    },
+    {
+      "check": 9,
+      "author_obligation": "R3-09",
+      "verdict": "PASS within stated scope",
+      "reconstruction": "Actual OP1 common index used with prefix-SET necessary condition retained."
+    },
+    {
+      "check": 10,
+      "author_obligation": "R3-10",
+      "verdict": "PASS within stated scope",
+      "reconstruction": "Gap indices0..n-m nondecreasing along each list, hence on the full transitive closure."
+    },
+    {
+      "check": 11,
+      "author_obligation": "R3-11",
+      "verdict": "PASS within stated scope",
+      "reconstruction": "Q,A,f recover both ends and both-neighbor within-gap order; no shuffle multiplicity."
+    },
+    {
+      "check": 12,
+      "author_obligation": "R3-12",
+      "verdict": "PASS within stated scope",
+      "reconstruction": "Invariant subrecords inject on original classes; sum ACTUAL A, lower accepted section."
+    },
+    {
+      "check": 13,
+      "author_obligation": "R3-13",
+      "verdict": "PASS within stated scope",
+      "reconstruction": "Two-color projected grid unique; every A rank sees the same ordered external bundle."
+    },
+    {
+      "check": 14,
+      "author_obligation": "R3-14",
+      "verdict": "PASS within stated scope",
+      "reconstruction": "Actual B(1^m,a) injects into (A,f); exterior block has no internal class."
+    },
+    {
+      "check": 15,
+      "author_obligation": "R3-15",
+      "verdict": "PASS within stated scope",
+      "reconstruction": "Level-first extension exists because isotonicity forbids reverse-level relations."
+    },
+    {
+      "check": 16,
+      "author_obligation": "R3-16",
+      "verdict": "PASS within stated scope",
+      "reconstruction": "Current A block contiguous; each shifted internal swap and external bubble adjacent/valid."
+    },
+    {
+      "check": 17,
+      "author_obligation": "R3-17",
+      "verdict": "PASS within stated scope",
+      "reconstruction": "All pair crossing counts and final permutation give exact inversion length K_m+ma."
+    },
+    {
+      "check": 18,
+      "author_obligation": "R3-18",
+      "verdict": "PASS within stated scope",
+      "reconstruction": "At stage j all smoothed ranks have crossed exactly the same j external labels."
+    },
+    {
+      "check": 19,
+      "author_obligation": "R3-19",
+      "verdict": "PASS within stated scope",
+      "reconstruction": "DC injectivity removes extension multiplicity and separates distinct pairs (A,f)."
+    },
+    {
+      "check": 20,
+      "author_obligation": "R3-20",
+      "verdict": "PASS within stated scope",
+      "reconstruction": "a0,m1,a1 checked; zero block omitted and general-Q two-versus-three obstruction preserved."
+    },
+    {
+      "check": 21,
+      "author_obligation": "R3-21",
+      "verdict": "PASS within stated scope",
+      "reconstruction": "Both parity choices select exactly one end of each neighboring contact; q=floor(m/2)."
+    },
+    {
+      "check": 22,
+      "author_obligation": "R3-22",
+      "verdict": "PASS within stated scope",
+      "reconstruction": "Selected lists disjoint chains partition K_m with lengths x_(r-1)+x_r."
+    },
+    {
+      "check": 23,
+      "author_obligation": "R3-23",
+      "verdict": "PASS within stated scope",
+      "reconstruction": "Weak chain levels counted by binom(a+k,k); restrictions determine every event."
+    },
+    {
+      "check": 24,
+      "author_obligation": "R3-24",
+      "verdict": "PASS within stated scope",
+      "reconstruction": "Constant maps give C<=H with exactly one empty map at m1."
+    },
+    {
+      "check": 25,
+      "author_obligation": "R3-25",
+      "verdict": "PASS within stated scope",
+      "reconstruction": "Even1/2 and odd2/3 comparable cross-chain pair gives strict H<T for all stated sizes."
+    },
+    {
+      "check": 26,
+      "author_obligation": "R3-26",
+      "verdict": "PASS within stated scope",
+      "reconstruction": "Decreasing F ratios give submultiplicativity, positive adjacent counts strict T<V."
+    },
+    {
+      "check": 27,
+      "author_obligation": "R3-27",
+      "verdict": "PASS within stated scope",
+      "reconstruction": "Hand m2 and m3 formulas, a0 and m1 equalities all retained without scan."
+    },
+    {
+      "check": 28,
+      "author_obligation": "R3-28",
+      "verdict": "PASS within stated scope",
+      "reconstruction": "Balancing ratio positive, difference a(u-v-1)>=0; squared-length sum decreases."
+    },
+    {
+      "check": 29,
+      "author_obligation": "R3-29",
+      "verdict": "PASS within stated scope",
+      "reconstruction": "Exact integer means2t-1 and2t+1 yield bound; no balanced realizability asserted."
+    },
+    {
+      "check": 30,
+      "author_obligation": "R3-30",
+      "verdict": "PASS within stated scope",
+      "reconstruction": "Sparse invariant record has S selected ends and E_* named gaps including endpoints."
+    },
+    {
+      "check": 31,
+      "author_obligation": "R3-31",
+      "verdict": "PASS within stated scope",
+      "reconstruction": "OP1 restores unselected partners, full A fixes both-neighbor order; invalid records rejected."
+    },
+    {
+      "check": 32,
+      "author_obligation": "R3-32",
+      "verdict": "PASS within stated scope",
+      "reconstruction": "Gap counts are invariant subrecord of DC decoration and recover full original class."
+    },
+    {
+      "check": 33,
+      "author_obligation": "R3-33",
+      "verdict": "PASS within stated scope",
+      "reconstruction": "S>0 gives a selected track and E_*>=1; S0 one empty record avoids negative top."
+    },
+    {
+      "check": 34,
+      "author_obligation": "R3-34",
+      "verdict": "PASS within stated scope",
+      "reconstruction": "D1, all singleton, m1/a0 and auxiliary n1 checked; coarser bound need not be equality."
+    },
+    {
+      "check": 35,
+      "author_obligation": "R3-35",
+      "verdict": "PASS within stated scope",
+      "reconstruction": "Expanded exact parity identities give every normalization with only O_D(n) corrections."
+    },
+    {
+      "check": 36,
+      "author_obligation": "R3-36",
+      "verdict": "PASS within stated scope",
+      "reconstruction": "All-integer balanced B squeeze gives ell_D; actual internal scalar limits give L/D."
+    },
+    {
+      "check": 37,
+      "author_obligation": "R3-37",
+      "verdict": "PASS within stated scope",
+      "reconstruction": "Correct M=E_*+S-1 entropy inequality and endpoints yield g_D=h2(1/D)/2."
+    },
+    {
+      "check": 38,
+      "author_obligation": "R3-38",
+      "verdict": "PASS within stated scope",
+      "reconstruction": "D>1 rearrangement and replacement L<=U have correct signs."
+    },
+    {
+      "check": 39,
+      "author_obligation": "R3-39",
+      "verdict": "PASS within stated scope",
+      "reconstruction": "Negative G second derivative plus endpoints proves strictness; expansion gives limit1/2."
+    },
+    {
+      "check": 40,
+      "author_obligation": "R3-40",
+      "verdict": "PASS within stated scope",
+      "reconstruction": "Classical source hypotheses/read limits, finite strictness/mass distinction and unproved E/R retained."
+    }
+  ],
+  "substantive_issues": 0,
+  "repair_required": false,
+  "peer_findings_read": false
+}

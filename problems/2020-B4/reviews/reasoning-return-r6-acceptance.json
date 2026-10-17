@@ -1,0 +1,64 @@
+{
+  "accepted_at_utc": "2026-10-17T16:15:09.165200+00:00",
+  "status": "proved, independently reviewed scoped partial result",
+  "whole_initials_blind": true,
+  "root_read_full_candidate_both_reports_all_ledgers_sources": true,
+  "unresolved_substantive_issues": 0,
+  "repair_required": false,
+  "candidate": {
+    "path": "problems/2020-B4/notes/reasoning-return-r6-candidate-v1.md",
+    "bytes": 19423,
+    "sha256": "1c71e9225a8e7881a4a640cd420c4cac55d86ddd09f8538fabe7cb630099f24c"
+  },
+  "accepted_copy": {
+    "path": "problems/2020-B4/proofs/reviewed-reasoning-return-r6-v1.1.md",
+    "bytes": 22211,
+    "sha256": "472d1bb2676c7139512fe1c0f77793d430a10c06170c9aa811febdf0bec0fd13"
+  },
+  "verification_metadata": [
+    {
+      "path": "problems/2020-B4/notes/reasoning-return-r6-freeze-v1.json",
+      "bytes": 3821,
+      "sha256": "d0f3c1f2697af5198971034696c77cac542d3553bc429aab31c1ce7428605f29"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-return-r6-input-validation-v1.json",
+      "bytes": 70073,
+      "sha256": "83f80b9c2d2b902925d04f2a1dce6b4fb668772724db5c9474de8ca785429010"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-return-r6-sources-v1.json",
+      "bytes": 8810,
+      "sha256": "a9462320d871fd85a9d61244e6f0985acd9b68a03bdf5301136cc7a6bda41512"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-return-r6-review-1-manifest-v1.json",
+      "bytes": 2694,
+      "sha256": "cc7d1de40f58a753c6902210219111772b4e37c0acd67f1d4b0f5d62c40a609d"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-return-r6-review-2-manifest-v1.json",
+      "bytes": 3931,
+      "sha256": "c49b4b700bacce805a59e131d0f47ec0668fffaea4662a8b1b439ca120e1f841"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-return-r6-review-2-input-validation-v1.json",
+      "bytes": 331696,
+      "sha256": "40ee6ee675360ac5e63846f2e082e40b6e43e98676902150acf417a90182ccbe"
+    }
+  ],
+  "record_occurrences_verified": 2008,
+  "unique_paths_verified": 1287,
+  "constructor": "/root/review_2017_coarsening_r1",
+  "whole_reviewers": [
+    "coordinator root",
+    "/root/review_2022_complexity_r2"
+  ],
+  "constructor_obligations": 54,
+  "whole_checks": [
+    54,
+    65
+  ],
+  "annual_problem_solved": false,
+  "unrestricted_realization_or_novelty_claim": false
+}

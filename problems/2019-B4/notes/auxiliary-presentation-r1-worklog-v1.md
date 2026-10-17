@@ -1,0 +1,7 @@
+# Constructor checkpoint and metadata correction
+
+2026-10-17 UTC. Root constructed the complete candidate, ten obligations and source/failure record without mathematical code. All relevant mathematics and standard source attribution are in those records. Root had freshly read the complete accepted rigidity note/register/acceptance; the earlier source read is bounded as stated. No existing byte changed.
+
+The first administrative completion attempt guessed a nonexistent secondpass-acceptance-integrity.json name and exited1 after writing the three NEW mathematical text files, before writing integrity/freeze. Those three bytes are preserved. rg --files and the actual acceptance JSON showed that this older register uses an artifact-path-to-SHA dictionary rather than modern path/bytes/SHA rows. This completion checks its actual14 declared artifacts directly and records this schema difference. No mathematical conclusion or source theorem changed. The failed temporary constructor script was not rerun, and no old record was edited. This is an administrative correction, not an author proof repair or a completed scan.
+
+The final full packet freezes with candidate-only status; two OTHER initially blind WHOLE nonconstructors must audit all ten obligations and consequences before promotion. Exact lambda, renewal regime, full annual answer and novelty remain unresolved. No charge, contact, source bypass, Git action or native download occurred.

@@ -1,0 +1,34 @@
+{
+  "frozen_at_utc": "2026-10-17T16:12:25.353026+00:00",
+  "metadata_only_not_mathematical_evidence": true,
+  "exact_accepted_and_scope_records_checked": 7,
+  "authority_declared_fingerprint_counts": [
+    7,
+    9,
+    9,
+    9,
+    7
+  ],
+  "accepted_G_V_OP_raw_suffixes_unchanged": 3,
+  "complete_context_records_bound": 8,
+  "whole_audit_obligations": 40,
+  "older_own_packets_unchanged": 59,
+  "all_hash_checks_passed": true,
+  "claims": [
+    "HC1",
+    "HC2",
+    "HC3"
+  ],
+  "status": "candidate proof - unverified",
+  "requires_two_OTHER_fresh_initially_blind_whole_audits": true,
+  "latest_authoritative_weekly_usage": {
+    "at_utc": "2026-10-17 16:11:29 UTC (direct telemetry and UTC clock)",
+    "total_used_percent": 50,
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "total_ceiling_percent": 90,
+    "integration_reserve": true,
+    "ordinary_usage_allowed": true
+  },
+  "command": "python3 problems/2017-B4/notes/reasoning-value-return-r3-freeze-v1.py"
+}

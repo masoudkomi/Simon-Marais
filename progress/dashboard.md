@@ -7,7 +7,7 @@ Initial scope: nine official B4 open portions, 2017-2025. **2026 deferred by the
 |2017|The scalar growth limit exists; its exact value is unknown and the reviewed upper bound is below0.649514. NEW one-sided-port OP1–OP3 is accepted: it sharpens the direction approximation error to f_D+L/D, with D*f_D/log2(D) tending to1/2. It gives no effective finite-side rate or numerical value.|
 |2018|COMPLETE general enumeration formula, independently reviewed and attributed to Hering--Howard/Ottaviani. This is a published-result reproduction.|
 |2019|Reviewed bounds1.76522347<lambda<1.834856083. NEW DG exact half-offset walk/closed Frechet bridge, balanced all-m rate and exact probability identity are accepted after BOTH whole audits. They reformulate the SAME unknown lambda. R7/MR remain accepted; joining and actual moment regime remain unresolved.|
-|2020|NEW R5 coset equivalences, conditional classical normalizer, pair-sum/necessary matrix and exact-source flag reductions are accepted after both WHOLE audits. Saturation is EXTRA and the matrix is necessary only. Neither the nonsaturated cases nor the remaining nonclassical branch is classified. Full taut classification remains open.|
+|2020|NEW R6 accepted after BOTH complete WHOLE audits: exact coinvariant fiber energy retaining overlap, common-Baer numerical restriction, actual residual-kernel smallness and faithful logarithmic gap for s>12, and nonsquare modulo3 character bound. Actual-source limits retained. General taut classification and nonsaturated incidence/phase gap remain unresolved.|
 |2021|NEW R8 is accepted after BOTH whole audits: a restricted actual-double degree20 branch has an essential nonunit center, four weighted depths, or four rigid actual-witness cubic patterns. Origin change preserves/pairs the remaining patterns. None is excluded; degree20 and the general problem remain unresolved.|
 |2022|Reviewed sharp rational-base fibers/CONDITIONAL exact-nine theorem. NEW R6 finite-prime periodic cycles, arbitrary finite ordinary shadows and restricted-ranking obstruction are accepted after both WHOLE audits. No ordinary infinite avoiding lift or universal termination proof is supplied.|
 |2023|COMPLETE internally reviewed classification for fixed positive nonsquare N: all(k,k),k>0, and(k,2k),(2k,k) for positive odd k. Priority remains unestablished.|
@@ -153,3 +153,8 @@ Current all-nine/token report: [status-2026-10-17-1548.md](status-2026-10-17-154
 ## Checkpoint2026-10-17 16:05UTC
 
 2019DG and2021R8 now accepted after both COMPLETE blind whole audits and root full reconciliation; exact annual targets remain unresolved.2020R6 remains unverified/rootR1complete/otherR2active. New2017/2022 actual reasoning active. [All-nine report and token accounting](status-2026-10-17-1605.md). Direct weekly50%TOTAL; research continues with reserve.
+
+
+## Current checkpoint —2026-10-17 approximately16:26UTC
+
+[All-nine status and usage](status-2026-10-17-1626.md).2020R6 accepted after54/65 whole checks/ALL54 obligations and fullroot reconciliation.2017HC candidate has rootwholeR1 complete/otherR2active;2019AF candidate has twoOTHER whole audits queued. New2022ordinary dynamics/2024individual components research active. Two complete annual answers2018/2023 unchanged.51%TOTALweekly/39ppbefore90%;raw1,099,868,151total,57,910,007uncached+output;3,736,668reasoning is an output subset. Research continues.

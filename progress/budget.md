@@ -144,3 +144,6 @@ Current12:03UTCtransition:36%TOTALweeklyused,64%remaining,54ppbefore90%,samerese
 
 
 2026-10-17 16:05:02UTC: direct account50%TOTALweekly used/50%remaining/40ppbefore90%,same reset1792745187. Raw1,071,553,429total including1,014,621,056cachedinput,48,481,972uncachedinput,8,450,401output including3,649,391reasoning;uncached+output56,932,373.62sessions5998responses,allsumsmatch. Not billing or weeklyconversion. Ownedawakeverified01:55:16Brisbane,pmsetPID79293assertingforever,next16:55UTC. See status-2026-10-17-1605.md;continuewithreserve.
+
+
+2026-10-17 16:24:30UTC: direct accountmeter51%TOTALweekly used/49%remaining/39ppbefore90%,same reset1792745187. Raw16:25:21UTC1,099,868,151total including1,041,958,144cachedinput,49,279,135uncachedinput,8,630,872output including3,736,668reasoning;uncached+output57,910,007.62sessions6120responses,allrecordedsumsmatch. Not billing/weeklyconversion. Ownedawake lastverified01:55:16Brisbane,next16:55UTC. See status-2026-10-17-1626.md;research/reviewcontinueswithreserve.

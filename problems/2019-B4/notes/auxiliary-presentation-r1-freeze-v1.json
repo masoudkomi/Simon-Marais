@@ -1,0 +1,46 @@
+{
+  "frozen_at_utc": "2026-10-17T16:20:28.958188+00:00",
+  "status": "candidate proof - unverified",
+  "constructor": "coordinator root",
+  "requires_two_OTHER_initially_blind_nonconstructor_whole_audits": true,
+  "old_fixed_generator_obstruction_not_new": true,
+  "classical_Tietze_mechanism_attributed": true,
+  "claims": [
+    "AF1 finite-generator transport",
+    "AF2 no finite presentation of M0 on any finite alphabet and exact consequences"
+  ],
+  "obligations": 10,
+  "annual_solution_growth_value_novelty_or_computation_claim": false,
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "independent_effective_settings_readback": null,
+  "records": [
+    {
+      "path": "problems/2019-B4/notes/auxiliary-presentation-r1-candidate-v1.md",
+      "bytes": 8849,
+      "sha256": "a0cc010860ee21155239421bef44e95e3ce2cec84be6796a9e067b39afcf4372"
+    },
+    {
+      "path": "problems/2019-B4/notes/auxiliary-presentation-r1-obligations-v1.md",
+      "bytes": 1602,
+      "sha256": "7b495ec4f50cc89c4e2cea999433d49b4a7f39d043e16505e33a5fc36136e711"
+    },
+    {
+      "path": "problems/2019-B4/notes/auxiliary-presentation-r1-source-and-failures-v1.md",
+      "bytes": 1355,
+      "sha256": "deac68a3b79f85bcde682cccee51aac9de832344b4746c16b364969131a24e59"
+    },
+    {
+      "path": "problems/2019-B4/notes/auxiliary-presentation-r1-worklog-v1.md",
+      "bytes": 1453,
+      "sha256": "d09b1afb23fdf046921bf5354b233a04ba279ac68dadd528ffb0c773c0ace848"
+    },
+    {
+      "path": "problems/2019-B4/notes/auxiliary-presentation-r1-integrity-v1.json",
+      "bytes": 3972,
+      "sha256": "3149dbf648fad530b756b778175874cd53d911d7478df13b9f1cfce6d2f4e3d1"
+    }
+  ]
+}

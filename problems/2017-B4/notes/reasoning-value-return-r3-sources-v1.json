@@ -1,0 +1,50 @@
+{
+  "checked_on_utc": "2026-10-17",
+  "status": "candidate proof - unverified",
+  "constructor": "/root/review_2021_reasoning_j15_r2",
+  "requested_settings": {"model": "gpt-6.1-sol", "reasoning": "max"},
+  "verified_effective_settings": null,
+  "requires_two_OTHER_fresh_initially_blind_whole_nonconstructor_audits": true,
+  "primary_sources": [
+    {"title": "Official 2017 Paper B", "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2017-paper-2_1.pdf", "read_scope": "B4 page 2 definition and complete target", "role": "Official domain only", "binary_sha256": null},
+    {"title": "Official 2017 solution notes", "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2017-solutions-preliminary_1.pdf", "read_scope": "B4 comments page 12", "role": "Count convention only", "binary_sha256": null},
+    {"title": "Destainville--Mosseri--Bailly, Fixed-boundary octagonal random tilings: a combinatorial approach", "url": "https://arxiv.org/pdf/cond-mat/0004145v2", "version": "v2, 25 August 2000", "read_scope": "Sections 2.1--2.2, 3.1--3.2, stated theorem, selected Appendix A/B setup and D.1; not entire paper", "role": "Established projection/partition methodology; finite special inverse rederived here", "binary_sha256": null},
+    {"title": "Stanley, Two Poset Polytopes", "url": "https://math.mit.edu/~rstan/pubs/pubfiles/66.pdf", "publication": "Discrete Computational Geometry 1 (1986), 9--23", "read_scope": "Definition 1.1, Section 3 transfer-map theorem/proof and complete Section 4; not full paper", "role": "Classical finite weak order-polynomial context; no uniform asymptotics imported", "binary_sha256": null},
+    {"title": "Krattenthaler, The theory of heaps and the Cartier--Foata monoid", "url": "https://mat.univie.ac.at/~slc/books/cartfoa.pdf", "version": "Appendix in electronic 2006 reedition", "read_scope": "Edition metadata, Definition 2.2, composition definition and complete Section 3 of heap appendix; not full volume", "role": "Classical heap attribution; specialized equivalence proved directly", "binary_sha256": null},
+    {"title": "Felsner--Valtr, Coding and Counting Arrangements of Pseudolines", "url": "https://page.math.tu-berlin.de/~felsner/Paper/new-pla.pdf", "read_scope": "Opening marked/simple definitions, wiring/tiling and cutpath passage through Knuth bound; bounded later passages, not full paper", "role": "Coding context and unmatched insertion hypothesis, not an HC premise", "binary_sha256": null}
+  ],
+  "exact_accepted_and_scope_inputs": [
+    {"path": "AGENTS.md", "bytes": 4707, "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"},
+    {"path": "problems/2017-B4/statement.md", "bytes": 2140, "sha256": "e459750064b4e25e3eaa71f25f236c046548147e415b06d8bd097839020228f3"},
+    {"path": "problems/2017-B4/proofs/reviewed-direction-coarsening-v1.1.md", "bytes": 9175, "sha256": "98c04673acdb4c59d44eb4d977f844d3f01ef27365399982e02df8cbaa4a6241"},
+    {"path": "problems/2017-B4/proofs/reviewed-allD-global-v1.1.md", "bytes": 50352, "sha256": "47bc1477db5c54c0b40565460fb95a2a6a1c6da8368b054cbc9c61f1615ee14c"},
+    {"path": "problems/2017-B4/proofs/reviewed-global-value-return-v1.1.md", "bytes": 26930, "sha256": "34828173c86d84eeb863b40443ef6e1e7b6d24ac5a9b107fba036141165937d3"},
+    {"path": "problems/2017-B4/proofs/reviewed-global-value-return-r2-v1.1.md", "bytes": 25152, "sha256": "18db84b72cc680e6a337721f8b43f3940adf6c3c17a8ee20e9c4d43d38c4a342"},
+    {"path": "problems/2017-B4/proofs/reviewed-concavity-v1.1.md", "bytes": 10964, "sha256": "030245b179380b7ae90f64f07b3ebebed2a91f0edff5be1dd6e9fbf26ee22cc6"}
+  ],
+  "accepted_authority_paths": [
+    "problems/2017-B4/reviews/coarsening-acceptance.json",
+    "problems/2017-B4/reviews/allD-global-acceptance.json",
+    "problems/2017-B4/reviews/global-value-return-acceptance.json",
+    "problems/2017-B4/reviews/global-value-return-r2-acceptance.json",
+    "problems/2017-B4/reviews/concavity-acceptance.json"
+  ],
+  "complete_authority_md_and_context_read_paths": [
+    "problems/2017-B4/reviews/coarsening-acceptance.md",
+    "problems/2017-B4/reviews/allD-global-acceptance.md",
+    "problems/2017-B4/reviews/global-value-return-acceptance.md",
+    "problems/2017-B4/reviews/global-value-return-r2-acceptance.md",
+    "problems/2017-B4/reviews/concavity-acceptance.md",
+    "problems/2017-B4/notes/global-value-return-r2-source-checks-v1.md",
+    "problems/2017-B4/notes/coordinator-variational-literature-check-v1.md",
+    "problems/2017-B4/notes/deep-literature-r2-report-v1.md"
+  ],
+  "old_strict_LOCAL_authorship_and_G_whole_review_roles_disclosed": true,
+  "independent_recertification_of_own_old_work": false,
+  "root_broad_research_assignment_only_no_new_HC_proof_inference_contribution": true,
+  "actual_class_weighted_SUM_and_order_constraints_retained": true,
+  "mathematical_program_CAS_enumeration_scan_sampler_or_certificate_replay": false,
+  "new_native_download_source_wait_cache_edit_or_third_party_redistribution": false,
+  "Git_shared_old_byte_edit_spawning_charge_contact_or_bypass": false,
+  "exact_value_effective_side_length_rate_E_R_computability_annual_or_novelty_claim": false
+}
