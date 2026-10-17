@@ -1,0 +1,72 @@
+{
+  "frozen_at_utc": "2026-10-17T11:41:33.494487+00:00",
+  "status": "complete initially blind whole review 2; no substantive objection found; coordinator reconciliation required",
+  "reviewer": "/root/review_2017_coarsening_r1",
+  "constructor_of_MS1_to_MS5": false,
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "target": {
+    "path": "problems/2025-B4/notes/coordinator-diagonal-moment-candidate-v2.md",
+    "bytes": 7096,
+    "sha256": "dae1907e2c3afe744ede7ffc89321d560ebbfab326afd78786f30dac960fcb2f"
+  },
+  "target_manifest": {
+    "path": "problems/2025-B4/notes/coordinator-diagonal-moment-manifest-v1.json",
+    "bytes": 1545,
+    "sha256": "5d0d897d3ff89828e26d16919357bf0d283866bb3bb97b7aa9f1277b3a3d3654"
+  },
+  "whole_submitted_obligations_audited": 14,
+  "open_substantive_issues": 0,
+  "peer_findings_read_before_initial_freeze": false,
+  "prior_NV_initial_frozen_before_starting_this_separate_review": true,
+  "claims_reviewed": [
+    "MS1 reciprocal residue separation",
+    "MS2 Fourier faithfulness and cross-list sets",
+    "MS3 inverse moment sufficient for freeness",
+    "MS4 exact Fuchsian inverse moment",
+    "MS5 two concrete first-case elements at p>7"
+  ],
+  "second_case_selection_singular_system_cancellation_delta_or_Diophantine_exclusion_accepted": false,
+  "full_annual_classification_or_novelty_claim": false,
+  "mathematical_computation_or_CAS": false,
+  "earlier_unique_own_paths_verified_unchanged": 217,
+  "last_direct_weekly_telemetry": {
+    "at_utc": "2026-10-17 11:36:42 UTC",
+    "total_used_percent": 34,
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "total_ceiling_percent": 90,
+    "integration_reserve": true
+  },
+  "administrative_command": "/Users/uqmkamga/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 problems/2025-B4/reviews/diagonal-moment-review-2-freeze-v1.py",
+  "artifacts": [
+    {
+      "path": "problems/2025-B4/reviews/diagonal-moment-review-2-initial-v1.md",
+      "bytes": 11665,
+      "sha256": "38a28f0e655267bcb5afda0e8db5a2e2e171a565421cd6d8cbe7991818140a67"
+    },
+    {
+      "path": "problems/2025-B4/reviews/diagonal-moment-review-2-issues-v1.md",
+      "bytes": 3970,
+      "sha256": "65baa054909a6c6f5afbb26889b83b52d9dde258297f711ba8fb87c04d4a8cae"
+    },
+    {
+      "path": "problems/2025-B4/reviews/diagonal-moment-review-2-source-checks-v1.md",
+      "bytes": 7469,
+      "sha256": "aa45dea03dff5f355d22edd5b9b578a78b2e534808f6fda022e4fa13ef6e5e41"
+    },
+    {
+      "path": "problems/2025-B4/reviews/diagonal-moment-review-2-freeze-v1.py",
+      "bytes": 6173,
+      "sha256": "905aeb894f86782a2f0155ac267c7f6f92efaa79aff1f4a88f9a55c73217a356"
+    },
+    {
+      "path": "problems/2025-B4/reviews/diagonal-moment-review-2-input-validation-v1.json",
+      "bytes": 46334,
+      "sha256": "5c59d3992097df1219007be20d8f5255abc365e41598ebf9c3c6c862eb989bc0"
+    }
+  ]
+}

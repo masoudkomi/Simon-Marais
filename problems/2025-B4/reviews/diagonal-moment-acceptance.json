@@ -1,0 +1,75 @@
+{
+  "accepted_at_utc": "2026-10-17T11:44:05.117394+00:00",
+  "status": "proved, independently reviewed scoped partial result",
+  "claims": [
+    "MS1 nonzero inverse moment separates the fixed-normalization reciprocal coordinates",
+    "MS2 faithful equivariant Fourier evaluation and disjoint cross-orbit value sets",
+    "MS3 nonzero inverse moment is sufficient for trivial Fourier stabilizer",
+    "MS4 exact inverse moment (a-a^-1)/12 of the inverse-index Fuchsian element",
+    "MS5 moments1/8 and7/72 for the two concrete first-case elements at p>7"
+  ],
+  "constructor": "coordinator root",
+  "reviewers": [
+    "review_2022_complexity_r2",
+    "review_2017_coarsening_r1"
+  ],
+  "whole_initials_blind": true,
+  "root_read_full_candidate_reports_ledgers_sources": true,
+  "unresolved_substantive_issues": 0,
+  "repair_required": false,
+  "record_occurrences_verified": 451,
+  "unique_paths_verified": 403,
+  "candidate": {
+    "path": "problems/2025-B4/notes/coordinator-diagonal-moment-candidate-v2.md",
+    "bytes": 7096,
+    "sha256": "dae1907e2c3afe744ede7ffc89321d560ebbfab326afd78786f30dac960fcb2f"
+  },
+  "accepted_copy": {
+    "path": "problems/2025-B4/proofs/reviewed-diagonal-moment-v1.1.md",
+    "bytes": 10168,
+    "sha256": "4e25e67e6459134cb5b6c618baef91c37f30bb1dae542d7426fb61450ce4a4f7"
+  },
+  "verification_metadata": [
+    {
+      "path": "problems/2025-B4/notes/coordinator-diagonal-moment-manifest-v1.json",
+      "bytes": 1545,
+      "sha256": "5d0d897d3ff89828e26d16919357bf0d283866bb3bb97b7aa9f1277b3a3d3654"
+    },
+    {
+      "path": "problems/2025-B4/notes/coordinator-diagonal-moment-sources-v1.json",
+      "bytes": 2629,
+      "sha256": "02ac61f67ca22a677254394381746d457ab18b82ef56f5362a063d8d24054118"
+    },
+    {
+      "path": "problems/2025-B4/reviews/diagonal-moment-review-1-manifest-v1.json",
+      "bytes": 2938,
+      "sha256": "1f012e511af267b591074a6bd6ebe3bdd0e4960ec5eded034c75158dba3ee3a7"
+    },
+    {
+      "path": "problems/2025-B4/reviews/diagonal-moment-review-1-input-checks-v1.json",
+      "bytes": 42532,
+      "sha256": "c481d40439279ee055a0b0d92bea0aeeebeda66c1caf864658d07f8b395e2c5e"
+    },
+    {
+      "path": "problems/2025-B4/reviews/diagonal-moment-review-2-manifest-v1.json",
+      "bytes": 2973,
+      "sha256": "11ac73101fe6033c042b5de021a68131de1d73fe7f4d41fd861108dec191c7ca"
+    },
+    {
+      "path": "problems/2025-B4/reviews/diagonal-moment-review-2-input-validation-v1.json",
+      "bytes": 46334,
+      "sha256": "5c59d3992097df1219007be20d8f5255abc365e41598ebf9c3c6c862eb989bc0"
+    }
+  ],
+  "all_author_obligations": 14,
+  "whole_inference_checks": [
+    39,
+    14
+  ],
+  "root_constructor_not_independent_reviewer": true,
+  "direct_inverse_Fourier_and_reciprocal_maps_distinguished": true,
+  "R_c_array_not_necessarily_actual_conjugates_of_R_1": true,
+  "algebraic_lemmas_only": true,
+  "new_Diophantine_exclusion_full_source_proof_annual_solution_or_novelty": false,
+  "no_mathematical_program_CAS_or_scan": true
+}

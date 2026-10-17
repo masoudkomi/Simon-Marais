@@ -1,0 +1,82 @@
+{
+  "frozen_at_utc": "2026-10-17T11:27:35.189628+00:00",
+  "status": "Fresh initially blind nonconstructor WHOLE R4 R2 frozen; no substantive objection found, no repair requested; root alone may accept.",
+  "reviewer": "review_2022_complexity_r2",
+  "constructor": "review_2017_coarsening_r1",
+  "reviewer_constructed_new_R4": false,
+  "prior_R0_R3_S1_S2_authorship_explicitly_disclosed": true,
+  "requested_model": "gpt-6.1-sol",
+  "requested_reasoning_effort": "max",
+  "verified_effective_setting_readback": null,
+  "claims_audited": [
+    "E1",
+    "E2",
+    "V1",
+    "V2",
+    "V3",
+    "V4"
+  ],
+  "whole_main_sources_log_failed_routes_28_obligations_and_accepted_bodies_read": true,
+  "per_inference_checks": 58,
+  "unresolved_substantive_objections": 0,
+  "author_repairs_requested": 0,
+  "blind_to_new_R4_peer_findings_before_freeze": true,
+  "actual_primary_definitions_and_hypotheses_checked": true,
+  "no_ninefold_remains_unproved": true,
+  "AFS_at_most_two_range_fails_at_11_over_10": true,
+  "ninth_expansion_retains_digit10_and_is_not_a_ninth_ceiling_ray": true,
+  "Phi_residue_bijections_not_ordinary_surjectivity": true,
+  "author_freeze": {
+    "path": "problems/2022-B4/notes/reasoning-return-r4-freeze-v1.json",
+    "bytes": 3530,
+    "sha256": "f579d150c8b52450e5c20630fd36621ba8d36c3a6168c23235d352068c413f66"
+  },
+  "author_artifact_records_verified": 8,
+  "constructor_validation_occurrences_verified": 205,
+  "constructor_validation_unique_paths_verified": 204,
+  "cached_primary_hashes_verified": 3,
+  "acceptance_hash_entries_verified": 19,
+  "input_record_occurrences_verified": 251,
+  "input_unique_paths_verified": 229,
+  "earlier_own_paths_preserved_unchanged": 159,
+  "mathematical_computation_scan_CAS_enumeration_or_author_rerun": false,
+  "old_candidate_shared_Git_source_or_other_review_edits": false,
+  "unconditional_termination_positive_infinite_lift_full_solution_or_novelty_claim": false,
+  "direct_weekly_telemetry": {
+    "at_utc": "2026-10-17T11:20:47+00:00",
+    "source": "direct account-wide Codex usage tool",
+    "total_used_percent": 33,
+    "window_duration_minutes": 10080,
+    "resets_at_unix": 1792745187,
+    "ordinary_usage_allowed": true,
+    "total_used_cutoff_percent": 90,
+    "integration_review_commit_push_reserve": true
+  },
+  "records": [
+    {
+      "path": "problems/2022-B4/reviews/reasoning-return-r4-review-2-initial.md",
+      "bytes": 22974,
+      "sha256": "990bf7106fde26f7b34e0b009762084e67733e0765ecf73f8a43051b05c9e18d"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-return-r4-review-2-issues.md",
+      "bytes": 13997,
+      "sha256": "89a1546153d66689895b0965a35a8a34c40f9a9fa2fa450946f526f18066250d"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-return-r4-review-2-source-checks.md",
+      "bytes": 8564,
+      "sha256": "c42baa5ec1f21e82a57899e208f8beab1f9902ca75f6ee0838419b0d4dff99f0"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-return-r4-review-2-freeze-v1.py",
+      "bytes": 10948,
+      "sha256": "be23788d805317b15b3840a0762a86b24a9053856ff45978378d6fcd6bf0b1dc"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-return-r4-review-2-input-checks-v1.json",
+      "bytes": 84170,
+      "sha256": "feba5ea57fc3eb8de77c748d8ead28b72d9f4cb7deb2488ea58e12405319c55a"
+    }
+  ]
+}

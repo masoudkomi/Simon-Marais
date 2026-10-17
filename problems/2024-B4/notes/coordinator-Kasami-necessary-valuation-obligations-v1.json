@@ -1,0 +1,53 @@
+{
+  "status": "candidate proof \u2014 unverified",
+  "claims": [
+    "NV: whole phi_(q\u00b2\u2212q+1) divides phi_n implies v2(n\u22121)=k, for q=2^k,k>=2,odd n>=3"
+  ],
+  "whole_review_required": true,
+  "obligations": [
+    {
+      "id": "O01",
+      "obligation": "Match accepted CP1 WHOLE divisor, odd d/n domains and degree relation; not individual Kasami factors."
+    },
+    {
+      "id": "O02",
+      "obligation": "Obtain q(q\u22121)|n\u22121, n>=d and v2(n\u22121)>=k, including equality n=d."
+    },
+    {
+      "id": "O03",
+      "obligation": "Verify G_j(0)=G_j prime(0)=1 for every odd j>=3; hence H(1)=H prime(1)=1."
+    },
+    {
+      "id": "O04",
+      "obligation": "Factor H(T)+1=(T+1)Q(T) with Q(1)=1 and preserve exact local order after substitution."
+    },
+    {
+      "id": "O05",
+      "obligation": "Use alpha in F_q minus F2 only when k>=2; both alpha and alpha+1 nonzero."
+    },
+    {
+      "id": "O06",
+      "obligation": "Check all terms through q+1 of G_d(alpha+z), including absent intermediate degrees and the q/q+1 binomial coefficients."
+    },
+    {
+      "id": "O07",
+      "obligation": "Check constant1, linear0, q coefficient0 and q+1 coefficient1/(alpha(alpha+1))!=0."
+    },
+    {
+      "id": "O08",
+      "obligation": "For s>k check the binomial support of n=1+2^s h and cancellation of constant/linear terms at alpha."
+    },
+    {
+      "id": "O09",
+      "obligation": "Verify finite order and 2^s>=2q>q+1 contradict the preserved order."
+    },
+    {
+      "id": "O10",
+      "obligation": "Retain q=2 unit-divisor counterexample n=5 and no claim of general-q full progression necessity."
+    },
+    {
+      "id": "O11",
+      "obligation": "No new external MCM/APN/ramification theorem, empirical test or novelty premise."
+    }
+  ]
+}

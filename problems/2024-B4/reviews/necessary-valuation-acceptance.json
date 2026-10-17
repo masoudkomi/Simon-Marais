@@ -1,0 +1,75 @@
+{
+  "accepted_at_utc": "2026-10-17T11:43:02.988649+00:00",
+  "status": "proved, independently reviewed scoped partial result",
+  "claims": [
+    "NV: for q=2^k,k>=2,odd n>=3, WHOLE phi_(q^2-q+1)|phi_n implies v2(n-1)=k"
+  ],
+  "constructor": "coordinator root",
+  "reviewers": [
+    "review_2022_complexity_r2",
+    "review_2017_coarsening_r1"
+  ],
+  "whole_initials_blind": true,
+  "root_read_full_candidate_reports_ledgers_sources": true,
+  "unresolved_substantive_issues": 0,
+  "repair_required": false,
+  "record_occurrences_verified": 442,
+  "unique_paths_verified": 390,
+  "candidate": {
+    "path": "problems/2024-B4/notes/coordinator-Kasami-necessary-valuation-v1.md",
+    "bytes": 3446,
+    "sha256": "5b772b77f821c3e3b2f7b04a22c0f9d3609f85942e9cd3d3a0d13104cbc118a4"
+  },
+  "accepted_copy": {
+    "path": "problems/2024-B4/proofs/reviewed-Kasami-necessary-valuation-v1.1.md",
+    "bytes": 5874,
+    "sha256": "6b92d01d50a131fcbf695667c08e5fed9bc49c03c37be5dca9af14a70cb33b1f"
+  },
+  "verification_metadata": [
+    {
+      "path": "problems/2024-B4/notes/coordinator-Kasami-necessary-valuation-manifest-v1.json",
+      "bytes": 1363,
+      "sha256": "005a5ea65ac2b7da94ec085c3b6d93ac7938f2102cd5b1af79f569012b6e2ac8"
+    },
+    {
+      "path": "problems/2024-B4/notes/coordinator-Kasami-necessary-valuation-sources-v1.json",
+      "bytes": 1023,
+      "sha256": "d8f00589dcecf1abfc2ddf5eb6f0234d42783ea4f8ce97449147a8e44b9e2650"
+    },
+    {
+      "path": "problems/2024-B4/reviews/necessary-valuation-review-1-manifest-v1.json",
+      "bytes": 2881,
+      "sha256": "e77dc7db93b7d597971831004b3dd66ac3077cc0865a2a7c95f2381e08a2cfdf"
+    },
+    {
+      "path": "problems/2024-B4/reviews/necessary-valuation-review-1-input-checks-v1.json",
+      "bytes": 40360,
+      "sha256": "e13ff526d40132b92c57ffdee5b999bc51745d743ed7dc13512af791dffbf965"
+    },
+    {
+      "path": "problems/2024-B4/reviews/necessary-valuation-review-2-manifest-v1.json",
+      "bytes": 2771,
+      "sha256": "9ffe5ba81c38ef6152de5370a094d81d34e70093f665477e4df25dcd254bc65b"
+    },
+    {
+      "path": "problems/2024-B4/reviews/necessary-valuation-review-2-input-validation-v1.json",
+      "bytes": 43960,
+      "sha256": "e33927dd9a8534d692ec2c32da93ea0294d1cbeb9bbe19772d822d4d8772aeeb"
+    },
+    {
+      "path": "problems/2024-B4/reviews/composition-Kasami-acceptance.json",
+      "bytes": 2786,
+      "sha256": "fb34aeef979003960d3563e70b4a97444279dfe9cce9448e11b0712126fb250d"
+    }
+  ],
+  "all_author_obligations": 11,
+  "whole_inference_checks": [
+    23,
+    11
+  ],
+  "root_constructor_not_independent_reviewer": true,
+  "reviewer2_old_CP1_authorship_disclosed": true,
+  "whole_divisor_necessary_implication_only": true,
+  "converse_full_progression_full_annual_solution_or_novelty": false,
+  "no_mathematical_program_CAS_or_scan": true
+}

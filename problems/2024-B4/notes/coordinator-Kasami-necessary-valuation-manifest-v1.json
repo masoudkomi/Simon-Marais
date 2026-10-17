@@ -1,0 +1,35 @@
+{
+  "frozen_at_utc": "2026-10-17T11:28:09.267292+00:00",
+  "status": "candidate proof \u2014 unverified; two independent nonconstructor WHOLE audits required",
+  "constructor": "coordinator root",
+  "claims": [
+    "NV: whole phi_(q\u00b2\u2212q+1) divides phi_n implies v2(n\u22121)=k, for q=2^k,k>=2,odd n>=3"
+  ],
+  "no_mathematical_computation_or_CAS": true,
+  "no_novelty_or_full_annual_solution": true,
+  "requested_worker_model": "gpt-6.1-sol",
+  "requested_reasoning_effort": "max",
+  "verified_effective_settings": null,
+  "records": [
+    {
+      "path": "problems/2024-B4/notes/coordinator-Kasami-necessary-valuation-v1.md",
+      "bytes": 3446,
+      "sha256": "5b772b77f821c3e3b2f7b04a22c0f9d3609f85942e9cd3d3a0d13104cbc118a4"
+    },
+    {
+      "path": "problems/2024-B4/notes/coordinator-Kasami-necessary-valuation-obligations-v1.json",
+      "bytes": 1787,
+      "sha256": "87c4a1860725dd3dbc4e0798c9087d48f6dbcd8a260da136074281cac0136051"
+    },
+    {
+      "path": "problems/2024-B4/notes/coordinator-Kasami-necessary-valuation-sources-v1.json",
+      "bytes": 1023,
+      "sha256": "d8f00589dcecf1abfc2ddf5eb6f0234d42783ea4f8ce97449147a8e44b9e2650"
+    },
+    {
+      "path": "progress/freeze-local-algebra-2026-10-17-1129.py",
+      "bytes": 7152,
+      "sha256": "f9a0533d6bfe9c86dabe160c42fd243c7d6907c7f517df9d64444a57527422df"
+    }
+  ]
+}

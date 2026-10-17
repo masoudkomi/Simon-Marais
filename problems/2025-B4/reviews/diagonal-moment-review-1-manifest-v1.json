@@ -1,0 +1,75 @@
+{
+  "frozen_at_utc": "2026-10-17T11:40:07.255016+00:00",
+  "status": "Initially blind nonconstructor WHOLE MS1–MS5 R1 frozen; no substantive objection found; root alone may accept after both independent audits.",
+  "reviewer": "review_2022_complexity_r2",
+  "constructor": "coordinator root",
+  "reviewer_constructed_MS": false,
+  "earlier_PG_CF1_review_roles_disclosed": true,
+  "requested_model": "gpt-6.1-sol",
+  "requested_reasoning_effort": "max",
+  "verified_effective_setting_readback": null,
+  "complete_consolidated_four_historical_notes_appendix_sources14_obligations_read": true,
+  "actual_primary_definitions_and_assigned_passages_checked": true,
+  "blind_to_new_peer_MS_findings_before_freeze": true,
+  "claims_audited": [
+    "MS1",
+    "MS2",
+    "MS3",
+    "MS4",
+    "MS5"
+  ],
+  "per_inference_checks": 39,
+  "unresolved_substantive_issues": 0,
+  "author_repairs_requested": 0,
+  "algebraic_lemmas_only_no_new_Diophantine_exclusion": true,
+  "no_full_external_proof_appendix_repair_or_novelty_claim": true,
+  "mathematical_computation_scan_CAS_enumeration_or_author_rerun": false,
+  "old_candidate_shared_Git_or_other_review_edits": false,
+  "author_manifest": {
+    "path": "problems/2025-B4/notes/coordinator-diagonal-moment-manifest-v1.json",
+    "bytes": 1545,
+    "sha256": "5d0d897d3ff89828e26d16919357bf0d283866bb3bb97b7aa9f1277b3a3d3654"
+  },
+  "author_artifact_records_verified": 4,
+  "source_fingerprint_entries_verified": 6,
+  "input_record_occurrences_verified": 24,
+  "input_unique_paths_verified": 13,
+  "earlier_own_paths_preserved_unchanged": 171,
+  "direct_weekly_telemetry": {
+    "at_utc": "2026-10-17T11:36:31+00:00",
+    "source": "direct account-wide Codex usage tool",
+    "total_used_percent": 34,
+    "window_duration_minutes": 10080,
+    "resets_at_unix": 1792745187,
+    "ordinary_usage_allowed": true,
+    "total_used_cutoff_percent": 90,
+    "integration_reserve": true
+  },
+  "records": [
+    {
+      "path": "problems/2025-B4/reviews/diagonal-moment-review-1-initial.md",
+      "bytes": 12145,
+      "sha256": "1502b9dd0e8fc6b68c5995c41085bbe4dc286cf71376beeb38d38e9e2c2ed582"
+    },
+    {
+      "path": "problems/2025-B4/reviews/diagonal-moment-review-1-issues.md",
+      "bytes": 7874,
+      "sha256": "2409e1de257f676724871baacd89d998e81c948885b929282b58d75d75ce1550"
+    },
+    {
+      "path": "problems/2025-B4/reviews/diagonal-moment-review-1-source-checks.md",
+      "bytes": 6267,
+      "sha256": "49bf56740ea017497d09655e95443a1b40fb41204890638f70b02b40b0650918"
+    },
+    {
+      "path": "problems/2025-B4/reviews/diagonal-moment-review-1-freeze-v1.py",
+      "bytes": 8324,
+      "sha256": "22bd2316e9ed598d501f51cfd13e0f7f0df5d8c2dd41d9c6abf7361e498d8188"
+    },
+    {
+      "path": "problems/2025-B4/reviews/diagonal-moment-review-1-input-checks-v1.json",
+      "bytes": 42532,
+      "sha256": "c481d40439279ee055a0b0d92bea0aeeebeda66c1caf864658d07f8b395e2c5e"
+    }
+  ]
+}

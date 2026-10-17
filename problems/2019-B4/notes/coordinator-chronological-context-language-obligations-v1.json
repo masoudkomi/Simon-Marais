@@ -1,0 +1,21 @@
+{
+  "claim": "CCL: separator serialization of chronological alternating-source contexts is not context-free",
+  "candidate_status": "unverified; two independent nonconstructor whole audits required",
+  "obligations": [
+    {"id":"CCL01","check":"Exact definition of chronological pairs for every finite source prefix, empty included, and distinction from physical reversal and history encodings."},
+    {"id":"CCL02","check":"Regular slice has four positive even runs with unique exponents and one separator."},
+    {"id":"CCL03","check":"First min(A,C)-1 source pairs forced; final initial-run pair exception retained."},
+    {"id":"CCL04","check":"A<C fails for either choice of the last first-tape zero's following one; even run gaps and B>=2 used."},
+    {"id":"CCL05","check":"A>C fails even though one further zero can be consumed; at least two residual zeros prevent any next one."},
+    {"id":"CCL06","check":"A=C forces the last first-stage one to come from the second tape."},
+    {"id":"CCL07","check":"Remaining opposite runs force cross-tape pairs, B=D; unequal positive even gaps cannot end with one extra source zero."},
+    {"id":"CCL08","check":"Explicit routing (LR)^A(RL)^B proves all required equal-exponent words are present."},
+    {"id":"CCL09","check":"Pumping witness lies in the exact slice and uses blocks of length 2P, P>=1."},
+    {"id":"CCL10","check":"Every pumping window of length at most P misses at least one member of each matching nonadjacent block pair."},
+    {"id":"CCL11","check":"Separator in a pumped substring duplicates it; separator in the unpumped middle causes no omitted case."},
+    {"id":"CCL12","check":"If pumped word retains run form and parity, some enlarged block has an unchanged matching block; possible block-order failures already suffice."},
+    {"id":"CCL13","check":"Context-free pumping lemma and closure under regular intersection used in their correct directions and quantifiers."},
+    {"id":"CCL14","check":"Accepted chronological routing dictionary is the only project premise; source hardness is context, not a fixed-two-tape theorem."},
+    {"id":"CCL15","check":"No conclusion about canonical histories, original output context-freeness, all encodings, algebraicity, exact lambda or novelty."}
+  ]
+}

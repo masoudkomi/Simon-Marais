@@ -1,5 +1,7 @@
 # Independent review queue
 
+Current11:45UTC:2022R4/2024NV/2025MS scoped partials ACCEPTED after TWO full initially blind WHOLE audits each and complete root reconciliation.2021R5TWOauditsactive;2019CCLR1active/R2queued, candidate unverified. No new full annual answer or MS Diophantine exclusion.35%TOTALweekly/samereset/90%ceiling. See status-2026-10-17-1145.md. Earlier dated entries historical.
+
 Current approximately11:24UTC:2017all-DGLOBAL G1–G3 accepted after BOTH WHOLE blind audits and full root reconciliation; scalar existence/equality, no value.2019NR and2024GK accepted.2022R4twofreshWHOLEauditsactive;2021R5conceptualresearchactive. Root2024NV and2025momentcontinuations remainunverified.33%TOTALweekly, same reset/90%ceiling. See status-2026-10-17-1124.md. Earlier dated entries historical.
 
 Current approximately11:16UTC:2019NR1–NR4 and2024GK1–GK3 accepted after both WHOLE blind audits/full root reconciliation.2017all-DGLOBAL R2frozen/rootfullread, R1pending; no promotion.2022R4R2active/R1queued; neither constructorC nor rootstrategycontributor counts as an independent whole reviewer.2021newR5 conceptual research active.32%TOTALweekly, same reset and90%ceiling. See checkpoint-2026-10-17-1116.md. Earlier dated entries historical.

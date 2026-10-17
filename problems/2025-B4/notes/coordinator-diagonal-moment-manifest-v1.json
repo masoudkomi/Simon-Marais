@@ -1,0 +1,39 @@
+{
+  "frozen_at_utc": "2026-10-17T11:28:09.267292+00:00",
+  "status": "candidate proof \u2014 unverified; two independent nonconstructor WHOLE audits required",
+  "constructor": "coordinator root",
+  "claims": [
+    "MS1 reciprocal residue separation under nonzero inverse moment",
+    "MS2 faithful equivariant Fourier evaluation and cross-list disjointness",
+    "MS3 nonzero inverse moment implies trivial stabilizer",
+    "MS4 exact inverse Fuchsian moment",
+    "MS5 exact first-case-element separations for p>7"
+  ],
+  "no_mathematical_computation_or_CAS": true,
+  "no_novelty_or_full_annual_solution": true,
+  "requested_worker_model": "gpt-6.1-sol",
+  "requested_reasoning_effort": "max",
+  "verified_effective_settings": null,
+  "records": [
+    {
+      "path": "problems/2025-B4/notes/coordinator-diagonal-moment-candidate-v2.md",
+      "bytes": 7096,
+      "sha256": "dae1907e2c3afe744ede7ffc89321d560ebbfab326afd78786f30dac960fcb2f"
+    },
+    {
+      "path": "problems/2025-B4/notes/coordinator-diagonal-moment-obligations-v1.json",
+      "bytes": 2783,
+      "sha256": "2a4d0245a3eae851e4123dcada05b8c78b604908c847e6b7cf0acfad3529f357"
+    },
+    {
+      "path": "problems/2025-B4/notes/coordinator-diagonal-moment-sources-v1.json",
+      "bytes": 2629,
+      "sha256": "02ac61f67ca22a677254394381746d457ab18b82ef56f5362a063d8d24054118"
+    },
+    {
+      "path": "progress/freeze-local-algebra-2026-10-17-1129.py",
+      "bytes": 7152,
+      "sha256": "f9a0533d6bfe9c86dabe160c42fd243c7d6907c7f517df9d64444a57527422df"
+    }
+  ]
+}

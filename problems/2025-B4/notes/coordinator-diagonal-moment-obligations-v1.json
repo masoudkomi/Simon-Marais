@@ -1,0 +1,69 @@
+{
+  "status": "candidate proof \u2014 unverified",
+  "claims": [
+    "MS1 reciprocal residue separation under nonzero inverse moment",
+    "MS2 faithful equivariant Fourier evaluation and cross-list disjointness",
+    "MS3 nonzero inverse moment implies trivial stabilizer",
+    "MS4 exact inverse Fuchsian moment",
+    "MS5 exact first-case-element separations for p>7"
+  ],
+  "whole_review_required": true,
+  "obligations": [
+    {
+      "id": "O01",
+      "obligation": "Direct indices sigma_a(zeta)=zeta^a; original inverse source indices must be reindexed explicitly."
+    },
+    {
+      "id": "O02",
+      "obligation": "Prove O/(lambda)=F_p and geometric-sum unit in localization, including t=ac mod p representatives and negative coefficients."
+    },
+    {
+      "id": "O03",
+      "obligation": "Nonzero inverse moment separates all reciprocal coordinates by their residues; common nonzero scalar preserves distinction."
+    },
+    {
+      "id": "O04",
+      "obligation": "Fourier map injectivity: degree at most p\u22121, zero constant, minimal polynomial Phi_p constant1; no weight hypothesis."
+    },
+    {
+      "id": "O05",
+      "obligation": "Prove equivariance and exact stabilizer equality, then disjoint Fourier value SETS from group-ring nonconjugacy."
+    },
+    {
+      "id": "O06",
+      "obligation": "Distinctness WITHIN each Fourier list is separate; nonzero inverse moment is sufficient by its h^(-1) transformation."
+    },
+    {
+      "id": "O07",
+      "obligation": "Norm element counterexample: positivity/weight/Fermat membership alone do not imply trivial stabilizer."
+    },
+    {
+      "id": "O08",
+      "obligation": "Square-sum permutation identity is exact for any positive a prime to p; division by p and reduction are valid for p>=5."
+    },
+    {
+      "id": "O09",
+      "obligation": "Source inverse-index moment is sum c floor(ac/p), not the action-on-zeta moment sum c^(-1)floor(ac/p)."
+    },
+    {
+      "id": "O10",
+      "obligation": "Compute (a\u2212a^(-1))/12, Theta2 value1/8 and psi2 value7/72; p=7 zero, p=3 excluded from this formula."
+    },
+    {
+      "id": "O11",
+      "obligation": "Check general Fueter formula and its possible zero; do not grant arbitrary source selections nonzero moments."
+    },
+    {
+      "id": "O12",
+      "obligation": "Source definition is original Fourier eta versus later scaled reciprocal b1; correspondence of roles is not formula equality."
+    },
+    {
+      "id": "O13",
+      "obligation": "No new proof of source Lemma3, Wieferich conditions or arbitrary second-case moment selection."
+    },
+    {
+      "id": "O14",
+      "obligation": "No singular-system solvability/all-conjugate cancellation/nonzero delta/stronger Diophantine range/full annual theorem/novelty."
+    }
+  ]
+}

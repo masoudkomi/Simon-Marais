@@ -1,0 +1,82 @@
+{
+  "accepted_at_utc": "2026-10-17T11:35:37.164545+00:00",
+  "status": "proved, independently reviewed scoped partial result",
+  "claims": [
+    "E1 constant-translate admissible expansion multiplicity with common radix",
+    "E2 positive restricted AB lift implies at least nine full-alphabet expansions",
+    "V1 exact both-prime balance and accelerated ordinary return",
+    "V2 exact finite power100 shadow stopping/second-B tests",
+    "V3 two-prime isometry and arbitrary finite post-B shadow words",
+    "V4 inverse-limit preimages need not be nonnegative ordinary integers"
+  ],
+  "constructor": "review_2017_coarsening_r1; coordinator supplied power100 shadow strategy",
+  "reviewers": [
+    "review_2021_reasoning_j15_r2",
+    "review_2022_complexity_r2"
+  ],
+  "whole_initials_blind": true,
+  "root_read_full_candidate_reports_ledgers_sources": true,
+  "unresolved_substantive_issues": 0,
+  "repair_required": false,
+  "record_occurrences_verified": 1145,
+  "unique_paths_verified": 639,
+  "candidate": {
+    "path": "problems/2022-B4/notes/reasoning-return-r4-candidate-v1.md",
+    "bytes": 23750,
+    "sha256": "cf3df09a2b38097bcbbe5c80c332a9bf1787f07a2114bf67b6108651240e2b2a"
+  },
+  "accepted_copy": {
+    "path": "problems/2022-B4/proofs/reviewed-rational-base-shadow-return-v1.1.md",
+    "bytes": 27405,
+    "sha256": "f58c75a8bc975ab49073bf03ac5db4a55fa9b65458c2a61f4f5fd40b9be1be6e"
+  },
+  "verification_metadata": [
+    {
+      "path": "problems/2022-B4/notes/reasoning-return-r4-freeze-v1.json",
+      "bytes": 3530,
+      "sha256": "f579d150c8b52450e5c20630fd36621ba8d36c3a6168c23235d352068c413f66"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-return-r4-input-validation-v1.json",
+      "bytes": 40435,
+      "sha256": "87393096622fe9f9d8630d93494a0666a0d7d129e2b41dab41b58dea3f9016c2"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-return-r4-sources-v1.json",
+      "bytes": 5904,
+      "sha256": "0af8dae335e50880497362b8f6f660d194eaf53dc86a56d182ad01b099d081e8"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-return-r4-review-1-manifest-v1.json",
+      "bytes": 3637,
+      "sha256": "4c07c73aa65392f643a99a93742a335e2d1d3b2163129fe70e6d622610b44e10"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-return-r4-review-1-input-validation-v1.json",
+      "bytes": 121872,
+      "sha256": "712739d773868aa11207f6dc623163ecea2aa4e24b3a356e42b0b13af57eb122"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-return-r4-review-2-manifest-v1.json",
+      "bytes": 3326,
+      "sha256": "cfe598f6883049aeaef4eb1d0a74b277dbc615e4461f7dcd0156931a08f880fd"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-return-r4-review-2-input-checks-v1.json",
+      "bytes": 84170,
+      "sha256": "feba5ea57fc3eb8de77c748d8ead28b72d9f4cb7deb2488ea58e12405319c55a"
+    }
+  ],
+  "whole_inference_checks": [
+    40,
+    58
+  ],
+  "all_author_obligations": 28,
+  "root_strategy_contributor_not_independent_reviewer": true,
+  "reviewer2_old_R0_R3_S1_S2_authorship_disclosed": true,
+  "no_ninefold_bridge_remains_unproved": true,
+  "ninth_full_alphabet_path_includes_digit10": true,
+  "inverse_limit_bijection_not_ordinary_surjectivity": true,
+  "termination_positive_infinite_lift_full_annual_solution_or_novelty": false,
+  "no_mathematical_computation_CAS_or_scan": true
+}

@@ -1,0 +1,65 @@
+{
+  "frozen_at_utc": "2026-10-17T11:36:24.700245+00:00",
+  "status": "complete initially blind whole review 2; no substantive objection found; coordinator reconciliation required",
+  "reviewer": "/root/review_2017_coarsening_r1",
+  "constructor_of_NEW_NV": false,
+  "constructor_of_OLD_accepted_CP1_dependency": true,
+  "old_dependency_not_independently_reaudited_by_its_author": true,
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "target": {
+    "path": "problems/2024-B4/notes/coordinator-Kasami-necessary-valuation-v1.md",
+    "bytes": 3446,
+    "sha256": "5b772b77f821c3e3b2f7b04a22c0f9d3609f85942e9cd3d3a0d13104cbc118a4"
+  },
+  "target_manifest": {
+    "path": "problems/2024-B4/notes/coordinator-Kasami-necessary-valuation-manifest-v1.json",
+    "bytes": 1363,
+    "sha256": "005a5ea65ac2b7da94ec085c3b6d93ac7938f2102cd5b1af79f569012b6e2ac8"
+  },
+  "whole_submitted_obligations_audited": 11,
+  "open_substantive_issues": 0,
+  "peer_findings_read_before_initial_freeze": false,
+  "candidate_scope": "q=2^k,k>=2, odd n>=3: WHOLE phi_(q^2-q+1)|phi_n implies v2(n-1)=k",
+  "converse_full_progression_annual_classification_or_novelty_claim": false,
+  "mathematical_computation_or_CAS": false,
+  "earlier_unique_own_paths_verified_unchanged": 211,
+  "last_direct_weekly_telemetry": {
+    "at_utc": "2026-10-17 11:29:38 UTC",
+    "total_used_percent": 34,
+    "reset_unix": 1792745187,
+    "total_ceiling_percent": 90,
+    "integration_reserve": true
+  },
+  "administrative_command": "/Users/uqmkamga/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 problems/2024-B4/reviews/necessary-valuation-review-2-freeze-v1.py",
+  "artifacts": [
+    {
+      "path": "problems/2024-B4/reviews/necessary-valuation-review-2-initial-v1.md",
+      "bytes": 8095,
+      "sha256": "a0ac8758764e7016e3c8b64531d29c3127e00d1f636456827f5968710c9d8ca8"
+    },
+    {
+      "path": "problems/2024-B4/reviews/necessary-valuation-review-2-issues-v1.md",
+      "bytes": 2847,
+      "sha256": "381245284498e545f2fb7a8e02728b8e75309b17254c9f58f10bc99419431dd9"
+    },
+    {
+      "path": "problems/2024-B4/reviews/necessary-valuation-review-2-source-checks-v1.md",
+      "bytes": 5107,
+      "sha256": "7fd25f416221b7cd693bde9d77635be2237cec40af0570a7e5d4810727694e98"
+    },
+    {
+      "path": "problems/2024-B4/reviews/necessary-valuation-review-2-freeze-v1.py",
+      "bytes": 5465,
+      "sha256": "2fa631b729351ac04d237c89342dd4760b8048f895b09c9fa1273ba7e9a45957"
+    },
+    {
+      "path": "problems/2024-B4/reviews/necessary-valuation-review-2-input-validation-v1.json",
+      "bytes": 43960,
+      "sha256": "e33927dd9a8534d692ec2c32da93ea0294d1cbeb9bbe19772d822d4d8772aeeb"
+    }
+  ]
+}

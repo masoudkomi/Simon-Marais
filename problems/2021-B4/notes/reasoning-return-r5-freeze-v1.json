@@ -1,0 +1,80 @@
+{
+  "frozen_at_utc": "2026-10-17T11:31:28.935194+00:00",
+  "status": "candidate proof - unverified; COMPLETE R5A-E checkpoint awaiting two other fresh initially blind whole audits",
+  "constructor": "/root/review_2017_coarsening_r1",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "claims": [
+    "R5A every exact selector collapse q_I is nonzero signed descent count divided by p, with p^(nu_w+1) divisibility",
+    "R5B uniform minimum positive selected-witness depth bound and nu_w<=10 at degree20; equal-valuation J15 nu<=10",
+    "R5C symbolic p+1,J>=d/2 global long Eisenstein carrier is coprime to every derivative",
+    "R5D exact repeated2R sole-H3 five-equation even-ladder subfamily is impossible by RC2+PN4",
+    "R5E five odd units a5..a13 suffice for one higher even derivative with full monic gcd X-1; no a3 hypothesis"
+  ],
+  "whole_audit_obligations": 30,
+  "selector_identified_with_unit_support": false,
+  "all_possible_selector_parities_allowed": true,
+  "minimum_bound_is_all_roots_or_height_bound": false,
+  "carrier_quotient_asserted_Casas_Alvero": false,
+  "full_J15_degree20_annual_classification_or_novelty_claim": false,
+  "two_other_fresh_whole_nonconstructor_audits_required": true,
+  "constructor_self_check_counted_as_one": false,
+  "old_frozen_texts_or_scopes_overwritten": false,
+  "earlier_unique_own_paths_verified_unchanged": 202,
+  "mathematical_program_CAS_enumeration_scan_or_certificate_rerun": false,
+  "shared_Git_spawning_contact_charges_or_access_bypass": false,
+  "last_direct_weekly_telemetry": {
+    "at_utc": "2026-10-17 11:29:38 UTC",
+    "total_used_percent": 34,
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "total_ceiling_percent": 90,
+    "integration_reserve": true
+  },
+  "administrative_command": "/Users/uqmkamga/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 problems/2021-B4/notes/reasoning-return-r5-freeze-v1.py",
+  "artifacts": [
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r5-candidate-v1.md",
+      "bytes": 20083,
+      "sha256": "0d546265a3f9b1f83c05fce46e5a97acb6cad5d8841518d891ffed91717166f6"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r5-obligations-v1.md",
+      "bytes": 7347,
+      "sha256": "24a8f6e642e76fc012ef7c035d73679558605211441b258bc21e24c2442e5aca"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r5-source-audit-v1.md",
+      "bytes": 7305,
+      "sha256": "69a789de87de5c7f5a094a2c20cdf0e2e8b7083edb2f6067cdc76f246e077a0e"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r5-worklog-v1.md",
+      "bytes": 9749,
+      "sha256": "231b8f1b14b4b5da5ef20fa1b9f73da58a874f7de76ce26b53f8badc3305c51b"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r5-freeze-v1.py",
+      "bytes": 14112,
+      "sha256": "89a2be57fef188a9359bc198f13d2e2ad0c5801b7ad2bfb3abd7d1c73b819250"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r5-constructor-self-check-v1.md",
+      "bytes": 3484,
+      "sha256": "5e0a5307728c5a342dc4b84bb39421d20a2c93d41ed07b5234a633ef1615318f"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r5-sources-v1.json",
+      "bytes": 14289,
+      "sha256": "e18b0f57478cdab3c6652f76f2903021958d0e14b227e5755f85bf64720c486a"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r5-input-validation-v1.json",
+      "bytes": 51435,
+      "sha256": "86515c62b5f5dbf2538486d13f604b14f2a566805f2db38165eb9c34db47a668"
+    }
+  ]
+}

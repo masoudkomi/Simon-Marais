@@ -1,0 +1,70 @@
+{
+  "frozen_at_utc": "2026-10-17T11:33:20.397878+00:00",
+  "status": "Initially blind nonconstructor WHOLE NV R1 frozen; no substantive objection found; root alone may accept after both independent audits.",
+  "reviewer": "review_2022_complexity_r2",
+  "constructor": "coordinator root",
+  "reviewer_constructed_NV": false,
+  "earlier_2024_reviews_disclosed": true,
+  "requested_model": "gpt-6.1-sol",
+  "requested_reasoning_effort": "max",
+  "verified_effective_setting_readback": null,
+  "complete_candidate_11_obligations_sources_and_CP_body_read": true,
+  "blind_to_new_peer_NV_findings_before_freeze": true,
+  "per_inference_checks": 23,
+  "unresolved_substantive_issues": 0,
+  "author_repairs_requested": 0,
+  "whole_divisor_necessary_valuation_only": true,
+  "q2_exclusion_essential": true,
+  "n_equals_d_and_q4_checked": true,
+  "no_full_progression_reducibility_or_novelty_claim": true,
+  "mathematical_computation_scan_CAS_enumeration_or_author_rerun": false,
+  "old_candidate_shared_Git_or_other_review_edits": false,
+  "author_manifest": {
+    "path": "problems/2024-B4/notes/coordinator-Kasami-necessary-valuation-manifest-v1.json",
+    "bytes": 1363,
+    "sha256": "005a5ea65ac2b7da94ec085c3b6d93ac7938f2102cd5b1af79f569012b6e2ac8"
+  },
+  "author_artifact_records_verified": 4,
+  "source_fingerprint_entries_verified": 3,
+  "CP_acceptance_hash_entries_verified": 9,
+  "input_record_occurrences_verified": 27,
+  "input_unique_paths_verified": 18,
+  "earlier_own_paths_preserved_unchanged": 165,
+  "direct_weekly_telemetry": {
+    "at_utc": "2026-10-17T11:20:47+00:00",
+    "source": "direct account-wide Codex usage tool",
+    "total_used_percent": 33,
+    "window_duration_minutes": 10080,
+    "resets_at_unix": 1792745187,
+    "ordinary_usage_allowed": true,
+    "total_used_cutoff_percent": 90,
+    "integration_reserve": true
+  },
+  "records": [
+    {
+      "path": "problems/2024-B4/reviews/necessary-valuation-review-1-initial.md",
+      "bytes": 7471,
+      "sha256": "256dabe1a95db0022ff60919c8bb32bc23ec0fa4b380cc87467dac3be4a2c186"
+    },
+    {
+      "path": "problems/2024-B4/reviews/necessary-valuation-review-1-issues.md",
+      "bytes": 4757,
+      "sha256": "879ed2353189060b34d076de51db0e3e3effdadb3184963affae22c3251da40b"
+    },
+    {
+      "path": "problems/2024-B4/reviews/necessary-valuation-review-1-source-checks.md",
+      "bytes": 4709,
+      "sha256": "90190706fb8b28046aaccb196d83047cd591bedf4b1b35a7b2a80652203491b2"
+    },
+    {
+      "path": "problems/2024-B4/reviews/necessary-valuation-review-1-freeze-v1.py",
+      "bytes": 7060,
+      "sha256": "b74b8956d1a0e0a8cdbae793eac96bbc33016b700c7b5a2c5b526c12eedffb22"
+    },
+    {
+      "path": "problems/2024-B4/reviews/necessary-valuation-review-1-input-checks-v1.json",
+      "bytes": 40360,
+      "sha256": "e13ff526d40132b92c57ffdee5b999bc51745d743ed7dc13512af791dffbf965"
+    }
+  ]
+}

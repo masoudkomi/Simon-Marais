@@ -1,0 +1,54 @@
+{
+  "verified_at_utc": "2026-10-17T11:45:45.224184+00:00",
+  "all_verified": true,
+  "record_occurrences_checked": 2075,
+  "unique_paths_checked": 710,
+  "exact_verification_metadata": [
+    {
+      "path": "problems/2022-B4/reviews/rational-base-shadow-return-acceptance.json",
+      "bytes": 3357,
+      "sha256": "fed9e0e0160ff917814adc5423dd7757c43542dcd0d131df58379ba52e337a77"
+    },
+    {
+      "path": "problems/2022-B4/reviews/rational-base-shadow-return-acceptance-integrity.json",
+      "bytes": 387426,
+      "sha256": "8922468734a811cb963dfc0f43833005f3a0e1b6d317c1a2f82405a942a8b427"
+    },
+    {
+      "path": "problems/2024-B4/reviews/necessary-valuation-acceptance.json",
+      "bytes": 2832,
+      "sha256": "092eadc729c0dd5f617e5a2ad615bfa02babd7bd583b863dea8c6b6b7c3dc79b"
+    },
+    {
+      "path": "problems/2024-B4/reviews/necessary-valuation-acceptance-integrity.json",
+      "bytes": 146286,
+      "sha256": "265d29fc9d27716b72f7f9e3d14fb59d4891e87c4ed763526dd1cf786c3851b8"
+    },
+    {
+      "path": "problems/2025-B4/reviews/diagonal-moment-acceptance.json",
+      "bytes": 3000,
+      "sha256": "215a0fe8511769d62a3621c010e768f1a043b0bf82145e87dc637274e49b4722"
+    },
+    {
+      "path": "problems/2025-B4/reviews/diagonal-moment-acceptance-integrity.json",
+      "bytes": 147613,
+      "sha256": "ee3c5ff928ad93f3a81b77a263ae550b1cbdd42903bd8f62b85101a89ca6b727"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r5-freeze-v1.json",
+      "bytes": 3592,
+      "sha256": "1626fa3981c78eb04f7fe41fc5a725b2500de0cf1647e7324941c6a5f3671533"
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-chronological-context-language-manifest-v1.json",
+      "bytes": 962,
+      "sha256": "38fb9ca9e5db47d97c18cbfc6fd5f52283b8896e0f8637dd802da4c532d56e8c"
+    }
+  ],
+  "complete_acceptance_rows_retained_in_acceptance_integrity": true,
+  "unverified_frozen_constructors": [
+    "problems/2021-B4/notes/reasoning-return-r5-freeze-v1.json",
+    "problems/2019-B4/notes/coordinator-chronological-context-language-manifest-v1.json"
+  ],
+  "no_mathematical_computation": true
+}

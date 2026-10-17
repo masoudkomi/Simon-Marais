@@ -1,0 +1,13 @@
+# Coordinator acceptance: necessary-valuation
+
+2026-10-17 UTC. **Proved, independently reviewed scoped partial result.**
+
+NV is accepted exactly as a WHOLE-divisor necessary implication. Exact accepted CP1 supplies actual F2 composition G_n=H(G_d) and q(q−1)|(n−1), retaining polynomial multiplicities. Values and derivatives at zero force H(1)=H'(1)=1, so the order of G_d+1 at any point of its fiber over1 is preserved under H. At alpha in F_q minus F2, the full Frobenius expansion gives exact order q+1. If v2(n−1)>k, the corresponding G_n+1 order is at least2q, a contradiction. The submitted proof establishes every local coefficient and all required degree/nonzero hypotheses; it uses no unproved global separability assertion.
+
+Both fresh initially blind nonconstructor WHOLE audits read and reconstructed all11 obligations; R1 records23 inference checks and R2 checks all11 individually. Root read the complete candidate and BOTH full reports, ledgers and source records before reconciliation. No substantive objection or required repair remains. Root is the constructor and is NOT an independent auditor. Reviewer2 authored OLD accepted CP1, explicitly disclosed: this is an independent reconstruction of the NEW local NV argument conditional on the separately accepted CP1, not a fresh independent audit of that reviewer's own older theorem. The two other original CP1 audits remain its acceptance basis.
+
+The k>=2 restriction is essential: at q=2, phi3 is a unit and n=5 contradicts an extension. q=4 and n=d are valid endpoints. Divisibility at n=d has a unit cofactor and is not itself the official nonconstant-factor assertion. The argument uses elementary formal derivatives, finite-field identities and local polynomial orders; no mathematical program, sampling, CAS, coefficient scan, external APN/MCM theorem or author certificate replay supplies a premise.
+
+This necessary valuation does NOT provide the converse, the full general-q progression, a classification of individual absolute Kasami components or all reducible phi_n, a complete annual solution, or a novelty claim. Earlier GK families and the q4 exact progression keep their separately recorded scopes.
+
+Both initially blind nonconstructor WHOLE audits were frozen before comparison. The coordinator read the complete candidate, both full reports, inference ledgers and source checks. Independent metadata verification covered 442 record occurrences across 390 unique paths. No substantive objection remains in this scope; no repair was required. The full submitted candidate is preserved as a byte-identical suffix of the accepted exposition. Existing records remain unchanged. Hash checks are administrative integrity, not mathematical proof. No novelty claim.
