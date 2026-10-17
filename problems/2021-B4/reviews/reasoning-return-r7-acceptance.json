@@ -1,0 +1,73 @@
+{
+  "accepted_at_utc": "2026-10-17T14:20:51.289664+00:00",
+  "status": "proved, independently reviewed scoped partial result",
+  "whole_initials_blind": true,
+  "root_read_full_candidate_both_reports_all_ledgers_sources": true,
+  "unresolved_substantive_issues": 0,
+  "repair_required": false,
+  "candidate": {
+    "path": "problems/2021-B4/notes/reasoning-return-r7-candidate-v1.md",
+    "bytes": 17704,
+    "sha256": "8f4d1f71930b82e029066c4f4d249489c34e70b731e80a11458c833223fc18a6"
+  },
+  "accepted_copy": {
+    "path": "problems/2021-B4/proofs/reviewed-reasoning-return-r7-v1.1.md",
+    "bytes": 20531,
+    "sha256": "4932a051d4a296b8a73d51c9a1cf07b7de52b6bd710b4fbeb113ee2f8c4fa1ea"
+  },
+  "verification_metadata": [
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r7-freeze-v1.json",
+      "bytes": 3391,
+      "sha256": "d29dc9823b24ae2df97ee1c506cb8fe8881a2ec2d82a206e2a7411566df7afa8"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r7-sources-v1.json",
+      "bytes": 8713,
+      "sha256": "866b10d899b6d9e084b2308eeeb0e2f061a112c93a4d7893042d6f4cbc6afc2b"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r7-input-validation-v1.json",
+      "bytes": 575668,
+      "sha256": "6b88e67b84c41f581208c441cf1fcad6b827054c4a18a0747766f75bda454322"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r7-review-1-manifest-v1.json",
+      "bytes": 2100,
+      "sha256": "978fbd54f2b6db95b59f529543f3f4de0876564f63ec0a35a2832b38579951dc"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r7-review-1-integrity-v1.json",
+      "bytes": 1053,
+      "sha256": "70d0fc32d544607a89ec7717277d90b0ac0a57c9101dd9008b26646cf2f51f1e"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r7-review-2-manifest-v1.json",
+      "bytes": 3119,
+      "sha256": "de50c7ad01eca3ab2d4850122e2c3f1fe5371a9bb503a90bb4be1965535cb8ba"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r7-review-2-input-validation-v1.json",
+      "bytes": 576586,
+      "sha256": "c1c168581ddd9247a377d361e1f7960e80b9aa84ae5da7ae1a9862058d11350f"
+    }
+  ],
+  "record_occurrences_verified": 5481,
+  "unique_paths_verified": 852,
+  "reviewers": [
+    "coordinator root",
+    "review_2022_complexity_r2"
+  ],
+  "constructor": "review_2021_reasoning_j15_r2",
+  "constructor_excluded_from_independent_reviews": true,
+  "reviewer_checks": [
+    36,
+    48
+  ],
+  "author_obligations": 36,
+  "new_root_inference_contribution": false,
+  "generic_prompt_and_old_roles_disclosed": true,
+  "actual_double_root_hypothesis_required": true,
+  "neither_fork_alternative_excluded": true,
+  "annual_solution_or_novelty_claim": false
+}

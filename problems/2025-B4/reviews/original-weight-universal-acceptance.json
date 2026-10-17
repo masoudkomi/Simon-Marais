@@ -1,0 +1,66 @@
+{
+  "accepted_at_utc": "2026-10-17T14:37:34.016339+00:00",
+  "status": "proved, independently reviewed scoped partial result",
+  "whole_initials_blind": true,
+  "root_read_full_candidate_both_reports_all_ledgers_sources": true,
+  "unresolved_substantive_issues": 0,
+  "repair_required": false,
+  "candidate": {
+    "path": "problems/2025-B4/notes/original-weight-universal-return-r1-candidate-v1.md",
+    "bytes": 19429,
+    "sha256": "89fb03923c61b7785dbcd2b4ff6e6b6f08e17b7fc1653be6ea72f004831040ed"
+  },
+  "accepted_copy": {
+    "path": "problems/2025-B4/proofs/reviewed-original-weight-universal-v1.1.md",
+    "bytes": 22590,
+    "sha256": "bb4d3f1b378f8062ba5d1f6e8ee0a197f0f09f01e4f97b7abe8195a9627cd2c4"
+  },
+  "verification_metadata": [
+    {
+      "path": "problems/2025-B4/notes/original-weight-universal-return-r1-manifest-v1.json",
+      "bytes": 4060,
+      "sha256": "96ea49d93cec3b08514c1d5d67704f72163332bdbe7feb354c86b821ee90c1a7"
+    },
+    {
+      "path": "problems/2025-B4/notes/original-weight-universal-return-r1-sources-v1.json",
+      "bytes": 7786,
+      "sha256": "4193d91071326dcd8db9b24955ce342cc8dbe4b0afe136b794bc0dcba9c0990c"
+    },
+    {
+      "path": "problems/2025-B4/reviews/original-weight-universal-review-1-manifest-v1.json",
+      "bytes": 3042,
+      "sha256": "cd8f4db3a4d5ff6926e36d41e4d37d6ab5ab4f78278e261b2efe11578f93f1c3"
+    },
+    {
+      "path": "problems/2025-B4/reviews/original-weight-universal-review-1-input-validation-v1.json",
+      "bytes": 172181,
+      "sha256": "1f0cc5f76162eebc34660e08322a4139b603219208422aa6c2c13193310360a3"
+    },
+    {
+      "path": "problems/2025-B4/reviews/original-weight-universal-review-2-manifest-v1.json",
+      "bytes": 3203,
+      "sha256": "2a57f089737aab5364d3e0329ba07ddfb38dab246b4a92f0fee47afe3abf6bd8"
+    },
+    {
+      "path": "problems/2025-B4/reviews/original-weight-universal-review-2-input-validation-v1.json",
+      "bytes": 118675,
+      "sha256": "68f4dae3784b2cc56ee427030b033fc8b2dd414be93050dd9f1ba4ac5356ac28"
+    }
+  ],
+  "record_occurrences_verified": 1345,
+  "unique_paths_verified": 912,
+  "constructor": "review_2022_complexity_r2",
+  "root_cubic_ratio_contribution": true,
+  "constructor_and_root_excluded_from_independent_reviews": true,
+  "reviewers": [
+    "review_2021_reasoning_j15_r2",
+    "review_2017_coarsening_r1"
+  ],
+  "reviewer_checks": [
+    56,
+    40
+  ],
+  "author_obligations": 40,
+  "algebraic_selection_and_Fourier_scope_only": true,
+  "reciprocal_or_Diophantine_or_annual_or_novelty_claim": false
+}

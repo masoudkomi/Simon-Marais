@@ -1,0 +1,257 @@
+{
+  "frozen_at_utc": "2026-10-17T14:36:23.043359+00:00",
+  "status": "COMPLETE initially blind nonconstructor WHOLE R1; not acceptance",
+  "reviewer": "coordinator root",
+  "new_peer_findings_read_before_complete_freeze": false,
+  "all_author_obligations": 40,
+  "checks": [
+    {
+      "id": "R7-O01",
+      "claim": "Official(b) counts distinct strings; only the accepted common root growth links marked canonical counts with original outputs. No preliminary proof.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Distinct outputs and canonical marked contexts share root growth only by exact accepted comparison; no preliminary proof imported."
+    },
+    {
+      "id": "R7-O02",
+      "claim": "Read and retain exact accepted C/F renewal, endpoint F(R), finite F'(R)<=2 and strict1/2<R<1. Full F is not a finite/capped replacement.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Fresh complete canonical renewal and moment bodies confirm full F, finite first moment and strict R interval."
+    },
+    {
+      "id": "R7-O03",
+      "claim": "Separate the original grammar, canonical history and separator chronology; their different language obstructions are not combined into a classification.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Canonical histories, physical outputs and separator chronology retain separate languages and scope."
+    },
+    {
+      "id": "R7-O04",
+      "claim": "State earlier NR authorship and moment/CCL/LO review roles; no self-review of NEW R7; root supplied no new normalization or ratio inference.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Root old moment-constructor role disclosed; assignment provided no new R7 proof; no peer findings read."
+    },
+    {
+      "id": "R7-O05",
+      "claim": "Define q_n only for n>=1 as finite nonnegative obstruction tails; set q_0=0 explicitly.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Finite F(R) bounds each positive-index tail; q0 is set separately to zero."
+    },
+    {
+      "id": "R7-O06",
+      "claim": "Use f_1=0 and F(R)=2R-1 to prove0<q_1<1 with exact endpoints.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "No length-one obstruction gives q1=F(R)=2R-1 strictly between zero and one."
+    },
+    {
+      "id": "R7-O07",
+      "claim": "Check constant/linear and every higher coefficient of D(Rx)=(1-x)(1-Q(x)); no boundary division or continuation.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Constant one, linear -1-q1=-2R and higher q_(n-1)-q_n=f_n R^n prove full identity."
+    },
+    {
+      "id": "R7-O08",
+      "claim": "Justify nonnegative double-sum exchange and Q(1)=RF'(R)-F(R)=1-Rdelta<=1, including delta0.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Nonnegative rearrangement sums each f_j term j-1 times and uses finite F prime."
+    },
+    {
+      "id": "R7-O09",
+      "claim": "Q(0)=0 makes formal U=sum Q^m coefficientwise well-defined without evaluating R.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Q zero constant ensures finitely many powers contribute to any formal coefficient."
+    },
+    {
+      "id": "R7-O10",
+      "claim": "Derive u_0=1 and exact convolution u_n=sum_(i<=n)q_i u_(n-i).",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Coefficient comparison of U=1+QU gives exact positive-index convolution and u0."
+    },
+    {
+      "id": "R7-O11",
+      "claim": "Prove u_n>0 for every n using q_1^n, even with finite/infinite support.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "The all-one renewal path has weight q1^n, strictly positive for all n."
+    },
+    {
+      "id": "R7-O12",
+      "claim": "Prove u_n<=1 by induction and mass<=1, then STRICT u_n<1 using q_1>0 and the prior strict inequality.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Induction uses total mass<=1; n1 is strict and i1 supplies strictness for every n>=2."
+    },
+    {
+      "id": "R7-O13",
+      "claim": "Invert only constant-one formal factors to identify s_n=c_nR^n=sum_(k<=n)u_k.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Constant-one factor inversion gives s as cumulative U coefficients formally, without endpoint division."
+    },
+    {
+      "id": "R7-O14",
+      "claim": "Strict monotonicity and1<s_n<n+1 hold at all n>=1, with s_0=1 separately.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Each of n positive increments lies strictly between zero and one; s0 remains separately one."
+    },
+    {
+      "id": "R7-O15",
+      "claim": "Derive the exact ratio formula lambda(1+u_n/s_(n-1)) and strict upper ratio bound for lambda.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "c ratio equals lambda times one plus the positive relative increment."
+    },
+    {
+      "id": "R7-O16",
+      "claim": "For bounded increasing s, increments tend to0; for unbounded s, u_n<1 controls the relative increment. Together these prove unrestricted ratio convergence.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Finite s limit forces increments to zero; infinite limit and bounded increments force relative increments to zero."
+    },
+    {
+      "id": "R7-O17",
+      "claim": "The infimum of all raw ratios is lambda; no monotonicity of the raw ratio sequence is assumed.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Strict lower bound by lambda plus convergence proves infimum without monotonicity."
+    },
+    {
+      "id": "R7-O18",
+      "claim": "The positive root l_n of x^n+c_(n-1)x-c_n exists uniquely for every n>=1, including n1.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "h_n strictly decreases on nonnegative reals from c_n>0 to minus infinity, including n1."
+    },
+    {
+      "id": "R7-O19",
+      "claim": "The true-lambda evaluation is h_n(lambda)=lambda^n(u_n-1)<0, placing l_n STRICTLY below lambda.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Direct normalization gives h_n(lambda)=lambda^n(u_n-1)<0; decreasing h places its root below lambda."
+    },
+    {
+      "id": "R7-O20",
+      "claim": "For every fixed0<x<lambda, h_n(x)>0 eventually by the displayed exact lower bound; hence l_n->lambda.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "For fixed x<lambda, geometric decay of (x/lambda)^n makes the explicit positive lower bound eventual."
+    },
+    {
+      "id": "R7-O21",
+      "claim": "Finite maxima/minima give strict nested converging enclosures. No polynomial for a finite l_n is asserted to annihilate lambda.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Finite maxima/minima inherit strict inequalities, nestedness and the two endpoint limits."
+    },
+    {
+      "id": "R7-O22",
+      "claim": "The diagnostic sequence2^ceil(n/2) is monotone/submultiplicative with oscillating ratios and is not claimed to be actual language data.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Ceiling subadditivity proves the diagnostic submultiplicative; ratios alternate2/1, not actual counts."
+    },
+    {
+      "id": "R7-O23",
+      "claim": "For delta>0, nonnegative geometric summation gives total U(1)=1/(Rdelta) and the exact finite s limit.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Defective total Q(1)<1 permits nonnegative geometric summation to1/(Rdelta)."
+    },
+    {
+      "id": "R7-O24",
+      "claim": "For delta0, Q is a proper positive-index law; U(x) diverges as x increases to1 and s_n tends to infinity.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Critical proper positive-index law has Q(x)<1 for x<1 and U(x) tending to infinity at1."
+    },
+    {
+      "id": "R7-O25",
+      "claim": "The finite/critical alternatives prove bounded s iff delta>0 without division by a possibly zero gap.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "These two exhaustive cases prove boundedness equivalence; no cancellation of zero defect."
+    },
+    {
+      "id": "R7-O26",
+      "claim": "Critical tails t_j have t_0=1 and formal(1-Q)=(1-x)T; U*T=(1-x)^-1 gives the exact finite convolution identities.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Critical q total1 makes t0=1; exact coefficient subtraction and finite convolution give both identities."
+    },
+    {
+      "id": "R7-O27",
+      "claim": "All rearrangements for mu=sum t_j=sum n q_n=R^2F''(R)/2 are nonnegative and allow infinity. No finite second moment presumed.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Tonelli counts sum n q_n and triangular j(j-1)/2; extended second moment may be infinite."
+    },
+    {
+      "id": "R7-O28",
+      "claim": "For finite mu use N+1<=mu*s_N for the lower normalized slope; no such inequality is canceled when mu is infinite.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "When mu finite, s_(N-j)<=s_N in the exact finite convolution gives N+1<=mu s_N."
+    },
+    {
+      "id": "R7-O29",
+      "claim": "For every fixed M, sum at N+M yields N+M+1>=T_M*s_N; let N tend to infinity BEFORE M.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "At index N+M, retained j<=M terms have s_(N+M-j)>=s_N; first N then M is essential."
+    },
+    {
+      "id": "R7-O30",
+      "claim": "Finite mu gives s_n~n/mu; infinite mu gives s_n/n->0 but s_n->infinity. All three regimes remain unselected.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Finite mean yields both slope inequalities; infinite mean uses only upper slope bound plus existing divergence."
+    },
+    {
+      "id": "R7-O31",
+      "claim": "Classical EFP theorem is actually read and attributed; its proper/aperiodic hypotheses would match critical Q, but no local theorem or unseen proof is needed by R7A\u2013D.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Complete EFP primary article actually read; critical proper/aperiodic law fits but local theorem unused."
+    },
+    {
+      "id": "R7-O32",
+      "claim": "For every n, forgetting the marked seed maps actual contexts ONTO B_(n+1); a specified position uniquely determines a context.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Canonical tape pairs and physical contexts differ only by left reversal; fixed seed determines a unique pair."
+    },
+    {
+      "id": "R7-O33",
+      "claim": "Only positions carrying1 can be seeds; every output after n additions has exactly floor(n/2)+1 ones. This proves the sharper all-parity fiber bound, including n0.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Exactly floor(n/2)+1 ones bound viable marks for both parities and n0."
+    },
+    {
+      "id": "R7-O34",
+      "claim": "Do not infer that every1 is viable or viable seeds form an interval. No greedy rule is imported.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Surjectivity and uniqueness at fixed mark require neither all ones viable nor an interval property."
+    },
+    {
+      "id": "R7-O35",
+      "claim": "Critical finite-mu asymptotic and the exact fiber divisor give liminf b_(n+1)/lambda^n>=2/mu, with the correct n versus n+1 scale.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Divide by lambda^n and the exact fiber factor asymptotic n/2 to obtain conditional2/mu."
+    },
+    {
+      "id": "R7-O36",
+      "claim": "Defective-case original upper prefactor follows from b<=c; no unsupported lower pure-exponential prefactor is inferred there.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "b<=c gives only the stated defective upper prefactor, without an unsupported lower one."
+    },
+    {
+      "id": "R7-O37",
+      "claim": "The abstract constant-fiber diagnostic has positive integer nondecreasing sequences and oscillating unmarked ratios; it is a logical counterexample only.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "The supplied alternating constant-fiber sequences are integer/nondecreasing with ratios1/4, excluding generic transfer."
+    },
+    {
+      "id": "R7-O38",
+      "claim": "The remaining route requires bounded/unbounded normalized canonical estimates or full F/pressure information; no regime or exact value is silently selected.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Actual defect, second moment, full F and exact lambda are left explicitly undecided."
+    },
+    {
+      "id": "R7-O39",
+      "claim": "All failed run/greedy/source/closure directions remain recorded; the recent marked-pair isomorphism is not presented as new progress.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Failed run/greedy/grammar/source routes are recorded; old marked relation is acknowledged isomorphic."
+    },
+    {
+      "id": "R7-O40",
+      "claim": "Preserve all older bytes and exact accepted bodies, no mathematical program/CAS/enumeration/rerun, and obtain two OTHER whole audits before any promotion.",
+      "verdict": "passed in exact scoped statement",
+      "reason": "All immutable input fingerprints verified; no mathematical program or old certificate replay; two-other-audit gate retained."
+    }
+  ],
+  "substantive_issues": [],
+  "author_repair_required": false,
+  "remaining_annual_gaps": [
+    "actual defect and second moment unknown",
+    "exact lambda unknown",
+    "original output ratio convergence not proved",
+    "no complete ordinary output grammar"
+  ]
+}

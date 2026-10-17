@@ -1,0 +1,167 @@
+{
+  "recorded_at_utc": "2026-10-17T14:18:38.557195+00:00",
+  "status": "candidate proof - unverified",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "complete_mathematical_prerequisite_bodies_and_scopes_read": [
+    {
+      "path": "problems/2019-B4/proof.md",
+      "bytes": 10500,
+      "sha256": "58f140f1fe9c64aa77d04a9c80a76f13411264d09d5f9e908f8e0997dc6985e2"
+    },
+    {
+      "path": "problems/2019-B4/reviews/acceptance.md",
+      "bytes": 2209,
+      "sha256": "9a4c893182bf84dec4b00a86268f9b1d24f39ba1f54c11fe08695777eb20d7b8"
+    },
+    {
+      "path": "problems/2019-B4/reviews/acceptance.json",
+      "bytes": 1332,
+      "sha256": "f4e6077a25b81d9b52fd7a24cfc9e4f40e572d11c8125edaca420a7e0e28bb7d"
+    },
+    {
+      "path": "problems/2019-B4/proofs/reviewed-secondpass-v1.1.md",
+      "bytes": 2836,
+      "sha256": "5fbaa388fe2ff795034094823c088fa5402da60eb9eca83f78165df0c8ad2cd7"
+    },
+    {
+      "path": "problems/2019-B4/notes/secondpass-canonical-renewal.md",
+      "bytes": 11807,
+      "sha256": "886266000a34023b033099889a3bb23bc6b3e642194ded12ce53b3aaa1642763"
+    },
+    {
+      "path": "problems/2019-B4/reviews/secondpass-acceptance.md",
+      "bytes": 2340,
+      "sha256": "a167e1f52bff2503c6ac571ea047efe7621425f2379868a0a6db31eccd22aefa"
+    },
+    {
+      "path": "problems/2019-B4/reviews/secondpass-acceptance.json",
+      "bytes": 2679,
+      "sha256": "66e98c9c9eb36ce02c87c69532a0e930be8bd4a4f0eec5e043ecd5f6bf068d6b"
+    },
+    {
+      "path": "problems/2019-B4/proofs/reviewed-thirdpass-v1.1.md",
+      "bytes": 16255,
+      "sha256": "58462ad7e44a7d3477d086a663cdb127128c5adcae65d6a904f1fdaa7e862cbf"
+    },
+    {
+      "path": "problems/2019-B4/proofs/reviewed-moment-tail-v1.1.md",
+      "bytes": 9630,
+      "sha256": "b9d934da65eedf4514ef7883e29dda98ee846982e89c8e3ee677f2c96bff2ee8"
+    },
+    {
+      "path": "problems/2019-B4/reviews/moment-tail-acceptance.json",
+      "bytes": 2076,
+      "sha256": "794c5ce1bb7793cb597bc55b40b94bb451353e742fadf2a4100b0a18782f09f2"
+    }
+  ],
+  "complete_context_and_exact_language_boundaries_read_not_new_premises": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2019-B4/statement.md",
+      "bytes": 1252,
+      "sha256": "53d4201dca8bc4a77d995e3df14f95dd146e2df0c82d3b6447ad35a348e89de9"
+    },
+    {
+      "path": "problems/2019-B4/proofs/reviewed-linear-output-return-v1.1.md",
+      "bytes": 20715,
+      "sha256": "0d6e36e4b6ce49bcdfa35b8fbc2488acd7c420beb2cee8a60eeccb402cd59f61"
+    },
+    {
+      "path": "problems/2019-B4/proofs/reviewed-nonregularity-return-v1.1.md",
+      "bytes": 23886,
+      "sha256": "5c7146de95f7de7d77a5f52fb6e4c102d00460123fe05c1e048745e6e694b033"
+    },
+    {
+      "path": "problems/2019-B4/proofs/reviewed-chronological-context-language-v1.1.md",
+      "bytes": 8765,
+      "sha256": "a651d3b7bcdf47698a68bc3c641ebebe56b00cd76818e8b3d7f6f53dd53d8ef5"
+    },
+    {
+      "path": "problems/2019-B4/reviews/linear-output-return-acceptance.json",
+      "bytes": 3615,
+      "sha256": "b2620d757020f76bebcf549a2c010a5e4c0644b8a1b593e973570762b0fbf266"
+    },
+    {
+      "path": "problems/2019-B4/reviews/nonregularity-return-acceptance.json",
+      "bytes": 2835,
+      "sha256": "5ee1bc0cfe9b4850355ab183fcd401717bb69099339dc8dd83667c959ce64c72"
+    },
+    {
+      "path": "problems/2019-B4/reviews/chronological-context-language-acceptance.json",
+      "bytes": 2571,
+      "sha256": "2e50b2df2d626619ad02319c9941448c08df974c0fba200e94f4e65f60b50226"
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-unmarked-greedy-failure-v1.md",
+      "bytes": 3715,
+      "sha256": "37941fbe2394c8ecba62aa60a78c74a0be2261443b1b58258ec702407fb83dc7"
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-relational-normal-form-followup-v1.md",
+      "bytes": 3452,
+      "sha256": "75ddd969007cead1c1f22be8d763a950a85437699e33520ba768935d6f947fc0"
+    },
+    {
+      "path": "problems/2019-B4/notes/thirdpass-literature.md",
+      "bytes": 14354,
+      "sha256": "90ed53bc773b79d2fc0790b5972757f73ca03026c3c42b7ecf733acd1a622b83"
+    },
+    {
+      "path": "problems/2019-B4/notes/thirdpass-literature-sources.json",
+      "bytes": 2597,
+      "sha256": "b131a9bef91787088f5fc2daef120b93c3a68c7221031904dc19ad9dbacda4e8"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-return-r3-source-audit-v1.md",
+      "bytes": 5698,
+      "sha256": "c2ce817fecf68be5ffe327f9e825f2bff57badb0d6e93704cb4228d76412e3d2"
+    }
+  ],
+  "primary_actual_reads": [
+    {
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2019-paper-b_1.pdf",
+      "scope": "Official p2 B4(b), distinct-string operations and root-rate target; no preliminary proof"
+    },
+    {
+      "url": "https://users.renyi.hu/~p_erdos/1949-01.pdf",
+      "title": "Erdos-Feller-Pollard, A property of power series with positive coefficients",
+      "publication": "Bull. Amer. Math. Soc.55(1949),201-204",
+      "doi": "10.1090/S0002-9904-1949-09203-0",
+      "scope": "COMPLETE original four-page article, both printed proof routes and finite/infinite mean distinction; adjacent Brunk article not a premise",
+      "hypotheses": "Proper nonnegative law and support not periodic; would match critical Q because q0=0, total1 and q1>0",
+      "generic_local_renewal_theorem_imported_as_needed_premise": false,
+      "new_binary_hash_or_cache_identity_claim": null
+    },
+    {
+      "url": "https://arxiv.org/pdf/2402.17953",
+      "title": "Koga, A Proof of Basic Limit Theorem of Renewal Theory",
+      "edition": "arXiv2402.17953v2,2024-03-28",
+      "scope": "Abstract, complete Theorem1.1, section2 convolution identities and displayed section3 finite/infinite-mean discussion; not full seven-page proof",
+      "new_theorem_imported": false,
+      "new_binary_hash": null
+    },
+    {
+      "url": "https://air.unimi.it/handle/2434/4919",
+      "title": "Goldwurm-Wich, Unambiguous Turn Position and Rational Trace Languages",
+      "scope": "Primary repository metadata and indexed snippets only; full newklaus.pdf403, theorem/proof unread and unused",
+      "new_theorem_imported": false
+    }
+  ],
+  "failed_retrievals": [
+    "Goldwurm-Wich full repository file403; no bypass",
+    "Combinatorica EFP URL502 gateway; independent public Renyi author archive succeeded",
+    "AMS EFP web viewer route unsupported; no full file obtained there",
+    "Guessed local deep-literature-r2-report-v1 filename absent; actual thirdpass-literature located and read"
+  ],
+  "primary_full_PDF_download_cache_mutation_or_redistribution": false,
+  "classical_renewal_theory_attributed_and_novelty_unestablished": true,
+  "new_generic_renewal_theorem_or_complete_language_classification_claim": false
+}

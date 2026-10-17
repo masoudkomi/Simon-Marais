@@ -1,0 +1,45 @@
+{
+  "frozen_at_utc": "2026-10-17T14:36:23.043359+00:00",
+  "status": "COMPLETE initially blind nonconstructor WHOLE R1; not promotion",
+  "reviewer": "coordinator root",
+  "author_obligations": 40,
+  "per_inference_checks": 40,
+  "new_peer_findings_read_before_complete_freeze": false,
+  "new_root_construction_contribution": false,
+  "older_moment_constructor_role_disclosed": true,
+  "substantive_issues": 0,
+  "author_repair_required": false,
+  "mathematical_program_CAS_scan_or_certificate_rerun": false,
+  "target": {
+    "path": "problems/2019-B4/notes/reasoning-return-r7-candidate-v1.md",
+    "bytes": 14206,
+    "sha256": "22ab005f7f66f90f194b79cf79520b77983a67716a53f04f1c401bfed646d96f"
+  },
+  "constructor_manifest": {
+    "path": "problems/2019-B4/notes/reasoning-return-r7-freeze-v1.json",
+    "bytes": 3755,
+    "sha256": "72ec54ed96255aaa17abe0eda98a98423e2e490f1ccd2c1b0a1c674f72238bf7"
+  },
+  "records": [
+    {
+      "path": "problems/2019-B4/reviews/reasoning-return-r7-review-1-initial-v1.md",
+      "bytes": 7591,
+      "sha256": "fd3f59a4fddd60f4a4027cd6468f2fb0c8f8dcc1c3fdbee75bfbde0f7978a636"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-return-r7-review-1-source-checks-v1.md",
+      "bytes": 2392,
+      "sha256": "f4097e6050f0acb8e048835685a0f1e76252c6e7df4bfc60922255079955dcf7"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-return-r7-review-1-issues-v1.json",
+      "bytes": 13830,
+      "sha256": "dc2bdf26eb079006f3e57ba271a93aa45b9a4469dcf2a4f5e00b4a92ba118d4c"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-return-r7-review-1-integrity-v1.json",
+      "bytes": 1047,
+      "sha256": "56102fd012139b88be9927091b26b939ca6a2920ca98677739f620028dbf4f0c"
+    }
+  ]
+}

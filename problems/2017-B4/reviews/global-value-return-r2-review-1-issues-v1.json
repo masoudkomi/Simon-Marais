@@ -1,0 +1,305 @@
+{
+  "frozen_at_utc": "2026-10-17T14:25:32.452002+00:00",
+  "status": "COMPLETE initially blind nonconstructor whole R1; not acceptance",
+  "reviewer": "coordinator root",
+  "all_author_obligations": 48,
+  "new_peer_findings_read_before_complete_freeze": false,
+  "checks": [
+    {
+      "id": "OP-01",
+      "claim": "Official all-integer n>=2 marked orientation count; no word/history quotient error",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Actual official B4 and full discussion freshly checked; fixed polygon/all integers/classes retained."
+    },
+    {
+      "id": "OP-02",
+      "claim": "Auxiliary C(1)=1 only; nonempty blocks, no n=0 or D=0",
+      "verdict": "passed in exact scoped statement",
+      "reason": "C1 auxiliary, nonempty blocks only; natural singleton endpoints verified."
+    },
+    {
+      "id": "OP-03",
+      "claim": "DC, G, V, U imported only at exact accepted scopes",
+      "verdict": "passed in exact scoped statement",
+      "reason": "DC complete, V finite body and exact G/U scopes checked; no effectiveness imported."
+    },
+    {
+      "id": "OP-04",
+      "claim": "Constructor's old V/local roles disclosed; no independent self-audit",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Constructor old roles and root old roles disclosed; no NEW root proof inference used."
+    },
+    {
+      "id": "OP-05",
+      "claim": "Omitting same-color steps preserves instantaneous color list",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Omitting identical-color swaps preserves full instantaneous colors at each position."
+    },
+    {
+      "id": "OP-06",
+      "claim": "Retained position indices and projected rank identities agree with original colors",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Retained generators act at same positions; projected ranks, not original labels, occupy them."
+    },
+    {
+      "id": "OP-07",
+      "claim": "Each projected different-color pair crosses once",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Reduced block permutation has exactly the different-color inversion pairs, once each."
+    },
+    {
+      "id": "OP-08",
+      "claim": "Canonical per-track crossing lists and endpoint-inclusive gap indices are class invariant",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Named track crossing orders and gap indices are invariants supplied by exact DC."
+    },
+    {
+      "id": "OP-09",
+      "claim": "Original same-block restriction is a reduced longest word",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Restriction keeps adjacency and every internal inversion; it is reduced full reversal."
+    },
+    {
+      "id": "OP-10",
+      "claim": "Restriction well defined under original commutations",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Original commutations delete zero/one events or exchange two disjoint surviving swaps."
+    },
+    {
+      "id": "OP-11",
+      "claim": "Per-rank +/- lists and generator multiplicities x_r are invariant",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Commuting generators use disjoint rank pairs, preserving full directed symbol lists."
+    },
+    {
+      "id": "OP-12",
+      "claim": "Sum x_r=binom(m,2), rather than total 2binom(m,2) ports",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Each erased event has one plus end, so sum x equals binom(m,2)."
+    },
+    {
+      "id": "OP-13",
+      "claim": "Internal class supplies all contact IDs and opposite-sign order on each rank",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Whole A_i fixes both signs and their interleaving, with kth contact IDs."
+    },
+    {
+      "id": "OP-14",
+      "claim": "Internal lists identify with original erased-contact lists along projected ranks",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Deleting other colors preserves same-color rank, identifying the actual port lists."
+    },
+    {
+      "id": "OP-15",
+      "claim": "At an erased event, projected r,r+1 are adjacent in FULL projected list",
+      "verdict": "passed in exact scoped statement",
+      "reason": "At the erased event projected ranks are adjacent in the full list by equal colors/positions."
+    },
+    {
+      "id": "OP-16",
+      "claim": "Every external projected track starts on same side of these ranks",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Consecutive initial block puts each external projected identity on the same initial side."
+    },
+    {
+      "id": "OP-17",
+      "claim": "At contact, every external projected track is on same current side of both",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Full adjacency puts each external identity on the same current side."
+    },
+    {
+      "id": "OP-18",
+      "claim": "Equal sides imply equal crossed indicators, using at-most-one crossing",
+      "verdict": "passed in exact scoped statement",
+      "reason": "At-most-once projected crossings turn equal side changes into equal crossed indicators."
+    },
+    {
+      "id": "OP-19",
+      "claim": "Crossed SET equality forces equal canonical gap INDEX",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Whole prefix-set equality implies their equal cardinalities, hence gap indices."
+    },
+    {
+      "id": "OP-20",
+      "claim": "Representative time is only a proof device, not stored global order",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Sweep time proves an invariant prefix equality and is not recorded/countable data."
+    },
+    {
+      "id": "OP-21",
+      "claim": "Common-prefix-set index sets and their b counts are class invariant",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Canonical per-track Q orders make common-prefix sets and b counts invariant."
+    },
+    {
+      "id": "OP-22",
+      "claim": "Allowed gaps include endpoints, with a=0 collapsing them to one",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Both endpoint indices allowed, collapsing when a0; correct b lowerbounds."
+    },
+    {
+      "id": "OP-23",
+      "claim": "Common-prefix equality is necessary only, not freely realizable",
+      "verdict": "passed in exact scoped statement",
+      "reason": "No common-prefix sufficiency asserted; inconsistent records may be overcounted."
+    },
+    {
+      "id": "OP-24",
+      "claim": "Ordered + allocations counted by binom(b+x-1,x)",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Ordered plus ports among b gaps are weak compositions with binom(b+x-1,x) choices."
+    },
+    {
+      "id": "OP-25",
+      "claim": "Record only S +ports, one for each erased event",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Exactly S plus ports; no hidden independent placement of the minus partners."
+    },
+    {
+      "id": "OP-26",
+      "claim": "Missing - ports located by same gap index and forced contact partner",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Same index and kth contact identity uniquely locate every missing minus end."
+    },
+    {
+      "id": "OP-27",
+      "claim": "Internal full lists fix relative order of both signs inside each gap",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Full A_i list fixes all sign order inside a gap; nonmonotone assignments discarded."
+    },
+    {
+      "id": "OP-28",
+      "claim": "Complete DC decoration recovered without extra sweep/metric/matching factor",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Complete DC decoration/cross-routing/event-poset reconstruction leaves no sweep/factorial."
+    },
+    {
+      "id": "OP-29",
+      "claim": "New code well defined on commutation classes, not selected words",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Q, A_i and plus counts are invariants, so code is injective on classes."
+    },
+    {
+      "id": "OP-30",
+      "claim": "Sum over Q and internal classes gives equation6; invalid abstract records harmless",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Sum over actual classes plus overcount of invalid records gives the stated finite sum."
+    },
+    {
+      "id": "OP-31",
+      "claim": "Uniform specialization b-1<=a gives OP2a; actual section supplies lower bound",
+      "verdict": "passed in exact scoped statement",
+      "reason": "b-1<=a plus F monotonicity gives uniform upperbound; actual section gives lowerbound."
+    },
+    {
+      "id": "OP-32",
+      "claim": "Specific projected 23212 example has b=2; two actual lifts and exact fiber2",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Hand six position lists verify Q23212; prefix/suffix lifts distinguish the exact two records."
+    },
+    {
+      "id": "OP-33",
+      "claim": "Discrete log-concavity ratio, including a=0",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Discrete balancing ratio cross difference a(u-v-1) nonnegative, including a0."
+    },
+    {
+      "id": "OP-34",
+      "claim": "Balanced x mean m/2 and even/odd J_m exponents exact",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Mean x=m/2 on m-1 coordinates gives stated even/odd balanced counts and exponents."
+    },
+    {
+      "id": "OP-35",
+      "claim": "Global E_+ weak composition counts only plus-host tracks; H piecewise avoids undefined empty binomial",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Eplus counts only plus-host gaps; S0 handled separately, S>0 ensures Eplus>=1."
+    },
+    {
+      "id": "OP-36",
+      "claim": "D=1, all singleton blocks, m=2, auxiliary n=1 endpoints checked",
+      "verdict": "passed in exact scoped statement",
+      "reason": "D1, allsingletons, m2 and n1 checked without asserting equality for the looser bound."
+    },
+    {
+      "id": "OP-37",
+      "claim": "New V_m<=old W_m per class without a distribution assumption",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Old k_r=xprev+x_r dominates each new factor; last old rank adds a factor>=1."
+    },
+    {
+      "id": "OP-38",
+      "claim": "Balanced B count converges to ell_D at ALL n with D fixed",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Fixed-D floor/ceiling sandwich and accepted all-integer G2 give ell_D."
+    },
+    {
+      "id": "OP-39",
+      "claim": "Retained internal C(m_i) terms normalize to L/D",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Scalar L at each m_i gives internal contribution L sum(m_i/n)^2 ->L/D."
+    },
+    {
+      "id": "OP-40",
+      "claim": "Exact E_+ identity and normalized S,E_+,M limits",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Exact Eplus expansion and normalized S/Eplus/top-binomial scales reconstructed."
+    },
+    {
+      "id": "OP-41",
+      "claim": "Binomial entropy inequality and boundary ratio give f_D",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Binomial entropy bound with ratio1/(2D-1) gives f_D, endpoint domain valid."
+    },
+    {
+      "id": "OP-42",
+      "claim": "Rearrangement for D>1 and separate U substitution",
+      "verdict": "passed in exact scoped statement",
+      "reason": "L<=ell+L/D+f rearranges for D>1; U substitution is a separate accepted bound."
+    },
+    {
+      "id": "OP-43",
+      "claim": "Entropy identity, strict chord comparison and halved leading term",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Exact entropy identity plus strict chord and zero expansion give strict gain and coefficient1/2."
+    },
+    {
+      "id": "OP-44",
+      "claim": "Fixed D before n; no uniform threshold or effective p rate inferred",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Every side limit has D fixed; no uniform rate, effective threshold or D(n) inferred."
+    },
+    {
+      "id": "OP-45",
+      "claim": "Even brickwall word gives longest permutation and is reduced",
+      "verdict": "passed in exact scoped statement",
+      "reason": "OE position cycle has halfpower reversal and inversion-length word, hence actual class."
+    },
+    {
+      "id": "OP-46",
+      "claim": "Brickwall x/k degrees and old product/Jensen ratio bound exact",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Actual x/k degrees give R; Jold/R bounded by F(m)^2<=2^(2(a+m)), endpoints retained."
+    },
+    {
+      "id": "OP-47",
+      "claim": "Auxiliary obstruction concerns uniform per-class degree gain only, not weighted-mass entropy",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Single class forbids uniform old per-class quadratic saving only, not weighted-sum entropy."
+    },
+    {
+      "id": "OP-48",
+      "claim": "Numerical value, effective E/R, actual SFT/mixing/variational bridge remain unproved",
+      "verdict": "passed in exact scoped statement",
+      "reason": "Value, E/R, fixed-D rate, actual SFT/mixing and profile-distribution claims remain absent."
+    }
+  ],
+  "substantive_issues": [],
+  "author_repair_required": false,
+  "program_gaps": [
+    "numerical value unknown",
+    "fixed-D effective rate absent",
+    "E/R unproved",
+    "common-prefix distribution at quadratic scale unknown"
+  ]
+}

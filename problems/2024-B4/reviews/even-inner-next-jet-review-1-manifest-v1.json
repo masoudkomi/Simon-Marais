@@ -1,0 +1,75 @@
+{
+  "frozen_at_utc": "2026-10-17T14:25:59.217126+00:00",
+  "status": "complete initially blind independent nonconstructor WHOLE NJ-v2 initial R1 audit",
+  "reviewer": "/root/review_2021_reasoning_j15_r2",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "candidate_sha256": "5197ab6841d0a97356484cf3a08a7163055449fa879bd8010886e28158532ef6",
+  "constructor_manifest_sha256": "7aec0a9fd4109910ea8d95e3b8e50860c4e8083bbe82249196617274d95b03a3",
+  "whole_claims": [
+    "NJ1-v2",
+    "NJ2-v2"
+  ],
+  "per_inference_ledger_rows": 40,
+  "author_obligations_covered": 10,
+  "substantive_objections": 0,
+  "required_author_repairs": 0,
+  "older_T1_T4_C7_C11_authorship_and_CP_GK_KC_CJ_DI_review_roles_disclosed": true,
+  "new_NJ_constructor_or_contributor": false,
+  "new_peer_NJ_findings_or_later_root_inspection_read_before_freeze": false,
+  "findings_sent_before_complete_initial_freeze": false,
+  "complete_v2_whole_reconstruction_not_partial_extension_check": true,
+  "old_v1_proof_assumed": false,
+  "both_claims_exact_quantifiers_boundaries_and_full_proofs_reconstructed": true,
+  "odd_inner_other_factors_annual_full_solution_or_novelty_claim": false,
+  "mathematical_program_CAS_scan_enumeration_author_rerun": false,
+  "candidate_shared_old_files_cache_or_Git_mutation": false,
+  "spawning_contact_charge_or_access_bypass": false,
+  "coordinator_promotion_performed": false,
+  "older_own_packets_unchanged": 52,
+  "latest_authoritative_weekly_usage": {
+    "at_utc": "2026-10-17 14:24:02 UTC (direct telemetry followed by UTC clock)",
+    "total_used_percent": 44,
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "total_ceiling_percent": 90,
+    "integration_reserve": true,
+    "ordinary_usage_allowed": true
+  },
+  "command": "python3 problems/2024-B4/reviews/even-inner-next-jet-review-1-freeze-v1.py",
+  "records": [
+    {
+      "path": "problems/2024-B4/reviews/even-inner-next-jet-review-1-initial-v1.md",
+      "bytes": 9959,
+      "sha256": "4d4ce9cc03220d5d5a35bd30d2f0772f3974c2e011d3abf3d0053cefc59cc875"
+    },
+    {
+      "path": "problems/2024-B4/reviews/even-inner-next-jet-review-1-issues-v1.json",
+      "bytes": 10814,
+      "sha256": "54a4ea648bb797cfadf72bcc99bae5c95e3f2b78b496b1d89611ef617f7f641d"
+    },
+    {
+      "path": "problems/2024-B4/reviews/even-inner-next-jet-review-1-source-checks-v1.md",
+      "bytes": 3537,
+      "sha256": "af31d75ee1e6ace1100a996dfbbf93ccf18a95c70772b7eac1220faec8573c2d"
+    },
+    {
+      "path": "problems/2024-B4/reviews/even-inner-next-jet-review-1-freeze-v1.py",
+      "bytes": 8980,
+      "sha256": "b9a81245c99237256e18b9bee4502c617ba7ceabc9b1dd312ef53901bfc21a85"
+    },
+    {
+      "path": "problems/2024-B4/reviews/even-inner-next-jet-review-1-input-validation-v1.json",
+      "bytes": 112846,
+      "sha256": "37fdd8ccc40b3d30fe339b0a34c0b9a2a719c747ce5608129941c5903110dbe8"
+    },
+    {
+      "path": "problems/2024-B4/reviews/even-inner-next-jet-review-1-freeze-output-v1.json",
+      "bytes": 1377,
+      "sha256": "cb18a1d0669d9c322d13e73285adbf811e5d90ed5a7a458be2235cbc90864040"
+    }
+  ]
+}

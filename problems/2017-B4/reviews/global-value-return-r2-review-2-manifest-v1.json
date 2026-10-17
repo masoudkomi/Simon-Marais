@@ -1,0 +1,76 @@
+{
+  "frozen_at_utc": "2026-10-17T14:34:33.259495+00:00",
+  "reviewer": "/root/review_2022_complexity_r2",
+  "status": "COMPLETE initially blind nonconstructor WHOLE OP1-OP3 R2; no substantive scoped issue; not promotion",
+  "requested_model": "gpt-6.1-sol",
+  "requested_reasoning_effort": "max",
+  "independently_verified_effective_settings": null,
+  "constructor_target_main": {
+    "path": "problems/2017-B4/notes/global-value-return-r2-candidate-v1.md",
+    "bytes": 22228,
+    "sha256": "49045e601d8934cbeb282b78162a34652b3a50772df66987b3c21280936befdc"
+  },
+  "constructor_target_freeze": {
+    "path": "problems/2017-B4/notes/global-value-return-r2-manifest-v1.json",
+    "bytes": 3351,
+    "sha256": "05b38b4c3af797def7910863d731b72e6d747b1fd945a4167a6e994270d892e6"
+  },
+  "whole_claims_reviewed": [
+    "OP1",
+    "OP2a/b/c",
+    "Q-dependent refinement and exact small fiber",
+    "OP3a/b/c",
+    "auxiliary actual brickwall per-class obstruction"
+  ],
+  "all48_constructor_obligations_covered": true,
+  "complete_reviewer_inference_checks": 52,
+  "substantive_issues_identified": 0,
+  "author_repair_requested": false,
+  "initial_frozen_before_any_new_peer_OP_findings": true,
+  "new_OP_nonconstructor_independence": true,
+  "older_G_author_and_V_review_roles_explicitly_disclosed": true,
+  "source_hypotheses_actual_scopes_and_old_certificate_limits_recorded": true,
+  "mathematical_program_scan_CAS_certificate_or_author_rerun": false,
+  "numerical_value_effective_E_R_actual_computability_annual_or_novelty_claim": false,
+  "input_record_occurrences_verified": 4512,
+  "input_unique_paths_verified": 1037,
+  "older_own_unique_frozen_paths_preserved": 259,
+  "old_shared_Git_cache_other_owner_edits_spawning_contact_charge_bypass": false,
+  "direct_weekly_telemetry": {
+    "at_utc": "2026-10-17T14:30:35+00:00",
+    "source": "direct account-wide telemetry paired with UTC clock",
+    "total_used_percent": 44,
+    "window_duration_minutes": 10080,
+    "resets_at_unix": 1792745187,
+    "ordinary_usage_allowed": true,
+    "total_used_ceiling_percent": 90,
+    "integration_reserve": true
+  },
+  "records": [
+    {
+      "path": "problems/2017-B4/reviews/global-value-return-r2-review-2-initial-v1.md",
+      "bytes": 16779,
+      "sha256": "58951fc82a4da7e9aac0272af5154b4f47ae404e79805cb1460726b87c0721fa"
+    },
+    {
+      "path": "problems/2017-B4/reviews/global-value-return-r2-review-2-issues-v1.md",
+      "bytes": 12600,
+      "sha256": "2da6868c40b5e1cebb56f8e3a0dba375301dd568c523a7bc3d4eef72cba1e47d"
+    },
+    {
+      "path": "problems/2017-B4/reviews/global-value-return-r2-review-2-source-checks-v1.md",
+      "bytes": 8914,
+      "sha256": "4fbade9edf5b3d5e862fc0bc8aa092ac858f1c57d130c9f65a323a9aead48120"
+    },
+    {
+      "path": "problems/2017-B4/reviews/global-value-return-r2-review-2-freeze-v1.py",
+      "bytes": 12834,
+      "sha256": "937a33d6c87ef6809b2208367d5296a33c6e3ae80351226d997f15baf5032de7"
+    },
+    {
+      "path": "problems/2017-B4/reviews/global-value-return-r2-review-2-input-validation-v1.json",
+      "bytes": 897284,
+      "sha256": "8dc04b7e305b8aa85ae15da1e9ef17562c15beb00a84a3cad39c962377b55e7f"
+    }
+  ]
+}

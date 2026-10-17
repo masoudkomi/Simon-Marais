@@ -1,0 +1,78 @@
+{
+  "frozen_at_utc": "2026-10-17T14:35:11.214278+00:00",
+  "status": "complete initially blind independent nonconstructor WHOLE R5A-R5E initial R2 audit",
+  "reviewer": "/root/review_2021_reasoning_j15_r2",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "candidate_sha256": "26cb2d236722c41a67fc7d23bcc6af1da162cb39182d6e846286b19cb554c67a",
+  "constructor_manifest_sha256": "bb654165037bef83a9c5105278775dda450268d0858937358cf54c0e3e7a3bfe",
+  "whole_claims": [
+    "R5A",
+    "R5B",
+    "R5C",
+    "R5D",
+    "R5E"
+  ],
+  "per_inference_ledger_rows": 64,
+  "author_obligations_covered": 52,
+  "substantive_objections": 0,
+  "required_author_repairs": 0,
+  "old_R3_whole_and_F4_repair_review_roles_disclosed": true,
+  "new_R4_R5_construction_lead_or_repair_contribution": false,
+  "new_peer_R5_findings_or_later_root_inspection_read_before_freeze": false,
+  "findings_sent_before_complete_initial_freeze": false,
+  "both_directions_exact_quantifiers_boundaries_and_full_written_deductions_reconstructed": true,
+  "published_proof_imports_and_unreconstructed_chains_explicit": true,
+  "extra_saturation_classical_hypothesis_and_necessary_only_matrix_preserved": true,
+  "annual_full_solution_new_cutoff_or_novelty_claim": false,
+  "mathematical_program_CAS_scan_enumeration_author_rerun": false,
+  "candidate_shared_old_files_cache_or_Git_mutation": false,
+  "spawning_contact_charge_or_access_bypass": false,
+  "coordinator_promotion_performed": false,
+  "older_own_packets_unchanged": 53,
+  "latest_authoritative_weekly_usage": {
+    "at_utc": "2026-10-17 14:34:09 UTC (direct telemetry followed by UTC clock)",
+    "total_used_percent": 45,
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "total_ceiling_percent": 90,
+    "integration_reserve": true,
+    "ordinary_usage_allowed": true
+  },
+  "command": "python3 problems/2020-B4/reviews/reasoning-return-r5-review-2-freeze-v1.py",
+  "records": [
+    {
+      "path": "problems/2020-B4/reviews/reasoning-return-r5-review-2-initial-v1.md",
+      "bytes": 17079,
+      "sha256": "56428df4ca369b48a4139ae657023088e75939bb1169dd700a7bd54c9ac84ec8"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-return-r5-review-2-issues-v1.json",
+      "bytes": 19220,
+      "sha256": "247442c759386fd6acea0e73cf8ee1b78d1c06bf770a7ffc8dc7d745f4d90878"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-return-r5-review-2-source-checks-v1.md",
+      "bytes": 6452,
+      "sha256": "65621871bea56a3166b627448726e4db5d5f13c7c33990fb5670ce055aedd198"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-return-r5-review-2-freeze-v1.py",
+      "bytes": 10968,
+      "sha256": "0c8abc7dcf18aeca5b0d5956718a01b908445bfb1b315e60f07c522d990f1731"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-return-r5-review-2-input-validation-v1.json",
+      "bytes": 176813,
+      "sha256": "10042e0e53d0513726d4a6d9bd7454a46498cae04e01934df3fecf3d5ca68cfb"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-return-r5-review-2-freeze-output-v1.json",
+      "bytes": 1626,
+      "sha256": "6eef5808fad9eb40fee80be82e31d5e7e32bc6f5659fcf8a9ca361993b5d22c3"
+    }
+  ]
+}

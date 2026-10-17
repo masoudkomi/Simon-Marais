@@ -1,0 +1,68 @@
+{
+  "frozen_at_utc": "2026-10-17T14:24:54.290740+00:00",
+  "status": "complete initially blind whole R2; all8 DI obligations pass in composition scope; coordinator reconciliation pending",
+  "reviewer": "/root/review_2017_coarsening_r1",
+  "new_DI_constructor": false,
+  "old_CP_authorship_and_related_KC_NV_CJ_audits_disclosed": true,
+  "new_independent_reaudit_of_own_older_CP_claim": false,
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "target": {
+    "path": "problems/2024-B4/notes/coordinator-P2-indecomposable-return-v1.md",
+    "bytes": 8550,
+    "sha256": "44a91d25943bb3d25f3c4a9c7fc2c2b7f498692889bf82b7dabbdb610b57c957"
+  },
+  "target_manifest": {
+    "path": "problems/2024-B4/notes/coordinator-P2-indecomposable-manifest-v1.json",
+    "bytes": 1108,
+    "sha256": "ab71ed21157e434de2d487628fae2c72748e6582e2f0e16fc7ed6e37005fc17b"
+  },
+  "whole_author_obligations_audited": 8,
+  "independent_inference_rows": 18,
+  "open_substantive_issues": 0,
+  "required_author_repairs": 0,
+  "arbitrary_characteristic_local_fiber_and_exact_q_order_reconstructed": true,
+  "composite_degree_and_transcendental_coefficient_extension_scope_checked": true,
+  "multiplicative_irreducibility_full_factorization_annual_or_novelty_claim": false,
+  "new_DI_peer_findings_read_before_initial_freeze": false,
+  "mathematical_program_CAS_scan_sample_certificate_or_author_rerun": false,
+  "earlier_frozen_and_context_records_verified_unchanged": 301,
+  "last_direct_weekly_telemetry": {
+    "total_used_percent": 44,
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "total_ceiling_percent": 90,
+    "integration_reserve": true
+  },
+  "administrative_command": "/Users/uqmkamga/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 problems/2024-B4/reviews/P2-indecomposable-review-2-freeze-v1.py",
+  "artifacts": [
+    {
+      "path": "problems/2024-B4/reviews/P2-indecomposable-review-2-initial-v1.md",
+      "bytes": 10385,
+      "sha256": "513d1d682d7722f0b1f5cba0dc529b48a715dbea040089c76397f06716f0a4dd"
+    },
+    {
+      "path": "problems/2024-B4/reviews/P2-indecomposable-review-2-issues-v1.md",
+      "bytes": 2961,
+      "sha256": "6cd6c7ad80ef4db60483b6b4eda4355d6626aa14f54e3f9a2d38c3f39a023ff4"
+    },
+    {
+      "path": "problems/2024-B4/reviews/P2-indecomposable-review-2-source-checks-v1.md",
+      "bytes": 2657,
+      "sha256": "5c48188d04efe243173f5d1d8842f3ad8facfb578825bf4964a16ff395a7f144"
+    },
+    {
+      "path": "problems/2024-B4/reviews/P2-indecomposable-review-2-freeze-v1.py",
+      "bytes": 5663,
+      "sha256": "1ef8a8d09118fe0598879c2c969556cc4537fa79e26a9faedb982dea05093f57"
+    },
+    {
+      "path": "problems/2024-B4/reviews/P2-indecomposable-review-2-input-validation-v1.json",
+      "bytes": 61976,
+      "sha256": "e8c800cb9a7c7d04d0b6c0811553323f69c51fb692233d5f7844c30b49c276a2"
+    }
+  ]
+}

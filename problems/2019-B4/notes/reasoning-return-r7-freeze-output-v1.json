@@ -1,0 +1,31 @@
+{
+  "checked_at_utc": "2026-10-17T14:18:38.557195+00:00",
+  "metadata_only_not_mathematical_evidence": true,
+  "claims": [
+    "R7A",
+    "R7B",
+    "R7C",
+    "R7D"
+  ],
+  "whole_obligations": 40,
+  "accepted_current_input_records": 10,
+  "context_current_input_records": 13,
+  "secondpass_authority_records_checked": 14,
+  "other_authority_fingerprint_occurrences_checked": 31,
+  "older_literature_cache_fingerprint_occurrences_checked": 0,
+  "older_own_packets_unchanged": 51,
+  "all_hash_checks_passed": true,
+  "status": "candidate proof - unverified; complete mathematical/source/failure checkpoint",
+  "exact_growth_value_selected_regime_new_numeric_or_novelty": false,
+  "two_OTHER_fresh_whole_nonconstructor_audits_required": true,
+  "latest_authoritative_weekly_usage": {
+    "at_utc": "2026-10-17 14:17:21 UTC (direct telemetry followed by UTC clock)",
+    "total_used_percent": 44,
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "total_ceiling_percent": 90,
+    "integration_reserve": true,
+    "ordinary_usage_allowed": true
+  },
+  "command": "python3 problems/2019-B4/notes/reasoning-return-r7-freeze-v1.py"
+}

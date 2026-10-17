@@ -129,3 +129,6 @@ Current12:03UTCtransition:36%TOTALweeklyused,64%remaining,54ppbefore90%,samerese
 
 
 2026-10-17 14:15:57UTC: authoritative accountmeter43%TOTALweeklyused,57%remaining,47ppbefore90%TOTAL. Reset1792745187 unchanged. Raw snapshot14:10:12UTC917896364total,868704512cachedinput,41813767uncachedinput,7378085output including3210188reasoning;uncached+output49191852. All62session sums match;5296deduplicatedresponses. Notabillorweeklyconversion. Ownedawakeverified00:15:57Brisbane. See status-2026-10-17-1416.md.
+
+
+2026-10-17 14:39:13UTC: direct accountmeter45%TOTALweeklyused/55%remaining,45ppbefore90%,reset1792745187unchanged. Raw14:39:31UTC966583508total including914768000cachedinput,44132888uncachedinput,7682620output including3308645reasoning;uncached+output51815508.62sessions/5517responses,allrecordedsumsmatch. No bill/weeklyconversion. Seven new scoped packets accepted;two full annual answers unchanged. See status-2026-10-17-1440.md. Research continues with integration reserve.

@@ -1,0 +1,65 @@
+{
+  "accepted_at_utc": "2026-10-17T14:39:04.344067+00:00",
+  "status": "proved, independently reviewed scoped partial result",
+  "whole_initials_blind": true,
+  "root_read_full_candidate_both_reports_all_ledgers_sources": true,
+  "unresolved_substantive_issues": 0,
+  "repair_required": false,
+  "candidate": {
+    "path": "problems/2025-B4/notes/coordinator-reciprocal-kernel-return-v1.md",
+    "bytes": 9541,
+    "sha256": "4c752f3ca4699ea0c184dbb79d79f9f192182cc91aeac7fd8a459b7b8bea49b8"
+  },
+  "accepted_copy": {
+    "path": "problems/2025-B4/proofs/reviewed-reciprocal-kernel-v1.1.md",
+    "bytes": 12969,
+    "sha256": "41d1882ce1efa59f24b5d76636125edeb037e712add8ee93632c2aa3d8030e60"
+  },
+  "verification_metadata": [
+    {
+      "path": "problems/2025-B4/notes/coordinator-reciprocal-kernel-manifest-v1.json",
+      "bytes": 1319,
+      "sha256": "6ba9a9c094b36a530e383e33e65961f1032ffe72fee601699dd135a88223aa86"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reciprocal-kernel-review-1-manifest-v1.json",
+      "bytes": 3077,
+      "sha256": "9acbcc65b0b41d5bc24a1681c698bca95d17e179ebc8353b5f971b48a42a2698"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reciprocal-kernel-review-1-input-validation-v1.json",
+      "bytes": 102817,
+      "sha256": "fb800c8a586e4113f75313e7af6e3513429e2cdf938ebfb91bc69cbda2cba5e4"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reciprocal-kernel-review-2-manifest-v1.json",
+      "bytes": 3081,
+      "sha256": "5a4c6aa8cb413df837ccd84532b80a2f9a8bb10f4de4ec0c56fee0a7da48b07c"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reciprocal-kernel-review-2-input-validation-v1.json",
+      "bytes": 67442,
+      "sha256": "3179a98ec95d9f27ca9d9cd00889d791ea8be42331004f8623a9f2d131fc8a99"
+    },
+    {
+      "path": "problems/2025-B4/reviews/original-weight-universal-acceptance.json",
+      "bytes": 2537,
+      "sha256": "73c04300bef8cfd0db3903c862af47dbdab5f859dc1a85d2cbb0c5a96fa6fa49"
+    }
+  ],
+  "record_occurrences_verified": 748,
+  "unique_paths_verified": 700,
+  "constructor": "coordinator root",
+  "constructor_excluded_from_independent_reviews": true,
+  "reviewers": [
+    "review_2021_reasoning_j15_r2",
+    "review_2017_coarsening_r1"
+  ],
+  "reviewer_checks": [
+    32,
+    22
+  ],
+  "author_obligations": 8,
+  "universal_p_ge37_corollary_uses_separately_accepted_UW": true,
+  "higher_jet_or_Diophantine_or_annual_or_novelty_claim": false
+}

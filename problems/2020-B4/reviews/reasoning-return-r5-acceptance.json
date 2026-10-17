@@ -1,0 +1,70 @@
+{
+  "accepted_at_utc": "2026-10-17T14:39:04.113005+00:00",
+  "status": "proved, independently reviewed scoped partial result",
+  "whole_initials_blind": true,
+  "root_read_full_candidate_both_reports_all_ledgers_sources": true,
+  "unresolved_substantive_issues": 0,
+  "repair_required": false,
+  "candidate": {
+    "path": "problems/2020-B4/notes/reasoning-return-r5-candidate-v1.md",
+    "bytes": 23485,
+    "sha256": "26cb2d236722c41a67fc7d23bcc6af1da162cb39182d6e846286b19cb554c67a"
+  },
+  "accepted_copy": {
+    "path": "problems/2020-B4/proofs/reviewed-reasoning-return-r5-v1.1.md",
+    "bytes": 26986,
+    "sha256": "a466aab8f96fe418497a8ce3dc60afc4bb9554868a08759bdd0492aa0ce7ce2a"
+  },
+  "verification_metadata": [
+    {
+      "path": "problems/2020-B4/notes/reasoning-return-r5-freeze-v1.json",
+      "bytes": 3920,
+      "sha256": "bb654165037bef83a9c5105278775dda450268d0858937358cf54c0e3e7a3bfe"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-return-r5-sources-v1.json",
+      "bytes": 11951,
+      "sha256": "867264abbad2a36cf5013745fdd2e6bc1ff6f6bb8bffde534e27ed16d70d041a"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-return-r5-input-validation-v1.json",
+      "bytes": 56028,
+      "sha256": "86b20671926b728eb4ead2478c5418b72ab9160fd1d639bd187272fb9e73e335"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-return-r5-review-1-manifest-v1.json",
+      "bytes": 1656,
+      "sha256": "07e70661e2a6d5c84ff424772b0482aac5d9034a5285d3cf7a5ebab40d601d3d"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-return-r5-review-1-integrity-v1.json",
+      "bytes": 1361,
+      "sha256": "7fb2b3aef7ef094ac39bf91179aa9ad414fc08f0e861bb68ed36e53219b33839"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-return-r5-review-2-manifest-v1.json",
+      "bytes": 3238,
+      "sha256": "db799db3b9f84db7b722107135b5547631bbde3db0411a207489986abcf0c05c"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-return-r5-review-2-input-validation-v1.json",
+      "bytes": 176813,
+      "sha256": "10042e0e53d0513726d4a6d9bd7454a46498cae04e01934df3fecf3d5ca68cfb"
+    }
+  ],
+  "record_occurrences_verified": 1051,
+  "unique_paths_verified": 678,
+  "constructor": "review_2022_complexity_r2",
+  "reviewers": [
+    "coordinator root",
+    "review_2021_reasoning_j15_r2"
+  ],
+  "reviewer_checks": [
+    52,
+    64
+  ],
+  "author_obligations": 52,
+  "root_new_construction_contribution": false,
+  "actual_saturation_extra_and_matrix_necessary_only": true,
+  "annual_or_odd_exclusion_or_novelty_claim": false
+}

@@ -1,0 +1,37 @@
+{
+  "checked_at_utc": "2026-10-17T14:25:59.217126+00:00",
+  "metadata_only_no_mathematical_computation": true,
+  "candidate": {
+    "path": "problems/2024-B4/notes/coordinator-even-inner-next-jet-return-v2.md",
+    "bytes": 12232,
+    "sha256": "5197ab6841d0a97356484cf3a08a7163055449fa879bd8010886e28158532ef6"
+  },
+  "constructor_manifest": {
+    "path": "problems/2024-B4/notes/coordinator-even-inner-next-jet-manifest-v2.json",
+    "bytes": 2368,
+    "sha256": "7aec0a9fd4109910ea8d95e3b8e50860c4e8083bbe82249196617274d95b03a3"
+  },
+  "constructor_records_checked": 9,
+  "accepted_authority_fingerprint_occurrences_checked": 35,
+  "whole_claims": [
+    "NJ1-v2",
+    "NJ2-v2"
+  ],
+  "per_inference_ledger_rows": 40,
+  "author_obligations_covered": 10,
+  "older_own_packets_unchanged": 52,
+  "all_hash_checks_passed": true,
+  "substantive_objections": 0,
+  "required_author_repairs": 0,
+  "new_peer_NJ_findings_or_later_root_inspection_read_before_freeze": false,
+  "latest_authoritative_weekly_usage": {
+    "at_utc": "2026-10-17 14:24:02 UTC (direct telemetry followed by UTC clock)",
+    "total_used_percent": 44,
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "total_ceiling_percent": 90,
+    "integration_reserve": true,
+    "ordinary_usage_allowed": true
+  },
+  "command": "python3 problems/2024-B4/reviews/even-inner-next-jet-review-1-freeze-v1.py"
+}

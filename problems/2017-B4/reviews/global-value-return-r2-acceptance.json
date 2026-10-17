@@ -1,0 +1,69 @@
+{
+  "accepted_at_utc": "2026-10-17T14:37:33.745363+00:00",
+  "status": "proved, independently reviewed scoped partial result",
+  "whole_initials_blind": true,
+  "root_read_full_candidate_both_reports_all_ledgers_sources": true,
+  "unresolved_substantive_issues": 0,
+  "repair_required": false,
+  "candidate": {
+    "path": "problems/2017-B4/notes/global-value-return-r2-candidate-v1.md",
+    "bytes": 22228,
+    "sha256": "49045e601d8934cbeb282b78162a34652b3a50772df66987b3c21280936befdc"
+  },
+  "accepted_copy": {
+    "path": "problems/2017-B4/proofs/reviewed-global-value-return-r2-v1.1.md",
+    "bytes": 25152,
+    "sha256": "18db84b72cc680e6a337721f8b43f3940adf6c3c17a8ee20e9c4d43d38c4a342"
+  },
+  "verification_metadata": [
+    {
+      "path": "problems/2017-B4/notes/global-value-return-r2-manifest-v1.json",
+      "bytes": 3351,
+      "sha256": "05b38b4c3af797def7910863d731b72e6d747b1fd945a4167a6e994270d892e6"
+    },
+    {
+      "path": "problems/2017-B4/notes/global-value-return-r2-sources-v1.json",
+      "bytes": 6922,
+      "sha256": "b097e516c3fc87c8747cf315e49af3653205f3809be035af66779a4f454b1aa1"
+    },
+    {
+      "path": "problems/2017-B4/notes/global-value-return-r2-input-validation-v1.json",
+      "bytes": 62324,
+      "sha256": "f57ab2e4f0171962a36d67ff89c477fb9389a753851bb08aacd0512f7344de7f"
+    },
+    {
+      "path": "problems/2017-B4/reviews/global-value-return-r2-review-1-manifest-v1.json",
+      "bytes": 1784,
+      "sha256": "78c9933d8aa1d5334e7fadce0845221e0bf28d91c4d0bf2b60d9cb5d47aead88"
+    },
+    {
+      "path": "problems/2017-B4/reviews/global-value-return-r2-review-1-integrity-v1.json",
+      "bytes": 1057,
+      "sha256": "717600dab5ff88dfb1b81d768729da5618dcc0fd22b6d7a903679d25956df86f"
+    },
+    {
+      "path": "problems/2017-B4/reviews/global-value-return-r2-review-2-manifest-v1.json",
+      "bytes": 3174,
+      "sha256": "c48258f6b6f14bdbf6b9fcbdc38e82bdd747ff25956292d4663ffe2329bfffd1"
+    },
+    {
+      "path": "problems/2017-B4/reviews/global-value-return-r2-review-2-input-validation-v1.json",
+      "bytes": 897284,
+      "sha256": "8dc04b7e305b8aa85ae15da1e9ef17562c15beb00a84a3cad39c962377b55e7f"
+    }
+  ],
+  "record_occurrences_verified": 4867,
+  "unique_paths_verified": 1046,
+  "constructor": "review_2017_coarsening_r1",
+  "reviewers": [
+    "coordinator root",
+    "review_2022_complexity_r2"
+  ],
+  "reviewer_checks": [
+    48,
+    52
+  ],
+  "author_obligations": 48,
+  "root_new_construction_contribution": false,
+  "full_annual_or_effectiveness_or_novelty_claim": false
+}
