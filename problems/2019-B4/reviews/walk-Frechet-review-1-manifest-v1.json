@@ -1,0 +1,78 @@
+{
+  "frozen_at_utc": "2026-10-17T15:46:32.704179+00:00",
+  "reviewer": "/root/review_2022_complexity_r2",
+  "status": "COMPLETE initially blind NONCONSTRUCTOR WHOLE2019DG R1; no substantive scoped issue; not promotion",
+  "requested_model": "gpt-6.1-sol",
+  "requested_reasoning_effort": "max",
+  "independently_verified_effective_settings": null,
+  "constructor_target_main": {
+    "path": "problems/2019-B4/notes/coordinator-walk-Frechet-return-v1.md",
+    "bytes": 15923,
+    "sha256": "a62416fe466f21265b6f6572ce5333f7bbe75744cb17c293ef963288b73bf8f2"
+  },
+  "constructor_target_freeze": {
+    "path": "problems/2019-B4/notes/coordinator-walk-Frechet-manifest-v1.json",
+    "bytes": 2046,
+    "sha256": "bd895bb6d18dee9a66fa337cce0b5f7330aa1a76c34a0bc8f692022611c5012d"
+  },
+  "whole_claims_reviewed": [
+    "DG1 exact all-finite-tape discrete height-strip equivalence",
+    "DG2 exact special closed continuous threshold equivalence with full interval/grid induction",
+    "DG3 independent fixed-bidegree square, ALLm balanced root rate and supremum",
+    "DG4 exact independent walk-pair probability and logarithmic rate",
+    "complete source conventions/long-edge firewall/postfreeze-context/dependency/domain limits"
+  ],
+  "all12_constructor_obligations_covered": true,
+  "complete_reviewer_inference_checks": 40,
+  "substantive_issues_identified": 0,
+  "author_repair_requested": false,
+  "initial_frozen_before_any_new_peer_DG_findings": true,
+  "new_DG_nonconstructor_independence": true,
+  "root_new_DG_constructor_excluded_from_independent_audit": true,
+  "older_review_roles_disclosed_without_self_recertification": true,
+  "unaccepted_MR_joining_finite_diagnostic_or_ECCC_result_imported": false,
+  "postfreeze_ECCC_context_only_actual_partial_reviewer_scope_disclosed": true,
+  "exact_lambda_positive_defect_annual_generic_equivalence_or_novelty_claim": false,
+  "mathematical_program_scan_sample_CAS_certificate_or_constructor_rerun": false,
+  "input_record_occurrences_verified": 7126,
+  "input_unique_paths_verified": 1227,
+  "older_own_unique_frozen_paths_preserved": 289,
+  "old_shared_Git_cache_other_owner_edits_spawning_contact_charge_bypass": false,
+  "direct_weekly_telemetry": {
+    "at_utc": "2026-10-17T15:43:36+00:00",
+    "source": "direct authoritative account-wide telemetry paired with UTC clock",
+    "total_used_percent": 48,
+    "window_duration_minutes": 10080,
+    "resets_at_unix": 1792745187,
+    "ordinary_usage_allowed": true,
+    "total_used_ceiling_percent": 90,
+    "integration_reserve": true
+  },
+  "records": [
+    {
+      "path": "problems/2019-B4/reviews/walk-Frechet-review-1-initial-v1.md",
+      "bytes": 17107,
+      "sha256": "baa94ea40f0aecfae2cd325e338c8fc9a70ea071e6caa8dd7cf82ef7190f65a9"
+    },
+    {
+      "path": "problems/2019-B4/reviews/walk-Frechet-review-1-issues-v1.md",
+      "bytes": 9813,
+      "sha256": "306c9299245cd2edeb7763cb2308d409dda08089059d58370561f66c72ce52da"
+    },
+    {
+      "path": "problems/2019-B4/reviews/walk-Frechet-review-1-source-checks-v1.md",
+      "bytes": 11375,
+      "sha256": "669ffa1f0ff10ec8c4d2309bc21e93d7324ecbbbfd1abc6c0adb7d7afd2b1d59"
+    },
+    {
+      "path": "problems/2019-B4/reviews/walk-Frechet-review-1-freeze-v1.py",
+      "bytes": 15941,
+      "sha256": "7af35beec591ff7b460f4d6dfa0c1a85cd6c835b0a6c631ef045d3c2465612bb"
+    },
+    {
+      "path": "problems/2019-B4/reviews/walk-Frechet-review-1-input-validation-v1.json",
+      "bytes": 1423030,
+      "sha256": "20790471fdff874d06e92e3089f0b44537901aa26de47b08d4d5c98b4e2f548b"
+    }
+  ]
+}

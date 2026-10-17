@@ -1,0 +1,331 @@
+{
+  "reviewer": "coordinator root",
+  "constructor": "/root/review_2021_reasoning_j15_r2",
+  "whole_audit": true,
+  "initially_blind": true,
+  "all_40_obligations_covered": true,
+  "substantive_issues": 0,
+  "repair_required": false,
+  "checks": [
+    {
+      "id": "R8-R1-01",
+      "obligations": [
+        "R8-O01"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "Official cached page2 freshly extracted: coefficients AND the common-root value for every derivative are rational. Only(b) is investigated."
+    },
+    {
+      "id": "R8-R1-02",
+      "obligations": [
+        "R8-O02"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "Checked the complete accepted R7 setting and the exact additional double-s hypothesis. Equal residue slots alone do not imply repetition."
+    },
+    {
+      "id": "R8-R1-03",
+      "obligations": [
+        "R8-O03"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "R5C global minimal-polynomial proof and R7 rational division exclude the entire degree14 carrier, leaving exactly0,1,r,s; simple1 gives gcd X-1."
+    },
+    {
+      "id": "R8-R1-04",
+      "obligations": [
+        "R8-O04"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "Direct binomial normalization gives D_j prime=jD_(j-1); binom(20,j)/19 is a unit for all j=6,8,10,12,14 and adjacent indices."
+    },
+    {
+      "id": "R8-R1-05",
+      "obligations": [
+        "R8-O05"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "Fresh exact R5D proof/acceptance read: RC2 plus PN4 forbids only the complete five-even ladder with actual repeated s and all witnesses."
+    },
+    {
+      "id": "R8-R1-06",
+      "obligations": [
+        "R8-O06"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "Complete R7 Euler input reconstructed in its accepted scope, arbitrary displacement and exact delta0 separately; no new upper-depth assumption."
+    },
+    {
+      "id": "R8-R1-07",
+      "obligations": [
+        "R8-O07"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "R7B supplies T3 only after excluding its nonunit essential-center option at the first actual break; zeros have infinite valuation."
+    },
+    {
+      "id": "R8-R1-08",
+      "obligations": [
+        "R8-O08"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "Q requires finite tau, integral coefficients and BOTH strict inequalities. Sigma infinity and tau at least nu are allowed; either equality boundary is excluded."
+    },
+    {
+      "id": "R8-R1-09",
+      "obligations": [
+        "R8-O09"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "D_(j-2)(r)=u+(j-2)a_(j-3)r+O(r\u00b2): latter depths nu+sigma and2nu strictly exceed tau. No cancellation of the unique minimum."
+    },
+    {
+      "id": "R8-R1-10",
+      "obligations": [
+        "R8-O10"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "Next even term depth2nu+tau+1 is below4nu+1; leading jnu is strictly higher even at nu1,j6 because integer tau<=2nu-1; E has depth at least5nu+1 or zero."
+    },
+    {
+      "id": "R8-R1-11",
+      "obligations": [
+        "R8-O11"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "The two least even terms cancel. Division by19 and by u*r\u00b2 yields -beta_(j-2)/beta_j, equal to -j(j-1)/((e+1)(e+2)) before residue reduction."
+    },
+    {
+      "id": "R8-R1-12",
+      "obligations": [
+        "R8-O12"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "First break excludes r; global carrier excludes every other root. For w0 or s, v(r-w)=nu. Cubic quotient depth2nu+sigma and higher3nu exceed nu+tau, so linear depth cannot be smaller."
+    },
+    {
+      "id": "R8-R1-13",
+      "obligations": [
+        "R8-O13"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "Evaluation at actual w gives a_j depth2nu+tau; at w0 it is exactly zero. Thus both C and ell in the quadratic are integral."
+    },
+    {
+      "id": "R8-R1-14",
+      "obligations": [
+        "R8-O14"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "Cubic excess nu+sigma-tau and quartic excess2nu-tau are positive. The adjacent derivative uses exactly the same strict bounds after division by u*r."
+    },
+    {
+      "id": "R8-R1-15",
+      "obligations": [
+        "R8-O15"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "Solved the quadratic and derivative equations directly. Forbidden products17,2,7 do not equal actual18,14,18,11,12. Both rho and2-rho are nonzero, so ell is nonzero and depth is exactly nu+tau."
+    },
+    {
+      "id": "R8-R1-16",
+      "obligations": [
+        "R8-O16"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "If H_e itself has no noncenter witness, E gives nonunit a_j and a_j=0 would restore witness0. Its constant is therefore finite and nonzero."
+    },
+    {
+      "id": "R8-R1-17",
+      "obligations": [
+        "R8-O17"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "Failure of the first R8B option plus T3 makes all three constants nonunit. A zero constant itself supplies0; a nonzero sole-center constant would give the forbidden option. Hence actual noncenter witnesses exist at each order."
+    },
+    {
+      "id": "R8-R1-18",
+      "obligations": [
+        "R8-O18"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "Sigma>=nu with tau<2nu meets Q, including sigma infinity; avoiding R8A forces tau>=2nu, including infinity."
+    },
+    {
+      "id": "R8-R1-19",
+      "obligations": [
+        "R8-O19"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "D_(j-2)(r) has depth>=2nu, all next even terms depth>=4nu+1, leading jnu>=6nu>=4nu+1 and E depth>=5nu+1. Therefore D_j(r) has depth>=4nu."
+    },
+    {
+      "id": "R8-R1-20",
+      "obligations": [
+        "R8-O20"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "The quotient at r,w has depth>=3nu. Quadratic/cubic/higher terms each have that depth, so a_(j-1)>=3nu; actual witness evaluation gives a_j>=4nu. Zeros cause no exception."
+    },
+    {
+      "id": "R8-R1-21",
+      "obligations": [
+        "R8-O21"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "If sigma<nu it is finite and nonnegative. Tau<nu+sigma would imply both bounds in Q; therefore tau>=nu+sigma."
+    },
+    {
+      "id": "R8-R1-22",
+      "obligations": [
+        "R8-O22"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "The next even term has depth>=3nu+sigma+1; later>=4nu+1, leading and E are strictly higher. Quotient/evaluation then give the asserted2nu+sigma and3nu+sigma lower depths."
+    },
+    {
+      "id": "R8-R1-23",
+      "obligations": [
+        "R8-O23"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "Scaling by nonzero a_(j-3)r\u00b3 is integral in every coefficient. All degree>=4 excesses are at least nu-sigma>0 and binom(j,3) is a nonzero19-unit."
+    },
+    {
+      "id": "R8-R1-24",
+      "obligations": [
+        "R8-O24"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "Before reduction r derivatives scale by r and r\u00b2. j and j(j-1)/2 are units, so all three actual witnesses imply Q(w)=Qprime(u)=H2Q(t)=0, with w0/2 and u,t0/1/2."
+    },
+    {
+      "id": "R8-R1-25",
+      "obligations": [
+        "R8-O25"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "Computed D_(j-2)(r)/(a_(j-3)r)=2H2Q(1)/(j(j-1)); beta quotient gives kappa=2/((e+1)(e+2)). This is the whole even identity at leading order."
+    },
+    {
+      "id": "R8-R1-26",
+      "obligations": [
+        "R8-O26"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "Higher even excess nu-sigma>0; E excess(e-4)nu-sigma>0; leading excess at least3nu-sigma-1>0 for every integer nu>=1, sigma<=nu-1, including j6."
+    },
+    {
+      "id": "R8-R1-27",
+      "obligations": [
+        "R8-O27"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "For Qtilde(z)=-Q(2-z), Qtilde(1)=-Q(1), H2Qtilde(1)=-H2Q(1); leading cubic stays b. All actual residue nodes are reflected, without any exact s=2r assumption."
+    },
+    {
+      "id": "R8-R1-28",
+      "obligations": [
+        "R8-O28"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "Writing Q/b=(z-t)^3-3(u-t)^2(z-t)+d and imposing Q(0)=0 gives Q(1)/b=1-3t+3t\u00b2-3(u-t)\u00b2. H2Q(1)/b=3(1-t), proving(4)."
+    },
+    {
+      "id": "R8-R1-29",
+      "obligations": [
+        "R8-O29"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "Hand checked all nine pairs: t0 kappa=u\u00b2-13 gives6,7,10; t1 gives1 or-2 and never0; t2 gives15-(u-2)\u00b2=11,14,15."
+    },
+    {
+      "id": "R8-R1-30",
+      "obligations": [
+        "R8-O30"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "Twice inverses of products18,14,18,11,12 are17,11,17,14,16. The intersections leave exactly m4,u0,t2 and m6,u1,t2 for w0."
+    },
+    {
+      "id": "R8-R1-31",
+      "obligations": [
+        "R8-O31"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "Expanded forms: m4 z\u00b2(z-6); reflection (z-2)\u00b2(z+4). m6 z(z-3)\u00b2; reflection (z-2)(z+1)\u00b2, all over F19. Signs and leading coefficients agree."
+    },
+    {
+      "id": "R8-R1-32",
+      "obligations": [
+        "R8-O32"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "Checked root/critical/inflection residues separately for all four cubics. Among0,1,2 each required witness is unique. Distinct actual0,r,s residues force the exact assignments, coefficient zeros and displayed derivative equations."
+    },
+    {
+      "id": "R8-R1-33",
+      "obligations": [
+        "R8-O33"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "The proof permits additional common center1 and does not infer a local or rational lift from any residue polynomial. The four rows are necessary alternatives, not actual constructed f."
+    },
+    {
+      "id": "R8-R1-34",
+      "obligations": [
+        "R8-O34"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "Odd m3,5,7 cannot be cubic. Either explicit coefficient condition violates T4. Essential-center order lies in e..e+2, hence overall6..16. Conditions are not automatic."
+    },
+    {
+      "id": "R8-R1-35",
+      "obligations": [
+        "R8-O35"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "Accepted affine involution is exact, rational, fixes1 and carries each H_k by a nonzero scalar. Thus branch and first break are preserved. No polynomial symmetry is assumed."
+    },
+    {
+      "id": "R8-R1-36",
+      "obligations": [
+        "R8-O36"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "For k=j-h, h0..3, every known term has depth at least(4-h)nu, every omitted term has power>=4-h with integral coefficient. Unit division and the involution prove both directions."
+    },
+    {
+      "id": "R8-R1-37",
+      "obligations": [
+        "R8-O37"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "D_(j-3)(s)=a_(j-3)+O(s) preserves sigma<nu and leading ratio1. rnew/r=-1 and old argument/r=2-z; the cubic scaling ratio is-1. Hence Qnew=-Q(2-z), exchanging both pairs."
+    },
+    {
+      "id": "R8-R1-38",
+      "obligations": [
+        "R8-O38"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "Old m3 Q=4z\u00b2+3z\u00b3 has H2=4+9z, whose root is8. It fails the added third witness condition while remaining valid for its old two-equation diagnostic scope."
+    },
+    {
+      "id": "R8-R1-39",
+      "obligations": [
+        "R8-O39"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "Minimum selected-witness bound10 is unused. Neither the degree-six residual nor degree14 carrier acquires its own CA property; stronger all-root/unramified literature remains inapplicable and the prime5 correction persists."
+    },
+    {
+      "id": "R8-R1-40",
+      "obligations": [
+        "R8-O40"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "Read complete main/40 obligations/source MD+JSON/failures/log/freeze; fresh official and primary source-limit checks recorded separately. No mathematical program, peer R8 conclusions, CAS, scan or author rerun. Older roles disclosed; the second whole audit is still required."
+    }
+  ]
+}

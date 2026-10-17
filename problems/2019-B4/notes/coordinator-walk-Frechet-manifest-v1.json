@@ -1,0 +1,60 @@
+{
+  "frozen_at_utc": "2026-10-17T15:29:08.133926+00:00",
+  "status": "candidate proof - unverified",
+  "constructor": "root",
+  "claims": [
+    "DG1 discrete equivalence",
+    "DG2 exact special continuous threshold equivalence",
+    "DG3 balanced full rate and supremum",
+    "DG4 exact independent walk probability rate"
+  ],
+  "whole_obligations": 12,
+  "two_OTHER_initially_blind_whole_audits_required": true,
+  "mathematical_program_CAS_scan_or_sample": false,
+  "annual_exact_lambda_positive_defect_or_novelty_claim": false,
+  "records": [
+    {
+      "path": "problems/2019-B4/notes/coordinator-walk-Frechet-return-v1.md",
+      "bytes": 15923,
+      "sha256": "a62416fe466f21265b6f6572ce5333f7bbe75744cb17c293ef963288b73bf8f2"
+    }
+  ],
+  "accepted_and_scope_inputs": [
+    {
+      "path": "problems/2019-B4/statement.md",
+      "bytes": 1252,
+      "sha256": "53d4201dca8bc4a77d995e3df14f95dd146e2df0c82d3b6447ad35a348e89de9"
+    },
+    {
+      "path": "problems/2019-B4/proof.md",
+      "bytes": 10500,
+      "sha256": "58f140f1fe9c64aa77d04a9c80a76f13411264d09d5f9e908f8e0997dc6985e2"
+    },
+    {
+      "path": "problems/2019-B4/reviews/acceptance.json",
+      "bytes": 1332,
+      "sha256": "f4e6077a25b81d9b52fd7a24cfc9e4f40e572d11c8125edaca420a7e0e28bb7d"
+    },
+    {
+      "path": "problems/2019-B4/notes/secondpass-canonical-renewal.md",
+      "bytes": 11807,
+      "sha256": "886266000a34023b033099889a3bb23bc6b3e642194ded12ce53b3aaa1642763"
+    },
+    {
+      "path": "problems/2019-B4/proofs/reviewed-reasoning-return-r7-v1.1.md",
+      "bytes": 17727,
+      "sha256": "4fe222b8b1d89b6b3d66bb16c6a1985390d537eee55bb42bfefdb2d4821e351a"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-return-r7-acceptance.json",
+      "bytes": 2560,
+      "sha256": "94ca56672f32f4624af71f41c48ddcf8757f1316b956586f6834cd1d7ee3b38b"
+    },
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    }
+  ],
+  "source_read_scopes_inline": true
+}

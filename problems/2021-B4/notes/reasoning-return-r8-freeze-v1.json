@@ -1,0 +1,84 @@
+{
+  "frozen_at_utc": "2026-10-17T15:36:51.123495+00:00",
+  "status": "candidate proof - unverified",
+  "constructor": "/root/review_2021_reasoning_j15_r2",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "claims": [
+    "R8A quadratic separation under tau<min(nu+sigma,2nu)",
+    "R8B first-break nonunit-essential-center or four weighted depths or four rigid actual-witness cubic alternatives",
+    "R8C exact two-frame preservation of four-depth block and reflected cubic forms",
+    "R8D stated odd-m coefficient-conditioned essential-center consequence"
+  ],
+  "whole_obligations": 40,
+  "requires_two_OTHER_fresh_initially_blind_nonconstructor_whole_audits": true,
+  "root_generic_assignment_only_no_new_R8_proof_inference_contribution": true,
+  "old_author_and_reviewer_roles_disclosed": true,
+  "actual_double_branch_rational_witnesses_and_global_carrier_required": true,
+  "neither_remaining_depth_cubic_nor_essential_center_alternative_excluded": true,
+  "ordinary_rational_or_Q19_lift_degree20_annual_or_novelty_claim": false,
+  "mathematical_program_CAS_scan_Hensel_table_certificate_or_author_rerun": false,
+  "all_fifty_seven_older_own_packets_unchanged": true,
+  "queued2019_walk_Frechet_target_or_new_peer_findings_read_before_complete_constructor_freeze": false,
+  "Git_shared_old_byte_cache_edit_spawning_charge_contact_or_bypass": false,
+  "latest_authoritative_weekly_usage": {
+    "at_utc": "2026-10-17 15:35:23 UTC (direct telemetry and UTC clock)",
+    "total_used_percent": 48,
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "total_ceiling_percent": 90,
+    "integration_reserve": true,
+    "ordinary_usage_allowed": true
+  },
+  "command": "python3 problems/2021-B4/notes/reasoning-return-r8-freeze-v1.py",
+  "artifacts": [
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r8-candidate-v1.md",
+      "bytes": 16961,
+      "sha256": "6bffa3b70e9d228b09e0a2ee3f049d7f5261fb98d484ebacff7abcbfde5eea26"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r8-obligations-v1.md",
+      "bytes": 5232,
+      "sha256": "78665a78db3849a034c2563eae99ab6f7caaf243fb1fa66d447afef87aa30f44"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r8-failed-routes-v1.md",
+      "bytes": 3800,
+      "sha256": "55ed01d1ca9a721da686aa693a26dc92f14539a93f863d64d7f35c9833644bb4"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r8-source-audit-v1.md",
+      "bytes": 5378,
+      "sha256": "9e00063fa0bc015f04af31758b9981a10f0617080d226c4e692b858171e58967"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r8-worklog-v1.md",
+      "bytes": 4544,
+      "sha256": "dca91a77f0f8837ff97f48765975e911e8898ab5ea21918e44da40c2c4ddb55d"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r8-sources-v1.json",
+      "bytes": 4664,
+      "sha256": "b0abec07bcc7002c6fbbd41972a829e3e27e1b7f8aa6aeb644f25c7b772f4530"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r8-freeze-v1.py",
+      "bytes": 8153,
+      "sha256": "c8a4f37e35017c125d83ffdde3c64c9ce6a5a4cf530ecd579d0436e34bc0acb6"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r8-input-validation-v1.json",
+      "bytes": 122380,
+      "sha256": "a90eec86f30d80ae7e068475ffed53636873703a3c40514bce3a3293c23bd59e"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r8-freeze-output-v1.json",
+      "bytes": 1109,
+      "sha256": "30e6b08add4bb57f66b2a79bfee1e58338ce35284a53d5f15fabf732a5d59888"
+    }
+  ]
+}

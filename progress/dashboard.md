@@ -12,7 +12,7 @@ Initial scope: nine official B4 open portions, 2017-2025. **2026 deferred by the
 |2022|Reviewed sharp rational-base fibers/CONDITIONAL exact-nine theorem. NEW R6 finite-prime periodic cycles, arbitrary finite ordinary shadows and restricted-ranking obstruction are accepted after both WHOLE audits. No ordinary infinite avoiding lift or universal termination proof is supplied.|
 |2023|COMPLETE internally reviewed classification for fixed positive nonsquare N: all(k,k),k>0, and(k,2k),(2k,k) for positive odd k. Priority remains unestablished.|
 |2024|NEW HR1/HR2 is accepted after both COMPLETE WHOLE audits: EVERY inner r>=2 in one fixed-q GK family has P_s=H(P_r) exactly s=r,H=T; the WHOLE homogeneous divisor criterion is exactly r1 or r=s. Other components, mixed-q cases and general factorization remain open. Earlier DI/NJ remain accepted.|
-|2025|UW/RK accepted: every prime p>=37 has two disjoint free original-weight reciprocal arrays. NEW R6 actual Jacobi lift, exact phase system and deliberately weak signed diagonal height bound is frozen UNVERIFIED; rootWHOLE R1 complete and otherWHOLE R2 active. No new Diophantine exclusion or annual solution.|
+|2025|UW/RK and NEW R6 accepted after BOTH complete whole audits: actual normalized Jacobi lifts, exact phase systems and a deliberately weak signed diagonal height bound. The bound is weaker than published bounds and supplies no new Diophantine exclusion. The full equation remains open.|
 
 ## Coordination
 
@@ -135,3 +135,16 @@ See [all-nine status and exact usage](status-2026-10-17-1416.md). New2024NJ-v2,2
 ## Checkpoint2026-10-17 15:19UTC
 
 Accepted2019MR1/conditionalMR2,2022R6finite-featureobstruction and2024HRall-index fixed-family theorem after both WHOLE audits/full root reconciliation. Two annual answers remain2018/2023;seven unresolved.2025R6 unverified/rootR1complete/otherR2active. New2020/2021reasoning continues.47%TOTALweekly;raw1,012,553,098 incl958,762,624cached,53,790,474uncached+output,3,454,301reasoning. See [status-2026-10-17-1519.md](status-2026-10-17-1519.md).
+
+
+## Checkpoint2026-10-17 15:48UTC
+
+Newly accepted since15:19: [2025 R6](../problems/2025-B4/reviews/reasoning-return-r6-acceptance.md). Root and B completed fresh initially blind WHOLE audits,50/60 checks covering all50 obligations. Root read the full main, BOTH reports, ALL ledgers and source records. No substantive issue remains. The classical matched-prime Jacobi ideal formula and bouquet/Vandermonde methodology are attributed; full foundational proofs are not claimed newly reconstructed. Both signed evaluation branches are handled, but the resulting bound is deliberately weaker than published bounds and settles no new arithmetic case. Universal jets, specially selected ordinary jets, actual semilinear phases and formal diagnostics retain distinct scopes.
+
+The [2019 exact walk/Fréchet bridge](../problems/2019-B4/notes/coordinator-walk-Frechet-return-v1.md) is CANDIDATE-UNVERIFIED. Its first whole audit is complete; the other is active. It identifies actual chronological contexts with two half-offset unit walks admitting a monotone matching of cost at most one half, and derives a balanced-count/probability formulation of the SAME unknown growth constant. It does not evaluate that constant. A [postfreeze literature addendum](../problems/2019-B4/notes/coordinator-walk-literature-addendum-v1.md) records the relevant2026 ECCC interval-chain/walk work and why its growing-threshold hypotheses do not evaluate the fixed-threshold rate. It is context only and changes no frozen mathematical premise. Root constructed the bridge and is excluded as an independent auditor.
+
+The COMPLETE [2021 R8](../problems/2021-B4/notes/reasoning-return-r8-candidate-v1.md) is CANDIDATE-UNVERIFIED. Root's complete initially blind WHOLE R1 is frozen; the second is queued after its reviewer's full2020 constructor checkpoint. A three-order actual-witness calculation narrows a restricted degree20 branch to an essential nonunit center, four weighted depths, or four rigid cubic patterns. Neither remaining alternative is eliminated and there is no rational lift or degree20 solution. No mathematical executable or scan supplies the new proof.
+
+The2020 nonsaturated multiplier/fixed-subgroup return is still under construction. Its provisional progress is NOT promoted or used as a proved result. B is preparing the OTHER whole audit against unchanged official/accepted sources while awaiting the full freeze; root will be whole R1. The2019 critical-code countermodel remains an UNVERIFIED research note about a DIFFERENT family, not an actual joining counterexample.
+
+Current all-nine/token report: [status-2026-10-17-1548.md](status-2026-10-17-1548.md). Account49%TOTALweekly; continue to90% with reserve.

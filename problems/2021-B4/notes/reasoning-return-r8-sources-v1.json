@@ -1,0 +1,86 @@
+{
+  "constructor": "/root/review_2021_reasoning_j15_r2",
+  "date_utc": "2026-10-17",
+  "status": "candidate proof - unverified",
+  "claims": [
+    "R8A quadratic separation under tau<min(nu+sigma,2nu)",
+    "R8B first-break nonunit-essential-center or four weighted depths or four rigid actual-witness cubic alternatives",
+    "R8C exact two-frame preservation of four-depth block and reflected cubic forms",
+    "R8D stated odd-m coefficient-conditioned essential-center consequence"
+  ],
+  "whole_obligations": 40,
+  "two_OTHER_fresh_initially_blind_whole_nonconstructor_audits_required": true,
+  "root_generic_assignment_only_no_new_R8_proof_inference_contribution": true,
+  "old_roles": ["seven-return/R6/R7 constructor", "J15/PN/R5 whole reviewer"],
+  "old_roles_are_independent_reviews_of_NEW_R8": false,
+  "accepted_inputs": [
+    {
+      "path": "problems/2021-B4/proofs/reviewed-reasoning-return-r7-v1.1.md",
+      "bytes": 20531,
+      "sha256": "4932a051d4a296b8a73d51c9a1cf07b7de52b6bd710b4fbeb113ee2f8c4fa1ea",
+      "complete_body_and_acceptance_scopes_freshly_read": true,
+      "scope": "exact actual-double branch, weighted triple, Euler input, full carrier consequence and involution; neither old alternative eliminated"
+    },
+    {
+      "path": "problems/2021-B4/proofs/reviewed-reasoning-return-r6-v1.1.md",
+      "bytes": 20411,
+      "sha256": "f15db94cc97ccf370298fad58364810cb0ff7d0a3493d52b588cf3da2119da96",
+      "complete_body_and_acceptance_scopes_freshly_read": true,
+      "scope": "Euler estimate with arbitrary displacement and exact delta0; old unit quadratic boundary"
+    },
+    {
+      "path": "problems/2021-B4/proofs/reviewed-reasoning-return-r5-v1.1.md",
+      "bytes": 23675,
+      "sha256": "f4f088adc133b0581520488cdbba30082c13b2402c96ae555142e5491ad4137d",
+      "complete_body_and_acceptance_scopes_freshly_read": true,
+      "scope": "R5D first even break and R5C GLOBAL carrier; selected minimum valuation bound not displacement bound"
+    }
+  ],
+  "freshly_read_context_paths": [
+    "problems/2021-B4/proofs/reviewed-odd-support-exclusion-v1.1.md",
+    "problems/2021-B4/proofs/reviewed-return-r3-v1.1.md",
+    "problems/2021-B4/notes/reasoning-return-r7-failed-routes-v1.md",
+    "problems/2021-B4/notes/reasoning-return-r7-source-audit-v1.md"
+  ],
+  "fresh_public_primary_reads": [
+    {
+      "title": "Simon Marais Mathematics Competition 2021 Paper B, page2 B4 hypothesis and(b)",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2021-paper-b.pdf",
+      "scope": "actual rational coefficients and rational common-root values; degree classification only",
+      "preliminary_part_proof_or_research": false,
+      "native_bytes_sha256": null
+    },
+    {
+      "authors": "W. Castryck, R. Laterveer, M. Ounaies",
+      "title": "Constraints on counterexamples to the Casas-Alvero conjecture, and a verification in degree12",
+      "url": "https://arxiv.org/pdf/1208.5404",
+      "citation": "Mathematics of Computation83(2014),3017--3037",
+      "scope": "normalized derivative equation7, Section3.4 equations9--10/Lemma17, complete Proposition19 proof and unramified-field qualification",
+      "entire_paper_proof_reconstructed": false,
+      "all_root_rational_or_unramified_theorem_applied_under_weaker_witness_hypotheses": false,
+      "native_bytes_sha256": null
+    },
+    {
+      "author": "Mohammad F. Marashdeh",
+      "title": "A descent-set obstruction for the Casas-Alvero conjecture",
+      "url": "https://arxiv.org/html/2608.14726v1",
+      "scope": "introductory support/scenario formulation, TheoremsB/C/D statements and explicit multi-root limitation",
+      "context_only_no_new_exclusion_import": true,
+      "entire_paper_proof_reconstructed": false,
+      "native_bytes_sha256": null
+    }
+  ],
+  "search_only_primary_leads_not_imported": [
+    "Massri three-recycled-root degree20 paper metadata",
+    "Abel--Goncharov and all-real-root interpolation leads"
+  ],
+  "new_external_mathematical_theorem_import": false,
+  "cubic_certificate": "complete symbolic nine-pair hand calculation, not a program or sample",
+  "mathematical_program_CAS_scan_Hensel_table_certificate_replay_or_author_rerun": false,
+  "actual_double_branch_elimination_Q19_Q_lift_or_full_degree20_annual_novelty_claim": false,
+  "old_2011_prime5_erratum_and_residual_CA_gap_preserved": true,
+  "new_native_retrieval_wait_download_cache_write_render_charge_contact_or_bypass": false,
+  "queued2019_walk_Frechet_target_or_peer_findings_read_before_complete_constructor_freeze": false,
+  "requested_settings": {"model": "gpt-6.1-sol", "reasoning": "max"},
+  "verified_effective_settings": null
+}

@@ -1,0 +1,27 @@
+{
+  "frozen_at_utc": "2026-10-17T15:36:51.123495+00:00",
+  "metadata_only_not_mathematical_evidence": true,
+  "candidate": {
+    "path": "problems/2021-B4/notes/reasoning-return-r8-candidate-v1.md",
+    "bytes": 16961,
+    "sha256": "6bffa3b70e9d228b09e0a2ee3f049d7f5261fb98d484ebacff7abcbfde5eea26"
+  },
+  "accepted_source_fingerprints_checked": 3,
+  "accepted_authority_declared_fingerprint_occurrences_checked": 27,
+  "accepted_exact_raw_suffixes_checked": 3,
+  "all_forty_obligation_labels_present": true,
+  "older_own_packets_unchanged": 57,
+  "all_hash_checks_passed": true,
+  "whole_actual_double_branch_degree20_annual_or_novelty_claim": false,
+  "requires_two_OTHER_fresh_initially_blind_whole_audits": true,
+  "latest_authoritative_weekly_usage": {
+    "at_utc": "2026-10-17 15:35:23 UTC (direct telemetry and UTC clock)",
+    "total_used_percent": 48,
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "total_ceiling_percent": 90,
+    "integration_reserve": true,
+    "ordinary_usage_allowed": true
+  },
+  "command": "python3 problems/2021-B4/notes/reasoning-return-r8-freeze-v1.py"
+}
