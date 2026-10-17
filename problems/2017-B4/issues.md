@@ -10,15 +10,22 @@ prefix discrepancy at most 1 but a join discrepancy of order L and
 enclosed area of order L squared. The valid labelled-displacement lemma
 and fixed bounded-gap conversion do not imply the overstrong corollary.
 The first reviewer has acknowledged the missed qualification after both
-initial reports were frozen. The author is preparing complete v1.1
-copies retaining explicit gap-dependent constants and rounding losses.
-**Both independent targeted re-audits are required before promotion.**
+initial reports were frozen. The author supplied complete v1.1 copies with explicit gap-dependent
+constants and rounding losses. **Both targeted re-audits are complete:**
+the coordinator read their full reports/issues/source records and checked
+83 manifest rows, accepting the scoped structural/P1 and qualified side
+lemmas. FD2-01 is resolved for v1.1 only; see
+reviews/fixedD-structural-acceptance.md/json.
 All original v1 bytes and the counterexample are preserved. EAI, profile
 recovery and H remain open.
 
-The separate directed-geodesic candidate and annulus candidate remain
-unverified. They state positive-margin and buffer restrictions explicitly;
-neither supplies a full fixed-boundary entropy limit.
+DG1/DG2 are accepted after both full fresh whole audits and14 manifest
+rows checked; see reviews/directed-geodesics-acceptance.md/json. Their
+positive-margin and whole-segment buffer restrictions remain explicit.
+The annulus initial R1 found substantive AR1-01: standalone A2 must retain
+all-color rank ranges, including absent colors. Author v1.1 is frozen;
+both targeted re-audits are required. The separately frozen CUT1/CUT2 and
+FL1/CL1/OB1 packets remain unverified. None supplies full H.
 
 DC1, DC2 and the conditional H transfer are accepted after both fresh
 whole reconstructions. Canonical gaps, port-code invariance, forced matching,

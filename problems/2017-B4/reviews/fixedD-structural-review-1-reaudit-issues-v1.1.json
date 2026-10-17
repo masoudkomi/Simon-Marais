@@ -1,0 +1,31 @@
+{
+  "reviewer": "review_2021_reasoning_j15_r2",
+  "type": "targeted nonconstructor re-audit of author repair FD2-01",
+  "requested_settings": {"model": "gpt-6.1-sol", "reasoning": "max"},
+  "verified_effective_settings": null,
+  "peer_original_whole_fixedD_report_read_after_both_initial_freezes": true,
+  "peer_targeted_reaudit_read": false,
+  "items": [
+    {
+      "id": "FD2-01",
+      "original_status": "substantive omitted hypothesis in profile v1 Section 4",
+      "reviewer1_initial_miss_acknowledged": true,
+      "targeted_disposition": "recommend resolution for v1.1 only; coordinator decides after both targeted re-audits",
+      "new_substantive_objections": 0,
+      "repair_checked": [
+        "Every active color has reference consecutive gaps <=G including positions 0 and N+1 sentinels",
+        "Prefix errors at t and t-1 give exact lower and upper occurrence bounds",
+        "Endpoint ranks, r=0, r beyond color counts and absent colors give |t-t_i(k)|<=G*r",
+        "Unchanged labelled envelope theorem gives 2(D-1)G*r join/meet displacement",
+        "Band O_D(G*r), area O_D(G*r*L), with ceil(epsilon L) and additive rounding terms retained",
+        "No D-only or degenerating-density uniformity is asserted",
+        "All-M counterexample and exact area 2M^2+2M preserved and independently reconstructed",
+        "Periodic replication, remainder padding, corners, phase, strata and combined PR losses expressly remain unproved obligations"
+      ],
+      "remaining_scope": "Only qualified side padding is established. EAI_D, PR, H and the full 2017 problem remain open. The separate annulus candidate is not a dependency."
+    }
+  ],
+  "candidate_or_initial_review_edits": false,
+  "promotion_by_reviewer": false,
+  "mathematical_computation_or_CAS": false
+}

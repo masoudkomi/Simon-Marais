@@ -1,0 +1,44 @@
+{
+  "frozen_at_utc": "2026-10-17T00:45:44.227572+00:00",
+  "constructor": "coordinator",
+  "status": "candidate proof - unverified",
+  "claims": [
+    "FL1 local zero-minor tile flux",
+    "CL1 exact clean consecutive-group interval coarsening and insertion",
+    "OB1 explicit local lifting obstruction from one within-group crossing"
+  ],
+  "two_fresh_nonconstructor_whole_audits_required": true,
+  "H_or_recovery_claimed": false,
+  "artifacts": [
+    {
+      "path": "problems/2017-B4/notes/coordinator-stratum-clean-lens-candidate-v1.md",
+      "bytes": 9160,
+      "sha256": "aa4c79b1fb3136ecd3e7c5ab845733697cca925ba8203b2988fba5c9a793bd95"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-interval-lift-counterexample-search-v1.py",
+      "bytes": 2438,
+      "sha256": "085dcc4d8f1a51bb6cac35eb4ab766b9d3ca1d0a85b8dbfef1e2619611635e9e"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-interval-lift-counterexample-v1-stdout.jsonl",
+      "bytes": 524,
+      "sha256": "8a6d1f44eb3750f175f080030d58bd832b7669e660e80c578b5ae20c821b321f"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-interval-lift-counterexample-v1-stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-interval-lift-counterexample-v1-job-start.json",
+      "bytes": 221,
+      "sha256": "97b2d6e4e384dc284d3560059124ec2087295b2f2ea3fbc9904f904d16ba2812"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-interval-lift-counterexample-v1-job.json",
+      "bytes": 321,
+      "sha256": "b3e547edbf2ad6fa90f4193d182a22754733a26873c26cba449d37c53767a086"
+    }
+  ]
+}

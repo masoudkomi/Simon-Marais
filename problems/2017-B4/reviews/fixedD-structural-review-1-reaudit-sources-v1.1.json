@@ -1,0 +1,39 @@
+{
+  "reviewer": "review_2021_reasoning_j15_r2",
+  "verification_date_utc": "2026-10-17",
+  "type": "targeted FD2-01 repair source and provenance checks",
+  "local_read_scope": [
+    {"path": "AGENTS.md", "scope": "Full current research protocol"},
+    {"path": "problems/2017-B4/notes/fixedD-reasoning-r1-structural-candidate-v1.1.md", "scope": "Entire replacement, particularly Sections 4-5 and complete read-only diff from v1"},
+    {"path": "problems/2017-B4/notes/fixedD-reasoning-r1-profile-reduction-v1.1.md", "scope": "Entire replacement and complete read-only diff, particularly every changed recovery/EAI and side-padding passage"},
+    {"path": "problems/2017-B4/notes/fixedD-reasoning-r1-repair-FD2-01-v1.1.md", "scope": "Entire author acknowledgement and exact finite-word proof"},
+    {"path": "problems/2017-B4/notes/fixedD-reasoning-r1-sources-v1.1.json", "scope": "Entire provenance, repair claims and scope ledger"},
+    {"path": "problems/2017-B4/notes/fixedD-reasoning-r1-freeze-v1.1.json", "scope": "All input and preserved v1/review fingerprints"},
+    {"path": "problems/2017-B4/reviews/fixedD-structural-review-2-initial.md", "scope": "Entire original whole report after both initial audits froze; not the targeted repair audit"},
+    {"path": "problems/2017-B4/reviews/fixedD-structural-review-2-issues.md", "scope": "Entire original issue ledger including all-M family"},
+    {"path": "problems/2017-B4/reviews/fixedD-structural-review-2-source-checks.md", "scope": "Original primary-source checks and provenance"}
+  ],
+  "mathematical_source_scope": "Repair uses only the self-contained finite-word prefix inequalities, end sentinels, weak-order inversion closure and positive swap shelling. No new external theorem, source download or annulus result is imported.",
+  "original_primary_checks": "The prior whole structural source audit remains frozen. No changed external theorem use requires repeating those source retrievals for this localized repair.",
+  "independence_and_preservation": {
+    "nonconstructor": true,
+    "peer_targeted_v1_1_findings_read": false,
+    "both_original_fixedD_reports_frozen_before_peer_original_read": true,
+    "annulus_initial_report_frozen_before_repair_read": true,
+    "annulus_used_as_repair_dependency": false,
+    "initial_review_missed_omission_acknowledged_without_edit": true,
+    "all_older_own_packets_reverified": "See input-validation-v1.1.json"
+  },
+  "operations": {
+    "read_only_diff_exit_code": "1 means expected differences for both v1/v1.1 comparisons",
+    "mathematical_enumeration_or_CAS": false,
+    "metadata_only_computation": true,
+    "candidate_shared_or_Git_edits": false,
+    "spawning_charges_contact_or_access_bypass": false,
+    "new_external_source_retrieval": false,
+    "latest_authoritative_weekly_total_used_percent": 20,
+    "weekly_window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "total_weekly_used_ceiling_percent": 90
+  }
+}

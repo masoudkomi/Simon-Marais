@@ -1,0 +1,228 @@
+--- annulus-reasoning-r1-candidate-v1.md
++++ annulus-reasoning-r1-candidate-v1.1.md
+@@ -1,11 +1,19 @@
+ # A closed rank-matched collar at a strictly positive rational D4 slope
+ 
+-2026-10-17 UTC. **Candidate proof - unverified.** Constructor:
++2026-10-17 UTC. **Candidate proof - unverified, version 1.1.** Constructor:
+ `review_2017_coarsening_r1`, in a separate construction assignment after
+ freezing all assigned reviews. Requested `gpt-6.1-sol` / `max`; effective
+ settings have no verified readback. Two fresh independent nonconstructor
+ whole audits are required. No proof of hypothesis(H), no full2017
+ solution and no novelty are claimed.
++
++This complete versioned copy repairs the standalone rank-domain omission
++AR1-01 identified by the first fresh whole audit, and makes the second
++audit's ANN2-N1/N2 geometric and scope clarifications explicit. Both
++complete initial reports and ledgers were read only after their freezes.
++The frozen v1 and all initial reports remain unchanged. Both targeted
++independent re-audits and coordinator reconciliation are required; this
++author copy does not close a reviewer issue or promote the result.
+ 
+ The principal results below are A1--A5: a global rank-prefix criterion,
+ an exact tiled annulus, a quantitative strictly-positive collar test,
+@@ -62,9 +70,11 @@
+ linear extension of P0. An integer vector h with0<=h_i<=N_i is the
+ prefix count of such an extension exactly when
+ 
+-    I(h)={(i,k):1<=k<=h_i}
+-
+-is an ideal of P0. Equivalently, for every i<j the point(h_i,h_j)
++    I(h)={(i,k):1<=k<=h_i}, defined for 0<=h_i<=N_i,
++
++is an ideal of P0. Its rank-box domain is part of the assertion; the
++set formula alone is not a substitute for the coordinate bounds.
++Equivalently, for every i<j the point(h_i,h_j)
+ belongs to the closed two-color weak lens between the i,j subwords
+ of p0 and q0.
+ 
+@@ -96,15 +106,31 @@
+ **Claim A2.** Suppose p0<=q0 bound a Jordan outer lens Omega0.
+ An actual tiled inner Jordan lens Omega has boundary words p<=q,
+ starts at integer height a and ends at b=a+m, and lies strictly inside
+-Omega0 in physical space. Identify its color-i ranks with global
+-ranks a_i+1,...,b_i. Assume every inner boundary vertex height h has
+-I(h) ideal in P0. Then Omega0 minus the interior of Omega has a
++Omega0 in physical space. The outer frame starts at height zero, and
++the available color-i ranks are 1,...,N_i. Explicitly require
++
++    0<=a_i<=b_i<=N_i for every i.                       (R)
++
++Identify the inner color-i ranks with the consecutive global ranks
++a_i+1,...,b_i. Empty inner colors m_i=0 are allowed; their a_i=b_i
++still must satisfy (R). Every boundary height h is coordinatewise
++between a and b, hence lies in the domain of I. Assume every such
++I(h) is an ideal in P0. Then Omega0 minus the interior of Omega has a
+ parallelogram tiling matching the complete inner and outer lifted
+ boundaries. It can be chosen from the inner boundary alone. Consequently
+ insertion of different inner tilings with that boundary is injective.
+ 
+-The initial and final prefix sets I(a),I(b) are ideals. Let A be the
+-p0 order restricted to I(a), and B the p0 order restricted to the
++For an outer frame based at an arbitrary integer height z0, use the
++relative condition z0_i<=a_i<=b_i<=z0_i+N_i and the ideals
++I(h-z0). The global ranks are z0_i+1,...,z0_i+N_i. Rebase physical
++coordinates by Vz0 and heights by z0; the proof below is then exactly
++the zero-based statement. This is a fixed rank translation, not a free
++change of the assigned inner offset.
++
++The initial and final prefix sets I(a),I(b) are ideals. By (R), their
++actual coordinate counts are exactly a,b, with no coordinate truncated
++by the set formula. Let A be the p0 order restricted to I(a), and
++B the p0 order restricted to the
+ complement of I(b). The two full words
+ 
+     w_lower=A p B,       w_upper=A q B
+@@ -137,7 +163,7 @@
+ without a matching factor, a crossing-order factor or a label factorial.
+ 
+ If the inner boundary itself varies but has at most cL letters on
+-each side and integer heights of magnitude at most cL, the data
++each side and relative integer heights of magnitude at most cL, the data
+ (a,p,q) have at most
+ 
+     (2cL+1)^4 * 4^(2cL)
+@@ -159,9 +185,13 @@
+ The proof below does not require J rational. Rationality is used for
+ the canonical frames of A4.
+ 
+-**Claim A3.** In A2, let a0(x) be the outer boundary lift, and h(x)
+-the inner boundary lift, in common physical and integer-height
+-coordinates. Suppose for some c in ker V,
++**Claim A3.** Retain the outer Jordan frame, actual inner Jordan
++lens, comparable words and assigned integer lifts of A2. Do not yet
++assume (R), boundary ideality or strict nesting; use the containment
++and vertex-distance hypothesis below. Normalize the outer starting
++height to zero. Let a0(x) be the outer
++boundary lift, and h(x) the assigned inner boundary lift, in common
++physical and integer-height coordinates. Suppose for some c in ker V,
+ 
+     ||a0(x)-Jx-c||_infinity <= E0 on the outer boundary,
+     ||h(x)-Jx-c||_infinity <= E1 on inner boundary vertices.
+@@ -171,8 +201,21 @@
+ 
+     sigma(J)*t > sqrt(2)*(E0+E1),                     (3)
+ 
+-then every ideal condition in A2 holds. Hence there is a closed
++then both (R) and every ideal condition in A2 hold. Hence there is a closed
+ rank-matched tiled annulus and the stated injection.
++
++The containment and positive vertex distance imply the strict nesting
++needed in A2 in this exact geometry. Every boundary edge has integer
++endpoints and horizontal displacement one. On each interval [k,k+1]
++containing an inner edge, that edge and each outer boundary path are
++affine graphs. At its two endpoints the inner vertex lies strictly
++between the outer graphs, by containment and positive distance. Both
++affine gap functions are therefore positive on the entire interval.
++No interior edge contact is possible. The whole closed inner lens is
++strictly inside the outer Jordan domain; compactness gives positive
++separation. This argument does not claim that its minimum distance
++everywhere equals the vertex bound t. The winding proof below tests
++the boundary vertices, for which the stated bound is exactly available.
+ 
+ Fix an inner boundary vertex x and a color pair i<j. Let gamma be
+ the counterclockwise physical outer boundary and let gamma_ij be its
+@@ -189,7 +232,21 @@
+ two-color boundary paths. Their interiors do not cross. Its winding
+ is one exactly in their projected weak lens and zero outside (shared
+ boundary pieces cancel). In particular h_ij(x) is in that lens.
+-Applying this to all six pairs gives A1, and A2 applies.
++Each closed projected lens is contained in the rectangle
++[0,N_i] times [0,N_j]. Thus winding one first forces all coordinates
++of h into the available rank box. Applying this at the initial and
++final inner vertices gives (R), including every absent inner color.
++Only after this range check do we apply A1 to all six projected lenses
++and conclude boundary ideality. The corrected A2 therefore applies.
++
++For an outer starting height z0, set x_prime=x-Vz0 and
++h_prime=h-z0. The affine offset becomes
++
++    c_prime=c-(I-JV)z0 in ker V.
++
++Both affine error bounds and the physical distance condition are
++unchanged. The same argument gives the relative rank-box and ideal
++conditions required by translated A2.
+ 
+ The rank offsets in a need not be zero. They are checked by these
+ six inequalities at once. Corners are included in the one closed
+@@ -342,12 +399,56 @@
+ factor, so their logarithmic effect is O_J(1) and the main-lens
+ entropy limit is identical.
+ 
+-A2--A4 therefore transfer any family of near-flat **lens** patches
+-to one of these fixed rational-slope boundaries with an explicit
+-closed annulus. For a fixed inner boundary the transfer is injective;
+-for O(L)-length varying boundaries it loses only O(L) bits. A5 gives
+-an actual all-scale local boundary entropy limit for the receiving
+-family. These are the intended useful strict-slope conclusions.
++A2--A4 therefore give a conditional transfer with all frame data
++retained. Fix a rational J with all ordered minors strictly positive,
++one common affine offset c, one phase choice, and a receiving canonical
++integer frame. The inner patches must be actual Jordan two-path lenses
++with comparable boundary words and their assigned integer lifts. They
++must be physically contained in that frame and satisfy the common-affine
++error bounds and quantitative buffer inequality in A3. These hypotheses
++give the rank box and ideals before the closed annulus is constructed.
++If A2 is used directly, its rank box and ideal hypotheses must instead
++be supplied explicitly.
++
++For a fixed inner boundary this transfer is injective. For varying
++boundary codes of O(L) letters and O(L) relative integer offsets it
++loses at most O(L) bits. A5 gives an actual all-scale local boundary
++entropy limit for the receiving family. This does not itself construct
++a thin surrounding canonical frame for an arbitrarily shaped lens or
++bound its relative area overhead. No independent corner offset, free
++phase change, or uniform zero-minor limit is included.
++
++## An exact obstruction to omitting the rank box
++
++The rank-box condition in A2 is necessary even for an inner color
++that does not occur. This finite example, supplied by the first fresh
++whole reviewer, diagnoses the literal v1 statement. Take outer content
++N=(10,10,10,10), with ascending color blocks for p0 and descending
++color blocks for q0. The physical lens is the convex zonogon Z_10;
++P0 consists of the four independent same-color chains.
++
++Take the single inner type-13 tile, with lower word 13 and upper
++word 31, assigned start and end heights
++
++    a=(7,-2,7,4),  b=(8,-2,8,4).
++
++Its physical vertices are (16,24),(17,24),(17,26),(18,26). The
++whole tile is strictly inside Z_10: it also has coefficient representatives
++(4,4,4,4)+alpha e1+beta e3 with 0<=alpha,beta<=1, all in the
++interior of the coefficient cube [0,10]^4. Surjectivity of V sends
++small open coefficient neighborhoods to physical neighborhoods, so
++compactness gives positive distance to the zonogon boundary.
++
++Every set given by the literal formula for I at these four heights
++is an ideal of P0, since it merely truncates the negative color-2
++coordinate to an empty prefix. Active color-1 and color-3 ranks are
++valid rank 8; the absent color-2 interval is empty and imposes no
++lower bound by itself. Nevertheless no full outer tiling has color-2
++height -2 relative to its prescribed boundary base. The proposed entry
++seam from the truncated ideal would end at height (7,0,7,4), physically
++(18,26), instead of the assigned start (16,24). This is an actual
++failed rank assignment, not a failure of the corrected shelling proof.
++Condition (R) excludes it. A3 already excludes it by its winding test.
+ 
+ ## An exact obstruction to omitting the phase/buffer condition
+ 
+@@ -379,10 +480,13 @@
+ The statements above start with an actual inner two-path lens. To use
+ them for every nearly affine cut window one must still construct such
+ a lens after discarding only a thin boundary band, and account for
+-the discarded information. The coordinator's suggested directed-geodesic
+-route may supply that interface, but its candidate is not an accepted
+-dependency here. No fresh fixed-D review conclusions were consulted
+-during the construction of A1--A5.
++the discarded information. The coordinator's separate directed-geodesic
++results and cutting candidate may supply parts of that interface, but
++neither is a premise of this repair.
++The original A1--A5 construction preceded the fresh annulus audits;
++this v1.1 author copy uses their complete frozen reports to repair
++AR1-01 and to state ANN2-N1/N2 explicitly. Neither initial report was
++altered and both targeted re-audits remain required.
+ 
+ For a thin discarded band of area delta L², a fixed finite-alphabet
+ encoding would cost O(delta L²+L) bits, once the required controlled

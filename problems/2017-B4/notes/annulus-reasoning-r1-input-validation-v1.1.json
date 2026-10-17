@@ -1,0 +1,381 @@
+{
+  "validated_at_utc": "2026-10-17T00:50:12.144784+00:00",
+  "original_annulus_manifest": {
+    "path": "problems/2017-B4/notes/annulus-reasoning-r1-freeze-v1.json",
+    "bytes": 5865,
+    "sha256": "958640fdb6a6f30b17306b3ba01014431e26fc544a26ab06f186f4e2a4f8e6cc"
+  },
+  "original_annulus_artifacts": [
+    {
+      "path": "problems/2017-B4/notes/annulus-reasoning-r1-candidate-v1.md",
+      "bytes": 20465,
+      "sha256": "020d3f6408f9423b83ac2d5633d3e508a7468a16ebe6db673879fca2af1ff610"
+    },
+    {
+      "path": "problems/2017-B4/notes/annulus-reasoning-r1-worklog-v1.md",
+      "bytes": 4679,
+      "sha256": "f99a0f7342060bd5dcaea5ad09a97963e9a99d732e8d29ccd52c89e75a22e701"
+    },
+    {
+      "path": "problems/2017-B4/notes/annulus-reasoning-r1-sources-v1.json",
+      "bytes": 3624,
+      "sha256": "6ec82a9ffcffcc87cd0291246f660db27af841387f9623aa8692ce0290e481ff"
+    }
+  ],
+  "first_initial_review_manifest": {
+    "path": "problems/2017-B4/reviews/annulus-review-1-manifest-v1.json",
+    "bytes": 2147,
+    "sha256": "ec84d96e034b1ec6e8c550b402c28c97960f636e3ccde321b82c2fcbfe076b87"
+  },
+  "first_initial_review_records_preserved": [
+    {
+      "path": "problems/2017-B4/reviews/annulus-review-1-initial-v1.md",
+      "bytes": 20658,
+      "sha256": "d838024e191f862128b20fb3ccf8b3de0699a4d1b9b92c43104625152b51ef7e"
+    },
+    {
+      "path": "problems/2017-B4/reviews/annulus-review-1-issues-v1.json",
+      "bytes": 3487,
+      "sha256": "b4b15edbf66bc237196759998c2393f777af0af85bd219bb8c2892422797e167"
+    },
+    {
+      "path": "problems/2017-B4/reviews/annulus-review-1-sources-v1.json",
+      "bytes": 2909,
+      "sha256": "6b12197809ef646ce587f40e13252b2bce61a1e7f058d8f256af68d85e36eeb2"
+    },
+    {
+      "path": "problems/2017-B4/reviews/annulus-review-1-freeze-v1.py",
+      "bytes": 4706,
+      "sha256": "f8a22c78677bc241fdb469f13200e888b579bee098b1b01150325418dd12bc15"
+    },
+    {
+      "path": "problems/2017-B4/reviews/annulus-review-1-input-validation-v1.json",
+      "bytes": 12047,
+      "sha256": "65469eeb6be0fd76af7417433d5ff8f0abdf9e8d6cd143c2ee0657300937c602"
+    },
+    {
+      "path": "problems/2017-B4/reviews/annulus-review-1-freeze-output-v1.json",
+      "bytes": 430,
+      "sha256": "68f8ecadc1691c5964d7a902d95dcfc2ec1e05877d2dc8f5eb4fe16b8ede1add"
+    }
+  ],
+  "second_initial_review_manifest": {
+    "path": "problems/2017-B4/reviews/annulus-review-2-freeze-manifest.json",
+    "bytes": 8908,
+    "sha256": "c92593a87bcba497f5f5562440c08d499e9f479f77b2baf34d685b7a45ba2d9b"
+  },
+  "second_initial_review_records_preserved": [
+    {
+      "path": "problems/2017-B4/reviews/annulus-review-2-initial.md",
+      "bytes": 26371,
+      "sha256": "4646722e236585b1493450804183c43b3ea9c9de6d4f6bb4289d3941eff6bf7b"
+    },
+    {
+      "path": "problems/2017-B4/reviews/annulus-review-2-issues.md",
+      "bytes": 6198,
+      "sha256": "b85bab93773bf7d742dde8c49535665c19988375e096da41ab1baaade14548f9"
+    },
+    {
+      "path": "problems/2017-B4/reviews/annulus-review-2-source-checks.md",
+      "bytes": 4964,
+      "sha256": "97182221677f085569ceed3f34d65de29b4097d06cc546c955b52d19d78c123e"
+    }
+  ],
+  "first_and_second_initials_read_only_after_their_freezes": true,
+  "source_review_input_hashes_verified": [
+    {
+      "path": "problems/2017-B4/reviews/annulus-review-1-initial-v1.md",
+      "bytes": 20658,
+      "sha256": "d838024e191f862128b20fb3ccf8b3de0699a4d1b9b92c43104625152b51ef7e"
+    },
+    {
+      "path": "problems/2017-B4/reviews/annulus-review-1-issues-v1.json",
+      "bytes": 3487,
+      "sha256": "b4b15edbf66bc237196759998c2393f777af0af85bd219bb8c2892422797e167"
+    },
+    {
+      "path": "problems/2017-B4/reviews/annulus-review-1-sources-v1.json",
+      "bytes": 2909,
+      "sha256": "6b12197809ef646ce587f40e13252b2bce61a1e7f058d8f256af68d85e36eeb2"
+    },
+    {
+      "path": "problems/2017-B4/reviews/annulus-review-1-manifest-v1.json",
+      "bytes": 2147,
+      "sha256": "ec84d96e034b1ec6e8c550b402c28c97960f636e3ccde321b82c2fcbfe076b87"
+    },
+    {
+      "path": "problems/2017-B4/reviews/annulus-review-2-initial.md",
+      "bytes": 26371,
+      "sha256": "4646722e236585b1493450804183c43b3ea9c9de6d4f6bb4289d3941eff6bf7b"
+    },
+    {
+      "path": "problems/2017-B4/reviews/annulus-review-2-issues.md",
+      "bytes": 6198,
+      "sha256": "b85bab93773bf7d742dde8c49535665c19988375e096da41ab1baaade14548f9"
+    },
+    {
+      "path": "problems/2017-B4/reviews/annulus-review-2-source-checks.md",
+      "bytes": 4964,
+      "sha256": "97182221677f085569ceed3f34d65de29b4097d06cc546c955b52d19d78c123e"
+    },
+    {
+      "path": "problems/2017-B4/reviews/annulus-review-2-freeze-manifest.json",
+      "bytes": 8908,
+      "sha256": "c92593a87bcba497f5f5562440c08d499e9f479f77b2baf34d685b7a45ba2d9b"
+    }
+  ],
+  "divisor_review_manifest": {
+    "path": "problems/2024-B4/reviews/divisor-review-1-manifest-initial.json",
+    "bytes": 4235,
+    "sha256": "4295019c96eb5e7803e71f4206c963742d6023e8cd163c42ed0c93e8fd9c3157"
+  },
+  "divisor_review_records_preserved": [
+    {
+      "path": "problems/2024-B4/reviews/divisor-review-1-initial.md",
+      "bytes": 17768,
+      "sha256": "de1919a8614a9312b2762bfdd305d368d58db68bc76f3ce003e384fed887ba33"
+    },
+    {
+      "path": "problems/2024-B4/reviews/divisor-review-1-issues.md",
+      "bytes": 4609,
+      "sha256": "933a06aa80a6982cf1ecb606b03af5ddbc28cc8436483cfbd53aa1f16a22b2fa"
+    },
+    {
+      "path": "problems/2024-B4/reviews/divisor-review-1-source-checks.md",
+      "bytes": 7001,
+      "sha256": "b65672bf435985763ffd0dbb4c1ddfcc7dd135d990c4da773a55228c79b4a0e6"
+    },
+    {
+      "path": "problems/2024-B4/reviews/divisor-review-1-certificate-input.json",
+      "bytes": 1323,
+      "sha256": "7250fe21f0953d43a995b3773e39e7c1b943306bb163699843fdfd6de77c4f0e"
+    },
+    {
+      "path": "problems/2024-B4/reviews/divisor-review-1-check.py",
+      "bytes": 6235,
+      "sha256": "4ae84fc7b6412e14d852d1c05a13e385995a2ed423c46315a0e4a17d2f84b026"
+    },
+    {
+      "path": "problems/2024-B4/reviews/divisor-review-1-run.py",
+      "bytes": 1728,
+      "sha256": "87264742da0133c677fcffee0ca7c96ef92cbf21f653628c83736c9d2470f8b7"
+    },
+    {
+      "path": "problems/2024-B4/reviews/divisor-review-1-check-output.json",
+      "bytes": 38038,
+      "sha256": "f41eea0aeb084d066dc460950218d7789d16718bcb4f4b3bccbd75f1ab0a0396"
+    },
+    {
+      "path": "problems/2024-B4/reviews/divisor-review-1-job-start.json",
+      "bytes": 347,
+      "sha256": "5588bba72559cf8c59d28512da585e234d2b054d5496ccc749130bff42dbdd2a"
+    },
+    {
+      "path": "problems/2024-B4/reviews/divisor-review-1-job.json",
+      "bytes": 546,
+      "sha256": "6d828eeca5d1b7dee60101c93cbfe0e05a3682cba1885e6e6fd37d026ef8369d"
+    },
+    {
+      "path": "problems/2024-B4/reviews/divisor-review-1-stdout.txt",
+      "bytes": 1756,
+      "sha256": "9ffeec66bd0d69990b2822af2b2531bf2830d45f2e22f737598aa83c3358aa99"
+    },
+    {
+      "path": "problems/2024-B4/reviews/divisor-review-1-stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "problems/2024-B4/reviews/divisor-review-1-freeze.py",
+      "bytes": 7402,
+      "sha256": "d6599fedd0a45d551caeb3efeaa23b03a097a8443ee0ef5348be423dd3d7e8d9"
+    },
+    {
+      "path": "problems/2024-B4/reviews/divisor-review-1-input-validation.json",
+      "bytes": 11844,
+      "sha256": "434dd9072b16a32d90d3429da93521323553704523ec65b85df67308dc0da0a2"
+    }
+  ],
+  "earlier_own_frozen_records_preserved": [
+    {
+      "path": "problems/2024-B4/reviews/structural-review-1-manifest-initial.json",
+      "bytes": 5556,
+      "sha256": "77c28831556074148c3c930e86041515838c909bab9f4242ecda52cc43baa3a4"
+    },
+    {
+      "path": "problems/2024-B4/reviews/structural-review-1-initial.md",
+      "bytes": 20480,
+      "sha256": "4a159bbc591957116b7fbd5b2ba6993cc749da93620358e1d27b82a26d2d9c0b"
+    },
+    {
+      "path": "problems/2024-B4/reviews/structural-review-1-issues.md",
+      "bytes": 5283,
+      "sha256": "292c76396f7ed3aa0ad749614741da99f987877444b4d121d72c0948cc69a1d6"
+    },
+    {
+      "path": "problems/2024-B4/reviews/structural-review-1-sources.json",
+      "bytes": 7972,
+      "sha256": "779355db93575ac6365a549972027b0d1b0071361b26b4eb1cdd1fb38fa0ed17"
+    },
+    {
+      "path": "problems/2017-B4/notes/fixedD-reasoning-r1-freeze-v1.json",
+      "bytes": 1824,
+      "sha256": "fb277c1a3fe5fe3a0283992168b009094d05699c1f47d7ba10123b61e95eb6dd"
+    },
+    {
+      "path": "problems/2017-B4/notes/fixedD-reasoning-r1-profile-reduction-v1.md",
+      "bytes": 12092,
+      "sha256": "973e8d7da034082b4416100d51650798ec3eb90e75cfd44106b5810dd9ec7e8d"
+    },
+    {
+      "path": "problems/2017-B4/notes/fixedD-reasoning-r1-sources-v1.json",
+      "bytes": 2750,
+      "sha256": "e33ef844964e5cdfa0420696c2ee08ab90600ac766b9d7aa3667e8776c7ac3c0"
+    },
+    {
+      "path": "problems/2017-B4/notes/fixedD-reasoning-r1-structural-candidate-v1.md",
+      "bytes": 15107,
+      "sha256": "c776e81d0fd44c0e8042ddc00a0d949966cdc106ba9b7e67486dc4d14a1b7d87"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coarsening-review-1-initial.md",
+      "bytes": 14896,
+      "sha256": "de353b13c44f4d0381e091ed28883187daa1e3953f6e844001da829e237de846"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coarsening-review-1-issues.md",
+      "bytes": 2065,
+      "sha256": "373cb9f3505346a8345178b615dbc785ebef9ab44f546028782d7100e0bbc446"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coarsening-review-1-manifest-initial.json",
+      "bytes": 1456,
+      "sha256": "6e7fa2262dadcad30a6b6c768fa2ab809dc7f1cf6abeeff048b7df34c468a3fb"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coarsening-review-1-sources.json",
+      "bytes": 3906,
+      "sha256": "5fec609c63f708dd1ca01d892803166b765e154e29fc821f2d13f967f08a1518"
+    },
+    {
+      "path": "problems/2021-B4/reviews/soleH2-review-1-initial.md",
+      "bytes": 13882,
+      "sha256": "0fd663af1d109d8b4cfe7ed232f1b9d58c58c3a78ebcdbb3c5df442ba91bac61"
+    },
+    {
+      "path": "problems/2021-B4/reviews/soleH2-review-1-issues.md",
+      "bytes": 3352,
+      "sha256": "d4b5b88e6fe159cad59bdcc10b85d56f7b9b48537ce69fb3adf926c5dd9d250b"
+    },
+    {
+      "path": "problems/2021-B4/reviews/soleH2-review-1-manifest-initial.json",
+      "bytes": 2555,
+      "sha256": "2a99b0ab1e97306a3d8d8cb087c27657dfd20a63303896bc99db5ccad9601bed"
+    },
+    {
+      "path": "problems/2021-B4/reviews/soleH2-review-1-sources.json",
+      "bytes": 4478,
+      "sha256": "8ca8d1d1010b3da6b73741c3e79a7b021cd919826f1225031c2a9e0225a90982"
+    },
+    {
+      "path": "problems/2021-B4/reviews/soleH4-review-1-initial.md",
+      "bytes": 14011,
+      "sha256": "b480f78d85e208155e09a44fdecb979c49f1b0565beae6fdd2eab11eb3c55781"
+    },
+    {
+      "path": "problems/2021-B4/reviews/soleH4-review-1-issues.md",
+      "bytes": 3148,
+      "sha256": "e5547a3542272d97a444ca89d1a705d5ed916c5c0f417412ef60f481d0d4e803"
+    },
+    {
+      "path": "problems/2021-B4/reviews/soleH4-review-1-manifest-initial.json",
+      "bytes": 1798,
+      "sha256": "4e3cd87b19bdeebc9e03e630b1660829cfcb19fcdcc3bb6aad80c403b0a0b19a"
+    },
+    {
+      "path": "problems/2021-B4/reviews/soleH4-review-1-sources.json",
+      "bytes": 4394,
+      "sha256": "4bec12ab29b2d18166c8fd57cc92d26b188d7ae961825bc8d0eeebd61b8371c6"
+    },
+    {
+      "path": "problems/2022-B4/reviews/arithmetic-complexity-review-1-initial.md",
+      "bytes": 14423,
+      "sha256": "fca182c4fe8ef993a633286f04f6b90380c398fd23d44bcf661c056066a7d187"
+    },
+    {
+      "path": "problems/2022-B4/reviews/arithmetic-complexity-review-1-issues.md",
+      "bytes": 2826,
+      "sha256": "baf8a53593ecc7ffe0c069635ba7e794509bab16201a3ac984bce5fa9d16d7c1"
+    },
+    {
+      "path": "problems/2022-B4/reviews/arithmetic-complexity-review-1-manifest-initial.json",
+      "bytes": 1852,
+      "sha256": "28a073885c61ca42773736c7afb6ad926728d67bda0a85a9c3c54de72d2254f5"
+    },
+    {
+      "path": "problems/2022-B4/reviews/arithmetic-complexity-review-1-sources.json",
+      "bytes": 3645,
+      "sha256": "92ee4ad7fbb417198af510d191f54c156d4c349d5636863660affd5d911c355d"
+    },
+    {
+      "path": "problems/2017-B4/notes/fixedD-reasoning-r1-freeze-v1.1.json",
+      "bytes": 4422,
+      "sha256": "ea3f730889db04083940bccc2fb545cd3984557c9854e43a11791d75186fb51b"
+    },
+    {
+      "path": "problems/2017-B4/notes/fixedD-reasoning-r1-structural-candidate-v1.1.md",
+      "bytes": 16649,
+      "sha256": "06c6b5eb0f793be00c4dfa1784eb8987cdd415eb1247d708cc827727cd9b5e87"
+    },
+    {
+      "path": "problems/2017-B4/notes/fixedD-reasoning-r1-profile-reduction-v1.1.md",
+      "bytes": 14981,
+      "sha256": "212ad70f53b166bb23cb82ffae72dc38437d7a3f6cec54a7752b2d90a0f7791c"
+    },
+    {
+      "path": "problems/2017-B4/notes/fixedD-reasoning-r1-repair-FD2-01-v1.1.md",
+      "bytes": 5639,
+      "sha256": "cca69e6dbe4bc199c446142721b1e3f004fba1520ca9396028523bb0bab6fbb3"
+    },
+    {
+      "path": "problems/2017-B4/notes/fixedD-reasoning-r1-sources-v1.1.json",
+      "bytes": 5016,
+      "sha256": "d71027c2a84c41cb69365a4a38ac5ff66459be7a0be123719ad0ad28acdeddd1"
+    },
+    {
+      "path": "problems/2017-B4/notes/annulus-reasoning-r1-candidate-v1.md",
+      "bytes": 20465,
+      "sha256": "020d3f6408f9423b83ac2d5633d3e508a7468a16ebe6db673879fca2af1ff610"
+    },
+    {
+      "path": "problems/2017-B4/notes/annulus-reasoning-r1-worklog-v1.md",
+      "bytes": 4679,
+      "sha256": "f99a0f7342060bd5dcaea5ad09a97963e9a99d732e8d29ccd52c89e75a22e701"
+    },
+    {
+      "path": "problems/2017-B4/notes/annulus-reasoning-r1-sources-v1.json",
+      "bytes": 3624,
+      "sha256": "6ec82a9ffcffcc87cd0291246f660db27af841387f9623aa8692ce0290e481ff"
+    },
+    {
+      "path": "problems/2017-B4/notes/annulus-reasoning-r1-freeze-v1.json",
+      "bytes": 5865,
+      "sha256": "958640fdb6a6f30b17306b3ba01014431e26fc544a26ab06f186f4e2a4f8e6cc"
+    }
+  ],
+  "source_protocol_and_statement": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2017-B4/statement.md",
+      "bytes": 2140,
+      "sha256": "e459750064b4e25e3eaa71f25f236c046548147e415b06d8bd097839020228f3"
+    }
+  ],
+  "diff_is_exact_full_candidate_difference": true,
+  "diff_lines": 228,
+  "mathematical_enumeration_or_CAS": false
+}

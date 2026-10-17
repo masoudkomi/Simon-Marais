@@ -1,0 +1,117 @@
+{
+  "recorded_at_utc": "2026-10-17T00:35:13.677183+00:00",
+  "status": "candidate proof - unverified; author repair supplied for targeted re-audit",
+  "constructor": "review_2017_coarsening_r1",
+  "requested_model": "gpt-6.1-sol",
+  "requested_reasoning": "max",
+  "verified_effective_settings": null,
+  "issue": "FD2-01",
+  "author_acknowledgement": "The unqualified v1 profile Section4 height-to-band consequence was false; the ranked-label/fixed-gap hypothesis was omitted. Reviewer2 exact family accepted and retained.",
+  "review_reports_read_after_both_initial_freezes": [
+    {
+      "path": "problems/2017-B4/reviews/fixedD-structural-review-1-initial-v1.md",
+      "bytes": 26568,
+      "sha256": "bf1e2ee89f6f3f5500b4f2a779230b8cdcc32ad2d03b47b46b31a03b00863e2c"
+    },
+    {
+      "path": "problems/2017-B4/reviews/fixedD-structural-review-1-issues-v1.json",
+      "bytes": 4097,
+      "sha256": "cef0a0def71ecd9302c6c8450a85a6358c935b70e07b4445ade01297d18d8727"
+    },
+    {
+      "path": "problems/2017-B4/reviews/fixedD-structural-review-1-manifest-v1.json",
+      "bytes": 2336,
+      "sha256": "3b9b23ae55f9864c7f2e6e5122fe3d7de29e1be0b276ecb8e78e8ad6f2ece2d1"
+    },
+    {
+      "path": "problems/2017-B4/reviews/fixedD-structural-review-2-initial.md",
+      "bytes": 24189,
+      "sha256": "7566c54d8fe7b6c5615b6c750df3385798115112a7ae8fb93fa305af7eb0c6e9"
+    },
+    {
+      "path": "problems/2017-B4/reviews/fixedD-structural-review-2-issues.md",
+      "bytes": 6935,
+      "sha256": "69b560e9185f843f58661b5ea9dd9865c6fae564c480b55b03b589ec5d4f087a"
+    },
+    {
+      "path": "problems/2017-B4/reviews/fixedD-structural-review-2-source-checks.md",
+      "bytes": 4371,
+      "sha256": "a4ca12919f4be296dd8a6833b3821611df5007681d0c6ef2200707b5f999060e"
+    },
+    {
+      "path": "problems/2017-B4/reviews/fixedD-structural-review-2-freeze-manifest.json",
+      "bytes": 2623,
+      "sha256": "f0968794f349b25a619caafb18cc031c1af590ccc0907d24b84a6b01cec612a0"
+    }
+  ],
+  "no_review_files_modified": true,
+  "no_source_theorem_imported": true,
+  "preserved_v1_and_annulus": [
+    {
+      "path": "problems/2017-B4/notes/fixedD-reasoning-r1-structural-candidate-v1.md",
+      "bytes": 15107,
+      "sha256": "c776e81d0fd44c0e8042ddc00a0d949966cdc106ba9b7e67486dc4d14a1b7d87"
+    },
+    {
+      "path": "problems/2017-B4/notes/fixedD-reasoning-r1-profile-reduction-v1.md",
+      "bytes": 12092,
+      "sha256": "973e8d7da034082b4416100d51650798ec3eb90e75cfd44106b5810dd9ec7e8d"
+    },
+    {
+      "path": "problems/2017-B4/notes/fixedD-reasoning-r1-sources-v1.json",
+      "bytes": 2750,
+      "sha256": "e33ef844964e5cdfa0420696c2ee08ab90600ac766b9d7aa3667e8776c7ac3c0"
+    },
+    {
+      "path": "problems/2017-B4/notes/fixedD-reasoning-r1-freeze-v1.json",
+      "bytes": 1824,
+      "sha256": "fb277c1a3fe5fe3a0283992168b009094d05699c1f47d7ba10123b61e95eb6dd"
+    },
+    {
+      "path": "problems/2017-B4/notes/annulus-reasoning-r1-candidate-v1.md",
+      "bytes": 20465,
+      "sha256": "020d3f6408f9423b83ac2d5633d3e508a7468a16ebe6db673879fca2af1ff610"
+    },
+    {
+      "path": "problems/2017-B4/notes/annulus-reasoning-r1-worklog-v1.md",
+      "bytes": 4679,
+      "sha256": "f99a0f7342060bd5dcaea5ad09a97963e9a99d732e8d29ccd52c89e75a22e701"
+    },
+    {
+      "path": "problems/2017-B4/notes/annulus-reasoning-r1-sources-v1.json",
+      "bytes": 3624,
+      "sha256": "6ec82a9ffcffcc87cd0291246f660db27af841387f9623aa8692ce0290e481ff"
+    },
+    {
+      "path": "problems/2017-B4/notes/annulus-reasoning-r1-freeze-v1.json",
+      "bytes": 5865,
+      "sha256": "958640fdb6a6f30b17306b3ba01014431e26fc544a26ab06f186f4e2a4f8e6cc"
+    }
+  ],
+  "repair_claims": [
+    "Labelled envelope theorem unchanged",
+    "Finite word including end gaps <=G and integer prefix error<=r imply ranked displacement<=G*r",
+    "Band O_D(G*r) and area O_D(G*r*L)",
+    "For epsilon L, retain ceil and O_(D,G)(epsilon L+1), O_(D,G)(epsilon L^2+L)",
+    "No uniformity over arbitrary references or disappearing-color strata",
+    "EAI replication/remainder/global recovery remains a qualified unproved program"
+  ],
+  "mathematical_verification": "Exact hand proof of prefix inequalities, endpoint cases and reviewer all-M inversion counterexample. No enumeration, CAS or mathematical subprocess.",
+  "administrative_commands": [
+    "Verified original input SHA256 before exclusive new-file copies and exact text replacements",
+    "diff -u for both complete v1 to v1.1 copies",
+    "apply_patch only v1.1 author text and repair note",
+    "Python pathlib/hashlib/json/datetime for preserved hashes and new freeze"
+  ],
+  "H_proved": false,
+  "requires_both_targeted_independent_reaudits": true,
+  "not_an_annulus_promotion": true,
+  "weekly_telemetry": {
+    "verified_at_utc": "2026-10-17T00:32:37Z",
+    "authority": "mcp__codex_app__get_usage_limits account-wide codex primary",
+    "used_percent": 20,
+    "window_minutes": 10080,
+    "resets_at": 1792745187,
+    "total_used_ceiling_percent": 90
+  }
+}

@@ -87,3 +87,34 @@ At the opposite extreme, enumerating all possible orders of the \(\binom n2\) cr
 2. If returning to the lower bound, specify a patch's boundary pairing exactly and independently validate its dynamic program before optimizing patch shapes. Compare against the known three-bundle product.
 3. If returning to the upper bound, investigate correlations between extension count and simple parent statistics. First test whether a proposed potential predicts sums over children; do not infer an asymptotic bound from finite correlation.
 4. Any proposed full or substantive partial argument must begin as **candidate proof - unverified**, then receive two fresh independent adversarial audits, one reconstructing it. No such promotion is requested at this checkpoint.
+
+## Fixed-direction geometry checkpoint, Oct17 00:52UTC
+
+DG1 exact canonical-lift L1 graph distance/positive paths and conditional
+DG2 localization are accepted after two fresh whole reconstructions,
+full reports/issues/source records read and14 manifest records verified.
+Accepted exposition makes the nondegenerate disk/a(0)=0 domain and
+fixed positive margin/whole-segment buffer quantifiers explicit. The arc
+method is attributed to Arroyo etal Lemma2.2, not claimed novel.
+
+The fixedD structural/P1 packet is accepted only after substantive FD2-01
+author repair and BOTH targeted independent re-audits, full root reads
+and83 manifest records verified. Prefix error alone fails; explicit
+rank displacement or bounded gap G with end gaps is retained. Frozen
+false v1 and exact all-M counterexample remain. Rational backgrounds,
+nonconvexity and P1 do not imply EAI, PR or H.
+
+Annulus A1-A5 v1.1 is frozen after both full initial audits. AR1-01
+requires the all-color rank box in A2; literal ideality erased a negative
+absent-color coordinate. Both targeted re-audits are pending. Root's
+CUT1/CUT2 lens extraction and FL1/CL1/OB1 stratum packets are frozen
+unverified and need two fresh whole nonconstructor audits. A0.137s
+targeted search located an exact four-label local lifting obstruction,
+then proved by hand: p1243,q4312, groups A1/B{2,3}/C4, one fine tiling
+versus two coarse fillings. One internal crossing cannot be ignored.
+
+A rank-mesh research program selects every rth deBruijn curve, aims at
+O(L^2/r) skeleton and O(Sr^2) rare-cell loss, and needs exact clean disk
+port matching plus a uniform all-boundary lower-direction recovery
+theorem. Its orientation, cell construction, source hypotheses and
+global error/remainder arguments are not proved. It is not H.

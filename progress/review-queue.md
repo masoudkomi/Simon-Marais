@@ -1,11 +1,13 @@
 # Independent review queue
 
-Current 2026-10-17 00:35UTC checkpoint: fixedD structural/profile v1 has
-substantive FD2-01 and is **not accepted**; author v1.1 repair and both
-targeted re-audits are pending. DG1/DG2 has one completed blind whole
-audit and a second active audit. The annulus A1–A5 packet is frozen and
-its first fresh whole audit is active. The separate phi7/phi11 divisor
-packet is frozen and awaits two fresh nonconstructor whole audits.
+Current 2026-10-17 00:52UTC checkpoint: fixedD structural/P1 v1.1 is
+accepted after FD2-01 author repair and BOTH targeted re-audits; frozen
+v1 false consequence/counterexample preserved. DG1/DG2 accepted after
+both full blind whole audits. Annulus v1.1 repairs AR1-01; both targeted
+re-audits still required. CUT1/CUT2 whole review1 active, review2 queued.
+FL1/CL1/OB1 frozen and needs two fresh whole audits. The2024 phi7/phi11
+divisor packet has one frozen full blind audit and a second active.
+
 
 Initial reviews must be blind to the other reviewer's conclusions. A constructor cannot review its own proof. The coordinator records a final acceptance only after both audits, reconstruction and all repairs.
 

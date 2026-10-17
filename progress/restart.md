@@ -120,3 +120,32 @@ or new divisor promotion yet. Root develops a separate DG-to-lens cutting
 interface; zero-minor strata and full H remain open. Author annulus scope
 is D4, so extension to arbitrary fixed D also needs explicit proof/audit.
 Weekly telemetry20% at00:34:31UTC, same reset1792745187. Continue.
+
+### Current mathematical launch point, Oct17 00:52UTC
+
+Last confirmed push c6e554c. Root accepted DG1/DG2 after both whole
+reports/issues/source records and14 manifest rows checked. Root accepted
+fixedD v1.1 structural/P1 partials after substantive FD2-01 author repair,
+BOTH full targeted reports/issues/sources and83 rows checked. NoH.
+Both new acceptance sets await push. Annulus both whole initials root-read;
+R1 AR1-01 is real: literal ideality drops negative absent-color rank.
+Author fullv1.1 frozen SHAc6da61f229ffa72dd830cd40132969717a395e3744b6d775cbe83a32bdd3747c,
+requires BOTH targeted reaudits. Author next owns rank-mesh-reasoning-r1.
+Reviewer2021 active fresh whole CUT1/CUT2 initial1, then annulus targeted1.
+Reviewer2022 active fresh whole2024divisor initial2, then annulus targeted2
+and CUT initial2. DivisorR1 full packet frozen, root has not yet read
+its full report; no new divisor acceptance.
+
+Root CUT candidate SHA1937c12d4cf9c9e2d7b4f713566a77e1b32e1a88ea0c55f09ae7e43870b8482f.
+Root FL1/CL1/OB1 candidate SHAaa4c79b1fb3136ecd3e7c5ab845733697cca925ba8203b2988fba5c9a793bd95
+requires two fresh whole nonconstructors; author2017 contributes to the
+stratum program and should not count as its independent reviewer. OB1
+hand proof p1243,q4312 withB{2,3}: one fine tiling projects to one of two
+coarse tilings. Specific counterexample child77136 rc0,reaped,0.137s.
+No larger tests needed. Rank-mesh program explicit missing uniform UR3
+all-boundary recovery; inspect original CKP rather than balancedMacMahon.
+
+Weekly21% about00:46UTC, resetunchanged. Latesttokens00:47:50 total421191874,
+cached398370944,uncached+output22820930,reasoning1577691; all62 sumsagree.
+Keepawakeends09:28UTC Oct17; no further extension authorized. Continue
+actual mathematical research, do not end at this checkpoint.

@@ -1,0 +1,77 @@
+{
+  "status": "initial blind whole review frozen; coordinator acceptance pending",
+  "frozen_at_utc": "2026-10-17T00:35:43.826196+00:00",
+  "reviewer": "review_2022_complexity_r2, directed-geodesics independent nonconstructor audit 1",
+  "requested_model": "gpt-6.1-sol",
+  "requested_reasoning": "max",
+  "verified_effective_settings": null,
+  "candidate_inputs": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2017-B4/statement.md",
+      "bytes": 2140,
+      "sha256": "e459750064b4e25e3eaa71f25f236c046548147e415b06d8bd097839020228f3"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-directed-geodesics-candidate-v1.md",
+      "bytes": 5952,
+      "sha256": "0fe9e72b07d12d7a5e417e14a56fec06191ea7f76a9f8787ea533cdd9824bcb6"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-directed-geodesics-freeze-v1.json",
+      "bytes": 1098,
+      "sha256": "0a166248e637eaa889564eb35819beedf7ca2cd0633350cc0fbf71aab9b52685"
+    }
+  ],
+  "artifacts": [
+    {
+      "path": "problems/2017-B4/reviews/directed-geodesics-review-1-initial.md",
+      "bytes": 18073,
+      "sha256": "7e18f61ebae32eff1aa2fdeb905e1b6a5549056befde18143cead174fefbddbe"
+    },
+    {
+      "path": "problems/2017-B4/reviews/directed-geodesics-review-1-issues.md",
+      "bytes": 3815,
+      "sha256": "f31b02113bb3a3f93a7d6d54c47ec14643707205baa4590388dbb3ab33f5755a"
+    },
+    {
+      "path": "problems/2017-B4/reviews/directed-geodesics-review-1-source-checks.md",
+      "bytes": 4459,
+      "sha256": "0e9f6fa8baf39a4ee1194a8b8cbf80fd51a39882acaab9a261002a0f75d35929"
+    }
+  ],
+  "finding": {
+    "substantive_issues": 0,
+    "nonblocking_clarifications": [
+      "DG-R1-N1: disk domain and lift normalization",
+      "DG-R1-N2: fixed-data dependence and joint scale threshold"
+    ]
+  },
+  "blindness": {
+    "peer_directed_geodesics_conclusions_read": false,
+    "whole_report_issues_sources_frozen_before_peer_comparison": true
+  },
+  "source": {
+    "url": "https://www.ifisica.uaslp.mx/~gsalazar/RESEARCH/levi.pdf",
+    "version_date": "2015-11-20",
+    "read_scope": "Section 2 arc definitions and complete Lemma 2.2 proof, printed pp. 4-5",
+    "streamed_pdf_sha256": "0d90b6ddbef318b2a859f576b59896d01919bc1752bf34a27f925c0234c3f471",
+    "full_pdf_saved_by_reviewer": false
+  },
+  "mathematical_enumeration_or_CAS": false,
+  "prior_review_files_verified_unchanged": 16,
+  "candidate_or_shared_files_edited": false,
+  "git_operations": false,
+  "spawned_agents": false,
+  "weekly_telemetry": {
+    "observed_at_utc": "2026-10-17T00:32:46Z",
+    "used_percent": 20,
+    "window_minutes": 10080,
+    "resets_at": 1792745187,
+    "total_used_cutoff_percent": 90
+  }
+}

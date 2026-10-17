@@ -1,0 +1,46 @@
+{
+  "reviewer": "review_2021_reasoning_j15_r2",
+  "verification_date_utc": "2026-10-17",
+  "requested_settings": {"model": "gpt-6.1-sol", "reasoning": "max"},
+  "verified_effective_settings": null,
+  "local_inputs": [
+    {"path": "AGENTS.md", "scope": "Research protocol, previously read in current session and fingerprinted"},
+    {"path": "problems/2017-B4/notes/annulus-reasoning-r1-candidate-v1.md", "scope": "Entire A1-A5 argument, offset obstruction and remaining-interface qualifications"},
+    {"path": "problems/2017-B4/notes/annulus-reasoning-r1-worklog-v1.md", "scope": "Whole dependency ledger and construction record"},
+    {"path": "problems/2017-B4/notes/annulus-reasoning-r1-sources-v1.json", "scope": "Source/dependency claims"},
+    {"path": "problems/2017-B4/notes/annulus-reasoning-r1-freeze-v1.json", "scope": "Frozen input fingerprints; other reviews' hashes read as metadata only"}
+  ],
+  "primary_source_context": {
+    "title": "Arroyo-McQuillan-Richter-Salazar, Levi's Lemma, pseudolinear drawings of K_n, and empty triangles",
+    "url": "https://www.ifisica.uaslp.mx/~gsalazar/RESEARCH/levi.pdf",
+    "version_date": "2015-11-20",
+    "read_scope": "Complete arrangement-of-arcs definition, dual and Lemma 2.2 proof on printed pp. 4-5 already read directly in immediately preceding separate DG audit",
+    "use_here": "Lead only, as the candidate says. No disk adaptation or directed-geodesic theorem is a premise of A1-A5 or this reconstruction.",
+    "new_local_download": false,
+    "local_byte_hash": null
+  },
+  "proof_hypotheses_checked": [
+    "Weak order is inversion inclusion on ranked color shuffles; its shelling and ideal equivalence are proved internally.",
+    "A3 uses elementary winding homotopy of a Jordan loop with a strictly positive determinant; all six coordinate projections and rank bounds are checked.",
+    "A4 fixes a single rational phase for two positive integer-content words; comparison uses the same thresholds under integer translations.",
+    "A5 is derived from an explicit disjoint block-shelling injection, not from a free-boundary entropy or arbitrary density-one packing theorem."
+  ],
+  "independence": {
+    "nonconstructor": true,
+    "no_peer_annulus_findings_read_before_freeze": true,
+    "pending_fixedD_targeted_reaudit_kept_separate": true
+  },
+  "operations": {
+    "mathematical_computation_or_CAS": false,
+    "counterexample_method": "Exact hand-constructed single parallelogram and integer kernel offset; no search",
+    "metadata_only_computation": "One-time hash/freeze script",
+    "candidate_or_shared_status_edits": false,
+    "git_actions_or_spawning": false,
+    "source_paper_redistribution_or_download": false,
+    "charges_contact_or_access_bypass": false,
+    "latest_authoritative_weekly_total_used_percent": 20,
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "cutoff_total_used_percent": 90
+  }
+}

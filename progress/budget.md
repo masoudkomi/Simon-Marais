@@ -69,3 +69,11 @@ At **21:39:37 UTC**, the refreshed audit records **327,243,804 total**:309,796,8
 At **22:13:22 UTC**, recorded project usage was **354,246,265 total**:335,256,064 cached input,16,018,769 uncached input and2,971,432 output, including1,309,467 reasoning tokens. Uncached input plus output was18,990,201. All62 historical session sums matched cumulative counters; simultaneous capacity remains four total agents.
 
 At **2026-10-17 00:22:56 UTC**, recorded project usage was **389,511,772 total**:367,888,512 cached input,18,354,949 uncached input and3,268,311 output, including1,460,285 reasoning tokens. Uncached input plus output was21,623,260. All62 historical session sums matched cumulative counters. This is a local recorded snapshot excluding unreported in-flight usage; it is not a bill or weekly-percentage conversion.
+
+At **2026-10-17 00:47:50UTC**, recorded project usage was **421,191,874 total**:
+398,370,944 cached input;19,252,474 uncached input;3,568,456 output,
+including1,577,691 reasoning output. Uncached input plus output22,820,930.
+All62 historical sums match; in-flight unreported usage excluded. This
+is not billing or weekly conversion. Authoritative weekly telemetry
+returned21% at approximately00:46UTC, same reset1792745187; continue
+with integration reserve before90% total.

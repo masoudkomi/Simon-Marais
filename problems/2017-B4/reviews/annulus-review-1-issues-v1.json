@@ -1,0 +1,49 @@
+{
+  "reviewer": "review_2021_reasoning_j15_r2",
+  "type": "fresh initially blind independent whole A1-A5 reconstruction",
+  "candidate_sha256": "020d3f6408f9423b83ac2d5633d3e508a7468a16ebe6db673879fca2af1ff610",
+  "peer_annulus_review_or_findings_read": false,
+  "constructed_candidate": false,
+  "unresolved_statement_issues": 1,
+  "recommendation": "Resolve AR1-01 before promoting unqualified standalone A2. A1, the range-corrected A2 proof, A3 including range implied by winding, A4 and A5 reconstruct successfully. No H, arbitrary-window or stratum theorem is recommended.",
+  "items": [
+    {
+      "id": "AR1-01",
+      "status": "open for author/coordinator resolution",
+      "severity": "localized substantive statement/domain gap; an explicit inherited-domain declaration could resolve it",
+      "location": "A2 hypothesis that every inner boundary I(h) is an ideal; A1 explicitly restricts h to the rank box",
+      "finding": "The formula I(h) erases negative coordinates. If an inner color is absent, identifying its empty rank interval does not force a_i>=0. Ideality alone then does not put the entry seam at the assigned height a. A2 must explicitly preserve 0<=a_i<=b_i<=N_i, or explicitly declare that I(h) in A2 is only defined on the A1 rank-box domain.",
+      "exact_diagnostic": {
+        "outer_content": [10,10,10,10],
+        "outer_lower": "ascending color blocks",
+        "outer_upper": "descending color blocks",
+        "inner_lower": "13",
+        "inner_upper": "31",
+        "inner_content": [1,0,1,0],
+        "inner_start_height": [7,-2,7,4],
+        "inner_end_height": [8,-2,8,4],
+        "physical_vertices": [[16,24],[17,24],[17,26],[18,26]],
+        "why_nested": "All points have alternative coefficient representatives (4,4,4,4)+alpha e1+beta e3 strictly inside [0,10]^4.",
+        "why_ideal": "P0 is four independent rank chains; every literal I(h) is a rank prefix with color-2 count truncated to zero.",
+        "why_rank_identification_does_not_fix_absent_color": "The active ranks are 8 of colors 1 and 3; color-2 and color-4 inner rank intervals are empty.",
+        "failure": "No full outer lift can have color-2 coordinate -2. The proposed A seam instead ends at (7,0,7,4), physically (18,26), not at the assigned inner start."
+      },
+      "scope": "Not a counterexample when A2 explicitly inherits A1's domain. Not a counterexample to A3: positive winding in every projected lens forces the full range before using A2.",
+      "requested_resolution": "Add the rank-box condition explicitly while retaining empty inner colors, or explicitly state the partial-function convention. Preserve frozen v1 and re-audit the affected statement and uses."
+    }
+  ],
+  "other_checks": [
+    "A1 exact vertical range at s=0,N_i and shared projected boundaries",
+    "Actual positive planar shellings, closed entry/exit seams and recoverable core",
+    "Pair winding orientation, sqrt(2) errors and sigma(J) lower bound",
+    "Relative rank rebasing for a translated outer frame",
+    "Same-phase digital comparisons for all powers and mixed block lengths",
+    "Common physical vertices have identical lifts under comparability",
+    "Uniformly bounded corner lobes, empty lobes and independent lobe counts",
+    "Exact floor(L/l)^2 disjoint block fillings and all-scale limit"
+  ],
+  "mathematical_computation_or_CAS": false,
+  "candidate_or_shared_edits": false,
+  "H_or_full_solution_accepted": false,
+  "promotion_by_reviewer": false
+}

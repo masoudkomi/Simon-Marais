@@ -1,0 +1,65 @@
+{
+  "frozen_at_utc": "2026-10-17T00:50:12.146169+00:00",
+  "status": "candidate proof - unverified; full annulus v1.1 author repair pending both targeted re-audits",
+  "constructor": "review_2017_coarsening_r1",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "repair_ids": [
+    "AR1-01",
+    "ANN2-N1",
+    "ANN2-N2"
+  ],
+  "author_disposition": "repair proposed; reviewers and coordinator retain resolution authority",
+  "requires_both_targeted_independent_reaudits": true,
+  "artifacts": [
+    {
+      "path": "problems/2017-B4/notes/annulus-reasoning-r1-candidate-v1.1.md",
+      "bytes": 26275,
+      "sha256": "c6da61f229ffa72dd830cd40132969717a395e3744b6d775cbe83a32bdd3747c"
+    },
+    {
+      "path": "problems/2017-B4/notes/annulus-reasoning-r1-repair-v1.1.md",
+      "bytes": 7152,
+      "sha256": "a0805df0cdc05f30ab8256fe9cf64ba466f932abc3cd97b45d68f1d98cae51b0"
+    },
+    {
+      "path": "problems/2017-B4/notes/annulus-reasoning-r1-worklog-v1.1.md",
+      "bytes": 3755,
+      "sha256": "cd53fbded032da93b97afe94638f4012ebd316c044f3d34ac7e3d18190a966ed"
+    },
+    {
+      "path": "problems/2017-B4/notes/annulus-reasoning-r1-sources-v1.1.json",
+      "bytes": 4076,
+      "sha256": "41c4d1d5f8b78e7b28f988484a73f1a73ecf524b8e5df5bbb944c927390e0aca"
+    },
+    {
+      "path": "problems/2017-B4/notes/annulus-reasoning-r1-diff-v1.1.patch",
+      "bytes": 12002,
+      "sha256": "3f11fc3f682f513d09d82cbb9ac551dd72e3a22233da2a63c10137849b02731d"
+    },
+    {
+      "path": "problems/2017-B4/notes/annulus-reasoning-r1-freeze-v1.1.py",
+      "bytes": 5497,
+      "sha256": "e833e7b3e3ac3bf506d7ab83bd03e0edae6ab4a92070ed4e1ef34eb3af3f7e59"
+    },
+    {
+      "path": "problems/2017-B4/notes/annulus-reasoning-r1-input-validation-v1.1.json",
+      "bytes": 14477,
+      "sha256": "026737c122e633590b94b985125f7f85d9f4ed9d258834bbbf1c47bd6679c97e"
+    }
+  ],
+  "original_annulus_v1_and_both_initial_audits_unchanged": true,
+  "divisor_review1_and_earlier_own_33_frozen_files_unchanged": true,
+  "no_mathematical_computation_or_CAS": true,
+  "no_DG_or_CUT_or_height_only_conversion_premise": true,
+  "only_assigned_new_annulus_prefix_written": true,
+  "git_shared_status_or_spawning": false,
+  "H_or_full_2017_solution_proved": false,
+  "new_external_theorem_or_novelty_claim": false,
+  "latest_authoritative_weekly_total_used_percent": 21,
+  "weekly_reset_unix": 1792745187,
+  "total_used_ceiling_percent": 90
+}

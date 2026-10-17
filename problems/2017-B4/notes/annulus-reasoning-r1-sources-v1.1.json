@@ -1,0 +1,95 @@
+{
+  "recorded_at_utc": "2026-10-17T00:49:22.204196+00:00",
+  "status": "candidate proof - unverified; full author v1.1 repair pending both targeted re-audits",
+  "constructor": "review_2017_coarsening_r1",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "repair_items": [
+    "AR1-01 explicit rank box including empty inner colors; affine relative-frame version; A3 derives range before ideality",
+    "ANN2-N1 strict nesting from contained unit-horizontal boundary and positive vertex distances",
+    "ANN2-N2 full conditional transfer hypotheses retained in summary"
+  ],
+  "review_inputs": [
+    {
+      "path": "problems/2017-B4/reviews/annulus-review-1-initial-v1.md",
+      "bytes": 20658,
+      "sha256": "d838024e191f862128b20fb3ccf8b3de0699a4d1b9b92c43104625152b51ef7e"
+    },
+    {
+      "path": "problems/2017-B4/reviews/annulus-review-1-issues-v1.json",
+      "bytes": 3487,
+      "sha256": "b4b15edbf66bc237196759998c2393f777af0af85bd219bb8c2892422797e167"
+    },
+    {
+      "path": "problems/2017-B4/reviews/annulus-review-1-sources-v1.json",
+      "bytes": 2909,
+      "sha256": "6b12197809ef646ce587f40e13252b2bce61a1e7f058d8f256af68d85e36eeb2"
+    },
+    {
+      "path": "problems/2017-B4/reviews/annulus-review-1-manifest-v1.json",
+      "bytes": 2147,
+      "sha256": "ec84d96e034b1ec6e8c550b402c28c97960f636e3ccde321b82c2fcbfe076b87"
+    },
+    {
+      "path": "problems/2017-B4/reviews/annulus-review-2-initial.md",
+      "bytes": 26371,
+      "sha256": "4646722e236585b1493450804183c43b3ea9c9de6d4f6bb4289d3941eff6bf7b"
+    },
+    {
+      "path": "problems/2017-B4/reviews/annulus-review-2-issues.md",
+      "bytes": 6198,
+      "sha256": "b85bab93773bf7d742dde8c49535665c19988375e096da41ab1baaade14548f9"
+    },
+    {
+      "path": "problems/2017-B4/reviews/annulus-review-2-source-checks.md",
+      "bytes": 4964,
+      "sha256": "97182221677f085569ceed3f34d65de29b4097d06cc546c955b52d19d78c123e"
+    },
+    {
+      "path": "problems/2017-B4/reviews/annulus-review-2-freeze-manifest.json",
+      "bytes": 8908,
+      "sha256": "c92593a87bcba497f5f5562440c08d499e9f479f77b2baf34d685b7a45ba2d9b"
+    }
+  ],
+  "read_scope": {
+    "review1": "complete initial whole report and issue ledger after their freeze; sources/manifest byte metadata verified",
+    "review2": "complete initial whole report, issue ledger and source checks only after coordinator confirmed freeze; manifest metadata verified"
+  },
+  "new_mathematical_computation_or_CAS": false,
+  "primary_source_boundary": {
+    "url": "https://www.ifisica.uaslp.mx/~gsalazar/RESEARCH/levi.pdf",
+    "historical_read_scope": "Complete relevant section2 definitions and Lemma2.2 proof on printed pages4-5 read during original construction",
+    "use": "lead only for separate window interface, not a premise of A1-A5 or this repair",
+    "new_download_or_new_primary_theorem": false,
+    "old_source_record": {
+      "path": "problems/2017-B4/notes/annulus-reasoning-r1-sources-v1.json",
+      "bytes": 3624,
+      "sha256": "6ec82a9ffcffcc87cd0291246f660db27af841387f9623aa8692ce0290e481ff"
+    }
+  },
+  "exact_counterexample_provenance": "AR1-01 finite inner type13 tile and assigned heights supplied by first independent reviewer; checked analytically and attributed in full v1.1 candidate and ledger",
+  "dependency_boundary": {
+    "A1_A5_word_geometry_proofs_self_contained": true,
+    "DG_or_CUT_premise": false,
+    "old_unqualified_prefix_height_conversion_used": false,
+    "new_full_balanced_H_theorem": false,
+    "novelty_claimed": false
+  },
+  "operational": {
+    "only_new_assigned_annulus_prefix_written": true,
+    "old_candidate_or_initial_reviews_edited": false,
+    "Git_or_shared_status_or_spawning": false,
+    "charges_contact_or_bypass": false
+  },
+  "weekly_telemetry": {
+    "authority": "mcp__codex_app__get_usage_limits",
+    "observed_at_utc": "2026-10-17T00:47:46Z",
+    "used_percent": 21,
+    "window_minutes": 10080,
+    "resets_at": 1792745187,
+    "total_used_ceiling_percent": 90
+  }
+}

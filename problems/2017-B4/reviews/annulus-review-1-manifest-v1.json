@@ -1,0 +1,57 @@
+{
+  "status": "initial blind whole A1-A5 audit complete; one localized statement issue; no reviewer promotion",
+  "frozen_at_utc": "2026-10-17T00:43:19.078419+00:00",
+  "reviewer": "review_2021_reasoning_j15_r2",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "candidate_sha256": "020d3f6408f9423b83ac2d5633d3e508a7468a16ebe6db673879fca2af1ff610",
+  "nonconstructor": true,
+  "no_peer_annulus_findings_read_before_freeze": true,
+  "whole_reconstruction": true,
+  "unresolved_localized_statement_issues": 1,
+  "issue_ids": [
+    "AR1-01"
+  ],
+  "range_corrected_A2_and_A3_reconstruct": true,
+  "candidate_and_older_packets_unchanged": true,
+  "mathematical_enumeration_or_CAS": false,
+  "latest_weekly_total_used_percent": 20,
+  "weekly_reset_unix": 1792745187,
+  "H_or_full_solution_accepted": false,
+  "command": ".venv/bin/python problems/2017-B4/reviews/annulus-review-1-freeze-v1.py",
+  "records": [
+    {
+      "path": "problems/2017-B4/reviews/annulus-review-1-initial-v1.md",
+      "bytes": 20658,
+      "sha256": "d838024e191f862128b20fb3ccf8b3de0699a4d1b9b92c43104625152b51ef7e"
+    },
+    {
+      "path": "problems/2017-B4/reviews/annulus-review-1-issues-v1.json",
+      "bytes": 3487,
+      "sha256": "b4b15edbf66bc237196759998c2393f777af0af85bd219bb8c2892422797e167"
+    },
+    {
+      "path": "problems/2017-B4/reviews/annulus-review-1-sources-v1.json",
+      "bytes": 2909,
+      "sha256": "6b12197809ef646ce587f40e13252b2bce61a1e7f058d8f256af68d85e36eeb2"
+    },
+    {
+      "path": "problems/2017-B4/reviews/annulus-review-1-freeze-v1.py",
+      "bytes": 4706,
+      "sha256": "f8a22c78677bc241fdb469f13200e888b579bee098b1b01150325418dd12bc15"
+    },
+    {
+      "path": "problems/2017-B4/reviews/annulus-review-1-input-validation-v1.json",
+      "bytes": 12047,
+      "sha256": "65469eeb6be0fd76af7417433d5ff8f0abdf9e8d6cd143c2ee0657300937c602"
+    },
+    {
+      "path": "problems/2017-B4/reviews/annulus-review-1-freeze-output-v1.json",
+      "bytes": 430,
+      "sha256": "68f8ecadc1691c5964d7a902d95dcfc2ec1e05877d2dc8f5eb4fe16b8ede1add"
+    }
+  ]
+}

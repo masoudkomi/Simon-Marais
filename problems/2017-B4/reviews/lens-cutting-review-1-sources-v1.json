@@ -1,0 +1,41 @@
+{
+  "reviewer": "review_2021_reasoning_j15_r2",
+  "verification_date_utc": "2026-10-17",
+  "requested_settings": {"model": "gpt-6.1-sol", "reasoning": "max"},
+  "verified_effective_settings": null,
+  "local_inputs": [
+    {"path": "AGENTS.md", "scope": "Current full research protocol, read at immediately preceding transition"},
+    {"path": "problems/2017-B4/notes/coordinator-lens-cutting-candidate-v1.md", "scope": "Entire CUT1/CUT2 argument and every remaining-interface qualification, including line-numbered second read"},
+    {"path": "problems/2017-B4/notes/coordinator-lens-cutting-freeze-v1.json", "scope": "Frozen input, claims and exclusions"},
+    {"path": "problems/2017-B4/proofs/reviewed-directed-geodesics-v1.1.md", "scope": "Entire accepted DG1 and conditional DG2 exposition; full disk, lift normalization, positive margin and whole-segment buffer matched"},
+    {"path": "problems/2017-B4/reviews/directed-geodesics-acceptance.md", "scope": "Complete coordinator acceptance scope"},
+    {"path": "problems/2017-B4/reviews/directed-geodesics-acceptance.json", "scope": "Accepted exposition hash and both-review decision"}
+  ],
+  "primary_source_context": {
+    "title": "Arroyo-McQuillan-Richter-Salazar, Levi's Lemma, pseudolinear drawings of K_n, and empty triangles",
+    "url": "https://www.ifisica.uaslp.mx/~gsalazar/RESEARCH/levi.pdf",
+    "version_date": "2015-11-20",
+    "read_scope": "Complete Section 2 arc-arrangement definition, dual and Lemma 2.2 proof, printed pages 4-5, read directly in preceding independent DG whole audit",
+    "use_here": "Accepted DG dependency, with parallel pairs allowed. Disk adaptation and exact localization are in accepted exposition, not direct extra conclusions of the source lemma.",
+    "new_download": false,
+    "raw_byte_hash": null
+  },
+  "additional_inferences": "Integer mesh, vertical graph estimates, Jordan trimming, ranked restricted-arc orientation and finite strip recovery reconstructed self-contained; no free-boundary entropy or annulus theorem imported.",
+  "independence": {
+    "nonconstructor": true,
+    "no_peer_CUT_findings_read_before_freeze": true,
+    "no_annulus_proof_dependency": true,
+    "no_fixedD_profile_program_dependency": true
+  },
+  "operations": {
+    "mathematical_enumeration_or_CAS": false,
+    "metadata_only_hashing_and_exclusive_JSON_freeze": true,
+    "candidate_shared_status_or_Git_edits": false,
+    "spawning_charges_contact_or_access_bypass": false,
+    "new_external_source_retrieval_or_PDF_redistribution": false,
+    "latest_authoritative_weekly_total_used_percent": 20,
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "total_weekly_used_ceiling_percent": 90
+  }
+}
