@@ -1,0 +1,93 @@
+{
+  "recorded_at_utc": "2026-10-17T20:34:15.892578+00:00",
+  "status": "candidate proof - unverified",
+  "claims": [
+    "R11A two complete field incompatibilities",
+    "R11B ACTUAL m7 first-break exclusion",
+    "R11C four-unit essential-even-center consequence"
+  ],
+  "public_primary_sources": [
+    {
+      "title": "Official2021 Paper B",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2021-paper-b.pdf",
+      "read_scope": "page2 B4 hypothesis and(b) target only; no preliminary proof",
+      "role": "official domain",
+      "fresh_native_file_sha256": null
+    },
+    {
+      "title": "Castryck--Laterveer--Ounaies, Constraints on counterexamples ... degree12",
+      "url": "https://arxiv.org/pdf/1208.5404",
+      "read_scope": "Sections3.4--3.5 equations9--13/Lemma17, beta identity; complete Proposition19 and unramified remark, not whole23pages",
+      "role": "attribution; stronger all-root-rational/unramified hypotheses NOT applied",
+      "fresh_native_file_sha256": null
+    },
+    {
+      "title": "Draisma--de Jong August2011 erratum",
+      "url": "https://math-unibe.ch/jdraisma/publications/erratumcasasalvero.pdf",
+      "read_scope": "complete original one page,20 extracted lines",
+      "role": "prime5 correction retained",
+      "fresh_native_file_sha256": null
+    },
+    {
+      "title": "Atkinson--Sharma1969, A partial characterization of poised Hermite-Birkhoff interpolation problems",
+      "url": "https://homepage.math.uiowa.edu/~atkinson/papers/HB_interp.pdf",
+      "read_scope": "complete six pages230--235 extracted text, definitions/Theorem2/full proof and unused converse conjecture",
+      "role": "failed-route context only; no new theorem import",
+      "fresh_native_file_sha256": null
+    },
+    {
+      "title": "Yakubovich, Polynomial problems of the Casas-Alvero type",
+      "url": "https://files.ele-math.com/articles/jca-04-07.pdf",
+      "read_scope": "Corollaries1--3 printed105; Lemma6 statement/proof printed112; not full24pages",
+      "role": "all-roots-real hypothesis prevents shortcut",
+      "fresh_native_file_sha256": null
+    },
+    {
+      "title": "Massri, The Casas-Alvero conjecture for three recycled roots in degree20",
+      "url": "https://arxiv.org/pdf/1806.09561",
+      "read_scope": "servedv6/August2023, introduction/Section1 opening/Section5 through Theorem5.7 and Remark5.8; not Section7 proof or whole paper",
+      "role": "context only; finiteness not emptiness or a four-value theorem",
+      "fresh_native_file_sha256": null
+    },
+    {
+      "title": "Armengol Gasull, A Primer on Resultants and Their Applications (2026)",
+      "url": "https://link.springer.com/article/10.1007/s44425-026-00047-6",
+      "read_scope": "subsection3.4, reference19 and author metadata only",
+      "role": "status sentence not imported; worked proposition concerns4,5",
+      "fresh_native_file_sha256": null
+    }
+  ],
+  "accepted_body_paths_complete_read": [
+    "problems/2021-B4/proofs/reviewed-reasoning-return-r10-v1.1.md",
+    "problems/2021-B4/proofs/reviewed-reasoning-return-r8-v1.1.md",
+    "problems/2021-B4/proofs/reviewed-reasoning-return-r5-v1.1.md",
+    "problems/2021-B4/proofs/reviewed-odd-support-exclusion-v1.1.md",
+    "problems/2021-B4/proofs/reviewed-return-r3-v1.1.md",
+    "problems/2021-B4/notes/reasoning-return-r3-transfer-candidate-v1.md"
+  ],
+  "compact_immutable_parent_record": {
+    "path": "problems/2021-B4/notes/reasoning-return-r11-input-validation-v1.json",
+    "bytes": 9367,
+    "sha256": "a6848a1ababfc517f6e97197559f9c48ee4036309087b246bcf76bdf7efabef0"
+  },
+  "browser_source_not_asserted_identical_to_old_native_cache": true,
+  "new_external_theorem_import": false,
+  "older_constructor_roles": [
+    "TA1/return-r3",
+    "R6/R7/R8/R10"
+  ],
+  "older_reviewer_roles": [
+    "J15",
+    "PN",
+    "R5"
+  ],
+  "root_generic_assignment_only_no_new_R11_mathematical_inference": true,
+  "two_OTHER_fresh_initially_blind_WHOLE_audits_required": true,
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "independently_verified_effective_settings": null,
+  "new_mathematical_executable_CAS_scan_or_author_rerun": false,
+  "new_download_cache_write_render_native_wait_contact_charge_bypass": false
+}

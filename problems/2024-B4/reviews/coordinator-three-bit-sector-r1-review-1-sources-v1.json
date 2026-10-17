@@ -1,0 +1,78 @@
+{
+  "recorded_at_utc": "2026-10-17T20:27:08.207954+00:00",
+  "reviewer": "/root/review_2022_complexity_r2",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "independently_verified_effective_settings": null,
+  "status": "COMPLETE initially blind NONCONSTRUCTOR WHOLE R1; no substantive issue found; not acceptance",
+  "exact_target": {
+    "path": "problems/2024-B4/notes/coordinator-three-bit-sector-r1-candidate-v1.md",
+    "bytes": 14660,
+    "sha256": "29878868615f42848918067fbed5067339cef3b254b3b836a1fa191502e41a77"
+  },
+  "exact_constructor_freeze": {
+    "path": "problems/2024-B4/notes/coordinator-three-bit-sector-r1-freeze-v1.json",
+    "bytes": 2711,
+    "sha256": "0dc4b47373a3f071178bf0068a593b7a55a8451d41a42fda8f76c681e393a47a"
+  },
+  "entire_six_file_packet_read": true,
+  "all36_author_obligations_reconstructed": true,
+  "complete_accepted_structural_header_and_body_read": true,
+  "complete_accepted_sector3_header_and_body_read": true,
+  "accepted_IC_actual_fresh_scope": "scope header and COMPLETE Section1; not all IC2-IC4; no J dependency used",
+  "all_three_accepted_authority_JSONs_read_entirely": true,
+  "classical_intersection_imports": "projective Bezout for no common component; local product multiplicity equality when no common tangent",
+  "primary_web_sources": [
+    {
+      "title": "Official SMMC2024 Paper B",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc2024_paper_b.pdf",
+      "actual_read_scope": "page2 B4 hypothesis and(b); unrelated returned problems ignored; no preliminary proof",
+      "fresh_native_PDF_sha256": null
+    },
+    {
+      "title": "Hernando-McGuire arXiv0903.2016v4",
+      "url": "https://arxiv.org/pdf/0903.2016v4",
+      "actual_read_scope": "matching setup, Section3 operative intersection statements and relevant whole/component scopes; not whole19pages",
+      "fresh_native_PDF_sha256": null
+    },
+    {
+      "title": "Fulton author textbook public PDF attempt",
+      "url": "https://www.math.lsa.umich.edu/~wfulton/CurveBook.pdf",
+      "actual_read_scope": "indexed statement/proof start only; direct full opens502 and department-host404; no full proof read or new dependency",
+      "fresh_native_PDF_sha256": null
+    }
+  ],
+  "old_roles_disclosed": "B structuralR2 and sector3R1; older2024 context/review roles; no new TB construction or self-recertification",
+  "root_constructor_excluded": true,
+  "new_TB_peer_files_findings_or_metadata_read": false,
+  "no_math_code_scan_CAS_or_author_replay": true,
+  "no_old_shared_cache_Git_edit_spawn_charge_contact_or_bypass": true,
+  "necessary_current_fingerprint_summary": {
+    "occurrences": 53,
+    "unique_paths": 53,
+    "canonical_deduplicated_summary_sha256": "8b09fb77f60f75f25c98b09ec18f4e92985140cb90dcbfa0b8cdf85d05fcdaef"
+  },
+  "compact_own_parent_manifest": {
+    "path": "problems/2020-B4/notes/reasoning-return-r8-freeze-v1.json",
+    "bytes": 5346,
+    "sha256": "6f7d5060bf093304ec26a0268a8098942bd8021e99e056b1970dec12813d102e"
+  },
+  "compact_own_parent_validation": {
+    "path": "problems/2020-B4/notes/reasoning-return-r8-input-validation-v1.json",
+    "bytes": 4735,
+    "sha256": "016430bd3d7b519df3a77cbd27bb267d142a5e27fb97a027ab6a27a7de1ea401"
+  },
+  "older_own_paths_bound_transitively": 421,
+  "source_check_prose": {
+    "path": "problems/2024-B4/reviews/coordinator-three-bit-sector-r1-review-1-source-checks-v1.md",
+    "bytes": 7471,
+    "sha256": "7e6d869780a6b9bf73b64eef6904e487b742fe07559e2e4a20e6c02eaa8dcb55"
+  },
+  "direct_weekly_total_used_percent": 64,
+  "direct_weekly_telemetry_at_utc": "2026-10-17 20:26:58 UTC",
+  "reset_unix": 1792745187,
+  "total_ceiling_percent": 90,
+  "review_integration_reserve": true
+}

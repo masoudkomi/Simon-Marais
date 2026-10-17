@@ -1,0 +1,117 @@
+{
+  "recorded_at_utc": "2026-10-17T20:20:21.081604+00:00",
+  "status": "candidate proof - unverified; COMPLETE meaningful constructor source checkpoint",
+  "constructor": "/root/review_2022_complexity_r2",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independently_verified_effective_settings": null,
+  "exact_accepted_R7": {
+    "path": "problems/2020-B4/proofs/reviewed-reasoning-return-r7-v1.1.md",
+    "bytes": 23717,
+    "sha256": "7517c6ffd5aff1135107020f9526922203496415515afb4bbd07176fb445d479"
+  },
+  "R7_full_body_header_acceptance_md_json_integrity_freshly_read": true,
+  "R4_full_repaired_and_R6_full_accepted_bodies_freshly_read": true,
+  "R5_complete_math_plus_accepted_header_and_exact_suffix_read_verified": true,
+  "R3_actual_read_scope": "complete repair ledger; candidate SectionsF3,F3a,B1/final scope only, not entire current body",
+  "prior_R3_R4_misses_R5_R6_R7_failures_and_deep_source_limits_preserved": true,
+  "primary_sources": [
+    {
+      "title": "Official SMMC2020 Paper B",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2020-paper-b_1.pdf",
+      "actual_read_scope": "page2 B4 full hypothesis and(b); no preliminary construction or unrelated problem investigation",
+      "fresh_native_PDF_sha256": null
+    },
+    {
+      "title": "Kedlaya, Class Field Theory, Theorem7.2.10",
+      "url": "https://kskedlaya.org/cft/sec_ideles-cohom2.html",
+      "actual_read_scope": "complete Hasse norm theorem statement/short proof and noncyclic warning, returned lines618-643; nearby context",
+      "import": "classical cyclic number-field all-place norm theorem; underlying deep theory attributed, not re-proved",
+      "fresh_native_PDF_sha256": null
+    },
+    {
+      "title": "Milne, Class Field Theory4.03,6August2020, VIII Theorem3.1",
+      "url": "https://jmilne.org/math/CourseNotes/CFT.pdf",
+      "actual_read_scope": "title/version, complete Hasse theorem/short proof and Remark3.2, printed234-235/PDF242-243; not all296pages",
+      "fresh_native_PDF_sha256": null
+    },
+    {
+      "title": "Kedlaya, Class Field Theory, Propositions4.2.4-4.2.5",
+      "url": "https://kskedlaya.org/cft/sec_localcomp.html",
+      "actual_read_scope": "complete finite residue norm and unramified-unit norm statements/proofs, returned lines449-478, nearby context",
+      "import": "classical unit norm argument reconstructed including residue characteristic2",
+      "fresh_native_PDF_sha256": null
+    },
+    {
+      "title": "Lemmermeyer, The Ambiguous Class Number Formula Revisited, arXiv1309.1071v1",
+      "url": "https://arxiv.org/pdf/1309.1071",
+      "actual_read_scope": "COMPLETE six-page original author preprint/all353 extracted lines, especially Proposition1 complete exact sequence/proof",
+      "use": "classical ambiguous/strongly ambiguous norm-unit obstruction; full quadratic proof reconstructed in main",
+      "fresh_native_PDF_sha256": null
+    },
+    {
+      "title": "Lemmermeyer, Ideal Class Groups of Cyclotomic Number Fields I, arXiv1202.5777v1",
+      "url": "https://arxiv.org/pdf/1202.5777",
+      "actual_read_scope": "CM/ideal/unit notation, Proposition1 and applicable proof passages, essential ramification definition, Theorem1 and applicable proof, Example1 and nearby context, PDF0-4; not entire11pages",
+      "use": "Hasse prime-conductor unit-index/capitulation attribution; exact specialized proof supplied independently in main",
+      "fresh_native_PDF_sha256": null
+    }
+  ],
+  "limited_or_failed_source_leads": [
+    {
+      "title": "Folk, When are global units norms of units?, Acta Arith.76(1996),145-147",
+      "url": "https://matwbn.icm.edu.pl/ksiazki/aa/aa76/aa7624.pdf",
+      "actual_scope": "journal metadata and indexed first-page introduction/Theorem1 statement only; full PDF403/publisher redirect failed; no full proof read/import"
+    },
+    {
+      "title": "Schmidt, Cyclotomic Integers of Prescribed Absolute Value and the Class Group",
+      "url": "https://personal.ntu.edu.sg/bernhard/Publications/pub/class.pdf",
+      "actual_scope": "unreadable PDF encoding; screenshot calls returned no pixels to worker; publisher abstract/publication list only; no precise theorem import"
+    },
+    {
+      "title": "Zhu, Algebraic Number Theory II",
+      "url": "https://yhzhumath.github.io/ANT2.pdf",
+      "actual_scope": "discovery corroboration: Remark1.21.4 and Hasse theorem2.7.6 statement/start only; no additional proof premise or full83page read"
+    }
+  ],
+  "ordinary_class_groups_not_narrow": true,
+  "root_broad_assignment_no_new_R8_proof_contribution": true,
+  "old_R4_R5_R7_authorship_and_R6_review_disclosed_no_self_recertification": true,
+  "two_OTHER_fresh_initially_blind_WHOLE_nonconstructor_audits_required": true,
+  "no_new_taut_or_excluded_order_unrestricted_classification_cutoff_or_novelty": true,
+  "no_mathematical_code_CAS_scan_class_table_certificate_or_author_rerun": true,
+  "no_new_PDF_cache_write_old_shared_Git_edit_spawn_contact_charge_or_bypass": true,
+  "immutable_historical_summary_bound_not_recursively_replayed": {
+    "occurrences": 123,
+    "unique_paths": 49
+  },
+  "necessary_current_fingerprints_reverified": {
+    "occurrences": 54,
+    "unique_paths": 40,
+    "canonical_deduplicated_summary_sha256": "ca15e48c25e05be93a48e37a92706b9346bd958abe079445f7d47b412b045aff",
+    "canonical_encoding": "UTF8 JSON sorted unique path/bytes/sha256, sorted keys, compact separators"
+  },
+  "compact_own_parent_manifest": {
+    "path": "problems/2021-B4/reviews/reasoning-return-r10-review-2-manifest-v1.json",
+    "bytes": 4622,
+    "sha256": "654678126faa18fb9d9681f2175d5206980cb7ff893986d30744c3cd2167f7a9"
+  },
+  "compact_own_parent_validation": {
+    "path": "problems/2021-B4/reviews/reasoning-return-r10-review-2-input-validation-v1.json",
+    "bytes": 6321,
+    "sha256": "ffe6d94de71cd6e4bcb6176f36d070fde5ffbceaba1a287cc64a4dc61b8eb7b2"
+  },
+  "older_own_paths_bound_transitively": 409,
+  "direct_weekly_telemetry": {
+    "at_utc": "2026-10-17 20:17:23 UTC",
+    "total_used_percent": 63,
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "ordinary_usage_allowed": true,
+    "total_ceiling_percent": 90,
+    "review_integration_reserve": true
+  }
+}

@@ -91,3 +91,6 @@ Latest [all-nine research/usage report](progress/status-2026-10-17-1954.md): new
 
 
 [Current all-nine update](progress/status-2026-10-17-2020.md): the [2019 retained-core gap](problems/2019-B4/reviews/coordinator-retained-core-gap-r1-acceptance.md) is now accepted after BOTH OTHER whole audits/full reconciliation, giving1.765224<lambda<1.834843. The new2024three-bit exclusion packet remains UNVERIFIED pending two OTHER whole audits. Two complete annual answers remain2018/2023;seven unresolved.63%TOTAL weekly usage;research continues.
+
+
+[Continuing checkpoint](progress/checkpoint-2026-10-17-2036.md): NEW2024whole-three-bit r2,2020R8 and2021R11 remain UNVERIFIED with two OTHER whole audits active/queued. Narrower2024r1 is preserved but unaccepted. Two complete annual answers2018/2023 unchanged;2019acceptedupper1.834843.64%TOTAL weekly,26ppbefore90%;ownedawake freshly verified. Research continues.

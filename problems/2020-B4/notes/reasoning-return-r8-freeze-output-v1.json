@@ -1,0 +1,34 @@
+{
+  "finished_at_utc": "2026-10-17T20:20:21.082385+00:00",
+  "status": "candidate proof - unverified; COMPLETE meaningful mathematical constructor checkpoint",
+  "whole_claims": [
+    "R8A",
+    "R8B",
+    "R8C",
+    "R8D",
+    "R8E",
+    "R8F"
+  ],
+  "all54_obligations_present": true,
+  "two_OTHER_whole_audits_outstanding": true,
+  "necessary_old_occurrences_reverified": 54,
+  "necessary_old_unique_paths": 40,
+  "older_own_paths_bound_transitively": 409,
+  "all_current_record_summary": {
+    "occurrences": 63,
+    "unique_paths": 49,
+    "canonical_deduplicated_summary_sha256": "29984fb12033494000a363963e66cf045e8ce56b28bc375fc4f90d169fc0d026",
+    "canonical_encoding": "UTF8 JSON sorted unique path/bytes/sha256, sorted keys, compact separators"
+  },
+  "main": {
+    "path": "problems/2020-B4/notes/reasoning-return-r8-candidate-v1.md",
+    "bytes": 25948,
+    "sha256": "2eb3bbc51c282619a4bf0bf2b34f083c9c65abd7b27822355cd4973f391637d8"
+  },
+  "input_validation": {
+    "path": "problems/2020-B4/notes/reasoning-return-r8-input-validation-v1.json",
+    "bytes": 4735,
+    "sha256": "016430bd3d7b519df3a77cbd27bb267d142a5e27fb97a027ab6a27a7de1ea401"
+  },
+  "no_math_code_or_class_group_computation": true
+}

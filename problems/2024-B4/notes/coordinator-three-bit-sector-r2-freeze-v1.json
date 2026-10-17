@@ -1,0 +1,72 @@
+{
+  "frozen_at_utc": "2026-10-17T20:32:45.474144+00:00",
+  "status": "candidate proof - unverified; COMPLETE stronger constructor checkpoint",
+  "constructor_excluded": "/root",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "independently_verified_effective_settings": null,
+  "whole_obligations": 44,
+  "two_OTHER_initially_blind_WHOLE_reviews_required": true,
+  "whole_claim": "No official odd binary-weight3 exponent; residual1mod4 whole absolute irreducibility exceptn13, which is ordinary F2-irreducible",
+  "n13_no_published_Kasami_component_formula_required": true,
+  "r1_unaccepted_one_audit_does_not_count_for_r2": true,
+  "full_annual_classification_new_qualifying_family_or_novelty_claim": false,
+  "mathematical_program_CAS_scan_or_replay": false,
+  "current_record_occurrences_verified": 31,
+  "current_unique_paths_verified": 29,
+  "metadata": [
+    {
+      "metadata": {
+        "path": "problems/2024-B4/reviews/structural-acceptance.json",
+        "bytes": 2580,
+        "sha256": "53fb1b2e3383397b1218f2020a9c1b60625497faaab9d686e7ef179cb2acb8d4"
+      },
+      "direct_fingerprints_verified": 7
+    },
+    {
+      "metadata": {
+        "path": "problems/2024-B4/reviews/reasoning-sector3-return-r1-acceptance.json",
+        "bytes": 3170,
+        "sha256": "28eb33d5f5fe20eab8e942008fb541bf55c58707197f635a50d521a9ee40a5d7"
+      },
+      "direct_fingerprints_verified": 11
+    },
+    {
+      "metadata": {
+        "path": "problems/2024-B4/notes/coordinator-three-bit-sector-r1-freeze-v1.json",
+        "bytes": 2711,
+        "sha256": "0dc4b47373a3f071178bf0068a593b7a55a8451d41a42fda8f76c681e393a47a"
+      },
+      "direct_fingerprints_verified": 8
+    }
+  ],
+  "artifacts": [
+    {
+      "path": "problems/2024-B4/notes/coordinator-three-bit-sector-r2-candidate-v1.md",
+      "bytes": 17804,
+      "sha256": "59a3ec87e15f9238c5735cf2eb6fe650535fd7ddaf0a73c3f540fa08bf785163"
+    },
+    {
+      "path": "problems/2024-B4/notes/coordinator-three-bit-sector-r2-obligations-v1.md",
+      "bytes": 5684,
+      "sha256": "f18d01d2a7713f5e7c90ca369d6285a59da987a1e4dee17d75c74f584776f5d6"
+    },
+    {
+      "path": "problems/2024-B4/notes/coordinator-three-bit-sector-r2-sources-worklog-v1.md",
+      "bytes": 6120,
+      "sha256": "ca3370f12d19bd9a4bf4a9dc45f70436182f47f21196493e35d561a57a3ad814"
+    },
+    {
+      "path": "problems/2024-B4/notes/coordinator-three-bit-sector-r2-freeze-v1.py",
+      "bytes": 4324,
+      "sha256": "ac503afd6ab30d1bb61121e6d73732089f8bd014745394b1c41058d1247dc238"
+    },
+    {
+      "path": "problems/2024-B4/notes/coordinator-three-bit-sector-r2-inputs-v1.json",
+      "bytes": 7089,
+      "sha256": "9b2044906f63da70791c6195ea9b8b79bd811396cd88dc5e018c2fc70352a459"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "verified_at_utc": "2026-10-17T20:26:08.019903+00:00",
+  "administrative_only": true,
+  "all_necessary_declared_current_rows_match": true,
+  "record_occurrences_verified": 96,
+  "unique_paths_verified": 53,
+  "canonical_deduplicated_rows_sha256": "c9807662d84a2a081c7f8fd6ff16cbe0ac96fa928bd2d83c39aac8fe32d7c887",
+  "metadata": [
+    {
+      "metadata": {
+        "path": "problems/2020-B4/notes/reasoning-return-r8-freeze-v1.json",
+        "bytes": 5346,
+        "sha256": "6f7d5060bf093304ec26a0268a8098942bd8021e99e056b1970dec12813d102e"
+      },
+      "direct_declared_occurrences_verified": 14
+    },
+    {
+      "metadata": {
+        "path": "problems/2020-B4/notes/reasoning-return-r8-baseline-v1.json",
+        "bytes": 13188,
+        "sha256": "866f7e18fc46ed38713aa76e496848e098191e3260cb7263b1fae6a6aee825e9"
+      },
+      "direct_declared_occurrences_verified": 56
+    },
+    {
+      "metadata": {
+        "path": "problems/2020-B4/notes/reasoning-return-r8-input-validation-v1.json",
+        "bytes": 4735,
+        "sha256": "016430bd3d7b519df3a77cbd27bb267d142a5e27fb97a027ab6a27a7de1ea401"
+      },
+      "direct_declared_occurrences_verified": 14
+    },
+    {
+      "metadata": {
+        "path": "problems/2020-B4/notes/reasoning-return-r8-sources-v1.json",
+        "bytes": 6282,
+        "sha256": "18d8d15ece16b5aa798ef224679276e8298f04d285bcde9eeae7b02543bc1bdc"
+      },
+      "direct_declared_occurrences_verified": 3
+    },
+    {
+      "metadata": {
+        "path": "problems/2020-B4/reviews/reasoning-return-r7-acceptance.json",
+        "bytes": 2518,
+        "sha256": "8fc1c36fddeca2242e9160b0a1d7fc8b15a6db6745b4f5b0fcc5a309652567ff"
+      },
+      "direct_declared_occurrences_verified": 9
+    }
+  ],
+  "immutable_previous_own_root_review": {
+    "path": "problems/2017-B4/reviews/reasoning-value-return-r5-review-1-manifest-v1.json",
+    "bytes": 2012,
+    "sha256": "1953e4877ea11fc50e4f5a2361745f087643229b065181e8c1f08d8b1f002493"
+  },
+  "old_historical_inventories_bound_not_recopied": true,
+  "whole_checks": 54,
+  "all_constructor_obligations": 54,
+  "new_peer_R8_material_read_before_ENTIRE_freeze": false,
+  "mathematical_program_scan_CAS_or_replay": false
+}

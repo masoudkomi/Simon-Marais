@@ -150,3 +150,6 @@ Current12:03UTCtransition:36%TOTALweeklyused,64%remaining,54ppbefore90%,samerese
 
 
 2026-10-17T20:20:27.709426+00:00: authoritative accountmeter63%TOTAL weekly used,37%remaining,27ppbefore90%;same reset1792745187. Recorded snapshot2026-10-17T20:19:35.316853+00:00:1392955794total,1318759296cachedinput,63706495uncachedinput,10490003output including4519932reasoning;uncached+output74196498. All62historicalsession sums match;no billing or weeklyconversion. Seestatus-2026-10-17-2020.md. Research continues with review/integration reserve.
+
+
+2026-10-17T20:36:25.453811+00:00: directroot64%TOTALweekly at20:32:45UTC,36%remaining,26ppbefore90%,same reset1792745187. Raw2026-10-17T20:33:49.114064+00:00:1415937945total/1339709440cached/76228505uncached+output/4594336reasoning subset. All62session sums match. No bill/weeklyconversion. Ownedawake reverified20:33:49UTC,next21:33:49UTC. Continue with review/integrationreserve.

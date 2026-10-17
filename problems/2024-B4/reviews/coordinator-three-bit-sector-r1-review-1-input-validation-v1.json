@@ -1,0 +1,88 @@
+{
+  "checked_at_utc": "2026-10-17T20:27:08.207954+00:00",
+  "administrative_only_no_mathematical_evidence": true,
+  "exact_target": {
+    "path": "problems/2024-B4/notes/coordinator-three-bit-sector-r1-candidate-v1.md",
+    "bytes": 14660,
+    "sha256": "29878868615f42848918067fbed5067339cef3b254b3b836a1fa191502e41a77"
+  },
+  "exact_constructor_freeze": {
+    "path": "problems/2024-B4/notes/coordinator-three-bit-sector-r1-freeze-v1.json",
+    "bytes": 2711,
+    "sha256": "0dc4b47373a3f071178bf0068a593b7a55a8451d41a42fda8f76c681e393a47a"
+  },
+  "all_six_constructor_files_unchanged": true,
+  "all35_current_inputs_unchanged": true,
+  "all12_own_R8_parent_files_unchanged": true,
+  "baseline": {
+    "path": "problems/2024-B4/reviews/coordinator-three-bit-sector-r1-review-1-baseline-v1.json",
+    "bytes": 12673,
+    "sha256": "2e138816acaad19991d76f0dfe2d09209bb13008bc6020d301896ef4c9484361"
+  },
+  "necessary_current_fingerprint_summary": {
+    "occurrences": 53,
+    "unique_paths": 53,
+    "canonical_deduplicated_summary_sha256": "8b09fb77f60f75f25c98b09ec18f4e92985140cb90dcbfa0b8cdf85d05fcdaef"
+  },
+  "old_historical_inventories_bound_not_expanded": true,
+  "compact_own_parent_manifest": {
+    "path": "problems/2020-B4/notes/reasoning-return-r8-freeze-v1.json",
+    "bytes": 5346,
+    "sha256": "6f7d5060bf093304ec26a0268a8098942bd8021e99e056b1970dec12813d102e"
+  },
+  "compact_own_parent_validation": {
+    "path": "problems/2020-B4/notes/reasoning-return-r8-input-validation-v1.json",
+    "bytes": 4735,
+    "sha256": "016430bd3d7b519df3a77cbd27bb267d142a5e27fb97a027ab6a27a7de1ea401"
+  },
+  "older_own_paths_bound_transitively": 421,
+  "all36_ledger_rows_present_once": true,
+  "substantive_issues": 0,
+  "required_repairs": 0,
+  "retained_scope_notes": 4,
+  "new_peer_material_read_before_initial_freeze": false,
+  "new_review_records_before_validation": [
+    {
+      "path": "problems/2024-B4/reviews/coordinator-three-bit-sector-r1-review-1-baseline-v1.json",
+      "bytes": 12673,
+      "sha256": "2e138816acaad19991d76f0dfe2d09209bb13008bc6020d301896ef4c9484361"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-three-bit-sector-r1-review-1-initial.md",
+      "bytes": 16901,
+      "sha256": "7c63ed0d27a4cec8d67ec958db04b25eaeebb7392945b91156d26cc2f439333c"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-three-bit-sector-r1-review-1-issues-v1.md",
+      "bytes": 2710,
+      "sha256": "529389cd253cd5f60a5bb5685fbf03d50b3fd1c0e2ccc01e0b131c2604f80674"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-three-bit-sector-r1-review-1-ledger-v1.md",
+      "bytes": 8512,
+      "sha256": "3047075c76b35c637e04894b6dff10e598feb34a0412b3d37ccafad0e4470107"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-three-bit-sector-r1-review-1-source-checks-v1.md",
+      "bytes": 7471,
+      "sha256": "7e6d869780a6b9bf73b64eef6904e487b742fe07559e2e4a20e6c02eaa8dcb55"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-three-bit-sector-r1-review-1-freeze-v1.py",
+      "bytes": 10491,
+      "sha256": "62c4512fec8e3b94972c4c9a0e3b3c9e2e3229a314228c9386e432e4a166c5b7"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-three-bit-sector-r1-review-1-sources-v1.json",
+      "bytes": 3742,
+      "sha256": "86d5d4cf019bd2bd2ddd6470dc33e5e50a4176e798ba07ca5c5b62d3caddf20b"
+    }
+  ],
+  "input_and_current_summary": {
+    "occurrences": 60,
+    "unique_paths": 60,
+    "canonical_deduplicated_summary_sha256": "fc1b25b0ee711de19afaf69cb29f53f6172d01055ba3785c374b64c8a6750277"
+  },
+  "no_math_code_CAS_scan_native_child_or_author_rerun": true,
+  "no_old_shared_cache_Git_edit_spawn_contact_charge_or_bypass": true
+}

@@ -181,3 +181,6 @@ Five new exact partial packets accepted after both complete blind WHOLE audits a
 ## Current checkpoint 2026-10-17T20:20:27.709426+00:00
 
 [All-nine status and tokens](status-2026-10-17-2020.md).2019retained-core upper1.834843 now accepted after both OTHER whole audits/full reconciliation;100 fingerprint occurrences/61paths.2024three-bit TB1--TB4 frozen UNVERIFIED with two OTHER whole audits queued.2017R6/2020R8/2021R11 actual reasoning continues through owner checkpoints. Two complete annual answers2018/2023 unchanged.63%TOTAL weekly,27ppbefore90%;recorded uncached+output74196498. Owned awake remains active.
+
+
+[Continuing checkpoint](checkpoint-2026-10-17-2036.md): NEW2024whole-three-bit r2,2020R8 and2021R11 remain UNVERIFIED with two OTHER whole audits active/queued. Narrower2024r1 is preserved but unaccepted. Two complete annual answers2018/2023 unchanged;2019acceptedupper1.834843.64%TOTAL weekly,26ppbefore90%;ownedawake freshly verified. Research continues.
