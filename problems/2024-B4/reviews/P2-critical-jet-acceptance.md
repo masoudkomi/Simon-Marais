@@ -1,0 +1,13 @@
+# Coordinator acceptance: P2-critical-jet
+
+2026-10-17 UTC. **Proved, independently reviewed scoped partial result.**
+
+CJ1 is a NECESSARY congruence for q=2^k>=4,j>=1: if the exact accepted GK polynomials satisfy P_(2j)=H(P2) with H in F2[T], then H(T)=T^(1+(j-1)q^4) modulo A(T)^(q^4), A=T^q+(T+1)^(q-1). The q simple roots alpha of A lie in F_(q^2), are fixed by P2 and have EXACT local order q. The even recurrence has a common q^5 jet at each alpha. Factoring H(Y)-alpha^(j-1)Y transfers multiplicity by q, including zero and inseparable cases. Coprime local powers and monic division descend to the actual F2 polynomial congruence.
+
+Degree forces a hypothetical composition through P2 to have even index. j1 is the identity case. j2 is excluded by the directly rederived 0/1 endpoint obstruction, already recorded earlier. For j>=3 the modulus leaves possible higher-degree multiples: the condition is not sufficient and supplies no complete composition or factorization classification. The powers q^4/q^5 are ordinary exponents and Frobenius is periodic only on the stated finite constants. No finite-field function identity is substituted for a polynomial identity.
+
+Constructor: coordinator root. Fresh initially blind WHOLE nonconstructor reviewers: review_2021_reasoning_j15_r2 and review_2017_coarsening_r1. They covered all6 author obligations with30/6 checks. Their older structural/CP authorship and GK/KC audit roles are disclosed; the exact accepted GK recurrence/degrees are the sole mathematical theorem input. Earlier unverified critical/higher-family notes are context only and every needed local or endpoint step is rederived. Root is NOT an independent reviewer of its own construction. The coordinator read BOTH COMPLETE reports, ALL inference ledgers, BOTH source checks and the complete constructor main/obligations, and reconciled both against the exact accepted GK scope. No substantive issue or required repair remained.
+
+The official target remains B4(b), coefficientwise reduction modulo2 with two nonconstant integer polynomial reductions. No new external APN, component, monodromy or decomposition theorem is imported. No characteristic-zero Ritt argument, mathematical program, CAS, scan, sample, old certificate or author rerun is used. No general sufficiency, indecomposability, arbitrary-factor theorem, full annual answer or novelty is claimed.
+
+Verified 1106 declared fingerprint occurrences across 671 paths. Exact inputs are hashed in the integrity summary, without duplicating their preserved historical rows. The unchanged main is an accepted-copy suffix. Metadata checks are integrity only. Internal review is not externalvalidation; novelty is unestablished.

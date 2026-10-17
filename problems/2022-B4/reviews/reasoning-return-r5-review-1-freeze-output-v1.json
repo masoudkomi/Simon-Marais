@@ -1,0 +1,43 @@
+{
+  "checked_at_utc": "2026-10-17T13:10:58.533399+00:00",
+  "metadata_only_no_mathematical_computation": true,
+  "candidate": {
+    "path": "problems/2022-B4/notes/reasoning-return-r5-candidate-v1.md",
+    "bytes": 26928,
+    "sha256": "f08f3e579f9ddeec52746060ab81aec6055f1ecfce24fa2031608eadb7743bef"
+  },
+  "constructor_freeze": {
+    "path": "problems/2022-B4/notes/reasoning-return-r5-freeze-v1.json",
+    "bytes": 3363,
+    "sha256": "29a0ba60beda79572326525a2ab5fe20b23f0aff1c4129fc9645a86b83ff4601"
+  },
+  "constructor_artifacts_checked": 8,
+  "constructor_input_record_occurrences_checked": 450,
+  "constructor_input_unique_paths_checked": 410,
+  "constructor_source_declared_fingerprint_occurrences_checked": 4,
+  "accepted_authority_declared_fingerprint_occurrences_checked": 18,
+  "whole_claims": [
+    "F5A",
+    "F5B",
+    "F5C",
+    "F5D",
+    "F5E"
+  ],
+  "per_inference_ledger_rows": 60,
+  "author_obligations_covered": 42,
+  "older_own_packets_unchanged": 45,
+  "all_hash_checks_passed": true,
+  "substantive_objections": 0,
+  "required_author_repairs": 0,
+  "new_peer_R5_findings_or_later_root_inspection_read_before_freeze": false,
+  "latest_authoritative_weekly_usage": {
+    "at_utc": "2026-10-17 13:04:38 UTC (paired telemetry and clock)",
+    "total_used_percent": 40,
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "total_ceiling_percent": 90,
+    "integration_reserve": true,
+    "ordinary_usage_allowed": true
+  },
+  "command": "python3 problems/2022-B4/reviews/reasoning-return-r5-review-1-freeze-v1.py"
+}

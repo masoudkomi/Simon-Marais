@@ -1,0 +1,76 @@
+{
+  "accepted_at_utc": "2026-10-17T13:24:36.102322+00:00",
+  "status": "proved, independently reviewed scoped partial result",
+  "whole_initials_blind": true,
+  "root_read_full_candidate_both_reports_all_ledgers_sources": true,
+  "unresolved_substantive_issues": 0,
+  "repair_required": false,
+  "candidate": {
+    "path": "problems/2017-B4/notes/global-value-return-r1-candidate-v1.md",
+    "bytes": 23428,
+    "sha256": "d70cda1ce140e989d4d37d062c9c6c55e562db7044ba4302b6183ee91603c016"
+  },
+  "accepted_copy": {
+    "path": "problems/2017-B4/proofs/reviewed-global-value-return-v1.1.md",
+    "bytes": 26930,
+    "sha256": "34828173c86d84eeb863b40443ef6e1e7b6d24ac5a9b107fba036141165937d3"
+  },
+  "verification_metadata": [
+    {
+      "path": "problems/2017-B4/notes/global-value-return-r1-manifest-v1.json",
+      "bytes": 3534,
+      "sha256": "61a261da6ae345a9255b8e9f5ea06cf697af2a1663c8bad4bc4f2010b5eeae53"
+    },
+    {
+      "path": "problems/2017-B4/notes/global-value-return-r1-input-validation-v1.json",
+      "bytes": 56800,
+      "sha256": "72066d2e2be621cf4efb419b1b220f71d2c1df57612f133dc55ffe5953de8bde"
+    },
+    {
+      "path": "problems/2017-B4/notes/global-value-return-r1-sources-v1.json",
+      "bytes": 7520,
+      "sha256": "8bdd210ae5222199148c880a6739332faa6aa648106b1fd5a77e530284d3d8ab"
+    },
+    {
+      "path": "problems/2017-B4/reviews/global-value-return-review-1-manifest-v1.json",
+      "bytes": 2723,
+      "sha256": "8c216d07059cc26efa738ac8fececda31ee1eef9320a666f4439be13ae5acd46"
+    },
+    {
+      "path": "problems/2017-B4/reviews/global-value-return-review-1-integrity-v1.json",
+      "bytes": 1837,
+      "sha256": "6cd986151c2fa912aa7704c8f4ec5dac9c825d7f37be8fa11641b20aa87cd6d6"
+    },
+    {
+      "path": "problems/2017-B4/reviews/global-value-return-review-2-manifest-v1.json",
+      "bytes": 2979,
+      "sha256": "39ad3d718964940c89f3499727133fee2af9f0abafbd454a336fd7e6ba66c25b"
+    },
+    {
+      "path": "problems/2017-B4/reviews/global-value-return-review-2-input-validation-v1.json",
+      "bytes": 118295,
+      "sha256": "3428f46bc73e66f9ac74324bec50f005650b9f8533506ab5992e84387fb4c1b9"
+    }
+  ],
+  "record_occurrences_verified": 924,
+  "unique_paths_verified": 515,
+  "claims": [
+    "V1 invariant weighted interleaving bound",
+    "V2 sharper outer-D entropy error",
+    "V3 conditional E/R effective algorithm",
+    "V4 abstract numerical noncomputability obstruction"
+  ],
+  "constructor": "review_2017_coarsening_r1",
+  "fresh_whole_nonconstructor_reviewers": [
+    "coordinator root",
+    "review_2022_complexity_r2"
+  ],
+  "inference_checks": [
+    40,
+    48
+  ],
+  "author_obligations": 40,
+  "old_roles_disclosed": true,
+  "actual_E_R_computability_noncomputability_value_annual_or_novelty_claim": false,
+  "mathematical_program_CAS_scan_or_rerun": false
+}

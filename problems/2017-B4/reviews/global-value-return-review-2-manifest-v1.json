@@ -1,0 +1,68 @@
+{
+  "frozen_at_utc": "2026-10-17T13:19:35.111871+00:00",
+  "status": "complete fresh initially blind nonconstructor WHOLE V1-V4 review2; no substantive defect identified in exact scopes",
+  "reviewer": "review_2022_complexity_r2",
+  "new_constructor": "review_2017_coarsening_r1",
+  "reviewer_constructed_or_contributed_to_NEW_V1_to_V4": false,
+  "older_global_authorship_and_local_review_roles_disclosed": true,
+  "requested_model": "gpt-6.1-sol",
+  "requested_reasoning_effort": "max",
+  "verified_effective_setting_readback": null,
+  "new_V_peer_findings_read_before_complete_initial_freeze": false,
+  "full_main_source_log_and_all40_obligations_read": true,
+  "whole_independent_mathematical_reconstruction": true,
+  "per_inference_checks": 48,
+  "substantive_issues_identified": 0,
+  "required_author_repairs": 0,
+  "E_and_R_remain_explicit_extra_unproved_hypotheses": true,
+  "V4_is_abstract_not_actual_tiling_counterexample": true,
+  "mathematical_program_scan_CAS_enumeration_certificate_or_author_rerun": false,
+  "old_shared_Git_cache_other_owner_edits_spawning_contact_charge_or_bypass": false,
+  "full_value_computability_noncomputability_novelty_or_coordinator_promotion_claim": false,
+  "author_manifest": {
+    "path": "problems/2017-B4/notes/global-value-return-r1-manifest-v1.json",
+    "bytes": 3534,
+    "sha256": "61a261da6ae345a9255b8e9f5ea06cf697af2a1663c8bad4bc4f2010b5eeae53"
+  },
+  "author_artifacts_verified": 8,
+  "input_record_occurrences_verified": 582,
+  "input_unique_paths_verified": 503,
+  "older_own_unique_frozen_paths_preserved": 223,
+  "direct_weekly_telemetry": {
+    "at_utc": "2026-10-17T13:18:06+00:00",
+    "source": "direct account-wide usage tool paired with UTC clock",
+    "total_used_percent": 41,
+    "window_duration_minutes": 10080,
+    "resets_at_unix": 1792745187,
+    "ordinary_usage_allowed": true,
+    "total_used_cutoff_percent": 90,
+    "integration_reserve": true
+  },
+  "artifacts": [
+    {
+      "path": "problems/2017-B4/reviews/global-value-return-review-2-initial-v1.md",
+      "bytes": 16372,
+      "sha256": "90365d58eb45d88bcac35985f9d0fe53a3fa74d1d3f529593376b20c132f2fe7"
+    },
+    {
+      "path": "problems/2017-B4/reviews/global-value-return-review-2-issues-v1.md",
+      "bytes": 10879,
+      "sha256": "bd682b0b5b62fa42975a6197a3cfbcc134ae2f3aa4e1eba2b618fd2cfd9ae713"
+    },
+    {
+      "path": "problems/2017-B4/reviews/global-value-return-review-2-source-checks-v1.md",
+      "bytes": 8877,
+      "sha256": "a385338a47603c3be5e12e7800dd3540bbc2d129e6061ad3b0de57965050c427"
+    },
+    {
+      "path": "problems/2017-B4/reviews/global-value-return-review-2-freeze-v1.py",
+      "bytes": 11662,
+      "sha256": "b06965255d7dabb48ddde183f2ce71911137d6524128790ef524bf6e3707431c"
+    },
+    {
+      "path": "problems/2017-B4/reviews/global-value-return-review-2-input-validation-v1.json",
+      "bytes": 118295,
+      "sha256": "3428f46bc73e66f9ac74324bec50f005650b9f8533506ab5992e84387fb4c1b9"
+    }
+  ]
+}

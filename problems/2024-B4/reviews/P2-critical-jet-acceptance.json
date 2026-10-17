@@ -1,0 +1,63 @@
+{
+  "accepted_at_utc": "2026-10-17T13:24:36.275967+00:00",
+  "status": "proved, independently reviewed scoped partial result",
+  "whole_initials_blind": true,
+  "root_read_full_candidate_both_reports_all_ledgers_sources": true,
+  "unresolved_substantive_issues": 0,
+  "repair_required": false,
+  "candidate": {
+    "path": "problems/2024-B4/notes/coordinator-P2-critical-jet-return-v1.md",
+    "bytes": 6774,
+    "sha256": "fa5b79ce59303a06a61da18ee902235bc299add309aa0725846bbfd3a7716f26"
+  },
+  "accepted_copy": {
+    "path": "problems/2024-B4/proofs/reviewed-P2-critical-jet-v1.1.md",
+    "bytes": 9376,
+    "sha256": "4d8de33dd124a1352ec1a404863f3ea2eb4b2c696adf8a02d0a35bf6233cf53f"
+  },
+  "verification_metadata": [
+    {
+      "path": "problems/2024-B4/notes/coordinator-P2-critical-jet-manifest-v1.json",
+      "bytes": 1089,
+      "sha256": "d1926b3e81b4952ad29c46dcda57b932365d8b36728b228a31d169dfda67cec3"
+    },
+    {
+      "path": "problems/2024-B4/reviews/P2-critical-jet-review-1-manifest-v1.json",
+      "bytes": 2863,
+      "sha256": "a6f67056180221e2b3db20d5b987e36173eac55d5681b8036a0b33e33e5e2e3c"
+    },
+    {
+      "path": "problems/2024-B4/reviews/P2-critical-jet-review-1-input-validation-v1.json",
+      "bytes": 187258,
+      "sha256": "56f0680e4b093bd677d412c9e89396385346c31ddd1dcc86c472d4d963def475"
+    },
+    {
+      "path": "problems/2024-B4/reviews/P2-critical-jet-review-2-manifest-v1.json",
+      "bytes": 2970,
+      "sha256": "73a3e6ff8c1a1944cb9caa06442415c837668d9d008d06e1c4fc65e872fdd4ce"
+    },
+    {
+      "path": "problems/2024-B4/reviews/P2-critical-jet-review-2-input-validation-v1.json",
+      "bytes": 59431,
+      "sha256": "9988155549a58bcd108deb9bfb0550eb005b1ae06f8d6823a54213146d0152f0"
+    }
+  ],
+  "record_occurrences_verified": 1106,
+  "unique_paths_verified": 671,
+  "claims": [
+    "CJ1 necessary all-critical-root composition congruence"
+  ],
+  "constructor": "coordinator root",
+  "fresh_whole_nonconstructor_reviewers": [
+    "review_2021_reasoning_j15_r2",
+    "review_2017_coarsening_r1"
+  ],
+  "inference_checks": [
+    30,
+    6
+  ],
+  "author_obligations": 6,
+  "old_roles_disclosed": true,
+  "sufficiency_indecomposability_arbitrary_factors_annual_or_novelty_claim": false,
+  "mathematical_program_CAS_scan_or_rerun": false
+}

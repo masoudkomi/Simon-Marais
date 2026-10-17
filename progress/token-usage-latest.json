@@ -1,16 +1,16 @@
 {
-  "snapshot_cutoff_utc": "2026-10-17T13:09:25.336858+00:00",
+  "snapshot_cutoff_utc": "2026-10-17T13:24:54.054332+00:00",
   "observed_sessions": 62,
-  "distinct_responses": 4964,
+  "distinct_responses": 5044,
   "usage": {
-    "input_tokens": 841537532,
-    "cached_input_tokens": 802819584,
+    "input_tokens": 857392014,
+    "cached_input_tokens": 818011904,
     "cache_write_input_tokens": 0,
-    "output_tokens": 6920655,
-    "reasoning_output_tokens": 3029830,
-    "total_tokens": 848458187
+    "output_tokens": 7047404,
+    "reasoning_output_tokens": 3067235,
+    "total_tokens": 864439418
   },
-  "uncached_input_plus_output_tokens": 45638603,
+  "uncached_input_plus_output_tokens": 46427514,
   "sessions_without_usage_records": 0,
   "all_recorded_session_sums_match_cumulative": true,
   "method": "Deduplicated own-thread per-response usage records across root and recursively spawned descendants; cached input is a subset of input, reasoning output a subset of output.",
@@ -18,15 +18,15 @@
   "agents": [
     {
       "agent": "/root",
-      "distinct_responses": 1494,
-      "latest_record_utc": "2026-10-17T13:09:25.324Z",
+      "distinct_responses": 1517,
+      "latest_record_utc": "2026-10-17T13:24:49.255Z",
       "usage": {
-        "input_tokens": 298335041,
-        "cached_input_tokens": 288322816,
+        "input_tokens": 302877889,
+        "cached_input_tokens": 292739840,
         "cache_write_input_tokens": 0,
-        "output_tokens": 1447474,
-        "reasoning_output_tokens": 533151,
-        "total_tokens": 299782515
+        "output_tokens": 1481683,
+        "reasoning_output_tokens": 544118,
+        "total_tokens": 304359572
       },
       "matches_latest_thread_cumulative": true
     },
@@ -312,15 +312,15 @@
     },
     {
       "agent": "/root/review_2017_coarsening_r1",
-      "distinct_responses": 528,
-      "latest_record_utc": "2026-10-17T13:08:35.583Z",
+      "distinct_responses": 540,
+      "latest_record_utc": "2026-10-17T13:17:50.194Z",
       "usage": {
-        "input_tokens": 103254609,
-        "cached_input_tokens": 97288960,
+        "input_tokens": 107596926,
+        "cached_input_tokens": 101519872,
         "cache_write_input_tokens": 0,
-        "output_tokens": 931721,
-        "reasoning_output_tokens": 441508,
-        "total_tokens": 104186330
+        "output_tokens": 958390,
+        "reasoning_output_tokens": 451673,
+        "total_tokens": 108555316
       },
       "matches_latest_thread_cumulative": true
     },
@@ -634,15 +634,15 @@
     },
     {
       "agent": "/root/review_2021_reasoning_j15_r2",
-      "distinct_responses": 595,
-      "latest_record_utc": "2026-10-17T13:08:56.970Z",
+      "distinct_responses": 612,
+      "latest_record_utc": "2026-10-17T13:23:11.178Z",
       "usage": {
-        "input_tokens": 118779740,
-        "cached_input_tokens": 112733184,
+        "input_tokens": 121279390,
+        "cached_input_tokens": 115025280,
         "cache_write_input_tokens": 0,
-        "output_tokens": 1266107,
-        "reasoning_output_tokens": 602453,
-        "total_tokens": 120045847
+        "output_tokens": 1297490,
+        "reasoning_output_tokens": 609409,
+        "total_tokens": 122576880
       },
       "matches_latest_thread_cumulative": true
     },
@@ -704,15 +704,15 @@
     },
     {
       "agent": "/root/review_2022_complexity_r2",
-      "distinct_responses": 550,
-      "latest_record_utc": "2026-10-17T13:07:45.838Z",
+      "distinct_responses": 578,
+      "latest_record_utc": "2026-10-17T13:20:43.086Z",
       "usage": {
-        "input_tokens": 106989457,
-        "cached_input_tokens": 101312768,
+        "input_tokens": 111459124,
+        "cached_input_tokens": 105565056,
         "cache_write_input_tokens": 0,
-        "output_tokens": 1044402,
-        "reasoning_output_tokens": 461265,
-        "total_tokens": 108033859
+        "output_tokens": 1078890,
+        "reasoning_output_tokens": 470582,
+        "total_tokens": 112538014
       },
       "matches_latest_thread_cumulative": true
     },

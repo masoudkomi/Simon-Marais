@@ -1,0 +1,68 @@
+{
+  "frozen_at_utc": "2026-10-17T13:17:24.214108+00:00",
+  "status": "complete initially blind whole R2; all six CJ1 obligations pass in necessary-congruence scope, no substantive issue found; coordinator reconciliation pending",
+  "reviewer": "/root/review_2017_coarsening_r1",
+  "new_CJ1_constructor": false,
+  "old_CP_authorship_disclosed_not_new_independent_self_reaudit": true,
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "target": {
+    "path": "problems/2024-B4/notes/coordinator-P2-critical-jet-return-v1.md",
+    "bytes": 6774,
+    "sha256": "fa5b79ce59303a06a61da18ee902235bc299add309aa0725846bbfd3a7716f26"
+  },
+  "target_manifest": {
+    "path": "problems/2024-B4/notes/coordinator-P2-critical-jet-manifest-v1.json",
+    "bytes": 1089,
+    "sha256": "d1926b3e81b4952ad29c46dcda57b932365d8b36728b228a31d169dfda67cec3"
+  },
+  "whole_author_obligations_audited": 6,
+  "open_substantive_issues": 0,
+  "exact_q_local_order_uniform_q5_jet_and_q4_outer_multiplicity_reconstructed": true,
+  "zero_K_inseparable_H_and_j1_boundaries_checked": true,
+  "coprime_product_and_monic_F2_descent_checked": true,
+  "j2_endpoint_and_j3plus_insufficiency_scope_checked": true,
+  "full_composition_factorization_annual_novelty_or_Ritt_theorem_claim": false,
+  "new_CJ1_peer_findings_read_before_initial_freeze": false,
+  "mathematical_program_CAS_scan_sample_certificate_or_author_rerun": false,
+  "earlier_unique_own_paths_verified_unchanged": 286,
+  "last_direct_weekly_telemetry": {
+    "at_utc": "2026-10-17 13:11:25 UTC",
+    "total_used_percent": 40,
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "total_ceiling_percent": 90,
+    "integration_reserve": true
+  },
+  "administrative_command": "/Users/uqmkamga/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 problems/2024-B4/reviews/P2-critical-jet-review-2-freeze-v1.py",
+  "artifacts": [
+    {
+      "path": "problems/2024-B4/reviews/P2-critical-jet-review-2-initial-v1.md",
+      "bytes": 8667,
+      "sha256": "134b10c99c8f87dbfdafeedbc6f7b1573054143e1c453c2eb5cf35a5b09e22c2"
+    },
+    {
+      "path": "problems/2024-B4/reviews/P2-critical-jet-review-2-issues-v1.md",
+      "bytes": 1985,
+      "sha256": "11b4dbef86329964231dab87803e924781cb3b8dd4de8222df442e86cfb5abbd"
+    },
+    {
+      "path": "problems/2024-B4/reviews/P2-critical-jet-review-2-source-checks-v1.md",
+      "bytes": 2631,
+      "sha256": "bc5c7c4a2768b34977d1b59ca196228eff70743f6ad0eaa3b4194c5ab1427592"
+    },
+    {
+      "path": "problems/2024-B4/reviews/P2-critical-jet-review-2-freeze-v1.py",
+      "bytes": 6197,
+      "sha256": "6861627fffa6c2a9e7a9a264a6d507da3607f114042a88a192c9543e9151ccca"
+    },
+    {
+      "path": "problems/2024-B4/reviews/P2-critical-jet-review-2-input-validation-v1.json",
+      "bytes": 59431,
+      "sha256": "9988155549a58bcd108deb9bfb0550eb005b1ae06f8d6823a54213146d0152f0"
+    }
+  ]
+}

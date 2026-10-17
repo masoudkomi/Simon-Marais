@@ -120,3 +120,6 @@ Current12:03UTCtransition:36%TOTALweeklyused,64%remaining,54ppbefore90%,samerese
 
 
 13:09UTC checkpoint: directaccountmeter40%TOTALweekly used/60%remaining,50ppbefore90%,reset1792745187. Raw13:09:25UTC848,458,187total:802,819,584cachedinput,38,717,948uncachedinput,6,920,655output including3,029,830reasoning;uncached+output45,638,603.62sessions4964responses,allsumsmatch. No bill or weeklyconversion. OwnedawakePID79293/session64368 lastverified22:52:11Brisbane; continue until90%TOTAL withreview/integrationreserve.
+
+
+13:25UTC checkpoint: direct accountmeter41%TOTALweekly used/59%remaining,49ppbefore90%, reset1792745187. Raw13:24:54UTC864,439,418total:818,011,904cachedinput,39,380,110uncachedinput,7,047,404output including3,067,235reasoning;uncached+output46,427,514.62sessions5044responses,allrecordedsumsmatch. No bill or weeklyconversion. Continue with review/integrationreserve and targetedownedawakecleanupat90%oractualend.

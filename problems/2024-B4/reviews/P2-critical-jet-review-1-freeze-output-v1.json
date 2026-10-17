@@ -1,0 +1,39 @@
+{
+  "checked_at_utc": "2026-10-17T13:17:46.715956+00:00",
+  "metadata_only_no_mathematical_computation": true,
+  "candidate": {
+    "path": "problems/2024-B4/notes/coordinator-P2-critical-jet-return-v1.md",
+    "bytes": 6774,
+    "sha256": "fa5b79ce59303a06a61da18ee902235bc299add309aa0725846bbfd3a7716f26"
+  },
+  "constructor_manifest": {
+    "path": "problems/2024-B4/notes/coordinator-P2-critical-jet-manifest-v1.json",
+    "bytes": 1089,
+    "sha256": "d1926b3e81b4952ad29c46dcda57b932365d8b36728b228a31d169dfda67cec3"
+  },
+  "constructor_records_checked": 3,
+  "accepted_GK_authority_fingerprint_occurrences_checked": 19,
+  "accepted_GK_frozen_artifacts_checked": 6,
+  "accepted_GK_old_input_occurrences_checked": 417,
+  "accepted_GK_old_input_unique_paths_checked": 214,
+  "whole_claims": [
+    "CJ1"
+  ],
+  "per_inference_ledger_rows": 30,
+  "author_obligations_covered": 6,
+  "older_own_packets_unchanged": 46,
+  "all_hash_checks_passed": true,
+  "substantive_objections": 0,
+  "required_author_repairs": 0,
+  "new_peer_CJ_findings_or_later_root_inspection_read_before_freeze": false,
+  "latest_authoritative_weekly_usage": {
+    "at_utc": "2026-10-17 13:12:26 UTC (paired telemetry and clock)",
+    "total_used_percent": 40,
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "total_ceiling_percent": 90,
+    "integration_reserve": true,
+    "ordinary_usage_allowed": true
+  },
+  "command": "python3 problems/2024-B4/reviews/P2-critical-jet-review-1-freeze-v1.py"
+}

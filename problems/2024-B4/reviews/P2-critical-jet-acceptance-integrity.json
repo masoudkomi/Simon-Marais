@@ -1,0 +1,50 @@
+{
+  "verified_at_utc": "2026-10-17T13:24:36.275967+00:00",
+  "all_verified": true,
+  "record_occurrences": 1106,
+  "unique_paths": 671,
+  "inputs": [
+    {
+      "metadata": {
+        "path": "problems/2024-B4/notes/coordinator-P2-critical-jet-manifest-v1.json",
+        "bytes": 1089,
+        "sha256": "d1926b3e81b4952ad29c46dcda57b932365d8b36728b228a31d169dfda67cec3"
+      },
+      "record_occurrences_verified": 3
+    },
+    {
+      "metadata": {
+        "path": "problems/2024-B4/reviews/P2-critical-jet-review-1-manifest-v1.json",
+        "bytes": 2863,
+        "sha256": "a6f67056180221e2b3db20d5b987e36173eac55d5681b8036a0b33e33e5e2e3c"
+      },
+      "record_occurrences_verified": 6
+    },
+    {
+      "metadata": {
+        "path": "problems/2024-B4/reviews/P2-critical-jet-review-1-input-validation-v1.json",
+        "bytes": 187258,
+        "sha256": "56f0680e4b093bd677d412c9e89396385346c31ddd1dcc86c472d4d963def475"
+      },
+      "record_occurrences_verified": 794
+    },
+    {
+      "metadata": {
+        "path": "problems/2024-B4/reviews/P2-critical-jet-review-2-manifest-v1.json",
+        "bytes": 2970,
+        "sha256": "73a3e6ff8c1a1944cb9caa06442415c837668d9d008d06e1c4fc65e872fdd4ce"
+      },
+      "record_occurrences_verified": 7
+    },
+    {
+      "metadata": {
+        "path": "problems/2024-B4/reviews/P2-critical-jet-review-2-input-validation-v1.json",
+        "bytes": 59431,
+        "sha256": "9988155549a58bcd108deb9bfb0550eb005b1ae06f8d6823a54213146d0152f0"
+      },
+      "record_occurrences_verified": 296
+    }
+  ],
+  "exact_rows_bound_in_immutable_inputs": true,
+  "administrative_only": true
+}
