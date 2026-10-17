@@ -1,0 +1,138 @@
+{
+  "recorded_at_utc": "2026-10-17T12:22:14.030526+00:00",
+  "status": "candidate proof - unverified; attribution and read limits only",
+  "official": {
+    "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc2025_paper_b.pdf",
+    "actual_read_scope": "B4(b), primary PDF page2 reopened this return; signed integer domain and degree convention",
+    "new_binary_hash": null,
+    "hash_limit": "web PDF viewer, no new binary cached; earlier hash remains attributed in statement.md"
+  },
+  "original_diagonal": {
+    "url": "https://www.researchgate.net/publication/226863681_Class_Number_Conditions_for_the_Diagonal_Case_of_the_Equation_of_Nagell_and_Ljunggren",
+    "edition": "author-uploaded internal version2.0,2007-09-17; published2008",
+    "actual_new_read_scope": "Section2.3 equations14-18 and complete Lemma3/proof; Section2.6 normalization and complete Lemmas6-7/proofs plus adjacent context",
+    "prior_read_scope": "Relevant Section4.3, Fourier definition and paired selection/cancellation passages read during completed MS whole audit",
+    "complete_Diophantine_proof_reconstructed": false,
+    "binary_sha256": null,
+    "hash_limit": "author-uploaded text viewer, no invented binary hash",
+    "role": "definitions, exact original weight/selection interface and attribution of the already printed p-squared refinement"
+  },
+  "later_primary": {
+    "url": "https://arxiv.org/pdf/1412.5798v2",
+    "authors": [
+      "B. Bartolome",
+      "P. Mihailescu"
+    ],
+    "title": "On the equation X^n-1=BZ^n",
+    "edition": "internal version1.13,2021-11-02",
+    "fingerprint": {
+      "path": ".cache/literature/deep-literature-r1/2025-bartolome-mihailescu-binary-thue-v2.pdf",
+      "bytes": 300321,
+      "sha256": "7108b665ebed8b2364c5a6629951d21abd400c96d4e7d5f4f81028f12ed424aa"
+    },
+    "actual_new_read_scope": "Complete printed/PDFpp5-11 (definitions and Lemmas2.4-2.10 and start of application); complete Appendix5.2 acrosspp16-18 and referencesp19; page16 preceding Appendix5.1.1 ending",
+    "complete_Diophantine_theorem_imported": false,
+    "FS2_overlap": "Lemma2.7 already states the one-element selection conclusion; Appendix5.2 uses the product of action and inverse moments",
+    "FS2_role": "Self-contained alternative proof for p>7, not a new existence theorem or novel method; nonexceptional domain and zero action moments handled explicitly",
+    "small_prime_Lemma2_7_extension_imported": false,
+    "binary_Thue_or_appendix_repair_imported": false
+  },
+  "targeted_queries": [
+    "Nagell Ljunggren diagonal x congruent 0 -1 p squared p-adic second case valuation",
+    "Nagell Ljunggren equation negative x elementary p adic second case local solvability",
+    "Fueter elements stabilizer order three Jacobi sums Stickelberger n squared n 1",
+    "Jacobi sum stabilizer cubic roots unity Q zeta p a b Galois degree p minus 1 divided 3",
+    "Fueter elements first third moment Stickelberger phi inverse moment stabilizer",
+    "\"Fueter\" \"moments\" \"Fermat\"",
+    "\"Fueter\" \"stabilizer\"",
+    "\"Fermat module\" \"weight\" \"moment\""
+  ],
+  "search_limit": "No additional applicable primary stabilizer theorem identified; no novelty or absence inference",
+  "new_external_Diophantine_theorem": false,
+  "FS1_FS3_priority": "unestablished; additional project deductions with full explicit proofs",
+  "mathematical_program_CAS_scan_certificate_replay_or_sampling": false,
+  "pypdf_role": "existing primary PDF text reading only",
+  "download_purchase_contact_access_bypass": false,
+  "complete_read_project_inputs": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2025-B4/statement.md",
+      "bytes": 2024,
+      "sha256": "af0075dd635e8e4d31bb3ae9148d1731a7fbb57c06cf104763332e1496673f59"
+    },
+    {
+      "path": "problems/2025-B4/proof.md",
+      "bytes": 5423,
+      "sha256": "c422139567ee3e2f4eafd852c9a3f5fac73cb6c8e0bfdf9e2c9c5311a9348b0d"
+    },
+    {
+      "path": "problems/2025-B4/proofs/reviewed-partial-v1.1.md",
+      "bytes": 1803,
+      "sha256": "29276223791ec301bdbacf335e1fa20a5ca1e65c50f354035abd46b9400e9674"
+    },
+    {
+      "path": "problems/2025-B4/proofs/reviewed-power-gap-return-v1.1.md",
+      "bytes": 11931,
+      "sha256": "178bcd9ace1c34ac6762f4857f7da85b5b55ff07f4d2308a83bfe57a11749850"
+    },
+    {
+      "path": "problems/2025-B4/proofs/reviewed-diagonal-firstcase-v1.1.md",
+      "bytes": 5436,
+      "sha256": "1f4e63b83f0e5de1163691d5fe715efaaa16d1b9ad058546cee41ea46f04a281"
+    },
+    {
+      "path": "problems/2025-B4/proofs/reviewed-diagonal-moment-v1.1.md",
+      "bytes": 10168,
+      "sha256": "4e25e67e6459134cb5b6c618baef91c37f30bb1dae542d7426fb61450ce4a4f7"
+    },
+    {
+      "path": "problems/2025-B4/notes/reviewed-literature-supplement-v1.md",
+      "bytes": 2994,
+      "sha256": "ea101d728e78b4f7062895f3de01f171b3d3719733a4983200ef34d590a31df7"
+    },
+    {
+      "path": "problems/2025-B4/reviews/strongfc-acceptance.md",
+      "bytes": 5484,
+      "sha256": "f7770a001112407c8425da5fcdd487eb725dd8ecbc6557badee3e7964fc7b982"
+    },
+    {
+      "path": "problems/2025-B4/notes/deep-literature-r1-report-v1.md",
+      "bytes": 10045,
+      "sha256": "f7f6301ac760bcb97f2e00e0d930ef13dba3e9e66e57450022db3e78513e60ad"
+    },
+    {
+      "path": "problems/2025-B4/research.md",
+      "bytes": 8242,
+      "sha256": "a3821420232d2ae27fd216047cee996b8d2081c906825bd99e02dbe9952be6ad"
+    },
+    {
+      "path": "problems/2025-B4/references.md",
+      "bytes": 3975,
+      "sha256": "95eee8484284dbca050d5ee71896073af58f291ae68c8b461c48505610921396"
+    },
+    {
+      "path": "problems/2025-B4/computations/literature-audit.md",
+      "bytes": 4416,
+      "sha256": "fa1921d05a974ddfd0d1cc862aa057688ea6ac063b1fbf32a33c44213505c0fe"
+    },
+    {
+      "path": "problems/2025-B4/notes/coordinator-diagonal-appendix-inspection-v1.md",
+      "bytes": 3073,
+      "sha256": "6dd88dac8ab77b6ddbeafdeb92c434004f18e359e8a52a76dec772ef9260c44d"
+    },
+    {
+      "path": "problems/2025-B4/notes/coordinator-diagonal-moment-separation-v1.3.md",
+      "bytes": 3219,
+      "sha256": "cdf9ad99a74d1c03ef258a5cd1bbe8bd9541135038ea5fdbca0e70622fd50043"
+    },
+    {
+      "path": "problems/2025-B4/notes/coordinator-diagonal-moment-sources-v1.json",
+      "bytes": 2629,
+      "sha256": "02ac61f67ca22a677254394381746d457ab18b82ef56f5362a063d8d24054118"
+    }
+  ]
+}

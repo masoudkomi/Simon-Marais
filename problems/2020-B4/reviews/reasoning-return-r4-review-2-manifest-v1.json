@@ -1,0 +1,74 @@
+{
+  "frozen_at_utc": "2026-10-17T12:30:09.242671+00:00",
+  "status": "complete initially blind whole review2; one auxiliary false assertion requires author correction; full E2 iff and R4A-R4D otherwise reconstruct",
+  "reviewer": "/root/review_2017_coarsening_r1",
+  "new_R4_constructor": false,
+  "old_repaired_R3_F1_F2_constructor": true,
+  "old_dependency_not_independently_reaudited_by_its_author": true,
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "target": {
+    "path": "problems/2020-B4/notes/reasoning-return-r4-candidate-v1.md",
+    "bytes": 19691,
+    "sha256": "685c38ed9f1754aca7613e7e6d74d628737fa3b7111c3f8b01c98005b9af6958"
+  },
+  "target_manifest": {
+    "path": "problems/2020-B4/notes/reasoning-return-r4-freeze-v1.json",
+    "bytes": 3180,
+    "sha256": "2e32adb6386d2ce110b22f78f57f29ebcf5016721c3e4025e75d6d6ff280d755"
+  },
+  "whole_author_obligations_audited": 36,
+  "open_substantive_auxiliary_issues": 1,
+  "issue": {
+    "id": "R4R2-01",
+    "scope": "R4E lines351-352 final-equation essential / earlier-equations insufficient assertion is false",
+    "proof": "The last moment is k(k-1)=-1 automatically; the shorter moment list plus known mu(0)=k suffices by nonzero-point Vandermonde and the same small-count lifting",
+    "full_E2_iff_and_R4A_R4D_invalidated": false,
+    "author_versioned_correction_and_affected_review_required": true
+  },
+  "Cohen_original_theorem_hypotheses_checked": true,
+  "Cohen_complete_external_proof_reconstructed": false,
+  "new_Diophantine_classification_unbounded_E2_solution_novelty_or_cutoff_claim": false,
+  "peer_findings_read_before_initial_freeze": false,
+  "mathematical_program_CAS_scan_certificate_or_author_rerun": false,
+  "earlier_unique_own_paths_verified_unchanged": 253,
+  "last_direct_weekly_telemetry": {
+    "at_utc": "2026-10-17 12:29:29 UTC",
+    "total_used_percent": 37,
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "total_ceiling_percent": 90,
+    "integration_reserve": true
+  },
+  "administrative_command": "/Users/uqmkamga/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 problems/2020-B4/reviews/reasoning-return-r4-review-2-freeze-v1.py",
+  "artifacts": [
+    {
+      "path": "problems/2020-B4/reviews/reasoning-return-r4-review-2-initial-v1.md",
+      "bytes": 15116,
+      "sha256": "e8f2e900b11b9dd7953dba3709f3212e3dc7c211daed0fa8b8d2d097683388f7"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-return-r4-review-2-issues-v1.md",
+      "bytes": 7786,
+      "sha256": "702f238380c50a70e63322181462a836c346a543a15bdf654260f92f3c3052cc"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-return-r4-review-2-source-checks-v1.md",
+      "bytes": 6646,
+      "sha256": "88add021eba12fa430652916c252c39c0811d7980403917ee5bae4515fa40803"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-return-r4-review-2-freeze-v1.py",
+      "bytes": 6480,
+      "sha256": "3f79b88bb517ebac1fbd0410db33a7ea537742773e6f5f7ba2f4fededa829a1a"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-return-r4-review-2-input-validation-v1.json",
+      "bytes": 55765,
+      "sha256": "34f201361958413a70ff9be461981240d4c3dbc98ff2c192e90c4519bb19d05b"
+    }
+  ]
+}

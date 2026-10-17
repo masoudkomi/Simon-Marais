@@ -1,0 +1,26 @@
+{
+  "frozen_at_utc": "2026-10-17T12:19:12.632812+00:00",
+  "metadata_only": true,
+  "whole_LO1_LO6_and_conditional_reconstructed": true,
+  "per_inference_ledger_rows": 44,
+  "constructor_obligations_covered": 28,
+  "constructor_submission_artifacts": 8,
+  "constructor_input_fingerprint_occurrences": 242,
+  "constructor_source_fingerprint_occurrences": 8,
+  "constructor_input_and_source_unique_paths": 240,
+  "full_existence_body_and_acceptance_MD_checked": true,
+  "older_own_packets_preserved": 41,
+  "separate_GK_telemetry_addendum_preserved": true,
+  "substantive_objections": [],
+  "required_author_repairs": [],
+  "whole_initial_blind_freeze": true,
+  "latest_authoritative_weekly_usage": {
+    "total_used_percent": 36,
+    "at_utc": "2026-10-17 12:12:14 UTC",
+    "source": "authoritative account-wide get_usage_limits tool",
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "total_ceiling_percent": 90,
+    "integration_reserve": true
+  }
+}

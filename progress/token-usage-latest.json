@@ -1,16 +1,16 @@
 {
-  "snapshot_cutoff_utc": "2026-10-17T12:12:42.959405+00:00",
+  "snapshot_cutoff_utc": "2026-10-17T12:29:08.290290+00:00",
   "observed_sessions": 62,
-  "distinct_responses": 4586,
+  "distinct_responses": 4683,
   "usage": {
-    "input_tokens": 761352401,
-    "cached_input_tokens": 725832704,
+    "input_tokens": 780860695,
+    "cached_input_tokens": 744739968,
     "cache_write_input_tokens": 0,
-    "output_tokens": 6341273,
-    "reasoning_output_tokens": 2780168,
-    "total_tokens": 767693674
+    "output_tokens": 6498333,
+    "reasoning_output_tokens": 2853610,
+    "total_tokens": 787359028
   },
-  "uncached_input_plus_output_tokens": 41860970,
+  "uncached_input_plus_output_tokens": 42619060,
   "sessions_without_usage_records": 0,
   "all_recorded_session_sums_match_cumulative": true,
   "method": "Deduplicated own-thread per-response usage records across root and recursively spawned descendants; cached input is a subset of input, reasoning output a subset of output.",
@@ -18,15 +18,15 @@
   "agents": [
     {
       "agent": "/root",
-      "distinct_responses": 1365,
-      "latest_record_utc": "2026-10-17T12:12:42.901Z",
+      "distinct_responses": 1406,
+      "latest_record_utc": "2026-10-17T12:29:08.250Z",
       "usage": {
-        "input_tokens": 271562152,
-        "cached_input_tokens": 262435968,
+        "input_tokens": 278799250,
+        "cached_input_tokens": 269444608,
         "cache_write_input_tokens": 0,
-        "output_tokens": 1318167,
-        "reasoning_output_tokens": 487629,
-        "total_tokens": 272880319
+        "output_tokens": 1355916,
+        "reasoning_output_tokens": 504021,
+        "total_tokens": 280155166
       },
       "matches_latest_thread_cumulative": true
     },
@@ -312,15 +312,15 @@
     },
     {
       "agent": "/root/review_2017_coarsening_r1",
-      "distinct_responses": 436,
-      "latest_record_utc": "2026-10-17T12:12:31.818Z",
+      "distinct_responses": 464,
+      "latest_record_utc": "2026-10-17T12:28:03.111Z",
       "usage": {
-        "input_tokens": 84519171,
-        "cached_input_tokens": 79773312,
+        "input_tokens": 89723538,
+        "cached_input_tokens": 84827136,
         "cache_write_input_tokens": 0,
-        "output_tokens": 787632,
-        "reasoning_output_tokens": 377212,
-        "total_tokens": 85306803
+        "output_tokens": 830109,
+        "reasoning_output_tokens": 396398,
+        "total_tokens": 90553647
       },
       "matches_latest_thread_cumulative": true
     },
@@ -634,15 +634,15 @@
     },
     {
       "agent": "/root/review_2021_reasoning_j15_r2",
-      "distinct_responses": 528,
-      "latest_record_utc": "2026-10-17T12:12:14.117Z",
+      "distinct_responses": 542,
+      "latest_record_utc": "2026-10-17T12:28:54.482Z",
       "usage": {
-        "input_tokens": 104143545,
-        "cached_input_tokens": 98686592,
+        "input_tokens": 107865256,
+        "cached_input_tokens": 102289024,
         "cache_write_input_tokens": 0,
-        "output_tokens": 1105879,
-        "reasoning_output_tokens": 530350,
-        "total_tokens": 105249424
+        "output_tokens": 1152074,
+        "reasoning_output_tokens": 552554,
+        "total_tokens": 109017330
       },
       "matches_latest_thread_cumulative": true
     },
@@ -704,15 +704,15 @@
     },
     {
       "agent": "/root/review_2022_complexity_r2",
-      "distinct_responses": 460,
-      "latest_record_utc": "2026-10-17T12:12:33.087Z",
+      "distinct_responses": 474,
+      "latest_record_utc": "2026-10-17T12:23:54.250Z",
       "usage": {
-        "input_tokens": 86948848,
-        "cached_input_tokens": 81774976,
+        "input_tokens": 90293966,
+        "cached_input_tokens": 85017344,
         "cache_write_input_tokens": 0,
-        "output_tokens": 898644,
-        "reasoning_output_tokens": 393524,
-        "total_tokens": 87847492
+        "output_tokens": 929283,
+        "reasoning_output_tokens": 409184,
+        "total_tokens": 91223249
       },
       "matches_latest_thread_cumulative": true
     },

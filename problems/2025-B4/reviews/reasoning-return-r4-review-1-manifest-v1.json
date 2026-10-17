@@ -1,0 +1,67 @@
+{
+  "frozen_at_utc": "2026-10-17T12:27:34.737901+00:00",
+  "reviewer": "coordinator root",
+  "new_constructor": "review_2017_coarsening_r1",
+  "fresh_initially_blind_whole": true,
+  "peer_new_FS_conclusions_read": false,
+  "root_old_MS_authorship_disclosed": true,
+  "independent_full_reconstruction": true,
+  "whole_inference_checks": 40,
+  "all_author_obligations": 40,
+  "substantive_issues": 0,
+  "repair_required": false,
+  "recommendation": "scoped acceptance only after second fresh whole audit and reconciliation",
+  "new_Diophantine_exclusion": false,
+  "mathematical_code_CAS_scan_or_rerun": false,
+  "metadata": [
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r4-freeze-v1.json",
+      "bytes": 3437,
+      "sha256": "1a2bb1af9a01a677dc68c8456067021f6cb9dd52113a2a50f5c09212e635b15b"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r4-input-validation-v1.json",
+      "bytes": 51813,
+      "sha256": "4b2b45712fba1ebfcb9f8350b56c19fb6b6ccefe870ac430f65b771617cb787b"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r4-sources-v1.json",
+      "bytes": 6501,
+      "sha256": "464f36186cb8c783802194cacabad2c5d972c8b74b145a13e3816054c48d42a5"
+    },
+    {
+      "path": "problems/2025-B4/reviews/diagonal-moment-acceptance.json",
+      "bytes": 3000,
+      "sha256": "215a0fe8511769d62a3621c010e768f1a043b0bf82145e87dc637274e49b4722"
+    }
+  ],
+  "artifacts": [
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r4-review-1-initial-v1.md",
+      "bytes": 5766,
+      "sha256": "17ecb3c094ce8a13d0323a60fce5c4c9e3ebbee1e784a14c13c46f699db37864"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r4-review-1-issues-v1.json",
+      "bytes": 12452,
+      "sha256": "7a38047309d20e665d29b1dac61d838b35aaac00f369248bd9ef3c18339c5302"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r4-review-1-source-checks-v1.md",
+      "bytes": 2582,
+      "sha256": "c113ad95c780f9859630496ea3aaf01cc8821cee5b9b09ead368607571823958"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r4-review-1-input-validation-v1.json",
+      "bytes": 93909,
+      "sha256": "b42375c71b5f16ee595d4ee4978447b86f5adadf936361884907f7c1e92f85c0"
+    }
+  ],
+  "weekly_meter": {
+    "total_used_percent": 37,
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "total_ceiling": 90,
+    "integration_reserve": true
+  }
+}

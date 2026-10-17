@@ -111,3 +111,6 @@ Current12:03UTCtransition:36%TOTALweeklyused,64%remaining,54ppbefore90%,samerese
 
 
 12:14UTC transition:36%TOTALweeklyused,64%remaining,54ppbefore90%;same reset1792745187. Raw12:12:42UTC767,693,674total,725,832,704cachedinput,35,519,697uncachedinput,6,341,273output including2,780,168reasoning;uncached+output41,860,970.62sessions/4586responses,all sums match. Not a bill/weeklyconversion. Research continues.
+
+
+12:30UTC transition:37%TOTALweeklyused,63%remaining,53ppbefore90%;same reset1792745187. Raw12:29:08UTC787,359,028total,744,739,968cachedinput,36,120,727uncachedinput,6,498,333output including2,853,610reasoning;uncached+output42,619,060.62sessions/4683responses,all sums match. Not a bill/weeklyconversion. Owned awake verified22:25:48Brisbane. Research continues.

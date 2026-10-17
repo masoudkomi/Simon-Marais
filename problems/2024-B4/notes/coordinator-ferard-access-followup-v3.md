@@ -1,0 +1,7 @@
+# Further primary-source access check
+
+2026-10-17 UTC, approximately12:14–12:17. Literature/access record only; no mathematical promotion.
+
+The normal primary DOI and publisher requests for Agrinsoni–Janwa–Delgado, [Toward resolution of the exceptional APN conjecture in the Kasami–Welch degree case](https://doi.org/10.1142/S0219498825410269), returned403 in the web viewer. The [ResearchGate record](https://www.researchgate.net/publication/391903840_Toward_resolution_of_the_exceptional_APN_conjecture_in_the_Kasami-Welch_degree_case) supplied a publisher preview of page1 and expressly offered an author request for the full paper. It did not supply the relevant full Férard quotation or theorem. No author request was sent; no charge/login/bypass occurred. A faculty profile's full-text-available label was not substituted for actual full text. The publisher's primary indexed metadata records publication2025-05-20; differing aggregator dates are not used as theorem evidence.
+
+The [2014 Férard publisher page](https://www.aimsciences.org/article/doi/10.3934/amc.2014.8.497) was reopened normally and still exposed the abstract, rather than exact full hypotheses. The previously recorded phi5 endpoint prevents adopting its unqualified wording as a full theorem. The ResearchGate2017-II record likewise exposes no full text. Existing HAL metadata and source limitations remain unchanged. No new binary bytes/hash or full paper retrieval is claimed. These bounded checks establish neither priority nor absence of further literature.

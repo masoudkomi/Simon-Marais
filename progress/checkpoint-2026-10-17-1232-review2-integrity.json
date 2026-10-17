@@ -1,0 +1,56 @@
+{
+  "verified_at_utc": "2026-10-17T12:31:38.585259+00:00",
+  "all_verified": true,
+  "manifest": {
+    "path": "problems/2020-B4/reviews/reasoning-return-r4-review-2-manifest-v1.json",
+    "bytes": 3301,
+    "sha256": "7353007da13f3f563ebb67684dd2c5fc6a2313b58388d4fc659570a6a8940a07"
+  },
+  "artifact_records_verified": 7,
+  "artifacts": [
+    {
+      "path": "problems/2020-B4/notes/reasoning-return-r4-candidate-v1.md",
+      "bytes": 19691,
+      "sha256": "685c38ed9f1754aca7613e7e6d74d628737fa3b7111c3f8b01c98005b9af6958"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-return-r4-freeze-v1.json",
+      "bytes": 3180,
+      "sha256": "2e32adb6386d2ce110b22f78f57f29ebcf5016721c3e4025e75d6d6ff280d755"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-return-r4-review-2-initial-v1.md",
+      "bytes": 15116,
+      "sha256": "e8f2e900b11b9dd7953dba3709f3212e3dc7c211daed0fa8b8d2d097683388f7"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-return-r4-review-2-issues-v1.md",
+      "bytes": 7786,
+      "sha256": "702f238380c50a70e63322181462a836c346a543a15bdf654260f92f3c3052cc"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-return-r4-review-2-source-checks-v1.md",
+      "bytes": 6646,
+      "sha256": "88add021eba12fa430652916c252c39c0811d7980403917ee5bae4515fa40803"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-return-r4-review-2-freeze-v1.py",
+      "bytes": 6480,
+      "sha256": "3f79b88bb517ebac1fbd0410db33a7ea537742773e6f5f7ba2f4fededa829a1a"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-return-r4-review-2-input-validation-v1.json",
+      "bytes": 55765,
+      "sha256": "34f201361958413a70ff9be461981240d4c3dbc98ff2c192e90c4519bb19d05b"
+    }
+  ],
+  "followup": {
+    "path": "progress/2020-r4-review2-followup-2026-10-17-1232.md",
+    "bytes": 1357,
+    "sha256": "5fb0a2b70333edca61163ad851dfbf7512378edb6e98b95602985ab9d0417580"
+  },
+  "issue": "R4R2-01",
+  "root_R1_initial_missed_auxiliary_claim": true,
+  "author_repair_and_both_reaudits_required": true,
+  "no_mathematical_computation": true
+}

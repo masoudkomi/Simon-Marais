@@ -1,0 +1,253 @@
+{
+  "status": "complete initially blind WHOLE FS1\u2013FS3 initial; scoped recommendation only",
+  "reviewer": "coordinator root",
+  "new_FS_constructor": false,
+  "old_MS_authorship_disclosed": true,
+  "peer_new_FS_findings_read": false,
+  "all40_obligations_checked": true,
+  "issues": [],
+  "required_repairs": [],
+  "inference_ledger": [
+    {
+      "id": "FS01",
+      "label": "Official domain",
+      "reconstruction": "The official degree is n_off and the sum has m=n_off+1 terms. FS statements concern only an auxiliary odd prime and group ring; no signed integer solution is inferred.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "FS02",
+      "label": "Distinct parameters",
+      "reconstruction": "p prime, Fueter t in1..p-2, arbitrary integer weight parameter k>=2 and official exponent q are not interchangeable. FS1 starts p5, FS2/3 p>7.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "FS03",
+      "label": "Index conventions",
+      "reconstruction": "F and M_r use direct sigma_a. A source coefficient of sigma_c^-1 contributes c^-1 toF and c^r toM_r. The two first moments are different.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "FS04",
+      "label": "Transformation",
+      "reconstruction": "Multiplication sigma_h reindexes a toha, so F scales byh and M_r byh^-r. These identities hold for arbitrary integer coefficients, not just positive ones.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "FS05",
+      "label": "Integral module membership",
+      "reconstruction": "In sigma_a vartheta the coefficient at sigma_c^-1 is r_a(c)/p. Subtracting from a vartheta yields floor(ac/p). Consecutive subtraction gives psi=(1+sigma_t-sigma_(t+1))vartheta, an integral element of the definedI.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "FS06",
+      "label": "Actual coefficient bounds",
+      "reconstruction": "The floor increment is0or1 since0<c/p<1. Complementing c to p-c gives exactly1 because t,t+1 are nonzero modulo p.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "FS07",
+      "label": "Weight and norm",
+      "reconstruction": "psi+jpsi=N, wtpsi=(p-1)/2, henceN is inI. G-translates permute coordinates; sums preserve membership and positivity. No Fueter basis or annihilator theorem is needed.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "FS08",
+      "label": "Norm moments and freeness",
+      "reconstruction": "Nonzero residues and inverses sum0 for odd p, so F(N)=M1(N)=0. If M1theta!=0 and sigma_h fixes theta, its h^-1 scaling forces h1.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "FS09",
+      "label": "Square expansion",
+      "reconstruction": "Canonical residues r_c=ac-pu_c permute1..p-1. The exact sum-square identity divided byp then reduced modp gives2a sum c u_c=(a\u00b2-1)/6. Denominators are units for p>=5.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "FS10",
+      "label": "Inverse moment",
+      "reconstruction": "The sum c u_c isM1Theta_a, notFTheta_a. Thus M1Theta=(a-a^-1)/12 exactly in the stated field.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "FS11",
+      "label": "Fourth-power constant",
+      "reconstruction": "S4=(p-1)p(2p-1)(3p\u00b2-3p-1)/30. At p>=7, S4/p reduces to-1/30; denominators and p-division are valid.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "FS12",
+      "label": "Cubic inverse moment",
+      "reconstruction": "Expansion modulo p\u00b2 leaves4a\u00b3p sum c\u00b3u_c=(a\u2074-1)S4. Division byp gives M3Theta=-(a-a^-3)/120 for p>=7. Terms omitted have p\u00b2, not just uncertain valuations.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "FS13",
+      "label": "Consecutive moments",
+      "reconstruction": "Subtract a=t froma=t+1. M1psi=(t\u00b2+t+1)/(12t(t+1)); M3psi=-(1+t^-3-(t+1)^-3)/120. Both denominators are nonzero at their separate thresholds.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "FS14",
+      "label": "Nonexceptional stabilizer",
+      "reconstruction": "IfQ(t)!=0 thenM1psi!=0, and the exact integer stabilizer is trivial by the scaling identity. No converse freeness claim is used.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "FS15",
+      "label": "Exceptional order",
+      "reconstruction": "For p>=5,Q(t)=0 implies t\u00b31 andt!=1; hence exact order3 and p>=7. This justifies use of the cubic moment only there.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "FS16",
+      "label": "Integer order-three invariance",
+      "reconstruction": "t+1=-t\u00b2 givesp nu_c=c+r_t(c)+r_t\u00b2(c)-p. Replacing c by r_t(c) cycles all three canonical residues, so the coefficient is unchanged as an INTEGER. The inverse basis action matches this index permutation.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "FS17",
+      "label": "No larger stabilizer",
+      "reconstruction": "OnQ0, M3=-3/120=-1/40!=0. Any stabilizer h has h\u00b31. The polynomial has at most3 roots and the exhibited subgroup has exactly3, proving equality.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "FS18",
+      "label": "Exceptional F",
+      "reconstruction": "sigma_t invariance andF scaling give(t-1)Fpsi0, soFpsi0. M1psi0 follows separately fromQ0. Neither conclusion identifies F withM1.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "FS19",
+      "label": "Small primes",
+      "reconstruction": "p5 has no order3 subgroup. p3 is excluded: t1 satisfiesQ0 butpsi1=sigma2 is free. No denominator12/120 or exceptional-root extension is made atp3.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "FS20",
+      "label": "Fermat functional",
+      "reconstruction": "Expand product(ac-pu_c)=(p-1)! inZ_(p) modulo p\u00b2, cancel the unit factorial and divide byp. This yieldsFTheta=sumu_c/c=(a^p-a)/p modp, independently of an imported Voronoi theorem.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "FS21",
+      "label": "Genuine polynomial",
+      "reconstruction": "f(X)=((X+1)^p-X^p-1)/p is an integer polynomial of degreep-1, zero at0,-1. Its five high coefficients are(-1)^(j-1)/j. This is before any function reductionX^p=X.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "FS22",
+      "label": "Correct nonconstancy domain",
+      "reconstruction": "Onlyt!=0,-1 andQ(t)!=0 are considered; inverse moments are nonzero there. Constant product on this restricted set is the exact contradiction assumption.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "FS23",
+      "label": "All field zeros",
+      "reconstruction": "P=Q[Qf-12CX(X+1)] vanishes on that domain by assumption, onQ roots by its outer factor, and at0,-1 becausef0 andX(X+1)0. No deleted point is skipped.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "FS24",
+      "label": "Polynomial division",
+      "reconstruction": "Allp distinct field roots implyX^p-X dividesP. Its degreep+3 gives quotient degree3; high product degrees>=p and low degrees<=4 leave coefficientX^(p-1)zero whenp>7.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "FS25",
+      "label": "Contradictory coefficient",
+      "reconstruction": "Q\u00b2 coefficients are1,2,3,2,1. The high coefficient sum1/5-2/4+3/3-2/2+1=7/10!=0 forp>7. TheCterm degree4 cannot contribute. p7 is expressly excluded.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "FS26",
+      "label": "Zero F case",
+      "reconstruction": "Two chosen nonexceptional indices have different products. If either hasf0, twice thatpsi hasF0, nonzeroM1 and required positive weight. No division byf0 occurs.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "FS27",
+      "label": "Nonzero F case",
+      "reconstruction": "Witha=f(t),b=-f(s), usePOSITIVE translates sigma_a psi_s+sigma_b psi_t. A negative residue index remains an automorphism, not a negative coefficient. F cancels andM1=(u(s)-u(t))/(f(s)f(t))!=0.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "FS28",
+      "label": "Exact theta scope",
+      "reconstruction": "Both constructions lie inI_f, have coefficients0..2, augmentationp-1 andtheta+jtheta2N. NonzeroM1 supplies freeness; no solution-specific Jacobi element is assumed.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "FS29",
+      "label": "Existing selection attribution",
+      "reconstruction": "Actual later sourceLemma2.7 states the one-element two-translate selection withzero direct/nonzero inverse moment. FS2 is correctly an alternative self-containedp>7 proof; its product-moment method is not claimed original.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "FS30",
+      "label": "At least two zeros",
+      "reconstruction": "Not all coefficients can be1 becauseM1!=0. Relative identity pairs zeros withtwos. A unique zeroatv would yieldtheta=N-sigma_v+sigma_-v andF=-2v!=0, contradiction.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "FS31",
+      "label": "Shared zero translate",
+      "reconstruction": "Distinct zerosv,w cannot be opposite by pair-sum2. h=v/w is therefore neither1nor-1; coefficientatsigma_v of sigma_h theta is n_w0. The ratio usesDIRECT indices.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "FS32",
+      "label": "Gamma exact extremes",
+      "reconstruction": "gamma=theta+sigma_h theta hasmin0 atv andmax4 at-v, liespositiveI_f andM1gamma=(1+h^-1)M1theta!=0. It is free; the common zero and opposite maximum are actual positions.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "FS33",
+      "label": "Common larger weight",
+      "reconstruction": "A_l=(k-l)theta+lN,0<=l<=k-1, andB=gamma+(k-2)N are positiveI_f withweightk(p-1), everyintegerk>=2. No reduced-field scalar substitutes for an integer coefficient.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "FS34",
+      "label": "All integer k freeness",
+      "reconstruction": "Ifsigma_g A_l=A_l, the positiveintegerk-l times(sigma_g theta-theta) is0 in torsion-freeZ[G], henceg1. This remains valid ifp dividesk-l or its reduced moment vanishes.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "FS35",
+      "label": "B freeness",
+      "reconstruction": "Adding invariant(k-2)N preserves exactlygamma stabilizer, soB is free for everyk>=2.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "FS36",
+      "label": "Coefficient minima",
+      "reconstruction": "A_l hasminl andmax2k-l, so allA_l are nonconjugate. B hasmink-2 and can match onlyA_(k-2) among them. Coordinate extrema are invariant underG-permutations.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "FS37",
+      "label": "Strict integer norm",
+      "reconstruction": "||theta+sigma_h theta||\u00b2=4||theta||\u00b2-||theta-sigma_h theta||\u00b2 isSTRICTLY smaller than||2theta||\u00b2 becauseh!=1 andthetafree. Both vectors haveequalaugmentation, so adding(k-2)N shifts norms bythe sameamount. B is notconjugate toA_(k-2).",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "FS38",
+      "label": "Fourier interface",
+      "reconstruction": "Etheta=sum n_a zeta^a isinjective since its degree<=p-1 polynomial hasconstant0 andPhi_p hasconstant1. Equivariance proves bothwithin-orbit freeness andcross-orbit disjointness, without reciprocal injectivity.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "FS39",
+      "label": "Application gap",
+      "reconstruction": "No twofreeorbits at ORIGINAL weightp-1 are proved. Higher weightchanges conditionalcomplexsize toy^k; distinct firstcoefficients do not prove higherjet rank, integrality, everyconjugate cancellation ornonzerodelta. No new Diophantine exclusion follows.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "FS40",
+      "label": "Failed endpoints retained",
+      "reconstruction": "At k1,gamma-N hasan actualnegativecoefficient-1; no positivityclaim or impossibilityofotherconstructions follows. At p7 the7/10 coefficientvanishes; no FS2/3 extension ismade. Old p\u00b2residue observation is attributed to originalLemma7.",
+      "verdict": "pass in exact scope"
+    }
+  ],
+  "new_Diophantine_exclusion_or_full_source_repair": false
+}

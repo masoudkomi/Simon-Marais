@@ -1,0 +1,73 @@
+{
+  "frozen_at_utc": "2026-10-17T12:22:14.030526+00:00",
+  "status": "candidate proof - unverified; complete algebraic checkpoint; two OTHER fresh initially blind whole audits required",
+  "constructor": "/root/review_2017_coarsening_r1",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "claims": {
+    "FS1": "Exact Fueter stabilizer: trivial off t^2+t+1=0 for prime p>=5, exactly order3 on that locus; p3 excluded",
+    "FS2": "For every prime p>7, one positive Fermat-module element of weight p-1 with nonzero inverse moment; attributed alternative proof of existing later Lemma2.7 selection route",
+    "FS3": "For every prime p>7 and integer k>=2, k+1 pairwise nonconjugate free positive Fermat-module elements of common weight k(p-1), yielding disjoint full Fourier orbits"
+  },
+  "whole_obligations": 40,
+  "external_Diophantine_exclusion_or_class_number_theorem_imported": false,
+  "new_Diophantine_exclusion_full_source_repair_full_annual_or_novelty_claim": false,
+  "remaining_gap": "Original-weight two-free-orbit selection OR complete higher-weight solution-specific interpolation, integrality, size, every-conjugate cancellation and nonzero delta; none supplied",
+  "constructor_check_counts_as_independent_review": false,
+  "mathematical_program_CAS_scan_certificate_rerun_or_sampling": false,
+  "earlier_unique_own_paths_verified_unchanged": 244,
+  "last_direct_weekly_telemetry": {
+    "at_utc": "2026-10-17 12:21:14 UTC",
+    "total_used_percent": 37,
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "total_ceiling_percent": 90,
+    "integration_reserve": true
+  },
+  "administrative_command": "/Users/uqmkamga/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 problems/2025-B4/notes/reasoning-return-r4-freeze-v1.py",
+  "artifacts": [
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r4-candidate-v1.md",
+      "bytes": 17661,
+      "sha256": "29c98bf01d6336020a3720935fc571159db0bdd5159a75a75adf4a78ae038482"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r4-obligations-v1.md",
+      "bytes": 5949,
+      "sha256": "e5fdbfc70f1cf7ec07907532881cf2937d4442b33b3a53c1146875d9365e7121"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r4-source-audit-v1.md",
+      "bytes": 5523,
+      "sha256": "63fa5c2d66ecf33523e9505ba086906904f352680acdd1b59740c5fc4a09d73a"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r4-worklog-v1.md",
+      "bytes": 7372,
+      "sha256": "9d272ac4575b2ef1fe5e5d8c7f60f3c5f94b70157a0329bae6c0490b0516656c"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r4-constructor-check-v1.md",
+      "bytes": 3275,
+      "sha256": "c11f52adff0d39cf5c3a1f670a897b6191ecbc7d0f4cfc681f69b0220ab8b0b6"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r4-sources-v1.json",
+      "bytes": 6501,
+      "sha256": "464f36186cb8c783802194cacabad2c5d972c8b74b145a13e3816054c48d42a5"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r4-freeze-v1.py",
+      "bytes": 9856,
+      "sha256": "72c9fc5c6f5c58fdc15d9c69fb7a2ad78f4497604c8e40a057d694c0306a7a6f"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r4-input-validation-v1.json",
+      "bytes": 51813,
+      "sha256": "4b2b45712fba1ebfcb9f8350b56c19fb6b6ccefe870ac430f65b771617cb787b"
+    }
+  ]
+}

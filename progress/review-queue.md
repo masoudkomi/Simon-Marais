@@ -1,5 +1,11 @@
 # Independent review queue
 
+
+Update approximately12:32UTC:2020 R4 BOTH whole initials are now frozen. R2 found R4R2-01: the final moment is automatic, contrary to the draft auxiliary claim; root R1 missed it. Full E2 iff and earlier structural conclusions remain valid. Full versioned author repair and BOTH affected reaudits are queued before promotion. See [review reconciliation](2020-r4-review2-followup-2026-10-17-1232.md). Current workers:2017newvalue reasoning,2021R6,2022R5;2020repair follows B complete2022freeze.
+
+
+Current12:30UTC:2019LO1–LO6 ACCEPTED after TWO complete initially blind WHOLE audits/full root reconciliation,44/50checks,28obligations.2020r4 rootWHOLE R1frozen, otherR2active;2025FSrootWHOLE R1frozen, otherR2queued after2021meaningfulfreeze. Both candidates UNVERIFIED.2021R6/2022R5reasoningactive. Twoannualanswers2018/2023remain;37%TOTALweekly,samereset90%ceiling. See status-2026-10-17-1230.md. Earlier datedentries historical.
+
 Current12:14UTC:2024 KC exact WHOLE Kasami-divisor iff ACCEPTED after TWO complete initially blind WHOLE audits/full root reconciliation;40/26checks,26obligations.2019 LO1–LO6 two fresh whole audits active.2020 r4 complete frozen UNVERIFIED, two audits pending;2025 r4 construction active. Two complete annual answers remain2018/2023.36%TOTALweekly, same reset and90%ceiling. See status-2026-10-17-1214.md. Earlier dated entries are historical.
 
 Current12:03UTC:2021R5A–E and2019CCL ACCEPTED after TWO complete blind WHOLE audits each/full root reconciliation.2024KCbothfreshwholeauditsactive;2019LO1–LO6twofreshwholeauditsqueued, both candidates unverified. New2020reasoningactive/2025reasoningqueued. Root2022carry/higher2024notesunverified.36%TOTALweekly/samereset90%ceiling. See status-2026-10-17-1203.md. Earlier dated entries historical.

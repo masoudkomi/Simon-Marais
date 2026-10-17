@@ -1,0 +1,230 @@
+{
+  "status": "complete fresh initially blind WHOLE initial; scoped recommendation only",
+  "reviewer": "coordinator root",
+  "constructor_of_new_packet": false,
+  "old_R3_review_miss_disclosed": true,
+  "peer_R4_findings_read": false,
+  "full_candidate_reconstructed": true,
+  "all36_obligations_checked": true,
+  "substantive_issues": [],
+  "required_repairs": [],
+  "inference_ledger": [
+    {
+      "id": "R4-O01",
+      "label": "Official domain",
+      "reconstruction": "n>=2, q=n-1. The new packet begins q>=2 and leaves the already accepted n2/q1 boundary separate. All claims concern B4(b).",
+      "verdict": "passes in stated exact scope"
+    },
+    {
+      "id": "R4-O02",
+      "label": "One normalization",
+      "reconstruction": "gcd(k,v)=1 since v-qk=1. Translation by -k^-1 sum(D) gives sum0. For any numerical t, summing tD=D+c gives kc0, hence c0 for the SAME D.",
+      "verdict": "passes in stated exact scope"
+    },
+    {
+      "id": "R4-O03",
+      "label": "Actual fixed intersections",
+      "reconstruction": "For z fixed by every member of U, uniqueness of its ordered representation forces both representing points fixed by EVERY member. E_U is actual D intersect H_U, not a quotient list.",
+      "verdict": "passes in stated exact scope"
+    },
+    {
+      "id": "R4-O04",
+      "label": "Small fixed groups",
+      "reconstruction": "h1 only f0/1; h>1 gives f(f-1)=h-1. m1 is allowed without a nondegenerate order-one plane. For m>=2 the repaired F1 subplane proof gives q>=m\u00b2.",
+      "verdict": "passes in stated exact scope"
+    },
+    {
+      "id": "R4-O05",
+      "label": "q>=6 cover",
+      "reconstruction": "Each actual fixed intersection has at most sqrt(q)+1 points, also when h1. A cover implies q-1<=2sqrt(q). The positive difference of squares q(q-6)+1 contradicts it for every q>=6.",
+      "verdict": "passes in stated exact scope"
+    },
+    {
+      "id": "R4-O06",
+      "label": "Other small q",
+      "reconstruction": "q2,3,5 give prime v7,13,31; a nonidentity unit fixes only0. Two such groups cannot cover at least3 D points. This is a hand boundary check.",
+      "verdict": "passes in stated exact scope"
+    },
+    {
+      "id": "R4-O07",
+      "label": "Real order-four exception",
+      "reconstruction": "In cyclic21 the proper subgroup sizes1,3,7 give actual intersection maxima1,2,3. Covering five points requires the distinct3/7 groups, all five intersection points and absent0. All ten displayed separations are1..10; sum63=0; multiplication2 cycles2+3 points. The counterexample is genuine.",
+      "verdict": "passes in stated exact scope"
+    },
+    {
+      "id": "R4-O08",
+      "label": "Repeated-entry collision",
+      "reconstruction": "If nonzero t1-t2=t3-t4 and ordered pairs differ, t1!=t3. For each d, either (t1-t2)d0 or uniqueness of the nonzero difference forces (t1-t3)d0. No cancellation of d is used.",
+      "verdict": "passes in stated exact scope"
+    },
+    {
+      "id": "R4-O09",
+      "label": "Individual kernels",
+      "reconstruction": "The two kernels are fixed groups of t1/t2 and t1/t3, both genuine nonidentity units. This matches repaired individual fixed groups, not an arbitrary common fixed group.",
+      "verdict": "passes in stated exact scope"
+    },
+    {
+      "id": "R4-O10",
+      "label": "Classical Sidon bound",
+      "reconstruction": "All nonzero ordered differences of M are distinct, so |M|(|M|-1)<=v-1=q(q+1), implying |M|<=q+1. At q4, 1-4=8-11=-3 is the retained failure. This is attributed classical mathematics.",
+      "verdict": "passes in stated exact scope"
+    },
+    {
+      "id": "R4-O11",
+      "label": "Cohen actual theorem",
+      "reconstruction": "Direct original author-uploaded definition and Theorem1 read. It asserts a coprime member for any cyclic nontrivial difference set outside two explicit (21,5,1) sets. Here1<q+1<v-1 for q>=2.",
+      "verdict": "passes in stated exact scope"
+    },
+    {
+      "id": "R4-O12",
+      "label": "Translate and exceptions",
+      "reconstruction": "Apply Cohen to the actual sum-zero D. q!=4 excludes both exceptions; unit membership need not survive a later arbitrary translation and no such translation is made.",
+      "verdict": "passes in stated exact scope"
+    },
+    {
+      "id": "R4-O13",
+      "label": "Compulsory orbit",
+      "reconstruction": "For unit d in D, all td are units in D. Equality td=t\u2032d cancels d, giving exactly s=|T| distinct elements. This is necessity for an actual D, not orbit sufficiency.",
+      "verdict": "passes in stated exact scope"
+    },
+    {
+      "id": "R4-O14",
+      "label": "Unrelated subgroup U",
+      "reconstruction": "A nonidentity unit u fixes no unit x, since ux=x would cancel x and give u1. Thus dT is disjoint from actual E_U even if U is not contained in T.",
+      "verdict": "passes in stated exact scope"
+    },
+    {
+      "id": "R4-O15",
+      "label": "Coupled bound and equality",
+      "reconstruction": "Disjoint subsets give s+f_U<=q+1. If h>1 this is s+m_U<=q, combined with m<=sqrt(q). Equality gives D=dT disjoint-union E_U by cardinality only; h1 stays f0/1.",
+      "verdict": "passes in stated exact scope"
+    },
+    {
+      "id": "R4-O16",
+      "label": "Conditional involution",
+      "reconstruction": "Only actual presence of a numerical involution permits the accepted F2 conclusion q=a\u00b2 and its own m=a. Then s<=q-sqrt(q), with q4 excluded. Mere squareness does not supply the involution.",
+      "verdict": "passes in stated exact scope"
+    },
+    {
+      "id": "R4-O17",
+      "label": "Saturation",
+      "reconstruction": "For s>=q the bound gives s=q orq+1. The compulsory unit orbit leaves at most one D point outside it. No nonidentity t in T fixes a point of that orbit.",
+      "verdict": "passes in stated exact scope"
+    },
+    {
+      "id": "R4-O18",
+      "label": "Full fixed group trivial",
+      "reconstruction": "Every such t therefore has at most one D point in H_t. Repaired F1 would give at least two if h_t>1. Thus h_t1, equivalently gcd(t-1,v)=1.",
+      "verdict": "passes in stated exact scope"
+    },
+    {
+      "id": "R4-O19",
+      "label": "Prime modulus",
+      "reconstruction": "Reduction T into each F_ell^* is injective: a nonidentity quotient of two colliding reductions would be1 moduloell and contradict gcd(t-1,v)=1. Hence s|ell-1 and ell>=q+1. Composite v, counting prime multiplicity, would be >=(q+1)\u00b2>v.",
+      "verdict": "passes in stated exact scope"
+    },
+    {
+      "id": "R4-O20",
+      "label": "Negation and parity",
+      "reconstruction": "A set of at least three points in odd G has two distinct nonopposite points. If -D=D their equal differences a-b=(-b)-(-a) are distinct ordered representations. Thus -1 notinM. Only AFTER v prime does even-order T contain the unique involution -1.",
+      "verdict": "passes in stated exact scope"
+    },
+    {
+      "id": "R4-O21",
+      "label": "Exact shapes",
+      "reconstruction": "Odd s among q,q+1 gives the stated parity rows. When s=q+1 its orbit is all D; when s=q its singleton invariant complement is fixed by a nonidentity t and so is0. Unit scaling gives H orH union{0}.",
+      "verdict": "passes in stated exact scope"
+    },
+    {
+      "id": "R4-O22",
+      "label": "Full group in saturated branch",
+      "reconstruction": "T<=M, s||M| and q<=s<=|M|<=q+1. In either valid parity row no larger multiple fits. This does not identify M for a smaller known T.",
+      "verdict": "passes in stated exact scope"
+    },
+    {
+      "id": "R4-O23",
+      "label": "Order-three multiplier",
+      "reconstruction": "Accepted First Multiplier supplies all prime divisors of q, hence their product q inM. q\u00b3=1modv but q!=1modv, so its order is3. Thus3|s, giving even q2mod6 and odd q3mod6.",
+      "verdict": "passes in stated exact scope"
+    },
+    {
+      "id": "R4-O24",
+      "label": "Flag transitivity limited",
+      "reconstruction": "Translations act transitively on lines; T acts transitively on D only in the one-orbit row. Every affine map sends D+x toD+tx, so these are actual collineations. No non-Desarguesian theorem is used on arbitrary planes.",
+      "verdict": "passes in stated exact scope"
+    },
+    {
+      "id": "R4-O25",
+      "label": "Moment parameters",
+      "reconstruction": "m>=3 odd, epsilon0/1, ell=m\u00b2+(2epsilon-1)m+1 prime. L=m+2epsilon-1 is positive even and ell-1=mL=k(k-1). m is subgroup order, not cyclotomic index.",
+      "verdict": "passes in stated exact scope"
+    },
+    {
+      "id": "R4-O26",
+      "label": "Power sums",
+      "reconstruction": "S0=k defined separately. For positive j, geometric sums over H give m ifm|j and0otherwise; zero contributes0. m<ell permits cancellation in the field.",
+      "verdict": "passes in stated exact scope"
+    },
+    {
+      "id": "R4-O27",
+      "label": "All expansion terms",
+      "reconstruction": "Binomial expansion gives M_j=sum(-1)^h C(j,h)S_(j-h)S_h. Ifm notdividingj every endpoint/interior term vanishes. Ifj=tm, interior positions im have sign(-1)^i because m odd.",
+      "verdict": "passes in stated exact scope"
+    },
+    {
+      "id": "R4-O28",
+      "label": "Odd and final moments",
+      "reconstruction": "Pair reversal cancels odd j in odd characteristic. For even t2..L the explicit B_t retains both endpoints. The last index j=ell-1 has target-1, not0; it is included.",
+      "verdict": "passes in stated exact scope"
+    },
+    {
+      "id": "R4-O29",
+      "label": "Constant target",
+      "reconstruction": "Target nu0=k and nu(z)=1else has constant sum k+ell-1=k\u00b2. This matches mu from all ordered pairs. Nonconstant target moments follow full nonzero-field geometric sums.",
+      "verdict": "passes in stated exact scope"
+    },
+    {
+      "id": "R4-O30",
+      "label": "All-index invertibility",
+      "reconstruction": "The ell evaluation rows j0..ell-1 at ALL ell field elements are independent: a degree<=ell-1 polynomial with ell roots is0. Thus ALL moment equalities force residue-by-residue equality moduloell.",
+      "verdict": "passes in stated exact scope"
+    },
+    {
+      "id": "R4-O31",
+      "label": "Actual integer lift",
+      "reconstruction": "mu(0)=k exactly. For nonzero z, each b permits at most one a=b+z, so0<=mu(z)<=k<ell. Only the integer1 in this interval is congruent1modell. No relaxed norm vector is mistaken for D.",
+      "verdict": "passes in stated exact scope"
+    },
+    {
+      "id": "R4-O32",
+      "label": "Exact restricted iff",
+      "reconstruction": "All moments not listed in E2 are automatic by nondivisibility or oddness; those listed are exactly the remaining ones. The integer lift proves sufficiency for the specified H/zero shapes, with necessity immediate.",
+      "verdict": "passes in stated exact scope"
+    },
+    {
+      "id": "R4-O33",
+      "label": "First versus final equation",
+      "reconstruction": "For L>2, B2=0 gives C(2m,m)=2+2epsilon/m. At m3,epsilon0,L2 this is instead the final B2=-1; the candidate expressly preserves that exception.",
+      "verdict": "passes in stated exact scope"
+    },
+    {
+      "id": "R4-O34",
+      "label": "Three-divisibility corollary",
+      "reconstruction": "If E2 held with3 notdividingm, its sufficiency would produce actual D and H of size m>=q. These parameter choices cannot have q4 and hence D3 forces3|m, a contradiction. No primitive construction is reproduced.",
+      "verdict": "passes in stated exact scope"
+    },
+    {
+      "id": "R4-O35",
+      "label": "Attribution",
+      "reconstruction": "Cohen already prevents containment in any union of proper cyclic subgroups outside its exceptions. The elementary two-group reconstruction, multiplier bound and cyclotomic moment methods are not claimed original. The actual exact proofs are retained without novelty inference.",
+      "verdict": "passes in stated exact scope"
+    },
+    {
+      "id": "R4-O36",
+      "label": "Unresolved branch",
+      "reconstruction": "No theorem here forces |M|>=q for arbitrary taut q, solves allE2, or handles smaller M. q2435/odd-order record and the old q4 miss remain unchanged. No annual solution or improved cutoff follows.",
+      "verdict": "passes in stated exact scope"
+    }
+  ],
+  "unrestricted_classification_or_novelty": false
+}
