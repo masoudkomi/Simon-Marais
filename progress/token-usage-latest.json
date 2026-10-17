@@ -1,16 +1,16 @@
 {
-  "snapshot_cutoff_utc": "2026-10-17T15:00:09.282496+00:00",
+  "snapshot_cutoff_utc": "2026-10-17T15:19:39.271086+00:00",
   "observed_sessions": 62,
-  "distinct_responses": 5615,
+  "distinct_responses": 5732,
   "usage": {
-    "input_tokens": 983380607,
-    "cached_input_tokens": 938481024,
+    "input_tokens": 1004509300,
+    "cached_input_tokens": 958762624,
     "cache_write_input_tokens": 0,
-    "output_tokens": 7873715,
-    "reasoning_output_tokens": 3412126,
-    "total_tokens": 991254322
+    "output_tokens": 8043798,
+    "reasoning_output_tokens": 3454301,
+    "total_tokens": 1012553098
   },
-  "uncached_input_plus_output_tokens": 52773298,
+  "uncached_input_plus_output_tokens": 53790474,
   "sessions_without_usage_records": 0,
   "all_recorded_session_sums_match_cumulative": true,
   "method": "Deduplicated own-thread per-response usage records across root and recursively spawned descendants; cached input is a subset of input, reasoning output a subset of output.",
@@ -18,15 +18,15 @@
   "agents": [
     {
       "agent": "/root",
-      "distinct_responses": 1730,
-      "latest_record_utc": "2026-10-17T15:00:09.267Z",
+      "distinct_responses": 1774,
+      "latest_record_utc": "2026-10-17T15:19:32.127Z",
       "usage": {
-        "input_tokens": 349345543,
-        "cached_input_tokens": 337640064,
+        "input_tokens": 356830477,
+        "cached_input_tokens": 344806528,
         "cache_write_input_tokens": 0,
-        "output_tokens": 1706746,
-        "reasoning_output_tokens": 633693,
-        "total_tokens": 351052289
+        "output_tokens": 1747877,
+        "reasoning_output_tokens": 642438,
+        "total_tokens": 358578354
       },
       "matches_latest_thread_cumulative": true
     },
@@ -312,15 +312,15 @@
     },
     {
       "agent": "/root/review_2017_coarsening_r1",
-      "distinct_responses": 606,
-      "latest_record_utc": "2026-10-17T14:59:58.875Z",
+      "distinct_responses": 635,
+      "latest_record_utc": "2026-10-17T15:19:14.475Z",
       "usage": {
-        "input_tokens": 120230347,
-        "cached_input_tokens": 113418240,
+        "input_tokens": 126604313,
+        "cached_input_tokens": 119611008,
         "cache_write_input_tokens": 0,
-        "output_tokens": 1087566,
-        "reasoning_output_tokens": 522310,
-        "total_tokens": 121317913
+        "output_tokens": 1136797,
+        "reasoning_output_tokens": 537415,
+        "total_tokens": 127741110
       },
       "matches_latest_thread_cumulative": true
     },
@@ -634,15 +634,15 @@
     },
     {
       "agent": "/root/review_2021_reasoning_j15_r2",
-      "distinct_responses": 759,
-      "latest_record_utc": "2026-10-17T14:59:40.543Z",
+      "distinct_responses": 780,
+      "latest_record_utc": "2026-10-17T15:17:47.818Z",
       "usage": {
-        "input_tokens": 153894434,
-        "cached_input_tokens": 145643776,
+        "input_tokens": 157776986,
+        "cached_input_tokens": 149437312,
         "cache_write_input_tokens": 0,
-        "output_tokens": 1538509,
-        "reasoning_output_tokens": 708821,
-        "total_tokens": 155432943
+        "output_tokens": 1577390,
+        "reasoning_output_tokens": 720466,
+        "total_tokens": 159354376
       },
       "matches_latest_thread_cumulative": true
     },
@@ -704,15 +704,15 @@
     },
     {
       "agent": "/root/review_2022_complexity_r2",
-      "distinct_responses": 723,
-      "latest_record_utc": "2026-10-17T14:58:03.676Z",
+      "distinct_responses": 746,
+      "latest_record_utc": "2026-10-17T15:18:43.053Z",
       "usage": {
-        "input_tokens": 145731598,
-        "cached_input_tokens": 138617088,
+        "input_tokens": 149118839,
+        "cached_input_tokens": 141745920,
         "cache_write_input_tokens": 0,
-        "output_tokens": 1309943,
-        "reasoning_output_tokens": 555849,
-        "total_tokens": 147041541
+        "output_tokens": 1350783,
+        "reasoning_output_tokens": 562529,
+        "total_tokens": 150469622
       },
       "matches_latest_thread_cumulative": true
     },

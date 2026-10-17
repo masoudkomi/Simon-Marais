@@ -1,0 +1,84 @@
+{
+  "frozen_at_utc": "2026-10-17T15:05:50.771337+00:00",
+  "status": "complete initially blind WHOLE review recommendation; no promotion",
+  "reviewer": "/root/review_2021_reasoning_j15_r2",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "target_manifest": {
+    "path": "problems/2024-B4/notes/coordinator-Hermitian-all-index-manifest-v1.json",
+    "bytes": 3214,
+    "sha256": "d93f76bb4aecc912bb9dc91a51714d41330d250ba333ca7a32061d39a36df0a3"
+  },
+  "target_main": {
+    "path": "problems/2024-B4/notes/coordinator-Hermitian-all-index-return-v1.md",
+    "bytes": 15281,
+    "sha256": "296241f7538f7eb86315998ff760f4fa363d3a2d1c911988d6fa2b1a4f0287cc",
+    "matches": true
+  },
+  "claims_reviewed": [
+    "HR1",
+    "HR2"
+  ],
+  "whole_inference_checks": 48,
+  "all_author_obligations": 24,
+  "new_HR_peer_findings_unread_before_complete_initial_freeze": true,
+  "nonconstructor_whole_reconstruction": true,
+  "older_T1_T4_C7_C11_authorship_and_CP_GK_CJ_DI_NJ_review_roles_disclosed": true,
+  "root_constructor_excluded_from_independent_audit_count": true,
+  "no_substantive_defect_or_required_repair_found": true,
+  "recommendation_requires_coordinator_full_reconciliation": true,
+  "ordinary_irreducibility_full_annual_or_novelty_claim": false,
+  "all_fifty_five_older_own_packets_unchanged": true,
+  "mathematical_program_CAS_scan_author_rerun": false,
+  "Git_shared_old_byte_cache_mutation_spawning_charge_contact_or_bypass": false,
+  "latest_authoritative_weekly_usage": {
+    "at_utc": "2026-10-17 15:03:00 UTC (direct telemetry and UTC clock)",
+    "total_used_percent": 46,
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "total_ceiling_percent": 90,
+    "integration_reserve": true,
+    "ordinary_usage_allowed": true
+  },
+  "command": "python3 problems/2024-B4/reviews/Hermitian-all-index-review-2-freeze-v1.py",
+  "records": [
+    {
+      "path": "problems/2024-B4/reviews/Hermitian-all-index-review-2-initial-v1.md",
+      "bytes": 14999,
+      "sha256": "b8167a14ac59310df1fc3d0ab0cc5e56efd08569eb913187d592fccc6520bf42"
+    },
+    {
+      "path": "problems/2024-B4/reviews/Hermitian-all-index-review-2-issues-v1.md",
+      "bytes": 8605,
+      "sha256": "73f3690d67664bd2ae16b1407df59e8daefa4b943a0d440d9b3f793f7bec4b7d"
+    },
+    {
+      "path": "problems/2024-B4/reviews/Hermitian-all-index-review-2-source-checks-v1.md",
+      "bytes": 6582,
+      "sha256": "8433cf54fbe69accc02cff84e9e32a046889a84f2c2b24d9dfeecc0163a4dd8d"
+    },
+    {
+      "path": "problems/2024-B4/reviews/Hermitian-all-index-review-2-sources-v1.json",
+      "bytes": 4530,
+      "sha256": "4629656a7bc74679f0451052c20404f4881d7141b44a8c17ff439e654d28bbc4"
+    },
+    {
+      "path": "problems/2024-B4/reviews/Hermitian-all-index-review-2-freeze-v1.py",
+      "bytes": 9681,
+      "sha256": "5cba8fe797120e02dddf388b26d95f76ded58f80a0467c8b0004573593dbc75e"
+    },
+    {
+      "path": "problems/2024-B4/reviews/Hermitian-all-index-review-2-input-validation-v1.json",
+      "bytes": 122589,
+      "sha256": "18f38c089c49bbe90f97870027af8f00777dd12b499980825ce3ac882b8b6ce2"
+    },
+    {
+      "path": "problems/2024-B4/reviews/Hermitian-all-index-review-2-freeze-output-v1.json",
+      "bytes": 995,
+      "sha256": "0e9c8b1a68d4a5536108b8d32314ce5150b93c4ba83e05fba4728c43a25cb750"
+    }
+  ]
+}

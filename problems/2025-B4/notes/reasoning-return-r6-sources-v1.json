@@ -1,0 +1,90 @@
+{
+  "recorded_at_utc": "2026-10-17T15:08:40.159762+00:00",
+  "status": "candidate-unverified; documentary source scope, not full external theorem certification",
+  "official": {
+    "paper_url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc2025_paper_b.pdf",
+    "open_part": "B4(b) only, integers x,y,n,q, n,q>=2",
+    "actual_arithmetic_sector_here": "n=p-1,q=p,p>=37 prime,|x|>=2"
+  },
+  "primary_sources": [
+    {
+      "author": "Preda Mihailescu",
+      "title": "Class Number Conditions for the Diagonal Case of the Equation of Nagell and Ljunggren",
+      "doi": "10.1007/978-3-211-74280-8_15",
+      "year": 2008,
+      "internal_version": "2.0, 2007-09-17",
+      "url": "https://www.researchgate.net/publication/226863681_Class_Number_Conditions_for_the_Diagonal_Case_of_the_Equation_of_Nagell_and_Ljunggren",
+      "read": "Complete relevant Section2.2 and2.3, COMPLETE Section4.3 including both phase systems and singular/second-case branches; prior actual Section4.1-4.2 and signed-normalization reads retained",
+      "imported": "Classical matched-prime Jacobi ideal formula equation11 and Gauss-sum absolute-value identity; ordinary cyclotomic arithmetic context",
+      "proved_here_instead": "Integral module generation, normalization by character counting, positive-ideal integrality, exact e0 pth-power lift and weak full-kernel height construction",
+      "not_imported": "Theorems3/4, full source upper/lower bounds, source basis-cardinality statement, generalized e1 normalization, elementary-target conclusion",
+      "binary_retrieved": false,
+      "binary_sha256": null,
+      "primary_text_overbar_limitation_explicit": true
+    },
+    {
+      "authors": [
+        "B. Bartolome",
+        "P. Mihailescu"
+      ],
+      "title": "On the equation X^n-1=BZ^n",
+      "url": "https://arxiv.org/pdf/1412.5798v2",
+      "internal_version": "1.13, 2021-11-02",
+      "read": "Complete relevant PDFpp5-18 including moments, Lemmas2.4-2.10, application, and COMPLETE Appendices5.1,5.1.1,5.2; actual jet/bouquet sections reread during R6",
+      "cached_binary": {
+        "path": ".cache/literature/deep-literature-r1/2025-bartolome-mihailescu-binary-thue-v2.pdf",
+        "bytes": 300321,
+        "sha256": "7108b665ebed8b2364c5a6629951d21abd400c96d4e7d5f4f81028f12ed424aa"
+      },
+      "imported_as_method_attribution": "Binomial/Vandermonde method and proper-space diagonal/bouquet dimension growth; both rederived for new exact scope",
+      "jet_theorem_exact_scope": "Lemma2.10 states0<N<p-1; new endpoint/all-k recurrence independently proved, not assumed from source",
+      "not_imported": "Binary-Thue theorem, unverified arithmetic parameter conditions, entire singular-case repair, or all-conjugate elementary targets"
+    }
+  ],
+  "accepted_context_records": [
+    {
+      "path": "problems/2025-B4/proofs/reviewed-partial-v1.1.md",
+      "bytes": 1803,
+      "sha256": "29276223791ec301bdbacf335e1fa20a5ca1e65c50f354035abd46b9400e9674"
+    },
+    {
+      "path": "problems/2025-B4/proofs/reviewed-power-gap-return-v1.1.md",
+      "bytes": 11931,
+      "sha256": "178bcd9ace1c34ac6762f4857f7da85b5b55ff07f4d2308a83bfe57a11749850"
+    },
+    {
+      "path": "problems/2025-B4/proofs/reviewed-diagonal-firstcase-v1.1.md",
+      "bytes": 5436,
+      "sha256": "1f4e63b83f0e5de1163691d5fe715efaaa16d1b9ad058546cee41ea46f04a281"
+    },
+    {
+      "path": "problems/2025-B4/proofs/reviewed-diagonal-moment-v1.1.md",
+      "bytes": 10168,
+      "sha256": "4e25e67e6459134cb5b6c618baef91c37f30bb1dae542d7426fb61450ce4a4f7"
+    },
+    {
+      "path": "problems/2025-B4/proofs/reviewed-Fueter-selection-return-v1.1.md",
+      "bytes": 20505,
+      "sha256": "230dfe9da040e98506bc6fabd5c37c356fb756d5128f990eb9a4fe2ee7e3181a"
+    },
+    {
+      "path": "problems/2025-B4/proofs/reviewed-original-weight-selection-v1.1.md",
+      "bytes": 9301,
+      "sha256": "06071958bafd1fa51d5ceba798b2dab18fb1e441c4a105f093595be78c96110f"
+    },
+    {
+      "path": "problems/2025-B4/proofs/reviewed-original-weight-universal-v1.1.md",
+      "bytes": 22590,
+      "sha256": "bb4d3f1b378f8062ba5d1f6e8ee0a197f0f09f01e4f97b7abe8195a9627cd2c4"
+    },
+    {
+      "path": "problems/2025-B4/proofs/reviewed-reciprocal-kernel-v1.1.md",
+      "bytes": 12969,
+      "sha256": "41d1882ce1efa59f24b5d76636125edeb037e712add8ee93632c2aa3d8030e60"
+    }
+  ],
+  "prior_Hasse_read_role": "RK is now accepted exact separation background; its published cotangent input is not needed as a new premise of recurrence or weak height bound",
+  "new_primary_binary_download_or_redistribution": false,
+  "mathematical_program_CAS_scan_table_certificate_rerun": false,
+  "novelty_or_external_theorem_refutation_claim": false
+}

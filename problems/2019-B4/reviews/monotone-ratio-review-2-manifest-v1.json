@@ -1,0 +1,84 @@
+{
+  "frozen_at_utc": "2026-10-17T15:16:20.492959+00:00",
+  "status": "complete initially blind WHOLE review recommendation; no promotion",
+  "reviewer": "/root/review_2021_reasoning_j15_r2",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "target_manifest": {
+    "path": "problems/2019-B4/notes/coordinator-monotone-ratio-manifest-v1.json",
+    "bytes": 1763,
+    "sha256": "0af3087adb6814707b7c9257985256b882def1081f339a371b456af4f88dec8f"
+  },
+  "target_main": {
+    "path": "problems/2019-B4/notes/coordinator-monotone-ratio-return-v1.md",
+    "bytes": 9239,
+    "sha256": "67649f48ebd0f599461fa01cde4e5c37c8fdff0781b9decf4430705848396c29",
+    "matches": true
+  },
+  "claims_reviewed": [
+    "MR1",
+    "MR2 CONDITIONAL on unproved J_C"
+  ],
+  "whole_inference_checks": 28,
+  "all_author_obligations": 12,
+  "new_MR_peer_findings_unread_before_complete_initial_freeze": true,
+  "new_MR_nonconstructor_whole_reconstruction": true,
+  "older_R7_authorship_and_other_roles_disclosed": true,
+  "independent_recertification_of_own_R7": false,
+  "root_MR_constructor_excluded_from_independent_review_count": true,
+  "no_substantive_defect_or_required_repair_found": true,
+  "actual_J_C_C3_defect_regime_lambda_b_ratio_annual_or_novelty_claim": false,
+  "all_fifty_six_older_own_packets_unchanged": true,
+  "mathematical_program_scan_CAS_or_author_rerun": false,
+  "Git_shared_old_byte_cache_mutation_spawning_charge_contact_or_bypass": false,
+  "latest_authoritative_weekly_usage": {
+    "at_utc": "2026-10-17 15:15:27 UTC (direct telemetry and UTC clock)",
+    "total_used_percent": 47,
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "total_ceiling_percent": 90,
+    "integration_reserve": true,
+    "ordinary_usage_allowed": true
+  },
+  "command": "python3 problems/2019-B4/reviews/monotone-ratio-review-2-freeze-v1.py",
+  "records": [
+    {
+      "path": "problems/2019-B4/reviews/monotone-ratio-review-2-initial-v1.md",
+      "bytes": 10221,
+      "sha256": "c21d24bc2812611fe9916a831c98f5288582b65c13222fb2a8a4f42ec1ece33e"
+    },
+    {
+      "path": "problems/2019-B4/reviews/monotone-ratio-review-2-issues-v1.md",
+      "bytes": 5605,
+      "sha256": "3bbf6b8cd49d3fdafad6b6880a174079257403c35803b8fc5674e519a74fa84e"
+    },
+    {
+      "path": "problems/2019-B4/reviews/monotone-ratio-review-2-source-checks-v1.md",
+      "bytes": 5216,
+      "sha256": "db87780d3ee2f63028d3791f185382057d7985f700e851f0752cd57b71275c19"
+    },
+    {
+      "path": "problems/2019-B4/reviews/monotone-ratio-review-2-sources-v1.json",
+      "bytes": 3306,
+      "sha256": "4984e2bc1cf80793303cb38531e2edc816d206141d0adac4fdb9c8619de64dbb"
+    },
+    {
+      "path": "problems/2019-B4/reviews/monotone-ratio-review-2-freeze-v1.py",
+      "bytes": 9397,
+      "sha256": "e9f54a91c11214435e55fb091a4233cd5c2dcdfe9b724be2834802bbf9a0f89f"
+    },
+    {
+      "path": "problems/2019-B4/reviews/monotone-ratio-review-2-input-validation-v1.json",
+      "bytes": 118154,
+      "sha256": "7302590a1010823c5f8cd05e085a4a21024b67b405dbc70da787f99c756a80fb"
+    },
+    {
+      "path": "problems/2019-B4/reviews/monotone-ratio-review-2-freeze-output-v1.json",
+      "bytes": 1093,
+      "sha256": "83a870283dc03fb1bf8470d42b93d1fe0a3a10aa00825ce352747acf83f54d6d"
+    }
+  ]
+}

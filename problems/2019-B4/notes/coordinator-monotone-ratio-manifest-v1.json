@@ -1,0 +1,47 @@
+{
+  "frozen_at_utc": "2026-10-17T15:05:56.432338+00:00",
+  "status": "candidate proof - unverified",
+  "constructor": "coordinator root",
+  "whole_obligations": 12,
+  "claims": [
+    "MR1 canonical ratios nonincreasing and strictly decreasing from rho3 onward",
+    "MR2 uniform bounded joining implies positive defect and explicit normalized bound CONDITIONALLY"
+  ],
+  "two_OTHER_fresh_initially_blind_whole_audits_required": true,
+  "mathematical_program_supplies_proof": false,
+  "short_joining_or_actual_positive_defect_or_exact_lambda_or_annual_claim": false,
+  "records": [
+    {
+      "path": "problems/2019-B4/notes/coordinator-monotone-ratio-return-v1.md",
+      "bytes": 9239,
+      "sha256": "67649f48ebd0f599461fa01cde4e5c37c8fdff0781b9decf4430705848396c29"
+    }
+  ],
+  "accepted_inputs": [
+    {
+      "path": "problems/2019-B4/notes/secondpass-canonical-renewal.md",
+      "bytes": 11807,
+      "sha256": "886266000a34023b033099889a3bb23bc6b3e642194ded12ce53b3aaa1642763"
+    },
+    {
+      "path": "problems/2019-B4/proofs/reviewed-secondpass-v1.1.md",
+      "bytes": 2836,
+      "sha256": "5fbaa388fe2ff795034094823c088fa5402da60eb9eca83f78165df0c8ad2cd7"
+    },
+    {
+      "path": "problems/2019-B4/reviews/secondpass-acceptance.json",
+      "bytes": 2679,
+      "sha256": "66e98c9c9eb36ce02c87c69532a0e930be8bd4a4f0eec5e043ecd5f6bf068d6b"
+    },
+    {
+      "path": "problems/2019-B4/proofs/reviewed-reasoning-return-r7-v1.1.md",
+      "bytes": 17727,
+      "sha256": "4fe222b8b1d89b6b3d66bb16c6a1985390d537eee55bb42bfefdb2d4821e351a"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-return-r7-acceptance.json",
+      "bytes": 2560,
+      "sha256": "94ca56672f32f4624af71f41c48ddcf8757f1316b956586f6834cd1d7ee3b38b"
+    }
+  ]
+}

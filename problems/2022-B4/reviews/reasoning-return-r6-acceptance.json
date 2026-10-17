@@ -1,0 +1,68 @@
+{
+  "accepted_at_utc": "2026-10-17T15:19:32.165612+00:00",
+  "status": "proved, independently reviewed scoped partial result",
+  "whole_initials_blind": true,
+  "root_read_full_candidate_both_reports_all_ledgers_sources": true,
+  "unresolved_substantive_issues": 0,
+  "repair_required": false,
+  "candidate": {
+    "path": "problems/2022-B4/notes/reasoning-return-r6-candidate-v1.md",
+    "bytes": 15412,
+    "sha256": "051c9fec0b67dc6569d5e3be1d3c96c0c60ff977165bd67202504f738bb39832"
+  },
+  "accepted_copy": {
+    "path": "problems/2022-B4/proofs/reviewed-reasoning-return-r6-v1.1.md",
+    "bytes": 18580,
+    "sha256": "696cfaf139c3ce1cfccc17ca1643e378a4ad70bedd91374f24a82b4fe95daf8d"
+  },
+  "verification_metadata": [
+    {
+      "path": "problems/2022-B4/notes/reasoning-return-r6-freeze-v1.json",
+      "bytes": 3784,
+      "sha256": "44415c8ddcd197c8593e3738bc70ba52d07b408ee4302e0db7beb80408f39fee"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-return-r6-input-validation-v1.json",
+      "bytes": 109908,
+      "sha256": "8ac36213d2c494585ff98d4fd14d64294ca747baf0c35a0ed2f9e31f909b3f68"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-return-r6-review-1-manifest-v1.json",
+      "bytes": 1761,
+      "sha256": "5a8bc05a6363f834c1f4ca52f33ac1602f5de684ff817227a4d2f0ea5452bf51"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-return-r6-review-1-integrity-v1.json",
+      "bytes": 1046,
+      "sha256": "4e84bdff519936136b201e7d4fd8091d18a0b72c2cf64ad41b1b72c4ada1cc31"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-return-r6-review-2-manifest-v1.json",
+      "bytes": 3386,
+      "sha256": "a94543c127fe98fdc5a44e6bf047245677b81fef5a2c65aee5d607f9e6e1fe27"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-return-r6-review-2-input-validation-v1.json",
+      "bytes": 158562,
+      "sha256": "c40f57fa926240db1f6dc9ea0ed3d6ae7234297cbd58aba46f5c199d498bdf55"
+    }
+  ],
+  "record_occurrences_verified": 1232,
+  "unique_paths_verified": 745,
+  "constructor": "/root/review_2021_reasoning_j15_r2",
+  "reviewers": [
+    "coordinator root",
+    "/root/review_2017_coarsening_r1"
+  ],
+  "whole_inference_counts": [
+    40,
+    40
+  ],
+  "all40_obligations_in_both": true,
+  "root_old_F5_carry_role_disclosed": true,
+  "other_old_R4_authorship_disclosed": true,
+  "optional_N1": "may depend on S, not mandatory change on every enlargement",
+  "ordinary_infinite_or_termination_claim": false,
+  "annual_solution": false,
+  "novelty_claim": false
+}

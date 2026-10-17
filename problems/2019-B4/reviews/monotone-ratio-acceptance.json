@@ -1,0 +1,63 @@
+{
+  "accepted_at_utc": "2026-10-17T15:19:05.817025+00:00",
+  "status": "proved, independently reviewed scoped partial result",
+  "whole_initials_blind": true,
+  "root_read_full_candidate_both_reports_all_ledgers_sources": true,
+  "unresolved_substantive_issues": 0,
+  "repair_required": false,
+  "candidate": {
+    "path": "problems/2019-B4/notes/coordinator-monotone-ratio-return-v1.md",
+    "bytes": 9239,
+    "sha256": "67649f48ebd0f599461fa01cde4e5c37c8fdff0781b9decf4430705848396c29"
+  },
+  "accepted_copy": {
+    "path": "problems/2019-B4/proofs/reviewed-monotone-ratio-v1.1.md",
+    "bytes": 11402,
+    "sha256": "a87798e4df63ec2f76e83da9750f811b15fc6702533b4ca68bd8bd973ac3bac9"
+  },
+  "verification_metadata": [
+    {
+      "path": "problems/2019-B4/notes/coordinator-monotone-ratio-manifest-v1.json",
+      "bytes": 1763,
+      "sha256": "0af3087adb6814707b7c9257985256b882def1081f339a371b456af4f88dec8f"
+    },
+    {
+      "path": "problems/2019-B4/reviews/monotone-ratio-review-1-manifest-v1.json",
+      "bytes": 3533,
+      "sha256": "a853b05da6f1e376b958d02b017406901cbd2b3882946ddc15b22cb8fb4049ae"
+    },
+    {
+      "path": "problems/2019-B4/reviews/monotone-ratio-review-1-input-validation-v1.json",
+      "bytes": 1209508,
+      "sha256": "6e966ee075651146c91523337e86bf14bac70e01edd14a3f4b974e983b2ed777"
+    },
+    {
+      "path": "problems/2019-B4/reviews/monotone-ratio-review-2-manifest-v1.json",
+      "bytes": 3339,
+      "sha256": "adbda3dc6667bdcc47980a76df7d0c895aa6c20154c18091d016b35457b95068"
+    },
+    {
+      "path": "problems/2019-B4/reviews/monotone-ratio-review-2-input-validation-v1.json",
+      "bytes": 118154,
+      "sha256": "7302590a1010823c5f8cd05e085a4a21024b67b405dbc70da787f99c756a80fb"
+    }
+  ],
+  "record_occurrences_verified": 6552,
+  "unique_paths_verified": 1199,
+  "constructor": "root",
+  "root_excluded_from_independent_review_count": true,
+  "reviewers": [
+    "/root/review_2022_complexity_r2",
+    "/root/review_2021_reasoning_j15_r2"
+  ],
+  "whole_inference_counts": [
+    32,
+    28
+  ],
+  "all12_obligations_in_both": true,
+  "MR1_unconditional_from_accepted_premises": true,
+  "MR2_only_conditional": true,
+  "actual_J_C_or_positive_defect_claim": false,
+  "annual_solution": false,
+  "novelty_claim": false
+}

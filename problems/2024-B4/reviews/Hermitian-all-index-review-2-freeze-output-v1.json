@@ -1,0 +1,25 @@
+{
+  "frozen_at_utc": "2026-10-17T15:05:50.771337+00:00",
+  "metadata_only_not_mathematical_evidence": true,
+  "author_direct_fingerprints_checked": 12,
+  "source_declared_fingerprints_checked": 4,
+  "accepted_authority_declared_fingerprint_occurrences_checked": 35,
+  "accepted_exact_suffix_checks": 3,
+  "whole_inference_checks": 48,
+  "all_author_obligations": 24,
+  "older_own_packets_unchanged": 55,
+  "all_hash_checks_passed": true,
+  "no_substantive_defect_or_required_repair_found": true,
+  "whole_initial_blind_before_peer_findings": true,
+  "recommendation_only_not_promotion": true,
+  "latest_authoritative_weekly_usage": {
+    "at_utc": "2026-10-17 15:03:00 UTC (direct telemetry and UTC clock)",
+    "total_used_percent": 46,
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "total_ceiling_percent": 90,
+    "integration_reserve": true,
+    "ordinary_usage_allowed": true
+  },
+  "command": "python3 problems/2024-B4/reviews/Hermitian-all-index-review-2-freeze-v1.py"
+}

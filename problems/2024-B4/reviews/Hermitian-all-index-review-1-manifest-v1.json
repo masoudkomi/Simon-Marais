@@ -1,0 +1,77 @@
+{
+  "frozen_at_utc": "2026-10-17T15:03:57.253324+00:00",
+  "reviewer": "/root/review_2022_complexity_r2",
+  "status": "COMPLETE initially blind NONCONSTRUCTOR whole HR1/HR2 R1; no substantive scoped issue; not promotion",
+  "requested_model": "gpt-6.1-sol",
+  "requested_reasoning_effort": "max",
+  "independently_verified_effective_settings": null,
+  "constructor_target_main": {
+    "path": "problems/2024-B4/notes/coordinator-Hermitian-all-index-return-v1.md",
+    "bytes": 15281,
+    "sha256": "296241f7538f7eb86315998ff760f4fa363d3a2d1c911988d6fa2b1a4f0287cc"
+  },
+  "constructor_target_manifest": {
+    "path": "problems/2024-B4/notes/coordinator-Hermitian-all-index-manifest-v1.json",
+    "bytes": 3214,
+    "sha256": "d93f76bb4aecc912bb9dc91a51714d41330d250ba333ca7a32061d39a36df0a3"
+  },
+  "whole_claims_reviewed": [
+    "HR1 EVERY inner r>=2 and EVERY target s>=1 over arbitrary algebraically closed characteristic2 K",
+    "HR2 BOTH fixed-q whole homogeneous divisor directions with r1 and equality exceptions",
+    "degree reduction, smooth geometric curve/genus/Hasse--Weil LOWER bound and bad-point count",
+    "full shifted two-dimensional return, exact local orderq and complete matrix perturbation persistence",
+    "independent full r2 endpoint, arbitrary/inseparable outer and forbidden coefficient",
+    "complete source/official/dependency/old-context/annual boundaries"
+  ],
+  "all24_constructor_obligations_covered": true,
+  "complete_reviewer_inference_checks": 48,
+  "substantive_issues_identified": 0,
+  "author_repair_requested": false,
+  "initial_frozen_before_any_new_peer_HR_findings": true,
+  "new_HR_nonconstructor_independence": true,
+  "older_GK_NJ_roles_and_CP_dependency_scope_explicitly_disclosed": true,
+  "source_hypotheses_actual_scopes_and_classical_attribution_recorded": true,
+  "mathematical_program_point_scan_CAS_certificate_or_author_rerun": false,
+  "annual_other_component_mixed_q_arbitrary_inner_or_novelty_claim": false,
+  "input_record_occurrences_verified": 5710,
+  "input_unique_paths_verified": 1143,
+  "older_own_unique_frozen_paths_preserved": 271,
+  "old_shared_Git_cache_other_owner_edits_spawning_contact_charge_bypass": false,
+  "direct_weekly_telemetry": {
+    "at_utc": "2026-10-17T15:02:19+00:00",
+    "source": "direct authoritative account-wide telemetry paired with UTC clock",
+    "total_used_percent": 46,
+    "window_duration_minutes": 10080,
+    "resets_at_unix": 1792745187,
+    "ordinary_usage_allowed": true,
+    "total_used_ceiling_percent": 90,
+    "integration_reserve": true
+  },
+  "records": [
+    {
+      "path": "problems/2024-B4/reviews/Hermitian-all-index-review-1-initial-v1.md",
+      "bytes": 18647,
+      "sha256": "365894b0d57627ff494fdb9137630ef3cdd1e6acec5eb60e5fadbb1a60abd58d"
+    },
+    {
+      "path": "problems/2024-B4/reviews/Hermitian-all-index-review-1-issues-v1.md",
+      "bytes": 10830,
+      "sha256": "04524b1895c4ba8838c16cfef052d6ceaf4ff07672e3cc8b3e7896d66a786e36"
+    },
+    {
+      "path": "problems/2024-B4/reviews/Hermitian-all-index-review-1-source-checks-v1.md",
+      "bytes": 10928,
+      "sha256": "8515ca06dd1a1aeab2e390bac7c3cb9c10cc7fea078c9b00e27f37b1315f6158"
+    },
+    {
+      "path": "problems/2024-B4/reviews/Hermitian-all-index-review-1-freeze-v1.py",
+      "bytes": 14945,
+      "sha256": "978d5d8066a52769f998f3cc5034b5be43427aec38d994de2db9343ccd95aa9d"
+    },
+    {
+      "path": "problems/2024-B4/reviews/Hermitian-all-index-review-1-input-validation-v1.json",
+      "bytes": 1139896,
+      "sha256": "02be412947f9893705087d03286b2b07e486cb2ee2f95a77e7ea5dc9d4388f18"
+    }
+  ]
+}

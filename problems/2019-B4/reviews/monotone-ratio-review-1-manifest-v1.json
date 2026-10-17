@@ -1,0 +1,77 @@
+{
+  "frozen_at_utc": "2026-10-17T15:17:30.981225+00:00",
+  "reviewer": "/root/review_2022_complexity_r2",
+  "status": "COMPLETE initially blind NONCONSTRUCTOR WHOLE MR1 and conditional MR2 R1; no substantive scoped issue; not promotion",
+  "requested_model": "gpt-6.1-sol",
+  "requested_reasoning_effort": "max",
+  "independently_verified_effective_settings": null,
+  "constructor_target_main": {
+    "path": "problems/2019-B4/notes/coordinator-monotone-ratio-return-v1.md",
+    "bytes": 9239,
+    "sha256": "67649f48ebd0f599461fa01cde4e5c37c8fdff0781b9decf4430705848396c29"
+  },
+  "constructor_target_manifest": {
+    "path": "problems/2019-B4/notes/coordinator-monotone-ratio-manifest-v1.json",
+    "bytes": 1763,
+    "sha256": "0af3087adb6814707b7c9257985256b882def1081f339a371b456af4f88dec8f"
+  },
+  "whole_claims_reviewed": [
+    "MR1 complete general positive signed-recurrence ratio induction",
+    "MR1 exact initial values and strict every n>=3 log-concavity with unconditional R7 limiting upper endpoints",
+    "MR2 CONDITIONALLY on UNPROVED one uniform J_C: variable bridge injection, fixed limit order, normalized bound and exact defect inequality",
+    "complete accepted-language/source/diagnostic/role/official/annual boundaries"
+  ],
+  "all12_constructor_obligations_covered": true,
+  "complete_reviewer_inference_checks": 32,
+  "substantive_issues_identified": 0,
+  "author_repair_requested": false,
+  "initial_frozen_before_any_new_peer_MR_findings": true,
+  "new_MR_nonconstructor_independence": true,
+  "older_moment_NR_LO_R7_review_roles_explicitly_disclosed": true,
+  "unproved_joining_not_promoted_and_diagnostic_excluded_from_premises": true,
+  "actual_positive_defect_or_J_C_claim": false,
+  "new_external_theorem_imported": false,
+  "mathematical_program_scan_CAS_certificate_or_constructor_rerun": false,
+  "new_numeric_original_b_ratio_lower_root_monotonicity_annual_or_novelty_claim": false,
+  "input_record_occurrences_verified": 6070,
+  "input_unique_paths_verified": 1156,
+  "older_own_unique_frozen_paths_preserved": 277,
+  "old_shared_Git_cache_other_owner_edits_spawning_contact_charge_bypass": false,
+  "direct_weekly_telemetry": {
+    "at_utc": "2026-10-17T15:11:09+00:00",
+    "source": "direct authoritative account-wide telemetry paired with UTC clock",
+    "total_used_percent": 47,
+    "window_duration_minutes": 10080,
+    "resets_at_unix": 1792745187,
+    "ordinary_usage_allowed": true,
+    "total_used_ceiling_percent": 90,
+    "integration_reserve": true
+  },
+  "records": [
+    {
+      "path": "problems/2019-B4/reviews/monotone-ratio-review-1-initial-v1.md",
+      "bytes": 15563,
+      "sha256": "2ab160b81780ac764906d5a1f0600671cfda8abd148f1e2883942f3985463e34"
+    },
+    {
+      "path": "problems/2019-B4/reviews/monotone-ratio-review-1-issues-v1.md",
+      "bytes": 7911,
+      "sha256": "9654933ecf3d4b31b2750689c5d846749bf4d05396d04f29fc1e96b8fd09721a"
+    },
+    {
+      "path": "problems/2019-B4/reviews/monotone-ratio-review-1-source-checks-v1.md",
+      "bytes": 10049,
+      "sha256": "c6403b24281def4801401ab6e59fc9dd2f61542ec79fdec7315b1b8ad59b4177"
+    },
+    {
+      "path": "problems/2019-B4/reviews/monotone-ratio-review-1-freeze-v1.py",
+      "bytes": 14122,
+      "sha256": "93f443bd75890cc05dc16f6ea7f135fd85f2cc6096ee1a350f6a7f764ebfd190"
+    },
+    {
+      "path": "problems/2019-B4/reviews/monotone-ratio-review-1-input-validation-v1.json",
+      "bytes": 1209508,
+      "sha256": "6e966ee075651146c91523337e86bf14bac70e01edd14a3f4b974e983b2ed777"
+    }
+  ]
+}
