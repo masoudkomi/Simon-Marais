@@ -1,0 +1,30 @@
+{
+  "frozen_at_utc": "2026-10-17T15:49:14.752871+00:00",
+  "metadata_only_not_mathematical_evidence": true,
+  "author_direct_fingerprints_checked": 8,
+  "source_declared_fingerprints_checked": 7,
+  "old_acceptance_authority_map_counts": [
+    7,
+    14
+  ],
+  "R7_authority_fingerprint_occurrences_checked": 9,
+  "accepted_R7_raw_suffix_unchanged": true,
+  "whole_inference_checks": 43,
+  "all_author_obligations": 12,
+  "older_own_packets_unchanged": 58,
+  "all_hash_checks_passed": true,
+  "no_substantive_defect_or_required_repair_found": true,
+  "initial_whole_review_blind_before_peer_findings": true,
+  "postfreeze_literature_context_not_new_premise": true,
+  "recommendation_only_not_promotion": true,
+  "latest_authoritative_weekly_usage": {
+    "at_utc": "2026-10-17 15:47:23 UTC (direct telemetry and UTC clock)",
+    "total_used_percent": 49,
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "total_ceiling_percent": 90,
+    "integration_reserve": true,
+    "ordinary_usage_allowed": true
+  },
+  "command": "python3 problems/2019-B4/reviews/walk-Frechet-review-2-freeze-v1.py"
+}

@@ -1,0 +1,444 @@
+{
+  "reviewer": "coordinator root",
+  "constructor": "/root/review_2017_coarsening_r1",
+  "whole_audit": true,
+  "initially_blind": true,
+  "whole_checks": 54,
+  "all_author_obligations": 54,
+  "substantive_issues": 0,
+  "repair_required": false,
+  "checks": [
+    {
+      "id": "R6-R1-01",
+      "obligations": [
+        "O01"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "Fresh cached official page2 B4(b) matches n>=2; q=n-1,k=q+1,v=q\u00b2+q+1. New results take q>=2; accepted n2 boundary is retained without preliminary construction."
+    },
+    {
+      "id": "R6-R1-02",
+      "obligations": [
+        "O02"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "Actual subset D has unique ordered differences. Quotient occupancies, positive matrices, orbit-cardinality vectors and source parameter tables are never substituted for existence."
+    },
+    {
+      "id": "R6-R1-03",
+      "obligations": [
+        "O03"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "All groups are numerical multipliers in units modulo v, common normalization gives setwise stability, abelianness follows from units. Individual pointwise and common setwise conditions stay distinct."
+    },
+    {
+      "id": "R6-R1-04",
+      "obligations": [
+        "O04"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "Fresh full initial body plus operative repaired F1/F2,R4B/C proofs and exact acceptance scopes checked. Old constructor R3/F1/F2 authorship and root earlier review misses disclosed; old authorities retain separate audits."
+    },
+    {
+      "id": "R6-R1-05",
+      "obligations": [
+        "O05"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "For generators u the Bezout ideal of u-1 and v is hG; products/inverses generate no new ideal. The simultaneous kernel has size h and is (v/h)G. No orbit-size invertibility is used."
+    },
+    {
+      "id": "R6-R1-06",
+      "obligations": [
+        "O06"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "Cyclic subgroups of orders h and v/h intersect in the unique subgroup of order gcd(h,v/h). Thus c may exceed1 and is retained."
+    },
+    {
+      "id": "R6-R1-07",
+      "obligations": [
+        "O07"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "ux-x lies in A for every u, so each entire U-orbit lies in one quotient fiber, even if H and A do not form a direct sum."
+    },
+    {
+      "id": "R6-R1-08",
+      "obligations": [
+        "O08"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "Common-fiber ordered distinct pairs have difference exactly in A minus zero. Actual difference uniqueness gives b-1, including all cross terms."
+    },
+    {
+      "id": "R6-R1-09",
+      "obligations": [
+        "O09"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "For E the same count is c-1 because E is an actual difference set in H. If h1 then E is empty or singleton, c1 and both pair-count sides are0."
+    },
+    {
+      "id": "R6-R1-10",
+      "obligations": [
+        "O10"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "Expanding total pair count minus fixed pair count yields w(w-1)+2gw in each fiber, exactly A2. No fixed/nonfixed cross pairs are omitted."
+    },
+    {
+      "id": "R6-R1-11",
+      "obligations": [
+        "O11"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "A nonfixed point has a U-orbit of divisor order greater than1; every such order is at least its smallest prime rho. Nonempty w_y is a union of those orbits."
+    },
+    {
+      "id": "R6-R1-12",
+      "obligations": [
+        "O12"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "w(w-1)>= (rho-1)w and cross terms are nonnegative. Summing gives A3; when h>1, k-f=q-m gives A4."
+    },
+    {
+      "id": "R6-R1-13",
+      "obligations": [
+        "O13"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "Subtracting h from v gives(q-m)(q+m+1); rearrangement yields A5 with(c-1)h. q>m makes the bracket nonnegative and strictly positive if c>1."
+    },
+    {
+      "id": "R6-R1-14",
+      "obligations": [
+        "O14"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "For PRIME order ell, every nonfixed orbit has length ell, so w=ell*a. Subtracting(ell-1)sum w leaves ell\u00b2sum a(a-1)+2ell sum ga, including ell dividing v."
+    },
+    {
+      "id": "R6-R1-15",
+      "obligations": [
+        "O15"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "Both defect sums are nonnegative integers. Equality forces a0/1 and ga0 in every fiber, and these conditions suffice. Fixed data are for the same <t>."
+    },
+    {
+      "id": "R6-R1-16",
+      "obligations": [
+        "O16"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "Fresh Gordon2020 Section2 exact hypotheses checked: direct factor Z_p with coprime H and specified power. Arasu methodology attributed; the new A2 count is directly proved without importing that theorem generally."
+    },
+    {
+      "id": "R6-R1-17",
+      "obligations": [
+        "O17"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "In Baer case each individual nonidentity u fixes a group containing H. Actual F1 gives its smaller order m_u<=sqrt q=m; containment gives m_u>=m, hence equality."
+    },
+    {
+      "id": "R6-R1-18",
+      "obligations": [
+        "O18"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "Every individual nonidentity fixed group is now exactly H, so a point outside H has no nonidentity stabilizer. That proves free U-action there, beyond mere absence of a common fixed point."
+    },
+    {
+      "id": "R6-R1-19",
+      "obligations": [
+        "O19"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "v=(m\u00b2-m+1)(m\u00b2+m+1); gcd divides2m, is coprime to m and odd, hence1. Therefore b-1=q-m>0 for m>=2."
+    },
+    {
+      "id": "R6-R1-20",
+      "obligations": [
+        "O20"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "Free outside orbit length |U| in A2 yields q-m >=(|U|-1)(q-m); positive cancellation gives |U|<=2 and nonidentity gives exactly2. No arbitrary-collineation claim."
+    },
+    {
+      "id": "R6-R1-21",
+      "obligations": [
+        "O21"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "Accepted reconstructed involution F2 identifies the unique numerical involution as m\u00b3. Square order alone is not used to assert a new involution before hypotheses."
+    },
+    {
+      "id": "R6-R1-22",
+      "obligations": [
+        "O22"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "q!=4 excludes both Cohen exceptions and 1<q+1<v-1 for q>=2. Cohen applies to actual chosen translate, not a translate chosen after the fact; unit orbit dT has size s."
+    },
+    {
+      "id": "R6-R1-23",
+      "obligations": [
+        "O23"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "O and its complement R are T-invariant; K is the genuine pointwise kernel on R, so normal. It need not be the full-D kernel or a fixed-subgroup stabilizer chosen by convenience."
+    },
+    {
+      "id": "R6-R1-24",
+      "obligations": [
+        "O24"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "If K is nontrivial, all R lies in H=G^K. A point of O is a unit, so cannot be fixed by any nonidentity K element. Thus E=D intersect H equals R exactly."
+    },
+    {
+      "id": "R6-R1-25",
+      "obligations": [
+        "O25"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "r>=2 makes h>1. Actual F1 gives h=r\u00b2-r+1, order r-1 and proper-subplane bound q>=(r-1)\u00b2, including degenerate r2."
+    },
+    {
+      "id": "R6-R1-26",
+      "obligations": [
+        "O26"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "Commutativity ensures T preserves H. If t fixes R pointwise, it fixes all R differences, exhausting nonzero H, so fixes H; conversely fixing H fixes R. Restriction kernel is exactly K."
+    },
+    {
+      "id": "R6-R1-27",
+      "obligations": [
+        "O27"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "The restriction image acts by actual automorphisms of cyclic H preserving actual R. It is therefore a subgroup of numerical multipliers there. A new sum-zero translate may be taken without changing numerical multiplier order."
+    },
+    {
+      "id": "R6-R1-28",
+      "obligations": [
+        "O28"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "r2 uses Aut(Z3) size2 directly. r>=3 with r!=5 resets qsmall=r-1>=2, qsmall!=4, so accepted bound gives a<=r. No degenerate Cohen application."
+    },
+    {
+      "id": "R6-R1-29",
+      "obligations": [
+        "O29"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "At r5 if R has a generator relative to H, its image-group orbit is free and contained in five-point R, giving a<=5. Ambient-unit status is irrelevant."
+    },
+    {
+      "id": "R6-R1-30",
+      "obligations": [
+        "O30"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "If that relative unit is absent, the literal actual Cohen exceptions E1/E2 in Z21 apply; fresh original Theorem1/translation warning read. No arbitrary translate preserves unit membership by assertion."
+    },
+    {
+      "id": "R6-R1-31",
+      "obligations": [
+        "O31"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "In E1 additive-order3 elements form{7,14}; order7 elements are3{1,2,4}. Stabilizers modulo3 and7 have orders2 and3, independently by CRT, so exactly6. Negation preserves the stabilizer."
+    },
+    {
+      "id": "R6-R1-32",
+      "obligations": [
+        "O32"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "All nonfixed D points for K are precisely O, and K is free on its unit points. Their orbit size is |K|=s/a; arbitrary U was not presumed free."
+    },
+    {
+      "id": "R6-R1-33",
+      "obligations": [
+        "O33"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "A2 gives v/h-c >=(s/a-1)s. Replacing c by1 enlarges the left side, and a by A_r decreases the right side, preserving the necessary inequality."
+    },
+    {
+      "id": "R6-R1-34",
+      "obligations": [
+        "O34"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "Expanding q=s+r-1 gives v-h=s(s+2r-1). h-A_r=(r-1)\u00b2 positive when r!=5; at r5 it is15. Cancellation of positive s is valid."
+    },
+    {
+      "id": "R6-R1-35",
+      "obligations": [
+        "O35"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "Rearrangement gives s<=A_r(h+2r-1)/(h-A_r). For ordinary r this is r\u00b2(r+1)/(r-1)\u00b2; at r5 it is6*30/15=12."
+    },
+    {
+      "id": "R6-R1-36",
+      "obligations": [
+        "O36"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "For r>=6, r\u00b2-5r+2>0, so upper bound<=2r. C1 implies s=q+1-r >=(r-1)(r-2)>2r. Contradiction; no table or approximate comparison."
+    },
+    {
+      "id": "R6-R1-37",
+      "obligations": [
+        "O37"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "For r2,3,4 the exact upper bounds are12,9,80/9, and r5 gives12. Thus nontrivial kernel implies r2..5 and s<=12; not an existence classification."
+    },
+    {
+      "id": "R6-R1-38",
+      "obligations": [
+        "O38"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "For q!=4,s>12,r>=2 the contrapositive gives K1, faithful residual action. r0/1 goes to the separate already accepted saturation case."
+    },
+    {
+      "id": "R6-R1-39",
+      "obligations": [
+        "O39"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "In an abelian action each orbit stabilizer is normal and constant across its orbit. Faithfulness gives trivial intersection; map into the orbit quotients is injective."
+    },
+    {
+      "id": "R6-R1-40",
+      "obligations": [
+        "O40"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "Each quotient has order r_i, so s divides their product. Integer u<=3^(u/3) holds at1,2,3 and induction uses4/3<cube-root3. Multiplication includes fixed-point orbits."
+    },
+    {
+      "id": "R6-R1-41",
+      "obligations": [
+        "O41"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "s<=3^(r/3) gives r>=3log_3 s only under the stated known-subgroup and residual hypotheses. It neither forces saturation nor excludes arbitrarily large residuals."
+    },
+    {
+      "id": "R6-R1-42",
+      "obligations": [
+        "O42"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "The sharpness example invokes known ACTUAL classical Singer existence at q16. Existence is attributed; neither a preliminary construction nor an abstract parameter vector is used."
+    },
+    {
+      "id": "R6-R1-43",
+      "obligations": [
+        "O43"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "2^12-1=15*273 and every proper divisor12<=6 has 0<2^d-1<273, so order12. For64 fixed h=gcd(63,273)=21, actual F1 gives5 fixed D points. Unit orbit12 has none, hence residual5 equals that fixed set."
+    },
+    {
+      "id": "R6-R1-44",
+      "obligations": [
+        "O44"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "This proves actual nonfaithfulness at s12 and prevents changing s>12 to s>=12 in that conclusion. It does not refute the separate logarithmic inequality or require full M=<2>."
+    },
+    {
+      "id": "R6-R1-45",
+      "obligations": [
+        "O45"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "For nonsquare q accepted F2 excludes every even-order multiplier. Finite abelian M thus has odd order, so its image in units modulo3, of order2, is trivial."
+    },
+    {
+      "id": "R6-R1-46",
+      "obligations": [
+        "O46"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "First Multiplier input gives q in M. q\u00b3-1=(q-1)v and neither q nor q\u00b2 equals1 modulo v; gcd(q-1,v)=gcd(q-1,3)=3 when q1mod3."
+    },
+    {
+      "id": "R6-R1-47",
+      "obligations": [
+        "O47"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "All M elements1mod3 fix the size3 subgroup, and M contains q whose own fixed subgroup has exactly that size. Both containments prove equality, not an unjustified individual/common replacement."
+    },
+    {
+      "id": "R6-R1-48",
+      "obligations": [
+        "O48"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "Actual fixed E has2 points. Every nonfixed q-orbit has3 points with sum x(1+q+q\u00b2)=0. Sum-zero D makes E sum0, forcing E={b,2b}; b=3t\u00b2+3t+1 is1mod3 and b>1."
+    },
+    {
+      "id": "R6-R1-49",
+      "obligations": [
+        "O49"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "The full unit orbit dM occupies one nonzero residue class modulo3, disjoint from its one fixed E point. Thus its actual occupancy is at least s+1; a known subgroup only shortens the orbit."
+    },
+    {
+      "id": "R6-R1-50",
+      "obligations": [
+        "O50"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "Nontrivial character has |Z|=sqrt q by accepted P4. DFT inversion gives3n_i=k+2Re(Z omega^-i)<=q+1+2sqrt q. Combined with n_i>=s+1 this gives exactly3s<=q-2+2sqrt q."
+    },
+    {
+      "id": "R6-R1-51",
+      "obligations": [
+        "O51"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "Known actual CLASSICAL q5 example has prime v31 and accepted classical normalizer M=<5>, order3<q. This refutes universal S0 without any cyclic=>classical step."
+    },
+    {
+      "id": "R6-R1-52",
+      "obligations": [
+        "O52"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "Exact accepted R5 boundary retained: even saturated q>8 has the attributed ACTUAL non-Desarguesian flag-transitive existence equivalence. Odd affine two-orbit action and arbitrary nonsaturated cases cannot use that reverse classification."
+    },
+    {
+      "id": "R6-R1-53",
+      "obligations": [
+        "O53"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "Prime v makes every nonidentity multiplier fixed group{0}, so fixed-plane descent can be empty of information. Faithful large residuals and character magnitudes do not fix all incidence phases or yield realization."
+    },
+    {
+      "id": "R6-R1-54",
+      "obligations": [
+        "O54"
+      ],
+      "verdict": "pass in stated scope",
+      "reconstruction": "Complete candidate/54 obligations/all source MD+JSON/failure/self-check/log/freeze read. New R6 peer findings remained unread. Full source proof limits and old corrected errors are explicit; no code/CAS/scan/certificate rerun or author rerun supplied new mathematics."
+    }
+  ]
+}

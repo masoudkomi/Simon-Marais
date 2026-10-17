@@ -1,0 +1,64 @@
+{
+  "accepted_at_utc": "2026-10-17T15:50:20.248261+00:00",
+  "status": "proved, independently reviewed scoped partial result",
+  "whole_initials_blind": true,
+  "root_read_full_candidate_both_reports_all_ledgers_sources": true,
+  "unresolved_substantive_issues": 0,
+  "repair_required": false,
+  "candidate": {
+    "path": "problems/2019-B4/notes/coordinator-walk-Frechet-return-v1.md",
+    "bytes": 15923,
+    "sha256": "a62416fe466f21265b6f6572ce5333f7bbe75744cb17c293ef963288b73bf8f2"
+  },
+  "accepted_copy": {
+    "path": "problems/2019-B4/proofs/reviewed-walk-Frechet-v1.1.md",
+    "bytes": 18752,
+    "sha256": "c068f531fa9fa3c420867ae898291b6034cef7511e72ec6fd16f20ac3b023f44"
+  },
+  "verification_metadata": [
+    {
+      "path": "problems/2019-B4/notes/coordinator-walk-Frechet-manifest-v1.json",
+      "bytes": 2046,
+      "sha256": "bd895bb6d18dee9a66fa337cce0b5f7330aa1a76c34a0bc8f692022611c5012d"
+    },
+    {
+      "path": "problems/2019-B4/reviews/walk-Frechet-review-1-manifest-v1.json",
+      "bytes": 3563,
+      "sha256": "f7fa4e56563288050aeec137eedb54ee8d43635a648302b76b02f93b02b851d7"
+    },
+    {
+      "path": "problems/2019-B4/reviews/walk-Frechet-review-1-input-validation-v1.json",
+      "bytes": 1423030,
+      "sha256": "20790471fdff874d06e92e3089f0b44537901aa26de47b08d4d5c98b4e2f548b"
+    },
+    {
+      "path": "problems/2019-B4/reviews/walk-Frechet-review-2-manifest-v1.json",
+      "bytes": 3618,
+      "sha256": "9f4434b026751155da4794e24e98a40ef0940c42f4bd077464333fe4cee75223"
+    },
+    {
+      "path": "problems/2019-B4/reviews/walk-Frechet-review-2-input-validation-v1.json",
+      "bytes": 125631,
+      "sha256": "051477f3214d370fa005a9925313a1e5ea9095a52d50067a034d3b1f30ed963e"
+    },
+    {
+      "path": "problems/2019-B4/reviews/walk-Frechet-review-2-sources-v1.json",
+      "bytes": 3258,
+      "sha256": "33db9050b92b0962da80d609b1105576e265745dd63a28a5f51fe082b34618f9"
+    }
+  ],
+  "record_occurrences_verified": 7643,
+  "unique_paths_verified": 1288,
+  "constructor": "coordinator root",
+  "independent_whole_reviewers": [
+    "review_2022_complexity_r2",
+    "review_2021_reasoning_j15_r2"
+  ],
+  "whole_checks": [
+    40,
+    43
+  ],
+  "whole_obligations": 12,
+  "postfreeze_ECCC_context_only": true,
+  "exact_growth_or_actual_moment_regime_or_annual_solution": false
+}

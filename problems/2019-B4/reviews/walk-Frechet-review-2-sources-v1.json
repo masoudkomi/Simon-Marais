@@ -1,0 +1,27 @@
+{
+  "checked_on_utc": "2026-10-17",
+  "reviewer": "/root/review_2021_reasoning_j15_r2",
+  "requested_settings": {"model": "gpt-6.1-sol", "reasoning": "max"},
+  "verified_effective_settings": null,
+  "primary_sources": [
+    {"title": "Official 2019 Paper B", "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2019-paper-b_1.pdf", "read_scope": "Page 2 B4 definition and part (b); no preliminary proof or other-problem investigation", "role": "Official domain and target only", "binary_sha256": null},
+    {"title": "Eiter--Mannila, Computing Discrete Frechet Distance, CD-TR94/64", "url": "https://www.researchgate.net/publication/228723178_Computing_Discrete_Frechet_Distance", "read_scope": "Complete mathematical Sections 1--5, printed pages 1--7, through references; author-uploaded primary text", "role": "Classical attribution; exact converse independently reconstructed", "binary_sha256": null},
+    {"title": "Faster Frechet Distance Approximation Through Truncated Smoothing, JoCG 16(2), 2025", "url": "https://research-portal.uu.nl/ws/portalfiles/portal/275020035/9-faster-frechet.pdf", "doi": "10.20382/jocg.v16i2a9", "read_scope": "Opening 265--271, complete Section 2, early Section 4 through long-edge passage 271--272; not full paper", "role": "Definition and excluded shortcut only", "binary_sha256": null},
+    {"title": "Fabris--Limaye--Srinivasan--Yehudayoff, ECCC TR26-001", "url": "https://eccc.weizmann.ac.il/report/2026/001/download", "record": "https://eccc.weizmann.ac.il/report/2026/001/", "read_scope": "Record, Definition 3.1 and complete Section 4; referenced foundations not read", "role": "Postfreeze context only", "binary_sha256": null}
+  ],
+  "local_scope_inputs": [
+    {"path": "problems/2019-B4/notes/coordinator-walk-literature-addendum-v1.md", "bytes": 5322, "sha256": "a85fa9150b9978094be455d3bcf18163fdba4e2c8839d1a27be784b10fc0a330"},
+    {"path": "problems/2019-B4/reviews/acceptance.md", "bytes": 2209, "sha256": "9a4c893182bf84dec4b00a86268f9b1d24f39ba1f54c11fe08695777eb20d7b8"},
+    {"path": "problems/2019-B4/reviews/secondpass-acceptance.md", "bytes": 2340, "sha256": "a167e1f52bff2503c6ac571ea047efe7621425f2379868a0a6db31eccd22aefa"},
+    {"path": "problems/2019-B4/reviews/secondpass-acceptance.json", "bytes": 2679, "sha256": "66e98c9c9eb36ce02c87c69532a0e930be8bd4a4f0eec5e043ecd5f6bf068d6b"},
+    {"path": "problems/2019-B4/proofs/reviewed-secondpass-v1.1.md", "bytes": 2836, "sha256": "5fbaa388fe2ff795034094823c088fa5402da60eb9eca83f78165df0c8ad2cd7"},
+    {"path": "problems/2019-B4/reviews/reasoning-return-r7-acceptance.md", "bytes": 3622, "sha256": "726a164f245effafcd1473522eac4fa58418e69fdfba858431685fbf15949234"},
+    {"path": "problems/2019-B4/notes/reasoning-return-r7-candidate-v1.md", "bytes": 14206, "sha256": "22ab005f7f66f90f194b79cf79520b77983a67716a53f04f1c401bfed646d96f"}
+  ],
+  "old_R7_authorship_not_independent_self_recertification": true,
+  "new_DG_construction_contribution": false,
+  "new_DG_peer_report_or_findings_read_before_complete_initial_freeze": false,
+  "mathematical_program_CAS_scan_sampler_or_author_rerun": false,
+  "native_download_cache_mutation_or_retrieval_wait": false,
+  "Git_shared_old_byte_edit_spawning_charge_contact_or_bypass": false
+}

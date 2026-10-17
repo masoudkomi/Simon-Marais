@@ -1,0 +1,196 @@
+{
+  "recorded_at_utc": "2026-10-17T15:52:51.412773+00:00",
+  "status": "candidate proof - unverified; complete constructor checkpoint",
+  "constructor": "/root/review_2017_coarsening_r1",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "older_repaired_R3_F1_F2_authorship_disclosed": true,
+  "older_R4_R5_review_roles_not_new_self_audits": true,
+  "new_mathematical_contribution_from_another_agent_used": false,
+  "two_OTHER_initially_blind_whole_audits_required": true,
+  "complete_accepted_bodies_read": [
+    {
+      "path": "problems/2020-B4/proofs/reviewed-partial-v1.1.md",
+      "bytes": 2207,
+      "sha256": "3fcdd2d50c4545b2e466b8a24f5a958fb69f2b0f10cccf19fa4b628ed02a690f"
+    },
+    {
+      "path": "problems/2020-B4/proofs/partial-v1.md",
+      "bytes": 8703,
+      "sha256": "f53945e49bd626847e52a61f7e39e96defd2ae44900f9d235c2c14e720f41525"
+    },
+    {
+      "path": "problems/2020-B4/proofs/reviewed-return-r3-v1.2.md",
+      "bytes": 20446,
+      "sha256": "18fc1871219740c528527eb1cfb68c2c1571eba0243e4866b5a8630092a91317"
+    },
+    {
+      "path": "problems/2020-B4/proofs/reviewed-reasoning-return-r4-v1.2.md",
+      "bytes": 26219,
+      "sha256": "6e1c29498cb3c61f84da80785a2697dc0511718c745098c3624e8a1eb7207493"
+    },
+    {
+      "path": "problems/2020-B4/proofs/reviewed-reasoning-return-r5-v1.1.md",
+      "bytes": 26986,
+      "sha256": "a466aab8f96fe418497a8ce3dc60afc4bb9554868a08759bdd0492aa0ce7ce2a"
+    }
+  ],
+  "context_read_not_all_linked_external_proofs_reconstructed": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2020-B4/statement.md",
+      "bytes": 2006,
+      "sha256": "91c9e7e86eef7bc6a68770f6ee730d18618443304ac3aace5541b42170ac64cc"
+    },
+    {
+      "path": "problems/2020-B4/references.md",
+      "bytes": 9036,
+      "sha256": "7ce4ae9b9c7724cbd91cdc0da57a09e79e0eac728399b79efe148aa799262786"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-return-r5-source-audit-v1.md",
+      "bytes": 8964,
+      "sha256": "e96b1ff75bc0e1345b848674de769b953c9e088d39a4ced276aed60f2bc36d02"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-return-r5-sources-v1.json",
+      "bytes": 11951,
+      "sha256": "867264abbad2a36cf5013745fdd2e6bc1ff6f6bb8bffde534e27ed16d70d041a"
+    },
+    {
+      "path": "problems/2020-B4/notes/deep-literature-r1-report-v1.md",
+      "bytes": 9404,
+      "sha256": "2c54319b2294be5851ff0d93be7dd833e3f2041405ed98b6b026080b4560da50"
+    },
+    {
+      "path": "problems/2020-B4/notes/deep-literature-r1-sources-v1.json",
+      "bytes": 5487,
+      "sha256": "7823c32be8aac9eae4c5a31b705ed3f8f6a03bec867e36be4a8079d8ef185999"
+    },
+    {
+      "path": "problems/2020-B4/notes/coordinator-quadratic-character-matrix-lead-v1.md",
+      "bytes": 4233,
+      "sha256": "64941078487d783f3ad0ac6147d03826b0bf483eb660dce5ad9d4288b47cf32d"
+    }
+  ],
+  "separate_matrix_lead_unverified_and_NOT_a_premise": true,
+  "existing_native_cache_records_PDF_magic_verified": [
+    {
+      "path": ".cache/official/2020-paper_b.pdf",
+      "bytes": 118979,
+      "sha256": "87d99c8f1c3d077bddeb542e3825a515e90b0f29339acde94758d57a102bb3da"
+    },
+    {
+      "path": ".cache/official/2020-solutions.pdf",
+      "bytes": 287864,
+      "sha256": "d77ecfa277a693f57992ca2286c01e95f50821c02abc6ff63a41966f578f09b3"
+    },
+    {
+      "path": ".cache/literature/2020/initial-review-2/gordon-small-lambda-v1.pdf",
+      "bytes": 128808,
+      "sha256": "fd92867ab367f70e15a19118e711f84f601dfa835d9c5ab33fb706d3eedf2850"
+    },
+    {
+      "path": ".cache/literature/2020/reasoning-return-r5/HuangSchmidt2008.pdf",
+      "bytes": 178716,
+      "sha256": "01e1606d116c69a2541e7be4b4e67d30574111907b9367bc1ba96f15bebf381b"
+    },
+    {
+      "path": ".cache/literature/2020/reasoning-return-r5/Xia2023v7.pdf",
+      "bytes": 202492,
+      "sha256": "dbb9cbf51d43223d87a4de9a96a94a50e4a860022c86057c9a9c62cb3ff3228a"
+    }
+  ],
+  "new_native_download_or_live_extraction_binary_identity_claimed": false,
+  "primary_reads": [
+    {
+      "id": "OFF2020",
+      "urls": [
+        "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2020-paper-b_1.pdf",
+        "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2020-solutions_1.pdf"
+      ],
+      "scope": "page2 B4(b), printedp27 discussion; exact n>=2 target and attributed Singer existence context only",
+      "preliminary_or_other_problem_investigated": false,
+      "individual_setter_credit_verified": false
+    },
+    {
+      "id": "COHEN1989",
+      "title": "Generators in Cyclic Difference Sets",
+      "url": "https://www.researchgate.net/publication/220077727_Generators_in_cyclic_difference_sets",
+      "doi": "10.1016/0097-3165(89)90047-2",
+      "actual_read": "Original definition, Theorem1, exact two literal exceptions, translation warning, order21 discussion and character-sieve context",
+      "used": "Attributed accepted unit theorem, now with exact literal exceptions for relative order4 residual",
+      "full_sieve_proof_or_exceptional_parameter_analysis_newly_certified": false,
+      "native_binary_hash": null
+    },
+    {
+      "id": "GORDON2020v1",
+      "title": "On difference sets with small lambda",
+      "url": "https://arxiv.org/pdf/2007.07292",
+      "actual_read": "Introduction, complete applicable Section2 Lemma2/Theorem3, Theorems4/5 and proof contexts, Section3 table context",
+      "used": "Arasu-method attribution and exact scope comparison; no general direct-product theorem imported beyond its hypotheses",
+      "large_computation_or_heuristic_replayed_or_promoted": false,
+      "native_cache": {
+        "path": ".cache/literature/2020/initial-review-2/gordon-small-lambda-v1.pdf",
+        "bytes": 128808,
+        "sha256": "fd92867ab367f70e15a19118e711f84f601dfa835d9c5ab33fb706d3eedf2850"
+      }
+    },
+    {
+      "id": "BBB1990_1991",
+      "title": "Hermitian unitals are code words",
+      "url": "https://aeb.win.tue.nl/preprints/hermitian1.pdf",
+      "actual_read": "Complete applicable Section2 pp1-2, normalized setting, involution and Lemmas1/2",
+      "used": "Classical background for separately accepted F2; no general collineation or unital/code import",
+      "native_binary_hash": null,
+      "historical_stalled_native_hash_retrieval_retried_or_claimed_complete": false
+    },
+    {
+      "id": "HUANG_SCHMIDT2008",
+      "title": "Uniqueness of Some Cyclic Projective Planes",
+      "url": "https://personal.ntu.edu.sg/bernhard/Publications/pub/Singer.pdf",
+      "actual_read": "Introductory definitions, known Singer existence and separate conjecture context, supplementing prior accepted source reads",
+      "used": "Attributed actual q5/q16 existence context only; no construction reproduced",
+      "uniqueness_search_or_external_conjugacy_proof_imported": false,
+      "native_cache": {
+        "path": ".cache/literature/2020/reasoning-return-r5/HuangSchmidt2008.pdf",
+        "bytes": 178716,
+        "sha256": "01e1606d116c69a2541e7be4b4e67d30574111907b9367bc1ba96f15bebf381b"
+      }
+    },
+    {
+      "id": "XIA2023v7",
+      "title": "New necessary conditions for finite non-Desarguesian flag-transitive projective planes",
+      "url": "https://arxiv.org/pdf/1707.05486v7",
+      "actual_read": "Definitions, Conjecture1.1, complete Proposition1.2/Theorem1.3 statements and necessary-system scope",
+      "used": "Exact accepted R5 boundary only: ACTUAL non-Desarguesian FLAG-transitive reverse reduction",
+      "CFSG_proof_or_finite_elimination_certificate_newly_imported_or_rerun": false,
+      "native_cache": {
+        "path": ".cache/literature/2020/reasoning-return-r5/Xia2023v7.pdf",
+        "bytes": 202492,
+        "sha256": "dbb9cbf51d43223d87a4de9a96a94a50e4a860022c86057c9a9c62cb3ff3228a"
+      }
+    }
+  ],
+  "search_queries_actual": [
+    "\"planar difference set\" \"prime order\" \"fixed\" multiplier subplane bound",
+    "\"projective plane\" \"fixed subplane\" \"prime order\" inequality",
+    "\"Baer subplane\" \"pointwise\" \"involution\" collineation",
+    "\"multiplier\" \"q+m+1\" difference set",
+    "\"difference sets\" \"fixed subgroup\" \"prime order\" multipliers inequality",
+    "\"planar difference sets\" \"fixed\" \"prime\" \"trace\"",
+    "\"Baer\" \"multiplier\" \"order\" difference sets"
+  ],
+  "source_search_establishes_novelty_or_exhaustive_current_status": false,
+  "full_classification_saturation_abstract_realization_or_cutoff_claim": false,
+  "mathematical_program_CAS_scan_certificate_or_author_rerun": false,
+  "native_mathematical_job_or_pending_approval": false,
+  "charges_contacts_bypass_or_full_third_party_paper_tracked": false
+}

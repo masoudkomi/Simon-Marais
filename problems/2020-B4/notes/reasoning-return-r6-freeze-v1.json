@@ -1,0 +1,87 @@
+{
+  "frozen_at_utc": "2026-10-17T15:52:51.412773+00:00",
+  "status": "candidate proof - unverified; COMPLETE R6A-R6D constructor checkpoint",
+  "constructor": "/root/review_2017_coarsening_r1",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "two_OTHER_initially_blind_whole_audits_required": true,
+  "main_claims": [
+    "R6A exact arbitrary cyclic coinvariant fiber energy, overlap c retained, orbit bound and prime-order equality defect",
+    "R6B numerical common pointwise stabilizer at actual Baer fixed size has order2",
+    "R6C nontrivial residual kernel forces actual smaller plane, r<=5 and s<=12; s>12 yields faithful residual and r>=3log_3(s)",
+    "R6C4 attributed actual q16 example makes faithfulness threshold s>12 sharp",
+    "R6D nonsquare q=1mod3 full/known multiplier size obeys3s<=q-2+2sqrt(q)"
+  ],
+  "whole_obligations": 54,
+  "older_R3_authorship_and_R4_R5_review_roles_disclosed": true,
+  "new_proof_contribution_from_another_agent_used": false,
+  "new_peer_2020_R6_findings_or_queued_2021_R8_material_read": false,
+  "mathematical_program_CAS_scan_table_certificate_or_author_rerun": false,
+  "current_native_job_or_pending_tool_call": false,
+  "earlier_frozen_context_records_verified_unchanged": 334,
+  "last_direct_weekly_telemetry": {
+    "at_utc": "2026-10-17 15:39:49 UTC; later direct check again48%",
+    "total_used_percent": 48,
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "total_ceiling_percent": 90,
+    "review_integration_reserve": true
+  },
+  "unproved": [
+    "universal S0 saturation (actually false for known q5 classical example)",
+    "nonsaturated large-residual incidence/phase exclusion",
+    "unrestricted prime-power or official taut classification",
+    "novelty or improved published verification cutoff"
+  ],
+  "administrative_command": "/Users/uqmkamga/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 problems/2020-B4/notes/reasoning-return-r6-freeze-v1.py",
+  "artifacts": [
+    {
+      "path": "problems/2020-B4/notes/reasoning-return-r6-candidate-v1.md",
+      "bytes": 19423,
+      "sha256": "1c71e9225a8e7881a4a640cd420c4cac55d86ddd09f8538fabe7cb630099f24c"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-return-r6-obligations-v1.md",
+      "bytes": 7240,
+      "sha256": "7027dadda44717723e8b9df832e04340f710b20231cccab8d19538d2bda899a6"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-return-r6-failed-routes-v1.md",
+      "bytes": 5422,
+      "sha256": "e55ff74a41a80f3c40a1017a5cc3e080b10b83d8fd2ae4c1f68e02cd826c4783"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-return-r6-constructor-checks-v1.md",
+      "bytes": 4480,
+      "sha256": "a0b55f08eb8e35c6ccfd7c10f221421c39bc832c7cdc0a7543cdbe826f0b6063"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-return-r6-source-audit-v1.md",
+      "bytes": 6953,
+      "sha256": "5246d14e50c729ea15738e8212ad8878d91a3d4be5ad2070e856a95ff42a15d7"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-return-r6-worklog-v1.md",
+      "bytes": 6323,
+      "sha256": "606d925ecb26a91aa251170a99410364adc4867e772915fc7d5ad037c1e22f89"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-return-r6-sources-v1.json",
+      "bytes": 8810,
+      "sha256": "a9462320d871fd85a9d61244e6f0985acd9b68a03bdf5301136cc7a6bda41512"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-return-r6-freeze-v1.py",
+      "bytes": 11987,
+      "sha256": "13068f0d46963e9baf2a1fa8ce2869aca81f31743ad528f84e3e7a903a313a92"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-return-r6-input-validation-v1.json",
+      "bytes": 70073,
+      "sha256": "83f80b9c2d2b902925d04f2a1dce6b4fb668772724db5c9474de8ca785429010"
+    }
+  ]
+}

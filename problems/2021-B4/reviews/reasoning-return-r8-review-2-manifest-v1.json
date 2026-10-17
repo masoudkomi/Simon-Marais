@@ -1,0 +1,70 @@
+{
+  "frozen_at_utc": "2026-10-17T16:01:39.017933+00:00",
+  "status": "COMPLETE initially blind WHOLE R8 R2; no substantive scoped defect or required repair; coordinator reconciliation pending",
+  "reviewer": "/root/review_2017_coarsening_r1",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "target": {
+    "path": "problems/2021-B4/notes/reasoning-return-r8-candidate-v1.md",
+    "bytes": 16961,
+    "sha256": "6bffa3b70e9d228b09e0a2ee3f049d7f5261fb98d484ebacff7abcbfde5eea26"
+  },
+  "target_manifest": {
+    "path": "problems/2021-B4/notes/reasoning-return-r8-freeze-v1.json",
+    "bytes": 3602,
+    "sha256": "9d366b0c0eee1a56dae269a2aeb197627516d00f2d87d17a4d6c93304b1919b8"
+  },
+  "whole_author_obligations": 40,
+  "independent_inference_rows": 40,
+  "open_substantive_issues": 0,
+  "required_author_repairs": 0,
+  "NEW_R8_constructor_or_contributor": false,
+  "OLD_R5_authorship_and_single_center_PN_review_roles_disclosed": true,
+  "arbitrary_nu_sigma_zero_coefficients_and_exact_delta0_reconstructed": true,
+  "all_nine_cubic_cases_actual_witness_assignments_exact_zeros_and_both_frames_reconstructed": true,
+  "remaining_alternative_excluded_or_Q19_Q_lift_degree20_annual_novelty_claim": false,
+  "new_peer_or_root_R8_findings_read_before_initial_freeze": false,
+  "mathematical_program_CAS_scan_certificate_or_author_rerun": false,
+  "declared_author_fingerprint_occurrences_verified": 487,
+  "declared_author_unique_paths_verified": 463,
+  "earlier_frozen_context_records_verified_unchanged": 344,
+  "last_direct_weekly_telemetry": {
+    "at_utc": "2026-10-17 about15:54UTC group transition",
+    "total_used_percent": 49,
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "total_ceiling_percent": 90,
+    "review_integration_reserve": true
+  },
+  "administrative_command": "/Users/uqmkamga/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 problems/2021-B4/reviews/reasoning-return-r8-review-2-freeze-v1.py",
+  "artifacts": [
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r8-review-2-initial-v1.md",
+      "bytes": 13726,
+      "sha256": "0485e8c22f6d04f4fb6384f116e149008ed32345a7284415a1bcf19b0a743493"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r8-review-2-issues-v1.md",
+      "bytes": 7070,
+      "sha256": "8b2ab16d9a4538c76b7259c0bd276eae71bfcb9bb892d7d66e696852179649dd"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r8-review-2-source-checks-v1.md",
+      "bytes": 5616,
+      "sha256": "eec609935f6f3e3afcc2600009ba8af7156ac9caf89f25a3c90e6bd5f8e77dcf"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r8-review-2-freeze-v1.py",
+      "bytes": 8661,
+      "sha256": "950e787cd950be42a06201c2e4990d8136000ef18c1da3ef7ea35a032adada93"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r8-review-2-input-validation-v1.json",
+      "bytes": 167231,
+      "sha256": "ce116c951f697da3f6019149365ddff3b4979ac708468f8c3a65faa3bb9e2968"
+    }
+  ]
+}

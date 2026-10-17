@@ -1,16 +1,16 @@
 {
-  "snapshot_cutoff_utc": "2026-10-17T15:48:13.474521+00:00",
+  "snapshot_cutoff_utc": "2026-10-17T16:05:02.370714+00:00",
   "observed_sessions": 62,
-  "distinct_responses": 5878,
+  "distinct_responses": 5998,
   "usage": {
-    "input_tokens": 1036305321,
-    "cached_input_tokens": 989160192,
+    "input_tokens": 1063103028,
+    "cached_input_tokens": 1014621056,
     "cache_write_input_tokens": 0,
-    "output_tokens": 8311640,
-    "reasoning_output_tokens": 3582581,
-    "total_tokens": 1044616961
+    "output_tokens": 8450401,
+    "reasoning_output_tokens": 3649391,
+    "total_tokens": 1071553429
   },
-  "uncached_input_plus_output_tokens": 55456769,
+  "uncached_input_plus_output_tokens": 56932373,
   "sessions_without_usage_records": 0,
   "all_recorded_session_sums_match_cumulative": true,
   "method": "Deduplicated own-thread per-response usage records across root and recursively spawned descendants; cached input is a subset of input, reasoning output a subset of output.",
@@ -18,15 +18,15 @@
   "agents": [
     {
       "agent": "/root",
-      "distinct_responses": 1832,
-      "latest_record_utc": "2026-10-17T15:48:12.412Z",
+      "distinct_responses": 1875,
+      "latest_record_utc": "2026-10-17T16:05:02.302Z",
       "usage": {
-        "input_tokens": 369865340,
-        "cached_input_tokens": 357549952,
+        "input_tokens": 379855100,
+        "cached_input_tokens": 367085696,
         "cache_write_input_tokens": 0,
-        "output_tokens": 1807022,
-        "reasoning_output_tokens": 667125,
-        "total_tokens": 371672362
+        "output_tokens": 1837388,
+        "reasoning_output_tokens": 680071,
+        "total_tokens": 381692488
       },
       "matches_latest_thread_cumulative": true
     },
@@ -312,15 +312,15 @@
     },
     {
       "agent": "/root/review_2017_coarsening_r1",
-      "distinct_responses": 655,
-      "latest_record_utc": "2026-10-17T15:48:11.335Z",
+      "distinct_responses": 680,
+      "latest_record_utc": "2026-10-17T16:03:17.989Z",
       "usage": {
-        "input_tokens": 130922600,
-        "cached_input_tokens": 123591168,
+        "input_tokens": 135862648,
+        "cached_input_tokens": 128261248,
         "cache_write_input_tokens": 0,
-        "output_tokens": 1204355,
-        "reasoning_output_tokens": 583856,
-        "total_tokens": 132126955
+        "output_tokens": 1244440,
+        "reasoning_output_tokens": 597494,
+        "total_tokens": 137107088
       },
       "matches_latest_thread_cumulative": true
     },
@@ -634,15 +634,15 @@
     },
     {
       "agent": "/root/review_2021_reasoning_j15_r2",
-      "distinct_responses": 807,
-      "latest_record_utc": "2026-10-17T15:48:01.335Z",
+      "distinct_responses": 833,
+      "latest_record_utc": "2026-10-17T16:04:57.979Z",
       "usage": {
-        "input_tokens": 163351034,
-        "cached_input_tokens": 154710016,
+        "input_tokens": 169415478,
+        "cached_input_tokens": 160404864,
         "cache_write_input_tokens": 0,
-        "output_tokens": 1645498,
-        "reasoning_output_tokens": 752822,
-        "total_tokens": 164996532
+        "output_tokens": 1683976,
+        "reasoning_output_tokens": 777077,
+        "total_tokens": 171099454
       },
       "matches_latest_thread_cumulative": true
     },
@@ -704,15 +704,15 @@
     },
     {
       "agent": "/root/review_2022_complexity_r2",
-      "distinct_responses": 787,
-      "latest_record_utc": "2026-10-17T15:48:10.956Z",
+      "distinct_responses": 813,
+      "latest_record_utc": "2026-10-17T16:04:18.986Z",
       "usage": {
-        "input_tokens": 157987662,
-        "cached_input_tokens": 150147200,
+        "input_tokens": 163791117,
+        "cached_input_tokens": 155707392,
         "cache_write_input_tokens": 0,
-        "output_tokens": 1423814,
-        "reasoning_output_tokens": 587325,
-        "total_tokens": 159411476
+        "output_tokens": 1453646,
+        "reasoning_output_tokens": 603296,
+        "total_tokens": 165244763
       },
       "matches_latest_thread_cumulative": true
     },
