@@ -1,0 +1,85 @@
+{
+  "date_utc": "2026-10-17",
+  "status": "candidate proof - unverified",
+  "constructor": "review_2022_complexity_r2",
+  "coordinator_bounded_correction_contribution": true,
+  "root_or_constructor_eligible_as_fresh_independent_reviewer": false,
+  "requested_settings": {"model": "gpt-6.1-sol", "reasoning": "max"},
+  "verified_effective_setting_readback": null,
+  "claims": ["F5A strict-prefix Josephus-base fiber bound q", "F5B full fiber interval/top-ceiling shape and ordinary residue iff", "F5C hypothetical ordinary AB lift implies exactly nine global expansions and exact eight-seed ceiling-growth fiber", "F5D real interval image versus two-prime separated Z10 image and exact ordinary-membership bridge", "F5E strict necessary fractional parts; local interval-to-binary inference fails"],
+  "complete_accepted_proof_bodies_read": [
+    {"path": "problems/2022-B4/proofs/reviewed-rational-base-shadow-return-v1.1.md", "bytes": 27405, "sha256": "f58c75a8bc975ab49073bf03ac5db4a55fa9b65458c2a61f4f5fd40b9be1be6e"},
+    {"path": "problems/2022-B4/proofs/reviewed-return-r3-v1.1.md", "bytes": 26823, "sha256": "c4b734830e9706fa5553e21fcadfa2b15c912b909ec15511066ccd5e8672c6be"},
+    {"path": "problems/2022-B4/proofs/reviewed-arithmetic-complexity-v1.1.md", "bytes": 17186, "sha256": "b7339abc92c042c746719f91aac2d7428b4289578ac99e92ccdeee55cf0b0c70"}
+  ],
+  "unverified_contributing_note_fully_reconstructed_not_accepted_premise": {
+    "path": "problems/2022-B4/notes/coordinator-AB-bounded-correction-rigidity-v1.md",
+    "bytes": 5037,
+    "sha256": "55bc59ff55aba5312dca0813e437544fa9e1e7cc0d380b4b5f30439800cd85e6"
+  },
+  "primary_sources": [
+    {
+      "title": "2022 Simon Marais Paper B",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2022-paper-b.pdf",
+      "actual_read_scope": "Live actual page2 B4 official domains and(b); no preliminary proof investigated",
+      "cache_path": ".cache/official/2022-paper_b.pdf",
+      "bytes": 150768,
+      "sha256": "33b15241e89b2e4db54f78d3a565ee01afe357ade786f8bb7602c0b7e89e4519",
+      "downloaded_or_cache_modified_this_pass": false
+    },
+    {
+      "authors": "Akiyama, Frougny, Sakarovitch",
+      "title": "Powers of rationals modulo 1 and rational base number systems",
+      "year": 2008,
+      "doi": "10.1007/s11856-008-1056-4",
+      "url": "https://perso.telecom-paristech.fr/jsaka/PUB/Files/RBNS-rev.pdf",
+      "actual_read_scope": "Live author PDF plus cached named printed pp7-8 and15-23; MD/uniqueness, integer levels, min/max words, evaluation and strict tail, Definition33/Lemma34, full Proposition37 and Corollary38 proofs",
+      "hypotheses": "coprime p>q>=2, full alphabet0..p-1,1/q weights, every prefix in0*L; at-most-two Cor38 needs p>=2q-1",
+      "hypothesis_boundary": "Prop37 permits11 at11/10; F5A q bound is separately proved proposed endpoint deduction, not source-attributed or independently accepted;9 still allowed",
+      "cache_path": ".cache/literature/2022/akiyama-frougny-sakarovitch-rbns-rev.pdf",
+      "bytes": 909624,
+      "sha256": "cf6cb96e1f4e98ed0e763f0f8e974f9cf81d685a8bbb8ed969432afd382bffd8",
+      "downloaded_or_cache_modified_this_pass": false,
+      "full_external_proof_newly_reconstructed": false
+    },
+    {
+      "authors": "Andrieu, Eliahou, Vivion",
+      "title": "A Normality Conjecture on Rational Base Number Systems",
+      "version": "arXiv2510.11723v2,2026-04-07",
+      "url": "https://arxiv.org/html/2510.11723v2",
+      "actual_read_scope": "Live definitions/introduction and complete relevant Section3.3: global indexed prefix convention, Conj3.9, Prop3.10 proof, Remark3.11, Question3.12, Prop3.13 proof",
+      "hypothesis_boundary": "normality and universal at-most-two remain conjectural; conditional implications not promoted; original proper-S qualification from DM retained",
+      "cache_path": ".cache/literature/2022/andrieu-eliahou-vivion-2510.11723v2.pdf",
+      "bytes": 1239603,
+      "sha256": "ef5a2ca8e1fa5c21bbf51a7122cc4331b6aa1e587cdffd6cd845d8f7f2cf99bf",
+      "cache_hash_claims_new_full_pdf_read": false,
+      "downloaded_or_cache_modified_this_pass": false
+    },
+    {
+      "authors": "Dubickas, Mossinghoff",
+      "title": "Lower bounds for Z-numbers",
+      "year": 2009,
+      "doi": "10.1090/S0025-5718-09-02211-X",
+      "url": "https://www.researchgate.net/publication/220576840_Lower_bounds_for_Z-numbers",
+      "actual_read_scope": "Public author-uploaded original body Section1 proper-residue problem; Lemma3.1 and full Proposition3.1/3.2 statement/proof passages",
+      "hypotheses": "coprime p>q>=2; positive ordinary starts; nonempty proper S; Prop3.2 singleton; Prop3.1 conditional termination premise",
+      "hypothesis_boundary": "no termination imported for two/three classes; p=q+1,S={0,q-1} explicitly posed as an unsolved two-class direction; no Prop3.1 fractional-part conclusion imported or entire source proof certified",
+      "binary_sha256_newly_retrieved": null,
+      "new_download_contact_credentials_charge_or_bypass": false
+    }
+  ],
+  "old_roles_disclosed": ["constructor of separately accepted old R0-R3/S1-S2", "earlier whole reviewer2 of complexity packet", "fresh nonconstructor whole reviewer2 of separately constructed R4"],
+  "source_method_and_new_deductions_separated": true,
+  "new_unproved_normality_no_ninefold_or_residue_escape_imported": false,
+  "ordinary_infinite_lift_termination_or_full_annual_solution_claimed": false,
+  "novelty_or_source_priority_claimed": false,
+  "mathematical_program_CAS_scan_enumeration_or_certificate_rerun": false,
+  "source_inspection_native_jobs": [
+    {"operation": "pypdf named cached AFS printedpp7-8,15-18,22-23", "exit_code": 0, "wall_seconds": 0.120923},
+    {"operation": "pypdf named cached AFS printedpp19-21", "exit_code": 0, "wall_seconds": 0.071602334}
+  ],
+  "new_native_source_downloads_or_tracked_third_party_papers": false,
+  "only_new_assigned_R5_prefix_written": true,
+  "requires_two_other_fresh_initially_blind_whole_reviews": true,
+  "direct_weekly_telemetry": {"at_utc": "2026-10-17 12:46:26 UTC", "total_used_percent": 39, "window_minutes": 10080, "reset_unix": 1792745187, "ordinary_usage_allowed": true, "total_ceiling_percent": 90, "integration_reserve": true}
+}

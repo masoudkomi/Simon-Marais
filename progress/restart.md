@@ -1,3 +1,11 @@
+# Latest restart boundary — 2026-10-17 12:52 UTC
+
+This latest section supersedes historical launch notes below. Last confirmed pushedcommit e2e0f36; newer complete checkpoint awaits push. Read progress/run-state.json and status-2026-10-17-1252.md. Continue sustained research until90%TOTAL accountweeklyusage or genuine stopping condition; do not stop at an interimcheckpoint. Meter39%TOTAL,reset1792745187. OwnedUNTIMEDcaffeinatePID79293/session64368 verified22:52:11Brisbane; stopONLYownedassertionat90%cutoff/actualtermination. Earlier dated12hexpiry statements below are historical and superseded by the user's later authorization.
+
+NEW2025FS accepted; no Diophantineexclusion.2021R6 rootwholeR1frozen/otherR2queued;2022R5completeunverifiedtwoOTHERauditsqueued;rootOWcompleteunverifiedtwoOTHERauditsqueued/active.2020R4authorrepairactive for falseauxiliaryessential-last-momentclaim; bothaffectedreauditsrequired.2017valuecompressionresearchactive. Bothnewwholeinitialsmustfreeze beforepeerfindings. Preserveallfrozenbytes. Root/Bcontributorscannot independentlyaudit2022R5; rootcannot independentlyauditOW. Latestallninecount2completeanswers2018/2023,7unresolved.
+
+---
+
 # Restart instructions
 
 1. Read `AGENTS.md`, `README.md`, `progress/dashboard.md`, `progress/budget.md`, and the latest year-specific research/review/issue logs.

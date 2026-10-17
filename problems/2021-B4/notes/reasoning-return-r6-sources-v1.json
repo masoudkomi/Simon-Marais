@@ -1,0 +1,185 @@
+{
+  "recorded_at_utc": "2026-10-17T12:38:43.360502+00:00",
+  "status": "candidate proof - unverified",
+  "constructor": "/root/review_2021_reasoning_j15_r2",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "protocol": {
+    "path": "AGENTS.md",
+    "bytes": 4707,
+    "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+  },
+  "complete_accepted_bodies_and_registers": [
+    {
+      "path": "problems/2021-B4/proofs/reviewed-reasoning-return-r5-v1.1.md",
+      "bytes": 23675,
+      "sha256": "f4f088adc133b0581520488cdbba30082c13b2402c96ae555142e5491ad4137d",
+      "actual_read_scope": "complete R5A-E accepted mathematical body; R5D and G1/R5C are direct R6 premises; depth bound is minimum-only context"
+    },
+    {
+      "path": "problems/2021-B4/notes/rational-witness-p-plus-one-reviewed-v1.2.md",
+      "bytes": 8615,
+      "sha256": "fa71a4269a061b09ed74b3cd333b62c2ed7d3ffd39d1c28624a58a6d8fc18d09",
+      "actual_read_scope": "complete rational affine normalization and field distinction"
+    },
+    {
+      "path": "problems/2021-B4/notes/padic-rational-newton-reviewed-v1.1.md",
+      "bytes": 2667,
+      "sha256": "691c7c04be6b7d63b528724a59f43636e0e71dd2135f7c0d14e25487f738e963",
+      "actual_read_scope": "complete accepted register and its root multiplicity/width scopes; old certificates not rerun"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-three-rational-witnesses-reviewed-v1.1.md",
+      "bytes": 1962,
+      "sha256": "7ff6b3d92d3268405381c2732d83516d21e6eb7d74e897d4c01ec8bb70342be4",
+      "actual_read_scope": "complete accepted T1/T3 register; exact rational witness cover requirement; old certificate not rerun"
+    },
+    {
+      "path": "problems/2021-B4/proofs/reviewed-reasoning-J15-v1.1.md",
+      "bytes": 18931,
+      "sha256": "fbc5d212b5b560c8e4e42397d19663f3fc882fa8f206bdcbb4ed897c715627f6",
+      "actual_read_scope": "complete D1-D5 body and low-order nonunit family; D1/D3 direct setup"
+    },
+    {
+      "path": "problems/2021-B4/proofs/reviewed-return-r3-v1.1.md",
+      "bytes": 5304,
+      "sha256": "9cda0a35c42e7a3098418ec052180f4868ca995feee47b503971b8fc2cb6d4b4",
+      "actual_read_scope": "complete accepted scope register for immutable seven texts; G1 and TA1 direct"
+    },
+    {
+      "path": "problems/2021-B4/proofs/reviewed-odd-support-exclusion-v1.1.md",
+      "bytes": 8176,
+      "sha256": "56274936ab198f01cb38b1701fdec7907860eb654fd2bc79c3b2d0e03054a271",
+      "actual_read_scope": "complete accepted PN1-PN4 body; matches R5D scope, old certificate not rerun"
+    }
+  ],
+  "relevant_complete_old_mathematical_bodies_reread": [
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r3-candidate-v1.md",
+      "bytes": 13138,
+      "sha256": "0caf8d3f8df7144a7768230d566930da91ca107ab552935e9c2a73556f8aacc8",
+      "actual_read_scope": "complete G1/G2 and weighted-even body reread; G1 direct carrier premise"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r3-mirror-candidate-v1.md",
+      "bytes": 7446,
+      "sha256": "20a72646d0e1bcfcf2ef3ca907d1363c6576a96df42dc2cb6909e11976e2945c",
+      "actual_read_scope": "complete mirror body reread; retained tied/exact-reflection boundary"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r3-collision-candidate-v1.md",
+      "bytes": 16531,
+      "sha256": "e7eab1257632a3d0e96c7e8eebcb9389197c7cd9041aca3dda6b5b463763c5ee",
+      "actual_read_scope": "complete collision body reread; Euler mechanism and RC2 scope; no new claim for old depth bound"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r3-transfer-candidate-v1.md",
+      "bytes": 9020,
+      "sha256": "0bcc9898ff010abf489f7b4c58d4a5011e91df99ab680bd0094d76054b3e3961",
+      "actual_read_scope": "complete TA1/TA2 body reread; exact TA1 hypothesis is direct first-break premise"
+    }
+  ],
+  "complete_acceptance_MD_records_read": [
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r5-acceptance.md",
+      "bytes": 3915,
+      "sha256": "6f2bd751c5b2c790d63f7fad3cb6f686057d9943c48689272723e481f01fa477"
+    },
+    {
+      "path": "problems/2021-B4/reviews/return-r3-acceptance.md",
+      "bytes": 1043,
+      "sha256": "a3a7d9d84bfe8903777708e3b817e45e7259d239298ce435bf1adcf00f2173bc"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-J15-acceptance.md",
+      "bytes": 2358,
+      "sha256": "d68036cf92b6ea1dc73ada1eecaf14ccdd96678c36c1ff9a940bd845d1e2c60e"
+    },
+    {
+      "path": "problems/2021-B4/reviews/odd-support-exclusion-acceptance.md",
+      "bytes": 1690,
+      "sha256": "d5fbcce5768c3ab878e49cee902e0be6bb423d216ad9e91f2d88c8dd97328c5b"
+    }
+  ],
+  "other_precise_context_read_scopes": [
+    {
+      "path": "problems/2021-B4/reviews/return-r3-review-1-issues-v1.json",
+      "bytes": 11612,
+      "sha256": "b01947eb5908ea6284fa4bc86db71c4f4d533db078560500e3170a61f83a1043",
+      "actual_read_scope": "entire old whole issue ledger read; qualifications preserved, no active R6 peer exists"
+    },
+    {
+      "path": "problems/2021-B4/reviews/return-r3-review-2-issues.json",
+      "bytes": 839,
+      "sha256": "aa31c0b3d457b5512b282310a0c04cb398de48e3f190615ebb78899e1d46e5e4",
+      "actual_read_scope": "entire old whole issue ledger read; accepted scope and reminders retained"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r5-source-audit-v1.md",
+      "bytes": 7305,
+      "sha256": "69a789de87de5c7f5a094a2c20cdf0e2e8b7083edb2f6067cdc76f246e077a0e",
+      "actual_read_scope": "complete R5 source audit read as provenance, not fresh full reading of every cited paper"
+    },
+    {
+      "path": "problems/2021-B4/notes/ghosh-source-reviewed-register-v1.1.md",
+      "bytes": 4193,
+      "sha256": "a683fed5ab31d502366d5ad2af02ca4cfe214a9fa1d856f24a8ce5e81a40a51f",
+      "actual_read_scope": "complete narrow accepted source-objection register only; universal theorem unresolved and not imported"
+    }
+  ],
+  "primary_sources": [
+    {
+      "title": "Official2021 Paper B, B4(b)",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2021-paper-b.pdf",
+      "read_at_utc": "2026-10-17",
+      "read_scope": "B4 hypothesis and(b); no preliminary(a) proof",
+      "existing_ignored_cache": {
+        "path": ".cache/official/2021-paper_b.pdf",
+        "bytes": 157688,
+        "sha256": "2d507d593500f762e90b041d03a451e884ea33c8769f9a2132427e14d8f926d1"
+      },
+      "fresh_viewer_cache_byte_identity_claimed": false
+    },
+    {
+      "title": "CLO, Constraints on counterexamples to the Casas-Alvero conjecture, and a verification in degree12",
+      "url": "https://arxiv.org/pdf/1208.5404",
+      "read_at_utc": "2026-10-17",
+      "read_scope": "equation7,Section3.4 equations9-10/simple-center factor/Lemma17; Proposition19 and unramified-field scope",
+      "role": "normalization via accepted rational-affine map; ALL-root theorem inapplicable",
+      "existing_ignored_cache": {
+        "path": ".cache/literature/2021/cited-66c5af6a0f0239f5.pdf",
+        "bytes": 281743,
+        "sha256": "d818747102d32060f43ae5f015f27065aadf38699b272a2367749db8b33fedbf"
+      },
+      "fresh_viewer_cache_byte_identity_claimed": false
+    },
+    {
+      "title": "Marashdeh, A descent-set obstruction for the Casas-Alvero conjecture",
+      "url": "https://arxiv.org/html/2608.14726v1",
+      "read_at_utc": "2026-10-17",
+      "read_scope": "centered support definitions and full displayed TheoremB, nonvanishing and multi-root limitation",
+      "role": "attributed one-nonzero-recycled-root context only; no theorem imported into R6",
+      "fresh_whole_paper_or_full_proof_read_claimed": false,
+      "raw_web_hash": null,
+      "new_download": false
+    }
+  ],
+  "new_external_theorem_imported": false,
+  "old_finite_certificates_rerun_or_newly_independently_recertified": false,
+  "constructor_old_return_authorship_J15_PN_R5_review_roles_disclosed": true,
+  "new_quadratic_comparison_or_nonunit_formulation_supplied_by_root": false,
+  "two_other_fresh_initially_blind_whole_reviews_required": true,
+  "new_mathematical_program_CAS_scan_or_enumeration": false,
+  "last_direct_weekly_telemetry": {
+    "at_utc": "2026-10-17 12:37:37 UTC (paired clock/telemetry check)",
+    "total_used_percent": 38,
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "total_ceiling_percent": 90,
+    "integration_reserve": true,
+    "separate_billed_API": false
+  }
+}

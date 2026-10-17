@@ -2,7 +2,7 @@
   "branch": "codex/smmc-b4-research",
   "remote": "https://github.com/masoudkomi/Simon-Marais.git",
   "phase": "all initial passes complete; independent review and focused research",
-  "last_pushed_commit": "d958fff",
+  "last_pushed_commit": "e2e0f36",
   "initial_passes_complete": [
     2017,
     2018,
@@ -17,25 +17,25 @@
   "active": [
     {
       "agent": "review_2021_reasoning_j15_r2",
-      "year": 2021,
-      "role": "new conceptual R6 construction;2025FS wholeR2 queued after meaningful freeze"
+      "year": 2025,
+      "role": "OW wholeR2 then2022R5 wholeR1; FS R2 complete"
     },
     {
       "agent": "review_2022_complexity_r2",
-      "year": 2022,
-      "role": "new conceptual R5 ordinary-lift research"
+      "year": 2020,
+      "role": "full R4 author repair then2021R6 wholeR2;2022R5 complete"
     },
     {
       "agent": "review_2017_coarsening_r1",
       "year": 2017,
-      "role": "new conceptual global-value R1;2020R4 targeted reaudit queued after full author repair"
+      "role": "global-value construction then2020affectedR2,OWwholeR1,2022R5wholeR2"
     }
   ],
   "initial_passes_pending": [],
   "deferred": [
     2026
   ],
-  "weekly_used_percent_last_observed": 37,
+  "weekly_used_percent_last_observed": 39,
   "weekly_reset_unix": 1792745187,
   "caffeinate": {
     "user_authorization": "make sure the computer doesnt go to sleep until we reach90% of tokens. Keep going.",
@@ -43,15 +43,15 @@
     "exec_session": 64368,
     "duration_seconds": null,
     "started_at_utc_approx": "2026-10-17T01:07:50+00:00",
-    "verified_at_local": "2026-10-17T22:25:48+10:00",
+    "verified_at_local": "2026-10-17T22:52:11+10:00",
     "assertion": "PreventUserIdleSystemSleep",
-    "verified_detail": "pmset: PreventUserIdleSystemSleep1, owned79293 assertingforever, elapsed11:17:59",
+    "verified_detail": "pmset: PreventUserIdleSystemSleep1, owned79293 assertingforever, elapsed11:44:22",
     "cleanup": "At90% total weekly usage or actual research termination, stop only owned session64368 via targeted Ctrl-C; PID79293 recorded for fallback. No timed expiry.",
     "previous_session": 14140,
     "previous_exit_code_after_targeted_ctrl_c": 130
   },
-  "notes": "Confirmed pushd958fff. NEW2019LO1\u20136 accepted after44/50checks,28obligations; originalnonregular language/exact distinctoverlap recurrences and weightedboundonly;exactlambda unchanged.2024KC accepted.2020r4 rootWHOLE R1 frozen, otherWHOLE R2 active, candidateUNVERIFIED.2025FS1\u20133 completefrozen; rootwholeR1 frozen, otherR2queued after2021meaningfulfreeze; no Diophantineexclusion.2021R6/2022R5conceptualresearchactive. Rootnew2024criticalfixednote UNVERIFIED. Twoannualanswers2018/2023remain.37%TOTALweekly,samereset90%ceiling. Raw12:29:08UTC787359028total/42619060uncached+output. Awakeowned79293/session64368 verified22:25:48Brisbane;releaseonly90%oractualtermination. At12:32UTC BOTH2020R4 initials frozen; R2R4R2-01 finalmomentautomatic, rootR1missed. No promotion. B fullversionedrepairqueued aftercomplete2022freeze; both affected reauditsrequired. Cnew2017globalvalue reasoningactive.",
-  "observed_at_utc": "2026-10-17T12:30:10.941183+00:00",
+  "notes": "2025FS scoped partials accepted after both complete whole audits and full coordinator reconciliation, no Diophantine exclusion.2021R6 rootwholeR1frozen, otherwholeR2queued.2022R5 and rootOW completeunverified with twoOTHERauditsqueued/active.2020R4 fullauthorrepairactive before BOTHaffectedreaudits.2017valuecompressionresearchactive.2annualanswers2018/2023,7unresolved.39%TOTALweekly;raw12:52:11UTC816309618total/44480882uncached+output;awakeverified22:52:11Brisbane. Continue until90%TOTAL with reserve.",
+  "observed_at_utc": "2026-10-17T12:53:17.899650+00:00",
   "coordinator_compute": {
     "status": "all constructor children completed and reaped",
     "complex_complement_child_pid": 37199,
@@ -59,5 +59,6 @@
     "freeze_integrity_child_pid": 43579,
     "complex_family_count": 6224952,
     "new_complex_extension_audits": "both complete, accepted"
-  }
+  },
+  "latest_all_nine_report": "progress/status-2026-10-17-1252.md"
 }

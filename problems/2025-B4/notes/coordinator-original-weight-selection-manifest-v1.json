@@ -1,0 +1,69 @@
+{
+  "frozen_at_utc": "2026-10-17T12:35:36.551900+00:00",
+  "status": "complete scoped candidate proof - unverified",
+  "constructor": "coordinator root",
+  "constructed_after_root_FS_whole_initial_freeze": true,
+  "independent_other_whole_audits": 0,
+  "requires_two_other_initially_blind_whole_audits": true,
+  "claims": [
+    "OW1 two original-weight free orbits conditional on positive half-weight kernel element with nonzero inverse moment",
+    "OW2 same-weight sparse-defect doubling under explicit ratio-set inequality",
+    "OW3 iterated original-weight free-orbit separation under explicit current-support inequalities"
+  ],
+  "author_obligations": 18,
+  "universal_selection_hypothesis_proved": false,
+  "FS2_unverified_universal_selection_used_as_premise": false,
+  "new_Diophantine_exclusion_or_novelty": false,
+  "no_mathematical_program_CAS_or_scan": true,
+  "inputs": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2025-B4/statement.md",
+      "bytes": 2024,
+      "sha256": "af0075dd635e8e4d31bb3ae9148d1731a7fbb57c06cf104763332e1496673f59"
+    },
+    {
+      "path": "problems/2025-B4/proofs/reviewed-diagonal-moment-v1.1.md",
+      "bytes": 10168,
+      "sha256": "4e25e67e6459134cb5b6c618baef91c37f30bb1dae542d7426fb61450ce4a4f7"
+    },
+    {
+      "path": "problems/2025-B4/reviews/diagonal-moment-acceptance.json",
+      "bytes": 3000,
+      "sha256": "215a0fe8511769d62a3621c010e768f1a043b0bf82145e87dc637274e49b4722"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r4-candidate-v1.md",
+      "bytes": 17661,
+      "sha256": "29c98bf01d6336020a3720935fc571159db0bdd5159a75a75adf4a78ae038482"
+    }
+  ],
+  "artifacts": [
+    {
+      "path": "problems/2025-B4/notes/coordinator-original-weight-selection-candidate-v1.md",
+      "bytes": 6934,
+      "sha256": "ef41445567edb53e53980b9edfbba2739cb1879f048e19b9e64f48e2e684ad3e"
+    },
+    {
+      "path": "problems/2025-B4/notes/coordinator-original-weight-selection-obligations-v1.md",
+      "bytes": 2103,
+      "sha256": "c8be05a58067d4f6f80e8e8d39a82a5440e59e4cbff12288a565f7eaf7018566"
+    },
+    {
+      "path": "problems/2025-B4/notes/coordinator-original-weight-selection-source-record-v1.md",
+      "bytes": 2175,
+      "sha256": "6744ca0831d3d3b78d002dde3cdc5ca1690de18b2ff314d0a17daaad0d20f6a4"
+    }
+  ],
+  "weekly_meter": {
+    "total_used_percent": 38,
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "total_ceiling": 90,
+    "integration_reserve": true
+  }
+}

@@ -95,3 +95,8 @@ See [new frozen candidates and review queue](checkpoint-2026-10-17-1102.md).2017
 
 
 Update approximately12:32UTC:2020 R4 BOTH whole initials are now frozen. R2 found R4R2-01: the final moment is automatic, contrary to the draft auxiliary claim; root R1 missed it. Full E2 iff and earlier structural conclusions remain valid. Full versioned author repair and BOTH affected reaudits are queued before promotion. See [review reconciliation](2020-r4-review2-followup-2026-10-17-1232.md). Current workers:2017newvalue reasoning,2021R6,2022R5;2020repair follows B complete2022freeze.
+
+
+## Current checkpoint — 2026-10-17 12:52 UTC
+
+[All-nine status and usage](status-2026-10-17-1252.md). NEW2025FS1–FS3 accepted after40/50wholechecks/fullrootreconciliation; no new Diophantine exclusion. NEW2021R6 complete, rootwholeR1frozen, otherR2queued. NEW2022R5 complete frozenUNVERIFIED; root/Bcontributors excluded, A/Cwholeauditsqueued. NEWrootOW1–OW3 frozenUNVERIFIED, A/Cauditsqueued/active.2020R4 fullauthorrepairactive before bothaffectedreaudits.2017newvaluecompressionresearchactive. Twoannualanswers2018/2023; sevenunresolved.39%TOTALweekly,51ppbefore90%,samereset. Raw12:52:11UTC816,309,618total/44,480,882uncached+output. Ownedawakeverified22:52:11Brisbane. Research continues.

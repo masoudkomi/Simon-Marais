@@ -1,0 +1,78 @@
+{
+  "accepted_at_utc": "2026-10-17T12:52:02.982190+00:00",
+  "status": "proved, independently reviewed scoped partial result",
+  "claims": [
+    "FS1 exact Fueter stabilizers p>=5",
+    "FS2 attributed alternative one-element selection p>7",
+    "FS3 k+1 disjoint higher-weight free Fourier orbits every integer k>=2"
+  ],
+  "constructor": "review_2017_coarsening_r1",
+  "whole_fresh_nonconstructor_reviewers": [
+    "coordinator root",
+    "review_2021_reasoning_j15_r2"
+  ],
+  "whole_initials_blind": true,
+  "root_read_full_candidate_both_reports_all_ledgers_and_sources": true,
+  "inference_checks": [
+    40,
+    50
+  ],
+  "author_obligations": 40,
+  "substantive_issues": [],
+  "repair_required": false,
+  "root_old_MS_authorship_disclosed": true,
+  "reviewer2_old_roles_disclosed": true,
+  "candidate": {
+    "path": "problems/2025-B4/notes/reasoning-return-r4-candidate-v1.md",
+    "bytes": 17661,
+    "sha256": "29c98bf01d6336020a3720935fc571159db0bdd5159a75a75adf4a78ae038482"
+  },
+  "accepted_copy": {
+    "path": "problems/2025-B4/proofs/reviewed-Fueter-selection-return-v1.1.md",
+    "bytes": 20505,
+    "sha256": "230dfe9da040e98506bc6fabd5c37c356fb756d5128f990eb9a4fe2ee7e3181a"
+  },
+  "metadata_inputs": [
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r4-freeze-v1.json",
+      "bytes": 3437,
+      "sha256": "1a2bb1af9a01a677dc68c8456067021f6cb9dd52113a2a50f5c09212e635b15b"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r4-input-validation-v1.json",
+      "bytes": 51813,
+      "sha256": "4b2b45712fba1ebfcb9f8350b56c19fb6b6ccefe870ac430f65b771617cb787b"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r4-sources-v1.json",
+      "bytes": 6501,
+      "sha256": "464f36186cb8c783802194cacabad2c5d972c8b74b145a13e3816054c48d42a5"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r4-review-1-manifest-v1.json",
+      "bytes": 2429,
+      "sha256": "c2cf7c73d82619255ad79f8d50088b0c58ba3d0a65a5c2c74fe4d892e60ab258"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r4-review-1-input-validation-v1.json",
+      "bytes": 93909,
+      "sha256": "b42375c71b5f16ee595d4ee4978447b86f5adadf936361884907f7c1e92f85c0"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r4-review-2-manifest-v1.json",
+      "bytes": 3088,
+      "sha256": "ee9e59780ebd28d429fbf0f2aa39a4920a9b770ce672af76c2a55e080a843ccb"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r4-review-2-input-validation-v1.json",
+      "bytes": 148410,
+      "sha256": "1ef0117cda43aa4868228e246071055660771ca11e0cfc16a79bc5d6afa857e6"
+    }
+  ],
+  "record_occurrences_verified": 1217,
+  "unique_paths_verified": 585,
+  "universal_two_original_weight_orbits": false,
+  "new_Diophantine_exclusion": false,
+  "full_annual_answer": false,
+  "novelty_established": false
+}

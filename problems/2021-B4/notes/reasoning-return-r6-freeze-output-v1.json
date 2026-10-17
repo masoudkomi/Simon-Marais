@@ -1,0 +1,32 @@
+{
+  "checked_at_utc": "2026-10-17T12:38:43.360502+00:00",
+  "administrative_only_no_mathematical_program": true,
+  "accepted_and_old_record_occurrences": 2161,
+  "accepted_and_old_unique_paths": 727,
+  "older_own_packet_count": 42,
+  "all_declared_hash_checks_passed": true,
+  "old_R5_and_PN_complete_accepted_suffixes_match": true,
+  "candidate": {
+    "path": "problems/2021-B4/notes/reasoning-return-r6-candidate-v1.md",
+    "bytes": 17290,
+    "sha256": "ad49ac369ce903131ad496b0e0f70fe2b966dca7507490860449bdde36eb7594"
+  },
+  "proof_obligations": 36,
+  "new_claims": [
+    "R6A",
+    "R6B",
+    "R6C"
+  ],
+  "candidate_status": "candidate proof - unverified; two other whole reviews needed",
+  "command": "python3 problems/2021-B4/notes/reasoning-return-r6-freeze-v1.py",
+  "latest_authoritative_weekly_usage": {
+    "at_utc": "2026-10-17 12:37:37 UTC (paired clock/telemetry check)",
+    "total_used_percent": 38,
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "total_ceiling_percent": 90,
+    "integration_reserve": true,
+    "separate_billed_API": false
+  },
+  "math_code_CAS_scan_author_rerun_shared_edits_or_git": false
+}

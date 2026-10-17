@@ -1,0 +1,229 @@
+{
+  "frozen_at_utc": "2026-10-17T12:48:55.585351+00:00",
+  "reviewer": "coordinator root",
+  "new_R6_constructor": false,
+  "old_R5_strategy_role_disclosed": true,
+  "peer_new_R6_conclusions_read": false,
+  "whole_audit": true,
+  "all_author_obligations": 36,
+  "issues": [],
+  "required_repairs": [],
+  "inference_ledger": [
+    {
+      "id": "R6-01",
+      "label": "Official domain",
+      "reconstruction": "Official B4(b) requires rational coefficients and an actual rational common root for every derivative. This does not require all roots rational. No preliminary proof is supplied.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "R6-02",
+      "label": "Exact branch",
+      "reconstruction": "Every new statement retains normalized degree20,J15, multiplicity2 at0, soleH3 low-center setting and the FULL rational-witness hypothesis; it is not an arbitrary normalized polynomial theorem.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "R6-03",
+      "label": "Three small slots",
+      "reconstruction": "Accepted D1/D3 supplies the same simple rational r forH2/H4, all three valuations nu, and the two remaining residues2R. Equal residues alone do not give actual coincidence.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "R6-04",
+      "label": "Actual double root",
+      "reconstruction": "Actual coincidence is explicitly additional. If the resulting double s were irrational, the14 fractional slots are also irrational and only0,1,r could be rational witnesses, violating acceptedT1. This forces s rational without a local-to-rational shortcut.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "R6-05",
+      "label": "Rational factorization",
+      "reconstruction": "The actual rational factors have totaldegree6, leaving rational monic degree14 g, equal to the local Eisenstein factor. The exact rational root set is0,1,r,s, with s distinct fromr and0 by its residue and valuation.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "R6-06",
+      "label": "Global carrier",
+      "reconstruction": "AcceptedG1/R5C concerns the entire rational irreducible carrier and EVERY derivative, not just fractional local slots. With all small slots rational, it removes all other possible algebraic common roots.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "R6-07",
+      "label": "Normalization",
+      "reconstruction": "The displayed binomial identity is exact overQ. For2<=j<=18, binom20j has19-valuation1. D_j has integral coefficients before any reduction; beta ratios are taken before reducing.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "R6-08",
+      "label": "Even Taylor series",
+      "reconstruction": "The reflection cancels odd powers, f(r)0 removes its constant and L_m removes earlier even coefficients. Its remaining leading term isT20 and every other even coefficient is19-divisible. A_m hasdegree10-m.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "R6-09",
+      "label": "B valuation",
+      "reconstruction": "The constant ofB hasvaluation1; at2r all degree1..13 terms havevaluation>=1+nu and degree14/15 terms exceed1. Thus B(2r) hasvaluation1. Every term of Bprime(2r) hasvaluation>=1, so the logarithmic quotient is integral.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "R6-10",
+      "label": "Legitimate logarithm",
+      "reconstruction": "U(2r)=4r\u00b3B(2r) is nonzero withvaluation3nu+1. Differentiating X\u00b2(X-r) at2r gives logarithmic contribution1/r+1/r, so eta=2/r+Bprime/B exactly.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "R6-11",
+      "label": "Reflection identity",
+      "reconstruction": "Since f(0)=fprime(0)=0, E(r)=f(2r)/2 and Eprime(r)=fprime(2r)/2. Substituting2r-s=-delta and subtracting(2m/r)E gives the displayed negative delta bracket and factor2r^(2m+1), with no sign loss.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "R6-12",
+      "label": "Unit bracket",
+      "reconstruction": "For finiteDelta>nu, delta*m/r and delta*eta/2 have positive valuation. The bracket is a unit. A_mprime(r\u00b2) has19-divisible nonleading terms and its leading term contains r\u00b2 because degree>=2 for m<=8.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "R6-13",
+      "label": "Finite and exact delta",
+      "reconstruction": "Equality of valuations in the nonzero Euler identity givesDelta=(2m-2)nu-1+vAprime. Substitution inE givesvA>= (2m-1)nu+1. Exactdelta0 instead givesA(r\u00b2)0; it is never divided out.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "R6-14",
+      "label": "General lower bound",
+      "reconstruction": "Every subsequent nonleading term of A(r\u00b2) hasvaluation>=2nu+1, and its leading term hasvaluation>=4nu>=2nu+1 even atnu1. Subtraction givesvh_e>=2nu+1, hencevD>=2nu and vaj>=nu.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "R6-15",
+      "label": "Exact quadratic cancellation",
+      "reconstruction": "Unit u makes h_(e+2)/19 reduce to beta_(j-2)u. All later terms havevaluation strictly greater than2nu+1 for m3..7, including the top term jnu>=6nu. A itself has greater valuation or iszero. Therefore the first two even terms must cancel and vh_e=2nu+1 exactly.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "R6-16",
+      "label": "Ratio c",
+      "reconstruction": "Dividing that exact cancellation by19 beta_j u r\u00b2 givesD_j(r)/(u r\u00b2)=-beta_(j-2)/beta_j. The binomial ratio isj(j-1)/((e+1)(e+2)); all factors are19-units for the asserted range.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "R6-17",
+      "label": "Actual witness choices",
+      "reconstruction": "H_e(r) is nonzero. After removing the carrier, an actual rational noncenter witness can therefore only be0 or s. The residue2 makes v(r-s)=nu; w0 has the same distance.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "R6-18",
+      "label": "Difference quotient",
+      "reconstruction": "D_j(w)0 andvD_j(r)=2nu give exact quotient valuationnu. Its quadratic part hasvaluation>=nu and its higher parts>=2nu. If v(a_(j-1))<nu, its unit-j linear term would be the unique minimum, contradiction.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "R6-19",
+      "label": "Scaled integrality",
+      "reconstruction": "Using w0 orvs=nu in its root equation givesv(a_j)>=2nu; w0 in fact givesa_j0. Consequently both scaled coefficientsC andellbar are integral; all higher terms ofD_j(rz)/(ur\u00b2) vanish modulo19.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "R6-20",
+      "label": "Quadratic signs",
+      "reconstruction": "Q1=-c, while Q0=0 orQ2=0. Solving givesjell=-b-c in the first case andjell=c-3b in the second. Only s/r residue2 is used; exact reflection s=2r is not assumed.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "R6-21",
+      "label": "Adjacent reduction",
+      "reconstruction": "D_(j-1)(zeta)/(ur) reduces toellbar+(j-1)y for each actual noncenter zeta0,r,s. Its quadratic and higher terms contain a further r-power and havepositive valuation.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "R6-22",
+      "label": "Forced odd residues",
+      "reconstruction": "Substitution givesy=1/2+1/d or3/2-1/d=2-rho. The allowed set0,1,2 is invariant under2-y, so both cases have the same obstruction.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "R6-23",
+      "label": "Exceptional products",
+      "reconstruction": "Solvingrho0,1,2 gives d=-2,2,2/3 respectively. InF19 these are17,2,7, all distinct. No integer equality or missing denominator is used.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "R6-24",
+      "label": "Complete hand certificate",
+      "reconstruction": "The five products56,90,132,182,240 reduce to18,14,18,11,12. None is17,2,7. This covers every m3..7 exactly, with no numerical extrapolation or search.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "R6-25",
+      "label": "Odd essential center",
+      "reconstruction": "The residue obstruction rules out all rational noncenter odd witnesses. The official condition then supplies1. The forced formal y is nonzero in both cases, soellbar is nonzero andv(a_(j-1))=nu exactly.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "R6-26",
+      "label": "Even essential center",
+      "reconstruction": "If there is no even noncenter witness, the official condition supplies1; vaj>=nu. A zero constant would itself give the noncenter witness0, contradiction, so this valuation is finite.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "R6-27",
+      "label": "Full gcd",
+      "reconstruction": "The global carrier has no derivative root and all remaining rootvalues are rational. Sole rational value1 therefore means sole algebraic value1. Its multiplicity inf is1, making the monic gcd preciselyX-1.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "R6-28",
+      "label": "Nontrivial conclusion",
+      "reconstruction": "The unit u automatically forcescenter at order e+2 because allnoncenter roots are small. R6A instead forces an earlier order e or e+1 with NONUNIT, nonzero constant. The two order conclusions are distinguished accurately.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "R6-29",
+      "label": "First break",
+      "reconstruction": "AcceptedR5D excludes exactly the five-even ladder in this full actual-double setting. Together withH2/H4 at r, this supplies a least m0 in3..7 and every preceding even vanishing required byL_m0.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "R6-30",
+      "label": "TA1 use",
+      "reconstruction": "At the break, if the even order has an actual noncenter witness and a_(j-1) wereunit, acceptedTA1 would force its actual witnessr and H_e(r)0. This contradicts the definition of the break even when the center is also available.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "R6-31",
+      "label": "Fork",
+      "reconstruction": "Without a noncenter witness the even center haspositive finite constant valuation. With one, a_(j-1) is nonunit; either a_(j-2) also is, orR6A forces the adjacent odd essential center with exactvaluationnu. Neither side is asserted impossible or disjoint.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "R6-32",
+      "label": "Five pairs",
+      "reconstruction": "m0=3,4,5,6,7 gives j=14,12,10,8,6 and pairs(13,12),(11,10),(9,8),(7,6),(5,4) exactly. PairedOR rules out bothnonunit at this selected break, not at every coefficient simultaneously.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "R6-33",
+      "label": "R6C scope",
+      "reconstruction": "The selected order is e or e+1, hence6..15; its constant hasfinitevaluation>=nu>=1. This is stronger than mere existence of a unit-detected center, but no universal pairedOR condition is derived.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "R6-34",
+      "label": "Comparison to R5E",
+      "reconstruction": "Allfive oddunits imply pairedOR. Under that stronger assumption acceptedR5E still forces an EVEN essentialcenter. The new weaker paired hypothesis permits an odd conclusion and does not purport to strengthen every part ofR5E.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "R6-35",
+      "label": "Endpoint boundary",
+      "reconstruction": "Atm8,j4,d17*18=2mod19 givesb=c6. Q6z(z-2) hasQ1=-6;ell-3 gives jell=-12=-b-c andadjacent3(y-1). Thus the residue obstruction really fails locally; no lift/full-witness polynomial is claimed and acceptedR5D separately excludes the complete preceding ladder.",
+      "verdict": "pass in exact scope"
+    },
+    {
+      "id": "R6-36",
+      "label": "Provenance and limits",
+      "reconstruction": "Exact source scopes and older constructor/reviewer roles are disclosed. No allrootsrational CLO theorem, local-to-global lift, residual Casas-Alvero inference, maximum witnessdepth bound, universal preprint, full branch exclusion or novelty claim is needed. All mathematics was hand reconstructed; metadata checks are integrity only.",
+      "verdict": "pass in exact scope"
+    }
+  ]
+}
