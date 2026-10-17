@@ -1,0 +1,54 @@
+{
+  "status": "initial blind whole RP1-RP3 audit complete; no substantive objection; no reviewer promotion",
+  "frozen_at_utc": "2026-10-17T01:02:43.417575+00:00",
+  "reviewer": "review_2021_reasoning_j15_r2",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "candidate_sha256": "0b9b6fea18437bff50edd5217531b3beb6ffc7e46a90e88899ad6e03a2ab8c91",
+  "nonconstructor": true,
+  "whole_reconstruction": true,
+  "no_peer_remainder_findings_read_before_freeze": true,
+  "substantive_objections": 0,
+  "repair_requested": false,
+  "candidate_and_all_older_own_records_unchanged": true,
+  "mathematical_enumeration_or_CAS": false,
+  "no_all_multiples_entropy_H_EAI_PR_or_full_solution_acceptance": true,
+  "latest_weekly_total_used_percent": 21,
+  "weekly_reset_unix": 1792745187,
+  "command": ".venv/bin/python problems/2017-B4/reviews/remainder-padding-review-1-freeze-v1.py",
+  "records": [
+    {
+      "path": "problems/2017-B4/reviews/remainder-padding-review-1-initial-v1.md",
+      "bytes": 13424,
+      "sha256": "c831bde30c8879fdea87475951308b78235ed4f106f6256990fe0b26d54579da"
+    },
+    {
+      "path": "problems/2017-B4/reviews/remainder-padding-review-1-issues-v1.json",
+      "bytes": 1812,
+      "sha256": "65e59f58b577f88a8f520e3fe5688ec5691fbd73c182e962b3f64d33b7348b02"
+    },
+    {
+      "path": "problems/2017-B4/reviews/remainder-padding-review-1-sources-v1.json",
+      "bytes": 2469,
+      "sha256": "ccc421f0578c6a930405871472e89eb02852e289936a1dcc7f7f9280dfca1a74"
+    },
+    {
+      "path": "problems/2017-B4/reviews/remainder-padding-review-1-freeze-v1.py",
+      "bytes": 5147,
+      "sha256": "5fab99dc508794ea746c7dcab0724313b724b76c29e83d61b29e954b9318783a"
+    },
+    {
+      "path": "problems/2017-B4/reviews/remainder-padding-review-1-input-validation-v1.json",
+      "bytes": 20860,
+      "sha256": "03b7a20d2ee7385868a1fe05a24b7b1ed6931162b66d203bf70fbe1cdc38e323"
+    },
+    {
+      "path": "problems/2017-B4/reviews/remainder-padding-review-1-freeze-output-v1.json",
+      "bytes": 379,
+      "sha256": "d62fdf2463b40dda023b4578eb01b93f2c34aa7e76325b175a2789a68b7153ab"
+    }
+  ]
+}

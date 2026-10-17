@@ -1,0 +1,49 @@
+{
+  "frozen_at_utc": "2026-10-17T01:59:42.195163+00:00",
+  "status": "candidate proof - unverified",
+  "constructor": "review_2021_reasoning_j15_r2",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "claims": [
+    "PB1"
+  ],
+  "two_fresh_independent_nonconstructor_audits_required": true,
+  "earlier_unreviewed_candidates_are_accepted_dependencies": false,
+  "no_original_degree20_model_rational_lift_or_counterexample": true,
+  "mathematical_program_support_enumeration_CAS_or_digit_tree": false,
+  "all_sixteen_older_own_packets_match": true,
+  "latest_weekly_total_used_percent": 23,
+  "weekly_reset_unix": 1792745187,
+  "total_used_ceiling_percent": 90,
+  "command": ".venv/bin/python problems/2021-B4/notes/reasoning-return-r3-parity-barrier-freeze-v1.py",
+  "records": [
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r3-parity-barrier-candidate-v1.md",
+      "bytes": 4373,
+      "sha256": "284e7ddc5a3d26111d2af4bd169b7fc6d2739a169a70ae3d38ff68d3ac03ada5"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r3-parity-barrier-sources-log-v1.md",
+      "bytes": 3384,
+      "sha256": "25e63fdb543dc6308a14ddbcea54edf7215fc877085b659e4fe49172320b1eb5"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r3-parity-barrier-freeze-v1.py",
+      "bytes": 4060,
+      "sha256": "67c3ba26890da6960297db9f5e3f9b760c5ea23f62f8cd46a16aaa156be17858"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r3-parity-barrier-input-validation-v1.json",
+      "bytes": 30212,
+      "sha256": "efa35228ac9ebd8aebef70a51cf1cc56bc5c8d28ebdbf176d6974960c638696d"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r3-parity-barrier-freeze-output-v1.json",
+      "bytes": 451,
+      "sha256": "6e1c7f6f81364dfb88f4663718ab0b29eec80bef8c13d70c3cdcff9c99dd1b60"
+    }
+  ]
+}

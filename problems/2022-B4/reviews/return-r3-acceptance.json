@@ -1,0 +1,41 @@
+{
+  "accepted_at_utc": "2026-10-17T05:56:50.601827+00:00",
+  "status": "proved, independently reviewed partial results only",
+  "claims": [
+    "R0",
+    "R1",
+    "R2",
+    "R3",
+    "S1",
+    "S2"
+  ],
+  "complete_solution": false,
+  "novelty_claimed": false,
+  "auditors": [
+    "review_2021_reasoning_j15_r2 fresh nonconstructor whole initially blind",
+    "coordinator root fresh nonconstructor whole initially blind"
+  ],
+  "root_full_reports_issues_sources_read": true,
+  "substantive_objections": [],
+  "repair_required": false,
+  "nonblocking_clarifications": [
+    "R1 positive ordinary lifts only, zero excluded",
+    "AFS terminal acceptance and output0..10 retained"
+  ],
+  "proof": {
+    "path": "problems/2022-B4/proofs/reviewed-return-r3-v1.1.md",
+    "bytes": 26823,
+    "sha256": "c4b734830e9706fa5553e21fcadfa2b15c912b909ec15511066ccd5e8672c6be"
+  },
+  "verified_records": 431,
+  "audits": [
+    "problems/2022-B4/reviews/return-r3-review-1-manifest-v1.json",
+    "problems/2022-B4/reviews/return-r3-review-2-manifest.json"
+  ],
+  "excluded": [
+    "universal equality",
+    "termination of stopped121/100 case",
+    "ordinary integer infinite avoiding counterexample",
+    "unrestricted normalization impossibility"
+  ]
+}

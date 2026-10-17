@@ -1,0 +1,60 @@
+{
+  "constructor": "review_2021_reasoning_j15_r2",
+  "verification_date_utc": "2026-10-17",
+  "status": "candidate proof - unverified",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "proposed_claim": "M1 exact mirrored repeated-root subfamily exclusion",
+  "inputs": [
+    {
+      "path": "AGENTS.md",
+      "scope": "current protocol"
+    },
+    {
+      "path": "problems/2021-B4/statement.md",
+      "scope": "rational common-root part(b)"
+    },
+    {
+      "path": "problems/2021-B4/proofs/reviewed-reasoning-J15-v1.1.md",
+      "sha256": "fbc5d212b5b560c8e4e42397d19663f3fc882fa8f206bdcbb4ed897c715627f6",
+      "scope": "accepted D1 local fourteen fractional roots and Q19 small slots; D3 rational r, equal positive integer valuation and sole-H3 pattern; exact old low-family statement"
+    },
+    {
+      "path": "problems/2021-B4/notes/rational-witness-p-plus-one-reviewed-v1.2.md",
+      "scope": "accepted rational affine and binomial-normalized derivative convention"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-J15-acceptance.json",
+      "scope": "accepted partial scope and no complete J15 exclusion"
+    }
+  ],
+  "earlier_candidate_not_used_as_proof_dependency": "problems/2021-B4/notes/reasoning-return-r3-candidate-v1.md",
+  "proof_method": "Exact even-part reflection, normalized D2-D4 equations, one unit/nonunit split, six symbolic actual-witness cases and two exact rational comparisons.",
+  "new_external_theorem_source_or_download": false,
+  "field_boundary": "Only0,1,r,2r are rational roots under the exact hypothesis. Fractional local roots cannot be rational witnesses. General repeated residue2R is not actual equality2r.",
+  "computation": {
+    "mathematical_program_search_enumeration_or_CAS": false,
+    "hand_six_case_proof_critical_certificate": true,
+    "metadata_only_hashing": true
+  },
+  "correction_record": "Unfrozen D4 linear coefficient sign corrected to +4a3 X before creating/finalizing this supplement; both surviving branches retained in proof and log; earlier frozen packet unaffected.",
+  "independence": {
+    "constructor_cannot_count_as_reviewer": true,
+    "requires_two_fresh_independent_nonconstructors": true
+  },
+  "ownership": {
+    "only_assigned_prefix_written": true,
+    "prior_bytes_preserved": true,
+    "shared_Git_spawning_charges_contact_or_bypass": false
+  },
+  "weekly_telemetry": {
+    "authority": "mcp__codex_app__get_usage_limits",
+    "used_percent": 23,
+    "window_minutes": 10080,
+    "resets_at": 1792745187,
+    "total_used_ceiling_percent": 90
+  }
+}

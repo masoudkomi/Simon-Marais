@@ -1,0 +1,62 @@
+{
+  "date_utc": "2026-10-17",
+  "status": "candidate proof - unverified; author source check, not independent review",
+  "constructor": "review_2017_coarsening_r1",
+  "requested_settings": {"model": "gpt-6.1-sol", "reasoning": "max"},
+  "verified_effective_settings": null,
+  "scope": "2017 B4 only; local rank-mesh/clean D4 recovery, no H or full official limit conclusion",
+  "primary_sources": [
+    {
+      "authors": "Henry Cohn, Richard Kenyon, James Propp",
+      "title": "A variational principle for domino tilings",
+      "url": "https://arxiv.org/pdf/math/0008220v3",
+      "version_date": "2001-09-05",
+      "published": "Journal of the American Mathematical Society 14 (2001), 297-346",
+      "doi": "10.1090/S0894-0347-00-00355-6",
+      "pages": 49,
+      "retrieved_bytes": 540698,
+      "sha256": "be2e7c17c1d9762bd454847658db9efcfe27724272debc1d8fe6a8d9483bb48f",
+      "read_scope": [
+        "Section 1.6 complete approximation and boundary-height definitions, printed pages 11-13",
+        "Section 2 relevant concavity/compactness and height-extension arguments; Proposition 3.2 complete proof",
+        "Section 4 complete applicable statements and proofs, Theorems 4.1 and 4.3 and Corollary 4.2",
+        "Printed page 13 explicit extension of all results to unit lozenges"
+      ],
+      "source_claim_scope": "Fixed piecewise smooth simple limiting boundary without cusps; simply connected inner approximations in lifted boundary metric; prescribed height neighborhoods. The source is not asserted to directly cover a varying family of ragged disks.",
+      "adaptation": "LC3 proposes a quantitative fixed-triangle corollary and finite compact covers; UR3-GE proposes a uniform finite-to-dilation entropy comparison for globally extendable disks. Both adaptations require fresh audits.",
+      "critical_hypotheses": [
+        "The refined from-within metric concerns restrictions of every admissible limiting height; convex triangular Lipschitz bounds must verify it.",
+        "Theorem 4.3 fixed-tolerance sufficiently-large-scale estimates must be uniform over all approximating inner Q used by LC3.",
+        "Local entropy normalization is consistently log2 per physical area; no numerical entropy value is imported.",
+        "Frozen slopes use compactness and entropy continuity, without division by a minor."
+      ],
+      "failure_disposition": "If the proposed quantitative extraction LC3 fails, UR3-GE remains explicitly conditional on LC3; no replacement by a free-boundary or periodic entropy theorem is authorized by this packet.",
+      "hash_command": "curl -L --fail --silent --show-error --max-time 20 https://arxiv.org/pdf/math/0008220v3 | /Users/uqmkamga/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 -c 'import sys,hashlib,json; data=sys.stdin.buffer.read(); assert data.startswith(b\"%PDF\"), \"not PDF\"; print(json.dumps({\"bytes\":len(data),\"sha256\":hashlib.sha256(data).hexdigest()}))'",
+      "hash_attempts": [
+        {"sandbox": "default", "outcome": "curl exit 6 DNS resolution failed; Python PDF assertion failed; no empty hash accepted"},
+        {"sandbox": "require_escalated", "authorization": "User authorized needed public mathematical sources; tool escalation followed developer network-failure instruction", "outcome": "same exact command succeeded, 540698 bytes, asserted PDF magic, recorded SHA256", "functions_cell": "105", "reaped": true}
+      ],
+      "full_paper_file_saved": false,
+      "charges_or_access_bypass": false
+    }
+  ],
+  "local_unverified_leads": [
+    {"path": "problems/2017-B4/notes/coordinator-rank-mesh-strata-program-v1.md", "sha256": "da3c28d039cec64ef5936b2b4dc4f816b3ceac8996f614d672ced9b360da1820", "use": "Construction program only"},
+    {"path": "problems/2017-B4/notes/coordinator-stratum-clean-lens-candidate-v1.md", "sha256": "aa4c79b1fb3136ecd3e7c5ab845733697cca925ba8203b2988fba5c9a793bd95", "use": "OB1 warning motivates retaining defects; FL1 rare-tile bound not accepted or reproved here"}
+  ],
+  "not_imported_as_premises": ["annulus", "directed geodesics", "CUT", "strict transfer", "remainder padding"],
+  "mathematical_computation_enumeration_or_CAS": false,
+  "administrative_computation": "Hash/JSON serialization and old-frozen-byte verification only",
+  "prior_frozen_packets": "Independent divisor review1, annulus v1.1, and all earlier own frozen packets are verified without modification in input-validation-v1.json",
+  "required_reviews": "Two fresh independent nonconstructor adversarial whole audits, completed blind to each other's conclusions",
+  "telemetry": {
+    "initial_direct_read": {"at_utc": "2026-10-17 01:12:01 UTC", "weekly_total_used_percent": 22},
+    "later_coordinator_report": {"label_as_supplied": "05:47 UTC", "weekly_total_used_percent": 23},
+    "final_direct_read": {"at_utc": "2026-10-17 05:51:41 UTC", "weekly_total_used_percent": 24},
+    "window_duration_minutes": 10080,
+    "reset_unix": 1792745187,
+    "total_used_ceiling_percent": 90,
+    "reserve_for_review_and_integration": true
+  },
+  "no_git_shared_state_spawning_or_contacts": true
+}

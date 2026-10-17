@@ -1,0 +1,6 @@
+checkpoint 1: all 48 columns rebuilt from the six actual K shifts
+checkpoint 2: all 15 distinct full subspaces and initial numerator checked
+checkpoint 3: all 30 transitions equal the full declared target subspaces
+checkpoint 4: all outputs and quotient edges check; language is 0010*
+checkpoint 5: independent columns/vector sets agree with frozen constructor output
+{"status": "passed", "columns": 48, "states": 15, "edges": 30}

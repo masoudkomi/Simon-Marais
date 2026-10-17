@@ -65,3 +65,12 @@ Finite exact checks by an author or coordinator do not count as the two independ
 | 2024 low factors and ordinary-point descent | structural-reasoning-r2-candidate-v1.md SHA0c451d5f9410573625725bc6be35af91fe938deee4dc1d92910572374dc69f52 | T1-T4 partial structural restrictions, exact hypotheses; no exponent classification | Fresh R1 whole blind audit complete | Fresh R2 whole blind audit complete | Proved, independently reviewed; structural-acceptance.md/json; editorial heading correction only |
 
 | 2017 directed geodesics and affine side paths | coordinator-directed-geodesics-freeze-v1.json SHA0fe9e72b07d12d7a5e417e14a56fec06191ea7f76a9f8787ea533cdd9824bcb6 is candidate hash | DG1/DG2 disk adaptation of source arc lemma and strictly positive affine side localization; no closed annulus | Pending fresh nonconstructor | Pending second fresh nonconstructor | Candidate proof - unverified |
+
+## 2026-10-17 return checkpoint
+
+-2022returnR0-R3/S1-S2: BOTH fresh whole nonconstructor audits complete, rootreadFULLreports/issues/sources,431recordsverified; scoped acceptedcopy proofreviewed-return-r3-v1.1. No universal equality/termination conclusion.
+-2024C7/C11: scopedrootaccepted after both wholeaudits/fullreads/88records; nextpushincludesacceptedproof.
+-2021returnsevenpackets: rootwholeaudit2initiallyblindfrozen; freshpeerwholeaudit1pending. No promotion.
+-2019moment-tailM1-M3: frozenrootcandidateSHA29b02df71668db17b7111319d40ccdcdf798bed19dad4a8b76c7bcedaa332ef2; twofreshwholeauditsactive/queued under moment-tail-review-1/2 prefixes. No promotion.
+-2017annulusv1.1bothtargetedreportsdone; CUT/clean/RPbothwholeinitialsdone. RootFULLreading/reconciliationstillrequired.
+-2017stricttransferfrozenunverified; rankmesh+UR3-GEfrozenunverifiedwithcriticalLC3CKPquantifierinterface. Eachrequires two freshnonconstructorwholeaudits.

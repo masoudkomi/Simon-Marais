@@ -1,0 +1,22 @@
+{
+  "read_at_utc": "2026-10-17T05:51:34.386162+00:00",
+  "sources": [
+    {
+      "url": "https://perso.telecom-paristech.fr/jsaka/PUB/Files/RBNS-rev.pdf",
+      "scope": "Full Proposition13 proof and digit conversion definitions; Proposition37/Corollary38 proof and surrounding boundary. Finite right reading with terminal output; canonical alphabet0..p-1; expansion uniqueness restriction p>=2q-1 fails at11/10. No result used to assert forward bounded ceiling normalization."
+    },
+    {
+      "url": "https://www.researchgate.net/publication/220576840_Lower_bounds_for_Z-numbers",
+      "scope": "Actual author-paper body Section1 approximate multiplication question and complete Proposition3.2 proof. Coprime p>q>=2, proper nonempty S, singleton theorem only. Publisher URL unavailable; no access restrictions bypassed. No two-residue termination theorem imported."
+    },
+    {
+      "url": "https://arxiv.org/html/2510.11723v2",
+      "scope": "Introduction normality/equidistribution conjectures and Section3.3 Question3.12/Proposition3.13 proof/Remark3.14. Proper-S convention comes from original DM. All universal residue claims remain conjectural in this source."
+    }
+  ],
+  "accepted_repository_inputs": [
+    "proofs/reviewed-partials-v1.md P1 full quotient and finite lifting; strip invariance attributed",
+    "proofs/reviewed-arithmetic-complexity-v1.1.md full rational denominator and Dubickas adaptation; not imported as scalar theorem"
+  ],
+  "computation": "none; complete hand reconstruction"
+}

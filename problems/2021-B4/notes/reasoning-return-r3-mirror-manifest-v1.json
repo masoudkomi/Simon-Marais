@@ -1,0 +1,53 @@
+{
+  "frozen_at_utc": "2026-10-17T01:28:16.447755+00:00",
+  "status": "candidate proof - unverified",
+  "constructor": "review_2021_reasoning_j15_r2",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "claims": [
+    "M1 exact double2r plus H_even2..14 at r cannot satisfy full rational witnesses"
+  ],
+  "two_fresh_independent_nonconstructor_whole_audits_required": true,
+  "no_complete_mask_degree20_annual_solution_or_novelty": true,
+  "mathematical_program_enumeration_or_CAS": false,
+  "accepted_inputs_and_twelve_older_own_packets_match": true,
+  "latest_weekly_total_used_percent": 23,
+  "weekly_reset_unix": 1792745187,
+  "total_used_ceiling_percent": 90,
+  "command": ".venv/bin/python problems/2021-B4/notes/reasoning-return-r3-mirror-freeze-v1.py",
+  "records": [
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r3-mirror-candidate-v1.md",
+      "bytes": 7446,
+      "sha256": "20a72646d0e1bcfcf2ef3ca907d1363c6576a96df42dc2cb6909e11976e2945c"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r3-mirror-researchlog-v1.md",
+      "bytes": 4146,
+      "sha256": "eeda81dfcc7fbba627734743e25ee96acf219501d6ce24db977ea39322bcebda"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r3-mirror-sources-v1.json",
+      "bytes": 2626,
+      "sha256": "b5e3548eba7c205e93ded701e2dd37f95382ba70a62947fbc8f91dc69783dd99"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r3-mirror-freeze-v1.py",
+      "bytes": 4457,
+      "sha256": "93c68d82b5a6de1c449c3cce6f7cfb5062d80a7e71098a3b20ad7bd793b89d4d"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r3-mirror-input-validation-v1.json",
+      "bytes": 23894,
+      "sha256": "175533684171d6a2e85733697f413a03dc19fbd5a87148d0cbb628e1c22f6956"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r3-mirror-freeze-output-v1.json",
+      "bytes": 453,
+      "sha256": "e939689bd3b45c5939065ca608925decf1a486ae042b920577df8e2f45fdf9cb"
+    }
+  ]
+}

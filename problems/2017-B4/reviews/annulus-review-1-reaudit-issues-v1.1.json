@@ -1,0 +1,44 @@
+{
+  "reviewer": "review_2021_reasoning_j15_r2",
+  "type": "targeted nonconstructor re-audit of full annulus author repair v1.1",
+  "requested_settings": {"model": "gpt-6.1-sol", "reasoning": "max"},
+  "verified_effective_settings": null,
+  "both_original_whole_reports_and_ledgers_read_after_initial_freezes": true,
+  "peer_targeted_reaudit_findings_read": false,
+  "new_substantive_objections": 0,
+  "items": [
+    {
+      "id": "AR1-01",
+      "original_classification": "substantive standalone A2 rank-domain omission",
+      "targeted_disposition": "recommend resolution for full v1.1; coordinator decides after both targeted re-audits",
+      "checks": [
+        "A1 explicitly defines I only on the available integer rank box",
+        "A2 requires 0<=a_i<=b_i<=N_i for every color, including absent inner colors",
+        "All boundary vertex heights are between a and b, so I(a), I(b) and intermediate prefixes have their actual coordinate counts",
+        "Entry/exit restrictions reach exactly the assigned physical and lifted endpoints",
+        "Translated frame uses one fixed z0, relative ideal tests and c'=c-(I-JV)z0 with unchanged errors",
+        "A3 derives rank range from winding in all six coordinate rectangles before invoking A1 ideality",
+        "Fixed-core injection and varying-boundary code fibers retain their complete hypotheses",
+        "Original exact absent-color diagnostic is retained, attributed and correctly excluded by the repair"
+      ]
+    },
+    {
+      "id": "ANN2-N1",
+      "original_classification": "nonblocking strict-nesting proof detail",
+      "targeted_disposition": "explicit v1.1 clarification reconstructed; recommend resolution",
+      "check": "Integral unit-horizontal edges have synchronized affine gaps on each [k,k+1]. Positive endpoint gaps exclude all nonvertex contacts, giving strict nesting. No equality between vertex distance t and whole-boundary minimum is inferred."
+    },
+    {
+      "id": "ANN2-N2",
+      "original_classification": "nonblocking conditional-transfer scope clarification",
+      "targeted_disposition": "full v1.1 conditional summary reconstructed; recommend resolution",
+      "check": "Fixed rational strict slope, common offset, phase and receiving frame; actual comparable Jordan inner lenses with assigned ranks; containment plus quantitative affine buffer, or direct rank/ideal conditions; O(L) relative code ranges retained. No arbitrary thin frame or zero-minor uniformity."
+    }
+  ],
+  "A4_A5_mathematical_proofs_changed": false,
+  "DG_CUT_or_height_only_conversion_used_as_premise": false,
+  "candidate_and_all_earlier_report_edits": false,
+  "reviewer_promotion": false,
+  "H_PR_EAI_full_solution_or_novelty_accepted": false,
+  "mathematical_computation_or_CAS": false
+}

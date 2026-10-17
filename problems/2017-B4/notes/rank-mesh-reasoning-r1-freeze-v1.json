@@ -1,0 +1,109 @@
+{
+  "frozen_at_utc": "2026-10-17T05:52:50.408804+00:00",
+  "status": "candidate proof - unverified; construction checkpoint requiring two fresh independent whole audits",
+  "constructor": "review_2017_coarsening_r1",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "claims": [
+    "RM1",
+    "RM1a",
+    "scoped D4 RM2",
+    "RM2a",
+    "RM3",
+    "proposed LC3",
+    "proposed UR3-GE"
+  ],
+  "scope_restrictions": [
+    "Full marked zonogon arrangement, not an arbitrary incomplete window",
+    "RM2 three-group D4 case: one merged pair and two singleton groups; or zero-color reduction",
+    "All incident forbidden tiles excluded from the good closed selected face",
+    "GE3 disks have fixed exteriors in O(r)-strand full three-direction zonogons",
+    "UR3-GE source quantifiers and upper compact-cover derivation require audit; if LC3 fails retain conditional status",
+    "No general multiple-nonsingleton-group port theorem, no H, no full official limit conclusion"
+  ],
+  "artifacts": [
+    {
+      "path": "problems/2017-B4/notes/rank-mesh-reasoning-r1-candidate-v1.md",
+      "bytes": 20183,
+      "sha256": "e0f2e55e62aabe5547120f4fc72c506c3f680844a90aa98ece7147d404178d27"
+    },
+    {
+      "path": "problems/2017-B4/notes/rank-mesh-reasoning-r1-UR3-v1.md",
+      "bytes": 17045,
+      "sha256": "40ad9b252b6c34f5dee5c8cd3eedea8e8feeabb0cec1497b224bf5c32ba58aab"
+    },
+    {
+      "path": "problems/2017-B4/notes/rank-mesh-reasoning-r1-obligations-v1.md",
+      "bytes": 6651,
+      "sha256": "3d6d9d540f503039d6a47ca971d1b29b491f2cd9a7dcc2851339297e6343d0d0"
+    },
+    {
+      "path": "problems/2017-B4/notes/rank-mesh-reasoning-r1-source-checks-v1.md",
+      "bytes": 2593,
+      "sha256": "d1808487e8cfc3b90205a91e24163523c7b357aa7c89ee6b0e256ca943d5dfa9"
+    },
+    {
+      "path": "problems/2017-B4/notes/rank-mesh-reasoning-r1-worklog-v1.md",
+      "bytes": 4050,
+      "sha256": "1fa6e88eebcb51fbd4183feeca3030cf917c2ac0e7854ca7a74ec69dcd6ec8f5"
+    },
+    {
+      "path": "problems/2017-B4/notes/rank-mesh-reasoning-r1-sources-v1.json",
+      "bytes": 5130,
+      "sha256": "567093aa683e6053088476aef863a4a0e56dcc99802468e13fc15c241f7d2bf4"
+    },
+    {
+      "path": "problems/2017-B4/notes/rank-mesh-reasoning-r1-freeze-v1.py",
+      "bytes": 6154,
+      "sha256": "8946857bf99b8ebdd4b821d25ceed9b7646b34d96adfd2c6bdc01096ef9966f1"
+    },
+    {
+      "path": "problems/2017-B4/notes/rank-mesh-reasoning-r1-input-validation-v1.json",
+      "bytes": 14525,
+      "sha256": "19e7f58eb9f7b4902a11f5788983a5ac61748dff822872d9cacc4f272ec725f0"
+    }
+  ],
+  "inputs": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2017-B4/statement.md",
+      "bytes": 2140,
+      "sha256": "e459750064b4e25e3eaa71f25f236c046548147e415b06d8bd097839020228f3"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-rank-mesh-strata-program-v1.md",
+      "bytes": 6913,
+      "sha256": "da3c28d039cec64ef5936b2b4dc4f816b3ceac8996f614d672ced9b360da1820"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-stratum-clean-lens-candidate-v1.md",
+      "bytes": 9160,
+      "sha256": "aa4c79b1fb3136ecd3e7c5ab845733697cca925ba8203b2988fba5c9a793bd95"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-stratum-clean-lens-freeze-v1.json",
+      "bytes": 1716,
+      "sha256": "fb682945c60d8022dd633cf16ba50110488dd52490ffa21ba4c3c236fb26af46"
+    }
+  ],
+  "preserved_earlier_frozen_unique_records": 68,
+  "prior_frozen_bytes_unchanged": true,
+  "mathematical_computation_enumeration_or_CAS": false,
+  "source_full_paper_stream_sha256": "be2e7c17c1d9762bd454847658db9efcfe27724272debc1d8fe6a8d9483bb48f",
+  "requires_two_fresh_independent_nonconstructor_whole_reviews": true,
+  "no_git_shared_state_spawning_or_contacts": true,
+  "only_assigned_rank_mesh_prefix_written": true,
+  "latest_authoritative_weekly_total_used_percent": 24,
+  "latest_telemetry_at_utc": "2026-10-17 05:51:41 UTC",
+  "weekly_window_duration_minutes": 10080,
+  "weekly_reset_unix": 1792745187,
+  "total_used_ceiling_percent": 90,
+  "H_or_full_2017_solution_proved": false
+}

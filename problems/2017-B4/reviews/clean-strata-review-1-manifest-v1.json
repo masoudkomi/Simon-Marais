@@ -1,0 +1,55 @@
+{
+  "status": "initial blind whole FL1/CL1/OB1 audit complete; no substantive objection; no reviewer promotion",
+  "frozen_at_utc": "2026-10-17T01:00:08.646305+00:00",
+  "reviewer": "review_2021_reasoning_j15_r2",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "candidate_sha256": "aa4c79b1fb3136ecd3e7c5ab845733697cca925ba8203b2988fba5c9a793bd95",
+  "nonconstructor": true,
+  "whole_reconstruction": true,
+  "no_peer_clean_strata_findings_read_before_freeze": true,
+  "substantive_objections": 0,
+  "repair_requested": false,
+  "nonblocking_parameter_note": "Retain O(l^2 L) finite-scale boundary term in the final bad-cell leading order",
+  "candidate_and_all_older_own_records_unchanged": true,
+  "no_mathematical_program_rerun_enumeration_or_CAS": true,
+  "no_H_EAI_PR_stratum_repair_or_full_solution_acceptance": true,
+  "latest_weekly_total_used_percent": 21,
+  "weekly_reset_unix": 1792745187,
+  "command": ".venv/bin/python problems/2017-B4/reviews/clean-strata-review-1-freeze-v1.py",
+  "records": [
+    {
+      "path": "problems/2017-B4/reviews/clean-strata-review-1-initial-v1.md",
+      "bytes": 18554,
+      "sha256": "127888d0e1af0b7c5728545213174d9c7bdfbcbf2e916f734ec555401a29bc57"
+    },
+    {
+      "path": "problems/2017-B4/reviews/clean-strata-review-1-issues-v1.json",
+      "bytes": 2185,
+      "sha256": "5edb0dded6801fc11fb731478e1232a0378eae5a3d2c65358bc38aa4c6116d68"
+    },
+    {
+      "path": "problems/2017-B4/reviews/clean-strata-review-1-sources-v1.json",
+      "bytes": 3469,
+      "sha256": "a9c0c2f77a9271125b16dcfad849949c462b28559fb42f0f7736406b56783f38"
+    },
+    {
+      "path": "problems/2017-B4/reviews/clean-strata-review-1-freeze-v1.py",
+      "bytes": 5245,
+      "sha256": "8a7c3bc85f92982e73650612ff72da638329eca448f304c2c424be912c85a69a"
+    },
+    {
+      "path": "problems/2017-B4/reviews/clean-strata-review-1-input-validation-v1.json",
+      "bytes": 20318,
+      "sha256": "32a88b7a5416ed8fed2a104606d3b29763ee0edb96515b14fc7fc3cfa2f8c42f"
+    },
+    {
+      "path": "problems/2017-B4/reviews/clean-strata-review-1-freeze-output-v1.json",
+      "bytes": 389,
+      "sha256": "bb7becf8a263ae8924685b6109f0e48b37e0c39132e0c1f54f21af0913de6e40"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "reviewer": "review_2021_reasoning_j15_r2",
+  "type": "fresh initially blind independent whole FL1-CL1-OB1 reconstruction",
+  "candidate_sha256": "aa4c79b1fb3136ecd3e7c5ab845733697cca925ba8203b2988fba5c9a793bd95",
+  "constructed_candidate": false,
+  "peer_clean_strata_findings_read_before_freeze": false,
+  "substantive_objections": 0,
+  "repair_requested": false,
+  "items": [],
+  "attack_points_reconstructed": [
+    "Exact Green identity sign, closed-boundary integration by parts and Lipschitz trace hypotheses",
+    "Boundary-only epsilon L control and total variation estimate",
+    "Whole-tile minor integral one and cut-tile nonnegative area fractions",
+    "Rectifiable arclength-net tube bound and O(L+1) cut-tile correction",
+    "Parallel or zero-row pair density bound without a location assertion",
+    "Within-group no-new-inversion condition fixes entire fine label sequence r_g",
+    "Consecutive-group inversion correspondence gives full interval order isomorphism",
+    "Covers at identical positions preserve commutations and marked tiling bijection",
+    "Strictly ordered coarse vectors and prefix equality preserve Jordan geometry",
+    "Boundary sequence coding uses O(L) letters and forced internal ranks",
+    "Four-label OB1 allowed-cover classification, one fine tiling, exactly one erased23 crossing",
+    "Two coarse weak-lens tilings, common tail and missing BACB expansion",
+    "Local obstruction kept separate from clean CL1 and global DC1 surjectivity",
+    "Saved search provenance read without rerun or an infinite inference from finite tests"
+  ],
+  "nonblocking_parameter_note": "At finite L the fixed microscopic l bad-cell estimate retains O(l^2 L) from cut tiles. The candidate's final O(epsilon l^2 L^2) is a leading order for fixed positive epsilon,l and sufficiently large L; main FL1 already states its boundary term and warns against exchanging limits.",
+  "recommendation": "Eligible for coordinator reconciliation within written scopes; no reviewer promotion.",
+  "stratum_repair_annulus_EAI_PR_H_or_full_solution_accepted": false,
+  "mathematical_program_run_enumeration_or_CAS": false,
+  "candidate_shared_or_Git_edits": false
+}

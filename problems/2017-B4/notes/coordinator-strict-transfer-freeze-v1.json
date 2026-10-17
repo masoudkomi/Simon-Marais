@@ -1,0 +1,19 @@
+{
+  "frozen_at_utc": "2026-10-17T00:57:12.057873+00:00",
+  "status": "candidate proof - unverified; explicit implication conditional on frozen annulus/CUT packets",
+  "constructor": "coordinator",
+  "requires_two_fresh_nonconstructor_whole_audits": true,
+  "claims": [
+    "ST1 fixed-shape strict rational extraction count",
+    "ST2 matching reference insertion count and profile mesh cost",
+    "ST3 local entropy sandwich"
+  ],
+  "H_PR_claimed": false,
+  "artifacts": [
+    {
+      "path": "problems/2017-B4/notes/coordinator-strict-transfer-candidate-v1.md",
+      "bytes": 9161,
+      "sha256": "a19f8e66cb0fb810098eb209a47e73ecbb26e1d43316c13fa64bb5f743c8c3f1"
+    }
+  ]
+}

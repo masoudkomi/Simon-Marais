@@ -1,0 +1,50 @@
+{
+  "frozen_at_utc": "2026-10-17T02:05:31.337855+00:00",
+  "status": "candidate proof - unverified",
+  "constructor": "review_2021_reasoning_j15_r2",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "claims": [
+    "TA1",
+    "TA2"
+  ],
+  "two_fresh_independent_nonconstructor_whole_audits_required": true,
+  "earlier_unreviewed_candidates_are_accepted_dependencies": false,
+  "no_full_mask_repeated_branch_degree20_or_novelty": true,
+  "mathematical_program_enumeration_CAS_or_digit_tree": false,
+  "all_accepted_inputs_and_seventeen_older_own_packets_match": true,
+  "latest_weekly_total_used_percent": 23,
+  "weekly_reset_unix": 1792745187,
+  "total_used_ceiling_percent": 90,
+  "command": ".venv/bin/python problems/2021-B4/notes/reasoning-return-r3-transfer-freeze-v1.py",
+  "records": [
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r3-transfer-candidate-v1.md",
+      "bytes": 9020,
+      "sha256": "0bcc9898ff010abf489f7b4c58d4a5011e91df99ab680bd0094d76054b3e3961"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r3-transfer-sources-log-v1.md",
+      "bytes": 4135,
+      "sha256": "43e2523110b98fd33cf0fdc8f1816324cd2abd4e3dba1a99ebfc8f34f3622b2d"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r3-transfer-freeze-v1.py",
+      "bytes": 4667,
+      "sha256": "7f9a91d4e7cba658d02121559807aeb7445bdccff889192229e930b2613958e7"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r3-transfer-input-validation-v1.json",
+      "bytes": 32771,
+      "sha256": "1c72714e477ed012c6b8c0a2ec97535688cd479ff066eb1a1f1ccd856e9204ba"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r3-transfer-freeze-output-v1.json",
+      "bytes": 554,
+      "sha256": "27d5b50fe22bf78beffaffa7389e51fad3ffe58f0cb42104608538915833ff98"
+    }
+  ]
+}

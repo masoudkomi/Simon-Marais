@@ -77,3 +77,7 @@ All62 historical sums match; in-flight unreported usage excluded. This
 is not billing or weekly conversion. Authoritative weekly telemetry
 returned21% at approximately00:46UTC, same reset1792745187; continue
 with integration reserve before90% total.
+
+At **2026-10-17 05:47:16UTC**, authoritative account-wide usage returned **23% total used**, same reset1792745187. Continue with review/integration reserve. User authorizes an untimed owned keep-awake assertion until the90% cutoff; see permissions.md and run-state.json.
+
+At **2026-10-17 05:49:57UTC**, recorded project token audit: **478,054,490 total**, including451,011,712 cached input,22,905,669 uncached input and4,137,109 output. Output includes1,900,963 reasoning tokens. Uncached input plus output27,042,778. All62 historicalsession sums match; in-flight unreported usage excluded. Account-wide telemetry23%at05:49:59UTC; worker direct authoritative read24%at05:51:41UTC,same reset1792745187. No weekly conversion inferred from rawtokens.

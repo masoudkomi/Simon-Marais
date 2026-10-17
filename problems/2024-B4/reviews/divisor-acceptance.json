@@ -1,0 +1,67 @@
+{
+  "accepted_at_utc": "2026-10-17T00:55:53.253958+00:00",
+  "status": "proved, independently reviewed partial criteria",
+  "candidate": {
+    "path": "problems/2024-B4/notes/divisor-reasoning-r2-candidate-v1.md",
+    "sha256": "48d2ca76b3492584b38d8798650e078c7c9771fea97bae8db4d7cd51b21e2fc4"
+  },
+  "accepted_exposition": {
+    "path": "problems/2024-B4/proofs/reviewed-divisor-criteria-v1.1.md",
+    "sha256": "3afbf3eda795ecfcf6989ef6ec855e5c7e795f26f5a84effe8c4bd73ffeb4ed3"
+  },
+  "claims": [
+    "For all odd n>=3, phi7 divides phi_n iff n=7",
+    "For all odd n>=3, phi11 divides phi_n iff n=11",
+    "Using attributed JMW absolute irreducibility: gcd(phi7 phi11,phi_n) equals phi7 at7,phi11 at11,1 otherwise over F2 and its closure",
+    "Homogeneous finite odd-sum consequences including zero/empty sum",
+    "Attributed published effective automaticity for fixed F2-irreducible G not dividing R, via explicit finitely generated fraction field and order4 recurrence"
+  ],
+  "reviewers": [
+    {
+      "agent": "review_2017_coarsening_r1",
+      "fresh_nonconstructor_initially_blind_whole": true,
+      "report": "problems/2024-B4/reviews/divisor-review-1-initial.md",
+      "finite_certificate_independent": true,
+      "child_pid": 76805,
+      "external_timeout_seconds": 10,
+      "exit_code": 0,
+      "reaped": true
+    },
+    {
+      "agent": "review_2022_complexity_r2",
+      "fresh_nonconstructor_initially_blind_whole": true,
+      "report": "problems/2024-B4/reviews/divisor-review-2-initial.md",
+      "finite_certificate_independent": true,
+      "child_pid": 77847,
+      "external_timeout_seconds": 5,
+      "exit_code": 0,
+      "reaped": true
+    }
+  ],
+  "coordinator_full_reports_issue_ledgers_source_records_read": true,
+  "coordinator_static15state_certificate_and_reviewer2_complete_checker_read": true,
+  "certificate_checks": [
+    "48actual section columns",
+    "15complete distinct subspaces",
+    "30full image-space equalities",
+    "all outputs",
+    "five-class quotient",
+    "LSB language0010* and unique index4"
+  ],
+  "no_extra_rerun_or_index_scan_by_coordinator": true,
+  "manifest_records_verified": 88,
+  "substantive_objections": 0,
+  "repairs_required": false,
+  "frozen_inputs_and_reviews_preserved": true,
+  "outside_scope": [
+    "all possible irreducible factors or their degrees",
+    "full reducible exponent classification",
+    "new reducible exponent from self-divisor cases7or11",
+    "new general automaticity or irreducibility theorem",
+    "novelty or exhaustive literature absence"
+  ],
+  "source_limits": [
+    "Full Ferard texts and original1993 chapter remain unread and are not premises",
+    "Published irreducibility and zero-set theorems are attributed; their whole papers not re-proved"
+  ]
+}

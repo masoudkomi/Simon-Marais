@@ -1,0 +1,43 @@
+{
+  "reviewer": "review_2021_reasoning_j15_r2",
+  "verification_date_utc": "2026-10-17",
+  "requested_settings": {"model": "gpt-6.1-sol", "reasoning": "max"},
+  "verified_effective_settings": null,
+  "local_read_scope": [
+    {"path": "AGENTS.md", "scope": "Current protocol, read earlier in same ongoing group and fingerprinted"},
+    {"path": "problems/2017-B4/notes/coordinator-stratum-clean-lens-candidate-v1.md", "scope": "Entire FL1-CL1-OB1 proof, provenance, consequences and remaining gaps, with line-numbered second read"},
+    {"path": "problems/2017-B4/notes/coordinator-stratum-clean-lens-freeze-v1.json", "scope": "Entire six-artifact frozen input and scope record"},
+    {"path": "problems/2017-B4/notes/coordinator-interval-lift-counterexample-search-v1.py", "scope": "Complete source read only to verify finite search scope; not executed or relied on for the hand proof"},
+    {"path": "problems/2017-B4/notes/coordinator-interval-lift-counterexample-v1-stdout.jsonl", "scope": "Complete checkpoints and found example"},
+    {"path": "problems/2017-B4/notes/coordinator-interval-lift-counterexample-v1-stderr.txt", "scope": "Verified empty by frozen byte/hash metadata"},
+    {"path": "problems/2017-B4/notes/coordinator-interval-lift-counterexample-v1-job-start.json", "scope": "PID77136 and ten-second external timeout"},
+    {"path": "problems/2017-B4/notes/coordinator-interval-lift-counterexample-v1-job.json", "scope": "Normal exit, not timed out, reaped, elapsed0.13698101043701172s"},
+    {"path": "problems/2017-B4/proofs/reviewed-fixedD-structural-v1.2.md", "scope": "Accepted status and complete Sections1-2: integer marked dictionary, local alphabet, vector lift gradients and minor identity"},
+    {"path": "problems/2017-B4/reviews/fixedD-structural-acceptance.json", "scope": "Complete coordinator acceptance and exact accepted exposition hashes"},
+    {"path": "problems/2017-B4/proofs/reviewed-direction-coarsening-v1.1.md", "scope": "Complete accepted exposition, particularly DC1 projection and full-boundary section, only to distinguish OB1"},
+    {"path": "problems/2017-B4/reviews/coarsening-acceptance.json", "scope": "Complete coordinator acceptance/hash record"}
+  ],
+  "source_inference_boundary": "Flux identity, rectifiable tube, exact interval isomorphism, geometry and OB1 are analytically reconstructed in the report. Accepted finite marked dictionary and gradient formulas match their hypotheses. No general free-boundary entropy theorem, local coarse surjectivity, annulus/CUT/remainder result or external stratum theorem is imported.",
+  "computation_boundary": {
+    "root_search_was_counterexample_discovery_only": true,
+    "search_rerun_or_enlarged": false,
+    "hand_proof_classifies_all_covers_of_exact_OB1_example": true,
+    "infinite_statement_from_finite_absence": false,
+    "mathematical_subprocess_or_CAS_by_reviewer": false,
+    "one_time_metadata_hashing_only": true
+  },
+  "independence": {
+    "nonconstructor": true,
+    "no_peer_clean_strata_findings_read_before_freeze": true,
+    "separate_remainder_candidate_read_but_not_used": true
+  },
+  "operations": {
+    "candidate_shared_status_or_Git_edits": false,
+    "spawning_charges_contact_or_access_bypass": false,
+    "new_external_source_retrieval_or_PDF_redistribution": false,
+    "latest_authoritative_weekly_total_used_percent": 21,
+    "window_minutes": 10080,
+    "reset_unix": 1792745187,
+    "total_weekly_used_ceiling_percent": 90
+  }
+}

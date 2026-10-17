@@ -1,0 +1,55 @@
+{
+  "frozen_at_utc": "2026-10-17T01:51:34.510923+00:00",
+  "status": "candidate proof - unverified",
+  "constructor": "review_2021_reasoning_j15_r2",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "claims": [
+    "PP1",
+    "PP2"
+  ],
+  "two_fresh_independent_nonconstructor_whole_audits_required": true,
+  "earlier_unreviewed_packets_are_proof_dependencies": false,
+  "joint_nonvanishing_support_classification_rational_lift_or_degree20_not_claimed": true,
+  "mathematical_program_support_enumeration_CAS_or_digit_tree": false,
+  "accepted_inputs_and_fourteen_older_own_packets_match": true,
+  "latest_weekly_total_used_percent": 23,
+  "weekly_reset_unix": 1792745187,
+  "total_used_ceiling_percent": 90,
+  "command": ".venv/bin/python problems/2021-B4/notes/reasoning-return-r3-parity-freeze-v1.py",
+  "records": [
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r3-parity-candidate-v1.md",
+      "bytes": 10560,
+      "sha256": "6506e371c2a3eb8506f75c55ef3d80be9933ecbcd187be21fe5bd18932fe8789"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r3-parity-researchlog-v1.md",
+      "bytes": 4568,
+      "sha256": "eb3d9506795f30c3456dea77973a0f442799c08498c0d60ed161740dcecc463c"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r3-parity-sources-v1.json",
+      "bytes": 5044,
+      "sha256": "212dce159c09658d390838bcccfbecf37c9f470bcad613be57a98e332f05191d"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r3-parity-freeze-v1.py",
+      "bytes": 4641,
+      "sha256": "b86019a8c5912e360325d0f8f7192adccf4cdeb62aec41dc872e96c46ae1fe68"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r3-parity-input-validation-v1.json",
+      "bytes": 28095,
+      "sha256": "189a384a2a419d5323b36541fd73bb7efa0bc0af83879848d37c976daf20fc51"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r3-parity-freeze-output-v1.json",
+      "bytes": 602,
+      "sha256": "a21c52997f69ea518f34d03477f8487ff36e405c210fc260d372288f35df54b0"
+    }
+  ]
+}

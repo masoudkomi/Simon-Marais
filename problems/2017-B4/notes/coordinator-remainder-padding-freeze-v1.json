@@ -1,0 +1,20 @@
+{
+  "status": "candidate proof - unverified",
+  "frozen_at_utc": "2026-10-17T00:53:40.627229+00:00",
+  "constructor": "coordinator",
+  "two_fresh_nonconstructor_whole_audits_required": true,
+  "claims": [
+    "RP1 exact injective balanced zonogon extension",
+    "RP2 uniform normalized profile error",
+    "RP3 bounded remainder transfer from all multiples and all-scale reference existence"
+  ],
+  "H_EAI_PR_claimed": false,
+  "mathematical_computation_or_CAS": false,
+  "artifacts": [
+    {
+      "path": "problems/2017-B4/notes/coordinator-remainder-padding-candidate-v1.md",
+      "bytes": 5239,
+      "sha256": "0b9b6fea18437bff50edd5217531b3beb6ffc7e46a90e88899ad6e03a2ab8c91"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "frozen_at_utc": "2026-10-17T01:54:30.255610+00:00",
+  "status": "candidate proof - unverified",
+  "constructor": "review_2021_reasoning_j15_r2",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "claims": [
+    "SD1"
+  ],
+  "two_fresh_independent_nonconstructor_audits_required": true,
+  "parity_PP1_is_an_accepted_dependency": false,
+  "no_larger_support_classification_or_degree20_solution": true,
+  "mathematical_program_support_enumeration_CAS_or_digit_tree": false,
+  "all_fifteen_older_own_packets_match": true,
+  "latest_weekly_total_used_percent": 23,
+  "weekly_reset_unix": 1792745187,
+  "total_used_ceiling_percent": 90,
+  "command": ".venv/bin/python problems/2021-B4/notes/reasoning-return-r3-sparse-descent-freeze-v1.py",
+  "records": [
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r3-sparse-descent-candidate-v1.md",
+      "bytes": 3809,
+      "sha256": "5c454767cda1bbbe4e4e4041256b837e6b0086c5489ad68007f522b24eccc864"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r3-sparse-descent-sources-log-v1.md",
+      "bytes": 2687,
+      "sha256": "30175c203fa1a5799a72d46819b9051da7f7084af7ec125a306b9a879c06eba0"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r3-sparse-descent-freeze-v1.py",
+      "bytes": 3965,
+      "sha256": "68faa97c9dcc87c580a27e6d9b46a849f83079515525307d564587649d60872f"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r3-sparse-descent-input-validation-v1.json",
+      "bytes": 28579,
+      "sha256": "9cab7d67b8e6959de7a02bef2608a173c344eff2a0981e0987bc24a968cd5bc7"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r3-sparse-descent-freeze-output-v1.json",
+      "bytes": 464,
+      "sha256": "2b35483bc02ff05c1e511ef20e60a58df56170a83105278ca5a2a6a226046b27"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "frozen_at_utc": "2026-10-17T05:54:30.392414+00:00",
+  "status": "independent initially blind whole review; recommendation only; no promotion",
+  "reviewer": "review_2021_reasoning_j15_r2",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "audited_constructor_hashes": {
+    "candidate": "eb3d176680116595015069507f3904a0d048e44d3c2cde06965647010b82764e",
+    "supplement": "a0512f751dc5c648043025948a841fa4ecffb280785641c5e85f9fae5c99bca3"
+  },
+  "whole_claims": [
+    "R0",
+    "R1",
+    "R2",
+    "R3",
+    "S1",
+    "S2",
+    "source hypotheses"
+  ],
+  "substantive_objections": 0,
+  "nonblocking_scope_cautions": [
+    "N1 positive ordinary lift wording",
+    "N2 source final acceptance"
+  ],
+  "peer_findings_read_before_freeze": false,
+  "mathematical_program_enumeration_or_CAS": false,
+  "candidate_or_shared_changes": false,
+  "git_operations": false,
+  "spawned_agents": false,
+  "latest_weekly_total_used_percent": 23,
+  "weekly_window_minutes": 10080,
+  "weekly_reset_unix": 1792745187,
+  "total_used_ceiling_percent": 90,
+  "command": "python3 problems/2022-B4/reviews/return-r3-review-1-freeze-v1.py",
+  "records": [
+    {
+      "path": "problems/2022-B4/reviews/return-r3-review-1-initial.md",
+      "bytes": 19166,
+      "sha256": "7d15b36e34ad6057317aab2d4be440da2969675f6f829df1ee27ffd779487c8e"
+    },
+    {
+      "path": "problems/2022-B4/reviews/return-r3-review-1-issues.md",
+      "bytes": 7624,
+      "sha256": "ee0c3c7a72c33e61af33df6b36a4991d25268c85ff761eb81b5fde8c7334ae0f"
+    },
+    {
+      "path": "problems/2022-B4/reviews/return-r3-review-1-source-checks.md",
+      "bytes": 5131,
+      "sha256": "61e3fde6ce7b4519f5bd0abeaf00b342c56768237ed0da91335b226655346628"
+    },
+    {
+      "path": "problems/2022-B4/reviews/return-r3-review-1-freeze-v1.py",
+      "bytes": 5476,
+      "sha256": "72d845f4f10fa5ff5aede8c905361147505e8545a4e94f87ef07cd97c033b68b"
+    },
+    {
+      "path": "problems/2022-B4/reviews/return-r3-review-1-input-validation-v1.json",
+      "bytes": 38021,
+      "sha256": "b36cebc40e37b72a2f822dcf533c757a371696345590eb13396a5e4cfb415ea1"
+    },
+    {
+      "path": "problems/2022-B4/reviews/return-r3-review-1-freeze-output-v1.json",
+      "bytes": 295,
+      "sha256": "5ab713c1c98eab0a4eff93f2841a61b1e72ed5c427ac2e2eba126466c0ccffd6"
+    }
+  ]
+}

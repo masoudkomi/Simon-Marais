@@ -1,0 +1,131 @@
+{
+  "constructor": "review_2021_reasoning_j15_r2",
+  "verification_date_utc": "2026-10-17",
+  "status": "candidate proof - unverified; two fresh nonconstructor whole audits required",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "proposed_claims": [
+    "G1 global unrecycled factor barrier",
+    "G2 exact global rational factor dichotomy and rational common-root support",
+    "C1 weighted-even reflection parity and square criterion, with a nonunit-a14 subcase",
+    "C2 unique sixth-derivative noncenter witness and square-class trichotomy",
+    "W fourth rational witness must reach a higher derivative"
+  ],
+  "accepted_local_inputs": [
+    {
+      "path": "AGENTS.md",
+      "scope": "current protocol"
+    },
+    {
+      "path": "problems/2021-B4/statement.md",
+      "scope": "open rational-witness part(b) only"
+    },
+    {
+      "path": "problems/2021-B4/proofs/reviewed-reasoning-J15-v1.1.md",
+      "sha256": "fbc5d212b5b560c8e4e42397d19663f3fc882fa8f206bdcbb4ed897c715627f6",
+      "scope": "complete accepted D1-D5 and low-family boundary; primary local factor not assumed over Q"
+    },
+    {
+      "path": "problems/2021-B4/proofs/reviewed-J15-soleH2-v1.1.md",
+      "sha256": "04cca15f62611ae736940e40d520ea2556b840391d77531f5e002f37751d15ed",
+      "scope": "complete accepted necessary residue/witness roles; no row exclusions"
+    },
+    {
+      "path": "problems/2021-B4/proofs/reviewed-J15-soleH4-v1.1.md",
+      "sha256": "9e5e22f092477e6c2d948a787b9ea89cb138a1c5e112855db8186020557c5a18",
+      "scope": "complete accepted necessary residue/witness roles; no row exclusions"
+    },
+    {
+      "path": "problems/2021-B4/notes/rational-witness-p-plus-one-reviewed-v1.2.md",
+      "scope": "complete normalization and field distinctions"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-three-rational-witnesses-reviewed-v1.1.md",
+      "sha256": "7ff6b3d92d3268405381c2732d83516d21e6eb7d74e897d4c01ec8bb70342be4",
+      "scope": "T1 cover restriction and T3 multiplicities; no certificate rerun"
+    },
+    {
+      "path": "problems/2021-B4/notes/padic-rational-newton-reviewed-v1.1.md",
+      "scope": "accepted Newton edge with multiplicities and width-one scope"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-newton-degeneration-reviewed-v1.1.md",
+      "scope": "degree-five leading-pattern necessary-condition boundary"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-J15-acceptance.json",
+      "scope": "complete scope and accepted hashes"
+    },
+    {
+      "path": "problems/2021-B4/reviews/single-center-acceptance.json",
+      "scope": "complete scope and accepted hashes"
+    },
+    {
+      "path": "problems/2021-B4/reviews/three-witness-acceptance.json",
+      "scope": "T1 acceptance and no full degree solved"
+    },
+    {
+      "path": "problems/2021-B4/notes/deep-literature-r1-report-v1.md",
+      "scope": "complete primary theorem/hypothesis map"
+    },
+    {
+      "path": "problems/2021-B4/notes/ghosh-source-reviewed-register-v1.1.md",
+      "scope": "accepted narrow missing-step objections; no universal theorem acceptance"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-prime-field-descent-lead-v1.md",
+      "scope": "unverified older lead, not used as accepted lemma"
+    }
+  ],
+  "primary_sources": [
+    {
+      "title": "Castryck, Laterveer, Ounaies, Constraints on counterexamples to the Casas-Alvero conjecture, and a verification in degree12",
+      "url": "https://arxiv.org/pdf/1208.5404",
+      "read_scope": "complete Proposition19 and adjacent extension paragraph, printed pages15-16; source definition/Theorem3 and base-degree4 bad-prime statement; original normalization used through accepted local input",
+      "verified": "all-roots-rational and unramified-field hypotheses cannot be weakened to rational witnesses; no new unrestricted result imported",
+      "existing_ignored_cache": ".cache/literature/2021/cited-66c5af6a0f0239f5.pdf",
+      "existing_cache_sha256": "d818747102d32060f43ae5f015f27065aadf38699b272a2367749db8b33fedbf",
+      "fresh_viewer_byte_identity_claimed": false,
+      "new_download": false
+    },
+    {
+      "title": "Draisma and de Jong, Erratum/addition for On the Casas-Alvero conjecture",
+      "url": "https://math-unibe.ch/jdraisma/publications/erratumcasasalvero.pdf",
+      "date": "August2011",
+      "read_scope": "entire original one-page correction",
+      "verified": "5 must be excluded for base degree4, retracting that claimed degree20 implication",
+      "existing_ignored_cache": ".cache/literature/deep-literature-r1/2021-draisma-dejong-erratum-2011.pdf",
+      "existing_cache_sha256": "9414998fc302643b7cf261e4adec1333034dc732e8a3a493a1a0ff7418d8f262",
+      "fresh_viewer_byte_identity_claimed": false,
+      "new_download": false
+    }
+  ],
+  "literature_queries": [
+    "Casas Alvero irreducible factor Eisenstein derivative rational roots p-adic",
+    "Casas Alvero rational coefficients irreducible factors common derivatives degree p+1"
+  ],
+  "source_search_boundary": "Only primary mathematical texts support claims; no exact located duplicate of G1 established in bounded query, and no novelty inferred. Third-party aggregator/snippet results are not evidence.",
+  "new_mathematical_method": "Exact Newton-edge Hasse reduction, global minimal-polynomial divisibility, derivative trace, reflection and quadratic discriminant valuations, integral D14 difference and simple Hensel uniqueness; all hand proofs.",
+  "computation": {
+    "mathematical_programs_or_CAS": false,
+    "enumeration_or_Hensel_tables": false,
+    "J16_or_three_value_certificate_rerun": false,
+    "metadata_only_hashing": true
+  },
+  "ownership": {
+    "only_assigned_reasoning_return_r3_prefix_written": true,
+    "older_frozen_packets_preserved": true,
+    "shared_Git_spawning_or_contact": false,
+    "charges_access_bypass_or_separately_billed_API": false
+  },
+  "weekly_telemetry": {
+    "authority": "mcp__codex_app__get_usage_limits",
+    "used_percent": 22,
+    "window_minutes": 10080,
+    "resets_at": 1792745187,
+    "total_used_ceiling_percent": 90
+  }
+}

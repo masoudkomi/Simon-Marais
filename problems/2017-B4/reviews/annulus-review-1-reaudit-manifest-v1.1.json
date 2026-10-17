@@ -1,0 +1,61 @@
+{
+  "status": "targeted annulus v1.1 repair audit complete; recommend coordinator resolution; no promotion",
+  "frozen_at_utc": "2026-10-17T00:54:35.727850+00:00",
+  "reviewer": "review_2021_reasoning_j15_r2",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_settings": null,
+  "candidate_v1_1_sha256": "c6da61f229ffa72dd830cd40132969717a395e3744b6d775cbe83a32bdd3747c",
+  "repair_ledger_sha256": "a0805df0cdc05f30ab8256fe9cf64ba466f932abc3cd97b45d68f1d98cae51b0",
+  "nonconstructor": true,
+  "both_original_whole_reports_read_after_initial_freezes": true,
+  "no_peer_targeted_reaudit_findings_read": true,
+  "repair_ids": [
+    "AR1-01",
+    "ANN2-N1",
+    "ANN2-N2"
+  ],
+  "recommend_resolution_for_v1_1": true,
+  "new_substantive_objections": 0,
+  "all_older_records_unchanged": true,
+  "no_DG_CUT_premise": true,
+  "no_H_EAI_PR_full_solution_or_novelty_acceptance": true,
+  "mathematical_enumeration_or_CAS": false,
+  "latest_weekly_total_used_percent": 21,
+  "weekly_reset_unix": 1792745187,
+  "command": ".venv/bin/python problems/2017-B4/reviews/annulus-review-1-reaudit-freeze-v1.1.py",
+  "records": [
+    {
+      "path": "problems/2017-B4/reviews/annulus-review-1-reaudit-report-v1.1.md",
+      "bytes": 15982,
+      "sha256": "ad54e0b6e584c114497da4a16b8b3a288c26fc673ff218af7083c72376ce49e4"
+    },
+    {
+      "path": "problems/2017-B4/reviews/annulus-review-1-reaudit-issues-v1.1.json",
+      "bytes": 2775,
+      "sha256": "60fc9a34b84fd574b40485f98c714a21de2598268d148a7f8257f8aa030d8c82"
+    },
+    {
+      "path": "problems/2017-B4/reviews/annulus-review-1-reaudit-sources-v1.1.json",
+      "bytes": 3593,
+      "sha256": "7dc942bfa950e24db41f6e8c385f58c75b0769d23073f3a1777ef21c5091df5b"
+    },
+    {
+      "path": "problems/2017-B4/reviews/annulus-review-1-reaudit-freeze-v1.1.py",
+      "bytes": 6748,
+      "sha256": "3f043f8fe23a2c030bc6c4625dfa553077fd14b458d6af0d024d6549ed78d8c4"
+    },
+    {
+      "path": "problems/2017-B4/reviews/annulus-review-1-reaudit-input-validation-v1.1.json",
+      "bytes": 22646,
+      "sha256": "14db44e7474604c4e74df4283e0f42d50e90321c0f40ed5ac4981ee399b3b6c0"
+    },
+    {
+      "path": "problems/2017-B4/reviews/annulus-review-1-reaudit-freeze-output-v1.1.json",
+      "bytes": 462,
+      "sha256": "bd53f54d4044deafb5ceed9698ff64487d49c65800e8f4e09fcfa5b13854c139"
+    }
+  ]
+}
