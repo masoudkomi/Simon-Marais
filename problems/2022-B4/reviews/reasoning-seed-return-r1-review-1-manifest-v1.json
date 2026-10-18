@@ -1,0 +1,77 @@
+{
+  "frozen_at_utc": "2026-10-18T08:37:00.131835+00:00",
+  "status": "ENTIRE initially blind OTHER WHOLE SR1-SR4 R1",
+  "reviewer": "/root",
+  "constructor": "/root/review_2017_coarsening_r1",
+  "exact_target": {
+    "path": "problems/2022-B4/notes/reasoning-seed-return-r1-candidate-v1.md",
+    "bytes": 21030,
+    "sha256": "a1caa31a57496ff17daaa78d8a085d9423801d2935a3476559c963b6c03f2584"
+  },
+  "constructor_freeze": {
+    "path": "problems/2022-B4/notes/reasoning-seed-return-r1-freeze-v1.json",
+    "bytes": 3871,
+    "sha256": "78beb6e2f0f2ce43c51029f68bd42da1e9693cbcde63fa71c1d5df881443dccc"
+  },
+  "whole_obligations": 48,
+  "all48_pass": true,
+  "substantive_issues": 0,
+  "required_repairs": 0,
+  "closed_scope_notes": 3,
+  "compact_own_parent": {
+    "path": "problems/2024-B4/notes/cofactor-global-r2-freeze-v1.json",
+    "bytes": 2322,
+    "sha256": "3e63984333d64dcfe8bb32395d28e948ab1023ce8f4ab367e0ea374d51dfeaef"
+  },
+  "ENTIRE_report_ledger_issues_sources_worklog_code_ALL_metadata_frozen": true,
+  "NO_NEW_corresponding_R2_findings_files_hashes_metadata_opened": true,
+  "other_whole_R2_and_reconciliation_still_required": true,
+  "promotion": false,
+  "artifacts": [
+    {
+      "path": "problems/2022-B4/reviews/reasoning-seed-return-r1-review-1-initial-v1.md",
+      "bytes": 9292,
+      "sha256": "2fb4b862a2f58ff722b5d5c8acc02394651ed468bf2069d3926bc82cd8ed3234"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-seed-return-r1-review-1-ledger-v1.md",
+      "bytes": 6953,
+      "sha256": "c8ce7e6020bf945c0c62d262f3a4ab557761a2b2bb95ec370caa530b348be189"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-seed-return-r1-review-1-issues-v1.md",
+      "bytes": 1015,
+      "sha256": "946f4c817754c2bec7de2cfd44d4c0f265c39657d3fe5a2f13c5d667e3971035"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-seed-return-r1-review-1-source-checks-v1.md",
+      "bytes": 3265,
+      "sha256": "9c439729b661fae70f3a8df819107df9eaa6e81f6ef9b8fd2d3399cd064a273e"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-seed-return-r1-review-1-worklog-v1.md",
+      "bytes": 3293,
+      "sha256": "b8338acfae93796a3c37cfbfd170cfc164efd52b620263f929256174deec2d82"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-seed-return-r1-review-1-freeze-v1.py",
+      "bytes": 6009,
+      "sha256": "15ddd8c732fd503d45acfd266c560caf6d710a556219f472fb5301e7ccefa199"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-seed-return-r1-review-1-baseline-v1.json",
+      "bytes": 5781,
+      "sha256": "d875a502538a5cbf389d2f1a1db35501b3ce90d8e9f77372fe796c88a3f0c2d0"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-seed-return-r1-review-1-metadata-v1.json",
+      "bytes": 905,
+      "sha256": "e490b72f37cacdd6c75372b3d8ce1e15620e6bd2a01c51a5cbc465e17d50d0fb"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-seed-return-r1-review-1-input-validation-v1.json",
+      "bytes": 373,
+      "sha256": "d2c7d68fba52a90eed7ff3ec2fdc799864d9732002de2e5a6c6468bd1d2edd66"
+    }
+  ]
+}

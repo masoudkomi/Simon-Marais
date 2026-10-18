@@ -1,0 +1,152 @@
+{
+  "frozen_at_utc": "2026-10-18T08:44:09.279702+00:00",
+  "status": "candidate proof - unverified; ENTIRE R15A-C constructor checkpoint",
+  "constructor": "/root/review_2021_reasoning_j15_r2",
+  "constructor_excluded_from_independent_review_count": true,
+  "NEW_proposed_claims": [
+    "R15A",
+    "R15B",
+    "R15C"
+  ],
+  "all48_obligations_and_constructor_checks_complete": true,
+  "TWO_OTHER_initially_blind_ENTIRE_WHOLE_audits_and_full_coordinator_reconciliation_required": true,
+  "proposed_entire_actual_m5_exclusion_only_in_exact_double_s_domain": true,
+  "full_J15_degree20_annual_or_novelty_claim": false,
+  "root_or_other_worker_supplied_NEW_R15_inference": false,
+  "old_accepted_authorship_not_freshly_self_recertified": true,
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independently_verified_effective_settings": null,
+  "authoritative_weekly_telemetry": {
+    "observed_utc": "2026-10-18 08:43:52 UTC",
+    "method": "direct mcp__codex_app__get_usage_limits and clock in same awaited batch",
+    "TOTAL_used_percent": 18,
+    "window_minutes": 10080,
+    "reset_unix": 1792874445,
+    "ordinary_usage_allowed": true,
+    "legacy_and_by_limit_agree": true,
+    "account_label": "029a8928...1334ac3a",
+    "current_window_explicitly_authorized": true,
+    "ceiling_TOTAL_percent": 90,
+    "integration_reserve": true,
+    "automatic_later_week_spending": false
+  },
+  "mathematical_code_CAS_scan_table_generator_source_or_author_rerun": false,
+  "new_field_certificate_hand_derived_and_proof_critical": true,
+  "no_Git_shared_old_cache_write_spawn_contact_charge_or_bypass": true,
+  "current_input_summary": {
+    "occurrences": 28,
+    "unique_paths": 28,
+    "sha256": "898ddef92b03205b99cf399f7da3b8fd5b9f7a7357df60d1079c3718659c35e8"
+  },
+  "compact_own_parent": {
+    "path": "problems/2020-B4/reviews/reasoning-arithmetic-return-r11-review-2-manifest-v1.json",
+    "bytes": 2930,
+    "sha256": "bfe677f652eb530288dc647d45109d1c2c3b4d6d2ef7d21363f02822da415fd1"
+  },
+  "accepted_authorities": [
+    {
+      "authority": {
+        "path": "problems/2021-B4/reviews/reasoning-return-r13-acceptance.json",
+        "bytes": 3318,
+        "sha256": "b0650934d449a60daae2fd8dffaac0beb0f5ccf5cf85247f73218802cef63909"
+      },
+      "accepted_copy": {
+        "path": "problems/2021-B4/proofs/reviewed-reasoning-return-r13-v1.1.md",
+        "bytes": 19299,
+        "sha256": "a29ecdb8002f3cbb4250e93f94c65ed83a67b086331fb3497d48ad740959ab6b"
+      },
+      "exact_candidate_suffix_verified": {
+        "path": "problems/2021-B4/notes/reasoning-return-r13-candidate-v1.md",
+        "bytes": 15806,
+        "sha256": "25a871da93b7cd375e0af43c8643094463ac45ce913722805ba6958dee004148"
+      },
+      "constructor_freeze_bound": {
+        "path": "problems/2021-B4/notes/reasoning-return-r13-freeze-v1.json",
+        "bytes": 4152,
+        "sha256": "4d6b95b7c5b70301f227af7cce5169c8c691c01f6b287fdadacf0b337c40c656"
+      },
+      "historical_occurrences_bound_not_replayed": 151,
+      "historical_paths_bound_not_replayed": 72
+    },
+    {
+      "authority": {
+        "path": "problems/2021-B4/reviews/reasoning-return-r14-acceptance.json",
+        "bytes": 3789,
+        "sha256": "9b808adb416309163f8a798062f4a42d4d0468fbeb8dcb434b055f0a0cdf406e"
+      },
+      "accepted_copy": {
+        "path": "problems/2021-B4/proofs/reviewed-reasoning-return-r14-v1.1.md",
+        "bytes": 23801,
+        "sha256": "c574096c94bc4deaab81b54c5dd0599f3089e7122165312d9089ea28d2a9f880"
+      },
+      "exact_candidate_suffix_verified": {
+        "path": "problems/2021-B4/notes/reasoning-return-r14-candidate-v1.md",
+        "bytes": 19879,
+        "sha256": "18b13277fb58aced493db2b4ed2b6bfb92a3778c50e661bf5bc858a59f0c2e7f"
+      },
+      "constructor_freeze_bound": {
+        "path": "problems/2021-B4/notes/reasoning-return-r14-freeze-v1.json",
+        "bytes": 4436,
+        "sha256": "08b6fb33c91302e8fc5222504bcae08f84175f140be981851d94495c049d7b58"
+      },
+      "historical_occurrences_bound_not_replayed": 170,
+      "historical_paths_bound_not_replayed": 73
+    }
+  ],
+  "artifacts": [
+    {
+      "path": "problems/2021-B4/notes/reasoning-unit-return-r15-candidate-v1.md",
+      "bytes": 17560,
+      "sha256": "48700c4ed0462f6e916228083ede2520efc8b435be1e8e11d07d3233827c893c"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-unit-return-r15-obligations-v1.md",
+      "bytes": 5542,
+      "sha256": "395a9a59da59b195d297e9685b00e3e283b5aaf1f3ff0ae525f7df2da1593751"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-unit-return-r15-hand-checks-v1.md",
+      "bytes": 11089,
+      "sha256": "5063bc77c766d9e1af5e3e467982f12f2190433009d9debe19b3cbcaa9187ea6"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-unit-return-r15-failed-routes-v1.md",
+      "bytes": 5561,
+      "sha256": "805331879d1197389ea94e983c9f4b3a258ed434e23718bb12b5c9fd1acc143d"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-unit-return-r15-sources-v1.md",
+      "bytes": 7209,
+      "sha256": "d9c1959ab6d74ba5218bf798cadcf38013a66608958d3bf870d3abca373557c2"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-unit-return-r15-sources-v1.json",
+      "bytes": 2803,
+      "sha256": "54dbe5b959113337b7d4dc4c08e33928b39545d6b998d99c44d515cb1b49bfc8"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-unit-return-r15-worklog-v1.md",
+      "bytes": 10526,
+      "sha256": "bca5ceda1b1545ffd8ce352d8cd9d78eac2b338c175ab1f0b0e0417d902e6a1e"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-unit-return-r15-freeze-v1.py",
+      "bytes": 8997,
+      "sha256": "d49881702ca59dd86ffc49e9d031809a9877fd5530ee992603157a75c97e2f9f"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-unit-return-r15-baseline-v1.json",
+      "bytes": 8722,
+      "sha256": "84a6cd7439e5c502b474e69ff5ed7e95e9e6d0bc097c7ffe53c3774a126ae7f8"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-unit-return-r15-input-validation-v1.json",
+      "bytes": 638,
+      "sha256": "46df6285dbc4abce88d069929421eb5b7e0b922f30bdbcae68e065bc3ec8454a"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "date_utc": "2026-10-18",
+  "status": "candidate proof - unverified; actual source-read limits",
+  "requested_settings": {"model": "gpt-6.1-sol", "reasoning": "max", "inherited": true},
+  "independently_verified_effective_settings": null,
+  "sources": [
+    {
+      "id": "official2021B4b",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2021-paper-b.pdf",
+      "fresh_read": "page2 B4 hypothesis and actual(b), returned67--81; compared with complete local statement",
+      "use": "actual Q common roots at every derivative; no preliminary proof",
+      "native_pdf_sha256": null
+    },
+    {
+      "id": "CLO1208.5404",
+      "url": "https://arxiv.org/pdf/1208.5404",
+      "served_version": "v1 identified on returned front page",
+      "fresh_operative_read": "complete Sections3.4--3.5,898--1147, equations9--14/Lemmas17--18; introduction definitions and Proposition19 actual boundary also inspected",
+      "full23page_or_computational_file_audit": false,
+      "use": "published normalization/divided-center method attribution; no all-root-rational/unramified theorem import on the ramified carrier",
+      "native_pdf_sha256": null
+    },
+    {
+      "id": "Draisma-deJong2011erratum",
+      "url": "https://math-unibe.ch/jdraisma/publications/erratumcasasalvero.pdf",
+      "fresh_read": "complete one-page20-line original correction",
+      "use": "prime5 additionally excluded in old degree4 route; no degree20 shortcut",
+      "native_pdf_sha256": null
+    }
+  ],
+  "direct_accepted_inputs_full_body_MD_JSON_read": [
+    {"claim": "R13C", "body": "problems/2021-B4/proofs/reviewed-reasoning-return-r13-v1.1.md", "bytes": 19299, "sha256": "a29ecdb8002f3cbb4250e93f94c65ed83a67b086331fb3497d48ad740959ab6b", "use": "every actual m5 has NONZERO NONUNIT EC10/EC11; exact(S),(W) domain", "old_constructor_A_not_freshly_self_recertified": true},
+    {"claim": "R14D", "body": "problems/2021-B4/proofs/reviewed-reasoning-return-r14-v1.1.md", "bytes": 23801, "sha256": "c574096c94bc4deaab81b54c5dd0599f3089e7122165312d9089ea28d2a9f880", "use": "every actual m5 has unit a7; current acceptance discharges preserved historical R13 conditional", "old_constructor_A_not_freshly_self_recertified": true}
+  ],
+  "complete_context_bodies_read": ["reviewed-reasoning-return-r8-v1.1.md", "reviewed-reasoning-return-r5-v1.1.md"],
+  "full_R13_R14_source_and_failure_records_read": true,
+  "root_supplied_NEW_mathematical_inference": false,
+  "mathematical_program_CAS_scan_table_generator_or_author_rerun": false,
+  "new_finite_certificate_is_hand_derived_and_proof_critical": true,
+  "new_full_J15_degree20_annual_or_novelty_claim": false,
+  "no_Git_shared_old_cache_write_spawn_contact_charge_or_bypass": true,
+  "TWO_OTHER_initially_blind_ENTIRE_WHOLE_audits_required": true
+}

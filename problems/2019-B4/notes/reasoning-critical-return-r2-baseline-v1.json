@@ -1,0 +1,198 @@
+{
+  "captured_utc": "2026-10-18T08:42:32.384196+00:00",
+  "purpose": "necessary fixed-file guards and compact immutable parent binding",
+  "mathematical_validation": false,
+  "protected_occurrences": 19,
+  "protected_unique_paths": 19,
+  "protected": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2019-B4/statement.md",
+      "bytes": 1252,
+      "sha256": "53d4201dca8bc4a77d995e3df14f95dd146e2df0c82d3b6447ad35a348e89de9"
+    },
+    {
+      "path": "problems/2019-B4/proofs/reviewed-secondpass-v1.1.md",
+      "bytes": 2836,
+      "sha256": "5fbaa388fe2ff795034094823c088fa5402da60eb9eca83f78165df0c8ad2cd7"
+    },
+    {
+      "path": "problems/2019-B4/notes/secondpass-canonical-renewal.md",
+      "bytes": 11807,
+      "sha256": "886266000a34023b033099889a3bb23bc6b3e642194ded12ce53b3aaa1642763"
+    },
+    {
+      "path": "problems/2019-B4/notes/secondpass-rigidity-obstructions.md",
+      "bytes": 8447,
+      "sha256": "58112ed40ba7146c8b5885669602d44770bdd525540c4221eaf17b101eb1c109"
+    },
+    {
+      "path": "problems/2019-B4/notes/secondpass-staircases-and-pumping.md",
+      "bytes": 10885,
+      "sha256": "5e2539982e32d116076c2c17ad8e85d865792a14630db04634c7372ae345cd52"
+    },
+    {
+      "path": "problems/2019-B4/reviews/secondpass-acceptance.json",
+      "bytes": 2679,
+      "sha256": "66e98c9c9eb36ce02c87c69532a0e930be8bd4a4f0eec5e043ecd5f6bf068d6b"
+    },
+    {
+      "path": "problems/2019-B4/proofs/reviewed-reasoning-return-r7-v1.1.md",
+      "bytes": 17727,
+      "sha256": "4fe222b8b1d89b6b3d66bb16c6a1985390d537eee55bb42bfefdb2d4821e351a"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-return-r7-acceptance.json",
+      "bytes": 2560,
+      "sha256": "94ca56672f32f4624af71f41c48ddcf8757f1316b956586f6834cd1d7ee3b38b"
+    },
+    {
+      "path": "problems/2019-B4/proofs/reviewed-monotone-ratio-v1.1.md",
+      "bytes": 11402,
+      "sha256": "a87798e4df63ec2f76e83da9750f811b15fc6702533b4ca68bd8bd973ac3bac9"
+    },
+    {
+      "path": "problems/2019-B4/reviews/monotone-ratio-acceptance.json",
+      "bytes": 2275,
+      "sha256": "a25e437f490e67c572dd0743280c5eec1b792b91e5300dfb7275fdc36758e8d7"
+    },
+    {
+      "path": "problems/2019-B4/proofs/reviewed-reasoning-growth-return-r1-v1.1.md",
+      "bytes": 26251,
+      "sha256": "c43a76227937eb11ff8261cc34cece7a411f6637fc4794336c3161f05ba11ea3"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-growth-return-r1-acceptance.json",
+      "bytes": 3825,
+      "sha256": "f3edac551dffe1a0ceb319d91da118ee3bd033a7c2fd4f5c7ce4c7f169f6e5c2"
+    },
+    {
+      "path": "problems/2019-B4/proofs/reviewed-walk-Frechet-v1.1.md",
+      "bytes": 18752,
+      "sha256": "c068f531fa9fa3c420867ae898291b6034cef7511e72ec6fd16f20ac3b023f44"
+    },
+    {
+      "path": "problems/2019-B4/reviews/walk-Frechet-acceptance.json",
+      "bytes": 2324,
+      "sha256": "4e56867f5962e7b284fc0430342aa90e5214c53c2f75226082bd984a843adbce"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-growth-return-r1-failed-routes-v1.md",
+      "bytes": 6072,
+      "sha256": "133e1ec933cd53ad6bb34605d1ddd15245ee8a70a9111166f19e26e0d2208b2d"
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-short-joining-research-v1.md",
+      "bytes": 4169,
+      "sha256": "d104591afd60f8f6f82b03052b05157defdd1ffbabbc85b1ebe720cdbd2b07a1"
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-trace-recognition-return-v1.md",
+      "bytes": 2110,
+      "sha256": "c6badf75ca0878588c2c66df553150c846ead74792d98b0841e3c9d308ced4c4"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-arithmetic-return-r11-freeze-v1.json",
+      "bytes": 6719,
+      "sha256": "0c53f7526ba90e3a8a5e419562f593f79923810aa63127cbe1bf053af5361906"
+    }
+  ],
+  "canonical_protected_summary_sha256": "88081aabd34ab70864b28b5530f5914676c844ca7902fa0a43f24b3ae8c0cf82",
+  "immediate_own_parent": {
+    "path": "problems/2020-B4/notes/reasoning-arithmetic-return-r11-freeze-v1.json",
+    "bytes": 6719,
+    "sha256": "0c53f7526ba90e3a8a5e419562f593f79923810aa63127cbe1bf053af5361906"
+  },
+  "older_own_paths_bound_transitively": 605,
+  "old_ancestry_recopied_or_recursively_rehashed": false,
+  "accepted_authority_summaries": [
+    {
+      "authority": {
+        "path": "problems/2019-B4/reviews/reasoning-return-r7-acceptance.json",
+        "bytes": 2560,
+        "sha256": "94ca56672f32f4624af71f41c48ddcf8757f1316b956586f6834cd1d7ee3b38b"
+      },
+      "accepted_copy": {
+        "path": "problems/2019-B4/proofs/reviewed-reasoning-return-r7-v1.1.md",
+        "bytes": 17727,
+        "sha256": "4fe222b8b1d89b6b3d66bb16c6a1985390d537eee55bb42bfefdb2d4821e351a"
+      },
+      "historical_declared_occurrences": 5859,
+      "historical_declared_unique_paths": 1136,
+      "historical_inventory_recursively_replayed": false
+    },
+    {
+      "authority": {
+        "path": "problems/2019-B4/reviews/monotone-ratio-acceptance.json",
+        "bytes": 2275,
+        "sha256": "a25e437f490e67c572dd0743280c5eec1b792b91e5300dfb7275fdc36758e8d7"
+      },
+      "accepted_copy": {
+        "path": "problems/2019-B4/proofs/reviewed-monotone-ratio-v1.1.md",
+        "bytes": 11402,
+        "sha256": "a87798e4df63ec2f76e83da9750f811b15fc6702533b4ca68bd8bd973ac3bac9"
+      },
+      "historical_declared_occurrences": 6552,
+      "historical_declared_unique_paths": 1199,
+      "historical_inventory_recursively_replayed": false
+    },
+    {
+      "authority": {
+        "path": "problems/2019-B4/reviews/reasoning-growth-return-r1-acceptance.json",
+        "bytes": 3825,
+        "sha256": "f3edac551dffe1a0ceb319d91da118ee3bd033a7c2fd4f5c7ce4c7f169f6e5c2"
+      },
+      "accepted_copy": {
+        "path": "problems/2019-B4/proofs/reviewed-reasoning-growth-return-r1-v1.1.md",
+        "bytes": 26251,
+        "sha256": "c43a76227937eb11ff8261cc34cece7a411f6637fc4794336c3161f05ba11ea3"
+      },
+      "historical_declared_occurrences": 137,
+      "historical_declared_unique_paths": 63,
+      "historical_inventory_recursively_replayed": false
+    },
+    {
+      "authority": {
+        "path": "problems/2019-B4/reviews/walk-Frechet-acceptance.json",
+        "bytes": 2324,
+        "sha256": "4e56867f5962e7b284fc0430342aa90e5214c53c2f75226082bd984a843adbce"
+      },
+      "accepted_copy": {
+        "path": "problems/2019-B4/proofs/reviewed-walk-Frechet-v1.1.md",
+        "bytes": 18752,
+        "sha256": "c068f531fa9fa3c420867ae898291b6034cef7511e72ec6fd16f20ac3b023f44"
+      },
+      "historical_declared_occurrences": 7643,
+      "historical_declared_unique_paths": 1288,
+      "historical_inventory_recursively_replayed": false
+    }
+  ],
+  "secondpass_exact_declared_hashes_checked": [
+    {
+      "path": "problems/2019-B4/proofs/reviewed-secondpass-v1.1.md",
+      "bytes": 2836,
+      "sha256": "5fbaa388fe2ff795034094823c088fa5402da60eb9eca83f78165df0c8ad2cd7"
+    },
+    {
+      "path": "problems/2019-B4/notes/secondpass-canonical-renewal.md",
+      "bytes": 11807,
+      "sha256": "886266000a34023b033099889a3bb23bc6b3e642194ded12ce53b3aaa1642763"
+    },
+    {
+      "path": "problems/2019-B4/notes/secondpass-rigidity-obstructions.md",
+      "bytes": 8447,
+      "sha256": "58112ed40ba7146c8b5885669602d44770bdd525540c4221eaf17b101eb1c109"
+    },
+    {
+      "path": "problems/2019-B4/notes/secondpass-staircases-and-pumping.md",
+      "bytes": 10885,
+      "sha256": "5e2539982e32d116076c2c17ad8e85d865792a14630db04634c7372ae345cd52"
+    }
+  ],
+  "mutable_research_and_references_read_as_context_not_immutable_premises": true,
+  "NEW_active_peer_material_opened_or_hashed": false
+}

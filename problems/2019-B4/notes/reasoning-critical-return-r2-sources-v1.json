@@ -1,0 +1,117 @@
+{
+  "checked_date_UTC": "2026-10-18",
+  "status": "candidate proof - unverified; source-scope index only",
+  "constructor": "/root/review_2022_complexity_r2",
+  "requested_settings": {"model": "gpt-6.1-sol", "reasoning": "max", "inherited": true},
+  "independently_verified_effective_settings": null,
+  "local_fingerprints": "reasoning-critical-return-r2-baseline-v1.json",
+  "full_paper_binary_downloaded_or_uploaded": false,
+  "external_binary_retrieval_sha256": null,
+  "mathematical_code_CAS_scan_or_author_rerun": false,
+  "records": [
+    {
+      "id": "OFFICIAL",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2019-paper-b_1.pdf",
+      "read": "actual setup and B4(b), page2 extracted lines63--87",
+      "used": "official distinct-string domain and two root-rate questions",
+      "not_investigated": "preliminary(a), unrelated problems"
+    },
+    {
+      "id": "SECOND_PASS",
+      "accepted_copy": "problems/2019-B4/proofs/reviewed-secondpass-v1.1.md",
+      "authority": "problems/2019-B4/reviews/secondpass-acceptance.json",
+      "operative_linked_bodies": ["problems/2019-B4/notes/secondpass-canonical-renewal.md", "problems/2019-B4/notes/secondpass-rigidity-obstructions.md", "problems/2019-B4/notes/secondpass-staircases-and-pumping.md"],
+      "read": "complete accepted register, all three linked texts, authority JSON",
+      "used": "canonical/phase model and exact staircase two-history family",
+      "finite_programs_replayed": false
+    },
+    {
+      "id": "R7",
+      "accepted_copy": "problems/2019-B4/proofs/reviewed-reasoning-return-r7-v1.1.md",
+      "authority": "problems/2019-B4/reviews/reasoning-return-r7-acceptance.json",
+      "read": "complete operative proof and full authority",
+      "used": "actual normalized count bounds and three endpoint alternatives",
+      "older_B_role": "independent reviewer; not new recertification"
+    },
+    {
+      "id": "MR1",
+      "accepted_copy": "problems/2019-B4/proofs/reviewed-monotone-ratio-v1.1.md",
+      "authority": "problems/2019-B4/reviews/monotone-ratio-acceptance.json",
+      "read": "complete accepted proof and authority; older candidate also full",
+      "used": "rho nonincrease and strictness indices only",
+      "not_used": "unproved J_C and finite diagnostics",
+      "older_B_role": "independent reviewer; root old constructor"
+    },
+    {
+      "id": "G1_G5",
+      "accepted_copy": "problems/2019-B4/proofs/reviewed-reasoning-growth-return-r1-v1.1.md",
+      "authority": "problems/2019-B4/reviews/reasoning-growth-return-r1-acceptance.json",
+      "read": "complete current accepted copy and authority",
+      "used": "G2 actual pointwise capacity, tilted pressure limit and symmetry",
+      "context_only": "conditional G3 angular law and G4 cusp; no actual regime",
+      "older_B_role": "sole constructor; old accepted premise not self-recertified"
+    },
+    {
+      "id": "DG",
+      "accepted_copy": "problems/2019-B4/proofs/reviewed-walk-Frechet-v1.1.md",
+      "authority": "problems/2019-B4/reviews/walk-Frechet-acceptance.json",
+      "read": "complete proof and full authority",
+      "scope": "actual closed unit-walk model; CR1 source-height identity separately reconstructed",
+      "older_B_role": "independent reviewer"
+    },
+    {
+      "id": "BERTONI_MASSAZZA_1998",
+      "url": "https://www.numdam.org/article/ITA_1998__32_1-3_79_0.pdf",
+      "read": "pages1--11 initially; actual Theorem4 statement/proof through page12",
+      "not_read": "remaining inclusion-problem section as operative proof",
+      "hypothesis_boundary": "finite ambiguity AND different prescribed commutation graph",
+      "theorem_imported_for_actual_language": false
+    },
+    {
+      "id": "KORNER_MALVENUTO_2006",
+      "url": "https://www.researchgate.net/publication/220533062_Pairwise_colliding_permutations_and_the_capacity_of_infinite_graphs",
+      "read": "intro, Sections2--4 through cyclic construction; Section6 unimodal theorem/proof",
+      "hypothesis_boundary": "pairwise consecutive-value permutation collision, not all output parity patterns",
+      "growth_bound_imported": false
+    },
+    {
+      "id": "GOLDWURM_WICH_TURN",
+      "url": "https://air.unimi.it/handle/2434/4919",
+      "attachment_attempted": "https://air.unimi.it/retrieve/dfa8b9a1-904f-748b-e053-3a05fe0a3a96/newklaus.pdf",
+      "read": "search record/snippets only; complete PDF opens failed",
+      "operative_proof_read": false,
+      "theorem_imported": false
+    },
+    {
+      "id": "BOUNDED_TRACE_2010",
+      "read": "search/intro snippets only",
+      "operative_proof_read": false,
+      "model_boundary": "bounded or polynomial-growth trace languages",
+      "theorem_imported": false
+    },
+    {
+      "id": "COUNTING_SAMPLING_TRACES",
+      "url": "https://doi.org/10.1145/3776723",
+      "read": "indexed abstract; full open403",
+      "operative_proof_read": false,
+      "theorem_imported": false
+    },
+    {
+      "id": "HEIGHT_KERNEL_SEARCH",
+      "read": "search context only, no operative primary theorem",
+      "model_boundary": "group kernel differs from actual positive alternating tape monoid",
+      "theorem_imported": false
+    },
+    {
+      "id": "LOCAL_CONTEXT",
+      "read": "complete research/references, prior growth failure log, root short-joining and trace-recognition notes",
+      "mathematical_premise": false,
+      "Avellone_Goldwurm_original_proof_freshly_reread": false,
+      "NEW_active_peer_review_material_opened": false
+    }
+  ],
+  "new_path_counts": "complete hand positive-vector proof; no external spectral theorem",
+  "new_fibre_count": "direct finite surjection and exact preimages; no history multiplicity",
+  "actual_critical_regime_or_exact_lambda_selected": false,
+  "TWO_OTHER_whole_audits_required": true
+}

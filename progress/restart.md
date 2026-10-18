@@ -1,3 +1,9 @@
+# Current restart boundary —2026-10-18 18:52Brisbane
+
+Read checkpoint-2026-10-18-1852.md and run-state first.19%TOTAL authorizedreset1792874445 only; continue to90TOTAL withreserve. New2017WC40/rootconstructor,2019CR60/Bconstructor,2021R1548/Aconstructor and2022SR48/Cconstructor are COMPLETE FROZEN UNVERIFIED. RootSR R1ENTIRE48 frozen; A R2active. RootCGconstructor excluded; C CGR1ENTIRE56 frozen withholdingfindings, B R2active. B/C queue OTHER WC whole40; root/C queue OTHER R15 whole48. No NEW corresponding peer findings/files/hash/meta before BOTH ENTIRE initials. Ownedawake79293/session64368verified08:47:56UTC; nextactualhourly/OScheck09:27:30UTC. Lastconfirmedpushd318ca2. No checkpoint endsresearch.
+
+---
+
 # Current restart boundary —2026-10-18 18:27Brisbane
 
 Read status-2026-10-18-1827.md and run-state. Current17%TOTAL,

@@ -1,0 +1,94 @@
+{
+  "recorded_at_utc": "2026-10-18T08:27:49.159903+00:00",
+  "status": "candidate proof - unverified",
+  "accepted_mathematical_dependencies": [
+    {
+      "scope": "accepted F5A/B exact canonical-fiber premise",
+      "authority": {
+        "path": "problems/2022-B4/reviews/reasoning-return-r5-acceptance.json",
+        "bytes": 2953,
+        "sha256": "4df7c51fed57104b49ebbbfc39a15fd2196676bbf3b0e122dcd4dbc5a8fd710a"
+      },
+      "candidate": {
+        "path": "problems/2022-B4/notes/reasoning-return-r5-candidate-v1.md",
+        "bytes": 26928,
+        "sha256": "f08f3e579f9ddeec52746060ab81aec6055f1ecfce24fa2031608eadb7743bef"
+      },
+      "accepted_copy": {
+        "path": "problems/2022-B4/proofs/reviewed-reasoning-return-r5-v1.1.md",
+        "bytes": 30324,
+        "sha256": "1a2544cb8ced3bba9cc6efed1870c242c652b3e6029f39881028d4637d7c6da6"
+      },
+      "historical_occurrences_bound_not_recursively_rehashed": 2011,
+      "historical_unique_paths_bound_not_recursively_rehashed": 823
+    },
+    {
+      "scope": "accepted ENTIRE Q1--Q8 v3 seed/rank premise",
+      "authority": {
+        "path": "problems/2022-B4/reviews/reasoning-complexity-return-r9-v3-acceptance.json",
+        "bytes": 4311,
+        "sha256": "8d47520d7fd80656d14bf7116a5d614cc55ff37c25963e839cf45d8495fe42c6"
+      },
+      "candidate": {
+        "path": "problems/2022-B4/notes/reasoning-complexity-return-r9-candidate-v3.md",
+        "bytes": 44042,
+        "sha256": "77bf84340543589d96698a64df5e3850cdf22fe953ee45587ab0d79997184ff5"
+      },
+      "accepted_copy": {
+        "path": "problems/2022-B4/proofs/reviewed-reasoning-complexity-return-r9-v3.1.md",
+        "bytes": 49080,
+        "sha256": "18e681d69b29d3495fea0cc2a29dbcb8a9c34db60644b981b3f653d666bef4ad"
+      },
+      "historical_occurrences_bound_not_recursively_rehashed": 276,
+      "historical_unique_paths_bound_not_recursively_rehashed": 102
+    }
+  ],
+  "primary_read_contexts": [
+    {
+      "authors": "Official Simon Marais 2022 Paper B",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2022-paper-b.pdf",
+      "scope": "page2 B4(b) actual positive simultaneous/product domain; no preliminary proof",
+      "local_new_PDF_sha256": null
+    },
+    {
+      "authors": "Akiyama--Frougny--Sakarovitch",
+      "url": "https://perso.telecom-paristech.fr/jsaka/PUB/Files/RBNS-rev.pdf",
+      "scope": "opening definitions; Section5.1, ENTIRE Proposition37/Corollary38 proofs; Lemma29 integer hypotheses, not entire Lemma29/source chain",
+      "mathematical_import": "only separately accepted F5 specialization",
+      "local_new_PDF_sha256": null
+    },
+    {
+      "authors": "Dubickas--Mossinghoff",
+      "url": "https://www.researchgate.net/publication/220576840_Lower_bounds_for_Z-numbers",
+      "scope": "actual author-uploaded introduction and ENTIRE Lemma3.1/Propositions3.1--3.2 proofs; no tables or algorithms imported",
+      "mathematical_import": "no general termination theorem; singleton argument rederived",
+      "local_new_PDF_sha256": null
+    },
+    {
+      "authors": "Andrieu--Eliahou--Vivion v2",
+      "url": "https://arxiv.org/html/2510.11723v2",
+      "scope": "definitions and entire operative Section3.3 Proposition3.10/3.13 proofs and conjecture/question contexts",
+      "mathematical_import": "conjecture boundary only, proper-S qualification retained",
+      "local_new_PDF_sha256": null
+    },
+    {
+      "authors": "Akiyama--Marsault--Sakarovitch",
+      "url": "https://victor.marsault.xyz/resources/articles/RatBaseAutoSim_v10_2018-02-27.pdf",
+      "scope": "span definitions, TheoremII/Proposition57, ENTIRE Section6.2 proof, conclusion Problem71; not entire33pages",
+      "mathematical_import": "failed closure-to-attained-seed inference only",
+      "local_new_PDF_sha256": null
+    }
+  ],
+  "overlap_context_paths": [
+    "problems/2022-B4/proofs/reviewed-partials-v1.md",
+    "problems/2022-B4/proofs/reviewed-return-r3-v1.1.md",
+    "problems/2022-B4/notes/reasoning-return-r8-candidate-v1.md",
+    "problems/2022-B4/notes/reasoning-return-r8-source-audit-v1.md",
+    "problems/2022-B4/reviews/reasoning-return-r8-acceptance.md",
+    "problems/2022-B4/reviews/reasoning-return-r8-acceptance.json"
+  ],
+  "exact_scope_companion": "problems/2022-B4/notes/reasoning-seed-return-r1-source-audit-v1.md",
+  "no_new_cached_PDF_download_or_fabricated_source_hash": true,
+  "no_unread_external_theorem_supplies_ordinary_survivor": true,
+  "old_input_authorship_not_independent_recertification": true
+}

@@ -1,0 +1,169 @@
+{
+  "frozen_utc": "2026-10-18T08:42:57.465138+00:00",
+  "status": "candidate proof - unverified; ENTIRE critical-return-r2 constructor checkpoint",
+  "constructor": "/root/review_2022_complexity_r2",
+  "NEW_claims": [
+    "CR1",
+    "CR2",
+    "CR3",
+    "CR4",
+    "CR5"
+  ],
+  "all60_obligations_and_constructor_checks_complete": true,
+  "TWO_OTHER_entire_blind_whole_audits_and_coordinator_reconciliation_REQUIRED": true,
+  "constructor_excluded_from_independent_review_count": true,
+  "root_supplied_generic_assignment_no_NEW_proof_inference": true,
+  "actual_regime_exact_lambda_numeric_improvement_annual_or_priority_claim": false,
+  "new_unconditional_result": "actual distinct-context confined-piece entropy loss and logarithmic longest-piece bound",
+  "remaining_gap": "control feasible-cut NUMBER without assuming spread or one-pass normalization bounds",
+  "accepted_input_old_authorship_not_self_recertified": true,
+  "necessary_protected_occurrences": 19,
+  "necessary_protected_unique_paths": 19,
+  "canonical_protected_summary_sha256": "88081aabd34ab70864b28b5530f5914676c844ca7902fa0a43f24b3ae8c0cf82",
+  "immediate_own_parent": {
+    "path": "problems/2020-B4/notes/reasoning-arithmetic-return-r11-freeze-v1.json",
+    "bytes": 6719,
+    "sha256": "0c53f7526ba90e3a8a5e419562f593f79923810aa63127cbe1bf053af5361906"
+  },
+  "accepted_authority_summaries": [
+    {
+      "authority": {
+        "path": "problems/2019-B4/reviews/reasoning-return-r7-acceptance.json",
+        "bytes": 2560,
+        "sha256": "94ca56672f32f4624af71f41c48ddcf8757f1316b956586f6834cd1d7ee3b38b"
+      },
+      "accepted_copy": {
+        "path": "problems/2019-B4/proofs/reviewed-reasoning-return-r7-v1.1.md",
+        "bytes": 17727,
+        "sha256": "4fe222b8b1d89b6b3d66bb16c6a1985390d537eee55bb42bfefdb2d4821e351a"
+      },
+      "historical_declared_occurrences": 5859,
+      "historical_declared_unique_paths": 1136,
+      "historical_inventory_recursively_replayed": false
+    },
+    {
+      "authority": {
+        "path": "problems/2019-B4/reviews/monotone-ratio-acceptance.json",
+        "bytes": 2275,
+        "sha256": "a25e437f490e67c572dd0743280c5eec1b792b91e5300dfb7275fdc36758e8d7"
+      },
+      "accepted_copy": {
+        "path": "problems/2019-B4/proofs/reviewed-monotone-ratio-v1.1.md",
+        "bytes": 11402,
+        "sha256": "a87798e4df63ec2f76e83da9750f811b15fc6702533b4ca68bd8bd973ac3bac9"
+      },
+      "historical_declared_occurrences": 6552,
+      "historical_declared_unique_paths": 1199,
+      "historical_inventory_recursively_replayed": false
+    },
+    {
+      "authority": {
+        "path": "problems/2019-B4/reviews/reasoning-growth-return-r1-acceptance.json",
+        "bytes": 3825,
+        "sha256": "f3edac551dffe1a0ceb319d91da118ee3bd033a7c2fd4f5c7ce4c7f169f6e5c2"
+      },
+      "accepted_copy": {
+        "path": "problems/2019-B4/proofs/reviewed-reasoning-growth-return-r1-v1.1.md",
+        "bytes": 26251,
+        "sha256": "c43a76227937eb11ff8261cc34cece7a411f6637fc4794336c3161f05ba11ea3"
+      },
+      "historical_declared_occurrences": 137,
+      "historical_declared_unique_paths": 63,
+      "historical_inventory_recursively_replayed": false
+    },
+    {
+      "authority": {
+        "path": "problems/2019-B4/reviews/walk-Frechet-acceptance.json",
+        "bytes": 2324,
+        "sha256": "4e56867f5962e7b284fc0430342aa90e5214c53c2f75226082bd984a843adbce"
+      },
+      "accepted_copy": {
+        "path": "problems/2019-B4/proofs/reviewed-walk-Frechet-v1.1.md",
+        "bytes": 18752,
+        "sha256": "c068f531fa9fa3c420867ae898291b6034cef7511e72ec6fd16f20ac3b023f44"
+      },
+      "historical_declared_occurrences": 7643,
+      "historical_declared_unique_paths": 1288,
+      "historical_inventory_recursively_replayed": false
+    }
+  ],
+  "older_own_paths_bound_transitively": 605,
+  "new_own_files_including_freeze": 11,
+  "older_plus_new_own_paths_bound_transitively": 616,
+  "no_recursive_historical_inventory_copy_or_reverify": true,
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independently_verified_effective_settings": null,
+  "authoritative_weekly_telemetry": {
+    "observed_at_utc": "2026-10-18 08:42:49 UTC",
+    "method": "mcp__codex_app__get_usage_limits plus same-batch clock",
+    "account_label": "029a8928...1334ac3a",
+    "used_percent_TOTAL": 18,
+    "window_minutes": 10080,
+    "reset_unix": 1792874445,
+    "ordinary_usage_allowed": true,
+    "legacy_and_by_limit_agree": true,
+    "current_window_explicitly_user_authorized": true,
+    "ceiling_TOTAL_percent": 90,
+    "integration_reserve": true,
+    "automatic_later_reset_spending": false
+  },
+  "mathematical_code_CAS_scan_source_or_author_rerun": false,
+  "no_Git_shared_old_cache_write_spawn_contact_charge_or_bypass": true,
+  "NEW_queued_CG_candidate_or_peer_material_read_or_hashed": false,
+  "artifacts": [
+    {
+      "path": "problems/2019-B4/notes/reasoning-critical-return-r2-candidate-v1.md",
+      "bytes": 22291,
+      "sha256": "1d672cc4eafde68da5d83cd4997dbee1a4e5274e4858bafbbc63479cc01b3de7"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-critical-return-r2-obligations-v1.md",
+      "bytes": 8962,
+      "sha256": "aea6972069c4fc2efdf7b1a92144b39a63ad7ce7f9dceb150251e3abeccc3c5a"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-critical-return-r2-constructor-checks-v1.md",
+      "bytes": 10662,
+      "sha256": "f2ffec4fc4a3e7526aae5464e9c0335d0bf83d78be898ce37565d18745a07932"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-critical-return-r2-sources-v1.md",
+      "bytes": 8736,
+      "sha256": "5cbba9db6b55610bbe778fb9b5f72cc829d63874300f7064e89efe017d204fe3"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-critical-return-r2-sources-v1.json",
+      "bytes": 5792,
+      "sha256": "30e89bd0b79bf822899cb2f78807251acbed52d99e1e56a40576a30803e52bd9"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-critical-return-r2-failed-routes-v1.md",
+      "bytes": 7506,
+      "sha256": "af774b5eccb97f5231ab40a47a8f55be0675cb3de15156d704b78ced68f8bf3e"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-critical-return-r2-worklog-v1.md",
+      "bytes": 9664,
+      "sha256": "ce01cdf13f2a12bfce42f4a34f2b8b70ec5cf7f0d9b89eccceb2e564212a5fef"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-critical-return-r2-baseline-v1.json",
+      "bytes": 7708,
+      "sha256": "56d6a4a8dbaefbb08342eb943abd5fe83226b1c9542411d8f7a8347bd085c3df"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-critical-return-r2-freeze-v1.py",
+      "bytes": 10936,
+      "sha256": "43aa2aa1b0b6966b03f1cb193af4090e3c9da97866c850d2cfffa4827f4c8976"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-critical-return-r2-input-validation-v1.json",
+      "bytes": 603,
+      "sha256": "1966c49f01a76e3a8df62b378b2d849a78c6451289be2363b26a652292c9f675"
+    }
+  ]
+}

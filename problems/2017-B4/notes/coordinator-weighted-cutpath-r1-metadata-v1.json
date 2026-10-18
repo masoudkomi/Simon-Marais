@@ -1,0 +1,35 @@
+{
+  "recorded_at_utc": "2026-10-18T08:50:30.154910+00:00",
+  "status": "candidate proof - unverified",
+  "constructor": "/root",
+  "sole_new_constructor": true,
+  "root_excluded_from_both_reviews": true,
+  "whole_obligations": 40,
+  "all40_hand_dispositions_present": true,
+  "conclusions": [
+    "WC1 direct K^n cutpath bound",
+    "WC2 strict log2K<162/125",
+    "WC3 official limsup<81/125"
+  ],
+  "no_math_program_CAS_scan_sample_optimization_certificate_or_source_rerun": true,
+  "no_fullannual_exactvalue_upper_R_effective_modulus_or_priority_claim": true,
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independently_verified_effective_settings": null,
+  "telemetry": {
+    "observed_at_utc": "2026-10-18T08:47:57+00:00",
+    "weekly_used_percent_TOTAL": 19,
+    "reset_unix": 1792874445,
+    "window_minutes": 10080,
+    "ordinary_usage_allowed": true,
+    "authorized_ceiling_percent_TOTAL": 90,
+    "integration_reserve": true,
+    "no_automatic_later_reset": true
+  },
+  "no_NEW_corresponding_peer_files_findings_hashes_or_metadata_opened": true,
+  "TWO_OTHER_ENTIRE_initially_blind_WHOLE_audits_required": true,
+  "promotion": false
+}
