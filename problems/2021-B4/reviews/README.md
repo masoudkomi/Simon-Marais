@@ -1,5 +1,14 @@
 # 2021 B4 independent reviews
 
+The newly accepted [R20A/B four-witness obstruction](reasoning-center-return-r20-acceptance.md)
+passed root/B TWO OTHER ENTIRE WHOLE48/48 audits and full96-disposition
+reconciliation. The first derivative divided by20 BEFORE dyadic reduction,
+together with six exact rational rows and two product valuations, excludes
+the ENTIRE actual R18 frame-II double-origin orbit. R19 is not a premise.
+FrameI was separately excluded; frameIII, other sectors, full degree20
+and the annual question remain OPEN. Historical status notices below
+retain their earlier dates and are superseded by the accepted authorities.
+
 The [FULL R19 v1.1 repaired result](reasoning-center-return-r19-acceptance.md)
 is now **proved, independently reviewed scoped partial result** after three
 ENTIRE affected76 audits and full reconciliation. The required scaling

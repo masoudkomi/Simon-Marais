@@ -1,5 +1,24 @@
 # 2024 B4 research log
 
+## Research significance and connections
+
+Opening overview updated 2026-10-18. After removing the three prescribed
+linear factors, B4(b) asks which homogeneous polynomials \(\phi_n\) split
+over \(\mathbb F_2\). The same polynomial records four-term additive
+relations among powers in characteristic two. Its zeros and components link
+the problem to almost perfect nonlinear (APN) power maps, used in the study of
+differential properties in cryptography, and to the minimum distance of
+binary cyclic codes. [Hernando–McGuire](https://arxiv.org/abs/0903.2016)
+explain and use both connections.
+
+The research also belongs to algebraic geometry over finite fields: singular
+points, tangent cones, intersection multiplicities and Frobenius actions
+constrain possible components. These distinctions are essential. Splitting
+over an algebraic closure differs from splitting over \(\mathbb F_2\), and
+having one absolutely irreducible component defined over \(\mathbb F_2\)
+does not establish irreducibility of the whole polynomial. Consequently the
+published exceptional-APN classification does not itself answer B4(b).
+
 The [R8A--C no-four-sum criterion](reviews/reasoning-cofactor-return-r8-acceptance.md)
 is now **proved, independently reviewed scoped partial result** after
 root/B TWO OTHER ENTIRE WHOLE48/48 and full reconciliation. For NF4,
@@ -20,25 +39,6 @@ or priority is claimed. Accepted R6 still has n=(Q-1)*Q^k+1.
 
 
 Current18October2026: [R6A–R6D](reviews/reasoning-cofactor-return-r6-acceptance.md) are **proved, independently reviewed scoped partial results** after TWO OTHER ENTIRE WHOLE48/48 audits and complete reconciliation. For ALLs≥3,k≥2, Q=2^s gives whole absolute irreducibility of φ_((Q−1)Q^k+1). A direct generic tangent-order proof gives every nonlinear component degree≥q; T1 and the universal actual-smaller-factor R4A bound contradict reducibility. General k1/other odd parts/the annual classification remain open; Férard2017 overlap/priority unresolved. Historical entries below retain their earlier statuses.
-
-## Research significance and connections
-
-Opening overview updated 2026-10-18. After removing the three prescribed
-linear factors, B4(b) asks which homogeneous polynomials \(\phi_n\) split
-over \(\mathbb F_2\). The same polynomial records four-term additive
-relations among powers in characteristic two. Its zeros and components link
-the problem to almost perfect nonlinear (APN) power maps, used in the study of
-differential properties in cryptography, and to the minimum distance of
-binary cyclic codes. [Hernando–McGuire](https://arxiv.org/abs/0903.2016)
-explain and use both connections.
-
-The research also belongs to algebraic geometry over finite fields: singular
-points, tangent cones, intersection multiplicities and Frobenius actions
-constrain possible components. These distinctions are essential. Splitting
-over an algebraic closure differs from splitting over \(\mathbb F_2\), and
-having one absolutely irreducible component defined over \(\mathbb F_2\)
-does not establish irreducibility of the whole polynomial. Consequently the
-published exceptional-APN classification does not itself answer B4(b).
 
 The project's reviewed results include exact occurrences of specified factors,
 Kasami-family criteria, structural restrictions and exclusion of all

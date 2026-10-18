@@ -1,17 +1,5 @@
 # 2022 B4 research log
 
-The new [D7A–D actual-ancestry result](reviews/reasoning-dynamics-return-r7-acceptance.md)
-is **proved, independently reviewed scoped partial result** after root/A
-TWO OTHER ENTIRE WHOLE48/48 and full96-disposition reconciliation.
-Whole collateral ancestry escapes fixed real growth bands;hypothetical
-avoiding sources need not be small. The exact all-N family first hits
-at N+2 with singleton image fibers along its finite avoiding prefix.
-No infinite avoider,universal hitting,CF6 existence,source-size transport,
-annual or priority conclusion.
-
-
-The new [D6A–D6D actual-growth theorem](reviews/reasoning-dynamics-return-r6-acceptance.md) is **proved, independently reviewed scoped partial result** after C/root TWO OTHER ENTIRE initially blind WHOLE64/64 audits and full reconciliation. A uniform32-step finite steering argument yields power-sparse equal-growth common translations except the precise permanent even-a unit twin. On EVERY fixed-difference line, distinct actual real SUM-growth values below X number X/2+O_d(X^eta),with a fixed eta<1. Explicit legal ordinary neighboring starts on difference6 have certified different growth values arbitrarily close together. These results do not decide universal diagonal hitting,an infinite avoider,CF6existence or effective equality. No priority or external-validation claim.
-
 ## Research significance and connections
 
 Opening overview updated 2026-10-18. The question is an exact reachability
@@ -30,6 +18,18 @@ methodological; no equivalence to a different famous dynamics conjecture is
 claimed. The [organizers' report](https://austms.org.au/wp-content/uploads/2023/04/501Web.pdf),
 printed pp. 29–30, attributes the problem to Johan Meyer and describes
 numerical work by Chris Tuffley.
+
+The new [D7A–D actual-ancestry result](reviews/reasoning-dynamics-return-r7-acceptance.md)
+is **proved, independently reviewed scoped partial result** after root/A
+TWO OTHER ENTIRE WHOLE48/48 and full96-disposition reconciliation.
+Whole collateral ancestry escapes fixed real growth bands;hypothetical
+avoiding sources need not be small. The exact all-N family first hits
+at N+2 with singleton image fibers along its finite avoiding prefix.
+No infinite avoider,universal hitting,CF6 existence,source-size transport,
+annual or priority conclusion.
+
+
+The new [D6A–D6D actual-growth theorem](reviews/reasoning-dynamics-return-r6-acceptance.md) is **proved, independently reviewed scoped partial result** after C/root TWO OTHER ENTIRE initially blind WHOLE64/64 audits and full reconciliation. A uniform32-step finite steering argument yields power-sparse equal-growth common translations except the precise permanent even-a unit twin. On EVERY fixed-difference line, distinct actual real SUM-growth values below X number X/2+O_d(X^eta),with a fixed eta<1. Explicit legal ordinary neighboring starts on difference6 have certified different growth values arbitrarily close together. These results do not decide universal diagonal hitting,an infinite avoider,CF6existence or effective equality. No priority or external-validation claim.
 
 Reviewed results give density-one conclusions on fixed-difference lines and exact predecessor/merger restrictions. The newly accepted [Q1–Q8 reduction](reviews/reasoning-complexity-return-r9-v3-acceptance.md) uses an explicit integer rank to remove many possible minimal counterexamples and gives exact formulas for the remaining starts with no predecessor inside the strip. BOTH OTHER initially blind ENTIRE WHOLE100/100 audits and coordinator reconciliation cover its complete v1/v2/v3 chain. The resulting birth and orphan families remain unbounded, and two displayed families still have unknown futures. No actual infinite avoiding orbit or unrestricted termination proof has been obtained. See the [current dashboard](../../progress/dashboard.md), [references](references.md), and [review register](reviews/README.md).
 

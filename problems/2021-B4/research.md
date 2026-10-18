@@ -1,5 +1,33 @@
 # 2021 B4 research log
 
+## Research significance and connections
+
+Opening overview updated 2026-10-18. The Casas–Alvero question asks whether a
+polynomial sharing a root with each nonconstant derivative must be a power of
+a linear polynomial. The contest requires each chosen common root to be
+rational, while other roots can be irrational or nonreal. That stronger
+witness hypothesis supplies arithmetic information without making the
+polynomial split over \(\mathbb Q\).
+
+The problem joins polynomial root geometry, interpolation, algebraic geometry
+and arithmetic. Vanishing derivatives can be organized into incidence
+patterns; resultants and polynomial ideals encode compatibility of those
+patterns. Reduction modulo a prime and \(p\)-adic valuations can obstruct a
+characteristic-zero configuration, provided actual rational witnesses are
+retained. [Castryck–Laterveer–Ounaïes](https://arxiv.org/abs/1208.5404)
+develop this interaction between arithmetic restrictions and algebraic
+computation. A finite normalized parameter space, however, need not be empty,
+and an available residue root need not lift to a rational common root.
+
+The newly accepted [R20A/B four-witness obstruction](reviews/reasoning-center-return-r20-acceptance.md)
+passed root/B TWO OTHER ENTIRE WHOLE48/48 audits and full96-disposition
+reconciliation. The first derivative divided by20 BEFORE dyadic reduction,
+together with six exact rational rows and two product valuations, excludes
+the ENTIRE actual R18 frame-II double-origin orbit. R19 is not a premise.
+FrameI was separately excluded; frameIII, other sectors, full degree20
+and the annual question remain OPEN. Historical status notices below
+retain their earlier dates and are superseded by the accepted authorities.
+
 The [FULL R19 v1.1 repaired result](reviews/reasoning-center-return-r19-acceptance.md)
 is now **proved, independently reviewed scoped partial result** after three
 ENTIRE affected76 audits and full reconciliation. The required scaling
@@ -26,26 +54,6 @@ back to unscaled original coordinates. Root missed that scope error in
 its initial review and records it explicitly. ALL v1 bytes/counterargument
 are preserved;FULL versioned author correction and BOTH affected reaudits
 are required. No R19 promotion or degree20/annual conclusion is made.
-
-
-## Research significance and connections
-
-Opening overview updated 2026-10-18. The Casas–Alvero question asks whether a
-polynomial sharing a root with each nonconstant derivative must be a power of
-a linear polynomial. The contest requires each chosen common root to be
-rational, while other roots can be irrational or nonreal. That stronger
-witness hypothesis supplies arithmetic information without making the
-polynomial split over \(\mathbb Q\).
-
-The problem joins polynomial root geometry, interpolation, algebraic geometry
-and arithmetic. Vanishing derivatives can be organized into incidence
-patterns; resultants and polynomial ideals encode compatibility of those
-patterns. Reduction modulo a prime and \(p\)-adic valuations can obstruct a
-characteristic-zero configuration, provided actual rational witnesses are
-retained. [Castryck–Laterveer–Ounaïes](https://arxiv.org/abs/1208.5404)
-develop this interaction between arithmetic restrictions and algebraic
-computation. A finite normalized parameter space, however, need not be empty,
-and an available residue root need not lift to a rational common root.
 
 The reviewed results restrict carefully specified degree-20 branches.
 Newly accepted [R15A-C](reviews/reasoning-unit-return-r15-acceptance.md)

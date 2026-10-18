@@ -5,21 +5,22 @@ This repository records a sustained investigation of the Simon Marais Mathematic
 **Only the open portion is in scope:** the entire 2017 problem; the general 2018 enumeration, excluding research on its already known m=5 case; and **B4(b) only in every year 2019-2025**. Preliminary part (a) is excluded. See the [direct official-paper scope audit](sources/open-scope-audit.md). Whether an originally open problem has subsequently been solved is a separate, dated literature question.
 
 **Current stage:** two complete internally reviewed annual answers:
-the attributed published2018 enumeration and2023 exponent classification
-(priority unestablished). Seven annual targets remain unresolved.
-[2021 R19 repaired result](problems/2021-B4/reviews/reasoning-center-return-r19-acceptance.md)
-is accepted after three entire affected76 audits;frameI is excluded,
-frameII constrained,and the original scaling error/rootmiss are preserved.
-[2024 R8](problems/2024-B4/reviews/reasoning-cofactor-return-r8-acceptance.md)
-is accepted after both entire48 audits:the no-four-sum criterion retains
-ordinary diagonal points and includes everyi>=2 at odd parts11/23.
-Other recent reviewed partials include2017PM9,2019BT/CT,2020SQ14,
-2022D7,2024R6/R7 and2025DR6. NEW2019AT and2021R20 remain unverified
-pending whole audits/reconciliation;C continues2020SQ15 hand research.
-Direct weekly47%TOTAL at2026-10-18 15:26:55UTC/reset1792874445;
-continue to90%TOTAL with reserve in this explicitly authorized window.
+the attributed published2018 enumeration and2023 classification (priority
+unestablished). Seven annual targets remain unresolved.
+[2019 AT](problems/2019-B4/reviews/reasoning-cut-transfer-r6-acceptance.md)
+is accepted after two whole64 audits: exact viable-area identities and
+conditional regimes, with an actual counterfamily distinguishing viable
+area from height-matching area. The actual growth regime/value stays open.
+[2021 R20](problems/2021-B4/reviews/reasoning-center-return-r20-acceptance.md)
+is accepted after two whole48 audits and excludes the entire exact R18
+frame-II orbit. FrameIII and full degree20 remain open. Other recent
+reviewed partials include2017PM9,2020SQ14,2022D7,2024R6/R7/R8 and2025DR6.
+NEW2020SQ15 is frozen unverified, requiring two OTHER whole audits;
+NEW2017R10/2025DR7/2022D8 hand research continues.
+Direct weekly48% TOTAL at2026-10-18 15:39:35UTC/reset1792874445;
+continue to90% TOTAL with reserve in this explicitly authorized window.
 
-- [Latest continuing checkpoint](progress/checkpoint-2026-10-19-0122.md).
+- [Latest continuing checkpoint](progress/checkpoint-2026-10-19-0146.md).
 - [Latest actual hourly report](progress/status-2026-10-19-0127.md).
   Next actual hourly/token/owned-awake check16:27:30UTC.
 

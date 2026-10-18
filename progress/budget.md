@@ -1,5 +1,16 @@
 # Weekly budget
 
+Current continuing checkpoint19 October2026: [2019AT](../problems/2019-B4/reviews/reasoning-cut-transfer-r6-acceptance.md)
+accepted after root/A ENTIRE64/64 and ALL128 full reconciliation;
+[2021R20](../problems/2021-B4/reviews/reasoning-center-return-r20-acceptance.md)
+accepted after root/B ENTIRE48/48 and ALL96 full reconciliation, excluding
+the ENTIRE exact R18 frame-II orbit. Annual targets remain2 complete/7 open.
+SQ15 author13/48 UNVERIFIED; root audit next; NEW2017R10/2025DR7/2022D8
+hand research continues. Direct48% TOTAL15:39:35UTC/reset1792874445only,
+90% ceiling/reserve. [Checkpoint](checkpoint-2026-10-19-0146.md).
+Next ACTUAL hourly16:27:30UTC; latest actual01:27 raw counts unchanged.
+
+
 Current continuing checkpoint19October2026: [R19 repaired scoped result](../problems/2021-B4/reviews/reasoning-center-return-r19-acceptance.md)
 accepted after three affected ENTIRE76 audits/reconciliation; exact original
 error/rootmiss/Bfilename-only event preserved. [2024R8](../problems/2024-B4/reviews/reasoning-cofactor-return-r8-acceptance.md)

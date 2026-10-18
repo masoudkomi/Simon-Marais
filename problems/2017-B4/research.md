@@ -1,18 +1,5 @@
 # 2017 B4 research log
 
-The new [PM9A–PM9C moment/interpolation bound](reviews/coordinator-path-moment-r3-acceptance.md)
-is **proved, independently reviewed scoped partial result** after C/B
-TWO OTHER initially blind ENTIRE WHOLE48/48 audits and full96-disposition
-reconciliation. Root constructor excluded. EVERY actual arrangement at
-EVERY n≥2 has at most H^n cutpaths,with H strictly below the current
-PM8 base J and no prefactor four. The positive absolute degree-four
-moment and separately paid negative moment give this bound by finite
-Hölder;exact marked insertion yields limsup≤half-log2H. Exact value,
-matching lower,effective all-scale R,annual answer and priority remain open.
-PM8's accepted geometry had already discharged WO4's former low-cost
-premise;the old conditional body remains historically unchanged.
-
-
 ## Research significance and connections
 
 Opening overview updated 2026-10-18. The target is the exponential growth rate
@@ -30,6 +17,18 @@ and variational principles. A key difficulty is that the number of directions
 also grows; a theorem for a fixed set of tile directions does not immediately
 control this family. Counting arrangements also differs from counting the
 many sorting histories that can describe one arrangement.
+
+The new [PM9A–PM9C moment/interpolation bound](reviews/coordinator-path-moment-r3-acceptance.md)
+is **proved, independently reviewed scoped partial result** after C/B
+TWO OTHER initially blind ENTIRE WHOLE48/48 audits and full96-disposition
+reconciliation. Root constructor excluded. EVERY actual arrangement at
+EVERY n≥2 has at most H^n cutpaths,with H strictly below the current
+PM8 base J and no prefactor four. The positive absolute degree-four
+moment and separately paid negative moment give this bound by finite
+Hölder;exact marked insertion yields limsup≤half-log2H. Exact value,
+matching lower,effective all-scale R,annual answer and priority remain open.
+PM8's accepted geometry had already discharged WO4's former low-cost
+premise;the old conditional body remains historically unchanged.
 
 The project has independently reviewed a proof that the two requested rates
 coincide, together with certified lower approximations and the upper bound

@@ -1,17 +1,5 @@
 # 2025 B4 research log
 
-The new [DR6A–D ordinary-root result](reviews/reasoning-diagonal-return-r6-acceptance.md)
-is **proved, independently reviewed scoped partial result** after root/C
-TWO OTHER ENTIRE WHOLE48/48 and full96-disposition reconciliation.
-For actual signed residual prime-diagonal p>=37,cofactor2 is excluded
-at BOTH centers/signs,the normalized cofactor grows with p,and each
-fixed bound C gives explicit finite parameters. Higher depths retain
-accepted RD3/classical Jacobi dependencies. Pure-X overlap attributed;
-unbounded c and the annual classification remain open.
-
-
-The new [RD1–RD4 real-trace theorem](reviews/reasoning-diagonal-return-r5-acceptance.md) is **proved, independently reviewed scoped partial result** after root/A TWO OTHER ENTIRE initially blind WHOLE48/48 audits and full reconciliation. For actual signed prime-diagonal p≥37, the SAME Jacobi lift gives a primitive real trace and positive integer discriminant quotient, with ALL finite primes/real ramification accounted. The proved Chebyshev interval bound forces |X|>p^[2(s−1)]+1 and actual cofactor c>p^(s−2) at BOTH residual centers. Fixed c<p leaves only depth2; the quadratic families, arbitrary large cofactors, unrestricted p and annual classification remain open. Published overlap is attributed; no priority or external-validation claim.
-
 ## Research significance and connections
 
 Opening overview updated 2026-10-18. Away from elementary boundary values,
@@ -30,6 +18,18 @@ factors of the term count, counted with multiplicity, without completing the
 classification. Shared factors and ramified primes obstruct a direct
 inference that every cyclotomic factor is a perfect power. These are precisely
 the arithmetic interfaces our present work examines.
+
+The new [DR6A–D ordinary-root result](reviews/reasoning-diagonal-return-r6-acceptance.md)
+is **proved, independently reviewed scoped partial result** after root/C
+TWO OTHER ENTIRE WHOLE48/48 and full96-disposition reconciliation.
+For actual signed residual prime-diagonal p>=37,cofactor2 is excluded
+at BOTH centers/signs,the normalized cofactor grows with p,and each
+fixed bound C gives explicit finite parameters. Higher depths retain
+accepted RD3/classical Jacobi dependencies. Pure-X overlap attributed;
+unbounded c and the annual classification remain open.
+
+
+The new [RD1–RD4 real-trace theorem](reviews/reasoning-diagonal-return-r5-acceptance.md) is **proved, independently reviewed scoped partial result** after root/A TWO OTHER ENTIRE initially blind WHOLE48/48 audits and full reconciliation. For actual signed prime-diagonal p≥37, the SAME Jacobi lift gives a primitive real trace and positive integer discriminant quotient, with ALL finite primes/real ramification accounted. The proved Chebyshev interval bound forces |X|>p^[2(s−1)]+1 and actual cofactor c>p^(s−2) at BOTH residual centers. Fixed c<p leaves only depth2; the quadratic families, arbitrary large cofactors, unrestricted p and annual classification remain open. Published overlap is attributed; no priority or external-validation claim.
 
 The project has reviewed boundary and valuation reductions, restricted
 published consequences, and cyclotomic orbit/jet estimates. The new

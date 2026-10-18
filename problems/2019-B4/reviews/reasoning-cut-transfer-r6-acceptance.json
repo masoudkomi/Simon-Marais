@@ -1,0 +1,110 @@
+{
+  "accepted_at_utc": "2026-10-18T15:34:37.095810+00:00",
+  "status": "proved, independently reviewed scoped partial result",
+  "whole_initials_blind": true,
+  "root_read_full_candidate_both_reports_all_ledgers_sources": true,
+  "unresolved_substantive_issues": 0,
+  "repair_required": false,
+  "candidate": {
+    "path": "problems/2019-B4/notes/reasoning-cut-transfer-r6-candidate-v1.md",
+    "bytes": 20223,
+    "sha256": "1f5e0b02047806420b52fe503f85567f23dccfd05045a710b802d03dc9e0f40d"
+  },
+  "accepted_copy": {
+    "path": "problems/2019-B4/proofs/reviewed-reasoning-cut-transfer-r6-v1.1.md",
+    "bytes": 25072,
+    "sha256": "f43bd14fbec8b827dadbdbc33161e34aad3082f946a858bbf8d78880d0024ff8"
+  },
+  "verification_metadata": [
+    {
+      "path": "problems/2019-B4/notes/reasoning-cut-transfer-r6-freeze-v1.json",
+      "bytes": 5022,
+      "sha256": "4b8e9a485850e2410f045ad4d83e13184d2d6ce60a327b153cd47313f483b4cc"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-cut-transfer-r6-baseline-v1.json",
+      "bytes": 8759,
+      "sha256": "35a82bb981314a03db9e07e8dd14023d6d64c27c4bd7ca0f152f7ee396014390"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-cut-transfer-r6-input-validation-v1.json",
+      "bytes": 5725,
+      "sha256": "d3f01c463b8338f6dc6093d5393e17fcbb4d3fc8ff13f56268c8def40b5efb91"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-cut-transfer-r6-review-1-manifest-v1.json",
+      "bytes": 2561,
+      "sha256": "b3c73301db0398cb7be9c28731bb70adcf35110ce0929c3e35db13f5eb8c5006"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-cut-transfer-r6-review-1-baseline-v1.json",
+      "bytes": 6968,
+      "sha256": "bec2339e0520dd27acf27d94f6ea1c541ab6dfafe44044a99dfb245f873da9a5"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-cut-transfer-r6-review-1-input-validation-v1.json",
+      "bytes": 227,
+      "sha256": "bff6e8ee4c3a00fc6b8c5cdaa8efedf15cc5f7cedcf3a06ac2a5bb3c7e2b3516"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-cut-transfer-r6-review-1-metadata-v1.json",
+      "bytes": 880,
+      "sha256": "5513f23d6eb7e39d9443c10e93f4fc06153923c14988bc0fbf5bcfa9f0bc34de"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-cut-transfer-r6-review-1-sources-v1.json",
+      "bytes": 1438,
+      "sha256": "6144044c2c774f29d6086543c0ff11780df7cc6d2eba2210777c60b383c8bd2a"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-cut-transfer-r6-review-2-manifest-v1.json",
+      "bytes": 3780,
+      "sha256": "6ff9b2763477d2e7f4d37da4788a44f66481a37abec33638d833bcd0e3f40e17"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-cut-transfer-r6-review-2-baseline-v1.json",
+      "bytes": 21476,
+      "sha256": "236f19b18a4727b8aeae2fe2451c894ca04bb52156cc31cccca3eb8bf0ec96d3"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-cut-transfer-r6-review-2-input-validation-v1.json",
+      "bytes": 483,
+      "sha256": "927c0fdb8a1762bd9b2a2c6bb7d4b67a12cf633e63e355313533fe8831558bd4"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-cut-transfer-r6-review-2-metadata-v1.json",
+      "bytes": 1581,
+      "sha256": "326309b88da82b6099aedf9422238ea2c48ead975e595f9e91b266d4aa1e84b4"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-cut-transfer-r6-review-2-sources-v1.json",
+      "bytes": 2831,
+      "sha256": "c164cbff558da09bae31517c605e70c20a16690eb6f0ae092d3f6f0bc64869ca"
+    }
+  ],
+  "record_occurrences_verified": 226,
+  "unique_paths_verified": 98,
+  "constructor": "/root/review_2022_complexity_r2",
+  "whole_reviewers": [
+    "/root",
+    "/root/review_2021_reasoning_j15_r2"
+  ],
+  "whole_obligations_per_review": 64,
+  "whole_review_files": [
+    11,
+    11
+  ],
+  "closed_scope_notes": [
+    8,
+    8
+  ],
+  "explicit_BOTH_entire_before_NEW_peer_access": true,
+  "root_read_ENTIRE_author_and_both_reviews_all_code_metadata": true,
+  "annual_open": true,
+  "actual_renewal_regime_selected": false,
+  "EO_small_o_N_proved": false,
+  "global_localized_mass_bound_proved": false,
+  "new_numerical_enclosure": false,
+  "priority_claim": false,
+  "no_mathematical_program_or_old_replay": true
+}

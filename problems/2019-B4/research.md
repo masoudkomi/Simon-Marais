@@ -19,6 +19,16 @@ finite automaton or a rational generating function. In entropy language,
 the growth constant measures the information retained after construction
 histories are identified.
 
+The newly accepted [AT1–AT4 viable-area theorem](reviews/reasoning-cut-transfer-r6-acceptance.md)
+passed root/A TWO OTHER ENTIRE WHOLE64/64 audits and full128-disposition
+reconciliation. It proves the exact all-time viable-area convolution,
+three conditional mean-area regimes and occupation bounds under precisely
+specified probability laws. One actual ruler-mountain family has linear
+viable UNION and quadratic height-matching area, so those quantities cannot
+be substituted pointwise. Its total mass is not the entire residual.
+The actual regime, full high-area mass and exact growth remain OPEN;
+the reviewed numerical enclosure is unchanged.
+
 The project has independently reviewed existence of a common growth constant
 and the enclosure \(1.765224<\lambda<1.834843\), together with converging
 approximation structures and quantitative gaps for specified truncations.

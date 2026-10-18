@@ -1,17 +1,5 @@
 # 2020 B4 research log
 
-The new [SQ14A–E low-square result](reviews/reasoning-arithmetic-return-r14-acceptance.md)
-is **proved, independently reviewed scoped partial result** after root/C
-TWO OTHER ENTIRE WHOLE64/64 and full128-disposition reconciliation.
-Constructor B excluded. Exact square lift/orbit moments force rationality
-when s>=2a;unit squaring on SAME I² gives low ordinary principality
-without odd class number. Actual refined boxes inject under2a<=s;
-ordinary boxes require2a²<=s. Specified prime-ideal orders and mixed
-leastprime<=7 give new necessary class restrictions. The full mixed
-norm-q case,new class evaluation,annual classification and priority
-remain open/unclaimed;actual T-stability is retained where needed.
-
-
 ## Research significance and connections
 
 Opening overview updated 2026-10-18. Choosing the maximum possible collection
@@ -30,6 +18,17 @@ actual integral binary difference set. [Peluse's asymptotic theorem](https://arx
 illustrates another connection, to analytic number theory: an asymptotic count
 of admissible orders can be established without excluding every exceptional
 order.
+
+The new [SQ14A–E low-square result](reviews/reasoning-arithmetic-return-r14-acceptance.md)
+is **proved, independently reviewed scoped partial result** after root/C
+TWO OTHER ENTIRE WHOLE64/64 and full128-disposition reconciliation.
+Constructor B excluded. Exact square lift/orbit moments force rationality
+when s>=2a;unit squaring on SAME I² gives low ordinary principality
+without odd class number. Actual refined boxes inject under2a<=s;
+ordinary boxes require2a²<=s. Specified prime-ideal orders and mixed
+leastprime<=7 give new necessary class restrictions. The full mixed
+norm-q case,new class evaluation,annual classification and priority
+remain open/unclaimed;actual T-stability is retained where needed.
 
 The reviewed results now include [A9 arithmetic obstructions](reviews/reasoning-arithmetic-return-r9-acceptance.md) and [R10 actual mixed-norm realization](reviews/reasoning-arithmetic-return-r10-acceptance.md), each accepted after two OTHER initially blind whole audits and reconciliation. R10 realizes actual integral Weil atoms in its specified odd-class fixed fields. Its exact weighted lift has binary defect Phi3(N)/p−1: the correct norm residue does not force the required equality N=q0. Thus genuine class cancellation is compatible with those necessary conditions; the finite conductor-size and full character-tuple gaps remain open. These results give no new taut order, numerical exclusion or unrestricted classification. See the [current dashboard](../../progress/dashboard.md), [references](references.md), and [review register](reviews/README.md).
 

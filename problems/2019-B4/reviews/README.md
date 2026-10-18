@@ -1,5 +1,15 @@
 # 2019 B4 independent reviews
 
+The newly accepted [AT1–AT4 viable-area theorem](reasoning-cut-transfer-r6-acceptance.md)
+passed root/A TWO OTHER ENTIRE WHOLE64/64 audits and full128-disposition
+reconciliation. It proves the exact all-time viable-area convolution,
+three conditional mean-area regimes and occupation bounds under precisely
+specified probability laws. One actual ruler-mountain family has linear
+viable UNION and quadratic height-matching area, so those quantities cannot
+be substituted pointwise. Its total mass is not the entire residual.
+The actual regime, full high-area mass and exact growth remain OPEN;
+the reviewed numerical enclosure is unchanged.
+
 2026-10-18 current: [BT1–BT4](reasoning-cut-transfer-r5-acceptance.md)
 accepted after root/A TWO OTHER initially blind ENTIRE WHOLE56/56 audits
 and full112 reconciliation. B constructor excluded;zero substantive
