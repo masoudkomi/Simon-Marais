@@ -1,16 +1,16 @@
 {
-  "snapshot_cutoff_utc": "2026-10-18T01:15:22.159259+00:00",
+  "snapshot_cutoff_utc": "2026-10-18T01:28:47.569528+00:00",
   "observed_sessions": 62,
-  "distinct_responses": 8360,
+  "distinct_responses": 8502,
   "usage": {
-    "input_tokens": 1580895877,
-    "cached_input_tokens": 1508040320,
+    "input_tokens": 1608207424,
+    "cached_input_tokens": 1534474496,
     "cache_write_input_tokens": 0,
-    "output_tokens": 11818848,
-    "reasoning_output_tokens": 5084280,
-    "total_tokens": 1592714725
+    "output_tokens": 11995529,
+    "reasoning_output_tokens": 5149582,
+    "total_tokens": 1620202953
   },
-  "uncached_input_plus_output_tokens": 84674405,
+  "uncached_input_plus_output_tokens": 85728457,
   "sessions_without_usage_records": 0,
   "all_recorded_session_sums_match_cumulative": true,
   "method": "Deduplicated own-thread per-response usage records across root and recursively spawned descendants; cached input is a subset of input, reasoning output a subset of output.",
@@ -18,15 +18,15 @@
   "agents": [
     {
       "agent": "/root",
-      "distinct_responses": 2760,
-      "latest_record_utc": "2026-10-18T01:15:22.144Z",
+      "distinct_responses": 2814,
+      "latest_record_utc": "2026-10-18T01:28:47.552Z",
       "usage": {
-        "input_tokens": 574198552,
-        "cached_input_tokens": 554662784,
+        "input_tokens": 585314671,
+        "cached_input_tokens": 565433088,
         "cache_write_input_tokens": 0,
-        "output_tokens": 2636162,
-        "reasoning_output_tokens": 944075,
-        "total_tokens": 576834714
+        "output_tokens": 2682581,
+        "reasoning_output_tokens": 952634,
+        "total_tokens": 587997252
       },
       "matches_latest_thread_cumulative": true
     },
@@ -312,15 +312,15 @@
     },
     {
       "agent": "/root/review_2017_coarsening_r1",
-      "distinct_responses": 1168,
-      "latest_record_utc": "2026-10-18T01:15:13.885Z",
+      "distinct_responses": 1204,
+      "latest_record_utc": "2026-10-18T01:28:44.848Z",
       "usage": {
-        "input_tokens": 240164770,
-        "cached_input_tokens": 226814976,
+        "input_tokens": 246900781,
+        "cached_input_tokens": 233439744,
         "cache_write_input_tokens": 0,
-        "output_tokens": 2043811,
-        "reasoning_output_tokens": 991000,
-        "total_tokens": 242208581
+        "output_tokens": 2081540,
+        "reasoning_output_tokens": 1009538,
+        "total_tokens": 248982321
       },
       "matches_latest_thread_cumulative": true
     },
@@ -634,15 +634,15 @@
     },
     {
       "agent": "/root/review_2021_reasoning_j15_r2",
-      "distinct_responses": 1274,
-      "latest_record_utc": "2026-10-18T01:15:03.151Z",
+      "distinct_responses": 1297,
+      "latest_record_utc": "2026-10-18T01:27:02.491Z",
       "usage": {
-        "input_tokens": 264320036,
-        "cached_input_tokens": 249804416,
+        "input_tokens": 269050137,
+        "cached_input_tokens": 254402304,
         "cache_write_input_tokens": 0,
-        "output_tokens": 2543907,
-        "reasoning_output_tokens": 1192030,
-        "total_tokens": 266863943
+        "output_tokens": 2589081,
+        "reasoning_output_tokens": 1210227,
+        "total_tokens": 271639218
       },
       "matches_latest_thread_cumulative": true
     },
@@ -704,15 +704,15 @@
     },
     {
       "agent": "/root/review_2022_complexity_r2",
-      "distinct_responses": 1361,
-      "latest_record_utc": "2026-10-18T01:13:52.719Z",
+      "distinct_responses": 1390,
+      "latest_record_utc": "2026-10-18T01:28:14.487Z",
       "usage": {
-        "input_tokens": 288033834,
-        "cached_input_tokens": 273596288,
+        "input_tokens": 292763150,
+        "cached_input_tokens": 278037504,
         "cache_write_input_tokens": 0,
-        "output_tokens": 2364017,
-        "reasoning_output_tokens": 965722,
-        "total_tokens": 290397851
+        "output_tokens": 2411376,
+        "reasoning_output_tokens": 985730,
+        "total_tokens": 295174526
       },
       "matches_latest_thread_cumulative": true
     },

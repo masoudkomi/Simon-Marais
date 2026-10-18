@@ -1,6 +1,6 @@
-# Current restart boundary — 2026-10-18 approximately00:18UTC
+# Current restart boundary —2026-10-18 approximately01:30UTC
 
-Continue until90%TOTALcurrentauthorizedweeklywindow reset1792874445; root7%@01:15:22UTC. Read [latestallnine](status-2026-10-18-1116.md) andrun-state. Hourlythreadheartbeat ACTIVE,baseline1037 firstdue~01:36UTC.2017PM and2025R9 repairs ACCEPTEDscoped after bothOTHERaffectedwholeaudits/fullreconciliation. NEWroot2017PUS1–PUS3 ENTIREconstructorfrozen, rootexcluded; C/A OTHERblindwhole36audits queued AFTER theircurrentconstructorENTIREfreezes. NeverexposepeerPUSfindings/files/meta beforeeachENTIREinitialfreeze. C2020norm/classR9,A2021m5R13,B2022ordinaryR9 actualmathcontinues. Rootintegrate/pushthenC2020/A2021reviews whenfrozen; do not reviewunfrozenmaterial. Ownedawake79293/session64368next01:53:20UTC. Lastconfirmedpush0219195; currentcheckpointawaitspush. Noautomaticlaterreset.
+Continue until90% TOTAL current authorized weekly window reset1792874445; root8%@01:22:58UTC. Read [latest all-nine](status-2026-10-18-1130.md) and run-state. Hourly heartbeat ACTIVE, activationbaseline1037, firstdue~01:36UTC. PUS1–PUS3 accepted after C/A OTHER ENTIREblindWHOLE36/36/full reconciliation; rootconstructor excluded. Root OTHER2020A9 WHOLE56 R1 and2021R13 WHOLE44 R2 ENTIREfrozen; B OTHERA9R2 active thenR13R1queued; no peer read before OWN ENTIRE. NEW2022Q1–Q4 fullconstructor/48obligations unverified; A OTHERblindwholeR1 active/C R2queuedafter actual2020R10 checkpoint. Root integrates/pushes, then continue actual2017/2019/2024/2025math. Ownedawake79293/session64368 next01:53:20UTC. Lastconfirmedpush48903a6; new checkpoint awaits push. No automatic later reset.
 
 ---
 

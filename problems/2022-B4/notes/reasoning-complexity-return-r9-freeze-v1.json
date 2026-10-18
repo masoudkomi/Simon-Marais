@@ -1,0 +1,100 @@
+{
+  "frozen_utc": "2026-10-18T01:24:40.726250+00:00",
+  "status": "candidate proof - unverified; COMPLETE Q1-Q4 constructor checkpoint",
+  "constructor": "/root/review_2022_complexity_r2",
+  "new_claims": [
+    "Q1 full ordinary Z2 surjectivity and exact one/two-point inverse fibers",
+    "Q2 full diagonal-image singleton fibers and actual predecessor obstruction",
+    "Q3 ordinary positive strip-preserving smaller predecessors in stated central range",
+    "Q4 exact equivalence with explicit unbounded residual seed set"
+  ],
+  "all_48_obligations": true,
+  "full_proof_failed_routes_sources_worklog_present": true,
+  "no_survivor_or_residual_family_hitting_or_annual_solution_or_novelty_claim": true,
+  "two_OTHER_fresh_initially_blind_WHOLE_audits_required": true,
+  "coordinator_prompt_supplies_no_new_Q1_Q4_inference": true,
+  "constructor_old_R3_F5_authorship_and_other_review_roles_disclosed": true,
+  "queued_2020_R9_target_and_NEW_peer_audit_material_unopened_through_freeze": true,
+  "mathematical_computation_CAS_scan_or_certificate_rerun": false,
+  "inverse_three_candidate_procedure_executed": false,
+  "old_shared_Git_cache_edit_spawn_charge_contact_or_bypass": false,
+  "preliminary_a_proof_reproduced_or_investigated": false,
+  "actual_fresh_source_read_limits_recorded": true,
+  "compact_own_parent": {
+    "path": "problems/2025-B4/reviews/reasoning-return-r9-review-2-reaudit-v1.1-manifest-v1.json",
+    "bytes": 5138,
+    "sha256": "1358164af4e3c4bfa4d6631487e623567f250f9b8a400733999d1aad245909ec"
+  },
+  "older_own_paths_bound_transitively": 502,
+  "new_own_files_including_manifest": 10,
+  "older_plus_new_own_paths_bound_transitively": 512,
+  "fingerprint_occurrences_verified": 31,
+  "unique_paths_verified": 27,
+  "canonical_deduplicated_summary_sha256": "6a55743998f896bc7d976a660d48bcb690b0213bd62bbc259b56ebbe36f1f2f1",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independently_verified_effective_settings": null,
+  "authoritative_weekly_telemetry": {
+    "at_utc": "2026-10-18 01:23:59 UTC",
+    "method": "mcp__codex_app__get_usage_limits({}); codex.primary and legacy agree",
+    "account_label": "029a8928\u20261334ac3a",
+    "used_percent_total": 8,
+    "window_minutes": 10080,
+    "reset_unix": 1792874445,
+    "ordinary_usage_allowed": true,
+    "new_window_explicitly_user_authorized": true,
+    "total_ceiling_percent": 90,
+    "integration_reserve": true,
+    "automatic_further_reset_spending": false
+  },
+  "artifacts": [
+    {
+      "path": "problems/2022-B4/notes/reasoning-complexity-return-r9-baseline-v1.json",
+      "bytes": 4938,
+      "sha256": "0015c820f1173df8784eda56f8496be4e371dc5be45c422fd7f92deb7c6d72fd"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-complexity-return-r9-candidate-v1.md",
+      "bytes": 16457,
+      "sha256": "2fdb1a495afa4f607b9fb63b7a1535e7ba6797ae5b699fd9d25124b503bfe211"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-complexity-return-r9-obligations-v1.md",
+      "bytes": 7923,
+      "sha256": "efe20371937e9674036c461d929b638407497cda973c384063555330b6f8d548"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-complexity-return-r9-failed-routes-v1.md",
+      "bytes": 4085,
+      "sha256": "68015b9d0afd6cb0992a38836863fdcd2d29b6710c9811d0d2f1bf544f70e63d"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-complexity-return-r9-source-audit-v1.md",
+      "bytes": 6692,
+      "sha256": "ec3be6073c26f388dab3a26f23d7f54e481d7481e8bcbb37881dea722eb84bb2"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-complexity-return-r9-sources-v1.json",
+      "bytes": 3501,
+      "sha256": "d0ed9bdfae79dd705c6c97bba8e0b99e4fd81d76d65f98e37271b6c415a240e5"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-complexity-return-r9-worklog-v1.md",
+      "bytes": 4426,
+      "sha256": "8e6db008a5271925499bcdbd55363b52e5621000ad1e7c869654ad0a7d57bacd"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-complexity-return-r9-freeze-v1.py",
+      "bytes": 6877,
+      "sha256": "8bfa322fb5bdac6bb228b73bd3f817cc84aeb2028b35241c2f8cef975aa813d7"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-complexity-return-r9-input-validation-v1.json",
+      "bytes": 4353,
+      "sha256": "3a346c35bf7e7044e29fa281e6260ab9198b7d68f47ab06f72a32e02bcf8bf96"
+    }
+  ]
+}

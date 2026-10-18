@@ -1,0 +1,220 @@
+{
+  "verified_at_utc": "2026-10-18T01:25:07.957464+00:00",
+  "administrative_only": true,
+  "groups": [
+    {
+      "role": "ENTIRE eight-file constructor target",
+      "metadata": {
+        "path": "problems/2017-B4/notes/coordinator-plane-recovery-r1-freeze-v1.json",
+        "bytes": 2239,
+        "sha256": "19c9c464f0c1f60000113b7a71ff3076d4501a23e1099671ff66b91cadf5a515"
+      },
+      "occurrences": 8,
+      "unique_paths": 8,
+      "canonical_deduplicated_sha256": "6b228ce739d7e07edb1af95bc4a98871e91073c0a7c8911d795eae66b92edbfe"
+    },
+    {
+      "role": "constructor current accepted/direct inputs",
+      "metadata": {
+        "path": "problems/2017-B4/notes/coordinator-plane-recovery-r1-input-validation-v1.json",
+        "bytes": 3120,
+        "sha256": "f84ec4f98ba0d586df611b80e13c66596b6006fa3c8d7cfbdf5b40e0488a1ddd"
+      },
+      "occurrences": 13,
+      "unique_paths": 11,
+      "canonical_deduplicated_sha256": "937e77959e1ea81d3234dab5f2e689f1fd813cb85eae7ed0f5bc870d03daaf92"
+    },
+    {
+      "role": "immutable immediately preceding OWN R13; NOT a PUS premise",
+      "metadata": {
+        "path": "problems/2021-B4/notes/reasoning-return-r13-freeze-v1.json",
+        "bytes": 4152,
+        "sha256": "4d6b95b7c5b70301f227af7cce5169c8c691c01f6b287fdadacf0b337c40c656"
+      },
+      "occurrences": 11,
+      "unique_paths": 11,
+      "canonical_deduplicated_sha256": "c812c0aa1bf821a6dc605ef495b934907483a6184a78439b20671270a079a405",
+      "bound_historical_input_summary": {
+        "occurrences": 33,
+        "unique_paths": 32,
+        "canonical_deduplicated_summary_sha256": "c1d4beb5b4c668bbb077bc58520926f39c0658c25be3ef17f6f97171f257906b",
+        "encoding": "UTF8 JSON sorted unique path/bytes/sha256; sorted keys; compact separators",
+        "old_parent_inventory_rows_bound_not_recopied": true
+      },
+      "historical_rows_rewalked_or_represented_as_current": false
+    }
+  ],
+  "records": [
+    {
+      "path": "problems/2017-B4/notes/coordinator-plane-recovery-r1-candidate-v1.md",
+      "bytes": 12840,
+      "sha256": "c156e2e2c26559bf5c5c7f9f29ecb0fc333d2582c58ce271fa09821087b1bd2d"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-plane-recovery-r1-obligations-v1.md",
+      "bytes": 4587,
+      "sha256": "b43c83b898b705334a6ae453156fcd0f684115dde41d33012f6be5f322195c60"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-plane-recovery-r1-source-audit-v1.md",
+      "bytes": 2861,
+      "sha256": "c92a13abdda73b37053d1932c24fa8722ea6fc14d0a66dd8d175522e2d813a9c"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-plane-recovery-r1-failed-routes-v1.md",
+      "bytes": 2278,
+      "sha256": "452a04d4d049690cdf04eaa107b8efaecd3d5c9509308df615d97ab2c2d740de"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-plane-recovery-r1-worklog-v1.md",
+      "bytes": 2433,
+      "sha256": "ec9d379db5b0e3736c469b87a093bac134a224c7cbbf132843c1cddbdce139e0"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-plane-recovery-r1-freeze-v1.py",
+      "bytes": 3936,
+      "sha256": "1c5d33554bc337799cada7c95515673b3eb48e526e7c54930ddf28e1d1bba0db"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-plane-recovery-r1-input-validation-v1.json",
+      "bytes": 3120,
+      "sha256": "f84ec4f98ba0d586df611b80e13c66596b6006fa3c8d7cfbdf5b40e0488a1ddd"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-plane-recovery-r1-freeze-v1.json",
+      "bytes": 2239,
+      "sha256": "19c9c464f0c1f60000113b7a71ff3076d4501a23e1099671ff66b91cadf5a515"
+    },
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2017-B4/statement.md",
+      "bytes": 2140,
+      "sha256": "e459750064b4e25e3eaa71f25f236c046548147e415b06d8bd097839020228f3"
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-reasoning-value-return-r6-v1.1.md",
+      "bytes": 42807,
+      "sha256": "e0b25980d4073bb32634d1f1826bc383dcb00c2c1754f252f91410b6cf0a30d8"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r6-acceptance.md",
+      "bytes": 4762,
+      "sha256": "a35203fa615a524ccebe0f9ae5e3b2603f482ac028e3a05f5d9bbd21a634a78f"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r6-acceptance.json",
+      "bytes": 3774,
+      "sha256": "44226f7c46d680b29406a04dc057032ae5d286bf10684730e0acd89b7f6447f0"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r6-acceptance-integrity.json",
+      "bytes": 3455,
+      "sha256": "363121edac671d7532628cb4c3afd19cd079fdd48975eddec945caef7d125bfa"
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-allD-uniform-strict-v1.1.md",
+      "bytes": 39136,
+      "sha256": "a5ebfd81d59b26f301b1e105889451f4c86262da80e6e77e6913c045d71147d2"
+    },
+    {
+      "path": "problems/2017-B4/reviews/allD-uniform-strict-acceptance.md",
+      "bytes": 2192,
+      "sha256": "0cb6c47952e772fedb876f70e9d1c01d9fe565f5544fb834183a276a06c73750"
+    },
+    {
+      "path": "problems/2017-B4/reviews/allD-uniform-strict-acceptance.json",
+      "bytes": 2808,
+      "sha256": "a481e698f4e8efb6549bc1ea93b989683e430e9a6ae7aa8bf01802fb2912e514"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r6-candidate-v1.1.md",
+      "bytes": 38143,
+      "sha256": "44f327ce61046b8226ff62d699ed0fa004ceb11e7900779636c583b27a2745db"
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-reasoning-value-return-r6-v1.1.md",
+      "bytes": 42807,
+      "sha256": "e0b25980d4073bb32634d1f1826bc383dcb00c2c1754f252f91410b6cf0a30d8"
+    },
+    {
+      "path": "problems/2017-B4/notes/allD-uniform-strict-reasoning-r1-candidate-v1.md",
+      "bytes": 37267,
+      "sha256": "fc280881b1df650d07ab48f0f4c19d0e77f076e6b39a13f3a0b8d9969074a433"
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-allD-uniform-strict-v1.1.md",
+      "bytes": 39136,
+      "sha256": "a5ebfd81d59b26f301b1e105889451f4c86262da80e6e77e6913c045d71147d2"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r13-candidate-v1.md",
+      "bytes": 15806,
+      "sha256": "25a871da93b7cd375e0af43c8643094463ac45ce913722805ba6958dee004148"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r13-obligations-v1.md",
+      "bytes": 5815,
+      "sha256": "d539e434a4df5b3d7387e8a6880d6b23ef932eea9b546c0d0cbdeafcaa0a6233"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r13-constructor-checks-v1.md",
+      "bytes": 3403,
+      "sha256": "78e558a4421486b60a47cf3ee11c2d44ddd952c6ace7a2d60b4246340ae641ad"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r13-failed-routes-v1.md",
+      "bytes": 3660,
+      "sha256": "6dad32f827d5ca956f1ce7fe01e94783b46ad8400d732acb91ad01423e2acfdf"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r13-source-audit-v1.md",
+      "bytes": 4574,
+      "sha256": "2a7b23f66f0a29917a19a9fd34caa6d939d5da0e86ae25f6d2bfd1e93f94e396"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r13-worklog-v1.md",
+      "bytes": 4058,
+      "sha256": "8d834b1ae6ceb1d7bf6bdf8a7d2b75987669192e6b2ceab5b9ab60007eb9cab8"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r13-freeze-v1.py",
+      "bytes": 10907,
+      "sha256": "77505f73df8656747d323631c14e973b2182f43819c157bb516efbf73a8be45c"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r13-sources-v1.json",
+      "bytes": 1938,
+      "sha256": "e70a4bab2450ebc089e0ed2632096fa787fb9198da7c315b6fa7677fdd78d217"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r13-input-validation-v1.json",
+      "bytes": 5381,
+      "sha256": "652e7a091f7c6ead7c71efc2fd830ac5f7002a61ad096a37ba3d75f4ae3558ea"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r13-freeze-output-v1.json",
+      "bytes": 850,
+      "sha256": "8fe9a9cac43f722a90292303ddb5d7299be1bca791d4bcc085b131473684b5ac"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r13-freeze-v1.json",
+      "bytes": 4152,
+      "sha256": "4d6b95b7c5b70301f227af7cce5169c8c691c01f6b287fdadacf0b337c40c656"
+    }
+  ],
+  "compact_current_summary": {
+    "occurrences": 32,
+    "unique_paths": 30,
+    "canonical_deduplicated_sha256": "0bd367c69b286cc250f6a277af7062386cf9db8cbe1b2c096747c107f47a63ca"
+  },
+  "both_operating_accepted_candidate_copy_suffixes_exact": true,
+  "all36_obligation_ids_and_closed_dispositions_exact": true,
+  "no_NEW_peer_PUS_report_finding_ledger_source_or_metadata_read_or_hashed": true,
+  "old_parent_inventories_bound_not_recopied": true,
+  "no_mathematical_program_CAS_scan_or_author_replay": true,
+  "writes_only_assigned_NEW_review_prefix": true
+}

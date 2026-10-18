@@ -4,12 +4,12 @@ Initial scope: nine official B4 open portions, 2017-2025. **2026 deferred by the
 
 |Year|Accepted result and present position|
 |---|---|
-|2017|Scalar limit exists/value unknown/upper<0.649514. NEW repaired PM1–PM4 accepted after both OTHER original+affected whole audits: finite local upper certificates, bounded-content actual completion, strict upper comparison, actual D3 entropy gap. NEW original-plane PUS1–PUS3 candidate frozen UNVERIFIED; global mass/upperR/value open.|
+|2017|Scalar limit exists/value unknown/upper<0.649514. Repaired PM1–PM4 and PUS1–PUS3 accepted after both OTHER whole/affected reviews and full reconciliation. Exact complete-boundary count transfer and original-plane compact-strict local recovery now proved; global mass/upperR/value open.|
 |2018|COMPLETE general enumeration formula, independently reviewed and attributed to Hering--Howard/Ottaviani. This is a published-result reproduction.|
 |2019|NEW retained-core accepted1.765224<lambda<1.834843. Actual retained-word derivative and missing-mass gap sharpen the cap bound after BOTH OTHER WHOLE audits. CG1--CG4 give exact asymmetric minimum widths, actual omitted rigid-tail series and strict quantitative cap-gap floors after BOTH OTHER WHOLE24-obligation audits. Exact value/renewal regime remain open.|
-|2020|R8 accepted after both WHOLE54-obligation audits: conditional arithmetic solvability, actual ideal and unit obstructions, and exact ideal-stabilizer criterion. No new unrestricted order classification.|
-|2021|NEW R12A–C accepted after root/B OTHER WHOLE60/60 audits: in the specified actual-double/J15 degree20 branch, m6 and m7 first breaks excluded; m3–m5 remain. Full-gcd corollary retains three extra units. No broader degree20/annual classification.|
-|2022|R8 accepted after both WHOLE audits: exact canonical prefix mergers, actual q2 predecessor counterexample, and separate binary-past/A-B phase obstructions. Literal scaling claim only for positive multipliers. No ordinary q10 infinite survivor or termination theorem.|
+|2020|R8 conditional arithmetic solvability with exact ideal, unit and stabilizer obstructions. Arithmetic R9 UNVERIFIED: root OTHER WHOLE56 initial ENTIRE frozen; B OTHER blind WHOLE R2 active. New R10 mixed-class reasoning separate/unverified.|
+|2021|NEW R12A–C accepted after two OTHER initially blind whole60-obligation audits and full coordinator reconciliation. In the specified actual-double/J15 degree20 branch, first breaks m6 and m7 are excluded; m3–m5 remain. The extra-three-unit full-gcd corollary is conditional. R13 UNVERIFIED: root OTHER WHOLE44 R2 ENTIRE frozen; B OTHER blind R1 queued. Proposed EC10/11 conclusion does not exclude full m5.|
+|2022|Density-one, canonical mergers, actual q2 predecessor counterexample and positive rescaling/phase restrictions. NEW R9 Q1–Q4 full10-file/48-obligation constructor frozen UNVERIFIED. Onto map/exact fibers, off-diagonal predecessor obstructions and unbounded seed equivalence proposed; A/C OTHER blind whole audits active/queued.|
 |2023|COMPLETE internally reviewed classification for fixed positive nonsquare N: all(k,k),k>0, and(k,2k),(2k,k) for positive odd k. Priority remains unestablished.|
 |2024|Entire three-bit exclusion accepted after TWO OTHER WHOLE audits; earlier S3 and Kasami criteria retained. NF1–NF3 neighbor-Frobenius whole-irreducibility criterion accepted after TWO OTHER WHOLE audits and root full reconciliation; proper/composite odd divisors included, n57/allweight4 unclaimed. General ordinary reducibility remains open.|
 |2025|Separate RG1–RG3 fixed-p Runge procedure and repaired original R9A–F now accepted in exact scopes after both OTHER whole/affected audits. Conditional nonzero vector branch, huge dense zero branch, ideal/weight/generator limitations remain. No useful new unconditional exclusion or annualsolution.|
@@ -210,3 +210,7 @@ Five new exact partial packets accepted after both complete blind WHOLE audits a
 ## 2026-10-18 11:16 Brisbane
 
 [Current all-nine status](status-2026-10-18-1116.md). Repaired2017PM and2025R9 accepted scoped; NEWroot2017PUS lower/recovery candidate frozenunverified/twoOTHERwholeauditsqueued. C2020/A2021/B2022actualresearch continues.7%TOTALweekly; raw1,592,714,725including1,508,040,320cached;84,674,405uncached+output. Two annual answers unchanged; hourly reporting ACTIVE.
+
+## 2026-10-18 11:30 Brisbane
+
+[All-nine checkpoint](status-2026-10-18-1130.md). PUS exact original-plane recovery accepted;2020A9/2021R13/2022Q1–Q4 remain unverified with independent whole reviews in progress. Weekly8%TOTAL; recorded1,620,202,953tokens including1,534,474,496cachedinput;85,728,457uncached+output. Two annual answers unchanged; hourly active.

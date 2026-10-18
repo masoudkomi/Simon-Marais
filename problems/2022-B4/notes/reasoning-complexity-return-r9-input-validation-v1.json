@@ -1,0 +1,108 @@
+{
+  "validated_utc": "2026-10-18T01:24:40.726250+00:00",
+  "metadata_only_not_math_verification": true,
+  "baseline": {
+    "path": "problems/2022-B4/notes/reasoning-complexity-return-r9-baseline-v1.json",
+    "bytes": 4938,
+    "sha256": "0015c820f1173df8784eda56f8496be4e371dc5be45c422fd7f92deb7c6d72fd"
+  },
+  "all_baseline_inputs_preserved": true,
+  "direct_current_authorities": [
+    {
+      "authority": {
+        "path": "problems/2022-B4/reviews/reasoning-return-r8-acceptance.json",
+        "bytes": 2892,
+        "sha256": "23f7fded22777b98a98ed7ff59d30988d276d28eece369dd6526b63025a8d59e"
+      },
+      "direct_records_verified": [
+        {
+          "path": "problems/2022-B4/notes/reasoning-return-r8-candidate-v1.md",
+          "bytes": 16851,
+          "sha256": "5e455e606a589f4a6e5d5086a57564099ccc23f17d3832cc1c355c0c33c532b9"
+        },
+        {
+          "path": "problems/2022-B4/proofs/reviewed-reasoning-return-r8-v1.1.md",
+          "bytes": 20660,
+          "sha256": "f09e43748bdc2c8d1cd4b7bccdfd733265b4fe0b8f24986b00051fea7c799b9f"
+        }
+      ],
+      "historical_verified_occurrences_as_declared_not_replayed": 103,
+      "historical_unique_paths_as_declared_not_replayed": 49
+    },
+    {
+      "authority": {
+        "path": "problems/2022-B4/reviews/reasoning-return-r7-acceptance.json",
+        "bytes": 3708,
+        "sha256": "23bb8197ae19aa1d46f7ecb9e2cfe1a02946eb36accd9ba027c0f0a1588f225c"
+      },
+      "direct_records_verified": [
+        {
+          "path": "problems/2022-B4/notes/reasoning-return-r7-candidate-v1.md",
+          "bytes": 20450,
+          "sha256": "874e30f4fef000510edc0e67541161a735d5e11654e430ff283f4610047abd1e"
+        },
+        {
+          "path": "problems/2022-B4/proofs/reviewed-reasoning-return-r7-v1.1.md",
+          "bytes": 23574,
+          "sha256": "739a88f2a5b4e3cdd13681094f420def99259c0d52b63aef3b394a407c29a342"
+        }
+      ],
+      "historical_verified_occurrences_as_declared_not_replayed": 3014,
+      "historical_unique_paths_as_declared_not_replayed": 1426
+    },
+    {
+      "authority": {
+        "path": "problems/2022-B4/reviews/reasoning-return-r6-acceptance.json",
+        "bytes": 2525,
+        "sha256": "e71e5e82eaa7678405156470e1c8bff5aca96ac4f196f52b800ad7c9d40c0a3a"
+      },
+      "direct_records_verified": [
+        {
+          "path": "problems/2022-B4/notes/reasoning-return-r6-candidate-v1.md",
+          "bytes": 15412,
+          "sha256": "051c9fec0b67dc6569d5e3be1d3c96c0c60ff977165bd67202504f738bb39832"
+        },
+        {
+          "path": "problems/2022-B4/proofs/reviewed-reasoning-return-r6-v1.1.md",
+          "bytes": 18580,
+          "sha256": "696cfaf139c3ce1cfccc17ca1643e378a4ad70bedd91374f24a82b4fe95daf8d"
+        }
+      ],
+      "historical_verified_occurrences_as_declared_not_replayed": 1232,
+      "historical_unique_paths_as_declared_not_replayed": 745
+    },
+    {
+      "authority": {
+        "path": "problems/2022-B4/reviews/reasoning-return-r5-acceptance.json",
+        "bytes": 2953,
+        "sha256": "4df7c51fed57104b49ebbbfc39a15fd2196676bbf3b0e122dcd4dbc5a8fd710a"
+      },
+      "direct_records_verified": [
+        {
+          "path": "problems/2022-B4/notes/reasoning-return-r5-candidate-v1.md",
+          "bytes": 26928,
+          "sha256": "f08f3e579f9ddeec52746060ab81aec6055f1ecfce24fa2031608eadb7743bef"
+        },
+        {
+          "path": "problems/2022-B4/proofs/reviewed-reasoning-return-r5-v1.1.md",
+          "bytes": 30324,
+          "sha256": "1a2544cb8ced3bba9cc6efed1870c242c652b3e6029f39881028d4637d7c6da6"
+        }
+      ],
+      "historical_verified_occurrences_as_declared_not_replayed": 2011,
+      "historical_unique_paths_as_declared_not_replayed": 823
+    }
+  ],
+  "fingerprint_occurrences_verified": 31,
+  "unique_paths_verified": 27,
+  "canonical_deduplicated_summary_sha256": "6a55743998f896bc7d976a660d48bcb690b0213bd62bbc259b56ebbe36f1f2f1",
+  "declared_obligations_present": 48,
+  "compact_own_parent": {
+    "path": "problems/2025-B4/reviews/reasoning-return-r9-review-2-reaudit-v1.1-manifest-v1.json",
+    "bytes": 5138,
+    "sha256": "1358164af4e3c4bfa4d6631487e623567f250f9b8a400733999d1aad245909ec"
+  },
+  "older_own_paths_bound_transitively": 502,
+  "no_historical_inventory_recopy_or_recursive_rehash": true,
+  "no_mathematical_code_CAS_or_author_rerun": true
+}

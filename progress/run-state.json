@@ -2,7 +2,7 @@
   "branch": "codex/smmc-b4-research",
   "remote": "https://github.com/masoudkomi/Simon-Marais.git",
   "phase": "sustained research resumed under explicit NEW-window authorization",
-  "last_pushed_commit": "0219195",
+  "last_pushed_commit": "48903a6",
   "initial_passes_complete": [
     2017,
     2018,
@@ -17,25 +17,25 @@
   "active": [
     {
       "agent": "review_2021_reasoning_j15_r2",
-      "year": 2017,
-      "role": "OTHER initiallyblind WHOLE rootPUS R2;2021R13 ENTIREconstructorfrozen/unverified"
+      "year": 2022,
+      "role": "OTHER initially blind ENTIRE WHOLE2022R9 R1; PUS R2 fully frozen"
     },
     {
       "agent": "review_2022_complexity_r2",
-      "year": 2022,
-      "role": "Actual2022research to meaningful savedcheckpoint, then OTHER initiallyblind WHOLE2020R9 R2"
+      "year": 2020,
+      "role": "OTHER initially blind ENTIRE WHOLE2020A9 R2 then2021R13 R1; actual2022Q1–Q4 constructor ENTIRE frozen"
     },
     {
       "agent": "review_2017_coarsening_r1",
-      "year": 2017,
-      "role": "OTHER initiallyblind WHOLE rootPUS R1;2020R9 ENTIREconstructor frozen/unverified"
+      "year": 2020,
+      "role": "Actual mixed-class R10 checkpoint then OTHER initially blind ENTIRE WHOLE2022R9 R2; PUS R1 fully frozen"
     }
   ],
   "initial_passes_pending": [],
   "deferred": [
     2026
   ],
-  "weekly_used_percent_last_observed": 7,
+  "weekly_used_percent_last_observed": 8,
   "weekly_reset_unix": 1792874445,
   "caffeinate": {
     "user_authorization": "keepcomputerawakeuntil90%weeklyquota; permissionforoneagentmustnotinterruptothers",
@@ -51,8 +51,8 @@
     "previous_exit_code_after_targeted_ctrl_c": 130,
     "next_check_utc": "2026-10-18T01:53:20+00:00"
   },
-  "notes": "Two annual answers/sevenunresolved. PM/R9 repairs acceptedscoped; NEWPUSunverified; C2020/A2021/B2022 actualresearch. Hourlyactive, onepermissiondependencydoesnothaltothers.",
-  "observed_at_utc": "2026-10-18T01:16:22.000314+00:00",
+  "notes": "Two annual answers/seven unresolved. PUS/PM/R9 accepted scoped. New2020A9/2021R13/2022Q1–Q4 unverified. Hourly ACTIVE; permission for one action does not halt others.",
+  "observed_at_utc": "2026-10-18T01:29:36.680377+00:00",
   "coordinator_compute": {
     "status": "all constructor children completed and reaped",
     "complex_complement_child_pid": 37199,
@@ -61,15 +61,16 @@
     "complex_family_count": 6224952,
     "new_complex_extension_audits": "both complete, accepted"
   },
-  "latest_all_nine_report": "progress/status-2026-10-18-1116.md",
-  "coordinator_current": "PM/R9 repairs accepted after complete both-affected reconciliation. NEWrootPUS1–PUS3 fullyfrozenunverified, C/A OTHERwholeauditsqueued after constructors. Rootintegrates/pushes then2020/2021audits.",
-  "latest_checkpoint": "progress/status-2026-10-18-1116.md",
+  "latest_all_nine_report": "progress/status-2026-10-18-1130.md",
+  "coordinator_current": "PUS1–PUS3 accepted after both OTHER ENTIRE WHOLE36/36 full reconciliation. Root OTHER2020A9 WHOLE56 R1 and2021R13 WHOLE44 R2 ENTIRE frozen; B others active/queued. Integrate checkpoint while actual math continues.",
+  "latest_checkpoint": "progress/status-2026-10-18-1130.md",
   "pending_unverified": [
-    "2017rootPUS1–PUS3: ENTIRE8fileconstructorfrozen, twoOTHERblindwhole36auditsqueued C/A; rootexcluded",
-    "2025smallerquotientexploratoryworklog, no two-auditcandidate or improvementclaim",
-    "2024oldnarrowr1 preserved/unaccepted",
-    "2020arithmeticR9 ENTIRE10fileconstructorfrozen, root/B OTHERblindwhole56audits assigned;unverified",
-    "2021R13 ENTIRE11fileconstructorfrozen, root/B OTHERblindwhole44audits assigned;unverified"
+    "2020arithmeticR9: rootOTHERWHOLE56 R1 ENTIRE frozen/B OTHERblindwholeR2 active",
+    "2021R13: rootOTHERWHOLE44 R2 ENTIRE frozen/B OTHERblindwholeR1 queued",
+    "2022R9Q1–Q4: ENTIRE10fileconstructor/48obligations frozen; A/C OTHERblindwhole reviews active/queued",
+    "2020R10 actual mixed-class reasoning in progress, distinct prefix/unverified",
+    "2025 smaller-quotient exploratory worklog, no two-audit candidate/improvement claim",
+    "2024 old narrowr1 preserved/unaccepted"
   ],
   "usage_telemetry_conflict": {
     "last_consistent_old_window": {
@@ -87,7 +88,7 @@
     "explicit_user_authorization": "keep going till90%of the newly reported weekly window....do not stop",
     "authorization_recorded_at_utc": "2026-10-18T00:00:36.393369+00:00"
   },
-  "weekly_last_observed_at_utc": "2026-10-18T01:15:22+00:00",
+  "weekly_last_observed_at_utc": "2026-10-18T01:22:58+00:00",
   "hourly_reporting": {
     "automation_id": "simon-marais-hourly-research-report",
     "kind": "heartbeat",

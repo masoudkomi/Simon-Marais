@@ -1,0 +1,74 @@
+{
+  "frozen_at_utc": "2026-10-18T01:22:07.552013+00:00",
+  "status": "ENTIRE initially blind independent WHOLE R1 frozen before any NEW peer PUS material",
+  "whole_author_obligations": 36,
+  "complete_whole_review": true,
+  "substantive_issues": 0,
+  "requested_repairs": 0,
+  "advisories": 0,
+  "target_freeze": {
+    "path": "problems/2017-B4/notes/coordinator-plane-recovery-r1-freeze-v1.json",
+    "bytes": 2239,
+    "sha256": "19c9c464f0c1f60000113b7a71ff3076d4501a23e1099671ff66b91cadf5a515"
+  },
+  "immutable_own_parent": {
+    "path": "problems/2020-B4/notes/reasoning-arithmetic-return-r9-freeze-v1.json",
+    "bytes": 2811,
+    "sha256": "c90992cdc72cc411b8dbec2b811bbd39fb3e9e948e1559dd4e6163487a4ec5ef"
+  },
+  "historical_own_paths_bound": 541,
+  "this_packet_paths_including_manifest": 10,
+  "own_paths_after_this_packet": 551,
+  "declared_occurrences_verified": 29,
+  "deduplicated_paths_verified": 22,
+  "old_constructor_roles_disclosed_no_self_recertification": true,
+  "no_NEW_peer_PUS_file_or_hash_accessed": true,
+  "no_coordinator_promotion_or_annual_claim": true,
+  "artifacts": [
+    {
+      "path": "problems/2017-B4/reviews/coordinator-plane-recovery-r1-review-1-initial-v1.md",
+      "bytes": 14116,
+      "sha256": "b77a92ead70dbf265176ba31ef1fb832072ae5efaa620a84dc26bc83e68aa827"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-plane-recovery-r1-review-1-ledger-v1.md",
+      "bytes": 5367,
+      "sha256": "0b7563c961350bafeb7ab14874c3216f462f7280e095c2a83eea5c983955ee95"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-plane-recovery-r1-review-1-issues-v1.md",
+      "bytes": 1186,
+      "sha256": "56e0f7e96a96c4cb13ea0ecd1dc11ddf28a85d2b41345d9591e0b95c14cd5c1c"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-plane-recovery-r1-review-1-source-checks-v1.md",
+      "bytes": 4430,
+      "sha256": "71d7b1be479a61656aff4204d859a23268b995751aa853a9c952f4efde6d3032"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-plane-recovery-r1-review-1-worklog-v1.md",
+      "bytes": 3794,
+      "sha256": "7b0393db825690eee8b84b97a0957229ae512437a3282a17b7885db521019bd4"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-plane-recovery-r1-review-1-freeze-v1.py",
+      "bytes": 8306,
+      "sha256": "55c0c49fd22ccb1035335a0edd347039bbdf68dca1cfe705e104a9386e76a7ff"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-plane-recovery-r1-review-1-baseline-v1.json",
+      "bytes": 9945,
+      "sha256": "316df9cf7e1a2cbce64c7238857cb01004bf33275ed75fdb223512bfed66a123"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-plane-recovery-r1-review-1-metadata-v1.json",
+      "bytes": 1592,
+      "sha256": "ea8b6cd2f3186b88ff36b4b06c97a514e2a8632920bcb476866a5bce4b1a7552"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-plane-recovery-r1-review-1-input-validation-v1.json",
+      "bytes": 655,
+      "sha256": "39bada6bbd4490736f5f8baae533d0770101a27cb70acffbf7cf60f9866c9114"
+    }
+  ]
+}

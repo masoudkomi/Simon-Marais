@@ -1,0 +1,86 @@
+{
+  "frozen_at_utc": "2026-10-18T01:25:07.958387+00:00",
+  "status": "ENTIRE initially blind nonconstructor WHOLE PUS R2 initial frozen",
+  "reviewer": "/root/review_2021_reasoning_j15_r2",
+  "NEW_constructor": "/root",
+  "root_excluded_from_OTHER_auditor_count": true,
+  "old_US_authorship_and_PM_review_roles_disclosed_not_self_recertified": true,
+  "whole_obligations": 36,
+  "closed": 36,
+  "unresolved_substantive_issues": 0,
+  "required_author_repairs": 0,
+  "closed_already_explicit_scope_notes": [
+    "PUS-R2-N1",
+    "PUS-R2-N2",
+    "PUS-R2-N3"
+  ],
+  "ENTIRE_initial_before_ANY_NEW_peer_PUS_read_hash_or_finding": true,
+  "TWO_OTHER_entire_whole_audits_and_root_reconciliation_required": true,
+  "no_global_mass_upper_R_value_annual_growing_D_or_novelty_claim": true,
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independently_verified_effective_settings": null,
+  "authoritative_weekly_snapshot": {
+    "tool": "mcp__codex_app__get_usage_limits",
+    "at_utc": "2026-10-18 01:24:14 UTC",
+    "total_weekly_used_percent": 8,
+    "window_minutes": 10080,
+    "reset_unix": 1792874445,
+    "ordinary_usage_allowed": true,
+    "legacy_and_by_limit_agree": true,
+    "new_window_explicitly_user_authorized": true,
+    "ceiling_total_percent": 90,
+    "integration_reserve_retained": true,
+    "automatic_further_reset_authorized": false
+  },
+  "compact_current_summary": {
+    "occurrences": 32,
+    "unique_paths": 30,
+    "canonical_deduplicated_sha256": "0bd367c69b286cc250f6a277af7062386cf9db8cbe1b2c096747c107f47a63ca"
+  },
+  "compact_parent_groups": 3,
+  "old_parent_inventory_rows_bound_not_recopied": true,
+  "mathematical_program_CAS_scan_author_rerun_or_old_certificate_replay": false,
+  "old_shared_Git_cache_writes_spawn_charge_contact_bypass": false,
+  "administrative_command": "python3 problems/2017-B4/reviews/coordinator-plane-recovery-r1-review-2-freeze-v1.py",
+  "artifacts": [
+    {
+      "path": "problems/2017-B4/reviews/coordinator-plane-recovery-r1-review-2-initial-v1.md",
+      "bytes": 17197,
+      "sha256": "5a6a9e7c62fbada5070c068f5c9ed04bef706c9901e416258a393689b62bffe8"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-plane-recovery-r1-review-2-issues-v1.md",
+      "bytes": 7834,
+      "sha256": "02a2d572bdeb4886ff2f64440bfa15b0abfd23a070daf8ed3ee698e15e756a0f"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-plane-recovery-r1-review-2-source-checks-v1.md",
+      "bytes": 6947,
+      "sha256": "d72d604648a9ec96a0e3dc8fe8f9a911594cf1299d0fdae15b0090f044b8872d"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-plane-recovery-r1-review-2-worklog-v1.md",
+      "bytes": 3793,
+      "sha256": "eb0905b5046affcccbf6259ed95ce94b6864e60cf0a901f204194f9525f99b81"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-plane-recovery-r1-review-2-freeze-v1.py",
+      "bytes": 8717,
+      "sha256": "9180f868284b89b353a754a3747d060399c0ac936177f18442152ef677c0481a"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-plane-recovery-r1-review-2-input-validation-v1.json",
+      "bytes": 8820,
+      "sha256": "3f2ec01ed9103592814d4de5728a0c8c0519234c25ea44e362839f8bdfe4d48d"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-plane-recovery-r1-review-2-freeze-output-v1.json",
+      "bytes": 985,
+      "sha256": "c21b4c7e33cbfc250df0bcced088c13fc3cc35dbf5fc6ff7fa277d7f07957bdd"
+    }
+  ]
+}

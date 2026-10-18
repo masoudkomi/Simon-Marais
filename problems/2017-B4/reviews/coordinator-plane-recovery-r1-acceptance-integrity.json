@@ -1,0 +1,82 @@
+{
+  "verified_at_utc": "2026-10-18T01:28:33.507236+00:00",
+  "all_verified": true,
+  "record_occurrences": 99,
+  "unique_paths": 49,
+  "inputs": [
+    {
+      "metadata": {
+        "path": "problems/2017-B4/notes/coordinator-plane-recovery-r1-freeze-v1.json",
+        "bytes": 2239,
+        "sha256": "19c9c464f0c1f60000113b7a71ff3076d4501a23e1099671ff66b91cadf5a515"
+      },
+      "record_occurrences_verified": 7
+    },
+    {
+      "metadata": {
+        "path": "problems/2017-B4/notes/coordinator-plane-recovery-r1-input-validation-v1.json",
+        "bytes": 3120,
+        "sha256": "f84ec4f98ba0d586df611b80e13c66596b6006fa3c8d7cfbdf5b40e0488a1ddd"
+      },
+      "record_occurrences_verified": 13
+    },
+    {
+      "metadata": {
+        "path": "problems/2017-B4/reviews/coordinator-plane-recovery-r1-review-1-manifest-v1.json",
+        "bytes": 3036,
+        "sha256": "e19485cd578e4d994ec220b824c90cc308844597e1a5cc6c493cd0e2add5c173"
+      },
+      "record_occurrences_verified": 11
+    },
+    {
+      "metadata": {
+        "path": "problems/2017-B4/reviews/coordinator-plane-recovery-r1-review-1-baseline-v1.json",
+        "bytes": 9945,
+        "sha256": "316df9cf7e1a2cbce64c7238857cb01004bf33275ed75fdb223512bfed66a123"
+      },
+      "record_occurrences_verified": 24
+    },
+    {
+      "metadata": {
+        "path": "problems/2017-B4/reviews/coordinator-plane-recovery-r1-review-1-metadata-v1.json",
+        "bytes": 1592,
+        "sha256": "ea8b6cd2f3186b88ff36b4b06c97a514e2a8632920bcb476866a5bce4b1a7552"
+      },
+      "record_occurrences_verified": 0
+    },
+    {
+      "metadata": {
+        "path": "problems/2017-B4/reviews/coordinator-plane-recovery-r1-review-1-input-validation-v1.json",
+        "bytes": 655,
+        "sha256": "39bada6bbd4490736f5f8baae533d0770101a27cb70acffbf7cf60f9866c9114"
+      },
+      "record_occurrences_verified": 0
+    },
+    {
+      "metadata": {
+        "path": "problems/2017-B4/reviews/coordinator-plane-recovery-r1-review-2-manifest-v1.json",
+        "bytes": 3480,
+        "sha256": "c2d7b7cc3c8139bbd42a896f8a637c9a7616e9f0eadaaa6776c8e8be862faa99"
+      },
+      "record_occurrences_verified": 7
+    },
+    {
+      "metadata": {
+        "path": "problems/2017-B4/reviews/coordinator-plane-recovery-r1-review-2-input-validation-v1.json",
+        "bytes": 8820,
+        "sha256": "3f2ec01ed9103592814d4de5728a0c8c0519234c25ea44e362839f8bdfe4d48d"
+      },
+      "record_occurrences_verified": 35
+    },
+    {
+      "metadata": {
+        "path": "problems/2017-B4/reviews/coordinator-plane-recovery-r1-review-2-freeze-output-v1.json",
+        "bytes": 985,
+        "sha256": "c21b4c7e33cbfc250df0bcced088c13fc3cc35dbf5fc6ff7fa277d7f07957bdd"
+      },
+      "record_occurrences_verified": 2
+    }
+  ],
+  "exact_rows_bound_in_immutable_inputs": true,
+  "administrative_only": true
+}

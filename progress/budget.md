@@ -171,3 +171,6 @@ Current12:03UTCtransition:36%TOTALweeklyused,64%remaining,54ppbefore90%,samerese
 
 
 2026-10-18 01:15:22UTC: authoritative7%TOTAL/reset1792874445,ordinaryallowed,83ppbefore90%. Raw1,592,714,725total including1,508,040,320cached;72,855,557uncachedinput;11,818,848output including5,084,280reasoning;uncached+output84,674,405.62sessions8360responses,allsumsmatch. No bill/weeklyconversion. PM/R9repairs acceptedscoped; PUSunverified; C2020/A2021/B2022 actualresearch; hourlyactive, awakecheck01:53:20UTC.
+
+
+2026-10-18 01:22:58UTC: authoritative8%TOTAL/reset1792874445/ordinaryallowed,82ppbefore90%. Raw01:28:47UTC total1,620,202,953/cached1,534,474,496/uncached73,732,928/output11,995,529/reasoning5,149,582(subset);uncached+output85,728,457.62sessions8502responses,allsumsmatch;notbilling/weeklyconversion. PUSacceptedscoped; A9/R13/Q1–Q4unverified; hourlyACTIVE, awakecheck01:53:20UTC.

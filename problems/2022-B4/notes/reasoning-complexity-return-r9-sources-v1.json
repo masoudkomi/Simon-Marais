@@ -1,0 +1,70 @@
+{
+  "date_utc": "2026-10-18",
+  "status": "candidate proof - unverified; source records are not independent mathematical audits",
+  "proof_imports": [
+    {
+      "id": "official-2022-b",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2022-paper-b.pdf",
+      "title": "2022 Simon Marais Paper B, page 2 B4(b)",
+      "fresh_read": "actual PDF extracted page2 B4 lines58-70",
+      "use": "official domain, simultaneous recurrence, equality at n>=0; no preliminary proof",
+      "local_new_pdf_download": false
+    },
+    {
+      "id": "attributed-strip",
+      "url": "https://austms.org.au/wp-content/uploads/2023/04/501Web.pdf",
+      "title": "Henderson and Warnaar, Gazette50(1),2023, The2022 Simon Marais Mathematics Competition",
+      "fresh_read": "actual B4 passage printed pp29-30; incidental preliminary proof-summary text not investigated or reconstructed",
+      "use": "attributed eventual entry/invariance statement only; no numerical experiment imported",
+      "local_new_pdf_download": false
+    },
+    {
+      "id": "accepted-strip-scope",
+      "path": "problems/2022-B4/proofs/reviewed-partials-v1.md",
+      "fresh_read": "complete P1-P4 body and attributed-input boundary",
+      "use": "exact accepted preliminary-context authority in Q4; no new proof of(a)"
+    }
+  ],
+  "context_without_new_theorem_import": [
+    {
+      "id": "frontier-r8-r7-r6-f5-r3",
+      "fresh_read": "complete accepted mathematical bodies and relevant current acceptance scope records; overlapping reads filled display truncation",
+      "use": "respect precise ordinary-lift/fork/phase/counting/finite-shadow failures; not hidden Q1-Q3 premises"
+    },
+    {
+      "id": "older-density-complexity",
+      "fresh_read": "accepted scope headers and introductory domains only",
+      "full_proof_freshly_reaudited": false,
+      "use": "context only; no theorem premise in Q1-Q4"
+    },
+    {
+      "id": "afs",
+      "url": "https://perso.telecom-paristech.fr/jsaka/PUB/Files/RBNS-rev.pdf",
+      "fresh_read": "R8 accepted source-audit record; earlier primary checks are preserved in their own packets, no new whole primary reread claimed",
+      "use": "no imported theorem; at-most-two hypothesis fails at11/10"
+    },
+    {
+      "id": "aev-v2",
+      "url": "https://arxiv.org/html/2510.11723v2",
+      "fresh_read": "accepted source-audit record; no new complete primary reread",
+      "use": "conjectural/conditional frontier only, not termination"
+    },
+    {
+      "id": "dm",
+      "url": "https://www.researchgate.net/publication/220576840_Lower_bounds_for_Z-numbers",
+      "fresh_read": "accepted source-audit record; no new complete primary reread",
+      "use": "proper-residue hypotheses retained, no source theorem applied"
+    },
+    {
+      "id": "sidorov",
+      "url": "https://arxiv.org/pdf/math/0209247",
+      "fresh_read": "accepted source-audit record; no new complete primary reread",
+      "use": "unrestricted real representation is not canonical integer-prefix conversion"
+    }
+  ],
+  "new_Q1_Q4_methods": "complete hand proofs in main; elementary lattice identities, bounded digit differences, inverse inequalities, positive-integer well-ordering",
+  "no_math_executable_or_certificate_run": true,
+  "no_current_exhaustive_status_or_novelty_claim": true,
+  "third_party_pdf_files_added": 0,
+  "compact_integrity": "exact current necessary paths/bytes/SHA and immutable parent references in baseline/freeze, no growing historical inventory"
+}
