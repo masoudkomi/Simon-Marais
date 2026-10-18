@@ -1,0 +1,87 @@
+{
+  "frozen_at_utc": "2026-10-18T10:55:33.458460+00:00",
+  "status": "ENTIRE initially blind OTHER WHOLE CF1-CF6 review1",
+  "reviewer": "/root",
+  "constructor": "/root/review_2017_coarsening_r1",
+  "target": {
+    "path": "problems/2022-B4/notes/reasoning-fiber-return-r5-candidate-v1.md",
+    "bytes": 23177,
+    "sha256": "789ed605351a9d913348add46b8b9c47734bb0809f8269798aa8d53760f46a7e"
+  },
+  "constructor_freeze": {
+    "path": "problems/2022-B4/notes/reasoning-fiber-return-r5-freeze-v1.json",
+    "bytes": 2791,
+    "sha256": "22283a8f95e7a2a489596a418b1dce4d9ab3f619296309b0ed33863fbd75c2ca"
+  },
+  "whole_obligations": 48,
+  "all48_pass": true,
+  "substantive_issues": 0,
+  "required_repairs": 0,
+  "closed_scope_notes": 5,
+  "ENTIRE_initial_ALL48_issues_sources_log_code_ALLmetadata_frozen_together": true,
+  "NO_NEW_corresponding_R2_finding_content_hash_or_metadata_access": true,
+  "immediate_own_parent": {
+    "path": "problems/2019-B4/reviews/reasoning-cut-number-r3-review-1-manifest-v1.json",
+    "bytes": 3276,
+    "sha256": "c45fa39ea5c298b7b47e667e7cc0571bf7f4322424dac31de1edb8657056c3e1"
+  },
+  "current_inputs": {
+    "occurrences": 43,
+    "unique_paths": 43,
+    "canonical_summary_sha256": "3c7b0019ac973bf791c85171e6257412b8f6b0ef3bf31020332720f07d727ce8"
+  },
+  "other_ENTIRE_R2_and_coordinator_reconciliation_required": true,
+  "promotion": false,
+  "artifacts": [
+    {
+      "path": "problems/2022-B4/reviews/reasoning-fiber-return-r5-review-1-initial-v1.md",
+      "bytes": 13933,
+      "sha256": "033796df11666e5c9afe9d2fc4d36c43a031cff5937c0bda162d7c6ce7c804fc"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-fiber-return-r5-review-1-ledger-v1.md",
+      "bytes": 6103,
+      "sha256": "6a5dfd37573ac74911777be2b2eccb715426494358ba73a17c91bddf133ca310"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-fiber-return-r5-review-1-issues-v1.md",
+      "bytes": 1764,
+      "sha256": "e261ada185aa8212f19ed09fd8abcf3097816423b723546349b1c95ec3f6350d"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-fiber-return-r5-review-1-source-checks-v1.md",
+      "bytes": 3816,
+      "sha256": "8c581a31cad20e70eb9e2e1fda2e9a44c7b143e460eecacc5ff0d884e7d6fb9e"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-fiber-return-r5-review-1-sources-v1.json",
+      "bytes": 2533,
+      "sha256": "cc315e3c2ce4362fd49b027d958155e881ea28a849d8bb416b1bd8e8ae880ba1"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-fiber-return-r5-review-1-worklog-v1.md",
+      "bytes": 3648,
+      "sha256": "63a580f2918f90f83c3557999eb90646c56b8160ec0a124f306f7b8e38fbd97b"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-fiber-return-r5-review-1-freeze-v1.py",
+      "bytes": 6049,
+      "sha256": "7abc7306bb5720ba59f966a8a71a9df5cf60bd8326a7b3c969a63a1a7502d455"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-fiber-return-r5-review-1-baseline-v1.json",
+      "bytes": 13669,
+      "sha256": "521d075341c2278bfa0a8797826a5cf0bf98099bcd9af13822b54d9d50ad2b43"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-fiber-return-r5-review-1-input-validation-v1.json",
+      "bytes": 361,
+      "sha256": "ab9203b016f9201fc8ef28b9eabe7230e526fcc130558020bfe1b585348f6648"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-fiber-return-r5-review-1-metadata-v1.json",
+      "bytes": 831,
+      "sha256": "61315d870cedc284f19e14ff6eed59565b1e73155398cd6433eb1711b78c40e8"
+    }
+  ]
+}

@@ -32,6 +32,16 @@ q meets that arithmetic hypothesis here, so the annual classification
 remains open.
 
 
+2026-10-18 further advance: [TD1–TD5](reviews/reasoning-Todd-return-r12-acceptance.md)
+has passed root/A TWO OTHER initially blind ENTIRE WHOLE72/72 audits
+and complete reconciliation. The canonical refined ideal class retains
+the even-class unit obstruction, and gives the COMPLETE exact-q finite
+box plus precise actual conjugation-cube and mixed-slice counts. Actual
+whole-primary minimality holds even with square blocks. No new q has
+its canonical offset/box or small-H condition evaluated; no automatic
+unit correction, composite assembler, annual answer or priority follows.
+
+
 ## Statement checks
 
 Official B4(b), page 2, was checked by extraction and visual rendering. It asks for all taut integers n>=2, with Euclidean distances among n selected vertices of an (n²-n+1)-gon. Part (a) is excluded from this work. The order/cardinality change q=n-1 is essential, as is the n=2 exception. See statement.md, source-check.json, and the cropped official B4 render.

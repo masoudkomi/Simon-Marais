@@ -17,11 +17,15 @@ Each passed TWO OTHER initially blind ENTIRE WHOLE audits and complete
 reconciliation. The new
 [2019 CN1–CN3](problems/2019-B4/reviews/reasoning-cut-number-r3-acceptance.md)
 also passed both whole48/48 audits: fixed-range pointwise cut-count bounds
-fail on explicit balanced outputs; the full high-cut MASS estimate remains open. The separate2024 R5 extension is frozen UNVERIFIED.
-Weekly26%TOTAL at10:40:59UTC/reset1792874445; continue to90%TOTAL
+fail on explicit balanced outputs; the full high-cut MASS estimate remains open. The
+[2020 TD1–TD5](problems/2020-B4/reviews/reasoning-Todd-return-r12-acceptance.md)
+also passed both whole72/72 audits, retaining the unit obstruction in
+its canonical exact-q criterion. No new q is evaluated.2024 R5 author-v2
+repair,2022 CF and2025 BD remain UNVERIFIED pending required reviews.
+Weekly28%TOTAL at10:59:28UTC/reset1792874445; continue to90%TOTAL
 with reserve in this explicitly authorized window.
 
-- [Latest research checkpoint](progress/checkpoint-2026-10-18-2045.md);
+- [Latest research checkpoint](progress/checkpoint-2026-10-18-2100.md);
   [latest actual hourly report](progress/status-2026-10-18-2027.md).
   Next actual hourly/owned-awake check11:27:42UTC.
 

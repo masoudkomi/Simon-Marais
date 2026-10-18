@@ -1,10 +1,11 @@
 # Research dashboard
 
-Current [research checkpoint20:45Brisbane](checkpoint-2026-10-18-2045.md):
-NEW2019CN1–CN3 accepted after BOTH OTHER whole48/48 audits/full reconciliation.
-Fresh weekly26%TOTAL10:40:59UTC. Last actual hourly20:27 and its token cutoff
-remain separate; next11:27:42UTC.2020ToddR12/2022CF/2024FrobeniusR5 still
-UNVERIFIED. Two complete annual answers/seven unresolved; awake assertion active.
+Current [research checkpoint21:00Brisbane](checkpoint-2026-10-18-2100.md):
+NEW2020TD1–TD5 accepted after BOTH OTHER whole72/72 audits/full reconciliation.
+Fresh weekly28%TOTAL10:59:28UTC. Latest actual hourly20:27, next11:27:42UTC.
+2024R5 full author-v2 repair,2022CF and2025BD remain UNVERIFIED;2021R17
+reasoning continues. Two complete annual answers/seven unresolved;
+owned awake assertion freshly confirmed.
 
 
 Initial scope: nine official B4 open portions, 2017-2025. **2026 deferred by the user**, not counted as a verified problem. The 2017 problem and general 2018 enumeration are in scope; for 2019-2025, **part (b) only**. Preliminary part (a) and the already known 2018 m=5 case are excluded as research targets. See sources/open-scope-audit.md.
@@ -14,12 +15,12 @@ Initial scope: nine official B4 open portions, 2017-2025. **2026 deferred by the
 |2017|Scalar limit exists; value unknown. Reviewed WC1-WC3 gives official upper<0.648. Effective global upperR/exact value remain open.|
 |2018|COMPLETE internally reviewed general enumeration, attributed published Hering-Howard/Ottaviani reproduction; known m5 excluded as research target.|
 |2019|Reviewed1.765224<lambda<1.834843; NEW CN1-CN3 accepted after OTHER whole48/48 audits/full reconciliation: actual balanced linear-cut obstruction for ANY fixed range; specified flat exponentially negligible. Full high-cut mass/actual regime/exactlambda open.|
-|2020|A11 accepted. NEW ToddR12 ENTIRE72/11 frozen UNVERIFIED, retains even-class unit obstruction; root OTHER wholeR1 ENTIRE frozen, A R2 queued. No new actualq/small-H instance.|
-|2021|NEW R15 exact(S),(W) actual m5 exclusion and R16 both m4 cubic exclusions accepted after48/48 and56/56 OTHER whole audits/full reconciliation. Genuine conditional quartic survives; remaining EC/T4,m3,other degree20 patterns and annual open.|
-|2022|SR accepted. NEW CF1-CF6 ENTIRE48/11 frozen UNVERIFIED: full-map equal-growth/translation, event/time/merger and conditional tenfold geometry; root R1 active, A R2 queued. Universal hitting/infinite-fiber existence open.|
+|2020|TD1-TD5 accepted after root/A OTHER whole72/72 and full reconciliation: canonical refined ideal class retains unit obstruction; COMPLETE exact-q box, actual cube/mixed counts/all-exponent primary minimality. No new actualq/small-H evaluation; annual open.|
+|2021|R15 actual m5 and R16 both m4 cubic exclusions accepted in exact(S),(W) domains. NEW R17 global center obstruction under construction UNVERIFIED. Remaining EC/T4,m3,other degree20 patterns/annual open.|
+|2022|SR accepted. CF1-CF6 ENTIRE48/11 UNVERIFIED: root OTHER R1 ENTIRE frozen, A R2 active; full-map equal-growth/permanent-translation theorem, event/time/merger and conditional tenfold geometry. Universal hitting/fiber existence open.|
 |2023|COMPLETE internally reviewed fixed positive nonsquare N classification: all(k,k),k>0 and(k,2k),(2k,k) with positive odd k. Priority unestablished.|
-|2024|R4 whole n=15*16^k+1,k>=2 and cubicR3 all s>=3,k>=3 accepted. NEW FrobeniusR5 n=31*32^k+1,k>=2 remains UNVERIFIED: B OTHER R2 ENTIRE frozen, A R1 active. General classification/priority open.|
-|2025|NEW BR1-BR5 accepted after OTHER whole60/60 audits/full reconciliation: NONNEGATIVE INTEGER weights, actual nonzero all-prime integral values, coherent/two-label restrictions and residual hr>=p under2^h<=ph with0 in coveringH. Large support/many labels, unrestricted p, old linear-delta and annual gaps remain.|
+|2024|R4 whole n=15*16^k+1,k>=2 and cubicR3 accepted. R5 BOTH whole32 support theorem but found literal errors; full author-v2 corrected presentation UNVERIFIED pending BOTH affected reaudits/reconciliation. Whole n=31*32^k+1 not yet promoted. Annual/priority open.|
+|2025|BR1-BR5 accepted. NEW BD1-BD4 ENTIRE64/11 frozen UNVERIFIED: actual degree/discriminant/residual pure-prime-power obstruction, no support-label restriction; TWO OTHER whole audits required. Larger residual cofactors/unboundedp/annual open.|
 
 ## Coordination
 

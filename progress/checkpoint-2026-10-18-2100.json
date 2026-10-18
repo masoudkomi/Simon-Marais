@@ -1,0 +1,48 @@
+{
+  "recorded_at_utc": "2026-10-18T11:00:56.095000+00:00",
+  "kind": "meaningful checkpoint, NOT scheduled hourly",
+  "accepted_new": [
+    "2020TD1-TD5"
+  ],
+  "two_OTHER_whole_reviews": [
+    72,
+    72
+  ],
+  "full_reconciliation": true,
+  "complete_annual_answers": 2,
+  "unresolved_annual_targets": 7,
+  "weekly": {
+    "observed_at_utc": "2026-10-18T10:59:28+00:00",
+    "used_percent_TOTAL": 28,
+    "window_minutes": 10080,
+    "reset_unix": 1792874445,
+    "ordinary_usage_allowed": true,
+    "legacy_by_limit_agree": true,
+    "ceiling_TOTAL": 90,
+    "integration_reserve": true,
+    "current_window_only": true,
+    "automatic_later_reset_spending": false
+  },
+  "token_audit_cutoff_utc": "2026-10-18T10:26:32.030056+00:00",
+  "recorded_tokens": 2025472197,
+  "recorded_reasoning": 6194590,
+  "token_audit_not_fresh_at_checkpoint": true,
+  "latest_actual_hourly": "progress/hourly-report-2026-10-18-2027.json",
+  "next_actual_hourly_utc": "2026-10-18T11:27:42+00:00",
+  "frozen_unverified": [
+    "2024R5 author-v2 repair, BOTH affected reaudits required",
+    "2022CF/root OTHER R1 ENTIRE48/11, A R2 active",
+    "2025BD1-BD4 ENTIRE64/11, TWO OTHER whole audits required"
+  ],
+  "active_new_research": [
+    "2021R17"
+  ],
+  "owned_keepawake": {
+    "pid": 79293,
+    "exec_session": 64368,
+    "untimed": true,
+    "verified_at_utc": "2026-10-18T10:59:28+00:00",
+    "asserting_duration": "33:51:39",
+    "targeted_cleanup_only": true
+  }
+}

@@ -1,5 +1,14 @@
 # Independent review queue
 
+CURRENT18October2026 11:00UTC:2020TD1–TD5 ACCEPTED after root/A ENTIRE
+OTHER WHOLE72/72 audits/full reconciliation; B excluded.2022CF rootR1
+ENTIRE48/11 frozen, A R2 active; UNVERIFIED.2024R5 BOTH whole32 initials
+complete, full author-v2 literal repair frozen, B affected R2 active/A
+affected R1 queued AFTER ENTIRECF; UNVERIFIED.2025BD1–BD4 ENTIRE64/11
+frozen UNVERIFIED, root/A two OTHER whole audits queued.2021R17 NEW
+reasoning active. Exact latest checkpoint2100, previous entries historical.
+
+
 
 Update approximately12:32UTC:2020 R4 BOTH whole initials are now frozen. R2 found R4R2-01: the final moment is automatic, contrary to the draft auxiliary claim; root R1 missed it. Full E2 iff and earlier structural conclusions remain valid. Full versioned author repair and BOTH affected reaudits are queued before promotion. See [review reconciliation](2020-r4-review2-followup-2026-10-17-1232.md). Current workers:2017newvalue reasoning,2021R6,2022R5;2020repair follows B complete2022freeze.
 
