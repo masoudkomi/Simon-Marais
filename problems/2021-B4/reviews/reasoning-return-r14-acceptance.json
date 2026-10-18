@@ -1,0 +1,95 @@
+{
+  "accepted_at_utc": "2026-10-18T06:42:49.205819+00:00",
+  "status": "proved, independently reviewed scoped partial result",
+  "whole_initials_blind": true,
+  "root_read_full_candidate_both_reports_all_ledgers_sources": true,
+  "unresolved_substantive_issues": 0,
+  "repair_required": false,
+  "candidate": {
+    "path": "problems/2021-B4/notes/reasoning-return-r14-candidate-v1.md",
+    "bytes": 19879,
+    "sha256": "18b13277fb58aced493db2b4ed2b6bfb92a3778c50e661bf5bc858a59f0c2e7f"
+  },
+  "accepted_copy": {
+    "path": "problems/2021-B4/proofs/reviewed-reasoning-return-r14-v1.1.md",
+    "bytes": 23801,
+    "sha256": "c574096c94bc4deaab81b54c5dd0599f3089e7122165312d9089ea28d2a9f880"
+  },
+  "verification_metadata": [
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r14-freeze-v1.json",
+      "bytes": 4436,
+      "sha256": "08b6fb33c91302e8fc5222504bcae08f84175f140be981851d94495c049d7b58"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r14-input-validation-v1.json",
+      "bytes": 9442,
+      "sha256": "536c28e2f94037f7e0186acbcbe7298e4feae5b02810ef3f81727531900b04e4"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r14-sources-v1.json",
+      "bytes": 3193,
+      "sha256": "1ec83902a0ce782df34066e988b4e24dbde78f234e80de707789cc45bc3e845d"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r14-review-1-manifest-v1.json",
+      "bytes": 5273,
+      "sha256": "5d3059a5075867e28b47a6af91db8d4d1a6505199d19dd8043cbb4f46b0fa1e4"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r14-review-1-baseline-v1.json",
+      "bytes": 5947,
+      "sha256": "da8371d002a2f8cb956681535d031f9c84b4193922decb01641c9e67e9a3eb0b"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r14-review-1-authority-update-v1.json",
+      "bytes": 1332,
+      "sha256": "f5362d0b96573b52d7bc03daffbaf5ca0366254f7605372a18f55a79976b5204"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r14-review-1-input-validation-v1.json",
+      "bytes": 6157,
+      "sha256": "cd83a1ce24550e99f5900ccc71aae4e00631f6c7ce8d58f2b9dabedc4a8abc7f"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r14-review-2-manifest-v1.json",
+      "bytes": 3346,
+      "sha256": "e6dbba54610280f12b87b4e4a6a12a4e7a167061def750a6fd9730fb5f846ff0"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r14-review-2-baseline-v1.json",
+      "bytes": 6209,
+      "sha256": "8eaf8dda8630c0c8c369133809a089cd13911748b74df7df75892e9e5ffcd629"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r14-review-2-metadata-v1.json",
+      "bytes": 1972,
+      "sha256": "270140ffb8dcca2c2af8a053da8085cf29514dd811c26063d547e1fc26ca2ef6"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r14-review-2-input-validation-v1.json",
+      "bytes": 1111,
+      "sha256": "4ba39056427924a05af91cf26331e2dfc6cb7274921c9d192c5d28d581c27dc1"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r13-acceptance.json",
+      "bytes": 3318,
+      "sha256": "b0650934d449a60daae2fd8dffaac0beb0f5ccf5cf85247f73218802cef63909"
+    }
+  ],
+  "record_occurrences_verified": 170,
+  "unique_paths_verified": 73,
+  "constructor": "/root/review_2021_reasoning_j15_r2",
+  "constructor_excluded": true,
+  "OTHER_whole_reviewers": [
+    "/root/review_2022_complexity_r2",
+    "/root/review_2017_coarsening_r1"
+  ],
+  "all56_obligations_in_BOTH_ENTIRE_initials": true,
+  "R14D_historical_conditional_preserved": true,
+  "R13C_separate_accepted_old_premise_now_discharged": true,
+  "closed_scope_operational_notes": 6,
+  "old_roles_disclosed": true,
+  "remaining_unit_a7_m5_m3m4_degree20_and_annual_open": true,
+  "no_mathematical_computation": true
+}

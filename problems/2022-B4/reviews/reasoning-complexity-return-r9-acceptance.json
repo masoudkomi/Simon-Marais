@@ -1,0 +1,84 @@
+{
+  "accepted_at_utc": "2026-10-18T06:25:11.568860+00:00",
+  "status": "proved, independently reviewed scoped partial result",
+  "whole_initials_blind": true,
+  "root_read_full_candidate_both_reports_all_ledgers_sources": true,
+  "unresolved_substantive_issues": 0,
+  "repair_required": false,
+  "candidate": {
+    "path": "problems/2022-B4/notes/reasoning-complexity-return-r9-candidate-v1.md",
+    "bytes": 16457,
+    "sha256": "2fdb1a495afa4f607b9fb63b7a1535e7ba6797ae5b699fd9d25124b503bfe211"
+  },
+  "accepted_copy": {
+    "path": "problems/2022-B4/proofs/reviewed-reasoning-complexity-return-r9-v1.1.md",
+    "bytes": 20760,
+    "sha256": "f04c84f6420e41c9efa05ae9d277e47a6cc0cf3ea82e850704043f4a099e760c"
+  },
+  "verification_metadata": [
+    {
+      "path": "problems/2022-B4/notes/reasoning-complexity-return-r9-freeze-v1.json",
+      "bytes": 4389,
+      "sha256": "13f4c9b46055c02b5f535706aa338bcc5167ea719120075aa0616e1298669142"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-complexity-return-r9-baseline-v1.json",
+      "bytes": 4938,
+      "sha256": "0015c820f1173df8784eda56f8496be4e371dc5be45c422fd7f92deb7c6d72fd"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-complexity-return-r9-input-validation-v1.json",
+      "bytes": 4353,
+      "sha256": "3a346c35bf7e7044e29fa281e6260ab9198b7d68f47ab06f72a32e02bcf8bf96"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-complexity-return-r9-review-1-manifest-v1.json",
+      "bytes": 4265,
+      "sha256": "19688a525ac39b152e8db716b025204de135055c1d7045fb423f04eb0ae78ed8"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-complexity-return-r9-review-1-input-validation-v1.json",
+      "bytes": 13621,
+      "sha256": "e31490a9ad09ee4d60c119fcc4d2411a11d032d2c505c2b3d467377fa36b2bf6"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-complexity-return-r9-review-1-freeze-output-v1.json",
+      "bytes": 991,
+      "sha256": "56a7d73dcf5caba3b8647ba25eed2a10b6658abc0cd641d083c8bf70e3d246fc"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-complexity-return-r9-review-2-manifest-v1.json",
+      "bytes": 3122,
+      "sha256": "ed62d1537e75f6a467901be947fdc68a6d3b801d15315d2526887596091fef0e"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-complexity-return-r9-review-2-baseline-v1.json",
+      "bytes": 15672,
+      "sha256": "a6e97f1e8f199e89fbdcf65ddb2dfd9dd5f08f69f3edd136056f1e78cb73175a"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-complexity-return-r9-review-2-metadata-v1.json",
+      "bytes": 1813,
+      "sha256": "13acf961291e4720138ae341dbd0d69541ce2a21f043b244c1998e39dc622701"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-complexity-return-r9-review-2-input-validation-v1.json",
+      "bytes": 706,
+      "sha256": "ce4f281c83ae7fd98895b106d57d60455b12b5e604efd013ed7c854a7c63a5c9"
+    }
+  ],
+  "record_occurrences_verified": 166,
+  "unique_paths_verified": 64,
+  "constructor": "/root/review_2022_complexity_r2",
+  "constructor_excluded": true,
+  "OTHER_whole_reviewers": [
+    "/root/review_2021_reasoning_j15_r2",
+    "/root/review_2017_coarsening_r1"
+  ],
+  "all48_obligations_in_BOTH_ENTIRE_initials": true,
+  "old_roles_disclosed": true,
+  "v1_Q1_Q4_only_not_later_v2_v3": true,
+  "unbounded_seed_hitting_and_annual_open": true,
+  "closed_scope_notes": 3,
+  "no_mathematical_computation": true
+}

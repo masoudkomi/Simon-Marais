@@ -1,0 +1,62 @@
+{
+  "frozen_at_utc": "2026-10-18T06:34:52.085636+00:00",
+  "status": "ENTIRE FP0–FP2 constructor - candidate proof unverified",
+  "constructor": "/root",
+  "constructor_excluded_from_TWO_OTHER_whole_audits": true,
+  "all_obligations": 36,
+  "compact_own_parent": {
+    "path": "problems/2020-B4/reviews/reasoning-arithmetic-return-r10-review-2-manifest-v1.json",
+    "bytes": 3173,
+    "sha256": "184fbfcbe879f9707daa0f07b4ba58eb0b548720e7cec24f7bb55fe638e1be3e"
+  },
+  "current_input_summary": {
+    "occurrences": 12,
+    "unique_paths": 12,
+    "sha256": "780f5b1636fbb1d25333a0605c8efa971417201c0190ae0ffda7bc306940304b"
+  },
+  "no_NEW_peer_FP_findings_before_ENTIRE_freeze": true,
+  "full_main_sources_failed_routes_worklog_code_ALL_metadata_frozen": true,
+  "ordinary_reducibility_small_cofactor_and_annual_still_OPEN": true,
+  "artifacts": [
+    {
+      "path": "problems/2024-B4/notes/coordinator-F8-pencil-r1-candidate-v1.md",
+      "bytes": 14313,
+      "sha256": "68accf09323d692e4d4d6850e8c2c04d735d667e1ddaa56cbb73c451fb6402ef"
+    },
+    {
+      "path": "problems/2024-B4/notes/coordinator-F8-pencil-r1-obligations-v1.md",
+      "bytes": 5196,
+      "sha256": "d628c8322a125369b7e4d9a4fe0a575016e8030bc28d220d1dec9c71b4acf94e"
+    },
+    {
+      "path": "problems/2024-B4/notes/coordinator-F8-pencil-r1-source-audit-v1.md",
+      "bytes": 2911,
+      "sha256": "d4f821cbaff525febfd826705200167483e66458c46ccc4cb5e1a40d408e1cd9"
+    },
+    {
+      "path": "problems/2024-B4/notes/coordinator-F8-pencil-r1-failed-routes-worklog-v1.md",
+      "bytes": 4836,
+      "sha256": "fb79a4c6e4455287796fb4f8ed5245e3a0784c07318e993409ca92a3ff33f984"
+    },
+    {
+      "path": "problems/2024-B4/notes/coordinator-F8-pencil-r1-freeze-v1.py",
+      "bytes": 5954,
+      "sha256": "829b5c82b72f54fecc891442b73b725850346f6d281b14bed3cfb735b2de2638"
+    },
+    {
+      "path": "problems/2024-B4/notes/coordinator-F8-pencil-r1-baseline-v1.json",
+      "bytes": 4884,
+      "sha256": "e4baa79c27f9889fda829f56b52c347c1ee91fc057da01410311728ebd25e173"
+    },
+    {
+      "path": "problems/2024-B4/notes/coordinator-F8-pencil-r1-metadata-v1.json",
+      "bytes": 1705,
+      "sha256": "419ffd15c7356b03b05ba1544dbdbc8e7ef784af40a6eccea2128ebae7067809"
+    },
+    {
+      "path": "problems/2024-B4/notes/coordinator-F8-pencil-r1-input-validation-v1.json",
+      "bytes": 481,
+      "sha256": "92f365fbe39ad1041b9648050c902d83d24c19e81177c82aa36e440cb3640e81"
+    }
+  ]
+}

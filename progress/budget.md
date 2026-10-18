@@ -182,3 +182,6 @@ Current12:03UTCtransition:36%TOTALweeklyused,64%remaining,54ppbefore90%,samerese
 ## Latest continuing checkpoint —2026-10-18 06:21:37UTC
 
 Authoritative account meter10% TOTAL,10080-minute current authorized window reset1792874445; ordinary usage allowed, legacy/by-limit agree.80percentage points before90%; reserve integration/review capacity. New scoped A9/R10/R13 acceptances do not end sustained research. No automatic later reset. Recorded raw cumulative total1,673,608,121 is not a billing or weekly-percentage conversion. Next manual hourly/awake check07:08:07UTC.
+
+
+2026-10-18 06:43:18UTC: authoritative12% TOTAL current authorized weekly window reset1792874445; ordinary allowed, views agree.78pp before90%, review/integration reserve retained. Raw1,710,177,668 total,1,619,466,752 cached input,12,669,568 output including5,441,891 reasoning subset; uncached+output90,710,916.62 sessions/8878 deduplicated responses, sums agree. No billing/percentage conversion. R14 and ENTIRE2022v3 accepted scoped;2024FP unverified under two OTHER whole audits. Manual hourly/ownedawake check07:08:07UTC. No automatic later window.

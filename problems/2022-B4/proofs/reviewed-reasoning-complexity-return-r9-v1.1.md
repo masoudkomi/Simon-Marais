@@ -1,0 +1,442 @@
+# Accepted reasoning-complexity-return-r9: exact coordinator scope
+
+2026-10-18 UTC. **Proved, independently reviewed scoped partial result.**
+
+Accepted Q1–Q4 ONLY in the exact ordinary-integer inverse and
+conditional seed-reduction scopes of frozen v1. This does NOT accept
+the later v2/v3 extensions, whose complete separate audits remain needed.
+The official map is F(a,b)=(a+2floor(b/20),b+3floor(a/30)) with positive
+ordinary start and ab>=600; time0 equality counts. The preliminary
+eventual-strip theorem is attributed context only, with no proof of(a).
+
+Q1 extends F to ALL Z² with Euclidean floors and proves surjectivity,
+every inverse fiber of size1 or2, and the exact six double output
+classes A+386B in{28,29,206,207,414,415} mod594. The actual double
+input partner is(a−2,b+3), with the displayed two remainder rectangles.
+The two lattice bases, kernel equality, all bounded coefficient cases
+and the600−6=594 quotient coverage are hand proofs, not enumeration.
+The optional at-most-three integer recovery candidates is theoretical,
+not an executed search and not a positive-preimage theorem by itself.
+
+Q2 proves F^-1(F(t,t))={(t,t)} for EVERY integer t and the exact identity
+F(Z² minusDelta)=Z² minusF(Delta). Delta is NOT forward invariant.
+The four60-residue rows give exactlyforty off-diagonal image rays under
+translation(66,66); positive outputs and product filter are retained.
+The entire legal family(66k+22,66k+20),k>=1, has only a diagonal parent.
+It refutes a general off-diagonal PREDECESSOR inference, not a future
+hitting assertion or a claim about an infinite avoiding orbit.
+
+Q3: for B>=36,D=A−B in[-13,23], EVERY ordinary predecessor has a>=20,
+b>=31, hence ab>=620. For the ADDITIONAL central range D in[-9,19]
+and output outsideF(Delta), every parent is official, off-diagonal,
+inside[-13,23] and has strictly smaller sum. Time0 avoidance is checked
+before pulling a hypothetical survivor back. The exact output family
+(66k+30,66k+7),k>=1, has its UNIQUE parent of difference26 outside
+the strip. This disproves extending the strip-preservation inference
+to every output difference, without asserting future survival.
+
+Q4 gives an EXACT equivalence between universal official hitting and
+hitting on Bset: the official off-diagonal starts inside the strip with
+B<=35, OR difference in{-13,-12,-11,-10,20,21,22,23}, OR membership
+inF(Delta) minusDelta. Components may overlap. The first is finite;
+the eight offset rays andforty image rays remain UNBOUNDED. A minimum
+positive-sum hypothetical survivor contradicts Q3 unless already in
+Bset. Equivalently actual backward steps terminate finitely conditional
+on one actual survivor. No inverse limit or changing ordinary seed
+is substituted. NO complete residual component is proved to hit, no
+survivor is constructed and no finite annual decision follows.
+
+B sole NEW constructor is EXCLUDED. A R1 and C R2 are TWO OTHER
+initially blind ENTIRE WHOLE nonconstructor audits, ALL48 obligations
+each. Their entire reports, ledgers, sources/logs/code and ALL metadata
+froze before ANY NEW corresponding peer findings/files/hash. Root's
+broad assignment supplied no new inference. Root has now read the
+COMPLETE constructor and BOTH COMPLETE reports, ALL48+48 ledger rows,
+issues, operative sources, logs/code and every metadata companion,
+then reconciled the full argument. Zero substantive issues/repairs;
+A's three closed notes preserve auxiliary versus official inputs,
+backward versus future assertions and the unbounded seed boundary.
+Old author/review roles do not independently self-recertify old inputs.
+
+OfficialB4 and the primary organizer's attributed eventual-entry
+statement were checked. No restricted AFS at-most-two theorem at11/10,
+AEV normality, proper-residue conjecture or density-to-emptiness import
+is made. Older R7 tenfold at10C and F5 ninefold atC remain distinct.
+No mathematical program, CAS, orbit sample, inverse recovery execution,
+author rerun, new numerical result, annual solution or novelty claim.
+Only complete separate v3 WHOLE audits can validate its stronger chain.
+
+The COMPLETE frozen mathematical submission follows as a byte-identical suffix. Its historical unverified label records submission status; this header and acceptance record state the current exact scope.
+
+---
+
+**Candidate proof - unverified.**
+
+# Ordinary inverse fibers and an exact seed reduction for 2022 B4(b)
+
+2026-10-18 UTC. Constructor: `/root/review_2022_complexity_r2`.
+Requested inherited settings: `gpt-6.1-sol`, `max`; no independently
+verified effective-setting readback is available. The coordinator supplied
+the broad research assignment, not a new inference in this proof. The
+constructor authored older R3/F5 material and reviewed other accepted
+packets; those roles do not independently certify this new construction.
+TWO OTHER initially blind whole audits and coordinator reconciliation are
+required before acceptance. No novelty or full annual answer is claimed.
+
+The new deductions concern the FULL two-coordinate ordinary integer map.
+They do not restrict the future to A/B loops, use an inverse-limit lift,
+or assume a future ordinary seed from successively changing congruence
+representatives. All counts below follow from displayed inequalities and
+lattice identities. No mathematical code, orbit scan, CAS, author rerun,
+or finite certificate was executed.
+
+## 0. Domain, accepted context, and the exact partial conclusion
+
+The authoritative [2022 Paper B](https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2022-paper-b.pdf),
+page 2 B4(b), asks whether an orbit of positive ordinary integers, with
+initial product at least 600, must meet the diagonal under simultaneous
+updates
+
+    F(a,b)=(a+2 floor(b/20), b+3 floor(a/30)).          (0.1)
+
+Equality at time zero counts. Write Delta={(t,t):t in Z}.
+An official survivor is a positive ordinary starting pair with product
+at least 600 whose forward orbit never meets Delta, including time zero.
+This packet constructs no survivor and excludes none of the infinite
+families left by its final reduction.
+
+We use the established eventual entry into, and invariance of, the strip
+
+    I={-13,-12,...,23}
+
+for a-b, solely as attributed preliminary context. Its statement is in
+the accepted `reviewed-partials-v1.md`, and in the official paper and
+Henderson--Warnaar's organizer report. No proof or new investigation of
+preliminary part (a) is given here. The new results Q1--Q3 below are direct
+ordinary-integer statements and do not need that preliminary result.
+Only the passage from an arbitrary official survivor to a survivor
+already in I in Q4 uses eventual entry.
+
+Proposed Q1 classifies EVERY inverse fiber of F on Z^2: F is surjective,
+and each fiber has one or two points, with six exact exceptional output
+classes. Q2 classifies the images of ALL diagonal points and shows that
+each has its diagonal point as its UNIQUE ordinary integer predecessor.
+Thus an arbitrarily large positive off-diagonal state can have no
+off-diagonal predecessor whatsoever. Q3 supplies actual positive,
+smaller predecessors in the central part of I, with explicit constants.
+Q4 reduces the official universal hitting assertion exactly to an
+explicit UNBOUNDED seed set: a finite patch, eight outer offset rays,
+and forty diagonal-image residue rays. Hitting on that set is unproved.
+
+## 1. Q1: the full ordinary inverse problem is a finite lattice quotient
+
+Temporarily extend (0.1) to ALL (a,b) in Z^2, using the ordinary greatest-
+integer floor for negative as well as positive numbers. This auxiliary
+extension is not an enlargement of the official domain in the final
+claim. There are unique ordinary integers l,k and remainders r,s with
+
+    a=30l+r,  0<=r<=29,
+    b=20k+s,  0<=s<=19.
+
+Then
+
+    F(a,b)=k v+l w+(r,s),
+    v=(2,20),  w=(30,3).                            (1.1)
+
+Let L=Zv+Zw and define
+
+    Gamma(A,B)=A+386B mod594.
+
+The following identities give the complete lattice, without invoking a
+general determinant-index theorem:
+
+    (594,0)=-3v+20w,      (-386,1)=2v-13w,
+    v=13(594,0)+20(-386,1),
+    w= 2(594,0)+ 3(-386,1).                         (1.2)
+
+Consequently L is generated by (594,0),(-386,1), and is exactly the
+kernel of Gamma. Indeed if A+386B=594m, then
+(A,B)=m(594,0)+B(-386,1); the converse follows at once. Gamma is onto
+Z/594Z because its coefficient of A is 1. Thus Z^2/L has exactly
+594 classes. The vectors v,w are linearly independent: their determinant
+is -594. For fixed digit pair (r,s), (1.1) therefore has at most one
+choice of the integer coefficients k,l.
+
+We now classify which of the 600 digit pairs in
+
+    R={0,...,29} x {0,...,19}
+
+can have the same class modulo L. Suppose two DISTINCT such pairs have
+difference (dr,ds)=h v+j w. Solving gives
+
+    h=(30ds-3dr)/594,
+    j=(20dr-2ds)/594.                               (1.3)
+
+Since |dr|<=29 and |ds|<=19,
+
+    |h|<=657/594<2,     |j|<=618/594<2.
+
+Both h,j are integers, so belong to {-1,0,1}. The choices (h,j)=(1,0)
+and (-1,0) would give |ds|=20; (0,1),(0,-1) would give |dr|=30.
+The same-sign choices (1,1),(-1,-1) give |dr|=32 and |ds|=23.
+The zero choice does not give distinct digit pairs. Only (1,-1) and
+(-1,1) remain, giving digit differences (-28,17) and (28,-17).
+
+It follows that the ONLY coincident digit classes are the six pairs
+
+    (r,s), (r+28,s-17),
+    r in{0,1},  s in{17,18,19}.                    (1.4)
+
+They are disjoint. There cannot be three members of one class: successive
+nonzero differences of the displayed form would either repeat a member
+or have |dr|=56, outside the rectangle. Conversely each pair in (1.4)
+does coincide, since (28,-17)=-v+w.
+
+Thus the rectangle meets exactly 600-6=594 different classes. These
+are ALL classes of Z^2/L. For every output (A,B), at least one digit
+pair has the correct Gamma class. For each such pair (A,B)-(r,s) lies
+in L, giving integer k,l in (1.1), hence an ordinary integer preimage.
+The uniqueness for a fixed digit pair and (1.4) prove Q1:
+
+    F:Z^2 -> Z^2 is onto; every fiber has size one or two.       (1.5)
+
+The double fibers are exactly those with
+
+    Gamma(A,B) in{28,29,206,207,414,415} mod594.      (1.6)
+
+For this last explicit form, 386*17,386*18,386*19 have residues
+28,414,206 modulo594, respectively, and adding r=0 or1 gives (1.6).
+This is a hand residue calculation, not an enumeration of output points.
+
+There is also an exact description in the input. If one member has
+
+    a mod30 in{0,1},   b mod20 in{17,18,19},
+
+the other member is
+
+    (a-2,b+3).                                      (1.7)
+
+Indeed (1.4) changes k to k+1 and l to l-1, giving precisely (1.7).
+Its remainders are a-2 mod30 in{28,29} and b+3 mod20 in{0,1,2}.
+The reverse move applies from that second remainder rectangle. All
+other inputs belong to a singleton fiber. The two inputs in a double
+fiber have differences a-b separated by 5, and sums separated by 1.
+These are actual ordinary inputs with one common output, not abstract
+control words or equal real growth constants.
+
+For completeness there is a bounded exact way to recover the input
+without scanning k,l. If F(a,b)=(A,B) and r=a mod30,s=b mod20, then
+
+    99a=100A-10B-r+10s,
+    99b=100B-10A-s+10r.                             (1.8)
+
+In particular
+
+    (100A-10B-29)/99 <=a<=(100A-10B+190)/99.         (1.9)
+
+This closed interval has width 219/99=73/33<3, and so has at most
+three integer candidates. For each such integer a, set
+b=B-3 floor(a/30) and check the first equality in (0.1). This recovers
+the entire one- or two-point ordinary fiber, by (1.5). No instance of
+this theoretical recovery procedure was run.
+
+## 2. Q2: exact diagonal images and an ordinary predecessor obstruction
+
+Every diagonal input (t,t), t in Z, has remainders r=t mod30,s=t mod20
+satisfying r=s modulo10. Neither of the two rectangles in (1.7) has
+this property: their respective modulo10 possibilities are {0,1}
+versus {7,8,9}, and {8,9} versus {0,1,2}. Thus a diagonal input never
+belongs to a double fiber. It follows from Q1 that
+
+    F^{-1}(F(t,t))={(t,t)} for EVERY t in Z.         (2.1)
+
+In particular F is injective when restricted to Delta. Surjectivity
+and (2.1) give the exact set identity
+
+    F(Z^2 \ Delta)=Z^2 \ F(Delta).                 (2.2)
+
+To justify both inclusions, an output in F(Delta) has no off-diagonal
+preimage by (2.1). An output outside F(Delta) has at least one integer
+preimage by Q1, and none of its preimages can be diagonal by definition.
+The map does NOT preserve Delta forward, so (2.2) is not a statement
+that the diagonal complement is invariant.
+
+Write t=60k+u with k in Z and 0<=u<=59. Directly from (0.1),
+
+    F(t,t)=(66k+u+2 floor(u/20),
+            66k+u+3 floor(u/30)).                  (2.3)
+
+The four intervals of u give the complete classification:
+
+| u | F(t,t) | output difference |
+|---|---|---|
+| 0..19 | (66k+u,66k+u) | 0 |
+| 20..29 | (66k+u+2,66k+u) | 2 |
+| 30..39 | (66k+u+2,66k+u+3) | -1 |
+| 40..59 | (66k+u+4,66k+u+3) | 1 |
+
+There are exactly forty off-diagonal rays per common translation
+(66,66), namely the ten u values in each middle row and twenty in
+the last. Their disjointness also follows from (2.1); alternatively
+the listed B residues modulo66 are distinct within each row and the
+output differences distinguish rows. For positive output pairs the
+diagonal parent has t>0, since t<=0 would give both output coordinates
+at most t. Then k>=0 in this representation; the official product
+condition is imposed on the OUTPUT when these rays are used as starts.
+No assertion that every small diagonal parent satisfies product600
+is needed.
+
+An explicit unconditional ordinary obstruction to a naive descent is
+
+    Y_k=(66k+22,66k+20),    k>=1.                   (2.4)
+
+Every Y_k is positive, has product at least600, has difference2 in I,
+and has the unique integer predecessor
+
+    (60k+20,60k+20).
+
+This predecessor has already met equality at time zero. There is no
+off-diagonal predecessor, even in the whole auxiliary Z^2. The target
+Y_k itself is a perfectly legal official START. Nothing here proves
+that its FUTURE avoids equality, or that it supplies an actual
+counterexample. It proves only that full-map surjectivity cannot
+automatically produce a smaller surviving predecessor for every
+off-diagonal ordinary state.
+
+## 3. Q3: smaller official predecessors in a central part of the strip
+
+Let (A,B) be an output with
+
+    B>=36,  D=A-B in I.
+
+For ANY of its integer predecessors, (1.8) gives
+
+    a >=(90B+100D-29)/99 >=1911/99>19,
+    b >=(90B-10D-19)/99 >=2991/99>30.              (3.1)
+
+The first worst case uses B=36,D=-13; the second uses B=36,D=23.
+They are separate valid bounds and need not be achieved together.
+Integrality gives a>=20,b>=31, hence ab>=620>=600. Thus every ordinary
+predecessor is in the official positive/product domain. Because its
+floors are nonnegative,
+
+    a<=A,  b<=B,
+    A-a=2 floor(b/20)>=2,
+    a+b<A+B.                                      (3.2)
+
+We next need the predecessor to stay in I; positivity alone does not
+provide that. Put d=a-b. Subtracting (1.8), or the two equations used
+to derive it, gives the exact identity
+
+    10D=9d+r-s,
+    ceil((10D-29)/9)<=d<=floor((10D+19)/9).         (3.3)
+
+If -9<=D<=19, these endpoints imply -13<=d<=23: the lower worst
+value is ceil(-119/9)=-13 and the upper is floor(209/9)=23.
+No strict endpoint has been rounded in the wrong direction.
+
+Combining Q1--Q2 with (3.1)--(3.3), EVERY ordinary output satisfying
+
+    B>=36, -9<=A-B<=19, (A,B) not in F(Delta)       (3.4)
+
+has one or two preimages, ALL of which are official positive pairs,
+lie in I, are off-diagonal, and have strictly smaller sum. If that
+output's future never meets equality, each such predecessor's future
+also never meets equality: its time zero is off-diagonal, its time one
+is the specified output, and all later iterates are that output's
+iterates. This is a genuine ordinary finite converse, not an assumption
+of reversible avoidance on every state.
+
+The narrower difference interval in (3.4) is material. For EVERY k>=1,
+
+    X_k=(60k+30,60k+4),
+    F(X_k)=(66k+30,66k+7).                          (3.5)
+
+The output has difference23 in I, but its predecessor X_k has
+difference26 outside I. Its remainders are r=0,s=4, outside both
+double-fiber rectangles of Q1, so this is the UNIQUE integer
+predecessor. Thus a claim that every large state in I has a
+predecessor in I is actually false. Both pairs in (3.5) are positive
+and have product at least600. This example again concerns one
+backward step and makes no claim about infinite future survival.
+
+## 4. Q4: an exact unbounded seed-family reduction of the open question
+
+Let E be the set of all official survivors, and E_I the subset with
+initial difference in I. Every forward iterate of an official pair
+is still positive with product at least600, since both coordinates
+are nondecreasing. The attributed eventual-entry statement therefore
+implies
+
+    E is empty iff E_I is empty.                   (4.1)
+
+Define the following EXPLICIT subset of official off-diagonal pairs
+already in I:
+
+    Bset = { (A,B): A,B positive integers, AB>=600,
+                     -13<=A-B<=23, A!=B, and at least one of
+                     (i) B<=35;
+                     (ii) A-B in{-13,-12,-11,-10,20,21,22,23};
+                     (iii) (A,B) in F(Delta)\Delta }.           (4.2)
+
+Condition (i) is a finite patch: 1<=B<=35 and 1<=A<=58, with the
+displayed product and difference filters. Condition (ii) is eight
+unbounded offset rays, again with the exact official filters.
+Condition (iii) is exactly the forty congruence rays in (2.3) having
+differences 2,-1,1; for positive outputs use k>=0 and the output
+product filter. These are overlapping sets in (4.2), not a claim of
+a disjoint decomposition or a count of distinct starts.
+
+**Q4. The following are equivalent:**
+
+1. Every official positive start with product at least600 eventually
+   meets equality.
+2. Every start in Bset eventually meets equality.
+
+The implication 1=>2 is inclusion. Conversely suppose E is nonempty.
+By (4.1), E_I is nonempty. Choose an element (A,B) of E_I having least
+ordinary positive integer sum A+B. If it were outside Bset, then
+B>=36, -9<=A-B<=19 and (A,B) would be outside F(Delta). Q3 would give
+an ordinary predecessor (a,b) in the official domain, in I and
+off-diagonal, with a+b<A+B. The survival implication following (3.4)
+would put (a,b) in E_I, contradicting the least sum. Hence E contains
+a start in Bset, proving the contrapositive of 2=>1.
+
+This can also be read as a finite backward construction conditional on
+ANY given survivor: enter I along its future, then repeatedly take a
+Q3 predecessor whenever the current state is outside Bset. Each step
+strictly decreases the positive integer sum, so after finitely many
+steps a surviving start in Bset is reached. No infinite backward
+compactness argument or single ordinary point extracted from infinitely
+many changing finite shadows is present.
+
+## 5. What Q1--Q4 leave unresolved
+
+Bset is unbounded. No row of (2.3), none of the eight outer offset
+rays, and no complete finite patch in (4.2) has been proved to hit.
+No orbit from those families was scanned. In particular Q4 supplies
+an exact restricted universal assertion, not a finite algorithm deciding
+the annual problem. The word 'seed' means a possible minimum surviving
+state for this specific backward argument; it does not assert absence
+of another valid predecessor or a unique global ancestry.
+
+There are two different, rigorously exhibited failures of the simplest
+extension of descent: (2.4) has only a diagonal predecessor, and (3.5)
+has its only predecessor outside the strip. The first is an obstruction
+at actual q10 contest points, rather than an abstract base-independent
+analogy. Neither says that a point in the exhibited family survives.
+A proof would need a NEW future argument for the residual seed families,
+or a different descent that handles both failures. None is assumed here.
+
+The separately accepted R7 tenfold fiber at 10C, the older F5 ninefold
+fiber at C, R8 fork/phase obstructions, and R6 finite-prime shadows retain
+their exact scopes. This full-map calculation neither identifies their
+different growth values nor supplies a no-tenfold theorem. AFS's original
+at-most-two corollary does not apply at11/10; AEV normality and proper-
+residue termination hypotheses remain unproved. No such source statement
+is needed for Q1--Q4. Density-one conclusions do not settle Bset.
+
+The complete obligations, sources with actual read limits, failed routes,
+worklog and compact immutable metadata accompany this candidate. All new
+conclusions remain UNVERIFIED pending TWO OTHER whole audits. No accepted
+old proof, peer review, shared file, Git state or cached paper was edited.

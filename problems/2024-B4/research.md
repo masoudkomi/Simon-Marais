@@ -27,7 +27,7 @@ has now passed both independent whole reviews: for q=2^a, a>=2 and odd
 ell>=3, either ell|(q-2) or ell|(2q-1) gives whole absolute irreducibility
 of phi_(q ell+1). In particular it excludes the four-bit family
 7*2^a+1 when 3 does not divide a; it does not decide the 3|a branch.
-The unrestricted ordinary reducibility classification remains unresolved.
+A new [F8-pencil candidate](notes/coordinator-F8-pencil-r1-candidate-v1.md) investigates the remaining q=8^k, k>=2 branch. It proposes a factor-degree gap and one quantitatively large component defined over F2, while allowing a nonconstant small cofactor. It is UNVERIFIED and undergoing TWO OTHER initially blind ENTIRE WHOLE audits; the coordinator constructed it and is excluded from the reviewer count. It excludes q=8/n=57 and does not claim ordinary irreducibility. The unrestricted ordinary reducibility classification remains unresolved.
 See the [current dashboard](../../progress/dashboard.md),
 [references](references.md), and [review register](reviews/README.md).
 

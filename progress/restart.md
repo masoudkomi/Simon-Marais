@@ -1,5 +1,9 @@
 # Current restart boundary —2026-10-18 16:22Brisbane
 
+Continue until90% TOTAL current authorized window reset1792874445; root12%@06:43:18UTC. Read checkpoint-2026-10-18-1644.md and run-state. NEW2021R14 andENTIRE2022Q1–Q8v3 fully reconciled/accepted after TWO OTHER initially blind WHOLE56/56 and100/100. R14 exact m5 a7unit/T4excluded, surviving unit-a7 branch open;2022birth/orphan families unbounded/futuresunknown. A/C now independently audit ENTIRE NEW2024FP0–FP2 ALL36; root soleconstructor EXCLUDED. No NEW corresponding peer material before BOTH ENTIRE initial freezes. BNEW2019growth construction active. Root integrates/pushes then actual2017/2025 reasoning. Last confirmed pushc3b4920. Ownedawake79293/session64368 next manual assertion/hourly report07:08:07UTC; last actual1608snapshot unchanged. Do not call automationview routinely after its recorded multi-hour host stall; ACTIVE is not delivery proof. No next-week automatic spending. No checkpoint ends research.
+
+## Previous continuing checkpoints (historical)
+
 Continue until90% TOTAL current authorized weekly window reset1792874445; fresh root10%@06:21:37UTC. Read checkpoint-2026-10-18-1622.md and run-state. NEW2020A9/R10 and2021R13 fully reconciled/accepted after TWO OTHER entire blind WHOLE audits each.2022v1 both48initials frozen/root full reconciliation pending;2022v3 ALL100 C/A OTHER blind whole reviews active;2021R14 ALL56 BwholeR1 frozen/CwholeR2 queued. Bnew2019 growth reasoning active. Root owns integration and further2024/2025 reasoning. No partial checkpoint ends research. No next-week automatic spending. Ownedawake79293/session64368 checked06:08:07UTC; next manual assertion/hourly report07:08:07UTC. Stalled scheduler-view caused documented hourly cadence gap; do not call view routinely or claim ACTIVE guarantees delivery. Last confirmed push before this new integrationd37f110.
 
 ---

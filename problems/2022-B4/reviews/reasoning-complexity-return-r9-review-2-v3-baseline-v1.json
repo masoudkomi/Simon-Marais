@@ -1,0 +1,209 @@
+{
+  "created_utc": "2026-10-18T06:22:03.676198+00:00",
+  "reviewer": "/root/review_2017_coarsening_r1",
+  "operation": "administrative only; no mathematical evaluation",
+  "owned_prefix": "problems/2022-B4/reviews/reasoning-complexity-return-r9-review-2-v3-",
+  "unused_prefix_verified_before_creation": true,
+  "immutable_own_parent": {
+    "path": "problems/2022-B4/reviews/reasoning-complexity-return-r9-review-2-manifest-v1.json",
+    "bytes": 3122,
+    "sha256": "ed62d1537e75f6a467901be947fdc68a6d3b801d15315d2526887596091fef0e"
+  },
+  "historical_own_paths_bound": 571,
+  "no_NEW_peer_v3_report_findings_source_code_or_metadata_read_or_hashed": true,
+  "compact_preservation_no_recursive_historical_rehash": true,
+  "target_manifests": [
+    {
+      "path": "problems/2022-B4/notes/reasoning-complexity-return-r9-freeze-v1.json",
+      "bytes": 4389,
+      "sha256": "13f4c9b46055c02b5f535706aa338bcc5167ea719120075aa0616e1298669142"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-complexity-return-r9-freeze-v2.json",
+      "bytes": 5354,
+      "sha256": "3c1759ee6e7b7e018444f1d5b703b8847b90dea8ecf2fc1d71e81e1fbcbe6444"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-complexity-return-r9-freeze-v3.json",
+      "bytes": 4828,
+      "sha256": "e5c079493fd134eb05318d3b298565c0a4679ed0806431b9973230762d9c3ce2"
+    }
+  ],
+  "inputs": [
+    {
+      "path": "problems/2022-B4/notes/reasoning-complexity-return-r9-freeze-v1.json",
+      "bytes": 4389,
+      "sha256": "13f4c9b46055c02b5f535706aa338bcc5167ea719120075aa0616e1298669142"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-complexity-return-r9-baseline-v1.json",
+      "bytes": 4938,
+      "sha256": "0015c820f1173df8784eda56f8496be4e371dc5be45c422fd7f92deb7c6d72fd"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-complexity-return-r9-candidate-v1.md",
+      "bytes": 16457,
+      "sha256": "2fdb1a495afa4f607b9fb63b7a1535e7ba6797ae5b699fd9d25124b503bfe211"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-complexity-return-r9-obligations-v1.md",
+      "bytes": 7923,
+      "sha256": "efe20371937e9674036c461d929b638407497cda973c384063555330b6f8d548"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-complexity-return-r9-failed-routes-v1.md",
+      "bytes": 4085,
+      "sha256": "68015b9d0afd6cb0992a38836863fdcd2d29b6710c9811d0d2f1bf544f70e63d"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-complexity-return-r9-source-audit-v1.md",
+      "bytes": 6692,
+      "sha256": "ec3be6073c26f388dab3a26f23d7f54e481d7481e8bcbb37881dea722eb84bb2"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-complexity-return-r9-sources-v1.json",
+      "bytes": 3501,
+      "sha256": "d0ed9bdfae79dd705c6c97bba8e0b99e4fd81d76d65f98e37271b6c415a240e5"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-complexity-return-r9-worklog-v1.md",
+      "bytes": 4426,
+      "sha256": "8e6db008a5271925499bcdbd55363b52e5621000ad1e7c869654ad0a7d57bacd"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-complexity-return-r9-freeze-v1.py",
+      "bytes": 6877,
+      "sha256": "8bfa322fb5bdac6bb228b73bd3f817cc84aeb2028b35241c2f8cef975aa813d7"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-complexity-return-r9-input-validation-v1.json",
+      "bytes": 4353,
+      "sha256": "3a346c35bf7e7044e29fa281e6260ab9198b7d68f47ab06f72a32e02bcf8bf96"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-complexity-return-r9-freeze-v2.json",
+      "bytes": 5354,
+      "sha256": "3c1759ee6e7b7e018444f1d5b703b8847b90dea8ecf2fc1d71e81e1fbcbe6444"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-complexity-return-r9-baseline-v2.json",
+      "bytes": 5625,
+      "sha256": "1e26860238d3207800dc8844e63f1c617d40bf2059343e8e91e08f482ee570fc"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-complexity-return-r9-candidate-v2.md",
+      "bytes": 31982,
+      "sha256": "4d3d81540f7f928e4aff9f865e9384cab2c45ca2a7d4e28d971c1531c943c578"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-complexity-return-r9-obligations-v2.md",
+      "bytes": 13505,
+      "sha256": "f2eecd5521ebc204cdf0ed0b65b2305986f4edd8e12ed6b9233d70ce907a69ae"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-complexity-return-r9-failed-routes-v2.md",
+      "bytes": 5610,
+      "sha256": "a89e231adc5254ca6667528f42205f1837c5cd87cd5d022a8d2784a89e0937c3"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-complexity-return-r9-source-audit-v2.md",
+      "bytes": 6381,
+      "sha256": "920af6d18bf525e865499b12040ab34f50b38b1b1ae7e39cc1dfb182950d14f8"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-complexity-return-r9-sources-v2.json",
+      "bytes": 2911,
+      "sha256": "a92a33644acf164d0d6d5dfcf279e60b17368a2c7911ac82520d6b0bbf0c5563"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-complexity-return-r9-worklog-v2.md",
+      "bytes": 5923,
+      "sha256": "42938751eb671221318270ce3be28cb1a54726f75a2e31392fa2bbd321795cdb"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-complexity-return-r9-followup-draft-v2.md",
+      "bytes": 4595,
+      "sha256": "098329ee01b0fd2c32d0687831bd150c8375e70b162725155bc1d14cf8307150"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-complexity-return-r9-freeze-v2.py",
+      "bytes": 8067,
+      "sha256": "e382fd61b3a939ffc741f1c03c192a9d5afceebd3d8e1ccceb0c1144f5c0863e"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-complexity-return-r9-input-validation-v2.json",
+      "bytes": 5881,
+      "sha256": "cb8040479ceb9331dd3c8a16b993ca1383539b65778e0f576d842d66b0835efd"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-complexity-return-r9-freeze-v3.json",
+      "bytes": 4828,
+      "sha256": "e5c079493fd134eb05318d3b298565c0a4679ed0806431b9973230762d9c3ce2"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-complexity-return-r9-baseline-v3.json",
+      "bytes": 3715,
+      "sha256": "65c8de28ab2085b13b657b487c697a4fbd5c125cb01acbf99ebade366ca22811"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-complexity-return-r9-candidate-v3.md",
+      "bytes": 44042,
+      "sha256": "77bf84340543589d96698a64df5e3850cdf22fe953ee45587ab0d79997184ff5"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-complexity-return-r9-obligations-v3.md",
+      "bytes": 17395,
+      "sha256": "a2a0058121b806c8bd1714605204b08c3e90917adba284ffa6b05cd6a3f1333d"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-complexity-return-r9-failed-routes-v3.md",
+      "bytes": 3410,
+      "sha256": "60542f13ad97665eca4d89b78c5e77e32b09644c2ec158c6fa0f4672ddfdeb4e"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-complexity-return-r9-source-audit-v3.md",
+      "bytes": 3206,
+      "sha256": "7a264ccc2ccf3ce9c93bd5d85ad6a335e301345ee47480549d5cc857552d9c33"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-complexity-return-r9-sources-v3.json",
+      "bytes": 1132,
+      "sha256": "1e33c22e1231943b98487c730b8c2120b92b4716590f726501d72c327b738744"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-complexity-return-r9-worklog-v3.md",
+      "bytes": 4010,
+      "sha256": "009642dd320ab893e6745aa8b03fa5ee10c8a77f71a3cd5478d58fc0a0778c70"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-complexity-return-r9-freeze-v3.py",
+      "bytes": 6986,
+      "sha256": "431e0aeb97b6db17e60263020575e474dc5e96b6359039d02130b8656d365d19"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-complexity-return-r9-input-validation-v3.json",
+      "bytes": 3642,
+      "sha256": "2053bd0a07ba7611b1dc7c196a8981d62a1b519679b6a9367fd4a3d3b942cd5c"
+    },
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2022-B4/statement.md",
+      "bytes": 1195,
+      "sha256": "2011761509ac42d5ffa2ab9e86dd1db464618707443a68f43fb3e45f59ed36c0"
+    },
+    {
+      "path": "problems/2022-B4/references.md",
+      "bytes": 2728,
+      "sha256": "44de188fba0723c7930c584f6b05f22b5088eeda7f3d7b8d3fd03d2401daaf18"
+    },
+    {
+      "path": "problems/2022-B4/proofs/reviewed-partials-v1.md",
+      "bytes": 8666,
+      "sha256": "cb486a611c00a7db640c83f598f859401c4502d0ac70e489595027a4d77b2ae0"
+    }
+  ]
+}

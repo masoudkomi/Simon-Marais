@@ -19,12 +19,7 @@ claimed. The [organizers' report](https://austms.org.au/wp-content/uploads/2023/
 printed pp. 29–30, attributes the problem to Johan Meyer and describes
 numerical work by Chris Tuffley.
 
-Reviewed project results give density-one conclusions on fixed-difference
-lines and exact restrictions on predecessor and merger patterns. Such results
-can leave an exceptional orbit; they do not establish that every orbit hits
-the diagonal. No actual infinite avoiding orbit or unrestricted termination
-proof has been obtained. See the [current dashboard](../../progress/dashboard.md),
-[references](references.md), and [review register](reviews/README.md).
+Reviewed results give density-one conclusions on fixed-difference lines and exact predecessor/merger restrictions. The newly accepted [Q1–Q8 reduction](reviews/reasoning-complexity-return-r9-v3-acceptance.md) uses an explicit integer rank to remove many possible minimal counterexamples and gives exact formulas for the remaining starts with no predecessor inside the strip. BOTH OTHER initially blind ENTIRE WHOLE100/100 audits and coordinator reconciliation cover its complete v1/v2/v3 chain. The resulting birth and orphan families remain unbounded, and two displayed families still have unknown futures. No actual infinite avoiding orbit or unrestricted termination proof has been obtained. See the [current dashboard](../../progress/dashboard.md), [references](references.md), and [review register](reviews/README.md).
 
 ## Current reviewed arithmetic result
 

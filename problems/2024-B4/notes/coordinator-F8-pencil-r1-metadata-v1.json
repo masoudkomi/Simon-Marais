@@ -1,0 +1,42 @@
+{
+  "status": "candidate proof - unverified; ENTIRE FP0–FP2 constructor",
+  "constructor": "/root",
+  "root_is_EXCLUDED_from_TWO_OTHER_audit_count": true,
+  "requested_model": "gpt-6.1-sol",
+  "requested_reasoning": "max",
+  "verified_effective_settings": null,
+  "whole_obligations": 36,
+  "claims": [
+    "FP0 six-line multiplicity/tangent constraint",
+    "FP1 no absolute factor degree2q+9 through5q-11",
+    "FP2 unique dominant F2-defined absolute component degree at least5q-10"
+  ],
+  "domain": {
+    "q": "8^k",
+    "k_minimum": 2,
+    "n": "7q+1",
+    "q_minimum": 64
+  },
+  "all_projective_singularities_and_local_cones_reconstructed": true,
+  "FP1_uses_global_offdiagonal_maximum_not_FP0_extra_bound": true,
+  "published_qualitative_F2_component_existence_attributed": true,
+  "small_nonconstant_cofactor_possible_ordinary_reducibility_OPEN": true,
+  "new_numerical_factorization_annual_or_novelty_claim": false,
+  "mathematical_code_CAS_scan_factor_table_or_author_rerun": false,
+  "source_limits": "problems/2024-B4/notes/coordinator-F8-pencil-r1-source-audit-v1.md",
+  "new_third_party_pdf_downloads": 0,
+  "peer_NEW_FP_reports_findings_metadata_read_or_hashed": false,
+  "all_old_proofs_reviews_shared_cache_Git_bytes_preserved_by_this_packet": true,
+  "preliminary_part_a_reproduced_or_investigated": false,
+  "latest_budget": {
+    "at_utc": "2026-10-18 06:29:15 UTC",
+    "source": "A direct account meter",
+    "weekly_used_percent_TOTAL": 11,
+    "window_minutes": 10080,
+    "reset_unix": 1792874445,
+    "ordinary_usage_allowed": true,
+    "current_window_user_authorized": true,
+    "ceiling_TOTAL_with_integration_reserve": 90,
+    "automatic_later_reset_spending": false
+  }
+}

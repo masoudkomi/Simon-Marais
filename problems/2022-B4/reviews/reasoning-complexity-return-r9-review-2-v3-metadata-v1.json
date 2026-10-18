@@ -1,0 +1,59 @@
+{
+  "reviewer": "/root/review_2017_coarsening_r1",
+  "review_scope": "ENTIRE Q1--Q8 v3, literal v2/v1 chain and all100 obligations",
+  "whole_initial_completed_before_NEW_peer_material": true,
+  "old_R4_R7_R8_constructor_and_v1_reviewer_roles_disclosed": true,
+  "no_self_recertification_of_old_own_theorems": true,
+  "substantive_defects_identified": 0,
+  "requested_repairs": 0,
+  "advisories": 0,
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "verified_effective_setting_readback": null,
+  "authoritative_weekly_telemetry": {
+    "at_utc": "2026-10-18 06:27:10 UTC",
+    "method": "mcp__codex_app__get_usage_limits; codex.primary and legacy agree",
+    "used_percent_TOTAL": 11,
+    "window_minutes": 10080,
+    "reset_unix": 1792874445,
+    "ordinary_usage_allowed": true,
+    "human_authorized_current_window_through_TOTAL_percent": 90,
+    "integration_reserve": true,
+    "automatic_further_reset_spending": false
+  },
+  "no_mathematical_code_scan_CAS_certificate_or_author_rerun": true,
+  "all20_interval_rows_reconstructed_by_hand": true,
+  "no_Git_shared_old_cache_edit_spawn_charge_contact_or_bypass": true,
+  "preliminary_proof_reproduced_or_investigated": false,
+  "external_proof_import": "only attributed eventual-strip statement; no generic dynamics theorem",
+  "target_manifests": [
+    {
+      "path": "problems/2022-B4/notes/reasoning-complexity-return-r9-freeze-v1.json",
+      "bytes": 4389,
+      "sha256": "13f4c9b46055c02b5f535706aa338bcc5167ea719120075aa0616e1298669142"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-complexity-return-r9-freeze-v2.json",
+      "bytes": 5354,
+      "sha256": "3c1759ee6e7b7e018444f1d5b703b8847b90dea8ecf2fc1d71e81e1fbcbe6444"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-complexity-return-r9-freeze-v3.json",
+      "bytes": 4828,
+      "sha256": "e5c079493fd134eb05318d3b298565c0a4679ed0806431b9973230762d9c3ce2"
+    }
+  ],
+  "compact_immutable_own_parent": {
+    "path": "problems/2022-B4/reviews/reasoning-complexity-return-r9-review-2-manifest-v1.json",
+    "bytes": 3122,
+    "sha256": "ed62d1537e75f6a467901be947fdc68a6d3b801d15315d2526887596091fef0e"
+  },
+  "historical_own_paths_bound": 571,
+  "new_packet_paths_including_manifest": 10,
+  "own_paths_after_this_packet": 581,
+  "deduplicated_inputs_summary_sha256": "9791e1008a3f8b0bef7e3fda8626f10dabf16a9ee6c6382023f052174660f443",
+  "no_coordinator_promotion_survivor_termination_or_annual_claim": true
+}

@@ -2,7 +2,7 @@
   "branch": "codex/smmc-b4-research",
   "remote": "https://github.com/masoudkomi/Simon-Marais.git",
   "phase": "sustained research resumed under explicit NEW-window authorization",
-  "last_pushed_commit": "d37f110",
+  "last_pushed_commit": "c3b4920",
   "initial_passes_complete": [
     2017,
     2018,
@@ -17,8 +17,8 @@
   "active": [
     {
       "agent": "review_2021_reasoning_j15_r2",
-      "year": 2022,
-      "role": "OTHER initially blind ENTIRE WHOLEv3 R1 ALL100"
+      "year": 2024,
+      "role": "OTHER initially blind ENTIRE WHOLE FP R1 ALL36"
     },
     {
       "agent": "review_2022_complexity_r2",
@@ -27,15 +27,15 @@
     },
     {
       "agent": "review_2017_coarsening_r1",
-      "year": 2022,
-      "role": "OTHER initially blind ENTIRE WHOLEv3 R2 ALL100 then2021R14R2 ALL56"
+      "year": 2024,
+      "role": "OTHER initially blind ENTIRE WHOLE FP R2 ALL36"
     }
   ],
   "initial_passes_pending": [],
   "deferred": [
     2026
   ],
-  "weekly_used_percent_last_observed": 10,
+  "weekly_used_percent_last_observed": 12,
   "weekly_reset_unix": 1792874445,
   "caffeinate": {
     "user_authorization": "keepcomputerawakeuntil90%weeklyquota; permissionforoneagentmustnotinterruptothers",
@@ -51,8 +51,8 @@
     "previous_exit_code_after_targeted_ctrl_c": 130,
     "next_check_utc": "2026-10-18T07:08:07+00:00"
   },
-  "notes": "Two complete annual answers/seven unresolved. NEW2020A9/R10 and2021R13 accepted scoped. R14/2022v1/v3 remain unverified. Continue until90% TOTAL current authorized window with reserve; hourly cadence gap recorded.",
-  "observed_at_utc": "2026-10-18T06:22:46.788845+00:00",
+  "notes": "Two complete annual answers/seven unresolved. NEW2020A9/R10,2021R13/R14 and2022v1/v3 accepted scoped.2024FP remains unverified with two whole audits. Continue to90% TOTAL current authorized window with reserve; hourly gap recorded.",
+  "observed_at_utc": "2026-10-18T06:44:37.766497+00:00",
   "coordinator_compute": {
     "status": "all constructor children completed and reaped",
     "complex_complement_child_pid": 37199,
@@ -62,13 +62,12 @@
     "new_complex_extension_audits": "both complete, accepted"
   },
   "latest_all_nine_report": "progress/status-2026-10-18-1608.md",
-  "coordinator_current": "2020A9/R10 and2021R13 fully reconciled/accepted; integrate exact finished checkpoints, then full2022v1 reconciliation and2024/2025 reasoning.",
-  "latest_checkpoint": "progress/checkpoint-2026-10-18-1622.md",
+  "coordinator_current": "R14 and2022ENTIREv3 fully reconciled/accepted; integrate finished records, then new2017/2025 reasoning while two OTHER2024FP whole audits and2019 growth construction continue.",
+  "latest_checkpoint": "progress/checkpoint-2026-10-18-1644.md",
   "pending_unverified": [
-    "2022v1 both48wholeinitials frozen/root full reconciliation pending",
-    "2022v3 literal chain ALL100/C and A OTHER blind whole audits active",
-    "2021R14 ALL56/B wholeR1 frozen,C wholeR2 queued",
-    "2025 smallerquotient exploratory;2024 oldnarrowr1unaccepted;2019 new growth reasoning underway"
+    "2024FP0\u2013FP2 q8^k k>=2 ALL36/root constructor excluded/A-C OTHER initially blind ENTIRE whole audits active",
+    "2019 NEW growth return construction active; not an accepted theorem",
+    "2025 smaller-quotient exploratory;2024 old narrowr1 preserved unaccepted"
   ],
   "usage_telemetry_conflict": {
     "last_consistent_old_window": {
@@ -86,14 +85,14 @@
     "explicit_user_authorization": "keep going till90%of the newly reported weekly window....do not stop",
     "authorization_recorded_at_utc": "2026-10-18T00:00:36.393369+00:00"
   },
-  "weekly_last_observed_at_utc": "2026-10-18T06:21:37+00:00",
+  "weekly_last_observed_at_utc": "2026-10-18T06:43:18+00:00",
   "hourly_reporting": {
     "automation_id": "simon-marais-hourly-research-report",
     "kind": "heartbeat",
     "status": "ACTIVE",
     "cadence": "hourly",
     "baseline": "progress/hourly-report-2026-10-18-1037.json",
-    "last_report": "progress/hourly-report-2026-10-18-1037.json",
+    "last_report": "progress/hourly-report-2026-10-18-1608.json",
     "latest_actual_report": "progress/hourly-report-2026-10-18-1608.json",
     "next_manual_check_utc": "2026-10-18T07:08:07+00:00",
     "cadence_failure_recorded": true,

@@ -1,6 +1,6 @@
 # 2021 B4 independent reviews
 
-2026-10-18: [R13A–C](reasoning-return-r13-acceptance.md) accepted after TWO OTHER initially blind ENTIRE WHOLE44/44 audits and full reconciliation, constructor A excluded. R14 ALL56 remains UNVERIFIED: B wholeR1 frozen, C wholeR2 queued. Actual m5/m3/m4 and full degree20 remain open.
+2026-10-18: [R14A–D](reasoning-return-r14-acceptance.md) accepted after TWO OTHER initially blind ENTIRE WHOLE56/56 audits and full reconciliation, constructor A excluded. The separately accepted [R13C](reasoning-return-r13-acceptance.md) supplies its historically conditional premise. In the exact actual-double/J15 m5 branch, a7 must be a unit and the entire T4 alternative is excluded. Actual unit-a7 m5/m3/m4 and full degree20 remain open. All original frozen pending-status wording is preserved.
 
 ## Earlier review entries (dated historical status)
 
