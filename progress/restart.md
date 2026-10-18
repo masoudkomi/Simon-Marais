@@ -1,3 +1,16 @@
+# Current restart boundary —2026-10-18 19:27Brisbane
+
+Readstatus-2026-10-18-1927.md/run-state. ACTUALhourlydelivered with
+freshdeduplicatedtokens1922340193,weekly21%TOTAL,ownedawake
+79293/session64368freshverified. Nextactualhourly2026-10-18T10:27:42+00:00. Current
+authorizedreset1792874445only,90TOTALreserve/noautomaticlaterweek.
+New2019CR/2022SR/2024CGacceptedexactscopes.2024cubic20candidate,
+2017WC40candidate,2021R1548candidate UNVERIFIED with reviewqueues
+preserved. A2021R16/B2025RSR3underconstruction. No blindpeerreadbefore
+BOTHENTIREinitials. Lastconfirmedpushe0ed766. No checkpointendsresearch.
+
+---
+
 # Current restart boundary —2026-10-18 19:19Brisbane
 
 Readcheckpoint-2026-10-18-1919.md/run-state.2019CR NOWACCEPTED after

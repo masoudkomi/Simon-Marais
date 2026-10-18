@@ -1,5 +1,8 @@
 # Research dashboard
 
+Current all-nine/usage report: [progress/status-2026-10-18-1927.md](status-2026-10-18-1927.md). 21% TOTAL in authorizedreset1792874445; next actual report2026-10-18T10:27:42+00:00. New2019CR/2022SR/2024CG partials accepted after bothOTHER wholeaudits/reconciliation.2024cubic/R15/WC remain unverified; fullannualcount2, unresolved7.
+
+
 Initial scope: nine official B4 open portions, 2017-2025. **2026 deferred by the user**, not counted as a verified problem. The 2017 problem and general 2018 enumeration are in scope; for 2019-2025, **part (b) only**. Preliminary part (a) and the already known 2018 m=5 case are excluded as research targets. See sources/open-scope-audit.md.
 
 |Year|Accepted result and present position|
