@@ -1,5 +1,7 @@
 # Research dashboard
 
+Actual08:27hourly:66%TOTALACCOUNTWIDE/same1792874445through90TOTALreserve. Project raw3,079,029,313/cached2,934,685,184/reasoning8,107,602/uncached+output144,344,129 at08:26:18; literal scopes in [all-nine report](status-2026-10-19-0827.md). R22/TR12 bothwholeinitials PASS/released, rootreconciliationpending. A/B2025R10 and C/root2022RC10 blindauditsactive. OWN79293 awake verified08:27:01forever45:19:11. NextACTUAL23:27:30UTC. Two completeannual/seven unresolved.
+
 Current08:23 continuing checkpoint: [2024 FR11 accepted](../problems/2024-B4/reviews/reasoning-frobenius-return-r11-acceptance.md)
 after A/B OTHER whole48/48 and ALL96 reconciliation; exact infinite
 family t>=1 only, full annual classification OPEN. TR12author5/48

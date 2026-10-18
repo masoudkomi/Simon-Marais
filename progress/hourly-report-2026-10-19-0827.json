@@ -1,0 +1,123 @@
+{
+  "recorded_at_utc": "2026-10-18T22:27:56.544038+00:00",
+  "kind": "Actual08:27Brisbane hourly report; raw cutoff08:26:18/quota08:27:00/ownedawake08:27:01",
+  "weekly": {
+    "observed_at_utc": "2026-10-18 22:27:00 UTC",
+    "used_percent_total": 66,
+    "window_minutes": 10080,
+    "reset_unix": 1792874445,
+    "authorized_ceiling_percent_total": 90,
+    "percentage_points_before_ceiling": 24,
+    "ordinary_usage_allowed": true,
+    "account_wide_not_project_specific": true,
+    "automatic_later_window_authorized": false
+  },
+  "tokens": {
+    "snapshot_cutoff_utc": "2026-10-18T22:26:18.917704+00:00",
+    "observed_sessions": 62,
+    "distinct_responses": 14690,
+    "usage": {
+      "input_tokens": 3059307805,
+      "cached_input_tokens": 2934685184,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 19721508,
+      "reasoning_output_tokens": 8107602,
+      "total_tokens": 3079029313
+    },
+    "uncached_input_plus_output_tokens": 144344129,
+    "sessions_without_usage_records": 0,
+    "all_recorded_session_sums_match_cumulative": true,
+    "method": "Deduplicated own-thread per-response usage records across root and recursively spawned descendants; cached input is a subset of input, reasoning output a subset of output.",
+    "limits": "Local recorded observation while work is active. Unreported in-flight usage is excluded. Not a bill or a conversion to subscription percentage. No prompts, account IDs, credentials, or response IDs exported."
+  },
+  "previous_report": "progress/hourly-report-2026-10-19-0746.json",
+  "increase_since_previous_actual_report": {
+    "input_tokens": 99326363,
+    "cached_input_tokens": 94321152,
+    "cache_write_input_tokens": 0,
+    "output_tokens": 548164,
+    "reasoning_output_tokens": 237517,
+    "total_tokens": 99874527,
+    "uncached_input_plus_output_tokens": 5553375
+  },
+  "reporting_interruption": {
+    "cause": "A single public-PDF in-app-browser tool call unexpectedly took11095.9647seconds to return; coordinator could not issue updates while blocked.",
+    "not_permission_request": true,
+    "previous_report": "04:27 Brisbane",
+    "missed_05_27_and_06_27": true,
+    "scheduled_07_27_report_delivered_late": true,
+    "no_fabricated_intermediate_counters": true,
+    "agents_completed_checkpoints_then_waited": true,
+    "all_three_agents_resumed_at_utc": "2026-10-18T21:39 minute precision"
+  },
+  "per_problem": {
+    "2017": {
+      "status": "unresolved",
+      "reviewed": "PR11 stricter upper bound and CI12 actual entropy/cost-separation theorem accepted after both OTHER whole audits/coordinator reconciliation.",
+      "pending": "Exact scalar value/matching lower/effective upper modulus/annual target OPEN.",
+      "next": "Pursue the actual scalar value and sharp structural bounds."
+    },
+    "2018": {
+      "status": "complete published-result reproduction",
+      "reviewed": "General enumeration reproduced with Hering--Howard/Ottaviani attribution and internal independent review.",
+      "pending": "Known m5 excluded from research; no novelty claim.",
+      "next": "Retain source attribution; no novelty claim."
+    },
+    "2019": {
+      "status": "unresolved",
+      "reviewed": "AU actual positive-area/full-subthreshold entropy and AR exact alternating-tape clock/subclass law accepted after both OTHER whole audits/full reconciliation;lambda enclosure unchanged.",
+      "pending": "Full-law area/occupation/collision mass,actual typical regime/exact lambda OPEN.",
+      "next": "Prove a full actual mean-area/occupation or collision-mass bound, preserving probability-law distinctions."
+    },
+    "2020": {
+      "status": "unresolved",
+      "reviewed": "SQ16 accepted after BOTHOTHERwhole48/all96: actual primitive content, integral even-balanced-factor descent,knownq8 exactdenominator8. SQ17 accepted after BOTHOTHERwhole40/all80: literal author-copy unit-square shortcut counterfamily/classical two-norm-coset criterion. Corrected SQ14/SQ15 retained.",
+      "pending": "Odd-H/full actual norm-q/mixed-order and compatible composite Fourier realization remain open. SQ17 does not produce a taut order or refute uninspected final journal/errata. Root separate source note remains UNVERIFIED.",
+      "next": "Find an effective actual arithmetic obstruction or construction."
+    },
+    "2021": {
+      "status": "unresolved",
+      "reviewed": "R21 accepted after BOTH OTHER whole48/rootall96: formal finite binary counterexample, necessary minimum/tie and D5 full-gcd forks. R19 frameI/R20 frameII exclusions retained.",
+      "pending": "R22 author9/48 frozenUNVERIFIED; BOTH OTHER entire whole48 initials complete/released PASS, zero substantive defects; root ENTIRE4/C ENTIRE11. Coordinator reconciliation pending. Integral branch exclusion/local carrier valuations only; negative tie/full degree20/annual OPEN.",
+      "next": "Pursue actual frameIII or a further global compatibility equation beyond binary consistency."
+    },
+    "2022": {
+      "status": "unresolved",
+      "reviewed": "D9 accepted after BOTHOTHERwhole48/rootall96:global six-sector crossing restrictions,singleton reverse-event input fibers,actual twin and stopped scalar-return interface. D8 retained.",
+      "pending": "RC10 author8/60 frozenUNVERIFIED; root/C OTHER initiallyblind whole reviews active. Selected actual SAFE/STOP branches,unbounded slopes,finite-word CRT and2N-crossing first-hit family await reconciliation. One-sided/infinite-safe/universal hitting OPEN.",
+      "next": "Prove actual source size/clock transport or a decisive ordinary return theorem."
+    },
+    "2023": {
+      "status": "complete internally reviewed classification",
+      "reviewed": "Fixed positivenonsquareN: all(k,k),k>0, and(k,2k)/(2k,k) for positiveODDk.",
+      "pending": "External priority unestablished.",
+      "next": "Retain the real-witness domain including negative witnesses."
+    },
+    "2024": {
+      "status": "unresolved",
+      "reviewed": "FR11 accepted22:21UTC after A/B BOTHwhole48/rootall96; subgroup translation count and WHOLE criterion cover EVERY n=105*2^(12t+6)+1,t>=1. FR10 and older scoped criteria retained.",
+      "pending": "TR12 root author5/48 frozenUNVERIFIED; BOTH OTHER entire5/5 whole48 initials complete/released PASS, zero substantive defects; root reconciliation pending, including proposedt0/n6721. Further root R13 two-parameter exploration unverified, not bundled intoTR12. Full classification/priority OPEN.",
+      "next": "Extend actual geometric obstruction beyond NF4,retain possible intersections and exact degrees."
+    },
+    "2025": {
+      "status": "unresolved",
+      "reviewed": "DR8 accepted after TWO OTHER whole64 audits/rootfull128: actual adjacent order-p factors, EVERY higher component nontrivial/disjoint, simultaneous exact orders and joint ordinary budget, in extra p|X(X+1),p>=37 sector. DR7 retained.",
+      "pending": "New R10author14/64 frozenUNVERIFIED; A/B OTHER initiallyblind whole audits active. Actual twisted-root/local ideal factorization and published principality justification; no new Diophantine exclusion/full solution/priority.",
+      "next": "Find an actual global constraint for unbounded c without conditional/class-unit/formal-generator shortcuts."
+    }
+  },
+  "complete_annual_answers": 2,
+  "unresolved_annual_targets": 7,
+  "keepawake": {
+    "pid": 79293,
+    "exec_session": 64368,
+    "untimed": true,
+    "verified_at_local": "2026-10-19T08:27:01+10:00",
+    "actual_assertion": "OWN79293 caffeinate positively identified asserting forever45:19:11; PreventUserIdleSystemSleep1/PreventUserIdleDisplaySleep0.",
+    "stop_only_owned_assertion_at_ceiling_or_actual_termination": true
+  },
+  "last_previously_pushed_commit": "a778195",
+  "next_manual_reporting_check_utc": "2026-10-18T23:27:30+00:00",
+  "token_scope": "THIS research chat and recursively spawned descendants; repeated cached input included. Weekly quota ACCOUNT-WIDE, possibly other projects.",
+  "limitations": "Local recorded observation while work is active. Unreported in-flight usage is excluded. Not a bill or a conversion to subscription percentage. No prompts, account IDs, credentials, or response IDs exported."
+}

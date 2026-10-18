@@ -35,8 +35,8 @@ independent whole reviews continue. Weekly65%TOTAL at22:22:02UTC/reset1792874445
 reserve in this authorized window. Hand research continues on all gaps.
 
 - [Latest continuing checkpoint](progress/checkpoint-2026-10-19-0823.md).
-- [Latest actual hourly report](progress/status-2026-10-19-0746.md).
-  Next actual hourly/token/owned-awake check22:27:30UTC.
+- [Latest actual hourly report](progress/status-2026-10-19-0827.md).
+  Next actual hourly/token/owned-awake check23:27:30UTC.
 
 - [Dashboard](progress/dashboard.md): per-problem status, results, obstructions, next steps and reviews.
 - [Budget and telemetry](progress/budget.md): observed weekly usage and reset boundary.
