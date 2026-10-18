@@ -1,0 +1,67 @@
+{
+  "frozen_utc": "2026-10-18T22:09:08.210438+00:00",
+  "status": "candidate proof - unverified",
+  "constructor": "/root/review_2021_reasoning_j15_r2",
+  "whole_obligations": 48,
+  "payload_count": 8,
+  "ENTIRE_files": 9,
+  "payloads": [
+    {
+      "path": "problems/2021-B4/notes/reasoning-center-return-r22-admin-v1.py",
+      "bytes": 8226,
+      "sha256": "a7520ac0ca378344f84492f5e354394d616e88ca7030ba299ef1b2b64afbc449"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-center-return-r22-baseline-v1.json",
+      "bytes": 14475,
+      "sha256": "9dbe271abec9cfd66759fc09dd73b0a140324cae5daa41b542ed8681e0d379ac"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-center-return-r22-candidate-v1.md",
+      "bytes": 15244,
+      "sha256": "21edc50529239da399d622e66d9af7460477e9ac1e9ff8fa7da0a4259ea1eb0a"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-center-return-r22-metadata-v1.json",
+      "bytes": 1759,
+      "sha256": "5bd217fbae048a6b9f2ee6cc2cb124f5d414b85f103f92a6edea46dee6801add"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-center-return-r22-obligations-v1.md",
+      "bytes": 7116,
+      "sha256": "542d10b29e2963b3d6db66817daca6c00f1a4987e751ee9ce5932792bdc30bad"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-center-return-r22-sources-v1.json",
+      "bytes": 4362,
+      "sha256": "b7dba7cebf9fdda12739e0e222374c33b99c52fc4c0ed0c4bba02b395a819b68"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-center-return-r22-sources-v1.md",
+      "bytes": 8306,
+      "sha256": "0c238be0fe0f8c32f9a6d1b6b608eebf6fef2f8f3f72145cdf8ca113aafc83a3"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-center-return-r22-working-v1.md",
+      "bytes": 9105,
+      "sha256": "e33444a740c474408b35f8f1f062d089da987d931ebc05b5135926b972a52223"
+    }
+  ],
+  "effective_guard_summary": {
+    "occurrences": 407,
+    "unique_paths": 316,
+    "canonical_deduplicated_sha256": "3ea42b532889f82a597886e59cfb7c5e12b97968f1a707b81634369883608a5d"
+  },
+  "FULL_final_ALL8_payload_model_readback_completed": true,
+  "FULL_manifest_model_readback_then_SEPARATE_readonly_verify_REQUIRED": true,
+  "constructor_excluded_two_OTHER_initially_blind_ENTIRE_whole_audits_required": true,
+  "NEW_root_proof_inference_supplied": false,
+  "negative_tied_case_full_frameIII_degree20_annual_priority_claim": false,
+  "requested": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independent_effective_setting_readback": null,
+  "mathematical_program_CAS_scan_test_optimizer_source_author_old_replay": false
+}

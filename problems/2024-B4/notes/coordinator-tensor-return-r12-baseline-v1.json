@@ -1,0 +1,48 @@
+{
+  "prepared_at_utc": "2026-10-18T22:11:23.827143+00:00",
+  "direct_inputs": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2024-B4/statement.md",
+      "bytes": 2470,
+      "sha256": "60244f7752634772adb434efbdb41a63fb02029dc3be4238f3718c6e5ec84e5f"
+    },
+    {
+      "path": "problems/2024-B4/proofs/reviewed-reasoning-frobenius-return-r10-v1.1.md",
+      "bytes": 27940,
+      "sha256": "ce9a3c9e00ce931716fe00d6ea0a605167ddf58a29779d459a62cbc9dd04d173"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-frobenius-return-r10-acceptance.md",
+      "bytes": 4987,
+      "sha256": "4c2982ad2f8367e02b6c6f989c0a9ed9cb275a92b5b968bfab5d7494ed432867"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-frobenius-return-r10-acceptance.json",
+      "bytes": 3682,
+      "sha256": "fdaf0350da036559371864a15a4e78b9102f176995b1ec672ef3f7e68b72d5be"
+    }
+  ],
+  "immutable_authority_binding": {
+    "path": "problems/2024-B4/reviews/reasoning-frobenius-return-r10-acceptance.json",
+    "bytes": 3682,
+    "sha256": "fdaf0350da036559371864a15a4e78b9102f176995b1ec672ef3f7e68b72d5be"
+  },
+  "authority_declared_summary": {
+    "occurrences": 12,
+    "unique_paths": 12,
+    "canonical_sha256": "1f6b1064b89ccff66bf30d04b03c410cf46c53811e57fc68793617993e579945"
+  },
+  "all_guard_summary": {
+    "occurrences": 17,
+    "unique_paths": 16,
+    "canonical_sha256": "15496ef7903b474d6e443460f2c17a7aa4c628f17564929016a384ff48ecefe0"
+  },
+  "administrative_only": true,
+  "fresh_model_read_limits": "Literal in candidate/sourceJSON; historical hashes are preservation only.",
+  "corresponding_NEW_peer_findings_files_inventory_hash_metadata_access": false
+}

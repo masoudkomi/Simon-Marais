@@ -1,0 +1,84 @@
+{
+  "status": "candidate proof - unverified",
+  "source_access_date_utc": "2026-10-18",
+  "official": {
+    "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2021-paper-b.pdf",
+    "read": "B4 setup and (b), returned lines67--81; complete local statement",
+    "preliminary_proof_investigated": false,
+    "raw_download_sha256": null
+  },
+  "operative_accepted_full_body_and_each_full_MDJSON": [
+    {
+      "path": "problems/2021-B4/proofs/reviewed-reasoning-center-return-r18-v1.1.md",
+      "bytes": 26067,
+      "sha256": "f26de3a17895354408e514d6a0b0066715a1c0f0234d494fd53485ea3feb8284",
+      "authority_prefix": "problems/2021-B4/reviews/reasoning-center-return-r18-acceptance",
+      "scope": "full actual(S),(W),adjacent m4,J15,global carrier domain; no whole m4 result"
+    },
+    {
+      "path": "problems/2021-B4/proofs/reviewed-reasoning-center-return-r20-v1.1.md",
+      "bytes": 20093,
+      "sha256": "fd80f537f9b883f8730709a5af390232a75c50e7f7d586978cb99ae030ba0ffa",
+      "authority_prefix": "problems/2021-B4/reviews/reasoning-center-return-r20-acceptance",
+      "scope": "actual frameII/origin orbit excluded; frameIII remains open in that input"
+    },
+    {
+      "path": "problems/2021-B4/proofs/reviewed-reasoning-center-return-r21-v1.1.md",
+      "bytes": 21267,
+      "sha256": "25524fc6d382d6a78c735e986219713234b649a09b9f0318ca387bf6fac3e080",
+      "authority_prefix": "problems/2021-B4/reviews/reasoning-center-return-r21-acceptance",
+      "scope": "actual frame,minimum/tie,D5 and normalized binary identities only; no rational lift from binary example"
+    }
+  ],
+  "old_complete_context_only": [
+    "problems/2021-B4/notes/reasoning-center-return-r21-failures-v1.md",
+    "problems/2021-B4/notes/reasoning-center-return-r18-failures-v1.md",
+    "problems/2021-B4/notes/reasoning-center-return-r21-sources-v1.md",
+    "problems/2021-B4/notes/coordinator-frame-III-exploration-r1.md"
+  ],
+  "exploration_unverified_not_R22_premise": true,
+  "older_partial_context_not_direct_premises": {
+    "R5": "first205lines only",
+    "R7": "selected essential-cover/transport passages only",
+    "R9": "Sections1--2,lines114--245 only",
+    "R10": "selected scope passages only"
+  },
+  "primary": [
+    {
+      "url": "https://arxiv.org/pdf/1208.5404",
+      "read": "Lemma14 and Proposition15 ENTIRE operative statements/proofs lines648--841; normalization898--1013; returned Proposition16 proof848--893 and Proposition13 four-total/real-root proof523--628 context",
+      "limit": "not whole23pages/external references or Magma;4/16 needs same actual common value; real-line hypothesis unavailable",
+      "raw_download_sha256": null,
+      "program_rerun": false
+    },
+    {
+      "url": "https://arxiv.org/pdf/1806.09561",
+      "version": "v6 August2023",
+      "read": "COMPLETE Proposition7.7/Remark7.8 lines1035--1067; returned Theorem7.9/Theorem7.10 statement and computation description1083--1103 context",
+      "limit": "not whole14pages/global computation; three recycled roots not four; latter computation not reconstructed/imported",
+      "raw_download_sha256": null,
+      "program_rerun": false
+    },
+    {
+      "url": "https://math-unibe.ch/jdraisma/publications/erratumcasasalvero.pdf",
+      "read": "COMPLETE one-page20-line original2011 erratum",
+      "limit": "p5 exception/withdrawn old degree20 consequence retained; no current-status or annual theorem imported",
+      "raw_download_sha256": null
+    }
+  ],
+  "public_viewer_only_no_download_or_cache_mutation": true,
+  "bounded_searches_no_theorem_imported": [
+    "\"Casas-Alvero\" \"consecutive\" \"20\" \"derivatives\"",
+    "\"Casas-Alvero\" \"2-adic\" \"four\""
+  ],
+  "new_submission": "R22A exact centered mod4/mod8 obstruction; R22B complete integral-frame branch exclusion; R22C actual global-carrier local root placement only",
+  "new_root_constructive_inference": false,
+  "constructor_older_R18_R20_R21_roles_disclosed_not_self_recertified": true,
+  "root_OLD_exploratory_R21_role_disclosed": true,
+  "two_OTHER_ENTIRE_whole_audits_required": true,
+  "whole_obligations": 48,
+  "mathematical_code_CAS_scan_test_optimizer_source_author_old_replay": false,
+  "new_own_documentary_code_only": true,
+  "charge_contact_access_bypass_or_redistribution": false,
+  "annual_full_frameIII_negative_tied_case_or_priority_claim": false
+}

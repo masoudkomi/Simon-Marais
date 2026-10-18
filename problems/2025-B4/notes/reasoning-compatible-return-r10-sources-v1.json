@@ -1,0 +1,183 @@
+{
+  "status": "candidate proof - unverified",
+  "checked_date_utc": "2026-10-18",
+  "mathematical_source_theorem_import": "none of the 2026 exclusion or published upper-bound theorems",
+  "sources": [
+    {
+      "id": "CM2026",
+      "authors": [
+        "Han Chen",
+        "Preda Mihailescu"
+      ],
+      "title": "New Conditions on the Nagell-Ljunggren Equation",
+      "journal": "Chinese Annals of Mathematics Series B 47(2), 389-412 (2026)",
+      "doi": "10.1007/s11401-026-0018-7",
+      "url": "https://camath.fudan.edu.cn/camb/ch/reader/create_pdf.aspx?file_no=47B208&flag=1",
+      "pages": 24,
+      "extracted_lines": 2539,
+      "returned_read_windows": [
+        [
+          0,
+          501
+        ],
+        [
+          475,
+          557
+        ],
+        [
+          546,
+          699
+        ],
+        [
+          682,
+          854
+        ],
+        [
+          728,
+          931
+        ],
+        [
+          932,
+          1106
+        ],
+        [
+          1014,
+          1289
+        ],
+        [
+          1275,
+          1509
+        ],
+        [
+          1339,
+          1610
+        ],
+        [
+          1577,
+          1780
+        ],
+        [
+          1764,
+          2062
+        ],
+        [
+          2030,
+          2149
+        ],
+        [
+          2148,
+          2319
+        ],
+        [
+          2293,
+          2422
+        ],
+        [
+          2371,
+          2477
+        ],
+        [
+          2438,
+          2538
+        ]
+      ],
+      "complete_web_text_read": true,
+      "operative_proofs_read": true,
+      "independent_whole_source_theorem_audit": false,
+      "raw_pdf_cached": false,
+      "raw_pdf_sha256": null,
+      "visual_read": false,
+      "screenshot_requests": {
+        "pages": [
+          2,
+          3
+        ],
+        "result": "content-type/unsupported-screenshot error; no pixels returned"
+      },
+      "literal_hypotheses": [
+        "distinct odd prime exponents p,q",
+        "class quotient index condition q not dividing hminus_p",
+        "possible p<29 and negative-X exception retained in actual theorem text",
+        "e0 follows only within its stated setup"
+      ],
+      "role": "published context and short ideal/phase interface reconstructed independently; exclusion not imported"
+    },
+    {
+      "id": "BM2015v2",
+      "authors": [
+        "B. Bartolome",
+        "P. Mihailescu"
+      ],
+      "title": "On the Equation X^n-1=BZ^n",
+      "url": "https://arxiv.org/pdf/1412.5798v2",
+      "external_version_line": "2015-06-30",
+      "internal_version_date": "2021-11-02",
+      "pages": 19,
+      "extracted_lines": 1730,
+      "fresh_returned_read_windows": [
+        [
+          0,
+          445
+        ]
+      ],
+      "complete_operative_upper_bound_proof_freshly_read": false,
+      "later_Appendix_freshly_read": false,
+      "raw_pdf_newly_cached": false,
+      "role": "keep stronger published bounds and edition/Appendix warning visible; no upper-bound import"
+    },
+    {
+      "id": "DR8accepted",
+      "path": "problems/2025-B4/proofs/reviewed-reasoning-diagonal-return-r8-v1.1.md",
+      "bytes": 20665,
+      "sha256": "9b5e5e6311c05964553c39b1320259eb5693d16252c15818bc2b5ab4968b55ef",
+      "fresh_complete_body_read": true,
+      "fresh_authority_MDJSON_read": true,
+      "old_C_role": "OTHER whole reviewer, not constructor",
+      "role": "actual ordinary frontier/context, not a source of global(C) or new ideal-factor identities"
+    },
+    {
+      "id": "R9accepted",
+      "path": "problems/2025-B4/proofs/reviewed-reasoning-return-r9-v1.1.md",
+      "fresh_complete_body_read": true,
+      "old_C_role": "constructor",
+      "role": "scope/failed-route context only, no independent self-recertification"
+    },
+    {
+      "id": "R6accepted",
+      "path": "problems/2025-B4/proofs/reviewed-reasoning-return-r6-v1.1.md",
+      "fresh_read": "specific returned keyword passages only",
+      "fresh_complete_body_read": false,
+      "old_C_role": "constructor",
+      "role": "keep weak-vs-published height limits visible; no theorem import"
+    },
+    {
+      "id": "2008chapter",
+      "fresh_operative_proof_read": false,
+      "fresh_consultation": "specific returned deep-literature search passages only",
+      "role": "historical source map, no new theorem import"
+    }
+  ],
+  "basic_facts_with_supplied_proofs": [
+    "local unit power-map surjectivity by contraction",
+    "coefficient phase criterion",
+    "denominator-clearing ideal lemma",
+    "actual characteristic qth-power ideal",
+    "unit-ratio/root-of-unity normalization",
+    "one-prime-gap principality",
+    "canonical integral cofactor ideal partition",
+    "real descent away from p",
+    "strict norm bound and real ideal norm congruence"
+  ],
+  "unknowns_preserved": [
+    "global(C) for an arbitrary actual diagonal solution",
+    "unconditional triviality of the cofactor real ideals",
+    "compatibility with DR8 ordinary gcd factors",
+    "upper cofactor/support bound",
+    "annual classification",
+    "publication priority"
+  ],
+  "CUA_native_browser": false,
+  "charges_contact_bypass": false,
+  "mathematical_program_CAS_scan": false,
+  "raw_paper_redistribution": false
+}

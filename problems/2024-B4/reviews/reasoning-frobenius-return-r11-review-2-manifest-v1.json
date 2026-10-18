@@ -1,0 +1,81 @@
+{
+  "frozen_utc": "2026-10-18T22:18:49.176869+00:00",
+  "role": "OTHER initially blind ENTIRE WHOLE2 of NEW FR11A-D",
+  "reviewer": "/root/review_2022_complexity_r2",
+  "constructor_excluded": true,
+  "requested": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independent_effective_readback": null,
+  "whole_obligations": 48,
+  "ENTIRE_files_including_manifest": 5,
+  "payload_records": [
+    {
+      "path": "problems/2024-B4/reviews/reasoning-frobenius-return-r11-review-2-initial-v1.md",
+      "bytes": 27539,
+      "sha256": "8893ad5197ff7aa1da790e3b8ab08cc6abaa2bb37fa7c27bc5e6b7030df54acd"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-frobenius-return-r11-review-2-sources-v1.json",
+      "bytes": 4580,
+      "sha256": "fbb3bf086c9dd0768430d72b475539dcc42c60b25b732cc78afec6be85ac734b"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-frobenius-return-r11-review-2-admin-v1.py",
+      "bytes": 10145,
+      "sha256": "84739d811f15767b2fb493f5135d4b1afebef17beea3ccb24d3bd08dcbfe498f"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-frobenius-return-r11-review-2-baseline-v1.json",
+      "bytes": 5310,
+      "sha256": "533e2a01daf1a17330a4d47575e26e1d8898bdcdf1416a0759a1f17d4c693c01"
+    }
+  ],
+  "author_main": {
+    "path": "problems/2024-B4/notes/reasoning-frobenius-return-r11-candidate-v1.md",
+    "bytes": 14297,
+    "sha256": "a74932fc593ccb7ed8ae08992a60b6d8bf77548ef04b44104fea682c74616740"
+  },
+  "author_freeze": {
+    "path": "problems/2024-B4/notes/reasoning-frobenius-return-r11-freeze-v1.json",
+    "bytes": 3460,
+    "sha256": "90ba8a8a0d07918bc738696b9619cef07b3577c85af5fea82766f322c6af2e38"
+  },
+  "all_current_necessary_guard_summary": {
+    "occurrences": 47,
+    "unique_paths": 47,
+    "canonical_sha256": "be2743686a216c766b1a416638266fedcf68c8c9aef7b5b4ac8d195fb006e762"
+  },
+  "own_immediate_parent": {
+    "path": "problems/2022-B4/notes/reasoning-collision-return-r10-freeze-v1.json",
+    "bytes": 2891,
+    "sha256": "63f7e02fde4454421e66126bd4ba8decdd23c7dfe24367bed2f132710d30d4f4"
+  },
+  "older_own_paths_bound_transitively": 980,
+  "older_plus_NEW5_own_paths_bound_transitively": 985,
+  "literal_checks": {
+    "author_literal_obligations": 48,
+    "review_literal_dispositions": 48,
+    "review_closed_scope_notes": 10,
+    "mathematical_truth_checked_by_code": false
+  },
+  "FULL_final_MODEL_ALL4_payload_readback_completed": true,
+  "FULL_manifest_MODEL_readback_then_SEPARATE_readonly_verify_required": true,
+  "corresponding_NEW_peer_access": false,
+  "findings_EMBARGO_until_explicit_BOTH_ENTIRE": true,
+  "old_shared_Git_cache_mutation_mathematical_program_CAS_scan_test_replay": false,
+  "weekly": {
+    "at_utc": "2026-10-18 22:11:29 UTC",
+    "TOTAL_used_percent": 64,
+    "window_minutes": 10080,
+    "resetsAt": 1792874445,
+    "ordinaryUsageAllowed": true,
+    "legacy_by_limit_agree": true,
+    "account_label": "029a8928…1334ac3a",
+    "ceiling_TOTAL_percent": 90,
+    "integration_reserve": true,
+    "automatic_later_window_spending": false
+  }
+}

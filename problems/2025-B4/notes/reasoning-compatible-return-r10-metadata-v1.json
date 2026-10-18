@@ -1,0 +1,50 @@
+{
+  "created_utc": "2026-10-18T22:15:37.190937+00:00",
+  "status": "candidate proof - unverified",
+  "constructor": "/root/review_2017_coarsening_r1",
+  "constructor_excluded": true,
+  "OTHER_whole_audits_required": 2,
+  "whole_obligations": 64,
+  "requested_model": "gpt-6.1-sol",
+  "requested_reasoning": "max",
+  "effective_setting_readback": "unavailable",
+  "root_NEW_math_inference": false,
+  "old_roles": [
+    "C OLD R6/R9 constructor",
+    "C OLD DR8 OTHER whole reviewer"
+  ],
+  "old_inputs_not_independently_self_recertified": true,
+  "immediate_own_parent": {
+    "path": "problems/2024-B4/notes/reasoning-frobenius-return-r11-freeze-v1.json",
+    "bytes": 3460,
+    "sha256": "90ba8a8a0d07918bc738696b9619cef07b3577c85af5fea82766f322c6af2e38"
+  },
+  "guard_summary": {
+    "occurrences": 37,
+    "unique_paths": 37,
+    "canonical_sha256": "0a6e69586519ea7a7da97010f5cdac95090e688d8599bdb3806fbe2f35412a12"
+  },
+  "direct_weekly_telemetry": {
+    "usedPercent": 64,
+    "windowDurationMins": 10080,
+    "resetsAt": 1792874445,
+    "ordinaryUsageAllowed": true,
+    "legacy_by_limit_agree": true,
+    "authorized_TOTAL_ceiling": 90,
+    "integration_reserve": true,
+    "automatic_next_window": false
+  },
+  "mathematical_program": false,
+  "CAS_scan_routine_test": false,
+  "old_source_author_freezer_or_certificate_replay": false,
+  "raw_PDF_downloaded_or_hash_claimed": false,
+  "CUA_native_browser": false,
+  "pending_approval_or_child_PID": null,
+  "new_peer_R12_FR11_content_inventory_hash_metadata_accessed": false,
+  "Git_shared_old_cache_writes": false,
+  "source_limits": "FULL web-text CM2026; no visual/raw hash; BMv2 lines0-445 only",
+  "annual_solved": false,
+  "new_Diophantine_exclusion": false,
+  "publication_priority_claim": false,
+  "FULL_final_model_readback_then_separate_verify_required": true
+}

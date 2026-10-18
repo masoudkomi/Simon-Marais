@@ -1,0 +1,76 @@
+{
+  "frozen_at_utc": "2026-10-18T22:09:50.156454+00:00",
+  "status": "candidate proof - unverified",
+  "constructor": "/root/review_2022_complexity_r2",
+  "constructor_excluded": true,
+  "root_NEW_construction_contribution": false,
+  "TWO_OTHER_whole_audits_required": 2,
+  "claims": [
+    "RC10A",
+    "RC10B",
+    "RC10C",
+    "RC10D",
+    "RC10E"
+  ],
+  "whole_obligations": 60,
+  "ENTIRE_files_including_this_freeze": 8,
+  "payloads": [
+    {
+      "path": "problems/2022-B4/notes/reasoning-collision-return-r10-candidate-v1.md",
+      "bytes": 20330,
+      "sha256": "cc1dbec1dd63ebacde74814f0f61c55ffd66ef0908c581df83f9d0bed858100b"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-collision-return-r10-obligations-v1.md",
+      "bytes": 10798,
+      "sha256": "dd260ce26d295c4d505a3aa10e34d5763fe768829040e7c0632bca592582a9b4"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-collision-return-r10-research-v1.md",
+      "bytes": 12705,
+      "sha256": "7d7aa5db3a4336843e884a24d22a6a313079e4c397f0c0d2c66b864147ecf453"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-collision-return-r10-sources-v1.json",
+      "bytes": 3613,
+      "sha256": "d9e618dd03047960a91fe46eeeb71ac7cb2d4afb14dba6cb5abc9b0efe134950"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-collision-return-r10-admin-v1.py",
+      "bytes": 11966,
+      "sha256": "1730b66b8bac54fd79c95e1c4a25577266570607dc1b33926489bb63de530151"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-collision-return-r10-baseline-v1.json",
+      "bytes": 6534,
+      "sha256": "78904c27cd419b558c4fffd7c0e337dd973828d4a3cc348bf8ae8ebed2859704"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-collision-return-r10-metadata-v1.json",
+      "bytes": 1476,
+      "sha256": "ed63017c850ce1bdfa23156d2985478a5e985738fd13f175596884e01251c958"
+    }
+  ],
+  "all_guard_summary": {
+    "occurrences": 64,
+    "unique_paths": 60,
+    "canonical_deduplicated_sha256": "4956fbe35a96dbb09808583330258ae2aa89dfb6bc994ac1cd5c7ce9be2c12cc"
+  },
+  "own_immediate_parent": {
+    "path": "problems/2017-B4/reviews/reasoning-concentration-return-r12-review-1-manifest-v1.json",
+    "bytes": 2868,
+    "sha256": "ea15b59730d0e2f9d2bc1921ad1a766ad1720168070104f242383370264704a8"
+  },
+  "older_own_paths_bound_transitively": 972,
+  "older_plus_new_own_paths_bound_transitively": 980,
+  "FULL_final_MODEL_readback_ALL7_payloads_code_ALLmetadata_completed": true,
+  "FULL_freeze_MODEL_readback_then_SEPARATE_readonly_verify_required": true,
+  "no_NEW_peer_access_or_mathematical_program": true,
+  "no_Git_shared_old_cache_mutation": true,
+  "ordinary_infinite_avoider_termination_annual_priority_claim": false,
+  "last_direct_TOTAL_percent": 64,
+  "authorized_reset": 1792874445,
+  "TOTAL_ceiling_percent": 90,
+  "integration_reserve": true,
+  "automatic_later_window_spending": false
+}

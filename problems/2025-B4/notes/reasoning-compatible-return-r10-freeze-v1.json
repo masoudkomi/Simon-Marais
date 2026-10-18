@@ -1,0 +1,93 @@
+{
+  "frozen_utc": "2026-10-18T22:16:48.459360+00:00",
+  "status": "candidate proof - unverified",
+  "constructor": "/root/review_2017_coarsening_r1",
+  "constructor_excluded": true,
+  "OTHER_whole_audits_required": 2,
+  "whole_obligations": 64,
+  "ENTIRE_files": 14,
+  "payload_records": [
+    {
+      "path": "problems/2025-B4/notes/reasoning-compatible-return-r10-candidate-v1.md",
+      "bytes": 20135,
+      "sha256": "3820e0f7677ee8879da687a4d294ead1b5aaa9f0cc44d110de2e576158468107"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-compatible-return-r10-obligations-v1.md",
+      "bytes": 5322,
+      "sha256": "cc7103e44acfe0fb675c1174929491a6ccf5af32e2d1fa558ee071974ac1f50c"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-compatible-return-r10-checks-v1.md",
+      "bytes": 7411,
+      "sha256": "b5251707973cd55dd16e429ec9b6e78d636699dea91cd6fe3a36bacb1073ffbb"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-compatible-return-r10-issues-v1.md",
+      "bytes": 2379,
+      "sha256": "be5f10c50c626363a984ddaef68217b6705a9488c9a0ff3355f839fc4ed39954"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-compatible-return-r10-failures-v1.md",
+      "bytes": 3183,
+      "sha256": "c02ee901da1385af6b42f877039c06222fa6a56be17425f7239da06ec0735d43"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-compatible-return-r10-sources-v1.md",
+      "bytes": 5120,
+      "sha256": "668c65b0ebecd2641623b4fc274f9f6b56310c39f1c4f8769c9b09d76469aa15"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-compatible-return-r10-sources-v1.json",
+      "bytes": 5208,
+      "sha256": "18ae616a4ef7dc4e61adf8a73d6ab73017432be022a524e736789caafe7bdeec"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-compatible-return-r10-worklog-v1.md",
+      "bytes": 4171,
+      "sha256": "2b143036e65e47e9b0cd345950d138a5216316881f926088233b5384d99444ea"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-compatible-return-r10-code-v1.md",
+      "bytes": 1574,
+      "sha256": "ea3fb40e72166d3b29849912c7f47c02fece75cc4ca354177ce57aafdc5ea219"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-compatible-return-r10-integrity-v1.py",
+      "bytes": 8807,
+      "sha256": "fc68db8eae24149d8dc8bb989c0335644fd9bd6d6b40cfd871b7b52f4280e689"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-compatible-return-r10-baseline-v1.json",
+      "bytes": 8133,
+      "sha256": "a5bdbac652d22bc0dfc4f921021a12a0926a0347f3f16f4946701782a6122860"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-compatible-return-r10-input-validation-v1.json",
+      "bytes": 610,
+      "sha256": "22a57f98d6b458505d02bb9dc0f6049f37379c001cf296e99527a94bd18f6c81"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-compatible-return-r10-metadata-v1.json",
+      "bytes": 1831,
+      "sha256": "36be1e41c14dc2b466d6daf32ada15f1918c6194776d390ffa1bd67b87204a47"
+    }
+  ],
+  "guard_summary": {
+    "occurrences": 37,
+    "unique_paths": 37,
+    "canonical_sha256": "0a6e69586519ea7a7da97010f5cdac95090e688d8599bdb3806fbe2f35412a12"
+  },
+  "immediate_own_parent": {
+    "path": "problems/2024-B4/notes/reasoning-frobenius-return-r11-freeze-v1.json",
+    "bytes": 3460,
+    "sha256": "90ba8a8a0d07918bc738696b9619cef07b3577c85af5fea82766f322c6af2e38"
+  },
+  "FULL_final_MODEL_ALL13_payload_readback_completed": true,
+  "FULL_freeze_readback_then_SEPARATE_readonly_verify_required": true,
+  "new_peer_R12_FR11_findings_files_inventory_hash_metadata_accessed": false,
+  "mathematical_program": false,
+  "old_shared_Git_cache_bytes_changed": false,
+  "new_Diophantine_exclusion": false,
+  "annual_solved": false
+}

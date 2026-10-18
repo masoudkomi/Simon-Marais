@@ -1,5 +1,7 @@
 # 2024 B4 research log
 
+08:23 update: [FR11 subgroup-translation criterion](reviews/reasoning-frobenius-return-r11-acceptance.md) is now independently reviewed after BOTH OTHER whole48 audits and complete96-disposition reconciliation. It proves whole absolute irreducibility for EVERY n=105*2^(12t+6)+1,t>=1; the exact old positive-P test fails there. The separate root TR12 tensor-count candidate, including proposed t0/n6721, remains UNVERIFIED under A/B whole audits. Full classification, converse and published priority remain open.
+
 
 R9 is now independently reviewed after BOTH OTHER whole64 audits and complete128-disposition reconciliation. Its sufficient jet criterion permits NF4-failing root sets and gives the15*2^(4k+2)+1 and variable-odd-part irreducibility families. All ordinary diagonal points and the absolute n13 exception remain. The full annual classification and priority remain open. [Acceptance](reviews/reasoning-cofactor-return-r9-acceptance.md).
 

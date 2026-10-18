@@ -1,0 +1,48 @@
+{
+  "frozen_at_utc": "2026-10-18T22:12:04.306669+00:00",
+  "status": "candidate proof - unverified",
+  "constructor": "/root",
+  "root_and_C_excluded_from_NEW_audit_count": true,
+  "OTHER_whole_audits_required": 2,
+  "whole_obligations": 48,
+  "ENTIRE_files": 5,
+  "payloads": [
+    {
+      "path": "problems/2024-B4/notes/coordinator-tensor-return-r12-candidate-v1.md",
+      "bytes": 24907,
+      "sha256": "4d2195678cc6e029c0657edc21d98387282c2ccc6cbd8b27ff80c2a11f80c05a"
+    },
+    {
+      "path": "problems/2024-B4/notes/coordinator-tensor-return-r12-sources-v1.json",
+      "bytes": 2813,
+      "sha256": "e8cb5b7736e76dc9800af52fa0ec2e59962551ef1521ae4a4a24191cc60e9353"
+    },
+    {
+      "path": "problems/2024-B4/notes/coordinator-tensor-return-r12-admin-v1.py",
+      "bytes": 4762,
+      "sha256": "0b35000239e311301950d892cc25a316041d2b6d395ef0762b29769d4e594513"
+    },
+    {
+      "path": "problems/2024-B4/notes/coordinator-tensor-return-r12-baseline-v1.json",
+      "bytes": 1800,
+      "sha256": "2ac0667d09a9529d2b10c41677bd10c598252d030f3f3341988380ed6b397d17"
+    }
+  ],
+  "all_guard_summary": {
+    "occurrences": 17,
+    "unique_paths": 16,
+    "canonical_sha256": "15496ef7903b474d6e443460f2c17a7aa4c628f17564929016a384ff48ecefe0"
+  },
+  "FULL_final_MODEL_ALL4_payload_readback_completed": true,
+  "FULL_manifest_MODEL_readback_then_SEPARATE_readonly_verify_required": true,
+  "corresponding_NEW_peer_findings_files_inventory_hash_metadata_access": false,
+  "mathematical_program_CAS_scan_test_or_old_replay": false,
+  "requested": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "effective_setting_readback": null,
+  "authorized_weekly_reset": 1792874445,
+  "TOTAL_ceiling_percent": 90
+}

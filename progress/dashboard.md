@@ -1,5 +1,15 @@
 # Research dashboard
 
+Current08:23 continuing checkpoint: [2024 FR11 accepted](../problems/2024-B4/reviews/reasoning-frobenius-return-r11-acceptance.md)
+after A/B OTHER whole48/48 and ALL96 reconciliation; exact infinite
+family t>=1 only, full annual classification OPEN. TR12author5/48
+UNVERIFIED/A-B blind audits active; R22author9/48 UNVERIFIED/rootwhole2
+sealed/Cwhole1 active; RC10author8/60 and2025R10author14/64 UNVERIFIED.
+65%TOTAL ACCOUNTWIDE22:22:02UTC/reset1792874445/90TOTALreserve;
+OWN79293 awake verified08:22:03,forever45:14:13. Rawprojectcounts remain
+literal07:46 report snapshot; nextACTUALhourly22:27:30UTC.
+[Checkpoint](checkpoint-2026-10-19-0823.md). Two complete annual/seven unresolved.
+
 Current08:06 continuing checkpoint: [2017 CI12 accepted](../problems/2017-B4/reviews/reasoning-concentration-return-r12-acceptance.md)
 after B/root OTHER whole48/48 and full96 reconciliation. Actual joint
 class moments/finite entropy budget plus hereditary cost-separation

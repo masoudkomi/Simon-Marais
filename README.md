@@ -28,11 +28,13 @@ probability law leaves the full annual growth question open. The
 [2017 CI12 directional-cost theorem](problems/2017-B4/reviews/reasoning-concentration-return-r12-acceptance.md)
 has also passed both whole48 audits; its actual class entropy budget
 and counterfamily leave the global base and annual value unchanged.
-Hand research continues on2021,2022 and2025;2024FR11 reviews are queued.
-Weekly63%TOTAL at21:57:03UTC/reset1792874445; continue to90%TOTAL with
+[2024 FR11](problems/2024-B4/reviews/reasoning-frobenius-return-r11-acceptance.md)
+is now independently reviewed; it covers n=105*2^(12t+6)+1,t>=1.
+New2021R22/2022RC10/2024TR12/2025R10 packets remain UNVERIFIED;
+independent whole reviews continue. Weekly65%TOTAL at22:22:02UTC/reset1792874445; continue to90%TOTAL with
 reserve in this authorized window. Hand research continues on all gaps.
 
-- [Latest continuing checkpoint](progress/checkpoint-2026-10-19-0806.md).
+- [Latest continuing checkpoint](progress/checkpoint-2026-10-19-0823.md).
 - [Latest actual hourly report](progress/status-2026-10-19-0746.md).
   Next actual hourly/token/owned-awake check22:27:30UTC.
 

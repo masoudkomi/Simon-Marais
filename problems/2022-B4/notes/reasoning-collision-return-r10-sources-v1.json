@@ -1,0 +1,58 @@
+{
+  "status": "candidate proof - unverified; exact source/read-scope record",
+  "constructor": "/root/review_2022_complexity_r2",
+  "constructor_excluded_from_TWO_OTHER_whole_audits": true,
+  "root_NEW_construction_contribution": false,
+  "requested": {"model": "gpt-6.1-sol", "reasoning": "max", "inherited": true},
+  "independent_effective_readback": null,
+  "operative_input": {
+    "path": "problems/2022-B4/proofs/reviewed-reasoning-dynamics-return-r9-v1.1.md",
+    "bytes": 22645,
+    "sha256": "7cfa2c60557935261d7144576f0e39a509fbebb292fdd0027415efe411ae4c55",
+    "fresh_read": "COMPLETE accepted body and EACH complete current MDJSON authority",
+    "scope": "Actual ordinary first-event sigma0/1, SAFE diagonalR versus lower-twin equality, allowedc>=29,c5mod6, remaining one-sided/infinite-safe gaps",
+    "new_proof": "All selected four branch families, exact physical clocks, actual lower realization, finite coding and oscillation family proved by hand"
+  },
+  "comparison_full_bodies_and_each_current_MDJSON_freshly_read": [
+    "problems/2022-B4/proofs/reviewed-reasoning-dynamics-return-r7-v1.1.md",
+    "problems/2022-B4/proofs/reviewed-rational-base-shadow-return-v1.1.md",
+    "problems/2022-B4/proofs/reviewed-reasoning-return-r8-v1.1.md"
+  ],
+  "other_context": "Complete statement/research/references read; exploratory combined old Qv3/R3 reads clipped parts, not represented as fresh whole reads or mathematical premises",
+  "primary_sources": [
+    {
+      "id": "OFFICIAL",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2022-paper-b.pdf",
+      "fresh_read": "B4 setup61-65 and open(b)69-70",
+      "scope": "Positive ordinary integer/product>=600/simultaneous/n0 domain",
+      "limit": "Preliminary(a) not investigated/reproved; other problems not studied"
+    },
+    {
+      "id": "LAGARIAS_SLOANE",
+      "url": "https://neilsloane.com/doc/apsq.pdf",
+      "fresh_read": "Introduction22-223; Section5 definitions1328-1438; COMPLETE Theorem5 statement/proof1476-1552; Theorem6 statement1586-1591",
+      "operative_hypothesis_check": "Pr uses a FIXED rational common linear slope with finite residue corrections; Theorem5 denominator2",
+      "limit": "No fresh complete Theorem6 proof or whole22-page audit; no theorem imported for unknown-durationR"
+    },
+    {
+      "id": "DUBICKAS_MOSSINGHOFF",
+      "url": "https://www.researchgate.net/publication/220576840_Lower_bounds_for_Z-numbers",
+      "fresh_read": "Proper-set scalar map167-227 and COMPLETE Proposition3.2 statement/proof466-509; returned Lemma3.1/Proposition3.1 context/proofs375-462 also read",
+      "operative_hypothesis_check": "Positive ordinary scalar integers, fixedp/q, ONEallowedresidue and fixedcorrection for Prop3.2",
+      "limit": "Multiple-residue termination not imported as proved; no source algorithm or whole-paper audit/replay"
+    }
+  ],
+  "external_theorem_import_proving_NEW_RC10_step": false,
+  "AEV_AFS_current_full_source_reread": false,
+  "historical_normality_multiplicity_limits_not_new_premises": true,
+  "raw_primary_download_cache_or_redistribution": false,
+  "raw_primary_retrieval_sha256": null,
+  "all_NEW_mathematics_hand_reasoning": true,
+  "whole_obligations": 60,
+  "selected_branches_not_complete_D9_classification": true,
+  "actual_infinite_ordinary_avoider_or_termination_asserted": false,
+  "no_NEW_FR11_peer_findings_file_inventory_hash_metadata_access": true,
+  "no_mathprogram_CAS_scan_test_optimizer_author_source_old_replay": true,
+  "no_Git_shared_old_cache_mutation_spawn_charge_contact_bypass": true,
+  "annual_or_priority_claim": false
+}

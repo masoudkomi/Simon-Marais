@@ -1,0 +1,55 @@
+{
+  "frozen_utc": "2026-10-18T22:15:23.898200+00:00",
+  "reviewer": "/root/review_2021_reasoning_j15_r2",
+  "role": "OTHER initially blind ENTIRE WHOLE1",
+  "whole_obligations": 48,
+  "payload_count": 4,
+  "ENTIRE_files": 5,
+  "payloads": [
+    {
+      "path": "problems/2024-B4/reviews/reasoning-frobenius-return-r11-review-1-admin-v1.py",
+      "bytes": 7885,
+      "sha256": "5c640583fbdd8cdd46a89f4f075018f57c93ed94f28f2c2f283b50482f7551c4"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-frobenius-return-r11-review-1-baseline-v1.json",
+      "bytes": 13401,
+      "sha256": "a3354919ca6f1a7fa0b04db422d1a6591502abbfbc31dc068cc2d9ec3ebf4392"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-frobenius-return-r11-review-1-report-v1.md",
+      "bytes": 23130,
+      "sha256": "96a38d6eca0f650ea34cc3d1b276fd8e06cda863ddd621c9ce7a9acf6813710d"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-frobenius-return-r11-review-1-sources-v1.json",
+      "bytes": 3547,
+      "sha256": "06eb1763ae90a93b7bd1b05eca28627735b3a0c5bcd37494ad8ce8c01a3c797d"
+    }
+  ],
+  "current_occurrence_summary": {
+    "occurrences": 66,
+    "unique_paths": 57,
+    "canonical_deduplicated_sha256": "590bbeb4b5d8fe4ca3fd17ea3a2b5515dbc510929538b02390bec2a394823a6a"
+  },
+  "effective_fresh_guard_summary": {
+    "occurrences": 120,
+    "unique_paths": 119,
+    "canonical_deduplicated_sha256": "9870845d4af534f9225a4ed413d5e09525f1117e8fd95e068cf3ecbcb99ae456"
+  },
+  "FULL_final_ALL4_payload_model_readback_completed": true,
+  "FULL_manifest_model_readback_then_SEPARATE_readonly_verify_REQUIRED": true,
+  "corresponding_NEW_B_FR11_finding_file_inventory_hash_metadata_public_verdict_seen": false,
+  "corresponding_peer_completion_identity_received": false,
+  "NEW_FR11_constructive_contribution": false,
+  "older_accepted_input_roles_disclosed_not_newly_self_recertified": true,
+  "requested": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independent_effective_setting_readback": null,
+  "mathematical_program_CAS_scan_test_optimizer_source_author_old_replay": false,
+  "findings_release_requires_explicit_BOTH_ENTIRE_confirmation": true,
+  "status": "Independent whole review recommendation only; root reconciliation required"
+}
