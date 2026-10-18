@@ -1,0 +1,80 @@
+{
+  "frozen_utc": "2026-10-18T22:32:59.046653+00:00",
+  "reviewer": "/root/review_2017_coarsening_r1",
+  "role": "OTHER initially blind ENTIRE WHOLE1",
+  "ENTIRE_files": 11,
+  "whole_obligations": 60,
+  "payload_records": [
+    {
+      "path": "problems/2022-B4/reviews/reasoning-collision-return-r10-review-1-initial-v1.md",
+      "bytes": 13394,
+      "sha256": "b5ca5bf857255e810a75c08f75326989c23d062a186d70175c68e673aa866fc7"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-collision-return-r10-review-1-ledger-v1.md",
+      "bytes": 7872,
+      "sha256": "827152a4f72b6204806f8e6a10873c20652b5ace97de5cbecab70ba5e15fffc4"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-collision-return-r10-review-1-issues-v1.md",
+      "bytes": 2066,
+      "sha256": "f02f92b6b6183dcca9ef03ce0d85b8527bd84834de70477833d08e5e8b6a2270"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-collision-return-r10-review-1-sources-v1.md",
+      "bytes": 3557,
+      "sha256": "b6f6daa12d20369e95bc90fd31e4fda665d2598691aa4e7a19365a77ef4e3a3a"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-collision-return-r10-review-1-sources-v1.json",
+      "bytes": 2783,
+      "sha256": "f1fe0ba7814863c939aa7588cfd80cf83818df1ff20f479655fd293eec31bcdb"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-collision-return-r10-review-1-worklog-v1.md",
+      "bytes": 3672,
+      "sha256": "043132c9209c4bd941ba5d6361a0b7b0d83a91751d3211bbdaed550c039d8b3d"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-collision-return-r10-review-1-integrity-v1.py",
+      "bytes": 9249,
+      "sha256": "6325612ea2f751b68f4617ece6b9aefbd8f6a3618b755bd68f5020917600dfe8"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-collision-return-r10-review-1-baseline-v1.json",
+      "bytes": 5384,
+      "sha256": "d9d902dd3a4a920570fc780d1f70048fcf83ea6339a3141992cb18824bcde12d"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-collision-return-r10-review-1-input-validation-v1.json",
+      "bytes": 577,
+      "sha256": "26f3e09f6c01387152b77c29a13facb8d1b8f6ec80cd0475a000d0d3f45edbc5"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-collision-return-r10-review-1-metadata-v1.json",
+      "bytes": 1970,
+      "sha256": "deda4d1e64fd51d0ebcecdd7e3683c1a161e30d86d68ea0809238743a45ac72a"
+    }
+  ],
+  "author": {
+    "path": "problems/2022-B4/notes/reasoning-collision-return-r10-freeze-v1.json",
+    "bytes": 2891,
+    "sha256": "63f7e02fde4454421e66126bd4ba8decdd23c7dfe24367bed2f132710d30d4f4"
+  },
+  "own_parent": {
+    "path": "problems/2021-B4/reviews/reasoning-center-return-r22-review-1-manifest-v1.json",
+    "bytes": 3282,
+    "sha256": "5ef00d6fc52ad1dfca0e58cd36676b66fe0102e470278fc7532d1bc886a6b7e7"
+  },
+  "effective_guard_summary": {
+    "occurrences": 83,
+    "unique_paths": 79,
+    "canonical_deduplicated_sha256": "e993773c8a56b0ea74bb6efbe9c7b009302749811d37f755f75a38673021ad67"
+  },
+  "FULL_final_MODEL_ALL10_payload_readback_completed": true,
+  "FULL_manifest_model_readback_then_SEPARATE_readonly_verify_required": true,
+  "NO_NEW_corresponding_peer_findings_files_inventory_hash_metadata_access": true,
+  "findings_EMBARGO_until_explicit_BOTH": true,
+  "mathematical_program": false,
+  "old_shared_Git_cache_bytes_changed": false
+}

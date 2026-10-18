@@ -1,5 +1,7 @@
 # 2022 B4 research log
 
+08:40 update: RC10A–E is now proved, independently reviewed as a scoped partial after C/root TWO OTHER initially blind whole60 audits and full120 reconciliation. It constructs actual first-equality families with exactly2N strict sign changes, unbounded selected return slopes and every finite selected ordinary return word; it excludes eventually periodic exact selected SAFE words only. Infinite avoidance, one-sided nonreturn, universal hitting and the annual problem remain open. [Acceptance](reviews/reasoning-collision-return-r10-acceptance.md).
+
 
 D8 is now independently reviewed after TWO OTHER whole48 audits. It gives exact width8, ancestry mass7N+8m, logarithmic large-depth event counts and conditional large fresh sources. Universal hitting and infinite avoidance remain open. [Acceptance](reviews/reasoning-dynamics-return-r8-acceptance.md).
 

@@ -1,0 +1,102 @@
+{
+  "accepted_at_utc": "2026-10-18T22:36:40.762953+00:00",
+  "status": "proved, independently reviewed scoped partial result",
+  "whole_initials_blind": true,
+  "root_read_full_candidate_both_reports_all_ledgers_sources": true,
+  "unresolved_substantive_issues": 0,
+  "repair_required": false,
+  "candidate": {
+    "path": "problems/2022-B4/notes/reasoning-collision-return-r10-candidate-v1.md",
+    "bytes": 20330,
+    "sha256": "cc1dbec1dd63ebacde74814f0f61c55ffd66ef0908c581df83f9d0bed858100b"
+  },
+  "accepted_copy": {
+    "path": "problems/2022-B4/proofs/reviewed-reasoning-collision-return-r10-v1.1.md",
+    "bytes": 25447,
+    "sha256": "269bb65792e1c31159b4443726af84083657fe73e8a1440e3cc72ee0c9c99989"
+  },
+  "verification_metadata": [
+    {
+      "path": "problems/2022-B4/notes/reasoning-collision-return-r10-freeze-v1.json",
+      "bytes": 2891,
+      "sha256": "63f7e02fde4454421e66126bd4ba8decdd23c7dfe24367bed2f132710d30d4f4"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-collision-return-r10-baseline-v1.json",
+      "bytes": 6534,
+      "sha256": "78904c27cd419b558c4fffd7c0e337dd973828d4a3cc348bf8ae8ebed2859704"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-collision-return-r10-metadata-v1.json",
+      "bytes": 1476,
+      "sha256": "ed63017c850ce1bdfa23156d2985478a5e985738fd13f175596884e01251c958"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-collision-return-r10-sources-v1.json",
+      "bytes": 3613,
+      "sha256": "d9e618dd03047960a91fe46eeeb71ac7cb2d4afb14dba6cb5abc9b0efe134950"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-collision-return-r10-review-1-manifest-v1.json",
+      "bytes": 3336,
+      "sha256": "6f911026df258a3ec5c6c95549aaa5b8a0e197ac71a12a8c85ad0cb2158b9a1c"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-collision-return-r10-review-1-baseline-v1.json",
+      "bytes": 5384,
+      "sha256": "d9d902dd3a4a920570fc780d1f70048fcf83ea6339a3141992cb18824bcde12d"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-collision-return-r10-review-1-input-validation-v1.json",
+      "bytes": 577,
+      "sha256": "26f3e09f6c01387152b77c29a13facb8d1b8f6ec80cd0475a000d0d3f45edbc5"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-collision-return-r10-review-1-metadata-v1.json",
+      "bytes": 1970,
+      "sha256": "deda4d1e64fd51d0ebcecdd7e3683c1a161e30d86d68ea0809238743a45ac72a"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-collision-return-r10-review-1-sources-v1.json",
+      "bytes": 2783,
+      "sha256": "f1fe0ba7814863c939aa7588cfd80cf83818df1ff20f479655fd293eec31bcdb"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-collision-return-r10-review-2-manifest-v1.json",
+      "bytes": 4968,
+      "sha256": "9a4f0011bf44d95ed1803ece6bff48cc5782d3161983069327d643c00fbb062c"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-collision-return-r10-review-2-sources-v1.json",
+      "bytes": 2005,
+      "sha256": "8951e554a901a4a7a02ab96d53561b23cac7b41d73e40deef5f52a6fbfa4684c"
+    }
+  ],
+  "record_occurrences_verified": 86,
+  "unique_paths_verified": 47,
+  "constructor": "/root/review_2022_complexity_r2",
+  "whole_reviewers": [
+    "/root/review_2017_coarsening_r1",
+    "/root"
+  ],
+  "whole_obligations_per_review": 60,
+  "whole_review_files": [
+    11,
+    4
+  ],
+  "closed_scope_notes": [
+    8,
+    10
+  ],
+  "explicit_BOTH_entire_before_NEW_peer_access": true,
+  "root_read_ENTIRE_author_both_reviews_all_code_metadata": true,
+  "selected_families_complete_D9_return_classification": false,
+  "ordinary_first_hit_all_N_family": true,
+  "unbounded_actual_SAFE_slopes": true,
+  "finite_ordinary_word_realization": true,
+  "formal_code_is_ordinary_or_rational_floor_orbit": false,
+  "actual_infinite_avoider_or_termination": false,
+  "annual_open": true,
+  "priority_claim": false,
+  "no_mathematical_program_or_old_replay": true
+}
