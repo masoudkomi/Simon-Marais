@@ -1,5 +1,8 @@
 # 2017 B4 research log
 
+
+R10 is now independently reviewed after TWO OTHER whole60 audits. Actual singleton and layered classes give sharp multiplicity asymptotics and a precise obstruction to uniform word-to-class reweighting. The official scalar value remains open. [Acceptance](reviews/reasoning-path-mass-return-r10-acceptance.md).
+
 ## Research significance and connections
 
 Opening overview updated 2026-10-18. The target is the exponential growth rate

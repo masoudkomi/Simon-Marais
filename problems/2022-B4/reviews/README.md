@@ -1,5 +1,7 @@
 # 2022 B4 independent reviews
 
+D8 is now independently reviewed after TWO OTHER whole48 audits. It gives exact width8, ancestry mass7N+8m, logarithmic large-depth event counts and conditional large fresh sources. Universal hitting and infinite avoidance remain open. [Acceptance](reasoning-dynamics-return-r8-acceptance.md).
+
 The new [D7A–D actual-ancestry result](reasoning-dynamics-return-r7-acceptance.md)
 is **proved, independently reviewed scoped partial result** after root/A
 TWO OTHER ENTIRE WHOLE48/48 and full96-disposition reconciliation.

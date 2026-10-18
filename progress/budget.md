@@ -1,5 +1,15 @@
 # Weekly budget
 
+ACTUAL02:27 hourly report delivered02:43Brisbane: [all-nine update](status-2026-10-19-0227.md).
+52%TOTAL at16:43:13UTC/current authorized1792874445 only through90%TOTAL/reserve.
+R10/D8 newly accepted after BOTH OTHER ENTIRE whole60/48 audits and full reconciliation.
+SQ15v1.1/SQ14v1.1 repairs UNVERIFIED; affected whole reaudits underway; old bytes/root misses preserved.
+R9 UNVERIFIED/OTHERwhole2 ENTIRE frozenEMBARGO/rootwhole1 active.
+Raw total2,717,817,054/reasoning7,400,574 at16:30:12.140819UTC; not billing/quota conversion.
+OWNawake79293 OS verified16:30:12UTC. Next actual hourly17:27:30UTC.
+Two complete annual answers/seven unresolved. Hand reasoning continues.
+
+
 Current02:16Brisbane checkpoint: [DR7 accepted](../problems/2025-B4/reviews/reasoning-diagonal-return-r7-acceptance.md)
 after TWO OTHER ENTIRE WHOLE48/48 and full reconciliation; large factors/annual open.
 [SQ15 repair required](../problems/2020-B4/reviews/reasoning-class-return-sq15-coordinator-reconciliation-v1.md)

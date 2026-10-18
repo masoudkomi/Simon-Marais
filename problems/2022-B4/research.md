@@ -1,5 +1,8 @@
 # 2022 B4 research log
 
+
+D8 is now independently reviewed after TWO OTHER whole48 audits. It gives exact width8, ancestry mass7N+8m, logarithmic large-depth event counts and conditional large fresh sources. Universal hitting and infinite avoidance remain open. [Acceptance](reviews/reasoning-dynamics-return-r8-acceptance.md).
+
 ## Research significance and connections
 
 Opening overview updated 2026-10-18. The question is an exact reachability

@@ -1,5 +1,7 @@
 # 2017 B4 independent reviews
 
+R10 is now independently reviewed after TWO OTHER whole60 audits. Actual singleton and layered classes give sharp multiplicity asymptotics and a precise obstruction to uniform word-to-class reweighting. The official scalar value remains open. [Acceptance](reasoning-path-mass-return-r10-acceptance.md).
+
 The new [PM9A–PM9C moment/interpolation bound](coordinator-path-moment-r3-acceptance.md)
 is **proved, independently reviewed scoped partial result** after C/B
 TWO OTHER initially blind ENTIRE WHOLE48/48 audits and full96-disposition

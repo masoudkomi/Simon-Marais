@@ -15,13 +15,13 @@ stated signed residual sector; large factors and the annual equation remain open
 The related [SQ14D/E universal ideal-order clauses are on hold](problems/2020-B4/reviews/reasoning-arithmetic-return-r14-scope-hold-v1.md)
 pending versioned correction and BOTH affected reaudits. Fractional ideals
 invalidate the unqualified reading; old records/root misses are preserved.
-NEW2017R10 and2022D8 remain unverified with OTHER whole audits active/queued;
-2024R9 geometric research continues. Weekly50%TOTAL at16:10:33UTC,
+2017R10 and2022D8 are now independently reviewed scoped partials;
+2024R9 remains unverified under whole review. Weekly52%TOTAL at16:43:13UTC,
 reset1792874445; continue to90%TOTAL with reserve in this authorized window.
 
 - [Latest continuing checkpoint](progress/checkpoint-2026-10-19-0216.md).
-- [Latest actual hourly report](progress/status-2026-10-19-0127.md).
-  Next actual hourly/token/owned-awake check16:27:30UTC.
+- [Latest actual hourly report](progress/status-2026-10-19-0227.md).
+  Next actual hourly/token/owned-awake check17:27:30UTC.
 
 - [Dashboard](progress/dashboard.md): per-problem status, results, obstructions, next steps and reviews.
 - [Budget and telemetry](progress/budget.md): observed weekly usage and reset boundary.

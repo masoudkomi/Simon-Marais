@@ -1,0 +1,74 @@
+{
+  "frozen_at_utc": "2026-10-18T16:15:35.991509+00:00",
+  "status": "OTHER initially blind ENTIRE WHOLE2 review",
+  "reviewer": "/root/review_2021_reasoning_j15_r2",
+  "ALL_obligations": 60,
+  "payload_files": 10,
+  "ENTIRE_files": 11,
+  "FULL_final_ALL10_payload_model_readback_completed": true,
+  "FULL_manifest_model_readback_then_SEPARATE_readonly_verify_REQUIRED": true,
+  "findings_embargo_until_explicit_BOTH_ENTIRE": true,
+  "NEW_corresponding_root_peer_content_access": false,
+  "compact_baseline": {
+    "path": "problems/2017-B4/reviews/reasoning-path-mass-return-r10-review-2-baseline-v1.json",
+    "bytes": 7267,
+    "sha256": "f166d1f677f4bfde52d67bd662d27343f4e3cec4db614270dadb643f1a4398ef"
+  },
+  "compact_current_protection": {
+    "occurrences": 67,
+    "unique_paths": 50,
+    "canonical_sha256": "bd8cf4d6e61bdd267866aca4ccb328a57b145b492f6888ed0078a0d356b1a051"
+  },
+  "payloads": [
+    {
+      "path": "problems/2017-B4/reviews/reasoning-path-mass-return-r10-review-2-initial-v1.md",
+      "bytes": 14332,
+      "sha256": "92fbc31e7df05914862b10702dfab0f693400a5915edefc4674d82cce05b7244"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-path-mass-return-r10-review-2-ledger-v1.md",
+      "bytes": 7364,
+      "sha256": "936a9fdbf5e3d171e521db06b8fca00fa45bbdee76f69233c9653ea984d6f91d"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-path-mass-return-r10-review-2-issues-v1.md",
+      "bytes": 3625,
+      "sha256": "14f3795939ceebc355e4bed2207927fe54c5f53e5206960fe8ed2f2edc8e24b9"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-path-mass-return-r10-review-2-sources-v1.md",
+      "bytes": 6488,
+      "sha256": "1fade418dc2928a46c163825e3a4686a27aea2f37ab8529faa58b92f83b33016"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-path-mass-return-r10-review-2-sources-v1.json",
+      "bytes": 3175,
+      "sha256": "f4b0adfdbc3204e440989d8b277843cc0684d639211828818180bd51626c7b52"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-path-mass-return-r10-review-2-worklog-v1.md",
+      "bytes": 4501,
+      "sha256": "11eb7c6311aeff946263edcec10bdc0feb46b6fe95c395f6948f23fdc882021c"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-path-mass-return-r10-review-2-admin-v1.py",
+      "bytes": 12575,
+      "sha256": "e41dd644150136607dbfa9c93ff0aa84454870f6ca736144564a7b536d7c8e8a"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-path-mass-return-r10-review-2-baseline-v1.json",
+      "bytes": 7267,
+      "sha256": "f166d1f677f4bfde52d67bd662d27343f4e3cec4db614270dadb643f1a4398ef"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-path-mass-return-r10-review-2-input-validation-v1.json",
+      "bytes": 519,
+      "sha256": "57bbb7353e758a2c9ec8ca11806cefe1de1375b543cf4b9442a4fe5a90c2abe6"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-path-mass-return-r10-review-2-metadata-v1.json",
+      "bytes": 1955,
+      "sha256": "893365461f5b62a8a5f56914e1aab8535f11b6dfcac4175e62d3555d640fd1e8"
+    }
+  ]
+}

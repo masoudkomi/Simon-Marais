@@ -1,0 +1,74 @@
+{
+  "frozen_at_utc": "2026-10-18T16:24:31.279927+00:00",
+  "status": "OTHER initially blind ENTIRE WHOLE2 review",
+  "reviewer": "/root/review_2021_reasoning_j15_r2",
+  "ALL_obligations": 48,
+  "payload_files": 10,
+  "ENTIRE_files": 11,
+  "FULL_final_ALL10_payload_model_readback_completed": true,
+  "FULL_manifest_model_readback_then_SEPARATE_readonly_verify_REQUIRED": true,
+  "findings_embargo_until_explicit_BOTH_ENTIRE": true,
+  "corresponding_NEW_root_peer_content_access": false,
+  "compact_baseline": {
+    "path": "problems/2022-B4/reviews/reasoning-dynamics-return-r8-review-2-baseline-v1.json",
+    "bytes": 8706,
+    "sha256": "199891d8565a613d67deeb2e5bfbdfcdcef77893944cecfcdddbe75483fe98a4"
+  },
+  "compact_current_protection": {
+    "occurrences": 74,
+    "unique_paths": 58,
+    "canonical_sha256": "38111fef3e7aa11baa09991319ebcb1a3b3ae428bd1a209db1a459d77f49a3cb"
+  },
+  "payloads": [
+    {
+      "path": "problems/2022-B4/reviews/reasoning-dynamics-return-r8-review-2-initial-v1.md",
+      "bytes": 15336,
+      "sha256": "72960adedea9f635594cca372d625e059348ae4f0f2df6a6a803ded7d2d4702e"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-dynamics-return-r8-review-2-ledger-v1.md",
+      "bytes": 6351,
+      "sha256": "62ffd5f7e4ec55e3361d1cb21a373c145953465214938348cd4db146dfcec1e8"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-dynamics-return-r8-review-2-issues-v1.md",
+      "bytes": 3355,
+      "sha256": "ad5d3b2dad58b5f2f1a44a50f3f91e2f8e378b2f2c8b3bb5dfb42a780fd5ffbc"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-dynamics-return-r8-review-2-sources-v1.md",
+      "bytes": 6427,
+      "sha256": "445d3ca7f7ed762d2f46f43d8abe0ab31ae51e3b79b3f6d1538e3a8eeaa6b263"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-dynamics-return-r8-review-2-sources-v1.json",
+      "bytes": 2695,
+      "sha256": "37ef999ae1ead98b015bfe664d68c1dca461a6db89b39fae0444d39c50917ca5"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-dynamics-return-r8-review-2-worklog-v1.md",
+      "bytes": 4276,
+      "sha256": "785a75ad355385f2fdfe999c6e2675923af41443ccf12046b1fa4cdd387e15d2"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-dynamics-return-r8-review-2-admin-v1.py",
+      "bytes": 11523,
+      "sha256": "14f09b9e21f2cc825dbaff824bfc05d30afda3ccb8f24ca13bd2ff1ae8ec3789"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-dynamics-return-r8-review-2-baseline-v1.json",
+      "bytes": 8706,
+      "sha256": "199891d8565a613d67deeb2e5bfbdfcdcef77893944cecfcdddbe75483fe98a4"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-dynamics-return-r8-review-2-input-validation-v1.json",
+      "bytes": 488,
+      "sha256": "9e65683600768fc639fdf9351ea2e1e820d26bf47fbb70ea2de1bac02a2608f9"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-dynamics-return-r8-review-2-metadata-v1.json",
+      "bytes": 2024,
+      "sha256": "edf47252cbeb96360917054eefa8c7ef322d0d74bef445332534f04b79052db6"
+    }
+  ]
+}
