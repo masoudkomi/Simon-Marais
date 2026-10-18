@@ -1,5 +1,7 @@
 # 2020 B4 independent reviews
 
+The FULL corrected SQ14 INTEGRAL-domain theorem is now independently reviewed after BOTH OTHER affected whole76 audits and complete152-disposition reconciliation. Only the NEW accepted v1.2 copy governs D/E use; the old false fractional wording, historical hold and both original review misses remain preserved. Fractional TD/Gamma are unchanged. No numerical class quotient/full norm-q cancellation or annual answer follows. [Corrected acceptance](reasoning-arithmetic-return-r14-repair-v1.1-acceptance.md).
+
 The FULL SQ15 v1.1 integral-domain version is now independently reviewed after BOTH OTHER affected whole60 audits and complete120-disposition reconciliation. It proves actual endpoint rigidity, integral norm2 class-order restrictions and actual conjugate/orbit costs. The original false fractional extension and root miss remain preserved. The separate SQ14D/Ehold remains active pending its own complete repair reviews; full annual classification is open. [Acceptance](reasoning-class-return-sq15-acceptance.md).
 
 Current19October2026: [SQ15 remains UNVERIFIED after a required scope objection](reasoning-class-return-sq15-coordinator-reconciliation-v1.md).

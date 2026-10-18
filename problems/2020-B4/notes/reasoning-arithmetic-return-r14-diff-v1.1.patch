@@ -1,0 +1,923 @@
+--- problems/2020-B4/notes/reasoning-arithmetic-return-r14-candidate-v1.md
++++ problems/2020-B4/notes/reasoning-arithmetic-return-r14-candidate-v1.1.md
+@@ -1,9 +1,12 @@
+ # Small square norms, ordinary principality and actual class separation
+ 
+-18 October 2026 UTC. **Candidate proof - unverified.** Constructor B,
++18 October 2026 UTC. **Candidate proof - unverified, FULL author repair v1.1.** Constructor B,
+ /root/review_2022_complexity_r2. Requested inherited gpt-6.1-sol/max;
+ independently verified effective readback unavailable. Root assigned a
+-generic target and supplied no NEW proof inference. B is excluded from
++generic target and supplied no original SQ14 proof inference. This v1.1
++responds to a subsequently relayed integral-versus-fractional domain defect;
++its attribution and actual counterexample are preserved in Section7.
++B is excluded from
+ the TWO OTHER initially blind ENTIRE WHOLE audits required before any
+ coordinator acceptance. Only open2020 B4(b) is investigated.
+ 
+@@ -14,10 +17,11 @@
+ fixed field its coefficients are constant on actual multiplier orbits.
+ Two integer moment equations then force rationality if |T|>=2a.
+ 
+-Squaring a principal balanced ideal removes the unit defect while
++Squaring a principal INTEGRAL balanced ideal removes the unit defect while
+ preserving I^2. The small-square result then proves ordinary
+-nonprincipality of low nonsquare balances WITHOUT an odd class-number
+-hypothesis. It also separates actual balanced ideals in the refined
++nonprincipality of INTEGRAL ideals at low nonsquare balances WITHOUT an
++odd class-number hypothesis. It also separates actual INTEGRAL balanced
++ideals in the refined
+ quotient, giving a finite-box injection rather than merely nonvanishing
+ of arbitrary labels. A mixed order with least prime at most7 has an
+ explicit application. No new numerical taut order, unrestricted
+@@ -46,6 +50,18 @@
+ pairs. V retains Gamma=C^c/S, of exponent at most2; it is not
+ silently replaced by the ordinary minus subgroup Cminus.
+ 
++A balanced norm-a IDEAL means the equation I*c(I)=(a), with rational
++integer a>0; this relative scalar is NOT the absolute ideal norm. That
++equation ALONE does not make I integral. A nonzero INTEGRAL ideal here
++means I contained in O_F, equivalently EVERY finite prime valuation is
++nonnegative. A fractional ideal may have negative valuations. Every
++quantified INPUT ideal in SQ14B/C and EVERY J, x=[J], R, y=rho(J,ell), r and application in
++SQ14D/E are explicitly attached to INTEGRAL ideals. This is an essential
++hypothesis, not a harmless default convention. The broader auxiliary TD1
++construction still allows fractional ideals and denominators, and is not
++being redefined. Section7 proves why the unqualified v1 D/E wording is
++false for that broader domain.
++
+ For statements involving a pre-existing ACTUAL set, centering and
+ T-stability remain explicit. An arbitrarily enlarged odd T is not
+ automatically a stabilizer. The known generated subgroup can be used
+@@ -60,7 +76,9 @@
+   the canonical class in V, additive and negated by conjugation.
+   Its zero is EQUIVALENT to an exact norm-a integral generator of
+   THIS SAME ideal. It uses a FIELD norm first and retains even-class
+-  UNIT obstruction. Also kappa(rho(I,a))=[I], with kernel Gamma,
++  UNIT obstruction. On a fractional balanced ideal its zero supplies only
++  a FIELD generator; that generator is integral IF the same ideal is
++  integral. Also kappa(rho(I,a))=[I], with kernel Gamma,
+   and |V|=h(F)/h(E).
+ * The general-a exponent box and actual offset needed below are
+   reconstructed directly from TD1, rather than asserted only from
+@@ -77,8 +95,10 @@
+ 
+ B authored older R4/R5/R7/R8/A11/TD/L13 and reviewed A9 and other
+ accepted inputs. Their TWO OTHER acceptance is imported in stated scope,
+-not fresh independent self-recertification. No new2020 inference was
+-supplied by root/another worker. Corresponding NEW2019 BT peer files,
++not fresh independent self-recertification. The original SQ14 construction
++received no new proof inference from root/another worker; the later
++diagnostic relay is explicitly acknowledged in Section7. The original
++corresponding NEW2019 BT peer files,
+ findings, hashes and metadata remain unread. All old bytes are preserved.
+ 
+ Group-ring orthogonality is classical weighing-matrix theory, not a new
+@@ -131,8 +151,10 @@
+ 
+ At a1 the empty support gives one ideal and both lower bounds1.
+ 
+-**SQ14D, actual ordinary/refined orders.** For ANY balanced norm-ell
+-ideal J, ell|q, let x=[J] in Cminus,R=ord(x), y=rho(J,ell),r=ord(y).
++**SQ14D, actual INTEGRAL ordinary/refined orders.** For EVERY nonzero
++INTEGRAL balanced norm-ell ideal J, ell|q, let x=[J] in Cminus,
++R=ord(x), y=rho(J,ell), r=ord(y). These R,y,r refer ONLY to this
++specified INTEGRAL J.
+ Orders1 are allowed in these definitions. Then
+ 
+     s<=2ell^R-1;                                    (6)
+@@ -140,13 +162,14 @@
+     r even IMPLIES s<=2ell^(r/2)-1.                  (7)
+ 
+ For mixed q the odd inequality is strict. In particular 2ell<=s
+-forces EVERY such x nonzero and EVERY such y outside V[2].
++forces EVERY such x, from an INTEGRAL J, nonzero and EVERY such y outside
++V[2]. No statement is made for arbitrary fractional J or its orders.
+ No unknown full class-group size/exponent is declared favorable.
+ 
+ **SQ14E, mixed small-prime application.** If q is not a prime power
+ and its least prime ell<=7, necessarily s>=15>2ell. Thus EVERY
+-balanced norm-ell ideal is ordinary nonprincipal and its refined label
+-is outside V[2]. In particular V is NOT of exponent at most2, and
++INTEGRAL balanced norm-ell ideal is ordinary nonprincipal and its refined
++label is outside V[2]. The quantifier is not over fractional ideals. In particular V is NOT of exponent at most2, and
+ 
+     |V|>=2^d.                                      (8)
+ 
+@@ -155,7 +178,8 @@
+ 
+     |V|>=2^ceil(q/2).                               (9)
+ 
+-For ell2, (6) and s>=15 force EVERY ordinary R>=3.
++For ell2, (6) and s>=15 force EVERY ordinary R of an INTEGRAL
++balanced norm2 ideal to be at least3.
+ These are arithmetic restrictions, not free formal-class assignments.
+ No new q is shown to violate them; a large mixed norm-q product remains.
+ 
+@@ -273,24 +297,31 @@
+ identified with |V| at even class number, and the stronger threshold
+ is explicitly paid. Empty products a1 yield one ideal throughout.
+ 
+-## 4. Orders of actual specified prime-balance ideals
+-
+-A balanced norm-ell ideal J selects one prime with exponent1 in
+-every conjugate pair. For EVERY positive u, J^u is NOT rational:
+-the paired exponents are u,0, not equal exponents of a rational ideal.
+-
+-If R is the ordinary order, J^R is principal balanced of norm ell^R.
++## 4. Orders of actual specified INTEGRAL prime-balance ideals
++
++Fix a nonzero INTEGRAL ideal J with J*c(J)=(ell), ell|q. At each
++conjugate pair the two nonnegative integer valuations sum to1; outside
++ell, integrality and balance force both valuations0. Thus J selects
++one prime with exponent1 in EVERY pair and no other support. For EVERY
++positive u, J^u is INTEGRAL and NOT rational: the paired exponents are
++u,0, not equal exponents of a rational ideal. The fractional equation
++alone would not bound the valuations to0 or1.
++
++If R is the ordinary order of THIS INTEGRAL J, its power J^R is
++INTEGRAL principal balanced of norm ell^R.
+ If s>=2ell^R, SQ14B would make it rational, contradiction. This proves
+ s<2ell^R, equivalently the exact integer (6), including R1.
+ 
+-If r is the refined order, TD1 supplies an integral generator beta
+-of J^r with norm ell^r. For odd r it is nonsquare, and published A9A
++If r is the refined order of THIS INTEGRAL J, additivity gives
++rho(J^r,ell^r)=0. TD1 supplies an exact generator beta of SAME J^r;
++beta is INTEGRAL because J^r is integral, not merely because rho is0.
++It has norm ell^r. For odd r it is nonsquare, and published A9A
+ gives ell^r>=q. At mixed q equality would make q a power of ell, so
+ ell^r>q. For even r put a=ell^(r/2). The SAME ideal J^r is not
+ rational, so beta cannot be +/-a. SQ14A gives s<=2a-1. This proves
+ (7) without silently imposing oddness on C,V,R or r.
+ 
+-When 2ell<=s, SQ14B makes J ordinary nonprincipal. Its refined label
++When 2ell<=s, SQ14B makes THIS INTEGRAL J ordinary nonprincipal. Its refined label
+ cannot have order1 (TD1 would principalize J) or order2 (SQ14A would
+ make a norm-ell^2 generator of J^2 rational). Thus y is outside V[2].
+ This controls an ACTUAL LOW-NORM possible ambiguous-unit component;
+@@ -308,10 +339,12 @@
+     ell^(s/3)>=p+1>q^2>ell^4.
+ 
+ Strict monotonicity gives s/3>4. As s is odd and divisible by3,
+-s>=15. For ell<=7, s>2ell. SQ14B--D and the actual existence of a
+-balanced J by complete splitting give every assertion in (8):
+-ordinary nonprincipality, y outside V[2], V not of exponent1 or2,
+-and |V|>=2^d. No class computation or actual set was presumed.
++s>=15. For ell<=7, s>2ell. SQ14B--D and the actual existence of an
++INTEGRAL balanced J by complete splitting give every assertion in (8):
++ordinary nonprincipality and y outside V[2] for EVERY such INTEGRAL J,
++V not of exponent1 or2, and |V|>=2^d. Existence means selecting the
++literal0/1 valuations in each split pair, not choosing a principal
++fractional ideal furnished by field-norm solubility. No class computation or actual set was presumed.
+ 
+ If a centered T-stable set D is additionally ACTUAL, its q+1 points
+ are possible0 plus nonzero orbits of size s. It contains nonzero
+@@ -322,14 +355,17 @@
+ 
+ and integer d>=ceil(q/2). This gives (9). An enlarged T was not
+ called an actual stabilizer, and (9) is only necessary. For ell2,
+-R<=2 would give 2ell^R<=8<s, contradicting (6); hence R>=3.
++R<=2 for an INTEGRAL norm2 J would give 2ell^R<=8<s, contradicting
++(6); hence every such R>=3.
+ 
+ ## 6. Advance, failure boundaries and unfinished arithmetic
+ 
+ SQ14B controls ordinary principality at low balance even at even
+ class number; SQ14C separates ACTUAL low-norm ideals rather than
+ arbitrary formal class labels. SQ14D/E rule out some arithmetic
+-2-torsion patterns that a bare abstract minimal-sequence model permits.
++2-torsion patterns of the specified INTEGRAL prime-balance ideals that a
++bare abstract minimal-sequence model permits. They impose no analogous
++nonprincipality or order bound on arbitrary balanced fractional ideals.
+ They neither evaluate a new class group nor eliminate the full
+ genuinely mixed norm-q product.
+ 
+@@ -353,3 +389,78 @@
+ pending TWO OTHER whole adversarial audits and coordinator-only
+ reconciliation. Every earlier byte remains unchanged.
+ 
++
++## 7. Preserved fractional diagnostic and exact repair boundary
++
++The frozen v1 header/application and SQ14D/E did not consistently say
++INTEGRAL, and Section0 did not impose that restriction. Taken literally
++for fractional ideals, those clauses are FALSE. Their proof silently used
++nonnegative prime valuations and integral generators. This v1.1 is a
++substantive domain correction; neither the v1 bytes nor the two initial
++reviews or historical acceptance copies are silently edited.
++
++Root relayed A's SQ15-review counterexample q8,p73,T=<2>,s9 and C's
++observation that the same missing qualifier occurs in SQ14. B now gives
++the following full hand reconstruction using the accepted TD1 field-norm
++and fractional-label meaning. This is attribution, not a claim that B
++first discovered the example or that the old reviews had caught it.
++No SQ15 peer file, finding packet, filename inventory, hash or metadata
++was accessed to make this repair; only the explicit root relay was used.
++
++Take q=8, p=8^2+8+1=73. The number73 is prime: its only possible prime
++divisors at most sqrt73 are2,3,5,7, none divides73. Modulo73,
++2^9=512=1 while2^3=8!=1, so ord_73(2)=9. Thus T=<2> is odd of
++size9, contains every prime divisor of q, and its fixed field F has
++degree72/9=8, with E=F^c of degree4 and F/E cyclic quadratic.
++
++The positive rational integer2 IS a FIELD norm from F/E. This follows
++already from the complete accepted TD1/A9B field-norm proof. All places
++can also be checked directly here. The prime2 splits completely in F,
++since its cyclotomic Frobenius belongs to T, so the places over2 are
++split in F/E. At every other finite place away from73 the extension is
++unramified or split and2 is a unit, so unramified unit norm surjectivity
++applies. At73,32^2=1024=2 modulo73. Hensel's lemma lifts that nonzero
++square root to Q_73; this element in E_v has relative norm its square2.
++At every infinite place of E, positivity makes2 a norm from C to R.
++The CYCLIC Hasse norm theorem therefore gives an ACTUAL z in F^* with
++
++    z*c(z)=2.                                      (14)
++
++This invocation is attributed to the source and accepted TD1; its full
++CFT foundations are not newly reconstructed. It gives a field element
++with possible denominators, not a free formal ideal class assignment.
++
++Set J_frac=(z). It is a principal FRACTIONAL balanced norm2 ideal.
++Its ordinary class is0, hence R_frac=1. In TD1's literal fractional
++construction choose this same z as the field norm witness; J_frac/(z)
++is the unit ideal, so its canonical rho(J_frac,2) is0 and its refined
++order is r_frac=1. The unqualified v1 ordinary inequality would say
++9<=2*2^1-1=3, which is false. Its unqualified odd-refined-order clause
++would say2>=q8, also false. Since2ell=4<=s9, the unqualified assertions
++x!=0 and y outside V[2] fail too. These are counterexamples to the
++literal unrestricted domain, not to the repaired integral theorem.
++
++J_frac is genuinely NONINTEGRAL. If it were integral then z would be
++an algebraic integer in F and hence in Z[zeta_73]. The published
++Leung--Schmidt nonsquare norm bound, equivalently complete accepted
++A9A, would give73<=2^2+2+1=7, a contradiction. Thus (14) necessarily
++has denominators in this fixed field. No coefficients or class numbers
++were enumerated and no old certificate or source executable was run.
++
++Clearing denominators cannot rescue the old interpretation at balance2:
++if a positive rational integer b makes b*z integral, its relative norm
++is2b^2 and its ideal balance has CHANGED to(2b^2). Any square-rigidity
++or order application must pay that new scalar. The same abstract ideal
++class after a rational scaling does not preserve the specified balanced
++pair or canonical label argument at scalar2.
++
++The mathematical identities/proofs of SQ14A--C and the exact thresholds
++are retained. SQ14D/E, their introduction, notation, powers, R/y/r,
++applications and obligations now explicitly require INTEGRAL J at every
++operative use. TD1's legitimate fractional construction and all earlier
++fractional diagnostics remain intact. The mixed-field inequalities and
++integral-box cardinalities are not extended to a larger ideal domain.
++This is a corrected candidate, not independent self-review or coordinator
++promotion: BOTH OTHER affected ENTIRE WHOLE audits of all original64
++and repair12 obligations are required. Until reconciliation this version
++remains UNVERIFIED. No old authority is rewritten by its author.
+--- problems/2020-B4/notes/reasoning-arithmetic-return-r14-obligations-v1.md
++++ problems/2020-B4/notes/reasoning-arithmetic-return-r14-obligations-v1.1.md
+@@ -1,6 +1,6 @@
+-# SQ14A--E whole-proof obligations
++# SQ14 v1.1 complete whole-proof and repair obligations — ALL76
+ 
+-18 October2026 UTC. Candidate proof - unverified. ALL64 must be
++18 October2026 UTC. Candidate proof - unverified. ALL original64 plus repair12 must be
+ reconstructed by TWO OTHER initially blind whole auditors; constructor B
+ is excluded. Each item concerns the ENTIRE argument in its exact scope.
+ 
+@@ -42,7 +42,7 @@
+ | SQ14-34 | Check B balance a² and rho zero by additivity/conjugation. |
+ | SQ14-35 | Use TD1 exact SAME-ideal generator iff, retaining Gamma. |
+ | SQ14-36 | Apply square rigidity then cancel cJ using JcJ=(a), proving I=J. |
+-| SQ14-37 | Reconstruct every supported norm-a balanced ideal via all conjugate prime pairs. |
++| SQ14-37 | Reconstruct every INTEGRAL supported norm-a balanced ideal via all conjugate prime pairs; do not include fractional valuations. |
+ | SQ14-38 | Count product_i(f_i+1)^d with correct independent pair indices and endpoints. |
+ | SQ14-39 | Reconstruct general-a actual offset and unhalved prime-class steps. |
+ | SQ14-40 | Do not infer an arbitrary abstract class assignment or divide the offset by2. |
+@@ -50,24 +50,41 @@
+ | SQ14-42 | Pay stronger2a²<=s and prove ordinary injection using SQ14B at a². |
+ | SQ14-43 | Locate ordinary image in Cminus without identifying its cardinality with V at even order. |
+ | SQ14-44 | Treat empty support/a1 for both injections and products. |
+-| SQ14-45 | Show every J^u, u>0, is nonrational from its literal paired exponents u,0. |
+-| SQ14-46 | Derive ordinary-order inequality s<=2ell^R-1 with R1 allowed. |
+-| SQ14-47 | Refined r gives exact integral generator of SAME J^r by TD1. |
++| SQ14-45 | For explicitly INTEGRAL prime-balance J, prove every J^u is integral and nonrational from its literal paired exponents u,0. |
++| SQ14-46 | For the SAME INTEGRAL J and its ordinary order R, derive s<=2ell^R-1 with R1 allowed. |
++| SQ14-47 | For the SAME INTEGRAL J, refined r gives an exact generator of SAME J^r; integrality follows from J^r, not from fractional rho0 alone. |
+ | SQ14-48 | Odd r invokes published NONSQUARE bound, yielding ell^r>=q. |
+ | SQ14-49 | At mixed q strictness follows from prime factorization; no qprime implication from indecomposability. |
+-| SQ14-50 | Even r invokes square rigidity at ell^(r/2), retaining nonrational ideal. |
+-| SQ14-51 | Under2ell<=s exclude ordinary class0 and refined orders1/2, not all global2-torsion. |
++| SQ14-50 | For INTEGRAL J and even r, apply square rigidity at ell^(r/2), retaining integral J^r and its nonrationality. |
++| SQ14-51 | Under2ell<=s exclude ordinary class0 and refined orders1/2 ONLY for specified INTEGRAL J, not fractional pairs or all global2-torsion. |
+ | SQ14-52 | For mixed least prime ell prove q>ell², not merely q>=ell. |
+ | SQ14-53 | Check cube roots1,q,q² are actual distinct residues modulo PRIMEp. |
+ | SQ14-54 | Rule out each ordinary integer value below p and equality p for ell^(s/3). |
+ | SQ14-55 | Derive ell^(s/3)>=p+1>q²>ell⁴ and s>=15 using oddness/multiple3. |
+ | SQ14-56 | Verify ell<=7 gives2ell<s, with no routine prime/order scan. |
+-| SQ14-57 | Use actual existence of balanced ideals to rule out exponent<=2 for V; no field computation presumed. |
++| SQ14-57 | Use actual existence of INTEGRAL balanced ideals to rule out exponent<=2 for V; no fractional principal field-norm ideal is substituted. |
+ | SQ14-58 | Prove unconditional |V|>=2^d within the stated arithmetic field domain. |
+ | SQ14-59 | For additionally ACTUAL T-stable D, prove s<=q+1 from nonzero orbits. |
+ | SQ14-60 | Derive d>=ceil(q/2) and necessary bound2^ceil(q/2), retaining actual-set hypothesis. |
+-| SQ14-61 | At ell2 derive every ordinary R>=3 from s>=15, with no class-group parity inference. |
++| SQ14-61 | At ell2 derive ordinary R>=3 for EVERY INTEGRAL prime-balance J from s>=15, with no fractional-domain or class-parity inference. |
+ | SQ14-62 | Keep low-balance/low-square control distinct from the unrestricted norm-q/annual gap. |
+ | SQ14-63 | Audit primary theorem hypotheses/read limits and classical attribution; no unread unique-difference/CW theorem import. |
+-| SQ14-64 | Preserve all old bytes/BT peer boundary; entire companions/code/metadata/readback/verify and TWO OTHER whole audits required. |
++| SQ14-64 | Preserve all old SQ14/initial-review/authority bytes; entire repaired companions/code/metadata/readback/verify and TWO OTHER affected whole76 audits required. |
+ 
++
++## Additional repair obligations — ALL12, together with original64
++
++| ID | Repair obligation |
++|---|---|
++| SQ14-R01 | Define balance as the relative ideal equation, integral ideals by all finite nonnegative valuations, and fractional ideals separately; retain TD1's legitimate fractional domain. |
++| SQ14-R02 | Bind EVERY header/introduction/claim/proof/application J,R,y,r and order assertion in D/E to INTEGRAL J, rather than relying only on a default convention. |
++| SQ14-R03 | Reconstruct the attributed q8,p73,T=<2>,s9,[F:Q]8 diagnostic with actual primality/order/CM hypotheses by hand. |
++| SQ14-R04 | Check split2, all unramified unit places, separate p73 Hensel square root and all infinite places before applying CYCLIC Hasse norm existence. |
++| SQ14-R05 | For the ACTUAL field-norm z, define fractional J=(z), prove its ordinary R1 and canonical refined rho0/r1 using the SAME z in TD1. |
++| SQ14-R06 | Preserve the exact false old conclusions9<=3,2>=8 and x!=0/y outside V[2]; do not label the omission merely cosmetic. |
++| SQ14-R07 | Prove J is genuinely nonintegral using published A9A at nonsquare norm2,p73; no literal fractional field element is fed into that integral theorem. |
++| SQ14-R08 | Explain why clearing denominators changes balance to2b² and cannot justify the old balance2 assertion even if ordinary class is unchanged. |
++| SQ14-R09 | Verify unchanged exact SQ14A--C formulas/proofs, integer lift/unit-square/box/threshold/empty endpoints and retained Gamma. |
++| SQ14-R10 | Reconstruct ALL D/E affected powers/generators/ordinary-refined orders/odd-even branches/least-prime and actual-set applications in their corrected integral domain. |
++| SQ14-R11 | Preserve exact source read limits, original A/root relay/C diagnostic attribution, both old initial misses, old author roles and new author-review exclusions. |
++| SQ14-R12 | Freeze complete full v1.1/diff/ledger/all76/source/log/admin/metadata, full final model readback and separate verify; no old authority repair by worker, no self-promotion, BOTH OTHER affected whole audits required. |
+--- problems/2020-B4/notes/reasoning-arithmetic-return-r14-constructor-checks-v1.md
++++ problems/2020-B4/notes/reasoning-arithmetic-return-r14-constructor-checks-v1.1.md
+@@ -1,6 +1,6 @@
+-# Hand constructor dispositions for ALL64 SQ14 obligations
++# Full v1.1 author hand dispositions — ALL original64 plus repair12
+ 
+-18 October2026 UTC. Candidate proof - unverified. These are the
++18 October2026 UTC. Candidate proof - unverified, author repair v1.1. These are the
+ constructor's checks, NOT an independent audit or coordinator promotion.
+ No mathematical executable, scan, CAS, routine test or certificate replay.
+ 
+@@ -42,7 +42,7 @@
+ | SQ14-34 | BcB=(a²),rhoB=rhoI-rhoJ by TD1. |
+ | SQ14-35 | TD1 gives exact generator of B, not a different class representative. |
+ | SQ14-36 | Both IcJ and JcJ equal(a), allowing ideal cancellation. |
+-| SQ14-37 | Each conjugate pair's two nonnegative exponents sum f_i; no other support. |
++| SQ14-37 | For INTEGRAL ideals, each conjugate pair's two nonnegative exponents sum f_i; no other support. Fractional balance alone does not imply this. |
+ | SQ14-38 | d pairs per rational prime, independent choices0..f_i, including all endpoints. |
+ | SQ14-39 | Multiply TD1 J/cJ representative by product P^u to get exact affine map. |
+ | SQ14-40 | Offset remains canonical; no half division or formal source of ideals. |
+@@ -50,24 +50,41 @@
+ | SQ14-42 | Its balance is a², so threshold really2a², not2a. |
+ | SQ14-43 | Each balanced class is anti-invariant; no odd-class cardinality formula used. |
+ | SQ14-44 | Norm1 integral ideal is O_F; products/counts1. |
+-| SQ14-45 | J^u has unequal u,0 in EVERY conjugate pair, unlike any rational ideal. |
+-| SQ14-46 | If s>=2ell^R ordinary rigidity would rationalize J^R; contradiction. |
+-| SQ14-47 | Additive refined order r invokes TD1 at supported ell^r. |
++| SQ14-45 | Explicitly INTEGRAL norm-ell J selects0/1 and no outside support, so J^u remains integral with unequal u,0 in EVERY pair. |
++| SQ14-46 | For SAME INTEGRAL J, J^R is integral/principal; if s>=2ell^R ordinary rigidity would rationalize it, contradiction. |
++| SQ14-47 | Additive refined order r invokes TD1 at supported ell^r; the generator is integral because the SAME J^r is integral. |
+ | SQ14-48 | Odd r is nonsquare, and monotone Phi3 comparison gives ell^r>=q. |
+ | SQ14-49 | Mixed q cannot equal ell^r by unique rational prime factorization. |
+-| SQ14-50 | Even r gives a=ell^(r/2); nonrational generator forces s<=2a-1. |
+-| SQ14-51 | Prime ell is nonsquare; principal J ruled out, and refined order2 would rationalize J². |
++| SQ14-50 | For INTEGRAL J, even r gives an integral nonrational generator at a=ell^(r/2), forcing s<=2a-1. |
++| SQ14-51 | For INTEGRAL prime-balance J, principal J is ruled out; refined order2 would rationalize its integral square J². No fractional assertion. |
+ | SQ14-52 | Mixed q has a prime larger than its least ell, so q>ell². |
+ | SQ14-53 | q has order3 and X³-1 has exactly three distinct roots1,q,q² modp. |
+ | SQ14-54 | Strictly1..p leaves only q/q², both impossible ell powers; p equality impossible. |
+ | SQ14-55 | s/3>4 and odd gives s>=15; every strict comparison recorded. |
+ | SQ14-56 | Twice7=14<15; no isolated cases calculated by a program. |
+-| SQ14-57 | Complete splitting supplies J; its actual y outside V[2] excludes exponent<=2. |
++| SQ14-57 | Complete splitting supplies an INTEGRAL0/1 J; its actual y outside V[2] excludes exponent<=2. A fractional field-norm ideal is not substituted. |
+ | SQ14-58 | Exact2^d balanced prime-norm ideals inject by SQ14C. |
+ | SQ14-59 | Actual D has a nonzero point and full size-s orbit; no full-M identity. |
+ | SQ14-60 | 2d=q(q+1)/s>=q, d integer; necessary count follows. |
+-| SQ14-61 | R1/2 would give2ell^R<=8<15, contradicting ordinary-order bound. |
++| SQ14-61 | For INTEGRAL norm2 J, R1/2 would give2ell^R<=8<15, contradicting the corrected ordinary-order bound. |
+ | SQ14-62 | Low threshold does not reach a=q; no unknown class group declared small/excluded. |
+ | SQ14-63 | Source record distinguishes complete operative LS proof from unused partial primary contexts. |
+-| SQ14-64 | NEW metadata-only preservation/freeze/readback/separate verify required before handoff; no peer/Git/old writes. |
++| SQ14-64 | New versioned metadata-only preservation/freeze/readback/separate verify required before handoff; original packets/initials/authorities unchanged, TWO OTHER affected whole76 audits required. |
+ 
++
++## Separate author repair dispositions — ALL12
++
++| ID | Hand reconstruction / scope |
++|---|---|
++| SQ14-R01 | Main0 explicitly separates relative balance from integrality and retains TD1's fractional auxiliary construction; the theorem does not redefine the class group as integral-only. |
++| SQ14-R02 | Intro, D/E statements, section4 J/powers/R/rho/r and section5 ell2/global applications all explicitly say INTEGRAL. Main6 excludes the fractional extension again. |
++| SQ14-R03 | q8,p73 is prime by possible small prime divisors2,3,5,7;2^9=1 mod73,2^3!=1 gives order9, and degree72/9=8. T is odd and F/E quadratic CM. |
++| SQ14-R04 | At2 the extension is split; away from2/73 the unit2 is an unramified/split norm;32²=2 mod73 gives a Hensel square root locally; positive2 is an infinite norm. Accepted TD1/cyclic Hasse gives actual z in F*. |
++| SQ14-R05 | J_frac=(z) is principal fractional with JcJ=(2), ordinary class0/order1. Choosing the SAME z in TD1 makes the ratio the unit ideal, rho0 and refined order1. |
++| SQ14-R06 | The old unqualified bounds become9<=3 and2>=8, both false, and labels0 contradict the unqualified nonzero/outside2-torsion clause. Literal v1 scope defect acknowledged. |
++| SQ14-R07 | If J_frac integral then z integral and A9A forces73<=7. Thus denominators are essential, and the integral theorem is used only in this contradiction. |
++| SQ14-R08 | Replacing z by b*z to clear denominators multiplies relative norm by b², giving2b²; it does not retain balance2 or the original specified pair. |
++| SQ14-R09 | Main sections1--3 and SQ14A--C displayed assertions are byte-identical to v1. Their integral beta/ideal/product assumptions, thresholds2a/2a², a1 and Gamma remain explicit. |
++| SQ14-R10 | J integral gives all powers integral; ordinary principal generator and refined SAME-ideal generator are then integral. Odd r uses only nonsquare A9A; even r uses SQ14A. Mixed s15, integral-box injection and additional actual-T condition are retained. |
++| SQ14-R11 | The example was relayed by root from A's SQ15 review; C flagged same SQ14 omission. Both old SQ14 initials inferred the intended integral setting and missed the literal unqualified claim. B remains author, not independent self-reviewer. Fresh source limits are recorded separately. |
++| SQ14-R12 | Entire versioned packet and exact textual diff preserve v1/all older files; NEW metadata only protects bytes and labels. Final readback/freeze/separate verify are prerequisites, TWO OTHER whole76 reaudits and coordinator reconciliation still required. |
+--- problems/2020-B4/notes/reasoning-arithmetic-return-r14-issues-v1.md
++++ problems/2020-B4/notes/reasoning-arithmetic-return-r14-issues-v1.1.md
+@@ -1,28 +1,30 @@
+-# SQ14 issue ledger and unresolved target
++# SQ14 v1.1 issues and candid repair boundary
+ 
+-18 October2026 UTC. Candidate proof - unverified. Constructor checks
+-are not independent review. No new result is promoted here.
++18 October2026 UTC. Candidate proof - unverified. Author B, not an
++independent reviewer. Both original initial packets and every old byte
++are preserved; this record does not overwrite their historical verdicts.
+ 
+-| ID | Concern | Disposition |
++| ID | Concern | Author disposition |
+ |---|---|---|
+-| SQ14-N1 | A field norm could be treated as an integral square-norm witness. | CLOSED in proposed proof: SQ14A starts with integral beta; TD1 supplies one only after exact refined zero. |
+-| SQ14-N2 | Ideal stability could replace element stability in coefficient orbits. | CLOSED: F membership fixes the ELEMENT; unique fixed augmentation then fixes the lift. |
+-| SQ14-N3 | Ordinary weighing-matrix theorems might assume0,+/-1. | CLOSED: all new moment proofs allow arbitrary integers; no restricted theorem is imported. |
+-| SQ14-N4 | The sign or full-group Fourier defect might be lost. | CLOSED: residue selects sign, uniform shift gives exact augmentation a, defect then0 by augmentation. |
+-| SQ14-N5 | Negative orbit coefficients might invalidate integer positivity. | CLOSED: c(c-1)>=0 for every integer. Two moments alone are NOT sufficient for full realization. |
+-| SQ14-N6 | Squaring units might silently correct the original ideal. | CLOSED: gamma²/epsilon generates I² only, then rigidity proves I² rational in LOW range. |
+-| SQ14-N7 | Even class number might be erased by using ordinary class0. | CLOSED: SQ14B proved directly; refined collision uses exact TD1, ordinary collision pays2a²<=s. |
+-| SQ14-N8 | Boundary s=2a-1 might be claimed solved. | CLOSED: only necessary one-coset pattern, no realization or preliminary construction. |
+-| SQ14-N9 | The mixed corollary could enlarge an actual stabilizer. | CLOSED: unconditional field assertions use fixed arithmetic T; class-size9 additionally states ACTUAL T-stability. |
+-| SQ14-N10 | Formal C2 compatibility in L13 might be called an actual contradiction. | CLOSED: SQ14E excludes those arithmetic patterns only with NEW actual field/least-prime/T hypotheses; old formal diagnostic remains valid. |
+-| SQ14-O1 | Does the actual norm-q finite box contain a zero at every surviving order? | OPEN; SQ14 does not control its full offset/mixed cancellation. |
+-| SQ14-O2 | Is a class order/exponent/size hypothesis violated at a new numerical q? | OPEN/UNEVALUATED; no new class-group computation or exclusion. |
+-| SQ14-O3 | Can the low range be extended to s=2a-1 or through a=q? | OPEN; no universal extension asserted. |
+-| SQ14-O4 | Composite conductor joint-integral recovery or unrestricted taut classification? | OPEN/outside new prime sector. |
+-| SQ14-O5 | Independent validity/acceptance of SQ14A--E? | PENDING TWO OTHER ENTIRE WHOLE audits and coordinator reconciliation. |
++| SQ14-FRAC-01 | Literal v1 D/E quantified over balanced ideals without an integral definition, although the proof used integral powers/generators. | SUBSTANTIVE defect in the unqualified domain. Full main v1.1 now explicitly restricts ALL D/E J/R/y/order/application clauses to INTEGRAL ideals. Pending BOTH OTHER affected whole76 audits. |
++| SQ14-FRAC-02 | A field-norm principal fractional ideal could be dismissed as only a formal countermodel. | Main7 gives an ACTUAL field element by all-place CYCLIC Hasse in q8,p73,s9; J=(z) is principal fractional with R=r1. No fictitious class tuple or numerical scan. |
++| SQ14-FRAC-03 | The fractional example might accidentally also be integral, invalidating the diagnosis. | If integral, published A9A at norm2 would force73<=7. Its denominators are essential. Clearing them changes balance to2b². |
++| SQ14-FRAC-04 | A default integral convention might hide another unqualified operative clause. | Main0 supplies explicit definitions, while the intro, each D/E theorem, section4 powers/R/r/y and section5 ell2/class-size applications repeat the qualification. Full textual diff and76 dispositions are supplied. |
++| SQ14-N1 | Integral beta versus a field norm. | SQ14A still starts in O_F. TD1's zero yields a generator integral only because the SAME ideal is integral. The old closed note did not catch the separate v1 D/E quantifier omission. |
++| SQ14-N2 | Ideal fixation might replace element fixation. | Unchanged square lift uses the ELEMENT in F and uniqueness at exact augmentation. |
++| SQ14-N3 | Arbitrary integer coefficients could be treated as0,+/-1. | Unchanged moments allow every integer; only c(c-1)>=0 is used. |
++| SQ14-N4 | Residue sign/full-group defect could be lost. | Exactly one sign, uniform shift and fixed augmentation retain exact defect0. |
++| SQ14-N5 | Negative coefficients or two moments could falsely establish realization. | Integer positivity is valid; endpoint moments remain only necessary. |
++| SQ14-N6 | Unit correction on I² could be replaced by one on I. | Unchanged beta=gamma²/epsilon preserves SAME I² only. No square root of a unit or global even-class correction. |
++| SQ14-N7 | Ordinary equality could imply refined equality at even class number. | Gamma retained; thresholds2a and2a² remain different. |
++| SQ14-N8 | Equality s=2a-1 might be classified. | Only a necessary one-coset pattern, no autocorrelation realization. |
++| SQ14-N9 | Arithmetic T might automatically stabilize an actual set. | Stronger exponential bound still explicitly needs ACTUAL centered T-stability. |
++| SQ14-N10 | A bare abstract two-torsion pattern might be an actual contradiction. | Only labels of actual specified INTEGRAL low-balance ideals are constrained. Unrelated Gamma/V[2] may remain. |
++| SQ14-O1 | Full norm-q offset/cancellation, new finite q or class-size violation. | OPEN/UNEVALUATED. No new numerical taut order or exclusion. |
++| SQ14-O2 | Composite conductor, unrestricted prime-power converse, annual answer or priority. | OPEN/outside the repaired partial. |
++| SQ14-O3 | Independent validity of full repaired SQ14A--E. | PENDING TWO OTHER initially blind ENTIRE WHOLE76 affected audits and coordinator reconciliation. |
+ 
+-No silent repair of old inputs is made. The proposed ordinary low-balance
+-result does not withdraw the old general even-class warning. It adds a
+-threshold which that warning did not assume. Every mathematical check
+-was by hand, with no routine cases/programs.
+-
++The original constructor and both original reviewers missed the literal
++domain defect. Their intended integral reconstructions do not retroactively
++make the unqualified fractional statement true. No old report/authority
++is silently edited, and no source theorem is refuted by this repair.
+--- problems/2020-B4/notes/reasoning-arithmetic-return-r14-failed-routes-v1.md
++++ problems/2020-B4/notes/reasoning-arithmetic-return-r14-failed-routes-v1.1.md
+@@ -1,6 +1,6 @@
+ # SQ14 failures, source limits and exact remaining inference
+ 
+-18 October2026 UTC. Candidate reasoning - unverified. All mathematics
++18 October2026 UTC. Candidate reasoning - unverified, FULL author repair v1.1. All mathematics
+ was by hand; no CAS, class/prime scan, table, routine test, executable
+ source/author or old certificate/freezer replay.
+ 
+@@ -49,7 +49,7 @@
+    explicitly requires the stronger2a²<=s.
+ 
+ 9. **Every abstract2-torsion pattern has now been ruled out.** The
+-   exclusion concerns actual balanced ideals at specified split primes
++   exclusion concerns actual INTEGRAL balanced ideals at specified split primes
+    under2ell<=s. Unrelated2-torsion/Gamma can still remain. The formal
+    L13 C2² example remains a valid group diagnostic without its missing
+    arithmetic hypotheses; it was never an actual field construction.
+@@ -75,3 +75,17 @@
+ published Leung--Schmidt nonsquare bound are attributed. The new scoped
+ consequences remain UNVERIFIED pending TWO OTHER whole reviews.
+ 
++
++13. **Balance alone implies integral prime-balance ideals.** FALSE. A
++    fractional ideal can have negative valuations even when J*c(J)=(ell).
++    The q8/p73/s9 actual field-norm principal ideal has ordinary R1 and
++    canonical rho0/refined order1, refuting unqualified v1 D. Main7 retains
++    the complete attributed diagnostic; D/E now explicitly require
++    INTEGRAL J throughout. This is a substantive scope repair, not a
++    tacit reinterpretation of old bytes or an independent self-review.
++
++14. **Clearing a fractional generator's denominators retains its norm.**
++    Multiplying z by a positive integer b changes N(z) to b²N(z).
++    Thus a fractional norm2 generator cannot be fed into the integral
++    balance2 theorem after scaling, even if its ordinary class stays0.
++    BOTH OTHER affected whole76 audits remain required for v1.1.
+--- problems/2020-B4/notes/reasoning-arithmetic-return-r14-sources-v1.md
++++ problems/2020-B4/notes/reasoning-arithmetic-return-r14-sources-v1.1.md
+@@ -1,3 +1,113 @@
++# SQ14 v1.1 precise repair sources and attribution
++
++18 October2026 UTC. Candidate proof - unverified, author B; NOT an
++independent reviewer. Requested inherited gpt-6.1-sol/max, effective
++independent readback unavailable. Both OTHER whole76 affected reviews
++and coordinator reconciliation are required.
++
++## Fresh repair read scope and literal defect
++
++The COMPLETE v1 main, all64 obligations/checks, issues/failures, source
++MDJSON/worklog and all original author code/metadata were freshly read
++as text; no old executable was run. Both COMPLETE original reports,
++ALL128 ledger dispositions, issues, source MDJSON and worklogs were
++freshly read, plus both frozen manifests. Their remaining administrative
++payloads are protected by exact declared fingerprints, not falsely
++credited as new mathematical model reads. Both original reviewers
++reconstructed the intended integral case and missed the literal v1
++D/E domain omission. Their old bytes/verdicts remain unchanged.
++
++Current local official2020(b) was freshly read. Only the open part is
++researched. Its old original-source comparison remains documented below;
++no fresh official PDF read is fabricated for this repair.
++
++COMPLETE accepted TD1--TD5 body35569B SHA
++f1663778cf78c18b3cb30a4702d7fbff95be29ab73c5f8e4f74d344362c8fba6
++and current MDJSON were freshly read, with all initially clipped text
++recovered by bounded1--249 and250--end reads. TD1 explicitly constructs
++rho on FRACTIONAL balanced pairs and makes its exact generator integral
++IF the specified ideal is integral. The canonical fractional label is
++not redefined by the repair. Its supported FIELD-norm proof checks all
++places and gives no automatic integrality.
++
++COMPLETE accepted A9 body24622B SHA
++ab2ee4e7a2dcfa464780c6144f996d683f08b7f04da63d2a77ee2fdd4ec922b8
++and current MDJSON were freshly read. A9A's complete prime-case proof
++and A9B's FIELD-norm clause are operative. A9B's separate odd-class
++UNIT correction is not imported with its hypothesis erased. A9F's
++elementary mixed multiplier estimate is reproduced in the SQ14 main.
++The historical L13 full-body read remains historical context; no fresh
++repair reread or new self-certification of that nonoperative body is
++claimed merely to expand preservation metadata.
++
++The full original SQ14 acceptance MDJSON was read as the historical
++record whose unqualified D/E language also requires coordinator scope
++correction. It is NOT proof that the now-identified fractional assertion
++is valid. The worker does not mutate that record or the accepted copy.
++
++## Fresh primary statements and supplied proofs
++
++[Kedlaya, Notes on Class Field Theory, Theorem7.2.10](https://kskedlaya.org/cft/sec_ideles-cohom2.html):
++fresh COMPLETE Hasse norm statement/supplied short proof/noncyclic warning,
++lines618--643. Its cyclic extension and ALL finite/infinite local norms
++are checked for the actual q8 fixed field. The complete underlying CFT
++and referenced cohomological foundation were NOT newly audited.
++
++[Kedlaya, Propositions4.2.4--4.2.5](https://kskedlaya.org/cft/sec_localcomp.html):
++fresh COMPLETE statements/supplied proofs449--478 of residue norm and
++unramified UNIT norm surjectivity. They are used away from the ramified
++73-place; that place has its own explicit Hensel square root32mod73.
++No unramified hypothesis is dropped at73 and no integrality of a
++GLOBAL field-norm element is inferred.
++
++[Leung--Schmidt, author version, Theorem23](https://personal.ntu.edu.sg/bernhard/Publications/pub/BentFunctions.pdf):
++fresh COMPLETE statement/proof1217--1267. It requires an INTEGRAL
++cyclotomic element and a nonsquare conjugation norm. Only the accepted
++prime-conductor consequence at p73/norm2 proves the fractional example
++cannot be integral, and the original odd-r application remains in its
++integral domain. No square extension, fractional extension, full41-page
++or fresh every-underlying-lemma proof audit is claimed.
++
++No new public-paper binary was downloaded, cached or redistributed.
++Browser extraction is not a raw binary retrieval, so fresh binary SHA
++values are null. The classical Hasse/local-norm and published nonsquare
++theorems are attributed; the application is written explicitly. No
++source theorem is refuted by exposing the project quantifier omission.
++
++## Diagnostic provenance and remaining limits
++
++Root explicitly relayed A's separate SQ15-review q8,p73,T=<2>,s9
++principal-fractional example, and C's matching SQ14 scope observation.
++That mathematical concern WAS received and is disclosed; no SQ15 peer
++finding file, filename inventory, hash or metadata was opened. B then
++reconstructed the actual field-norm existence, R1/rho0/r1 and exact
++failures9<=3/2>=8, plus nonintegrality and denominator scaling, by hand.
++This is not a claim that B first discovered the diagnostic.
++
++B's original TD/L13/R8 and other constructor roles and older A9 review
++remain disclosed, not fresh independent self-recertification. The original
++SQ14 research assignment supplied no new inference; the later issue relay
++is separate and acknowledged. New affected-review material remains unread.
++No old/shared/Git/cache mutation, mathematical code/CAS/scan/test, class
++evaluation, author/source/old executable replay, spawn/charge/contact or
++access bypass occurred. Only new versioned SQ14 files are written.
++
++The exact unchanged SQ14A--C claims and sections1--3 are textually bound.
++All affected D/E clauses now expressly concern INTEGRAL ideals, retaining
++same-ideal generators, Gamma, both scalar thresholds and all actual-set
++qualifications. No new finite q, norm-q cancellation solution, annual
++classification, priority or source-absence assertion follows.
++
++## Preserved v1 source record — historical reads, not fresh repair claims
++
++The following complete v1 source ledger is reproduced verbatim as an
++ARCHIVAL record. Its words 'fresh' and 'current' refer to the ORIGINAL
++SQ14 construction at13:33UTC, not a claim that every listed old discovery
++paper was freshly reread in this repair. Those limits remain limits.
++The separately frozen original is left unchanged.
++
++---
++
+ # SQ14 exact primary reads, imports and older-role disclosure
+ 
+ 18 October2026 UTC. Candidate proof - unverified. B sole NEW constructor;
+--- problems/2020-B4/notes/reasoning-arithmetic-return-r14-worklog-v1.md
++++ problems/2020-B4/notes/reasoning-arithmetic-return-r14-worklog-v1.1.md
+@@ -1,70 +1,90 @@
+-# SQ14 actual research log
++# SQ14 v1.1 complete author repair log
+ 
+-18 October2026 UTC. Candidate proof - unverified. B sole NEW constructor;
+-requested inherited gpt-6.1-sol/max/effective independent readback unknown.
++18 October2026 UTC. Candidate proof - unverified. B author, excluded
++from TWO OTHER affected ENTIRE WHOLE76 reviews. Requested inherited
++gpt-6.1-sol/max; independent effective-setting readback unavailable.
+ 
+-1. Completed ENTIRE PM8 wholeR2 ALL64/10 freeze13:13:56.186152,
+-   FULL final readback/SEPARATE verify13:14:04.350983. Root explicitly
+-   confirmed BOTH entire initials before findings release. No root new
+-   PM8 peer report was needed/read. Root later accepted PM8 exact scope.
+-2. Root supplied only the generic next2020 research target. Confirmed
+-   reasoning-arithmetic-return-r14-* unused by narrow rg (no matches)
+-   before any write; preserved all old/shared files. Current BT peer
+-   review material remained unread/unhashed throughout.
+-3. Freshly read complete AGENTS/local official statement, complete
+-   L13 body/current MDJSON, TD body/current MDJSON, A9 body/current
+-   MDJSON and complete relevant failures/source MD. The combined L13
+-   display clipped, so a standalone FULL read recovered it. An A9 source
+-   clip was recovered through explicit smaller intervals.
+-4. Read current research/references as context and fresh official B4(b)
+-   via public browser. Incidental other question/preliminary wording was
+-   not investigated. Kept prime conductor/q1/actualT boundaries.
+-5. Considered stronger collision restrictions. A collision of norm-a
+-   balanced refined labels yields square norm a², so the nonsquare
+-   theorem alone is insufficient. Investigated original weighing/unique-
+-   difference/class literature with literal read/access limits recorded.
+-6. A contemplated generic support/large-conductor argument was set
+-   aside. The exact square residue instead selects augmentation a,
+-   makes the full-group Fourier defect ZERO, and fixes the true T orbits.
+-   Derived both integer moments, r>=0 and c(c-1)>=0 BY HAND.
+-7. Reconstructed the strict/equality endpoint: nontrivial r gives
+-   sr<=2a-1; threshold2a<=s forces rationality. The boundary pattern
+-   is only necessary, never an actual realization or preliminary proof.
+-8. Used gamma²/epsilon to correct SAME I² without a unit square root.
+-   Low square rigidity yields ordinary principal iff rational ideal,
+-   unramified support essential. No odd h(F) was inserted.
+-9. Derived actual refined low-box injectivity by IcJ union norm;
+-   ordinary injection separately pays2a²<=s. Kept canonical offset,
+-   Gamma, all conjugate-pair indices, empty support and cardinalities.
+-10. Derived ordinary/refined actual prime-balance order restrictions,
+-    then mixed least-prime<=7 corollary by the exact cube-root gap.
+-    The additional exponential bound explicitly assumes an ACTUAL
+-    T-stable set; no enlarged stabilizer or new class evaluation.
+-11. Wrote complete SQ14A--E candidate, ALL64 obligations/checks,
+-    issue/failure records and source/log companions. Initial AddFile
+-    patch had one malformed hunk and failed verification atomically;
+-    no file was created by that failed patch. The corrected NEW-only
+-    patch wrote the complete main. No old repair or math program.
+-12. Direct clock/account batch13:33:56UTC38%TOTAL,current authorized
+-    reset1792874445 only through90 with reserve; root informed.
++Root queued this old-scope repair while the NEW2024 R9 proof was unfinished.
++I preserved that mathematical work to its complete ENTIRE11/ALL64 freeze
++16:23:05.400787UTC, FULL final all-file/manifest model readback and
++SEPARATE16:23:14.178765 PASS, then sent the checkpoint and rotated safely.
++No source/peer audit was truncated or old file altered by the rotation.
+ 
+-## Checkpoint procedure, not retroactive evidence
++Confirmed only the exact NEW SQ14 *-v1.1.* suffix unused using a narrow
++rg glob (exit1/empty). Read full old main/author ALL64 and every companion
++including code and generated metadata AS TEXT. Read both complete original
++reports/ALL128 ledger rows/issues/source MDJSON/worklogs and their frozen
++manifests. Administrative peer payloads were protected by declared hashes,
++not represented as new model mathematical reads. Both old pass verdicts
++had treated J as integral and missed its literal unqualified quantifier.
+ 
+-NEW metadata code checks only necessary fingerprints/current accepted
+-suffixes/ALL64 label correspondence and the compact immediate own
+-parent. It does not compute or verify any number-field, orbit, norm,
+-coefficient, rational inequality or mathematical result. It executes
+-no constructor/source/historical script. Writes exclusive to R14 prefix.
++Fresh complete accepted TD and A9 bodies/current MDJSON clarified the
++precise boundary: TD1 legitimately permits fractional balanced pairs;
++rho0 means a generator of THAT SAME ideal, integral IF the ideal is
++integral. One initially oversized combined output clipped; separate
++TD1--249/250--end and complete A9 reads recovered every operative line.
++Original L13 source/history remains context, no irrelevant fresh-body
++reread solely to expand metadata. All old records remain unchanged.
+ 
+-Before handoff: prepare NEW baseline/validation, FULL final model
+-readback of EVERY candidate/obligation/check/issue/failure/source/log/
+-code/generated metadata file; freeze manifest; FULL manifest readback;
+-then SEPARATE read-only verification. Actual timestamps/hashes are in
+-the resulting records/tool outputs. This is not claimed already done
+-merely because this intended procedure is written.
++Root explicitly relayed A's SQ15 fractional diagnostic and C's matching
++SQ14 concern. I acknowledged it as substantive, not an editorial-only
++fix. No SQ15 peer filename inventory, file, hash or metadata was accessed;
++the relayed mathematical concern is candidly disclosed. I reconstructed
++q8/p73/order9, all Hasse places, principal fractional R1/canonical rho0/r1,
++the exact false bounds9<=3 and2>=8, and nonintegrality via accepted A9A.
++Clearing denominators changes balance to2b² and cannot supply the old
++integral norm2 claim. These are hand arguments, not a table or script.
+ 
+-All old bytes remain unchanged. No Git/shared/cache write, spawn,
+-paid API, charge, contact or bypass. New SQ14 results remain unverified
+-until TWO OTHER whole auditors and coordinator reconciliation. No
+-research checkpoint ends the sustained all-nine task.
++Fresh public original-author reads recovered complete Kedlaya Hasse
++Theorem7.2.10 statement/short proof/warning618--643, local norm
++Propositions4.2.4--4.2.5 statements/proofs449--478, and complete
++Leung--Schmidt Theorem23 statement/proof1217--1267. Underlying full CFT,
++whole41-page paper and every referenced proof are not claimed audited.
++No binary was downloaded or written to cache, no paper redistributed,
++charge/contact/access bypass or pending source call occurred.
+ 
++Created FULL versioned main using exact asserted unique textual replacements
++of v1 and an explicit new section7; wrote only new SQ14 v1.1 files via
++apply_patch. The original A--C claims and main sections1--3 are retained
++byte for byte. Every D/E intro/notation/J/R/y/r/power/order/application
++now explicitly says INTEGRAL. Updated ALL64 obligations/checks, added12
++separate repair obligations/dispositions, and supplied complete repair
++map/issues/failures/source/log/diff. The historical source ledger is
++preserved verbatim as a labelled archival suffix, not re-labelled a fresh
++read of every old paper. No old/shared/accepted authority was amended.
++
++All mathematics was hand reasoning. No CAS, class/order/prime scan,
++sample test, optimizer, author/source executable, old certificate/freezer
++replay, spawning, Git or shared/cache mutation. No native mathematical
++child/PID or long-run cleanup exists. NEW metadata code handles only
++documents, exact main diff, unchanged textual spans, hashes and76 labels.
++
++Own same-awaited clock/account16:26:09UTC51%TOTAL,10080min,
++reset1792874445,ordinaryUsageAllowedtrue,legacy/by-limit agree,
++account029a8928...1334ac3a. Root informed; current human-authorized window
++only through90%TOTAL with integration reserve, no automatic later reset.
++Root owns awake/hourly/integration; other workers continued independently.
++
++## Final administrative procedure
++
++    python3 problems/2020-B4/notes/reasoning-arithmetic-return-r14-admin-v1.1.py prepare
++    [FULL final model readback of ALL13 payloads, including complete diff/code/generated metadata]
++    python3 problems/2020-B4/notes/reasoning-arithmetic-return-r14-admin-v1.1.py freeze --attest-final-model-readback
++    [FULL model readback of the complete manifest]
++    python3 problems/2020-B4/notes/reasoning-arithmetic-return-r14-admin-v1.1.py verify
++
++These are required before handoff, not fabricated as completed merely by
++writing this log. Actual freeze/separate read-only PASS times/main hashes
++are in the resulting records/tool outputs. All old author12/review22 and
++old accepted bytes plus immediate own R9 parent are compactly protected;
++historical inventories are not recursively expanded. New14 plus886 prior
++own paths make900 transitive paths. The author cannot independently review
++or promote v1.1: BOTH OTHER initially blind affected ENTIRE WHOLE audits
++must reconstruct original64+repair12 before coordinator reconciliation.
++
++The first NEW prepare call failed its archival-source suffix assertion:
++the AddFile text transformation had omitted the original final blank line.
++No old file or mathematics changed. The missing blank was restored in the
++NEW source copy, and only this packet's provisional diff/baseline/validation
++were regenerated under an explicit not-yet-frozen guard. The failure is
++not concealed or treated as mathematical evidence.
+--- problems/2020-B4/notes/reasoning-arithmetic-return-r14-sources-v1.json
++++ problems/2020-B4/notes/reasoning-arithmetic-return-r14-sources-v1.1.json
+@@ -1,107 +1,41 @@
+ {
+   "date_utc": "2026-10-18",
+-  "status": "candidate proof - unverified",
+-  "claims": [
+-    "SQ14A",
+-    "SQ14B",
+-    "SQ14C",
+-    "SQ14D",
+-    "SQ14E"
+-  ],
+-  "whole_obligations": 64,
++  "status": "candidate proof - unverified, FULL author repair v1.1",
+   "constructor": "/root/review_2022_complexity_r2",
+   "constructor_excluded": true,
+-  "OTHER_entire_whole_audits_required": 2,
+-  "root_NEW_construction_inference": false,
+-  "requested_settings": {
+-    "model": "gpt-6.1-sol",
+-    "reasoning": "max",
+-    "inherited": true
+-  },
++  "original_obligations": 64,
++  "repair_obligations": 12,
++  "whole_obligations": 76,
++  "OTHER_initially_blind_ENTIRE_affected_WHOLE_audits_required": 2,
++  "requested": {"model": "gpt-6.1-sol", "reasoning": "max", "inherited": true},
+   "independent_effective_readback": null,
+-  "official_scope": "2020 B4(b) only; q>=2, p=Phi3(q) PRIME; actual T-stability explicit",
+-  "older_B_roles": "R4/R5/R7/R8/A11/TD/L13 constructor; A9 and other accepted reviews; no fresh independent self-recertification",
+-  "complete_current_accepted_bodies_and_MDJSON_read": [
+-    "L13",
+-    "TD1--TD5",
+-    "A9A--F"
++  "substantive_defect": "Unqualified v1 SQ14D/E balanced ideals included fractional ideals; integral generators and0/1 valuations were silently used.",
++  "full_repair": "All D/E J/R/y/r/powers/orders/intro/applications explicitly INTEGRAL; TD1 fractional construction retained.",
++  "diagnostic_attribution": "Root relayed A's SQ15-review q8/p73/T=<2>/s9 principal fractional field-norm diagnostic; C flagged same SQ14 omission; B reconstructed full actual argument.",
++  "diagnostic_mathematical_concern_received": true,
++  "SQ15_peer_finding_files_filename_inventory_hashes_metadata_opened": false,
++  "both_original_SQ14_reports_ALL128_ledgers_issues_source_MDJSON_logs_freshly_read": true,
++  "old_initial_literal_domain_miss_acknowledged": true,
++  "fresh_FULL_author_v1_ALL12_read_as_text": true,
++  "fresh_COMPLETE_accepted_bodies_and_current_MDJSON": [
++    "problems/2020-B4/proofs/reviewed-reasoning-Todd-return-r12-v1.1.md",
++    "problems/2020-B4/proofs/reviewed-reasoning-arithmetic-return-r9-v1.1.md"
+   ],
+-  "operative_imports": [
+-    "TD1 canonical rho with SAME-ideal integral generator iff and retained Gamma",
+-    "A9A published proper nonsquare norm bound",
+-    "A9F elementary cube-root gap; also reproduced"
++  "L13_body_read": "Historical original SQ14 read retained; not freshly reread for this repair merely to expand metadata; comparison only.",
++  "primary_fresh_reads": [
++    {"url": "https://kskedlaya.org/cft/sec_ideles-cohom2.html", "read": "COMPLETE Theorem7.2.10 statement/supplied short proof and noncyclic warning618-643", "limit": "No fresh full underlying CFT/cohomological foundation audit", "raw_binary_sha256": null},
++    {"url": "https://kskedlaya.org/cft/sec_localcomp.html", "read": "COMPLETE Propositions4.2.4-4.2.5 statements/supplied proofs449-478", "limit": "Unramified places only; ramified73 treated separately by square root", "raw_binary_sha256": null},
++    {"url": "https://personal.ntu.edu.sg/bernhard/Publications/pub/BentFunctions.pdf", "read": "COMPLETE Theorem23 statement/proof1217-1267", "limit": "Integral/nonsquare only; no fractional/square/full41-page or fresh every referenced lemma proof audit", "raw_binary_sha256": null}
+   ],
+-  "new_proof_self_contained": [
+-    "square lift and exact zero defect",
+-    "integer orbit moments",
+-    "squared-unit correction on I^2",
+-    "low ordinary principality and actual box separation",
+-    "specified ideal orders and small-least-prime application"
+-  ],
+-  "primary": [
+-    {
+-      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2020-paper-b_1.pdf",
+-      "actual_read": "B4 setup/(b)98--105; adjacent preliminary/other text incidental only",
+-      "browser_raw_byte_sha256": null
+-    },
+-    {
+-      "url": "https://personal.ntu.edu.sg/bernhard/Publications/pub/BentFunctions.pdf",
+-      "actual_read": "COMPLETE Theorems22/23 statements and proofs1131--1267; returned984--1130 and through1317 context",
+-      "operative": "only published nonsquare bound via fully read accepted A9 prime-case proof",
+-      "not_claimed": "full41-page proof/CFT/reference chain audit",
+-      "browser_raw_byte_sha256": null
+-    },
+-    {
+-      "url": "https://personal.ntu.edu.sg/bernhard/Publications/pub/UniqueDiffWeighing.pdf",
+-      "actual_read": "definitions/introduction0--130;181--228;256--261;returned excerpts343--689 with gaps;690--726;904--909; complete Lemma17 and Theorem18 general-integer statement",
+-      "operative_theorem_import": false,
+-      "not_claimed": "full Theorem13/18 proof or determinant chain",
+-      "browser_raw_byte_sha256": null
+-    },
+-    {
+-      "url": "https://personal.ntu.edu.sg/bernhard/Publications/pub/weighing.pdf",
+-      "actual_read": "introduction/definitions/Theorem2.4 beginning0--126",
+-      "operative_theorem_import": false,
+-      "browser_raw_byte_sha256": null
+-    },
+-    {
+-      "url": "https://personal.ntu.edu.sg/bernhard/Publications/pub/UniqueDifferences1.pdf",
+-      "actual_read": "COMPLETE Section7 including Theorem7.2 proof618--833; returned481--617 context",
+-      "operative_theorem_import": false,
+-      "hypotheses_not_suppressed": "prime-power norm, EVEN order, large-conductor conditions",
+-      "browser_raw_byte_sha256": null
+-    },
+-    {
+-      "url": "https://personal.ntu.edu.sg/bernhard/Publications/pub/class.pdf",
+-      "actual_read": "encoded text only; screenshot responses provided no visible mathematical images",
+-      "operative_theorem_import": false,
+-      "proof_unread": true,
+-      "browser_raw_byte_sha256": null
+-    },
+-    {
+-      "url": "https://personal.ntu.edu.sg/bernhard/Publications/pub/p_ranks.pdf",
+-      "actual_read": "title/introduction/preliminaries/fixing-problem beginning0--182 only",
+-      "operative_theorem_import": false,
+-      "browser_raw_byte_sha256": null
+-    }
+-  ],
+-  "no_mathematical_program_CAS_scan_test_optimizer_source_author_or_old_replay": true,
+-  "NEW_metadata_only_code": true,
+-  "no_NEW_BT_peer_findings_files_hash_metadata_or_inflight_PM9_draft_access": true,
+-  "no_Git_shared_old_cache_write_spawn_charge_contact_bypass": true,
+-  "authoritative_weekly_telemetry": {
+-    "observed_at_utc": "2026-10-18 13:33:56 UTC",
+-    "method": "direct clock/get_usage_limits same awaited independent batch",
+-    "TOTAL_used_percent": 38,
+-    "window_minutes": 10080,
+-    "reset_unix": 1792874445,
+-    "ordinary_usage_allowed": true,
+-    "legacy_by_limit_agree": true,
+-    "account_label": "029a8928...1334ac3a",
+-    "human_authorized_current_window_only": true,
+-    "TOTAL_ceiling_percent": 90,
+-    "integration_reserve": true,
+-    "automatic_later_window_spending": false
+-  }
++  "official": {"url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2020-paper-b_1.pdf", "fresh_repair_read": "COMPLETE local official(b) normalization", "original_PDF_read": "Original SQ14 setup/(b)98-105 historical read retained; no fresh repair PDF read claimed", "preliminary_research": false},
++  "unchanged_claims_and_sections": ["SQ14A", "SQ14B", "SQ14C", "main sections1-3"],
++  "retained_fractional_diagnostic": "Actual field norm2 at q8,p73 yields principal fractional J,R1,rho0,r1; nonintegral by73>7, not a formal model.",
++  "denominator_scaling_changes_balance": true,
++  "all_old_author12_reviews22_accepted_records_preserved": true,
++  "no_new_affected_review_material_accessed": true,
++  "mathematical_program_CAS_scan_test_optimizer_author_source_old_replay": false,
++  "old_shared_Git_cache_mutation_spawn_charge_contact_bypass": false,
++  "own_immediate_parent": "problems/2024-B4/notes/reasoning-cofactor-return-r9-freeze-v1.json",
++  "older_own_paths_bound_transitively": 886,
++  "weekly_telemetry": {"at_utc": "2026-10-18 16:26:09 UTC", "method": "own same-awaited clock/get_usage_limits", "TOTAL_used_percent": 51, "window_minutes": 10080, "resetsAt": 1792874445, "ordinaryUsageAllowed": true, "legacy_by_limit_agree": true, "account_label": "029a8928...1334ac3a", "TOTAL_ceiling_percent": 90, "integration_reserve": true, "automatic_later_window_spending": false}
+ }
+-

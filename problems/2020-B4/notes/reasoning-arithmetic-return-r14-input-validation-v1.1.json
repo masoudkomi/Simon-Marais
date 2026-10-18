@@ -1,0 +1,37 @@
+{
+  "validated_at_utc": "2026-10-18T16:35:16.749245+00:00",
+  "status": "documentary PASS only",
+  "coverage": {
+    "original": 64,
+    "repair": 12,
+    "whole": 76,
+    "separate_author_dispositions": 76,
+    "labels_exact_and_unique": true,
+    "mathematics_proved_by_code": false
+  },
+  "guard_summary": {
+    "occurrences": 60,
+    "unique_paths": 59,
+    "canonical_deduplicated_sha256": "f773565487de9ffd67464f9671588977269c5948bc25452eec283136b585f899"
+  },
+  "unchanged_mathematical_text": {
+    "SQ14A_C_displayed_claims": {
+      "bytes": 1765,
+      "sha256": "bc364be437bbdccfc40a74fbda0c68ea07576755f8c57b9299dee0de58e0dcfe",
+      "textually_identical": true,
+      "not_independent_mathematical_review": true
+    },
+    "main_sections1_3": {
+      "bytes": 5232,
+      "sha256": "91825e3115eb4e1df7bb0e3496823b594bfcf8c93e49748b13a95c191394dcda",
+      "textually_identical": true,
+      "not_independent_mathematical_review": true
+    }
+  },
+  "exact_FULL_eight_text_component_diff": {
+    "path": "problems/2020-B4/notes/reasoning-arithmetic-return-r14-diff-v1.1.patch",
+    "bytes": 62814,
+    "sha256": "d6ca941343ef27a4a4230522c967c6784c1c3405d91ee2814dc88dc57dabe430"
+  },
+  "old_source_ledger_archival_suffix_unchanged": true
+}

@@ -1,5 +1,15 @@
 # Research dashboard
 
+Current03:13 continuing checkpoint: [FULL SQ14 corrected INTEGRAL version accepted](../problems/2020-B4/reviews/reasoning-arithmetic-return-r14-repair-v1.1-acceptance.md)
+after TWO OTHER affected whole76/76 and FULL all152 reconciliation. The old
+false fractional scope/hold/misses remain historical; only NEW v1.2 accepted
+copy is operative. [Checkpoint](checkpoint-2026-10-19-0313.md).54%TOTAL
+at17:04:23UTC/sameauthorized1792874445through90TOTAL/reserve. 2025DR8
+author14/64frozenUNVERIFIED;B/CtwoOTHERwhole64after2019AU/2022D9
+meaningfulcheckpoints;A NEW2021frameIII. All9status userdelivered03:04;
+nextactualhourly17:27:30UTC. Lastactualtokens/OSawake16:30:12UTC.
+
+
 Current03:00 continuing checkpoint: [SQ15 full integral-domain version accepted](../problems/2020-B4/reviews/reasoning-class-return-sq15-acceptance.md)
 after TWO OTHER affected whole60/60 and full reconciliation; old false
 fractional reading/root miss preserved. [2024R9 accepted](../problems/2024-B4/reviews/reasoning-cofactor-return-r9-acceptance.md)

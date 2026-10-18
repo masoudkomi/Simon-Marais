@@ -8,17 +8,16 @@ This repository records a sustained investigation of the Simon Marais Mathematic
 attributed published2018 enumeration and2023 classification, external
 priority unestablished. Seven annual targets remain unresolved.
 
-The [2020SQ15 full integral-domain version](problems/2020-B4/reviews/reasoning-class-return-sq15-acceptance.md)
-and [2024R9 whole irreducibility families](problems/2024-B4/reviews/reasoning-cofactor-return-r9-acceptance.md)
-are newly independently reviewed scoped partial results. SQ15 preserves
-the original false fractional extension and root review miss. The separate
-[SQ14D/E scope hold](problems/2020-B4/reviews/reasoning-arithmetic-return-r14-scope-hold-v1.md)
-remains active pending both full affected reaudits/reconciliation.
-2017R10/2022D8 and2019AT/2021R20/2025DR7 retain their exact reviewed scopes.
-Weekly53%TOTAL at16:53:13UTC/reset1792874445; continue to90%TOTAL with
-reserve in this authorized window. Hand research continues.
+The [FULL corrected 2020SQ14 integral theorem](problems/2020-B4/reviews/reasoning-arithmetic-return-r14-repair-v1.1-acceptance.md)
+has passed TWO OTHER affected whole76 reviews. The original false
+fractional extension and both review misses remain preserved; only the
+new accepted v1.2 copy supplies the corrected operative scope. Reviewed
+SQ15/2024R9/2017R10/2022D8/2019AT/2021R20/2025DR7 partials remain.
+2025DR8 is a frozen UNVERIFIED candidate awaiting two OTHER audits.
+Weekly54%TOTAL at17:04:23UTC/reset1792874445; continue to90%TOTAL with
+reserve in this authorized window. Hand research continues on all gaps.
 
-- [Latest continuing checkpoint](progress/checkpoint-2026-10-19-0300.md).
+- [Latest continuing checkpoint](progress/checkpoint-2026-10-19-0313.md).
 - [Latest actual hourly report](progress/status-2026-10-19-0227.md).
   Next actual hourly/token/owned-awake check17:27:30UTC.
 
