@@ -1,7 +1,7 @@
 # 2020 B4 research log
 
 
-The FULL SQ15 v1.1 integral-domain version is now independently reviewed after BOTH OTHER affected whole60 audits and complete120-disposition reconciliation. It proves actual endpoint rigidity, integral norm2 class-order restrictions and actual conjugate/orbit costs. The original false fractional extension and root miss remain preserved. The separate SQ14D/Ehold remains active pending its own complete repair reviews; full annual classification is open. [Acceptance](reviews/reasoning-class-return-sq15-acceptance.md).
+The FULL SQ15 v1.1 integral-domain version is now independently reviewed after BOTH OTHER affected whole60 audits and complete120-disposition reconciliation. It proves actual endpoint rigidity, integral norm2 class-order restrictions and actual conjugate/orbit costs. The original false fractional extension and root miss remain preserved. The separate SQ14D/E hold was subsequently lifted by the full correction and both repair reviews below; full annual classification is open. [Acceptance](reviews/reasoning-class-return-sq15-acceptance.md).
 
 
 The FULL corrected SQ14 INTEGRAL-domain theorem is now independently reviewed after BOTH OTHER affected whole76 audits and complete152-disposition reconciliation. Only the NEW accepted v1.2 copy governs D/E use; the old false fractional wording, historical hold and both original review misses remain preserved. Fractional TD/Gamma are unchanged. No numerical class quotient/full norm-q cancellation or annual answer follows. [Corrected acceptance](reviews/reasoning-arithmetic-return-r14-repair-v1.1-acceptance.md).
@@ -25,15 +25,22 @@ illustrates another connection, to analytic number theory: an asymptotic count
 of admissible orders can be established without excluding every exceptional
 order.
 
-Current19October2026: [SQ15 remains UNVERIFIED after a required scope objection](reviews/reasoning-class-return-sq15-coordinator-reconciliation-v1.md).
-The second WHOLE audit caught omitted INTEGRAL qualifiers; fractional
-balanced ideals invalidate the broader reading. C prepares a full versioned
-repair and BOTH affected reaudits are required. The same universal J clauses
-in [SQ14D/E are on hold](reviews/reasoning-arithmetic-return-r14-scope-hold-v1.md)
-pending author repair/review; already explicit integral SQ14A--C have no
-new objection from this issue. Earlier acceptance wording below is historical
-and superseded for the affected clauses by this notice. Root's misses and
-all original bytes are preserved. Full annual classification remains open.
+The accepted [SQ16 integral even-factor/content theorem](reviews/reasoning-class-return-sq16-acceptance.md)
+and [SQ17 literal source-unit diagnostic](reviews/reasoning-class-return-sq17-acceptance.md)
+passed both OTHER whole audits and full reconciliation. SQ16 retains BOTH
+integral scalar-balanced factors and gives exact denominator8 for every
+nonidentity conjugate in the known q8 diagnostic. SQ17 gives integral
+SAME-ideal counterexamples to an unqualified real-square shortcut in the
+inspected author copy, together with the classical two-unit-norm-coset
+criterion. Final journal wording/errata are uninspected; no full Fourier
+tuple or new taut order follows. Odd-H/mixed existence and annual stay open.
+
+Historical scope holds arose from omitted INTEGRAL qualifiers in old
+SQ14/SQ15 statements. Both full corrections and affected reaudits are now
+complete; only the corrected accepted copies govern those clauses. The old
+false versions, root/reviewer misses and reconciliation records remain
+preserved. Full mixed-order/annual classification remains open.
+
 
 The new [SQ14A–E low-square result](reviews/reasoning-arithmetic-return-r14-acceptance.md)
 is **proved, independently reviewed scoped partial result** after root/C

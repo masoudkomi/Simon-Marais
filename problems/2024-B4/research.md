@@ -22,6 +22,15 @@ having one absolutely irreducible component defined over \(\mathbb F_2\)
 does not establish irreducibility of the whole polynomial. Consequently the
 published exceptional-APN classification does not itself answer B4(b).
 
+The accepted [FR10 intersection-budget criterion](reviews/reasoning-frobenius-return-r10-acceptance.md)
+passed both OTHER whole64 audits and complete reconciliation. It counts
+possible shared-tangent intersections exactly by q, retains all ordinary
+points and the full actual complementary factor, and proves WHOLE absolute
+irreducibility when its explicit P(ell,d,q)>0. This includes EVERY
+n=35*2^(6t+3)+1,t>=1, despite failure of the previous NF4/J/gcd hypotheses.
+The connection is local curve intersection to global polynomial factors.
+P<=0 gives no converse; full classification and published priority stay open.
+
 The [R8A--C no-four-sum criterion](reviews/reasoning-cofactor-return-r8-acceptance.md)
 is now **proved, independently reviewed scoped partial result** after
 root/B TWO OTHER ENTIRE WHOLE48/48 and full reconciliation. For NF4,

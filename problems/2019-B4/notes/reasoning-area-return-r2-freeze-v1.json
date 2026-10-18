@@ -1,0 +1,87 @@
+{
+  "frozen_utc": "2026-10-18T18:31:47.532037+00:00",
+  "constructor": "/root/review_2021_reasoning_j15_r2",
+  "status": "candidate proof - unverified",
+  "claims": [
+    "AR1",
+    "AR2",
+    "AR3",
+    "AR4"
+  ],
+  "whole_obligations": 48,
+  "payload_count": 10,
+  "ENTIRE_files": 11,
+  "payloads": [
+    {
+      "path": "problems/2019-B4/notes/reasoning-area-return-r2-admin-v1.py",
+      "bytes": 7814,
+      "sha256": "0bffb9dea836904cb1747ccb6ea6fedafd93ac13ba27c67c938bc09481d25033"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-area-return-r2-baseline-v1.json",
+      "bytes": 17811,
+      "sha256": "96f87a38d4408eb273e6044d044e86b67f73044f2dd31b0e0bd322f3aafab60b"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-area-return-r2-candidate-v1.md",
+      "bytes": 20227,
+      "sha256": "e7b173d7226641e9251502c10228faab72f91ee8c61c621686f9e793fb4be18c"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-area-return-r2-constructor-checks-v1.md",
+      "bytes": 4059,
+      "sha256": "779cbb383efca4fc86845c2774eb4b99d24ac5007eb0c5fdcfabb2ee9ba3b22d"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-area-return-r2-failed-routes-v1.md",
+      "bytes": 4658,
+      "sha256": "caf71b191e4e00d5cbcaed662b98152122653a26ee626bb8e93b978824646802"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-area-return-r2-issues-v1.md",
+      "bytes": 1520,
+      "sha256": "3813cacfccea35fccd115e4962ccf7b3855021a5e6849fa98fe0fc8d0f913774"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-area-return-r2-obligations-v1.md",
+      "bytes": 6167,
+      "sha256": "19db7b445483fb7f08c917d673fe1666d03b98502e67289a0d3c8f977c1ddb37"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-area-return-r2-sources-v1.json",
+      "bytes": 3737,
+      "sha256": "467117327298d1f96520a6d43547adf3d7feed5299242bdb978068e2a0fae5e6"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-area-return-r2-sources-v1.md",
+      "bytes": 7223,
+      "sha256": "ef19008478ee4eef306b83313df9b51ceded23243ea0e31a6829d11d14257fb2"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-area-return-r2-worklog-v1.md",
+      "bytes": 5562,
+      "sha256": "66b00778e24a24101801343614aa2e829052e05d8d4598744f641b37965fd1cd"
+    }
+  ],
+  "effective_guard_summary": {
+    "occurrences": 245,
+    "unique_paths": 218,
+    "canonical_deduplicated_sha256": "8befc730559e727789e4737543510320391d39038efee018252a29fc5daa2a41"
+  },
+  "FULL_final_ALL10_payload_model_readback_completed": true,
+  "FULL_manifest_model_readback_then_SEPARATE_readonly_verify_REQUIRED": true,
+  "two_OTHER_initially_blind_ENTIRE_whole_audits_and_root_reconciliation_required": true,
+  "constructor_and_any_new_inference_contributor_excluded_from_review_count": true,
+  "requested": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independent_effective_setting_readback": null,
+  "latest_authoritative_weekly_total_used": 60,
+  "latest_authoritative_telemetry_utc": "2026-10-18T18:31:22+00:00",
+  "authorized_reset": 1792874445,
+  "ceiling_total": 90,
+  "mathematical_program_CAS_scan_test_source_author_old_replay": false,
+  "full_uniform_RN_quadratic_area_upper_or_actual_regime_or_exact_lambda_or_annual_or_novelty_claim": false
+}

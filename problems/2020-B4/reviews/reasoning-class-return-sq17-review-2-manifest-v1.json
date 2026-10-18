@@ -1,0 +1,52 @@
+{
+  "frozen_utc": "2026-10-18T18:46:45.921879+00:00",
+  "reviewer": "/root/review_2021_reasoning_j15_r2",
+  "role": "OTHER initially blind ENTIRE WHOLE2",
+  "whole_obligations": 40,
+  "payload_count": 4,
+  "ENTIRE_files": 5,
+  "payloads": [
+    {
+      "path": "problems/2020-B4/reviews/reasoning-class-return-sq17-review-2-admin-v1.py",
+      "bytes": 7248,
+      "sha256": "a526cf9fc4b50cee975515cf406c456c6e436ed3e8bd40ab17166ba9501079ad"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-class-return-sq17-review-2-baseline-v1.json",
+      "bytes": 6383,
+      "sha256": "b3121f6acae878077e33ff36cd4d307cb987540a7b64e8638764765bdf21e608"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-class-return-sq17-review-2-report-v1.md",
+      "bytes": 25162,
+      "sha256": "ec03fe5fec8b7c7b12cb8b49032159952ff3cf6be775dbbd4256b235988fc489"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-class-return-sq17-review-2-sources-v1.json",
+      "bytes": 4150,
+      "sha256": "6c32a75f828437307325eddac7dbdf5637574b4344f639141120874837859473"
+    }
+  ],
+  "effective_guard_summary": {
+    "occurrences": 344,
+    "unique_paths": 300,
+    "canonical_deduplicated_sha256": "285fa02a67f49774e56106de336742007332d94831a3c354150463a2e1a0dabc"
+  },
+  "FULL_final_ALL4_payload_model_readback_completed": true,
+  "FULL_manifest_model_readback_then_SEPARATE_readonly_verify_REQUIRED": true,
+  "NEW_C_SQ17_finding_file_inventory_hash_metadata_commentary_seen": false,
+  "root_related_NEW_source_objection_note_opened_inventoried_hashed": false,
+  "NEW_root_SQ16_material_seen_at_freeze": false,
+  "new_SQ17_constructive_contribution": false,
+  "older_SQ14_SQ15_review_diagnostic_roles_disclosed": true,
+  "primary_Schmidt_ALL16_page_images_read": true,
+  "publisher_final_Prop3_1_or_errata_read": false,
+  "requested": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independent_effective_setting_readback": null,
+  "mathematical_program_CAS_scan_test_source_author_old_replay": false,
+  "status": "Independent review recommendation only; root reconciliation and promotion required"
+}

@@ -1,0 +1,57 @@
+{
+  "frozen_utc": "2026-10-18T18:46:19.085105+00:00",
+  "reviewer": "/root/review_2017_coarsening_r1",
+  "status": "ENTIRE initially blind OTHER WHOLE1 initial; findings EMBARGOED until explicit BOTH",
+  "payload_records": [
+    {
+      "path": "problems/2020-B4/reviews/reasoning-class-return-sq17-review-1-initial-v1.md",
+      "bytes": 18656,
+      "sha256": "a1d5bad97ff8a4a64b115e5bc0fd7f2270206920ebc973d2296a184ef09518df"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-class-return-sq17-review-1-sources-v1.json",
+      "bytes": 3719,
+      "sha256": "8f5604087cbf1e483b697bf580d205d598e12333d3baac4e66b16e6c3c2ebc10"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-class-return-sq17-review-1-admin-v1.py",
+      "bytes": 9394,
+      "sha256": "306d534706b7e87431e73ef6b79286d5616e94f57ddfe90dbb8b6199a2249dd6"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-class-return-sq17-review-1-baseline-v1.json",
+      "bytes": 2833,
+      "sha256": "defafcf56c71ac26d459bcdaeccd6ee7bd81908499d7ab7ddf110198a72e2e86"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-class-return-sq17-review-1-input-validation-v1.json",
+      "bytes": 562,
+      "sha256": "6249e163ce78bda96014ae9b56da9393f56b21de8ec114409bb2d62e0e8abbf6"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-class-return-sq17-review-1-metadata-v1.json",
+      "bytes": 1506,
+      "sha256": "e7fde664d25326b7417583776462b007f9df94644d3dad14fe38d647b7872f1d"
+    }
+  ],
+  "ENTIRE_files": 7,
+  "whole_obligations": 40,
+  "required_repairs": 0,
+  "closed_scope_notes": 8,
+  "all_guard_summary": {
+    "occurrences": 38,
+    "unique_paths": 37,
+    "canonical_sha256": "032b0bc1c83c0332bb29572c64dfb3c93aa9355ab5b1c83d432c269d6eb2d91d"
+  },
+  "immediate_own_parent": {
+    "path": "problems/2017-B4/notes/reasoning-concentration-return-r12-freeze-v1.json",
+    "bytes": 3158,
+    "sha256": "6a6e5ccccbc9c5416aeeac4240a8a4f96bc44b90167d5275e8ab2bf563c17c1c"
+  },
+  "FULL_final_ALL6_payload_model_readback_completed": true,
+  "FULL_manifest_model_readback_then_SEPARATE_readonly_verify_required": true,
+  "corresponding_NEW_peer_finding_file_inventory_hash_metadata_accessed": false,
+  "root_separate_source_objection_accessed": false,
+  "mathematical_program": false,
+  "no_Git_shared_old_cache_mutation": true
+}

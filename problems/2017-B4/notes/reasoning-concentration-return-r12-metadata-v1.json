@@ -1,0 +1,33 @@
+{
+  "created_utc": "2026-10-18T18:38:23.635184+00:00",
+  "status": "candidate proof - unverified",
+  "constructor": "/root/review_2017_coarsening_r1",
+  "constructor_excluded": true,
+  "claims": [
+    "CI12A",
+    "CI12B",
+    "CI12C",
+    "CI12D"
+  ],
+  "whole_obligations": 48,
+  "OTHER_whole_audits_required": 2,
+  "requested_model": "gpt-6.1-sol",
+  "requested_reasoning_effort": "max",
+  "effective_setting_readback": "unavailable",
+  "old_role": "C constructed accepted R11; no independent self-recertification",
+  "root_new_inference_contribution": false,
+  "NEW_FR10_peer_access": false,
+  "mathematical_program_scan_test_CAS": false,
+  "pending_native_child_approval": false,
+  "authorized_weekly_reset": 1792874445,
+  "TOTAL_ceiling_percent": 90,
+  "last_direct_transition_percent": 60,
+  "commands": [
+    "python3 problems/2017-B4/notes/reasoning-concentration-return-r12-integrity-v1.py prepare",
+    "python3 problems/2017-B4/notes/reasoning-concentration-return-r12-integrity-v1.py freeze",
+    "python3 problems/2017-B4/notes/reasoning-concentration-return-r12-integrity-v1.py verify"
+  ],
+  "full_final_model_readback_required": true,
+  "separate_readonly_verify_required": true,
+  "global_base_value_effectiveR_annual_priority_claim": false
+}

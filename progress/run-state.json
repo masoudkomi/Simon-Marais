@@ -2,7 +2,7 @@
   "branch": "codex/smmc-b4-research",
   "remote": "https://github.com/masoudkomi/Simon-Marais.git",
   "phase": "sustained research resumed under explicit NEW-window authorization",
-  "last_pushed_commit": "f5f534c",
+  "last_pushed_commit": "b467dbe",
   "initial_passes_complete": [
     2017,
     2018,
@@ -17,25 +17,25 @@
   "active": [
     {
       "agent": "review_2021_reasoning_j15_r2",
-      "year": 2019,
-      "role": "handresearch checkpoint then SQ16OTHERwhole2"
+      "year": 2021,
+      "role": "fresh actual frameIII handresearch"
     },
     {
       "agent": "review_2022_complexity_r2",
-      "year": 2020,
-      "role": "SQ17hand/source checkpoint then FR10OTHERwhole2"
+      "year": 2017,
+      "role": "R12OTHERwhole1"
     },
     {
       "agent": "review_2017_coarsening_r1",
-      "year": 2017,
-      "role": "fresh actual structural entropy handreasoning"
+      "year": 2024,
+      "role": "fresh geometry beyondFR10"
     }
   ],
   "initial_passes_pending": [],
   "deferred": [
     2026
   ],
-  "weekly_used_percent_last_observed": 60,
+  "weekly_used_percent_last_observed": 62,
   "weekly_reset_unix": 1792874445,
   "caffeinate": {
     "user_authorization": "keepcomputerawakeuntil90%weeklyquota; permissionforoneagentmustnotinterruptothers",
@@ -51,8 +51,8 @@
     "previous_exit_code_after_targeted_ctrl_c": 130,
     "next_check_utc": "2026-10-18T18:27:30+00:00"
   },
-  "notes": "2completeannual/7unresolved;60%TOTALACCOUNTWIDE authorized1792874445only90/reserve;nextactualhourly19:27:30UTC",
-  "observed_at_utc": "2026-10-18T18:26:47.515680+00:00",
+  "notes": "2completeannual/7unresolved;62%TOTALACCOUNTWIDE same1792874445windowonly90/reserve;nextactual22:27:30UTC",
+  "observed_at_utc": "2026-10-18T21:45:37.793675+00:00",
   "coordinator_compute": {
     "status": "all constructor children completed and reaped",
     "complex_complement_child_pid": 37199,
@@ -62,12 +62,12 @@
     "new_complex_extension_audits": "both complete, accepted"
   },
   "latest_all_nine_report": "progress/status-2026-10-19-0327.md",
-  "coordinator_current": "FR10 OTHERwhole1/reporting/integration; R21accepted/all4FULLreadback; SQ16whole1frozenEMBARGO",
-  "latest_checkpoint": "progress/status-2026-10-19-0427.md",
+  "coordinator_current": "FR10/SQ16/SQ17 accepted/all12 final artifacts FULLreadback; delayed reporting/integration then ARwhole1/R12whole2",
+  "latest_checkpoint": "progress/status-2026-10-19-0746.md",
   "pending_unverified": [
-    "SQ16author12/48/rootwhole1ENTIRE4frozenEMBARGO/Awhole2queued",
-    "FR10author13/64UNVERIFIED/rootwhole1active/Bwhole2queued",
-    "Root2020sourceunitobjectionUNVERIFIED;B2020independentSQ17active;root2024degreegapnotehistoricalUNVERIFIED"
+    "ARauthor11/48/Bwhole2ENTIRE5frozenEMBARGO/rootwhole1pending",
+    "R12author13/48/Bwhole1active/rootwhole2queued",
+    "Root2020separate source note and2024degree-gap note remainUNVERIFIED"
   ],
   "usage_telemetry_conflict": {
     "last_consistent_old_window": {
@@ -85,7 +85,7 @@
     "explicit_user_authorization": "keep going till90%of the newly reported weekly window....do not stop",
     "authorization_recorded_at_utc": "2026-10-18T00:00:36.393369+00:00"
   },
-  "weekly_last_observed_at_utc": "2026-10-18 18:25:47 UTC",
+  "weekly_last_observed_at_utc": "2026-10-18 21:39:01 UTC",
   "hourly_reporting": {
     "automation_id": "simon-marais-hourly-research-report",
     "kind": "heartbeat",
@@ -103,6 +103,16 @@
     "second_reviewer_explicitly_confirmed_no_new_root_conclusion_commentary_or_material_seen": true,
     "detailed_reports_embargoed_until_both_entire_initials": true
   },
-  "latest_actual_hourly_report": "progress/status-2026-10-19-0427.md",
-  "next_actual_hourly_utc": "2026-10-18T19:27:30+00:00"
+  "latest_actual_hourly_report": "progress/status-2026-10-19-0746.md",
+  "next_actual_hourly_utc": "2026-10-18T22:27:30+00:00",
+  "reporting_interruption": {
+    "cause": "A single public-PDF in-app-browser tool call unexpectedly took11095.9647seconds to return; coordinator could not issue updates while blocked.",
+    "not_permission_request": true,
+    "previous_report": "04:27 Brisbane",
+    "missed_05_27_and_06_27": true,
+    "scheduled_07_27_report_delivered_late": true,
+    "no_fabricated_intermediate_counters": true,
+    "agents_completed_checkpoints_then_waited": true,
+    "all_three_agents_resumed_at_utc": "2026-10-18T21:39 minute precision"
+  }
 }

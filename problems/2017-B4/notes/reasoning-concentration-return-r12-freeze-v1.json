@@ -1,0 +1,77 @@
+{
+  "frozen_utc": "2026-10-18T18:39:25.204288+00:00",
+  "status": "candidate proof - unverified",
+  "payload_records": [
+    {
+      "path": "problems/2017-B4/notes/reasoning-concentration-return-r12-candidate-v1.md",
+      "bytes": 19146,
+      "sha256": "aa79fe683e8cd7a7f63d5a3146b91f6cce294c1ceb1fb28e994e4d50071994d0"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-concentration-return-r12-obligations-v1.md",
+      "bytes": 9098,
+      "sha256": "4d771b1129e7ffbeaee4a801341eccfc71827eabd3e7fa1f678bdfbf796fad00"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-concentration-return-r12-issues-v1.md",
+      "bytes": 2255,
+      "sha256": "0bee8cfa6c1c0a9f3d20b39bfb5e55c5fee5d7eb5f1dc6f9060c55e7290983ac"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-concentration-return-r12-failures-v1.md",
+      "bytes": 2928,
+      "sha256": "5b7c1283eb7b3aed38221b955899d86e2c8142a5656134432309ef9d233346f7"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-concentration-return-r12-sources-v1.md",
+      "bytes": 4033,
+      "sha256": "db6387cd5760ebd21034a6e079d44488015e4cc09edb530255763adee907ed6d"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-concentration-return-r12-sources-v1.json",
+      "bytes": 1984,
+      "sha256": "4d03e9e2e0656f0c882ba415ba618ae1ca538a8d9d50121e2ef37dfe6e5674bb"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-concentration-return-r12-worklog-v1.md",
+      "bytes": 3582,
+      "sha256": "fe28515e27651768536628cc2de86b5a382c6a65655e6cf260c6149f677b0578"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-concentration-return-r12-code-v1.md",
+      "bytes": 1191,
+      "sha256": "9bb634c74bda3d6fcc9a1bad4221fb644ce068d3cf0231e75d8618425e866937"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-concentration-return-r12-integrity-v1.py",
+      "bytes": 8232,
+      "sha256": "2665509ac680206ec58722d5c15bb37e177fcafef79a54e27ac25554c3c12c57"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-concentration-return-r12-baseline-v1.json",
+      "bytes": 2197,
+      "sha256": "74b818c21cb46aea6f9d72f9b63a7229c16b2a4dc62ffc9b8e46121c6b6e8444"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-concentration-return-r12-input-validation-v1.json",
+      "bytes": 248,
+      "sha256": "d0dfa6bc56bd23f2b9582bac836e3382a7b6a6fbba6b58699e8920b55f2aaddc"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-concentration-return-r12-metadata-v1.json",
+      "bytes": 1261,
+      "sha256": "93f6c6336d6fbd6344134aaea0d86e9f71045e9ae4ef4ff3147f30745ad1b175"
+    }
+  ],
+  "ENTIRE_files": 13,
+  "whole_obligations": 48,
+  "OTHER_whole_audits_required": 2,
+  "constructor_excluded": true,
+  "input_guard_occurrences_verified": 31,
+  "unique_guard_paths": 30,
+  "deduplicated_guard_canonical_sha256": "7bc49cbf9f3c390fd87df35223b0cb8112b5ecff8942cdf844459b47d100927f",
+  "all_input_guards_pass": true,
+  "mathematical_program": false,
+  "FULL_final_model_payload_readback": "Completed before this action; actual whole readback required",
+  "FULL_freeze_readback_then_SEPARATE_readonly_verify_required": true
+}

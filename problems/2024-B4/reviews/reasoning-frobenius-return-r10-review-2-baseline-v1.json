@@ -1,0 +1,296 @@
+{
+  "prepared_at_utc": "2026-10-18T18:41:00.285225+00:00",
+  "scope": "Compact independent documentary guard; no copied growing historical inventory",
+  "reviewer": "/root/review_2022_complexity_r2",
+  "NEW_FR10_nonconstructor": true,
+  "author_ALL13_records": [
+    {
+      "path": "problems/2024-B4/notes/reasoning-frobenius-return-r10-freeze-v1.json",
+      "bytes": 3218,
+      "sha256": "226beec7d86256e4daed124fb3686be8b798aa75b0638aaabef6eaf7df500f65"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-frobenius-return-r10-candidate-v1.md",
+      "bytes": 23051,
+      "sha256": "89dca5bac46c7601b8e64462783ba448d1a6aca5d4d5e393a6ff128898aebea5"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-frobenius-return-r10-obligations-v1.md",
+      "bytes": 12087,
+      "sha256": "76c31735810f4a164c1acd64f715e7d89c784b0513b3e25469b6a8cd3c208059"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-frobenius-return-r10-issues-v1.md",
+      "bytes": 2143,
+      "sha256": "16d696af3f3aca9c3d64010ff22cfc1c7043a73697e0189f15fb191a1bba9887"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-frobenius-return-r10-sources-v1.md",
+      "bytes": 6503,
+      "sha256": "62ea5e84d929a2641d29574f074ba3f92f5370f59000b148fd1e08738e1922af"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-frobenius-return-r10-sources-v1.json",
+      "bytes": 3533,
+      "sha256": "bf24ffe25220100d401cc842fcc27006cf41d2e2a8ad8bbc748cb4e26e9a1da1"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-frobenius-return-r10-failures-v1.md",
+      "bytes": 3508,
+      "sha256": "6148c8b9564679951283325078962241b986de75e70ac385e792885d9625e284"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-frobenius-return-r10-worklog-v1.md",
+      "bytes": 3969,
+      "sha256": "dea16b671a196005ad10f288b186fa15bd3bb4069afcae8e2eb944e4f3a7ea1c"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-frobenius-return-r10-code-v1.md",
+      "bytes": 1060,
+      "sha256": "be55da351e1adcb62fd204d0679426aab6bbec0a18c4d06f39fcbf23b19fc8eb"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-frobenius-return-r10-integrity-v1.py",
+      "bytes": 10728,
+      "sha256": "d5ed1dbd15f1fb47f7bb3b54a3b895213d79a76df51601049954095eff041bf3"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-frobenius-return-r10-baseline-v1.json",
+      "bytes": 3311,
+      "sha256": "293e8922e9342b2ec03fe02ad60e9bda7cfed8941c5bb9c6a0623e01e1dd48f0"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-frobenius-return-r10-input-validation-v1.json",
+      "bytes": 356,
+      "sha256": "50ba40b666dade169a8e5352811430a58d87695620b0539fc362c96b59b7843e"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-frobenius-return-r10-metadata-v1.json",
+      "bytes": 1395,
+      "sha256": "66a60dd1671a980868d569abfc75b937331239df31a87753b168a13a22f5be53"
+    }
+  ],
+  "author_ALL54_declared_guard_occurrences_independently_verified_summary": {
+    "occurrences": 54,
+    "unique_paths": 52,
+    "canonical_sha256": "6d864ed03becc94c6ab70a28ffebf7ff4a6145201c79a329c907c645f53812d4"
+  },
+  "direct_current_inputs": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2024-B4/statement.md",
+      "bytes": 2470,
+      "sha256": "60244f7752634772adb434efbdb41a63fb02029dc3be4238f3718c6e5ec84e5f"
+    },
+    {
+      "path": "problems/2024-B4/proofs/reviewed-structural-v1.1.md",
+      "bytes": 17079,
+      "sha256": "082dc054ce2cdaea80eee009f4c97c877c6968afb54b5a8f3141b7354031dd3f"
+    },
+    {
+      "path": "problems/2024-B4/reviews/structural-acceptance.json",
+      "bytes": 2580,
+      "sha256": "53fb1b2e3383397b1218f2020a9c1b60625497faaab9d686e7ef179cb2acb8d4"
+    },
+    {
+      "path": "problems/2024-B4/reviews/structural-acceptance.md",
+      "bytes": 2693,
+      "sha256": "d37792e94efa0618b80e752037e81cbc1a825c17311ce74e53934d01d3bf3906"
+    },
+    {
+      "path": "problems/2024-B4/proofs/reviewed-reasoning-cofactor-return-r6-v1.1.md",
+      "bytes": 20658,
+      "sha256": "fb988a13187b5765619532ad14077ae2f32a948e04704252e3d8981e10d65d98"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-cofactor-return-r6-acceptance.json",
+      "bytes": 4773,
+      "sha256": "a3dcfe90ae7be3f3c66ace7ad6197b0e6adf9fa8f4f12fd4930051a7e6a02c49"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-cofactor-return-r6-acceptance.md",
+      "bytes": 5074,
+      "sha256": "01168cc705fcb617612d4d083b9cd181bc5bc50cb2807133454d8e0dfcb398bb"
+    },
+    {
+      "path": "problems/2024-B4/proofs/reviewed-reasoning-cofactor-return-r7-v1.1.md",
+      "bytes": 22608,
+      "sha256": "b8e2cc3a37cf8c80c724c0d26f6768261e5d339fee073351e8b4c9b56b94cf72"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-cofactor-return-r7-acceptance.json",
+      "bytes": 4725,
+      "sha256": "ac32e5f25251fdd1a5a5a4dae0b7985be9c23c9e99fb7c6052c798912b643317"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-cofactor-return-r7-acceptance.md",
+      "bytes": 5375,
+      "sha256": "1f185d684226872a7421ae6811d75bed10466b96c54831394d7d4e024c8d6812"
+    },
+    {
+      "path": "problems/2024-B4/proofs/reviewed-reasoning-cofactor-return-r8-v1.1.md",
+      "bytes": 19878,
+      "sha256": "acdfa8d740a762de8a4070867d6e9ebf68a1d54ff7a92e0a9126e2e339b19023"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-cofactor-return-r8-acceptance.json",
+      "bytes": 3814,
+      "sha256": "23811fa81dccdfbd9e5f730840eccf8a17100cf357d8ec43214d2128924a48e1"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-cofactor-return-r8-acceptance.md",
+      "bytes": 4475,
+      "sha256": "a9c19d00edee3c4617985644e26ebfa63062a7f214d5f2ab0b81845937f1d9ba"
+    },
+    {
+      "path": "problems/2024-B4/proofs/reviewed-reasoning-cofactor-return-r9-v1.1.md",
+      "bytes": 26416,
+      "sha256": "68a8b1d05a927ffecc13375ee5db5376c780acbf7e3cee3a6659c8c80caa876c"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-cofactor-return-r9-acceptance.json",
+      "bytes": 4581,
+      "sha256": "d9fe10c16db3d2568e89e953a83627e0548f17e9e90bf2322ed401217080f06c"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-cofactor-return-r9-acceptance.md",
+      "bytes": 6071,
+      "sha256": "acbaf9980bfde8e26213935ddfd6030d05bccdfc323cc0bc8d6a8ec8b9b1b770"
+    }
+  ],
+  "current_immutable_authorities": [
+    {
+      "authority": {
+        "path": "problems/2024-B4/reviews/structural-acceptance.json",
+        "bytes": 2580,
+        "sha256": "53fb1b2e3383397b1218f2020a9c1b60625497faaab9d686e7ef179cb2acb8d4"
+      },
+      "accepted_body": {
+        "path": "problems/2024-B4/proofs/reviewed-structural-v1.1.md",
+        "bytes": 17079,
+        "sha256": "082dc054ce2cdaea80eee009f4c97c877c6968afb54b5a8f3141b7354031dd3f"
+      },
+      "immutable_candidate": {
+        "path": "problems/2024-B4/notes/structural-reasoning-r2-candidate-v1.md",
+        "bytes": 16027,
+        "sha256": "0c451d5f9410573625725bc6be35af91fe938deee4dc1d92910572374dc69f52"
+      },
+      "candidate_suffix_test_applied": false,
+      "structural_T1_body_unchanged_editorial_heading_elsewhere": true
+    },
+    {
+      "authority": {
+        "path": "problems/2024-B4/reviews/reasoning-cofactor-return-r6-acceptance.json",
+        "bytes": 4773,
+        "sha256": "a3dcfe90ae7be3f3c66ace7ad6197b0e6adf9fa8f4f12fd4930051a7e6a02c49"
+      },
+      "accepted_body": {
+        "path": "problems/2024-B4/proofs/reviewed-reasoning-cofactor-return-r6-v1.1.md",
+        "bytes": 20658,
+        "sha256": "fb988a13187b5765619532ad14077ae2f32a948e04704252e3d8981e10d65d98"
+      },
+      "immutable_candidate": {
+        "path": "problems/2024-B4/notes/reasoning-cofactor-return-r6-candidate-v1.md",
+        "bytes": 15682,
+        "sha256": "43833618ab3cc066c03f7c595344ec89835dd465232139ca1ccfc33074f64332"
+      },
+      "candidate_suffix_test_applied": true,
+      "structural_T1_body_unchanged_editorial_heading_elsewhere": false
+    },
+    {
+      "authority": {
+        "path": "problems/2024-B4/reviews/reasoning-cofactor-return-r7-acceptance.json",
+        "bytes": 4725,
+        "sha256": "ac32e5f25251fdd1a5a5a4dae0b7985be9c23c9e99fb7c6052c798912b643317"
+      },
+      "accepted_body": {
+        "path": "problems/2024-B4/proofs/reviewed-reasoning-cofactor-return-r7-v1.1.md",
+        "bytes": 22608,
+        "sha256": "b8e2cc3a37cf8c80c724c0d26f6768261e5d339fee073351e8b4c9b56b94cf72"
+      },
+      "immutable_candidate": {
+        "path": "problems/2024-B4/notes/reasoning-cofactor-return-r7-candidate-v1.md",
+        "bytes": 17331,
+        "sha256": "f8afed9064dcc6445c3e6bb05102ecb1c1420c3da0ad6bdf9ef7db4f28c4b05e"
+      },
+      "candidate_suffix_test_applied": true,
+      "structural_T1_body_unchanged_editorial_heading_elsewhere": false
+    },
+    {
+      "authority": {
+        "path": "problems/2024-B4/reviews/reasoning-cofactor-return-r8-acceptance.json",
+        "bytes": 3814,
+        "sha256": "23811fa81dccdfbd9e5f730840eccf8a17100cf357d8ec43214d2128924a48e1"
+      },
+      "accepted_body": {
+        "path": "problems/2024-B4/proofs/reviewed-reasoning-cofactor-return-r8-v1.1.md",
+        "bytes": 19878,
+        "sha256": "acdfa8d740a762de8a4070867d6e9ebf68a1d54ff7a92e0a9126e2e339b19023"
+      },
+      "immutable_candidate": {
+        "path": "problems/2024-B4/notes/reasoning-cofactor-return-r8-candidate-v1.md",
+        "bytes": 15501,
+        "sha256": "044343181cc87099291f327728fc07cbd1d4e97c59558fcb88b3237f6511eaea"
+      },
+      "candidate_suffix_test_applied": true,
+      "structural_T1_body_unchanged_editorial_heading_elsewhere": false
+    },
+    {
+      "authority": {
+        "path": "problems/2024-B4/reviews/reasoning-cofactor-return-r9-acceptance.json",
+        "bytes": 4581,
+        "sha256": "d9fe10c16db3d2568e89e953a83627e0548f17e9e90bf2322ed401217080f06c"
+      },
+      "accepted_body": {
+        "path": "problems/2024-B4/proofs/reviewed-reasoning-cofactor-return-r9-v1.1.md",
+        "bytes": 26416,
+        "sha256": "68a8b1d05a927ffecc13375ee5db5376c780acbf7e3cee3a6659c8c80caa876c"
+      },
+      "immutable_candidate": {
+        "path": "problems/2024-B4/notes/reasoning-cofactor-return-r9-candidate-v1.md",
+        "bytes": 20443,
+        "sha256": "740e85acc2103aa6ed72ac46ac3089b12cfb29962fc4e0593ccf9e8223af66bf"
+      },
+      "candidate_suffix_test_applied": true,
+      "structural_T1_body_unchanged_editorial_heading_elsewhere": false
+    }
+  ],
+  "own_immediate_parent": {
+    "path": "problems/2020-B4/notes/reasoning-class-return-sq17-freeze-v1.json",
+    "bytes": 3901,
+    "sha256": "d7b19f6e852178d83db1adad70e2fdb10c8dfa30d28b538e893cf1f0b567aab1"
+  },
+  "own_parent_ALL8_files_directly_verified_not_recopied": {
+    "occurrences": 8,
+    "unique_paths": 8,
+    "canonical_sha256": "37c58851e5ccd698f18e887ee49e90997f654a7745993f4841bcc2db99c0bd18"
+  },
+  "all_guard_summary": {
+    "occurrences": 92,
+    "unique_paths": 82,
+    "canonical_sha256": "d876738d326dfffe93132aee4d0b5a3419ca19784e313fe691d1a06eac98ec0d"
+  },
+  "older_own_paths_bound_transitively": 957,
+  "older_plus_new5_own_paths_bound_transitively": 962,
+  "literal_checks": {
+    "author_obligation_labels": 64,
+    "review_ALL64_separate_disposition_labels": 64,
+    "mathematical_truth_or_source_hypotheses_checked_by_code": false
+  },
+  "requested": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independent_effective_readback": null,
+  "corresponding_NEW_peer_content_inventory_hash_metadata_access": false,
+  "no_mathprogram_CAS_scan_test_source_author_old_replay": true,
+  "no_Git_shared_old_cache_mutation_spawn_charge_contact_bypass": true,
+  "ENTIRE_review_files_including_manifest": 5,
+  "ALL64_source_MD_issue_ledger_worklog_embedded_in_full_report": true,
+  "FULL_final_MODEL_readback_ALL4_then_manifest_readback_SEPARATE_verify_required": true
+}

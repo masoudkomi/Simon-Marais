@@ -1,0 +1,141 @@
+{
+  "prepared_at_utc": "2026-10-18T18:31:17.913744+00:00",
+  "scope": "Necessary current immutable authorities, exact source PDF and compact immediate own parent; no growing historical inventory recopy",
+  "records": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2020-B4/statement.md",
+      "bytes": 2006,
+      "sha256": "91c9e7e86eef7bc6a68770f6ee730d18618443304ac3aace5541b42170ac64cc"
+    },
+    {
+      "path": ".cache/literature/coordinator-schmidt1998-class-r1.pdf",
+      "bytes": 227434,
+      "sha256": "f97dd90e1c72ea1b3f8eefae5272b58068b4e15a5dc23578cd7d937dc56dbeb5"
+    },
+    {
+      "path": "problems/2020-B4/proofs/reviewed-reasoning-arithmetic-return-r14-v1.2.md",
+      "bytes": 30567,
+      "sha256": "0b9f21290c5ecc7833645db76d74ef6def1bbb010bd205b2bc1d3514a6ef7c3f"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-arithmetic-return-r14-repair-v1.1-acceptance.json",
+      "bytes": 4929,
+      "sha256": "65f60991ec83802c0b230ff4c893385e9f23bcf25993d985c16028ef24162990"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-arithmetic-return-r14-repair-v1.1-acceptance.md",
+      "bytes": 6961,
+      "sha256": "1d5803f42912ecf2501487fbc5439bce95c26128eb7f1803369e94323a051e6d"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-arithmetic-return-r14-sources-v1.1.md",
+      "bytes": 15124,
+      "sha256": "c144b6d958cb995108747a407aa85ca018a0ca4d3f283004f4f0349000382352"
+    },
+    {
+      "path": "problems/2020-B4/proofs/reviewed-reasoning-class-return-sq15-v1.1.md",
+      "bytes": 31963,
+      "sha256": "7367a7ee4dd98bed7c42acb1974e5cdf30a1d274702335aa0fc8d056b9880bdc"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-class-return-sq15-acceptance.json",
+      "bytes": 4963,
+      "sha256": "6c855d4dbb3ec5f76b2104013ab24a1749e6332cf02313b94aca45d8894244df"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-class-return-sq15-acceptance.md",
+      "bytes": 6274,
+      "sha256": "9d0818bc09898245faf69ce736c916a324623bea501eb82c806b70d813258a4f"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-class-return-sq15-sources-v1.1.md",
+      "bytes": 9794,
+      "sha256": "54e8b6f74c63138acae1068cd3fcfa30a32b90b25f5db6997fea478fd9e4160a"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-center-return-r21-review-2-manifest-v1.json",
+      "bytes": 3231,
+      "sha256": "369b970ef7514db6ed6a97e4462c4567da53ee78b1874ef539d2b4228401bbbb"
+    }
+  ],
+  "direct_guard_summary": {
+    "occurrences": 12,
+    "unique_paths": 12,
+    "canonical_sha256": "fcc39237dae1f3f819955bed01fbc770aa2909a4fb23cbbc8b80cc30e8432fe8"
+  },
+  "current_authorities": [
+    {
+      "immutable_current_authority": {
+        "path": "problems/2020-B4/reviews/reasoning-arithmetic-return-r14-repair-v1.1-acceptance.json",
+        "bytes": 4929,
+        "sha256": "65f60991ec83802c0b230ff4c893385e9f23bcf25993d985c16028ef24162990"
+      },
+      "candidate_identity_bound_without_recopied_ancestry": {
+        "path": "problems/2020-B4/notes/reasoning-arithmetic-return-r14-candidate-v1.1.md",
+        "bytes": 23705,
+        "sha256": "55afd51e3f83be9f7f1291a9817499bf863d5dbff6900211a93446f169f8f8f7"
+      },
+      "accepted_suffix_byte_identical": true,
+      "COMPLETE_body_EACH_MD_JSON_sources_read_in_immediately_preceding_SQ16_rotation": true,
+      "fresh_independent_recertification_or_unrelated_ancestry_reread": false,
+      "historical_root_verified_occurrences": 290,
+      "historical_root_verified_paths": 115
+    },
+    {
+      "immutable_current_authority": {
+        "path": "problems/2020-B4/reviews/reasoning-class-return-sq15-acceptance.json",
+        "bytes": 4963,
+        "sha256": "6c855d4dbb3ec5f76b2104013ab24a1749e6332cf02313b94aca45d8894244df"
+      },
+      "candidate_identity_bound_without_recopied_ancestry": {
+        "path": "problems/2020-B4/notes/reasoning-class-return-sq15-candidate-v1.1.md",
+        "bytes": 25788,
+        "sha256": "4d2696117fa8f8af5760e5034b83602c780f44f81b839fc4bcb6a3086c4825bd"
+      },
+      "accepted_suffix_byte_identical": true,
+      "COMPLETE_body_EACH_MD_JSON_sources_read_in_immediately_preceding_SQ16_rotation": true,
+      "fresh_independent_recertification_or_unrelated_ancestry_reread": false,
+      "historical_root_verified_occurrences": 210,
+      "historical_root_verified_paths": 101
+    }
+  ],
+  "immediate_own_parent": {
+    "path": "problems/2021-B4/reviews/reasoning-center-return-r21-review-2-manifest-v1.json",
+    "bytes": 3231,
+    "sha256": "369b970ef7514db6ed6a97e4462c4567da53ee78b1874ef539d2b4228401bbbb"
+  },
+  "own_parent_ALL4_payloads_directly_verified_bound_not_recopied": {
+    "occurrences": 5,
+    "unique_paths": 5,
+    "canonical_sha256": "a4259a5f0ee3298eea88f3b61e67d973734c87d6328922a5aa155a660ffae987"
+  },
+  "all_checked_summary": {
+    "occurrences": 17,
+    "unique_paths": 16,
+    "canonical_sha256": "bbf0d4e4c25f74dcda8a3e930e3841535b4b146ea1178d2cf53caa412ce71673"
+  },
+  "older_own_paths_bound_transitively": 949,
+  "older_plus_new8_own_paths_bound_transitively": 957,
+  "literal_checks": {
+    "whole_obligation_and_author_disposition_labels": 40,
+    "open_research_gap_rows_not_claimed_theorems": [
+      "SQ17-37",
+      "SQ17-38"
+    ],
+    "proposed_claim_labels": [
+      "SQ17A",
+      "SQ17B",
+      "SQ17C"
+    ],
+    "mathematical_truth_checked_by_code": false
+  },
+  "source_visual_read_ALL16_pages": true,
+  "final_journal_typeset_version_or_possible_errata_verified": false,
+  "old_cache_PDF_unchanged_and_not_redistributed": true,
+  "no_NEW_SQ16_peer_access": true
+}

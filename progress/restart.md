@@ -1,5 +1,14 @@
 # Current restart boundary —2026-10-18 19:27Brisbane
 
+Current07:46 delayed actual report:62% TOTAL ACCOUNT-WIDE/reset1792874445/90TOTAL ceiling with reserve.
+PROJECT raw2,979,154,786 includes2,840,364,032 cached input;7,870,085 reasoning output;
+138,790,754 uncached input+output; literal cutoff21:39:37UTC. OWN79293 awake verified07:39:37.
+FR10/SQ16/SQ17 exact scoped partials accepted after BOTH full audits/coordinator reconciliation.
+AR Bwhole2 frozen EMBARGO/rootwhole1 pending; R12 Bwhole1 active/rootwhole2 queued.
+A2021/C2024 new handresearch active. Browser tool blocked prior updates; no fabricated missed counts.
+[Actual delayed hourly report](status-2026-10-19-0746.md). Two complete annual/seven unresolved.
+
+
 Current04:27 hourly:60% TOTAL ACCOUNT-WIDE/reset1792874445/90TOTAL ceiling with reserve.
 PROJECT chat+descendants raw total2,930,636,390 includes2,793,975,296 cached input;
 7,791,580 reasoning output,136,661,094 uncached input+output; literal cutoff18:24:37UTC.
