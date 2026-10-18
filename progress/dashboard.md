@@ -1,24 +1,25 @@
 # Research dashboard
 
-Latest [actual hourly21:27Brisbane](status-2026-10-18-2127.md) records
-2,151,791,312tokens including6,397,887reasoning at its cutoff. NEW direct
-weekly read11:47:00UTC is31%TOTAL,current reset1792874445. [21:48checkpoint](checkpoint-2026-10-18-2148.md)
-preserves UNVERIFIED2017WO/2020R13 author packets and ENTIRErootR13 initial.
-Two complete annual answers/seven unresolved; no new promotion.2019/2021
-authors continue; B2017 ENTIRER1 complete, C R2 queued; B prepares2019
-premises, further OTHER audits queued. Next actual
-hourly12:27:42UTC. OWNawake79293 forever positively confirmed.
+Latest [actual hourly21:27Brisbane](status-2026-10-18-2127.md):
+2,151,791,312 recorded total tokens,6,397,887 reasoning subset. Fresh
+direct12:11:17UTC meter33%TOTAL/current authorized reset1792874445.
+[22:12 continuing checkpoint](checkpoint-2026-10-18-2212.md) accepts
+2017 WO1–WO3/conditional-only WO4 and2019 CT1–CT4 after both entire
+OTHER audits/full reconciliation. Two annual answers/seven unresolved.
+2020R13 and2021R18 independent whole reviews active;2024R6 research
+active. Next ACTUAL hourly12:27:42UTC. OWNawake79293/session64368;
+release at90TOTAL/actual termination. No automatic later window.
 
 
 Initial scope: nine official B4 open portions, 2017-2025. **2026 deferred by the user**, not counted as a verified problem. The 2017 problem and general 2018 enumeration are in scope; for 2019-2025, **part (b) only**. Preliminary part (a) and the already known 2018 m=5 case are excluded as research targets. See sources/open-scope-audit.md.
 
 |Year|Accepted result and present position|
 |---|---|
-|2017|Scalar limit exists; value unknown. Reviewed WC1-WC3 gives official upper<0.648. Effective global upperR/exact value remain open.|
+|2017|Scalar limit exists; value unknown. WO1–WO3/conditional-only WO4 accepted after OTHER whole48/48: exact weight-family optimum strictly improves old algebraic upper<0.648; absolute moment/tail. Uniform low-cost mass/effective upperR/exact value open.|
 |2018|COMPLETE internally reviewed general enumeration, attributed published Hering-Howard/Ottaviani reproduction; known m5 excluded as research target.|
-|2019|Reviewed1.765224<lambda<1.834843; NEW CN1-CN3 accepted after OTHER whole48/48 audits/full reconciliation: actual balanced linear-cut obstruction for ANY fixed range; specified flat exponentially negligible. Full high-cut mass/actual regime/exactlambda open.|
+|2019|Reviewed1.765224<lambda<1.834843 unchanged. CT1–CT4 accepted after OTHER whole64/64: fixed-range packing/covered-mass rarity, universal positive cut-density pointwise obstruction and explicit separator obstruction. Full high-cut mass/actual regime/exactlambda open.|
 |2020|TD1-TD5 accepted after root/A OTHER whole72/72 and full reconciliation: canonical refined ideal class retains unit obstruction; COMPLETE exact-q box, actual cube/mixed counts/all-exponent primary minimality. No new actualq/small-H evaluation; annual open.|
-|2021|NEW R17A-D accepted after root/A OTHER whole60/60/full reconciliation: actual Q* impossible, middle unit forced, ENTIRE m4 T4 removed and genuine EC narrowed to H8/H9 in exact(S),(W). R15 m5 exclusion retained. Remaining m3 EC/T4, m4 EC8/9 and other degree20 patterns. New R18 author research active UNVERIFIED.|
+|2021|NEW R17A-D accepted after root/A OTHER whole60/60/full reconciliation: actual Q* impossible, middle unit forced, ENTIRE m4 T4 removed and genuine EC narrowed to H8/H9 in exact(S),(W). R15 m5 exclusion retained. Remaining m3 EC/T4, m4 EC8/9 and other degree20 patterns. New R18 ENTIREauthor frozen UNVERIFIED; B/root OTHER whole64/64 active.|
 |2022|CF1-CF5 accepted unconditional/CF6 explicit conditional after OTHER48/48/full reconciliation: equal growth=>eventual translation, exact tail rectangle,44 EVENTS, all-N late merger/nonmerging twins; conditional336 states at12G. Universal hitting/exact timing/fiber existence open.|
 |2023|COMPLETE internally reviewed fixed positive nonsquare N classification: all(k,k),k>0 and(k,2k),(2k,k) with positive odd k. Priority unestablished.|
 |2024|Corrected AUTHORv2 R5 accepted after original OTHER32/32 and BOTH affected40/40/full reconciliation: whole n=31*32^k+1,k>=2. R4 n=15*16^k+1,k>=2 and R3 all s>=3,k>=3 accepted. General classification/priority open.|

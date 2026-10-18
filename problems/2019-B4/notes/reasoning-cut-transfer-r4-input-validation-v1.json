@@ -1,0 +1,120 @@
+{
+  "checked_utc": "2026-10-18T11:50:27.419040+00:00",
+  "administrative_only": true,
+  "input_preservation": "PASS",
+  "whole_obligation_labels": [
+    "CT-01",
+    "CT-02",
+    "CT-03",
+    "CT-04",
+    "CT-05",
+    "CT-06",
+    "CT-07",
+    "CT-08",
+    "CT-09",
+    "CT-10",
+    "CT-11",
+    "CT-12",
+    "CT-13",
+    "CT-14",
+    "CT-15",
+    "CT-16",
+    "CT-17",
+    "CT-18",
+    "CT-19",
+    "CT-20",
+    "CT-21",
+    "CT-22",
+    "CT-23",
+    "CT-24",
+    "CT-25",
+    "CT-26",
+    "CT-27",
+    "CT-28",
+    "CT-29",
+    "CT-30",
+    "CT-31",
+    "CT-32",
+    "CT-33",
+    "CT-34",
+    "CT-35",
+    "CT-36",
+    "CT-37",
+    "CT-38",
+    "CT-39",
+    "CT-40",
+    "CT-41",
+    "CT-42",
+    "CT-43",
+    "CT-44",
+    "CT-45",
+    "CT-46",
+    "CT-47",
+    "CT-48",
+    "CT-49",
+    "CT-50",
+    "CT-51",
+    "CT-52",
+    "CT-53",
+    "CT-54",
+    "CT-55",
+    "CT-56",
+    "CT-57",
+    "CT-58",
+    "CT-59",
+    "CT-60",
+    "CT-61",
+    "CT-62",
+    "CT-63",
+    "CT-64"
+  ],
+  "necessary_paths": 58,
+  "necessary_occurrences": 58,
+  "direct_declared_occurrences": 47,
+  "literal_accepted_suffixes": [
+    {
+      "authority": "problems/2019-B4/reviews/reasoning-return-r7-acceptance.json",
+      "candidate": {
+        "path": "problems/2019-B4/notes/reasoning-return-r7-candidate-v1.md",
+        "bytes": 14206,
+        "sha256": "22ab005f7f66f90f194b79cf79520b77983a67716a53f04f1c401bfed646d96f"
+      },
+      "accepted_copy": {
+        "path": "problems/2019-B4/proofs/reviewed-reasoning-return-r7-v1.1.md",
+        "bytes": 17727,
+        "sha256": "4fe222b8b1d89b6b3d66bb16c6a1985390d537eee55bb42bfefdb2d4821e351a"
+      },
+      "literal_suffix_pass": true
+    },
+    {
+      "authority": "problems/2019-B4/reviews/reasoning-critical-return-r2-acceptance.json",
+      "candidate": {
+        "path": "problems/2019-B4/notes/reasoning-critical-return-r2-candidate-v1.md",
+        "bytes": 22291,
+        "sha256": "1d672cc4eafde68da5d83cd4997dbee1a4e5274e4858bafbbc63479cc01b3de7"
+      },
+      "accepted_copy": {
+        "path": "problems/2019-B4/proofs/reviewed-reasoning-critical-return-r2-v1.1.md",
+        "bytes": 26079,
+        "sha256": "e6f2d345c96cf0b080af9e42092dc13c66b69bfe0b70cd1bcab4b33f43106881"
+      },
+      "literal_suffix_pass": true
+    },
+    {
+      "authority": "problems/2019-B4/reviews/reasoning-cut-number-r3-acceptance.json",
+      "candidate": {
+        "path": "problems/2019-B4/notes/reasoning-cut-number-r3-candidate-v1.md",
+        "bytes": 20668,
+        "sha256": "70bd911506828e64f101028125594871a3e0325fe861deb99e4d9651991f6388"
+      },
+      "accepted_copy": {
+        "path": "problems/2019-B4/proofs/reviewed-reasoning-cut-number-r3-v1.1.md",
+        "bytes": 24864,
+        "sha256": "639ce9d0b13ca53b33da927518ce0aee250d09d562e4ed67e9537cd88ebde6a9"
+      },
+      "literal_suffix_pass": true
+    }
+  ],
+  "mathematical_test_scan_CAS_or_certificate_run": false,
+  "TWO_OTHER_whole_audits_pending": true
+}

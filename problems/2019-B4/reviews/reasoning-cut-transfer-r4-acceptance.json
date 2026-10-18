@@ -1,0 +1,123 @@
+{
+  "accepted_at_utc": "2026-10-18T12:10:14.628801+00:00",
+  "status": "proved, independently reviewed scoped partial result",
+  "whole_initials_blind": true,
+  "root_read_full_candidate_both_reports_all_ledgers_sources": true,
+  "unresolved_substantive_issues": 0,
+  "repair_required": false,
+  "candidate": {
+    "path": "problems/2019-B4/notes/reasoning-cut-transfer-r4-candidate-v1.md",
+    "bytes": 30084,
+    "sha256": "05bbef77c012ee1e8dc516283e444f09b66ac184896d1d92651719ccf6f39648"
+  },
+  "accepted_copy": {
+    "path": "problems/2019-B4/proofs/reviewed-reasoning-cut-transfer-r4-v1.1.md",
+    "bytes": 35644,
+    "sha256": "1486dfce946cdc4a0d7a1d2a8ec658f6f7b7910b7988959c5654568c63a3a58f"
+  },
+  "verification_metadata": [
+    {
+      "path": "problems/2019-B4/notes/reasoning-cut-transfer-r4-freeze-v1.json",
+      "bytes": 2732,
+      "sha256": "49123da7a3382b51694438f936965a24ce359f5fe4d0d3ea9549e20a037002c9"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-cut-transfer-r4-baseline-v1.json",
+      "bytes": 4995,
+      "sha256": "b19d10d3b208741183ff793904d67087ff2bee2549b378a93fa4299b1dc796fe"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-cut-transfer-r4-metadata-v1.json",
+      "bytes": 2083,
+      "sha256": "c0c9836021e37c653ef1a141e0dbce8ef3c6d162581d1f999ebd1e62f9c654f1"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-cut-transfer-r4-input-validation-v1.json",
+      "bytes": 2965,
+      "sha256": "6fdd78addec569e6249710624aa89d685870b7a45303d921c467b294a0a2e9a5"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-cut-transfer-r4-review-1-manifest-v1.json",
+      "bytes": 7145,
+      "sha256": "92e7872c0aa8af19e662b6b20c3ad7f044e5413f75ee038cc672285438df1af2"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-cut-transfer-r4-review-1-baseline-v1.json",
+      "bytes": 10943,
+      "sha256": "928ebb9933aaf748c208f6dbcfe5cc7dfc73ffe3a916723040d9ce5606054edf"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-cut-transfer-r4-review-1-input-validation-v1.json",
+      "bytes": 672,
+      "sha256": "4072c116d150e763eb869509d4d5dabae21d192dd581e6626ff6092bca12324c"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-cut-transfer-r4-review-1-sources-v1.json",
+      "bytes": 4002,
+      "sha256": "5939f190ac08adf6ee0d57bd3388ea59ff9377a66cb973edef6eb6e763fd947b"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-cut-transfer-r4-review-2-manifest-v1.json",
+      "bytes": 2712,
+      "sha256": "6c82a6243d9a25a48e44ad82be81e0f16cb38aaf9875d98a838c8285f9cc0ce3"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-cut-transfer-r4-review-2-baseline-v1.json",
+      "bytes": 7296,
+      "sha256": "8bb9184463a4150d77aba196bb6cd95e4a47f20e46b87f023a1bb9b207f6296d"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-cut-transfer-r4-review-2-metadata-v1.json",
+      "bytes": 692,
+      "sha256": "8fcdc57cd96169f0b1dc94e3a8a45b28dbb014368f4d05ca5006bdf89c24dd4a"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-cut-transfer-r4-review-2-input-validation-v1.json",
+      "bytes": 412,
+      "sha256": "4e2db9368237a2969b9a6fa3c158ab4023f0225c6e4e958bc30480146eb2e382"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-return-r7-acceptance.json",
+      "bytes": 2560,
+      "sha256": "94ca56672f32f4624af71f41c48ddcf8757f1316b956586f6834cd1d7ee3b38b"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-critical-return-r2-acceptance.json",
+      "bytes": 3840,
+      "sha256": "8a2307f748813cf6f51c302347a7bf970d0fb22da937a72ca08bdc7135ca886e"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-cut-number-r3-acceptance.json",
+      "bytes": 3589,
+      "sha256": "fcdee6195b46aa7df64a5250da16c3cdf85f2eec5896b040fdba36192693f347"
+    }
+  ],
+  "record_occurrences_verified": 178,
+  "unique_paths_verified": 86,
+  "accepted_claims": [
+    "CT1",
+    "CT2",
+    "CT3",
+    "CT4"
+  ],
+  "constructor": "/root/review_2017_coarsening_r1",
+  "constructor_excluded": true,
+  "OTHER_nonconstructors": [
+    "/root/review_2022_complexity_r2",
+    "/root"
+  ],
+  "whole_obligations_per_reviewer": 64,
+  "BOTH_ENTIRE_initials_confirmed_before_findings_and_root_peer_file_access": true,
+  "all128_dispositions_reconciled": true,
+  "closed_notes_B": 8,
+  "closed_notes_root": 6,
+  "whole_high_cut_mass_mean_or_renewal_proved": false,
+  "exact_value_unmarked_ratio_annual_priority": false,
+  "mathematical_program_scan_or_CAS_executed": false,
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independent_effective_readback": null
+}

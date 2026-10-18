@@ -215,3 +215,6 @@ Actual2026-10-18 21:27Brisbane:30%TOTAL authorizedreset1792874445; ordinaryallow
 
 
 Direct2026-10-18 11:47:00UTC:31%TOTAL,10080min/reset1792874445; ordinaryallowed/viewsagree,59pp to90/reserve. No new raw-token collection; latestactualhourly21:27Brisbane. OWNawake79293forever34:38:42 positivelyconfirmed21:46:32Brisbane. Currentwindowonly,nextactualhourly12:27:42UTC.
+
+
+Direct2026-10-18 12:11:17UTC:33%TOTAL/10080min/reset1792874445,ordinaryallowed/viewsagree,57pp to90TOTAL with reserve. WO/CT scoped acceptance does not end research. Raw latestactualhourly21:27Brisbane unchanged; next12:27:42UTC. Current authorized window only.

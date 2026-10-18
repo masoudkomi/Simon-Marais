@@ -1,5 +1,7 @@
 # 2017 B4 independent reviews
 
+2026-10-18: [WO1–WO3 and conditional-only WO4](coordinator-weighted-optimum-r2-acceptance.md) accepted after B/C OTHER ENTIRE WHOLE48/48 audits and full root reconciliation. Exact family optimum/strict algebraic improvement and absolute weighted moment/count tail; uniform low-cost mass, exact value, annual answer and priority remain open. Root constructor excluded.
+
 Historical initial template: for every candidate record its exact version/hash, official statement comparison, line-by-line audit, theorem hypotheses, boundary/counterexample checks, unresolved objections and verdict. At least one reviewer reconstructs the whole proof. Two initial reports must be independent and blind to one another.
 
 

@@ -1,0 +1,118 @@
+{
+  "frozen_at_utc": "2026-10-18T11:48:09.780107+00:00",
+  "status": "ENTIRE initially blind OTHER WHOLE review1; not coordinator acceptance",
+  "reviewer": "/root/review_2022_complexity_r2",
+  "whole_obligations": 48,
+  "ENTIRE_main_ALL48_ledger_issues_sources_log_code_ALLmetadata_frozen": true,
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independently_verified_effective_readback": null,
+  "reviewer_constructed_or_supplied_NEW_proof_inference": false,
+  "root_sole_constructor_excluded": true,
+  "corresponding_NEW_peer_report_findings_files_hash_or_metadata_accessed": false,
+  "initial_handoff_IDENTITY_ONLY_until_BOTH_ENTIRE_freezes_confirmed": true,
+  "review_finding": {
+    "substantive_defects": 0,
+    "required_author_repairs": 0,
+    "unresolved_mathematical_issues": 0,
+    "closed_scope_notes": 6
+  },
+  "WO4_low_cost_hypothesis_remains_unproved_and_conditional": true,
+  "author_main": {
+    "path": "problems/2017-B4/notes/coordinator-weighted-optimum-r2-candidate-v1.md",
+    "bytes": 14252,
+    "sha256": "ca09c36677badac6649775d2ade78a4f5af90fcbdafd0648a6bf8541e835e533"
+  },
+  "author_freeze": {
+    "path": "problems/2017-B4/notes/coordinator-weighted-optimum-r2-freeze-v1.json",
+    "bytes": 2906,
+    "sha256": "e8c60dd823a4e88c0b7d9cd5eb820f13c2791ca69b00317195c806faf51e30ec"
+  },
+  "accepted_WC_occurrences_paths_bound_not_replayed": [
+    102,
+    49
+  ],
+  "compact_necessary_baseline": {
+    "path": "problems/2017-B4/reviews/coordinator-weighted-optimum-r2-review-1-baseline-v1.json",
+    "bytes": 7635,
+    "sha256": "d7bc8a2785c1afbbc26392490db55748ec27e9e7d19f260896bed968627f31c4"
+  },
+  "protected_fingerprint_occurrences": 31,
+  "protected_unique_paths": 31,
+  "canonical_protected_summary_sha256": "373549526e406470f04df73123176bcc4752e0d17a81dfa901b709a47916f86d",
+  "immediate_own_parent": {
+    "path": "problems/2020-B4/notes/reasoning-arithmetic-return-r13-freeze-v1.json",
+    "bytes": 6630,
+    "sha256": "eba097f9c6bffc2549fef51ef74b99962b16affa86a7dcaf9679bab95ad8adbe"
+  },
+  "older_own_paths_bound_transitively": 719,
+  "new_review_files_including_manifest": 10,
+  "older_plus_new_own_paths_bound_transitively": 729,
+  "no_historical_inventory_recopy_or_recursive_replay": true,
+  "no_mathematical_code_scan_test_optimizer_CAS_source_author_or_old_freezer_replay": true,
+  "no_old_shared_Git_cache_edit_spawn_download_charge_contact_or_bypass": true,
+  "authoritative_weekly_telemetry": {
+    "observed_at_utc": "2026-10-18 11:41:34 UTC",
+    "method": "direct clock and get_usage_limits in same awaited independent batch",
+    "used_percent_TOTAL": 31,
+    "window_minutes": 10080,
+    "reset_unix": 1792874445,
+    "ordinary_usage_allowed": true,
+    "legacy_by_limit_agree": true,
+    "account_label": "029a8928...1334ac3a",
+    "human_authorized_current_window_only": true,
+    "TOTAL_ceiling": 90,
+    "integration_reserve": true,
+    "automatic_later_reset_spending": false
+  },
+  "artifacts": [
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-optimum-r2-review-1-initial-v1.md",
+      "bytes": 13531,
+      "sha256": "dd217c7d4151779b62004acbba28e192f88a8de9d1e481583f25cf76f63ece0e"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-optimum-r2-review-1-ledger-v1.md",
+      "bytes": 7018,
+      "sha256": "bd5bf7a610848a7dc81e0ffc2c18e6c6f0e90f210a85d74ee94fd4aae6fb61e7"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-optimum-r2-review-1-issues-v1.md",
+      "bytes": 2801,
+      "sha256": "a677a2274941bcbed2f60de16bee50d295ac0b95a7da1e264a6ab6f8c2306bbc"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-optimum-r2-review-1-source-checks-v1.md",
+      "bytes": 5711,
+      "sha256": "72b7da876c69b441df436e71f839441f4f40c9c40eabe30f304c7ae8a0b2ac5f"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-optimum-r2-review-1-sources-v1.json",
+      "bytes": 3999,
+      "sha256": "c329bc63014ea92367a1b20c744a4694db8bac16744ff157e1b204b41aa73790"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-optimum-r2-review-1-worklog-v1.md",
+      "bytes": 4953,
+      "sha256": "59fc19ddb8dc815e98a848123e4f2b4e8444195b03c1677afe3ba48bae7e3f09"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-optimum-r2-review-1-freeze-v1.py",
+      "bytes": 12505,
+      "sha256": "32b538c19ef1ea2c59c53139d768a7e3f9b8cc4d0dc543eaed0efd381709d6ab"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-optimum-r2-review-1-baseline-v1.json",
+      "bytes": 7635,
+      "sha256": "d7bc8a2785c1afbbc26392490db55748ec27e9e7d19f260896bed968627f31c4"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-optimum-r2-review-1-input-validation-v1.json",
+      "bytes": 622,
+      "sha256": "39288f23b7dacc20cb3ea88e904d1c60fd2a74ace0d7ab16ae23c49792a85dee"
+    }
+  ]
+}

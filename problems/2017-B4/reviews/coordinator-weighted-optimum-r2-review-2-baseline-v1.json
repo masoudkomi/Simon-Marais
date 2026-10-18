@@ -1,0 +1,74 @@
+{
+  "captured_utc": "2026-10-18T11:58:13.020280+00:00",
+  "administrative_only": true,
+  "immediate_own_parent": {
+    "path": "problems/2019-B4/notes/reasoning-cut-transfer-r4-freeze-v1.json",
+    "bytes": 2732,
+    "sha256": "49123da7a3382b51694438f936965a24ce359f5fe4d0d3ea9549e20a037002c9"
+  },
+  "target_freeze": {
+    "path": "problems/2017-B4/notes/coordinator-weighted-optimum-r2-freeze-v1.json",
+    "bytes": 2906,
+    "sha256": "e8c60dd823a4e88c0b7d9cd5eb820f13c2791ca69b00317195c806faf51e30ec"
+  },
+  "bound_inputs": {
+    "entrypoint_bindings": [
+      {
+        "path": "problems/2017-B4/notes/coordinator-weighted-optimum-r2-freeze-v1.json",
+        "bytes": 2906,
+        "sha256": "e8c60dd823a4e88c0b7d9cd5eb820f13c2791ca69b00317195c806faf51e30ec"
+      },
+      {
+        "path": "problems/2017-B4/notes/coordinator-weighted-optimum-r2-baseline-v1.json",
+        "bytes": 6011,
+        "sha256": "84b34607d73581e1526af5075cd3ca24b6ab7a49ec91935a2218a038c26f29bb"
+      },
+      {
+        "path": "problems/2017-B4/reviews/coordinator-weighted-cutpath-r1-acceptance.json",
+        "bytes": 4259,
+        "sha256": "239e1b755d51dafc48fad36ad38063608dfd64c0546b8886e1d66b6b4e9ba915"
+      },
+      {
+        "path": "problems/2019-B4/notes/reasoning-cut-transfer-r4-freeze-v1.json",
+        "bytes": 2732,
+        "sha256": "49123da7a3382b51694438f936965a24ce359f5fe4d0d3ea9549e20a037002c9"
+      }
+    ],
+    "standalone_bindings": [
+      {
+        "path": "AGENTS.md",
+        "bytes": 4707,
+        "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+      },
+      {
+        "path": "problems/2017-B4/statement.md",
+        "bytes": 2140,
+        "sha256": "e459750064b4e25e3eaa71f25f236c046548147e415b06d8bd097839020228f3"
+      },
+      {
+        "path": "problems/2017-B4/reviews/coordinator-weighted-cutpath-r1-acceptance.md",
+        "bytes": 3317,
+        "sha256": "efbf4044c88fb18d7de0696980434176319fbc0bcb6eddffb56c4235ace08e61"
+      },
+      {
+        "path": "problems/2017-B4/notes/coordinator-weighted-cutpath-r1-source-audit-v1.md",
+        "bytes": 4012,
+        "sha256": "7576946d63e3a60d544cb34ca663137a0ee779e826a6d7bb2468d1205db58dc8"
+      },
+      {
+        "path": "problems/2017-B4/notes/coordinator-weighted-cutpath-r1-sources-v1.json",
+        "bytes": 2162,
+        "sha256": "59df5af7382295456a556b6d96ae2fb630e99fc0a7af11b9510afcf0672da8a8"
+      }
+    ],
+    "constructor_entire_files": 11,
+    "necessary_direct_declarations_verified": 62,
+    "necessary_fingerprint_occurrences": 71,
+    "deduplicated_necessary_paths": 54,
+    "WC_current_authority_and_literal_suffix_exact": true,
+    "author_living_context_snapshots_not_immutable_guards": true,
+    "no_recursive_expansion_of_historical_inventories": true,
+    "no_corresponding_NEW_B_WO_file_hash_metadata_access": true
+  },
+  "compact_provenance_policy": "Verify necessary direct declared fingerprints; bind immutable metadata roots by whole-file bytes/SHA instead of recopying nested historical inventory."
+}

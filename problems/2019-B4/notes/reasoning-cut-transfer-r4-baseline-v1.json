@@ -1,0 +1,120 @@
+{
+  "created_utc": "2026-10-18T11:49:34.780645+00:00",
+  "purpose": "compact own-parent-bound provenance; administrative integrity only",
+  "immediate_own_parent": {
+    "path": "problems/2025-B4/reviews/reasoning-branch-return-r4-review-2-manifest-v1.json",
+    "bytes": 2966,
+    "sha256": "64add39dfc128c58113342c1a8005ad3218f3e62572fe923ae67219f498be640"
+  },
+  "preservation_policy": "Verify direct declared fingerprints at the immutable parent and exact operative acceptance roots. Bind nested historical metadata by its own whole-file bytes/SHA; do not expand or duplicate growing historical inventories.",
+  "bound_inputs": {
+    "root_bindings": [
+      {
+        "path": "problems/2025-B4/reviews/reasoning-branch-return-r4-review-2-manifest-v1.json",
+        "bytes": 2966,
+        "sha256": "64add39dfc128c58113342c1a8005ad3218f3e62572fe923ae67219f498be640"
+      },
+      {
+        "path": "problems/2019-B4/reviews/reasoning-return-r7-acceptance.json",
+        "bytes": 2560,
+        "sha256": "94ca56672f32f4624af71f41c48ddcf8757f1316b956586f6834cd1d7ee3b38b"
+      },
+      {
+        "path": "problems/2019-B4/reviews/reasoning-critical-return-r2-acceptance.json",
+        "bytes": 3840,
+        "sha256": "8a2307f748813cf6f51c302347a7bf970d0fb22da937a72ca08bdc7135ca886e"
+      },
+      {
+        "path": "problems/2019-B4/reviews/reasoning-cut-number-r3-acceptance.json",
+        "bytes": 3589,
+        "sha256": "fcdee6195b46aa7df64a5250da16c3cdf85f2eec5896b040fdba36192693f347"
+      }
+    ],
+    "standalone_inputs": [
+      {
+        "path": "AGENTS.md",
+        "bytes": 4707,
+        "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+      },
+      {
+        "path": "problems/2019-B4/statement.md",
+        "bytes": 1252,
+        "sha256": "53d4201dca8bc4a77d995e3df14f95dd146e2df0c82d3b6447ad35a348e89de9"
+      },
+      {
+        "path": "problems/2019-B4/research.md",
+        "bytes": 11981,
+        "sha256": "58c4473d84f9fc7c26b80c941c7f0abbed8e5945f08f5d7a621205f3190e4dfe"
+      },
+      {
+        "path": "problems/2019-B4/references.md",
+        "bytes": 3085,
+        "sha256": "9fe78752cc108ca1cb0e26b1dfd9bc87d06038d30cdf4d08fb6c15b317a92d1d"
+      },
+      {
+        "path": "problems/2019-B4/reviews/reasoning-return-r7-acceptance.md",
+        "bytes": 3622,
+        "sha256": "726a164f245effafcd1473522eac4fa58418e69fdfba858431685fbf15949234"
+      },
+      {
+        "path": "problems/2019-B4/reviews/reasoning-critical-return-r2-acceptance.md",
+        "bytes": 3886,
+        "sha256": "4b083ee8440cdb2594467570ebd5ecd4d65c0962c34656b3b66bfbf4110c2f17"
+      },
+      {
+        "path": "problems/2019-B4/reviews/reasoning-cut-number-r3-acceptance.md",
+        "bytes": 4294,
+        "sha256": "432c2cfe6b145c59f11043f2fca80a904d39610a50cc3909c5b22f8a02db4feb"
+      }
+    ],
+    "direct_declared_fingerprint_occurrences": 47,
+    "all_necessary_occurrences_with_root_and_standalone": 58,
+    "deduplicated_necessary_paths": 58,
+    "literal_accepted_suffixes": [
+      {
+        "authority": "problems/2019-B4/reviews/reasoning-return-r7-acceptance.json",
+        "candidate": {
+          "path": "problems/2019-B4/notes/reasoning-return-r7-candidate-v1.md",
+          "bytes": 14206,
+          "sha256": "22ab005f7f66f90f194b79cf79520b77983a67716a53f04f1c401bfed646d96f"
+        },
+        "accepted_copy": {
+          "path": "problems/2019-B4/proofs/reviewed-reasoning-return-r7-v1.1.md",
+          "bytes": 17727,
+          "sha256": "4fe222b8b1d89b6b3d66bb16c6a1985390d537eee55bb42bfefdb2d4821e351a"
+        },
+        "literal_suffix_pass": true
+      },
+      {
+        "authority": "problems/2019-B4/reviews/reasoning-critical-return-r2-acceptance.json",
+        "candidate": {
+          "path": "problems/2019-B4/notes/reasoning-critical-return-r2-candidate-v1.md",
+          "bytes": 22291,
+          "sha256": "1d672cc4eafde68da5d83cd4997dbee1a4e5274e4858bafbbc63479cc01b3de7"
+        },
+        "accepted_copy": {
+          "path": "problems/2019-B4/proofs/reviewed-reasoning-critical-return-r2-v1.1.md",
+          "bytes": 26079,
+          "sha256": "e6f2d345c96cf0b080af9e42092dc13c66b69bfe0b70cd1bcab4b33f43106881"
+        },
+        "literal_suffix_pass": true
+      },
+      {
+        "authority": "problems/2019-B4/reviews/reasoning-cut-number-r3-acceptance.json",
+        "candidate": {
+          "path": "problems/2019-B4/notes/reasoning-cut-number-r3-candidate-v1.md",
+          "bytes": 20668,
+          "sha256": "70bd911506828e64f101028125594871a3e0325fe861deb99e4d9651991f6388"
+        },
+        "accepted_copy": {
+          "path": "problems/2019-B4/proofs/reviewed-reasoning-cut-number-r3-v1.1.md",
+          "bytes": 24864,
+          "sha256": "639ce9d0b13ca53b33da927518ce0aee250d09d562e4ed67e9537cd88ebde6a9"
+        },
+        "literal_suffix_pass": true
+      }
+    ]
+  },
+  "no_old_shared_cache_Git_mutations": true,
+  "no_corresponding_NEW_2017_WO_peer_file_hash_metadata_accessed": true
+}

@@ -1,0 +1,113 @@
+{
+  "accepted_at_utc": "2026-10-18T12:04:08.148434+00:00",
+  "status": "proved, independently reviewed scoped partial result",
+  "whole_initials_blind": true,
+  "root_read_full_candidate_both_reports_all_ledgers_sources": true,
+  "unresolved_substantive_issues": 0,
+  "repair_required": false,
+  "candidate": {
+    "path": "problems/2017-B4/notes/coordinator-weighted-optimum-r2-candidate-v1.md",
+    "bytes": 14252,
+    "sha256": "ca09c36677badac6649775d2ade78a4f5af90fcbdafd0648a6bf8541e835e533"
+  },
+  "accepted_copy": {
+    "path": "problems/2017-B4/proofs/reviewed-weighted-optimum-r2-v1.1.md",
+    "bytes": 18824,
+    "sha256": "dcc12d2989e5ab657960498179e2585e62ad35ffb1989a4bca72fef8fb953f9a"
+  },
+  "verification_metadata": [
+    {
+      "path": "problems/2017-B4/notes/coordinator-weighted-optimum-r2-freeze-v1.json",
+      "bytes": 2906,
+      "sha256": "e8c60dd823a4e88c0b7d9cd5eb820f13c2791ca69b00317195c806faf51e30ec"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-weighted-optimum-r2-baseline-v1.json",
+      "bytes": 6011,
+      "sha256": "84b34607d73581e1526af5075cd3ca24b6ab7a49ec91935a2218a038c26f29bb"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-weighted-optimum-r2-metadata-v1.json",
+      "bytes": 1464,
+      "sha256": "e6746b4848ae149c2e2c6445b7998843c1056e735354688a09309c23913fc0c4"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-weighted-optimum-r2-input-validation-v1.json",
+      "bytes": 470,
+      "sha256": "bfbfa477a63941c725f8f273e275cc245847e9dda0e35372d40465e8e6d793b7"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-optimum-r2-review-1-manifest-v1.json",
+      "bytes": 4968,
+      "sha256": "6cbf7bc0f9c179f4c2fac6dc0e48e41b3dce177d3bf3725612c344b897b118ca"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-optimum-r2-review-1-baseline-v1.json",
+      "bytes": 7635,
+      "sha256": "d7bc8a2785c1afbbc26392490db55748ec27e9e7d19f260896bed968627f31c4"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-optimum-r2-review-1-input-validation-v1.json",
+      "bytes": 622,
+      "sha256": "39288f23b7dacc20cb3ea88e904d1c60fd2a74ace0d7ab16ae23c49792a85dee"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-optimum-r2-review-1-sources-v1.json",
+      "bytes": 3999,
+      "sha256": "c329bc63014ea92367a1b20c744a4694db8bac16744ff157e1b204b41aa73790"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-optimum-r2-review-2-manifest-v1.json",
+      "bytes": 2983,
+      "sha256": "6fd3f0358279e95f7c76ca4b2dda1bb8162db43d49270d0ee561a26999f07750"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-optimum-r2-review-2-baseline-v1.json",
+      "bytes": 3044,
+      "sha256": "161de87c491238aee4a684f1009f5edbeeeadf038dc915ec2eea49ff6ab3a806"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-optimum-r2-review-2-metadata-v1.json",
+      "bytes": 1667,
+      "sha256": "2812c61123467d1bb009520eeb7f10c4631a969bf989fe614721681aa4a40009"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-optimum-r2-review-2-input-validation-v1.json",
+      "bytes": 1068,
+      "sha256": "8f533f2e5fde6463b114687f4de36898bac6206565bfbb47e121c32de8436c90"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-cutpath-r1-acceptance.json",
+      "bytes": 4259,
+      "sha256": "239e1b755d51dafc48fad36ad38063608dfd64c0546b8886e1d66b6b4e9ba915"
+    }
+  ],
+  "record_occurrences_verified": 122,
+  "unique_paths_verified": 74,
+  "accepted_claims": [
+    "WO1",
+    "WO2",
+    "WO3",
+    "WO4 explicit conditional ONLY"
+  ],
+  "constructor": "/root",
+  "constructor_excluded": true,
+  "OTHER_nonconstructors": [
+    "/root/review_2022_complexity_r2",
+    "/root/review_2017_coarsening_r1"
+  ],
+  "whole_obligations_per_reviewer": 48,
+  "BOTH_ENTIRE_initials_confirmed_before_findings_and_root_peer_file_access": true,
+  "all96_dispositions_reconciled": true,
+  "closed_notes_B": 6,
+  "closed_notes_C": 3,
+  "actual_LC_or_uniform_cost_density_proved": false,
+  "exact_value_effective_R_matching_lower_annual_or_priority": false,
+  "mathematical_program_scan_or_optimizer_executed": false,
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independent_effective_readback": null
+}

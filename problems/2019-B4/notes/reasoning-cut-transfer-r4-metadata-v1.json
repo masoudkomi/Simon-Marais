@@ -1,0 +1,51 @@
+{
+  "frozen_utc": "2026-10-18T11:50:27.419040+00:00",
+  "status": "candidate proof - unverified",
+  "constructor": "/root/review_2017_coarsening_r1",
+  "requested_model": "gpt-6.1-sol",
+  "requested_reasoning": "max",
+  "effective_setting_readback": "unavailable",
+  "official_scope": "2019 B4(b) only",
+  "whole_obligations": 64,
+  "entire_packet_file_count": 11,
+  "immediate_own_parent": {
+    "path": "problems/2025-B4/reviews/reasoning-branch-return-r4-review-2-manifest-v1.json",
+    "bytes": 2966,
+    "sha256": "64add39dfc128c58113342c1a8005ad3218f3e62572fe923ae67219f498be640"
+  },
+  "compact_baseline": {
+    "path": "problems/2019-B4/notes/reasoning-cut-transfer-r4-baseline-v1.json",
+    "bytes": 4995,
+    "sha256": "b19d10d3b208741183ff793904d67087ff2bee2549b378a93fa4299b1dc796fe"
+  },
+  "proof_claims": [
+    "CT1",
+    "CT2",
+    "CT3",
+    "CT4"
+  ],
+  "old_roles": "CR/CN and other older reviewer roles; not new CT self-certification",
+  "root_new_proof_contribution": false,
+  "TWO_OTHER_initially_blind_ENTIRE_WHOLE_audits_required": true,
+  "selected_renewal_regime_exact_lambda_or_annual_claim": false,
+  "mathematical_executable_scan_CAS_or_certificate_run": false,
+  "source_reads": {
+    "official_PDF_B4b_checked": true,
+    "accepted_R7_CR_CN_complete_bodies_current_authorities": true,
+    "primary_multivalued_map_Lemma_1_5_entire_proof": true,
+    "SAW_model_theorem_imported": false,
+    "original_Kesten_full_body_read": false,
+    "remote_sources_downloaded_or_local_hash_claimed": false
+  },
+  "no_old_shared_cache_or_Git_mutations": true,
+  "no_new_corresponding_queued_WO_peer_material_accessed": true,
+  "no_pending_operation_approval_or_owned_job": true,
+  "last_parent_authoritative_total_weekly_percent": 30,
+  "own_transition_authoritative_total_weekly_percent": 31,
+  "own_transition_readback_utc": "2026-10-18T11:50:11+00:00",
+  "authorized_reset_unix": 1792874445,
+  "total_ceiling_percent": 90,
+  "reserve_required": true,
+  "automatic_later_window_authorized": false,
+  "full_readback_and_separate_verify_required_after_freeze": true
+}

@@ -1,0 +1,181 @@
+{
+  "created_at_utc": "2026-10-18T11:59:11.016793+00:00",
+  "purpose": "CT OTHER whole R2 integrity only",
+  "protected_paths": 25,
+  "fingerprints": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-critical-return-r2-candidate-v1.md",
+      "bytes": 22291,
+      "sha256": "1d672cc4eafde68da5d83cd4997dbee1a4e5274e4858bafbbc63479cc01b3de7"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-cut-number-r3-candidate-v1.md",
+      "bytes": 20668,
+      "sha256": "70bd911506828e64f101028125594871a3e0325fe861deb99e4d9651991f6388"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-cut-transfer-r4-baseline-v1.json",
+      "bytes": 4995,
+      "sha256": "b19d10d3b208741183ff793904d67087ff2bee2549b378a93fa4299b1dc796fe"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-cut-transfer-r4-candidate-v1.md",
+      "bytes": 30084,
+      "sha256": "05bbef77c012ee1e8dc516283e444f09b66ac184896d1d92651719ccf6f39648"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-cut-transfer-r4-constructor-checks-v1.md",
+      "bytes": 7595,
+      "sha256": "3032b09511e280c5cf161f450fa7703f73cb60893a9a61c7b75e63c9adf2c28b"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-cut-transfer-r4-failed-routes-v1.md",
+      "bytes": 4819,
+      "sha256": "562664741a1f87b28eb3f6bcd43cedf3f0778491423500f731d2b5e37a3063ee"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-cut-transfer-r4-freeze-v1.json",
+      "bytes": 2732,
+      "sha256": "49123da7a3382b51694438f936965a24ce359f5fe4d0d3ea9549e20a037002c9"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-cut-transfer-r4-freeze-v1.py",
+      "bytes": 9852,
+      "sha256": "e01acc7e5c24025008efee5504fa131a3630b8f629e3dd4c3bde473272d7b41c"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-cut-transfer-r4-input-validation-v1.json",
+      "bytes": 2965,
+      "sha256": "6fdd78addec569e6249710624aa89d685870b7a45303d921c467b294a0a2e9a5"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-cut-transfer-r4-metadata-v1.json",
+      "bytes": 2083,
+      "sha256": "c0c9836021e37c653ef1a141e0dbce8ef3c6d162581d1f999ebd1e62f9c654f1"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-cut-transfer-r4-obligations-v1.md",
+      "bytes": 6646,
+      "sha256": "ff878b8dc723e4b597284650669c9d1a9aaf4ef52ac30fb1d93eb717e1f107dd"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-cut-transfer-r4-sources-v1.md",
+      "bytes": 5368,
+      "sha256": "8994204214aae34a71f6c5f3f60578d7c0d67cd19c131986cab14851d6f26abd"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-cut-transfer-r4-worklog-v1.md",
+      "bytes": 6106,
+      "sha256": "72b20024c5cbc914ee1c29f81b6120acd12d42cec5ace111bf744e586417344d"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-return-r7-candidate-v1.md",
+      "bytes": 14206,
+      "sha256": "22ab005f7f66f90f194b79cf79520b77983a67716a53f04f1c401bfed646d96f"
+    },
+    {
+      "path": "problems/2019-B4/proofs/reviewed-reasoning-critical-return-r2-v1.1.md",
+      "bytes": 26079,
+      "sha256": "e6f2d345c96cf0b080af9e42092dc13c66b69bfe0b70cd1bcab4b33f43106881"
+    },
+    {
+      "path": "problems/2019-B4/proofs/reviewed-reasoning-cut-number-r3-v1.1.md",
+      "bytes": 24864,
+      "sha256": "639ce9d0b13ca53b33da927518ce0aee250d09d562e4ed67e9537cd88ebde6a9"
+    },
+    {
+      "path": "problems/2019-B4/proofs/reviewed-reasoning-return-r7-v1.1.md",
+      "bytes": 17727,
+      "sha256": "4fe222b8b1d89b6b3d66bb16c6a1985390d537eee55bb42bfefdb2d4821e351a"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-critical-return-r2-acceptance.json",
+      "bytes": 3840,
+      "sha256": "8a2307f748813cf6f51c302347a7bf970d0fb22da937a72ca08bdc7135ca886e"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-critical-return-r2-acceptance.md",
+      "bytes": 3886,
+      "sha256": "4b083ee8440cdb2594467570ebd5ecd4d65c0962c34656b3b66bfbf4110c2f17"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-cut-number-r3-acceptance.json",
+      "bytes": 3589,
+      "sha256": "fcdee6195b46aa7df64a5250da16c3cdf85f2eec5896b040fdba36192693f347"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-cut-number-r3-acceptance.md",
+      "bytes": 4294,
+      "sha256": "432c2cfe6b145c59f11043f2fca80a904d39610a50cc3909c5b22f8a02db4feb"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-return-r7-acceptance.json",
+      "bytes": 2560,
+      "sha256": "94ca56672f32f4624af71f41c48ddcf8757f1316b956586f6834cd1d7ee3b38b"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-return-r7-acceptance.md",
+      "bytes": 3622,
+      "sha256": "726a164f245effafcd1473522eac4fa58418e69fdfba858431685fbf15949234"
+    },
+    {
+      "path": "problems/2019-B4/statement.md",
+      "bytes": 1252,
+      "sha256": "53d4201dca8bc4a77d995e3df14f95dd146e2df0c82d3b6447ad35a348e89de9"
+    }
+  ],
+  "current_accepted_bindings": [
+    {
+      "authority": "problems/2019-B4/reviews/reasoning-return-r7-acceptance.json",
+      "accepted_body": {
+        "path": "problems/2019-B4/proofs/reviewed-reasoning-return-r7-v1.1.md",
+        "bytes": 17727,
+        "sha256": "4fe222b8b1d89b6b3d66bb16c6a1985390d537eee55bb42bfefdb2d4821e351a"
+      },
+      "candidate_suffix": {
+        "path": "problems/2019-B4/notes/reasoning-return-r7-candidate-v1.md",
+        "bytes": 14206,
+        "sha256": "22ab005f7f66f90f194b79cf79520b77983a67716a53f04f1c401bfed646d96f"
+      },
+      "historical_occurrences_NOT_recursively_replayed": 5859,
+      "historical_paths_NOT_recursively_replayed": 1136
+    },
+    {
+      "authority": "problems/2019-B4/reviews/reasoning-critical-return-r2-acceptance.json",
+      "accepted_body": {
+        "path": "problems/2019-B4/proofs/reviewed-reasoning-critical-return-r2-v1.1.md",
+        "bytes": 26079,
+        "sha256": "e6f2d345c96cf0b080af9e42092dc13c66b69bfe0b70cd1bcab4b33f43106881"
+      },
+      "candidate_suffix": {
+        "path": "problems/2019-B4/notes/reasoning-critical-return-r2-candidate-v1.md",
+        "bytes": 22291,
+        "sha256": "1d672cc4eafde68da5d83cd4997dbee1a4e5274e4858bafbbc63479cc01b3de7"
+      },
+      "historical_occurrences_NOT_recursively_replayed": 199,
+      "historical_paths_NOT_recursively_replayed": 68
+    },
+    {
+      "authority": "problems/2019-B4/reviews/reasoning-cut-number-r3-acceptance.json",
+      "accepted_body": {
+        "path": "problems/2019-B4/proofs/reviewed-reasoning-cut-number-r3-v1.1.md",
+        "bytes": 24864,
+        "sha256": "639ce9d0b13ca53b33da927518ce0aee250d09d562e4ed67e9537cd88ebde6a9"
+      },
+      "candidate_suffix": {
+        "path": "problems/2019-B4/notes/reasoning-cut-number-r3-candidate-v1.md",
+        "bytes": 20668,
+        "sha256": "70bd911506828e64f101028125594871a3e0325fe861deb99e4d9651991f6388"
+      },
+      "historical_occurrences_NOT_recursively_replayed": 231,
+      "historical_paths_NOT_recursively_replayed": 95
+    }
+  ],
+  "no_recursive_historical_or_mutable_guard_replay": true,
+  "corresponding_NEW_peer_prefix_never_opened_or_hashed": "problems/2019-B4/reviews/reasoning-cut-transfer-r4-review-1-"
+}

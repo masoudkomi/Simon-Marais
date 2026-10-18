@@ -1,0 +1,34 @@
+{
+  "recorded_at_utc": "2026-10-18T12:02:10.834997+00:00",
+  "article": {
+    "authors": "Han Chen; Preda Mihăilescu",
+    "title": "New Conditions on the Nagell-Ljunggren Equation",
+    "journal": "Chinese Annals of Mathematics, Series B47(2026),389-412",
+    "doi": "10.1007/s11401-026-0018-7"
+  },
+  "public_journal_landing": "https://camath.fudan.edu.cn/camb/ch/reader/view_abstract.aspx?file_no=47B208&flag=1",
+  "public_full_text": "https://camath.fudan.edu.cn/camb/ch/reader/create_pdf.aspx?file_no=47B208&flag=1",
+  "remote_text_exposes_24_pages": true,
+  "complete_binary_retrieval": false,
+  "complete_PDF_sha256": null,
+  "failed_attempts": [
+    {
+      "exit_code": 18,
+      "command": "curl -L --fail --silent --show-error 'https://camath.fudan.edu.cn/camb/ch/reader/create_pdf.aspx?file_no=47B208&flag=1' -o .cache/literature/2025/Chen-Mihailescu-2026-New-Conditions.pdf"
+    },
+    {
+      "exit_code": 18,
+      "command": "curl -L --fail --silent --show-error --connect-timeout 20 --max-time 120 'https://camath.fudan.edu.cn/camb/ch/reader/create_pdf.aspx?file_no=47B208&flag=1' -o .cache/literature/2025/Chen-Mihailescu-2026-New-Conditions.pdf",
+      "sandbox_retry_escalated_as_required": true
+    }
+  ],
+  "partial": {
+    "path": ".cache/literature/2025/Chen-Mihailescu-2026-New-Conditions.pdf.incomplete",
+    "bytes": 203439,
+    "sha256": "d47a7580535426dbe0ebcc7b2b6dc739e922bdd404f4ae7061c202e997358440",
+    "status": "INCOMPLETE; not a successful paper retrieval"
+  },
+  "exact_read_scope_and_unresolved_audit_questions": "problems/2025-B4/notes/coordinator-literature-return-r5-source-access-v1.md",
+  "full_operative_proof_audit_or_new_theorem_application": false,
+  "paper_uploaded_licence_inferred_charge_contact_or_bypass": false
+}

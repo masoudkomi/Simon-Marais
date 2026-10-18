@@ -1,0 +1,181 @@
+{
+  "captured_at_utc": "2026-10-18T11:47:13.936224+00:00",
+  "purpose": "NEW compact preservation metadata only, not mathematical evidence or another review",
+  "snapshot_stage": "after ENTIRE author read and hand reconstruction, before whole review freeze",
+  "assigned_prefix_confirmed_unused_before_first_write": true,
+  "protected_fingerprint_occurrences": 31,
+  "protected_unique_paths": 31,
+  "canonical_protected_summary_sha256": "373549526e406470f04df73123176bcc4752e0d17a81dfa901b709a47916f86d",
+  "protected_fingerprints": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-weighted-cutpath-r1-candidate-v1.md",
+      "bytes": 12695,
+      "sha256": "f77d09e57a7462faaf6d48077c6815b9d33ffa722470596a947b9f46c4205928"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-weighted-cutpath-r1-freeze-v1.json",
+      "bytes": 2672,
+      "sha256": "2ff11ebea88c684a2d86be972ae6f937ec5aec95040904eb27fc5c392ad7b4d4"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-weighted-cutpath-r1-source-audit-v1.md",
+      "bytes": 4012,
+      "sha256": "7576946d63e3a60d544cb34ca663137a0ee779e826a6d7bb2468d1205db58dc8"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-weighted-cutpath-r1-sources-v1.json",
+      "bytes": 2162,
+      "sha256": "59df5af7382295456a556b6d96ae2fb630e99fc0a7af11b9510afcf0672da8a8"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-weighted-optimum-r2-baseline-v1.json",
+      "bytes": 6011,
+      "sha256": "84b34607d73581e1526af5075cd3ca24b6ab7a49ec91935a2218a038c26f29bb"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-weighted-optimum-r2-candidate-v1.md",
+      "bytes": 14252,
+      "sha256": "ca09c36677badac6649775d2ade78a4f5af90fcbdafd0648a6bf8541e835e533"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-weighted-optimum-r2-failed-routes-v1.md",
+      "bytes": 2243,
+      "sha256": "2b9c49d15464ffb4d8bd425f77c6ad2de9cf0744c95977fb46f3efeea8d71979"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-weighted-optimum-r2-freeze-v1.json",
+      "bytes": 2906,
+      "sha256": "e8c60dd823a4e88c0b7d9cd5eb820f13c2791ca69b00317195c806faf51e30ec"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-weighted-optimum-r2-freeze-v1.py",
+      "bytes": 6413,
+      "sha256": "de29a68aeec843a689e131d0adbaa8cce4437a8512168e6c0adc2c2968015569"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-weighted-optimum-r2-hand-checks-v1.md",
+      "bytes": 3421,
+      "sha256": "441feb0db0e0fc26af21429cfb972fe2d63c7b1d206edac61d3e4e8a41a165b4"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-weighted-optimum-r2-input-validation-v1.json",
+      "bytes": 470,
+      "sha256": "bfbfa477a63941c725f8f273e275cc245847e9dda0e35372d40465e8e6d793b7"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-weighted-optimum-r2-metadata-v1.json",
+      "bytes": 1464,
+      "sha256": "e6746b4848ae149c2e2c6445b7998843c1056e735354688a09309c23913fc0c4"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-weighted-optimum-r2-obligations-v1.md",
+      "bytes": 5617,
+      "sha256": "84439ac9dd8bf6903947fb6d213ebb3ff1b8c42d93383166af7542fb142cfae5"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-weighted-optimum-r2-sources-v1.md",
+      "bytes": 3090,
+      "sha256": "6cafb3b45078d5f20105d867fef9972e4e90093ebad70a2548ecb3cc6e7cc425"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-weighted-optimum-r2-worklog-v1.md",
+      "bytes": 3710,
+      "sha256": "1a8952f67ff5ec0200e543dfdceaa4adeeeea1577a6bf2013b540ecfb203f415"
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-weighted-cutpath-r1-v1.1.md",
+      "bytes": 15914,
+      "sha256": "93c08b0a43426c972bd6a0042c7e496cb08a106873c931f0231901e9f425f14b"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-cutpath-r1-acceptance.json",
+      "bytes": 4259,
+      "sha256": "239e1b755d51dafc48fad36ad38063608dfd64c0546b8886e1d66b6b4e9ba915"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-cutpath-r1-acceptance.md",
+      "bytes": 3317,
+      "sha256": "efbf4044c88fb18d7de0696980434176319fbc0bcb6eddffb56c4235ace08e61"
+    },
+    {
+      "path": "problems/2017-B4/statement.md",
+      "bytes": 2140,
+      "sha256": "e459750064b4e25e3eaa71f25f236c046548147e415b06d8bd097839020228f3"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-arithmetic-return-r13-baseline-v1.json",
+      "bytes": 8695,
+      "sha256": "7a8938111ac0307aafeb9cc573a363a21c9c1e038e5b2f5b878d2253d4a4f24d"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-arithmetic-return-r13-candidate-v1.md",
+      "bytes": 21502,
+      "sha256": "bb8b87131adaf664b053b92d4852917cde3cc1a64293ac705a51e726bf837dae"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-arithmetic-return-r13-constructor-checks-v1.md",
+      "bytes": 12584,
+      "sha256": "04b23a404293cd041c662d7be2fafdd4772945708961be2233f79aae2078123d"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-arithmetic-return-r13-failed-routes-v1.md",
+      "bytes": 6912,
+      "sha256": "c3bd8052e848ada49491e982f449022d67b5aa7ab5d37b7f2d2901d630d65b71"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-arithmetic-return-r13-freeze-v1.json",
+      "bytes": 6630,
+      "sha256": "eba097f9c6bffc2549fef51ef74b99962b16affa86a7dcaf9679bab95ad8adbe"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-arithmetic-return-r13-freeze-v1.py",
+      "bytes": 11810,
+      "sha256": "bc7db24d735985781f69de0287e42af830e98d4e735227666756a78daa20569c"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-arithmetic-return-r13-input-validation-v1.json",
+      "bytes": 655,
+      "sha256": "559d25a009c11c0b7d8d6b2d5bb851270ee1b9ba80cbd3b115ec85ace03b9014"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-arithmetic-return-r13-obligations-v1.md",
+      "bytes": 8343,
+      "sha256": "e0bac616d5354fc4072d2b4d07a8e7401dde935e06f087d0103a372af701390a"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-arithmetic-return-r13-sources-v1.json",
+      "bytes": 4735,
+      "sha256": "7e8dc437f9096b1894169180e24683cf22d48d9eb1e5df3988b5f5c307bc8c3a"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-arithmetic-return-r13-sources-v1.md",
+      "bytes": 7486,
+      "sha256": "c8227d3043943d2f0e208270eda650ebd436119c473dac8bc57d8395c8c7c417"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-arithmetic-return-r13-worklog-v1.md",
+      "bytes": 8715,
+      "sha256": "48cf2df7109590fc086f63a2d996d92cb7921bd9a09bd25aa14d95374d732d5d"
+    }
+  ],
+  "author_packet_files": 11,
+  "author_whole_obligations": 48,
+  "author_declared_20_path_summary_bound_without_unrelated_ancestry_replay": "30f47f06129376a57addbee03fabde24ef75ea7745f7ba320e595a65eede2c66",
+  "accepted_WC_occurrences_bound_not_replayed": 102,
+  "accepted_WC_paths_bound_not_replayed": 49,
+  "current_WC_MD_JSON_body_candidate_suffix_exact": true,
+  "immediate_own_parent": {
+    "path": "problems/2020-B4/notes/reasoning-arithmetic-return-r13-freeze-v1.json",
+    "bytes": 6630,
+    "sha256": "eba097f9c6bffc2549fef51ef74b99962b16affa86a7dcaf9679bab95ad8adbe"
+  },
+  "older_own_paths_bound_transitively": 719,
+  "no_historical_inventory_recopy_or_recursive_replay": true,
+  "no_corresponding_NEW_peer_material_read_or_hashed": true,
+  "mathematical_program_or_constructor_freezer_executed": false
+}

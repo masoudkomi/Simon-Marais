@@ -9,6 +9,12 @@ Official solutions page 20 attributes the open part to Nagell-Ljunggren and give
 
 ## Current-literature audit
 
+18October2026 access update: the journal's public full-text link for
+Chen–Mihăilescu is now accessible. Theorem1.2 retains possible negative-base
+exceptions for p<29; the abstract omits that qualification. A complete
+operative proof audit is still pending. See the [actual read/access record](notes/coordinator-literature-return-r5-source-access-v1.md),
+including two failed local downloads and unresolved dependency checks.
+
 Checked 2026-10-16. No independently verified unrestricted resolution was located; a search is not proof of absence. The contemporary restricted publications below and an unreviewed full-solution claim were examined. See computations/literature-audit.md for objections. Published imports have not been fully re-proved or independently audited by this project.
 
 1. Michael A. Bennett and Aaron Levin, *The Nagell-Ljunggren equation via Runge's method*, Monatshefte fuer Mathematik 177 (2015), 15-31, DOI [10.1007/s00605-015-0748-1](https://doi.org/10.1007/s00605-015-0748-1). [Author-posted published PDF](https://personal.math.ubc.ca/~bennett/BeLe-Mona-2015.pdf); [arXiv 1312.4037](https://arxiv.org/abs/1312.4037). Domain |x|,|y|>1, m>2, q>=2; Proposition 1 and published Theorem 1, pp. 16-17. The arXiv version numbers the main theorem 2. See research.md for the translated restrictions and sign normalization.

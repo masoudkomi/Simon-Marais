@@ -53,6 +53,19 @@ polynomially many outputs and exponentially negligible mass; this does
 not control ALL high-cut outputs or select the actual average-cut regime.
 Exactlambda and the numerical enclosure remain unchanged.
 
+The new [CT1–CT4](reviews/reasoning-cut-transfer-r4-acceptance.md)
+passed root/B TWO OTHER initially blind ENTIRE WHOLE64/64 audits/full
+reconciliation. It proves exponential rarity of long confined factors at
+EVERY fixed range and of positive total packing/covered mass for sufficiently
+long fixed-range pieces. Actual counterfamilies have universal cut density
+above1/84 with bounded pieces; the pointwise bridge fails even if its range
+is selected after fixing density. One explicit uniform separator also has
+unbounded fibres. Neither counterfamily exhausts the whole high-cut class.
+The full high-cut mass/mean/renewal regime and exactlambda remain OPEN.
+The [operative v1.2](proofs/reviewed-reasoning-cut-transfer-r4-v1.2.md)
+corrects only the coordinator header token t0=10; candidate and both
+audits are unchanged, as the preserved erratum records.
+
 ## Coordinator third-pass acceptance
 
 The bounded-separation hierarchy, legal-envelope identification with actual minimal obstructions, entropy convergence, exact cap3 grammar and strict upperlambda<1.834856083 are **proved, independently reviewed partial results**. Both fresh initially blind reviewers reconstructed the whole argument and independently checked every cap7 transition and all11662 integer-vector inequalities. See proofs/reviewed-thirdpass-v1.1.md and reviews/thirdpass-acceptance.md/json. Combined with the earlier accepted lower bound,1.76521<lambda<1.834856083. Exactlambda/fullgeneratingfunction/novelty remain unresolved. No larger enumeration is substituted for the remaining proof problem.
