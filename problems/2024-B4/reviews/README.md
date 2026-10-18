@@ -1,5 +1,11 @@
 # 2024 B4 independent reviews
 
+The later [reconciliation precision](cofactor-Frobenius-r5-reconciliation-precision-v1.md)
+distinguishes A's model inspection from administrative byte hashing of
+the OLD report after original freezes. NEW affected-peer blindness and
+the accepted mathematical scope are unchanged; frozen records preserved.
+
+
 The new [corrected Frobenius R5 theorem](reviews/cofactor-Frobenius-r5-acceptance.md)
 is accepted after A/B OTHER whole32/32 audits, a full versioned AUTHOR
 repair and BOTH affected32+8 reaudits/full reconciliation. It proves

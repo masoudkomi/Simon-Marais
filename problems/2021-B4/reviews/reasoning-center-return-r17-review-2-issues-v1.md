@@ -1,0 +1,16 @@
+# R17 OTHER R2 issue and exact-scope record
+
+2026-10-18 UTC. Zero substantive defects, zero unresolved issues and zero required author repairs. Eight notes are closed by the whole reconstructed proof and retained for coordinator reconciliation. No corresponding NEW root R17 peer material was accessed. The complete initial/ALL60/source/log/code/ALLmetadata freeze precedes findings release.
+
+|ID|Adversarial challenge and closed disposition|
+|---|---|
+|R17R2-N1|The field lemma could be mistaken for unrestricted degree20 or rational slot coincidence for actual double s. Exact(S),(W),four actual rational values,actualdouble0/s and actual degree14irreducible rational carrier are separate retained hypotheses. No all-roots-rational/real assumption. Closed.|
+|R17R2-N2|Finite tables could be samples or covert inversions of zero variables. All16+32 affine zeros are derived from explicit fixed-unit equations and independently hand evaluated. U/V*/x/w/u zeros and overlaps are covered; evena15 is not presumed nonzero in pureR17A. No code or lift. Closed.|
+|R17R2-N3|Wrong center/index or original-row sign could invalidate all elimination. D_j isH_(20-j)/binomial overQ; the ORIGINAL f1 row divides19first and has+14x before moving terms. Allthreebinomialrows and determinant3relation reconstructed directly. Closed.|
+|R17R2-N4|R16C's unit-a8/extra-witness hypotheses or an unavailable even ladder could be smuggled in. Only exactR16AunderALLsixQ*conditions is used; a14's twoH6cases andm4Euler/R8Astrict tau condition are separately checked. Oldaccepted inputs are not freshly self-certified by their author. Closed.|
+|R17R2-N5|A forced UNIT center could be relabelled NONZERO NONUNIT EC, or available/nonessential centers excluded improperly. Unit a11 case proves noH8noncenter byexactdifferencequotient and excludesa12zero; othercaseusespreciseR8A. Coexistenceisallowed, and derivative double/triple contacts are not repeatedroots of f. Closed.|
+|R17R2-N6|FullgcdX1 could discard nonrational roots without a global justification. Actualrationalirreduciblegdegree14exceeds everynewderivativedegree12/11/10, so no rootofg isshared; simpleroot1 then givesFULLmonicgcd. Rationalrootsetalone or localEisensteinfactor wouldnot suffice. Closed.|
+|R17R2-N7|Secondorigin could changea1/units,firstbreak or exactdelta case. Exactalpha1-sformula givesa_new1=-1,coefficientunitstatuses unchanged,D_j(s)≡a_j,nu/ratio2preserved and actualHassetransport nonzero. delta_new=delta/alpha retains0/finitedepth. No deepervaluationequality or maximum claimed. Closed.|
+|R17R2-N8|m3T4or remainingEC8/9 could be declaredcontradictions,orCLO/prime5 importedoutsidehypotheses. R17DsuppliesunitH10only; actualm4EC8/9andm3EC/T4remain. CLOall-roots-rational/unramifiedtheoremfailsfortheramifiedcarrier;oldprime5correctionunchangedandunused. NofullJ15/degree20/annual/lift/height/priority result. Closed.|
+
+Recommend exact R17A--D subject to OTHER whole audit/root reconciliation, without any author repair or promotion by this reviewer. Older authoredR8/R12/R13/R14/R15/R16andreviewedR5/J15/PNretain their separate accepted authority; this new audit concerns C's NEW construction only. All frozen ancestor bytes remain untouched.

@@ -7,8 +7,8 @@ This repository records a sustained investigation of the Simon Marais Mathematic
 **Current stage:** two complete internally reviewed annual answers:
 attributed published2018 enumeration and2023 classification (priority
 unestablished). Seven annual targets remain unresolved. Newly accepted
-[2021 R15/R16](problems/2021-B4/research.md) exclude the specified m5
-branch and both m4 cubics while retaining a genuine quartic/EC/T4 alternative;
+[2021 R15–R17](problems/2021-B4/research.md) exclude the specified m5
+branch and m4 cubic/T4 alternatives, retaining m3 and the m4 essential-center cases;
 [2024 R4](problems/2024-B4/reviews/cofactor-dominant-r4-acceptance.md)
 proves whole irreducibility for n=15*16^k+1,k>=2; and
 [2025 BR1-BR5](problems/2025-B4/reviews/reasoning-Runge-return-r3-acceptance.md)
@@ -27,13 +27,15 @@ and [2025 BD](problems/2025-B4/reviews/reasoning-branch-return-r4-acceptance.md)
 have passed BOTH OTHER whole audits and full reconciliation, including
 BOTH affected R5 repair audits. They give trajectory rigidity, whole
 n=31*32^k+1 irreducibility for every k>=2, and actual discriminant/pure-distance
-restrictions respectively. The2021 R17 candidate remains UNVERIFIED.
-Weekly28%TOTAL at10:59:28UTC/reset1792874445; continue to90%TOTAL
+restrictions respectively. [2021 R17](problems/2021-B4/reviews/reasoning-center-return-r17-acceptance.md)
+has now passed BOTH OTHER whole60/60 audits/full reconciliation, excluding
+the exact actual m4 T4 branch while retaining m3/m4 EC.
+Weekly30%TOTAL at11:26:04UTC/reset1792874445; continue to90%TOTAL
 with reserve in this explicitly authorized window.
 
 - [Latest research checkpoint](progress/checkpoint-2026-10-18-2100.md);
-  [latest actual hourly report](progress/status-2026-10-18-2027.md).
-  Next actual hourly/owned-awake check11:27:42UTC.
+  [latest actual hourly report](progress/status-2026-10-18-2127.md).
+  Next actual hourly/owned-awake check12:27:42UTC.
 
 - [Dashboard](progress/dashboard.md): per-problem status, results, obstructions, next steps and reviews.
 - [Budget and telemetry](progress/budget.md): observed weekly usage and reset boundary.

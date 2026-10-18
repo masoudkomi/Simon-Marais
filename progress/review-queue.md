@@ -1,5 +1,13 @@
 # Independent review queue
 
+CURRENT18October2026 11:27UTC: R17A--D ACCEPTED after root/A ENTIRE
+OTHER whole60/60 audits/full reconciliation; C constructor excluded.
+All120 dispositions/source/log/code/ALLmetadata read,0 unresolved issues.
+New2019R4/2020R13/2021R18 research remains unverified. CF/R5v2/BD accepted
+previously; R5 reconciliation precision preserves model-read/hash distinction.
+Actual hourly30TOTAL/current reset only; next12:27:42UTC.
+
+
 CURRENT18October2026 11:24UTC: CF1--CF5 exact unconditional/CF6 explicit
 conditional ACCEPTED after root/A WHOLE48/48.2024R5 AUTHORv2 ACCEPTED
 after A/B original WHOLE32/32 plus BOTH affected32+8 audits. BD1--BD4

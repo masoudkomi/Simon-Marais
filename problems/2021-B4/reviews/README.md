@@ -1,5 +1,14 @@
 # 2021 B4 independent reviews
 
+The new [R17A--D global-center theorem](reviews/reasoning-center-return-r17-acceptance.md)
+is accepted after root/A TWO OTHER initially blind ENTIRE WHOLE60/60
+audits/full reconciliation. In the exact actual(S),(W) double-s branch,
+it excludes the ENTIRE m4 T4 alternative and narrows its remaining genuine
+NONUNIT essential center to H8/H9. m3 T4 needs unit H10 but is not
+contradicted. Remaining m3/m4 EC, other J/degree20/annual/lift/priority
+questions remain open; the old local quartic diagnostic stays valid.
+
+
 2026-10-18 current acceptance: [R15A-C](reasoning-unit-return-r15-acceptance.md)
 and [R16A-C](reasoning-early-return-r16-acceptance.md), after TWO OTHER
 ENTIRE initially blind WHOLE48/48 and56/56 audits and complete reconciliation.

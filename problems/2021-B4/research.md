@@ -35,6 +35,14 @@ m3, other normalized patterns and full degree20 remain open. See the
 [dashboard](../../progress/dashboard.md), [sources](references.md), and
 [review register](reviews/README.md).
 
+The new [R17A--D global-center theorem](reviews/reasoning-center-return-r17-acceptance.md)
+is accepted after root/A TWO OTHER initially blind ENTIRE WHOLE60/60
+audits/full reconciliation. In the exact actual(S),(W) double-s branch,
+it excludes the ENTIRE m4 T4 alternative and narrows its remaining genuine
+NONUNIT essential center to H8/H9. m3 T4 needs unit H10 but is not
+contradicted. Remaining m3/m4 EC, other J/degree20/annual/lift/priority
+questions remain open; the old local quartic diagnostic stays valid.
+
 ## Reviewed single-center classifications
 
 The sole-H4 and sole-H2 double-zero J15 classifications are now **proved,

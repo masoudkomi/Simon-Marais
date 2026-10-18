@@ -209,3 +209,6 @@ New2017R7/2019G/2024FP accepted scoped;2024FS/2025RS unverified.
 
 
 Actual2026-10-18 19:27Brisbane: 21%TOTAL authorizedreset1792874445, total1922340193, cached1823140864, output13967185, reasoning5979353; since1827total+80112176, reasoning+203758. Notbill/quotaconversion, inflightexcluded. Ownedawakefreshverified; nextactual2026-10-18T10:27:42+00:00. Continue90TOTAL/reserve/noautomaticlaterweek.
+
+
+Actual2026-10-18 21:27Brisbane:30%TOTAL authorizedreset1792874445; ordinaryallowed/viewsagree,60ppbefore90/reserve. Rawcutoff2026-10-18T11:26:05.645438+00:00 total2151791312,cached2042111744,output15173770,reasoning6397887,uncached+output109679568. Since20:27total+126319115,reasoning+203297. Notbill/quotaconversion,inflightexcluded. OWNawake79293forever34:18:15verified11:26:05UTC; next12:27:42UTC. Currentwindowonly,noautomaticlaterweek.
