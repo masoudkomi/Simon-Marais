@@ -1,3 +1,21 @@
+# Current restart boundary —2026-10-18 17:54Brisbane
+
+Read checkpoint-2026-10-18-1754.md and run-state. Current15%TOTAL
+at07:53:31UTC,reset1792874445; explicitly authorized to90TOTAL with
+reserve/noautomaticlaterweek.2024FS1–FS5 NOWACCEPTED after A/C BOTH
+OTHER ENTIREblindWHOLE48/48/full reconciliation; rootconstructorexcluded.
+Whole absolute irreducibility n=7*8^k+1,k>=2; combined7*2^a+1,a>=2,
+a!=3. Annual classification/priorityopen. A/C2025RS OTHER WHOLE60
+auditsactive(root/Bcontributors excluded); B2020R11 subset-sum lead
+unverified underconstruction; root2024general-cofactor leadunverified.
+No correspondingpeer materialbeforeOWNENTIREfreeze. Lastpush8546b5d
+beforeFSintegration. Ownedawake79293/session64368nextmanualOScheck
+andactualhourlyreport08:27:36UTC; lastactualreport1727. Do notroutinely
+viewautomationorretrynativeDNS. ACTIVEisnotdeliveryproof. No checkpoint
+endsresearch; continueindependentlyifoneagentneedspermission.
+
+---
+
 # Current restart boundary —2026-10-18 17:45Brisbane
 
 Read checkpoint-2026-10-18-1745.md and run-state.json. Continue until90%

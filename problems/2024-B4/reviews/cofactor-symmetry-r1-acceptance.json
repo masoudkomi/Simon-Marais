@@ -1,0 +1,97 @@
+{
+  "accepted_at_utc": "2026-10-18T07:52:28.443616+00:00",
+  "status": "proved, independently reviewed scoped partial result",
+  "whole_initials_blind": true,
+  "root_read_full_candidate_both_reports_all_ledgers_sources": true,
+  "unresolved_substantive_issues": 0,
+  "repair_required": false,
+  "candidate": {
+    "path": "problems/2024-B4/notes/cofactor-symmetry-r1-candidate-v1.md",
+    "bytes": 14531,
+    "sha256": "77eb040ac77e255d3b8e8b38e47d6329857fc8af0d31eeb49cd0880b2763fbc1"
+  },
+  "accepted_copy": {
+    "path": "problems/2024-B4/proofs/reviewed-cofactor-symmetry-r1-v1.1.md",
+    "bytes": 18195,
+    "sha256": "56b765f3acd3ec9deba1721fc3c14f7a5227d472323cc270ec1f379b9cf748c5"
+  },
+  "verification_metadata": [
+    {
+      "path": "problems/2024-B4/notes/cofactor-symmetry-r1-freeze-v1.json",
+      "bytes": 2406,
+      "sha256": "2fdb3fc025f2bf89e6d3bdf060373103fecf428db8ff4f407f170bed86bab327"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-symmetry-r1-baseline-v1.json",
+      "bytes": 6788,
+      "sha256": "a6ae90da90ddd3ebe2575ded8b434c6b2fec3685f62c113cd1e2cd87f8e7af26"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-symmetry-r1-metadata-v1.json",
+      "bytes": 1844,
+      "sha256": "15500379a34ef132d70254a90290847d0cdddeed4e8412d6c2c82de4be8a0f5c"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-symmetry-r1-input-validation-v1.json",
+      "bytes": 574,
+      "sha256": "466158a934002268d35b806ba645d0f790a3c4658ed86abc21da1fe6a30226c1"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-symmetry-r1-review-1-manifest-v1.json",
+      "bytes": 2762,
+      "sha256": "a1efa037aada8f0dc638505131e61964bcb6901d894f3a2f2717864cd4f22435"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-symmetry-r1-review-1-baseline-v1.json",
+      "bytes": 14032,
+      "sha256": "f731d25118db4d6c89feaf0e753ae925974cb11adc71065d7e2fbfe53f78d179"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-symmetry-r1-review-1-metadata-v1.json",
+      "bytes": 2093,
+      "sha256": "48204bf275806b3b7c8b55e649115303ed5974332844fe3594593d3a3cc4f917"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-symmetry-r1-review-1-input-validation-v1.json",
+      "bytes": 896,
+      "sha256": "58dde2ae65c6d7030424e3ba76d6ae63b8341b012f94bfca2838c302e6deef64"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-symmetry-r1-review-2-manifest-v1.json",
+      "bytes": 3044,
+      "sha256": "dd7aca7dd7f4609dc83f6a7a5024cae8e6dd7e400a55bbaf78b5f247924a083c"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-symmetry-r1-review-2-baseline-v1.json",
+      "bytes": 11437,
+      "sha256": "0cd1db2671e7d17a7aea8aaa229c21fe947d23751f2862ca6d3ec490bec55998"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-symmetry-r1-review-2-metadata-v1.json",
+      "bytes": 2286,
+      "sha256": "f5151e54d2b620f42c05f19c5e523a072349a33caff0fee9c34b0db626af85b9"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-symmetry-r1-review-2-input-validation-v1.json",
+      "bytes": 967,
+      "sha256": "ba903e69e1ca6fefff279d2566adb0007fbe38b80655da943394e443512ec67b"
+    }
+  ],
+  "record_occurrences_verified": 121,
+  "unique_paths_verified": 56,
+  "constructor": "/root",
+  "constructor_excluded": true,
+  "OTHER_whole_reviewers": [
+    "/root/review_2021_reasoning_j15_r2",
+    "/root/review_2017_coarsening_r1"
+  ],
+  "all48_obligations_in_BOTH_ENTIRE_initials": true,
+  "closed_scope_or_operational_notes": 6,
+  "old_roles_disclosed": true,
+  "whole_absolute_irreducibility": true,
+  "exact_family": "7*8^k+1,k>=2; combined7*2^a+1,a>=2,a!=3",
+  "q8_n57_a0_a1_excluded": true,
+  "annual_answer": false,
+  "novelty_established": false,
+  "no_mathematical_computation": true
+}

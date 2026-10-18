@@ -197,3 +197,6 @@ reserve/no automatic later window. Raw07:45:20UTC1,768,755,166total,
 uncached+output93,023,582.62sessions/9140responses,allsumsmatch. No
 billing/percentage conversion. Next actual hourly/owned-awake08:27:36UTC.
 New2017R7/2019G/2024FP accepted scoped;2024FS/2025RS unverified.
+
+
+2026-10-18 07:53:31UTC:15%TOTAL current authorized weeklyreset1792874445, ordinaryallowed/viewsagree;75ppbefore90withreserve,noautomaticlaterwindow.2024FSacceptedscoped;2025RSauditsactive/2020R11research/rootlargerfamilyresearch. Nexthourly/ownedawake08:27:36UTC. Rawtokenlateststill07:45:20UTC,notcurrentbilling.

@@ -11,3 +11,6 @@ The stronger [exact whole-phi13 criterion](criterion-acceptance.md) is now indep
 
 
 2026-10-18 continuing checkpoint: [coordinator-F8-pencil-r1 accepted](coordinator-F8-pencil-r1-acceptance.md) after TWO OTHER initially blind ENTIRE WHOLE audits and full coordinator reconciliation. Exact scoped partial only; annual target and priority remain unestablished. See acceptance JSON/integrity and unchanged full proof suffix.
+
+
+2026-10-18: [FS1–FS5 accepted](cofactor-symmetry-r1-acceptance.md) after TWO OTHER initially blind ENTIRE WHOLE48/48 audits/full reconciliation. Whole absolute irreducibility n=7*8^k+1,k>=2; with NF3,7*2^a+1,a>=2,a!=3. General annual classification and priority remain open. Root constructor excluded.

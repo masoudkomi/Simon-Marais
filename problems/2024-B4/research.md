@@ -31,13 +31,19 @@ The [F8-pencil theorem](reviews/coordinator-F8-pencil-r1-acceptance.md)
 is now accepted after TWO OTHER initially blind ENTIRE WHOLE36 audits
 and reconciliation. For q=8^k,k>=2 it proves a factor-degree gap and
 one large absolute component defined overF2, while permitting a small
-nonconstant cofactor. A stronger new
-[cofactor-symmetry candidate](notes/cofactor-symmetry-r1-candidate-v1.md)
-uses S4/Frobenius multiplicities and a classical reducible-curve bound
-to propose ruling out that cofactor. FS1–FS5 remains UNVERIFIED under
-TWO OTHER initially blind ENTIRE WHOLE48 audits; root is sole constructor
-and excluded. Both packets exclude q8/n57. The unrestricted ordinary
-reducibility classification remains unresolved.
+nonconstant cofactor. The stronger
+[cofactor-symmetry theorem](reviews/cofactor-symmetry-r1-acceptance.md)
+is now accepted after TWO OTHER initially blind ENTIRE WHOLE48/48
+audits and full reconciliation; root sole constructor is excluded.
+S4/Frobenius multiplicities and a classical reduced-curve bound rule
+out EVERY nonconstant cofactor, proving whole absolute irreducibility
+for n=7*8^k+1,k>=2. Combined with NF3 this excludes n=7*2^a+1 for
+every a>=2,a!=3. The theorem excludes q8/n57 and a0/a1; it does not
+classify all four-bit exponents. The unrestricted ordinary reducibility
+classification and priority remain unresolved. A
+[dated literature follow-up](notes/cofactor-symmetry-literature-followup-v1.md)
+records primary searches/access limits; a larger-family research lead
+remains unverified.
 See the [current dashboard](../../progress/dashboard.md),
 [references](references.md), and [review register](reviews/README.md).
 
