@@ -1,0 +1,70 @@
+{
+  "reviewer": "/root/review_2022_complexity_r2",
+  "role": "OTHER nonconstructor initially blind ENTIRE WHOLE1",
+  "constructor": "/root/review_2021_reasoning_j15_r2",
+  "constructor_excluded": true,
+  "requested": {"model": "gpt-6.1-sol", "reasoning": "max", "inherited": true},
+  "independent_effective_readback": null,
+  "ENTIRE_author_files_read": 14,
+  "whole_obligations_independently_reconstructed_by_hand": 64,
+  "operative_input": {
+    "claims": ["DR7A", "DR7D"],
+    "body": "problems/2025-B4/proofs/reviewed-reasoning-diagonal-return-r7-v1.1.md",
+    "read": "fresh COMPLETE body and current MDJSON, plus complete sourceMD/failed-routeMD",
+    "old_B_whole_DR7_review2_disclosed_not_new_self_recertification": true
+  },
+  "comparison_read_scopes": {
+    "DR6_RD": "fresh COMPLETE current MDJSON; complete bodies historical reads, not new foundational audit and not DR8 premises",
+    "PG": "fresh COMPLETE accepted PG1-4 body and acceptanceMD; overlap comparison only"
+  },
+  "primary": [
+    {
+      "name": "Official2025 PaperB",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc2025_paper_b.pdf",
+      "read": "page2 B4 setup and part(b),59-61 and67-71; complete local statement",
+      "new_binary_sha256": null,
+      "preliminary_proof_researched": false
+    },
+    {
+      "name": "Bugeaud-Mignotte-Roy2000",
+      "url": "https://msp.org/pjm/2000/193-2/pjm-v193-n2-p01-p.pdf",
+      "read": "introduction/positive domain/Theorem1 H/order consequence/Theorem2 statement,25-101; adjacent returned text through311 not a full proof audit",
+      "role": "pure-X attribution only, no signed neighbour import",
+      "full_external_proof_certified": false,
+      "new_binary_sha256": null
+    },
+    {
+      "name": "Bennett-Levin2015",
+      "url": "https://personal.math.ubc.ca/~bennett/BeLe-Mona-2015.pdf",
+      "read": "signed Equation1/Proposition1/exceptions/Theorem1 and exceptional-import context,0-71",
+      "role": "attribution/context; no DR8 external Runge premise",
+      "full_external_proof_certified": false,
+      "new_binary_sha256": null
+    },
+    {
+      "name": "Bennett-Bugeaud-Mignotte2011 author version",
+      "url": "https://www.math.ubc.ca/~bennett/BBMshort1.pdf",
+      "read": "introduction/result hypotheses and COMPLETE Lemma8 statement/proof299-324; adjacent returned technical passages not a whole proof audit",
+      "role": "classical depth attribution; few-digit theorem not applied",
+      "full_external_proof_certified": false,
+      "new_binary_sha256": null
+    }
+  ],
+  "root_new_construction_inference": false,
+  "no_NEW_corresponding_review2_content_actual_filename_inventory_hash_metadata_commentary_access": true,
+  "no_mathematical_program_CAS_scan_test_optimizer_old_author_source_certificate_replay": true,
+  "no_Git_shared_old_cache_mutation_spawn_charge_contact_bypass": true,
+  "weekly": {
+    "at_utc": "2026-10-18 17:18:51 UTC",
+    "method": "own same-awaited clock/get_usage_limits",
+    "TOTAL_used_percent": 55,
+    "window_minutes": 10080,
+    "resetsAt": 1792874445,
+    "ordinaryUsageAllowed": true,
+    "legacy_by_limit_agree": true,
+    "account_label": "029a8928...1334ac3a",
+    "TOTAL_ceiling_percent": 90,
+    "reserve": true,
+    "automatic_later_window_spending": false
+  }
+}

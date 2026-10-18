@@ -13,11 +13,12 @@ has passed TWO OTHER affected whole76 reviews. The original false
 fractional extension and both review misses remain preserved; only the
 new accepted v1.2 copy supplies the corrected operative scope. Reviewed
 SQ15/2024R9/2017R10/2022D8/2019AT/2021R20/2025DR7 partials remain.
-2025DR8 has completed both OTHER whole audits and awaits full coordinator reconciliation.
-Weekly56%TOTAL at17:29:17UTC/reset1792874445; continue to90%TOTAL with
+2025DR8 is accepted after BOTH OTHER whole64 audits and full reconciliation;
+its actual component-support restrictions leave the annual problem open.
+Weekly56%TOTAL at17:38:15UTC/reset1792874445; continue to90%TOTAL with
 reserve in this authorized window. Hand research continues on all gaps.
 
-- [Latest continuing checkpoint](progress/status-2026-10-19-0327.md).
+- [Latest continuing checkpoint](progress/checkpoint-2026-10-19-0340.md).
 - [Latest actual hourly report](progress/status-2026-10-19-0327.md).
   Next actual hourly/token/owned-awake check18:27:30UTC.
 

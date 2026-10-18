@@ -1,0 +1,95 @@
+{
+  "frozen_at_utc": "2026-10-18T17:02:48.856035+00:00",
+  "status": "candidate proof - unverified",
+  "constructor": "/root/review_2021_reasoning_j15_r2",
+  "constructor_excluded": true,
+  "claims": [
+    "DR8A",
+    "DR8B",
+    "DR8C"
+  ],
+  "whole_obligations": 64,
+  "payload_files": 13,
+  "ENTIRE_files": 14,
+  "TWO_OTHER_initially_blind_ENTIRE_WHOLE_audits_required": true,
+  "FULL_final_ALL13_payload_model_readback_completed": true,
+  "FULL_freeze_model_readback_then_SEPARATE_readonly_verify_REQUIRED": true,
+  "compact_baseline": {
+    "path": "problems/2025-B4/notes/reasoning-diagonal-return-r8-baseline-v1.json",
+    "bytes": 5860,
+    "sha256": "81f97df34de48f4c43888fc921c71cafa06c8188cee28082979c0d1afb23699d"
+  },
+  "current_frozen_protection": {
+    "occurrences": 41,
+    "unique_paths": 40,
+    "canonical_sha256": "e19621a3919b6a5ba00de4eb359316f5b81947a2b5f2c86556deee2925e46d38"
+  },
+  "no_mathematical_program_scan_CAS_test_or_old_replay": true,
+  "payloads": [
+    {
+      "path": "problems/2025-B4/notes/reasoning-diagonal-return-r8-candidate-v1.md",
+      "bytes": 15008,
+      "sha256": "2e793eb556b4a3063dbdde1cf0b16b7f9f53eec4e36469adf31693b022b19a47"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-diagonal-return-r8-obligations-v1.md",
+      "bytes": 7158,
+      "sha256": "dc4d6fff406a9a5dca73962072f1e3744c379a043ab75d6da12644d322698edf"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-diagonal-return-r8-constructor-checks-v1.md",
+      "bytes": 3132,
+      "sha256": "e6f03b6dd488693accffdb39450155ccff865e5ce91a39f9f0cd3212fe22e3c5"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-diagonal-return-r8-failed-routes-v1.md",
+      "bytes": 4196,
+      "sha256": "453952055be91cdcb1bd8dd4561c18df08172d5002def7cc48b828ef935f9c21"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-diagonal-return-r8-issues-v1.md",
+      "bytes": 1684,
+      "sha256": "5ab7bb0c5cef4ccda8d08e25d86d01038e22f8a4034a7210ba754b91b54b236f"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-diagonal-return-r8-sources-v1.md",
+      "bytes": 7292,
+      "sha256": "c6dced91aaa340ef6b246923f6b88c20e0ac090c2ca12ac26505d286aac676bb"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-diagonal-return-r8-sources-v1.json",
+      "bytes": 2872,
+      "sha256": "06fbd1a1f7ca69726620d98aba7dc557631eac551fa8265eb75a4682eb98056c"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-diagonal-return-r8-worklog-v1.md",
+      "bytes": 4473,
+      "sha256": "63ea5bab7b5f1e460284bb0d011fcd75daeb93515abc8dc76c9e554fdc3a7999"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-diagonal-return-r8-code-record-v1.md",
+      "bytes": 2091,
+      "sha256": "c144d3d450e9168ef82b3e73d65c3300bf59cecce9029e6442c71f674a473985"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-diagonal-return-r8-admin-v1.py",
+      "bytes": 10003,
+      "sha256": "f13023b268d369f3994c04010c511b705a915d6e53efdd69e8eb407ce18445a6"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-diagonal-return-r8-baseline-v1.json",
+      "bytes": 5860,
+      "sha256": "81f97df34de48f4c43888fc921c71cafa06c8188cee28082979c0d1afb23699d"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-diagonal-return-r8-input-validation-v1.json",
+      "bytes": 474,
+      "sha256": "f762ba67e944cbe46da749f1e9591ef3526b1bc0b8c95c8503e9747cf48880c2"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-diagonal-return-r8-metadata-v1.json",
+      "bytes": 1770,
+      "sha256": "a0b4411c59065f048fcafbd352c766dee545da225bacbf16420e86f95e9ecf47"
+    }
+  ]
+}

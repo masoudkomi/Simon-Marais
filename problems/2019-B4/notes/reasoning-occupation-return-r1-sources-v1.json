@@ -1,0 +1,106 @@
+{
+  "status": "candidate proof - unverified; source scope record",
+  "date_utc": "2026-10-18",
+  "constructor": "/root/review_2022_complexity_r2",
+  "constructor_excluded": true,
+  "requested": {"model": "gpt-6.1-sol", "reasoning": "max", "inherited": true},
+  "independent_effective_readback": null,
+  "new_external_mathematical_theorem_imported": false,
+  "sources": [
+    {
+      "id": "official",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2019-paper-b_1.pdf",
+      "read_scope": "Fresh original page2 B4 setup and part(b), web text lines63-87; complete local statement. No preliminary proof or other problem researched.",
+      "role": "official domain",
+      "new_binary_download": false
+    },
+    {
+      "id": "R7",
+      "body": "problems/2019-B4/proofs/reviewed-reasoning-return-r7-v1.1.md",
+      "authority": "problems/2019-B4/reviews/reasoning-return-r7-acceptance.json",
+      "read_scope": "Complete body and MDJSON authority in this AU preparation, including retained pre-compaction reads.",
+      "role": "accepted all-N counts, ratios, common lambda, seed-mark bound and conditional regimes",
+      "old_B_role": "whole reviewer; not new self-recertification"
+    },
+    {
+      "id": "CN",
+      "body": "problems/2019-B4/proofs/reviewed-reasoning-cut-number-r3-v1.1.md",
+      "authority": "problems/2019-B4/reviews/reasoning-cut-number-r3-acceptance.json",
+      "read_scope": "Complete accepted body, current MDJSON; operative actual alpha/beta/J_hJ_h schedules and all endpoint cases.",
+      "role": "accepted actual fast/slow periods; A construction"
+    },
+    {
+      "id": "CT",
+      "body": "problems/2019-B4/proofs/reviewed-reasoning-cut-transfer-r4-v1.2.md",
+      "authority": "problems/2019-B4/reviews/reasoning-cut-transfer-r4-acceptance.json",
+      "operative_erratum": "problems/2019-B4/reviews/reasoning-cut-transfer-r4-presentation-erratum-v1.json",
+      "read_scope": "Complete operative body/current MDJSON/erratum; Section6 actual padded schedules and same-time cut clusters reconstructed as inputs.",
+      "role": "accepted exact pads and midpoint contact subset; C construction",
+      "old_B_role": "whole reviewer; not new self-recertification",
+      "old_header_transcriptions_not_used": ["t=2h-1 instead of exact body t=2^h-1", "right-word010 corrected by operative erratum to10"]
+    },
+    {
+      "id": "AT",
+      "body": "problems/2019-B4/proofs/reviewed-reasoning-cut-transfer-r6-v1.1.md",
+      "authority": "problems/2019-B4/reviews/reasoning-cut-transfer-r6-acceptance.json",
+      "read_scope": "Complete body/failed-route context/current MDJSON.",
+      "role": "accepted viable UNION, occupation definition and upper inequality, conditional mean-area regimes",
+      "old_B_role": "sole constructor; not new independent recertification"
+    },
+    {
+      "id": "BT",
+      "body": "problems/2019-B4/proofs/reviewed-reasoning-cut-transfer-r5-v1.1.md",
+      "authority": "problems/2019-B4/reviews/reasoning-cut-transfer-r5-acceptance.json",
+      "read_scope": "Complete body/current MDJSON in this preparation; J/U and both signed transferred-word definitions retained literally.",
+      "role": "accepted independent-input residual definition and contrasting conditional consequence",
+      "old_B_role": "sole constructor; not new independent recertification"
+    },
+    {
+      "id": "G",
+      "body": "problems/2019-B4/proofs/reviewed-reasoning-growth-return-r1-v1.1.md",
+      "authority": "problems/2019-B4/reviews/reasoning-growth-return-r1-acceptance.json",
+      "read_scope": "Complete body/current MDJSON; exact random-length v0 interval and failure boundary.",
+      "role": "accepted context for unsuccessful short-tape argument; not a new AU count premise",
+      "old_B_role": "sole constructor"
+    },
+    {
+      "id": "CR",
+      "body": "problems/2019-B4/proofs/reviewed-reasoning-critical-return-r2-v1.1.md",
+      "authority": "problems/2019-B4/reviews/reasoning-critical-return-r2-acceptance.json",
+      "read_scope": "Complete body/current MDJSON and actual feasible-cut meaning.",
+      "role": "accepted frontier and cut-fibre context",
+      "old_B_role": "sole constructor"
+    },
+    {
+      "id": "LO",
+      "body": "problems/2019-B4/proofs/reviewed-linear-output-return-v1.1.md",
+      "old_source_ledger": "problems/2019-B4/notes/linear-output-return-r1-source-audit-v1.md",
+      "read_scope": "Complete accepted body and original source ledger freshly read.",
+      "role": "background only; actual grammar ambiguity and source boundary"
+    },
+    {
+      "id": "CS2007",
+      "doi": "10.1090/S0002-9947-06-03958-4",
+      "authors": ["Tullio Ceccherini-Silberstein"],
+      "url": "https://scispace.com/pdf/growth-and-ergodicity-of-context-free-languages-ii-the-4xfrjcv85s.pdf",
+      "read_scope": "Fresh returned lines0-329 and493-634: definitions, Theorems1.2/1.5, all Section5 ambiguity weights/Proposition5.1 and its short proof; NOT the entire middle proof or all14pages.",
+      "role": "primary hypothesis/weight nonapplication check only",
+      "full_new_external_proof_claimed": false,
+      "new_binary_download": false,
+      "failed_original_url": "https://www.ams.org/journals/tran/2007-359-02/S0002-9947-06-03958-4/S0002-9947-06-03958-4.pdf",
+      "failure": "web tool inaccessible URL/internal error; public original-paper viewer used without bypass"
+    }
+  ],
+  "probability_laws_distinguished": [
+    "uniform DISTINCT R_N outputs",
+    "independent uniform R_T x R_T actual inputs",
+    "input pushforward is cut-size-biased rather than uniform outputs",
+    "random-length Boltzmann angular law is not a fixed-N law",
+    "physical unmarked property is existential over viable seed marks"
+  ],
+  "root_generic_target_new_inference": false,
+  "two_OTHER_initially_blind_ENTIRE_whole_audits_required": true,
+  "no_corresponding_NEW_peer_material_access": true,
+  "no_mathematical_program_CAS_scan_test_optimizer_old_author_source_replay": true,
+  "no_Git_shared_old_cache_mutation_spawn_charge_contact_bypass": true
+}

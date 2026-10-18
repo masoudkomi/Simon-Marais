@@ -1,0 +1,24 @@
+{
+  "validated_at_utc": "2026-10-18T17:11:21.017885+00:00",
+  "status": "documentary PASS only",
+  "whole_obligations": 64,
+  "separate_author_dispositions": 64,
+  "coverage": {
+    "obligations-v1.md": {
+      "separate_unique_document_labels": 64,
+      "exactly_01_through_64": true
+    },
+    "constructor-checks-v1.md": {
+      "separate_unique_document_labels": 64,
+      "exactly_01_through_64": true
+    }
+  },
+  "guard_summary": {
+    "occurrences": 60,
+    "unique_paths": 50,
+    "canonical_deduplicated_sha256": "db902d63e3ecab4ec9d323fee18046f84894a5c5bb977006a1f598489a496842"
+  },
+  "mathematics_proved_by_code": false,
+  "parent_ENTIRE14_unchanged": true,
+  "historical_inventory_expanded": false
+}

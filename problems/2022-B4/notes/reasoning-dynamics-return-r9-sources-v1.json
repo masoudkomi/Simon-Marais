@@ -1,0 +1,43 @@
+{
+  "date_utc": "2026-10-18",
+  "status": "candidate-unverified; literal source limits",
+  "external_theorem_mathematical_premise": false,
+  "official": {
+    "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2022-paper-b.pdf",
+    "read": "B4 setup/open(b), PDFp2 extracted58--70; no preliminary proof or neighboring investigation"
+  },
+  "accepted_inputs": [
+    {"name": "D8", "read": "COMPLETE accepted body and EACH current MD/JSON", "C_old_constructor": true},
+    {"name": "D7", "read": "COMPLETE accepted body and EACH current MD/JSON; clipped proof recovered in separate245--380/300--390 reads", "C_old_constructor": true},
+    {"name": "CF", "read": "COMPLETE487-line accepted body1--245/246--487 and EACH current MD/JSON", "C_old_constructor": true, "CF6_existence_used": false}
+  ],
+  "primary": [
+    {
+      "authors": "J.C. Lagarias; N.J.A. Sloane",
+      "title": "Approximate Squaring",
+      "url": "https://neilsloane.com/doc/apsq.pdf",
+      "fresh_read": "title/date and introduction through223; Theorem5 opening from find near1468--1478",
+      "fresh_full_operative_proof_or_whole_paper": false,
+      "imported": false,
+      "binary_download_sha256": null
+    },
+    {
+      "authors": "Arturas Dubickas; Michael J. Mossinghoff",
+      "title": "Lower bounds for Z-numbers",
+      "url": "https://www.researchgate.net/publication/220576840_Lower_bounds_for_Z-numbers",
+      "fresh_read": "(1.1)/positive proper-set/two-residue discussion167--227; COMPLETE Proposition3.2 statement and supplied proof466--509; surrounding returned text not a new whole-paper audit",
+      "hypothesis_limit": "ONE scalar allowed residue for Prop3.2, not coupled sigma/R",
+      "imported": false,
+      "source_algorithm_run": false,
+      "binary_download_sha256": null
+    }
+  ],
+  "discovery_only": [
+    "https://people.mpi-sws.org/~joel/publications/dynamical_systems_orbit_rounding20.pdf",
+    "https://math.tsukuba.ac.jp/~akiyama/papers/3half_H65fullTH-060406.pdf"
+  ],
+  "new_mathematical_code_CAS_scan_test_or_old_replay": false,
+  "pending_tool_or_child": false,
+  "charge_contact_bypass": false,
+  "novelty_or_external_resolution_claim": false
+}

@@ -19,6 +19,17 @@ classification. Shared factors and ramified primes obstruct a direct
 inference that every cyclotomic factor is a perfect power. These are precisely
 the arithmetic interfaces our present work examines.
 
+The newly accepted [DR8 component-support theorem](reviews/reasoning-diagonal-return-r8-acceptance.md)
+passed TWO OTHER whole64 audits and full coordinator reconciliation.
+In the extra signed sector p>=37, p|X(X+1), Phi_p(X)=Y^p, BOTH adjacent
+distances contain distinct actual order-p primes. EVERY higher cyclotomic
+component contributes nontrivial disjoint support, forcing
+omega(Phi_p(Y)/p)>=tau(p-1), with a single exact Y-1 factor budget.
+The count is for Phi_p(Y), not Y. This connects the ordinary equation
+to simultaneous multiplicative orders without a primitive-divisor import.
+It supplies no upper support bound or full classification; the large-factor
+gap remains. Classical/published overlap and literal source limits retained.
+
 The newly accepted [DR7 actual cofactor-order theorem](reviews/reasoning-diagonal-return-r7-acceptance.md)
 passed root/B TWO OTHER ENTIRE WHOLE48/48 audits and full96-disposition
 reconciliation. For p>=37 in the stated signed residual sector, the actual

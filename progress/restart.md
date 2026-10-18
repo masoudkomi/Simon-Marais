@@ -1,5 +1,18 @@
 # Current restart boundary —2026-10-18 19:27Brisbane
 
+Current 03:40 continuing checkpoint: [2025 DR8 accepted](../problems/2025-B4/reviews/reasoning-diagonal-return-r8-acceptance.md)
+after TWO OTHER whole64 audits and full author14/BOTH21/all128 reconciliation.
+It forces actual adjacent and higher-component order-p supports in the
+extra p|X(X+1),p>=37 sector. The count is at Phi_p(Y), not Y; no upper
+support bound or annual solution follows. All frozen bytes/source limits retained.
+AU/D9 author packets remain UNVERIFIED. AU root whole1 stays embargoed;
+D9 BOTH whole48 initials are complete/released and await root reconciliation.
+2017 R11 and 2021 R21 hand research continues; B starts new2020 SQ16.
+56% TOTAL account-wide at17:38:15UTC, same authorized reset1792874445,
+90% TOTAL ceiling with review/integration reserve. Raw project-chat tokens
+remain the actual03:27 hourly snapshot; no fresh invented counter.
+
+
 ACTUAL03:27 hourly report, snapshot03:29Brisbane: [all-nine update](status-2026-10-19-0327.md).
 56%TOTAL ACCOUNT-WIDE at17:29:17UTC/sameauthorized1792874445through90reserve.
 Project-chat/descendant rawtotal2,820,577,543, cachedinput2,687,642,368,
