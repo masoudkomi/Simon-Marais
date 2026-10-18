@@ -1,0 +1,73 @@
+{
+  "frozen_utc": "2026-10-18T22:56:55.863388+00:00",
+  "status": "candidate proof - unverified",
+  "constructor": "/root/review_2017_coarsening_r1",
+  "constructor_excluded": true,
+  "ENTIRE_files": 9,
+  "claims": [
+    "LF14A",
+    "LF14B",
+    "LF14C",
+    "LF14D"
+  ],
+  "whole_obligations": 56,
+  "payload_records": [
+    {
+      "path": "problems/2017-B4/notes/reasoning-lower-return-r14-working-v1.md",
+      "bytes": 6180,
+      "sha256": "8859663fbee7f00be73c4af40e8794961779bf354f273b686eff8b56cddd9513"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-lower-return-r14-candidate-v1.md",
+      "bytes": 18859,
+      "sha256": "697c6ebe1f78429a456cfa2a8e100a4fb252365431f61ae41c4aa5208899b22a"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-lower-return-r14-obligations-v1.md",
+      "bytes": 8281,
+      "sha256": "24cda7bdc6997553788e64060f645587d199cb0fd9f75b399d243d0df58628be"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-lower-return-r14-research-v1.md",
+      "bytes": 9306,
+      "sha256": "60422cdbb0006a135b47660bc9c5ee4f57cc84acd55140e693eee99c1c46a9fe"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-lower-return-r14-sources-v1.json",
+      "bytes": 2717,
+      "sha256": "04cbdeec15e5305277034622649a301600c9cf99cbc371f0d34253ba6633d350"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-lower-return-r14-integrity-v1.py",
+      "bytes": 9554,
+      "sha256": "e0899a52c812feb4891444794e5d9dcb32ffbcb00cd3b9e9aba316403dccecaa"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-lower-return-r14-baseline-v1.json",
+      "bytes": 6161,
+      "sha256": "44d4aba9f2120709f78710f6537e42aed697708915ae7a2e4936a07407943d5b"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-lower-return-r14-metadata-v1.json",
+      "bytes": 1992,
+      "sha256": "f4fe654fd4331c4769cb854268f8f3f79f89a8ece9b106b3afe290dfa7bc7bdf"
+    }
+  ],
+  "own_parent": {
+    "path": "problems/2022-B4/reviews/reasoning-collision-return-r10-review-1-manifest-v1.json",
+    "bytes": 3336,
+    "sha256": "6f911026df258a3ec5c6c95549aaa5b8a0e197ac71a12a8c85ad0cb2158b9a1c"
+  },
+  "effective_guard_summary": {
+    "occurrences": 44,
+    "unique_paths": 42,
+    "canonical_deduplicated_sha256": "35e3bb498318bb8bf1dfcad21166e82d9e318177ca464d4468e4de43faed8650"
+  },
+  "FULL_final_MODEL_ALL8_payload_readback_completed": true,
+  "FULL_freeze_MODEL_readback_then_SEPARATE_readonly_verify_required": true,
+  "TWO_OTHER_initially_blind_ENTIRE_whole_audits_required": 2,
+  "root_NEW_construction_inference": false,
+  "NO_NEW_future_peer_or_root_R13_access": true,
+  "mathematical_program": false,
+  "old_shared_Git_cache_bytes_changed": false
+}

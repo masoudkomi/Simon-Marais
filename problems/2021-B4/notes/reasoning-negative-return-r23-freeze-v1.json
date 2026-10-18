@@ -1,0 +1,85 @@
+{
+  "frozen_UTC": "2026-10-18T23:03:37.593871+00:00",
+  "status": "candidate proof - unverified",
+  "constructor": "/root/review_2021_reasoning_j15_r2",
+  "claims": [
+    "R23A",
+    "R23B",
+    "R23C",
+    "R23D"
+  ],
+  "whole_obligations": 48,
+  "payload_count": 8,
+  "ENTIRE_files": 9,
+  "payloads": [
+    {
+      "path": "problems/2021-B4/notes/reasoning-negative-return-r23-candidate-v1.md",
+      "bytes": 19525,
+      "sha256": "86c1774de0e58949606f287b22c2b22d3932d4ed8c8f06c457dab547b186941c"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-negative-return-r23-obligations-v1.md",
+      "bytes": 7669,
+      "sha256": "68b41901edcc1e40e289c2938d0465edb4743e4a4b4065c6e09abf44973d0e03"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-negative-return-r23-working-v1.md",
+      "bytes": 7387,
+      "sha256": "57569aa062ec590bc7c73e0ffa2b70537aa5a142508858b7f4e81dab72f4eec6"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-negative-return-r23-sources-v1.md",
+      "bytes": 6049,
+      "sha256": "09da6c92cd4e5e4b8a6ab6cff6b2b500fa50578be127d3c6be0d71f4c9ef8e6f"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-negative-return-r23-sources-v1.json",
+      "bytes": 4093,
+      "sha256": "2846abdfdce967ea3d8f3053fa6cd381ba0005b1af4b83a110d361cfe114662f"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-negative-return-r23-admin-v1.py",
+      "bytes": 12028,
+      "sha256": "112b792c7ace4f990889a724977226ba6d8244eba13cbad9b65ec45d7e5f1db7"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-negative-return-r23-baseline-v1.json",
+      "bytes": 5124,
+      "sha256": "fc86bcd16a7659a2fae5a02f322744c90d3930c2130cccf7b8e0706c7d0d6401"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-negative-return-r23-metadata-v1.json",
+      "bytes": 1223,
+      "sha256": "f9db1d9320844f330d40a57cc069a45d630a154be88e7d142889a175317a187a"
+    }
+  ],
+  "effective_current_immutable_guard_summary": {
+    "occurrences": 88,
+    "unique_paths": 84,
+    "canonical_deduplicated_sha256": "2123bc33813b9c1e27dfc9c4e39a9ad84f59b55c83d52acf93199097061af678"
+  },
+  "current_direct_summary": {
+    "occurrences": 14,
+    "unique_paths": 14,
+    "canonical_deduplicated_sha256": "491d62b24f8125eb477537447a6eaf1adb81982370e2252d5d4707478c493b9e"
+  },
+  "compact_parent_historical_summary_bound_NOT_recopied": {
+    "occurrences": 127,
+    "unique_paths": 103,
+    "canonical_deduplicated_sha256": "e5d4ef4d1963877a11a28cc1e5f4fd49025e67d0b8d07f4b660ee27596173a7d"
+  },
+  "FULL_final_ALL8_payload_model_readback_completed_before_seal": true,
+  "FULL_final_manifest_model_readback_then_SEPARATE_readonly_verify_REQUIRED": true,
+  "two_OTHER_initially_blind_ENTIRE_WHOLE_audits_required": true,
+  "constructor_excluded": true,
+  "root_NEW_R23_constructive_inference": false,
+  "NEW_queued_2024_R13_target_or_peer_material_access": false,
+  "requested": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independent_effective_setting_readback": null,
+  "mathematical_program_CAS_scan_test_source_author_old_replay": false,
+  "remaining_deeper_actual_frameIII_or_annual_solved": false
+}

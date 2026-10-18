@@ -1,0 +1,65 @@
+{
+  "frozen_utc": "2026-10-18T23:03:32.794598+00:00",
+  "reviewer": "/root/review_2017_coarsening_r1",
+  "role": "OTHER initially blind ENTIRE WHOLE2",
+  "ENTIRE_files": 8,
+  "whole_obligations": 64,
+  "payload_records": [
+    {
+      "path": "problems/2020-B4/reviews/reasoning-actual-return-r18-review-2-initial-v1.md",
+      "bytes": 14090,
+      "sha256": "c3dc65affbaf5ed92739ebe5c80fd5db2eacd53de9e0c1dde9ee70a456bfefbd"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-actual-return-r18-review-2-ledger-v1.md",
+      "bytes": 6857,
+      "sha256": "af0c29292afa16c170081f49be998ad8a128ec3542bb16b2afb0a41c6f53ad31"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-actual-return-r18-review-2-research-v1.md",
+      "bytes": 5127,
+      "sha256": "d2f8ecab52b3fdd3d1b37cbdb9e0a62851ed9de1d381ad73d09f0eb2f8333784"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-actual-return-r18-review-2-sources-v1.json",
+      "bytes": 2593,
+      "sha256": "3c1b932f4ac987667615a1e15d20349f8c991b7dd2b5566e0ffbe8f5a986f607"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-actual-return-r18-review-2-integrity-v1.py",
+      "bytes": 10383,
+      "sha256": "915e1caad62b9da8e4ea8d5f56333daea4d31f787fefa3b257314454b60e2f97"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-actual-return-r18-review-2-baseline-v1.json",
+      "bytes": 8427,
+      "sha256": "0b8e365d77c5c2438eb22d36fd7f7e4629354c253c9e6da13ca51856cd0a6c2b"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-actual-return-r18-review-2-metadata-v1.json",
+      "bytes": 2010,
+      "sha256": "38edd6b936b6b784eb7c6caf858bee03a4643c11a14bf263725665770a21eb53"
+    }
+  ],
+  "author": {
+    "path": "problems/2020-B4/notes/reasoning-actual-return-r18-freeze-v1.json",
+    "bytes": 2747,
+    "sha256": "564db489529aa7030df95abbd6461fe82a5e1acf32d4499838f3472c6ae7e9be"
+  },
+  "own_parent": {
+    "path": "problems/2017-B4/notes/reasoning-lower-return-r14-freeze-v1.json",
+    "bytes": 2710,
+    "sha256": "54f1548395da878a822fcf78dfd472819ae09d3a70b021d56b507710c4a9dbad"
+  },
+  "effective_guard_summary": {
+    "occurrences": 101,
+    "unique_paths": 96,
+    "canonical_deduplicated_sha256": "2f22a85f20dfa487324204b2972b9f5e9ad73de5def2112280976650c137ee84"
+  },
+  "FULL_final_MODEL_ALL7_payload_readback_completed": true,
+  "FULL_manifest_MODEL_readback_then_SEPARATE_readonly_verify_required": true,
+  "NO_NEW_corresponding_peer_findings_files_inventory_hash_metadata_access": true,
+  "findings_EMBARGO_until_explicit_BOTH_ENTIRE": true,
+  "mathematical_program": false,
+  "old_shared_Git_cache_bytes_changed": false
+}

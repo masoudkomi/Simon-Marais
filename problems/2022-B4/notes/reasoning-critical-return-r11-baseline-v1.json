@@ -1,0 +1,117 @@
+{
+  "snapshot_utc": "2026-10-18T23:18:48.890430+00:00",
+  "purpose": "Compact immutable current inputs and immediate OWN sealed parent; no historical inventory recopy",
+  "immutable_guard_records": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2022-B4/statement.md",
+      "bytes": 1195,
+      "sha256": "2011761509ac42d5ffa2ab9e86dd1db464618707443a68f43fb3e45f59ed36c0"
+    },
+    {
+      "path": "problems/2022-B4/proofs/reviewed-reasoning-dynamics-return-r9-v1.1.md",
+      "bytes": 22645,
+      "sha256": "7cfa2c60557935261d7144576f0e39a509fbebb292fdd0027415efe411ae4c55"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-dynamics-return-r9-acceptance.md",
+      "bytes": 6354,
+      "sha256": "4ca94b70c1a8850aa636141c92947f5c6e56f1e8a617dc3b0aca887bb4046a5c"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-dynamics-return-r9-acceptance.json",
+      "bytes": 4428,
+      "sha256": "012335d567880fa522705d9d1679acf79257c89ede247ec4c1d4376634a545d4"
+    },
+    {
+      "path": "problems/2022-B4/proofs/reviewed-reasoning-collision-return-r10-v1.1.md",
+      "bytes": 25447,
+      "sha256": "269bb65792e1c31159b4443726af84083657fe73e8a1440e3cc72ee0c9c99989"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-collision-return-r10-acceptance.md",
+      "bytes": 5214,
+      "sha256": "1462fa868e75fe2841472eedabc57d357671ee06ecb5f326b5ea1371e7bbc3ef"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-collision-return-r10-acceptance.json",
+      "bytes": 3933,
+      "sha256": "272d9480617dd313c9dd66d2652236b5a8c70aefc8c3291e68a352ac49fba264"
+    },
+    {
+      "path": "problems/2022-B4/proofs/reviewed-reasoning-fiber-return-r5-v1.1.md",
+      "bytes": 27422,
+      "sha256": "ab4158f60b3412ace615be689cd61d9384f753319c312e776831392f97a37ef8"
+    },
+    {
+      "path": "problems/2022-B4/proofs/reviewed-arithmetic-complexity-v1.1.md",
+      "bytes": 17186,
+      "sha256": "b7339abc92c042c746719f91aac2d7428b4289578ac99e92ccdeee55cf0b0c70"
+    },
+    {
+      "path": "problems/2022-B4/proofs/reviewed-reasoning-return-r5-v1.1.md",
+      "bytes": 30324,
+      "sha256": "1a2544cb8ced3bba9cc6efed1870c242c652b3e6029f39881028d4637d7c6da6"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-tensor-family-return-r13-review-2-manifest-v1.json",
+      "bytes": 3037,
+      "sha256": "6e4b3e9f647c3f9b28de04a0a461d5858be53bef3a134e0be099fdc7d49957ff"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-tensor-family-return-r13-review-2-initial-v1.md",
+      "bytes": 21134,
+      "sha256": "2b97fd370047e5ecae1b93497080f93f95005b8e589ab09ea2df2e87f4248f22"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-tensor-family-return-r13-review-2-sources-v1.json",
+      "bytes": 4648,
+      "sha256": "c6d171c0da097884944fc08bffa684ee5f027818f3223854958c0be1fca62d78"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-tensor-family-return-r13-review-2-admin-v1.py",
+      "bytes": 9270,
+      "sha256": "f8f55fd310b1573a81121f1b238ff53393b9efbd916b8e2b8c30fa7a739cffa6"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-tensor-family-return-r13-review-2-baseline-v1.json",
+      "bytes": 3928,
+      "sha256": "498cf5be14e7ac442ca5246c2fcf43fe77371dd4cac37f85c99a2a82f3ecbba5"
+    }
+  ],
+  "guard_summary": {
+    "occurrences": 16,
+    "unique_paths": 16,
+    "canonical_sha256": "87001a20324fa43d9a5879c2889a92e3acdce3a16390b85a7828a0c6f34ad7f3"
+  },
+  "mutable_current_observations_NOT_future_identity_guards": [
+    {
+      "path": "problems/2022-B4/research.md",
+      "bytes": 13537,
+      "sha256": "fb776ec747f8532b8cae8899c295519c81595a20fb2793d13b33c755bd9508eb"
+    },
+    {
+      "path": "problems/2022-B4/references.md",
+      "bytes": 2728,
+      "sha256": "44de188fba0723c7930c584f6b05f22b5088eeda7f3d7b8d3fd03d2401daaf18"
+    }
+  ],
+  "own_immediate_parent": {
+    "path": "problems/2024-B4/reviews/coordinator-tensor-family-return-r13-review-2-manifest-v1.json",
+    "bytes": 3037,
+    "sha256": "6e4b3e9f647c3f9b28de04a0a461d5858be53bef3a134e0be099fdc7d49957ff"
+  },
+  "older_own_paths_bound_transitively": 1005,
+  "older_plus_NEW5_own_paths_bound_transitively": 1010,
+  "corresponding_NEW_peer_inventory_or_content_access": false,
+  "literal_checks": {
+    "literal_obligations": 48,
+    "closed_scope_notes": 8,
+    "mathematical_truth_checked_by_code": false
+  },
+  "documentary_only_no_mathematical_evaluation": true
+}

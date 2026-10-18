@@ -1,0 +1,133 @@
+{
+  "created_UTC": "2026-10-18T23:18:11.839270+00:00",
+  "role": "OTHER initially blind ENTIRE WHOLE1",
+  "whole_obligations": 32,
+  "target": {
+    "path": "problems/2024-B4/notes/coordinator-tensor-family-return-r13-freeze-v1.json",
+    "bytes": 1327,
+    "sha256": "43ca5babe90e2dcc1638273f9ce67a3fee21fc30b9d720968a80d5dadcd4123a"
+  },
+  "target_all_payloads_verified": 4,
+  "target_baseline_occurrences_verified": 9,
+  "target_source_declared_occurrences_verified": 9,
+  "necessary_direct_records": [
+    {
+      "path": "problems/2024-B4/notes/coordinator-tensor-family-return-r13-freeze-v1.json",
+      "bytes": 1327,
+      "sha256": "43ca5babe90e2dcc1638273f9ce67a3fee21fc30b9d720968a80d5dadcd4123a"
+    },
+    {
+      "path": "problems/2024-B4/notes/coordinator-tensor-family-return-r13-candidate-v1.md",
+      "bytes": 18156,
+      "sha256": "49b85dd188405691ca9146c27659130c0f1606015b31d22a753426a6891335f9"
+    },
+    {
+      "path": "problems/2024-B4/notes/coordinator-tensor-family-return-r13-sources-v1.json",
+      "bytes": 3851,
+      "sha256": "66df59714a7f9dd4eb2907dbbd3f130cc59f8724867fb6d641552b88bf989598"
+    },
+    {
+      "path": "problems/2024-B4/notes/coordinator-tensor-family-return-r13-admin-v1.py",
+      "bytes": 2992,
+      "sha256": "d0b163f09da581a28f52badebb42a8a48c8af2315f1da2a06c5a79fdd635f3df"
+    },
+    {
+      "path": "problems/2024-B4/notes/coordinator-tensor-family-return-r13-baseline-v1.json",
+      "bytes": 2170,
+      "sha256": "56e70b46d27c4d44f7924353049c5721bde954df82ecef51f54c2c557cb40d95"
+    },
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2024-B4/statement.md",
+      "bytes": 2470,
+      "sha256": "60244f7752634772adb434efbdb41a63fb02029dc3be4238f3718c6e5ec84e5f"
+    },
+    {
+      "path": "problems/2024-B4/proofs/reviewed-coordinator-tensor-return-r12-v1.1.md",
+      "bytes": 29355,
+      "sha256": "48b6926a174202e447e04673f0507fc8e4708c7ee212fd3a68d6b90957a2845f"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-tensor-return-r12-acceptance.md",
+      "bytes": 4545,
+      "sha256": "e249d970a412669e07bfa0eead8770e65c329bdc2a08f786c508174b825fb123"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-tensor-return-r12-acceptance.json",
+      "bytes": 3501,
+      "sha256": "30eb2b734af32202527174a145d2c5604ad62ce72918361e30c12a55dd5bd9f2"
+    },
+    {
+      "path": "problems/2024-B4/proofs/reviewed-reasoning-frobenius-return-r10-v1.1.md",
+      "bytes": 27940,
+      "sha256": "ce9a3c9e00ce931716fe00d6ea0a605167ddf58a29779d459a62cbc9dd04d173"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-frobenius-return-r10-acceptance.md",
+      "bytes": 4987,
+      "sha256": "4c2982ad2f8367e02b6c6f989c0a9ed9cb275a92b5b968bfab5d7494ed432867"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-frobenius-return-r10-acceptance.json",
+      "bytes": 3682,
+      "sha256": "fdaf0350da036559371864a15a4e78b9102f176995b1ec672ef3f7e68b72d5be"
+    },
+    {
+      "path": "problems/2024-B4/notes/coordinator-tensor-family-return-r13-exploration-v0.md",
+      "bytes": 6084,
+      "sha256": "14bbe46524d27b9e3157327db888bfdae905993f6aadee84f741e41ebc292af4"
+    }
+  ],
+  "current_authority_declared_summary": {
+    "occurrences": 23,
+    "unique_paths": 23,
+    "canonical_deduplicated_sha256": "963bb8884a858203f994c8e49dc37bd79c14f4015ba532ed26aa235c76a0c71e"
+  },
+  "compact_parent_binding": {
+    "immediate_own_parent": {
+      "path": "problems/2021-B4/notes/reasoning-negative-return-r23-freeze-v1.json",
+      "bytes": 3187,
+      "sha256": "4edff0c97b5d7a180cba0ae4a9975470d35f8542ccb6f841201855f7b2cd054a"
+    },
+    "parent_all_payloads_verified": 8,
+    "parent_direct_immutable_guards_verified": 14,
+    "parent_historical_effective_summary_bound_NOT_recopied": {
+      "occurrences": 88,
+      "unique_paths": 84,
+      "canonical_deduplicated_sha256": "2123bc33813b9c1e27dfc9c4e39a9ad84f59b55c83d52acf93199097061af678"
+    },
+    "mutable_maps_only_parent_historical_observations_NOT_current_guards": true,
+    "R23_mathematics_not_R13_premise_or_new_self_review": true
+  },
+  "effective_fresh_guard_summary": {
+    "occurrences": 69,
+    "unique_paths": 57,
+    "canonical_deduplicated_sha256": "ca465e0ebe38afe44f2819c174f3575e364d6adda21657b358502acb8868c9c5"
+  },
+  "corresponding_NEW_B_R13_finding_file_actual_inventory_hash_metadata_public_commentary_accessed": false,
+  "peer_completion_information": "count/time-only administration, no peer filename/hash/disposition",
+  "root_R23_peer_material_accessed": false,
+  "NEW_R13_constructive_contribution": false,
+  "OLD_roles_disclosed_not_independent_self_recertification": true,
+  "requested": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independent_effective_setting_readback": null,
+  "latest_root_weekly": {
+    "usedPercent": 69,
+    "observed_UTC": "2026-10-18 23:14:52 UTC",
+    "resetsAt": 1792874445,
+    "ordinaryUsageAllowed": true,
+    "TOTAL_ceiling": 90,
+    "integration_reserve": true,
+    "automatic_later_window": false
+  },
+  "mathematical_program_CAS_scan_test_source_author_old_replay": false,
+  "Git_shared_old_cache_writes": false
+}

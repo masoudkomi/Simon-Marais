@@ -1,0 +1,40 @@
+{
+  "frozen_utc": "2026-10-18T23:20:26.563320+00:00",
+  "reviewer": "/root",
+  "constructor": "/root/review_2017_coarsening_r1",
+  "constructor_excluded": true,
+  "ENTIRE_files": 5,
+  "whole_obligations": 56,
+  "initially_blind": true,
+  "payload_records": [
+    {
+      "path": "problems/2017-B4/reviews/reasoning-lower-return-r14-review-1-initial-v1.md",
+      "bytes": 26314,
+      "sha256": "2c8aac932e76c9a8b48e2da73051edc26e02e8838334d0434bf50a2b0c2a1b13"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-lower-return-r14-review-1-sources-v1.json",
+      "bytes": 3162,
+      "sha256": "f82c4edf43d5a24d520880e00919308d075930bdab323ce62d3ca35111b50b2d"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-lower-return-r14-review-1-admin-v1.py",
+      "bytes": 6703,
+      "sha256": "4881e9dd635b1e5a04a15b5adec21d4faadfc5ff4d03830df2f347962ca01c24"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-lower-return-r14-review-1-baseline-v1.json",
+      "bytes": 10810,
+      "sha256": "339017fa58fb5c929bc685ad1d30a14e107a0222f6b01da9391f8e462401b9f1"
+    }
+  ],
+  "input_summary": {
+    "occurrences": 42,
+    "unique_paths": 40,
+    "canonical_deduplicated_sha256": "d3c83141cc771a93d9282d8baea2bb3c7254b516ea7997c2885eec4fe88af44d"
+  },
+  "FULL_final_MODEL_ALL4_payload_readback_completed": true,
+  "FULL_manifest_MODEL_readback_then_SEPARATE_verify_required": true,
+  "NEW_peer_findings_actual_files_inventory_hash_metadata_access": false,
+  "findings_sealed_pending_explicit_BOTH": true
+}

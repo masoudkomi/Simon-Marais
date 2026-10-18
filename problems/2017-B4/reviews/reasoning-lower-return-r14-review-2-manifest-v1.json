@@ -1,0 +1,84 @@
+{
+  "frozen_utc": "2026-10-18T23:25:49.870232+00:00",
+  "role": "OTHER initially blind ENTIRE WHOLE2 LF14A-D",
+  "reviewer": "/root/review_2022_complexity_r2",
+  "NEW_constructor_C_excluded": true,
+  "ENTIRE_files": 5,
+  "whole_obligations": 56,
+  "payload_records": [
+    {
+      "path": "problems/2017-B4/reviews/reasoning-lower-return-r14-review-2-initial-v1.md",
+      "bytes": 32171,
+      "sha256": "98fd23ae479f03188fa9d2332bc7299311e3a906231f23d43b83b9f79cc688bd"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-lower-return-r14-review-2-sources-v1.json",
+      "bytes": 3795,
+      "sha256": "acb5d12c97bd719e493b6805b479b85a0c020d256b8a76898f29f9348ef6b591"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-lower-return-r14-review-2-admin-v1.py",
+      "bytes": 8262,
+      "sha256": "0718b651a8bce6be62b397b23d0e78376c882bbe3ad3388957c2d17c6b18e435"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-lower-return-r14-review-2-baseline-v1.json",
+      "bytes": 5718,
+      "sha256": "39a6a6928b05ce274c422b7d4c416f72a5b6108e20129722da159df32fe58bba"
+    }
+  ],
+  "author_main": {
+    "path": "problems/2017-B4/notes/reasoning-lower-return-r14-candidate-v1.md",
+    "bytes": 18859,
+    "sha256": "697c6ebe1f78429a456cfa2a8e100a4fb252365431f61ae41c4aa5208899b22a"
+  },
+  "author_freeze": {
+    "path": "problems/2017-B4/notes/reasoning-lower-return-r14-freeze-v1.json",
+    "bytes": 2710,
+    "sha256": "54f1548395da878a822fcf78dfd472819ae09d3a70b021d56b507710c4a9dbad"
+  },
+  "direct_guard_summary": {
+    "occurrences": 22,
+    "unique_paths": 22,
+    "canonical_deduplicated_sha256": "2f1484ae19538440af86b8cdcc4791d475ffb6eeee6dfa399c2ff1d4c1e2879b"
+  },
+  "ALL_author_declared_fingerprints_verified_compact_summary": {
+    "occurrences": 44,
+    "unique_paths": 42,
+    "canonical_deduplicated_sha256": "35e3bb498318bb8bf1dfcad21166e82d9e318177ca464d4468e4de43faed8650"
+  },
+  "own_immediate_parent": {
+    "path": "problems/2022-B4/notes/reasoning-critical-return-r11-freeze-v1.json",
+    "bytes": 2538,
+    "sha256": "789bff4a55821c867d0e1d627f3f3c961940f570e812e8bc35980f96b9e8e3a7"
+  },
+  "older_own_paths_bound_transitively": 1010,
+  "older_plus_NEW5_own_paths_bound_transitively": 1015,
+  "literal_checks": {
+    "author_literal_obligations": 56,
+    "review_literal_dispositions": 56,
+    "closed_scope_notes": 10,
+    "mathematical_truth_checked_by_code": false
+  },
+  "requested": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independent_effective_readback": null,
+  "FULL_final_MODEL_ALL4_payload_readback_completed": true,
+  "FULL_manifest_MODEL_readback_then_SEPARATE_readonly_verify_required": true,
+  "corresponding_NEW_root_LF14_findings_files_actual_inventory_hash_metadata_access": false,
+  "findings_EMBARGO_until_explicit_BOTH_ENTIRE": true,
+  "mathematical_program_CAS_scan_test_optimizer_source_author_old_replay": false,
+  "Git_shared_old_cache_mutation_spawn_charge_contact_bypass": false,
+  "weekly": {
+    "authority": "root direct",
+    "at_utc": "2026-10-18 23:14:52 UTC",
+    "TOTAL_used_percent": 69,
+    "resetsAt": 1792874445,
+    "TOTAL_ceiling": 90,
+    "integration_reserve": true,
+    "automatic_later_window_spending": false
+  }
+}

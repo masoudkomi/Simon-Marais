@@ -1,8 +1,8 @@
 {
   "branch": "codex/smmc-b4-research",
   "remote": "https://github.com/masoudkomi/Simon-Marais.git",
-  "phase": "sustained research resumed after completed user-requested readonly usage audit/PDF",
-  "last_pushed_commit": "2292d62",
+  "phase": "sustained hand research and independent review; three scoped partials integrated",
+  "last_pushed_commit": "ab6a2fb",
   "initial_passes_complete": [
     2017,
     2018,
@@ -17,25 +17,25 @@
   "active": [
     {
       "agent": "review_2021_reasoning_j15_r2",
-      "year": 2024,
-      "role": "R13 OTHER initiallyblindWHOLE1/ALL32 resumed"
+      "year": 2025,
+      "role": "NEW R11 actual global hand/literature research"
     },
     {
       "agent": "review_2022_complexity_r2",
-      "year": 2022,
-      "role": "NEW R11 actual stopped-return hand research, then2017LF14 OTHERwhole2/56"
+      "year": 2020,
+      "role": "NEW R19 actual arithmetic realization hand research"
     },
     {
       "agent": "review_2017_coarsening_r1",
-      "year": 2021,
-      "role": "R23 OTHER initiallyblindWHOLE2/ALL48 resumed"
+      "year": 2019,
+      "role": "NEW R15 actual full-law hand research; unrelated R23/CR11 audit findings remain sealed"
     }
   ],
   "initial_passes_pending": [],
   "deferred": [
     2026
   ],
-  "weekly_used_percent_last_observed": 69,
+  "weekly_used_percent_last_observed": 71,
   "weekly_reset_unix": 1792874445,
   "caffeinate": {
     "user_authorization": "keepcomputerawakeuntil90%weeklyquota; permissionforoneagentmustnotinterruptothers",
@@ -51,8 +51,8 @@
     "previous_exit_code_after_targeted_ctrl_c": 130,
     "next_check_utc": "2026-10-19T00:14:35+00:00"
   },
-  "notes": "2completeannual/7unresolved;69%TOTAL same1792874445 through90TOTAL with reserve; actual09:14heartbeat recorded",
-  "observed_at_utc": "2026-10-18T23:14:52+00:00",
+  "notes": "2completeannual/7unresolved;71%TOTAL same1792874445 through90TOTAL with reserve; actual09:14heartbeat remains latest token snapshot",
+  "observed_at_utc": "2026-10-18T23:31:11+00:00",
   "coordinator_compute": {
     "status": "all constructor children completed and reaped",
     "complex_complement_child_pid": 37199,
@@ -61,15 +61,13 @@
     "complex_family_count": 6224952,
     "new_complex_extension_audits": "both complete, accepted"
   },
-  "latest_all_nine_report": "progress/status-2026-10-19-0914.md",
-  "coordinator_current": "Finish2017LF14 OTHERwhole1;reconcile released2020R18;2021R23 OTHERwhole1 queued",
-  "latest_checkpoint": "progress/status-2026-10-19-0914.md",
+  "latest_all_nine_report": "progress/status-2026-10-19-0933.md",
+  "coordinator_current": "2021R23 OTHER initially blind whole1/all48, then2022CR11 OTHERwhole1/all48; preserve corresponding peer embargoes",
+  "latest_checkpoint": "progress/checkpoint-2026-10-19-0933.md",
   "pending_unverified": [
-    "2017LF14author9/56 root/BOTHERwholeaudits",
-    "2020R18author5/64 BOTHOTHERwholeauditsreleased,rootreconciliationpending",
-    "2021R23author9/48 root/COTHERwholeaudits",
-    "2022R11handconstructionunfinished",
-    "root2024R13author5/32 Ainitialpending/Bsealed",
+    "2021R23author9/48 root OTHERwhole1 pending/C whole2 sealed",
+    "2022CR11author5/48 root OTHERwhole1 pending/C whole2 sealed",
+    "A2025R11/B2020R19/C2019R15 new hand research",
     "olderroot2020source/2024degree-gapnotesUNVERIFIED"
   ],
   "usage_telemetry_conflict": {
@@ -88,7 +86,7 @@
     "explicit_user_authorization": "keep going till90%of the newly reported weekly window....do not stop",
     "authorization_recorded_at_utc": "2026-10-18T00:00:36.393369+00:00"
   },
-  "weekly_last_observed_at_utc": "2026-10-18 23:14:52 UTC",
+  "weekly_last_observed_at_utc": "2026-10-18 23:31:11 UTC",
   "hourly_reporting": {
     "automation_id": "simon-marais-hourly-research-report",
     "kind": "heartbeat",

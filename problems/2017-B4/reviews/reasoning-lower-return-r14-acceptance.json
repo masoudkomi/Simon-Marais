@@ -1,0 +1,96 @@
+{
+  "accepted_at_utc": "2026-10-18T23:32:17.948196+00:00",
+  "status": "proved, independently reviewed scoped partial result",
+  "whole_initials_blind": true,
+  "root_read_full_candidate_both_reports_all_ledgers_sources": true,
+  "unresolved_substantive_issues": 0,
+  "repair_required": false,
+  "candidate": {
+    "path": "problems/2017-B4/notes/reasoning-lower-return-r14-candidate-v1.md",
+    "bytes": 18859,
+    "sha256": "697c6ebe1f78429a456cfa2a8e100a4fb252365431f61ae41c4aa5208899b22a"
+  },
+  "accepted_copy": {
+    "path": "problems/2017-B4/proofs/reviewed-reasoning-lower-return-r14-v1.1.md",
+    "bytes": 24422,
+    "sha256": "88eed98d9ae634700fd23d571aad68cb4c59fd2fcd45e44dc48f9634c3d208c7"
+  },
+  "verification_metadata": [
+    {
+      "path": "problems/2017-B4/notes/reasoning-lower-return-r14-freeze-v1.json",
+      "bytes": 2710,
+      "sha256": "54f1548395da878a822fcf78dfd472819ae09d3a70b021d56b507710c4a9dbad"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-lower-return-r14-baseline-v1.json",
+      "bytes": 6161,
+      "sha256": "44d4aba9f2120709f78710f6537e42aed697708915ae7a2e4936a07407943d5b"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-lower-return-r14-sources-v1.json",
+      "bytes": 2717,
+      "sha256": "04cbdeec15e5305277034622649a301600c9cf99cbc371f0d34253ba6633d350"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-lower-return-r14-metadata-v1.json",
+      "bytes": 1992,
+      "sha256": "f4fe654fd4331c4769cb854268f8f3f79f89a8ece9b106b3afe290dfa7bc7bdf"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-lower-return-r14-review-1-manifest-v1.json",
+      "bytes": 1535,
+      "sha256": "20a023a5cfb8d27f1396c0c44500fc7af0c1a8ed1164a74b8a38211daf463382"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-lower-return-r14-review-1-baseline-v1.json",
+      "bytes": 10810,
+      "sha256": "339017fa58fb5c929bc685ad1d30a14e107a0222f6b01da9391f8e462401b9f1"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-lower-return-r14-review-1-sources-v1.json",
+      "bytes": 3162,
+      "sha256": "f82c4edf43d5a24d520880e00919308d075930bdab323ce62d3ca35111b50b2d"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-lower-return-r14-review-2-manifest-v1.json",
+      "bytes": 3261,
+      "sha256": "f77fddb99a26733be4c81df8cdf89cbbe1550e296f29f2ef80e82e2e15d53889"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-lower-return-r14-review-2-baseline-v1.json",
+      "bytes": 5718,
+      "sha256": "39a6a6928b05ce274c422b7d4c416f72a5b6108e20129722da159df32fe58bba"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-lower-return-r14-review-2-sources-v1.json",
+      "bytes": 3795,
+      "sha256": "acb5d12c97bd719e493b6805b479b85a0c020d256b8a76898f29f9348ef6b591"
+    }
+  ],
+  "record_occurrences_verified": 110,
+  "unique_paths_verified": 64,
+  "constructor": "/root/review_2017_coarsening_r1",
+  "constructor_excluded": true,
+  "whole_reviewers": [
+    "/root",
+    "/root/review_2022_complexity_r2"
+  ],
+  "whole_obligations_per_review": 56,
+  "whole_review_files": [
+    5,
+    5
+  ],
+  "closed_scope_notes": [
+    10,
+    10
+  ],
+  "explicit_BOTH_before_NEW_peer_findings_actual_inventory_open_hash_metadata": true,
+  "root_read_ENTIRE_author_both_reviews_all_code_metadata": true,
+  "actual_guarded_injection_fixed_fans_and_canonical_cost": true,
+  "every_N_ge5_exact_PP_family_positive_low_D_entropy": true,
+  "fixed_real_t_family_pressure_only": true,
+  "no_J_S_control_global_numeric_improvement_or_recursive_amplification": true,
+  "annual_open": true,
+  "priority_claim": false,
+  "no_mathematical_program_or_old_replay": true
+}

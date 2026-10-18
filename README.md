@@ -4,53 +4,17 @@ This repository records a sustained investigation of the Simon Marais Mathematic
 
 **Only the open portion is in scope:** the entire 2017 problem; the general 2018 enumeration, excluding research on its already known m=5 case; and **B4(b) only in every year 2019-2025**. Preliminary part (a) is excluded. See the [direct official-paper scope audit](sources/open-scope-audit.md). Whether an originally open problem has subsequently been solved is a separate, dated literature question.
 
-**Current stage:** two complete internally reviewed annual answers: the
-attributed published2018 enumeration and2023 classification, external
-priority unestablished. Seven annual targets remain unresolved.
+**Current stage:** two complete internally reviewed annual answers: the attributed published2018 enumeration and2023 classification, with external priority unestablished. Seven annual targets remain unresolved.
 
-The [FULL corrected 2020SQ14 integral theorem](problems/2020-B4/reviews/reasoning-arithmetic-return-r14-repair-v1.1-acceptance.md)
-has passed TWO OTHER affected whole76 reviews. The original false
-fractional extension and both review misses remain preserved; only the
-new accepted v1.2 copy supplies the corrected operative scope. Reviewed
-SQ15/2024R9/2017R10/2022D8/2019AT/2021R20/2025DR7 partials remain.
-2025DR8 is accepted after BOTH OTHER whole64 audits and full reconciliation;
-its actual component-support restrictions leave the annual problem open.
-[2019AU](problems/2019-B4/reviews/reasoning-occupation-return-r1-acceptance.md)
-and [2022D9](problems/2022-B4/reviews/reasoning-dynamics-return-r9-acceptance.md)
-are now accepted scoped partials after both OTHER whole audits and full
-reconciliation. They resolve no additional annual target. [2017PR11](problems/2017-B4/reviews/reasoning-pressure-return-r11-acceptance.md)
-now gives a reviewed stricter upper bound and actual class moments.
-The [2021R21 scoped partial](problems/2021-B4/reviews/reasoning-center-return-r21-acceptance.md)
-is now reviewed; actual frameIII stays open. SQ16 and FR10 are now reviewed scoped partials; SQ17 is a reviewed literal source-unit diagnostic.
-The [2019 AR1--AR4 clock theorem](problems/2019-B4/reviews/reasoning-area-return-r2-acceptance.md)
-has now passed both whole48 reviews and full reconciliation; its subclass
-probability law leaves the full annual growth question open. The
-[2017 CI12 directional-cost theorem](problems/2017-B4/reviews/reasoning-concentration-return-r12-acceptance.md)
-has also passed both whole48 audits; its actual class entropy budget
-and counterfamily leave the global base and annual value unchanged.
-[2024 FR11](problems/2024-B4/reviews/reasoning-frobenius-return-r11-acceptance.md)
-is now independently reviewed; it covers n=105*2^(12t+6)+1,t>=1.
-2021R22,2022RC10 and2024TR12 are accepted scoped partials after both
-OTHER whole audits and coordinator reconciliation. [2025R10](problems/2025-B4/reviews/reasoning-compatible-return-r10-acceptance.md)
-is also accepted in its exact local/conditional ideal scopes; no new
-Diophantine exclusion follows. NEW2024R13/2020R18 author packets are
-frozen UNVERIFIED and require their separate TWO OTHER whole audits.
-Weekly68%TOTAL at22:50:28UTC/reset1792874445; continue to90%TOTAL with reserve. Hand research
-continues independently on2017/2020/2021 and the other open gaps.
+New scoped partials [2017 LF14](problems/2017-B4/reviews/reasoning-lower-return-r14-acceptance.md), [2020 R18](problems/2020-B4/reviews/reasoning-actual-return-r18-acceptance.md) and [2024 R13](problems/2024-B4/reviews/coordinator-tensor-family-return-r13-acceptance.md) have passed both OTHER initially blind whole audits and complete coordinator reconciliation. LF14 constructs a positive-entropy actual sector with linear old degree cost; R18 proves necessary actual arithmetic/denominator restrictions; R13 proves a two-parameter whole-irreducibility family including6721. Their limits are stated in their acceptance records; no additional annual problem is solved. Corrected2020SQ14/SQ15 scopes supersede the preserved false fractional extensions and review misses.
 
-[2021R22](problems/2021-B4/reviews/reasoning-center-return-r22-acceptance.md)
-and [2024TR12](problems/2024-B4/reviews/coordinator-tensor-return-r12-acceptance.md)
-now passed both OTHER whole audits and reconciliation. R22 removes the
-integral frame branch only; TR12 includes exponent6721.
-[2022RC10](problems/2022-B4/reviews/reasoning-collision-return-r10-acceptance.md)
-is also accepted: exact first-hit/crossing and selected scalar-return
-families leave universal hitting open. 2025R10 is accepted; NEW2024R13 and2020R18 remain UNVERIFIED under
-their own independent whole reviews. Latest weekly68%TOTAL at22:50:28UTC;
-continue to90%TOTAL with reserve.
+2021R23 and2022CR11 remain frozen **candidate proof - unverified**. Root must complete its independent whole initials before opening the corresponding sealed other audits. A2025, B2020 and C2019 continue hand reasoning and primary-literature research.
 
-- [Latest continuing checkpoint](progress/checkpoint-2026-10-19-0851.md).
-- [Latest actual hourly report](progress/status-2026-10-19-0827.md).
-  Next actual hourly/token/owned-awake check23:27:30UTC.
+- [Latest continuing checkpoint](progress/checkpoint-2026-10-19-0933.md).
+- [Current all-nine status](progress/status-2026-10-19-0933.md).
+- [Latest actual hourly report](progress/status-2026-10-19-0914.md). Next deadline00:14:35UTC/10:14:35Brisbane.
+
+Latest direct weekly observation71%TOTAL at23:31:11UTC, reset1792874445; continue to90%TOTAL with review/integration reserve. The hourly project token counter is separate from account-wide allowance.
 
 - [Dashboard](progress/dashboard.md): per-problem status, results, obstructions, next steps and reviews.
 - [Budget and telemetry](progress/budget.md): observed weekly usage and reset boundary.

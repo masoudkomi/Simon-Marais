@@ -1,5 +1,6 @@
 # 2020 B4 research log
 
+09:33 update: **R18 is proved, independently reviewed scoped partial result.** Actual nontranslate mixed intersections include a zero and force exact ordinary denominator q; integral balanced factors obey multiplier-stabilizer and endpoint restrictions, including the stated odd-subgroup obstruction. Root/C each reconstructed all64 obligations. These are necessary actual arithmetic constraints, not construction of a compatible binary Fourier tuple, arbitrary class cancellation, norm-q realization or the annual classification. [Acceptance](reviews/reasoning-actual-return-r18-acceptance.md). Earlier dated notices below are historical.
 
 The FULL SQ15 v1.1 integral-domain version is now independently reviewed after BOTH OTHER affected whole60 audits and complete120-disposition reconciliation. It proves actual endpoint rigidity, integral norm2 class-order restrictions and actual conjugate/orbit costs. The original false fractional extension and root miss remain preserved. The separate SQ14D/E hold was subsequently lifted by the full correction and both repair reviews below; full annual classification is open. [Acceptance](reviews/reasoning-class-return-sq15-acceptance.md).
 

@@ -1,5 +1,7 @@
 # 2024 B4 independent reviews
 
+09:33 update: **R13A--D is proved, independently reviewed scoped partial result.** For every odd a>=3 and integer t>=0, n=(2^a-1)(2^(a+1)-1)*2^[a((a+1)t+2)]+1 has a WHOLE absolutely irreducible quotient, excluding the official factorization. A/B each reconstructed all32 obligations. Every t0 endpoint is included, in particular6721. Published overlap, priority, converse and full classification remain open. [Acceptance](coordinator-tensor-family-return-r13-acceptance.md). Earlier dated notices below are historical; only corrected accepted copies govern old repaired clauses.
+
 08:33 update: TR12A–D is now independently reviewed after A/B TWO OTHER whole48 audits and full96 reconciliation; root/C excluded. Coprime binary field tensors give exact M21=96,M105=696 and WHOLE absolute irreducibility for EVERY n=105*2^(12t+6)+1,t>=0,includingn6721. Full classification, failed-test converse and priority remain open. R13 is a separate UNVERIFIED two-parameter exploration. [Acceptance](coordinator-tensor-return-r12-acceptance.md).
 
 08:23 update: [FR11 subgroup-translation criterion](reasoning-frobenius-return-r11-acceptance.md) is now independently reviewed after BOTH OTHER whole48 audits and complete96-disposition reconciliation. It proves whole absolute irreducibility for EVERY n=105*2^(12t+6)+1,t>=1; the exact old positive-P test fails there. The separate root TR12 tensor-count candidate, including proposed t0/n6721, remains UNVERIFIED under A/B whole audits. Full classification, converse and published priority remain open.

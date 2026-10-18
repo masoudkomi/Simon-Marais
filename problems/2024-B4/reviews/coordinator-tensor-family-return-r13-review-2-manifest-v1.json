@@ -1,0 +1,79 @@
+{
+  "frozen_utc": "2026-10-18T22:54:33.962062+00:00",
+  "role": "OTHER initially blind ENTIRE WHOLE2 R13A-D",
+  "reviewer": "/root/review_2022_complexity_r2",
+  "NEW_root_and_C_contributors_excluded": true,
+  "whole_obligations": 32,
+  "ENTIRE_files": 5,
+  "payload_records": [
+    {
+      "path": "problems/2024-B4/reviews/coordinator-tensor-family-return-r13-review-2-initial-v1.md",
+      "bytes": 21134,
+      "sha256": "2b97fd370047e5ecae1b93497080f93f95005b8e589ab09ea2df2e87f4248f22"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-tensor-family-return-r13-review-2-sources-v1.json",
+      "bytes": 4648,
+      "sha256": "c6d171c0da097884944fc08bffa684ee5f027818f3223854958c0be1fca62d78"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-tensor-family-return-r13-review-2-admin-v1.py",
+      "bytes": 9270,
+      "sha256": "f8f55fd310b1573a81121f1b238ff53393b9efbd916b8e2b8c30fa7a739cffa6"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-tensor-family-return-r13-review-2-baseline-v1.json",
+      "bytes": 3928,
+      "sha256": "498cf5be14e7ac442ca5246c2fcf43fe77371dd4cac37f85c99a2a82f3ecbba5"
+    }
+  ],
+  "author_main": {
+    "path": "problems/2024-B4/notes/coordinator-tensor-family-return-r13-candidate-v1.md",
+    "bytes": 18156,
+    "sha256": "49b85dd188405691ca9146c27659130c0f1606015b31d22a753426a6891335f9"
+  },
+  "author_freeze": {
+    "path": "problems/2024-B4/notes/coordinator-tensor-family-return-r13-freeze-v1.json",
+    "bytes": 1327,
+    "sha256": "43ca5babe90e2dcc1638273f9ce67a3fee21fc30b9d720968a80d5dadcd4123a"
+  },
+  "all_guard_summary": {
+    "occurrences": 23,
+    "unique_paths": 23,
+    "canonical_sha256": "0188d06aff6d9e040759ce23e5603ad3e3c9d8c5cce0fa97d29650671a62dac4"
+  },
+  "own_immediate_parent": {
+    "path": "problems/2020-B4/notes/reasoning-actual-return-r18-freeze-v1.json",
+    "bytes": 2747,
+    "sha256": "564db489529aa7030df95abbd6461fe82a5e1acf32d4499838f3472c6ae7e9be"
+  },
+  "older_own_paths_bound_transitively": 1000,
+  "older_plus_NEW5_own_paths_bound_transitively": 1005,
+  "literal_checks": {
+    "author_literal_obligations": 32,
+    "review_literal_dispositions": 32,
+    "closed_scope_notes": 10,
+    "mathematical_truth_checked_by_code": false
+  },
+  "requested": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "effective_readback": null,
+  "FULL_final_MODEL_ALL4_payload_readback_completed": true,
+  "FULL_manifest_MODEL_readback_then_SEPARATE_readonly_verify_required": true,
+  "corresponding_NEW_peer_access": false,
+  "findings_EMBARGO_until_explicit_BOTH_ENTIRE": true,
+  "mathematical_program_CAS_scan_test_source_author_old_replay": false,
+  "Git_shared_old_cache_mutation_spawn_charge_contact_bypass": false,
+  "weekly": {
+    "authority": "root direct telemetry received",
+    "at_utc": "2026-10-18 22:45:30 UTC",
+    "TOTAL_used_percent": 67,
+    "resetsAt": 1792874445,
+    "TOTAL_ceiling": 90,
+    "integration_reserve": true,
+    "automatic_later_window_spending": false
+  }
+}

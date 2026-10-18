@@ -1,5 +1,7 @@
 # 2017 B4 independent reviews
 
+09:33 update: **LF14A--D is proved, independently reviewed scoped partial result.** The actual guarded three-bundle family has D_N<=4(N-2), exact PP counts and quadratic entropy alpha=(1/2)log2(3)-2/3>0 for every N>=5. Thus the entire low-OLD-D sector has positive entropy. Root/B each reconstructed all56 obligations; no substantive objection remains. J/S control, improved global numerical rate and the annual value remain open. [Acceptance](reasoning-lower-return-r14-acceptance.md). Earlier dated notices below are historical; only corrected accepted copies govern old repaired clauses.
+
 2026-10-18 22:04UTC: [CI12A--CI12D accepted](reasoning-concentration-return-r12-acceptance.md)
 after B/root TWO OTHER initially blind ENTIRE WHOLE48/48 audits and full
 96-disposition reconciliation. C constructor excluded; zero substantive

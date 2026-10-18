@@ -1,5 +1,6 @@
 # 2017 B4 research log
 
+09:33 update: **LF14A--D is proved, independently reviewed scoped partial result.** The actual guarded three-bundle family has D_N<=4(N-2), exact PP counts and quadratic entropy alpha=(1/2)log2(3)-2/3>0 for every N>=5. Thus the entire low-OLD-D sector has positive entropy. Root/B each reconstructed all56 obligations; no substantive objection remains. J/S control, improved global numerical rate and the annual value remain open. [Acceptance](reviews/reasoning-lower-return-r14-acceptance.md). Earlier dated notices below are historical.
 
 R10 is now independently reviewed after TWO OTHER whole60 audits. Actual singleton and layered classes give sharp multiplicity asymptotics and a precise obstruction to uniform word-to-class reweighting. The official scalar value remains open. [Acceptance](reviews/reasoning-path-mass-return-r10-acceptance.md).
 
