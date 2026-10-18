@@ -1,5 +1,15 @@
 # Research dashboard
 
+ACTUAL03:27 hourly report, snapshot03:29Brisbane: [all-nine update](status-2026-10-19-0327.md).
+56%TOTAL ACCOUNT-WIDE at17:29:17UTC/sameauthorized1792874445through90reserve.
+Project-chat/descendant rawtotal2,820,577,543, cachedinput2,687,642,368,
+reasoning7,565,566, uncachedinput+output132,935,175; notbilling/quota conversion.
+SQ14fullintegralrepairaccepted/pushedd643c0d; DR8BOTHwhole64complete/rootreconciliationpending.
+AU/D9rootENTIREinitialsfrozenEMBARGO/OTHERwhole2pending-active; A2021/C2017handresearch.
+OWNawake79293 OSverified03:29:17,forever40:21:27; nextactualhourly18:27:30UTC.
+Two completeannualtargets/sevenunresolved. Research continues.
+
+
 Current03:13 continuing checkpoint: [FULL SQ14 corrected INTEGRAL version accepted](../problems/2020-B4/reviews/reasoning-arithmetic-return-r14-repair-v1.1-acceptance.md)
 after TWO OTHER affected whole76/76 and FULL all152 reconciliation. The old
 false fractional scope/hold/misses remain historical; only NEW v1.2 accepted

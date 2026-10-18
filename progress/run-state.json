@@ -2,7 +2,7 @@
   "branch": "codex/smmc-b4-research",
   "remote": "https://github.com/masoudkomi/Simon-Marais.git",
   "phase": "sustained research resumed under explicit NEW-window authorization",
-  "last_pushed_commit": "653c07ac18fa7adac4484bdb0ed108f2da6f9d34",
+  "last_pushed_commit": "d643c0d6a3f373f1fc70d8cfcf133d75fcc6da5d",
   "initial_passes_complete": [
     2017,
     2018,
@@ -18,24 +18,24 @@
     {
       "agent": "review_2021_reasoning_j15_r2",
       "year": 2021,
-      "role": "NEWframeIIIactual common-root handreasoning;DR8constructorEXCLUDED"
+      "role": "R21handreasoning/checkpoint then AUOTHERwhole2"
     },
     {
       "agent": "review_2022_complexity_r2",
-      "year": 2019,
-      "role": "NEW AU actual entropy ENTIREcheckpoint then DR8OTHERwhole1"
+      "year": 2022,
+      "role": "D9OTHERinitiallyblindwhole2"
     },
     {
       "agent": "review_2017_coarsening_r1",
-      "year": 2022,
-      "role": "NEW D9 actual sign/congruence ENTIREcheckpoint then DR8OTHERwhole2"
+      "year": 2017,
+      "role": "NEWR11 actualweightedflow handreasoning"
     }
   ],
   "initial_passes_pending": [],
   "deferred": [
     2026
   ],
-  "weekly_used_percent_last_observed": 54,
+  "weekly_used_percent_last_observed": 56,
   "weekly_reset_unix": 1792874445,
   "caffeinate": {
     "user_authorization": "keepcomputerawakeuntil90%weeklyquota; permissionforoneagentmustnotinterruptothers",
@@ -43,16 +43,16 @@
     "exec_session": 64368,
     "duration_seconds": null,
     "started_at_utc_approx": "2026-10-17T01:07:50+00:00",
-    "verified_at_local": "2026-10-19T02:30:12+10:00",
+    "verified_at_local": "2026-10-19T03:29:17+10:00",
     "assertion": "PreventUserIdleSystemSleep",
-    "verified_detail": "OWNPID79293 caffeinate positively identified asserting forever39:22:22;PreventUserIdleSystemSleep1;PreventUserIdleDisplaySleep0;exactcommand caffeinate -i confirmed",
+    "verified_detail": "OWN79293caffeinate positivelyidentifiedassertingforever40:21:27;idle system sleep blocked/display allowed",
     "cleanup": "At90% total weekly usage or actual research termination, stop only owned session64368 via targeted Ctrl-C; PID79293 recorded for fallback. No timed expiry.",
     "previous_session": 14140,
     "previous_exit_code_after_targeted_ctrl_c": 130,
-    "next_check_utc": "2026-10-18T17:27:30+00:00"
+    "next_check_utc": "2026-10-18T18:27:30+00:00"
   },
-  "notes": "2completeannual/7unresolved;54%TOTAL authorized1792874445only90/reserve;nextactualhourly17:27:30UTC",
-  "observed_at_utc": "2026-10-18T17:12:16.551776+00:00",
+  "notes": "2completeannual/7unresolved;56%TOTALACCOUNTWIDE authorized1792874445only90/reserve;projecttokensrawseparate;nextactualhourly18:27:30UTC",
+  "observed_at_utc": "2026-10-18T17:32:05.936783+00:00",
   "coordinator_compute": {
     "status": "all constructor children completed and reaped",
     "complex_complement_child_pid": 37199,
@@ -61,13 +61,14 @@
     "complex_family_count": 6224952,
     "new_complex_extension_audits": "both complete, accepted"
   },
-  "latest_all_nine_report": "progress/status-2026-10-19-0227.md",
-  "coordinator_current": "SQ14fullrepairaccepted/all4FULLreadback;integration;NEW2019AU/2022D9forthcoming;DR8TWOOTHERreviewsaftercheckpoints",
-  "latest_checkpoint": "progress/checkpoint-2026-10-19-0313.md",
+  "latest_all_nine_report": "progress/status-2026-10-19-0327.md",
+  "coordinator_current": "SQ14fullrepairaccepted/pushed;AUandD9OTHERwhole1ENTIREfrozenEMBARGO;DR8BOTHOTHERwhole64released/rootFULLreconciliationpending",
+  "latest_checkpoint": "progress/status-2026-10-19-0327.md",
   "pending_unverified": [
-    "2025DR8author14/64frozenUNVERIFIED/TWOOTHERwhole64pending",
-    "root2021frameIIIexploration no theorem",
-    "NEW2019AU/2022D9handreasoning"
+    "DR8author14/64/BOTHOTHERwhole64ENTIREcomplete/released/rootreconciliationpending",
+    "AUauthor12/64/rootwhole1ENTIRE11frozenEMBARGO/Awhole2queued",
+    "D9author12/48/rootwhole1ENTIRE11frozenEMBARGO/Bwhole2active",
+    "2021R21handbinarybridge/no actualCApolynomial or exclusion"
   ],
   "usage_telemetry_conflict": {
     "last_consistent_old_window": {
@@ -85,16 +86,16 @@
     "explicit_user_authorization": "keep going till90%of the newly reported weekly window....do not stop",
     "authorization_recorded_at_utc": "2026-10-18T00:00:36.393369+00:00"
   },
-  "weekly_last_observed_at_utc": "2026-10-18 17:04:23 UTC",
+  "weekly_last_observed_at_utc": "2026-10-18 17:29:17 UTC",
   "hourly_reporting": {
     "automation_id": "simon-marais-hourly-research-report",
     "kind": "heartbeat",
     "status": "ACTIVE",
     "cadence": "hourly",
     "baseline": "progress/hourly-report-2026-10-18-1037.json",
-    "last_report": "progress/hourly-report-2026-10-19-0227.json",
-    "latest_actual_report": "progress/hourly-report-2026-10-19-0227.json",
-    "next_manual_check_utc": "2026-10-18T17:27:30+00:00",
+    "last_report": "progress/hourly-report-2026-10-19-0327.json",
+    "latest_actual_report": "progress/hourly-report-2026-10-19-0327.json",
+    "next_manual_check_utc": "2026-10-18T18:27:30+00:00",
     "cadence_failure_recorded": true,
     "configuration_active_not_proof_of_delivery": true
   },
