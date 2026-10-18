@@ -42,6 +42,8 @@ its canonical offset/box or small-H condition evaluated; no automatic
 unit correction, composite assembler, annual answer or priority follows.
 
 
+2026-10-18 current: [L13A–D](reviews/reasoning-arithmetic-return-r13-acceptance.md) accepted after root/A OTHER ENTIRE WHOLE64/64 audits and full reconciliation. Every ACTUAL prime-layer sequence is minimal; nonsquarefree fields have unconditional2^omega(q) distinct labels and actual extra Omega(q)-omega(q)-1 prefixes. Classical Davenport restrictions retain unit defect and exact norm/ideal domains. No new class-group evaluation, finite-q realization, numerical taut order or annual answer. Old A9 theorem/warning preserved; actual integral complement supplies the new inference.
+
 ## Statement checks
 
 Official B4(b), page 2, was checked by extraction and visual rendering. It asks for all taut integers n>=2, with Euclidean distances among n selected vertices of an (n²-n+1)-gon. Part (a) is excluded from this work. The order/cardinality change q=n-1 is essential, as is the n=2 exception. See statement.md, source-check.json, and the cropped official B4 render.

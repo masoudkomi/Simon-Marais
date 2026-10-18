@@ -218,3 +218,6 @@ Direct2026-10-18 11:47:00UTC:31%TOTAL,10080min/reset1792874445; ordinaryallowed/
 
 
 Direct2026-10-18 12:11:17UTC:33%TOTAL/10080min/reset1792874445,ordinaryallowed/viewsagree,57pp to90TOTAL with reserve. WO/CT scoped acceptance does not end research. Raw latestactualhourly21:27Brisbane unchanged; next12:27:42UTC. Current authorized window only.
+
+
+ACTUALhourly2227: direct12:26:46UTC34%TOTAL/currentreset1792874445/10080min/ordinaryallowed/viewsagree;56ppbefore90withreserve. Token cutoff12:26:47UTC2,242,811,628total,2,129,738,752cachedinput,15,726,845outputincluding6,617,600reasoning;113,072,876uncached+output.62sessions11209responses/allsumsmatch. Notbilling/quotaformula. OWNawake79293forever35:18:57freshverified. Next13:27:30UTC.

@@ -43,6 +43,8 @@ NONUNIT essential center to H8/H9. m3 T4 needs unit H10 but is not
 contradicted. Remaining m3/m4 EC, other J/degree20/annual/lift/priority
 questions remain open; the old local quartic diagnostic stays valid.
 
+2026-10-18 current: [R18A–C](reviews/reasoning-center-return-r18-acceptance.md) accepted after B/root OTHER ENTIRE WHOLE64/64 audits and full author14/BOTHreview21/ALL128/source/log/code/meta reconciliation. Exact actual adjacent H8/H9 m4 block forces nu=1 and three necessary full-gcd frames. ALLnu>=2 in that block excluded; three nu1 frames/different EC/m3/degree20/annual remain open. No lift or novelty claim.
+
 ## Reviewed single-center classifications
 
 The sole-H4 and sole-H2 double-zero J15 classifications are now **proved,

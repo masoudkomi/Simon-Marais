@@ -1,5 +1,9 @@
 # 2021 B4 independent reviews
 
+2026-10-18 current: [R18A–C](reasoning-center-return-r18-acceptance.md) accepted after B/root OTHER ENTIRE WHOLE64/64 audits and full author14/BOTHreview21/ALL128/source/log/code/meta reconciliation. Exact actual adjacent H8/H9 m4 block forces nu=1 and three necessary full-gcd frames. ALLnu>=2 in that block excluded; three nu1 frames/different EC/m3/degree20/annual remain open. No lift or novelty claim.
+
+
+
 The new [R17A--D global-center theorem](reviews/reasoning-center-return-r17-acceptance.md)
 is accepted after root/A TWO OTHER initially blind ENTIRE WHOLE60/60
 audits/full reconciliation. In the exact actual(S),(W) double-s branch,

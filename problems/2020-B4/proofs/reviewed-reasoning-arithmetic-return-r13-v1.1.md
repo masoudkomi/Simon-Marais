@@ -1,0 +1,541 @@
+# Accepted reasoning-arithmetic-return-r13: exact coordinator scope
+
+2026-10-18 UTC. **Proved, independently reviewed scoped partial result.**
+
+Accept L13A–L13D ONLY in the exact official2020(b) prime-conductor
+partial sector q=n-1>=2,p=q²+q+1 prime. Fix ONE odd T containing every
+rational prime divisor of q; ACTUAL set conclusions additionally require
+centering and T-stability. An arbitrary larger T is not an actual
+stabilizer. V is the ORDINARY quotient Cl(F)/jCl(E), retaining Gamma
+unit defect and possible2-torsion; TD1 supplies rho-zero iff an exact
+integral norm generator of THIS SAME balanced ideal. Relative scalar,
+absolute ideal norm and ordinary principal class remain distinguished.
+
+L13A: EVERY actual balanced prime-layer decomposition of A=(alpha),
+alpha*c(alpha)=q, gives a MINIMAL zero-sum indexed label sequence of
+length L=Omega(q) in its generated H<=V. Explicit paired exponent
+positions construct the layers for ALL exponents; no integral Weil
+factorization is assumed. A proper zero subproduct has exact generator
+beta of its SAME ideal; alpha/beta is integral because its ideal is
+A/B. At least one of the proper integer scalars a,q/a is nonsquare,
+contradicting A9A. Thus L<=D(H)<=D(V)<=|V|, including repeated labels
+and the zero singleton at L1.
+
+L13B: If q is nonsquarefree, L>t=omega(q), its radical is proper.
+ANY one balanced layer per color has2^t DISTINCT subset labels,
+WITHOUT assuming an actual set. Signed collisions give an INTEGRAL
+union/conjugation ideal of nonempty squarefree scalar<=rad(q)<q,
+so TD1/A9A exclude them without a2-torsion loss. For an ACTUAL
+layering put one chosen color layer first. The additional proper
+prefixes k=t+1,...,L-1 lie outside the Boolean image by literal
+subset containment/minimality. Hence |H|,|V|>=2^t+L-t-1.
+The tail may be empty; P_t/P_L are not counted. Squarefree q instead
+retains old TD4 |H|+|H[2]|>=2^t; no radical injection is asserted there.
+
+L13C: The classical exact Davenport formula for a finite abelian
+tau-group is1+sum_j(tau^a_j-1), proved here by modular augmentation
+nilpotence/identity coefficient and the matching generator sequence.
+The disjoint quotient-block extraction proves D(G)<=D(A)D(G/A).
+Sylow iteration yields D(V)<=B(V)<=|V| and ACTUAL L<=B(V).
+No exact arbitrary-group formula, semisimple division or distinct-element
+Olson constant is substituted. Attribution is classical, not a new theorem.
+
+L13D: ACTUAL mixed nonsquarefree q implies |V|>=L+1. Independently
+of a set, |V|1 forces q prime, and |V|<=3 forces a prime power or
+TWO DISTINCT primes, by the radical and squarefree TD4 bounds. These
+are necessary implications, not actual class-group evaluations,
+realizations, a prime-power converse or new numerical q classification.
+
+B sole NEW constructor EXCLUDED. Root OTHER wholeR1 ENTIRE11/64
+froze11:45:53.964301/full readback/separate verify11:46:11. A OTHER
+wholeR2 ENTIRE11/64 froze12:14:51.219816/full readback/separate verify
+12:14:56.391802. Root explicitly confirmed BOTH before detailed
+findings release/NEW A peer access. Root FULL-read entire author11,
+BOTHreview22/ALL128, ALLissues/sources/log/code/ALLmetadata and
+operative accepted TD/A9/A11 complete bodies/MDJSON. Zero substantive
+defects/required repairs; six root/seven A CLOSED notes add no premise.
+
+Protocol qualification preserved: root posted a brief preliminary
+supporting disposition before BOTH initials. A repeatedly and at entire
+handoff explicitly confirmed NO corresponding NEW root mathematical
+finding, commentary, peer file/hash record or metadata CONTENT seen;
+only administrative assignment/guards/freeze dates/counts. This is
+evidenced nonexposure, not a claim of perfect public embargo compliance.
+Older accepted-input roles are disclosed, not new self-recertification.
+
+Original official quantifiers, Leung–Schmidt operative norm bound and
+classical zero-sum normalization were checked with exact read limits.
+Earlier source dependency chains/Olson original proof are attributed,
+not falsely claimed freshly whole-read. Needed modular/group arguments
+are self-contained. No mathematical executable,CAS,scan,table generator,
+source/author or old certificate replay supplied proof/reviews. Old A9
+squarefree theorem and its explanatory repeated-layer limitation remain
+unchanged; the new actual complementary ideal supplies the missing
+extra inference, not a refutation of that old theorem.
+
+No field class-size evaluation, exact finite-q ideal-box/binary recovery,
+large-quotient exclusion, composite-modulus gluing, full annual answer,
+external validation or novelty follows. All historical bytes preserved.
+
+The COMPLETE frozen mathematical submission follows as a byte-identical suffix. Its historical unverified label records submission status; this header and acceptance record state the current exact scope.
+
+---
+
+# Prime-layer rigidity and a radical-plus-tail class obstruction
+
+18 October2026 UTC. **Candidate proof - unverified.** Constructor B,
+`/root/review_2022_complexity_r2`. Requested inherited gpt-6.1-sol/max;
+independently verified effective-setting readback unavailable. Root
+assigned a generic target, not a new proof inference. B is excluded
+from the TWO OTHER fresh initially blind ENTIRE WHOLE audits required
+before coordinator acceptance. Only open2020 B4(b) is investigated.
+
+The accepted Todd reduction retains the unit-norm defect inside the
+finite quotient V, and gives whole-rational-primary minimality. The
+extra ACTUAL divisibility information also controls every balanced
+prime layer of an actual norm-q ideal. A square-norm zero subproduct
+would leave an INTEGRAL complementary factor of forbidden nonsquare
+norm. Thus counting repeated primes need not stop at omega(q).
+
+There is a second gain before any configuration is assumed. At a
+nonsquarefree q, its radical is a PROPER nonsquare norm. One balanced
+prime layer for each rational prime therefore has ALL distinct subset
+sums, with no2-torsion loss. For an actual solution, extra proper
+prefix sums then occupy distinct additional classes. The proposed
+new necessary bound is
+
+    |V| >= 2^omega(q)+Omega(q)-omega(q)-1
+              for an ACTUAL nonsquarefree norm-q solution.       (A)
+
+Already WITHOUT a solution, nonsquarefree q forces |V|>=2^omega(q).
+An independently proved classical Davenport bound supplies the
+additional exponent-sensitive restriction Omega(q)<=D(V). These
+give precise finite arithmetic obstructions, not estimates showing
+that the relevant class groups actually meet a forbidden bound.
+No new numerical q, construction, global prime-power classification,
+composite-modulus assembler, annual answer or novelty is asserted.
+
+## 0. Exact actual domain and independently accepted premises
+
+The official open target asks exactly which integers n>=2 are taut.
+Use the separately accepted cyclic planar dictionary without proving
+or reproducing preliminary(a), and put
+
+    q=n-1>=2, k=q+1, p=q^2+q+1 PRIME.
+
+Composite polygon moduli and q1/n2 lie outside EVERY new claim.
+Fix ONE ODD subgroup T of F_p* containing the residue of EVERY
+rational prime dividing q. Let
+
+    K=Q(zeta_p), F=K^T, c=complex conjugation, E=F^c,
+    C=Cl(F), S=j Cl(E), V=C/S.
+
+Cl denotes the ORDINARY class group. The complete exact accepted TD1
+body proves j injective and |V|=h(F)/h(E), without assuming any class
+number odd. V is not silently identified with Cminus. Its canonical
+refined invariant rho retains Gamma=C^c/S, including its possible
+even-class unit obstruction. No arbitrary choice of a half-offset
+or automatic unit correction is used.
+
+When an ACTUAL set is assumed below it is explicitly centered and
+T-STABLE, so its integral character alpha belongs to F and
+
+    alpha*c(alpha)=q, A=(alpha), A*c(A)=(q).           (1)
+
+A chosen larger T is not automatically an actual stabilizer. The
+accepted First Multiplier Theorem and centering give actual stability
+for the subgroup generated by the prime-divisor multipliers; using
+that particular subgroup is an available inherited application, not
+an assertion that it is the full numerical multiplier group. A failed
+test for one arbitrary larger T does not exclude all configurations.
+
+Write
+
+    q=product_(i=1)^t ell_i^e_i,
+    t=omega(q), L=Omega(q)=sum_i e_i,
+    rad(q)=product_i ell_i.
+
+The ell_i are DISTINCT ordinary rational primes, e_i>=1. Neither t
+nor L means |T|, the number of prime ideals, or the fixed-field degree.
+Since q belongs to odd T, it has order3 modulo p. Hence T is
+nonidentity, F/E is CM quadratic and all ell_i split completely in F.
+If [F:Q]=2d, there are d DISTINCT conjugate prime pairs above EACH
+ell_i. Primality of p implies q is nonsquare: q=b^2,b>=2 would factor
+p=(b^2+b+1)(b^2-b+1). At least one e_i is therefore odd. This is
+an exclusion, not a preliminary existence construction.
+
+The ONLY operative imported facts are the exact separately accepted
+TD1--TD5 and standalone A9A, whose complete current bodies/scopes and
+authorities were read. Accepted A11 is read comparison/history only.
+
+* TD1: for every supported positive integer a and integral balanced
+  ideal I*c(I)=(a), the canonical rho(I,a) lies in V. It is additive
+  on products, negated by conjugation, and rho0 is EQUIVALENT to an
+  exact integral generator beta of THIS SAME ideal with beta*c(beta)=a.
+  Its definition uses a supported FIELD norm and Hilbert90, not an
+  unproved even-class correcting unit. All supported positive a are
+  field norms in this exact domain.
+* A9A: the PUBLISHED Leung--Schmidt proper-nonsquare bound says no
+  integral beta in Z[zeta_p] has beta*c(beta)=a for ANY nonsquare
+  integer2<=a<q. The prime-conductor proof is fully reconstructed in
+  that accepted body. There is no class parity assumption on this
+  standalone bound. It is relative conjugation norm, not merely an
+  absolute ideal/field norm.
+* TD2/TD4/TD5 supply the exact norm-q recovery and older counts. Their
+  arithmetic sufficiency conditions are not declared met. A large-N
+  example or formal class vector is not a finite-q realization.
+
+Fresh original Leung--Schmidt Theorem23 statement and complete proof
+were inspected, together with its prime-power notation and the relevant
+Theorem22 context. Its general proof uses earlier lemmas; this packet
+does not certify the entire41-page chain or delete a hypothesis based
+on a bare abstract. The accepted A9 prime-case reconstruction is enough
+for the exact imported consequence above. The classical zero-sum/group-
+algebra tools below are attributed, and their needed proofs are supplied
+in full rather than imported from an unread Olson original proof.
+
+## Proposed results
+
+**L13A: every actual balanced prime-layer decomposition is minimal.**
+Every actual ideal A in(1) has a factorization
+
+    A=product_(i=1)^t product_(r=1)^(e_i) J_(i,r),
+    J_(i,r) integral, J_(i,r)*c(J_(i,r))=(ell_i).     (2)
+
+For EVERY such factorization the L refined labels
+
+    y_(i,r)=rho(J_(i,r),ell_i)
+
+form a MINIMAL zero-sum sequence in their ACTUAL generated subgroup
+H<=V. In particular
+
+    L<=D(H)<=D(V)<=|V|.                              (3)
+
+Here D(G) is the maximum length of a minimal zero-sum sequence over
+the finite abelian group G; D({0})=1. These J_(i,r) generally are
+NOT principal and are NOT algebraic factors of alpha. Their absolute
+ideal norms are ell_i^d, whereas their rational balance norms are ell_i.
+There is no claimed factorization of a Weil number into prime-norm
+Weil numbers. Repetitions of labels are allowed.
+
+**L13B: radical dissociation without a solution, plus an actual tail.**
+Suppose q is nonsquarefree, equivalently L>t. For ANY choice of
+integral balanced J_i of norm ell_i, the2^t subset sums of
+z_i=rho(J_i,ell_i) are ALL distinct. Thus, without assuming a set,
+
+    |<z_1,...,z_t>|>=2^t, |V|>=2^t.                 (4)
+
+For an ACTUAL A, fix ANY decomposition(2) and choose ONE layer of
+each color i. Ordering these t layers first and the rest arbitrarily
+gives the stronger bound
+
+    |H|>=2^t+L-t-1, hence |V|>=2^t+L-t-1.            (5)
+
+The tail has length L-t-1; it can be0. There is no division by2,
+odd-class assumption or loss of |H[2]| in(4)--(5). This does NOT
+extend the same formula to squarefree q: then rad(q)=q and the
+full-support signed collision is not a forbidden proper norm.
+
+**L13C: explicit classical finite-group bounds, in the correct group.**
+For a prime tau and finite abelian tau-group
+
+    G_tau = direct_sum_j C_(tau^a_j), a_j>=1,
+
+the classical formula is
+
+    D(G_tau)=1+sum_j(tau^a_j-1).                     (6)
+
+For arbitrary V, with its Sylow subgroups V_tau, define
+
+    B(V)=product_tau [1+sum_j(tau^a_(tau,j)-1)],
+    B({0})=1.
+
+Then
+
+    D(V)<=B(V)<=|V|,
+    ACTUAL Omega(q)<=B(V).                           (7)
+
+In particular if V=C_tau^r, ACTUAL L<=1+r(tau-1), and for V=C2^r,
+ACTUAL L<=r+1. These are classical group bounds applied to the NEW
+actual layer sequence; they are not claimed new general Davenport
+theorems. The needed modular group-algebra and subgroup proofs are
+given below. The prime tau is unrelated to the conductor p and the
+rational prime colors ell_i. No semisimple-character theorem dividing
+by |G_tau| is applied in characteristic tau.
+
+**L13D: exact arithmetic consequences and the small-quotient boundary.**
+For an actual NON-prime-power nonsquarefree q, t>=2 and(5) implies
+
+    |V|>=L+(2^t-t-1)>=L+1.                          (8)
+
+Thus a cyclic relative quotient of order at most L cannot support
+such an actual configuration; (7) gives stronger restrictions for
+several noncyclic quotient structures.
+
+Even WITHOUT an actual set, in the exact field domain
+
+    |V|=1 implies q is PRIME;
+    |V|<=3 implies q is a PRIME POWER or a product
+                      of TWO DISTINCT rational primes.          (9)
+
+These are scoped arithmetic consequences, not evaluations of |V|
+for a new q or a claim excluding the surviving squarefree semiprime.
+In particular no arbitrary even-class correction or prime-power
+converse follows. The full Boolean interval/offset problem at finite
+q, composite moduli and the annual classification remain open.
+
+## 1. Complete actual layering, without principal prime factors
+
+Fix an actual A=(alpha) from(1). Over ell_i, let the exponent on
+P_(i,j) be u_(i,j), and the one on c(P_(i,j)) be e_i-u_(i,j),
+where0<=u_(i,j)<=e_i. These are ALL its primes over ell_i, by
+complete splitting and exact balance; there is no support away from q.
+For every j choose a subset U_(i,j) of{1,...,e_i} of cardinality
+u_(i,j), and put
+
+    J_(i,r)=product_(j=1)^d
+       P_(i,j)^[r in U_(i,j)]
+       c(P_(i,j))^[r notin U_(i,j)].                 (10)
+
+This is an integral ideal. At each conjugate pair it selects exactly
+one member, so J_(i,r)c(J_(i,r))=(ell_i). Multiplying over all r
+recovers the prescribed exponents u_(i,j),e_i-u_(i,j), hence gives
+the actual primary part of A. Multiplying all colors gives(2).
+The choices can vary independently with j; there is no presumption
+that the actual primary ideal is a POWER of one balanced prime ideal.
+The proof below works for EVERY possible choice, not only a special
+layering favorable for a desired class estimate.
+
+By TD1 additivity,
+
+    sum_(i,r)y_(i,r)=rho(A,q)=0.                     (11)
+
+Suppose a nonempty PROPER subfamily of layers has refined sum0.
+Let B be its product and a the product of its rational prime colors,
+with multiplicity. Then B is INTEGRAL, Bc(B)=(a),1<a<q, and TD1
+gives beta in O_F with
+
+    (beta)=B, beta*c(beta)=a.                        (12)
+
+The exact SAME ideal matters: B divides A, and
+
+    (alpha/beta)=A/B
+
+is integral, so gamma=alpha/beta belongs to O_F. Its exact norm is
+gamma*c(gamma)=q/a, an ordinary integer strictly between1 and q.
+Since q is nonsquare, at least one of a and q/a is nonsquare. Both
+beta and gamma embed in O_K=Z[zeta_p], so the corresponding element
+contradicts A9A. This proves minimality for ALL L layers.
+
+Square a was not itself called forbidden. It is its INTEGRAL
+complement with nonsquare proper norm that gives the contradiction.
+Without an actual A and the SAME-ideal generator, that step is
+unavailable. This is precisely why an arbitrary square-norm ideal or
+formal class assignment is not being excluded. At L1, the sole zero
+label is allowed; at L>1 no individual actual layer label can be0.
+
+### Relation to the preserved older warning
+
+Accepted A9E proved its ordinary-minus-class minimality only for
+squarefree q. Its old explanatory text warned that square proper
+layer norms prevented an extension. It did not establish an actual
+counterexample to matched-layer minimality. The square-norm reason
+does block an argument on ARBITRARY chosen ideals; it does NOT block
+the actual-divisibility proof(12), because the complementary ideal is
+integral too. TD5 already used this extra idea for WHOLE primary
+blocks. Section1 explicitly extends it to every balanced layer using
+the refined rho; it does not delete a parity assumption from the old
+ordinary-class theorem or silently change a frozen accepted sentence.
+All old text and counterexamples remain preserved. Any explanatory
+integration is for the coordinator after two new whole audits.
+
+## 2. Radical dissociation and the extra actual prefix classes
+
+Assume L>t, so rad(q)<q. First choose ANY balanced integral J_i
+of norm ell_i, with z_i=rho(J_i,ell_i). Such choices exist by
+complete splitting independently of an actual set. Suppose distinct
+subsets U,W of{1,...,t} have equal sums of their z_i. Cancel their
+common indices in the equality and form the INTEGRAL ideal
+
+    B=(product_(i in U\W)J_i)
+                 *(product_(i in W\U)c(J_i)).        (13)
+
+Its refined invariant is0, and its balance norm is
+
+    a=product_(i in U triangle W)ell_i.
+
+The support is nonempty, each rational prime occurs ONCE, so a is
+nonsquare. Moreover2<=a<=rad(q)<q. TD1 would give an integral
+exact-norm-a generator; A9A forbids it. Thus all2^t sums are distinct,
+proving(4) without any set, odd h(F) or assumption on V[2]. The norm
+here is the UNION product, not a fractional quotient U/W.
+
+Now assume A actual and choose one layer of each color in ANY(2).
+Name them first y1,...,yt, and order the remaining layers arbitrarily
+as y_(t+1),...,y_L. Let
+
+    P_k=y1+...+y_k.
+
+By Section1 the partial sums P_0,...,P_(L-1) are distinct: equality
+would give a nonempty proper zero subfamily. The2^t Boolean sums
+using ONLY the first t layers are distinct by(4). For
+
+    t+1<=k<=L-1,                                   (14)
+
+P_k cannot equal ANY of those Boolean sums. Indeed the chosen subset
+is literally contained in the first k positions. Removing it leaves
+a nonempty proper subfamily, of cardinality at least k-t>0 and at
+most k<L, with sum0. Section1 excludes that equality EVEN if its
+rational balance norm happens to be square. Thus the L-t-1 values
+in(14) are all distinct and all outside the Boolean image. Counting
+them gives(5).
+
+The initial full Boolean sum P_t is already counted and is not added
+again. P_L=0 coincides with the empty Boolean sum and is also not
+added. At L=t+1 the additional list is empty, with count0. This
+checks the endpoints rather than extending a positive tail formula
+to a nonexistent range. The choice of first layers and the ordering
+do not affect the validity of the bound; no favorable actual class
+pattern was selected by a computation.
+
+For SQUAREFREE q, L=t and rad(q)=q. The support in(13) may be full,
+with norm exactly q. A complementary collision is then allowed.
+The existing TD4 bound |H|+|H[2]|>=2^t remains the appropriate all-
+odd statement. Formula(5) is NOT asserted there without its L>t
+hypothesis. No arbitrary abstract Boolean injection is made an
+integral solution or a realization at the specified q.
+
+## 3. Davenport length, including its trivial-group endpoint
+
+For a finite abelian group G, define a sequence as an indexed list;
+repetitions are allowed and count in its length. A zero-sum sequence
+is minimal if no nonempty proper subfamily sums to0. Let D(G) be
+their largest length. Equivalently D(G) is the least positive integer
+such that EVERY sequence of that length has a nonempty zero-sum
+subfamily. Here is the elementary equivalence, to fix normalization.
+
+A zero-sum-free list g1,...,gm extends to a minimal zero-sum list
+by appending -sum g_i. A zero proper subfamily containing the appended
+entry would have a complementary nonempty zero-sum subfamily in the
+old list; a zero proper subfamily not containing it is impossible
+directly. Conversely deleting one term from a minimal zero-sum list
+leaves a zero-sum-free list. Thus D(G)=1+maximum zero-sum-free length,
+including G={0}, where the maximum empty length is0 and D=1.
+
+For any minimal list of length m, its m partial sums before the final
+return are distinct, so m<=|G|. This proves D(G)<=|G| without a new
+source theorem. If H<=V, every minimal sequence over H is also
+minimal in V, hence D(H)<=D(V). Applying this to Section1 proves(3).
+
+## 4. Classical prime-group formula with a complete modular proof
+
+This is the classical Kruyswijk--Olson prime-group Davenport argument,
+not new general group theory. Let tau be prime and
+G=direct_sum_(j=1)^r C_(n_j), n_j=tau^a_j. In the group algebra
+F_tau[G] let X_j be the basis element of the jth generator and
+U_j=X_j-1. Frobenius in characteristic tau gives
+
+    U_j^n_j=X_j^n_j-1=0.
+
+Every augmentation-zero element belongs to the ideal
+I=(U_1,...,U_r): write X^g-1 as a sum of successive coordinate
+differences, each divisible by one U_j. Conversely these generators
+have augmentation0. Any product of
+
+    b=1+sum_j(n_j-1)
+
+elements of I is0. On expanding into monomials in the U_j, a monomial
+of total degree at least b has some exponent>=n_j and vanishes.
+This is a nilpotence argument; there is no division by |G| or use
+of semisimple character orthogonality in characteristic tau.
+
+Given a list g1,...,g_b, its product
+
+    product_(i=1)^b (1-X^g_i)
+
+therefore vanishes. If the list had NO nonempty zero-sum subfamily,
+the coefficient of X^0 in that product would be exactly1, from the
+empty subfamily alone, a contradiction. Hence D(G)<=b. For the
+reverse, take n_j-1 repetitions of each independent generator. It
+is zero-sum-free: in coordinate j the selected count lies between0
+and n_j-1, so a vanishing coordinate requires count0. Its length
+is b-1, proving D(G)>=b. This proves(6), with no unread inverse
+classification or general-rank equality imported.
+
+For a subgroup A<=G, put a=D(A), b=D(G/A). From an arbitrary list
+of length ab, greedily extract D(A) DISJOINT nonempty blocks each of
+length at most b whose sums lie in A. This is possible: before the
+i-th extraction, at least (a-i+1)b entries remain, so a quotient
+zero-sum can be found among b of them. The a block sums have a
+nonempty zero-sum subfamily in A. Their disjoint union is a nonempty
+zero-sum subfamily in G. Thus
+
+    D(G)<=D(A)D(G/A).                               (15)
+
+Applying(15) inductively to the Sylow direct product gives the first
+inequality in(7). For n_j>=2,
+1+sum(n_j-1)<=product n_j by induction from
+ab-(a+b-1)=(a-1)(b-1)>=0. Multiplying over tau proves B(V)<=|V|.
+The trivial quotient/Sylow endpoint uses D({0})=1. The exact formula
+(6) is not asserted for ALL finite abelian groups, only tau-groups;
+the product in(7) is an UPPER bound, not a falsely universal equality.
+
+## 5. Consequences at small quotients, with the exact remaining gap
+
+If q is nonsquarefree and not a prime power, t>=2 and(5) yields
+|V|>=L+2^t-t-1>=L+1. This proves(8). If V=C_tau^r, combine it
+with L<=1+r(tau-1) and |V|=tau^r. For an actual nonsquarefree q,
+both necessary inequalities must hold:
+
+    L<=1+r(tau-1),
+    2^t+L-t-1<=tau^r.                              (16)
+
+There is NO proof that an uncomputed class group has this form or
+violates(16), and no field example is claimed here.
+
+For(9), if q is nonsquarefree, the UNCONDITIONAL(4) and |V|<=3
+give2^t<=3, hence t1 and q a prime power. If |V|1, even t1 would
+require2<=1, so this case cannot be nonsquarefree.
+
+If q is squarefree, TD4 applies before a set is assumed, with its
+whole primary blocks now norm ell_i. For any such choices its actual
+generated group H<=V satisfies
+
+    2^t<=|H|+|H[2]|<=|V|+|V[2]|.                    (17)
+
+For groups of order1,2,3 the last quantity is respectively2,4,4.
+Thus |V|<=3 forces t<=2 in this squarefree branch, and |V|1 forces
+t1. Combining the branches proves(9), without presuming a set,
+odd ordinary class number or a norm-q generator. The surviving
+squarefree two-prime branch is not excluded or constructed.
+
+Two HAND abstract diagnostics locate what the inference does and
+does not accomplish. In C3 the length3 list(g,g,g) is minimal
+zero-sum. If two entries are assigned color ell and the last color m,
+it meets a bare length bound but violates(5), since4>3 for t2,L3.
+This is a class PATTERN exclusion, not a specified q or cyclotomic
+realization. In C2², choose independent x,y and the list(x,y,x+y),
+with the first two entries color ell and the last color m. It is
+minimal, its selected two-color Boolean sums fill all4 elements,
+and t2,L3 gives equality in(5) and D(C2²)=3. It is a formal example
+showing these constraints alone can still be compatible; it is NOT
+an actual ideal family, solution, even-class correction or new taut set.
+
+The finite-q offset/box arithmetic remains unresolved. This packet
+does not find a canonical zero, make actual class labels arbitrary,
+bound |T|, evaluate a new h(F)/h(E), or replace q by a large supported
+N. In particular accepted M10's large-N realizations and weighted
+defect are untouched. Full reconstruction of a primitive solution
+requires TD2's exact norm-q integral binary recovery, not a generic
+zero-sum sequence. Composite polygon moduli and the full annual
+question remain outside the new theorem. No source absence, priority
+or full-solution claim is attached to these scoped applications of
+classical norm and zero-sum methods.
+
+Every mathematical step above is hand reasoning. No CAS, class-group
+calculation, prime/mask scan, routine test, author/source replay or
+old certificate/freezer execution was used. Complete obligations,
+constructor dispositions, failures/source limits/worklog/NEW metadata
+code and ALL compact immutable records must freeze before the TWO
+OTHER fresh whole audits. Only the coordinator may promote the exact
+partial claims after both full audits and any repairs are resolved.

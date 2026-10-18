@@ -1,0 +1,91 @@
+{
+  "frozen_at_utc": "2026-10-18T12:14:51.219816+00:00",
+  "status": "initial OTHER ENTIRE WHOLE R13 review2 complete; coordinator decision pending",
+  "whole_obligations": 64,
+  "payload_files": 10,
+  "ENTIRE_files": 11,
+  "FULL_payload_model_readback_complete_before_manifest": true,
+  "manifest_FULL_readback_and_SEPARATE_verify_required_before_identity_handoff": true,
+  "substantive_defects": 0,
+  "required_repairs": 0,
+  "closed_scope_notes": 7,
+  "candidate_remains_unpromoted_by_reviewer": true,
+  "author_entire_freeze": {
+    "path": "problems/2020-B4/notes/reasoning-arithmetic-return-r13-freeze-v1.json",
+    "bytes": 6630,
+    "sha256": "eba097f9c6bffc2549fef51ef74b99962b16affa86a7dcaf9679bab95ad8adbe"
+  },
+  "immediate_own_parent": {
+    "path": "problems/2021-B4/notes/reasoning-center-return-r18-freeze-v1.json",
+    "bytes": 8034,
+    "sha256": "14a572167f6ea76658d87a61c951b94f111adc437555f7388b7b0cf47b2829be",
+    "payloads_verified": 13,
+    "ENTIRE_files": 14,
+    "parent_current_occurrences_bound_not_recopied": 92,
+    "parent_current_unique_paths_bound_not_recopied": 72,
+    "parent_current_summary_sha256": "be32fe0e34f3e5759fd59fbdcf814700c8c05b8eb7c29d8bd7e374f5e2204a11"
+  },
+  "compact_baseline": {
+    "path": "problems/2020-B4/reviews/reasoning-arithmetic-return-r13-review-2-baseline-v1.json",
+    "bytes": 14627,
+    "sha256": "42184d59aa2a7079e605f466849808546bc13aa5422aba59c80fc573f2b7a478"
+  },
+  "protected_occurrences": 52,
+  "protected_unique_paths": 52,
+  "canonical_deduplicated_sha256": "0e15c97ef2e775748663ef7f746c97c9cea0a2c1c962955a5a38eed94e338151",
+  "no_corresponding_NEW_root_R13_review_access_through_ENTIRE_initial": true,
+  "identity_only_handoff_until_BOTH_ENTIRE_initials_confirmed": true,
+  "no_mathematical_executable_scan_CAS_author_or_source_rerun": true,
+  "payloads": [
+    {
+      "path": "problems/2020-B4/reviews/reasoning-arithmetic-return-r13-review-2-initial-v1.md",
+      "bytes": 14594,
+      "sha256": "889b20a873e108bda0570c49cf2c633870ce0cc4cf4ce6847cf94cf0a8479ef0"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-arithmetic-return-r13-review-2-ledger-v1.md",
+      "bytes": 11435,
+      "sha256": "78621470caf56e637a68e7321766e4398857934723719b899bd92dd10d4539ac"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-arithmetic-return-r13-review-2-issues-v1.md",
+      "bytes": 3536,
+      "sha256": "f624548124831f6069fbc6c6c9f5089e6a6136c88bd595b3e998789abd7d480e"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-arithmetic-return-r13-review-2-source-checks-v1.md",
+      "bytes": 5177,
+      "sha256": "4054461d0828e27fb6d989554113dfe12c2114d4e976983ebd0504c764973577"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-arithmetic-return-r13-review-2-sources-v1.json",
+      "bytes": 4175,
+      "sha256": "d371bcda84faa95bdbb32b2f3093d123f5140ad21df2678465d197462eb73bf6"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-arithmetic-return-r13-review-2-worklog-v1.md",
+      "bytes": 4703,
+      "sha256": "81c2b6bd6cb131ace82058e262f3d16a5ec6596c24cd6f8731d7e0adf777d70c"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-arithmetic-return-r13-review-2-admin-v1.py",
+      "bytes": 12121,
+      "sha256": "7aab2ee144eafd3969c44dd8c7c56cac3269f5c4a418021f6a8910b5dc4b8378"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-arithmetic-return-r13-review-2-baseline-v1.json",
+      "bytes": 14627,
+      "sha256": "42184d59aa2a7079e605f466849808546bc13aa5422aba59c80fc573f2b7a478"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-arithmetic-return-r13-review-2-input-validation-v1.json",
+      "bytes": 593,
+      "sha256": "77b6c1aa0a7662dcda76bbc4f9770dd8e97b96cf4b77e182e98cefe8cf5d1c8f"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-arithmetic-return-r13-review-2-metadata-v1.json",
+      "bytes": 1141,
+      "sha256": "ca4515dcf7decd712ececba66e833a54598fd7b9906bf1604c1658160be772ff"
+    }
+  ]
+}

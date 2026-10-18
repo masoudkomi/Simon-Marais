@@ -1,5 +1,9 @@
 # 2020 B4 independent reviews
 
+2026-10-18 current: [L13A–D](reasoning-arithmetic-return-r13-acceptance.md) accepted after root/A OTHER ENTIRE WHOLE64/64 audits and full reconciliation. Every ACTUAL prime-layer sequence is minimal; nonsquarefree fields have unconditional2^omega(q) distinct labels and actual extra Omega(q)-omega(q)-1 prefixes. Classical Davenport restrictions retain unit defect and exact norm/ideal domains. No new class-group evaluation, finite-q realization, numerical taut order or annual answer. Old A9 theorem/warning preserved; actual integral complement supplies the new inference.
+
+
+
 2026-10-18 current: [TD1–TD5 accepted](reasoning-Todd-return-r12-acceptance.md)
 after root/A TWO OTHER initially blind ENTIRE WHOLE72/72 audits and full
 reconciliation; B constructor excluded. Zero substantive issues/repairs.
