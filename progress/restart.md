@@ -1,3 +1,9 @@
+# Active restart boundary — 18October2026,09:58Brisbane
+
+User EXPLICITLY authorizes the NEW window reset1792874445 through90%TOTAL with reserve. The prior hold below is superseded for THIS window only. Read authorization-2026-10-18-0958.md and run-state.json. Continue independent work if one agent needs permission. A2017R6R1,B2021R11R1then2017R6R2,C2025R9;root2024. Owneduntimedawake79293/session64368verified09:58Brisbane,next10:58Brisbane.
+
+---
+
 # Latest restart boundary — 2026-10-17 20:50 UTC
 
 This section supersedes ALL historical launch/usage notes below.

@@ -189,3 +189,6 @@ Five new exact partial packets accepted after both complete blind WHOLE audits a
 [Current all-nine report](status-2026-10-17-2049.md): NEW2024whole three-bit exclusion accepted after BOTH OTHER44-row WHOLE audits/full reconciliation. Two annual answers unchanged.2021R11rootwholeR2complete/OTHER R1unstarted;2017R6fullconstructor unverified;2020R8OTHER R2finishing. Account meter65% unexpectedly changed0% then1% and reset date. NEW sustained work held pending measurable authorization; complete current audits/integration. Owned awake freshly verified.
 
 2026-10-17 20:50UTC integration addendum:2020R8 now ACCEPTED after BOTH54-row WHOLE audits, full root report/ledger/source reconciliation and123 fingerprints/68paths. No new taut order/full classification. All underway audits/integration COMPLETE; NEW queued work held pending measurable budget continuation.
+
+
+[Explicit new-window authorization and resumption](authorization-2026-10-18-0958.md):current1%TOTAL,reset1792874445,continueuntil90%TOTALwithreserve. Userauthorizesnewwindowandindependentpermissionhandling;threeworkersactive,ownedawakeverified09:58Brisbane.
