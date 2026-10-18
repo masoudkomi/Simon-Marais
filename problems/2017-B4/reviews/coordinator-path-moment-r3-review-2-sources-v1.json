@@ -1,0 +1,29 @@
+{
+  "date_utc": "2026-10-18",
+  "reviewer": "/root/review_2022_complexity_r2",
+  "requested": {"model": "gpt-6.1-sol", "reasoning": "max", "inherited": true},
+  "independent_effective_readback": null,
+  "entire_author_files_read": 16,
+  "whole_obligations_reconstructed": 48,
+  "new_peer_PM9_material_accessed": false,
+  "old_roles": ["WC whole reviewer", "WO whole reviewer", "PM8 whole reviewer", "other earlier 2017 input work disclosed, not freshly self-certified"],
+  "NEW_PM9_contribution": false,
+  "root_NEW_PM9_sole_constructor_excluded": true,
+  "accepted_inputs": [
+    {"name": "PM8A-PM8E", "body": "problems/2017-B4/proofs/reviewed-reasoning-path-mass-return-r8-v1.1.md", "bytes": 29343, "sha256": "4e538d9369ae4a2ae9c7c47fa400e947740de08d7ce84a8579f837fd9f9b18d3", "read": "COMPLETE operative body and current MD/JSON", "old_metadata_occurrences": 174, "old_metadata_unique_paths": 92},
+    {"name": "WC1-WC3", "body": "problems/2017-B4/proofs/reviewed-weighted-cutpath-r1-v1.1.md", "bytes": 15914, "sha256": "93c08b0a43426c972bd6a0042c7e496cb08a106873c931f0231901e9f425f14b", "read": "COMPLETE operative body/current MDJSON/source/failure records", "old_metadata_occurrences": 102, "old_metadata_unique_paths": 49},
+    {"name": "WO1-WO4 exact accepted status", "body": "problems/2017-B4/proofs/reviewed-weighted-optimum-r2-v1.1.md", "bytes": 18824, "sha256": "dcc12d2989e5ab657960498179e2585e62ad35ffb1989a4bca72fef8fb953f9a", "read": "COMPLETE operative body/current MDJSON/source/failure records", "old_metadata_occurrences": 122, "old_metadata_unique_paths": 74}
+  ],
+  "primary_read_records": [
+    {"id": "official-paper", "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2017-paper-2_1.pdf", "read_scope": "B4 extracted48-57 only operative", "role": "domain"},
+    {"id": "official-comments", "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2017-solutions-preliminary_1.pdf", "read_scope": "B4 p12 extracted775-812 only operative", "role": "attributed context"},
+    {"id": "FV", "url": "https://page.math.tu-berlin.de/~felsner/Paper/new-pla.pdf", "read_scope": "fresh extracted0-473 including COMPLETE operative Lemma1/Lemma2 proofs and insertion/tree setup", "unread": "cited full representation foundations and later optimization"},
+    {"id": "Dallant-v2", "url": "https://arxiv.org/pdf/2502.20909v2", "read_scope": "fresh definitions/insertion and COMPLETE Section2 through Lemma7 extracted115-398", "unread": "later optimization/code/lower construction; older original sharp-zone proof"},
+    {"id": "MIT-2020", "url": "https://math.mit.edu/research/undergraduate/urop-plus/documents/2020/Boonsiriseth.pdf", "read_scope": "intro fragments,preliminaries78-141,full142-253,Theorem4.1 statement and partial development through426", "unread": "full Theorem4.1 proof and remaining manuscript/Sections5-8", "role": "context only; no theorem imported"}
+  ],
+  "new_math_executable_or_CAS_or_scan_or_optimizer": false,
+  "author_or_source_or_old_freezer_replayed": false,
+  "new_metadata_only_code": true,
+  "binary_download_cache_write_retrieval_hash": false,
+  "novelty_or_complete_literature_search_claim": false
+}

@@ -1,0 +1,72 @@
+{
+  "frozen_at_utc": "2026-10-18T13:47:07.146399+00:00",
+  "status": "ENTIRE initially blind OTHER WHOLE PM9 R1 checkpoint; findings embargoed",
+  "reviewer": "/root/review_2017_coarsening_r1",
+  "whole_obligations": 48,
+  "all_files_including_manifest": 11,
+  "author_freeze": {
+    "path": "problems/2017-B4/notes/coordinator-path-moment-r3-freeze-v2.json",
+    "bytes": 4093,
+    "sha256": "7210932f81b90afa8197fb40fe6c7cc3603fbfc85c39b58c67df4f36728b185d"
+  },
+  "immediate_own_parent": {
+    "path": "problems/2024-B4/notes/reasoning-cofactor-return-r7-freeze-v1.json",
+    "bytes": 3129,
+    "sha256": "18d2a87ffb4f0f7ca2140659a0883f697974620ba507453fdfda01b8cff49cd1"
+  },
+  "corresponding_NEW_peer_accessed": false,
+  "BOTH_explicit_confirmation_required_before_findings_release": true,
+  "FULL_final_model_readback_ALL11_then_SEPARATE_verify_REQUIRED": true,
+  "artifacts": [
+    {
+      "path": "problems/2017-B4/reviews/coordinator-path-moment-r3-review-1-admin-v1.py",
+      "bytes": 7018,
+      "sha256": "0380908ec885ff1fd440b9c0a124623e1dc8dd09bb33ee6e3d3cc1035f28b127"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-path-moment-r3-review-1-baseline-v1.json",
+      "bytes": 10495,
+      "sha256": "950737d4db0592400ffe05ecc7ab5d4cc13f737b3b5bf3d029ea7a0c1c78466e"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-path-moment-r3-review-1-initial-v1.md",
+      "bytes": 12094,
+      "sha256": "118146ca2a8a78a1042543ae29f8521476b6377f4b2ee5e6e7a5f69f589fdeae"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-path-moment-r3-review-1-input-validation-v1.json",
+      "bytes": 544,
+      "sha256": "22ad1e6fecc9b573e3849c033bb98dbecb0078d69c7b08ff22f94319ae27496e"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-path-moment-r3-review-1-issues-v1.md",
+      "bytes": 2272,
+      "sha256": "27589fad0afbfd144ecdabc61492bf258e789b8de4d231d6d42f26e198843452"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-path-moment-r3-review-1-ledger-v1.md",
+      "bytes": 5871,
+      "sha256": "fe2b0688ea7546c50e9eae2c4316daa439b38899921af2f6bd70e6536708d68c"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-path-moment-r3-review-1-metadata-v1.json",
+      "bytes": 889,
+      "sha256": "677a1273484eeefa33363a44ef0eb208b96577c9c2ccb2b31027d4b42daace1c"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-path-moment-r3-review-1-source-checks-v1.md",
+      "bytes": 2665,
+      "sha256": "355c26492590e7b496c8d3d0c7f36662c22bb1713b86811404b1c932f974ba5c"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-path-moment-r3-review-1-sources-v1.json",
+      "bytes": 2311,
+      "sha256": "613763f8fd3a42da976117aa8a593dae10e62b10a412e0ee99f960db16b5117c"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-path-moment-r3-review-1-worklog-v1.md",
+      "bytes": 2369,
+      "sha256": "0742f9b776da90920ad08d89f78f01eeeb82a7e26ee6f0dc6c099116c325b116"
+    }
+  ]
+}

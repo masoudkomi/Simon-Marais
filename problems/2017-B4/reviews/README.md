@@ -1,6 +1,17 @@
 # 2017 B4 independent reviews
 
-The new [PM8A–PM8E actual cutpath bound](reasoning-path-mass-return-r8-acceptance.md) is **proved, independently reviewed scoped partial result** after root/B TWO OTHER ENTIRE initially blind WHOLE64/64 audits and full reconciliation. Actual adjacent-middle geometry plus adapted weighted flow supply the uniform low-cost count that WO4 formerly assumed,and give EVERY arrangement at EVERY n>=2 at most4J^n cutpaths,with fixedJ<K. The exact official limsup improves to half-log2J. Exact value,matching lower,effective all-scale R,annual solution and priority remain open. A separate NEW root moment/Hölder working argument is UNVERIFIED;it is not included in the accepted bound.
+The new [PM9A–PM9C moment/interpolation bound](coordinator-path-moment-r3-acceptance.md)
+is **proved, independently reviewed scoped partial result** after C/B
+TWO OTHER initially blind ENTIRE WHOLE48/48 audits and full96-disposition
+reconciliation. Root constructor excluded. EVERY actual arrangement at
+EVERY n≥2 has at most H^n cutpaths,with H strictly below the current
+PM8 base J and no prefactor four. The positive absolute degree-four
+moment and separately paid negative moment give this bound by finite
+Hölder;exact marked insertion yields limsup≤half-log2H. Exact value,
+matching lower,effective all-scale R,annual answer and priority remain open.
+PM8's accepted geometry had already discharged WO4's former low-cost
+premise;the old conditional body remains historically unchanged.
+
 
 2026-10-18: [WO1–WO3 and conditional-only WO4](coordinator-weighted-optimum-r2-acceptance.md) accepted after B/C OTHER ENTIRE WHOLE48/48 audits and full root reconciliation. Exact family optimum/strict algebraic improvement and absolute weighted moment/count tail; uniform low-cost mass, exact value, annual answer and priority remain open. Root constructor excluded.
 

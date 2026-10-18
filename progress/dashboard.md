@@ -1,5 +1,16 @@
 # Research dashboard
 
+Current23:59Brisbane18October2026:
+[2017 PM9 accepted](../problems/2017-B4/reviews/coordinator-path-moment-r3-acceptance.md)
+after TWO OTHER ENTIRE WHOLE48/48 and ALL96 reconciliation:uniform H^n,
+strict H<currentJ,no prefactor4;exact value/effectiveR/annual remain open.
+2019BT accepted/pushed e002ae3.41%TOTAL direct13:59:18UTC/current authorized
+1792874445window only through90/reserve. R14/R19/R7 remainunverified;
+rootR19/R7whole1 and C R14whole2 complete/embargoed. A R7whole2,
+B R19whole2 continue;C new2022actualhittingreasoning. RootR14whole1 next.
+[Checkpoint](checkpoint-2026-10-18-2359.md). Next ACTUALhourly14:27:30UTC.
+
+
 Current continuing checkpoint23:51Brisbane18October2026:
 [2019 BT accepted](../problems/2019-B4/reviews/reasoning-cut-transfer-r5-acceptance.md)
 after BOTH OTHER ENTIRE WHOLE56/56 audits/full112 reconciliation.

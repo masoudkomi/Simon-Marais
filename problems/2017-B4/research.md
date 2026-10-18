@@ -1,6 +1,17 @@
 # 2017 B4 research log
 
-The new [PM8A–PM8E actual cutpath bound](reviews/reasoning-path-mass-return-r8-acceptance.md) is **proved, independently reviewed scoped partial result** after root/B TWO OTHER ENTIRE initially blind WHOLE64/64 audits and full reconciliation. Actual adjacent-middle geometry plus adapted weighted flow supply the uniform low-cost count that WO4 formerly assumed,and give EVERY arrangement at EVERY n>=2 at most4J^n cutpaths,with fixedJ<K. The exact official limsup improves to half-log2J. Exact value,matching lower,effective all-scale R,annual solution and priority remain open. A separate NEW root moment/Hölder working argument is UNVERIFIED;it is not included in the accepted bound.
+The new [PM9A–PM9C moment/interpolation bound](reviews/coordinator-path-moment-r3-acceptance.md)
+is **proved, independently reviewed scoped partial result** after C/B
+TWO OTHER initially blind ENTIRE WHOLE48/48 audits and full96-disposition
+reconciliation. Root constructor excluded. EVERY actual arrangement at
+EVERY n≥2 has at most H^n cutpaths,with H strictly below the current
+PM8 base J and no prefactor four. The positive absolute degree-four
+moment and separately paid negative moment give this bound by finite
+Hölder;exact marked insertion yields limsup≤half-log2H. Exact value,
+matching lower,effective all-scale R,annual answer and priority remain open.
+PM8's accepted geometry had already discharged WO4's former low-cost
+premise;the old conditional body remains historically unchanged.
+
 
 ## Research significance and connections
 
@@ -22,7 +33,7 @@ many sorting histories that can describe one arrangement.
 
 The project has independently reviewed a proof that the two requested rates
 coincide, together with certified lower approximations and the upper bound
-below0.648 by the newly reviewed [weighted-cutpath theorem](reviews/coordinator-weighted-cutpath-r1-acceptance.md). Its two OTHER whole40/40 audits and full reconciliation are complete; it uses direct path weights and a same-path Cauchy comparison, without a new mathematical program. The new [WO1–WO3 and conditional WO4](reviews/coordinator-weighted-optimum-r2-acceptance.md) passed TWO OTHER ENTIRE WHOLE48/48 audits and full reconciliation. It proves the unique exact optimum within the specified weight family, strictly improves that exact upper certificate, and gives an unconditional absolute weighted path moment/count tail. Its further entropy improvement assumes a uniform low-cost path bound that remains UNPROVED. Their common value is still undetermined. The repaired
+below0.648 by the newly reviewed [weighted-cutpath theorem](reviews/coordinator-weighted-cutpath-r1-acceptance.md). Its two OTHER whole40/40 audits and full reconciliation are complete; it uses direct path weights and a same-path Cauchy comparison, without a new mathematical program. The new [WO1–WO3 and conditional WO4](reviews/coordinator-weighted-optimum-r2-acceptance.md) passed TWO OTHER ENTIRE WHOLE48/48 audits and full reconciliation. It proves the unique exact optimum within the specified weight family, strictly improves that exact upper certificate, and gives an unconditional absolute weighted path moment/count tail. Its further entropy improvement was conditional at submission; the later accepted PM8 geometry discharged that exact uniform low-cost premise. PM9 now sharpens the resulting bound. Their common value is still undetermined. The repaired
 [R6 boundary and entropy comparison](reviews/reasoning-value-return-r6-acceptance.md)
 is now independently reviewed. Its finite-angle repair passed both affected
 whole audits. The new

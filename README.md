@@ -15,11 +15,13 @@ and exact growth rate open. Reviewed recent partials also include
 [2022 D6](problems/2022-B4/reviews/reasoning-dynamics-return-r6-acceptance.md),
 [2024 R6](problems/2024-B4/reviews/reasoning-cofactor-return-r6-acceptance.md),
 and [2025 RD](problems/2025-B4/reviews/reasoning-diagonal-return-r5-acceptance.md).
-NEW2017PM9,2020R14,2021R19 and2024R7 remain unverified under independent
-whole review. Direct weekly39%TOTAL at13:48:59UTC/reset1792874445;
+[2017 PM9](problems/2017-B4/reviews/coordinator-path-moment-r3-acceptance.md)
+now improves the CURRENT PM8 base after both whole48/48 audits and full
+reconciliation.2020R14,2021R19 and2024R7 remain unverified under independent
+whole review. Direct weekly41%TOTAL at13:59:18UTC/reset1792874445;
 continue to90%TOTAL with reserve in this explicitly authorized window.
 
-- [Latest continuing checkpoint](progress/checkpoint-2026-10-18-2351.md).
+- [Latest continuing checkpoint](progress/checkpoint-2026-10-18-2359.md).
 - [Latest actual hourly report](progress/status-2026-10-18-2327.md);
   its2024 table has the explicit sign correction in the new checkpoint.
   Next actual hourly/owned-awake check14:27:30UTC.
