@@ -18,12 +18,13 @@ its actual component-support restrictions leave the annual problem open.
 [2019AU](problems/2019-B4/reviews/reasoning-occupation-return-r1-acceptance.md)
 and [2022D9](problems/2022-B4/reviews/reasoning-dynamics-return-r9-acceptance.md)
 are now accepted scoped partials after both OTHER whole audits and full
-reconciliation. They resolve no additional annual target. R11/R21 remain
-unverified; hand research continues on2020 and2024.
-Weekly58%TOTAL at18:00:27UTC/reset1792874445; continue to90%TOTAL with
+reconciliation. They resolve no additional annual target. [2017PR11](problems/2017-B4/reviews/reasoning-pressure-return-r11-acceptance.md)
+now gives a reviewed stricter upper bound and actual class moments.
+SQ16/R21 remain unverified; hand research continues on2019 and2024.
+Weekly59%TOTAL at18:12:19UTC/reset1792874445; continue to90%TOTAL with
 reserve in this authorized window. Hand research continues on all gaps.
 
-- [Latest continuing checkpoint](progress/checkpoint-2026-10-19-0401.md).
+- [Latest continuing checkpoint](progress/checkpoint-2026-10-19-0413.md).
 - [Latest actual hourly report](progress/status-2026-10-19-0327.md).
   Next actual hourly/token/owned-awake check18:27:30UTC.
 

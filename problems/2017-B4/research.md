@@ -21,6 +21,17 @@ also grows; a theorem for a fixed set of tile directions does not immediately
 control this family. Counting arrangements also differs from counting the
 many sorting histories that can describe one arrangement.
 
+The newly accepted [PR11A--PR11D two-route/class-moment bound](reviews/reasoning-pressure-return-r11-acceptance.md)
+passed TWO OTHER whole64 audits/full reconciliation. Both routes of an
+actual diamond pay a slightly infeasible degree-four raw row only AFTER
+normalization. This yields G^n for every actual arrangement,n>=2,
+G=(2109/1000)*(4218000/3447881)^(3/4), strictly below CURRENT PM9 H
+with ln(H/G)>701/8206000. One canonical insertion chain gives positive
+absolute moments and tail COUNTS on actual classes, and the official
+upper exponent half-log2G. The connection is local geometry to global
+tiling entropy; no word-multiplicity substitution is made. Exact value,
+matching lower bound,effective all-scale R and annual answer stay open.
+
 The new [PM9A–PM9C moment/interpolation bound](reviews/coordinator-path-moment-r3-acceptance.md)
 is **proved, independently reviewed scoped partial result** after C/B
 TWO OTHER initially blind ENTIRE WHOLE48/48 audits and full96-disposition

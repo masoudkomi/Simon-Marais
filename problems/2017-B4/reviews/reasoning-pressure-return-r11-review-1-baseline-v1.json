@@ -1,0 +1,83 @@
+{
+  "prepared_at_utc": "2026-10-18T17:52:17.106922+00:00",
+  "status": "one OTHER initially blind whole audit, not acceptance",
+  "reviewer": "/root",
+  "NEW_R11_constructor": false,
+  "older_WC_WO_PM9_root_constructor": true,
+  "older_inputs_independently_self_recertified": false,
+  "bindings": {
+    "direct_bindings": [
+      {
+        "path": "problems/2017-B4/notes/reasoning-pressure-return-r11-freeze-v1.json",
+        "bytes": 3407,
+        "sha256": "041cd6fa331d5737b71b721247b3d7706ecdf88edd115c7387055b840d0fe5e3"
+      },
+      {
+        "path": "problems/2017-B4/notes/reasoning-pressure-return-r11-baseline-v1.json",
+        "bytes": 6967,
+        "sha256": "a9d5472d15c79ee4fd34074631509fa848c19e310db00f3bd08a0914cd3f4366"
+      },
+      {
+        "path": "problems/2022-B4/reviews/reasoning-dynamics-return-r9-review-1-manifest-v1.json",
+        "bytes": 2777,
+        "sha256": "3bf00e1f339875118bce573bdc69fbdbafb7ae32620f6a053744fed75dbee027"
+      }
+    ],
+    "author_ENTIRE13": {
+      "occurrences": 13,
+      "unique_paths": 13,
+      "canonical_sha256": "f003f3eb901d9084cda5dd84f03ba95acfcf9c44ea436cb30a503f64dd1735b5"
+    },
+    "author_direct28": {
+      "occurrences": 28,
+      "unique_paths": 28,
+      "canonical_sha256": "37eaff876f3bd3891164a90f5e1a27c5c99eeb2603ff1496e8656b5e8542e938"
+    },
+    "own_D9_parent_ENTIRE11": {
+      "occurrences": 11,
+      "unique_paths": 11,
+      "canonical_sha256": "6776f5f1788a5f6a7d0056daf304b74cebce4a1ac44a0ea0b18443484ebf4401"
+    },
+    "combined": {
+      "occurrences": 52,
+      "unique_paths": 52,
+      "canonical_sha256": "015db426feb7cefbb4beacc32642af46c927042f1a8cb98320cb5108bfe43835"
+    },
+    "historical_inventories_recopied": false,
+    "new_R11_peer_access": false
+  },
+  "fresh_COMPLETE_body_and_EACH_current_authority_MDJSON": [
+    "WC",
+    "WO",
+    "PM8",
+    "PM9"
+  ],
+  "source_record": [
+    {
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2017-paper-2_1.pdf",
+      "read": "B4 extracted48--57"
+    },
+    {
+      "url": "https://page.math.tu-berlin.de/~felsner/Paper/new-pla.pdf",
+      "read": "56--214 including161--164 exact fiber;313--322 operative rotation proof",
+      "whole12page_audit": false
+    },
+    {
+      "url": "https://arxiv.org/pdf/2502.20909v2",
+      "read": "149--457 including282--315 exact rotation/zone deduction",
+      "whole12page_or_new_optimizer_audit": false
+    }
+  ],
+  "R10_body_read": "historical prior audit/context only, not newly repeated full read",
+  "requested_model": "gpt-6.1-sol",
+  "requested_reasoning": "max",
+  "verified_effective_readback": null,
+  "authorized_reset": 1792874445,
+  "TOTAL_ceiling": 90,
+  "reserve": true,
+  "automatic_later_window": false,
+  "no_NEW_peer_findings_files_inventory_hash_metadata_commentary_access": true,
+  "audit_MD_embeds_ALL64_issues_sources_worklog": true,
+  "ENTIRE_files": 5,
+  "no_mathematical_program_CAS_scan_test_or_old_replay": true
+}

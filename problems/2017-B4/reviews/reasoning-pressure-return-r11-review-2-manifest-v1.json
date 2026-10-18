@@ -1,0 +1,48 @@
+{
+  "frozen_utc": "2026-10-18T18:04:06.563272+00:00",
+  "reviewer": "/root/review_2021_reasoning_j15_r2",
+  "role": "OTHER initially blind ENTIRE WHOLE2",
+  "whole_obligations": 64,
+  "payload_count": 4,
+  "ENTIRE_files": 5,
+  "payloads": [
+    {
+      "path": "problems/2017-B4/reviews/reasoning-pressure-return-r11-review-2-admin-v1.py",
+      "bytes": 6725,
+      "sha256": "340981ec8ecc0df5757f6839bb041753a1ea5171f436b35906f5b1dd7d1a6662"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-pressure-return-r11-review-2-baseline-v1.json",
+      "bytes": 12159,
+      "sha256": "d80b0d74d05d8ab6aac04c2a79b56747a3492bfadfa7777d93f27db09e23c146"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-pressure-return-r11-review-2-report-v1.md",
+      "bytes": 29596,
+      "sha256": "a86915a7164ede6651439bd1190dc74247718f80701d1bf460dc2bf8c3bcc3f8"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-pressure-return-r11-review-2-sources-v1.json",
+      "bytes": 6502,
+      "sha256": "40fb2146a0af205219a449ada3586dccc654fc2ae99bca931d08059ee9815d3c"
+    }
+  ],
+  "effective_guard_summary": {
+    "occurrences": 166,
+    "unique_paths": 165,
+    "canonical_deduplicated_sha256": "40634746a9a2c96d2a7b5e63ba4c5827ebfc723005bea568cfe708acf302d0ab"
+  },
+  "FULL_final_ALL4_payload_model_readback_completed": true,
+  "FULL_manifest_model_readback_then_SEPARATE_readonly_verify_REQUIRED": true,
+  "corresponding_NEW_root_PR11_finding_file_inventory_hash_metadata_commentary_seen": false,
+  "root_counts_times_only_administrative_completion_received": true,
+  "historical_DR8_guard_access_after_explicit_BOTH_release": true,
+  "requested": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independent_effective_setting_readback": null,
+  "mathematical_program_CAS_scan_test_source_author_old_replay": false,
+  "status": "Independent review recommendation only; coordinator promotion required"
+}

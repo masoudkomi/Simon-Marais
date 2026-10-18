@@ -1,0 +1,114 @@
+{
+  "frozen_at_utc": "2026-10-18T18:05:54.546752+00:00",
+  "status": "candidate proof - unverified",
+  "constructor": "/root/review_2022_complexity_r2",
+  "constructor_excluded": true,
+  "TWO_OTHER_initially_blind_ENTIRE_WHOLE_reviews_required": true,
+  "root_NEW_proof_inference": false,
+  "requested": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independent_effective_readback": null,
+  "whole_obligations": 48,
+  "separate_author_hand_checks": 48,
+  "ENTIRE_files_including_freeze": 12,
+  "FULL_final_MODEL_readback_ALL11_payloads_code_ALLgenerated_metadata_completed": true,
+  "FULL_freeze_MODEL_readback_then_SEPARATE_readonly_verify_required": true,
+  "guard_summary": {
+    "occurrences": 24,
+    "unique_paths": 24,
+    "canonical_sha256": "0a934f428b2fe67201290528c46bf3ec92cd169f0089e3ca650e85d042f7ca04"
+  },
+  "immediate_own_parent": {
+    "path": "problems/2022-B4/reviews/reasoning-dynamics-return-r9-review-2-manifest-v1.json",
+    "bytes": 4383,
+    "sha256": "e0748765ecc179de716b5cf25ca86412de3ca866de10122bb9325b1bd4c60d8f"
+  },
+  "older_own_paths_bound_transitively": 932,
+  "older_plus_new_own_paths_bound_transitively": 944,
+  "literal_documentary_checks": {
+    "whole_obligation_labels": 48,
+    "separate_author_check_labels": 48,
+    "proposed_claim_labels": [
+      "SQ16A",
+      "SQ16B",
+      "SQ16C"
+    ],
+    "mathematical_truth_checked_by_code": false
+  },
+  "new_proofs_no_annual_new_parameter_or_priority_claim": true,
+  "no_mathematical_program_CAS_scan_test_source_author_old_replay": true,
+  "no_Git_shared_old_cache_mutation_spawn_charge_contact_bypass": true,
+  "weekly": {
+    "at_utc": "2026-10-18 17:53:49 UTC",
+    "method": "own same-awaited clock/get_usage_limits",
+    "TOTAL_used_percent": 57,
+    "window_minutes": 10080,
+    "resetsAt": 1792874445,
+    "ordinaryUsageAllowed": true,
+    "legacy_by_limit_agree": true,
+    "account_label": "029a8928...1334ac3a",
+    "TOTAL_ceiling_percent": 90,
+    "integration_reserve": true,
+    "automatic_later_window_spending": false
+  },
+  "payloads": [
+    {
+      "path": "problems/2020-B4/notes/reasoning-class-return-sq16-candidate-v1.md",
+      "bytes": 20148,
+      "sha256": "802e6101d6bcafc81554fee3f76344d530872edb1f5b6732ec0248aa5cc6564b"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-class-return-sq16-obligations-v1.md",
+      "bytes": 5247,
+      "sha256": "5b2b470df22873f63b9d980f7a3972a6fcc4c069ebf17c9be7907a28d216b593"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-class-return-sq16-constructor-checks-v1.md",
+      "bytes": 6353,
+      "sha256": "90c9cdc924f84f0897b89ee17d0832ad33972b101d3ac45ddaea2439adb3ac14"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-class-return-sq16-issues-failures-v1.md",
+      "bytes": 4884,
+      "sha256": "0258baaba75cdb24ace39af3dc6941cd461ee361f054c9f5fee079237effc5b3"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-class-return-sq16-sources-v1.md",
+      "bytes": 7317,
+      "sha256": "bd8bdf7b45c45bccc6397a71fcf5067e5073e57111875ad8aa6a42ca575c27c4"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-class-return-sq16-sources-v1.json",
+      "bytes": 2935,
+      "sha256": "a875b965d27dd196a07363ff8b6d0318742c8b4307718ee34259941c93c6bfb9"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-class-return-sq16-worklog-v1.md",
+      "bytes": 5642,
+      "sha256": "68c6552d247120cd466d5a4208e695a8310e70ebb3e91a5e4aa487b3f1d3f755"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-class-return-sq16-admin-v1.py",
+      "bytes": 13889,
+      "sha256": "1b4445cb0d594fefc2d0130785dd1b2cdaba4a0fb67a4b0ee47e5c645dc2d24e"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-class-return-sq16-baseline-v1.json",
+      "bytes": 7525,
+      "sha256": "d9f6e77123b0549537ee79c815444d2887f973e3650396541ad5a3e3b90ee284"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-class-return-sq16-input-validation-v1.json",
+      "bytes": 734,
+      "sha256": "d768912e1d23471329376f7e597a5c52c0f27565fdb8bae2bb6a506119d67e35"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-class-return-sq16-metadata-v1.json",
+      "bytes": 2312,
+      "sha256": "ce31d9629c099d2e6f58068562006d436bf3c07044858d146dfbdd6b03cbd4b2"
+    }
+  ]
+}
