@@ -1,0 +1,11 @@
+# D6 root OTHER whole-review worklog
+
+2026-10-18 UTC. Root supplied no NEW inference for A's D6 construction and is an OTHER reviewer. C queued as the second OTHER; constructor A excluded. No corresponding NEW C D6 finding/file/hash/metadata opened. Entire initial package and FULL readback/SEPARATE verify required before identity handoff; BOTH before findings release.
+
+Read complete main/sourceMDJSON/freeze, then all remaining author files including admin code and all compact metadata. Freshly reread complete CF body/current MDJSON/failures; combined output clipped a middle and separate290–395lines recovered it. Complete densityv3/current MDJSON and official local statement read. Fresh original official2022 paper and author-posted DM operative proof passages inspected with exact source limits. The later web clip affected nonoperative algorithm passage, not the stated proof/read ranges. The D6 main was independently reread fully in its separate tool result.
+
+By hand rebuilt sum-error threshold, parity exception, coupled delayed phase control, EVERY-prefix32-step escape, residue-child deletion, finite-H bound, monotone spectrum run count, ordinary witness congruence and original-clock positive gap. Checked all64 and seven closed notes. No math code, CAS, scan, orbit table, author/source execution or old certificate replay. Only new create-only metadata script checks hashes/JSON/ordered labels and whole packet completeness; it does not implement F or the proof. No mathematical subprocess, pending approval, charge/contact or downloaded third-party PDF.
+
+Direct UTCclock/authoritative ordinary weekly meter12:41:05 reported35%TOTAL,10080min,reset1792874445; same explicitly authorized window through90%TOTAL with reserve. No later-window spending. Owned awake assertion remains coordinator duty. No Git from a worker; root will integrate complete packets only after blind initial embargo closes.
+
+ALL64 report/ledger/issues/source/log/code/ALL generated metadata and manifest must receive FULL model final readback, followed by a SEPARATE read-only verification. Administrative consistency is not mathematical proof or the other independent review. Initial disposition withheld until BOTH entire initial checkpoints; annual problem remains open.

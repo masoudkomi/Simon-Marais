@@ -1,0 +1,55 @@
+{
+  "date_utc": "2026-10-18",
+  "status": "candidate proof - unverified",
+  "constructor": "/root/review_2022_complexity_r2",
+  "constructor_excluded_from_two_OTHER_reviews": true,
+  "root_supplied_NEW_mathematical_inference": false,
+  "requested_settings": {"model": "gpt-6.1-sol", "reasoning": "max", "inherited": true},
+  "independent_effective_setting_readback": null,
+  "official": {
+    "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2019-paper-b_1.pdf",
+    "actual_scope": "B4 setup lines63-73 and(b)81-87, page2; no preliminary proof",
+    "browser_raw_byte_sha256": null
+  },
+  "primary_probability": {
+    "authors": ["Richard Arratia", "Larry Goldstein", "Fred Kochman"],
+    "title": "Size bias for one and all",
+    "url": "https://arxiv.org/pdf/1308.2729",
+    "version": "1308.2729v3, 2018-09-26; manuscript dated2018-09-07",
+    "doi": "10.1214/13-PS221",
+    "actual_read_scope": "title/version; Sections2.1 and2.2 definition/identities, extracted lines88-199; not entire57-page paper",
+    "role": "classical terminology, not an imported concentration/renewal/tightness theorem",
+    "hypotheses": "nonnegative variable with positive finite mean; actual k is positive finite at every n,m",
+    "browser_raw_byte_sha256": null
+  },
+  "complete_accepted_bodies_read": [
+    "proofs/reviewed-reasoning-cut-transfer-r4-v1.2.md",
+    "proofs/reviewed-reasoning-critical-return-r2-v1.1.md",
+    "proofs/reviewed-reasoning-return-r7-v1.1.md",
+    "proofs/reviewed-reasoning-cut-number-r3-v1.1.md",
+    "proofs/reviewed-reasoning-growth-return-r1-v1.1.md"
+  ],
+  "operative_CT_erratum_read": true,
+  "all_five_current_MDJSON_authorities_read": true,
+  "old_G_CR_authorship": true,
+  "old_R7_CT_review_roles": true,
+  "old_roles_not_fresh_self_review": true,
+  "all56_constructor_dispositions_are_not_independent_audits": true,
+  "mathematical_program_scan_CAS_test_optimizer_or_replay": false,
+  "new_metadata_only_code": true,
+  "no_Git_shared_old_cache_write_spawn_charge_contact_upload_bypass": true,
+  "authoritative_weekly_telemetry": {
+    "observed_at_utc": "2026-10-18 12:55:46 UTC",
+    "method": "direct clock/get_usage_limits same awaited independent batch",
+    "TOTAL_used_percent": 36,
+    "window_minutes": 10080,
+    "reset_unix": 1792874445,
+    "ordinary_usage_allowed": true,
+    "legacy_by_limit_agree": true,
+    "account_label": "029a8928...1334ac3a",
+    "human_authorized_current_window_only": true,
+    "TOTAL_ceiling_percent": 90,
+    "integration_reserve": true,
+    "automatic_later_window_spending": false
+  }
+}

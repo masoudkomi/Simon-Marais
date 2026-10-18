@@ -1,0 +1,286 @@
+{
+  "recorded_at_utc": "2026-10-18T12:59:20.912806+00:00",
+  "status": "compact necessary-old-input preservation; no mathematical certificate",
+  "immediate_own_parent": {
+    "path": "problems/2024-B4/notes/reasoning-cofactor-return-r6-freeze-v1.json",
+    "bytes": 3001,
+    "sha256": "ea0a7c41741ca3655c36825a6a299c1859505855c786ea7494a9204995a0b8a9"
+  },
+  "bound_metadata": [
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-cutpath-r1-acceptance.json",
+      "bytes": 4259,
+      "sha256": "239e1b755d51dafc48fad36ad38063608dfd64c0546b8886e1d66b6b4e9ba915"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-optimum-r2-acceptance.json",
+      "bytes": 4402,
+      "sha256": "cda03c12635b8b24fd804e80dcd4e6a983ae01e7cb58ce2215dc5fa8f15d150d"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-cofactor-return-r6-freeze-v1.json",
+      "bytes": 3001,
+      "sha256": "ea0a7c41741ca3655c36825a6a299c1859505855c786ea7494a9204995a0b8a9"
+    }
+  ],
+  "fingerprint_occurrences_verified": 60,
+  "deduplicated_old_paths": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-weighted-cutpath-r1-baseline-v1.json",
+      "bytes": 2675,
+      "sha256": "f55a76f6913098752dd4996ec71e1d954dd21773bc7347bf9aa663e63ee358f5"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-weighted-cutpath-r1-candidate-v1.md",
+      "bytes": 12695,
+      "sha256": "f77d09e57a7462faaf6d48077c6815b9d33ffa722470596a947b9f46c4205928"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-weighted-cutpath-r1-failures-worklog-v1.md",
+      "bytes": 5138,
+      "sha256": "c8646a60403c2ac19a9cf6bddf36052aea3341d7c4dc9457ac4f6a864cdb98a3"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-weighted-cutpath-r1-freeze-v1.json",
+      "bytes": 2672,
+      "sha256": "2ff11ebea88c684a2d86be972ae6f937ec5aec95040904eb27fc5c392ad7b4d4"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-weighted-cutpath-r1-input-validation-v1.json",
+      "bytes": 348,
+      "sha256": "e692d3e1763dc0821e0a1e07ba5b1152a38fb675af823ecb63eb618cd217910f"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-weighted-cutpath-r1-metadata-v1.json",
+      "bytes": 1208,
+      "sha256": "64f9accbacc153e5397bb16388bd1ea1dcd86e669f8782eec031c221c2791264"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-weighted-cutpath-r1-source-audit-v1.md",
+      "bytes": 4012,
+      "sha256": "7576946d63e3a60d544cb34ca663137a0ee779e826a6d7bb2468d1205db58dc8"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-weighted-cutpath-r1-sources-v1.json",
+      "bytes": 2162,
+      "sha256": "59df5af7382295456a556b6d96ae2fb630e99fc0a7af11b9510afcf0672da8a8"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-weighted-optimum-r2-baseline-v1.json",
+      "bytes": 6011,
+      "sha256": "84b34607d73581e1526af5075cd3ca24b6ab7a49ec91935a2218a038c26f29bb"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-weighted-optimum-r2-candidate-v1.md",
+      "bytes": 14252,
+      "sha256": "ca09c36677badac6649775d2ade78a4f5af90fcbdafd0648a6bf8541e835e533"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-weighted-optimum-r2-failed-routes-v1.md",
+      "bytes": 2243,
+      "sha256": "2b9c49d15464ffb4d8bd425f77c6ad2de9cf0744c95977fb46f3efeea8d71979"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-weighted-optimum-r2-freeze-v1.json",
+      "bytes": 2906,
+      "sha256": "e8c60dd823a4e88c0b7d9cd5eb820f13c2791ca69b00317195c806faf51e30ec"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-weighted-optimum-r2-input-validation-v1.json",
+      "bytes": 470,
+      "sha256": "bfbfa477a63941c725f8f273e275cc245847e9dda0e35372d40465e8e6d793b7"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-weighted-optimum-r2-metadata-v1.json",
+      "bytes": 1464,
+      "sha256": "e6746b4848ae149c2e2c6445b7998843c1056e735354688a09309c23913fc0c4"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-weighted-optimum-r2-sources-v1.md",
+      "bytes": 3090,
+      "sha256": "6cafb3b45078d5f20105d867fef9972e4e90093ebad70a2548ecb3cc6e7cc425"
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-weighted-cutpath-r1-v1.1.md",
+      "bytes": 15914,
+      "sha256": "93c08b0a43426c972bd6a0042c7e496cb08a106873c931f0231901e9f425f14b"
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-weighted-optimum-r2-v1.1.md",
+      "bytes": 18824,
+      "sha256": "dcc12d2989e5ab657960498179e2585e62ad35ffb1989a4bca72fef8fb953f9a"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-cutpath-r1-acceptance.json",
+      "bytes": 4259,
+      "sha256": "239e1b755d51dafc48fad36ad38063608dfd64c0546b8886e1d66b6b4e9ba915"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-cutpath-r1-acceptance.md",
+      "bytes": 3317,
+      "sha256": "efbf4044c88fb18d7de0696980434176319fbc0bcb6eddffb56c4235ace08e61"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-cutpath-r1-review-1-baseline-v1.json",
+      "bytes": 6708,
+      "sha256": "5693b04028b33f52604381a763f01a504739fbf458caccde55f203c3ba39a7f9"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-cutpath-r1-review-1-input-validation-v1.json",
+      "bytes": 513,
+      "sha256": "3fded01e7d4ae62d3462276efe6a5870374ec83239c053b4e82e741b039ec2a6"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-cutpath-r1-review-1-manifest-v1.json",
+      "bytes": 2987,
+      "sha256": "14c5525a21bd9e3e92bd79c968c293d84051d62efb16a1223a01e32829f7f926"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-cutpath-r1-review-1-metadata-v1.json",
+      "bytes": 1303,
+      "sha256": "bb62c71f46a29e414508504159ff95ad42a58ba979d3d0e3ad67fb091bc181a9"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-cutpath-r1-review-2-baseline-v1.json",
+      "bytes": 6001,
+      "sha256": "1c0b5405699caf8444839eb94ef3132eb34a138b5bf7fc4fa457ab90ef59e757"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-cutpath-r1-review-2-input-validation-v1.json",
+      "bytes": 650,
+      "sha256": "0476f48d39dc7cafcfd70efc964fe7b93161e7a97fc6dca2b6eb959c95266eec"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-cutpath-r1-review-2-manifest-v1.json",
+      "bytes": 5359,
+      "sha256": "3fa70a3b55a0c1dfdd983826bb1d23722d12305ccf164c3d4534184ff626e14f"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-cutpath-r1-review-2-sources-v1.json",
+      "bytes": 3089,
+      "sha256": "ab020e2e48be502e41da72e9a8c4ccf12dccf2cfe16234b4cf5af209cb5877a7"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-optimum-r2-acceptance.json",
+      "bytes": 4402,
+      "sha256": "cda03c12635b8b24fd804e80dcd4e6a983ae01e7cb58ce2215dc5fa8f15d150d"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-optimum-r2-acceptance.md",
+      "bytes": 4670,
+      "sha256": "378c0bb5b5ec1e7c8d0d6520742d5c6eb3e6b1cd55f1b480eb2be0957b5fbdde"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-optimum-r2-review-1-baseline-v1.json",
+      "bytes": 7635,
+      "sha256": "d7bc8a2785c1afbbc26392490db55748ec27e9e7d19f260896bed968627f31c4"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-optimum-r2-review-1-input-validation-v1.json",
+      "bytes": 622,
+      "sha256": "39288f23b7dacc20cb3ea88e904d1c60fd2a74ace0d7ab16ae23c49792a85dee"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-optimum-r2-review-1-manifest-v1.json",
+      "bytes": 4968,
+      "sha256": "6cbf7bc0f9c179f4c2fac6dc0e48e41b3dce177d3bf3725612c344b897b118ca"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-optimum-r2-review-1-sources-v1.json",
+      "bytes": 3999,
+      "sha256": "c329bc63014ea92367a1b20c744a4694db8bac16744ff157e1b204b41aa73790"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-optimum-r2-review-2-baseline-v1.json",
+      "bytes": 3044,
+      "sha256": "161de87c491238aee4a684f1009f5edbeeeadf038dc915ec2eea49ff6ab3a806"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-optimum-r2-review-2-input-validation-v1.json",
+      "bytes": 1068,
+      "sha256": "8f533f2e5fde6463b114687f4de36898bac6206565bfbb47e121c32de8436c90"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-optimum-r2-review-2-manifest-v1.json",
+      "bytes": 2983,
+      "sha256": "6fd3f0358279e95f7c76ca4b2dda1bb8162db43d49270d0ee561a26999f07750"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-optimum-r2-review-2-metadata-v1.json",
+      "bytes": 1667,
+      "sha256": "2812c61123467d1bb009520eeb7f10c4631a969bf989fe614721681aa4a40009"
+    },
+    {
+      "path": "problems/2017-B4/statement.md",
+      "bytes": 2140,
+      "sha256": "e459750064b4e25e3eaa71f25f236c046548147e415b06d8bd097839020228f3"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-cofactor-return-r6-baseline-v1.json",
+      "bytes": 5041,
+      "sha256": "90fc97df2d3375032f76528d362ae596c04061ad55f507f48592daa0bdbe8653"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-cofactor-return-r6-candidate-v1.md",
+      "bytes": 15682,
+      "sha256": "43833618ab3cc066c03f7c595344ec89835dd465232139ca1ccfc33074f64332"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-cofactor-return-r6-constructor-checks-v1.md",
+      "bytes": 4588,
+      "sha256": "d558bdd9e0f23102f1ca062129bd9ec14136507ea9c87a3ffb86a9e78ffd3ccd"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-cofactor-return-r6-failed-routes-v1.md",
+      "bytes": 6483,
+      "sha256": "033787ec688c5c2cc481fd142373207106fcbfa10979e440cb51b6f8f35ecad8"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-cofactor-return-r6-freeze-v1.json",
+      "bytes": 3001,
+      "sha256": "ea0a7c41741ca3655c36825a6a299c1859505855c786ea7494a9204995a0b8a9"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-cofactor-return-r6-freeze-v1.py",
+      "bytes": 10544,
+      "sha256": "3e5fca4de458f072f7e01dddaadc845deb191a532b4f61a223b464204dc8c068"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-cofactor-return-r6-input-validation-v1.json",
+      "bytes": 3368,
+      "sha256": "bacf2a9f0a38b4fef8ccb4aee3e08fd698170ebbcf3d9a53a8a8e43861c2f134"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-cofactor-return-r6-metadata-v1.json",
+      "bytes": 1348,
+      "sha256": "787a57f1a7bcae3c5388dd490b43e5be4db4b011d5f1fa4945d56ec0fa3dee09"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-cofactor-return-r6-obligations-v1.md",
+      "bytes": 9055,
+      "sha256": "e7e01db46e32044a01b236b4ff63b2b76e780b4bb2039a81d3aca4e2afa19090"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-cofactor-return-r6-source-audit-v1.md",
+      "bytes": 6103,
+      "sha256": "b7684b226ebcff0c718ec84f5ea3d3cf50431dd1fb110a76c46acfa2c601ae10"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-cofactor-return-r6-sources-v1.json",
+      "bytes": 5882,
+      "sha256": "82b5f29d1ac57b3262fd0edfa2e97a2a40655b3c5c477275457354b135b9397f"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-cofactor-return-r6-worklog-v1.md",
+      "bytes": 7195,
+      "sha256": "078c5cf7142f992331f715c05da761de4dfe5fdee66309620fc24664e946033e"
+    }
+  ],
+  "historical_rows_reexpanded_or_reproduced": false,
+  "preserved_reproduction_reference": "immutable parent and authority metadata by path/bytes/SHA"
+}

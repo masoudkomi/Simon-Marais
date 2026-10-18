@@ -1,0 +1,59 @@
+{
+  "date_utc": "2026-10-18",
+  "status": "candidate proof - unverified",
+  "operative_accepted_bodies": [
+    {
+      "path": "problems/2017-B4/proofs/reviewed-weighted-cutpath-r1-v1.1.md",
+      "bytes": 15914,
+      "sha256": "93c08b0a43426c972bd6a0042c7e496cb08a106873c931f0231901e9f425f14b",
+      "read": "complete body, complete current MD/JSON authority and constructor source MD/JSON",
+      "scope": "actual marked graph, reverse same paths, rotation/zone inequalities, fixed-polygon dictionary and canonical insertion",
+      "older_C_role": "OTHER whole reviewer; not constructor"
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-weighted-optimum-r2-v1.1.md",
+      "bytes": 18824,
+      "sha256": "dcc12d2989e5ab657960498179e2585e62ad35ffb1989a4bca72fef8fb953f9a",
+      "read": "complete body, complete current MD/JSON authority and constructor source MD",
+      "scope": "WO constants, normalized path measures and absolute high-b tail; WO4 only conditional",
+      "older_C_role": "OTHER whole reviewer; not constructor"
+    }
+  ],
+  "primary": [
+    {
+      "authors": "Stefan Felsner and Pavel Valtr",
+      "url": "https://page.math.tu-berlin.de/~felsner/Paper/new-pla.pdf",
+      "read_scope": "marked/insertion passages; full operative Lemma2 proof printedp6; returned cutpath and prefix-tree context",
+      "exact_new_interface": "middle successor is BOUNDED and reversed-unique; own sign-set proof supplies local detail",
+      "not_claimed": "fresh whole later optimization or all representation references; no new cached binary/hash"
+    },
+    {
+      "author": "Justin Dallant",
+      "version": "arXiv2502.20909v2",
+      "url": "https://arxiv.org/pdf/2502.20909v2",
+      "read_scope": "marked definitions and complete operative Section2 through Lemma7, including rotation/zone/insertion",
+      "scope_retained": "published necessary actual-graph inequalities through current accepted authority",
+      "not_claimed": "full older sharp-zone originals, later lower construction/optimization or any source-code rerun"
+    },
+    {
+      "author": "Simon Marais Mathematics Competition",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2017-paper-2_1.pdf",
+      "read_scope": "page2 B4 only; whole local normalized statement also read",
+      "domain": "integer n>=2, fixed unit-sided regular2n-gon, base2/n²"
+    }
+  ],
+  "discovery_only": [
+    {
+      "url": "https://math.mit.edu/research/undergraduate/urop-plus/documents/2020/Boonsiriseth.pdf",
+      "read_scope": "metadata/search discovery only",
+      "operative_body": "UNREAD",
+      "imported": false
+    }
+  ],
+  "new_local_geometry_and_mass_proof": "C constructor; no new root proof inference",
+  "new_PDF_download_or_retrieval_SHA": false,
+  "mathematical_program_or_scan": false,
+  "charge_contact_or_bypass": false,
+  "external_priority_or_full_annual_claim": false,
+  "whole_read_limits_companion": "problems/2017-B4/notes/reasoning-path-mass-return-r8-source-audit-v1.md"
+}

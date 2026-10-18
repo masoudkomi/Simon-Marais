@@ -1,5 +1,7 @@
 # 2022 B4 independent reviews
 
+The new [D6A–D6D actual-growth theorem](reasoning-dynamics-return-r6-acceptance.md) is **proved, independently reviewed scoped partial result** after C/root TWO OTHER ENTIRE initially blind WHOLE64/64 audits and full reconciliation. A uniform32-step finite steering argument yields power-sparse equal-growth common translations except the precise permanent even-a unit twin. On EVERY fixed-difference line, distinct actual real SUM-growth values below X number X/2+O_d(X^eta),with a fixed eta<1. Explicit legal ordinary neighboring starts on difference6 have certified different growth values arbitrarily close together. These results do not decide universal diagonal hitting,an infinite avoider,CF6existence or effective equality. No priority or external-validation claim.
+
 The new [CF1--CF6 trajectory theorem](reviews/reasoning-fiber-return-r5-acceptance.md)
 is now accepted after root/A TWO OTHER initially blind ENTIRE WHOLE48/48
 audits and full reconciliation. CF1--CF5 prove equal-growth eventual

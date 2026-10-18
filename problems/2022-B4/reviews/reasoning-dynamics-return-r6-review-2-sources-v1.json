@@ -1,0 +1,36 @@
+{
+  "date_utc": "2026-10-18",
+  "reviewer": "/root",
+  "constructor": "/root/review_2021_reasoning_j15_r2",
+  "constructor_excluded": true,
+  "root_NEW_construction_contribution": false,
+  "whole_obligations": 64,
+  "no_corresponding_NEW_C_D6_finding_file_hash_metadata_accessed": true,
+  "ENTIRE_author14_read": true,
+  "complete_current_bodies_read": [
+    "proofs/reviewed-reasoning-fiber-return-r5-v1.1.md",
+    "proofs/reviewed-density-v3.md"
+  ],
+  "current_MD_JSON_authorities_read": true,
+  "CF6_assumed": false,
+  "primary_reads": [
+    {
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2022-paper-b.pdf",
+      "scope": "page2 B4 setup and b,58\u201370"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/220576840_Lower_bounds_for_Z-numbers",
+      "scope": "intro77\u2013227;ENTIRE Lemma3.1/proof375\u2013412;ENTIRE Propositions3.1\u20133.2/proofs439\u2013509;finite-word count594\u2013638",
+      "not_full_paper_algorithms_or_tables": true
+    }
+  ],
+  "full_paper_download_or_hash": false,
+  "no_math_executable_CAS_scan_author_source_or_old_replay": true,
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "effective_independent_readback": null,
+  "whole_annual_priority_or_external_validation_claim": false
+}

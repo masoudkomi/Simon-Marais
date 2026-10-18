@@ -1,0 +1,33 @@
+{
+  "recorded_at_utc": "2026-10-18T12:59:20.913448+00:00",
+  "status": "candidate proof - unverified",
+  "constructor": "/root/review_2017_coarsening_r1",
+  "constructor_excluded_from_TWO_OTHER_reviews": true,
+  "root_contribution": "general target only; no NEW proof inference",
+  "older_C_role": "OTHER WC/WO reviewer; not their constructor",
+  "whole_claims": [
+    "PM8A",
+    "PM8B",
+    "PM8C",
+    "PM8D",
+    "PM8E"
+  ],
+  "whole_obligations": 64,
+  "TWO_OTHER_initially_blind_ENTIRE_WHOLE_audits_required": true,
+  "coordinator_reconciliation_required_before_promotion": true,
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "verified_effective_readback": null,
+  "authorized_weekly_reset": 1792874445,
+  "latest_authoritative_root_total_used_percent": 35,
+  "ceiling_total_used_percent": 90,
+  "integration_reserve_required": true,
+  "no_automatic_later_window_authorization": true,
+  "mathematical_executable_CAS_optimizer_or_scan": false,
+  "new_third_party_download_or_cache_write": false,
+  "NEW_queued_D6_peer_content_hash_metadata_or_findings_accessed": false,
+  "exact_value_effective_R_matching_lower_annual_or_priority_claim": false
+}

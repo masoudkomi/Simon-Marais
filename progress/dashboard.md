@@ -1,5 +1,16 @@
 # Research dashboard
 
+CURRENT23:14Brisbane18October2026: [continuing checkpoint](checkpoint-2026-10-18-2314.md).
+37%TOTAL direct13:13:11UTC/reset1792874445/currentwindow90TOTAL/reserve;
+OWNawake79293forever positively verified13:13:11UTC.2022D6A–D6D accepted
+after TWO OTHER ENTIRE WHOLE64/64 and full reconciliation:power-sparse
+actual growth coincidences,fixed-line spectrum and strict small gaps;
+universal diagonal hitting remains OPEN.2017PM8/2019BTENTIREauthors are
+UNVERIFIED;root2017WHOLE1frozen/BWHOLE2active,findings embargoed.
+Root2019WHOLE1next/AWHOLE2after2021checkpoint;C2024R7newresearch.
+Next ACTUALhourly13:27:30UTC;latestactual22:27unchanged. Research continues.
+
+
 CURRENT23:00Brisbane18October2026: [continuing checkpoint](checkpoint-2026-10-18-2300.md).
 36%TOTAL direct12:56:57UTC/reset1792874445/currentwindow90TOTAL/reserve.
 2025RD1–4 now accepted after TWO OTHER ENTIRE WHOLE48/48/full reconciliation:
@@ -35,7 +46,7 @@ Initial scope: nine official B4 open portions, 2017-2025. **2026 deferred by the
 |2019|Reviewed1.765224<lambda<1.834843 unchanged. CT1–CT4 accepted after OTHER whole64/64: fixed-range packing/covered-mass rarity, universal positive cut-density pointwise obstruction and explicit separator obstruction. Full high-cut mass/actual regime/exactlambda open.|
 |2020|L13A–D now reviewed: every actual prime-layer sequence minimal, nonsquarefree radical injection and extra prefix classes, classical Davenport restrictions in exact prime-conductor field domain. No new actual class-group evaluation, finite-q binary realization or numerical order exclusion. Composite moduli/general classification open.|
 |2021|R18A–C now reviewed: exact five-center residue survivor; actual adjacent m4 center block forces collision depth one, with three necessary actual full-gcd frames. All depths>=2 in that branch excluded. Three depth-one frames, different essential-center branches, m3, other normalized degree20 patterns and annual answer open.|
-|2022|CF1-CF5 accepted unconditional/CF6 explicit conditional after OTHER48/48/full reconciliation: equal growth=>eventual translation, exact tail rectangle,44 EVENTS, all-N late merger/nonmerging twins; conditional336 states at12G. Universal hitting/exact timing/fiber existence open.|
+|2022|D6A–D6D reviewed:uniform32-phase ordered-gap escape,power-sparse actual growth coincidences,EVERY fixed-difference spectrum X/2+O_d(X^eta),certified positive growth gaps tending0. Permanent even-a unit twins retained. CF1–5unconditional/CF6conditional remain. Universal diagonal hitting,infinite avoider,effective equality/annual/priority OPEN.|
 |2023|COMPLETE internally reviewed fixed positive nonsquare N classification: all(k,k),k>0 and(k,2k),(2k,k) with positive odd k. Priority unestablished.|
 |2024|R6A–D reviewed: every nonlinear absolute component degree≥q; T1/R4A imply WHOLE absolute irreducibility n=(2^s−1)2^(sk)+1 for ALLs≥3,k≥2. General k1/other odd parts/full classification and priority unresolved.|
 |2025|RD1–4 reviewed: actual primitive real-trace integer discriminant, ALL finite primes, real parity and interval bound give c>p^(s−2) at BOTH residual centers/signs forp≥37. Fixedc<p forces depth2;quadratic families/largecofactors/unboundedp/annual/priority remain open.|

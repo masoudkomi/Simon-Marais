@@ -1,0 +1,76 @@
+{
+  "frozen_at_utc": "2026-10-18T12:59:20.913563+00:00",
+  "status": "ENTIRE PM8A--PM8E constructor checkpoint; candidate proof - unverified",
+  "constructor": "/root/review_2017_coarsening_r1",
+  "whole_claims": [
+    "PM8A",
+    "PM8B",
+    "PM8C",
+    "PM8D",
+    "PM8E"
+  ],
+  "whole_obligations": 64,
+  "all_artifacts_including_freeze": 11,
+  "immediate_own_parent": {
+    "path": "problems/2024-B4/notes/reasoning-cofactor-return-r6-freeze-v1.json",
+    "bytes": 3001,
+    "sha256": "ea0a7c41741ca3655c36825a6a299c1859505855c786ea7494a9204995a0b8a9"
+  },
+  "fingerprint_occurrences_verified": 60,
+  "deduplicated_old_paths_verified": 51,
+  "TWO_OTHER_whole_audits_and_reconciliation_REQUIRED": true,
+  "FULL_readback_and_SEPARATE_readonly_verify_follow_this_immutable_freeze": true,
+  "mathematical_computation": false,
+  "artifacts": [
+    {
+      "path": "problems/2017-B4/notes/reasoning-path-mass-return-r8-candidate-v1.md",
+      "bytes": 22876,
+      "sha256": "5bac467356c5f13bf5c93ad696d6325788e64a44b6d87eb5b9b2c97de847626e"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-path-mass-return-r8-obligations-v1.md",
+      "bytes": 11400,
+      "sha256": "9496a15056e5351ee7b87b58bcaa64abf42c17196c41c98215cdbf33c97c2a69"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-path-mass-return-r8-constructor-checks-v1.md",
+      "bytes": 5741,
+      "sha256": "72d05e66b6760e68ed5bc1a79db484aa0e5ba362bcf3995a640b3415d2530c17"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-path-mass-return-r8-failures-worklog-v1.md",
+      "bytes": 6720,
+      "sha256": "faa68daf3c0d08cb8b702b26fa6ec3bc59dda390efd887c5fd971e1e38d97121"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-path-mass-return-r8-source-audit-v1.md",
+      "bytes": 4758,
+      "sha256": "6ba4ec2923a446b49311ae40f9340728ceca2981a9b364dded85bbe0cd2e2e2d"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-path-mass-return-r8-sources-v1.json",
+      "bytes": 3009,
+      "sha256": "48dbb033d794c8c64d79737ed17984b253a7a4373cce6df90e2f626083da8e59"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-path-mass-return-r8-freeze-v1.py",
+      "bytes": 9523,
+      "sha256": "f1164c81ceb3ea47a7d5136bbb240337c288de7eccb1dbc77d0c4c333072ebc9"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-path-mass-return-r8-baseline-v1.json",
+      "bytes": 11808,
+      "sha256": "6d5328651e4964c92710a66cb9431b38981590af06ad187f2a13c9f8f351b311"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-path-mass-return-r8-input-validation-v1.json",
+      "bytes": 1820,
+      "sha256": "cb4d8dc1ba214277ff82781fa66d68bc3c8ddf57e36b090e18e8c08660cac45e"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-path-mass-return-r8-metadata-v1.json",
+      "bytes": 1213,
+      "sha256": "73998f008c4275f8733cb30db6581bd589ee7bf983aeaea8e0d229ddafe41281"
+    }
+  ]
+}

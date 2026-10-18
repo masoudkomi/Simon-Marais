@@ -1,0 +1,125 @@
+{
+  "accepted_at_utc": "2026-10-18T13:12:30.212582+00:00",
+  "status": "proved, independently reviewed scoped partial result",
+  "whole_initials_blind": true,
+  "root_read_full_candidate_both_reports_all_ledgers_sources": true,
+  "unresolved_substantive_issues": 0,
+  "repair_required": false,
+  "candidate": {
+    "path": "problems/2022-B4/notes/reasoning-dynamics-return-r6-candidate-v1.md",
+    "bytes": 19255,
+    "sha256": "f7da37b6f8ed520b1932a2b55b7d52cad5c94c7926ae1b02132e31693e5e5dc8"
+  },
+  "accepted_copy": {
+    "path": "problems/2022-B4/proofs/reviewed-reasoning-dynamics-return-r6-v1.1.md",
+    "bytes": 25006,
+    "sha256": "a9f9e12a3c814a4c1098778acaec1bfd13eb631be0837b5550d767715d19b0c8"
+  },
+  "verification_metadata": [
+    {
+      "path": "problems/2022-B4/notes/reasoning-dynamics-return-r6-freeze-v1.json",
+      "bytes": 5069,
+      "sha256": "ab7d73318a784c821fb3e0f8142b671e735c583721e6a7e464dbe91981c2b3e4"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-dynamics-return-r6-baseline-v1.json",
+      "bytes": 11219,
+      "sha256": "98cefc18ea7f070847d0d175a35e8d1337fe83341730a2f500ad3e3de98467d5"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-dynamics-return-r6-input-validation-v1.json",
+      "bytes": 572,
+      "sha256": "a427e80dc3ef28fbc2cbe6024ad999ca1b150d8f8b071bed1f41907def0b40fe"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-dynamics-return-r6-metadata-v1.json",
+      "bytes": 1138,
+      "sha256": "652e8af267313469fcf2960c7431977ba960bfc2f70b97dd6ce7329e150f1f5b"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-dynamics-return-r6-sources-v1.json",
+      "bytes": 3986,
+      "sha256": "088c39c7a80d0cbd9326c42b9a7b5a512d447fb59161499bdcaa0fe6195426a2"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-dynamics-return-r6-review-1-manifest-v1.json",
+      "bytes": 3020,
+      "sha256": "f02e07762a7434b3c5292604733f3c50ad5abb51474290e07725e298156ff308"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-dynamics-return-r6-review-1-baseline-v1.json",
+      "bytes": 6151,
+      "sha256": "6ee75380113398e4ca78b5315b57e7ea0cff421cbeaec96ab84bebe26fa1e77f"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-dynamics-return-r6-review-1-input-validation-v1.json",
+      "bytes": 1380,
+      "sha256": "66513e9765b23a4a4ee89d63ca73e54d655bce6721e0772e1e4ce26de381ef3b"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-dynamics-return-r6-review-1-metadata-v1.json",
+      "bytes": 1041,
+      "sha256": "d0fc0fe06e6109e77c9ac6de0952d728204e525ce384d276cb0d6af7df2c0b6b"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-dynamics-return-r6-review-1-sources-v1.json",
+      "bytes": 2167,
+      "sha256": "d9884242fdf98e3dc710b79d738e22797ea04ddaee567f3f7697d4b33ec0b1fc"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-dynamics-return-r6-review-2-manifest-v1.json",
+      "bytes": 2728,
+      "sha256": "c176361c2a3d1cb38fe8d1c55f5a238bb8718fe5e069f15f8a7b543a4b5c5508"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-dynamics-return-r6-review-2-baseline-v1.json",
+      "bytes": 4800,
+      "sha256": "81cccde40a5b8b2f27a787287cfd39f39ffffcd0594e1caa43d954be3a1fe45b"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-dynamics-return-r6-review-2-input-validation-v1.json",
+      "bytes": 348,
+      "sha256": "50b8f6870f18eb40fd418225ff1e93aedd6872f8e35aabb8859bc3da0fd3e6cb"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-dynamics-return-r6-review-2-metadata-v1.json",
+      "bytes": 670,
+      "sha256": "b46c65fab698dfcc616aa0a25811bdc46068e38ce089fc238547406ab4a4c762"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-dynamics-return-r6-review-2-sources-v1.json",
+      "bytes": 1324,
+      "sha256": "0b5802307617a33165bffce4af124be5b95470a27f5f32f439cbc2494045bc5c"
+    }
+  ],
+  "record_occurrences_verified": 141,
+  "unique_paths_verified": 81,
+  "claims": [
+    "D6A",
+    "D6B",
+    "D6C",
+    "D6D"
+  ],
+  "constructor": "/root/review_2021_reasoning_j15_r2",
+  "constructor_excluded": true,
+  "OTHER_whole_reviewers": [
+    "/root/review_2017_coarsening_r1",
+    "/root"
+  ],
+  "whole_obligations": 64,
+  "whole_checks": [
+    64,
+    64
+  ],
+  "root_read_ENTIRE_both_reports_ALL_ledgers_issues_sources_logs_code_ALLmetadata": true,
+  "both_ENTIRE_before_corresponding_NEW_peer_material": true,
+  "closed_notes_C": 5,
+  "closed_notes_root": 7,
+  "uniform_block_length": 32,
+  "positive_ordinary_real_SUM_growth": true,
+  "permanent_even_a_unit_gap_exception_retained": true,
+  "old_CF_authorship_disclosed_not_self_recertified": true,
+  "CF6_used": false,
+  "diagonal_hitting_infinite_avoider_equality_algorithm_annual_or_priority_claim": false,
+  "no_mathematical_computation": true
+}

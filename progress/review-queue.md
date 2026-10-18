@@ -1,5 +1,16 @@
 # Independent review queue
 
+CURRENT23:14Brisbane18October2026: [continuing checkpoint](checkpoint-2026-10-18-2314.md).
+37%TOTAL direct13:13:11UTC/reset1792874445/currentwindow90TOTAL/reserve;
+OWNawake79293forever positively verified13:13:11UTC.2022D6A–D6D accepted
+after TWO OTHER ENTIRE WHOLE64/64 and full reconciliation:power-sparse
+actual growth coincidences,fixed-line spectrum and strict small gaps;
+universal diagonal hitting remains OPEN.2017PM8/2019BTENTIREauthors are
+UNVERIFIED;root2017WHOLE1frozen/BWHOLE2active,findings embargoed.
+Root2019WHOLE1next/AWHOLE2after2021checkpoint;C2024R7newresearch.
+Next ACTUALhourly13:27:30UTC;latestactual22:27unchanged. Research continues.
+
+
 CURRENT23:00Brisbane18October2026: [continuing checkpoint](checkpoint-2026-10-18-2300.md).
 36%TOTAL direct12:56:57UTC/reset1792874445/currentwindow90TOTAL/reserve.
 2025RD1–4 now accepted after TWO OTHER ENTIRE WHOLE48/48/full reconciliation:
