@@ -1,5 +1,17 @@
 # Research dashboard
 
+Current07:58 continuing checkpoint: [2019 AR1--AR4 accepted](../problems/2019-B4/reviews/reasoning-area-return-r2-acceptance.md)
+after root/B TWO OTHER initially blind whole48 audits/full96 reconciliation.
+Exact alternating-first-tape clock/viable union and subclass law only;
+full-law mass/regime/value OPEN. R12 Bwhole1 ENTIRE5/48 frozen EMBARGO,
+rootwhole2 queued. FR11 author13/48 frozen UNVERIFIED, TWO OTHER reviews queued.
+A2021/B2022/C2025 handresearch active. Weekly63%TOTAL ACCOUNT-WIDE at21:57:03UTC,
+same reset1792874445/90TOTAL/reserve. Own79293 awake verified07:57:09,
+assertingforever44:49:20/display sleep allowed. Project tokens remain
+the actual07:46 report's literal cutoff, not an invented fresh count.
+[Continuing checkpoint](checkpoint-2026-10-19-0758.md). NextACTUALhourly22:27:30UTC.
+Two complete annual answers/seven unresolved. Older dated entries follow.
+
 Current07:46 delayed actual report:62% TOTAL ACCOUNT-WIDE/reset1792874445/90TOTAL ceiling with reserve.
 PROJECT raw2,979,154,786 includes2,840,364,032 cached input;7,870,085 reasoning output;
 138,790,754 uncached input+output; literal cutoff21:39:37UTC. OWN79293 awake verified07:39:37.

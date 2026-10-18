@@ -1,5 +1,13 @@
 # 2019 B4 independent reviews
 
+2026-10-18 21:56UTC: [AR1--AR4 accepted](reasoning-area-return-r2-acceptance.md)
+after root/B TWO OTHER initially blind ENTIRE WHOLE48/48 audits and
+complete96-disposition reconciliation. A constructor excluded; zero
+substantive defects/repairs, seven root/ten B closed scope notes. Exact
+alternating-first-tape membership/viable union and subclass laws, actual
+independent-rewrite counterfamily, and common-phase balanced blocks only.
+The full uniform_RN upper mass/regime/value/annual answer remain open.
+
 The newly accepted [AT1–AT4 viable-area theorem](reasoning-cut-transfer-r6-acceptance.md)
 passed root/A TWO OTHER ENTIRE WHOLE64/64 audits and full128-disposition
 reconciliation. It proves the exact all-time viable-area convolution,

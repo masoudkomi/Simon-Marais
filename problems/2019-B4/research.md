@@ -19,6 +19,19 @@ finite automaton or a rational generating function. In entropy language,
 the growth constant measures the information retained after construction
 histories are identified.
 
+The newly accepted [AR1--AR4 clock and viable-union theorem](reviews/reasoning-area-return-r2-acceptance.md)
+passed TWO OTHER whole48 audits and full96-disposition reconciliation.
+With first tape exactly(01)^a, actual membership is a>=r and the FULL
+viable union has size N+1+3b(a-r), where r counts the right macro1-runs.
+This supplies an exact distinct-output law and exponential area tails
+inside that restricted family. The whole family is exponentially rare
+in full R_N, so these tails do not control the full problem. An actual
+quadratic-area counterfamily shows why independent oscillation deletion
+loses necessary timing information. General occupation supplies short
+actual balanced blocks, allowing an empty other tape; decoding their
+cuts is still missing. The full-law upper mass, actual regime and exact
+lambda remain open; the numerical enclosure is unchanged.
+
 The newly accepted [AU1--AU4 actual-area and entropy theorem](reviews/reasoning-occupation-return-r1-acceptance.md)
 passed TWO OTHER whole64 audits/full reconciliation. Actual legal outputs
 have viable UNION greater than N²/8064 while their prescribed fixed-range

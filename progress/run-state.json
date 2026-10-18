@@ -2,7 +2,7 @@
   "branch": "codex/smmc-b4-research",
   "remote": "https://github.com/masoudkomi/Simon-Marais.git",
   "phase": "sustained research resumed under explicit NEW-window authorization",
-  "last_pushed_commit": "b467dbe",
+  "last_pushed_commit": "a620fc7",
   "initial_passes_complete": [
     2017,
     2018,
@@ -18,24 +18,24 @@
     {
       "agent": "review_2021_reasoning_j15_r2",
       "year": 2021,
-      "role": "fresh actual frameIII handresearch"
+      "role": "fresh actual frameIII R22 handresearch"
     },
     {
       "agent": "review_2022_complexity_r2",
-      "year": 2017,
-      "role": "R12OTHERwhole1"
+      "year": 2022,
+      "role": "fresh actual stopped-return R10 handresearch"
     },
     {
       "agent": "review_2017_coarsening_r1",
-      "year": 2024,
-      "role": "fresh geometry beyondFR10"
+      "year": 2025,
+      "role": "fresh actual cyclotomic/literature handresearch"
     }
   ],
   "initial_passes_pending": [],
   "deferred": [
     2026
   ],
-  "weekly_used_percent_last_observed": 62,
+  "weekly_used_percent_last_observed": 63,
   "weekly_reset_unix": 1792874445,
   "caffeinate": {
     "user_authorization": "keepcomputerawakeuntil90%weeklyquota; permissionforoneagentmustnotinterruptothers",
@@ -43,16 +43,16 @@
     "exec_session": 64368,
     "duration_seconds": null,
     "started_at_utc_approx": "2026-10-17T01:07:50+00:00",
-    "verified_at_local": "2026-10-19T03:29:17+10:00",
+    "verified_at_local": "2026-10-19T07:57:09+10:00",
     "assertion": "PreventUserIdleSystemSleep",
-    "verified_detail": "OWN79293caffeinate positivelyidentifiedassertingforever40:21:27;idle system sleep blocked/display allowed",
+    "verified_detail": "OWN79293caffeinate positivelyidentifiedassertingforever44:49:20;idle system sleep blocked/display allowed",
     "cleanup": "At90% total weekly usage or actual research termination, stop only owned session64368 via targeted Ctrl-C; PID79293 recorded for fallback. No timed expiry.",
     "previous_session": 14140,
     "previous_exit_code_after_targeted_ctrl_c": 130,
-    "next_check_utc": "2026-10-18T18:27:30+00:00"
+    "next_check_utc": "2026-10-18T22:27:30+00:00"
   },
-  "notes": "2completeannual/7unresolved;62%TOTALACCOUNTWIDE same1792874445windowonly90/reserve;nextactual22:27:30UTC",
-  "observed_at_utc": "2026-10-18T21:45:37.793675+00:00",
+  "notes": "2completeannual/7unresolved;63%TOTALACCOUNTWIDE same1792874445windowonly90/reserve;nextactual22:27:30UTC",
+  "observed_at_utc": "2026-10-18T21:57:09+00:00",
   "coordinator_compute": {
     "status": "all constructor children completed and reaped",
     "complex_complement_child_pid": 37199,
@@ -61,12 +61,13 @@
     "complex_family_count": 6224952,
     "new_complex_extension_audits": "both complete, accepted"
   },
-  "latest_all_nine_report": "progress/status-2026-10-19-0327.md",
-  "coordinator_current": "FR10/SQ16/SQ17 accepted/all12 final artifacts FULLreadback; delayed reporting/integration then ARwhole1/R12whole2",
-  "latest_checkpoint": "progress/status-2026-10-19-0746.md",
+  "latest_all_nine_report": "progress/checkpoint-2026-10-19-0758.md",
+  "coordinator_current": "AR accepted/all4 final artifacts FULLreadback; R12 OTHERwhole2 queued, FR11 TWOOTHER queued",
+  "latest_checkpoint": "progress/checkpoint-2026-10-19-0758.md",
   "pending_unverified": [
-    "ARauthor11/48/Bwhole2ENTIRE5frozenEMBARGO/rootwhole1pending",
-    "R12author13/48/Bwhole1active/rootwhole2queued",
+    "R12author13/48/Bwhole1ENTIRE5 frozenEMBARGO/rootwhole2queued",
+    "FR11author13/48 frozenUNVERIFIED/TWOOTHER queued",
+    "NEW2021R22/2022R10 handresearch unverified",
     "Root2020separate source note and2024degree-gap note remainUNVERIFIED"
   ],
   "usage_telemetry_conflict": {
@@ -85,16 +86,16 @@
     "explicit_user_authorization": "keep going till90%of the newly reported weekly window....do not stop",
     "authorization_recorded_at_utc": "2026-10-18T00:00:36.393369+00:00"
   },
-  "weekly_last_observed_at_utc": "2026-10-18 21:39:01 UTC",
+  "weekly_last_observed_at_utc": "2026-10-18 21:57:03 UTC",
   "hourly_reporting": {
     "automation_id": "simon-marais-hourly-research-report",
     "kind": "heartbeat",
     "status": "ACTIVE",
     "cadence": "hourly",
     "baseline": "progress/hourly-report-2026-10-18-1037.json",
-    "last_report": "progress/hourly-report-2026-10-19-0327.json",
-    "latest_actual_report": "progress/hourly-report-2026-10-19-0327.json",
-    "next_manual_check_utc": "2026-10-18T18:27:30+00:00",
+    "last_report": "progress/hourly-report-2026-10-19-0746.json",
+    "latest_actual_report": "progress/hourly-report-2026-10-19-0746.json",
+    "next_manual_check_utc": "2026-10-18T22:27:30+00:00",
     "cadence_failure_recorded": true,
     "configuration_active_not_proof_of_delivery": true
   },
