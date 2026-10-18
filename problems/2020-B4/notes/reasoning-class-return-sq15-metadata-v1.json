@@ -1,0 +1,40 @@
+{
+  "created_at_utc": "2026-10-18T15:37:33.234477+00:00",
+  "status": "candidate proof - unverified",
+  "constructor": "/root/review_2017_coarsening_r1",
+  "constructor_excluded": true,
+  "claims": [
+    "SQ15A",
+    "SQ15B",
+    "SQ15C",
+    "SQ15D"
+  ],
+  "whole_obligations": 48,
+  "root_supplied_new_proof_inference": false,
+  "TWO_OTHER_initially_blind_ENTIRE_WHOLE_audits_required": true,
+  "actual_set_prime_conductor_q_ge3_only": true,
+  "new_q_class_computation_annual_or_priority_claim": false,
+  "source_body_unread_limit": "Schmidt1998 encoded; 2005 fixing and2018 larger theorem only literal partial reads",
+  "mathematical_program_CAS_scan_author_source_old_replay": false,
+  "native_child_PID_pending_approval_or_stall": null,
+  "requested_inherited": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "verified_effective_readback": null,
+  "payload_files": 12,
+  "ENTIRE_files_including_freeze": 13,
+  "FULL_final_ALL_payload_model_readback_required": true,
+  "FULL_freeze_readback_then_SEPARATE_verify_required": true,
+  "authoritative_usage": {
+    "at_utc": "2026-10-18 15:34:20 UTC",
+    "TOTAL_used_percent": 47,
+    "window_minutes": 10080,
+    "resetsAt": 1792874445,
+    "ordinary_usage_allowed": true,
+    "legacy_by_limit_agree": true,
+    "TOTAL_ceiling": 90,
+    "integration_reserve": true,
+    "no_automatic_later_window": true
+  }
+}

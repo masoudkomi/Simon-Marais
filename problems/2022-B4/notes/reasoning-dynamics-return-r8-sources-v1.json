@@ -1,0 +1,51 @@
+{
+  "status": "candidate proof - unverified",
+  "date_utc": "2026-10-18",
+  "new_external_theorem_imported": false,
+  "official": {
+    "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2022-paper-b.pdf",
+    "fresh_D8_read": "complete local statement; old actual official D7 read retained by its freshly read source record",
+    "remote_reopened_in_D8": false,
+    "scope": "B4(b) only; positive ordinary ab>=600; simultaneous; n0 equality"
+  },
+  "accepted_reads": {
+    "D7": "COMPLETE current body and MDJSON, failure/source MD",
+    "CF": "COMPLETE current body and MDJSON; clipped second range recovered by separate251-380 and381-487 reads",
+    "Qv3": "COMPLETE current MDJSON; operative accepted lines1-327 and712-944 only; no fresh whole historical chain claim",
+    "D6": "COMPLETE current MDJSON only; no fresh whole body/external proof claim"
+  },
+  "primary_new": [
+    {
+      "title": "Reachability in Dynamical Systems with Rounding",
+      "url": "https://arxiv.org/pdf/2009.13353",
+      "version": "v1",
+      "actual_read": "intro/exact P2P definition and hyperplane remark; rounding definitions; Theorem6 statement; initial Lemma7 proof through extracted line393",
+      "full_operative_proof_read": false,
+      "application": "scope comparison only; NO theorem import",
+      "binary_sha256": null
+    },
+    {
+      "title": "A Normality Conjecture on Rational Base Number Systems",
+      "url": "https://arxiv.org/pdf/2510.11723",
+      "version": "v2 2026-04-07",
+      "actual_read": "selected introduction/definitions/Conjectures1.2,1.6; selected Section3.3 find excerpts; NOT full28-page proof",
+      "full_operative_proof_read": false,
+      "application": "conjectural/minimal-word dictionary limitation only; NO theorem import",
+      "binary_sha256": null
+    },
+    {
+      "title": "On subtrees of the representation tree in rational base numeration systems",
+      "url": "https://arxiv.org/abs/1706.08266",
+      "actual_read": "search discovery only; operative body UNREAD",
+      "application": "none",
+      "binary_sha256": null
+    }
+  ],
+  "CF6_used": false,
+  "normality_assumed": false,
+  "external_full_paper_audit_claimed": false,
+  "mathematical_program_scan_CAS_old_replay": false,
+  "download_cache_contact_charge_bypass": false,
+  "pending_tool_or_child": false,
+  "priority_or_annual_solution_claimed": false
+}

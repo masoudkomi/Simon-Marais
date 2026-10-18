@@ -1,5 +1,17 @@
 # 2020 B4 independent reviews
 
+Current19October2026: [SQ15 remains UNVERIFIED after a required scope objection](reasoning-class-return-sq15-coordinator-reconciliation-v1.md).
+The second WHOLE audit caught omitted INTEGRAL qualifiers; fractional
+balanced ideals invalidate the broader reading. C prepares a full versioned
+repair and BOTH affected reaudits are required. The same universal J clauses
+in [SQ14D/E are on hold](reasoning-arithmetic-return-r14-scope-hold-v1.md)
+pending author repair/review; already explicit integral SQ14A--C have no
+new objection from this issue. Earlier acceptance wording below is historical
+and superseded for the affected clauses by this notice. Root's misses and
+all original bytes are preserved. Full annual classification remains open.
+
+
+
 The new [SQ14A–E low-square result](reasoning-arithmetic-return-r14-acceptance.md)
 is **proved, independently reviewed scoped partial result** after root/C
 TWO OTHER ENTIRE WHOLE64/64 and full128-disposition reconciliation.

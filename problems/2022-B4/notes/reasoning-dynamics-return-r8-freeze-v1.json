@@ -1,0 +1,101 @@
+{
+  "frozen_at_utc": "2026-10-18T16:04:29.365058+00:00",
+  "status": "candidate proof - unverified",
+  "constructor": "/root/review_2017_coarsening_r1",
+  "constructor_excluded": true,
+  "claims": [
+    "D8A",
+    "D8B",
+    "D8C",
+    "D8D"
+  ],
+  "whole_obligations": 48,
+  "root_supplied_new_proof_inference": false,
+  "TWO_OTHER_initially_blind_ENTIRE_WHOLE_audits_required": true,
+  "immediate_own_parent": {
+    "path": "problems/2020-B4/notes/reasoning-class-return-sq15-freeze-v1.json",
+    "bytes": 3677,
+    "sha256": "bc7bb2ef06d6e90dc083841fac5853209b7a45e36bc0ae5b16e512efa7c94975"
+  },
+  "compact_baseline": {
+    "path": "problems/2022-B4/notes/reasoning-dynamics-return-r8-baseline-v1.json",
+    "bytes": 7439,
+    "sha256": "af2b35e265bcca0259b454e22f883c5da0727209673260c09072c6cd38de0d7a"
+  },
+  "payload_files": 13,
+  "ENTIRE_files": 14,
+  "FULL_final_ALL13_payload_model_readback_completed": true,
+  "FULL_freeze_model_readback_then_SEPARATE_verify_REQUIRED": true,
+  "necessary_guard_occurrences": 33,
+  "necessary_guard_unique_paths": 33,
+  "canonical_guard_sha256": "bc4d169c6fe9aa0c009f42ef66517356a025ad0954809e9e76a1281733ebe6d8",
+  "mathematical_program_CAS_scan_replay": false,
+  "new_external_theorem_imported": false,
+  "payloads": [
+    {
+      "path": "problems/2022-B4/notes/reasoning-dynamics-return-r8-candidate-v1.md",
+      "bytes": 18637,
+      "sha256": "ea5c5b96714e0e12f10d6ce88bd4e8b7e89fcaf0baa64528e9fe5136e8f0c435"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-dynamics-return-r8-obligations-v1.md",
+      "bytes": 5630,
+      "sha256": "27bc7dc1d72869ea3119075f797e5ab8f901f8fbfa9df0c4fdf1716d09d3a5b8"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-dynamics-return-r8-constructor-checks-v1.md",
+      "bytes": 4272,
+      "sha256": "77763755e5e67a3348948f3dc585803a37ea1602aa45595c859713086904c0d6"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-dynamics-return-r8-failed-routes-v1.md",
+      "bytes": 4800,
+      "sha256": "262d069342e76e1c61135e5ab34a3b8b48f45864939707ee8b399ed2871a8fc0"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-dynamics-return-r8-issues-v1.md",
+      "bytes": 1389,
+      "sha256": "28efde3517004331919c7b593d0124b2e720123410f02e673f6ca30306bf93c4"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-dynamics-return-r8-sources-v1.md",
+      "bytes": 6835,
+      "sha256": "60432d723eef3319c51a6e244555a6baac93ad99e514f8f66a13e4f1efcc8589"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-dynamics-return-r8-sources-v1.json",
+      "bytes": 2380,
+      "sha256": "7d5236871294b4b26633d850ea5518a1ccff338771b7971921d9cefbd15d79e7"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-dynamics-return-r8-worklog-v1.md",
+      "bytes": 3904,
+      "sha256": "7349075eb898358c291000f059e536268c8d77e0a2924f1ae4b9aab3ec9b7d50"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-dynamics-return-r8-code-log-v1.md",
+      "bytes": 2075,
+      "sha256": "968f4b005614a29019c4815d837a355bd165726369bac9abd0b26465c790789c"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-dynamics-return-r8-admin-v1.py",
+      "bytes": 9910,
+      "sha256": "62ec797ef330e957cb0b069c87a67315c11ceccd706f0a601f5a333fc35665b8"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-dynamics-return-r8-baseline-v1.json",
+      "bytes": 7439,
+      "sha256": "af2b35e265bcca0259b454e22f883c5da0727209673260c09072c6cd38de0d7a"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-dynamics-return-r8-input-validation-v1.json",
+      "bytes": 1073,
+      "sha256": "ec3388834d71ac4089462f20e0fbd3749b839786bb9b1f907a31a7eb49ac416a"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-dynamics-return-r8-metadata-v1.json",
+      "bytes": 1065,
+      "sha256": "01b9e33eeac5323219484aa5c436f89247c46e31a4e49a615da32fed631abdfd"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "status": "candidate proof - unverified",
+  "checked_date_utc": "2026-10-18",
+  "new_external_theorem_import": false,
+  "new_binary_download_or_cache_write": false,
+  "source_absence_or_priority_claim": false,
+  "primary_sources": [
+    {
+      "id": "OFFICIAL2025",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc2025_paper_b.pdf",
+      "read": "Page2 B4 setup/(b), parsed59-61 and67-71; complete local statement",
+      "role": "Actual ordinary signed domain, degree p-1 and exponent p",
+      "binary_sha256": null,
+      "preliminary_a_research": false
+    },
+    {
+      "id": "BMR2000",
+      "url": "https://msp.org/pjm/2000/193-2/pjm-v193-n2-p01-p.pdf",
+      "read": "Original introduction/domain/Theorem1(H)/immediate order consequence, pp257-258 parsed25-101; beginning of operative proof and valuation discussion pp262-263 parsed316-373",
+      "domain_limit": "Positive X; not a signed or X+1 theorem import",
+      "role": "Attributed pure-X overlap and primary guidance only",
+      "entire_theorem_proof_reconstructed": false,
+      "mathematical_premise": false,
+      "binary_sha256": null
+    },
+    {
+      "id": "BL2015",
+      "url": "https://personal.math.ubc.ca/~bennett/BeLe-Mona-2015.pdf",
+      "read": "Introduction and signed Proposition1 parsed0-66, bibliography1060-1090",
+      "role": "Attributed signed pure-X overlap only",
+      "entire_paper_or_aggregated_constituents_reconstructed": false,
+      "mathematical_premise": false,
+      "binary_sha256": null
+    },
+    {
+      "id": "MIH2008",
+      "url": "https://www.researchgate.net/publication/226863681_Class_Number_Conditions_for_the_Diagonal_Case_of_the_Equation_of_Nagell_and_Ljunggren",
+      "version": "Author-uploaded Version2.0 September17,2007",
+      "read": "Complete Lemma7 statement/proof parsed1205-1235 with local/Lemma6 context; Section5 class-condition opening2706-2757",
+      "role": "Depth attribution and conditional-height failure boundary only",
+      "complete_class_field_or_Theorem4_proof_reconstructed": false,
+      "mathematical_premise": false,
+      "binary_sha256": null
+    }
+  ],
+  "operative_new_proof_premises": [
+    "p>=37 prime; X,Y ordinary integers; abs(X)>=2; Phi_p(X)=Y^p; p divides X(X+1)"
+  ],
+  "accepted_context_fresh_full_body_and_authority_MDJSON_reads": [
+    "problems/2025-B4/proofs/reviewed-reasoning-diagonal-return-r6-v1.1.md",
+    "problems/2025-B4/proofs/reviewed-reasoning-diagonal-return-r5-v1.1.md"
+  ],
+  "old_roles": "A authored DR6 and reviewed RD/BR/RS and earlier2025 packets; not fresh independent recertification",
+  "unverified_formal_warning_used_as_premise": false,
+  "NEW_R20_peer_access": false,
+  "failed_retrievals": [
+    "MSP XHTML endpoint unsupported-content type",
+    "Guessed p02 PDF was a different title; discarded, correct p01 verified"
+  ],
+  "math_executable_scan_CAS_or_old_source_replay": false,
+  "native_stall_or_pending_PID": null,
+  "charges_contacts_bypass": false,
+  "requested_model": "gpt-6.1-sol",
+  "requested_reasoning": "max",
+  "verified_effective_settings": null,
+  "weekly_telemetry": {
+    "method": "mcp__codex_app__get_usage_limits",
+    "observed_at_utc": "2026-10-18 15:43:44 UTC",
+    "account_id": "029a8928-15a9-456a-84f9-d2e61334ac3a",
+    "used_percent_total": 48,
+    "window_minutes": 10080,
+    "resets_at": 1792874445,
+    "ordinary_usage_allowed": true,
+    "legacy_and_by_limit_agree": true,
+    "stop_total_at_or_below": 90,
+    "integration_reserve_required": true,
+    "automatic_later_window_spending": false
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "prepared_at_utc": "2026-10-18T16:03:39.777929+00:00",
+  "status": "candidate proof - unverified",
+  "immediate_own_parent": {
+    "path": "problems/2020-B4/notes/reasoning-class-return-sq15-freeze-v1.json",
+    "bytes": 3677,
+    "sha256": "bc7bb2ef06d6e90dc083841fac5853209b7a45e36bc0ae5b16e512efa7c94975"
+  },
+  "parent_ENTIRE_files": 13,
+  "parent_payloads_verified": 12,
+  "parent_historical_guard_inventory_recopied_or_rerun": false,
+  "parent_historical_guard_summary_bound_by_parent_identity": {
+    "occurrences": 30,
+    "unique_paths": 30,
+    "canonical_sha256": "2e5046aa3ab0f5a552e92fde1e750a7eceba9b8191ea1ad54f5998ed0d714273"
+  },
+  "necessary_guard_occurrences": 33,
+  "necessary_guard_unique_paths": 33,
+  "canonical_guard_sha256": "bc4d169c6fe9aa0c009f42ef66517356a025ad0954809e9e76a1281733ebe6d8",
+  "guards": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-class-return-sq15-admin-v1.py",
+      "bytes": 10946,
+      "sha256": "a0956d55aa53963870e5c3b1f534e03826d7dfdfebad6c22d738ce9c913be24b"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-class-return-sq15-baseline-v1.json",
+      "bytes": 12738,
+      "sha256": "6a97a53349b0d4e14e2da9f44274668b48b5ab2bfd53aca7f96ab7ca307409f3"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-class-return-sq15-candidate-v1.md",
+      "bytes": 20209,
+      "sha256": "11182beb9e08841d8ecce07008caafe93ca65222fdd34937493bf9a4c9715e78"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-class-return-sq15-code-log-v1.md",
+      "bytes": 1356,
+      "sha256": "d33ac97974685627f4e88a65db09a57109918e86bc7cf47177e98a0831e12f09"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-class-return-sq15-constructor-checks-v1.md",
+      "bytes": 4566,
+      "sha256": "a695b3874d16800527d5083ea4de5de6698fb09947092b202048c104d49b482b"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-class-return-sq15-failures-v1.md",
+      "bytes": 5019,
+      "sha256": "db8bb980233e1a1bf90306a4dc1f348467410d387561fb60ec700141df8c7770"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-class-return-sq15-freeze-v1.json",
+      "bytes": 3677,
+      "sha256": "bc7bb2ef06d6e90dc083841fac5853209b7a45e36bc0ae5b16e512efa7c94975"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-class-return-sq15-input-validation-v1.json",
+      "bytes": 413,
+      "sha256": "41584eb7a210d5eaf4c4aabd542e753f305cf0e30ced4ab8c6a616880f5bd08a"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-class-return-sq15-metadata-v1.json",
+      "bytes": 1374,
+      "sha256": "0138feb4322e7caba8cf03699541f61467ce14c16a4ee4c43472e15b1b3545b7"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-class-return-sq15-obligations-v1.md",
+      "bytes": 5740,
+      "sha256": "f55c71d12fd0377d4b836a4482d50826ac691cd48c961d3095a8ea22a893c0db"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-class-return-sq15-sources-v1.json",
+      "bytes": 2622,
+      "sha256": "b64775dc98181e88d891c4a711e05b2e2ee3e8773f481b25370fe60f3a2480c0"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-class-return-sq15-sources-v1.md",
+      "bytes": 6797,
+      "sha256": "0aaadeb22cee238ea16e141cb1b08eb054425a17d8fc00b8af6d0996b6807cd9"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-class-return-sq15-worklog-v1.md",
+      "bytes": 3586,
+      "sha256": "ccea01cd9be3088ece76cfe18e308ec1be4fed804ce808e8f7be4dc72b59f8f4"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-complexity-return-r9-candidate-v3.md",
+      "bytes": 44042,
+      "sha256": "77bf84340543589d96698a64df5e3850cdf22fe953ee45587ab0d79997184ff5"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-dynamics-return-r6-candidate-v1.md",
+      "bytes": 19255,
+      "sha256": "f7da37b6f8ed520b1932a2b55b7d52cad5c94c7926ae1b02132e31693e5e5dc8"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-dynamics-return-r7-candidate-v1.md",
+      "bytes": 16504,
+      "sha256": "25ab177d6efebf1c4d5bb6e3c6bb97c4bfebed750ba782f022a4b3c94bb2d508"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-dynamics-return-r7-failed-routes-v1.md",
+      "bytes": 4115,
+      "sha256": "0440d5c5b96aa9df4465622b4afb75f88b1dee897f8e9355153f3b09ab327465"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-dynamics-return-r7-sources-v1.md",
+      "bytes": 4711,
+      "sha256": "fe20cb9d3c4a29594f9a38b37f4c8abf7cc08cfe4f731991f38e00ae6e94f1ba"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-fiber-return-r5-candidate-v1.md",
+      "bytes": 23177,
+      "sha256": "789ed605351a9d913348add46b8b9c47734bb0809f8269798aa8d53760f46a7e"
+    },
+    {
+      "path": "problems/2022-B4/proofs/reviewed-reasoning-complexity-return-r9-v3.1.md",
+      "bytes": 49080,
+      "sha256": "18e681d69b29d3495fea0cc2a29dbcb8a9c34db60644b981b3f653d666bef4ad"
+    },
+    {
+      "path": "problems/2022-B4/proofs/reviewed-reasoning-dynamics-return-r6-v1.1.md",
+      "bytes": 25006,
+      "sha256": "a9f9e12a3c814a4c1098778acaec1bfd13eb631be0837b5550d767715d19b0c8"
+    },
+    {
+      "path": "problems/2022-B4/proofs/reviewed-reasoning-dynamics-return-r7-v1.1.md",
+      "bytes": 21378,
+      "sha256": "75f12e12027c50df48eba74149bf4993edfd1ff922eac8a130dfc0655abfe98f"
+    },
+    {
+      "path": "problems/2022-B4/proofs/reviewed-reasoning-fiber-return-r5-v1.1.md",
+      "bytes": 27422,
+      "sha256": "ab4158f60b3412ace615be689cd61d9384f753319c312e776831392f97a37ef8"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-complexity-return-r9-v3-acceptance.json",
+      "bytes": 4311,
+      "sha256": "8d47520d7fd80656d14bf7116a5d614cc55ff37c25963e839cf45d8495fe42c6"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-complexity-return-r9-v3-acceptance.md",
+      "bytes": 5137,
+      "sha256": "032b95a53726fde3aa7a4a80351c616957304d95cb83b32de962b88338084042"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-dynamics-return-r6-acceptance.json",
+      "bytes": 4830,
+      "sha256": "fe7cd5967201e6b1ed6d7c7216645dced78c72b7ecc070a55ab30cef73a44cca"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-dynamics-return-r6-acceptance.md",
+      "bytes": 5849,
+      "sha256": "5eb1fcd1229b79dccf6067f4b077df34a5d387257a82063295bde5e6e7d24d1b"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-dynamics-return-r7-acceptance.json",
+      "bytes": 3168,
+      "sha256": "025f3f79b5713969243f9a4b88752eecdd36cb1d29a6560bda55b7dc4235154c"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-dynamics-return-r7-acceptance.md",
+      "bytes": 4971,
+      "sha256": "ac544e6ebf2351a24390f5badebe53e4b4e3c62d1f07f378f57fbcfd2924c808"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-fiber-return-r5-acceptance.json",
+      "bytes": 4684,
+      "sha256": "d352f86837f935f0757c2c9fc56a9a2708856f03a976934a791e12e1000ac0ee"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-fiber-return-r5-acceptance.md",
+      "bytes": 4343,
+      "sha256": "6f2ee399a74414b42bf8c459c86d2b738eb11d8ca3f60061dab1bb2c376e0fef"
+    },
+    {
+      "path": "problems/2022-B4/statement.md",
+      "bytes": 1195,
+      "sha256": "2011761509ac42d5ffa2ab9e86dd1db464618707443a68f43fb3e45f59ed36c0"
+    }
+  ]
+}

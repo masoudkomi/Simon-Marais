@@ -1,5 +1,17 @@
 # Current restart boundary —2026-10-18 19:27Brisbane
 
+Current02:16Brisbane checkpoint: [DR7 accepted](../problems/2025-B4/reviews/reasoning-diagonal-return-r7-acceptance.md)
+after TWO OTHER ENTIRE WHOLE48/48 and full reconciliation; large factors/annual open.
+[SQ15 repair required](../problems/2020-B4/reviews/reasoning-class-return-sq15-coordinator-reconciliation-v1.md)
+and [SQ14D/E scope hold](../problems/2020-B4/reviews/reasoning-arithmetic-return-r14-scope-hold-v1.md):
+unqualified fractional-ideal readings fail; FULL integral-domain author repairs
+and BOTH affected reaudits required. Old bytes/root misses preserved.
+R10/D8 ENTIRE authors frozenUNVERIFIED; OTHER audits active/queued/embargoed.
+2024R9 handresearch continues.50%TOTAL at16:10:33UTC/reset1792874445only,
+90%ceiling/reserve. [Checkpoint](checkpoint-2026-10-19-0216.md).
+Next ACTUAL hourly16:27:30UTC; last actual01:27 raw counts unchanged.
+
+
 Current continuing checkpoint19 October2026: [2019AT](../problems/2019-B4/reviews/reasoning-cut-transfer-r6-acceptance.md)
 accepted after root/A ENTIRE64/64 and ALL128 full reconciliation;
 [2021R20](../problems/2021-B4/reviews/reasoning-center-return-r20-acceptance.md)

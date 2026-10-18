@@ -1,0 +1,152 @@
+{
+  "prepared_at_utc": "2026-10-18T15:47:01.016634+00:00",
+  "status": "candidate proof - unverified",
+  "scope": "DR7 new ordinary signed cofactor construction; no old mathematical recertification",
+  "direct_current_frozen_inputs": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2025-B4/statement.md",
+      "bytes": 2024,
+      "sha256": "af0075dd635e8e4d31bb3ae9148d1731a7fbb57c06cf104763332e1496673f59"
+    },
+    {
+      "path": "problems/2025-B4/proofs/reviewed-reasoning-diagonal-return-r6-v1.1.md",
+      "bytes": 20183,
+      "sha256": "a611083b9807c1de6ffa3ac7ca90a470217c9572efb5162cb0c1bc9710899acc"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-diagonal-return-r6-acceptance.md",
+      "bytes": 3695,
+      "sha256": "1c5672b594f64cd0f1c8d1f6da74576bb7266128582d53bc62d917b57be3aee4"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-diagonal-return-r6-acceptance.json",
+      "bytes": 3282,
+      "sha256": "72d7071b1efede142058de61257da6a5f8241e771550b514b93293b616d57bbf"
+    },
+    {
+      "path": "problems/2025-B4/proofs/reviewed-reasoning-diagonal-return-r5-v1.1.md",
+      "bytes": 22518,
+      "sha256": "4b76934a72989d31a5d836ffd5ff9519e1b84b4a917072a5a65e04494a167499"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-diagonal-return-r5-acceptance.md",
+      "bytes": 5266,
+      "sha256": "b9bce8b75337652ccb001c95a142f418ffdc0bb3dc1514e52a9a280b95d8e3c3"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-diagonal-return-r5-acceptance.json",
+      "bytes": 4666,
+      "sha256": "94830a9bbb42baf76c0dec2a8154d1013faaab0b861cc071c64ac29dd5d42f5b"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-diagonal-return-r6-failed-routes-v1.md",
+      "bytes": 4291,
+      "sha256": "8f38c723f7e7a946c72a554bb2ab8ba5d30293fc9da6171af4a6a73ce948cb82"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-diagonal-return-r6-sources-v1.md",
+      "bytes": 4600,
+      "sha256": "2ebc66e2c3dbbfca5c3f99d69c34ab6c95e967fb86053944e82d55927f089e5a"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-diagonal-return-r6-sources-v1.json",
+      "bytes": 2791,
+      "sha256": "be91ed8ef1bccbc05dfe76d68b45b5337f788c9f36aaffc5b5a44d478f873d2b"
+    },
+    {
+      "path": "problems/2025-B4/notes/coordinator-higher-trace-frontier-r6-v1.md",
+      "bytes": 3950,
+      "sha256": "8ee24faa08913b07a9bac3bf7a07933e5092a1244797a3ebc17f74f060d86db5"
+    }
+  ],
+  "immutable_parent_bindings": [
+    {
+      "binding": {
+        "path": "problems/2019-B4/reviews/reasoning-cut-transfer-r6-review-2-manifest-v1.json",
+        "bytes": 3780,
+        "sha256": "6ff9b2763477d2e7f4d37da4788a44f66481a37abec33638d833bcd0e3f40e17"
+      },
+      "direct_declared_frozen_summary": {
+        "occurrences": 14,
+        "unique_paths": 13,
+        "canonical_deduplicated_sha256": "85de0c3e13ac7dd62a6f9bd2a6f12d087bc55b42962a2d1d784be3bdd60eddf9"
+      },
+      "historical_parent_occurrences_reported_not_recursively_reverified": 85,
+      "historical_parent_paths_reported_not_recursively_reverified": 78,
+      "recursion_limit": "Validate immediate declared records; bind their immutable metadata bytes without recopying all historical inventories"
+    },
+    {
+      "binding": {
+        "path": "problems/2025-B4/notes/reasoning-diagonal-return-r6-freeze-v1.json",
+        "bytes": 3623,
+        "sha256": "a9edb267e1b417beedcfbe57dec293b9d494fe878f2758ccbdc4f5c300188b8d"
+      },
+      "direct_declared_frozen_summary": {
+        "occurrences": 14,
+        "unique_paths": 13,
+        "canonical_deduplicated_sha256": "31b82aa2f543bc9043c04afd1ea187efc7df3d5e4caf60f12fb67df65f62f269"
+      },
+      "historical_parent_occurrences_reported_not_recursively_reverified": 140,
+      "historical_parent_paths_reported_not_recursively_reverified": 118,
+      "recursion_limit": "Validate immediate declared records; bind their immutable metadata bytes without recopying all historical inventories"
+    },
+    {
+      "binding": {
+        "path": "problems/2025-B4/reviews/reasoning-diagonal-return-r6-acceptance.json",
+        "bytes": 3282,
+        "sha256": "72d7071b1efede142058de61257da6a5f8241e771550b514b93293b616d57bbf"
+      },
+      "direct_declared_frozen_summary": {
+        "occurrences": 10,
+        "unique_paths": 10,
+        "canonical_deduplicated_sha256": "a2ea391333a2e16a04eeb493cf21a852154835ddb1eb030f5a88997df166efde"
+      },
+      "historical_parent_occurrences_reported_not_recursively_reverified": 106,
+      "historical_parent_paths_reported_not_recursively_reverified": 60,
+      "recursion_limit": "Validate immediate declared records; bind their immutable metadata bytes without recopying all historical inventories"
+    },
+    {
+      "binding": {
+        "path": "problems/2025-B4/reviews/reasoning-diagonal-return-r5-acceptance.json",
+        "bytes": 4666,
+        "sha256": "94830a9bbb42baf76c0dec2a8154d1013faaab0b861cc071c64ac29dd5d42f5b"
+      },
+      "direct_declared_frozen_summary": {
+        "occurrences": 16,
+        "unique_paths": 16,
+        "canonical_deduplicated_sha256": "d124c7f17b5220118b05e725e44730c5ade3a4a67ba55a0e4afa00ce6d3435d4"
+      },
+      "historical_parent_occurrences_reported_not_recursively_reverified": 196,
+      "historical_parent_paths_reported_not_recursively_reverified": 77,
+      "recursion_limit": "Validate immediate declared records; bind their immutable metadata bytes without recopying all historical inventories"
+    }
+  ],
+  "protected_current_summary": {
+    "occurrences": 70,
+    "unique_paths": 58,
+    "canonical_deduplicated_sha256": "e968230b1defb30cf238785d19eb8dab702be21c121cc694f9e02b9e100af32c"
+  },
+  "parent_expansion": "Only immediate declared frozen records; no giant historical list copied",
+  "historical_mutable_observations_not_protected_as_current": [],
+  "current_mutable_landscape_observations_not_frozen_inputs": [
+    {
+      "path": "problems/2025-B4/research.md",
+      "bytes": 13466,
+      "sha256": "5e9cf7e0113ae63e931fd7f663c2c68b7c27a67644abd5f0ac41c05a8af1aaff"
+    },
+    {
+      "path": "problems/2025-B4/proof.md",
+      "bytes": 5423,
+      "sha256": "c422139567ee3e2f4eafd852c9a3f5fac73cb6c8e0bfdf9e2c9c5311a9348b0d"
+    }
+  ],
+  "mutable_status_policy": "Preserve old metadata bytes and its historical observations; do not assert old mutable map snapshots equal current coordinator maps",
+  "NEW_R20_peer_material_accessed": false,
+  "NEW_DR7_peer_material_accessed": false,
+  "no_Git_shared_old_or_cache_writes": true
+}

@@ -1,0 +1,74 @@
+{
+  "frozen_at_utc": "2026-10-18T16:02:34.071940+00:00",
+  "status": "initially blind ENTIRE WHOLE2 review",
+  "reviewer": "/root/review_2021_reasoning_j15_r2",
+  "ALL_obligations": 48,
+  "payload_files": 10,
+  "ENTIRE_files": 11,
+  "FULL_final_ALL10_payload_model_readback_completed": true,
+  "FULL_manifest_model_readback_then_SEPARATE_readonly_verify_REQUIRED": true,
+  "findings_embargo_until_explicit_BOTH_ENTIRE": true,
+  "NEW_corresponding_root_peer_content_access": false,
+  "compact_baseline": {
+    "path": "problems/2020-B4/reviews/reasoning-class-return-sq15-review-2-baseline-v1.json",
+    "bytes": 7648,
+    "sha256": "43cfbc0c5ddfa4a750ebb6bb22266838a3bc1635d8194c39f222c2fae4331a8a"
+  },
+  "compact_current_protection": {
+    "occurrences": 72,
+    "unique_paths": 57,
+    "canonical_sha256": "16fcb7db6d575fcbb729117867fad5ca289e2782beda7d798285a981b8e85545"
+  },
+  "payloads": [
+    {
+      "path": "problems/2020-B4/reviews/reasoning-class-return-sq15-review-2-initial-v1.md",
+      "bytes": 12843,
+      "sha256": "c8b31df2b928947c276a6c487b79dfa465b8693dd119a1bff50357c0700f2476"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-class-return-sq15-review-2-ledger-v1.md",
+      "bytes": 6071,
+      "sha256": "be777b08c1f5448d43b33286cf14694c3c6490bde21a635757c203e8f0293d63"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-class-return-sq15-review-2-issues-v1.md",
+      "bytes": 3527,
+      "sha256": "3fba002da38231b259fbbdbb4a711072e4c98a44f4385d49125977e6207892a9"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-class-return-sq15-review-2-sources-v1.md",
+      "bytes": 6441,
+      "sha256": "2a953f28d90aa000a6362552da21839e291cb533ae0b253e7370beac6968f454"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-class-return-sq15-review-2-sources-v1.json",
+      "bytes": 3073,
+      "sha256": "b4d17f701806259884455572e6689919b1372dfe6ebad65ce684edf6fc3aed2b"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-class-return-sq15-review-2-worklog-v1.md",
+      "bytes": 3961,
+      "sha256": "057e88c7e65a4eb83848f1f4f1ab0b51f5d42183d0639fcb4cecdcc92bd61f63"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-class-return-sq15-review-2-admin-v1.py",
+      "bytes": 11579,
+      "sha256": "18988d7764104ffdcc5cd79670ccfc3478617f495705c64349da8d22098d6953"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-class-return-sq15-review-2-baseline-v1.json",
+      "bytes": 7648,
+      "sha256": "43cfbc0c5ddfa4a750ebb6bb22266838a3bc1635d8194c39f222c2fae4331a8a"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-class-return-sq15-review-2-input-validation-v1.json",
+      "bytes": 465,
+      "sha256": "9100adb4e1834e0eff04faed64d96454f9c04c84b120a8d193be331fc625e918"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-class-return-sq15-review-2-metadata-v1.json",
+      "bytes": 1973,
+      "sha256": "1bd2f79c5f06b7714c3f48d7fc1de29b9f17d4d255136dec8fc5ba28016f06f9"
+    }
+  ]
+}

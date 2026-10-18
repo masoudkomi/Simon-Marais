@@ -1,5 +1,16 @@
 # 2025 B4 independent reviews
 
+The newly accepted [DR7 actual cofactor-order theorem](reasoning-diagonal-return-r7-acceptance.md)
+passed root/B TWO OTHER ENTIRE WHOLE48/48 audits and full96-disposition
+reconciliation. For p>=37 in the stated signed residual sector, the actual
+cofactor has a unitary order-p part b>1, hence a prime1mod2p. An actual
+nonzero INTEGER quadratic remainder gives strict b-squared and cofactor
+lower bounds, uniformly c>p^(s-1)/12. All signs/centers and full prime
+powers are retained. Large actual b remains unbounded; the annual equation
+is unresolved. Pure-X published overlap and exact source limits are retained.
+
+
+
 The new [DR6A–D ordinary-root result](reasoning-diagonal-return-r6-acceptance.md)
 is **proved, independently reviewed scoped partial result** after root/C
 TWO OTHER ENTIRE WHOLE48/48 and full96-disposition reconciliation.

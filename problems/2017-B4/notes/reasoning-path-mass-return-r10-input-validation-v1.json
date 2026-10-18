@@ -1,0 +1,28 @@
+{
+  "at_utc": "2026-10-18T15:51:58.446940+00:00",
+  "result": "PASS",
+  "whole_obligations": 60,
+  "separate_constructor_hand_dispositions": 60,
+  "guard_summary": {
+    "fingerprint_occurrences": 42,
+    "unique_paths": 38,
+    "canonical_sha256": "ef2093f8fd1c6bdd505b87bca00edcb9a1372d004c631ec6d6c7b6d98b12a4a3",
+    "accepted_PM9_and_scalar_copy_suffixes_match_frozen_mains": true,
+    "current_DC_accepted_body_fingerprint_verified": true,
+    "PM9_ENTIRE16_frozen_files_verified": true,
+    "PM9_authority_stored_history_summary_bound_only": {
+      "occurrences": 188,
+      "unique_paths": 81
+    },
+    "scalar_authority_stored_history_summary_bound_only": {
+      "occurrences": 1170,
+      "unique_paths": 617
+    },
+    "own_immediate_parent_payloads_verified": 9,
+    "older_own_paths_bound_transitively": 854,
+    "no_unrelated_historical_mathematical_read_or_recertification_claim": true,
+    "mathematical_assertions_evaluated_by_code": false
+  },
+  "only_assigned_NEW_prefix_written": true,
+  "mathematical_execution": false
+}

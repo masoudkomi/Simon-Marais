@@ -1,0 +1,32 @@
+{
+  "at_utc": "2026-10-18T16:00:59.970196+00:00",
+  "result": "PASS",
+  "whole_obligations": 48,
+  "separate_reviewer_hand_dispositions": 48,
+  "guard_detail": {
+    "necessary_guard_summary": {
+      "occurrences": 46,
+      "unique_paths": 41,
+      "canonical_deduplicated_sha256": "87a456f14b4525917d2785c4f471bc3989b6a2566384db116a74484768ea8b14"
+    },
+    "author_ENTIRE14_fingerprints_verified": true,
+    "author_compact_protected_summary_reconstructed_and_verified": {
+      "occurrences": 70,
+      "unique_paths": 58,
+      "canonical_deduplicated_sha256": "e968230b1defb30cf238785d19eb8dab702be21c121cc694f9e02b9e100af32c"
+    },
+    "author_direct_current_records": 12,
+    "author_immediate_immutable_bindings": 4,
+    "historical_mutable_map_observations_not_protected_as_current": true,
+    "accepted_context_suffixes_verified": [
+      "problems/2025-B4/proofs/reviewed-reasoning-diagonal-return-r6-v1.1.md",
+      "problems/2025-B4/proofs/reviewed-reasoning-diagonal-return-r5-v1.1.md"
+    ],
+    "own_immediate_parent_payloads_verified": 10,
+    "older_own_paths_bound_transitively": 865,
+    "mathematical_assertions_evaluated_by_code": false
+  },
+  "only_assigned_NEW_prefix_written": true,
+  "corresponding_NEW_root_DR7_material_accessed": false,
+  "mathematical_execution": false
+}

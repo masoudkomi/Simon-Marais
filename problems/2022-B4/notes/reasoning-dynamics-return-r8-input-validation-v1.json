@@ -1,0 +1,33 @@
+{
+  "validated_at_utc": "2026-10-18T16:03:39.778906+00:00",
+  "necessary_guard_fingerprints": "PASS",
+  "accepted_body_and_candidate_suffix_checks": [
+    {
+      "name": "D7",
+      "authority": "problems/2022-B4/reviews/reasoning-dynamics-return-r7-acceptance",
+      "accepted_body_verified": true,
+      "candidate_suffix_verified": true
+    },
+    {
+      "name": "CF",
+      "authority": "problems/2022-B4/reviews/reasoning-fiber-return-r5-acceptance",
+      "accepted_body_verified": true,
+      "candidate_suffix_verified": true
+    },
+    {
+      "name": "Qv3",
+      "authority": "problems/2022-B4/reviews/reasoning-complexity-return-r9-v3-acceptance",
+      "accepted_body_verified": true,
+      "candidate_suffix_verified": true
+    },
+    {
+      "name": "D6",
+      "authority": "problems/2022-B4/reviews/reasoning-dynamics-return-r6-acceptance",
+      "accepted_body_verified": true,
+      "candidate_suffix_verified": true
+    }
+  ],
+  "immediate_own_parent_payloads": "12/12 PASS",
+  "literal_obligations": 48,
+  "mathematical_instance_evaluated": false
+}

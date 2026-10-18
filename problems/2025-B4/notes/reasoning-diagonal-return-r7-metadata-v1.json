@@ -1,0 +1,53 @@
+{
+  "status": "candidate proof - unverified",
+  "claims": [
+    "DR7A",
+    "DR7B",
+    "DR7C",
+    "DR7D"
+  ],
+  "constructor": "/root/review_2021_reasoning_j15_r2",
+  "constructor_excluded_from_two_independent_whole_audits": true,
+  "requested_model": "gpt-6.1-sol",
+  "requested_reasoning": "max",
+  "verified_effective_settings": null,
+  "whole_obligations": 48,
+  "new_external_theorem_or_Jacobi_premise": false,
+  "operative_hypotheses": "p>=37 prime, X,Y ordinary integers, abs(X)>=2, Phi_p(X)=Y^p, p divides X(X+1)",
+  "older_roles": "A authored accepted DR6 and audited RD/BR/RS and earlier2025 packets; no independent self-recertification",
+  "root_NEW_proof_inference_supplied": false,
+  "mathematical_program_scan_CAS_or_old_source_replay": false,
+  "TWO_OTHER_ENTIRE_initially_blind_WHOLE_audits_required": true,
+  "annual_upper_height_or_priority_claim": false,
+  "unbounded_actual_order_p_part_remains_open": true,
+  "code_scope": "Documentary hashing, JSON and exact obligation labels only",
+  "protected_current_summary": {
+    "occurrences": 70,
+    "unique_paths": 58,
+    "canonical_deduplicated_sha256": "e968230b1defb30cf238785d19eb8dab702be21c121cc694f9e02b9e100af32c"
+  },
+  "baseline": {
+    "path": "problems/2025-B4/notes/reasoning-diagonal-return-r7-baseline-v1.json",
+    "bytes": 6657,
+    "sha256": "a1ea11d5a1b8edfc5951e8488ccd64ef78466bf4a264c1b0021b51ce8be3025c"
+  },
+  "input_validation": {
+    "path": "problems/2025-B4/notes/reasoning-diagonal-return-r7-input-validation-v1.json",
+    "bytes": 518,
+    "sha256": "dc7a8871d9f5384746ea9ad0fc89e945da05119c8e2e62fd56b91d5f27cf2ba7"
+  },
+  "author_payload_files": 13,
+  "ENTIRE_files_including_freeze": 14,
+  "FULL_final_ALLfile_model_readback_then_SEPARATE_readonly_verify_required": true,
+  "weekly_usage": {
+    "method": "mcp__codex_app__get_usage_limits",
+    "observed_at_utc": "2026-10-18 15:43:44 UTC",
+    "total_used_percent": 48,
+    "window_minutes": 10080,
+    "resets_at": 1792874445,
+    "ordinaryUsageAllowed": true,
+    "ceiling_total_percent": 90,
+    "integration_reserve": true,
+    "automatic_future_window_spending": false
+  }
+}
