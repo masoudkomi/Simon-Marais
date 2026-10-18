@@ -1,0 +1,111 @@
+{
+  "frozen_at_utc": "2026-10-18T01:04:30.382543+00:00",
+  "status": "COMPLETE OTHER NONCONSTRUCTOR affected WHOLE reaudit2; PMR2-01 resolved for fullv1.1; not coordinator promotion",
+  "reviewer": "/root/review_2022_complexity_r2",
+  "exact_target": {
+    "path": "problems/2017-B4/notes/reasoning-value-return-r6-candidate-v1.1.md",
+    "bytes": 38143,
+    "sha256": "44f327ce61046b8226ff62d699ed0fa004ceb11e7900779636c583b27a2745db"
+  },
+  "exact_constructor_freeze": {
+    "path": "problems/2017-B4/notes/reasoning-value-return-r6-freeze-v1.1.json",
+    "bytes": 2987,
+    "sha256": "bd8d7cfcd6d81dd09432e2c8c445bd401c864f3d640fc7214336f034e9effa02"
+  },
+  "affected_claims": [
+    "PM2",
+    "PM3"
+  ],
+  "all_original48_and_new12_FC_obligations_checked": true,
+  "original_PM1_PM4_text_and_scope_unchanged": true,
+  "original_issue": "PMR2-01",
+  "issue_disposition": "resolved in explicit author finite-T/FC repair",
+  "unresolved_substantive_issues": 0,
+  "further_author_repairs_required": 0,
+  "retained_scope_notes": 4,
+  "original_countercertificate_and_both_initial_dispositions_preserved": true,
+  "no_infinite_angle_source_extension_or_arbitrary_decoration_sufficiency_claim": true,
+  "entire_PM3_offset_buffer_conditioning_rank_phase_and_q_safe_chain_checked": true,
+  "NEW_A_affected_review_files_findings_or_metadata_unopened_through_ENTIRE_own_freeze": true,
+  "root_C_contributors_excluded_from_independent_count": true,
+  "B_did_not_construct_NEW_R6_or_repair": true,
+  "B_old_allD_global_authorship_and_local_value_reviews_disclosed_no_self_recertification": true,
+  "BOTH_OTHER_affected_whole_reaudits_and_root_full_reconciliation_required": true,
+  "no_upper_R_value_negligible_collar_free_fixed_entropy_equality_annual_or_novelty_claim": true,
+  "precise_primary_and_internal_actual_read_limits_recorded": true,
+  "fingerprint_occurrences_verified": 81,
+  "unique_paths_verified": 79,
+  "canonical_deduplicated_summary_sha256": "21e0a2b559b29d2f5fa78b331de8ddd3d3ee7ed2e6756ce904d4c57fc0626116",
+  "compact_own_parent_manifest": {
+    "path": "problems/2021-B4/reviews/reasoning-return-r12-review-1-manifest-v1.json",
+    "bytes": 4751,
+    "sha256": "b69968a49ea0e084e408288e6cc8f710b52bd501058de050e9eedaa3161a21ef"
+  },
+  "older_own_paths_bound_transitively": 484,
+  "new_own_files_including_manifest": 9,
+  "older_plus_new_own_paths_bound_transitively": 493,
+  "no_growing_historical_inventory_recopied_or_recursively_rehashed": true,
+  "no_mathcode_scan_CAS_native_child_author_rerun_or_old_certificate_replay": true,
+  "no_old_shared_Git_cache_edit_spawn_contact_charge_or_bypass": true,
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independently_verified_effective_settings": null,
+  "authoritative_weekly_telemetry": {
+    "at_utc": "2026-10-18 01:03:28 UTC",
+    "method": "mcp__codex_app__get_usage_limits({}); rateLimitsByLimitId.codex.primary and legacy agree",
+    "account_label": "029a8928…1334ac3a",
+    "used_percent_total": 6,
+    "window_minutes": 10080,
+    "reset_unix": 1792874445,
+    "ordinary_usage_allowed": true,
+    "new_window_explicitly_user_authorized": true,
+    "total_ceiling_percent": 90,
+    "integration_reserve": true,
+    "automatic_further_reset_spending": false
+  },
+  "artifacts": [
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r6-review-2-reaudit-v1.1-baseline-v1.json",
+      "bytes": 2393,
+      "sha256": "ccc54431f2b072dc5c5fe2ecefde1ee3b2355c9f44d33782a9385a40d9406f34"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r6-review-2-reaudit-v1.1-initial.md",
+      "bytes": 17957,
+      "sha256": "f5b19fa3058213472dbabade640ce348a90109c2e3cf5b5536e2a5f649bbcc43"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r6-review-2-reaudit-v1.1-ledger-v1.md",
+      "bytes": 12121,
+      "sha256": "ea6271dcacc6039375e723062e4f1792d342ad1dd57ac48910b315b9cc4a9175"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r6-review-2-reaudit-v1.1-issues-v1.md",
+      "bytes": 3664,
+      "sha256": "d232c8ffc76770211809404c8bac1d9a6fb3702af7587bccacac983c8a69b5b7"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r6-review-2-reaudit-v1.1-source-checks-v1.md",
+      "bytes": 8727,
+      "sha256": "f17af56bf818f04031758f0ef8b86da5cd417989b25ed452fddc8df1d79ff77c"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r6-review-2-reaudit-v1.1-sources-v1.json",
+      "bytes": 3734,
+      "sha256": "e043c0b2dd8f1c74c6196c664c64a1853933aa7504ff13631999f99efba98339"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r6-review-2-reaudit-v1.1-freeze-v1.py",
+      "bytes": 8091,
+      "sha256": "90faba3a93493c40f33727490510403eb75fe8a741fc56fce070594bf00796f2"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r6-review-2-reaudit-v1.1-input-validation-v1.json",
+      "bytes": 2299,
+      "sha256": "63fa25b1bfe0cf1c18346fd33cfca67e65841b57359649e6717c95d5ae31fb9d"
+    }
+  ]
+}

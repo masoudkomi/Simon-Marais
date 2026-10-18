@@ -1,0 +1,180 @@
+{
+  "status": "all necessary current declarations verified; exact parent metadata bound compactly",
+  "summary": {
+    "occurrences": 86,
+    "unique_paths": 84,
+    "canonical_deduplicated_summary_sha256": "ae0fa1199011fd9584e6d268052c520adf83c9a2cd9e4206a362491f8f923171",
+    "encoding": "UTF8 JSON sorted unique path/bytes/sha256; sorted keys; compact separators",
+    "parent_inventory_rows_reproduced_from_bound_metadata_not_recopied": true
+  },
+  "groups": [
+    {
+      "group": "complete repair packet",
+      "metadata": {
+        "path": "problems/2017-B4/notes/reasoning-value-return-r6-freeze-v1.1.json",
+        "bytes": 2987,
+        "sha256": "bd8d7cfcd6d81dd09432e2c8c445bd401c864f3d640fc7214336f034e9effa02"
+      },
+      "reproduce_by_selector": "self plus artifacts[0:11]",
+      "verified_current_summary": {
+        "occurrences": 12,
+        "unique_paths": 12,
+        "canonical_deduplicated_summary_sha256": "4e3f2006a888ebe3b18da52bf9fdc5b3b9425fcf601a1f5649a4df566797e133"
+      }
+    },
+    {
+      "group": "original v1, BOTH complete initial sets, author parent and DC/US bodies",
+      "metadata": {
+        "path": "problems/2017-B4/notes/reasoning-value-return-r6-baseline-v1.1.json",
+        "bytes": 8894,
+        "sha256": "344c1845739d7f15273387102be1ee8897df0581c8b7b530036bfc34887b341c"
+      },
+      "reproduce_by_selector": "records[0:38]",
+      "verified_current_summary": {
+        "occurrences": 38,
+        "unique_paths": 38,
+        "canonical_deduplicated_summary_sha256": "58852b4d3adb12b4043f39036e908d1c8fd5af61b62149aaff53cccbd95d738b"
+      },
+      "both_original_whole_initial_manifests": [
+        {
+          "path": "problems/2017-B4/reviews/reasoning-value-return-r6-review-1-manifest-v1.json",
+          "bytes": 4335,
+          "sha256": "01b4b4e1f3215ee9f846e8681986060d68ecd7e561689fa60baa9c59cc08aa15"
+        },
+        {
+          "path": "problems/2017-B4/reviews/reasoning-value-return-r6-review-2-manifest-v1.json",
+          "bytes": 5436,
+          "sha256": "ffa75eb87d50f546f3fc4d8b1b2a4be0cefae58864392626010c85c9ed4ca881"
+        }
+      ],
+      "all_original_artifact_sets_crossmatched": true,
+      "historical_author_paths_bound_not_recopied": 505
+    },
+    {
+      "group": "old accepted scopes, current AGENTS/domain and immutable context",
+      "metadata": {
+        "path": "problems/2017-B4/notes/reasoning-value-return-r6-baseline-v1.json",
+        "bytes": 3643,
+        "sha256": "bba33bba4a843816e4178765c00c76d8148051c3c54b20b26fab7bc13244fc62"
+      },
+      "reproduce_by_selector": "authoritative_acceptance_metadata plus explicit_inputs",
+      "verified_current_summary": {
+        "occurrences": 15,
+        "unique_paths": 15,
+        "canonical_deduplicated_summary_sha256": "a262428bceb778ce6b2638fa96e0122845614b52fb91eb92dbb19e82d6f8829e"
+      },
+      "no_recursive_old_inventory_copy_or_unrelated_mathematical_reread": true
+    },
+    {
+      "group": "accepted candidate/copy/direct integrity declarations",
+      "selectors": [
+        {
+          "metadata": {
+            "path": "problems/2017-B4/reviews/reasoning-value-return-r5-acceptance.json",
+            "bytes": 2851,
+            "sha256": "729787fbf9b86e90fa11ed50aba3e2db0b7423103f94fccd646b54c6a07aa834"
+          },
+          "top_level_keys": [
+            "candidate",
+            "accepted_copy"
+          ]
+        },
+        {
+          "metadata": {
+            "path": "problems/2017-B4/reviews/reasoning-value-return-r4-acceptance.json",
+            "bytes": 2726,
+            "sha256": "2ff01be1020f302ad46d018daf38741ee676fe80d27ba6497a487567b8a6ffda"
+          },
+          "top_level_keys": [
+            "candidate",
+            "accepted_copy"
+          ]
+        },
+        {
+          "metadata": {
+            "path": "problems/2017-B4/reviews/reasoning-value-return-r3-acceptance.json",
+            "bytes": 2370,
+            "sha256": "024f72aec10c703871593df3e50a13c7fd77dabe45ba0802f4ef5f7e83c55259"
+          },
+          "top_level_keys": [
+            "candidate",
+            "accepted_copy"
+          ]
+        },
+        {
+          "metadata": {
+            "path": "problems/2017-B4/reviews/allD-global-acceptance.json",
+            "bytes": 3248,
+            "sha256": "d05556d1973514ad70c8017633c346748636783718be7871dcd3e8a59dc969b5"
+          },
+          "top_level_keys": [
+            "candidate",
+            "accepted_copy"
+          ]
+        },
+        {
+          "metadata": {
+            "path": "problems/2017-B4/reviews/allD-uniform-strict-acceptance.json",
+            "bytes": 2808,
+            "sha256": "a481e698f4e8efb6549bc1ea93b989683e430e9a6ae7aa8bf01802fb2912e514"
+          },
+          "top_level_keys": [
+            "candidate",
+            "accepted_copy"
+          ]
+        },
+        {
+          "metadata": {
+            "path": "problems/2017-B4/reviews/coarsening-acceptance.json",
+            "bytes": 2193,
+            "sha256": "b6869162ed35636014082a783f0c254e459af0b848e77afcb2226d8a21ed2d99"
+          },
+          "top_level_keys": [
+            "candidate",
+            "accepted_proof",
+            "integrity"
+          ]
+        }
+      ],
+      "verified_current_summary": {
+        "occurrences": 13,
+        "unique_paths": 13,
+        "canonical_deduplicated_summary_sha256": "d145dfaa81a9e1ac8269d0dcda18c0673b991881477471fef94d4b0e2f1c372c"
+      },
+      "deeper_historical_inventories_bound_only": true
+    },
+    {
+      "group": "immediate own preservation parent",
+      "metadata": {
+        "path": "problems/2025-B4/reviews/reasoning-return-r9-runge-review-2-manifest-v1.json",
+        "bytes": 3792,
+        "sha256": "d123d5a2b91f6846ee61a702de890d61f4e7c2b3bc568f1f7773331ea51b95d5"
+      },
+      "reproduce_by_selector": "self plus artifacts[0:7]",
+      "verified_current_summary": {
+        "occurrences": 8,
+        "unique_paths": 8,
+        "canonical_deduplicated_summary_sha256": "7309a9bfaea8936e60f85bd265ead210d198ed5d9d1166db5ae3721ca70d13f0"
+      },
+      "own_parent_compact_input_summary_bound": {
+        "occurrences": 45,
+        "unique_paths": 41,
+        "canonical_deduplicated_summary_sha256": "2e6179a74e65833687a6bd3e9c41638af8d94f268a3c9bc957a8e410bf504328",
+        "encoding": "UTF8 JSON sorted unique path/bytes/sha256; sorted keys; compact separators",
+        "old_parent_inventories_bound_not_recopied": true
+      }
+    }
+  ],
+  "text_preservation_checks": {
+    "PM1_sections1_to3_exact_text_equal": true,
+    "PM4_section6_to_end_exact_text_equal": true,
+    "PM1_summary_exact_text_equal": true,
+    "PM4_summary_and_old_roles_exact_text_equal": true,
+    "complete_five_file_diff_exactly_reproduced_without_author_execution": true
+  },
+  "all_60_ledger_IDs_exact_and_closed": true,
+  "NEW_B_affected_reaudit_material_read_or_hashed": false,
+  "both_ORIGINAL_frozen_whole_reports_ledgers_sources_comparison_authorized": true,
+  "old_original_dispositions_preserved_not_rewritten": true,
+  "browser_sources_have_URLs_read_limits_no_invented_native_byte_hash": true
+}

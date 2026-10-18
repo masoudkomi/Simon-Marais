@@ -1,0 +1,72 @@
+{
+  "recorded_at_utc": "2026-10-18T01:10:31.927339+00:00",
+  "status": "complete fullR9v1.1 affected source record;no promotion",
+  "fresh_public_reads": [
+    {
+      "url": "https://arxiv.org/pdf/math/0409375v3",
+      "title": "Fukshansky,Siegel lemma withadditionalconditions",
+      "actual_version": "v3,3November2005,12pages",
+      "read_scope": "Theorems1.1/1.2,sharpness,height/closedcubeconventions0-269;incidentalbeginningproofcontext;notwhole12pages",
+      "quantitative_theorem_imported": false,
+      "fresh_native_hash": null
+    },
+    {
+      "url": "https://arxiv.org/abs/2108.08572",
+      "actual_version": "currentv4,revised22September2025,Bartolome-Mihailescu,submittedunderreview",
+      "read_scope": "metadata/submissionhistory0-29",
+      "full_proof_read_freshly_for_repair": false,
+      "fresh_native_hash": null
+    }
+  ],
+  "original_precise_primary_reads_bound_not_falsely_readvertised": {
+    "path": "problems/2025-B4/reviews/reasoning-return-r9-review-2-source-checks-v1.md",
+    "bytes": 9236,
+    "sha256": "f6b9500ad90dbd3ae4d9f9507850c36f8e02d8724afc660e1a40f2c0d25f344b"
+  },
+  "original_source_JSON": {
+    "path": "problems/2025-B4/reviews/reasoning-return-r9-review-2-sources-v1.json",
+    "bytes": 6531,
+    "sha256": "8b8e0d961728466d5e1e7830b409d67ae8c7f2723708d47b3d024c983d2ad475"
+  },
+  "historical_primary_reproduction_links": [
+    "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc2025_paper_b.pdf",
+    "https://www.researchgate.net/publication/226863681_Class_Number_Conditions_for_the_Diagonal_Case_of_the_Equation_of_Nagell_and_Ljunggren",
+    "https://arxiv.org/pdf/2108.08572v4",
+    "https://arxiv.org/pdf/2108.08572v1"
+  ],
+  "exact_accepted_interfaces": [
+    {
+      "record": {
+        "path": "problems/2025-B4/proofs/reviewed-reasoning-return-r8-v1.1.md",
+        "bytes": 28730,
+        "sha256": "f00a2b2816f128df54060fd800cba83d726abf07303c1cc7c92688a61557ca15"
+      },
+      "read_scope": "COMPLETE body/acceptance inoriginalwholeaudit;exactunchangedinterface retained;B oldauthorship notselfrecertified"
+    },
+    {
+      "record": {
+        "path": "problems/2025-B4/proofs/reviewed-reasoning-return-r6-v1.1.md",
+        "bytes": 28748,
+        "sha256": "4e157819789da12d6f26e89929d88ec886d52947405d836fe3957ab8ee727d3a"
+      },
+      "read_scope": "originalread1-245and270-390includingcompleteoperativesection5;exactunchangedinterface retained"
+    }
+  ],
+  "entire12file_repair_packet_read": true,
+  "complete_fivefile_diff_read_and_independently_text_reconstructed": true,
+  "author_freezer_read_not_executed": true,
+  "root_original_complete_report_48ledger_issue_source_read_after_both_original_freezes": true,
+  "B_original_complete_reconstruction_and_precise_source_boundaries_retained": true,
+  "root_NEW_affected_review_material_unopened": true,
+  "B_old_adversarial_radius_countercertificate_and_unit_diagnostic_attributed": true,
+  "no_new_external_theorem_for_elementary_repair": true,
+  "no_later_Runge_live_math_premise": true,
+  "no_full_final_source_theorem_certification_or_refutation": true,
+  "no_fabricated_nativehash_download_cache_render_contact_charge_bypass_or_mathcode": true,
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independently_verified_effective_settings": null
+}

@@ -20,8 +20,11 @@ many sorting histories that can describe one arrangement.
 
 The project has independently reviewed a proof that the two requested rates
 coincide, together with certified lower approximations and the upper bound
-below 0.649514. Their common value is still undetermined. The new R6 boundary
-and entropy comparison packet remains under review. The live
+below 0.649514. Their common value is still undetermined. The repaired
+[R6 boundary and entropy comparison](reviews/reasoning-value-return-r6-acceptance.md)
+is now independently reviewed. Its finite-angle repair passed both affected
+whole audits. A separate new original-plane lower/recovery candidate is
+frozen and awaiting two OTHER whole reviews; no upper mass theorem follows. The live
 [dashboard](../../progress/dashboard.md) and [acceptance records](reviews/README.md)
 give current authority; dated investigation stages below are historical.
 

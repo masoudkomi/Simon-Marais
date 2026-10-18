@@ -1,0 +1,59 @@
+{
+  "recorded_at_utc": "2026-10-18T01:10:31.926333+00:00",
+  "status": "complete affected wholeR9 review2 administrative compact baseline;no mathematics",
+  "exact_target": {
+    "path": "problems/2025-B4/notes/reasoning-return-r9-candidate-v1.1.md",
+    "bytes": 25036,
+    "sha256": "9d8d7bf826bd54be252c184d1c299f81be5419f2168d03d4e6df0f06722adde0"
+  },
+  "constructor_freeze": {
+    "path": "problems/2025-B4/notes/reasoning-return-r9-freeze-v1.1.json",
+    "bytes": 3132,
+    "sha256": "45767fbfab81b90bd6aeb2610fd205408f91330482718a5957608144d9205e8c"
+  },
+  "author_preservation_baseline": {
+    "path": "problems/2025-B4/notes/reasoning-return-r9-baseline-v1.1.json",
+    "bytes": 7962,
+    "sha256": "c2c1ba3c1e0a16c30ae5183da95dc212eb40ed1baa69df77cd38e4276839d2ce"
+  },
+  "author_old_records": 35,
+  "original_own_whole_baseline": {
+    "path": "problems/2025-B4/reviews/reasoning-return-r9-review-2-baseline-v1.json",
+    "bytes": 11593,
+    "sha256": "d8e15ad8bcdb84f4c36ae63d4a87e61c9caaa460d88035f34e5e5a437d12ecf4"
+  },
+  "selected_original_current_context_records": 28,
+  "immediate_own_parent_manifest": {
+    "path": "problems/2017-B4/reviews/reasoning-value-return-r6-review-2-reaudit-v1.1-manifest-v1.json",
+    "bytes": 5106,
+    "sha256": "93e2476be425fbc92bf82ea2dbf93621a2e349a5d6b282d2324f5673a0f345a6"
+  },
+  "immediate_own_parent_validation": {
+    "path": "problems/2017-B4/reviews/reasoning-value-return-r6-review-2-reaudit-v1.1-input-validation-v1.json",
+    "bytes": 2299,
+    "sha256": "63fa25b1bfe0cf1c18346fd33cfca67e65841b57359649e6717c95d5ae31fb9d"
+  },
+  "older_own_paths_bound_transitively": 493,
+  "no_growing_historical_inventory_recopy": true,
+  "NEW_root_affected_review_files_findings_or_metadata_unopened": true,
+  "identity_only_completion_received_without_findings": true,
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independently_verified_effective_settings": null,
+  "telemetry": {
+    "at_utc": "2026-10-18 01:09:38 UTC",
+    "method": "mcp__codex_app__get_usage_limits({}); rateLimitsByLimitId.codex.primary and legacy agree",
+    "account_label": "029a8928…1334ac3a",
+    "used_percent_total": 6,
+    "window_minutes": 10080,
+    "reset_unix": 1792874445,
+    "ordinary_usage_allowed": true,
+    "new_window_explicitly_user_authorized": true,
+    "total_ceiling_percent": 90,
+    "integration_reserve": true,
+    "automatic_further_reset_spending": false
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "recorded_at_utc": "2026-10-18T01:04:30.290003+00:00",
+  "status": "complete affected whole review2 compact administrative baseline; no mathcode",
+  "exact_target": {
+    "path": "problems/2017-B4/notes/reasoning-value-return-r6-candidate-v1.1.md",
+    "bytes": 38143,
+    "sha256": "44f327ce61046b8226ff62d699ed0fa004ceb11e7900779636c583b27a2745db"
+  },
+  "constructor_freeze": {
+    "path": "problems/2017-B4/notes/reasoning-value-return-r6-freeze-v1.1.json",
+    "bytes": 2987,
+    "sha256": "bd8d7cfcd6d81dd09432e2c8c445bd401c864f3d640fc7214336f034e9effa02"
+  },
+  "constructor_preservation_metadata": {
+    "path": "problems/2017-B4/notes/reasoning-value-return-r6-baseline-v1.1.json",
+    "bytes": 8894,
+    "sha256": "344c1845739d7f15273387102be1ee8897df0581c8b7b530036bfc34887b341c"
+  },
+  "constructor_old_records": 38,
+  "original_own_whole_baseline": {
+    "path": "problems/2017-B4/reviews/reasoning-value-return-r6-review-2-baseline-v1.json",
+    "bytes": 10149,
+    "sha256": "d0b00575aad90c1c448706204c881ae813fa41d475bc8217f18eda75ccb369ac"
+  },
+  "selected_necessary_current_authority_records": 22,
+  "immediate_own_parent_manifest": {
+    "path": "problems/2021-B4/reviews/reasoning-return-r12-review-1-manifest-v1.json",
+    "bytes": 4751,
+    "sha256": "b69968a49ea0e084e408288e6cc8f710b52bd501058de050e9eedaa3161a21ef"
+  },
+  "immediate_own_parent_validation": {
+    "path": "problems/2021-B4/reviews/reasoning-return-r12-review-1-input-validation-v1.json",
+    "bytes": 2806,
+    "sha256": "50d8771c90e573ea3af6d3cc363538e572ab588c43934bbfdc73803c0041d380"
+  },
+  "older_own_paths_bound_transitively": 484,
+  "no_growing_historical_inventory_recopy": true,
+  "NEW_A_affected_review_material_unopened": true,
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independently_verified_effective_settings": null,
+  "telemetry": {
+    "at_utc": "2026-10-18 01:03:28 UTC",
+    "method": "mcp__codex_app__get_usage_limits({}); rateLimitsByLimitId.codex.primary and legacy agree",
+    "account_label": "029a8928…1334ac3a",
+    "used_percent_total": 6,
+    "window_minutes": 10080,
+    "reset_unix": 1792874445,
+    "ordinary_usage_allowed": true,
+    "new_window_explicitly_user_authorized": true,
+    "total_ceiling_percent": 90,
+    "integration_reserve": true,
+    "automatic_further_reset_spending": false
+  }
+}

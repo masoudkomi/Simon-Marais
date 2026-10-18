@@ -1,0 +1,100 @@
+{
+  "frozen_at_utc": "2026-10-18T01:16:47.500337+00:00",
+  "status": "COMPLETE R13 mathematical constructor checkpoint - candidate proof unverified",
+  "constructor": "/root/review_2021_reasoning_j15_r2",
+  "claims": [
+    "R13A exact quartic weighted-interpolation obstruction",
+    "R13B actual m5 T4+two-noncenter exclusion",
+    "R13C every actual m5 break forces nonunit EC10 or EC11"
+  ],
+  "whole_obligations": 44,
+  "two_OTHER_fresh_initially_blind_ENTIRE_WHOLE_audits_required": true,
+  "constructor_excluded_from_independent_review": true,
+  "root_supplied_NO_new_R13_mathematical_inference": true,
+  "no_full_m5_m3m5_J15_degree20_annual_lift_height_or_novelty_claim": true,
+  "remaining_EC10_EC11_not_excluded_T4_not_itself_eliminated": true,
+  "no_extra_unit_depth_bound_real_root_quotient_CA_or_field_to_Q_lift_assumption": true,
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independently_verified_effective_settings": null,
+  "mathematical_program_scan_CAS_author_rerun_old_certificate_replay": false,
+  "proof_critical_finite_certificate_entirely_hand_derived": true,
+  "old_shared_cache_Git_writes_spawn_contact_charge_bypass": false,
+  "authoritative_weekly_snapshot": {
+    "tool": "mcp__codex_app__get_usage_limits",
+    "at_utc": "2026-10-18 01:15:03 UTC",
+    "total_weekly_used_percent": 7,
+    "window_minutes": 10080,
+    "reset_unix": 1792874445,
+    "ordinary_usage_allowed": true,
+    "legacy_and_by_limit_agree": true,
+    "new_window_explicitly_user_authorized": true,
+    "ceiling_total_percent": 90,
+    "integration_reserve_retained": true,
+    "automatic_further_reset_authorized": false
+  },
+  "compact_current_summary": {
+    "occurrences": 33,
+    "unique_paths": 32,
+    "canonical_deduplicated_summary_sha256": "c1d4beb5b4c668bbb077bc58520926f39c0658c25be3ef17f6f97171f257906b",
+    "encoding": "UTF8 JSON sorted unique path/bytes/sha256; sorted keys; compact separators",
+    "old_parent_inventory_rows_bound_not_recopied": true
+  },
+  "compact_input_groups": 6,
+  "administrative_command": "python3 problems/2021-B4/notes/reasoning-return-r13-freeze-v1.py",
+  "artifacts": [
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r13-candidate-v1.md",
+      "bytes": 15806,
+      "sha256": "25a871da93b7cd375e0af43c8643094463ac45ce913722805ba6958dee004148"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r13-obligations-v1.md",
+      "bytes": 5815,
+      "sha256": "d539e434a4df5b3d7387e8a6880d6b23ef932eea9b546c0d0cbdeafcaa0a6233"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r13-constructor-checks-v1.md",
+      "bytes": 3403,
+      "sha256": "78e558a4421486b60a47cf3ee11c2d44ddd952c6ace7a2d60b4246340ae641ad"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r13-failed-routes-v1.md",
+      "bytes": 3660,
+      "sha256": "6dad32f827d5ca956f1ce7fe01e94783b46ad8400d732acb91ad01423e2acfdf"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r13-source-audit-v1.md",
+      "bytes": 4574,
+      "sha256": "2a7b23f66f0a29917a19a9fd34caa6d939d5da0e86ae25f6d2bfd1e93f94e396"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r13-worklog-v1.md",
+      "bytes": 4058,
+      "sha256": "8d834b1ae6ceb1d7bf6bdf8a7d2b75987669192e6b2ceab5b9ab60007eb9cab8"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r13-freeze-v1.py",
+      "bytes": 10907,
+      "sha256": "77505f73df8656747d323631c14e973b2182f43819c157bb516efbf73a8be45c"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r13-sources-v1.json",
+      "bytes": 1938,
+      "sha256": "e70a4bab2450ebc089e0ed2632096fa787fb9198da7c315b6fa7677fdd78d217"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r13-input-validation-v1.json",
+      "bytes": 5381,
+      "sha256": "652e7a091f7c6ead7c71efc2fd830ac5f7002a61ad096a37ba3d75f4ae3558ea"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r13-freeze-output-v1.json",
+      "bytes": 850,
+      "sha256": "8fe9a9cac43f722a90292303ddb5d7299be1bca791d4bcc085b131473684b5ac"
+    }
+  ]
+}

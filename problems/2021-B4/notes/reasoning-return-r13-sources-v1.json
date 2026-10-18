@@ -1,0 +1,47 @@
+{
+  "verified_date_utc": "2026-10-18",
+  "primary_records": [
+    {
+      "title": "Official2021 Paper B",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2021-paper-b.pdf",
+      "actual_read": "page2 B4 hypothesis and part(b); no preliminary proof",
+      "native_response_sha256": null
+    },
+    {
+      "title": "CLO Constraints on counterexamples",
+      "url": "https://arxiv.org/pdf/1208.5404",
+      "actual_read": "served v1; sections3.4-3.5 equations9-13/Lemma17; Proposition19 and unramified remark; not all23pages",
+      "role": "published normalization/center context, NOT stronger all-root-rational or unramified exclusion",
+      "native_response_sha256": null
+    },
+    {
+      "title": "Draisma-de Jong2011 erratum",
+      "url": "https://math-unibe.ch/jdraisma/publications/erratumcasasalvero.pdf",
+      "actual_read": "complete original one-page correction,20 extracted lines",
+      "role": "preserve excluded prime5 in old degree4 step; no degree20 shortcut",
+      "native_response_sha256": null
+    }
+  ],
+  "operative_local_authority": [
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r5-acceptance.json",
+      "bytes": 3373,
+      "sha256": "93a204890e6d387a22d89565dbee9ee970c1b80af59f79cbc983d3ba4de6defe"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r8-acceptance.json",
+      "bytes": 2507,
+      "sha256": "b5ca7a381393061192beceb0b34b8222c6ae249f1edc3383ac316786c7cd3ef0"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r12-acceptance.json",
+      "bytes": 2801,
+      "sha256": "28f2a33fd4cdb39bcd899df9bb450628e928afe483f7a6be443a32d649dbd00b"
+    }
+  ],
+  "all_browser_calls_bounded_returned_normally": true,
+  "no_native_source_download_cache_edit_charge_contact_or_bypass": true,
+  "requested_model": "gpt-6.1-sol",
+  "requested_reasoning": "max",
+  "independently_verified_effective_setting_readback": null
+}

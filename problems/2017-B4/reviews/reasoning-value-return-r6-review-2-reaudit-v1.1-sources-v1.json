@@ -1,0 +1,81 @@
+{
+  "recorded_at_utc": "2026-10-18T01:04:30.290577+00:00",
+  "status": "complete affected WHOLE source record; PMR2-01 resolved in authorv1.1, no promotion",
+  "fresh_public_primary_reads": [
+    {
+      "title": "de Tiliere, Quadri-tilings of the plane",
+      "url": "https://arxiv.org/pdf/math/0403324",
+      "actual_version": "v3,22May2006,30pages",
+      "read_scope": "front matter standingfiniteangles extracted64-67;complete Section4.1 Lemmas4.2-4.3 andProperties1-4 extracted587-855;Theorem4.4 not premise",
+      "role": "actual finite-angle same-track finite completion, embedded-corner geometry attributed",
+      "fresh_native_hash": null
+    },
+    {
+      "title": "Kenyon-Schlenker, Rhombic embeddings",
+      "url": "https://arxiv.org/pdf/math-ph/0305057v1",
+      "actual_version": "v1,27May2003,11pages",
+      "read_scope": "graph/track definitions andTheorem3.1criterion;Theorem4.1/proofcontext;Definition4.4 andcompleteLemma4.5proof;notwholepaper",
+      "role": "strict positive prescribedangle embedding; wholeplane image separately checked",
+      "fresh_native_hash": null
+    },
+    {
+      "title": "official2017PaperB",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2017-paper-2_1.pdf",
+      "read_scope": "B4page2only",
+      "fresh_native_hash": null
+    },
+    {
+      "title": "official2017comments",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2017-solutions-preliminary_1.pdf",
+      "read_scope": "B4page12only;incidentalneighboringreturnedtextnotinvestigated",
+      "fresh_native_hash": null
+    }
+  ],
+  "fresh_internal_reads": [
+    {
+      "record": {
+        "path": "problems/2017-B4/proofs/reviewed-direction-coarsening-v1.1.md",
+        "bytes": 9175,
+        "sha256": "98c04673acdb4c59d44eb4d977f844d3f01ef27365399982e02df8cbaa4a6241"
+      },
+      "scope": "COMPLETE accepted body andacceptanceMD/JSON;actual nonemptyconsecutiveblocks/DC cochainprojection"
+    },
+    {
+      "record": {
+        "path": "problems/2017-B4/proofs/reviewed-allD-uniform-strict-v1.1.md",
+        "bytes": 39136,
+        "sha256": "a5ebfd81d59b26f301b1e105889451f4c86262da80e6e77e6913c045d71147d2"
+      },
+      "scope": "completeUS_D1/2statementsandoperativeCUT/upperpadding/sourcecode;acceptanceMD/JSON;entirebodyhadbeenreadinoriginalwholeaudit"
+    },
+    {
+      "record": {
+        "path": "problems/2017-B4/reviews/allD-global-acceptance.md",
+        "bytes": 4169,
+        "sha256": "de08ed83c47a8849b4ab384b16ca9deba59b995fcedbaa64f818141dd2ee7e89"
+      },
+      "scope": "completeaccepted fixedD/allinteger scope only;B oldconstructor no freshselfrecertification"
+    }
+  ],
+  "old_original_source_authority_bound_not_replayed": {
+    "path": "problems/2017-B4/reviews/reasoning-value-return-r6-review-2-source-checks-v1.md",
+    "bytes": 9407,
+    "sha256": "a954ab6180974f5ba48486d50f0286adf351cabd10e21bacb746b3abe4cdf22d"
+  },
+  "KOS_v1_and_Bjorner_Stanley_PM4_original_whole_reads_retained_not_freshly_repeated": true,
+  "original_A_complete48ledger_and_N1_freshly_read": true,
+  "original_B_issue_source_records_freshly_read": true,
+  "no_claim_of_fresh_complete_A_original_report_or_unrelated_old_external_proofs": true,
+  "entire12file_repair_packet_read": true,
+  "author_freezer_read_not_run": true,
+  "full_fivefile_diff_read_and_independently_text_checked": true,
+  "old_PM1_PM4_text_and_countercertificate_preserved": true,
+  "NEW_A_affected_review_files_findings_or_metadata_unopened": true,
+  "no_new_download_cache_render_charge_contact_bypass_or_mathcode": true,
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independently_verified_effective_settings": null
+}

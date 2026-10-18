@@ -24,8 +24,11 @@ published consequences, and cyclotomic orbit/jet estimates. These give no new
 useful unconditional exclusion of every remaining prime case. The separate
 [RG1–RG3 Runge procedure](reviews/reasoning-return-r9-runge-acceptance.md) is
 now independently reviewed: it supplies a finite exact fixed-p coefficient
-procedure, with its bound unevaluated. The original R9v1.1 repair still
-awaits both affected reviews and reconciliation. General solution claims and specific gaps
+procedure, with its bound unevaluated. The original
+[R9A–F version1.1](reviews/reasoning-return-r9-acceptance.md) has now passed
+both affected whole reviews and reconciliation. Its conditional/model
+scopes remain explicit; chosen-number nonlinearity does not exclude every
+other generator of the model ideal. General solution claims and specific gaps
 in proposed proofs are recorded separately; a gap is not a counterexample to
 the Diophantine statement. See the [current dashboard](../../progress/dashboard.md),
 [references](references.md), and [review register](reviews/README.md).

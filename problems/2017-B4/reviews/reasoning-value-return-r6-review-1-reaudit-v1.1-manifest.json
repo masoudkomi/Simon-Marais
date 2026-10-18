@@ -1,0 +1,96 @@
+{
+  "frozen_at_utc": "2026-10-18T01:05:06.260491+00:00",
+  "status": "ENTIRE affected WHOLE R1 reaudit v1.1 complete and frozen",
+  "reviewer": "/root/review_2021_reasoning_j15_r2",
+  "target": {
+    "path": "problems/2017-B4/notes/reasoning-value-return-r6-candidate-v1.1.md",
+    "bytes": 38143,
+    "sha256": "44f327ce61046b8226ff62d699ed0fa004ceb11e7900779636c583b27a2745db"
+  },
+  "constructor_freeze": {
+    "path": "problems/2017-B4/notes/reasoning-value-return-r6-freeze-v1.1.json",
+    "bytes": 2987,
+    "sha256": "bd8d7cfcd6d81dd09432e2c8c445bd401c864f3d640fc7214336f034e9effa02"
+  },
+  "scope": "FULL PM2/PM3 affected proof, unchanged PM1/PM4 preservation, ALL48+12 obligations",
+  "whole_obligations": 60,
+  "closed": 60,
+  "PMR2_01": "resolved for author version1.1 in literal source domain",
+  "new_substantive_issues": 0,
+  "open_issues": 0,
+  "required_author_repairs": 0,
+  "recommendation": "scoped PM1-PM4 acceptance after BOTH affected whole reaudits and coordinator reconciliation",
+  "coordinator_promotion": false,
+  "original_R1_closed_N1_and_R2_PMR2_01_bytes_dispositions_preserved": true,
+  "root_C_contributors_excluded": true,
+  "old_S_D_HC_EC_authorship_G_GR_review_roles_disclosed_not_self_recertified": true,
+  "NEW_B_reaudit_reports_ledgers_sources_manifests_metadata_findings_read_or_hashed_before_ENTIRE_freeze": false,
+  "compact_current_summary": {
+    "occurrences": 86,
+    "unique_paths": 84,
+    "canonical_deduplicated_summary_sha256": "ae0fa1199011fd9584e6d268052c520adf83c9a2cd9e4206a362491f8f923171",
+    "encoding": "UTF8 JSON sorted unique path/bytes/sha256; sorted keys; compact separators",
+    "parent_inventory_rows_reproduced_from_bound_metadata_not_recopied": true
+  },
+  "immutable_input_groups": 5,
+  "no_historical_inventory_recopy_or_unrelated_old_mathematical_reread": true,
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independently_verified_effective_settings": null,
+  "mathematical_program_scan_CAS_author_rerun_old_certificate_replay": false,
+  "old_shared_cache_Git_write_spawn_contact_charge_bypass": false,
+  "authoritative_weekly_snapshot": {
+    "tool": "mcp__codex_app__get_usage_limits",
+    "at_utc": "2026-10-18 01:03:44 UTC",
+    "total_used_percent": 6,
+    "window_minutes": 10080,
+    "reset_unix": 1792874445,
+    "ordinary_usage_allowed": true,
+    "legacy_by_limit_agree": true,
+    "new_window_explicitly_user_authorized": true,
+    "ceiling_total_percent": 90,
+    "integration_reserve_retained": true,
+    "automatic_further_reset_authorized": false
+  },
+  "administrative_command": "python3 problems/2017-B4/reviews/reasoning-value-return-r6-review-1-reaudit-v1.1-freeze.py",
+  "artifacts": [
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r6-review-1-reaudit-v1.1-initial.md",
+      "bytes": 18583,
+      "sha256": "14ef9d6031c4215248567ada2bf9537aea013030bc2cb23a2e45b73088a0ef95"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r6-review-1-reaudit-v1.1-issues.md",
+      "bytes": 12528,
+      "sha256": "14325e9157f189e8a8147179e4654714a2f54a355e7a54011099819b5b933c58"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r6-review-1-reaudit-v1.1-source-checks.md",
+      "bytes": 5117,
+      "sha256": "4c8d43c7458bd66e87defcf4f165746e7b8ca8306f167d5eaf805b2a2e75756b"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r6-review-1-reaudit-v1.1-worklog.md",
+      "bytes": 4324,
+      "sha256": "9dc5a075cc4b7c6446e40b23ffdfab15d3c84fa3d140edf7fe8f19382900909d"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r6-review-1-reaudit-v1.1-freeze.py",
+      "bytes": 11617,
+      "sha256": "bcba000272345946e96829c4cac49637275b053ae578a28eb930d841ea1384ff"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r6-review-1-reaudit-v1.1-input-validation.json",
+      "bytes": 7073,
+      "sha256": "414890f9c338f3ae579618d7e1edccd022b97660f90a9d60af89ea9ed6aaffde"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r6-review-1-reaudit-v1.1-freeze-output.json",
+      "bytes": 1019,
+      "sha256": "8feba404957255e7c1ce76b758e5dde88b5193a19385893787a46fb8a4a4f05b"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "accepted_at_utc": "2026-10-18T01:14:55.952077+00:00",
+  "status": "proved, independently reviewed scoped partial result",
+  "whole_initials_blind": true,
+  "root_read_full_candidate_both_reports_all_ledgers_sources": true,
+  "unresolved_substantive_issues": 0,
+  "repair_required": false,
+  "candidate": {
+    "path": "problems/2025-B4/notes/reasoning-return-r9-candidate-v1.1.md",
+    "bytes": 25036,
+    "sha256": "9d8d7bf826bd54be252c184d1c299f81be5419f2168d03d4e6df0f06722adde0"
+  },
+  "accepted_copy": {
+    "path": "problems/2025-B4/proofs/reviewed-reasoning-return-r9-v1.1.md",
+    "bytes": 29620,
+    "sha256": "0b8f711e089107c0790a6e640e4246acd4faabfdc2fd3bf4d4d3469d89aa1846"
+  },
+  "verification_metadata": [
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r9-freeze-v1.1.json",
+      "bytes": 3132,
+      "sha256": "45767fbfab81b90bd6aeb2610fd205408f91330482718a5957608144d9205e8c"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r9-baseline-v1.1.json",
+      "bytes": 7962,
+      "sha256": "c2c1ba3c1e0a16c30ae5183da95dc212eb40ed1baa69df77cd38e4276839d2ce"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r9-review-1-manifest-v1.json",
+      "bytes": 3352,
+      "sha256": "8d8370530a3eb92359e1f5d693c1f385e0622b99078e57d7a1674cd7a183397a"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r9-review-2-manifest-v1.json",
+      "bytes": 5385,
+      "sha256": "f41cf698bbbed3ae0a2ceabdec53ae7ffcfc12ec74e35d2dc6d6bee42279d657"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r9-review-1-reaudit-v1.1-manifest-v1.json",
+      "bytes": 2783,
+      "sha256": "fc21048b6a57628009f6542f0fdee11f3c7f74ef9a9abef37eb283acdf8acad2"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r9-review-1-reaudit-v1.1-integrity-v1.json",
+      "bytes": 1609,
+      "sha256": "ad5c83047a6cc756136d66b69aed6efae2b7f4ae0de9851f8e767ad659dcff05"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r9-review-2-reaudit-v1.1-manifest-v1.json",
+      "bytes": 5138,
+      "sha256": "1358164af4e3c4bfa4d6631487e623567f250f9b8a400733999d1aad245909ec"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r9-review-2-reaudit-v1.1-baseline-v1.json",
+      "bytes": 2479,
+      "sha256": "90fe7abe4b37c48b828c8311d49505fb6d407fd6069fe72e95b9ce19bbc81d5c"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r9-review-2-reaudit-v1.1-sources-v1.json",
+      "bytes": 3346,
+      "sha256": "5951ea1cffdd13fc58cc84d40f2d397d5b50c831fbb3909c6f3f91f8e8ab4a3f"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r9-review-2-reaudit-v1.1-input-validation-v1.json",
+      "bytes": 2764,
+      "sha256": "5137bba749a9fc6ba167eadd185b2768c6cd4e45b8d8640b806a75125cb77e03"
+    }
+  ],
+  "record_occurrences_verified": 105,
+  "unique_paths_verified": 66,
+  "constructor": "/root/review_2017_coarsening_r1",
+  "OTHER_whole_reviewers": [
+    "/root",
+    "/root/review_2022_complexity_r2"
+  ],
+  "original_substantive_repair_required": true,
+  "original_issues": [
+    "R9R1-01",
+    "R9R2-01"
+  ],
+  "full_versioned_author_repair_completed": true,
+  "BOTH_OTHER_affected_WHOLE56_reaudits_complete": true,
+  "original_root_ledger44_overstrong_ideal_level_reading_NOT_promoted": true,
+  "chosen_generator_scope_only": true,
+  "no_new_unconditional_exclusion_useful_height_or_annual_claim": true
+}

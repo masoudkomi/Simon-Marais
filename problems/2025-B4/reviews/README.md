@@ -6,3 +6,6 @@ The unrestricted classification remains conjectural. Both primary-source audits 
 
 
 2026-10-18: [Separate RG1–RG3 Runge procedure](reasoning-return-r9-runge-acceptance.md) accepted scoped after root/A OTHER initially blind WHOLE34/34 audits and full coordinator reconciliation. Constructor C excluded. Exact finite fixed-p coefficient procedure only, bound unevaluated, no improved height/exclusion/annual claim. OriginalR9v1.1 radius and chosen-generator repair remains unverified pending BOTH affected audits and reconciliation.
+
+
+2026-10-18: [Original R9A–F repaired version1.1](reasoning-return-r9-acceptance.md) accepted after both OTHER original whole48-row and affected whole56-row audits/full reconciliation. Radius issue resolved; chosen-generator quantifier explicit. Original root ledger44 stronger ideal-level reading is NOT promoted. Both dense evaluation branches remain; no useful unconditional exclusion/height or annualclaim.

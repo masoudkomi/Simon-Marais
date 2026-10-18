@@ -1,0 +1,25 @@
+{
+  "status": "ENTIRE affected WHOLE R1 reaudit v1.1 complete and frozen",
+  "all_obligations": 60,
+  "closed": 60,
+  "PMR2_01": "resolved by author v1.1",
+  "new_substantive_issues": 0,
+  "open_issues": 0,
+  "required_author_repairs": 0,
+  "compact_current_summary": {
+    "occurrences": 86,
+    "unique_paths": 84,
+    "canonical_deduplicated_summary_sha256": "ae0fa1199011fd9584e6d268052c520adf83c9a2cd9e4206a362491f8f923171",
+    "encoding": "UTF8 JSON sorted unique path/bytes/sha256; sorted keys; compact separators",
+    "parent_inventory_rows_reproduced_from_bound_metadata_not_recopied": true
+  },
+  "text_preservation_checks": {
+    "PM1_sections1_to3_exact_text_equal": true,
+    "PM4_section6_to_end_exact_text_equal": true,
+    "PM1_summary_exact_text_equal": true,
+    "PM4_summary_and_old_roles_exact_text_equal": true,
+    "complete_five_file_diff_exactly_reproduced_without_author_execution": true
+  },
+  "all_current_input_rows_rechecked": true,
+  "no_author_or_mathematical_program_executed": true
+}

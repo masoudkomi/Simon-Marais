@@ -1,0 +1,56 @@
+{
+  "frozen_at_utc": "2026-10-18T01:13:43.785600+00:00",
+  "status": "COMPLETE constructor PUS1–PUS3; candidate proof - unverified",
+  "constructor": "/root",
+  "root_excluded_from_OTHER_audit_count": true,
+  "whole_obligations": 36,
+  "claims": [
+    "PUS1 complete-boundary exterior independence",
+    "PUS2 lower interface preserving ORIGINAL plane reference outside EXACT dilated patch",
+    "PUS3 same-density rational/real compact-strict plane recovery"
+  ],
+  "TWO_OTHER_initially_blind_ENTIRE_WHOLE_audits_required": true,
+  "no_global_mass_upper_R_value_annual_or_novelty_claim": true,
+  "compact_input_summary": {
+    "occurrences": 13,
+    "unique_paths": 11,
+    "canonical_deduplicated_sha256": "937e77959e1ea81d3234dab5f2e689f1fd813cb85eae7ed0f5bc870d03daaf92"
+  },
+  "artifacts": [
+    {
+      "path": "problems/2017-B4/notes/coordinator-plane-recovery-r1-candidate-v1.md",
+      "bytes": 12840,
+      "sha256": "c156e2e2c26559bf5c5c7f9f29ecb0fc333d2582c58ce271fa09821087b1bd2d"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-plane-recovery-r1-obligations-v1.md",
+      "bytes": 4587,
+      "sha256": "b43c83b898b705334a6ae453156fcd0f684115dde41d33012f6be5f322195c60"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-plane-recovery-r1-source-audit-v1.md",
+      "bytes": 2861,
+      "sha256": "c92a13abdda73b37053d1932c24fa8722ea6fc14d0a66dd8d175522e2d813a9c"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-plane-recovery-r1-failed-routes-v1.md",
+      "bytes": 2278,
+      "sha256": "452a04d4d049690cdf04eaa107b8efaecd3d5c9509308df615d97ab2c2d740de"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-plane-recovery-r1-worklog-v1.md",
+      "bytes": 2433,
+      "sha256": "ec9d379db5b0e3736c469b87a093bac134a224c7cbbf132843c1cddbdce139e0"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-plane-recovery-r1-freeze-v1.py",
+      "bytes": 3936,
+      "sha256": "1c5d33554bc337799cada7c95515673b3eb48e526e7c54930ddf28e1d1bba0db"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-plane-recovery-r1-input-validation-v1.json",
+      "bytes": 3120,
+      "sha256": "f84ec4f98ba0d586df611b80e13c66596b6006fa3c8d7cfbdf5b40e0488a1ddd"
+    }
+  ]
+}
