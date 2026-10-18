@@ -1,0 +1,28 @@
+{
+  "checked_at_utc": "2026-10-18T14:59:43.205798+00:00",
+  "result": "PASS",
+  "necessary_occurrences": 87,
+  "necessary_unique_paths": 85,
+  "canonical_deduplicated_sha256": "d9aa47c15d36a51633814dc3cbdc2f23106ed1488dd70d52d18a76abf9db104e",
+  "author_entire_files": 16,
+  "old_author_entire_files": 13,
+  "original_peer_entire_files": 21,
+  "all76_author_labels_and_separate_reviewer_labels": true,
+  "exact_unified_diff_reproduced": true,
+  "original_sections1_to5_byte_identical": true,
+  "author_payload_hashes_match": true,
+  "old_original_author13_and_peer21_preserved": true,
+  "accepted_suffixes_verified": 4,
+  "immediate_own_parent_entire11_verified": true,
+  "older_own_paths_bound_transitively": 824,
+  "filename_inventory_disclosure": {
+    "NEW_corresponding_root_affected_filenames_appeared_in_inventory": true,
+    "NEW_corresponding_root_affected_contents_findings_hashes_or_metadata_file_contents_opened_read_hashed": false,
+    "peer_conclusion_exposed": false,
+    "promptly_disclosed_to_root": true,
+    "literal_zero_filename_exposure_claimed": false,
+    "root_assigned_additional_C_ENTIRE_affected_audit": true,
+    "NEW_corresponding_C_affected_content_or_findings_accessed": false
+  },
+  "mathematical_assertions_evaluated_by_code": false
+}

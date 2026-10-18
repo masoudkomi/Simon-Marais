@@ -1,0 +1,129 @@
+{
+  "date_utc": "2026-10-18",
+  "reviewer": "/root/review_2022_complexity_r2",
+  "requested": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independent_effective_readback": null,
+  "C_sole_NEW_constructor_excluded": true,
+  "reviewer_NEW_R8_contribution": false,
+  "older_roles": "Older structural/sector3/GK/NJ/CS/NF/three-bit/cofactor reviewer; not fresh old self-recertification",
+  "ALL13_author_files_FULL_read_including_code_as_text": true,
+  "author_code_executed": false,
+  "ALL48_separate_hand_dispositions": true,
+  "accepted_complete_current_bodies_MDJSON": [
+    {
+      "body": {
+        "path": "problems/2024-B4/proofs/reviewed-structural-v1.1.md",
+        "bytes": 17079,
+        "sha256": "082dc054ce2cdaea80eee009f4c97c877c6968afb54b5a8f3141b7354031dd3f"
+      },
+      "authority_md": {
+        "path": "problems/2024-B4/reviews/structural-acceptance.md",
+        "bytes": 2693,
+        "sha256": "d37792e94efa0618b80e752037e81cbc1a825c17311ce74e53934d01d3bf3906"
+      },
+      "authority_json": {
+        "path": "problems/2024-B4/reviews/structural-acceptance.json",
+        "bytes": 2580,
+        "sha256": "53fb1b2e3383397b1218f2020a9c1b60625497faaab9d686e7ef179cb2acb8d4"
+      },
+      "original_candidate": {
+        "path": "problems/2024-B4/notes/structural-reasoning-r2-candidate-v1.md",
+        "bytes": 16027,
+        "sha256": "0c451d5f9410573625725bc6be35af91fe938deee4dc1d92910572374dc69f52"
+      },
+      "accepted_identity_verified": true,
+      "exact_adjustment": "one accepted editorial heading binary->ternary; no mathematical change",
+      "fresh_complete_body_and_current_MDJSON_model_read": true,
+      "use": "operative accepted premise"
+    },
+    {
+      "body": {
+        "path": "problems/2024-B4/proofs/reviewed-reasoning-cofactor-return-r6-v1.1.md",
+        "bytes": 20658,
+        "sha256": "fb988a13187b5765619532ad14077ae2f32a948e04704252e3d8981e10d65d98"
+      },
+      "authority_md": {
+        "path": "problems/2024-B4/reviews/reasoning-cofactor-return-r6-acceptance.md",
+        "bytes": 5074,
+        "sha256": "01168cc705fcb617612d4d083b9cd181bc5bc50cb2807133454d8e0dfcb398bb"
+      },
+      "authority_json": {
+        "path": "problems/2024-B4/reviews/reasoning-cofactor-return-r6-acceptance.json",
+        "bytes": 4773,
+        "sha256": "a3dcfe90ae7be3f3c66ace7ad6197b0e6adf9fa8f4f12fd4930051a7e6a02c49"
+      },
+      "original_candidate": {
+        "path": "problems/2024-B4/notes/reasoning-cofactor-return-r6-candidate-v1.md",
+        "bytes": 15682,
+        "sha256": "43833618ab3cc066c03f7c595344ec89835dd465232139ca1ccfc33074f64332"
+      },
+      "accepted_identity_verified": true,
+      "exact_adjustment": "byte-identical frozen candidate suffix",
+      "fresh_complete_body_and_current_MDJSON_model_read": true,
+      "use": "operative accepted premise"
+    },
+    {
+      "body": {
+        "path": "problems/2024-B4/proofs/reviewed-reasoning-cofactor-return-r7-v1.1.md",
+        "bytes": 22608,
+        "sha256": "b8e2cc3a37cf8c80c724c0d26f6768261e5d339fee073351e8b4c9b56b94cf72"
+      },
+      "authority_md": {
+        "path": "problems/2024-B4/reviews/reasoning-cofactor-return-r7-acceptance.md",
+        "bytes": 5375,
+        "sha256": "1f185d684226872a7421ae6811d75bed10466b96c54831394d7d4e024c8d6812"
+      },
+      "authority_json": {
+        "path": "problems/2024-B4/reviews/reasoning-cofactor-return-r7-acceptance.json",
+        "bytes": 4725,
+        "sha256": "ac32e5f25251fdd1a5a5a4dae0b7985be9c23c9e99fb7c6052c798912b643317"
+      },
+      "original_candidate": {
+        "path": "problems/2024-B4/notes/reasoning-cofactor-return-r7-candidate-v1.md",
+        "bytes": 17331,
+        "sha256": "f8afed9064dcc6445c3e6bb05102ecb1c1420c3da0ad6bdf9ef7db4f28c4b05e"
+      },
+      "accepted_identity_verified": true,
+      "exact_adjustment": "byte-identical frozen candidate suffix",
+      "fresh_complete_body_and_current_MDJSON_model_read": true,
+      "use": "comparison only, no APN import"
+    }
+  ],
+  "primary": [
+    {
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc2024_paper_b.pdf",
+      "scope": "B4 setup/(b),57-74; no preliminary proof",
+      "binary_sha256": null
+    },
+    {
+      "url": "https://thesis.caltech.edu/4053/01/McGuire_gm_1995.pdf",
+      "record": "https://thesis.caltech.edu/4053/",
+      "scope": "ENTIRE existing images21-31,printed16-26,visual read; local lemmas and complete SUPPLIED Theorems6/7 proofs",
+      "literal_limit": "q4 proof invokes JW atn21; original JW proof, journal and Ferard2017 bodies unread; no priority inference",
+      "preexisting_binary": {
+        "path": ".cache/literature/deep-literature-r2/2024-mcguire-thesis-1995.pdf",
+        "bytes": 2610589,
+        "sha256": "d8e8e62d873c5ec69e2fd40473a9aee257bb8d4994cb5ffc1a42cb70f8bcbd24"
+      },
+      "new_download_or_cache_mutation": false,
+      "whole_thesis_or_earlier_PropositionA_proof_read_claimed": false
+    },
+    {
+      "url": "https://math.stanford.edu/~conrad/145Page/handouts/algcurves.pdf",
+      "scope": "COMPLETE operative Section3.3 properties/theorem/proof2419-2624;5.3 Bezout statement/entire proof3829-3924;AppendixA7557-7597; small gap2518-2520 filled",
+      "hypotheses": "algebraically closed field; proper intersection, no common component; coprime tangents for local equality; reducible products and characteristic2 allowed",
+      "binary_sha256": null,
+      "whole129page_or_foundational_dependency_audit": false
+    }
+  ],
+  "R7_APN_R4_R5_or_unread_JW_Ferard_theorem_imported": false,
+  "all_new_geometry_arithmetic_and_uniform_inequalities_hand_reconstructed": true,
+  "no_new_binary_download_cache_write_charge_contact_bypass_or_third_party_upload": true,
+  "no_NEW_root_R8_filename_content_finding_hash_metadata_access": true,
+  "no_mathematical_program_CAS_scan_test_optimizer_or_author_source_old_replay": true,
+  "annual_converse_priority_or_external_validation_claim": false
+}

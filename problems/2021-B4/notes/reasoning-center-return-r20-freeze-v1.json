@@ -1,0 +1,86 @@
+{
+  "frozen_at_utc": "2026-10-18T15:12:13.740840+00:00",
+  "status": "candidate proof - unverified",
+  "claims": [
+    "R20A",
+    "R20B"
+  ],
+  "whole_obligations": 48,
+  "constructor_check_rows": 48,
+  "constructor_excluded": true,
+  "two_OTHER_whole_audits_required": true,
+  "payload_files": 12,
+  "ENTIRE_files": 13,
+  "compact_baseline": {
+    "path": "problems/2021-B4/notes/reasoning-center-return-r20-baseline-v1.json",
+    "bytes": 11747,
+    "sha256": "a5d1d2ed6c996f99fc24ce4724293e25952243a6bc8f0c10e76643eea69d7e60"
+  },
+  "verified_input_record_occurrences": 49,
+  "verified_unique_paths": 48,
+  "canonical_deduplicated_sha256": "137961012f08077603d719647590d45502a313dc506b153d8903cc561576b22b",
+  "FULL_final_ALL_file_model_readback_and_SEPARATE_readonly_verify_required_before_handoff": true,
+  "mathematical_program_CAS_scan_replay": false,
+  "payloads": [
+    {
+      "path": "problems/2021-B4/notes/reasoning-center-return-r20-candidate-v1.md",
+      "bytes": 15053,
+      "sha256": "7363e0002bddfb05864af81d1bad2c469e4adeff3b7b7703bbf9b203e4ecc371"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-center-return-r20-obligations-v1.md",
+      "bytes": 4883,
+      "sha256": "70de5530a193d64166c4d4d767d5db81c3c0ce70d917c630c5b5329359906490"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-center-return-r20-checks-v1.md",
+      "bytes": 5450,
+      "sha256": "e678efe85f3b3a7053df03abe83773db50a6f760ac6a59b5330f156ec8f954ab"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-center-return-r20-issues-v1.md",
+      "bytes": 2170,
+      "sha256": "2ede7aba5491e4291d5ffa70768646273dbc9be5e43aae174e3b16cce01bb9c7"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-center-return-r20-failures-v1.md",
+      "bytes": 3742,
+      "sha256": "8d31c68253f5ab5a0fa3d0660d5a08c9f0325f4ba0dc44a353ecdcef19cf993e"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-center-return-r20-sources-v1.md",
+      "bytes": 6489,
+      "sha256": "875aea85adace8d1a8c37188e0eea757c2e5a3d62ceb217a6941528b6dd9cb4a"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-center-return-r20-sources-v1.json",
+      "bytes": 3326,
+      "sha256": "49a0f8cd4dbb168e434500c3a65aa805100b1e8769b86486d7d28665fd2f2ed4"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-center-return-r20-worklog-v1.md",
+      "bytes": 4405,
+      "sha256": "6ec4e1ec736e05a6f3b37e6b763b4b0338fa6abcaacb2a3ef458ee630b15c5cc"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-center-return-r20-administrative-code-v1.py",
+      "bytes": 9341,
+      "sha256": "fdedfd534e186ba733a5e383123b890eee69a5f0471a426b5df09b1877d2be71"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-center-return-r20-baseline-v1.json",
+      "bytes": 11747,
+      "sha256": "a5d1d2ed6c996f99fc24ce4724293e25952243a6bc8f0c10e76643eea69d7e60"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-center-return-r20-input-validation-v1.json",
+      "bytes": 452,
+      "sha256": "613b0b4c4a042757f54cd10a93efe2ee30e15afafb5afa9d949210806fe05f92"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-center-return-r20-metadata-v1.json",
+      "bytes": 1450,
+      "sha256": "f58418d2c0cb9fa240f408460ad341fcdcc85384c72d4e3873fc9d9740d33bec"
+    }
+  ]
+}

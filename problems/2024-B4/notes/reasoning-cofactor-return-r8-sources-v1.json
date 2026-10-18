@@ -1,0 +1,17 @@
+{
+  "status":"candidate proof - unverified",
+  "constructor":"/root/review_2017_coarsening_r1",
+  "checked_date_utc":"2026-10-18",
+  "sources":[
+    {"title":"McGuire1995 original thesis","url":"https://thesis.caltech.edu/4053/01/McGuire_gm_1995.pdf","record":"https://thesis.caltech.edu/4053/","doi":"10.7907/1CZ2-6S05","actual_fresh_read":"ENTIRE existing images21–31, printed16–26; complete operative local lemmas and Theorems6/7 statements/supplied proofs","old_published_scope":"q4,n>13; or no-four-sum plus gcd(ell,q-1)=1","new_binary_download":false,"preexisting_pdf_bytes":2610589,"preexisting_pdf_sha256":"d8e8e62d873c5ec69e2fd40473a9aee257bb8d4994cb5ffc1a42cb70f8bcbd24"},
+    {"title":"Fulton Algebraic Curves","url":"https://math.stanford.edu/~conrad/145Page/handouts/algcurves.pdf","actual_fresh_read":"COMPLETE operative3.3 properties/theorem/proof2419–2624;5.3 Bezout statement/entire proof3829–3924;AppendixA7557–7597","hypotheses":"algebraically closed field,proper intersections,coprime tangents for local equality,no common component for projective Bezout; characteristic2 allowed","whole_book_audited":false,"new_binary_sha256":null},
+    {"title":"Official2024 PaperB","url":"https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc2024_paper_b.pdf","scope":"B4 setup/(b); complete local statement matched","new_binary_sha256":null}
+  ],
+  "operative_accepted_inputs":["T1 absolute-line exclusion","R6B general reducedness and nonlinear component degree>=q;R6C with T1"],
+  "complete_current_bodies_and_MDJSON_read":["T1–T4","R6","R7"],
+  "R7_APN_R4_R5_component_genus_invariant_cofactor_used":false,
+  "old_C_R6_R7_authorship_and_old_review_roles_disclosed":true,
+  "original_JMW_journal_PDF_JW1993_Ferard2017_bodies":"unread; no hidden theorem import or priority inference",
+  "code_weight_criterion":"classical, used only through fully rederived root-set formulation",
+  "no_mathematical_program_scan_CAS_or_old_replay":true
+}

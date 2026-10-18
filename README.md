@@ -7,33 +7,21 @@ This repository records a sustained investigation of the Simon Marais Mathematic
 **Current stage:** two complete internally reviewed annual answers:
 the attributed published2018 enumeration and2023 exponent classification
 (priority unestablished). Seven annual targets remain unresolved.
-[2019 BT](problems/2019-B4/reviews/reasoning-cut-transfer-r5-acceptance.md)
-is newly accepted after TWO OTHER entire whole audits and reconciliation;
-it controls specified end/collision classes and leaves the full residual
-and exact growth rate open. Reviewed recent partials also include
-[2017 PM8](problems/2017-B4/reviews/reasoning-path-mass-return-r8-acceptance.md),
-[2022 D6](problems/2022-B4/reviews/reasoning-dynamics-return-r6-acceptance.md),
-[2024 R6](problems/2024-B4/reviews/reasoning-cofactor-return-r6-acceptance.md),
-and [2025 RD](problems/2025-B4/reviews/reasoning-diagonal-return-r5-acceptance.md).
-[2017 PM9](problems/2017-B4/reviews/coordinator-path-moment-r3-acceptance.md)
-now improves the CURRENT PM8 base after both whole48/48 audits and full
-reconciliation. [2024 R7](problems/2024-B4/reviews/reasoning-cofactor-return-r7-acceptance.md)
-now proves a whole absolute-irreducibility gcd criterion after both
-whole64/64 audits and reconciliation. [2020 SQ14](problems/2020-B4/reviews/reasoning-arithmetic-return-r14-acceptance.md)
-is also accepted after both whole64/64 audits.2021R19 remains unverified:
-its full versioned scaling correction is frozen and awaits the affected
-whole audits and reconciliation; the normalized proof is not refuted.
-[2025 DR6](problems/2025-B4/reviews/reasoning-diagonal-return-r6-acceptance.md)
-and [2022 D7](problems/2022-B4/reviews/reasoning-dynamics-return-r7-acceptance.md)
-are now accepted after both entire whole48/48 audits. FULL R19v1.1
-author repair remains unverified pending affected audits/reconciliation.
-Direct weekly44%TOTAL at2026-10-18 14:47:04 UTC/reset1792874445;
+[2021 R19 repaired result](problems/2021-B4/reviews/reasoning-center-return-r19-acceptance.md)
+is accepted after three entire affected76 audits;frameI is excluded,
+frameII constrained,and the original scaling error/rootmiss are preserved.
+[2024 R8](problems/2024-B4/reviews/reasoning-cofactor-return-r8-acceptance.md)
+is accepted after both entire48 audits:the no-four-sum criterion retains
+ordinary diagonal points and includes everyi>=2 at odd parts11/23.
+Other recent reviewed partials include2017PM9,2019BT/CT,2020SQ14,
+2022D7,2024R6/R7 and2025DR6. NEW2019AT and2021R20 remain unverified
+pending whole audits/reconciliation;C continues2020SQ15 hand research.
+Direct weekly46%TOTAL at2026-10-18 15:09:30UTC/reset1792874445;
 continue to90%TOTAL with reserve in this explicitly authorized window.
 
-- [Latest continuing checkpoint](progress/checkpoint-2026-10-19-0050.md).
-- [Latest actual hourly report](progress/status-2026-10-19-0027.md);
-  the historical23:27 table sign typo is corrected in the new hourly report.
-  Next actual hourly/owned-awake check15:27:30UTC.
+- [Latest continuing checkpoint](progress/checkpoint-2026-10-19-0122.md).
+- [Latest actual hourly report](progress/status-2026-10-19-0027.md).
+  Next actual hourly/token/owned-awake check15:27:30UTC.
 
 - [Dashboard](progress/dashboard.md): per-problem status, results, obstructions, next steps and reviews.
 - [Budget and telemetry](progress/budget.md): observed weekly usage and reset boundary.

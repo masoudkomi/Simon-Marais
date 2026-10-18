@@ -1,0 +1,151 @@
+{
+  "date_utc": "2026-10-18",
+  "reviewer": "/root/review_2022_complexity_r2",
+  "requested": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independent_effective_readback": null,
+  "ENTIRE_author16_FULL_model_read": true,
+  "ALL76_hand_reconstructions": true,
+  "original_issue_and_counterexample_contribution_disclosed": true,
+  "older_roles": "R9 constructor, older R5/R6/R7/R11-R16/R18 reviewer; not independent self-recertification",
+  "filename_inventory_disclosure": {
+    "NEW_corresponding_root_affected_filenames_appeared_in_inventory": true,
+    "NEW_corresponding_root_affected_contents_findings_hashes_or_metadata_file_contents_opened_read_hashed": false,
+    "peer_conclusion_exposed": false,
+    "promptly_disclosed_to_root": true,
+    "literal_zero_filename_exposure_claimed": false,
+    "root_assigned_additional_C_ENTIRE_affected_audit": true,
+    "NEW_corresponding_C_affected_content_or_findings_accessed": false
+  },
+  "complete_accepted_bodies_and_each_current_MD_JSON_fresh_read": [
+    {
+      "body": {
+        "path": "problems/2021-B4/proofs/reviewed-reasoning-center-return-r18-v1.1.md",
+        "bytes": 26067,
+        "sha256": "f26de3a17895354408e514d6a0b0066715a1c0f0234d494fd53485ea3feb8284"
+      },
+      "authority_md": {
+        "path": "problems/2021-B4/reviews/reasoning-center-return-r18-acceptance.md",
+        "bytes": 4541,
+        "sha256": "3b291249452982f01ea08741ec0f5ed1d65e279f7e33110971132d70bfef4bb0"
+      },
+      "authority_json": {
+        "path": "problems/2021-B4/reviews/reasoning-center-return-r18-acceptance.json",
+        "bytes": 4723,
+        "sha256": "4c8245de57e0e7a00efc685014c8af85efe788d3c75ff3431283f211b567abe7"
+      },
+      "candidate_suffix": {
+        "path": "problems/2021-B4/notes/reasoning-center-return-r18-candidate-v1.md",
+        "bytes": 21624,
+        "sha256": "a8b25286023c0d04fd1ff3060062a33f9076cba72f9811425ef30dea054194c5"
+      },
+      "byte_identical_suffix": true,
+      "historical_authority_occurrences_NOT_replayed": 201,
+      "historical_authority_paths_NOT_replayed": 85
+    },
+    {
+      "body": {
+        "path": "problems/2021-B4/proofs/reviewed-reasoning-center-return-r17-v1.1.md",
+        "bytes": 23107,
+        "sha256": "8c8daa274ea6dcf95e25249e215b09646c3473c4ccd6320302a364b0af5b7797"
+      },
+      "authority_md": {
+        "path": "problems/2021-B4/reviews/reasoning-center-return-r17-acceptance.md",
+        "bytes": 4913,
+        "sha256": "e7631ce23b73b201c7628a47512d59a2316b8cdb25e5e509d0836909dee8e402"
+      },
+      "authority_json": {
+        "path": "problems/2021-B4/reviews/reasoning-center-return-r17-acceptance.json",
+        "bytes": 4448,
+        "sha256": "66aca15579c83b979bf58c18bcc5c5f7ff002e53c36eb9cfe8d93f67b38a0e0a"
+      },
+      "candidate_suffix": {
+        "path": "problems/2021-B4/notes/reasoning-center-return-r17-candidate-v1.md",
+        "bytes": 18292,
+        "sha256": "d5a11268bd506449f437cbe4fb4d281f26c2d8e1a0461d5bde7acd05b8a5784d"
+      },
+      "byte_identical_suffix": true,
+      "historical_authority_occurrences_NOT_replayed": 256,
+      "historical_authority_paths_NOT_replayed": 87
+    },
+    {
+      "body": {
+        "path": "problems/2021-B4/proofs/reviewed-reasoning-return-r8-v1.1.md",
+        "bytes": 19921,
+        "sha256": "33b8713d402d09f711d0096cdc4e8c00f9e622a5335f8e3345eb4f82ba0d359d"
+      },
+      "authority_md": {
+        "path": "problems/2021-B4/reviews/reasoning-return-r8-acceptance.md",
+        "bytes": 3060,
+        "sha256": "f2cc3d55b82abd08e3294811ed1ae44a7b2ee23ef18e0e158d12b468165c4fd0"
+      },
+      "authority_json": {
+        "path": "problems/2021-B4/reviews/reasoning-return-r8-acceptance.json",
+        "bytes": 2507,
+        "sha256": "b5ca7a381393061192beceb0b34b8222c6ae249f1edc3383ac316786c7cd3ef0"
+      },
+      "candidate_suffix": {
+        "path": "problems/2021-B4/notes/reasoning-return-r8-candidate-v1.md",
+        "bytes": 16961,
+        "sha256": "6bffa3b70e9d228b09e0a2ee3f049d7f5261fb98d484ebacff7abcbfde5eea26"
+      },
+      "byte_identical_suffix": true,
+      "historical_authority_occurrences_NOT_replayed": 1335,
+      "historical_authority_paths_NOT_replayed": 792
+    },
+    {
+      "body": {
+        "path": "problems/2021-B4/proofs/reviewed-reasoning-return-r5-v1.1.md",
+        "bytes": 23675,
+        "sha256": "f4f088adc133b0581520488cdbba30082c13b2402c96ae555142e5491ad4137d"
+      },
+      "authority_md": {
+        "path": "problems/2021-B4/reviews/reasoning-return-r5-acceptance.md",
+        "bytes": 3915,
+        "sha256": "6f2bd751c5b2c790d63f7fad3cb6f686057d9943c48689272723e481f01fa477"
+      },
+      "authority_json": {
+        "path": "problems/2021-B4/reviews/reasoning-return-r5-acceptance.json",
+        "bytes": 3373,
+        "sha256": "93a204890e6d387a22d89565dbee9ee970c1b80af59f79cbc983d3ba4de6defe"
+      },
+      "candidate_suffix": {
+        "path": "problems/2021-B4/notes/reasoning-return-r5-candidate-v1.md",
+        "bytes": 20083,
+        "sha256": "0d546265a3f9b1f83c05fce46e5a97acb6cad5d8841518d891ffed91717166f6"
+      },
+      "byte_identical_suffix": true,
+      "historical_authority_occurrences_NOT_replayed": 1466,
+      "historical_authority_paths_NOT_replayed": 689
+    }
+  ],
+  "primary_reads": [
+    {
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2021-paper-b.pdf",
+      "scope": "B4 setup/(b),page2 extracted67-81; no preliminary proof",
+      "binary_sha256": null
+    },
+    {
+      "url": "https://arxiv.org/pdf/1806.09561v6",
+      "scope": "definition253-257, ENTIRE operative Prop7.7 proof/Remark7.8,1034-1067; returned three-value theorem/computational description1083-1103 context only",
+      "unread_or_NOT_imported": "fullpaper, independent source computation certification/replay,priority audit",
+      "binary_sha256": null
+    },
+    {
+      "url": "https://arxiv.org/pdf/1208.5404",
+      "scope": "normalized derivative/integrality717-841; Section3.4/3.5/Lemmas17-18,898-1147; ENTIRE Prop19 proof/unramified remark1163-1307; returned Prop16 context",
+      "unread": "whole23pages,journalversion,sourceprograms,2011p5correctionproof",
+      "binary_sha256": null
+    }
+  ],
+  "new_binary_download_or_cache_write": false,
+  "new_visual_PDF_read_claimed": false,
+  "local_lifting_quadratic_root_field_and_all_translations_reconstructed_self_contained": true,
+  "actual_frameII_III_exclusion_annual_height_lift_or_priority_claim": false,
+  "mathematical_program_CAS_scan_test_or_author_source_old_replay": false,
+  "NEW_metadata_only_code": true,
+  "source_hashes_are_not_mathematical_proof": true
+}

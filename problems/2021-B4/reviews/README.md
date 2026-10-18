@@ -1,5 +1,14 @@
 # 2021 B4 independent reviews
 
+The [FULL R19 v1.1 repaired result](reasoning-center-return-r19-acceptance.md)
+is now **proved, independently reviewed scoped partial result** after three
+ENTIRE affected76 audits and full reconciliation. The required scaling
+error and root's old miss are preserved; normalized P is Eisenstein,
+original E has no integral Q2 translate. FrameI excluded;frameII/III still
+open. NEWR20 proposes an entire frameII exclusion but is UNVERIFIED,
+requiring root/B two OTHER whole audits. Full degree20/annual remain open.
+
+
 The FULL [R19 v1.1 author repair](../notes/reasoning-center-return-r19-candidate-v1.1.md)
 is frozen/ALL76 and **UNVERIFIED pending BOTH affected whole audits and
 reconciliation**. It corrects omitted original-coordinate scale:

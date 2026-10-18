@@ -1,0 +1,65 @@
+{
+  "date_utc": "2026-10-18",
+  "status": "candidate proof - unverified",
+  "operative_inputs": [
+    {
+      "id": "O1",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2021-paper-b.pdf",
+      "scope": "Page2 B4 actual rational coefficients/per-order rational roots and part(b) question only",
+      "operative_passage_read": true,
+      "preliminary_proof_researched": false,
+      "raw_pdf_bytes_sha256_available_from_browser": false
+    },
+    {
+      "id": "A1",
+      "path": "problems/2021-B4/proofs/reviewed-reasoning-center-return-r18-v1.1.md",
+      "bytes": 26067,
+      "sha256": "f26de3a17895354408e514d6a0b0066715a1c0f0234d494fd53485ea3feb8284",
+      "whole_body_freshly_read": true,
+      "authority_md_json_freshly_read": true,
+      "operative_implications": ["Section3 equation(8): ACTUAL D3(1)=0", "Section7/frameII exact rational gcds and actual double-origin pairing", "complete exact(S),(W),m4 and adjacent-center scope"],
+      "older_input_authorship_is_independent_recertification": false
+    }
+  ],
+  "primary_context": [
+    {
+      "id": "L1",
+      "url": "https://arxiv.org/pdf/1208.5404",
+      "authors": "Castryck, Laterveer, Ounaies",
+      "read_scope": "definitions/type/scenario; Lemma6; Sections3.1-3.3; ENTIRE Proposition15 proof; Proposition16 and proof",
+      "role": "Established valuation/coefficient methods; all needed algebra rederived over rational localization",
+      "source_program_replayed": false,
+      "whole_paper_audited": false,
+      "unread_theorem_imported": false
+    },
+    {
+      "id": "L2",
+      "url": "https://arxiv.org/pdf/1806.09561",
+      "author": "Cesar Massri",
+      "read_scope": "CA definition; ENTIRE Proposition7.7 proof; Remark7.8; Theorem7.10 and full proof/computation boundary",
+      "role": "Known H4/H16 common-value prohibition and three-recycled-root scope; neither supplies new frameII proof",
+      "source_computation_replayed": false,
+      "whole_paper_audited": false,
+      "novelty_claim": false
+    },
+    {
+      "id": "L3",
+      "url": "https://arxiv.org/pdf/2608.14726",
+      "author": "Mohammad F. Marashdeh",
+      "read_scope": "Introductory definitions/theorem statements/initial normal-form discussion only",
+      "full_operative_Theorem4_proofs_read": false,
+      "role": "Discovery/context only",
+      "theorem_imported": false
+    }
+  ],
+  "R19_theorem_used": false,
+  "R19_status_update": "Pending when construction began; root later reported scoped acceptance. No new accepted body or affected review was opened, and no proof inference changed.",
+  "NEW_R19_affected_peer_finding_file_hash_metadata_access": false,
+  "corresponding_NEW_2019_AT_peer_access": false,
+  "mathematical_code_CAS_scan_replay": false,
+  "cache_modified_or_paper_downloaded": false,
+  "charges_contact_bypass": false,
+  "requested_settings": {"model": "gpt-6.1-sol", "reasoning": "max", "inherited": true},
+  "independent_effective_readback": null,
+  "telemetry": {"observed_utc": "2026-10-18T15:00:10Z", "total_used_percent": 45, "root_later_reported_utc": "2026-10-18T15:09:30Z", "root_later_reported_total_used_percent": 46, "window_duration_mins": 10080, "reset": 1792874445, "ordinary_usage_allowed": true, "legacy_and_by_limit_agree": true, "ceiling_total_percent": 90, "integration_reserve": true}
+}

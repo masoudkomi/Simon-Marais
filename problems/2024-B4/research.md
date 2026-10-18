@@ -1,5 +1,14 @@
 # 2024 B4 research log
 
+The [R8A--C no-four-sum criterion](reviews/reasoning-cofactor-return-r8-acceptance.md)
+is now **proved, independently reviewed scoped partial result** after
+root/B TWO OTHER ENTIRE WHOLE48/48 and full reconciliation. For NF4,
+ell>=3,q=2^i,i>=2,except(3,4), the WHOLE quotient is absolutely
+irreducible WITHOUT diagonal gcd1. Every i>=2 at ell11/23 is included.
+Published methods attributed; full annual classification and priority
+remain open. No NF4 converse or absolute n13 assertion is made.
+
+
 The new [R7A–D root-field criterion](reviews/reasoning-cofactor-return-r7-acceptance.md)
 is **proved, independently reviewed scoped partial result** after root/A
 TWO OTHER initially blind ENTIRE WHOLE64/64 audits and ALL128 reconciliation.

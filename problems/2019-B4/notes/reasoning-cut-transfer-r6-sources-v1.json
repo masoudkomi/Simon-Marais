@@ -1,0 +1,60 @@
+{
+  "status": "candidate proof - unverified",
+  "read_date_utc": "2026-10-18",
+  "primary_sources": [
+    {
+      "id": "official",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2019-paper-b_1.pdf",
+      "actual_read": "B4 setup lines63-73 and open(b)81-87, page2 of2; twice in this return",
+      "native_sha256": null,
+      "premise": "official domain only; no preliminary proof"
+    },
+    {
+      "id": "EFP1949",
+      "authors": "P. Erdos, W. Feller, H. Pollard",
+      "title": "A property of power series with positive coefficients",
+      "url": "https://users.renyi.hu/~p_erdos/1949-01.pdf",
+      "doi": "10.1090/S0002-9904-1949-09203-0",
+      "actual_read": "Complete article extracted lines0-132 across4pages, both proofs; following article excluded",
+      "native_sha256": null,
+      "hypotheses": "proper aperiodic renewal law; finite/infinite mean distinguished",
+      "imported_theorem": false,
+      "role": "classical attribution; AT1-AT2 prove needed claims directly including defective case"
+    },
+    {
+      "id": "BlankDriemel2024v2",
+      "url": "https://arxiv.org/pdf/2404.18738",
+      "actual_read": "Returned lines0-189: abstract/introduction/preliminaries, Observation1, Lemma2 statement, Definition3; ending extended-signature passage partial",
+      "full_paper_or_Lemma9_Appendix_read": false,
+      "native_sha256": null,
+      "imported_theorem": false,
+      "role": "matching versus pointwise closeness context; no output-count theorem"
+    }
+  ],
+  "accepted_bodies_full_read": [
+    "problems/2019-B4/proofs/reviewed-reasoning-cut-transfer-r5-v1.1.md",
+    "problems/2019-B4/proofs/reviewed-reasoning-cut-transfer-r4-v1.2.md",
+    "problems/2019-B4/proofs/reviewed-reasoning-return-r7-v1.1.md",
+    "problems/2019-B4/proofs/reviewed-reasoning-critical-return-r2-v1.1.md",
+    "problems/2019-B4/proofs/reviewed-reasoning-cut-number-r3-v1.1.md",
+    "problems/2019-B4/proofs/reviewed-reasoning-growth-return-r1-v1.1.md"
+  ],
+  "all_six_authorities_MD_JSON_full_read": true,
+  "CT_presentation_erratum_MD_JSON_full_read": true,
+  "initial_G_CR_output_truncation_repaired_by_rereads": true,
+  "complete_source_details_in": "problems/2019-B4/notes/reasoning-cut-transfer-r6-sources-v1.md",
+  "discovery_searches_not_theorem_imports": true,
+  "older_B_roles_not_fresh_self_recertification": true,
+  "B_sole_NEW_constructor_excluded": true,
+  "root_NEW_construction_inference": false,
+  "TWO_OTHER_ENTIRE_WHOLE_audits_required": true,
+  "new_corresponding_R14_or_R19_affected_peer_material_accessed": false,
+  "no_math_program_CAS_scan_test_author_source_old_replay": true,
+  "no_download_cache_shared_old_git_edit_charge_contact_bypass": true,
+  "requested": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independent_effective_readback": null
+}

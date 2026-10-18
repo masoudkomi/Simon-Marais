@@ -1,0 +1,123 @@
+{
+  "frozen_at_utc": "2026-10-18T14:48:38.720444+00:00",
+  "status": "candidate proof - unverified; ENTIRE constructor checkpoint",
+  "constructor": "/root/review_2022_complexity_r2",
+  "constructor_excluded_from_both_required_audits": true,
+  "root_supplied_NEW_mathematical_inference": false,
+  "TWO_OTHER_initially_blind_ENTIRE_WHOLE_audits_required": true,
+  "claims": [
+    "AT1",
+    "AT2",
+    "AT3",
+    "AT4"
+  ],
+  "whole_obligations": 64,
+  "all64_have_separate_constructor_dispositions": true,
+  "only_2019_B4b": true,
+  "actual_renewal_regime_or_exact_lambda_or_annual_or_priority_claim": false,
+  "actual_delocalization_or_full_high_cut_mass_bound_proved": false,
+  "full_area_identity_and_actual_reachability_counterfamily": true,
+  "requested": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independent_effective_readback": null,
+  "main": {
+    "path": "problems/2019-B4/notes/reasoning-cut-transfer-r6-candidate-v1.md",
+    "bytes": 20223,
+    "sha256": "1f5e0b02047806420b52fe503f85567f23dccfd05045a710b802d03dc9e0f40d"
+  },
+  "necessary_guard_summary": {
+    "direct_baseline_rows": 38,
+    "necessary_fingerprint_occurrences": 61,
+    "necessary_unique_paths": 54,
+    "canonical_necessary_guard_sha256": "ccf953472ce25925ac7bcd9642b5593711134569ba6c094517043bdebd37bf78",
+    "whole_obligation_labels": 64,
+    "accepted_suffixes_verified": 6,
+    "operative_CT_v1_2_suffix_verified": true,
+    "immediate_own_parent_payloads_verified": 9,
+    "older_own_paths_bound_transitively_not_all_freshly_rehashed": 813,
+    "historical_nested_inventories_replayed": false,
+    "mathematical_claims_evaluated_by_code": false
+  },
+  "immediate_own_parent": {
+    "path": "problems/2021-B4/reviews/reasoning-center-return-r19-review-2-manifest-v1.json",
+    "bytes": 5195,
+    "sha256": "2cdc76363c43865d1ca20347670ba0878e6c90cf0ad4b2acb2af04b26212754e"
+  },
+  "older_own_paths_bound_transitively": 813,
+  "ENTIRE_files_including_freeze": 11,
+  "older_plus_new_own_paths_bound_transitively": 824,
+  "FULL_final_model_readback_ALL10_payloads_code_generated_metadata_attested_before_freeze": true,
+  "FULL_manifest_model_readback_then_SEPARATE_readonly_verify_required": true,
+  "no_mathematical_program_CAS_scan_test_optimizer_author_source_old_replay": true,
+  "no_Git_shared_old_cache_mutation_spawn_charge_contact_bypass": true,
+  "NEW_corresponding_R14_or_R19_affected_peer_files_findings_hashes_metadata_accessed": false,
+  "authoritative_weekly_telemetry": {
+    "observed_at_utc": "2026-10-18 14:30:20 UTC",
+    "method": "own direct clock/get_usage_limits same awaited batch",
+    "TOTAL_used_percent": 43,
+    "window_minutes": 10080,
+    "reset_unix": 1792874445,
+    "ordinary_usage_allowed": true,
+    "legacy_by_limit_agree": true,
+    "account_label": "029a8928...1334ac3a",
+    "TOTAL_ceiling_percent": 90,
+    "integration_reserve": true,
+    "human_authorized_current_window_only": true,
+    "automatic_later_window_spending": false
+  },
+  "payloads": [
+    {
+      "path": "problems/2019-B4/notes/reasoning-cut-transfer-r6-candidate-v1.md",
+      "bytes": 20223,
+      "sha256": "1f5e0b02047806420b52fe503f85567f23dccfd05045a710b802d03dc9e0f40d"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-cut-transfer-r6-obligations-v1.md",
+      "bytes": 12243,
+      "sha256": "8638a72d38aaf59c196942c9ebf416399e43b069ba88c4a56af21d1b94d69123"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-cut-transfer-r6-failed-routes-v1.md",
+      "bytes": 6701,
+      "sha256": "bfea4c5568dc4629be525ecddd0c3bf900794f6316231bbeee6ba6bde58fc01b"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-cut-transfer-r6-issues-v1.md",
+      "bytes": 2328,
+      "sha256": "46db95f48961d36a917425a7f345f82c9ed8dfc8b46783b6868e8df20c308643"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-cut-transfer-r6-sources-v1.md",
+      "bytes": 7039,
+      "sha256": "b6ccca7996fb24f3b28cf3ff7f999608b7254c2fb52ae19eafaca8c0702c7c1a"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-cut-transfer-r6-sources-v1.json",
+      "bytes": 2850,
+      "sha256": "1d9775707639823e1e1dd8e001dc157e1c152b125b290eb8b88441a79a65580d"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-cut-transfer-r6-worklog-v1.md",
+      "bytes": 4780,
+      "sha256": "22a866087e20d92d2b3f4c253df73152e19343f941adb2b7a859c3176449fd75"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-cut-transfer-r6-baseline-v1.json",
+      "bytes": 8759,
+      "sha256": "35a82bb981314a03db9e07e8dd14023d6d64c27c4bd7ca0f152f7ee396014390"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-cut-transfer-r6-freeze-v1.py",
+      "bytes": 9243,
+      "sha256": "48b1118b3ca69ad819da35ce0c899d9846558a7cb55335a326203ef0cf4fdd72"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-cut-transfer-r6-input-validation-v1.json",
+      "bytes": 5725,
+      "sha256": "d3f01c463b8338f6dc6093d5393e17fcbb4d3fc8ff13f56268c8def40b5efb91"
+    }
+  ]
+}
