@@ -15,10 +15,15 @@ new accepted v1.2 copy supplies the corrected operative scope. Reviewed
 SQ15/2024R9/2017R10/2022D8/2019AT/2021R20/2025DR7 partials remain.
 2025DR8 is accepted after BOTH OTHER whole64 audits and full reconciliation;
 its actual component-support restrictions leave the annual problem open.
-Weekly56%TOTAL at17:38:15UTC/reset1792874445; continue to90%TOTAL with
+[2019AU](problems/2019-B4/reviews/reasoning-occupation-return-r1-acceptance.md)
+and [2022D9](problems/2022-B4/reviews/reasoning-dynamics-return-r9-acceptance.md)
+are now accepted scoped partials after both OTHER whole audits and full
+reconciliation. They resolve no additional annual target. R11/R21 remain
+unverified; hand research continues on2020 and2024.
+Weekly58%TOTAL at18:00:27UTC/reset1792874445; continue to90%TOTAL with
 reserve in this authorized window. Hand research continues on all gaps.
 
-- [Latest continuing checkpoint](progress/checkpoint-2026-10-19-0340.md).
+- [Latest continuing checkpoint](progress/checkpoint-2026-10-19-0401.md).
 - [Latest actual hourly report](progress/status-2026-10-19-0327.md).
   Next actual hourly/token/owned-awake check18:27:30UTC.
 

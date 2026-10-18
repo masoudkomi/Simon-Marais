@@ -19,6 +19,17 @@ finite automaton or a rational generating function. In entropy language,
 the growth constant measures the information retained after construction
 histories are identified.
 
+The newly accepted [AU1--AU4 actual-area and entropy theorem](reviews/reasoning-occupation-return-r1-acceptance.md)
+passed TWO OTHER whole64 audits/full reconciliation. Actual legal outputs
+have viable UNION greater than N²/8064 while their prescribed fixed-range
+pieces stay bounded. Phase-correct injections show full entropy at EVERY
+subquadratic area and sublinear occupation/residual threshold, with input,
+output and existential legal-mark laws kept distinct. These lower bounds
+explain why a threshold-uniform entropy-loss strategy fails; the missing
+upper mass at FIXED positive quadratic density, actual regime and exact
+lambda remain open. This connects concrete history geometry to entropy
+without identifying histories with distinct outputs. Bounds unchanged.
+
 The newly accepted [AT1–AT4 viable-area theorem](reviews/reasoning-cut-transfer-r6-acceptance.md)
 passed root/A TWO OTHER ENTIRE WHOLE64/64 audits and full128-disposition
 reconciliation. It proves the exact all-time viable-area convolution,

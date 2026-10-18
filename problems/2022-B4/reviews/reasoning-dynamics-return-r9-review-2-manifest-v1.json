@@ -1,0 +1,107 @@
+{
+  "frozen_at_utc": "2026-10-18T17:39:10.814666+00:00",
+  "role": "OTHER initially blind ENTIRE WHOLE2 initial review; findings sealed",
+  "reviewer": "/root/review_2022_complexity_r2",
+  "nonconstructor": true,
+  "constructor": "/root/review_2017_coarsening_r1",
+  "constructor_excluded": true,
+  "root_supplied_new_inference": false,
+  "target": {
+    "path": "problems/2022-B4/notes/reasoning-dynamics-return-r9-candidate-v1.md",
+    "bytes": 16389,
+    "sha256": "e15f1ad442916acda5c27cff79107dcf0236b1f4f748f7f5e521214bad6b410c"
+  },
+  "author_freeze": {
+    "path": "problems/2022-B4/notes/reasoning-dynamics-return-r9-freeze-v1.json",
+    "bytes": 3635,
+    "sha256": "4427de51ab82207eb673d983f9abfedec5553f783bbd1093e29f6ca49659036a"
+  },
+  "author_ENTIRE_files_read": 12,
+  "whole_obligations": 48,
+  "separate_independent_hand_dispositions": 48,
+  "ENTIRE_review_files_including_manifest": 10,
+  "requested": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independent_effective_readback": null,
+  "FULL_final_model_readback_ALL9_payloads_code_generated_metadata_completed": true,
+  "FULL_manifest_model_readback_then_SEPARATE_readonly_verify_required": true,
+  "guard_summary": {
+    "occurrences": 51,
+    "unique_paths": 51,
+    "canonical_sha256": "f3510ba94ca4242054de7237d2dcab1e9e2886b4cb9be071e3f804196028b4ea"
+  },
+  "immediate_own_parent": {
+    "path": "problems/2025-B4/reviews/reasoning-diagonal-return-r8-review-1-manifest-v1.json",
+    "bytes": 4363,
+    "sha256": "1087dc101f639a64fc56c6621e7c0687da7058d8aacfe57c902cfcc738fe34d7"
+  },
+  "older_own_paths_bound_transitively": 922,
+  "older_plus_new_own_paths_bound_transitively": 932,
+  "no_NEW_corresponding_peer_finding_file_actual_inventory_hash_metadata_commentary_access": true,
+  "findings_embargoed_until_explicit_BOTH_ENTIRE_confirmation": true,
+  "no_mathematical_program_CAS_scan_test_old_author_source_freezer_replay": true,
+  "no_Git_shared_old_cache_mutation_spawn_charge_contact_bypass": true,
+  "weekly": {
+    "at_utc": "2026-10-18 17:34:30 UTC",
+    "method": "own same-awaited clock/get_usage_limits",
+    "TOTAL_used_percent": 56,
+    "window_minutes": 10080,
+    "resetsAt": 1792874445,
+    "ordinaryUsageAllowed": true,
+    "legacy_by_limit_agree": true,
+    "account_label": "029a8928...1334ac3a",
+    "TOTAL_ceiling_percent": 90,
+    "integration_reserve": true,
+    "automatic_later_window_spending": false
+  },
+  "payloads": [
+    {
+      "path": "problems/2022-B4/reviews/reasoning-dynamics-return-r9-review-2-initial-v1.md",
+      "bytes": 12709,
+      "sha256": "54798555f9acc0ff2e9b160ad3f57394cf1409578f0da41e30766573f46157c2"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-dynamics-return-r9-review-2-ledger-v1.md",
+      "bytes": 6378,
+      "sha256": "053a244554471a2e77b463b7ae5d194db2a1a8b500aec7466ce6790ce60ed39f"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-dynamics-return-r9-review-2-issues-v1.md",
+      "bytes": 2890,
+      "sha256": "91205ec3eeaee34e8e16314c6174c99b8afd0e4124c20d7e1b1d378b6ce66601"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-dynamics-return-r9-review-2-sources-v1.md",
+      "bytes": 4717,
+      "sha256": "09a77e85f8f23ffb49779fd8d99658ba50d007bfa9b1f78854e59e3b4a4fa49f"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-dynamics-return-r9-review-2-sources-v1.json",
+      "bytes": 2117,
+      "sha256": "90682b9ca4e246a1bae30db2b7173da49be689e614131d4dda40ed61a5b1f679"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-dynamics-return-r9-review-2-worklog-v1.md",
+      "bytes": 3908,
+      "sha256": "89f747cdf7e7aae78b9c769fe377898cd1116dd9c79742eaa37208cac0765ff5"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-dynamics-return-r9-review-2-admin-v1.py",
+      "bytes": 10213,
+      "sha256": "ed73696c304f943d3acce9f2d1617aeed02f05ddcdb919b2efd5f3d2c8c04c8c"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-dynamics-return-r9-review-2-baseline-v1.json",
+      "bytes": 13125,
+      "sha256": "c328403324d0aff805346e19bf8aa7effe3fda65f2942916c9985c3e983d4c27"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-dynamics-return-r9-review-2-input-validation-v1.json",
+      "bytes": 666,
+      "sha256": "146630315cde6e0f652194d38d9005a73d7085b6f679b5dece2bbf976c64f80d"
+    }
+  ]
+}

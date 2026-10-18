@@ -1,0 +1,76 @@
+{
+  "frozen_utc": "2026-10-18T17:53:19.777937+00:00",
+  "reviewer": "/root/review_2021_reasoning_j15_r2",
+  "role": "OTHER initially blind ENTIRE WHOLE2",
+  "obligations": 64,
+  "payload_count": 10,
+  "ENTIRE_files_including_manifest": 11,
+  "payloads": [
+    {
+      "path": "problems/2019-B4/reviews/reasoning-occupation-return-r1-review-2-admin-v1.py",
+      "bytes": 5919,
+      "sha256": "90985586e64729ba4f9671b1e41a4d0d251c42360fbc570258519f0a0778953d"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-occupation-return-r1-review-2-baseline-v1.json",
+      "bytes": 24050,
+      "sha256": "b3c265729517af20cfcc1a5ae56ac3b7284945c23483fb1a1a32223b29df4fd1"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-occupation-return-r1-review-2-initial-v1.md",
+      "bytes": 16064,
+      "sha256": "250458f43e02e7aa2d41e2d3be4e9dac1157e6b1e9518abdf948ca566c4ac14c"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-occupation-return-r1-review-2-input-validation-v1.json",
+      "bytes": 228,
+      "sha256": "80a688bef3f8bdc5ad66af95cc3bafe19d8bf4fc1d08a39b46cb02f33240ecf5"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-occupation-return-r1-review-2-issues-v1.md",
+      "bytes": 3503,
+      "sha256": "b52b528a7a1933cd5df1cd3593ff0bb3019c7615d567bced3cd1696cf6d3f020"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-occupation-return-r1-review-2-ledger-v1.md",
+      "bytes": 9623,
+      "sha256": "b04dbee534c26d3432a7b66108d402b69525649e941d5276e2a90be44906844d"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-occupation-return-r1-review-2-metadata-v1.json",
+      "bytes": 2418,
+      "sha256": "995e3e185c880cdbd323bbde6ee6c7e55a0ef4eaa4575352a94e56a2e26d5318"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-occupation-return-r1-review-2-sources-v1.json",
+      "bytes": 6632,
+      "sha256": "9788f1eee7337498b9d80099c5d6a65e8920c800d2ac0eaa271edf066b8baf74"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-occupation-return-r1-review-2-sources-v1.md",
+      "bytes": 9415,
+      "sha256": "34b4edb8c52dd5aab76f123c27cbdaf16c2715d2360a9f0b7b2c6039b2923ec1"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-occupation-return-r1-review-2-worklog-v1.md",
+      "bytes": 5185,
+      "sha256": "496df9fb5f9be2511e0d6f29c1fa79f3b6006354dd4c1e5cdcfa0cee5042e822"
+    }
+  ],
+  "protected_occurrences": 115,
+  "protected_unique_paths": 114,
+  "root_administrative_identity_message_received": true,
+  "root_AU_mathematical_conclusion_public_status_or_peer_content_seen": false,
+  "root_NEW_AU_review_file_inventory_open_or_hash_operation": false,
+  "peer_admin_identity_not_in_baseline_or_reasoning": true,
+  "requested": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independent_effective_readback": null,
+  "mathematical_program_scan_CAS_or_old_replay": false,
+  "status": "independent review recommendation only; coordinator promotion required",
+  "FULL_final_payload_model_readback_done": true,
+  "manifest_model_readback_then_SEPARATE_verify_required": true
+}

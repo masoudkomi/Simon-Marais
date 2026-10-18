@@ -1,0 +1,31 @@
+{
+  "prepared_at_utc": "2026-10-18T17:45:18.505128+00:00",
+  "status": "candidate proof - unverified",
+  "constructor": "/root/review_2017_coarsening_r1",
+  "constructor_EXCLUDED_from_required_TWO_OTHER_audits": true,
+  "root_supplied_NEW_mathematical_inference": false,
+  "proposed_claims": [
+    "PR11A",
+    "PR11B",
+    "PR11C",
+    "PR11D"
+  ],
+  "whole_obligations": 64,
+  "payload_files": 12,
+  "ENTIRE_files": 13,
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "verified_effective_setting_readback": null,
+  "direct_transition_total_used_percent": 56,
+  "authorized_reset": 1792874445,
+  "total_ceiling_percent": 90,
+  "integration_reserve_required": true,
+  "no_mathematical_program_or_CAS_scan_optimizer_old_replay": true,
+  "no_pending_tool_or_native_child": true,
+  "all_new_writes_in_assigned_namespace": true,
+  "FULL_final_model_readback_ALL_payloads_REQUIRED_before_freeze": true,
+  "FULL_freeze_readback_then_SEPARATE_readonly_verify_REQUIRED": true
+}

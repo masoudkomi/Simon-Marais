@@ -1,0 +1,85 @@
+{
+  "frozen_at_utc": "2026-10-18T17:45:43.719536+00:00",
+  "status": "candidate proof - unverified",
+  "constructor": "/root/review_2017_coarsening_r1",
+  "required_TWO_OTHER_initially_blind_ENTIRE_WHOLE_audits": true,
+  "whole_obligations": 64,
+  "payload_files": 12,
+  "ENTIRE_files": 13,
+  "immediate_own_parent": {
+    "path": "problems/2025-B4/reviews/reasoning-diagonal-return-r8-review-2-manifest-v1.json",
+    "bytes": 3365,
+    "sha256": "81cdb6c65fb4c8c89c79df9a6155ed4d0be5acda429ac18cc0363bfd1dc43e95"
+  },
+  "guard_summary": {
+    "occurrences": 28,
+    "unique_paths": 28,
+    "canonical_deduplicated_sha256": "37eaff876f3bd3891164a90f5e1a27c5c99eeb2603ff1496e8656b5e8542e938"
+  },
+  "FULL_final_model_readback_ALL12_payloads_completed": true,
+  "FULL_freeze_model_readback_then_SEPARATE_readonly_verify_REQUIRED": true,
+  "mathematical_program_CAS_scan_optimizer_or_old_replay": false,
+  "old_shared_Git_cache_edits": false,
+  "payloads": [
+    {
+      "path": "problems/2017-B4/notes/reasoning-pressure-return-r11-candidate-v1.md",
+      "bytes": 20134,
+      "sha256": "c0ac432cec15557a48dc7ae3e8248ccf5df313dd2975a928a606fc09c1ff9819"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-pressure-return-r11-obligations-v1.md",
+      "bytes": 8410,
+      "sha256": "d6c618b871b9e61e831172f479b431490a4c389f20925066ec972637e5be8fb8"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-pressure-return-r11-constructor-checks-v1.md",
+      "bytes": 4409,
+      "sha256": "cda968aec5d96e93131711c8df376c946ebbd71efc5f52530bef41ab2d60bf74"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-pressure-return-r11-issues-v1.md",
+      "bytes": 1668,
+      "sha256": "5f1b14fa545cb706006c0692da20caa03b9b3087b7971b9087f6c656c2a6f608"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-pressure-return-r11-failures-v1.md",
+      "bytes": 2092,
+      "sha256": "4d3a97be6024feee365a90e4b096d0fa357d0d9cba46696d71d58363db89057a"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-pressure-return-r11-sources-v1.md",
+      "bytes": 5238,
+      "sha256": "044d56222d4cfe7f33a4b2ba17ee53a8d5d4bb4c2697eeb4d8f055cb00a85880"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-pressure-return-r11-sources-v1.json",
+      "bytes": 2291,
+      "sha256": "fd1269d3314aff05598656ce234abc59ff6f1f7c2c0e0678bc141978ed4a4070"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-pressure-return-r11-worklog-v1.md",
+      "bytes": 4031,
+      "sha256": "800f8da4232ff300ec6cfbd9f91d17df26b7d010757a14bd8e6f168de97117f5"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-pressure-return-r11-admin-v1.py",
+      "bytes": 9011,
+      "sha256": "41fe8b2ed323a634b6dabcf9818a84e9619a350a4093f3896904e5321579a6a0"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-pressure-return-r11-baseline-v1.json",
+      "bytes": 6967,
+      "sha256": "a9d5472d15c79ee4fd34074631509fa848c19e310db00f3bd08a0914cd3f4366"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-pressure-return-r11-input-validation-v1.json",
+      "bytes": 442,
+      "sha256": "bedf9e1eb9d4b606faacbb13b8c92e39d89c5415995fe1e4c025067c970b45f0"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-pressure-return-r11-metadata-v1.json",
+      "bytes": 1029,
+      "sha256": "140f41caa91e1bb55fafac2422cc1d763b10040aadb6240eda386df056b873ea"
+    }
+  ]
+}

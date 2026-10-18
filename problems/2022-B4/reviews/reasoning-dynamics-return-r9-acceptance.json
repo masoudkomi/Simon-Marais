@@ -1,0 +1,114 @@
+{
+  "accepted_at_utc": "2026-10-18T17:43:11.074144+00:00",
+  "status": "proved, independently reviewed scoped partial result",
+  "whole_initials_blind": true,
+  "root_read_full_candidate_both_reports_all_ledgers_sources": true,
+  "unresolved_substantive_issues": 0,
+  "repair_required": false,
+  "candidate": {
+    "path": "problems/2022-B4/notes/reasoning-dynamics-return-r9-candidate-v1.md",
+    "bytes": 16389,
+    "sha256": "e15f1ad442916acda5c27cff79107dcf0236b1f4f748f7f5e521214bad6b410c"
+  },
+  "accepted_copy": {
+    "path": "problems/2022-B4/proofs/reviewed-reasoning-dynamics-return-r9-v1.1.md",
+    "bytes": 22645,
+    "sha256": "7cfa2c60557935261d7144576f0e39a509fbebb292fdd0027415efe411ae4c55"
+  },
+  "verification_metadata": [
+    {
+      "path": "problems/2022-B4/notes/reasoning-dynamics-return-r9-freeze-v1.json",
+      "bytes": 3635,
+      "sha256": "4427de51ab82207eb673d983f9abfedec5553f783bbd1093e29f6ca49659036a"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-dynamics-return-r9-baseline-v1.json",
+      "bytes": 8099,
+      "sha256": "029ad8180e7eaca079c889bacc1ecb6818bbf9e8e469fd40d604ac49b0653d5b"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-dynamics-return-r9-input-validation-v1.json",
+      "bytes": 590,
+      "sha256": "1edc5ac237821b10b327e2288c720d4bb664c8abbedebf7c7579b48b27fe993e"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-dynamics-return-r9-metadata-v1.json",
+      "bytes": 1117,
+      "sha256": "0e5f370516fbbc70e41d0bad71e764d6a4e0731ecdad143f2e022f68751d60e0"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-dynamics-return-r9-review-1-manifest-v1.json",
+      "bytes": 2777,
+      "sha256": "3bf00e1f339875118bce573bdc69fbdbafb7ae32620f6a053744fed75dbee027"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-dynamics-return-r9-review-1-baseline-v1.json",
+      "bytes": 11137,
+      "sha256": "b2a2a4e40a28c5b56dcd7b4254f631ed3ec9b1843c55a088f6eef9f5434f1313"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-dynamics-return-r9-review-1-input-validation-v1.json",
+      "bytes": 315,
+      "sha256": "4aa486e56aa238816a83f41cb7bb1a6df4f08372f792f285c0b4a387c11849ea"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-dynamics-return-r9-review-1-metadata-v1.json",
+      "bytes": 718,
+      "sha256": "298a895abff67e9321cf31d027f50f361e9b92f00e7862608b008ccf32da25bc"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-dynamics-return-r9-review-1-sources-v1.json",
+      "bytes": 1561,
+      "sha256": "3e43651c983e641bb83fdd6d61cbde51ec48b2e41c4cde49bdaebd79e14382a7"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-dynamics-return-r9-review-2-manifest-v1.json",
+      "bytes": 4383,
+      "sha256": "e0748765ecc179de716b5cf25ca86412de3ca866de10122bb9325b1bd4c60d8f"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-dynamics-return-r9-review-2-baseline-v1.json",
+      "bytes": 13125,
+      "sha256": "c328403324d0aff805346e19bf8aa7effe3fda65f2942916c9985c3e983d4c27"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-dynamics-return-r9-review-2-input-validation-v1.json",
+      "bytes": 666,
+      "sha256": "146630315cde6e0f652194d38d9005a73d7085b6f679b5dece2bbf976c64f80d"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-dynamics-return-r9-review-2-sources-v1.json",
+      "bytes": 2117,
+      "sha256": "90682b9ca4e246a1bae30db2b7173da49be689e614131d4dda40ed61a5b1f679"
+    }
+  ],
+  "record_occurrences_verified": 175,
+  "unique_paths_verified": 81,
+  "constructor": "/root/review_2017_coarsening_r1",
+  "whole_reviewers": [
+    "/root",
+    "/root/review_2022_complexity_r2"
+  ],
+  "whole_obligations_per_review": 48,
+  "whole_review_files": [
+    11,
+    10
+  ],
+  "closed_scope_notes": [
+    8,
+    8
+  ],
+  "explicit_BOTH_entire_before_NEW_peer_access": true,
+  "root_read_ENTIRE_author_and_both_reviews_all_code_metadata": true,
+  "global_sector_barrier": true,
+  "actual_twin_and_stopped_return_interface": true,
+  "singleton_reverse_event_full_lattice_fiber": true,
+  "Omega_nonempty_assumed": false,
+  "one_sided_avoidance_excluded": false,
+  "infinite_safe_return_exhibited_or_excluded": false,
+  "universal_hitting_or_last_event_bound": false,
+  "annual_open": true,
+  "priority_claim": false,
+  "external_theorem_new_mathematical_premise": false,
+  "no_mathematical_program_or_old_replay": true
+}

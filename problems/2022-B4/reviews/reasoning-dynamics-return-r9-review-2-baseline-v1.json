@@ -1,0 +1,318 @@
+{
+  "captured_at_utc": "2026-10-18T17:38:16.171273+00:00",
+  "status": "documentary preservation only",
+  "guard_summary": {
+    "occurrences": 51,
+    "unique_paths": 51,
+    "canonical_sha256": "f3510ba94ca4242054de7237d2dcab1e9e2886b4cb9be071e3f804196028b4ea"
+  },
+  "details": {
+    "author_ENTIRE_files_verified": 12,
+    "author_whole_obligations": 48,
+    "author_declared_guard_paths_verified": 29,
+    "author_guard_summary_bound": {
+      "occurrences": 29,
+      "unique_paths": 29,
+      "canonical_deduplicated_sha256": "9eeb326addedaad661a6edf7c759a1de17072b3da1c97f1501ca84fd976c4497"
+    },
+    "current_accepted_bindings": [
+      {
+        "authority": "problems/2022-B4/reviews/reasoning-dynamics-return-r8-acceptance.json",
+        "accepted_copy": {
+          "path": "problems/2022-B4/proofs/reviewed-reasoning-dynamics-return-r8-v1.1.md",
+          "bytes": 24415,
+          "sha256": "e824732444d668b412bd73c1ad2f4a3df72f070bef18d81b78c4f0a8bb7e52e8"
+        },
+        "candidate_suffix_byte_identical": true,
+        "historical_metadata_reexpanded": false
+      },
+      {
+        "authority": "problems/2022-B4/reviews/reasoning-dynamics-return-r7-acceptance.json",
+        "accepted_copy": {
+          "path": "problems/2022-B4/proofs/reviewed-reasoning-dynamics-return-r7-v1.1.md",
+          "bytes": 21378,
+          "sha256": "75f12e12027c50df48eba74149bf4993edfd1ff922eac8a130dfc0655abfe98f"
+        },
+        "candidate_suffix_byte_identical": true,
+        "historical_metadata_reexpanded": false
+      },
+      {
+        "authority": "problems/2022-B4/reviews/reasoning-fiber-return-r5-acceptance.json",
+        "accepted_copy": {
+          "path": "problems/2022-B4/proofs/reviewed-reasoning-fiber-return-r5-v1.1.md",
+          "bytes": 27422,
+          "sha256": "ab4158f60b3412ace615be689cd61d9384f753319c312e776831392f97a37ef8"
+        },
+        "candidate_suffix_byte_identical": true,
+        "historical_metadata_reexpanded": false
+      }
+    ],
+    "immediate_own_parent": {
+      "path": "problems/2025-B4/reviews/reasoning-diagonal-return-r8-review-1-manifest-v1.json",
+      "bytes": 4363,
+      "sha256": "1087dc101f639a64fc56c6621e7c0687da7058d8aacfe57c902cfcc738fe34d7"
+    },
+    "immediate_own_parent_ENTIRE_files_verified": 10,
+    "older_own_paths_bound_transitively": 922,
+    "older_plus_new_own_paths_bound_transitively": 932,
+    "historical_inventories_not_recursively_copied": true,
+    "mathematical_or_old_executable_rerun": false
+  },
+  "guards": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-arithmetic-return-r14-review-2-reaudit-v1.1-admin.py",
+      "bytes": 12724,
+      "sha256": "0481925b2fa75ce09eb2b9704b8c301e4feb705ebff9f8118cdb06392308df40"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-arithmetic-return-r14-review-2-reaudit-v1.1-baseline.json",
+      "bytes": 20068,
+      "sha256": "f63cc735da0ac11f50ef889ea7d3a25ea24cfe79f5ef19f10695bdb94f903586"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-arithmetic-return-r14-review-2-reaudit-v1.1-input-validation.json",
+      "bytes": 631,
+      "sha256": "cce0bf2e89e94b26c563564bcc9bd580920d217a1e34da0ec3473496642ad3eb"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-arithmetic-return-r14-review-2-reaudit-v1.1-issues.md",
+      "bytes": 2841,
+      "sha256": "8eca2af9e7dd8002e6a6a4e6931f6848c01f3445b1340a04e7840adde1e5a991"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-arithmetic-return-r14-review-2-reaudit-v1.1-ledger.md",
+      "bytes": 8832,
+      "sha256": "1c37a62f44ec2423d7e7155d7a71fca9d4f5ff46039837a0268f3d7eb1502265"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-arithmetic-return-r14-review-2-reaudit-v1.1-manifest.json",
+      "bytes": 3879,
+      "sha256": "4183b31f780a567146793ae74fdabfd6ac9a52ff92efb105f177869b6ae34e4f"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-arithmetic-return-r14-review-2-reaudit-v1.1-metadata.json",
+      "bytes": 1292,
+      "sha256": "0ff4af83d038dfaa654ed982c036709a805f56dfa4f39532f883f2a14705a546"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-arithmetic-return-r14-review-2-reaudit-v1.1-report.md",
+      "bytes": 15671,
+      "sha256": "c4a634fcaf9743140c45a3bcc43e2de6414701960d2c41b6d5eba67055c9b6fd"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-arithmetic-return-r14-review-2-reaudit-v1.1-sources.json",
+      "bytes": 2874,
+      "sha256": "bd2f0dbb7b9ac72ba7c91fe97851506bd968a5e459e5a7756c3b73037157547f"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-arithmetic-return-r14-review-2-reaudit-v1.1-sources.md",
+      "bytes": 5667,
+      "sha256": "56a11367fc21e74d61dc298c4999fdc1ca8a460d7ee6a48143bd417e33cf6ab7"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-arithmetic-return-r14-review-2-reaudit-v1.1-worklog.md",
+      "bytes": 4608,
+      "sha256": "8e0e94e7ab9a4e763218d4ed3b1815c43f31d2c9917eac7de4afcdf75de5b64f"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-dynamics-return-r7-candidate-v1.md",
+      "bytes": 16504,
+      "sha256": "25ab177d6efebf1c4d5bb6e3c6bb97c4bfebed750ba782f022a4b3c94bb2d508"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-dynamics-return-r8-candidate-v1.md",
+      "bytes": 18637,
+      "sha256": "ea5c5b96714e0e12f10d6ce88bd4e8b7e89fcaf0baa64528e9fe5136e8f0c435"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-dynamics-return-r8-failed-routes-v1.md",
+      "bytes": 4800,
+      "sha256": "262d069342e76e1c61135e5ab34a3b8b48f45864939707ee8b399ed2871a8fc0"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-dynamics-return-r8-sources-v1.md",
+      "bytes": 6835,
+      "sha256": "60432d723eef3319c51a6e244555a6baac93ad99e514f8f66a13e4f1efcc8589"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-dynamics-return-r9-admin-v1.py",
+      "bytes": 8709,
+      "sha256": "485d13b58ba57a62f1da2ecfb3ba97ff1dc895ae617b0e0e9769530569c26000"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-dynamics-return-r9-baseline-v1.json",
+      "bytes": 8099,
+      "sha256": "029ad8180e7eaca079c889bacc1ecb6818bbf9e8e469fd40d604ac49b0653d5b"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-dynamics-return-r9-candidate-v1.md",
+      "bytes": 16389,
+      "sha256": "e15f1ad442916acda5c27cff79107dcf0236b1f4f748f7f5e521214bad6b410c"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-dynamics-return-r9-constructor-checks-v1.md",
+      "bytes": 4196,
+      "sha256": "9a67b2404eac00360981905d20d6c4e37e5b0b66c6a2592adfe4a2ee932193bf"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-dynamics-return-r9-freeze-v1.json",
+      "bytes": 3635,
+      "sha256": "4427de51ab82207eb673d983f9abfedec5553f783bbd1093e29f6ca49659036a"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-dynamics-return-r9-input-validation-v1.json",
+      "bytes": 590,
+      "sha256": "1edc5ac237821b10b327e2288c720d4bb664c8abbedebf7c7579b48b27fe993e"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-dynamics-return-r9-interim-freeze-v1.json",
+      "bytes": 734,
+      "sha256": "ebca4c438b6cbae4645c92f306a3fe479ecc73478ac0671f5ee608f507607591"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-dynamics-return-r9-interim-v1.md",
+      "bytes": 3448,
+      "sha256": "77a6ac9c69f6668ac66cab77b648208c3340764d1d054630fabb61bbbef17c35"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-dynamics-return-r9-issues-failures-v1.md",
+      "bytes": 4128,
+      "sha256": "5b2c533df305414fe2f8e2d1e5cc1eccfc69d1e185bb54458187459736178b8b"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-dynamics-return-r9-metadata-v1.json",
+      "bytes": 1117,
+      "sha256": "0e5f370516fbbc70e41d0bad71e764d6a4e0731ecdad143f2e022f68751d60e0"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-dynamics-return-r9-obligations-v1.md",
+      "bytes": 4248,
+      "sha256": "c00a2e0ad1d7fbc4686f6da8de761b035e1cb0ab2bc2c80c491ced2caf8766bd"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-dynamics-return-r9-sources-v1.json",
+      "bytes": 2181,
+      "sha256": "b048a0a96d0563e3d3d6c40667d865a8202cabebb0ceda155b6086a6905e7541"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-dynamics-return-r9-sources-v1.md",
+      "bytes": 5374,
+      "sha256": "da35986957b25d6c2a914c5018534c88e68bdc6c663497da060acc6c6033fecc"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-dynamics-return-r9-worklog-v1.md",
+      "bytes": 4534,
+      "sha256": "5f0d2bbe0303755b5fcc30b1b2f1d6eddd31ea913b8165e64394dcb134c11cc7"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-fiber-return-r5-candidate-v1.md",
+      "bytes": 23177,
+      "sha256": "789ed605351a9d913348add46b8b9c47734bb0809f8269798aa8d53760f46a7e"
+    },
+    {
+      "path": "problems/2022-B4/proofs/reviewed-reasoning-dynamics-return-r7-v1.1.md",
+      "bytes": 21378,
+      "sha256": "75f12e12027c50df48eba74149bf4993edfd1ff922eac8a130dfc0655abfe98f"
+    },
+    {
+      "path": "problems/2022-B4/proofs/reviewed-reasoning-dynamics-return-r8-v1.1.md",
+      "bytes": 24415,
+      "sha256": "e824732444d668b412bd73c1ad2f4a3df72f070bef18d81b78c4f0a8bb7e52e8"
+    },
+    {
+      "path": "problems/2022-B4/proofs/reviewed-reasoning-fiber-return-r5-v1.1.md",
+      "bytes": 27422,
+      "sha256": "ab4158f60b3412ace615be689cd61d9384f753319c312e776831392f97a37ef8"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-dynamics-return-r7-acceptance.json",
+      "bytes": 3168,
+      "sha256": "025f3f79b5713969243f9a4b88752eecdd36cb1d29a6560bda55b7dc4235154c"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-dynamics-return-r7-acceptance.md",
+      "bytes": 4971,
+      "sha256": "ac544e6ebf2351a24390f5badebe53e4b4e3c62d1f07f378f57fbcfd2924c808"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-dynamics-return-r8-acceptance.json",
+      "bytes": 4719,
+      "sha256": "2b2c1536b6952c3a135d1d69bf6f670165fcca72c602cceae89ccb3c98a1f444"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-dynamics-return-r8-acceptance.md",
+      "bytes": 5876,
+      "sha256": "1be1a0c920551ee71f38ba4c1560a6f7345d917ae928767f234ebd3cec84acb0"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-fiber-return-r5-acceptance.json",
+      "bytes": 4684,
+      "sha256": "d352f86837f935f0757c2c9fc56a9a2708856f03a976934a791e12e1000ac0ee"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-fiber-return-r5-acceptance.md",
+      "bytes": 4343,
+      "sha256": "6f2ee399a74414b42bf8c459c86d2b738eb11d8ca3f60061dab1bb2c376e0fef"
+    },
+    {
+      "path": "problems/2022-B4/statement.md",
+      "bytes": 1195,
+      "sha256": "2011761509ac42d5ffa2ab9e86dd1db464618707443a68f43fb3e45f59ed36c0"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-diagonal-return-r8-review-1-admin-v1.py",
+      "bytes": 10320,
+      "sha256": "e208970042026dc5bf523857f0c2898670c53acc555b285eedfae9571020c003"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-diagonal-return-r8-review-1-baseline-v1.json",
+      "bytes": 13968,
+      "sha256": "440d4845cc7777981caaeb226830664d08846475e6ec5d37fcbe2ef484634ea0"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-diagonal-return-r8-review-1-initial-v1.md",
+      "bytes": 10483,
+      "sha256": "8d02ead82911e2b0997b8da5c04293313afb88582bca5af9f273eb2be4232e13"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-diagonal-return-r8-review-1-input-validation-v1.json",
+      "bytes": 545,
+      "sha256": "6346440167d7edbb3105b4c2024af24107a791b5e770414a70d454c0be661892"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-diagonal-return-r8-review-1-issues-v1.md",
+      "bytes": 2479,
+      "sha256": "dc04ccf2ae5b95efdb6feeb6e40262b1a6e67921308960495ebbeb5607f86472"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-diagonal-return-r8-review-1-ledger-v1.md",
+      "bytes": 8243,
+      "sha256": "2dc8d60a3dc99790a0d107c62069b9c13acb3bc7ba19631007be62bb64a7730d"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-diagonal-return-r8-review-1-manifest-v1.json",
+      "bytes": 4363,
+      "sha256": "1087dc101f639a64fc56c6621e7c0687da7058d8aacfe57c902cfcc738fe34d7"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-diagonal-return-r8-review-1-sources-v1.json",
+      "bytes": 3288,
+      "sha256": "4c7edc780548d6b8a8747dccf05e20f70833d048cdd09b4aa033d3b559b67ebf"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-diagonal-return-r8-review-1-sources-v1.md",
+      "bytes": 6076,
+      "sha256": "c735fb36ad4323c71141ab85f8dd43474d4708d1d56cbee9a0e23dd494f736f3"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-diagonal-return-r8-review-1-worklog-v1.md",
+      "bytes": 4360,
+      "sha256": "356fbb2fc7948a39a65fb0604f7a8c79db327d7d50505e69559ce4781d24b465"
+    }
+  ]
+}

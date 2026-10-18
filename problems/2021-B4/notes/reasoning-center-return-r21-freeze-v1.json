@@ -1,0 +1,97 @@
+{
+  "frozen_utc": "2026-10-18T17:40:41.378240+00:00",
+  "status": "candidate proof - unverified; complete research/failure checkpoint, no actual-frame exclusion",
+  "constructor": "/root/review_2021_reasoning_j15_r2",
+  "requested": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independent_effective_readback": null,
+  "payload_count": 14,
+  "entire_file_count_including_manifest": 15,
+  "obligations": 48,
+  "payloads": [
+    {
+      "path": "problems/2021-B4/notes/reasoning-center-return-r21-admin-v1.py",
+      "bytes": 5602,
+      "sha256": "0fd46d02ce44fa7345bb60961e6fbc4d4e8e5a81d62c074102081364f042d6ac"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-center-return-r21-baseline-v1.json",
+      "bytes": 8678,
+      "sha256": "72b8d3d6eb9bb4d3e1432b51c49e4b28b8c7a190bea306c4b5c39c22435743fc"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-center-return-r21-candidate-v1.md",
+      "bytes": 15374,
+      "sha256": "27b372d98923309d2253cc491c641ab293ce10428d9b5e24589b1f2959399094"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-center-return-r21-checks-v1.md",
+      "bytes": 3486,
+      "sha256": "0b4f4a3af735c9070ba55be27db9acbf3bd01546cb90ea1d1df501a56b7c3476"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-center-return-r21-code-log-v1.md",
+      "bytes": 1701,
+      "sha256": "19e3c91074aa0eb67642ead0b49cb5ee72366a34d2d1b40e6a93900b033df29c"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-center-return-r21-failures-v1.md",
+      "bytes": 4452,
+      "sha256": "b034bb8a358a848afe95e0ab8fe81adff8520b879a45fd2cf7ba4e1125d4ebc5"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-center-return-r21-input-validation-v1.json",
+      "bytes": 236,
+      "sha256": "c320fa47aeb288fa5dcff1235b7a32d9af2b4c989da3a24a6894b42b8f4b02b3"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-center-return-r21-issues-v1.md",
+      "bytes": 1713,
+      "sha256": "625a3f0a40aeceb063f92883e83645d597064cb8eb2003deebac8d0748445001"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-center-return-r21-metadata-v1.json",
+      "bytes": 1782,
+      "sha256": "a352d9e47440411b344cac1117dcda7e010fb9f994de984d0556a0ceb244dac5"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-center-return-r21-obligations-v1.md",
+      "bytes": 4345,
+      "sha256": "d935625db5f85b9aedb87ef3ef4adbc04dd6df08794ac5ba2c5b095d582c3136"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-center-return-r21-sources-v1.json",
+      "bytes": 2506,
+      "sha256": "048d05a92ccd4c5aeccc56a5b201af542ca82e2f7bfaa2532747df35e1e19af4"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-center-return-r21-sources-v1.md",
+      "bytes": 4491,
+      "sha256": "b73f09cff2fba5a1b36a75e7be0319459fa7b01d817c9b950eb0978e47007c0f"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-center-return-r21-working-v1.md",
+      "bytes": 3955,
+      "sha256": "518cbbfd01627d36a780a920d774ec6b44f8b7ed5c7ebe58815dd9f8223e4bba"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-center-return-r21-worklog-v1.md",
+      "bytes": 4062,
+      "sha256": "1b5c86d96a6370ec8f577f1a8ee836fac3578354fd1c523e223fba8c2f646c5c"
+    }
+  ],
+  "parent_baseline": {
+    "path": "problems/2021-B4/notes/reasoning-center-return-r21-baseline-v1.json",
+    "bytes": 8678,
+    "sha256": "72b8d3d6eb9bb4d3e1432b51c49e4b28b8c7a190bea306c4b5c39c22435743fc"
+  },
+  "protected_occurrences": 38,
+  "protected_unique_paths": 38,
+  "mathematical_program_or_scan": false,
+  "two_OTHER_whole_audits_required_before_any_promotion": true,
+  "constructor_and_root_excluded_if_coordinator_exploration_used": true,
+  "final_model_readback_and_separate_verify_are_later_explicit_events_not_assumed_here": true
+}

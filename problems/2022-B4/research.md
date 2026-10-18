@@ -22,6 +22,16 @@ claimed. The [organizers' report](https://austms.org.au/wp-content/uploads/2023/
 printed pp. 29–30, attributes the problem to Johan Meyer and describes
 numerical work by Chris Tuffley.
 
+The newly accepted [D9A--D9D sector/twin/return theorem](reviews/reasoning-dynamics-return-r9-acceptance.md)
+passed TWO OTHER whole48 audits/full reconciliation. Five of six invariant
+residue sectors allow at most one sign crossing on a never-diagonal orbit.
+The critical sector has exact reverse crossings with singleton lattice
+input fibers. A permanent actual unit twin leads to a stopped scalar
+return map on5mod6 diagonals, with every launch/arrival branch accounted.
+This gives a rigorous connection to scalar return dynamics but supplies
+neither an infinite safe path nor a proof all such paths stop. One-sided
+avoidance, universal hitting and the full annual question remain open.
+
 The new [D7A–D actual-ancestry result](reviews/reasoning-dynamics-return-r7-acceptance.md)
 is **proved, independently reviewed scoped partial result** after root/A
 TWO OTHER ENTIRE WHOLE48/48 and full96-disposition reconciliation.

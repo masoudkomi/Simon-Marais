@@ -1,0 +1,48 @@
+{
+  "status": "candidate proof - unverified; research checkpoint",
+  "fresh_read_date_utc": "2026-10-18",
+  "official_part": "2021 B4(b) only",
+  "official_url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2021-paper-b.pdf",
+  "official_fresh_scope": "complete local statement; previous official check attributed, no new PDF render",
+  "accepted_inputs_fresh_full_bodies": [
+    "problems/2021-B4/proofs/reviewed-reasoning-center-return-r18-v1.1.md",
+    "problems/2021-B4/proofs/reviewed-reasoning-center-return-r20-v1.1.md"
+  ],
+  "accepted_authorities_fresh_complete": [
+    "problems/2021-B4/reviews/reasoning-center-return-r18-acceptance.md",
+    "problems/2021-B4/reviews/reasoning-center-return-r18-acceptance.json",
+    "problems/2021-B4/reviews/reasoning-center-return-r20-acceptance.md",
+    "problems/2021-B4/reviews/reasoning-center-return-r20-acceptance.json"
+  ],
+  "exploratory_context": {
+    "path": "problems/2021-B4/notes/coordinator-frame-III-exploration-r1.md",
+    "fresh_complete_read": true,
+    "accepted_premise": false,
+    "lead_used": "D5 fork and indexing warning, directly rederived",
+    "root_excluded_from_independent_review_of_dependent_new_claim": true
+  },
+  "primary": [
+    {
+      "url": "https://arxiv.org/pdf/1208.5404",
+      "pages_returned": 23,
+      "read_scope": "Section3.2 Lemma14 and Section3.3 Proposition15 including entire proof; bounded Section3.4 normalization and introductory Hasse/type definitions",
+      "operative_text_lines": "648-841",
+      "full_paper_or_computational_program_audit": false,
+      "downloaded_byte_fingerprint": null
+    },
+    {
+      "url": "https://arxiv.org/pdf/1806.09561",
+      "pages_returned": 14,
+      "read_scope": "Entire Proposition7.7 proof and Remark7.8; adjacent Theorem7.9 proof text and Theorem7.10 statement/computational description for overlap only",
+      "operative_text_lines": "1035-1067",
+      "external_finite_certificate_imported_or_replayed": false,
+      "three_recycled_values_not_four": true,
+      "downloaded_byte_fingerprint": null
+    }
+  ],
+  "capped_context_call": "combined R19/R16 body call; no complete fresh read claimed and neither is a new mathematical premise",
+  "no_new_mathematical_program_or_scan": true,
+  "no_cache_write_charge_contact_or_bypass": true,
+  "no_exhaustive_status_or_novelty_claim": true,
+  "old_input_roles": "A authored R18/R20 and older accepted local inputs and reviewed other prerequisites; no fresh independent self-recertification"
+}

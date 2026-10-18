@@ -1,0 +1,24 @@
+{
+  "date_utc": "2026-10-18",
+  "reviewer": "/root/review_2022_complexity_r2",
+  "nonconstructor": true,
+  "whole_author_files_read": 12,
+  "whole_obligations_independently_reconstructed": 48,
+  "fresh_COMPLETE_accepted_bodies_and_EACH_current_MD_JSON": ["D8", "D7", "CF"],
+  "fresh_D8_sources_and_failures_COMPLETE": true,
+  "CF6_existence_used": false,
+  "fresh_full_historical_Q_D6_chain_recertification": false,
+  "external_theorem_mathematical_premise": false,
+  "primary": [
+    {"url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2022-paper-b.pdf", "read": "PDFp2 B4 setup/open(b), actual returned58--70", "preliminary_proof_or_other_problem_investigated": false, "binary_sha256": null},
+    {"authors": "J.C. Lagarias; N.J.A. Sloane", "title": "Approximate Squaring", "url": "https://neilsloane.com/doc/apsq.pdf", "read": "introduction/definitions through374; selected section5 context1402--1475; COMPLETE Theorem5 statement/proof1476--1552/remarks; Theorem6 statement/PARTIAL proof through1667", "whole22page_or_complete_Theorem6_proof_read": false, "imported": false, "binary_sha256": null},
+    {"authors": "Arturas Dubickas; Michael J. Mossinghoff", "title": "Lower bounds for Z-numbers", "url": "https://www.researchgate.net/publication/220576840_Lower_bounds_for_Z-numbers", "read": "definition(1.1)/positive proper-set/two-residue discussion167--227; COMPLETE Proposition3.2 statement/proof466--509; returned surrounding material not a whole-paper audit", "hypothesis_boundary": "ONE fixed scalar allowed residue, positive ordinary starting input", "imported": false, "source_algorithm_run": false, "binary_sha256": null}
+  ],
+  "other_discovery_only_references_freshly_opened": false,
+  "NEW_corresponding_peer_finding_file_actual_inventory_hash_metadata_commentary_access": false,
+  "mathematical_code_CAS_scan_test_old_author_source_freezer_replay": false,
+  "Git_shared_old_cache_mutation_spawn_charge_contact_bypass": false,
+  "pending_tool_or_child": false,
+  "requested": {"model": "gpt-6.1-sol", "reasoning": "max", "inherited": true},
+  "independent_effective_readback": null
+}

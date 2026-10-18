@@ -1,5 +1,20 @@
 # Weekly budget
 
+Current 04:01 continuing checkpoint: [2019 AU1--AU4 accepted](../problems/2019-B4/reviews/reasoning-occupation-return-r1-acceptance.md)
+and [2022 D9A--D9D accepted](../problems/2022-B4/reviews/reasoning-dynamics-return-r9-acceptance.md)
+after TWO OTHER whole audits and full coordinator reconciliation.
+AU proves actual positive-area/full-subthreshold-entropy lower bounds,
+not the missing fixed-positive-density upper mass. D9 proves exact global
+crossing/twin/stopped-return restrictions, not exclusion of all safe futures.
+Two complete annual answers/seven unresolved. R11 author13/64 and R21
+author15/48 are frozen UNVERIFIED; corresponding NEW peer files are
+excluded while their independent initials remain embargoed. Other hand
+research continues on2020 SQ16 and2024 geometry/literature.
+58% TOTAL account-wide at18:00:27UTC; reset1792874445/90%TOTAL/reserve.
+Raw project-chat counts remain the actual03:27 hourly snapshot, distinct
+from account-wide quota. [Checkpoint](checkpoint-2026-10-19-0401.md).
+
+
 Current 03:40 continuing checkpoint: [2025 DR8 accepted](../problems/2025-B4/reviews/reasoning-diagonal-return-r8-acceptance.md)
 after TWO OTHER whole64 audits and full author14/BOTH21/all128 reconciliation.
 It forces actual adjacent and higher-component order-p supports in the

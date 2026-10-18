@@ -1,0 +1,44 @@
+{
+  "status": "candidate proof - unverified",
+  "checked_date_utc": "2026-10-18",
+  "new_constructor": "/root/review_2017_coarsening_r1",
+  "root_supplied_NEW_mathematical_inference": false,
+  "old_PM8_constructor_role_not_independent_self_recertification": true,
+  "complete_accepted_bodies_and_current_MDJSON_read": ["WC", "WO", "PM8", "PM9", "R10"],
+  "sources": [
+    {
+      "name": "Official2017 Paper B",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2017-paper-2_1.pdf",
+      "operative_read": "p2 B4, extracted48--57",
+      "scope": "official n>=2 fixed unit-sided2n-gon, log2/n^2 lower and upper limits",
+      "no_other_problem_investigated": true
+    },
+    {
+      "name": "Felsner--Valtr, Coding and Counting Arrangements of Pseudolines",
+      "url": "https://page.math.tu-berlin.de/~felsner/Paper/new-pla.pdf",
+      "fresh_read": "extracted0--454",
+      "operative_hypotheses": "actual simple marked Euclidean arrangements; canonical boundary labels; exact cutpath extension fiber",
+      "read_limits": "full referenced representation foundations and later refined/lower proofs not freshly fully audited",
+      "binary_downloaded": false
+    },
+    {
+      "name": "Dallant, Improved Bound on the Number of Pseudoline Arrangements via the Zone Theorem",
+      "url": "https://arxiv.org/pdf/2502.20909v2",
+      "version": "v2",
+      "fresh_read": "extracted0--459 and534--809",
+      "operative_scope": "complete Section2 through Lemma7; exact marked rotation/zone interface, imported through accepted WC",
+      "not_imported": "later LP/computational certification, stacking count, average-zone conjectures",
+      "binary_downloaded": false
+    }
+  ],
+  "search_queries": [
+    "pseudoline cutpaths weighted path counting middle exits two step diamond upper bound",
+    "pseudoline arrangement cutpath weighted moment Hölder upper bound"
+  ],
+  "source_search_establishes_priority": false,
+  "new_mathematics": "two-route category-sensitive target discount, explicit infeasible-row payment, strict PM9 comparison, actual canonical class moment",
+  "no_new_mathematical_program_CAS_scan_or_old_replay": true,
+  "no_new_cache_or_shared_edits": true,
+  "no_pending_tool_or_native_child": true,
+  "no_charge_contact_or_access_bypass": true
+}
