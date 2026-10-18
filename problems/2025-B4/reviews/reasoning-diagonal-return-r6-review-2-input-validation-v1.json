@@ -1,0 +1,23 @@
+{
+  "validated_at_utc": "2026-10-18T14:34:51.186202+00:00",
+  "status": "PASS administrative preservation only",
+  "baseline": {
+    "path": "problems/2025-B4/reviews/reasoning-diagonal-return-r6-review-2-baseline-v1.json",
+    "bytes": 7868,
+    "sha256": "1b478580f849df62aa78b16ec470316d88015baed2237f3041602796feae2890"
+  },
+  "author_ENTIRE_files": 13,
+  "author_obligations_checks_and_review_ledger": [
+    48,
+    48,
+    48
+  ],
+  "closed_scope_notes": 7,
+  "all_guard_summary": {
+    "record_occurrences": 154,
+    "deduplicated_paths": 132,
+    "canonical_sha256": "1b08311fa9dd68afed5a08458ffbead66f767fc1b14745f4c09f19384974429a"
+  },
+  "no_mathematical_program_or_old_author_rerun": true,
+  "corresponding_NEW_peer_access": false
+}

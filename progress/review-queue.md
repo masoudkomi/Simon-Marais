@@ -1,5 +1,17 @@
 # Independent review queue
 
+Current continuing checkpoint19October2026:
+[2025 DR6](../problems/2025-B4/reviews/reasoning-diagonal-return-r6-acceptance.md)
+and[2022 D7](../problems/2022-B4/reviews/reasoning-dynamics-return-r7-acceptance.md)
+accepted after TWO OTHER ENTIRE WHOLE48/48 each and full reconciliation.
+2021R19FULLv1.1author16/76 remains UNVERIFIED pending affected whole2/3/
+reconciliation;root whole1entire11frozen/embargo. NEW2019ATauthor11/64
+frozenUNVERIFIED,two OTHER audits queued. NEW2024R8author13/48 frozen
+UNVERIFIED;NEW2021R20 reasoning continues. Direct44%TOTAL14:47:04UTC,authorized1792874445onlythrough90/
+reserve. [Checkpoint](checkpoint-2026-10-19-0050.md).
+Next ACTUAL hourly15:27:30UTC;last actual token report00:27Brisbane.
+
+
 ACTUAL00:27Brisbane19October2026:[all-nine hourly report](status-2026-10-19-0027.md).
 42%TOTAL/current authorized1792874445window only through90/reserve.
 PM9/BT/SQ14/R7 accepted and pushed;R19 correction/BOTH reaudits required.

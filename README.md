@@ -21,12 +21,16 @@ reconciliation. [2024 R7](problems/2024-B4/reviews/reasoning-cofactor-return-r7-
 now proves a whole absolute-irreducibility gcd criterion after both
 whole64/64 audits and reconciliation. [2020 SQ14](problems/2020-B4/reviews/reasoning-arithmetic-return-r14-acceptance.md)
 is also accepted after both whole64/64 audits.2021R19 remains unverified:
-an introductory scaling error requires versioned author correction and
-both affected reaudits;the formal normalized proof is not refuted.
-Direct weekly42%TOTAL at2026-10-18 14:27:49 UTC/reset1792874445;
+its full versioned scaling correction is frozen and awaits the affected
+whole audits and reconciliation; the normalized proof is not refuted.
+[2025 DR6](problems/2025-B4/reviews/reasoning-diagonal-return-r6-acceptance.md)
+and [2022 D7](problems/2022-B4/reviews/reasoning-dynamics-return-r7-acceptance.md)
+are now accepted after both entire whole48/48 audits. FULL R19v1.1
+author repair remains unverified pending affected audits/reconciliation.
+Direct weekly44%TOTAL at2026-10-18 14:47:04 UTC/reset1792874445;
 continue to90%TOTAL with reserve in this explicitly authorized window.
 
-- [Latest continuing checkpoint](progress/checkpoint-2026-10-19-0018.md).
+- [Latest continuing checkpoint](progress/checkpoint-2026-10-19-0050.md).
 - [Latest actual hourly report](progress/status-2026-10-19-0027.md);
   the historical23:27 table sign typo is corrected in the new hourly report.
   Next actual hourly/owned-awake check15:27:30UTC.

@@ -1,0 +1,118 @@
+{
+  "frozen_at_utc": "2026-10-18T14:29:43.626273+00:00",
+  "status": "candidate proof - unverified; BOTH affected whole reaudits required",
+  "version": "1.1",
+  "issue": "R19R2-01",
+  "constructor_excluded": true,
+  "whole_obligations": 76,
+  "original_whole": 64,
+  "repair_additional": 12,
+  "payload_files": 15,
+  "ENTIRE_files": 16,
+  "FULL_final_ALL15_payload_model_readback_completed": true,
+  "manifest_FULL_readback_and_SEPARATE_verify_required_before_handoff": true,
+  "compact_baseline": {
+    "path": "problems/2021-B4/notes/reasoning-center-return-r19-baseline-v1.1.json",
+    "bytes": 6963,
+    "sha256": "39d5795a29b63c06786a5065c25a45862ec8dba376fa5a99653adda67d233352"
+  },
+  "original_immutable_author_manifest": {
+    "path": "problems/2021-B4/notes/reasoning-center-return-r19-freeze-v1.json",
+    "bytes": 3893,
+    "sha256": "dfe7b6b4f372b44a2806fc96ce41613bfc2fb7e8f5469fc2d10552aa83b835d3"
+  },
+  "original_peer_manifests": [
+    {
+      "path": "problems/2021-B4/reviews/reasoning-center-return-r19-review-1-manifest-v1.json",
+      "bytes": 2677,
+      "sha256": "4dbb9d1f2c775c2198fb990bd23a40ed5400f9d054042c796fe84a4c9eb0653d"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-center-return-r19-review-2-manifest-v1.json",
+      "bytes": 5195,
+      "sha256": "2cdc76363c43865d1ca20347670ba0878e6c90cf0ad4b2acb2af04b26212754e"
+    }
+  ],
+  "protected_current_occurrences": 92,
+  "protected_current_unique_paths": 73,
+  "canonical_deduplicated_sha256": "a47768efab8dc3b8889e2d82a97b4220dcdc611e4818375ade3d4cd7c21170fe",
+  "mathematical_program_CAS_scan_replay": false,
+  "no_future_affected_peer_finding_file_hash_metadata_access": true,
+  "payloads": [
+    {
+      "path": "problems/2021-B4/notes/reasoning-center-return-r19-candidate-v1.1.md",
+      "bytes": 23302,
+      "sha256": "fd5a5399414c60c20797b63dfa9f55b8f66ac679fdd5458488c3250e3605a56a"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-center-return-r19-obligations-v1.1.md",
+      "bytes": 10691,
+      "sha256": "549219832cc986c9b36584af51d4f4bddef037be4fea5f3d4cdbb37a9642c4a2"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-center-return-r19-checks-v1.1.md",
+      "bytes": 5598,
+      "sha256": "c99443e6ebc44608163cadc4b7bb9f186391ec1cd3cf7dd47b9d042278378ac3"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-center-return-r19-failures-v1.1.md",
+      "bytes": 5206,
+      "sha256": "355417279d773f83dee10fb40d95324a44ea28a21acbba2ed1f0e1d751c71c38"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-center-return-r19-sources-v1.1.md",
+      "bytes": 7900,
+      "sha256": "ce7c5df74fc088de0f7b5857c84526863b9f1c42744ebee651eba3d42d158dfe"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-center-return-r19-sources-v1.1.json",
+      "bytes": 5752,
+      "sha256": "3f473d93d960a22d1e23aeb5bee828f987d75f03fed55fca79491fee14960adf"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-center-return-r19-worklog-v1.1.md",
+      "bytes": 2480,
+      "sha256": "62cd93e9e70c54f7cd4f76c114316605f676396889db1c202a2a98f3aa389478"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-center-return-r19-code-log-v1.1.md",
+      "bytes": 2110,
+      "sha256": "47462c3a3daed90c0b10c7a7bd6ac86f1d49258071156ebbd17627c2c19f1e7d"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-center-return-r19-repair-ledger-v1.1.md",
+      "bytes": 2585,
+      "sha256": "2790d2ffcc572cb0a1b31b6f4cead52d5b6d4b387b5dbd6892102ce21b0bcf01"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-center-return-r19-diff-v1-to-v1.1.patch",
+      "bytes": 9388,
+      "sha256": "f71982351967126e0440bc1545662c5b2fd2f87089cd4eddbdae9e3a5dc21b58"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-center-return-r19-build-v1.1.py",
+      "bytes": 25112,
+      "sha256": "8571ae23e66437c8a6c3dd05c53071a91a21cad9bb5ad34a2816f8a6ae2a88b4"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-center-return-r19-admin-v1.1.py",
+      "bytes": 13004,
+      "sha256": "b0e250926df5a0a94e95875d8ac8e8efe28e400057839bfebb2dd4c872445dfc"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-center-return-r19-baseline-v1.1.json",
+      "bytes": 6963,
+      "sha256": "39d5795a29b63c06786a5065c25a45862ec8dba376fa5a99653adda67d233352"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-center-return-r19-input-validation-v1.1.json",
+      "bytes": 462,
+      "sha256": "5bdc137522870d87f9daf9287b8213f01149ae49d9c425a3061a0cc692885a52"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-center-return-r19-metadata-v1.1.json",
+      "bytes": 1793,
+      "sha256": "6cbd9459093d12477f36ae2fe286ed5d79f22aecc6bd364457ac0da234b4e7f7"
+    }
+  ]
+}

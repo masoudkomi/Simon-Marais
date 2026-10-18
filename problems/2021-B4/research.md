@@ -1,5 +1,14 @@
 # 2021 B4 research log
 
+The FULL [R19 v1.1 author repair](notes/reasoning-center-return-r19-candidate-v1.1.md)
+is frozen/ALL76 and **UNVERIFIED pending BOTH affected whole audits and
+reconciliation**. It corrects omitted original-coordinate scale:
+normalized Eisenstein P(T+1),ramified field/original distances differ
+from nonintegral original translates. All original bytes,B's objection/
+prototype and root's missed qualification are preserved. No new R19 or
+degree20/annual acceptance is claimed.
+
+
 The NEW R19 candidate remains **UNVERIFIED,author correction required**:
 [whole-audit reconciliation](reviews/reasoning-center-return-r19-coordinator-reconciliation-v1.md).
 Both full64-obligation audits support the formal normalized R19A–C proof,

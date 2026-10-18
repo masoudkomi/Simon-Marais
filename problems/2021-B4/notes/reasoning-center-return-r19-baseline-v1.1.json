@@ -1,0 +1,148 @@
+{
+  "created_at_utc": "2026-10-18T14:28:09.060070+00:00",
+  "status": "candidate proof - unverified; required author correction",
+  "direct_current_inputs": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2021-B4/statement.md",
+      "bytes": 1745,
+      "sha256": "5cd9750a2458191370590120fb4ae7d547740784eb1de38ee9e2e7890a2fabed"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-center-return-r19-freeze-v1.json",
+      "bytes": 3893,
+      "sha256": "dfe7b6b4f372b44a2806fc96ce41613bfc2fb7e8f5469fc2d10552aa83b835d3"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-center-return-r19-baseline-v1.json",
+      "bytes": 12132,
+      "sha256": "4ecfdbfd32cec1d1ddda143c1a584f8804efdc27f1a9b92ccf912318022925a1"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-center-return-r19-review-1-manifest-v1.json",
+      "bytes": 2677,
+      "sha256": "4dbb9d1f2c775c2198fb990bd23a40ed5400f9d054042c796fe84a4c9eb0653d"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-center-return-r19-review-2-manifest-v1.json",
+      "bytes": 5195,
+      "sha256": "2cdc76363c43865d1ca20347670ba0878e6c90cf0ad4b2acb2af04b26212754e"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-center-return-r19-coordinator-reconciliation-v1.json",
+      "bytes": 1360,
+      "sha256": "10419e24f90b27139cb375b65078527e63e447f07937dfe35e549b5df76ce217"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-diagonal-return-r6-freeze-v1.json",
+      "bytes": 3623,
+      "sha256": "a9edb267e1b417beedcfbe57dec293b9d494fe878f2758ccbdc4f5c300188b8d"
+    }
+  ],
+  "compact_immutable_parent_bindings": [
+    {
+      "parent": {
+        "path": "problems/2021-B4/notes/reasoning-center-return-r19-freeze-v1.json",
+        "bytes": 3893,
+        "sha256": "dfe7b6b4f372b44a2806fc96ce41613bfc2fb7e8f5469fc2d10552aa83b835d3"
+      },
+      "declared_fingerprint_occurrences": 15,
+      "immutable_occurrences_verified": 15,
+      "immutable_unique_paths_verified": 14,
+      "immutable_canonical_sha256": "7fdc24696377402447dd658762636b1e173a676e7b8f037f3ce1d15b2be16bfe",
+      "historical_mutable_occurrences_NOT_current_math_inputs": 0,
+      "historical_mutable_rows_preserved_in_immutable_parent_only": true,
+      "parent_historical_counts_NOT_fresh_recursive_model_reads": {
+        "protected_current_occurrences": 205,
+        "protected_current_unique_paths": 131
+      }
+    },
+    {
+      "parent": {
+        "path": "problems/2021-B4/notes/reasoning-center-return-r19-baseline-v1.json",
+        "bytes": 12132,
+        "sha256": "4ecfdbfd32cec1d1ddda143c1a584f8804efdc27f1a9b92ccf912318022925a1"
+      },
+      "declared_fingerprint_occurrences": 33,
+      "immutable_occurrences_verified": 30,
+      "immutable_unique_paths_verified": 22,
+      "immutable_canonical_sha256": "9c5c801f83e6463345a01a24977c580b19f86cf4cf512c278c201ce2911eadb1",
+      "historical_mutable_occurrences_NOT_current_math_inputs": 3,
+      "historical_mutable_rows_preserved_in_immutable_parent_only": true,
+      "parent_historical_counts_NOT_fresh_recursive_model_reads": {
+        "protected_current_occurrences": 205,
+        "protected_current_unique_paths": 131
+      }
+    },
+    {
+      "parent": {
+        "path": "problems/2021-B4/reviews/reasoning-center-return-r19-review-1-manifest-v1.json",
+        "bytes": 2677,
+        "sha256": "4dbb9d1f2c775c2198fb990bd23a40ed5400f9d054042c796fe84a4c9eb0653d"
+      },
+      "declared_fingerprint_occurrences": 10,
+      "immutable_occurrences_verified": 10,
+      "immutable_unique_paths_verified": 10,
+      "immutable_canonical_sha256": "717fa28023483aff8d351baebf12a4a76ad347dddd1aaa9613737e97dc12d215",
+      "historical_mutable_occurrences_NOT_current_math_inputs": 0,
+      "historical_mutable_rows_preserved_in_immutable_parent_only": true,
+      "parent_historical_counts_NOT_fresh_recursive_model_reads": {}
+    },
+    {
+      "parent": {
+        "path": "problems/2021-B4/reviews/reasoning-center-return-r19-review-2-manifest-v1.json",
+        "bytes": 5195,
+        "sha256": "2cdc76363c43865d1ca20347670ba0878e6c90cf0ad4b2acb2af04b26212754e"
+      },
+      "declared_fingerprint_occurrences": 12,
+      "immutable_occurrences_verified": 12,
+      "immutable_unique_paths_verified": 12,
+      "immutable_canonical_sha256": "67293eaab2e861957bae806b8b017524bc4e0850b8e46cc1f8a7f6506feccd39",
+      "historical_mutable_occurrences_NOT_current_math_inputs": 0,
+      "historical_mutable_rows_preserved_in_immutable_parent_only": true,
+      "parent_historical_counts_NOT_fresh_recursive_model_reads": {
+        "necessary_guard_occurrences": 228,
+        "necessary_guard_unique_paths": 154
+      }
+    },
+    {
+      "parent": {
+        "path": "problems/2021-B4/reviews/reasoning-center-return-r19-coordinator-reconciliation-v1.json",
+        "bytes": 1360,
+        "sha256": "10419e24f90b27139cb375b65078527e63e447f07937dfe35e549b5df76ce217"
+      },
+      "declared_fingerprint_occurrences": 3,
+      "immutable_occurrences_verified": 3,
+      "immutable_unique_paths_verified": 3,
+      "immutable_canonical_sha256": "07ef71eb06cb87a140a8f1966647887dc1a5c304e64b4e04b30b266609b30ecf",
+      "historical_mutable_occurrences_NOT_current_math_inputs": 0,
+      "historical_mutable_rows_preserved_in_immutable_parent_only": true,
+      "parent_historical_counts_NOT_fresh_recursive_model_reads": {}
+    },
+    {
+      "parent": {
+        "path": "problems/2025-B4/notes/reasoning-diagonal-return-r6-freeze-v1.json",
+        "bytes": 3623,
+        "sha256": "a9edb267e1b417beedcfbe57dec293b9d494fe878f2758ccbdc4f5c300188b8d"
+      },
+      "declared_fingerprint_occurrences": 14,
+      "immutable_occurrences_verified": 14,
+      "immutable_unique_paths_verified": 13,
+      "immutable_canonical_sha256": "31b82aa2f543bc9043c04afd1ea187efc7df3d5e4caf60f12fb67df65f62f269",
+      "historical_mutable_occurrences_NOT_current_math_inputs": 0,
+      "historical_mutable_rows_preserved_in_immutable_parent_only": true,
+      "parent_historical_counts_NOT_fresh_recursive_model_reads": {}
+    }
+  ],
+  "protected_current_occurrences": 92,
+  "protected_current_unique_paths": 73,
+  "canonical_deduplicated_sha256": "a47768efab8dc3b8889e2d82a97b4220dcdc611e4818375ade3d4cd7c21170fe",
+  "recipe": "Check direct paths and each immutable parent identity, recursively collect exact path/bytes/sha256 objects within each parent JSON without opening nested historical metadata; verify immutable records and summarize duplicate occurrences. Historical mutable status snapshots are retained only in original immutable parents, never asserted current or used as mathematical premises.",
+  "all_original_author13_and_original_peer21_preserved": true,
+  "fingerprints_NOT_fresh_historical_mathematical_model_reads": true,
+  "no_future_affected_peer_material_access": true
+}

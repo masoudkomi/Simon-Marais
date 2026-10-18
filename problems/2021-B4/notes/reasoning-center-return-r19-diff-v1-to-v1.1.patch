@@ -1,0 +1,193 @@
+--- reasoning-center-return-r19-candidate-v1.md
++++ reasoning-center-return-r19-candidate-v1.1.md
+@@ -17,15 +17,32 @@
+ 
+     v2(s) < min(0,v2(r)).                              (R19B)
+ 
+-Moreover the actual degree14 carrier has a degree2 factor over Q2
+-whose translate is 2-Eisenstein. This is a necessary arithmetic
+-obstruction for the ENTIRE frame II, not an exclusion of that frame.
+-Frame III and the other actual EC/m3 branches remain unresolved.
++Moreover the SCALED carrier G(Z)=s^(-14)g(sZ) has a monic
++degree2 factor P over Z2 for which P(T+1) is 2-Eisenstein.
++The corresponding monic factor E(X)=s^2 P(X/s) of the ORIGINAL
++carrier lies over Q2 and defines a ramified quadratic field. Its
++translate E(T+s) has constant valuation 2v2(s)+1<0, so it is NOT
++an integral Eisenstein polynomial. The original carrier roots in
++this pair satisfy v2(alpha-s)=v2(s)+1/2. These are necessary
++arithmetic properties for the ENTIRE frame II, not an exclusion of
++that frame. Frame III and the other actual EC/m3 branches remain
++unresolved.
+ 
+ No mathematical program, coefficient or valuation scan, CAS,
+ author/source rerun or old certificate replay supplied the proof.
+ All arithmetic and the finite parity choices below are displayed
+ symbolically. Administrative code only checks paths, bytes and hashes.
++
++Version1.1 is a FULL author replacement after BOTH original whole
++initials completed. Reviewer B identified required correction R19R2-01:
++the v1 introduction incorrectly transferred an Eisenstein assertion
++from a scaled carrier to the original carrier by translation alone.
++That sentence is withdrawn; the precise normalized theorem and its
++original-coordinate consequences are stated and proved below. All
++v1 and original review bytes remain immutable. Root's original whole
++initial missed this introductory overstatement; its coordinator
++reconciliation preserves that fact. BOTH affected whole reaudits are
++required before any promotion. This version is still UNVERIFIED.
+ 
+ ## 0. Exact domain and accepted authority
+ 
+@@ -79,7 +96,16 @@
+ were read as well. Constructor A authored R18 and older accepted
+ local inputs, and performed earlier whole reviews of other inputs;
+ those are disclosed accepted-input roles, not fresh independent
+-self-certification. No NEW R19 peer review exists or was consulted.
++self-certification. In the original v1 construction no NEW R19
++peer review existed or was consulted. After BOTH original whole
++initials froze and root explicitly released them, this repair read
++both full mathematical reports, all64+64 dispositions, issue logs,
++source MD/JSON and worklogs. B's scaling objection and hand prototype
++are retained in Section8 and the repair ledger. They prompted this
++author correction; they are not concealed as new author discovery.
++The original generic research assignment supplied no new proof step.
++The present repair uses the reviewer-identified coordinate formula;
++root relayed the objection and required both affected reaudits.
+ 
+ ## Proposed claims
+ 
+@@ -119,9 +145,21 @@
+     v2(z-1)=1/2.
+ 
+ The corresponding two roots alpha=s z of the ORIGINAL carrier g
+-satisfy v2(alpha-s)=v2(s)+1/2. The other twelve roots of G are
+-integral and reduce to0. This local factor is not a rational global
+-factor, and none of its roots is promoted to a rational common witness.
++satisfy v2(alpha-s)=v2(s)+1/2. Their monic original-coordinate
++factor is E(X)=s^2 P(X/s), irreducible of degree2 over Q2. It
++defines the SAME root field as P; this field has ramification index2.
++Writing P(T+1)=T^2+bT+c and M=v2(s)<0, one has the exact identities
++
++    E(T+s)=T^2+s b T+s^2 c,
++    v2(s^2 c)=2M+1<0,
++    s^(-2) E(s(T+1))=P(T+1).                       (C-original)
++
++Thus the Eisenstein assertion concerns the normalized P(T+1),
++not the original-coordinate translate E(T+s). In fact no Q2
++translation of this constructed monic E is integral. The other
++twelve roots of G are integral and reduce to0. This local factor
++is not a rational global factor, and none of its roots is promoted
++to a rational common witness.
+ 
+ ## 1. Integral normalization from the actual rational witnesses
+ 
+@@ -334,7 +372,7 @@
+ compatible for rational numbers. Such numerical compatibility is
+ not an assertion that those numbers extend to an actual f.
+ 
+-## 6. The degree2 carrier factor is forced and 2-Eisenstein
++## 6. The normalized degree2 factor is forced and 2-Eisenstein
+ 
+ Choose u=s in (1), which is permitted by (17). Now S=1 exactly,
+ and R=r/s,h=1/s lie in2Z2. The preceding proof and (4) give
+@@ -389,15 +427,61 @@
+ 
+ The other monic factor Q is integral. Each of its roots is integral
+ and reduces to0 because Qbar=Z^12. Returning to g via alpha=s z
+-proves all assertions of R19C. The quadratic root field is ramified
+-at2, as also witnessed directly by the half-integral valuation.
++gives v(alpha-s)=M+1/2, where M=v(s)<0. The corresponding exact
++factorization over Q2, in ORIGINAL coordinates, is
++
++    g(X)=E(X) Q_original(X),
++    E(X)=s^2 P(X/s), Q_original(X)=s^12 Q(X/s).
++
++These two original-coordinate factors are monic, but integral
++coefficients are NOT asserted. Since s is a nonzero rational
++number, substitution X=sZ preserves irreducibility over Q2 and
++Q2(alpha)=Q2(z)=Q2(z-1). The field has degree2 and contains
++an element z-1 of valuation1/2, hence is ramified with index2.
++For the index assertion, distinct valuation classes modulo Z give
++linearly independent elements over Q2, by the unique-smallest-term
++argument. There are at least two classes, and at most the field
++degree2, so the index is exactly2.
++
++Put P(T+1)=T^2+bT+c as above. Direct substitution gives
++
++    E(T+s)=s^2 P(1+T/s)=T^2+s b T+s^2 c.           (20)
++
++The constant term in (20) has valuation 2M+1. As M is a negative
++INTEGER, 2M+1<=-1. Therefore (20) is not in Z2[T] and cannot
++be called 2-Eisenstein. Rescaling as well as translating gives
++the exact identity s^(-2)E(s(T+1))=P(T+1), which IS integral
++and 2-Eisenstein. No invariance under nonunit scaling is used.
++
++More strongly, let a be ANY element of Q2. For either root alpha
++of E put t=z-1; then
++
++    alpha-a=s(t+1-a/s).
++
++The term 1-a/s lies in Q2 and has integral valuation, or is0
++and has infinite valuation. It can never have valuation1/2.
++The unequal-valuation sum rule gives
++
++    v(alpha-a)=M+min(1/2,v(1-a/s))<=M+1/2<0.        (21)
++
++If E(T+a) were monic integral, all its roots would be integral
++by Section1, contradicting (21). Thus NO Q2 translation makes
++this constructed monic E integral. This assertion concerns E,
++not unknown other possible local factors of g. The ramified
++quadratic field and root distances persist under the change of
++coordinates; integral Eisenstein coefficients do not. This proves
++the exact normalized and original-coordinate versions of R19C.
+ 
+ ## 7. Exact gain, source attribution and remaining inference
+ 
+ Frame I has been excluded in its ENTIRE accepted actual domain;
+ the proof does not merely reject a finite residue pattern. Frame II
+ has the unrestricted necessary properties (17),(18) and the exact
+-carrier value v(G(1))=1. These do not assume a2-adic depth cap,
++carrier value v(G(1))=1. Its quadratic factor P is integral
++and has an Eisenstein translate only in the NORMALIZED coordinate
++used here. The constructed original monic E has a ramified degree2
++root field and satisfies (20),(21), not an integral-translate claim.
++These conclusions do not assume a2-adic depth cap,
+ an extra19-unit, an ordering of the real roots, s=2r over Q,
+ or that a simple local root is a rational common root.
+ 
+@@ -426,3 +510,36 @@
+ an argument. The different EC8/EC9-H10 and m3 branches remain
+ outside the new exclusions. This is no full m4/J15/degree20 or
+ annual solution and gives no numerical valuation or height bound.
++
++
++## 8. Required correction R19R2-01 and its sharp counterexample
++
++The original v1 introduction said that the actual degree14 carrier
++has a quadratic factor whose translate is 2-Eisenstein. The formal
++v1 Section6 had established that assertion only for the SCALED
++G and its integral factor P. Dropping this scale was incorrect.
++Reviewer B identified the issue and supplied the following exact
++hand prototype, retained here with attribution:
++
++    P(Z)=(Z-1)^2-2, s=1/2,
++    P(T+1)=T^2-2,
++    E(X)=s^2 P(X/s)=X^2-X-1/4,
++    E(T+1/2)=T^2-1/2.
++
++The normalized translate is 2-Eisenstein; the last polynomial is
++not integral. This is a counterexample to the omitted scaling
++inference, NOT an actual degree20 polynomial satisfying (S),(W)
++or an example contradicting the original Casas--Alvero question.
++No numerical scan or algebra system produced this prototype.
++
++The repaired claims retain the entire R19A exclusion and R19B
++inequality, the normalized factorization and P(T+1) Eisenstein
++property, the local quadratic field with ramification index2, and
++the original root displacement M+1/2. The unscaled integral
++Eisenstein assertion is withdrawn and explicitly replaced by the
++negative constant valuation and nonintegrality in (20),(21).
++Nothing here excludes frame II or III, forces an actual new
++rational common zero, makes g globally reducible, or solves the
++remaining degree20/annual problem. BOTH original reviewers must
++reconstruct the full affected argument in fresh independent
++reaudits before coordinator promotion. No old file was edited.

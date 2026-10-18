@@ -1,5 +1,15 @@
 # 2022 B4 independent reviews
 
+The new [D7A–D actual-ancestry result](reasoning-dynamics-return-r7-acceptance.md)
+is **proved, independently reviewed scoped partial result** after root/A
+TWO OTHER ENTIRE WHOLE48/48 and full96-disposition reconciliation.
+Whole collateral ancestry escapes fixed real growth bands;hypothetical
+avoiding sources need not be small. The exact all-N family first hits
+at N+2 with singleton image fibers along its finite avoiding prefix.
+No infinite avoider,universal hitting,CF6 existence,source-size transport,
+annual or priority conclusion.
+
+
 The new [D6A–D6D actual-growth theorem](reasoning-dynamics-return-r6-acceptance.md) is **proved, independently reviewed scoped partial result** after C/root TWO OTHER ENTIRE initially blind WHOLE64/64 audits and full reconciliation. A uniform32-step finite steering argument yields power-sparse equal-growth common translations except the precise permanent even-a unit twin. On EVERY fixed-difference line, distinct actual real SUM-growth values below X number X/2+O_d(X^eta),with a fixed eta<1. Explicit legal ordinary neighboring starts on difference6 have certified different growth values arbitrarily close together. These results do not decide universal diagonal hitting,an infinite avoider,CF6existence or effective equality. No priority or external-validation claim.
 
 The new [CF1--CF6 trajectory theorem](reviews/reasoning-fiber-return-r5-acceptance.md)

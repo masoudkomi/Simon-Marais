@@ -1,0 +1,147 @@
+{
+  "created_at_utc": "2026-10-18T14:38:11.840330+00:00",
+  "direct_current_inputs": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2022-B4/statement.md",
+      "bytes": 1195,
+      "sha256": "2011761509ac42d5ffa2ab9e86dd1db464618707443a68f43fb3e45f59ed36c0"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-dynamics-return-r7-freeze-v1.json",
+      "bytes": 3391,
+      "sha256": "305eb7fbd3a9c6282c34310e72c8ffd862c4ac5315996cf2cced945d503994b2"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-dynamics-return-r7-baseline-v1.json",
+      "bytes": 9286,
+      "sha256": "7492e3fca1727c26f7a78365a4b8647762c15a27dc6e8b548db377ce59e013d3"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-center-return-r19-freeze-v1.1.json",
+      "bytes": 4753,
+      "sha256": "1b86a88b22a1cf755836900d314e26b7ac109f83e3031b03254a78a3d36f49fd"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-dynamics-return-r6-acceptance.json",
+      "bytes": 4830,
+      "sha256": "fe7cd5967201e6b1ed6d7c7216645dced78c72b7ecc070a55ab30cef73a44cca"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-fiber-return-r5-acceptance.json",
+      "bytes": 4684,
+      "sha256": "d352f86837f935f0757c2c9fc56a9a2708856f03a976934a791e12e1000ac0ee"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-complexity-return-r9-v3-acceptance.json",
+      "bytes": 4311,
+      "sha256": "8d47520d7fd80656d14bf7116a5d614cc55ff37c25963e839cf45d8495fe42c6"
+    }
+  ],
+  "compact_immutable_parent_bindings": [
+    {
+      "immutable_parent": {
+        "path": "problems/2022-B4/notes/reasoning-dynamics-return-r7-freeze-v1.json",
+        "bytes": 3391,
+        "sha256": "305eb7fbd3a9c6282c34310e72c8ffd862c4ac5315996cf2cced945d503994b2"
+      },
+      "declared_occurrences": 14,
+      "immutable_occurrences_checked": 14,
+      "immutable_unique_paths_checked": 13,
+      "immutable_canonical_sha256": "15d966b9419888a831fdf2d56b130ff042d2548dc33970bdf59040a802cfdae6",
+      "historical_mutable_rows_not_current_proof_inputs": 0,
+      "historical_counts_not_fresh_recursive_model_reads": {}
+    },
+    {
+      "immutable_parent": {
+        "path": "problems/2022-B4/notes/reasoning-dynamics-return-r7-baseline-v1.json",
+        "bytes": 9286,
+        "sha256": "7492e3fca1727c26f7a78365a4b8647762c15a27dc6e8b548db377ce59e013d3"
+      },
+      "declared_occurrences": 41,
+      "immutable_occurrences_checked": 41,
+      "immutable_unique_paths_checked": 32,
+      "immutable_canonical_sha256": "ddbf9ee7d06dd38aed2da2982a7c5d7c7d9e6dec42434ecef3dfbccbb2dd511c",
+      "historical_mutable_rows_not_current_proof_inputs": 0,
+      "historical_counts_not_fresh_recursive_model_reads": {
+        "fingerprint_occurrences": 29,
+        "unique_paths": 29
+      }
+    },
+    {
+      "immutable_parent": {
+        "path": "problems/2021-B4/notes/reasoning-center-return-r19-freeze-v1.1.json",
+        "bytes": 4753,
+        "sha256": "1b86a88b22a1cf755836900d314e26b7ac109f83e3031b03254a78a3d36f49fd"
+      },
+      "declared_occurrences": 19,
+      "immutable_occurrences_checked": 19,
+      "immutable_unique_paths_checked": 18,
+      "immutable_canonical_sha256": "70d5aac06bff159ba037fc1e85effd94db52f1b795fe948f95d9393040d45d0a",
+      "historical_mutable_rows_not_current_proof_inputs": 0,
+      "historical_counts_not_fresh_recursive_model_reads": {
+        "protected_current_occurrences": 92,
+        "protected_current_unique_paths": 73
+      }
+    },
+    {
+      "immutable_parent": {
+        "path": "problems/2022-B4/reviews/reasoning-dynamics-return-r6-acceptance.json",
+        "bytes": 4830,
+        "sha256": "fe7cd5967201e6b1ed6d7c7216645dced78c72b7ecc070a55ab30cef73a44cca"
+      },
+      "declared_occurrences": 17,
+      "immutable_occurrences_checked": 17,
+      "immutable_unique_paths_checked": 17,
+      "immutable_canonical_sha256": "01a0946ee141ff7324a4341b1e338c3009c771bbd9181f9ee290508b833c7052",
+      "historical_mutable_rows_not_current_proof_inputs": 0,
+      "historical_counts_not_fresh_recursive_model_reads": {
+        "record_occurrences_verified": 141,
+        "unique_paths_verified": 81
+      }
+    },
+    {
+      "immutable_parent": {
+        "path": "problems/2022-B4/reviews/reasoning-fiber-return-r5-acceptance.json",
+        "bytes": 4684,
+        "sha256": "d352f86837f935f0757c2c9fc56a9a2708856f03a976934a791e12e1000ac0ee"
+      },
+      "declared_occurrences": 17,
+      "immutable_occurrences_checked": 17,
+      "immutable_unique_paths_checked": 17,
+      "immutable_canonical_sha256": "da648b8432fc6c8ef0df48bbc57a2dd779a201afe31161794af7550690738583",
+      "historical_mutable_rows_not_current_proof_inputs": 0,
+      "historical_counts_not_fresh_recursive_model_reads": {
+        "record_occurrences_verified": 253,
+        "unique_paths_verified": 87
+      }
+    },
+    {
+      "immutable_parent": {
+        "path": "problems/2022-B4/reviews/reasoning-complexity-return-r9-v3-acceptance.json",
+        "bytes": 4311,
+        "sha256": "8d47520d7fd80656d14bf7116a5d614cc55ff37c25963e839cf45d8495fe42c6"
+      },
+      "declared_occurrences": 16,
+      "immutable_occurrences_checked": 16,
+      "immutable_unique_paths_checked": 16,
+      "immutable_canonical_sha256": "1a4d76ebe3d39f2e491ea69a897cccc933e954c016d167c89ad089c5d38c9a31",
+      "historical_mutable_rows_not_current_proof_inputs": 0,
+      "historical_counts_not_fresh_recursive_model_reads": {
+        "record_occurrences_verified": 276,
+        "unique_paths_verified": 102
+      }
+    }
+  ],
+  "protected_occurrences": 132,
+  "protected_unique_paths": 106,
+  "canonical_deduplicated_sha256": "4d4933d5802980525e6a399bde2c26db2eeb2285c958d6dc2a788ed5bf5f36d7",
+  "recipe": "Verify direct inputs/each immutable parent and every exact local fingerprint within that parent JSON; retain only compact per-parent counts/digest, without opening nested old metadata recursively or copying historical inventories. Exclude root-owned historical mutable status observations from immutable mathematical inputs.",
+  "all_frozen_author_and_own_parent_payloads_unchanged": true,
+  "byte_validation_NOT_fresh_historical_mathematical_model_reading": true,
+  "corresponding_NEW_root_D7_accessed": false
+}
