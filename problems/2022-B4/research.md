@@ -1,5 +1,7 @@
 # 2022 B4 research log
 
+09:46 update: CR11A--C is **proved, independently reviewed scoped partial result** after root/C OTHER whole48 audits/full96 reconciliation. Actual first-SAFE4/2 reversals force global weak monotone factors to be constant on a tail, and preclude every unbounded monotone fixed expanding scalar coordinate with uniformly bounded error. This is a global-method obstruction; no individual infinite safe orbit, one-sided tail or annual hitting answer follows. [Acceptance](reviews/reasoning-critical-return-r11-acceptance.md). Earlier dated snapshots remain historical.
+
 08:40 update: RC10A–E is now proved, independently reviewed as a scoped partial after C/root TWO OTHER initially blind whole60 audits and full120 reconciliation. It constructs actual first-equality families with exactly2N strict sign changes, unbounded selected return slopes and every finite selected ordinary return word; it excludes eventually periodic exact selected SAFE words only. Infinite avoidance, one-sided nonreturn, universal hitting and the annual problem remain open. [Acceptance](reviews/reasoning-collision-return-r10-acceptance.md).
 
 

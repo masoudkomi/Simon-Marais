@@ -1,5 +1,7 @@
 # 2021 B4 research log
 
+09:46 update: R23A--D is **proved, independently reviewed scoped partial result** after root/C OTHER whole48 audits/full96 reconciliation. In the retained actual frameIII, negative depth1 and BOTH nonzero D5 forks are excluded, a5=0 and full gcd(f,H15)=X²; necessary deeper D9/D10 restrictions remain. The deeper A5zero/A8unit branch, other patterns and the annual answer remain open. [Acceptance](reviews/reasoning-negative-return-r23-acceptance.md). Earlier dated snapshots remain historical.
+
 08:33 update: R22A–C is now independently reviewed after C/root TWO OTHER whole48 audits and full96 reconciliation. The exact centered dyadic contradiction excludes the integral branch of the FULL retained frameIII, with all D5 forks. Its negative tied branch remains open; the local carrier root is Q2-irrational over Q and supplies no rational contest witness. Full degree20/annual/priority remain unresolved. [Acceptance](reviews/reasoning-center-return-r22-acceptance.md).
 
 ## Research significance and connections

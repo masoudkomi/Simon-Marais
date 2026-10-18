@@ -1,0 +1,56 @@
+{
+  "frozen_utc": "2026-10-18T23:28:05.364644+00:00",
+  "reviewer": "/root/review_2017_coarsening_r1",
+  "role": "OTHER initially blind ENTIRE WHOLE2",
+  "ENTIRE_files": 6,
+  "whole_obligations": 48,
+  "payload_records": [
+    {
+      "path": "problems/2022-B4/reviews/reasoning-critical-return-r11-review-2-initial-v1.md",
+      "bytes": 22445,
+      "sha256": "b67a714751e5ce73224c0fb4ae980b1e6e0f0a1e9f8e4eb143d5940fd6a095bc"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-critical-return-r11-review-2-sources-v1.json",
+      "bytes": 2795,
+      "sha256": "0e7367f3ceb0ba761ec083c687e563fedfb13e82213859bcae0ae85bb63300b1"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-critical-return-r11-review-2-integrity-v1.py",
+      "bytes": 10459,
+      "sha256": "5c088327f1cce7a183a18725cc871dc4b2da15c2ff4dbe2eac63513c644d4560"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-critical-return-r11-review-2-baseline-v1.json",
+      "bytes": 10695,
+      "sha256": "fabfe52c000b7a5d3126e7b852988ef228dc8baa1c202586de3edfd1a1d065a1"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-critical-return-r11-review-2-metadata-v1.json",
+      "bytes": 1327,
+      "sha256": "ea4d30df1fa698bccb1774531c0b81e0cc6d039f7874dea258c44b5a59e05d8e"
+    }
+  ],
+  "author": {
+    "path": "problems/2022-B4/notes/reasoning-critical-return-r11-freeze-v1.json",
+    "bytes": 2538,
+    "sha256": "789bff4a55821c867d0e1d627f3f3c961940f570e812e8bc35980f96b9e8e3a7"
+  },
+  "own_parent": {
+    "path": "problems/2021-B4/reviews/reasoning-negative-return-r23-review-2-manifest-v1.json",
+    "bytes": 2262,
+    "sha256": "07843f25da4469364108ef0d1b7f867ef6a00600981436b655777998c62fa5b3"
+  },
+  "effective_guard_summary": {
+    "occurrences": 47,
+    "unique_paths": 45,
+    "canonical_deduplicated_sha256": "a8b8dc800f3d15a2ee84ba4929d9c183fae14354cba3c0e38324074559087c5c"
+  },
+  "FULL_final_MODEL_ALL5_payload_readback_completed": true,
+  "FULL_manifest_MODEL_readback_then_SEPARATE_readonly_verify_required": true,
+  "NO_NEW_corresponding_peer_findings_files_inventory_hash_metadata_access": true,
+  "unrelated_author_declared_parent_not_followed": true,
+  "findings_EMBARGO_until_explicit_BOTH_ENTIRE": true,
+  "mathematical_program": false,
+  "old_shared_Git_cache_bytes_changed": false
+}

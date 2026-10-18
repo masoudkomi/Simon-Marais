@@ -1,0 +1,45 @@
+{
+  "frozen_utc": "2026-10-18T23:43:53.753325+00:00",
+  "reviewer": "/root",
+  "constructor": "/root/review_2022_complexity_r2",
+  "constructor_excluded": true,
+  "ENTIRE_files": 5,
+  "whole_obligations": 48,
+  "initially_blind": true,
+  "payload_records": [
+    {
+      "path": "problems/2022-B4/reviews/reasoning-critical-return-r11-review-1-initial-v1.md",
+      "bytes": 13362,
+      "sha256": "3c4088ed49747fbc9df2e9b87939d9d8a6a36dde22369a12cde1b6065332b695"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-critical-return-r11-review-1-sources-v1.json",
+      "bytes": 2625,
+      "sha256": "8356f1b01a4b0270b2ccd668dbffb07d86da382f19490a2691e462d7f217021f"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-critical-return-r11-review-1-admin-v1.py",
+      "bytes": 4359,
+      "sha256": "f30bda6a8e092ddc073814aca5e33c48b50049a87a1ee09396da603a8b96996f"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-critical-return-r11-review-1-baseline-v1.json",
+      "bytes": 4485,
+      "sha256": "25c69dff9bbf69377473d3e52dbe0f3a1070e9ba9a192a713274814d8969a8e6"
+    }
+  ],
+  "direct_guard_summary": {
+    "occurrences": 18,
+    "unique_paths": 18,
+    "canonical_deduplicated_sha256": "7cdc1803be2de058298cef20e4adb5250afb85ba3f0e18b1c7dcf7fa1ef5da19"
+  },
+  "author_declared_guard_summary": {
+    "occurrences": 48,
+    "unique_paths": 46,
+    "canonical_deduplicated_sha256": "6c321b1568793d95226f7cad0155b43060631320d3417f9be0000627b33239f7"
+  },
+  "FULL_final_MODEL_ALL4_payload_readback_completed": true,
+  "FULL_manifest_MODEL_readback_then_SEPARATE_readonly_verify_required": true,
+  "corresponding_NEW_peer_findings_files_actual_inventory_hash_metadata_access": false,
+  "findings_sealed_until_explicit_BOTH": true
+}

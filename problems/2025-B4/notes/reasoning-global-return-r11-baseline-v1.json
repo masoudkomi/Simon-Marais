@@ -1,0 +1,135 @@
+{
+  "created_UTC": "2026-10-18T23:40:10.408326+00:00",
+  "status": "candidate proof - unverified",
+  "constructor": "/root/review_2021_reasoning_j15_r2",
+  "whole_obligations": 32,
+  "claims": [
+    "GR0",
+    "GR1",
+    "GR2",
+    "GR3"
+  ],
+  "necessary_direct_records": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2025-B4/statement.md",
+      "bytes": 2024,
+      "sha256": "af0075dd635e8e4d31bb3ae9148d1731a7fbb57c06cf104763332e1496673f59"
+    },
+    {
+      "path": "problems/2025-B4/proofs/reviewed-reasoning-compatible-return-r10-v1.1.md",
+      "bytes": 26605,
+      "sha256": "dbbce8dcc26f1251e30c3ab939dd013062fe96bf98652fd06a2bb53bff527448"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-compatible-return-r10-acceptance.md",
+      "bytes": 6568,
+      "sha256": "d755581c3a022e6c5e6517f24a38b4ca550df7e8ee35cf6a06c59a01b9928051"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-compatible-return-r10-acceptance.json",
+      "bytes": 4090,
+      "sha256": "3038ec356defebb77464a4b34a5534a7121d9e00fd65e208d7434c582facf565"
+    },
+    {
+      "path": "problems/2025-B4/proofs/reviewed-reasoning-diagonal-return-r8-v1.1.md",
+      "bytes": 20665,
+      "sha256": "9b5e5e6311c05964553c39b1320259eb5693d16252c15818bc2b5ab4968b55ef"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-diagonal-return-r8-acceptance.md",
+      "bytes": 5755,
+      "sha256": "74e9b9891184fa87a6a43eaa05280ff3fdef45aa2f063d9a926997c8901eabc8"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-diagonal-return-r8-acceptance.json",
+      "bytes": 4329,
+      "sha256": "3353ba159e048556c26e840d695eaa822e7b74e61f7e9948a07cffee0aebd0e5"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-diagonal-return-r8-sources-v1.md",
+      "bytes": 7292,
+      "sha256": "c6dced91aaa340ef6b246923f6b88c20e0ac090c2ca12ac26505d286aac676bb"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-diagonal-return-r5-sources-v1.md",
+      "bytes": 5912,
+      "sha256": "e39c87e4ceb853767ab8c7c68cda593881ad742ca0fced021360f8e3186f27f9"
+    }
+  ],
+  "current_authority_declared_occurrences_verified": [
+    {
+      "path": "problems/2025-B4/reviews/reasoning-compatible-return-r10-acceptance.json",
+      "declared_occurrences": 13
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-diagonal-return-r8-acceptance.json",
+      "declared_occurrences": 15
+    }
+  ],
+  "compact_parent_binding": {
+    "immediate_parent": {
+      "path": "problems/2024-B4/reviews/coordinator-tensor-family-return-r13-review-1-manifest-v1.json",
+      "bytes": 2346,
+      "sha256": "dfc1aad147b334d3b58c195490a788c88be622afa982fd53ba7aaa19161d7c91"
+    },
+    "all_parent_payloads_verified": 4,
+    "parent_direct_immutable_records_verified": 14,
+    "old_own_constructor_ancestor_verified": {
+      "path": "problems/2021-B4/notes/reasoning-negative-return-r23-freeze-v1.json",
+      "bytes": 3187,
+      "sha256": "4edff0c97b5d7a180cba0ae4a9975470d35f8542ccb6f841201855f7b2cd054a"
+    },
+    "old_own_constructor_payloads_verified": 8,
+    "parent_historical_summary_bound_NOT_reexpanded": {
+      "occurrences": 69,
+      "unique_paths": 57,
+      "canonical_deduplicated_sha256": "ca465e0ebe38afe44f2819c174f3575e364d6adda21657b358502acb8868c9c5"
+    },
+    "older_history_is_metadata_binding_not_new_mathematical_premise": true
+  },
+  "effective_fresh_guard_summary": {
+    "occurrences": 66,
+    "unique_paths": 63,
+    "canonical_deduplicated_sha256": "462460ea44ab28ca3d8b936a30517fca171441659c3f30c2ca35123d18a3bbe0"
+  },
+  "mutable_current_observations_NOT_live_immutable_guards": [
+    {
+      "path": "problems/2025-B4/research.md",
+      "bytes": 15382,
+      "sha256": "1d27f6f190284965bdcc25b8901a00b20fb9cd8fba38425bdc163536e8380251"
+    },
+    {
+      "path": "problems/2025-B4/references.md",
+      "bytes": 4404,
+      "sha256": "fe3bda0213a297c6dca5859cd6df7944c9ae1d8c41cd81252c937f177f34de37"
+    }
+  ],
+  "root_supplied_NEW_proof_inference": false,
+  "NEW_R23_peer_material_accessed": false,
+  "A_excluded_from_two_OTHER_initially_blind_WHOLE_audits": true,
+  "source_import_boundary": "GR1 has explicit center0 height proof with published classical AI; GR2 imports published signed HB- and no fresh complete matrix proof is claimed",
+  "requested": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independent_effective_setting_readback": null,
+  "last_direct_quota": {
+    "usedPercent": 71,
+    "observed_UTC": "2026-10-18 23:40:10 UTC",
+    "windowDurationMins": 10080,
+    "resetsAt": 1792874445,
+    "ordinaryUsageAllowed": true,
+    "TOTAL_ceiling": 90,
+    "integration_reserve": true,
+    "automatic_later_window": false
+  },
+  "administration_only_no_math_code_scan_CAS_test_or_replay": true,
+  "writes_only_NEW_R11_prefix": true,
+  "guard_reconstruction": "collect_guards() verifies declared records from exact bound current authorities and immediate-parent metadata; no growing historical path inventory is recopied"
+}

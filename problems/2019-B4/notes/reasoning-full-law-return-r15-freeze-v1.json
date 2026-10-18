@@ -1,0 +1,52 @@
+{
+  "frozen_utc": "2026-10-18T23:45:44.343471+00:00",
+  "status": "candidate proof - unverified",
+  "constructor": "/root/review_2017_coarsening_r1",
+  "constructor_excluded_from_TWO_OTHER_whole_audits": true,
+  "root_NEW_mathematical_inference": false,
+  "ENTIRE_files": 6,
+  "whole_obligations": 48,
+  "payload_records": [
+    {
+      "path": "problems/2019-B4/notes/reasoning-full-law-return-r15-candidate-v1.md",
+      "bytes": 33314,
+      "sha256": "38a770fac7bdc044b672038353a8b2140899f1607f86a0bcc1cfb2f33c077ab8"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-full-law-return-r15-sources-v1.json",
+      "bytes": 4589,
+      "sha256": "b0644a0df4598868f98bf5271e97566832dba99516e10d893f23daa697b7a7a8"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-full-law-return-r15-admin-v1.py",
+      "bytes": 10378,
+      "sha256": "9db036f40584de081f42df45fe48d787c081ba611ae7835814dbb0193c634683"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-full-law-return-r15-baseline-v1.json",
+      "bytes": 6437,
+      "sha256": "1750b3ae67029ec78c0903a68482b9b83e5b9cc1a254f34c9258dd7d5f3d3edd"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-full-law-return-r15-metadata-v1.json",
+      "bytes": 1450,
+      "sha256": "48256b1f36bf0707091e88dac9de4a1a04b58e0a9e342246ecc03be8d541d4c0"
+    }
+  ],
+  "own_parent": {
+    "path": "problems/2022-B4/reviews/reasoning-critical-return-r11-review-2-manifest-v1.json",
+    "bytes": 2323,
+    "sha256": "a991265ff7ca25d4c960d648958a1fafda75c16ef03eb9f87283474128631f56"
+  },
+  "effective_guard_summary": {
+    "occurrences": 31,
+    "unique_paths": 26,
+    "canonical_deduplicated_sha256": "418c3c54b11809fbda579b3e1150b7a1d0ff33f4045950a5e86a44a257cd60d7"
+  },
+  "FULL_final_MODEL_ALL5_payload_readback_completed": true,
+  "FULL_freeze_MODEL_readback_then_SEPARATE_readonly_verify_required": true,
+  "NO_NEW_CR11_corresponding_peer_access": true,
+  "unrelated_root_R13_access": false,
+  "mathematical_program": false,
+  "old_shared_Git_cache_bytes_changed": false
+}

@@ -1,0 +1,114 @@
+{
+  "prepared_utc": "2026-10-18T23:43:45.774467+00:00",
+  "direct_records": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2022-B4/statement.md",
+      "bytes": 1195,
+      "sha256": "2011761509ac42d5ffa2ab9e86dd1db464618707443a68f43fb3e45f59ed36c0"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-critical-return-r11-freeze-v1.json",
+      "bytes": 2538,
+      "sha256": "789bff4a55821c867d0e1d627f3f3c961940f570e812e8bc35980f96b9e8e3a7"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-critical-return-r11-candidate-v1.md",
+      "bytes": 31081,
+      "sha256": "94d17fa9b1dcf6e17ea5c178a7ca9066e27913bfff9a700237b26520e6493eef"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-critical-return-r11-sources-v1.json",
+      "bytes": 5089,
+      "sha256": "0274396a45f8c1ea946af428dea603f058e8f7a2ee0a4b7c9baed43405612595"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-critical-return-r11-admin-v1.py",
+      "bytes": 7448,
+      "sha256": "cf1ea2938661e15593ea9359104884ca941fcaf513af27251169bf5c0f40c6c9"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-critical-return-r11-baseline-v1.json",
+      "bytes": 4590,
+      "sha256": "a302d416cb79135b95bee3b297ec118f79566c0907efc5f33b33e0a6a5c45aba"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-negative-return-r23-review-1-manifest-v1.json",
+      "bytes": 1770,
+      "sha256": "4198051e97c18fea1b826c56fcdf8b85765335a98f53c1a926f780c7cc5b5f73"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-negative-return-r23-review-1-initial-v1.md",
+      "bytes": 14721,
+      "sha256": "2c7e68838ab3882a753aa5ee8a1c6a70cc9f1fe8e2ca174bf7561f7390a09ea5"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-negative-return-r23-review-1-sources-v1.json",
+      "bytes": 2622,
+      "sha256": "1e6d56b0fe1faec525b2f2713e3b1f042c329a34d1056c8e3fc0f704c0a53a70"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-negative-return-r23-review-1-admin-v1.py",
+      "bytes": 4400,
+      "sha256": "4a28d274dc78566a3ea7798231bf4774aabb3c184de9dc5ed740712bc5e1bc00"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-negative-return-r23-review-1-baseline-v1.json",
+      "bytes": 5880,
+      "sha256": "de2eb7b238c6c54ec01b3302483e8ee83a4080a879d370eb6e3b7781fd52260b"
+    },
+    {
+      "path": "problems/2022-B4/proofs/reviewed-reasoning-dynamics-return-r9-v1.1.md",
+      "bytes": 22645,
+      "sha256": "7cfa2c60557935261d7144576f0e39a509fbebb292fdd0027415efe411ae4c55"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-dynamics-return-r9-acceptance.md",
+      "bytes": 6354,
+      "sha256": "4ca94b70c1a8850aa636141c92947f5c6e56f1e8a617dc3b0aca887bb4046a5c"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-dynamics-return-r9-acceptance.json",
+      "bytes": 4428,
+      "sha256": "012335d567880fa522705d9d1679acf79257c89ede247ec4c1d4376634a545d4"
+    },
+    {
+      "path": "problems/2022-B4/proofs/reviewed-reasoning-collision-return-r10-v1.1.md",
+      "bytes": 25447,
+      "sha256": "269bb65792e1c31159b4443726af84083657fe73e8a1440e3cc72ee0c9c99989"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-collision-return-r10-acceptance.md",
+      "bytes": 5214,
+      "sha256": "1462fa868e75fe2841472eedabc57d357671ee06ecb5f326b5ea1371e7bbc3ef"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-collision-return-r10-acceptance.json",
+      "bytes": 3933,
+      "sha256": "272d9480617dd313c9dd66d2652236b5a8c70aefc8c3291e68a352ac49fba264"
+    }
+  ],
+  "direct_summary": {
+    "occurrences": 18,
+    "unique_paths": 18,
+    "canonical_deduplicated_sha256": "7cdc1803be2de058298cef20e4adb5250afb85ba3f0e18b1c7dcf7fa1ef5da19"
+  },
+  "author_declared_summary": {
+    "occurrences": 48,
+    "unique_paths": 46,
+    "canonical_deduplicated_sha256": "6c321b1568793d95226f7cad0155b43060631320d3417f9be0000627b33239f7"
+  },
+  "whole_obligations": 48,
+  "own_immediate_parent": {
+    "path": "problems/2021-B4/reviews/reasoning-negative-return-r23-review-1-manifest-v1.json",
+    "bytes": 1770,
+    "sha256": "4198051e97c18fea1b826c56fcdf8b85765335a98f53c1a926f780c7cc5b5f73"
+  },
+  "historical_mutable_maps_bound_observations_not_current_guards": true,
+  "hashing_not_fresh_whole_math_read_claim": true,
+  "corresponding_NEW_peer_access": false
+}

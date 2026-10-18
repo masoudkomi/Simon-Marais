@@ -1,5 +1,7 @@
 # Research dashboard
 
+09:46: [R23](../problems/2021-B4/reviews/reasoning-negative-return-r23-acceptance.md) and [CR11](../problems/2022-B4/reviews/reasoning-critical-return-r11-acceptance.md) accepted scoped after both OTHER whole audits/full reconciliation; deeper2021/actual2022annual remain open. NEW2025R11author5/32 UNVERIFIED, audits queued after C2019/B2020 checkpoints. A2021 hand checkpoint then2019review; root other2019audit. [All nine](status-2026-10-19-0946.md).72%TOTAL23:45:35UTC/same1792874445/90TOTALreserve. OWNawake positive09:45:35; literal tokens09:14, next hourly00:14:35UTC. Two annual complete/seven unresolved.
+
 Current09:33 integration: [LF14](../problems/2017-B4/reviews/reasoning-lower-return-r14-acceptance.md), [R18](../problems/2020-B4/reviews/reasoning-actual-return-r18-acceptance.md) and [R13](../problems/2024-B4/reviews/coordinator-tensor-family-return-r13-acceptance.md) are independently reviewed scoped partials after both OTHER whole audits and full reconciliation. Two complete annual answers/seven unresolved.2021R23/2022CR11 author packets remain unverified; their peer reports stay sealed pending root whole initials. A2025/B2020/C2019 hand research continues. [All-nine report](status-2026-10-19-0933.md); [checkpoint](checkpoint-2026-10-19-0933.md).71%TOTAL at23:31:11UTC/same1792874445;90%TOTAL reserve. Latest actual tokens/hourly09:14; next00:14:35UTC. Earlier dated snapshots remain historical.
 
 Current08:51 continuing checkpoint: [2025R10 accepted](../problems/2025-B4/reviews/reasoning-compatible-return-r10-acceptance.md)

@@ -8,13 +8,13 @@ This repository records a sustained investigation of the Simon Marais Mathematic
 
 New scoped partials [2017 LF14](problems/2017-B4/reviews/reasoning-lower-return-r14-acceptance.md), [2020 R18](problems/2020-B4/reviews/reasoning-actual-return-r18-acceptance.md) and [2024 R13](problems/2024-B4/reviews/coordinator-tensor-family-return-r13-acceptance.md) have passed both OTHER initially blind whole audits and complete coordinator reconciliation. LF14 constructs a positive-entropy actual sector with linear old degree cost; R18 proves necessary actual arithmetic/denominator restrictions; R13 proves a two-parameter whole-irreducibility family including6721. Their limits are stated in their acceptance records; no additional annual problem is solved. Corrected2020SQ14/SQ15 scopes supersede the preserved false fractional extensions and review misses.
 
-2021R23 and2022CR11 remain frozen **candidate proof - unverified**. Root must complete its independent whole initials before opening the corresponding sealed other audits. A2025, B2020 and C2019 continue hand reasoning and primary-literature research.
+[2021R23](problems/2021-B4/reviews/reasoning-negative-return-r23-acceptance.md) and [2022CR11](problems/2022-B4/reviews/reasoning-critical-return-r11-acceptance.md) are also now accepted after both OTHER initially blind whole audits and full reconciliation. They respectively restrict the actual negative frameIII and rule out specified global monotone scalar representations. Their full annual questions remain open. NEW2025R11 remains frozen **candidate proof - unverified**, requiring its two OTHER audits after current2019/2020 owner checkpoints. A preserves its2021 hand work before a2019 whole audit; root handles the other2019 audit.
 
-- [Latest continuing checkpoint](progress/checkpoint-2026-10-19-0933.md).
-- [Current all-nine status](progress/status-2026-10-19-0933.md).
+- [Latest continuing checkpoint](progress/checkpoint-2026-10-19-0946.md).
+- [Current all-nine status](progress/status-2026-10-19-0946.md).
 - [Latest actual hourly report](progress/status-2026-10-19-0914.md). Next deadline00:14:35UTC/10:14:35Brisbane.
 
-Latest direct weekly observation71%TOTAL at23:31:11UTC, reset1792874445; continue to90%TOTAL with review/integration reserve. The hourly project token counter is separate from account-wide allowance.
+Latest direct weekly observation72%TOTAL at23:45:35UTC, reset1792874445; continue to90%TOTAL with review/integration reserve. Project token accounting remains separate from account-wide allowance.
 
 - [Dashboard](progress/dashboard.md): per-problem status, results, obstructions, next steps and reviews.
 - [Budget and telemetry](progress/budget.md): observed weekly usage and reset boundary.

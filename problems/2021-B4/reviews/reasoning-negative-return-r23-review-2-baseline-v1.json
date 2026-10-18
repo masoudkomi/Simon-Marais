@@ -1,0 +1,140 @@
+{
+  "prepared_utc": "2026-10-18T23:20:58.005343+00:00",
+  "binding": {
+    "author_freeze": {
+      "path": "problems/2021-B4/notes/reasoning-negative-return-r23-freeze-v1.json",
+      "bytes": 3187,
+      "sha256": "4edff0c97b5d7a180cba0ae4a9975470d35f8542ccb6f841201855f7b2cd054a"
+    },
+    "author_ENTIRE9_summary": {
+      "occurrences": 9,
+      "unique_paths": 9,
+      "canonical_deduplicated_sha256": "2dbc702e52743980c1d7699aae2c22947033651fd3e5d0f5a7c63ab366ecff71"
+    },
+    "direct_current_input_records": [
+      {
+        "path": "AGENTS.md",
+        "bytes": 4707,
+        "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+      },
+      {
+        "path": "problems/2021-B4/statement.md",
+        "bytes": 1745,
+        "sha256": "5cd9750a2458191370590120fb4ae7d547740784eb1de38ee9e2e7890a2fabed"
+      },
+      {
+        "path": "problems/2021-B4/proofs/reviewed-reasoning-center-return-r18-v1.1.md",
+        "bytes": 26067,
+        "sha256": "f26de3a17895354408e514d6a0b0066715a1c0f0234d494fd53485ea3feb8284"
+      },
+      {
+        "path": "problems/2021-B4/reviews/reasoning-center-return-r18-acceptance.md",
+        "bytes": 4541,
+        "sha256": "3b291249452982f01ea08741ec0f5ed1d65e279f7e33110971132d70bfef4bb0"
+      },
+      {
+        "path": "problems/2021-B4/reviews/reasoning-center-return-r18-acceptance.json",
+        "bytes": 4723,
+        "sha256": "4c8245de57e0e7a00efc685014c8af85efe788d3c75ff3431283f211b567abe7"
+      },
+      {
+        "path": "problems/2021-B4/proofs/reviewed-reasoning-center-return-r21-v1.1.md",
+        "bytes": 21267,
+        "sha256": "25524fc6d382d6a78c735e986219713234b649a09b9f0318ca387bf6fac3e080"
+      },
+      {
+        "path": "problems/2021-B4/reviews/reasoning-center-return-r21-acceptance.md",
+        "bytes": 5991,
+        "sha256": "6d7d49fe1843b8627b1e86d24735dc54c79ee5007fd8987d615f3c55cdd7d71b"
+      },
+      {
+        "path": "problems/2021-B4/reviews/reasoning-center-return-r21-acceptance.json",
+        "bytes": 4438,
+        "sha256": "9aa44e6b94ebbe610ee831d75420142c4d71db4c0f49e2abbfb28b08ff860d9a"
+      },
+      {
+        "path": "problems/2021-B4/proofs/reviewed-reasoning-center-return-r22-v1.1.md",
+        "bytes": 20125,
+        "sha256": "5d5103030229e2016af0143a52e48bc9886cd2b8e9fe36031955b7020b2ea9ab"
+      },
+      {
+        "path": "problems/2021-B4/reviews/reasoning-center-return-r22-acceptance.md",
+        "bytes": 4979,
+        "sha256": "780222ff6097a309baf45e1a8874dbf933db0c2beab92fc9e114421fdc04f1c1"
+      },
+      {
+        "path": "problems/2021-B4/reviews/reasoning-center-return-r22-acceptance.json",
+        "bytes": 3845,
+        "sha256": "918bd300c30a18c8cb156bb973ccb3c80bb3751c825a5b00f15471ba35792ef7"
+      }
+    ],
+    "accepted_authority_bindings": [
+      {
+        "authority": {
+          "path": "problems/2021-B4/reviews/reasoning-center-return-r18-acceptance.json",
+          "bytes": 4723,
+          "sha256": "4c8245de57e0e7a00efc685014c8af85efe788d3c75ff3431283f211b567abe7"
+        },
+        "declared_fingerprint_summary": {
+          "occurrences": 17,
+          "unique_paths": 17,
+          "canonical_deduplicated_sha256": "7bd4cee519e488638433ceef5570707713aa806701d6e45ccc1442f70d2704dc"
+        },
+        "accepted_copy_exact_candidate_suffix": true
+      },
+      {
+        "authority": {
+          "path": "problems/2021-B4/reviews/reasoning-center-return-r21-acceptance.json",
+          "bytes": 4438,
+          "sha256": "9aa44e6b94ebbe610ee831d75420142c4d71db4c0f49e2abbfb28b08ff860d9a"
+        },
+        "declared_fingerprint_summary": {
+          "occurrences": 15,
+          "unique_paths": 15,
+          "canonical_deduplicated_sha256": "2dddab507aea8ed0c36c6f5b370445298b2a8f3809e8aa3068081d60c2968e9f"
+        },
+        "accepted_copy_exact_candidate_suffix": true
+      },
+      {
+        "authority": {
+          "path": "problems/2021-B4/reviews/reasoning-center-return-r22-acceptance.json",
+          "bytes": 3845,
+          "sha256": "918bd300c30a18c8cb156bb973ccb3c80bb3751c825a5b00f15471ba35792ef7"
+        },
+        "declared_fingerprint_summary": {
+          "occurrences": 13,
+          "unique_paths": 13,
+          "canonical_deduplicated_sha256": "51d4445b83bfbf1ca1a7b985c76a77ce12f4f3a811c7c585de9c02138bc54d03"
+        },
+        "accepted_copy_exact_candidate_suffix": true
+      }
+    ],
+    "own_immediate_parent": {
+      "path": "problems/2020-B4/reviews/reasoning-actual-return-r18-review-2-manifest-v1.json",
+      "bytes": 2658,
+      "sha256": "70923e5385fa3fac0e26055f6aa5207dfd96ed6e74076cfbc08982795a05eab4"
+    },
+    "own_ENTIRE8_parent_summary": {
+      "occurrences": 8,
+      "unique_paths": 8,
+      "canonical_deduplicated_sha256": "2fd88c82f9ce2424f3522bd29eaf3d6bdc77a984edc598b4fc068917ed08ca60"
+    },
+    "own_parent_prior_guard_summary_bound_only": {
+      "occurrences": 101,
+      "unique_paths": 96,
+      "canonical_deduplicated_sha256": "2f22a85f20dfa487324204b2972b9f5e9ad73de5def2112280976650c137ee84"
+    },
+    "effective_guard_summary": {
+      "occurrences": 73,
+      "unique_paths": 70,
+      "canonical_deduplicated_sha256": "71d32586845fdcfdd5b99ec6b2ad4b97186b30a62305448ab677c483dc652491"
+    },
+    "old_historical_inventory_not_recursively_copied_or_executed": true
+  },
+  "literal_checks": {
+    "literal_author_and_review_obligations": 48,
+    "closed_scope_notes": 10,
+    "mathematical_truth_checked_by_code": false
+  },
+  "NO_NEW_corresponding_peer_findings_files_inventory_hash_metadata_access": true
+}

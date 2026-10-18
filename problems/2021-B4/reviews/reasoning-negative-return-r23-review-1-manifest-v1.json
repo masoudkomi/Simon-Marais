@@ -1,0 +1,45 @@
+{
+  "frozen_utc": "2026-10-18T23:39:04.442239+00:00",
+  "reviewer": "/root",
+  "constructor": "/root/review_2021_reasoning_j15_r2",
+  "constructor_excluded": true,
+  "ENTIRE_files": 5,
+  "whole_obligations": 48,
+  "initially_blind": true,
+  "payload_records": [
+    {
+      "path": "problems/2021-B4/reviews/reasoning-negative-return-r23-review-1-initial-v1.md",
+      "bytes": 14721,
+      "sha256": "2c7e68838ab3882a753aa5ee8a1c6a70cc9f1fe8e2ca174bf7561f7390a09ea5"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-negative-return-r23-review-1-sources-v1.json",
+      "bytes": 2622,
+      "sha256": "1e6d56b0fe1faec525b2f2713e3b1f042c329a34d1056c8e3fc0f704c0a53a70"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-negative-return-r23-review-1-admin-v1.py",
+      "bytes": 4400,
+      "sha256": "4a28d274dc78566a3ea7798231bf4774aabb3c184de9dc5ed740712bc5e1bc00"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-negative-return-r23-review-1-baseline-v1.json",
+      "bytes": 5880,
+      "sha256": "de2eb7b238c6c54ec01b3302483e8ee83a4080a879d370eb6e3b7781fd52260b"
+    }
+  ],
+  "direct_guard_summary": {
+    "occurrences": 25,
+    "unique_paths": 25,
+    "canonical_deduplicated_sha256": "9282d9d510b377ca818a378e94abe610b7f56986f75e4ea31de5a9a9ca854aed"
+  },
+  "author_declared_guard_summary": {
+    "occurrences": 67,
+    "unique_paths": 64,
+    "canonical_deduplicated_sha256": "b9b8f2fc31be35ac3d4df18b59820bebb56539910b410aba9667851311d01d49"
+  },
+  "FULL_final_MODEL_ALL4_payload_readback_completed": true,
+  "FULL_manifest_MODEL_readback_then_SEPARATE_readonly_verify_required": true,
+  "corresponding_NEW_peer_findings_files_actual_inventory_hash_metadata_access": false,
+  "findings_sealed_until_explicit_BOTH": true
+}

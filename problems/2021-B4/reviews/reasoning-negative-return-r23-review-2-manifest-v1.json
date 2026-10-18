@@ -1,0 +1,55 @@
+{
+  "frozen_utc": "2026-10-18T23:21:12.848911+00:00",
+  "reviewer": "/root/review_2017_coarsening_r1",
+  "role": "OTHER initially blind ENTIRE WHOLE2",
+  "ENTIRE_files": 6,
+  "whole_obligations": 48,
+  "payload_records": [
+    {
+      "path": "problems/2021-B4/reviews/reasoning-negative-return-r23-review-2-initial-v1.md",
+      "bytes": 18294,
+      "sha256": "6b6779dd9fc35145640410ddb890879aa68d2d0712205527c2d4346218c6ae35"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-negative-return-r23-review-2-sources-v1.json",
+      "bytes": 2427,
+      "sha256": "992482e6b53de27baab105bf31c67a39b8fb0d40bf1be501bd27892f475838cd"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-negative-return-r23-review-2-integrity-v1.py",
+      "bytes": 9466,
+      "sha256": "845f3d0132f31052ae72f037dd467233e3195cdf72b1589f02d96cb5dea79918"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-negative-return-r23-review-2-baseline-v1.json",
+      "bytes": 5560,
+      "sha256": "1de8bf0031c0f4bde17f748fddfd996ba9b6eda65dba11503f720e4a9c95c898"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-negative-return-r23-review-2-metadata-v1.json",
+      "bytes": 2011,
+      "sha256": "4938bc403122fd7cce6414e455e523919da3f62087f5fc63bb22453f4c585c2f"
+    }
+  ],
+  "author": {
+    "path": "problems/2021-B4/notes/reasoning-negative-return-r23-freeze-v1.json",
+    "bytes": 3187,
+    "sha256": "4edff0c97b5d7a180cba0ae4a9975470d35f8542ccb6f841201855f7b2cd054a"
+  },
+  "own_parent": {
+    "path": "problems/2020-B4/reviews/reasoning-actual-return-r18-review-2-manifest-v1.json",
+    "bytes": 2658,
+    "sha256": "70923e5385fa3fac0e26055f6aa5207dfd96ed6e74076cfbc08982795a05eab4"
+  },
+  "effective_guard_summary": {
+    "occurrences": 73,
+    "unique_paths": 70,
+    "canonical_deduplicated_sha256": "71d32586845fdcfdd5b99ec6b2ad4b97186b30a62305448ab677c483dc652491"
+  },
+  "FULL_final_MODEL_ALL5_payload_readback_completed": true,
+  "FULL_manifest_MODEL_readback_then_SEPARATE_readonly_verify_required": true,
+  "NO_NEW_corresponding_peer_findings_files_inventory_hash_metadata_access": true,
+  "findings_EMBARGO_until_explicit_BOTH_ENTIRE": true,
+  "mathematical_program": false,
+  "old_shared_Git_cache_bytes_changed": false
+}
