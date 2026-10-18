@@ -21,6 +21,17 @@ numerical work by Chris Tuffley.
 
 Reviewed results give density-one conclusions on fixed-difference lines and exact predecessor/merger restrictions. The newly accepted [Q1–Q8 reduction](reviews/reasoning-complexity-return-r9-v3-acceptance.md) uses an explicit integer rank to remove many possible minimal counterexamples and gives exact formulas for the remaining starts with no predecessor inside the strip. BOTH OTHER initially blind ENTIRE WHOLE100/100 audits and coordinator reconciliation cover its complete v1/v2/v3 chain. The resulting birth and orphan families remain unbounded, and two displayed families still have unknown futures. No actual infinite avoiding orbit or unrestricted termination proof has been obtained. See the [current dashboard](../../progress/dashboard.md), [references](references.md), and [review register](reviews/README.md).
 
+
+The newly accepted [SR1–SR4 ordinary-seed analysis](reviews/reasoning-seed-return-r1-acceptance.md)
+has passed TWO OTHER initially blind ENTIRE48/48 audits and full
+reconciliation. It gives exact constant-tail/canonical-fiber equivalences
+and the first central-entry time v10(121j+1)+2 for EVERY stated orphan.
+This resolves that first-return question, not eventual equality: the
+central strip can be left again and the forward Phi bound is larger.
+The born family's constant4 future is equivalent to a SPECIFIED ordinary
+ceiling seed condition, not to arbitrary ninefold existence. Fiber
+existence and universal equality remain open.
+
 ## Current reviewed arithmetic result
 
 The rational-lift complexity obstruction is **proved, independently

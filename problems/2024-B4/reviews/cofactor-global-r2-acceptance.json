@@ -1,0 +1,94 @@
+{
+  "accepted_at_utc": "2026-10-18T09:05:12.293815+00:00",
+  "status": "proved, independently reviewed scoped partial result",
+  "whole_initials_blind": true,
+  "root_read_full_candidate_both_reports_all_ledgers_sources": true,
+  "unresolved_substantive_issues": 0,
+  "repair_required": false,
+  "candidate": {
+    "path": "problems/2024-B4/notes/cofactor-global-r2-candidate-v1.md",
+    "bytes": 15586,
+    "sha256": "9dac8137a3b47637e25ee66a5c2bf5ff00146e9d1d54ba55764002111d5376f9"
+  },
+  "accepted_copy": {
+    "path": "problems/2024-B4/proofs/reviewed-cofactor-global-r2-v1.1.md",
+    "bytes": 19500,
+    "sha256": "fd110d1615e730d754063b157cc1906b418702f510b2640bfd1b5c63e898548d"
+  },
+  "verification_metadata": [
+    {
+      "path": "problems/2024-B4/notes/cofactor-global-r2-freeze-v1.json",
+      "bytes": 2322,
+      "sha256": "3e63984333d64dcfe8bb32395d28e948ab1023ce8f4ab367e0ea374d51dfeaef"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-global-r2-baseline-v1.json",
+      "bytes": 5090,
+      "sha256": "916c23e4e0461e2e87d3ad45230c3a56e2f80919529c9f01183e46303f6d96f0"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-global-r2-metadata-v1.json",
+      "bytes": 1800,
+      "sha256": "6646ceda6fed2e751a78d9a0c9f6a55e4ed2389a7dc8f723eb7b4966c7bd9790"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-global-r2-input-validation-v1.json",
+      "bytes": 213,
+      "sha256": "690d083ec61b8329f6fdf1632bf46354800e21d821685be6351f58d79751f15e"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-global-r2-review-1-manifest-v1.json",
+      "bytes": 3143,
+      "sha256": "7b67f02dd28cb2293f9e171eb5255f3fccb641f6b7024719193906fea8d12d88"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-global-r2-review-1-baseline-v1.json",
+      "bytes": 15548,
+      "sha256": "1a22a834d5b9e8b6d098325e708d74ac7964df0bf20ee810ed9a1ed9f838994c"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-global-r2-review-1-metadata-v1.json",
+      "bytes": 2544,
+      "sha256": "7a3affea8a8e84fae2d2cdc6031247751043bbf5d5e22051861c1ffe1e4e83a2"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-global-r2-review-1-input-validation-v1.json",
+      "bytes": 1035,
+      "sha256": "6a398dba91f4471854efa5620e6f92c14a73fce09057a4e647ecce1c50ae4f91"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-global-r2-review-2-manifest-v1.json",
+      "bytes": 6399,
+      "sha256": "e8a4dc472c78c4d47d59d63d97787ef2d3a7bb9234f53f220cbff4d6976e886d"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-global-r2-review-2-baseline-v1.json",
+      "bytes": 8157,
+      "sha256": "079f8e56ca387f8d88570ed7df86bfe368361cb2e74f00da7a08880e6ceee312"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-global-r2-review-2-input-validation-v1.json",
+      "bytes": 653,
+      "sha256": "ed9ec67b09c03eac6c0efe9c04f8a735e481a2a624592558bec7fd7579407036"
+    }
+  ],
+  "record_occurrences_verified": 141,
+  "unique_paths_verified": 50,
+  "constructor": "/root",
+  "constructor_excluded": true,
+  "independent_reviewers": [
+    "/root/review_2017_coarsening_r1",
+    "/root/review_2022_complexity_r2"
+  ],
+  "proposed_claims_accepted": [
+    "CG1",
+    "CG2",
+    "CG3"
+  ],
+  "whole_obligations": 56,
+  "TWO_OTHER_whole_reviews_necessary_and_complete": true,
+  "source_qualification": "HM16 requires PROPER ell|q-1; not imported; not a k1 component claim",
+  "mathematical_program_run": false,
+  "full_annual_answer": false,
+  "novelty_established": false
+}

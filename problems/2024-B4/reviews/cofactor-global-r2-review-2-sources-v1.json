@@ -1,0 +1,90 @@
+{
+  "checked_date_UTC": "2026-10-18",
+  "reviewer": "/root/review_2022_complexity_r2",
+  "role": "fresh initially blind OTHER nonconstructor ENTIRE WHOLE review2",
+  "root_constructor_excluded": true,
+  "NEW_CG_construction_or_repair_contributed": false,
+  "requested_settings": {"model": "gpt-6.1-sol", "reasoning": "max", "inherited": true},
+  "verified_effective_settings": null,
+  "NEW_corresponding_C_CG_finding_file_or_metadata_accessed": false,
+  "entire_constructor_packet_files_read": 9,
+  "all56_obligations_reconstructed": true,
+  "mathematical_code_CAS_scan_or_author_program_executed": false,
+  "third_party_full_PDF_download_cache_upload": false,
+  "external_binary_retrieval_hashes": null,
+  "records": [
+    {
+      "id": "OFFICIAL",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc2024_paper_b.pdf",
+      "read": "fresh page2 setup and B4(b), extracted lines57--74; full local statement",
+      "scope": "coefficientwise integer reductions with both nonconstant, odd positive n",
+      "preliminary_a_investigated": false
+    },
+    {
+      "id": "T1",
+      "accepted_copy": "problems/2024-B4/proofs/reviewed-structural-v1.1.md",
+      "authority": "problems/2024-B4/reviews/structural-acceptance.json",
+      "read": "fresh COMPLETE accepted body and full MD/JSON authority",
+      "operative_scope": "no ABSOLUTE line for odd binary weight>=3",
+      "older_B_role": "structural independent R2; accepted premise not self-recertified",
+      "historical_heading_editorial_change_acknowledged": true
+    },
+    {
+      "id": "FP",
+      "accepted_copy": "problems/2024-B4/proofs/reviewed-coordinator-F8-pencil-r1-v1.1.md",
+      "authority": "problems/2024-B4/reviews/coordinator-F8-pencil-r1-acceptance.json",
+      "read": "fresh COMPLETE accepted body and full MD/JSON authority",
+      "scope": "special Q8 prototype, degree gap and dominant component; small cofactor allowed",
+      "general_orbit_uniformity_imported": false
+    },
+    {
+      "id": "FS",
+      "accepted_copy": "problems/2024-B4/proofs/reviewed-cofactor-symmetry-r1-v1.1.md",
+      "authority": "problems/2024-B4/reviews/cofactor-symmetry-r1-acceptance.json",
+      "read": "fresh COMPLETE accepted body and full MD/JSON authority; source audit full",
+      "scope": "stronger special s3 result preserved; classical reduced correction context",
+      "general_geometry_silently_imported": false
+    },
+    {
+      "id": "FULTON",
+      "url": "https://math.stanford.edu/~conrad/145Page/handouts/algcurves.pdf",
+      "read": "preface field convention; Section3.3 property5 and complete local equality proof; Section5.2 dimension argument; Section5.3 complete displayed Bezout proof; Section5.4 Theorem2 ENTIRE proof and Problem5.25; COMPLETE AppendixA",
+      "returned_ranges": ["2438--2443", "2491--2624", "3727--3924", "3938--4051", "7556--7598"],
+      "fresh_whole_129_page_audit": false,
+      "Chapter8_genus_proof_freshly_audited": false,
+      "scope": "classical irreducible multiplicity inequality and local/projective intersection; char2 hypotheses reconstructed",
+      "characteristic_zero_Hessian_or_duality_imported": false
+    },
+    {
+      "id": "HERNANDO_MCGUIRE",
+      "url": "https://arxiv.org/pdf/0903.2016v4",
+      "read": "intro/conjectures/notation, actual Theorem16 statement, returned proof/Lemma17 portions through line995",
+      "fresh_entire_19_page_proof_audit": false,
+      "actual_Theorem16_hypotheses": "ell divides2^i-1 AND ell!=2^i-1",
+      "conclusion": "one absolutely irreducible component overF2, not whole polynomial",
+      "CG_theorem_import": false,
+      "proper_divisor_source_qualifier_recorded_in": "CG2R2-N3"
+    },
+    {
+      "id": "ARAKELIAN_SPEZIALI",
+      "url": "https://arxiv.org/pdf/2512.08874v1",
+      "read": "propertyA, Proposition5.1 and proof/discussion; Theorem5.3 statement and complete returned proof, lines1480--1600 and1714--1792",
+      "Lemma5_2_complete_proof_freshly_read": false,
+      "fresh_entire_22_page_audit": false,
+      "actual_hypotheses": "absolutely irreducible nondegenerate hypersurface; generically finite separable root-map A; strict p^r<q",
+      "CG_theorem_import": false
+    },
+    {
+      "id": "UNREAD_PRIORITY_AND_LIVE_CONTEXT",
+      "read": "complete constructor/live/source-followup local notes",
+      "Ferard2017_operative_original_body_freshly_read": false,
+      "unread_original_theorem_imported": false,
+      "priority_or_absence_claim": false,
+      "mathematical_premise": false
+    }
+  ],
+  "no_substantive_proof_defect_found": true,
+  "closed_scope_source_notes": 5,
+  "coordinator_promotion_or_external_validation": false,
+  "identity_only_handoff_until_both_entire_initials_confirmed": true
+}

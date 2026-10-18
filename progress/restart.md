@@ -1,3 +1,18 @@
+# Current restart boundary —2026-10-18 19:06Brisbane
+
+Read checkpoint-2026-10-18-1906.md and run-state.2022SR and2024CG NOW
+ACCEPTED after BOTH OTHER ENTIRE48/48 and56/56 audits/full reconciliation;
+only scoped partials, annual problems remain open. RootR15 R1 ENTIRE48
+frozen09:03UTC; C R2queued after ENTIREWC R1. RootnowOTHERCR R1 ALL60,
+A CR R2; B/C OTHERWC whole40 active. No corresponding peer NEW material
+until BOTH ENTIRE freezes.19%TOTAL09:04UTC, authorizedreset1792874445
+only, reserve/no automaticlaterweek. Ownedawake79293/session64368verified
+09:04UTC. Next ACTUALhourly09:27:30UTC; no integration delay. Latest
+actualtokens1827snapshot1,842,228,017, not fresh. Lastpush5f368a5 before
+this integration. Checkpoint does not end research.
+
+---
+
 # Current restart boundary —2026-10-18 18:52Brisbane
 
 Read checkpoint-2026-10-18-1852.md and run-state first.19%TOTAL authorizedreset1792874445 only; continue to90TOTAL withreserve. New2017WC40/rootconstructor,2019CR60/Bconstructor,2021R1548/Aconstructor and2022SR48/Cconstructor are COMPLETE FROZEN UNVERIFIED. RootSR R1ENTIRE48 frozen; A R2active. RootCGconstructor excluded; C CGR1ENTIRE56 frozen withholdingfindings, B R2active. B/C queue OTHER WC whole40; root/C queue OTHER R15 whole48. No NEW corresponding peer findings/files/hash/meta before BOTH ENTIRE initials. Ownedawake79293/session64368verified08:47:56UTC; nextactualhourly/OScheck09:27:30UTC. Lastconfirmedpushd318ca2. No checkpoint endsresearch.

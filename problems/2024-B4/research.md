@@ -63,6 +63,19 @@ Status: serious initial investigation checkpoint, 2026-10-16. **No full solution
 
 Requested worker settings: gpt-6.1-sol, max reasoning. Verified effective-setting readback: unavailable. Worker owns only this directory; no commits, pushes, helpers or installations performed.
 
+
+The newly accepted [CG1–CG3 general-cofactor theorem](reviews/cofactor-global-r2-acceptance.md)
+has passed TWO OTHER initially blind ENTIRE56/56 audits and full
+reconciliation. For Q=2^s,s>=3,ell=Q−1,q=Q^k, it proves whole absolute
+irreducibility of phi_((Q−1)Q^k+1) whenever
+q>=max(2ell+7,(ell−1)(ell−2)(ell+1)^2/4), in particular EVERY k>=4.
+General projective geometry and two global factor bounds replace any
+assumption of special F8 orbit uniformity. The reduced-component c−1
+correction is retained. General smaller-k families, the full annual
+classification and possible overlap with unread Férard2017 remain open.
+HM16's contextual component theorem requires a PROPER divisor and is
+not a premise of CG; no component assertion at k1 is accepted.
+
 ## Statement checks
 
 The official wording and coefficientwise convention were checked both by extraction and visual inspection. See statement.md. The boundary cases n=1 and n=3 are excluded. The official solution notes' shorthand statement that n=3 mod 4 gives irreducibility must exclude n=3, where phi_3=1 is a unit. The cited literature states the relevant range as n>3.
