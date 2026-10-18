@@ -1,0 +1,81 @@
+{
+  "validated_utc": "2026-10-18T01:40:28.715506+00:00",
+  "metadata_only_not_mathematical_testing": true,
+  "baseline": {
+    "path": "problems/2021-B4/reviews/reasoning-return-r13-review-1-baseline-v1.json",
+    "bytes": 12453,
+    "sha256": "4e10ff063d97bb3473832e0ba05ac848c2d3867e069a4c63731edaf99932926b"
+  },
+  "exact_target": {
+    "path": "problems/2021-B4/notes/reasoning-return-r13-candidate-v1.md",
+    "bytes": 15806,
+    "sha256": "25a871da93b7cd375e0af43c8643094463ac45ce913722805ba6958dee004148"
+  },
+  "constructor_freeze": {
+    "path": "problems/2021-B4/notes/reasoning-return-r13-freeze-v1.json",
+    "bytes": 4152,
+    "sha256": "4d6b95b7c5b70301f227af7cce5169c8c691c01f6b287fdadacf0b337c40c656"
+  },
+  "all11_constructor_packet_files_and_selected_old_inputs_unchanged": true,
+  "accepted_authorities": [
+    {
+      "authority": {
+        "path": "problems/2021-B4/reviews/reasoning-return-r5-acceptance.json",
+        "bytes": 3373,
+        "sha256": "93a204890e6d387a22d89565dbee9ee970c1b80af59f79cbc983d3ba4de6defe"
+      },
+      "accepted_copy": {
+        "path": "problems/2021-B4/proofs/reviewed-reasoning-return-r5-v1.1.md",
+        "bytes": 23675,
+        "sha256": "f4f088adc133b0581520488cdbba30082c13b2402c96ae555142e5491ad4137d"
+      },
+      "exact_candidate_suffix_preserved": true
+    },
+    {
+      "authority": {
+        "path": "problems/2021-B4/reviews/reasoning-return-r8-acceptance.json",
+        "bytes": 2507,
+        "sha256": "b5ca7a381393061192beceb0b34b8222c6ae249f1edc3383ac316786c7cd3ef0"
+      },
+      "accepted_copy": {
+        "path": "problems/2021-B4/proofs/reviewed-reasoning-return-r8-v1.1.md",
+        "bytes": 19921,
+        "sha256": "33b8713d402d09f711d0096cdc4e8c00f9e622a5335f8e3345eb4f82ba0d359d"
+      },
+      "exact_candidate_suffix_preserved": true
+    },
+    {
+      "authority": {
+        "path": "problems/2021-B4/reviews/reasoning-return-r12-acceptance.json",
+        "bytes": 2801,
+        "sha256": "28f2a33fd4cdb39bcd899df9bb450628e928afe483f7a6be443a32d649dbd00b"
+      },
+      "accepted_copy": {
+        "path": "problems/2021-B4/proofs/reviewed-reasoning-return-r12-v1.1.md",
+        "bytes": 20521,
+        "sha256": "bfc4a3549b9357600fdadf79a826d203e2226a1a4fd8d7c183412f8abc18e3ef"
+      },
+      "exact_candidate_suffix_preserved": true
+    }
+  ],
+  "constructor_six_group_summary_independently_reconstructed": {
+    "occurrences": 33,
+    "unique_paths": 32,
+    "canonical_deduplicated_summary_sha256": "c1d4beb5b4c668bbb077bc58520926f39c0658c25be3ef17f6f97171f257906b"
+  },
+  "current_summary": {
+    "occurrences": 57,
+    "unique_paths": 53,
+    "canonical_deduplicated_summary_sha256": "c5e27017d8ad32db37faac7ad4faa0793920cb7c0d9d0d1308a23b234f1dc5b2"
+  },
+  "all44_review_ledger_labels_present": true,
+  "compact_own_parent": {
+    "path": "problems/2020-B4/reviews/reasoning-arithmetic-return-r9-review-2-manifest-v1.json",
+    "bytes": 4851,
+    "sha256": "cc19751925533064c90e80e9974fe402d8808eb2910936b54d493e5d2966dfe0"
+  },
+  "older_own_paths_bound_transitively": 522,
+  "no_growing_historical_inventory_recopy_or_recursive_rehash": true,
+  "no_NEW_peer_R13_report_findings_source_metadata_read_or_hashed": true,
+  "no_math_code_CAS_scan_constructor_rerun_or_certificate_replay": true
+}

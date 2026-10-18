@@ -1,0 +1,56 @@
+{
+  "date_utc": "2026-10-18",
+  "status": "candidate proof - unverified; no new external theorem imported",
+  "no_download_or_cache_write": true,
+  "original_PDF_retrieval_hashes": null,
+  "reason_no_PDF_hashes": "Web tool text only; no fabricated original PDF digest",
+  "sources": [
+    {
+      "id": "OFFICIAL",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2022-paper-b.pdf",
+      "read_scope": "Fresh page2 B4(b), extracted58--70; preliminary statement only as attributed context",
+      "role": "Actual official positive ordinary domain and nonnegative-time equality",
+      "preliminary_proof_reproduced_or_investigated": false
+    },
+    {
+      "id": "BRW2008",
+      "authors": "Michael Baake, John A. G. Roberts, Alfred Weiss",
+      "title": "Periodic orbits of linear endomorphisms on the 2-torus and its lattices",
+      "url": "https://arxiv.org/pdf/0808.3489",
+      "read_scope": "Introduction andSection2.2, PDFpp1--5, operative23--31/183--251",
+      "boundary": "Integer toral matrices and finite rational lattices, not an imported floor-map theorem",
+      "complete_external_proof_audited": false,
+      "mathematical_premise": false
+    },
+    {
+      "id": "GUI2018",
+      "author": "Pierre-Antoine Guiheneuf",
+      "title": "Physical measures of discretizations of generic diffeomorphisms",
+      "journal": "Ergodic Theory and Dynamical Systems38(2018),1422--1458",
+      "doi": "10.1017/etds.2016.70",
+      "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/72AC10235D374F1FFC132AC4B4346BE0/S0143385716000705a.pdf/physical_measures_of_discretizations_of_generic_diffeomorphisms.pdf",
+      "read_scope": "Introductory theorem, Section3 Definitions10--12/Lemmas13--14 and deduction13, printed1430--1432",
+      "boundary": "Generic determinant-one sequences and nearest-lattice perturbations; no import",
+      "complete_external_proof_audited": false,
+      "mathematical_premise": false
+    },
+    {
+      "id": "GJ2017",
+      "authors": "Pierre-Antoine Guiheneuf, Emilien Joly",
+      "title": "A Minkowski Theorem for Quasicrystals",
+      "doi": "10.1007/s00454-017-9864-0",
+      "url": "https://joly415.perso.math.cnrs.fr/2017-A%20Minkowski%20Theorem%20for%20Quasicrystals.pdf",
+      "read_scope": "Title/abstract, Section5.2 Theorem5.4/definitions/Lemma5.5 sketch, PDFpp15--16,920--994",
+      "boundary": "Generic orthogonal nearest-lattice sequences and density loss; no import",
+      "complete_external_proof_audited": false,
+      "mathematical_premise": false
+    },
+    {
+      "id": "IMMUTABLE_V1",
+      "path": "problems/2022-B4/notes/reasoning-complexity-return-r9-source-audit-v1.md",
+      "role": "Exact older frontier and actual primary read limits preserved by complete v1 freeze",
+      "new_full_reread_of_all_original_papers_claimed": false,
+      "Q1_Q4_accepted_as_a_premise": false
+    }
+  ]
+}

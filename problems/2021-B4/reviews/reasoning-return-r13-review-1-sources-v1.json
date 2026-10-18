@@ -1,0 +1,52 @@
+{
+  "reviewer": "/root/review_2022_complexity_r2",
+  "date_utc": "2026-10-18",
+  "status": "ENTIRE initially blind independent source/domain checks, not external validation",
+  "fresh_primary_checks": [
+    {
+      "id": "official2021b",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2021-paper-b.pdf",
+      "actual_read": "page2 B4 lines67-81, actual Q witnesses; no preliminary proof investigated",
+      "use": "exact open domain; no all-roots-rational/real replacement"
+    },
+    {
+      "id": "clo",
+      "url": "https://arxiv.org/pdf/1208.5404",
+      "actual_read": "actual servedv1; Sections3.4-3.5 equations9-13/Lemma17, Proposition19 statement/proof and unramified remark; not entire23pages or computational files",
+      "use": "published normalization/divided-center attribution and exact stronger-hypothesis boundary, not a missing branch exclusion",
+      "full_external_proof_chain_reconstructed": false
+    },
+    {
+      "id": "prime5erratum",
+      "url": "https://math-unibe.ch/jdraisma/publications/erratumcasasalvero.pdf",
+      "actual_read": "COMPLETE original one-page20-line correction",
+      "use": "retain additional prime5 exclusion in old base-degree4 step; no degree20 shortcut"
+    }
+  ],
+  "fresh_complete_accepted_bodies_and_headers": [
+    "problems/2021-B4/proofs/reviewed-reasoning-return-r12-v1.1.md",
+    "problems/2021-B4/proofs/reviewed-reasoning-return-r8-v1.1.md",
+    "problems/2021-B4/proofs/reviewed-reasoning-return-r5-v1.1.md"
+  ],
+  "fresh_complete_acceptance_Markdown": [
+    "problems/2021-B4/reviews/reasoning-return-r12-acceptance.md",
+    "problems/2021-B4/reviews/reasoning-return-r8-acceptance.md",
+    "problems/2021-B4/reviews/reasoning-return-r5-acceptance.md"
+  ],
+  "other_local_fresh_complete_reads": [
+    "problems/2021-B4/notes/reasoning-return-r12-source-audit-v1.md",
+    "problems/2021-B4/notes/reasoning-return-r12-failed-routes-v1.md",
+    "all11 exact R13 constructor packet files"
+  ],
+  "no_new_direct_PN_TA1_import_or_certificate_replay": true,
+  "old_roles": "B whole-reviewed R5/R6/R7/R10/R11/R12 and authored a separate olderR9; no contribution to NEW R13 and no fresh accepted-input self-recertification",
+  "A_NEW_constructor_excluded": true,
+  "root_generic_assignment_supplied_no_new_R13_inference": true,
+  "new_whole_math_checks": "all quartic algebra/nine affine roots/27residuals, R12A forcing, all valuation/Hasse/Euler scalings, actual witnesses, EC12/zero/unit/fullfork/gcd boundaries independently hand reconstructed",
+  "all44_author_obligations": true,
+  "NEW_root_R13_report_findings_source_metadata_unread_unhashed_through_entire_freeze": true,
+  "native_source_response_sha256": null,
+  "new_pdf_downloads_cache_writes": 0,
+  "no_mathcode_CAS_scan_constructor_rerun_or_old_certificate": true,
+  "compact_preservation": "exact current needed fingerprints and immutable parent records, no growing historical inventory expansion"
+}

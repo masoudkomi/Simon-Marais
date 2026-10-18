@@ -1,0 +1,71 @@
+{
+  "reviewer": "/root/review_2022_complexity_r2",
+  "date_utc": "2026-10-18",
+  "new_A9_peer_material_unread_through_entire_initial_freeze": true,
+  "fresh_primary_checks": [
+    {
+      "id": "official2020b",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2020-paper-b_1.pdf",
+      "actual_read": "page2 B4 lines98-105; no investigation of preliminary(a)",
+      "use": "exact n>=2 tautness domain; new q>=2 prime-p restriction retained"
+    },
+    {
+      "id": "leung-schmidt2019",
+      "url": "https://personal.ntu.edu.sg/bernhard/Publications/pub/BentFunctions.pdf",
+      "actual_read": "opening notation/definitions through operative energy lemmas and complete Theorems22-23 proofs; overlapping extracted intervals cover0-1441; Theorem23 lines1217-1267, author PDFpp16-17",
+      "use": "published nonsquare small-norm bound; prime-conductor case independently reconstructed from full local candidate",
+      "full_41_page_proof_audit": false,
+      "external_foundations_reproved": false
+    },
+    {
+      "id": "publication-record",
+      "url": "https://personal.ntu.edu.sg/bernhard/Publications/publications.html",
+      "actual_read": "matching Leung-Schmidt entry, JCTA163(2019),1-33",
+      "use": "bibliographic attribution only"
+    },
+    {
+      "id": "hasse",
+      "url": "https://kskedlaya.org/cft/sec_ideles-cohom2.html",
+      "actual_read": "Theorem7.2.10 complete short proof and noncyclic warning,618-643",
+      "use": "cyclic all-place FIELD norm theorem, not integral solvability",
+      "full_CFT_foundation_audit": false
+    },
+    {
+      "id": "local-units",
+      "url": "https://kskedlaya.org/cft/sec_localcomp.html",
+      "actual_read": "Propositions4.2.4-4.2.5 complete statements/proofs449-478",
+      "use": "UNRAMIFIED local unit norms, including residue characteristic2; not the ramified p-place"
+    }
+  ],
+  "accepted_inputs_fresh_complete_bodies": [
+    "problems/2020-B4/proofs/reviewed-reasoning-return-r8-v1.1.md",
+    "problems/2020-B4/proofs/reviewed-reasoning-return-r7-v1.1.md",
+    "problems/2020-B4/proofs/reviewed-reasoning-return-r6-v1.1.md",
+    "problems/2020-B4/proofs/reviewed-reasoning-return-r5-v1.1.md",
+    "problems/2020-B4/proofs/reviewed-reasoning-return-r4-v1.2.md"
+  ],
+  "accepted_authorities": "R8 complete JSON and all current R4-R8 accepted-copy/scope fields checked; no NEW A9 review metadata opened",
+  "context_fresh_complete_local_reads": [
+    "problems/2020-B4/notes/reasoning-return-r8-source-audit-v1.md",
+    "problems/2020-B4/notes/deep-literature-r1-report-v1.md",
+    "problems/2020-B4/references.md",
+    "problems/2020-B4/notes/reasoning-arithmetic-return-r9-sources-v1.md"
+  ],
+  "context_originals_not_newly_audited": [
+    "Duc-Schmidt2017 unused unique-difference theorem",
+    "Schmidt1998 damaged-encoding paper",
+    "Cassels original M-function article",
+    "old Singer construction proof",
+    "full older CFSG/classicality/finite computational source chains"
+  ],
+  "old_roles": "B authored OLD R4/R5/R7/R8 and reviewed OLD R6; no new independent recertification of own accepted dependencies",
+  "C_NEW_constructor_excluded": true,
+  "root_generic_assignment_contributed_no_new_A9_inference": true,
+  "all_new_A9_six_claims_reconstructed": true,
+  "all56_author_obligations_checked": true,
+  "native_pdf_downloads_or_cache_writes": 0,
+  "native_pdf_sha256": null,
+  "no_math_code_scan_CAS_author_rerun_or_old_certificate": true,
+  "preservation": "compact exact necessary parents and current files; no recursive inventory expansion",
+  "not_external_validation_or_promotion": true
+}

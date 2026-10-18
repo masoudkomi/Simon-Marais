@@ -19,12 +19,7 @@ illustrates another connection, to analytic number theory: an asymptotic count
 of admissible orders can be established without excluding every exceptional
 order.
 
-The project has independently reviewed structural restrictions, exact Fourier
-recovery criteria and the R8 ideal-and-unit obstruction framework. These
-conditional criteria do not produce a new unrestricted classification or
-prove that every necessary norm condition is sufficient. Prime-power
-existence is attributed published context. See the [current dashboard](../../progress/dashboard.md),
-[references](references.md), and [review register](reviews/README.md).
+The reviewed results now include [A9 arithmetic obstructions](reviews/reasoning-arithmetic-return-r9-acceptance.md) and [R10 actual mixed-norm realization](reviews/reasoning-arithmetic-return-r10-acceptance.md), each accepted after two OTHER initially blind whole audits and reconciliation. R10 realizes actual integral Weil atoms in its specified odd-class fixed fields. Its exact weighted lift has binary defect Phi3(N)/p−1: the correct norm residue does not force the required equality N=q0. Thus genuine class cancellation is compatible with those necessary conditions; the finite conductor-size and full character-tuple gaps remain open. These results give no new taut order, numerical exclusion or unrestricted classification. See the [current dashboard](../../progress/dashboard.md), [references](references.md), and [review register](reviews/README.md).
 
 Status: 2026-10-16. **No full solution claimed.** P1–P6 and the attributed square-descent application are proved, independently reviewed partial results after two blind full reconstructions; see reviews/acceptance.md. Earlier candidate labels below are historical. Requested worker settings: `model=gpt-6.1-sol`, `reasoning_effort=max`; no independent effective-setting readback was available.
 

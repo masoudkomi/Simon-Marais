@@ -1,0 +1,75 @@
+{
+  "frozen_at_utc": "2026-10-18T01:44:11.622360+00:00",
+  "status": "ENTIRE initially blind OTHER independent WHOLE R2 frozen before any NEW peer material",
+  "whole_author_obligations": 48,
+  "complete_whole_review": true,
+  "substantive_issues": 0,
+  "requested_repairs": 0,
+  "advisories": 0,
+  "target_freeze": {
+    "path": "problems/2022-B4/notes/reasoning-complexity-return-r9-freeze-v1.json",
+    "bytes": 4389,
+    "sha256": "13f4c9b46055c02b5f535706aa338bcc5167ea719120075aa0616e1298669142"
+  },
+  "immutable_own_parent": {
+    "path": "problems/2020-B4/notes/reasoning-arithmetic-return-r10-freeze-v1.json",
+    "bytes": 3016,
+    "sha256": "68dd827ca8c9f4156317022115f0981d818335508067299167cfd2d85541de43"
+  },
+  "historical_own_paths_bound": 561,
+  "this_packet_paths_including_manifest": 10,
+  "own_paths_after_this_packet": 571,
+  "declared_occurrences_verified": 45,
+  "deduplicated_paths_verified": 40,
+  "old_constructor_roles_disclosed_no_self_recertification": true,
+  "no_NEW_peer_review_file_or_hash_accessed": true,
+  "findings_withheld_until_other_ENTIRE_initial_confirmation": true,
+  "no_coordinator_promotion_or_annual_claim": true,
+  "artifacts": [
+    {
+      "path": "problems/2022-B4/reviews/reasoning-complexity-return-r9-review-2-initial-v1.md",
+      "bytes": 12156,
+      "sha256": "f12bf556411cb8b582b1fffa10b6224043315ffa66e0cb7eebf85a029f4695fe"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-complexity-return-r9-review-2-ledger-v1.md",
+      "bytes": 5318,
+      "sha256": "c17cb33154b803b49eb280575fa1c767a6fccfd9420ae9f2140a0d89492e9f5e"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-complexity-return-r9-review-2-issues-v1.md",
+      "bytes": 1092,
+      "sha256": "4d1340d20a90b293265804c163da576975a62170f5d56d9d655378155aa52624"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-complexity-return-r9-review-2-source-checks-v1.md",
+      "bytes": 3720,
+      "sha256": "8f590cf2fcf3174a658150e4b907aed7c58f08dfc78a91304a3783a5dbf50149"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-complexity-return-r9-review-2-worklog-v1.md",
+      "bytes": 3519,
+      "sha256": "0e1de487059e4442ab9b1626c720c947ef06e8ba3d3ab2cfb70fdb7652588c91"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-complexity-return-r9-review-2-freeze-v1.py",
+      "bytes": 8833,
+      "sha256": "e44cd54798f87a74faae2da4a3f2a569742c88fe21641283478b3f80e910d8eb"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-complexity-return-r9-review-2-baseline-v1.json",
+      "bytes": 15672,
+      "sha256": "a6e97f1e8f199e89fbdcf65ddb2dfd9dd5f08f69f3edd136056f1e78cb73175a"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-complexity-return-r9-review-2-metadata-v1.json",
+      "bytes": 1813,
+      "sha256": "13acf961291e4720138ae341dbd0d69541ce2a21f043b244c1998e39dc622701"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-complexity-return-r9-review-2-input-validation-v1.json",
+      "bytes": 706,
+      "sha256": "ce4f281c83ae7fd98895b106d57d60455b12b5e604efd013ed7c854a7c63a5c9"
+    }
+  ]
+}

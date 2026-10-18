@@ -174,3 +174,11 @@ Current12:03UTCtransition:36%TOTALweeklyused,64%remaining,54ppbefore90%,samerese
 
 
 2026-10-18 01:22:58UTC: authoritative8%TOTAL/reset1792874445/ordinaryallowed,82ppbefore90%. Raw01:28:47UTC total1,620,202,953/cached1,534,474,496/uncached73,732,928/output11,995,529/reasoning5,149,582(subset);uncached+output85,728,457.62sessions8502responses,allsumsmatch;notbilling/weeklyconversion. PUSacceptedscoped; A9/R13/Q1–Q4unverified; hourlyACTIVE, awakecheck01:53:20UTC.
+
+
+2026-10-18 06:08:07UTC:10%TOTAL/currentreset1792874445/ordinaryallowed;80ppbefore90%. Raw1,652,226,508total/1,565,493,888cached/86,732,620uncached+output/5,299,831reasoning subset. Delayed hourly snapshot1608 records missedcadence; ownedawake79293 verifiedforever29h, next07:08:07UTC. Continue authorizedresearch; no automaticlaterweek.
+
+
+## Latest continuing checkpoint —2026-10-18 06:21:37UTC
+
+Authoritative account meter10% TOTAL,10080-minute current authorized window reset1792874445; ordinary usage allowed, legacy/by-limit agree.80percentage points before90%; reserve integration/review capacity. New scoped A9/R10/R13 acceptances do not end sustained research. No automatic later reset. Recorded raw cumulative total1,673,608,121 is not a billing or weekly-percentage conversion. Next manual hourly/awake check07:08:07UTC.

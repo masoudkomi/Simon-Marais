@@ -1,0 +1,80 @@
+{
+  "accepted_at_utc": "2026-10-18T06:21:08.881618+00:00",
+  "status": "proved, independently reviewed scoped partial result",
+  "whole_initials_blind": true,
+  "root_read_full_candidate_both_reports_all_ledgers_sources": true,
+  "unresolved_substantive_issues": 0,
+  "repair_required": false,
+  "candidate": {
+    "path": "problems/2020-B4/notes/reasoning-arithmetic-return-r10-candidate-v1.md",
+    "bytes": 20380,
+    "sha256": "774da07295679d39d7aa3b22485f986e2a2dfc9445d25d4a56a0a4c0d7bce233"
+  },
+  "accepted_copy": {
+    "path": "problems/2020-B4/proofs/reviewed-reasoning-arithmetic-return-r10-v1.1.md",
+    "bytes": 24761,
+    "sha256": "dc540eef45a7c4054191a0fd9e723aa64e364163f04bf696450025ca3ca45f24"
+  },
+  "verification_metadata": [
+    {
+      "path": "problems/2020-B4/notes/reasoning-arithmetic-return-r10-freeze-v1.json",
+      "bytes": 3016,
+      "sha256": "68dd827ca8c9f4156317022115f0981d818335508067299167cfd2d85541de43"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-arithmetic-return-r10-baseline-v1.json",
+      "bytes": 5349,
+      "sha256": "d0470035de461e42e779c7413d7abedd166a54a59e85e6f116001b12b7b828a2"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-arithmetic-return-r10-review-1-manifest-v1.json",
+      "bytes": 3384,
+      "sha256": "1b21dbcba67f26ef134fd1690848553a31f8a4b275d86d3a844a27f035ef0a05"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-arithmetic-return-r10-review-1-metadata-v1.json",
+      "bytes": 1985,
+      "sha256": "c3b326c74673a366b7c2648aeccb1819319f2b30ae716c03970bbcedc7bd8de9"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-arithmetic-return-r10-review-1-input-validation-v1.json",
+      "bytes": 11493,
+      "sha256": "74e869fd85590511e20d3c95d0b7d8e610e0bd3fff235de406888f7261c7c636"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-arithmetic-return-r10-review-2-manifest-v1.json",
+      "bytes": 3173,
+      "sha256": "184fbfcbe879f9707daa0f07b4ba58eb0b548720e7cec24f7bb55fe638e1be3e"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-arithmetic-return-r10-review-2-baseline-v1.json",
+      "bytes": 10097,
+      "sha256": "456bcbbbe027030a28fe9766c1e6c586f9f68201872d7b0301150d634b158cd7"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-arithmetic-return-r10-review-2-metadata-v1.json",
+      "bytes": 920,
+      "sha256": "68c1cab2e15fc73edb303092c8aa64e1cf7b0fa93dfff2ef7c837b90a850a557"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-arithmetic-return-r10-review-2-input-validation-v1.json",
+      "bytes": 406,
+      "sha256": "b366e2df6e52f66298372bbc523f0bfd8e58ed5157586fac1801857ab21536ab"
+    }
+  ],
+  "record_occurrences_verified": 117,
+  "unique_paths_verified": 57,
+  "constructor": "/root/review_2017_coarsening_r1",
+  "constructor_excluded": true,
+  "OTHER_whole_reviewers": [
+    "/root/review_2021_reasoning_j15_r2",
+    "/root"
+  ],
+  "all52_obligations_in_BOTH_ENTIRE_initials": true,
+  "old_roles_disclosed": true,
+  "actual_mixed_realization_proved_in_written_fixed_field_scope": true,
+  "atomicity_only_same_O_F_integer_norm_Weil_monoid": true,
+  "exact_contest_size_and_full_composite_tuple_open": true,
+  "retained_scope_notes": 5,
+  "no_new_numeric_order_or_annual_claim": true
+}

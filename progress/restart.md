@@ -1,6 +1,12 @@
+# Current restart boundary —2026-10-18 16:22Brisbane
+
+Continue until90% TOTAL current authorized weekly window reset1792874445; fresh root10%@06:21:37UTC. Read checkpoint-2026-10-18-1622.md and run-state. NEW2020A9/R10 and2021R13 fully reconciled/accepted after TWO OTHER entire blind WHOLE audits each.2022v1 both48initials frozen/root full reconciliation pending;2022v3 ALL100 C/A OTHER blind whole reviews active;2021R14 ALL56 BwholeR1 frozen/CwholeR2 queued. Bnew2019 growth reasoning active. Root owns integration and further2024/2025 reasoning. No partial checkpoint ends research. No next-week automatic spending. Ownedawake79293/session64368 checked06:08:07UTC; next manual assertion/hourly report07:08:07UTC. Stalled scheduler-view caused documented hourly cadence gap; do not call view routinely or claim ACTIVE guarantees delivery. Last confirmed push before this new integrationd37f110.
+
+---
+
 # Current restart boundary —2026-10-18 approximately01:30UTC
 
-Continue until90% TOTAL current authorized weekly window reset1792874445; root8%@01:22:58UTC. Read [latest all-nine](status-2026-10-18-1130.md) and run-state. Hourly heartbeat ACTIVE, activationbaseline1037, firstdue~01:36UTC. PUS1–PUS3 accepted after C/A OTHER ENTIREblindWHOLE36/36/full reconciliation; rootconstructor excluded. Root OTHER2020A9 WHOLE56 R1 and2021R13 WHOLE44 R2 ENTIREfrozen; B OTHERA9R2 active thenR13R1queued; no peer read before OWN ENTIRE. NEW2022Q1–Q4 fullconstructor/48obligations unverified; A OTHERblindwholeR1 active/C R2queuedafter actual2020R10 checkpoint. Root integrates/pushes, then continue actual2017/2019/2024/2025math. Ownedawake79293/session64368 next01:53:20UTC. Lastconfirmedpush48903a6; new checkpoint awaits push. No automatic later reset.
+Continue until90% TOTAL current authorized weekly window reset1792874445; root8%@01:22:58UTC. Read [latest all-nine](status-2026-10-18-1130.md) and run-state. Hourly heartbeat ACTIVE, activationbaseline1037, firstdue~01:36UTC. PUS1–PUS3 accepted after C/A OTHER ENTIREblindWHOLE36/36/full reconciliation; rootconstructor excluded. Root OTHER2020A9 WHOLE56 R1 and2021R13 WHOLE44 R2 ENTIREfrozen; B OTHERA9R2 active thenR13R1queued; no peer read before OWN ENTIRE. NEW2022Q1–Q4 fullconstructor/48obligations unverified; A OTHERblindwholeR1 active/C R2queuedafter actual2020R10 checkpoint. Root integrates/pushes, then continue actual2017/2019/2024/2025math. Ownedawake79293/session64368 next01:53:20UTC. Lastconfirmedpushd37f110; checkpoint successfully pushed. No automatic later reset.
 
 ---
 

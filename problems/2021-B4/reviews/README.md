@@ -1,5 +1,9 @@
 # 2021 B4 independent reviews
 
+2026-10-18: [R13A–C](reasoning-return-r13-acceptance.md) accepted after TWO OTHER initially blind ENTIRE WHOLE44/44 audits and full reconciliation, constructor A excluded. R14 ALL56 remains UNVERIFIED: B wholeR1 frozen, C wholeR2 queued. Actual m5/m3/m4 and full degree20 remain open.
+
+## Earlier review entries (dated historical status)
+
 The rational-witness degree-p+1 restriction is **proved, independently reviewed (partial result)** after two fresh blind full reconstructions. See [acceptance](witness-acceptance.md), [R1](witness-review-1.md), [R2](witness-review-2.md), and the frozen/accepted versions linked there. Both independent computations matched every finite filter count and histogram entry. Two presentation repairs were checked by the coordinator; no mathematical repair was requested.
 
 The later Newton-edge packet has its own review obligations. Its first fresh audit is active; no promotion is implied by the earlier lemma's acceptance. Original reductions and the Ghosh source-objection packet also remain separately unverified. No complete new degree has been solved.

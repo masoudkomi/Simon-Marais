@@ -1,0 +1,59 @@
+{
+  "date_utc": "2026-10-18",
+  "status": "candidate proof - unverified; source metadata is not independent review",
+  "accepted_inputs": [
+    {
+      "path": "problems/2021-B4/proofs/reviewed-reasoning-return-r12-v1.1.md",
+      "bytes": 20521,
+      "sha256": "bfc4a3549b9357600fdadf79a826d203e2226a1a4fd8d7c183412f8abc18e3ef",
+      "fresh_read": "COMPLETE accepted header and mathematical suffix; complete acceptance Markdown/JSON",
+      "use": "CaseI ONLY actual six-even/a7-nonunit a6-unit implication; actual root/carrier dictionary",
+      "older_constructor_role_not_independent_self_recertification": true
+    },
+    {
+      "path": "problems/2021-B4/proofs/reviewed-reasoning-return-r8-v1.1.md",
+      "bytes": 19921,
+      "sha256": "33b8713d402d09f711d0096cdc4e8c00f9e622a5335f8e3345eb4f82ba0d359d",
+      "fresh_read": "COMPLETE body in overlapping returned views plus final tail; complete acceptance Markdown/JSON",
+      "use": "Actual m5 Euler v(D10(r))>=2nu and v(a10)>=nu, all zero/displacement boundaries",
+      "older_constructor_role_not_independent_self_recertification": true
+    }
+  ],
+  "proposed_not_accepted_premise": {
+    "path": "problems/2021-B4/notes/reasoning-return-r13-candidate-v1.md",
+    "bytes": 15806,
+    "sha256": "25a871da93b7cd375e0af43c8643094463ac45ce913722805ba6958dee004148",
+    "status_at_constructor_checkpoint": "Acceptance not supplied; second OTHER audit/reconciliation pending in last supplied status",
+    "statement_used": "R13C supplies NONZERO NONUNIT EC10 or EC11 in EXACT actual m5 domain",
+    "used_ONLY_in": "R14D",
+    "R14A_B_C_do_not_depend_on_R13": true,
+    "NEW_R13_peer_files_findings_metadata_read_or_hashed": false
+  },
+  "primary_sources": [
+    {
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2021-paper-b.pdf",
+      "actual_fresh_read": "PDF page2 B4 lines67-81; actual rational-root hypothesis and open(b)",
+      "preliminary_proof_investigated_or_reproduced": false,
+      "original_PDF_sha256": null
+    },
+    {
+      "url": "https://arxiv.org/pdf/1208.5404",
+      "actual_fresh_read": "Served v1; COMPLETE Sections3.4-3.5 lines898-1147; root/type introduction and actual Proposition19/unramified boundary",
+      "use": "Attribution of normalized/divided-center technique and limits, not a new all-root exclusion",
+      "full23page_or_computational_file_audit_claimed": false,
+      "original_PDF_sha256": null
+    },
+    {
+      "url": "https://math-unibe.ch/jdraisma/publications/erratumcasasalvero.pdf",
+      "fresh_read_in_R14": false,
+      "actual_prior_read": "COMPLETE one-page original correction during own R13 construction, preserved in its source packet",
+      "use": "Context only: old prime5 shortcut not imported",
+      "new_theorem_import": false,
+      "original_PDF_sha256": null
+    }
+  ],
+  "new_method": "Hand global field compatibility including a8 and a9, actual H9 witness contradiction, exact actual unit-linear/Euler step",
+  "mathematical_code_CAS_scan_table_generator_author_or_old_certificate_replay": false,
+  "two_OTHER_fresh_initially_blind_ENTIRE_WHOLE_audits_required": true,
+  "no_full_m5_m3m4_J15_degree20_annual_or_novelty_claim": true
+}

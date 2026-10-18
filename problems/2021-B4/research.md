@@ -19,15 +19,7 @@ develop this interaction between arithmetic restrictions and algebraic
 computation. A finite normalized parameter space, however, need not be empty,
 and an available residue root need not lift to a rational common root.
 
-The project's reviewed results restrict carefully specified degree-20
-branches. The [R12 first-break exclusion](reviews/reasoning-return-r12-acceptance.md)
-has passed two OTHER independent whole audits and coordinator reconciliation.
-Within its specified actual-double/J15 branch, first breaks m6 and m7 are
-excluded; m3–m5 remain. Its full-gcd corollary retains three additional units.
-It does not settle all degree 20 or all contest degrees. General
-proof claims in the literature are tracked separately from verified imports.
-See the [current dashboard](../../progress/dashboard.md),
-[source audit](references.md), and [review register](reviews/README.md).
+The reviewed results restrict carefully specified degree-20 branches. The [R12 first-break exclusion](reviews/reasoning-return-r12-acceptance.md) eliminates m6 and m7 within its actual-double/J15 domain. Newly accepted [R13](reviews/reasoning-return-r13-acceptance.md) forces an actual nonzero nonunit essential common root at10 or11 in the specified m5 branch. Each passed two OTHER initially blind whole audits and coordinator reconciliation. Full m5 and m3/m4 remain open; R13 does not itself exclude T4. Stronger R14 is frozen UNVERIFIED, with one complete OTHER whole audit and its second queued. These branch restrictions do not settle degree20 or all contest degrees. See the [current dashboard](../../progress/dashboard.md), [source audit](references.md), and [review register](reviews/README.md).
 
 ## Reviewed single-center classifications
 

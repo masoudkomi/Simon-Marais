@@ -1,0 +1,119 @@
+{
+  "frozen_utc": "2026-10-18T02:00:12.501052+00:00",
+  "status": "candidate proof - unverified; COMPLETE whole Q1--Q6 v2 extension checkpoint",
+  "constructor": "/root/review_2022_complexity_r2",
+  "exact_new_whole_candidate": {
+    "path": "problems/2022-B4/notes/reasoning-complexity-return-r9-candidate-v2.md",
+    "bytes": 31982,
+    "sha256": "4d3d81540f7f928e4aff9f865e9384cab2c45ca2a7d4e28d971c1531c943c578"
+  },
+  "new_claims": [
+    "Q5 one positive integer rank for central inverse and every critical double-input merger",
+    "Q6 exact universal equivalence with unbounded singleton-next-output seeds plus B<=42 patch"
+  ],
+  "entire_Q1_Q4_mathematical_body_retained_as_literal_appendix": true,
+  "Q1_Q4_parent_still_unverified_pending_TWO_OTHER_audits": true,
+  "full_Q1_Q6_and_all80_obligations": true,
+  "old48_plus_new32_obligations": true,
+  "full_source_limits_failed_routes_worklog_and_draft_preserved": true,
+  "actual_B36_rank_increase_and_B40_equality_preserved": true,
+  "both_old_diagonal_and_outer_strip_inverse_counterexamples_preserved": true,
+  "D2_RL_actual_one_step_hitting_subfamily_proved_by_hand": true,
+  "no_all_residual_hitting_or_survivor_or_annual_solution_or_novelty_claim": true,
+  "TWO_OTHER_fresh_initially_blind_WHOLE_v2_audits_required": true,
+  "root_prompt_supplies_no_new_Q1_Q6_inference": true,
+  "no_NEW_A_C_R9_findings_reports_ledgers_source_or_metadata_read_or_hashed": true,
+  "old_authorship_and_review_roles_disclosed_no_self_certification": true,
+  "mathematical_code_CAS_scan_author_rerun_or_finite_certificate": false,
+  "metadata_checks_only_not_mathematical_validation": true,
+  "old_shared_Git_cache_edit_spawn_charge_contact_or_bypass": false,
+  "preliminary_a_proof_reproduced_or_investigated": false,
+  "actual_fresh_primary_read_scopes_and_no_external_proof_import_recorded": true,
+  "compact_own_parent": {
+    "path": "problems/2021-B4/reviews/reasoning-return-r13-review-1-manifest-v1.json",
+    "bytes": 4858,
+    "sha256": "2ad61875da9ce44e38236696f3ed576c773ab90fe0c327e374fa8e69004cc87e"
+  },
+  "mathematical_parent_v1": {
+    "path": "problems/2022-B4/notes/reasoning-complexity-return-r9-freeze-v1.json",
+    "bytes": 4389,
+    "sha256": "13f4c9b46055c02b5f535706aa338bcc5167ea719120075aa0616e1298669142"
+  },
+  "older_own_paths_bound_transitively": 532,
+  "new_own_files_including_manifest": 11,
+  "older_plus_new_own_paths_bound_transitively": 543,
+  "fingerprint_occurrences_verified": 25,
+  "unique_paths_verified": 23,
+  "canonical_deduplicated_summary_sha256": "861cf0b10655edd4b01978dd29cc2ec48ce58eab8e3895d02178a2d2b4abf2ed",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independently_verified_effective_settings": null,
+  "authoritative_weekly_telemetry": {
+    "at_utc": "2026-10-18 01:59:57 UTC",
+    "method": "mcp__codex_app__get_usage_limits({}); codex.primary and legacy agree",
+    "account_label": "029a8928...1334ac3a",
+    "used_percent_TOTAL": 9,
+    "window_minutes": 10080,
+    "reset_unix": 1792874445,
+    "ordinary_usage_allowed": true,
+    "current_window_explicitly_user_authorized": true,
+    "ceiling_TOTAL_percent": 90,
+    "integration_reserve": true,
+    "automatic_further_reset_spending": false
+  },
+  "artifacts": [
+    {
+      "path": "problems/2022-B4/notes/reasoning-complexity-return-r9-baseline-v2.json",
+      "bytes": 5625,
+      "sha256": "1e26860238d3207800dc8844e63f1c617d40bf2059343e8e91e08f482ee570fc"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-complexity-return-r9-candidate-v2.md",
+      "bytes": 31982,
+      "sha256": "4d3d81540f7f928e4aff9f865e9384cab2c45ca2a7d4e28d971c1531c943c578"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-complexity-return-r9-obligations-v2.md",
+      "bytes": 13505,
+      "sha256": "f2eecd5521ebc204cdf0ed0b65b2305986f4edd8e12ed6b9233d70ce907a69ae"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-complexity-return-r9-failed-routes-v2.md",
+      "bytes": 5610,
+      "sha256": "a89e231adc5254ca6667528f42205f1837c5cd87cd5d022a8d2784a89e0937c3"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-complexity-return-r9-source-audit-v2.md",
+      "bytes": 6381,
+      "sha256": "920af6d18bf525e865499b12040ab34f50b38b1b1ae7e39cc1dfb182950d14f8"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-complexity-return-r9-sources-v2.json",
+      "bytes": 2911,
+      "sha256": "a92a33644acf164d0d6d5dfcf279e60b17368a2c7911ac82520d6b0bbf0c5563"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-complexity-return-r9-worklog-v2.md",
+      "bytes": 5923,
+      "sha256": "42938751eb671221318270ce3be28cb1a54726f75a2e31392fa2bbd321795cdb"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-complexity-return-r9-followup-draft-v2.md",
+      "bytes": 4595,
+      "sha256": "098329ee01b0fd2c32d0687831bd150c8375e70b162725155bc1d14cf8307150"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-complexity-return-r9-freeze-v2.py",
+      "bytes": 8067,
+      "sha256": "e382fd61b3a939ffc741f1c03c192a9d5afceebd3d8e1ccceb0c1144f5c0863e"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-complexity-return-r9-input-validation-v2.json",
+      "bytes": 5881,
+      "sha256": "cb8040479ceb9331dd3c8a16b993ca1383539b65778e0f576d842d66b0835efd"
+    }
+  ]
+}

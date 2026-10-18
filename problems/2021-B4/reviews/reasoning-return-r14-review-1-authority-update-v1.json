@@ -1,0 +1,30 @@
+{
+  "recorded_utc": "2026-10-18T06:12:11.127536+00:00",
+  "status": "Root supplied accepted OLD INPUT R13 during ongoing blind R14 audit; not a NEW R14 peer finding",
+  "frozen_R14_constructor_pending_wording_preserved": true,
+  "initial_review_baseline_pending_status_preserved": true,
+  "newly_accepted_copy": {
+    "path": "problems/2021-B4/proofs/reviewed-reasoning-return-r13-v1.1.md",
+    "bytes": 19299,
+    "sha256": "a29ecdb8002f3cbb4250e93f94c65ed83a67b086331fb3497d48ad740959ab6b"
+  },
+  "acceptance_markdown": {
+    "path": "problems/2021-B4/reviews/reasoning-return-r13-acceptance.md",
+    "bytes": 3591,
+    "sha256": "3017df8c79c6b72a4dfd0fb15d07f66b41cb9694c9e7c984e21f717b9d0a3465"
+  },
+  "acceptance_json": {
+    "path": "problems/2021-B4/reviews/reasoning-return-r13-acceptance.json",
+    "bytes": 3318,
+    "sha256": "b0650934d449a60daae2fd8dffaac0beb0f5ccf5cf85247f73218802cef63909"
+  },
+  "exact_unchanged_candidate": {
+    "path": "problems/2021-B4/notes/reasoning-return-r13-candidate-v1.md",
+    "bytes": 15806,
+    "sha256": "25a871da93b7cd375e0af43c8643094463ac45ce913722805ba6958dee004148"
+  },
+  "accepted_copy_literal_candidate_suffix": true,
+  "R14D_conditional_implication_checked_and_now_old_premise_available": true,
+  "no_full_m5_exclusion": true,
+  "C_NEW_R14_findings_files_meta_unread": true
+}

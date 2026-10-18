@@ -1,0 +1,120 @@
+{
+  "recorded_at_utc": "2026-10-18T06:09:54.022188+00:00",
+  "kind": "delayed hourly research report, actual observation06:08UTC",
+  "automation_id": "simon-marais-hourly-research-report",
+  "automation_status_from_local_configuration": "ACTIVE",
+  "weekly": {
+    "observed_at_utc": "2026-10-18T06:08:07+00:00",
+    "used_percent_total": 10,
+    "window_minutes": 10080,
+    "reset_unix": 1792874445,
+    "authorized_ceiling_percent_total": 90,
+    "percentage_points_before_ceiling": 80,
+    "ordinary_usage_allowed": true,
+    "account_wide_not_project_specific": true,
+    "automatic_further_reset_authorized": false
+  },
+  "tokens": {
+    "snapshot_cutoff_utc": "2026-10-18T06:08:08.424277+00:00",
+    "observed_sessions": 62,
+    "distinct_responses": 8622,
+    "usage": {
+      "input_tokens": 1639928502,
+      "cached_input_tokens": 1565493888,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 12298006,
+      "reasoning_output_tokens": 5299831,
+      "total_tokens": 1652226508
+    },
+    "uncached_input_plus_output_tokens": 86732620,
+    "sessions_without_usage_records": 0,
+    "all_recorded_session_sums_match_cumulative": true,
+    "method": "Deduplicated own-thread per-response usage records across root and recursively spawned descendants; cached input is a subset of input, reasoning output a subset of output.",
+    "limits": "Local recorded observation while work is active. Unreported in-flight usage is excluded. Not a bill or a conversion to subscription percentage. No prompts, account IDs, credentials, or response IDs exported."
+  },
+  "increase_since_previous_hourly_report": {
+    "input_tokens": 143392934,
+    "cached_input_tokens": 138572672,
+    "cache_write_input_tokens": 0,
+    "output_tokens": 981364,
+    "reasoning_output_tokens": 396716,
+    "total_tokens": 144374298,
+    "uncached_input_plus_output_tokens": 5801626
+  },
+  "previous_report": "progress/hourly-report-2026-10-18-1037.json",
+  "increase_interval": {
+    "from_cutoff_utc": "2026-10-18T00:35:57.429125+00:00",
+    "to_cutoff_utc": "2026-10-18T06:08:08.424277+00:00",
+    "not_a_one_hour_interval": true
+  },
+  "per_problem": {
+    "2017": {
+      "status": "unresolved",
+      "reviewed": "Scalar limit exists; value unknown, upper<0.649514, certified lower approximations and every-profile realization. NEW repaired PM1–PM4 accepted after both OTHER original whole audits and BOTH complete affected whole60-row audits/full reconciliation: exact local upper certificates, bounded-content completion, strict upper interface and actual composition-matched entropy gap. PUS1–PUS3 now accepted after C/A OTHER initially blind ENTIRE WHOLE36/36 audits and full root reconciliation: exact boundary-fiber bijection, original-plane lower interface and compact-strict local recovery preserving the original exterior outside exact dilations.",
+      "pending": "Global boundary-sensitive mass/upper R/value remain open.",
+      "next": "Close the boundary-sensitive mass/value inference."
+    },
+    "2018": {
+      "status": "complete published-result reproduction",
+      "reviewed": "General enumeration formula internally reviewed and attributed to Hering–Howard/Ottaviani.",
+      "pending": "",
+      "next": "Retain source attribution; no novelty claim."
+    },
+    "2019": {
+      "status": "unresolved",
+      "reviewed": "1.765224<lambda<1.834843, retained-core and strict cap-gap results.",
+      "pending": "",
+      "next": "Confront exact distinct-output growth and the retained-core renewal/moment regime through primary literature."
+    },
+    "2020": {
+      "status": "unresolved",
+      "reviewed": "R8 conditional arithmetic solvability with exact ideal, unit and stabilizer obstructions.",
+      "pending": "A9: both OTHER WHOLE56 initials frozen; root full peer reconciliation pending. New R10 actual mixed-class/Weil-number construction fully frozen UNVERIFIED with52obligations; A/root whole reviews active/queued. N=q0 remains unproved.",
+      "next": "Establish actual unconditional existence/nonexistence or a decisive obstruction."
+    },
+    "2021": {
+      "status": "unresolved",
+      "reviewed": "NEW R12A–C accepted after two OTHER initially blind whole60-obligation audits and full coordinator reconciliation. In the specified actual-double/J15 degree20 branch, first breaks m6 and m7 are excluded; m3–m5 remain. The extra-three-unit full-gcd corollary is conditional.",
+      "pending": "R13: both OTHER WHOLE44 initials frozen; full reconciliation pending. Stronger R14 fully frozen UNVERIFIED with56obligations; B/C OTHER whole audits active/queued. Full m5 remains open.",
+      "next": "Resolve actual remaining EC10/11 or m3/m4; retain full original branches."
+    },
+    "2022": {
+      "status": "unresolved",
+      "reviewed": "Density-one, canonical mergers, actual q2 predecessor counterexample and positive rescaling/phase restrictions.",
+      "pending": "Q1–Q4v1: both OTHER WHOLE48 initials frozen; full reconciliation pending. Stronger ENTIRE Q1–Q8v3,100obligations, frozen UNVERIFIED; C/A OTHER whole audits active/queued. Refined birth/orphan seed set remains unbounded; no future hitting or infinite survivor established.",
+      "next": "Prove ordinary universal hitting or an actual infinite avoiding orbit; unbounded seed family remains unproved."
+    },
+    "2023": {
+      "status": "complete internally reviewed classification",
+      "reviewed": "For fixed positive nonsquare N: all(k,k),k>0, and(k,2k)/(2k,k) for positive odd k. Priority unestablished.",
+      "pending": "",
+      "next": "Retain the real-witness domain including negative witnesses."
+    },
+    "2024": {
+      "status": "unresolved",
+      "reviewed": "Whole three-bit exclusion and NF1–NF3 neighbor-Frobenius whole-irreducibility criterion accepted, with proper/composite odd divisors. n57/allweight4/full classification unclaimed.",
+      "pending": "",
+      "next": "Confront higher binary-weight sectors and ordinary reducibility beyond the criterion."
+    },
+    "2025": {
+      "status": "unresolved",
+      "reviewed": "NEW separate RG1–RG3 Runge-cover procedure accepted after two OTHER whole34-obligation audits and full reconciliation. Exact finite coefficient recipe gives an unevaluated fixed-p bound; no new exclusion or useful improved height. Original R9A–F v1.1 now accepted in exact scopes after BOTH affected whole56-row audits/full reconciliation: actual small vector, both evaluated branches, generic avoidance obstruction, conditional ideal pole, actual weight6 congruence and CHOSEN-generator model.",
+      "pending": "No remaining radius repair. Another model-ideal generator being linear remains unchecked. Smaller-quotient worklog remains exploratory/unverified.",
+      "next": "Find an actual arithmetic nonvanishing or useful zero-safe bound, respecting the missing linear-generator input."
+    }
+  },
+  "complete_annual_answers": 2,
+  "unresolved_annual_targets": 7,
+  "latest_previously_pushed_commit": "d37f110",
+  "reporting_failure": "Requested hourly cadence not met. Scheduler view call began after01:32:38UTC and only completed before06:08UTC; workers saved checkpoints through02:07UTC, then were redispatched after recovery. No uninterrupted root or worker activity claimed. Exact cause and intervening heartbeat deliveries not established.",
+  "keepawake": {
+    "pid": 79293,
+    "exec_session": 64368,
+    "verified_at_utc": "2026-10-18T06:08:07+00:00",
+    "actual_assertion": "PreventUserIdleSystemSleep; asserting forever29:00:17",
+    "next_check_utc": "2026-10-18T07:08:07+00:00"
+  },
+  "next_manual_reporting_check_utc": "2026-10-18T07:08:07+00:00",
+  "reset_drift_note": "A observed1792874446 at01:30:53UTC with8%; root06:08:07UTC returns1792874445 with10%. Exact one-second drift retained; no reset-to-zero/new period inferred.",
+  "limitations": "Recorded own-thread response totals include repeated cached input; reasoning is a subset of output. In-flight unreported work excluded. No billing or conversion to weekly allowance."
+}
