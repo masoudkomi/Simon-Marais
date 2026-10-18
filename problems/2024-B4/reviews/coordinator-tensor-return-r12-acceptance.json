@@ -1,0 +1,96 @@
+{
+  "accepted_at_utc": "2026-10-18T22:29:40.583033+00:00",
+  "status": "proved, independently reviewed scoped partial result",
+  "whole_initials_blind": true,
+  "root_read_full_candidate_both_reports_all_ledgers_sources": true,
+  "unresolved_substantive_issues": 0,
+  "repair_required": false,
+  "candidate": {
+    "path": "problems/2024-B4/notes/coordinator-tensor-return-r12-candidate-v1.md",
+    "bytes": 24907,
+    "sha256": "4d2195678cc6e029c0657edc21d98387282c2ccc6cbd8b27ff80c2a11f80c05a"
+  },
+  "accepted_copy": {
+    "path": "problems/2024-B4/proofs/reviewed-coordinator-tensor-return-r12-v1.1.md",
+    "bytes": 29355,
+    "sha256": "48b6926a174202e447e04673f0507fc8e4708c7ee212fd3a68d6b90957a2845f"
+  },
+  "verification_metadata": [
+    {
+      "path": "problems/2024-B4/notes/coordinator-tensor-return-r12-freeze-v1.json",
+      "bytes": 1749,
+      "sha256": "d55148b98cfcf714fc80c88e92942d84181261185c212e7f4331a484025677a0"
+    },
+    {
+      "path": "problems/2024-B4/notes/coordinator-tensor-return-r12-baseline-v1.json",
+      "bytes": 1800,
+      "sha256": "2ac0667d09a9529d2b10c41677bd10c598252d030f3f3341988380ed6b397d17"
+    },
+    {
+      "path": "problems/2024-B4/notes/coordinator-tensor-return-r12-sources-v1.json",
+      "bytes": 2813,
+      "sha256": "e8cb5b7736e76dc9800af52fa0ec2e59962551ef1521ae4a4a24191cc60e9353"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-tensor-return-r12-review-1-manifest-v1.json",
+      "bytes": 2300,
+      "sha256": "31d124586f7812dffa10cffd852c3b88ad327d6e0cc91da9683f6e86d696735b"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-tensor-return-r12-review-1-baseline-v1.json",
+      "bytes": 6928,
+      "sha256": "93cb9b905abe64bf84e8829c08c7d3d2c61909297e16fbf74bcb8af4c17ff732"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-tensor-return-r12-review-1-sources-v1.json",
+      "bytes": 3444,
+      "sha256": "e5dc8420da6abaedc4e4bb0af7d4f9cb74f5e6d28fb82a025e955f5c3a07ba3e"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-tensor-return-r12-review-2-manifest-v1.json",
+      "bytes": 2972,
+      "sha256": "e3bd98207b6eda0a2b884b73d0e43805788c93272cd8dca3e4465bcf75999ce2"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-tensor-return-r12-review-2-baseline-v1.json",
+      "bytes": 2265,
+      "sha256": "c7385f904be7ed4e3cbe2956a0d9a1ffd9076dc6b8981e6b4f875e76e799f50b"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-tensor-return-r12-review-2-sources-v1.json",
+      "bytes": 3951,
+      "sha256": "dc92b97ed9bc0328f600b865807589d64aadaee6af5d3f4bf94859424761e7ff"
+    }
+  ],
+  "record_occurrences_verified": 60,
+  "unique_paths_verified": 35,
+  "NEW_contributors_excluded": [
+    "/root",
+    "/root/review_2017_coarsening_r1"
+  ],
+  "whole_reviewers": [
+    "/root/review_2021_reasoning_j15_r2",
+    "/root/review_2022_complexity_r2"
+  ],
+  "whole_obligations_per_review": 48,
+  "whole_review_files": [
+    5,
+    5
+  ],
+  "closed_scope_notes": [
+    9,
+    10
+  ],
+  "explicit_BOTH_entire_before_NEW_peer_access": true,
+  "root_read_ENTIRE_author_both_reviews_all_code_metadata": true,
+  "root_reconciliation_not_independent_audit": true,
+  "M21": 96,
+  "M105": 696,
+  "t0_n6721_included": true,
+  "same_actual_pair_complete_budget_preserved": true,
+  "R13_extension_reviewed_or_accepted": false,
+  "nonpositive_converse": false,
+  "annual_open": true,
+  "priority_claim": false,
+  "no_mathematical_program_or_old_replay": true
+}

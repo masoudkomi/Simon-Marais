@@ -1,5 +1,7 @@
 # 2024 B4 independent reviews
 
+08:33 update: TR12A–D is now independently reviewed after A/B TWO OTHER whole48 audits and full96 reconciliation; root/C excluded. Coprime binary field tensors give exact M21=96,M105=696 and WHOLE absolute irreducibility for EVERY n=105*2^(12t+6)+1,t>=0,includingn6721. Full classification, failed-test converse and priority remain open. R13 is a separate UNVERIFIED two-parameter exploration. [Acceptance](coordinator-tensor-return-r12-acceptance.md).
+
 08:23 update: [FR11 subgroup-translation criterion](reasoning-frobenius-return-r11-acceptance.md) is now independently reviewed after BOTH OTHER whole48 audits and complete96-disposition reconciliation. It proves whole absolute irreducibility for EVERY n=105*2^(12t+6)+1,t>=1; the exact old positive-P test fails there. The separate root TR12 tensor-count candidate, including proposed t0/n6721, remains UNVERIFIED under A/B whole audits. Full classification, converse and published priority remain open.
 
 R9 is now independently reviewed after BOTH OTHER whole64 audits and complete128-disposition reconciliation. Its sufficient jet criterion permits NF4-failing root sets and gives the15*2^(4k+2)+1 and variable-odd-part irreducibility families. All ordinary diagonal points and the absolute n13 exception remain. The full annual classification and priority remain open. [Acceptance](reasoning-cofactor-return-r9-acceptance.md).

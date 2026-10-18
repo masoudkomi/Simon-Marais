@@ -1,0 +1,55 @@
+{
+  "frozen_utc": "2026-10-18T22:25:37.434434+00:00",
+  "reviewer": "/root/review_2021_reasoning_j15_r2",
+  "role": "OTHER initially blind ENTIRE WHOLE1",
+  "whole_obligations": 48,
+  "payload_count": 4,
+  "ENTIRE_files": 5,
+  "payloads": [
+    {
+      "path": "problems/2024-B4/reviews/coordinator-tensor-return-r12-review-1-admin-v1.py",
+      "bytes": 7427,
+      "sha256": "a58e4cb152589427f813d837914627c01b42639fc052b774f23b384b8c937d28"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-tensor-return-r12-review-1-baseline-v1.json",
+      "bytes": 6928,
+      "sha256": "93cb9b905abe64bf84e8829c08c7d3d2c61909297e16fbf74bcb8af4c17ff732"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-tensor-return-r12-review-1-report-v1.md",
+      "bytes": 26245,
+      "sha256": "3bb2ea90c31cb3ff59316b5e1ec1a18718b76de2d3925b84ee0d56d904bf8e63"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-tensor-return-r12-review-1-sources-v1.json",
+      "bytes": 3444,
+      "sha256": "e5dc8420da6abaedc4e4bb0af7d4f9cb74f5e6d28fb82a025e955f5c3a07ba3e"
+    }
+  ],
+  "current_occurrence_summary": {
+    "occurrences": 27,
+    "unique_paths": 26,
+    "canonical_deduplicated_sha256": "e8f049f352f6c2ec788602121763081c33a9ee216994b5469a5c644f67021b24"
+  },
+  "effective_fresh_guard_summary": {
+    "occurrences": 83,
+    "unique_paths": 67,
+    "canonical_deduplicated_sha256": "415cb3a9de211590830dbcd16875b4b7e11b03fbd9d49d32924f094f1c489532"
+  },
+  "FULL_final_ALL4_payload_model_readback_completed": true,
+  "FULL_manifest_model_readback_then_SEPARATE_readonly_verify_REQUIRED": true,
+  "corresponding_NEW_B_TR12_finding_file_actual_inventory_hash_metadata_public_verdict_seen": false,
+  "corresponding_peer_completion_identity_received": false,
+  "NEW_TR12_constructive_contribution": false,
+  "old_accepted_input_and_FR11_roles_disclosed_not_new_self_recertification": true,
+  "requested": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independent_effective_setting_readback": null,
+  "mathematical_program_CAS_scan_test_optimizer_source_author_old_replay": false,
+  "findings_release_requires_explicit_BOTH_ENTIRE_confirmation": true,
+  "status": "Independent whole review recommendation only; root reconciliation required"
+}

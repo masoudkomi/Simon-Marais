@@ -1,0 +1,61 @@
+{
+  "prepared_utc": "2026-10-18T22:24:26.622860+00:00",
+  "author_ENTIRE5": [
+    {
+      "path": "problems/2024-B4/notes/coordinator-tensor-return-r12-freeze-v1.json",
+      "bytes": 1749,
+      "sha256": "d55148b98cfcf714fc80c88e92942d84181261185c212e7f4331a484025677a0"
+    },
+    {
+      "path": "problems/2024-B4/notes/coordinator-tensor-return-r12-candidate-v1.md",
+      "bytes": 24907,
+      "sha256": "4d2195678cc6e029c0657edc21d98387282c2ccc6cbd8b27ff80c2a11f80c05a"
+    },
+    {
+      "path": "problems/2024-B4/notes/coordinator-tensor-return-r12-sources-v1.json",
+      "bytes": 2813,
+      "sha256": "e8cb5b7736e76dc9800af52fa0ec2e59962551ef1521ae4a4a24191cc60e9353"
+    },
+    {
+      "path": "problems/2024-B4/notes/coordinator-tensor-return-r12-admin-v1.py",
+      "bytes": 4762,
+      "sha256": "0b35000239e311301950d892cc25a316041d2b6d395ef0762b29769d4e594513"
+    },
+    {
+      "path": "problems/2024-B4/notes/coordinator-tensor-return-r12-baseline-v1.json",
+      "bytes": 1800,
+      "sha256": "2ac0667d09a9529d2b10c41677bd10c598252d030f3f3341988380ed6b397d17"
+    }
+  ],
+  "author_compact_necessary_guard_summary": {
+    "occurrences": 17,
+    "unique_paths": 16,
+    "canonical_sha256": "15496ef7903b474d6e443460f2c17a7aa4c628f17564929016a384ff48ecefe0"
+  },
+  "own_immediate_parent": {
+    "path": "problems/2024-B4/reviews/reasoning-frobenius-return-r11-review-2-manifest-v1.json",
+    "bytes": 3092,
+    "sha256": "c6965259aca4732d67905d0fd1dfc2172864f08aa2aea26bd9a6a24432a7dd52"
+  },
+  "own_parent_summary": {
+    "occurrences": 5,
+    "unique_paths": 5,
+    "canonical_sha256": "06f55764836e91927130b2092335925c441363e86181b682d6654a07e0f06f6e"
+  },
+  "all_guard_summary": {
+    "occurrences": 27,
+    "unique_paths": 26,
+    "canonical_sha256": "1593303baa0d92204ca14c4eb943e3ee1440127efe1f3f2a355864120b3d06bb"
+  },
+  "older_own_paths_bound_transitively": 985,
+  "older_plus_NEW5_own_paths_bound_transitively": 990,
+  "accepted_FR10_suffix_identical": true,
+  "literal_checks": {
+    "author_literal_obligations": 48,
+    "review_literal_dispositions": 48,
+    "closed_scope_notes": 10,
+    "mathematical_truth_checked_by_code": false
+  },
+  "corresponding_NEW_peer_access": false,
+  "growing_historical_inventory_recopied": false
+}

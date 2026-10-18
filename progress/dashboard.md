@@ -1,5 +1,15 @@
 # Research dashboard
 
+Current08:33 continuing checkpoint: [2021R22 accepted](../problems/2021-B4/reviews/reasoning-center-return-r22-acceptance.md)
+and [2024TR12 accepted](../problems/2024-B4/reviews/coordinator-tensor-return-r12-acceptance.md)
+after BOTH OTHER whole48/48 each/all192 reconciliation. R22 excludes
+integralframeIIIbranch only; TR12 exactM21/M105 includesn6721/fullt>=0family.
+Negative2021tie/full2024classification/priority remainOPEN. A/B2025R10
+and C/root2022RC10 initiallyblindwholeauditsactive; R13UNVERIFIED.
+Latest66%TOTAL22:27:00UTC/same1792874445through90TOTALreserve; literal
+projecttokens/awake from08:27hourly. [Checkpoint](checkpoint-2026-10-19-0833.md).
+NextACTUAL23:27:30UTC. Two completeannual/sevenunresolved.
+
 Actual08:27hourly:66%TOTALACCOUNTWIDE/same1792874445through90TOTALreserve. Project raw3,079,029,313/cached2,934,685,184/reasoning8,107,602/uncached+output144,344,129 at08:26:18; literal scopes in [all-nine report](status-2026-10-19-0827.md). R22/TR12 bothwholeinitials PASS/released, rootreconciliationpending. A/B2025R10 and C/root2022RC10 blindauditsactive. OWN79293 awake verified08:27:01forever45:19:11. NextACTUAL23:27:30UTC. Two completeannual/seven unresolved.
 
 Current08:23 continuing checkpoint: [2024 FR11 accepted](../problems/2024-B4/reviews/reasoning-frobenius-return-r11-acceptance.md)

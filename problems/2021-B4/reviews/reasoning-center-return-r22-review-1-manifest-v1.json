@@ -1,0 +1,80 @@
+{
+  "frozen_utc": "2026-10-18T22:26:26.982484+00:00",
+  "role": "OTHER initially blind ENTIRE WHOLE1",
+  "reviewer": "/root/review_2017_coarsening_r1",
+  "whole_obligations": 48,
+  "ENTIRE_files": 11,
+  "payload_records": [
+    {
+      "path": "problems/2021-B4/reviews/reasoning-center-return-r22-review-1-initial-v1.md",
+      "bytes": 12343,
+      "sha256": "70868e11344019e05ef02dee04527c3b12bc97748bb74a188e5f1d767d781de4"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-center-return-r22-review-1-ledger-v1.md",
+      "bytes": 6037,
+      "sha256": "72fc34880cd95eb481796f66c3063946366409b89acf0d66a72b5b6c40c2a7d3"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-center-return-r22-review-1-issues-v1.md",
+      "bytes": 1895,
+      "sha256": "c638605475a85cbbfd6ecdfc07166e939173398fa25a2cd6960a40499fa39a40"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-center-return-r22-review-1-sources-v1.md",
+      "bytes": 5427,
+      "sha256": "9a96977c04d2e2f30e809db1ffabb6d1bc23b7e01be70d20c7f66de5cde4c4c1"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-center-return-r22-review-1-sources-v1.json",
+      "bytes": 4296,
+      "sha256": "37f1ef0641c2297aa42e6db3f432e7c17130fa78d9f0007976d32394d3638559"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-center-return-r22-review-1-worklog-v1.md",
+      "bytes": 3602,
+      "sha256": "5727a5ccbfda891576096de6c6bd4d4b6a61ce454e87edfb22548cc18307502e"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-center-return-r22-review-1-integrity-v1.py",
+      "bytes": 9627,
+      "sha256": "99504303967cd00d51143669251576342b17daaac65ab015bc8057f4f2dc5264"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-center-return-r22-review-1-baseline-v1.json",
+      "bytes": 5932,
+      "sha256": "6399bae0898e9be3eb4172df7b55539dd30d3981714651d4286d4bc5a9f64d0a"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-center-return-r22-review-1-input-validation-v1.json",
+      "bytes": 586,
+      "sha256": "255c67132a7d87388faf4834f67053ec45a777b6e09293f07ef5c8df6408175e"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-center-return-r22-review-1-metadata-v1.json",
+      "bytes": 2000,
+      "sha256": "3c75c369eb709a517c1a9078b7ebcd9689dae5cbd9c816160883698cc5a59695"
+    }
+  ],
+  "effective_guard_summary": {
+    "occurrences": 430,
+    "unique_paths": 339,
+    "canonical_deduplicated_sha256": "b095aa3f11e437f427ed068e56cb6ed804ececf915964f4bd2ac9df4b8fa8584"
+  },
+  "author": {
+    "path": "problems/2021-B4/notes/reasoning-center-return-r22-freeze-v1.json",
+    "bytes": 2615,
+    "sha256": "48f2fac48332fcde04d01e574b9f45c33e29375ceecc63afada5030058801c6f"
+  },
+  "own_parent": {
+    "path": "problems/2025-B4/notes/reasoning-compatible-return-r10-freeze-v1.json",
+    "bytes": 3692,
+    "sha256": "167e4721b87d245a4dc82e5ffcc11d4fdd1dfad702785906fc732b7cd5f8b306"
+  },
+  "FULL_final_MODEL_ALL10_payload_readback_completed": true,
+  "FULL_manifest_model_readback_then_SEPARATE_readonly_verify_required": true,
+  "NO_NEW_peer_findings_files_inventory_hash_metadata_access": true,
+  "findings_EMBARGO_until_explicit_BOTH": true,
+  "mathematical_program": false,
+  "old_shared_Git_cache_bytes_changed": false
+}

@@ -1,5 +1,7 @@
 # 2021 B4 independent reviews
 
+08:33 update: R22A–C is now independently reviewed after C/root TWO OTHER whole48 audits and full96 reconciliation. The exact centered dyadic contradiction excludes the integral branch of the FULL retained frameIII, with all D5 forks. Its negative tied branch remains open; the local carrier root is Q2-irrational over Q and supplies no rational contest witness. Full degree20/annual/priority remain unresolved. [Acceptance](reasoning-center-return-r22-acceptance.md).
+
 The newly accepted [R20A/B four-witness obstruction](reasoning-center-return-r20-acceptance.md)
 passed root/B TWO OTHER ENTIRE WHOLE48/48 audits and full96-disposition
 reconciliation. The first derivative divided by20 BEFORE dyadic reduction,

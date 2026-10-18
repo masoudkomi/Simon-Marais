@@ -1,5 +1,7 @@
 # 2021 B4 research log
 
+08:33 update: R22A–C is now independently reviewed after C/root TWO OTHER whole48 audits and full96 reconciliation. The exact centered dyadic contradiction excludes the integral branch of the FULL retained frameIII, with all D5 forks. Its negative tied branch remains open; the local carrier root is Q2-irrational over Q and supplies no rational contest witness. Full degree20/annual/priority remain unresolved. [Acceptance](reviews/reasoning-center-return-r22-acceptance.md).
+
 ## Research significance and connections
 
 Opening overview updated 2026-10-18. The Casas–Alvero question asks whether a

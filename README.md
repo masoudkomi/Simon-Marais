@@ -34,7 +34,14 @@ New2021R22/2022RC10/2024TR12/2025R10 packets remain UNVERIFIED;
 independent whole reviews continue. Weekly65%TOTAL at22:22:02UTC/reset1792874445; continue to90%TOTAL with
 reserve in this authorized window. Hand research continues on all gaps.
 
-- [Latest continuing checkpoint](progress/checkpoint-2026-10-19-0823.md).
+[2021R22](problems/2021-B4/reviews/reasoning-center-return-r22-acceptance.md)
+and [2024TR12](problems/2024-B4/reviews/coordinator-tensor-return-r12-acceptance.md)
+now passed both OTHER whole audits and reconciliation. R22 removes the
+integral frame branch only; TR12 includes exponent6721. Further R13
+exploration and NEW2022/2025 reviews remain unverified. Latest actual
+weekly observation66%TOTAL at22:27:00UTC; continue to90%TOTAL with reserve.
+
+- [Latest continuing checkpoint](progress/checkpoint-2026-10-19-0833.md).
 - [Latest actual hourly report](progress/status-2026-10-19-0827.md).
   Next actual hourly/token/owned-awake check23:27:30UTC.
 
