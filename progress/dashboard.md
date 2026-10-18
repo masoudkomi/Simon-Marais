@@ -1,5 +1,14 @@
 # Research dashboard
 
+CURRENT23:27Brisbane18October2026:[ACTUALhourly](status-2026-10-18-2327.md).
+38%TOTAL/currentauthorized1792874445onlythrough90/reserve.
+PM8/D6/R6/RD accepted exactscopes after TWO OTHER ENTIREwholeaudits/fullreconciliation.
+Two complete annual answers/seven unresolved. RootBTOTHERwhole1ENTIRE56frozen/readback/verify;
+findings EMBARGOEDuntil AOTHERwhole2/BOTHconfirmed. NEW2021R19/A,2024R7/C,
+2020R14/B and root2017momentworkingresearch UNVERIFIED. NextACTUAL14:27:30UTC.
+OWN79293/session64368freshlyverifiedforever;researchcontinues,not a stoppingcheckpoint.
+
+
 CURRENT23:14Brisbane18October2026: [continuing checkpoint](checkpoint-2026-10-18-2314.md).
 37%TOTAL direct13:13:11UTC/reset1792874445/currentwindow90TOTAL/reserve;
 OWNawake79293forever positively verified13:13:11UTC.2022D6A–D6D accepted
@@ -41,7 +50,7 @@ Initial scope: nine official B4 open portions, 2017-2025. **2026 deferred by the
 
 |Year|Accepted result and present position|
 |---|---|
-|2017|Scalar limit exists; value unknown. WO1–WO3/conditional-only WO4 accepted after OTHER whole48/48: exact weight-family optimum strictly improves old algebraic upper<0.648; absolute moment/tail. Uniform low-cost mass/effective upperR/exact value open.|
+|2017|PM8A–E now reviewed:actual middle-exit geometry and adapted weighted flow give a uniform strict upper improvement J<K and discharge the old WO4 low-cost premise. Exact value/matching lower/effective upperR open. Root NEW positive-moment/Hölder route,which proposes H<J,is UNVERIFIED working research.|
 |2018|COMPLETE internally reviewed general enumeration, attributed published Hering-Howard/Ottaviani reproduction; known m5 excluded as research target.|
 |2019|Reviewed1.765224<lambda<1.834843 unchanged. CT1–CT4 accepted after OTHER whole64/64: fixed-range packing/covered-mass rarity, universal positive cut-density pointwise obstruction and explicit separator obstruction. Full high-cut mass/actual regime/exactlambda open.|
 |2020|L13A–D now reviewed: every actual prime-layer sequence minimal, nonsquarefree radical injection and extra prefix classes, classical Davenport restrictions in exact prime-conductor field domain. No new actual class-group evaluation, finite-q binary realization or numerical order exclusion. Composite moduli/general classification open.|

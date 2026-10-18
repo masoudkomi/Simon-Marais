@@ -1,0 +1,182 @@
+{
+  "frozen_at_utc": "2026-10-18T13:13:56.186152+00:00",
+  "status": "ENTIRE initially blind OTHER WHOLE review2; no coordinator promotion",
+  "claims_reviewed": [
+    "PM8A",
+    "PM8B",
+    "PM8C",
+    "PM8D",
+    "PM8E"
+  ],
+  "whole_obligations": 64,
+  "constructor": "/root/review_2017_coarsening_r1",
+  "constructor_excluded": true,
+  "reviewer": "/root/review_2022_complexity_r2",
+  "reviewer_did_not_construct_NEW_PM8": true,
+  "NEW_corresponding_root_PM8_review_findings_files_hash_metadata_access": false,
+  "all64_initial_dispositions": "PASS within exact scope",
+  "substantive_defects": 0,
+  "required_repairs": 0,
+  "unresolved_substantive_issues": 0,
+  "closed_scope_notes": 7,
+  "FULL_final_readback_ALLpayload_code_generatedmetadata_required": true,
+  "SEPARATE_readonly_postverification_required": true,
+  "identity_ONLY_handoff_until_BOTH_ENTIRE_confirmed": true,
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independent_effective_readback": null,
+  "authoritative_weekly_telemetry": {
+    "observed_at_utc": "2026-10-18 13:08:39 UTC",
+    "method": "direct clock/get_usage_limits same awaited independent batch",
+    "TOTAL_used_percent": 37,
+    "window_minutes": 10080,
+    "reset_unix": 1792874445,
+    "ordinary_usage_allowed": true,
+    "legacy_by_limit_agree": true,
+    "account_label": "029a8928...1334ac3a",
+    "human_authorized_current_window_only": true,
+    "TOTAL_ceiling_percent": 90,
+    "integration_reserve": true,
+    "automatic_later_window_spending": false
+  },
+  "main_review": {
+    "path": "problems/2017-B4/reviews/reasoning-path-mass-return-r8-review-2-initial.md",
+    "bytes": 14146,
+    "sha256": "3bb2a1fcd14a62d91e24175ae5a236bbc94b70e03f9ec9b1544c49c2b883857a"
+  },
+  "target_main": {
+    "path": "problems/2017-B4/notes/reasoning-path-mass-return-r8-candidate-v1.md",
+    "bytes": 22876,
+    "sha256": "5bac467356c5f13bf5c93ad696d6325788e64a44b6d87eb5b9b2c97de847626e"
+  },
+  "target_freeze": {
+    "path": "problems/2017-B4/notes/reasoning-path-mass-return-r8-freeze-v1.json",
+    "bytes": 2910,
+    "sha256": "83c9efd6a2e47e0a169a8415256d40ee1d154c142cd37dee28e344ec67b248e3"
+  },
+  "baseline": {
+    "path": "problems/2017-B4/reviews/reasoning-path-mass-return-r8-review-2-baseline-v1.json",
+    "bytes": 11263,
+    "sha256": "89741057aa5d9e48d91e7e1351c84a04c5a91cfb9be7c36319f8022bee60cca8"
+  },
+  "declared_metadata_summary": {
+    "author_freeze": {
+      "path": "problems/2017-B4/notes/reasoning-path-mass-return-r8-freeze-v1.json",
+      "bytes": 2910,
+      "sha256": "83c9efd6a2e47e0a169a8415256d40ee1d154c142cd37dee28e344ec67b248e3"
+    },
+    "author_baseline": {
+      "path": "problems/2017-B4/notes/reasoning-path-mass-return-r8-baseline-v1.json",
+      "bytes": 11808,
+      "sha256": "6d5328651e4964c92710a66cb9431b38981590af06ad187f2a13c9f8f351b311"
+    },
+    "author_reports_original_occurrences": 60,
+    "author_declared_deduplicated_paths_readonly_verified": 51,
+    "author_declared_rows_canonical_sha256": "630ee1d59e1b54caf79d63d1c01e5af7ad0cabd4cdb7fb24db3512c6fb6a0e1e",
+    "direct_guard_occurrences": 37,
+    "direct_guard_unique_paths": 37,
+    "combined_direct_plus_author_record_occurrences": 88,
+    "combined_unique_paths": 73,
+    "combined_unique_canonical_sha256": "c3ee6cd689c297ad8a4f75f071b0a7d14e268b6d6046dd7e20766db68572d703"
+  },
+  "accepted_bindings": [
+    {
+      "authority": {
+        "path": "problems/2017-B4/reviews/coordinator-weighted-cutpath-r1-acceptance.json",
+        "bytes": 4259,
+        "sha256": "239e1b755d51dafc48fad36ad38063608dfd64c0546b8886e1d66b6b4e9ba915"
+      },
+      "accepted_body": {
+        "path": "problems/2017-B4/proofs/reviewed-weighted-cutpath-r1-v1.1.md",
+        "bytes": 15914,
+        "sha256": "93c08b0a43426c972bd6a0042c7e496cb08a106873c931f0231901e9f425f14b"
+      },
+      "unchanged_candidate_suffix": {
+        "path": "problems/2017-B4/notes/coordinator-weighted-cutpath-r1-candidate-v1.md",
+        "bytes": 12695,
+        "sha256": "f77d09e57a7462faaf6d48077c6815b9d33ffa722470596a947b9f46c4205928"
+      },
+      "historical_occurrences_bound_not_reexpanded": 102,
+      "historical_unique_paths_bound_not_reexpanded": 49
+    },
+    {
+      "authority": {
+        "path": "problems/2017-B4/reviews/coordinator-weighted-optimum-r2-acceptance.json",
+        "bytes": 4402,
+        "sha256": "cda03c12635b8b24fd804e80dcd4e6a983ae01e7cb58ce2215dc5fa8f15d150d"
+      },
+      "accepted_body": {
+        "path": "problems/2017-B4/proofs/reviewed-weighted-optimum-r2-v1.1.md",
+        "bytes": 18824,
+        "sha256": "dcc12d2989e5ab657960498179e2585e62ad35ffb1989a4bca72fef8fb953f9a"
+      },
+      "unchanged_candidate_suffix": {
+        "path": "problems/2017-B4/notes/coordinator-weighted-optimum-r2-candidate-v1.md",
+        "bytes": 14252,
+        "sha256": "ca09c36677badac6649775d2ade78a4f5af90fcbdafd0648a6bf8541e835e533"
+      },
+      "historical_occurrences_bound_not_reexpanded": 122,
+      "historical_unique_paths_bound_not_reexpanded": 74
+    }
+  ],
+  "immediate_own_parent": {
+    "path": "problems/2019-B4/notes/reasoning-cut-transfer-r5-freeze-v1.json",
+    "bytes": 8902,
+    "sha256": "52f8a794c3d82d3803a6b9700496cac2dff4b81a84e3f6c935b1bb9fbe107896"
+  },
+  "older_own_paths_bound_transitively": 771,
+  "ENTIRE_review_files_including_manifest": 10,
+  "older_plus_new_own_paths_bound_transitively": 781,
+  "no_mathematical_code_CAS_scan_test_optimizer_source_author_or_old_freezer_replay": true,
+  "no_Git_shared_old_cache_write_spawn_charge_contact_bypass": true,
+  "payloads": [
+    {
+      "path": "problems/2017-B4/reviews/reasoning-path-mass-return-r8-review-2-initial.md",
+      "bytes": 14146,
+      "sha256": "3bb2a1fcd14a62d91e24175ae5a236bbc94b70e03f9ec9b1544c49c2b883857a"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-path-mass-return-r8-review-2-ledger-v1.md",
+      "bytes": 8251,
+      "sha256": "b3fcaaf1b337dc3d21611b4678e2e9211dd251403ab6b1e8d52aa63df691c5fe"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-path-mass-return-r8-review-2-issues-v1.md",
+      "bytes": 3593,
+      "sha256": "5b0ac09e67ae29580779de66695b139550e05667b622651e4bf076c69d421ecc"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-path-mass-return-r8-review-2-source-checks-v1.md",
+      "bytes": 5679,
+      "sha256": "5ab97e3fb64eadef43b028d0ac1abd6c241be37af1ab855b5c2bbf53b05a14f3"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-path-mass-return-r8-review-2-sources-v1.json",
+      "bytes": 2966,
+      "sha256": "bb722c9153f424a90281e5a1e5969f00cd70db95557d7067386616b9d3eb8592"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-path-mass-return-r8-review-2-worklog-v1.md",
+      "bytes": 4298,
+      "sha256": "5b62358c1bffa3a176055b761c67a1c2f9907e2fb16a65925a96c4d705b940f1"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-path-mass-return-r8-review-2-freeze-v1.py",
+      "bytes": 11545,
+      "sha256": "91b9e20b59afb8f4e6d7d1cfccdce1d1a7dbd23c9087e8155790f00be1c070de"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-path-mass-return-r8-review-2-baseline-v1.json",
+      "bytes": 11263,
+      "sha256": "89741057aa5d9e48d91e7e1351c84a04c5a91cfb9be7c36319f8022bee60cca8"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-path-mass-return-r8-review-2-input-validation-v1.json",
+      "bytes": 1423,
+      "sha256": "0ae258d0a671a99e4407ce298a593650bc50f5d9436a0b79591d76a4f4e07a5f"
+    }
+  ]
+}

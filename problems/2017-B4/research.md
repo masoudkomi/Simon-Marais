@@ -1,5 +1,7 @@
 # 2017 B4 research log
 
+The new [PM8A–PM8E actual cutpath bound](reviews/reasoning-path-mass-return-r8-acceptance.md) is **proved, independently reviewed scoped partial result** after root/B TWO OTHER ENTIRE initially blind WHOLE64/64 audits and full reconciliation. Actual adjacent-middle geometry plus adapted weighted flow supply the uniform low-cost count that WO4 formerly assumed,and give EVERY arrangement at EVERY n>=2 at most4J^n cutpaths,with fixedJ<K. The exact official limsup improves to half-log2J. Exact value,matching lower,effective all-scale R,annual solution and priority remain open. A separate NEW root moment/Hölder working argument is UNVERIFIED;it is not included in the accepted bound.
+
 ## Research significance and connections
 
 Opening overview updated 2026-10-18. The target is the exponential growth rate

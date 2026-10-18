@@ -1,5 +1,14 @@
 # Independent review queue
 
+CURRENT23:27Brisbane18October2026:[ACTUALhourly](status-2026-10-18-2327.md).
+38%TOTAL/currentauthorized1792874445onlythrough90/reserve.
+PM8/D6/R6/RD accepted exactscopes after TWO OTHER ENTIREwholeaudits/fullreconciliation.
+Two complete annual answers/seven unresolved. RootBTOTHERwhole1ENTIRE56frozen/readback/verify;
+findings EMBARGOEDuntil AOTHERwhole2/BOTHconfirmed. NEW2021R19/A,2024R7/C,
+2020R14/B and root2017momentworkingresearch UNVERIFIED. NextACTUAL14:27:30UTC.
+OWN79293/session64368freshlyverifiedforever;researchcontinues,not a stoppingcheckpoint.
+
+
 CURRENT23:14Brisbane18October2026: [continuing checkpoint](checkpoint-2026-10-18-2314.md).
 37%TOTAL direct13:13:11UTC/reset1792874445/currentwindow90TOTAL/reserve;
 OWNawake79293forever positively verified13:13:11UTC.2022D6A–D6D accepted

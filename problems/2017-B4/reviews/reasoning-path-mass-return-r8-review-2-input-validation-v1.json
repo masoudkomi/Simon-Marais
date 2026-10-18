@@ -1,0 +1,29 @@
+{
+  "validated_at_utc": "2026-10-18T13:11:40.998531+00:00",
+  "status": "PASS necessary readonly fingerprints and ALL64 label correspondence; NOT proof",
+  "whole_obligations": 64,
+  "ENTIRE_constructor_files": 11,
+  "direct_guard_canonical_sha256": "b0487b2687e46c718773d5502a638a658220d48e1beb04d773929b4cdfe1a943",
+  "declared_metadata_summary": {
+    "author_freeze": {
+      "path": "problems/2017-B4/notes/reasoning-path-mass-return-r8-freeze-v1.json",
+      "bytes": 2910,
+      "sha256": "83c9efd6a2e47e0a169a8415256d40ee1d154c142cd37dee28e344ec67b248e3"
+    },
+    "author_baseline": {
+      "path": "problems/2017-B4/notes/reasoning-path-mass-return-r8-baseline-v1.json",
+      "bytes": 11808,
+      "sha256": "6d5328651e4964c92710a66cb9431b38981590af06ad187f2a13c9f8f351b311"
+    },
+    "author_reports_original_occurrences": 60,
+    "author_declared_deduplicated_paths_readonly_verified": 51,
+    "author_declared_rows_canonical_sha256": "630ee1d59e1b54caf79d63d1c01e5af7ad0cabd4cdb7fb24db3512c6fb6a0e1e",
+    "direct_guard_occurrences": 37,
+    "direct_guard_unique_paths": 37,
+    "combined_direct_plus_author_record_occurrences": 88,
+    "combined_unique_paths": 73,
+    "combined_unique_canonical_sha256": "c3ee6cd689c297ad8a4f75f071b0a7d14e268b6d6046dd7e20766db68572d703"
+  },
+  "mathematical_program_CAS_scan_test_optimizer_or_replay": false,
+  "NEW_peer_PM8_findings_files_hash_metadata_access": false
+}

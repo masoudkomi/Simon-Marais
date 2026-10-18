@@ -1,0 +1,121 @@
+{
+  "accepted_at_utc": "2026-10-18T13:16:13.447800+00:00",
+  "status": "proved, independently reviewed scoped partial result",
+  "whole_initials_blind": true,
+  "root_read_full_candidate_both_reports_all_ledgers_sources": true,
+  "unresolved_substantive_issues": 0,
+  "repair_required": false,
+  "candidate": {
+    "path": "problems/2017-B4/notes/reasoning-path-mass-return-r8-candidate-v1.md",
+    "bytes": 22876,
+    "sha256": "5bac467356c5f13bf5c93ad696d6325788e64a44b6d87eb5b9b2c97de847626e"
+  },
+  "accepted_copy": {
+    "path": "problems/2017-B4/proofs/reviewed-reasoning-path-mass-return-r8-v1.1.md",
+    "bytes": 29343,
+    "sha256": "4e538d9369ae4a2ae9c7c47fa400e947740de08d7ce84a8579f837fd9f9b18d3"
+  },
+  "verification_metadata": [
+    {
+      "path": "problems/2017-B4/notes/reasoning-path-mass-return-r8-freeze-v1.json",
+      "bytes": 2910,
+      "sha256": "83c9efd6a2e47e0a169a8415256d40ee1d154c142cd37dee28e344ec67b248e3"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-path-mass-return-r8-baseline-v1.json",
+      "bytes": 11808,
+      "sha256": "6d5328651e4964c92710a66cb9431b38981590af06ad187f2a13c9f8f351b311"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-path-mass-return-r8-input-validation-v1.json",
+      "bytes": 1820,
+      "sha256": "cb4d8dc1ba214277ff82781fa66d68bc3c8ddf57e36b090e18e8c08660cac45e"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-path-mass-return-r8-metadata-v1.json",
+      "bytes": 1213,
+      "sha256": "73998f008c4275f8733cb30db6581bd589ee7bf983aeaea8e0d229ddafe41281"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-path-mass-return-r8-sources-v1.json",
+      "bytes": 3009,
+      "sha256": "48dbb033d794c8c64d79737ed17984b253a7a4373cce6df90e2f626083da8e59"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-path-mass-return-r8-review-1-manifest-v1.json",
+      "bytes": 2739,
+      "sha256": "782f4dc1cad0d395a3b01f38a20876c267c5d4c36c0a49c83728398c710beebc"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-path-mass-return-r8-review-1-baseline-v1.json",
+      "bytes": 4541,
+      "sha256": "b595b94279738aeb698f3690fad7a7ac6fb4df7a0d6de3f0767a845ecbdd2dc0"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-path-mass-return-r8-review-1-input-validation-v1.json",
+      "bytes": 302,
+      "sha256": "012eb14c5db0fabcbc20efbca6a423aeb1d1af5c59ff2b9faa84d1b76d47f5c3"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-path-mass-return-r8-review-1-metadata-v1.json",
+      "bytes": 738,
+      "sha256": "0991123458e4446dca4786831d9ba6bee2a45889e563fa556690e1b7dcea0097"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-path-mass-return-r8-review-1-sources-v1.json",
+      "bytes": 1541,
+      "sha256": "a20c22f2ea9fd59dd8dd7ca9fbc6cae3c76f258adadddaf8e73457df15d48660"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-path-mass-return-r8-review-2-manifest-v1.json",
+      "bytes": 7544,
+      "sha256": "d0323fba2a97322c0caab828da532afb98903dbc656811ff5d9784a4e02ddffd"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-path-mass-return-r8-review-2-baseline-v1.json",
+      "bytes": 11263,
+      "sha256": "89741057aa5d9e48d91e7e1351c84a04c5a91cfb9be7c36319f8022bee60cca8"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-path-mass-return-r8-review-2-input-validation-v1.json",
+      "bytes": 1423,
+      "sha256": "0ae258d0a671a99e4407ce298a593650bc50f5d9436a0b79591d76a4f4e07a5f"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-path-mass-return-r8-review-2-sources-v1.json",
+      "bytes": 2966,
+      "sha256": "bb722c9153f424a90281e5a1e5969f00cd70db95557d7067386616b9d3eb8592"
+    }
+  ],
+  "record_occurrences_verified": 174,
+  "unique_paths_verified": 92,
+  "claims": [
+    "PM8A",
+    "PM8B",
+    "PM8C",
+    "PM8D",
+    "PM8E"
+  ],
+  "constructor": "/root/review_2017_coarsening_r1",
+  "constructor_excluded": true,
+  "OTHER_whole_reviewers": [
+    "/root",
+    "/root/review_2022_complexity_r2"
+  ],
+  "whole_obligations": 64,
+  "whole_checks": [
+    64,
+    64
+  ],
+  "root_read_ENTIRE_both_reports_ALL_ledgers_issues_sources_logs_code_ALLmetadata": true,
+  "both_ENTIRE_before_corresponding_NEW_peer_material": true,
+  "closed_notes_root": 8,
+  "closed_notes_B": 7,
+  "actual_arrangement_every_n_ge2_uniform": true,
+  "WO4_low_cost_premise_discharged": true,
+  "raw_infeasible_d2_row_paid_before_flow": true,
+  "adapted_finite_flow_not_independent_trials": true,
+  "older_WC_WO_root_authorship_disclosed_not_self_recertified": true,
+  "exact_value_effective_R_matching_lower_annual_priority_external_validation_claim": false,
+  "no_mathematical_computation": true
+}
