@@ -1,10 +1,10 @@
 # Research dashboard
 
-Current [all-nine checkpoint20:18Brisbane](status-2026-10-18-2018.md):
-fresh24%TOTAL at10:18:03UTC/reset1792874445. NEW2021R15/R16,2024R4
-and2025BR1-BR5 accepted after both OTHER entire audits/full reconciliation.
-2024R5 ENTIRE32/9 remains UNVERIFIED. Two complete annual answers/seven
-unresolved. Next actual hourly10:27:42UTC unchanged.
+Current [actual hourly report20:27Brisbane](status-2026-10-18-2027.md):
+fresh25%TOTAL weekly,2,025,472,197 recorded tokens including6,194,590 reasoning.
+NEW2021R15/R16,2024R4,2025BR1-BR5 accepted after both OTHER whole audits.
+2024R5 and2020ToddR12 remain UNVERIFIED. Two complete annual answers/seven
+unresolved. Owned caffeinate active; next actual hourly11:27:42UTC.
 
 
 Initial scope: nine official B4 open portions, 2017-2025. **2026 deferred by the user**, not counted as a verified problem. The 2017 problem and general 2018 enumeration are in scope; for 2019-2025, **part (b) only**. Preliminary part (a) and the already known 2018 m=5 case are excluded as research targets. See sources/open-scope-audit.md.

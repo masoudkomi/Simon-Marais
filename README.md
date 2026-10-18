@@ -15,12 +15,12 @@ proves whole irreducibility for n=15*16^k+1,k>=2; and
 gives actual integral-branch and residual support-label restrictions.
 Each passed TWO OTHER initially blind ENTIRE WHOLE audits and complete
 reconciliation. The separate2024 R5 extension is frozen UNVERIFIED.
-Weekly24%TOTAL at10:18:03UTC/reset1792874445; continue to90%TOTAL
+Weekly25%TOTAL at10:26:40UTC/reset1792874445; continue to90%TOTAL
 with reserve in this explicitly authorized window.
 
 - [Latest all-nine checkpoint and usage](progress/status-2026-10-18-2018.md);
-  [latest actual hourly report](progress/status-2026-10-18-1927.md).
-  Next actual hourly/owned-awake check10:27:42UTC is unchanged.
+  [latest actual hourly report](progress/status-2026-10-18-2027.md).
+  Next actual hourly/owned-awake check11:27:42UTC.
 
 - [Dashboard](progress/dashboard.md): per-problem status, results, obstructions, next steps and reviews.
 - [Budget and telemetry](progress/budget.md): observed weekly usage and reset boundary.
