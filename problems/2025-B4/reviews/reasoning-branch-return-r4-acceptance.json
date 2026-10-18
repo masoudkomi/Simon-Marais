@@ -1,0 +1,114 @@
+{
+  "accepted_at_utc": "2026-10-18T11:22:39.400076+00:00",
+  "status": "proved, independently reviewed scoped partial result",
+  "whole_initials_blind": true,
+  "root_read_full_candidate_both_reports_all_ledgers_sources": true,
+  "unresolved_substantive_issues": 0,
+  "repair_required": false,
+  "candidate": {
+    "path": "problems/2025-B4/notes/reasoning-branch-return-r4-candidate-v1.md",
+    "bytes": 20313,
+    "sha256": "9535d35d72f559b1889f58966b30c8219eeeb90574625b2514e3cec028fa05ce"
+  },
+  "accepted_copy": {
+    "path": "problems/2025-B4/proofs/reviewed-reasoning-branch-return-r4-v1.1.md",
+    "bytes": 25278,
+    "sha256": "c5bbac8c0671adc8a3b06b750a46b6b2df732b9d896506870f4c374f0f07843c"
+  },
+  "verification_metadata": [
+    {
+      "path": "problems/2025-B4/notes/reasoning-branch-return-r4-freeze-v1.json",
+      "bytes": 7391,
+      "sha256": "0574b5b9231729c79db541fc26ae01e7ea33a578cd1379cfae71060aabcc3633"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-branch-return-r4-baseline-v1.json",
+      "bytes": 11777,
+      "sha256": "da51bfe72df08cde760bfeb4cde90f16c034a2f1271960e3c96d52b24d2ec360"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-branch-return-r4-sources-v1.json",
+      "bytes": 5155,
+      "sha256": "164fcc4e76b3bcfb942f204148b82640cab6ee3d823f3fc488b365c632fcb409"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-branch-return-r4-input-validation-v1.json",
+      "bytes": 669,
+      "sha256": "00b9f89aeddfe5b1f2eae9af7112b6dfd93ba2ba20f684479fa3af9cbe3c62ce"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-branch-return-r4-review-1-manifest-v1.json",
+      "bytes": 3518,
+      "sha256": "eaaca13b3a0858625c432c88bf86b65ee0e1f2266810b1e696136f8c56cd9bf2"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-branch-return-r4-review-1-baseline-v1.json",
+      "bytes": 14057,
+      "sha256": "8befeef7ef2e87e25bef281eca53cccffe97e823941a9c457455ef22689aa4a4"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-branch-return-r4-review-1-sources-v1.json",
+      "bytes": 1819,
+      "sha256": "5490e874c91b0cfec9ea21f2a421489a61ed234544229916e757e7d6146e956c"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-branch-return-r4-review-1-metadata-v1.json",
+      "bytes": 934,
+      "sha256": "fa43875e5960ee632cfe9a3f394645ccfc4816f580b5e544a0bce08d801d6b80"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-branch-return-r4-review-1-input-validation-v1.json",
+      "bytes": 361,
+      "sha256": "bd301224201b3871428e1605f12800eba363b327e2d5acb6a295e086520b6324"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-branch-return-r4-review-2-manifest-v1.json",
+      "bytes": 2966,
+      "sha256": "64add39dfc128c58113342c1a8005ad3218f3e62572fe923ae67219f498be640"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-branch-return-r4-review-2-baseline-v1.json",
+      "bytes": 20621,
+      "sha256": "405283a78f897cf73cdc01dccf87e0e26a981df9ca84b5fc35a662046d6f9657"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-branch-return-r4-review-2-metadata-v1.json",
+      "bytes": 1904,
+      "sha256": "62cdcd34cc03cf77aae66b28bd58895ca298e38e3c4c58b019f61e64cce10c77"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-branch-return-r4-review-2-input-validation-v1.json",
+      "bytes": 784,
+      "sha256": "28b3fbf3fb664c145492b62c0c3ccca0c3ce0ddee9b27ab6a4498f48e8e00f2f"
+    }
+  ],
+  "record_occurrences_verified": 233,
+  "unique_paths_verified": 93,
+  "claims": [
+    "BD1",
+    "BD2",
+    "BD3",
+    "BD4"
+  ],
+  "constructor": "/root/review_2022_complexity_r2",
+  "constructor_excluded": true,
+  "OTHER_whole_reviewers": [
+    "/root",
+    "/root/review_2017_coarsening_r1"
+  ],
+  "whole_obligations": 64,
+  "whole_checks": [
+    64,
+    64
+  ],
+  "root_read_ENTIRE_both_reports_ALL_ledgers_issues_sources_logs_code_ALLmetadata": true,
+  "both_ENTIRE_before_any_corresponding_NEW_peer_material": true,
+  "signed_prime_diagonal_sector_only": true,
+  "primitive_not_normal_or_integer_basis": true,
+  "all_finite_denominators_accounted": true,
+  "rational_discriminant_ramification_factor_retained": true,
+  "lower_height_not_upper": true,
+  "raw_C_may_be_zero": true,
+  "annual_or_priority_claim": false,
+  "no_mathematical_computation": true
+}

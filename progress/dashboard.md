@@ -1,11 +1,11 @@
 # Research dashboard
 
-Current [research checkpoint21:00Brisbane](checkpoint-2026-10-18-2100.md):
-NEW2020TD1–TD5 accepted after BOTH OTHER whole72/72 audits/full reconciliation.
-Fresh weekly28%TOTAL10:59:28UTC. Latest actual hourly20:27, next11:27:42UTC.
-2024R5 full author-v2 repair,2022CF and2025BD remain UNVERIFIED;2021R17
-reasoning continues. Two complete annual answers/seven unresolved;
-owned awake assertion freshly confirmed.
+Current accepted checkpoint18October2026 11:24UTC: NEW2022CF, corrected
+2024R5 and2025BD each passed BOTH OTHER whole audits/full reconciliation;
+R5 also passed BOTH affected author-v2 reaudits.2021R17 remains UNVERIFIED,
+rootR1 ENTIRE60/11 and A R2 active. Actual hourly remains11:27:42UTC.
+Two complete annual answers/seven unresolved targets. Previous checkpoint
+is [21:00Brisbane](checkpoint-2026-10-18-2100.md).
 
 
 Initial scope: nine official B4 open portions, 2017-2025. **2026 deferred by the user**, not counted as a verified problem. The 2017 problem and general 2018 enumeration are in scope; for 2019-2025, **part (b) only**. Preliminary part (a) and the already known 2018 m=5 case are excluded as research targets. See sources/open-scope-audit.md.
@@ -16,11 +16,11 @@ Initial scope: nine official B4 open portions, 2017-2025. **2026 deferred by the
 |2018|COMPLETE internally reviewed general enumeration, attributed published Hering-Howard/Ottaviani reproduction; known m5 excluded as research target.|
 |2019|Reviewed1.765224<lambda<1.834843; NEW CN1-CN3 accepted after OTHER whole48/48 audits/full reconciliation: actual balanced linear-cut obstruction for ANY fixed range; specified flat exponentially negligible. Full high-cut mass/actual regime/exactlambda open.|
 |2020|TD1-TD5 accepted after root/A OTHER whole72/72 and full reconciliation: canonical refined ideal class retains unit obstruction; COMPLETE exact-q box, actual cube/mixed counts/all-exponent primary minimality. No new actualq/small-H evaluation; annual open.|
-|2021|R15 actual m5 and R16 both m4 cubic exclusions accepted in exact(S),(W) domains. NEW R17 global center obstruction under construction UNVERIFIED. Remaining EC/T4,m3,other degree20 patterns/annual open.|
-|2022|SR accepted. CF1-CF6 ENTIRE48/11 UNVERIFIED: root OTHER R1 ENTIRE frozen, A R2 active; full-map equal-growth/permanent-translation theorem, event/time/merger and conditional tenfold geometry. Universal hitting/fiber existence open.|
+|2021|R15 m5 and R16 m4 cubics accepted. R17 full candidate UNVERIFIED: proposes entire m4 T4 exclusion and EC8/9 narrowing. Root OTHER whole60 ENTIRE frozen; A R2 active. m3/m4 EC and other degree20/annual open.|
+|2022|CF1-CF5 accepted unconditional/CF6 explicit conditional after OTHER48/48/full reconciliation: equal growth=>eventual translation, exact tail rectangle,44 EVENTS, all-N late merger/nonmerging twins; conditional336 states at12G. Universal hitting/exact timing/fiber existence open.|
 |2023|COMPLETE internally reviewed fixed positive nonsquare N classification: all(k,k),k>0 and(k,2k),(2k,k) with positive odd k. Priority unestablished.|
-|2024|R4 whole n=15*16^k+1,k>=2 and cubicR3 accepted. R5 BOTH whole32 support theorem but found literal errors; full author-v2 corrected presentation UNVERIFIED pending BOTH affected reaudits/reconciliation. Whole n=31*32^k+1 not yet promoted. Annual/priority open.|
-|2025|BR1-BR5 accepted. NEW BD1-BD4 ENTIRE64/11 frozen UNVERIFIED: actual degree/discriminant/residual pure-prime-power obstruction, no support-label restriction; TWO OTHER whole audits required. Larger residual cofactors/unboundedp/annual open.|
+|2024|Corrected AUTHORv2 R5 accepted after original OTHER32/32 and BOTH affected40/40/full reconciliation: whole n=31*32^k+1,k>=2. R4 n=15*16^k+1,k>=2 and R3 all s>=3,k>=3 accepted. General classification/priority open.|
+|2025|BD1-BD4 accepted after OTHER64/64/full reconciliation: nonzero integer discriminant/all finite denominators/ramification, both-center lower height and signed pure-distance exclusions forp>=37 prime diagonal. Larger cofactors/unboundedp/raw-collision/old-delta/annual open.|
 
 ## Coordination
 

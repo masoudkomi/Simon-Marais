@@ -1,5 +1,17 @@
 # 2025 B4 independent reviews
 
+The new [BD1--BD4 discriminant theorem](reviews/reasoning-branch-return-r4-acceptance.md)
+is accepted after root/C TWO OTHER initially blind ENTIRE WHOLE64/64
+audits and full reconciliation. It constructs a nonzero actual integer
+discriminant quotient, accounts for every finite denominator prime and
+retains the ramification factor. In the p>=37 prime-diagonal sector it
+forces |X|>p^s+1 at BOTH residual centers, excluding the four stated
+signed pure-distance families. The bound is a LOWER height restriction;
+larger residual cofactors/unbounded primes/annual remain open. Raw-phase
+collisions may still vanish, and pure-X overlap is attributed to published
+Bennett--Levin. No priority claim.
+
+
 2026-10-18 current acceptance: [BR1-BR5](reasoning-Runge-return-r3-acceptance.md),
 after A/C TWO OTHER ENTIRE initially blind WHOLE60/60 audits and full
 reconciliation. B constructor and root older quotient contributor excluded.

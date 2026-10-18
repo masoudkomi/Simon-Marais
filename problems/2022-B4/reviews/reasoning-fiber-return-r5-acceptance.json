@@ -1,0 +1,123 @@
+{
+  "accepted_at_utc": "2026-10-18T11:20:48.868333+00:00",
+  "status": "proved, independently reviewed scoped partial result",
+  "whole_initials_blind": true,
+  "root_read_full_candidate_both_reports_all_ledgers_sources": true,
+  "unresolved_substantive_issues": 0,
+  "repair_required": false,
+  "candidate": {
+    "path": "problems/2022-B4/notes/reasoning-fiber-return-r5-candidate-v1.md",
+    "bytes": 23177,
+    "sha256": "789ed605351a9d913348add46b8b9c47734bb0809f8269798aa8d53760f46a7e"
+  },
+  "accepted_copy": {
+    "path": "problems/2022-B4/proofs/reviewed-reasoning-fiber-return-r5-v1.1.md",
+    "bytes": 27422,
+    "sha256": "ab4158f60b3412ace615be689cd61d9384f753319c312e776831392f97a37ef8"
+  },
+  "verification_metadata": [
+    {
+      "path": "problems/2022-B4/notes/reasoning-fiber-return-r5-freeze-v1.json",
+      "bytes": 2791,
+      "sha256": "22283a8f95e7a2a489596a418b1dce4d9ab3f619296309b0ed33863fbd75c2ca"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-fiber-return-r5-baseline-v1.json",
+      "bytes": 11541,
+      "sha256": "a7986e891f453b4c6595dd92f0dfbb831e95c9fb166a3be2c927ee7b2ac32b98"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-fiber-return-r5-sources-v1.json",
+      "bytes": 2928,
+      "sha256": "876a0c827d9f5f9ce454a975e2dc910cc82468ce6087ad23f8c0a814406b3170"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-fiber-return-r5-metadata-v1.json",
+      "bytes": 1851,
+      "sha256": "d1b0d5873f2a84dd5b98c70813e41638103d1074b53ebeef3a3750209c7870d9"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-fiber-return-r5-input-validation-v1.json",
+      "bytes": 574,
+      "sha256": "1f08c30fc8d0b68159702c27f91fab4d687785b701a70a637f2c0542a254adb9"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-fiber-return-r5-review-1-manifest-v1.json",
+      "bytes": 3504,
+      "sha256": "0917bf2663350a967844d1fe38f5d7c668452997a8656663acc623c4062d11ce"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-fiber-return-r5-review-1-baseline-v1.json",
+      "bytes": 13669,
+      "sha256": "521d075341c2278bfa0a8797826a5cf0bf98099bcd9af13822b54d9d50ad2b43"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-fiber-return-r5-review-1-sources-v1.json",
+      "bytes": 2533,
+      "sha256": "cc315e3c2ce4362fd49b027d958155e881ea28a849d8bb416b1bd8e8ae880ba1"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-fiber-return-r5-review-1-metadata-v1.json",
+      "bytes": 831,
+      "sha256": "61315d870cedc284f19e14ff6eed59565b1e73155398cd6433eb1711b78c40e8"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-fiber-return-r5-review-1-input-validation-v1.json",
+      "bytes": 361,
+      "sha256": "ab9203b016f9201fc8ef28b9eabe7230e526fcc130558020bfe1b585348f6648"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-fiber-return-r5-review-2-manifest-v1.json",
+      "bytes": 10070,
+      "sha256": "3b031cd70d87370a1ad636d0c26273992d26401b62954dcb1cff5b31a64a7a96"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-fiber-return-r5-review-2-baseline-v1.json",
+      "bytes": 18182,
+      "sha256": "a3d4aa1fb78f83385973983026be1351f9aab006cd273f5703aae32d14451717"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-fiber-return-r5-review-2-sources-v1.json",
+      "bytes": 3814,
+      "sha256": "0a9c8805941168222b7e7c5b8d04d0c5d82f0b9fe0463eda102f0b029df69b01"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-fiber-return-r5-review-2-metadata-v1.json",
+      "bytes": 1348,
+      "sha256": "f74436be64148b5e84fc6ba1f0289e476820aadfe2a8ae6f81def4dc0cf25d45"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-fiber-return-r5-review-2-input-validation-v1.json",
+      "bytes": 448,
+      "sha256": "1f51c8e0fed27f07c9d690800638b0faa1fc54f9dc533fef50b67f62b86d1be9"
+    }
+  ],
+  "record_occurrences_verified": 253,
+  "unique_paths_verified": 87,
+  "proposed_claims_accepted": [
+    "CF1",
+    "CF2",
+    "CF3",
+    "CF4",
+    "CF5",
+    "CF6 explicitly conditional"
+  ],
+  "constructor": "/root/review_2017_coarsening_r1",
+  "constructor_excluded": true,
+  "OTHER_whole_reviewers": [
+    "/root",
+    "/root/review_2021_reasoning_j15_r2"
+  ],
+  "whole_obligations": 48,
+  "whole_checks": [
+    48,
+    48
+  ],
+  "root_read_ENTIRE_both_reports_ALL_ledgers_issues_sources_logs_code_ALLmetadata": true,
+  "both_ENTIRE_before_any_corresponding_NEW_peer_material": true,
+  "CF6_tenfold_existence_assumed_not_proved": true,
+  "event_count44_not_time_bound": true,
+  "conditional336_states_not_canonical_expansions": true,
+  "annual_or_priority_claim": false,
+  "no_mathematical_computation": true
+}

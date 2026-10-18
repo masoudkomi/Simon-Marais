@@ -20,8 +20,14 @@ also passed both whole48/48 audits: fixed-range pointwise cut-count bounds
 fail on explicit balanced outputs; the full high-cut MASS estimate remains open. The
 [2020 TD1–TD5](problems/2020-B4/reviews/reasoning-Todd-return-r12-acceptance.md)
 also passed both whole72/72 audits, retaining the unit obstruction in
-its canonical exact-q criterion. No new q is evaluated.2024 R5 author-v2
-repair,2022 CF and2025 BD remain UNVERIFIED pending required reviews.
+its canonical exact-q criterion. No new q is evaluated. Newly accepted
+[2022 CF](problems/2022-B4/reviews/reasoning-fiber-return-r5-acceptance.md),
+[corrected2024 R5](problems/2024-B4/reviews/cofactor-Frobenius-r5-acceptance.md),
+and [2025 BD](problems/2025-B4/reviews/reasoning-branch-return-r4-acceptance.md)
+have passed BOTH OTHER whole audits and full reconciliation, including
+BOTH affected R5 repair audits. They give trajectory rigidity, whole
+n=31*32^k+1 irreducibility for every k>=2, and actual discriminant/pure-distance
+restrictions respectively. The2021 R17 candidate remains UNVERIFIED.
 Weekly28%TOTAL at10:59:28UTC/reset1792874445; continue to90%TOTAL
 with reserve in this explicitly authorized window.
 

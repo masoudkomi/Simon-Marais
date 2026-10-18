@@ -1,0 +1,130 @@
+{
+  "target_full_v2": {
+    "path": "problems/2024-B4/notes/cofactor-Frobenius-r5-candidate-v2.md",
+    "bytes": 13006,
+    "sha256": "329b975a7f8fe7456f9794a2170dc443396fb1a2b0143cc61ac9ddd027beb47e"
+  },
+  "author_five_file_repair_freeze": {
+    "path": "problems/2024-B4/notes/cofactor-Frobenius-r5-repair-freeze-v2.json",
+    "bytes": 8397,
+    "sha256": "aaa1da5e9143787046b0286dc7de75f04107d8ec209deadda65d53b5e1cc9885"
+  },
+  "all_five_author_repair_files_exact": true,
+  "author_thirty_old_guards": {
+    "occurrences": 30,
+    "unique_paths": 30,
+    "sha256": "002447052e6afd36b4c10eb971efd1e4eff24c266cb8056531ff8e9ba7b82566"
+  },
+  "original_nine_author_files": {
+    "occurrences": 9,
+    "unique_paths": 9,
+    "sha256": "5a4d0ee0dda1090b7eee02cb9c74ed81a595e9b358a692bf7cf6293753beb254"
+  },
+  "original_twenty_three_necessary_current_guards": {
+    "occurrences": 23,
+    "unique_paths": 23,
+    "sha256": "75bcbb87fc838294eeaa8ef785a1f93fa3c94dba0ea6534c37a5b23d0fc32dea"
+  },
+  "exact_text_diff_checks": {
+    "complete_main_header_plus_exactly_two_changes": true,
+    "complete_log_header_plus_exactly_one_change": true,
+    "no_author_code_executed": true
+  },
+  "accepted_current_bindings": [
+    {
+      "authority": {
+        "path": "problems/2024-B4/reviews/cofactor-global-r2-acceptance.json",
+        "bytes": 3537,
+        "sha256": "fff6d498dfc8e7bb98afdc9b027ffc57668b637d3843cff20e8928399639dfa7"
+      },
+      "authority_MD": {
+        "path": "problems/2024-B4/reviews/cofactor-global-r2-acceptance.md",
+        "bytes": 4012,
+        "sha256": "33eb92b350f14ed451bd5820222daef0cf3d62bb317556cae980a588d9c5b32c"
+      },
+      "accepted_body": {
+        "path": "problems/2024-B4/proofs/reviewed-cofactor-global-r2-v1.1.md",
+        "bytes": 19500,
+        "sha256": "fd110d1615e730d754063b157cc1906b418702f510b2640bfd1b5c63e898548d"
+      },
+      "candidate": {
+        "path": "problems/2024-B4/notes/cofactor-global-r2-candidate-v1.md",
+        "bytes": 15586,
+        "sha256": "9dac8137a3b47637e25ee66a5c2bf5ff00146e9d1d54ba55764002111d5376f9"
+      },
+      "exact_candidate_suffix": true,
+      "historical_occurrences_bound_not_replayed": 141,
+      "historical_paths_bound_not_replayed": 50
+    },
+    {
+      "authority": {
+        "path": "problems/2024-B4/reviews/cofactor-dominant-r4-acceptance.json",
+        "bytes": 4231,
+        "sha256": "ee71bf8cd0a78cd00314dbaf09bca5b5e5e7b9b523a2d516122dd6456e2a35e1"
+      },
+      "authority_MD": {
+        "path": "problems/2024-B4/reviews/cofactor-dominant-r4-acceptance.md",
+        "bytes": 4367,
+        "sha256": "c0f5af8bd91c35806f976c18e80c7b0618120c73d79bbd5693cbd108721e843d"
+      },
+      "accepted_body": {
+        "path": "problems/2024-B4/proofs/reviewed-cofactor-dominant-r4-v1.1.md",
+        "bytes": 18793,
+        "sha256": "14c47b6db082bee1d60bcf297c289fe949fdec9384cc8a159b199c56ba265838"
+      },
+      "candidate": {
+        "path": "problems/2024-B4/notes/cofactor-dominant-r4-candidate-v1.md",
+        "bytes": 14524,
+        "sha256": "b6c454eba513c0ebb364f4b53393741c8737239c5b03c75fc2a0ac000871e365"
+      },
+      "exact_candidate_suffix": true,
+      "historical_occurrences_bound_not_replayed": 148,
+      "historical_paths_bound_not_replayed": 70
+    }
+  ],
+  "original_own_whole_R1_bound": {
+    "identity": {
+      "path": "problems/2024-B4/reviews/cofactor-Frobenius-r5-review-1-manifest-v1.json",
+      "bytes": 6800,
+      "sha256": "b3af3d1cd3372c4181753c4cc3724b9c99300b596d5dcdebd3bd398374cd0667"
+    },
+    "all11_summary": {
+      "occurrences": 11,
+      "unique_paths": 11,
+      "sha256": "a432a657339b1b0fd10197f495f2a5862df762574fcbf81f9bd712aeec664a78"
+    },
+    "older_summary_bound_not_replayed": {
+      "occurrences": 82,
+      "unique_paths": 73,
+      "sha256": "0429e23d0efaf855e6a91fa5cabb1bb5bf9dccd7ead46b2166b9ce5fbeefdc36"
+    }
+  },
+  "immediate_own_CF_parent_bound": {
+    "identity": {
+      "path": "problems/2022-B4/reviews/reasoning-fiber-return-r5-review-2-manifest-v1.json",
+      "bytes": 10070,
+      "sha256": "3b031cd70d87370a1ad636d0c26273992d26401b62954dcb1cff5b31a64a7a96"
+    },
+    "all11_summary": {
+      "occurrences": 11,
+      "unique_paths": 11,
+      "sha256": "7edf5014db18a16529075fcc9bc631b5870c280a8246c73d4998c41b5c1fd5dc"
+    },
+    "older_summary_bound_not_replayed": {
+      "occurrences": 87,
+      "unique_paths": 67,
+      "sha256": "2e7a41a9759603bb4a57bc1c42dfac7449d582fce420b34dbdf4a20dd7378627"
+    },
+    "not_R5_mathematical_premise": true
+  },
+  "current_summary": {
+    "occurrences": 97,
+    "unique_paths": 69,
+    "sha256": "3fbe18cc7b3a841d7b5cb21c0a6a862cb67e4209503ee77f65984779cc036715"
+  },
+  "all_old_guard_details_remain_in_exact_bound_author_metadata_not_recopied": true,
+  "captured_utc": "2026-10-18T11:11:42.702683+00:00",
+  "administrative_only": true,
+  "no_corresponding_NEW_R2_reaudit_access": true,
+  "compact_immutable_parent_bindings_no_recursive_inventory_replay": true
+}

@@ -1,0 +1,129 @@
+{
+  "frozen_at_utc": "2026-10-18T11:04:46.471855+00:00",
+  "status": "ENTIRE affected independent R5 v2 review2 frozen, not promotion",
+  "reviewer": "/root/review_2022_complexity_r2",
+  "constructor": "/root",
+  "constructor_excluded": true,
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independently_verified_effective_settings": null,
+  "original_obligations_checked": 32,
+  "additional_affected_checks": 8,
+  "total_hand_ledger_rows": 40,
+  "whole_affected_report_ledger_issues_sources_log_code_ALLmetadata_complete": true,
+  "whole_disposition": "pass corrected presentation and every affected mathematical use",
+  "substantive_defects": 0,
+  "further_required_repairs": 0,
+  "unresolved_mathematical_objections": 0,
+  "both_literal_corrections_and_log_consistency_checked": true,
+  "original_closing_sentence_audit_omission_acknowledged": true,
+  "all_downstream_orbits_divisibility_threshold_and_original_domain_reconstructed": true,
+  "no_NEW_peer_affected_findings_files_hashes_or_metadata_accessed": true,
+  "completion_identity_ONLY_until_BOTH_affected_entire_freezes": true,
+  "no_math_program_CAS_scan_test_author_source_or_old_certificate_freezer_replay": true,
+  "no_old_shared_Git_cache_write_spawn_download_charge_contact_or_bypass": true,
+  "exact_author_repair_freeze": {
+    "path": "problems/2024-B4/notes/cofactor-Frobenius-r5-repair-freeze-v2.json",
+    "bytes": 8397,
+    "sha256": "aaa1da5e9143787046b0286dc7de75f04107d8ec209deadda65d53b5e1cc9885"
+  },
+  "compact_necessary_baseline": {
+    "path": "problems/2024-B4/reviews/cofactor-Frobenius-r5-review-2-reaudit-v2-baseline.json",
+    "bytes": 13159,
+    "sha256": "f186f6c8be7daac0c1c75e309c5d31d90a0ac6f9f0170870eeb0b918ec064d24"
+  },
+  "protected_fingerprint_occurrences": 56,
+  "protected_unique_paths": 56,
+  "canonical_protected_summary_sha256": "407514484ccc1a9313b0701fb773278b60ce7bcec77e64c3918d2028204c7b85",
+  "accepted_operative_bindings": [
+    {
+      "authority_json": "problems/2024-B4/reviews/cofactor-global-r2-acceptance.json",
+      "authority_md": "problems/2024-B4/reviews/cofactor-global-r2-acceptance.md",
+      "accepted_body": "problems/2024-B4/proofs/reviewed-cofactor-global-r2-v1.1.md",
+      "exact_candidate_suffix": "problems/2024-B4/notes/cofactor-global-r2-candidate-v1.md",
+      "historical_occurrences_bound_not_replayed": 141,
+      "historical_paths_bound_not_replayed": 50
+    },
+    {
+      "authority_json": "problems/2024-B4/reviews/cofactor-dominant-r4-acceptance.json",
+      "authority_md": "problems/2024-B4/reviews/cofactor-dominant-r4-acceptance.md",
+      "accepted_body": "problems/2024-B4/proofs/reviewed-cofactor-dominant-r4-v1.1.md",
+      "exact_candidate_suffix": "problems/2024-B4/notes/cofactor-dominant-r4-candidate-v1.md",
+      "historical_occurrences_bound_not_replayed": 148,
+      "historical_paths_bound_not_replayed": 70
+    }
+  ],
+  "immediate_own_parent": {
+    "path": "problems/2025-B4/notes/reasoning-branch-return-r4-freeze-v1.json",
+    "bytes": 7391,
+    "sha256": "0574b5b9231729c79db541fc26ae01e7ea33a578cd1379cfae71060aabcc3633"
+  },
+  "older_own_paths_bound_transitively": 698,
+  "new_review_files_including_manifest": 10,
+  "older_plus_new_own_paths_bound_transitively": 708,
+  "no_historical_inventory_recopy_or_recursive_replay": true,
+  "authoritative_weekly_telemetry": {
+    "observed_at_utc": "2026-10-18 10:58:57 UTC",
+    "method": "direct get_usage_limits and clock in same awaited independent batch",
+    "used_percent_TOTAL": 28,
+    "window_minutes": 10080,
+    "reset_unix": 1792874445,
+    "ordinary_usage_allowed": true,
+    "legacy_by_limit_agree": true,
+    "account_label": "029a8928...1334ac3a",
+    "human_authorized_current_window_ONLY": true,
+    "ceiling_TOTAL_percent": 90,
+    "integration_reserve": true,
+    "automatic_later_reset_spending": false
+  },
+  "artifacts": [
+    {
+      "path": "problems/2024-B4/reviews/cofactor-Frobenius-r5-review-2-reaudit-v2-report.md",
+      "bytes": 11465,
+      "sha256": "ce63217a1f3909fe854e0e9cbb5de4ca3c12e6ddb046b1bcbd5eef0173e87a3c"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-Frobenius-r5-review-2-reaudit-v2-ledger.md",
+      "bytes": 6620,
+      "sha256": "9410e2f23dd7d9f31435299f565fb097b87e96e3d6750716d20840839bf4a3a4"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-Frobenius-r5-review-2-reaudit-v2-issues.md",
+      "bytes": 3151,
+      "sha256": "9e14ca39d90e11a26bd23bba81a2cf90afe3475e312370f7b0d13666650ae938"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-Frobenius-r5-review-2-reaudit-v2-source-checks.md",
+      "bytes": 5299,
+      "sha256": "46305fdcab6f6f199e75f8817b53f7962ec0f6ae3444d7848dc3c54c909323c8"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-Frobenius-r5-review-2-reaudit-v2-sources.json",
+      "bytes": 3004,
+      "sha256": "ba04fc387844db91d1f803341b71ae6429f1ff7fb43dcc86e8787589e243e9a3"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-Frobenius-r5-review-2-reaudit-v2-worklog.md",
+      "bytes": 6128,
+      "sha256": "8068352ccfcdd2fd0947a8165fdf2b206d51cea9b3b4354617c6e33e0cc3a2cc"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-Frobenius-r5-review-2-reaudit-v2-freeze.py",
+      "bytes": 13894,
+      "sha256": "fe6184ff1b6e445b1ce074660d1715c3bb60ca0f5628bdf412362146684737d9"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-Frobenius-r5-review-2-reaudit-v2-baseline.json",
+      "bytes": 13159,
+      "sha256": "f186f6c8be7daac0c1c75e309c5d31d90a0ac6f9f0170870eeb0b918ec064d24"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-Frobenius-r5-review-2-reaudit-v2-input-validation.json",
+      "bytes": 710,
+      "sha256": "e241f94422740d5364674fe09aaafac11f573298d38e6873d451db12b0812e26"
+    }
+  ]
+}

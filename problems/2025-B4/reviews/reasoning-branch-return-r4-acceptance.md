@@ -1,0 +1,25 @@
+# Coordinator acceptance: reasoning-branch-return-r4
+
+2026-10-18 UTC. **Proved, independently reviewed scoped partial result.**
+
+Accepted **BD1--BD4** ONLY for the actual signed prime-diagonal equation Phi_p(X)=Y^p, p>=37 PRIME, |X|>=2, degreeD=p-1, with the SAME fixed eligible original-weight theta and actual ideal/Jacobi lift supplied by separately accepted R6/RS/BR. These are scoped partial results for2025 B4(b), not the annual solution or a priority claim.
+
+BD1 uses disjoint NONUNIT conjugate ideal supports and the nonzero INVERSE moment to prove every actual beta conjugate distinct. Beta is a primitive degreeD algebraic integer, so its polynomial discriminant is a NONZERO signed rational integer. This does not assert a normal basis, an O_K integral basis or nonvanishing of an arbitrary old linear delta. At every rational ell|Y the actual characteristic ideal contains exactly ONE prime above ell with exponent v_ellY. The exact0/1/2 valuation multiset gives Y^M dividing Disc(beta), M=(D-r)(D-r-1)+r(r-1). All denominator primes are accounted for, producing the actual nonzero integer Zcal=Disc(beta)/Y^M. V=beta/Y need not be globally integral.
+
+BD2 gives, for finite odd t=v_lambda(V-1)>=3 and g=gcd(t,D),
+
+    p^[(D-1)t+g-1] <= |Zcal| <= D^D Y^[2r(D-r)].
+
+The p-leading residues a^t are counted over ALL D embeddings. The ramification factorD is divided out because the discriminant is ALREADY RATIONAL, distinct from a norm formula for one arbitrary K-element. The all-embedding Vandermonde/Hadamard bound is proved in full by complex Gram--Schmidt; no unread source theorem fills this step.
+
+BD3 concerns the unique actual residual center a0=0 or-1 with s=v_p(X-a0)>=2. The SAME beta has t>=3+D(s-1) at BOTH centers; no center0 exact order formula is extended to-1. Both signs give Y<|X|. The resulting strict LOWER height restriction and exact exponent-gap contradiction give |X|>p^s+1, hence the p-free absolute cofactor of X-a0 is at least2. This excludes X=+/-p^a, p^a-1 and -p^a-1 for all a>=1 in this sector. The a1 cases already fail the accepted residual-depth condition. Published Bennett--Levin Proposition1 already covers the pure-X portion; priority for the neighboring families is unestablished. Arbitrary residual cofactors>=2 and unrestricted p remain open.
+
+BD4 refines the SAME actual discriminant using RAW phases b_a=a c_a, not repeated normalized labels. For epsilon=2r/[p(|X|-1)] in(0,1), and C the ordered raw-collision count, |Disc(V)|<=2^[D(D-1)]epsilon^C; taking the minimum with D^D gives the stated combined bound. Conjugation only pairs occupancies and makes mu0 even; it does not force C>0. The formal even labels c_a=a^-2 have raw permutation a^-1/C0 and are not asserted arithmetically realized. The collision/realization bridge remains unresolved.
+
+B is sole NEW constructor and EXCLUDED. OTHER root R1 and OTHER C R2 reconstructed ALL64 obligations each. Their ENTIRE initial report/ledger/issues/source/log/code/ALLmetadata froze11:09:10.857954 and11:15:22.343425UTC, received full readback and separate verification before corresponding NEW peer material was released after explicit BOTH confirmation. Root read the entire eleven-file author packet, BOTH complete reports/ALL128 ledger dispositions/issues/sources/logs/code and ALLmetadata, and reconciled all arithmetic and source hypotheses. Zero substantive defects or required repairs remain; seven root and three C notes are closed scope restrictions, adding no new author premise. Old R6/R9/RG authorship, root RS contribution and prior review roles are disclosed without independent self-recertification.
+
+Root freshly read the complete operative R6/RS/BR bodies and all five current authorities; R9/RG broader bodies were background rather than freshly whole-read by root. C freshly read all five bodies. Fresh original Mihailescu section2.2 including normalization proof and Hadamard context and signed Bennett--Levin Proposition1 were checked with exact read limits. Full source Theorems3/4, Stickelberger/Iwasawa foundations, appendix and constituent historical proofs are not newly certified. The exact actual lift remains a separately accepted attributed input. All new discriminant, finite-prime, ramified-prime, signed-height and phase inequalities are hand reconstructions. No mathematical program,CAS,scan,routine test,author/source rerun or old-certificate replay supplied them.
+
+The old linear evaluated-zero, all-generator/model, large-cofactor, unbounded-prime and full annual gaps remain. No upper height or uniform prime bound follows from this LOWER restriction. No external validation, novelty or literature-exhaustiveness claim is made. The complete original main is preserved as an exact accepted-copy suffix.
+
+Verified 233 declared fingerprint occurrences across 93 paths. Exact inputs are hashed in the integrity summary, without duplicating their preserved historical rows. The unchanged main is an accepted-copy suffix. Metadata checks are integrity only. Internal review is not externalvalidation; novelty is unestablished.

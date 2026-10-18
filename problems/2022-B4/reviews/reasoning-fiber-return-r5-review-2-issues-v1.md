@@ -1,0 +1,15 @@
+# CF R2 issues and closed boundaries
+
+2026-10-18 UTC. OTHER initially blind ENTIRE WHOLE audit. Zero substantive defects, zero unresolved issues, zero required author repairs. Seven notes are closed by the exact proof, retained for reconciliation and not used to strengthen conclusions.
+
+| ID | Challenged inference | Exact disposition |
+|---|---|---|
+| CF-R2-N1 | CF1's auxiliary Z2 scope could be confused with the official domain or the accepted strip proof. | CF1 uses ordinary floors at all integers. CF2--CF6 keep positive/product>=600/simultaneous/n0 and the attributed established strip. No preliminary research. Closed. |
+| CF-R2-N2 | Cooperation alone does not forbid a complete unordered reversal or imply a generic orientation theorem. | The proof allows the exact m1,n1/2 reversal, then uses invariant first-coordinate parity to prohibit another. The legal reversal example is hand-checked. Closed. |
+| CF-R2-N3 | Equal real growth or finite fibers could be treated as effective equality, merger or a clock-free relation. | Growth is normalized by SUM at one clock; shifting multiplies it by beta^n. Exact tail translation can be nonzero. Fiber finiteness gives no algorithm for membership. Closed. |
+| CF-R2-N4 |44 events could be mistaken for a uniform time bound or contradicted by arbitrarily long finite examples. | The proof counts changes, not their indices. The exact P_N/Q_N family has one arbitrarily late change and first merger N+2 at fixed gap. It does not refute size-dependent bounds or construct a limit survivor. Closed. |
+| CF-R2-N5 | A complete late translation rectangle could be pulled back to an earlier fiber or count all original seeds. | Only distinct late IMAGES of a finite I-fiber lie in the rectangle. Merger and missing ordinary/strip parents can obstruct the converse. No inverse-limit repair is claimed. Closed. |
+| CF-R2-N6 |336 conditional ordinary states at one sum growth could exceed the canonical expansion bound or prove tenfold existence. | CF6 first assumes tenfold existence, uses one ordinary ceiling seed, and gives sum growth12G. No injective prefix-preserving conversion of states into canonical words is supplied or asserted. Both digits recur, so the rectangle is exact; existence remains conditional. Closed. |
+| CF-R2-N7 | A source's one-orbit/singleton/conjectural result could be substituted for two-orbit rigidity or q10 termination. | HS requires extra global reflection; DM requires proper S and proves only singleton termination. AEV later display omits the literal proper qualifier, so original DM |S|<q is retained. AFS Cor38 needs p>=2q-1, false at11/10. No such theorem is imported; NEW CF proof is elementary. Closed. |
+
+The exact unconditional CF1--CF5 and conditional CF6 recommendations remain pending the OTHER whole audit and root reconciliation. No author repair, candidate mutation or corresponding NEW root CF R1 file/finding/hash/metadata access occurred. All earlier accepted-input authorship/review roles are disclosed without fresh self-recertification.

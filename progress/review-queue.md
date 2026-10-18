@@ -1,5 +1,15 @@
 # Independent review queue
 
+CURRENT18October2026 11:24UTC: CF1--CF5 exact unconditional/CF6 explicit
+conditional ACCEPTED after root/A WHOLE48/48.2024R5 AUTHORv2 ACCEPTED
+after A/B original WHOLE32/32 plus BOTH affected32+8 audits. BD1--BD4
+ACCEPTED after root/C WHOLE64/64. ALLentire packets/root reconciliation
+complete; constructors excluded and zero unresolved substantive issues.
+2021R17 rootR1 ENTIRE60/11 frozen/read back/separately verified; A R2
+active, UNVERIFIED.2020R13 NEW author work and2019 cut-transfer research
+continue independently. Older queue entries are historical.
+
+
 CURRENT18October2026 11:00UTC:2020TD1–TD5 ACCEPTED after root/A ENTIRE
 OTHER WHOLE72/72 audits/full reconciliation; B excluded.2022CF rootR1
 ENTIRE48/11 frozen, A R2 active; UNVERIFIED.2024R5 BOTH whole32 initials

@@ -44,6 +44,14 @@ classification and priority remain unresolved. A
 [dated literature follow-up](notes/cofactor-symmetry-literature-followup-v1.md)
 records primary searches/access limits.
 
+The new [corrected Frobenius R5 theorem](reviews/cofactor-Frobenius-r5-acceptance.md)
+is accepted after A/B OTHER whole32/32 audits, a full versioned AUTHOR
+repair and BOTH affected32+8 reaudits/full reconciliation. It proves
+whole absolute irreducibility for EVERY n=31*32^k+1,k>=2 and a strict
+sufficient prime-s criterion. Original literal congruence/s3 explanation
+errors and original reviews remain preserved. Composite-s,s3,k1,all
+prime-s k2,full classification and priority are not settled.
+
 The newly accepted [dominant-cofactor/symmetry R4 theorem](reviews/cofactor-dominant-r4-acceptance.md)
 adds whole absolute irreducibility for EVERY n=15*16^k+1,k>=2, following
 two OTHER complete whole48/48 audits and reconciliation. Its actual

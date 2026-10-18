@@ -1,0 +1,433 @@
+{
+  "captured_at_utc": "2026-10-18T11:19:48.631288+00:00",
+  "administrative_only": true,
+  "prefix_confirmed_unused_before_first_write": true,
+  "constructor_all12_current": true,
+  "author_all43_guards_verified_at_capture": true,
+  "author_baseline_identity": {
+    "path": "problems/2021-B4/notes/reasoning-center-return-r17-baseline-v1.json",
+    "bytes": 18015,
+    "sha256": "f7c0405ba9b5dc5abc80a8bcfeac85b935081f877bda169f36c53dd13b41461b"
+  },
+  "author_historical_rows_not_recopied": true,
+  "accepted_bindings": [
+    {
+      "id": "reasoning-return-r5",
+      "authority": {
+        "path": "problems/2021-B4/reviews/reasoning-return-r5-acceptance.json",
+        "bytes": 3373,
+        "sha256": "93a204890e6d387a22d89565dbee9ee970c1b80af59f79cbc983d3ba4de6defe"
+      },
+      "body": {
+        "path": "problems/2021-B4/proofs/reviewed-reasoning-return-r5-v1.1.md",
+        "bytes": 23675,
+        "sha256": "f4f088adc133b0581520488cdbba30082c13b2402c96ae555142e5491ad4137d"
+      },
+      "candidate": {
+        "path": "problems/2021-B4/notes/reasoning-return-r5-candidate-v1.md",
+        "bytes": 20083,
+        "sha256": "0d546265a3f9b1f83c05fce46e5a97acb6cad5d8841518d891ffed91717166f6"
+      },
+      "historical_occurrences_bound_not_replayed": 1466,
+      "historical_paths_bound_not_replayed": 689
+    },
+    {
+      "id": "reasoning-return-r8",
+      "authority": {
+        "path": "problems/2021-B4/reviews/reasoning-return-r8-acceptance.json",
+        "bytes": 2507,
+        "sha256": "b5ca7a381393061192beceb0b34b8222c6ae249f1edc3383ac316786c7cd3ef0"
+      },
+      "body": {
+        "path": "problems/2021-B4/proofs/reviewed-reasoning-return-r8-v1.1.md",
+        "bytes": 19921,
+        "sha256": "33b8713d402d09f711d0096cdc4e8c00f9e622a5335f8e3345eb4f82ba0d359d"
+      },
+      "candidate": {
+        "path": "problems/2021-B4/notes/reasoning-return-r8-candidate-v1.md",
+        "bytes": 16961,
+        "sha256": "6bffa3b70e9d228b09e0a2ee3f049d7f5261fb98d484ebacff7abcbfde5eea26"
+      },
+      "historical_occurrences_bound_not_replayed": 1335,
+      "historical_paths_bound_not_replayed": 792
+    },
+    {
+      "id": "reasoning-return-r12",
+      "authority": {
+        "path": "problems/2021-B4/reviews/reasoning-return-r12-acceptance.json",
+        "bytes": 2801,
+        "sha256": "28f2a33fd4cdb39bcd899df9bb450628e928afe483f7a6be443a32d649dbd00b"
+      },
+      "body": {
+        "path": "problems/2021-B4/proofs/reviewed-reasoning-return-r12-v1.1.md",
+        "bytes": 20521,
+        "sha256": "bfc4a3549b9357600fdadf79a826d203e2226a1a4fd8d7c183412f8abc18e3ef"
+      },
+      "candidate": {
+        "path": "problems/2021-B4/notes/reasoning-return-r12-candidate-v1.md",
+        "bytes": 17602,
+        "sha256": "7600005b20756bf9613e2b02177d5ae50aa5d3f573a6aa267bf245ee0a5c8f19"
+      },
+      "historical_occurrences_bound_not_replayed": 188,
+      "historical_paths_bound_not_replayed": 84
+    },
+    {
+      "id": "reasoning-return-r13",
+      "authority": {
+        "path": "problems/2021-B4/reviews/reasoning-return-r13-acceptance.json",
+        "bytes": 3318,
+        "sha256": "b0650934d449a60daae2fd8dffaac0beb0f5ccf5cf85247f73218802cef63909"
+      },
+      "body": {
+        "path": "problems/2021-B4/proofs/reviewed-reasoning-return-r13-v1.1.md",
+        "bytes": 19299,
+        "sha256": "a29ecdb8002f3cbb4250e93f94c65ed83a67b086331fb3497d48ad740959ab6b"
+      },
+      "candidate": {
+        "path": "problems/2021-B4/notes/reasoning-return-r13-candidate-v1.md",
+        "bytes": 15806,
+        "sha256": "25a871da93b7cd375e0af43c8643094463ac45ce913722805ba6958dee004148"
+      },
+      "historical_occurrences_bound_not_replayed": 151,
+      "historical_paths_bound_not_replayed": 72
+    },
+    {
+      "id": "reasoning-return-r14",
+      "authority": {
+        "path": "problems/2021-B4/reviews/reasoning-return-r14-acceptance.json",
+        "bytes": 3789,
+        "sha256": "9b808adb416309163f8a798062f4a42d4d0468fbeb8dcb434b055f0a0cdf406e"
+      },
+      "body": {
+        "path": "problems/2021-B4/proofs/reviewed-reasoning-return-r14-v1.1.md",
+        "bytes": 23801,
+        "sha256": "c574096c94bc4deaab81b54c5dd0599f3089e7122165312d9089ea28d2a9f880"
+      },
+      "candidate": {
+        "path": "problems/2021-B4/notes/reasoning-return-r14-candidate-v1.md",
+        "bytes": 19879,
+        "sha256": "18b13277fb58aced493db2b4ed2b6bfb92a3778c50e661bf5bc858a59f0c2e7f"
+      },
+      "historical_occurrences_bound_not_replayed": 170,
+      "historical_paths_bound_not_replayed": 73
+    },
+    {
+      "id": "reasoning-unit-return-r15",
+      "authority": {
+        "path": "problems/2021-B4/reviews/reasoning-unit-return-r15-acceptance.json",
+        "bytes": 4011,
+        "sha256": "288381d84eae762961da81dd3f85a5685956ade4214427aca761749390780d8e"
+      },
+      "body": {
+        "path": "problems/2021-B4/proofs/reviewed-reasoning-unit-return-r15-v1.1.md",
+        "bytes": 21263,
+        "sha256": "7ba8dd9cb3ce9818e46e9c7d13d64bba7257489842f6d5706eb29a33604ccdc0"
+      },
+      "candidate": {
+        "path": "problems/2021-B4/notes/reasoning-unit-return-r15-candidate-v1.md",
+        "bytes": 17560,
+        "sha256": "48700c4ed0462f6e916228083ede2520efc8b435be1e8e11d07d3233827c893c"
+      },
+      "historical_occurrences_bound_not_replayed": 179,
+      "historical_paths_bound_not_replayed": 68
+    },
+    {
+      "id": "reasoning-early-return-r16",
+      "authority": {
+        "path": "problems/2021-B4/reviews/reasoning-early-return-r16-acceptance.json",
+        "bytes": 4101,
+        "sha256": "bca659d88bb786c9a2744e31e54a64c65ab8fa906d86b99809b638c1bf91a90b"
+      },
+      "body": {
+        "path": "problems/2021-B4/proofs/reviewed-reasoning-early-return-r16-v1.1.md",
+        "bytes": 22642,
+        "sha256": "6d66df441f414e97e09944fffe83fb6346b4f46631121ff84d5668d68c6af210"
+      },
+      "candidate": {
+        "path": "problems/2021-B4/notes/reasoning-early-return-r16-candidate-v1.md",
+        "bytes": 18818,
+        "sha256": "d9765b700bf7f7a0c13bcb0b5729a38150e87fe847156df29d4c592abad0b2d1"
+      },
+      "historical_occurrences_bound_not_replayed": 239,
+      "historical_paths_bound_not_replayed": 93
+    }
+  ],
+  "immediate_own_parent": {
+    "path": "problems/2025-B4/reviews/reasoning-branch-return-r4-review-1-manifest-v1.json",
+    "bytes": 3518,
+    "sha256": "eaaca13b3a0858625c432c88bf86b65ee0e1f2266810b1e696136f8c56cd9bf2"
+  },
+  "own_parent_all10_payloads_preserved": true,
+  "occurrences": 53,
+  "unique_paths": 53,
+  "canonical_summary_sha256": "2bf25c58040de99880ba3c0bbc9adb996886be3a424140970a32474c54aea02c",
+  "protected_rows": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-center-return-r17-baseline-v1.json",
+      "bytes": 18015,
+      "sha256": "f7c0405ba9b5dc5abc80a8bcfeac85b935081f877bda169f36c53dd13b41461b"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-center-return-r17-candidate-v1.md",
+      "bytes": 18292,
+      "sha256": "d5a11268bd506449f437cbe4fb4d281f26c2d8e1a0461d5bde7acd05b8a5784d"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-center-return-r17-checks-v1.md",
+      "bytes": 5017,
+      "sha256": "854261e31bb9aad5c3731e0ae6a1f37ba3d18a526b825d862c995529c580a3a8"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-center-return-r17-failures-v1.md",
+      "bytes": 2943,
+      "sha256": "0e53dc2259d402cec66c38ea98754f029b49a1f1a7c0ec499fc806e4841e1501"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-center-return-r17-freeze-v1.json",
+      "bytes": 3018,
+      "sha256": "5e9d1e9fe34d7e5041f645700d2315e6a5fce38279be9cd9423ade4c7df8ca5f"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-center-return-r17-freeze-v1.py",
+      "bytes": 10023,
+      "sha256": "8db26c64c762ee02bf7eabeee8abeab57705d5b1e8210d32799bece99fb058d6"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-center-return-r17-input-validation-v1.json",
+      "bytes": 698,
+      "sha256": "2408b83729826e80c305cbde2370627dc1be26ac58ec48640fddfb8f57b3c826"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-center-return-r17-interim-v1.md",
+      "bytes": 5118,
+      "sha256": "a765a3e9584a8f4e4d52a6357af953115aa3b865a2180ec743a2aeba428e4020"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-center-return-r17-metadata-v1.json",
+      "bytes": 1780,
+      "sha256": "45edfa699259dfa46d504297cbb605c6bedbcea67b940454da57db886ae4a5f2"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-center-return-r17-obligations-v1.md",
+      "bytes": 7042,
+      "sha256": "be122db9eb0b62711040cc73bf7e268f2ddf07045daf3be735f902a7df954869"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-center-return-r17-sources-v1.md",
+      "bytes": 5292,
+      "sha256": "162c410743e872c72c33d7a42ce327f235a45144f7e0ab72f5fbca4e83f39c48"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-center-return-r17-worklog-v1.md",
+      "bytes": 5264,
+      "sha256": "0bdf8236922f62fdb05b5037dbb1d0eeaac175ada3376a35a4f4bcfa053ac259"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-early-return-r16-candidate-v1.md",
+      "bytes": 18818,
+      "sha256": "d9765b700bf7f7a0c13bcb0b5729a38150e87fe847156df29d4c592abad0b2d1"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r12-candidate-v1.md",
+      "bytes": 17602,
+      "sha256": "7600005b20756bf9613e2b02177d5ae50aa5d3f573a6aa267bf245ee0a5c8f19"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r13-candidate-v1.md",
+      "bytes": 15806,
+      "sha256": "25a871da93b7cd375e0af43c8643094463ac45ce913722805ba6958dee004148"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r14-candidate-v1.md",
+      "bytes": 19879,
+      "sha256": "18b13277fb58aced493db2b4ed2b6bfb92a3778c50e661bf5bc858a59f0c2e7f"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r5-candidate-v1.md",
+      "bytes": 20083,
+      "sha256": "0d546265a3f9b1f83c05fce46e5a97acb6cad5d8841518d891ffed91717166f6"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r8-candidate-v1.md",
+      "bytes": 16961,
+      "sha256": "6bffa3b70e9d228b09e0a2ee3f049d7f5261fb98d484ebacff7abcbfde5eea26"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-unit-return-r15-candidate-v1.md",
+      "bytes": 17560,
+      "sha256": "48700c4ed0462f6e916228083ede2520efc8b435be1e8e11d07d3233827c893c"
+    },
+    {
+      "path": "problems/2021-B4/proofs/reviewed-reasoning-early-return-r16-v1.1.md",
+      "bytes": 22642,
+      "sha256": "6d66df441f414e97e09944fffe83fb6346b4f46631121ff84d5668d68c6af210"
+    },
+    {
+      "path": "problems/2021-B4/proofs/reviewed-reasoning-return-r12-v1.1.md",
+      "bytes": 20521,
+      "sha256": "bfc4a3549b9357600fdadf79a826d203e2226a1a4fd8d7c183412f8abc18e3ef"
+    },
+    {
+      "path": "problems/2021-B4/proofs/reviewed-reasoning-return-r13-v1.1.md",
+      "bytes": 19299,
+      "sha256": "a29ecdb8002f3cbb4250e93f94c65ed83a67b086331fb3497d48ad740959ab6b"
+    },
+    {
+      "path": "problems/2021-B4/proofs/reviewed-reasoning-return-r14-v1.1.md",
+      "bytes": 23801,
+      "sha256": "c574096c94bc4deaab81b54c5dd0599f3089e7122165312d9089ea28d2a9f880"
+    },
+    {
+      "path": "problems/2021-B4/proofs/reviewed-reasoning-return-r5-v1.1.md",
+      "bytes": 23675,
+      "sha256": "f4f088adc133b0581520488cdbba30082c13b2402c96ae555142e5491ad4137d"
+    },
+    {
+      "path": "problems/2021-B4/proofs/reviewed-reasoning-return-r8-v1.1.md",
+      "bytes": 19921,
+      "sha256": "33b8713d402d09f711d0096cdc4e8c00f9e622a5335f8e3345eb4f82ba0d359d"
+    },
+    {
+      "path": "problems/2021-B4/proofs/reviewed-reasoning-unit-return-r15-v1.1.md",
+      "bytes": 21263,
+      "sha256": "7ba8dd9cb3ce9818e46e9c7d13d64bba7257489842f6d5706eb29a33604ccdc0"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-early-return-r16-acceptance.json",
+      "bytes": 4101,
+      "sha256": "bca659d88bb786c9a2744e31e54a64c65ab8fa906d86b99809b638c1bf91a90b"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-early-return-r16-acceptance.md",
+      "bytes": 3922,
+      "sha256": "051184083b0046c6346f42aecf34cc133585f47386fb5245ab1d2c3548a28a83"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r12-acceptance.json",
+      "bytes": 2801,
+      "sha256": "28f2a33fd4cdb39bcd899df9bb450628e928afe483f7a6be443a32d649dbd00b"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r12-acceptance.md",
+      "bytes": 3017,
+      "sha256": "864234a85976af918c3af397cc158cb5488e26806d3b9a905f73dc80e5ff828d"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r13-acceptance.json",
+      "bytes": 3318,
+      "sha256": "b0650934d449a60daae2fd8dffaac0beb0f5ccf5cf85247f73218802cef63909"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r13-acceptance.md",
+      "bytes": 3591,
+      "sha256": "3017df8c79c6b72a4dfd0fb15d07f66b41cb9694c9e7c984e21f717b9d0a3465"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r14-acceptance.json",
+      "bytes": 3789,
+      "sha256": "9b808adb416309163f8a798062f4a42d4d0468fbeb8dcb434b055f0a0cdf406e"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r14-acceptance.md",
+      "bytes": 4020,
+      "sha256": "3443f1dc32bb0b200bf2786b41bb6468db79095f64672a69b30e52c44c343d0f"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r5-acceptance.json",
+      "bytes": 3373,
+      "sha256": "93a204890e6d387a22d89565dbee9ee970c1b80af59f79cbc983d3ba4de6defe"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r5-acceptance.md",
+      "bytes": 3915,
+      "sha256": "6f2bd751c5b2c790d63f7fad3cb6f686057d9943c48689272723e481f01fa477"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r8-acceptance.json",
+      "bytes": 2507,
+      "sha256": "b5ca7a381393061192beceb0b34b8222c6ae249f1edc3383ac316786c7cd3ef0"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r8-acceptance.md",
+      "bytes": 3060,
+      "sha256": "f2cc3d55b82abd08e3294811ed1ae44a7b2ee23ef18e0e158d12b468165c4fd0"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-unit-return-r15-acceptance.json",
+      "bytes": 4011,
+      "sha256": "288381d84eae762961da81dd3f85a5685956ade4214427aca761749390780d8e"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-unit-return-r15-acceptance.md",
+      "bytes": 3801,
+      "sha256": "c78a0cbe7f7fa66cb0cc4a819ff4c11c62c44e844125cbe20b1bfb11a59c6541"
+    },
+    {
+      "path": "problems/2021-B4/statement.md",
+      "bytes": 1745,
+      "sha256": "5cd9750a2458191370590120fb4ae7d547740784eb1de38ee9e2e7890a2fabed"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-branch-return-r4-review-1-baseline-v1.json",
+      "bytes": 14057,
+      "sha256": "8befeef7ef2e87e25bef281eca53cccffe97e823941a9c457455ef22689aa4a4"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-branch-return-r4-review-1-freeze-v1.py",
+      "bytes": 6286,
+      "sha256": "38dd30ac0acd1103cd3b8353e892862e5edac513ff9a94ce438e6715b5349fd0"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-branch-return-r4-review-1-initial-v1.md",
+      "bytes": 13167,
+      "sha256": "44e0c3d1bd9e9e17e2e71c651acac0976365ca290840f4bda082b6c833bb1844"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-branch-return-r4-review-1-input-validation-v1.json",
+      "bytes": 361,
+      "sha256": "bd301224201b3871428e1605f12800eba363b327e2d5acb6a295e086520b6324"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-branch-return-r4-review-1-issues-v1.md",
+      "bytes": 1913,
+      "sha256": "b5a5d2e7145cd6e6d47e0100e2b3e0d393c38ad5c1ef0b48af8fbfce2b3a51c5"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-branch-return-r4-review-1-ledger-v1.md",
+      "bytes": 7988,
+      "sha256": "8ca7e3dc07e8a725e0276d7193c4e2a99cb023f6c502d67bc0c510c728b37020"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-branch-return-r4-review-1-manifest-v1.json",
+      "bytes": 3518,
+      "sha256": "eaaca13b3a0858625c432c88bf86b65ee0e1f2266810b1e696136f8c56cd9bf2"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-branch-return-r4-review-1-metadata-v1.json",
+      "bytes": 934,
+      "sha256": "fa43875e5960ee632cfe9a3f394645ccfc4816f580b5e544a0bce08d801d6b80"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-branch-return-r4-review-1-source-checks-v1.md",
+      "bytes": 3055,
+      "sha256": "1758f5f023d869d528f1fab867a1fbda22596f21076e9d17e2906b2dc563ecf6"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-branch-return-r4-review-1-sources-v1.json",
+      "bytes": 1819,
+      "sha256": "5490e874c91b0cfec9ea21f2a421489a61ed234544229916e757e7d6146e956c"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-branch-return-r4-review-1-worklog-v1.md",
+      "bytes": 3269,
+      "sha256": "576d660535a744efc9c0973cd766c5cd911cf7360cee9d508eff63e91e17e91a"
+    }
+  ],
+  "mutable_living_context_not_future_operative_immutability_guard": true,
+  "NO_NEW_corresponding_R2_material_access": true
+}

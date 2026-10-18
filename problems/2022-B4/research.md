@@ -32,6 +32,15 @@ The born family's constant4 future is equivalent to a SPECIFIED ordinary
 ceiling seed condition, not to arbitrary ninefold existence. Fiber
 existence and universal equality remain open.
 
+The new [CF1--CF6 trajectory theorem](reviews/reasoning-fiber-return-r5-acceptance.md)
+is now accepted after root/A TWO OTHER initially blind ENTIRE WHOLE48/48
+audits and full reconciliation. CF1--CF5 prove equal-growth eventual
+translation, exact permanent-translation rectangles, at most44 change
+EVENTS and actual arbitrarily late mergers/nonmerging twins. CF6 gives
+336 ordinary states ONLY conditional on tenfold canonical existence,
+with SUM growth12G; it supplies no336 canonical words. Universal hitting,
+effective timing and ordinary fiber existence remain open.
+
 ## Current reviewed arithmetic result
 
 The rational-lift complexity obstruction is **proved, independently

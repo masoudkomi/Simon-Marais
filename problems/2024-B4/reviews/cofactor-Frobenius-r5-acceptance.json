@@ -1,0 +1,155 @@
+{
+  "accepted_at_utc": "2026-10-18T11:21:53.017001+00:00",
+  "status": "proved, independently reviewed scoped partial result",
+  "whole_initials_blind": true,
+  "root_read_full_candidate_both_reports_all_ledgers_sources": true,
+  "unresolved_substantive_issues": 0,
+  "repair_required": false,
+  "candidate": {
+    "path": "problems/2024-B4/notes/cofactor-Frobenius-r5-candidate-v2.md",
+    "bytes": 13006,
+    "sha256": "329b975a7f8fe7456f9794a2170dc443396fb1a2b0143cc61ac9ddd027beb47e"
+  },
+  "accepted_copy": {
+    "path": "problems/2024-B4/proofs/reviewed-cofactor-Frobenius-r5-v2.1.md",
+    "bytes": 17704,
+    "sha256": "aa7c3edba910270594302ede19cce7a8f530e21f3c5b17e4c64ddd387762bcf3"
+  },
+  "verification_metadata": [
+    {
+      "path": "problems/2024-B4/notes/cofactor-Frobenius-r5-freeze-v1.json",
+      "bytes": 3932,
+      "sha256": "cda866d3b82dfe335c78643d15d857e21bcda5439c2ecf308956281b02a8b545"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-Frobenius-r5-baseline-v1.json",
+      "bytes": 6811,
+      "sha256": "89151486e328445d3a63d401b48efff9021a4d23ad6b6c41d7220cbbc70c0982"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-Frobenius-r5-metadata-v1.json",
+      "bytes": 1435,
+      "sha256": "dc706d6403b520d6c425e91b0b41b89f0bbd981265e3f9111b9eeade7dd672a9"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-Frobenius-r5-input-validation-v1.json",
+      "bytes": 451,
+      "sha256": "6f0f8a3df48743139cb52e1826a1876794210bc187da29aab9352dccbde78a3e"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-Frobenius-r5-repair-freeze-v2.json",
+      "bytes": 8397,
+      "sha256": "aaa1da5e9143787046b0286dc7de75f04107d8ec209deadda65d53b5e1cc9885"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-Frobenius-r5-review-1-manifest-v1.json",
+      "bytes": 6800,
+      "sha256": "b3af3d1cd3372c4181753c4cc3724b9c99300b596d5dcdebd3bd398374cd0667"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-Frobenius-r5-review-1-baseline-v1.json",
+      "bytes": 16019,
+      "sha256": "57d02e9e835f47f6ba29103db02e566d1f2225530ebbcddac2482478c1c17d05"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-Frobenius-r5-review-1-sources-v1.json",
+      "bytes": 2697,
+      "sha256": "d5d739b6928af04ddab9270d320fcc3538e41d75561984dfdbc28045b9548f62"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-Frobenius-r5-review-1-input-validation-v1.json",
+      "bytes": 489,
+      "sha256": "cb516bf22c93f99c423a2407c34d8084e1baf001102dcf985269c3e6842a42fa"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-Frobenius-r5-review-2-manifest-v1.json",
+      "bytes": 6457,
+      "sha256": "b40ab0e94c87ceddb649b63695e07181b4d7a2b9f0cfae5ac1ffaa6ba9db5ca4"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-Frobenius-r5-review-2-baseline-v1.json",
+      "bytes": 10751,
+      "sha256": "fd8b9a8549818f076bc0df7f8b0908ae3e857115e63cdc580a58900d0afd57c1"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-Frobenius-r5-review-2-sources-v1.json",
+      "bytes": 3959,
+      "sha256": "c62002e2463181bdff4467b7078d0953f446eb86dc2166f35c89a900b61aeba1"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-Frobenius-r5-review-2-input-validation-v1.json",
+      "bytes": 617,
+      "sha256": "e14c54f9c450c9396f4ddee053d6807b7630d128ae84d48651b04c57edec0d2c"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-Frobenius-r5-review-1-reaudit-v2-manifest.json",
+      "bytes": 7921,
+      "sha256": "1f724dddd34742a46d5b9c51a9f4f4cebbf8ee57fa69b40ec116664e5ab11c12"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-Frobenius-r5-review-1-reaudit-v2-baseline.json",
+      "bytes": 4991,
+      "sha256": "e45f0c4920ece9e888398cdfb04469044f3b1abb5007fba69972a322a3bad2d1"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-Frobenius-r5-review-1-reaudit-v2-sources.json",
+      "bytes": 2448,
+      "sha256": "001fb9d42bff456c138f9ddf8b9b8c6246bd9991bcb58e923980d331161491d1"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-Frobenius-r5-review-1-reaudit-v2-input-validation.json",
+      "bytes": 730,
+      "sha256": "e46551804d7ace887173ed5368573dac8179a8ab9385348c3956416ca2f9acb1"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-Frobenius-r5-review-2-reaudit-v2-manifest.json",
+      "bytes": 5850,
+      "sha256": "e2d3cb2fa85a32145f65509299a2686e4a8451b263181456b73d5cc380cce1af"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-Frobenius-r5-review-2-reaudit-v2-baseline.json",
+      "bytes": 13159,
+      "sha256": "f186f6c8be7daac0c1c75e309c5d31d90a0ac6f9f0170870eeb0b918ec064d24"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-Frobenius-r5-review-2-reaudit-v2-sources.json",
+      "bytes": 3004,
+      "sha256": "ba04fc387844db91d1f803341b71ae6429f1ff7fb43dcc86e8787589e243e9a3"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-Frobenius-r5-review-2-reaudit-v2-input-validation.json",
+      "bytes": 710,
+      "sha256": "e241f94422740d5364674fe09aaafac11f573298d38e6873d451db12b0812e26"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-Frobenius-r5-review-1-reaudit-v2-metadata.json",
+      "bytes": 1441,
+      "sha256": "9f15c62e677486f3a3566ae08376ac919763df84415e3a6a68413fadd1298fac"
+    }
+  ],
+  "record_occurrences_verified": 342,
+  "unique_paths_verified": 134,
+  "claims": [
+    "R5A",
+    "R5B",
+    "R5C",
+    "R5D"
+  ],
+  "constructor": "/root",
+  "constructor_excluded": true,
+  "OTHER_whole_reviewers": [
+    "/root/review_2021_reasoning_j15_r2",
+    "/root/review_2022_complexity_r2"
+  ],
+  "original_whole_obligations": 32,
+  "affected_checks_each": 40,
+  "original_both_blind_and_affected_both_blind": true,
+  "full_AUTHOR_v2_repair_required_and_completed": true,
+  "both_literal_corrections_resolved": true,
+  "original_v1_and_original_reports_preserved": true,
+  "root_read_ENTIRE_original_and_affected_packets_ALLmetadata": true,
+  "all_k_at_Q32_family": true,
+  "strict_threshold_only": true,
+  "annual_or_priority_claim": false,
+  "no_mathematical_computation": true
+}

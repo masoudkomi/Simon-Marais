@@ -1,5 +1,14 @@
 # 2024 B4 independent reviews
 
+The new [corrected Frobenius R5 theorem](reviews/cofactor-Frobenius-r5-acceptance.md)
+is accepted after A/B OTHER whole32/32 audits, a full versioned AUTHOR
+repair and BOTH affected32+8 reaudits/full reconciliation. It proves
+whole absolute irreducibility for EVERY n=31*32^k+1,k>=2 and a strict
+sufficient prime-s criterion. Original literal congruence/s3 explanation
+errors and original reviews remain preserved. Composite-s,s3,k1,all
+prime-s k2,full classification and priority are not settled.
+
+
 2026-10-18 current acceptance: [R4A-E](cofactor-dominant-r4-acceptance.md),
 after A/C TWO OTHER ENTIRE initially blind WHOLE48/48 audits and complete
 reconciliation; root constructor excluded. Unique actual invariant cofactor,
