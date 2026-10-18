@@ -4,9 +4,9 @@ This repository records a sustained investigation of the Simon Marais Mathematic
 
 **Only the open portion is in scope:** the entire 2017 problem; the general 2018 enumeration, excluding research on its already known m=5 case; and **B4(b) only in every year 2019-2025**. Preliminary part (a) is excluded. See the [direct official-paper scope audit](sources/open-scope-audit.md). Whether an originally open problem has subsequently been solved is a separate, dated literature question.
 
-**Current stage:** two complete internally reviewed annual answers: the attributed published2018 enumeration and the2023 exponent classification (priority unestablished). Seven annual questions remain unresolved. New partial results include [2024's entire three-bit exclusion](problems/2024-B4/reviews/coordinator-three-bit-sector-r2-acceptance.md) and [2020's conditional arithmetic solvability/ideal-stabilizer theorem](problems/2020-B4/reviews/reasoning-return-r8-acceptance.md), both with TWO OTHER whole audits and full reconciliation. Research has resumed under the user's explicit authorization for the newly reported weekly window, through90%TOTAL with reserve. See [authorization and current activity](progress/authorization-2026-10-18-0958.md). Permission requests affect only dependent actions; other agents continue.
+**Current stage:** two complete internally reviewed annual answers: the attributed published2018 enumeration and the2023 exponent classification (priority unestablished). Seven annual questions remain unresolved. New partial results include [2024's entire three-bit exclusion](problems/2024-B4/reviews/coordinator-three-bit-sector-r2-acceptance.md) and [2020's conditional arithmetic solvability/ideal-stabilizer theorem](problems/2020-B4/reviews/reasoning-return-r8-acceptance.md), both with TWO OTHER whole audits and full reconciliation. The [2021 R11 actual first-break exclusion](problems/2021-B4/reviews/reasoning-return-r11-acceptance.md) has also passed both OTHER whole audits and full reconciliation, within its explicit conditional domain. Research has resumed under the user's explicit authorization for the newly reported weekly window, through90%TOTAL with reserve. See [authorization and current activity](progress/authorization-2026-10-18-0958.md). Permission requests affect only dependent actions; other agents continue.
 
-- [Latest all-nine status and usage](progress/status-2026-10-17-2049.md): two complete annual answers; seven annual targets unresolved.
+- [Latest all-nine status and usage](progress/status-2026-10-18-1018.md): two complete annual answers; seven annual targets unresolved.
 - [Dashboard](progress/dashboard.md): per-problem status, results, obstructions, next steps and reviews.
 - [Budget and telemetry](progress/budget.md): observed weekly usage and reset boundary.
 - [Restart instructions](progress/restart.md): how to resume safely.
@@ -16,6 +16,23 @@ This repository records a sustained investigation of the Simon Marais Mathematic
 - [Problem setters and origins](sources/problem-provenance.md), with direct attribution distinguished from committee membership.
 - [Deeper literature findings across allnineyears](sources/deep-literature-results.md), with original search plans and per-year reports.
 - [Recorded project token counts](progress/token-usage-latest.json), including cached versus uncached input.
+
+The opening page of each per-problem report now explains its research
+significance and connections, with primary references and a current scoped
+status. These are the living reports; frozen proof submissions and review
+records retain their original bytes.
+
+|Report|Main research connections|
+|---|---|
+|[2017](problems/2017-B4/research.md)|Pseudoline arrangements, Coxeter groups, tiling entropy|
+|[2018](problems/2018-B4/research.md)|Young tableaux, representation theory, invariant rings|
+|[2019](problems/2019-B4/research.md)|Words, finite-memory envelopes, renewal and growth|
+|[2020](problems/2020-B4/research.md)|Cyclic projective planes, difference sets, cyclotomic arithmetic|
+|[2021](problems/2021-B4/research.md)|Casas–Alvero, interpolation, polynomial ideals, p-adic obstructions|
+|[2022](problems/2022-B4/research.md)|Integer dynamics, congruences, exact orbit reachability|
+|[2023](problems/2023-B4/research.md)|Quadratic fields, trace and norm, Lucas-type resultants|
+|[2024](problems/2024-B4/research.md)|APN functions, cyclic codes, finite-field algebraic geometry|
+|[2025](problems/2025-B4/research.md)|Nagell–Ljunggren, perfect powers, integral points, cyclotomic fields|
 
 Earlier accepted refinements include the [concavity upper bound below0.649514](problems/2017-B4/reviews/concavity-acceptance.md) for2017 and the [first-moment hierarchy and 1.76522347<lambda<1.834856083](problems/2019-B4/reviews/moment-tail-acceptance.md) for2019. Each passed two fresh initially blind whole audits. They remain partial results, and originality is unestablished. Deeper primary-literature reports now cover all nine years; see the per-year notes and [proposer evidence](sources/problem-provenance.md). The current research emphasis is structural mathematical reasoning; computation is reserved for counterexamples, intuition and necessary exact certificates.
 

@@ -1,5 +1,32 @@
 # 2019 B4(b) research log
 
+## Research significance and connections
+
+Opening overview updated 2026-10-18. This problem asks how quickly the number
+of distinct words grows under a simple rule that appends alternating symbols
+at either end. Different construction histories can produce the same word.
+Understanding those collisions is the central enumerative difficulty: the
+number of histories alone does not determine the exponential growth rate.
+The [official discussion](https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2019-solutions_1.pdf)
+gives initial bounds while leaving the two requested rates undetermined.
+
+Our research connects the problem to combinatorics on words, forbidden-pattern
+descriptions, and finite-state generating functions. Finite-memory envelopes
+give controlled approximations; renewal decompositions would describe how
+long words assemble from recurring pieces. These are methodological
+connections, not an assertion that the complete language already has a
+finite automaton or a rational generating function. In entropy language,
+the growth constant measures the information retained after construction
+histories are identified.
+
+The project has independently reviewed existence of a common growth constant
+and the enclosure \(1.765224<\lambda<1.834843\), together with converging
+approximation structures and quantitative gaps for specified truncations.
+Its exact value, the desired unrestricted renewal description, and sharp
+asymptotics remain unresolved. See the [current dashboard](../../progress/dashboard.md)
+and [review register](reviews/README.md); older bounds and pending-review
+language below record earlier stages.
+
 ## Coordinator third-pass acceptance
 
 The bounded-separation hierarchy, legal-envelope identification with actual minimal obstructions, entropy convergence, exact cap3 grammar and strict upperlambda<1.834856083 are **proved, independently reviewed partial results**. Both fresh initially blind reviewers reconstructed the whole argument and independently checked every cap7 transition and all11662 integer-vector inequalities. See proofs/reviewed-thirdpass-v1.1.md and reviews/thirdpass-acceptance.md/json. Combined with the earlier accepted lower bound,1.76521<lambda<1.834856083. Exactlambda/fullgeneratingfunction/novelty remain unresolved. No larger enumeration is substituted for the remaining proof problem.

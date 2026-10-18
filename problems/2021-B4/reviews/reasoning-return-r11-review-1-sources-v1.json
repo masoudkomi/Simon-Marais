@@ -1,0 +1,140 @@
+{
+  "recorded_at_utc": "2026-10-18T00:08:14.814747+00:00",
+  "reviewer": "/root/review_2022_complexity_r2",
+  "status": "Initially blind whole R1 source record; no coordinator acceptance",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "independently_verified_effective_settings": null,
+  "new_R11_peer_material_read": false,
+  "no_new_native_PDF_download_cache_write_or_source_redistribution": true,
+  "public_primary_sources": [
+    {
+      "title": "Official 2021 Paper B",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2021-paper-b.pdf",
+      "actual_read_scope": "Page2 B4 hypothesis and part(b); no preliminary proof or other problem investigated",
+      "use": "Actual rational witnesses; other roots need not be real or rational",
+      "native_response_sha256": null
+    },
+    {
+      "title": "Castryck-Laterveer-Ounaies, Constraints on counterexamples, arXiv1208.5404",
+      "url": "https://arxiv.org/pdf/1208.5404",
+      "actual_read_scope": "Sections3.4-3.5 equations9-13/Lemma17/beta identity; complete Proposition19 proof and adjacent unramified remark; not whole23pages",
+      "use": "Attributed normalization; all-root-Q/unramified limitation",
+      "existing_cache_readonly": {
+        "path": ".cache/literature/2021/cited-66c5af6a0f0239f5.pdf",
+        "bytes": 281743,
+        "sha256": "d818747102d32060f43ae5f015f27065aadf38699b272a2367749db8b33fedbf"
+      },
+      "native_response_sha256": null,
+      "cache_asserted_identical_to_browser_response": false
+    },
+    {
+      "title": "Draisma-de Jong2011 original erratum",
+      "url": "https://math-unibe.ch/jdraisma/publications/erratumcasasalvero.pdf",
+      "actual_read_scope": "Complete one page/all20 extracted lines",
+      "use": "Retain prime5 correction; no obsolete degree20 shortcut",
+      "existing_cache_readonly": {
+        "path": ".cache/literature/deep-literature-r1/2021-draisma-dejong-erratum-2011.pdf",
+        "bytes": 43723,
+        "sha256": "9414998fc302643b7cf261e4adec1333034dc732e8a3a493a1a0ff7418d8f262"
+      },
+      "native_response_sha256": null,
+      "cache_asserted_identical_to_browser_response": false
+    },
+    {
+      "title": "Atkinson-Sharma1969, A partial characterization of poised Hermite-Birkhoff interpolation problems",
+      "url": "https://homepage.math.uiowa.edu/~atkinson/papers/HB_interp.pdf",
+      "actual_read_scope": "Complete six pages230-235/all226 extracted lines, definitions, Theorem2 proof and separate converse conjecture",
+      "use": "Context only; no new interpolation theorem imported",
+      "native_response_sha256": null
+    },
+    {
+      "title": "Yakubovich, Polynomial problems of the Casas-Alvero type",
+      "url": "https://files.ele-math.com/articles/jca-04-07.pdf",
+      "actual_read_scope": "Corollaries1-3 printed105-106; full Lemma6 statement and proof printed112; not whole24pages",
+      "use": "All-roots-real restriction checked; inapplicable shortcut",
+      "native_response_sha256": null
+    },
+    {
+      "title": "Massri, The Casas-Alvero conjecture for three recycled roots in degree20, served v6/August2023",
+      "url": "https://arxiv.org/pdf/1806.09561",
+      "actual_read_scope": "Introduction/Section1 opening; Section5 normal form/dimension through Theorem5.7 and Remark5.8; not Section7 proof or whole paper",
+      "use": "Dimension/finiteness is not emptiness; no three-to-four-value import",
+      "native_response_sha256": null
+    },
+    {
+      "title": "Gasull2026, A Primer on Resultants and Their Applications",
+      "url": "https://link.springer.com/article/10.1007/s44425-026-00047-6",
+      "actual_read_scope": "Subsection3.4, reference19 and author/publication metadata only",
+      "use": "No uninspected modern status assertion used as proof",
+      "native_response_sha256": null
+    }
+  ],
+  "complete_operative_local_bodies": [
+    {
+      "path": "problems/2021-B4/proofs/reviewed-reasoning-return-r10-v1.1.md",
+      "bytes": 27060,
+      "sha256": "99eaab93c008085e8ea8d4c961f26c53d66f4ac8a288500ca1efeb31bc87e55b"
+    },
+    {
+      "path": "problems/2021-B4/proofs/reviewed-reasoning-return-r8-v1.1.md",
+      "bytes": 19921,
+      "sha256": "33b8713d402d09f711d0096cdc4e8c00f9e622a5335f8e3345eb4f82ba0d359d"
+    },
+    {
+      "path": "problems/2021-B4/proofs/reviewed-reasoning-return-r5-v1.1.md",
+      "bytes": 23675,
+      "sha256": "f4f088adc133b0581520488cdbba30082c13b2402c96ae555142e5491ad4137d"
+    },
+    {
+      "path": "problems/2021-B4/proofs/reviewed-odd-support-exclusion-v1.1.md",
+      "bytes": 8176,
+      "sha256": "56274936ab198f01cb38b1701fdec7907860eb654fd2bc79c3b2d0e03054a271"
+    },
+    {
+      "path": "problems/2021-B4/proofs/reviewed-return-r3-v1.1.md",
+      "bytes": 5304,
+      "sha256": "9cda0a35c42e7a3098418ec052180f4868ca995feee47b503971b8fc2cb6d4b4"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r3-transfer-candidate-v1.md",
+      "bytes": 9020,
+      "sha256": "0bcc9898ff010abf489f7b4c58d4a5011e91df99ab680bd0094d76054b3e3961"
+    }
+  ],
+  "accepted64_case_PN_proof_read_not_rerun_or_self_recertified": true,
+  "older_B_R9_author_and_prior_review_roles_disclosed": true,
+  "root_generic_assignment_supplied_no_new_R11_inference": true,
+  "full_constructor_packet_read_files": 11,
+  "whole_obligations": 56,
+  "new_math_code_CAS_scan_certificate_replay_or_author_rerun": false,
+  "compact_constructor_history_binding": {
+    "metadata": {
+      "path": "problems/2021-B4/notes/reasoning-return-r11-input-validation-v1.json",
+      "bytes": 9367,
+      "sha256": "a6848a1ababfc517f6e97197559f9c48ee4036309087b246bcf76bdf7efabef0"
+    },
+    "fingerprint_occurrences_as_declared": 2218,
+    "unique_paths_as_declared": 781,
+    "canonical_deduplicated_summary_sha256_as_declared": "c198ac0636be89fd9abad25e0dfd856a41da2e5f2c734a009b9f5cbe5bf6adaf",
+    "fresh_current_declarations_checked": 36,
+    "all_historical_2218_rows_freshly_rechecked": false
+  },
+  "compact_own_history_binding": {
+    "manifest": {
+      "path": "problems/2024-B4/reviews/coordinator-three-bit-sector-r2-review-1-manifest-v1.json",
+      "bytes": 4999,
+      "sha256": "f39c4c0ea19ff219cf450ee05270db2975d5cdc25f700833e4d6ab40c0e8e29b"
+    },
+    "validation": {
+      "path": "problems/2024-B4/reviews/coordinator-three-bit-sector-r2-review-1-input-validation-v1.json",
+      "bytes": 5487,
+      "sha256": "4c14229a8b9eafc0830863e2cd358c24597f757244348ce9b120bcfbb17fe6e9"
+    },
+    "older_own_paths_bound_transitively": 439,
+    "all439_old_paths_freshly_rehashed": false,
+    "entire_last_nine_packet_verified": true
+  }
+}

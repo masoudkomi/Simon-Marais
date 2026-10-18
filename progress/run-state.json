@@ -2,7 +2,7 @@
   "branch": "codex/smmc-b4-research",
   "remote": "https://github.com/masoudkomi/Simon-Marais.git",
   "phase": "sustained research resumed under explicit NEW-window authorization",
-  "last_pushed_commit": "c8c12b0",
+  "last_pushed_commit": "2b5305e",
   "initial_passes_complete": [
     2017,
     2018,
@@ -17,13 +17,13 @@
   "active": [
     {
       "agent": "review_2021_reasoning_j15_r2",
-      "year": 2017,
-      "role": "OTHER initiallyblindWHOLE R6 R1"
+      "year": 2024,
+      "role": "OTHER initially blind WHOLE neighbor-Frobenius R1;2017R6 R1 complete"
     },
     {
       "agent": "review_2022_complexity_r2",
-      "year": 2021,
-      "role": "OTHER initiallyblindWHOLE R11 R1; then2017R6R2"
+      "year": 2017,
+      "role": "OTHER initially blind WHOLE 2017 R6 R2; then WHOLE 2024 neighbor-Frobenius R2"
     },
     {
       "agent": "review_2017_coarsening_r1",
@@ -35,7 +35,7 @@
   "deferred": [
     2026
   ],
-  "weekly_used_percent_last_observed": 1,
+  "weekly_used_percent_last_observed": 2,
   "weekly_reset_unix": 1792874445,
   "caffeinate": {
     "user_authorization": "keepcomputerawakeuntil90%weeklyquota; permissionforoneagentmustnotinterruptothers",
@@ -51,8 +51,8 @@
     "previous_exit_code_after_targeted_ctrl_c": 130,
     "next_check_utc": "2026-10-18T00:58:30+00:00"
   },
-  "notes": "User explicitly authorizes current newlyreportedweeklywindow to90%TOTAL; no automatic laterreset. Independent permissionrequests must not stop other agents.2completeannualanswers2018/2023;7open.2020R8/2024three-bitr2accepted;2017R6/2021R11unverified.",
-  "observed_at_utc": "2026-10-18T00:00:36.393369+00:00",
+  "notes": "Explicit current-window authorization to90%TOTAL with reserve.2 complete annual answers2018/2023,7 unresolved.2021R11 now accepted.2020R8/2024three-bit accepted;2017R6/2024neighbor-Frobenius unverified. First-page significance/connections added to all nine living reports; frozen files preserved.",
+  "observed_at_utc": "2026-10-18T00:17:57.927161+00:00",
   "coordinator_compute": {
     "status": "all constructor children completed and reaped",
     "complex_complement_child_pid": 37199,
@@ -61,12 +61,12 @@
     "complex_family_count": 6224952,
     "new_complex_extension_audits": "both complete, accepted"
   },
-  "latest_all_nine_report": "progress/status-2026-10-17-2049.md",
-  "coordinator_current": "2024four-bit-family literature and structural reasoning; integrate pending2017/2021OTHERwholeaudits",
-  "latest_checkpoint": "progress/authorization-2026-10-18-0958.md",
+  "latest_all_nine_report": "progress/status-2026-10-18-1018.md",
+  "coordinator_current": "First-page research landscape in all nine reports; reconcile completed 2021 R11 WHOLE audits; 2024 neighbor-Frobenius constructor frozen unverified",
+  "latest_checkpoint": "progress/status-2026-10-18-1018.md",
   "pending_unverified": [
-    "2021R11rootWHOLE R2complete/OTHER B R1unstarted",
-    "2017R6fullconstructor/OTHER A/Bauditsunstarted",
+    "2017 R6: full constructor; OTHER A/B WHOLE audits active",
+    "2024 neighbor-Frobenius r1: complete constructor; OTHER A/B WHOLE audits queued",
     "2024oldnarrowr1preservedunaccepted"
   ],
   "usage_telemetry_conflict": {
@@ -84,5 +84,6 @@
     "new_math_work_held": false,
     "explicit_user_authorization": "keep going till90%of the newly reported weekly window....do not stop",
     "authorization_recorded_at_utc": "2026-10-18T00:00:36.393369+00:00"
-  }
+  },
+  "weekly_last_observed_at_utc": "2026-10-18T00:17:08Z"
 }

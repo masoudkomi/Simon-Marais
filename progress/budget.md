@@ -159,3 +159,6 @@ Current12:03UTCtransition:36%TOTALweeklyused,64%remaining,54ppbefore90%,samerese
 
 
 [Explicit new-window authorization and resumption](authorization-2026-10-18-0958.md):current1%TOTAL,reset1792874445,continueuntil90%TOTALwithreserve. Userauthorizesnewwindowandindependentpermissionhandling;threeworkersactive,ownedawakeverified09:58Brisbane.
+
+
+2026-10-18 approximately00:17UTC: authoritative current-window2%TOTAL weekly used/reset1792874445, explicitly user-authorized through90%TOTAL with reserve.88ppbefore cutoff. Raw00:17:07UTC1,481,264,441total including1,401,203,328cachedinput,68,984,379uncachedinput,11,076,734output including4,785,310reasoning;uncached+output80,061,113.62sessions/7858responses,allrecordedsumsmatch. Not a bill or weeklyconversion. Continue independent agents if one action needs permission.

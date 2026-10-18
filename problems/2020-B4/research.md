@@ -1,5 +1,31 @@
 # 2020 B4 research log
 
+## Research significance and connections
+
+Opening overview updated 2026-10-18. Choosing the maximum possible collection
+of distinct polygonal distances is equivalent, after setting \(q=n-1\), to
+constructing a cyclic planar difference set of order \(q\). The associated
+incidence structure is a projective plane with a cyclic group acting
+regularly on its points. Thus this short geometry question asks for the
+cyclic Prime Power Conjecture, with the separate boundary case \(n=2\).
+The conjecture for arbitrary projective planes has broader scope.
+
+Difference sets connect finite geometry, optimal difference packings, and
+Fourier analysis on finite groups. Their group-ring identities turn into
+cyclotomic norm equations. Arithmetic then brings in ideals, class groups
+and units: solving a field norm equation is only one part of recovering an
+actual integral binary difference set. [Peluse's asymptotic theorem](https://arxiv.org/abs/2003.04929)
+illustrates another connection, to analytic number theory: an asymptotic count
+of admissible orders can be established without excluding every exceptional
+order.
+
+The project has independently reviewed structural restrictions, exact Fourier
+recovery criteria and the R8 ideal-and-unit obstruction framework. These
+conditional criteria do not produce a new unrestricted classification or
+prove that every necessary norm condition is sufficient. Prime-power
+existence is attributed published context. See the [current dashboard](../../progress/dashboard.md),
+[references](references.md), and [review register](reviews/README.md).
+
 Status: 2026-10-16. **No full solution claimed.** P1–P6 and the attributed square-descent application are proved, independently reviewed partial results after two blind full reconstructions; see reviews/acceptance.md. Earlier candidate labels below are historical. Requested worker settings: `model=gpt-6.1-sol`, `reasoning_effort=max`; no independent effective-setting readback was available.
 
 ## Statement checks

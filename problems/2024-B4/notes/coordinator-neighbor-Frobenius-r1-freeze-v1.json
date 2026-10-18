@@ -1,0 +1,60 @@
+{
+  "frozen_at_utc": "2026-10-18T00:10:28.122516+00:00",
+  "status": "candidate proof - unverified; COMPLETE constructor checkpoint",
+  "constructor": "/root",
+  "root_sole_NEW_constructor_excluded_from_independent_review": true,
+  "claims": [
+    "NF1 neighbor-Frobenius whole absolute irreducibility",
+    "NF2 complete shared-point elimination",
+    "NF3 four-bit ell7 corollary"
+  ],
+  "whole_obligations": 36,
+  "two_OTHER_fresh_initially_blind_ENTIRE_WHOLE_audits_required": true,
+  "old_accepted_bodies_context_only_not_mathematical_dependencies": true,
+  "mathematical_program_CAS_scan_factor_table_author_replay": false,
+  "method_attributed_original_thesis_special_family_not_novelty_claim": true,
+  "no_annual_all_four_bit_or_further_reset_spending_claim": true,
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "effective_settings_readback": null,
+  "new_window_user_explicitly_authorized": true,
+  "weekly_reset_unix": 1792874445,
+  "weekly_total_ceiling_percent": 90,
+  "review_integration_reserve": true,
+  "administrative_command": ".venv/bin/python problems/2024-B4/notes/coordinator-neighbor-Frobenius-r1-freeze-v1.py",
+  "direct_context_records_verified": 14,
+  "artifacts": [
+    {
+      "path": "problems/2024-B4/notes/coordinator-neighbor-Frobenius-r1-candidate-v1.md",
+      "bytes": 13799,
+      "sha256": "775501d763a46b8411a6509c7da06d3a7fc3dacb3b27141881b80de2ea37f9d4"
+    },
+    {
+      "path": "problems/2024-B4/notes/coordinator-neighbor-Frobenius-r1-obligations-v1.md",
+      "bytes": 4245,
+      "sha256": "094abb7389e9fdad728b106346b437d9e27322719bf9e115107868d2fb1002e4"
+    },
+    {
+      "path": "problems/2024-B4/notes/coordinator-neighbor-Frobenius-r1-source-audit-v1.md",
+      "bytes": 3256,
+      "sha256": "bad20aefd00b975f7adf2d7244f9e8be464509044dad240c5cb6ed6ff5d9363d"
+    },
+    {
+      "path": "problems/2024-B4/notes/coordinator-neighbor-Frobenius-r1-failed-routes-worklog-v1.md",
+      "bytes": 3063,
+      "sha256": "7dece786025ed2fbdb523ac681c37f09834ba9bf06dcab353faf872c2a1b3845"
+    },
+    {
+      "path": "problems/2024-B4/notes/coordinator-neighbor-Frobenius-r1-freeze-v1.py",
+      "bytes": 6054,
+      "sha256": "1b63a04ecf2f9cfd052cbac8575e666594d7455bbc98a0a04de6933fd6a38712"
+    },
+    {
+      "path": "problems/2024-B4/notes/coordinator-neighbor-Frobenius-r1-inputs-v1.json",
+      "bytes": 4648,
+      "sha256": "a13b014b040317182336f1feb66e8139ac6738cded34183b9923151f469e5079"
+    }
+  ]
+}

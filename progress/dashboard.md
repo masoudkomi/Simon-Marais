@@ -7,11 +7,11 @@ Initial scope: nine official B4 open portions, 2017-2025. **2026 deferred by the
 |2017|Scalar limit exists, value unknown, upper<0.649514 and certified LOWER approximations. NEW GR1--GR4 accepted: EVERY-p full admissible-profile realization with explicit geometric error after both40/56 WHOLE checks. EntropyMASS/upperR/value remain open.|
 |2018|COMPLETE general enumeration formula, independently reviewed and attributed to Hering--Howard/Ottaviani. This is a published-result reproduction.|
 |2019|NEW retained-core accepted1.765224<lambda<1.834843. Actual retained-word derivative and missing-mass gap sharpen the cap bound after BOTH OTHER WHOLE audits. CG1--CG4 give exact asymmetric minimum widths, actual omitted rigid-tail series and strict quantitative cap-gap floors after BOTH OTHER WHOLE24-obligation audits. Exact value/renewal regime remain open.|
-|2020|NEW R7 accepted after both WHOLE56-obligation audits: complete integral Fourier lift, prime-modulus norm iff and exact ideal/composite-gluing obstructions. Actual classification and solving the norm/integrality conditions remain open.|
-|2021|NEW R10 accepted after both52/52 WHOLE audits: restricted actual-double degree20/m7/endpoint branch narrows to t>=2 or nu1/depth14 exception, with actual simple tail gcds. Remaining degree20/general classification open.|
+|2020|R8 accepted after both WHOLE54-obligation audits: conditional arithmetic solvability, actual ideal and unit obstructions, and exact ideal-stabilizer criterion. No new unrestricted order classification.|
+|2021|NEW R11 accepted after both OTHER WHOLE56-obligation audits: the entire actual m7 branch in the specified normalized actual-double/J15 domain is excluded. Optional four-unit consequence retains all extra hypotheses. Earlier first breaks, other degree20 branches and general classification remain open.|
 |2022|R8 accepted after both WHOLE audits: exact canonical prefix mergers, actual q2 predecessor counterexample, and separate binary-past/A-B phase obstructions. Literal scaling claim only for positive multipliers. No ordinary q10 infinite survivor or termination theorem.|
 |2023|COMPLETE internally reviewed classification for fixed positive nonsquare N: all(k,k),k>0, and(k,2k),(2k,k) for positive odd k. Priority remains unestablished.|
-|2024|NEW accepted S3A--D: attributed WHOLE absolute irreducibility for everym>3,3mod4, plus exact all-index isolation/gcd and graded-sum consequences after BOTH OTHER WHOLE audits. Earlier Kasami occurrence/saturation remains. The residual1mod4 ordinary reducibility classification remains open.|
+|2024|Entire three-bit exclusion accepted after TWO OTHER WHOLE audits; earlier S3 and Kasami criteria retained. NEW neighbor-Frobenius whole-irreducibility candidate is frozen UNVERIFIED with two OTHER WHOLE audits queued/active. General ordinary reducibility remains open.|
 |2025|NEW R8 accepted after both48/48 WHOLE audits: quantitative actual original-weight orbit amplification, real phase cancellation, all-order integral jets and formal leading-order bound with BOTH evaluated branches. Large zero-branch cost means no useful new unconditional exclusion/full solution.|
 
 ## Coordination
@@ -192,3 +192,8 @@ Five new exact partial packets accepted after both complete blind WHOLE audits a
 
 
 [Explicit new-window authorization and resumption](authorization-2026-10-18-0958.md):current1%TOTAL,reset1792874445,continueuntil90%TOTALwithreserve. Userauthorizesnewwindowandindependentpermissionhandling;threeworkersactive,ownedawakeverified09:58Brisbane.
+
+
+## Current checkpoint — 2026-10-18 approximately00:18UTC
+
+[All nine, opening-page research landscape and exact usage](status-2026-10-18-1018.md).2021R11 accepted after both OTHER WHOLE56-obligation audits and full root reconciliation; its narrow domain leaves the annual problem open. All nine living reports now start with significance, mathematical connections and primary references.2017R6/2024NF remain unverified under OTHER whole audits;2025R9 construction continues.2%TOTAL weekly, reset1792874445 explicitly authorized; continue through90%TOTAL with reserve.

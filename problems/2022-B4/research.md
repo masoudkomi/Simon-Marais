@@ -1,5 +1,31 @@
 # 2022 B4 research log
 
+## Research significance and connections
+
+Opening overview updated 2026-10-18. The question is an exact reachability
+problem for a deterministic map on positive integer pairs: must every allowed
+orbit hit the diagonal? The two coordinates grow by rounded fractions of
+one another. Removing the floors suggests expansion along the diagonal and
+contraction of the coordinate difference, but those approximations do not
+force equality at an integer time. The discarded remainders matter precisely
+where a diagonal hit would occur.
+
+This gives a concrete setting for piecewise affine integer dynamics,
+congruence constraints, and symbolic descriptions of orbit histories. The
+project uses exact predecessor and merger structures to study which residue
+patterns can belong to actual positive orbits. The connection is
+methodological; no equivalence to a different famous dynamics conjecture is
+claimed. The [organizers' report](https://austms.org.au/wp-content/uploads/2023/04/501Web.pdf),
+printed pp. 29–30, attributes the problem to Johan Meyer and describes
+numerical work by Chris Tuffley.
+
+Reviewed project results give density-one conclusions on fixed-difference
+lines and exact restrictions on predecessor and merger patterns. Such results
+can leave an exceptional orbit; they do not establish that every orbit hits
+the diagonal. No actual infinite avoiding orbit or unrestricted termination
+proof has been obtained. See the [current dashboard](../../progress/dashboard.md),
+[references](references.md), and [review register](reviews/README.md).
+
 ## Current reviewed arithmetic result
 
 The rational-lift complexity obstruction is **proved, independently

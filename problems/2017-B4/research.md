@@ -1,5 +1,30 @@
 # 2017 B4 research log
 
+## Research significance and connections
+
+Opening overview updated 2026-10-18. The target is the exponential growth rate
+of rhombus tilings of a regular polygon as its number of sides grows. The same
+count describes marked pseudoline arrangements and commutation classes of
+reduced expressions of the longest permutation. It therefore connects
+discrete geometry with Coxeter groups and enumerative combinatorics; the
+dictionary is discussed by [Denoncourt–Ernst–Story](https://arxiv.org/abs/1602.08328)
+and [Felsner–Valtr](https://doi.org/10.1007/s00454-011-9366-4).
+
+The normalized logarithm is an entropy: it measures how many distinct global
+configurations remain possible per quadratic unit of size. This connects the
+problem to tiling models in statistical mechanics, local-to-global assembly,
+and variational principles. A key difficulty is that the number of directions
+also grows; a theorem for a fixed set of tile directions does not immediately
+control this family. Counting arrangements also differs from counting the
+many sorting histories that can describe one arrangement.
+
+The project has independently reviewed a proof that the two requested rates
+coincide, together with certified lower approximations and the upper bound
+below 0.649514. Their common value is still undetermined. The new R6 boundary
+and entropy comparison packet remains under review. The live
+[dashboard](../../progress/dashboard.md) and [acceptance records](reviews/README.md)
+give current authority; dated investigation stages below are historical.
+
 ## Reviewed direction-coarsening result
 
 DC1 and DC2 are now **proved, independently reviewed partial results**, as

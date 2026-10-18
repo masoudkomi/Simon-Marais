@@ -1,5 +1,32 @@
 # 2021 B4 research log
 
+## Research significance and connections
+
+Opening overview updated 2026-10-18. The Casas–Alvero question asks whether a
+polynomial sharing a root with each nonconstant derivative must be a power of
+a linear polynomial. The contest requires each chosen common root to be
+rational, while other roots can be irrational or nonreal. That stronger
+witness hypothesis supplies arithmetic information without making the
+polynomial split over \(\mathbb Q\).
+
+The problem joins polynomial root geometry, interpolation, algebraic geometry
+and arithmetic. Vanishing derivatives can be organized into incidence
+patterns; resultants and polynomial ideals encode compatibility of those
+patterns. Reduction modulo a prime and \(p\)-adic valuations can obstruct a
+characteristic-zero configuration, provided actual rational witnesses are
+retained. [Castryck–Laterveer–Ounaïes](https://arxiv.org/abs/1208.5404)
+develop this interaction between arithmetic restrictions and algebraic
+computation. A finite normalized parameter space, however, need not be empty,
+and an available residue root need not lift to a rational common root.
+
+The project's reviewed results restrict carefully specified degree-20
+branches. The [R11 first-break exclusion](reviews/reasoning-return-r11-acceptance.md)
+has passed two independent whole audits and coordinator reconciliation.
+It does not settle all degree 20 or all contest degrees. General
+proof claims in the literature are tracked separately from verified imports.
+See the [current dashboard](../../progress/dashboard.md),
+[source audit](references.md), and [review register](reviews/README.md).
+
 ## Reviewed single-center classifications
 
 The sole-H4 and sole-H2 double-zero J15 classifications are now **proved,

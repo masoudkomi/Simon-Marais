@@ -1,5 +1,32 @@
 # 2023 B4(b) research log
 
+## Research significance and connections
+
+Opening overview updated 2026-10-18. For a fixed positive nonsquare \(N\),
+the problem asks when two powers of one real number can have the same
+irrational part \(-\sqrt N\). It is an elementary-looking question about
+rational values whose structure lies in the quadratic field
+\(\mathbb Q(\sqrt N)\). Conjugation changes the sign of \(\sqrt N\);
+trace and norm convert that relation into rational arithmetic.
+
+Repeated powers in a quadratic field satisfy second-order recurrences. This
+connects the exponent-pair question with Lucas-type sequences and their
+resultants: a common-root condition can force a strong divisibility relation
+between exponent-dependent polynomials. The proof here develops the required
+resultant identity directly. These connections suggest a way to replace
+unbounded numerical searches by a uniform argument about exponents. The
+[official notes](https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc2023solutions.pdf)
+provide the original quadratic-field context and partial cases.
+
+The project has a complete internally and independently reviewed
+classification: \((k,k)\) for every positive \(k\), and \((k,2k)\),
+\((2k,k)\) for positive odd \(k\). It holds for each fixed positive nonsquare
+\(N\), including nonsquare integers that are not squarefree, and permits
+negative real witnesses. Mathematical priority remains unestablished; no
+publication or novelty claim follows from internal review. See the
+[review register](reviews/README.md), [statement](statement.md), and
+[literature audit](references.md).
+
 ## Coordinator acceptance update, 2026-10-16
 
 The full classification argument has now received two fresh, initially blind independent adversarial audits, each reconstructing the whole proof. Both found no substantive mathematical objection; no repair was required. The coordinator promoted its status to **proved, independently reviewed**. See proof.md, proofs/reviewed-v1.md and reviews/acceptance.md. The owner-stage text below is retained as historical development; its pending-audit notices are superseded by this update. Novelty and prior-publication status remain unestablished.

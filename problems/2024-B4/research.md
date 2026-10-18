@@ -1,5 +1,32 @@
 # 2024 B4 research log
 
+## Research significance and connections
+
+Opening overview updated 2026-10-18. After removing the three prescribed
+linear factors, B4(b) asks which homogeneous polynomials \(\phi_n\) split
+over \(\mathbb F_2\). The same polynomial records four-term additive
+relations among powers in characteristic two. Its zeros and components link
+the problem to almost perfect nonlinear (APN) power maps, used in the study of
+differential properties in cryptography, and to the minimum distance of
+binary cyclic codes. [Hernando–McGuire](https://arxiv.org/abs/0903.2016)
+explain and use both connections.
+
+The research also belongs to algebraic geometry over finite fields: singular
+points, tangent cones, intersection multiplicities and Frobenius actions
+constrain possible components. These distinctions are essential. Splitting
+over an algebraic closure differs from splitting over \(\mathbb F_2\), and
+having one absolutely irreducible component defined over \(\mathbb F_2\)
+does not establish irreducibility of the whole polynomial. Consequently the
+published exceptional-APN classification does not itself answer B4(b).
+
+The project's reviewed results include exact occurrences of specified factors,
+Kasami-family criteria, structural restrictions and exclusion of all
+three-bit odd exponents from the requested factorization. The new
+neighbor-Frobenius criterion is frozen but still under independent review.
+The unrestricted ordinary reducibility classification remains unresolved.
+See the [current dashboard](../../progress/dashboard.md),
+[references](references.md), and [review register](reviews/README.md).
+
 ## Current reviewed structural result
 
 T1–T4 are now **proved, independently reviewed partial restrictions**.

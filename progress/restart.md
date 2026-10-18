@@ -1,3 +1,9 @@
+# Current restart boundary — 2026-10-18 approximately00:18UTC
+
+Continue sustained work to90%TOTAL in the explicitly authorized current window,reset1792874445. Directmeter2%; no further reset automatically authorized. Read [latest all-nine report](status-2026-10-18-1018.md) and run-state.json. New2021R11 accepted;2017R6 and2024neighbor-Frobenius remain UNVERIFIED. A wholeNF R1, B whole2017R6 R2thenNF R2, C actual2025R9; root integration/2017full reads and further reasoning. Both OTHER initials must ENTIRELY freeze before ANY peer findings/metadata. First-page research significance/connections now lead all nine living reports; preserve them in future exports. Further delegation authorized subject to actual four total active slots. One permission request never stops independent agents. Owneduntimedawake79293/session64368nextcheck00:58:30UTC; targetcleanup90%/actualtermination ONLYownedassertion. Last confirmed push2b5305e; this checkpoint awaits push. Do not stop at the checkpoint.
+
+---
+
 # Active restart boundary — 18October2026,09:58Brisbane
 
 User EXPLICITLY authorizes the NEW window reset1792874445 through90%TOTAL with reserve. The prior hold below is superseded for THIS window only. Read authorization-2026-10-18-0958.md and run-state.json. Continue independent work if one agent needs permission. A2017R6R1,B2021R11R1then2017R6R2,C2025R9;root2024. Owneduntimedawake79293/session64368verified09:58Brisbane,next10:58Brisbane.
