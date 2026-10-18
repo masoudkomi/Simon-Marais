@@ -5,37 +5,24 @@ This repository records a sustained investigation of the Simon Marais Mathematic
 **Only the open portion is in scope:** the entire 2017 problem; the general 2018 enumeration, excluding research on its already known m=5 case; and **B4(b) only in every year 2019-2025**. Preliminary part (a) is excluded. See the [direct official-paper scope audit](sources/open-scope-audit.md). Whether an originally open problem has subsequently been solved is a separate, dated literature question.
 
 **Current stage:** two complete internally reviewed annual answers:
-attributed published2018 enumeration and2023 classification (priority
-unestablished). Seven annual targets remain unresolved. Newly accepted
-[2021 R15–R17](problems/2021-B4/research.md) exclude the specified m5
-branch and m4 cubic/T4 alternatives, retaining m3 and the m4 essential-center cases;
-[2024 R4](problems/2024-B4/reviews/cofactor-dominant-r4-acceptance.md)
-proves whole irreducibility for n=15*16^k+1,k>=2; and
-[2025 BR1-BR5](problems/2025-B4/reviews/reasoning-Runge-return-r3-acceptance.md)
-gives actual integral-branch and residual support-label restrictions.
-Each passed TWO OTHER initially blind ENTIRE WHOLE audits and complete
-reconciliation. The new
-[2019 CN1–CN3](problems/2019-B4/reviews/reasoning-cut-number-r3-acceptance.md)
-also passed both whole48/48 audits: fixed-range pointwise cut-count bounds
-fail on explicit balanced outputs; the full high-cut MASS estimate remains open. The
-[2020 TD1–TD5](problems/2020-B4/reviews/reasoning-Todd-return-r12-acceptance.md)
-also passed both whole72/72 audits, retaining the unit obstruction in
-its canonical exact-q criterion. No new q is evaluated. Newly accepted
-[2022 CF](problems/2022-B4/reviews/reasoning-fiber-return-r5-acceptance.md),
-[corrected2024 R5](problems/2024-B4/reviews/cofactor-Frobenius-r5-acceptance.md),
-and [2025 BD](problems/2025-B4/reviews/reasoning-branch-return-r4-acceptance.md)
-have passed BOTH OTHER whole audits and full reconciliation, including
-BOTH affected R5 repair audits. They give trajectory rigidity, whole
-n=31*32^k+1 irreducibility for every k>=2, and actual discriminant/pure-distance
-restrictions respectively. [2021 R17](problems/2021-B4/reviews/reasoning-center-return-r17-acceptance.md)
-has now passed BOTH OTHER whole60/60 audits/full reconciliation, excluding
-the exact actual m4 T4 branch while retaining m3/m4 EC.
-Weekly30%TOTAL at11:26:04UTC/reset1792874445; continue to90%TOTAL
-with reserve in this explicitly authorized window.
+the attributed published2018 enumeration and2023 exponent classification
+(priority unestablished). Seven annual targets remain unresolved.
+[2019 BT](problems/2019-B4/reviews/reasoning-cut-transfer-r5-acceptance.md)
+is newly accepted after TWO OTHER entire whole audits and reconciliation;
+it controls specified end/collision classes and leaves the full residual
+and exact growth rate open. Reviewed recent partials also include
+[2017 PM8](problems/2017-B4/reviews/reasoning-path-mass-return-r8-acceptance.md),
+[2022 D6](problems/2022-B4/reviews/reasoning-dynamics-return-r6-acceptance.md),
+[2024 R6](problems/2024-B4/reviews/reasoning-cofactor-return-r6-acceptance.md),
+and [2025 RD](problems/2025-B4/reviews/reasoning-diagonal-return-r5-acceptance.md).
+NEW2017PM9,2020R14,2021R19 and2024R7 remain unverified under independent
+whole review. Direct weekly39%TOTAL at13:48:59UTC/reset1792874445;
+continue to90%TOTAL with reserve in this explicitly authorized window.
 
-- [Latest research checkpoint](progress/checkpoint-2026-10-18-2100.md);
-  [latest actual hourly report](progress/status-2026-10-18-2127.md).
-  Next actual hourly/owned-awake check12:27:42UTC.
+- [Latest continuing checkpoint](progress/checkpoint-2026-10-18-2351.md).
+- [Latest actual hourly report](progress/status-2026-10-18-2327.md);
+  its2024 table has the explicit sign correction in the new checkpoint.
+  Next actual hourly/owned-awake check14:27:30UTC.
 
 - [Dashboard](progress/dashboard.md): per-problem status, results, obstructions, next steps and reviews.
 - [Budget and telemetry](progress/budget.md): observed weekly usage and reset boundary.

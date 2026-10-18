@@ -1,0 +1,43 @@
+{
+  "created_at_utc": "2026-10-18T13:30:10.109412+00:00",
+  "status": "candidate proof - unverified",
+  "constructor": "/root/review_2021_reasoning_j15_r2",
+  "claims": [
+    "R19A",
+    "R19B",
+    "R19C"
+  ],
+  "whole_obligations": 64,
+  "payload_files": 12,
+  "ENTIRE_files_including_freeze": 13,
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independently_verified_effective_settings": null,
+  "root_supplied_new_proof_inference": false,
+  "requires_TWO_OTHER_initially_blind_ENTIRE_WHOLE_audits": true,
+  "published_general_common_value_prohibition_attributed": true,
+  "new_frame_I_entire_exclusion_proposed": true,
+  "frame_II_III_or_degree20_annual_exclusion_claimed": false,
+  "NEW_code_metadata_only": true,
+  "protected_current_occurrences": 205,
+  "protected_current_unique_paths": 131,
+  "canonical_deduplicated_sha256": "783e7de0f846c6f0fd91a3f3bfb0b7f3a564968f805efb6a244ad6805e9bad34",
+  "weekly_authorized_window_only": {
+    "observed_at_utc": "2026-10-18 13:19:40 UTC",
+    "usedPercent_TOTAL": 37,
+    "windowDurationMins": 10080,
+    "resetsAt": 1792874445,
+    "ordinaryUsageAllowed": true,
+    "legacy_and_by_limit_agree": true,
+    "account_id": "029a8928-15a9-456a-84f9-d2e61334ac3a",
+    "ceiling_TOTAL": 90,
+    "integration_reserve": true,
+    "no_automatic_later_window": true
+  },
+  "FULL_all_payload_model_readback_before_freeze_required": true,
+  "FULL_freeze_model_readback_then_SEPARATE_readonly_verify_required": true,
+  "no_future_BT_author_peer_packet_access": true
+}

@@ -1,0 +1,74 @@
+{
+  "frozen_at_utc": "2026-10-18T13:32:49.188689+00:00",
+  "status": "ENTIRE PM9 constructor checkpoint; candidate proof - unverified",
+  "constructor": "/root",
+  "constructor_excluded_from_TWO_OTHER_whole_audits": true,
+  "whole_claims": [
+    "PM9A",
+    "PM9B",
+    "PM9C"
+  ],
+  "whole_obligations": 48,
+  "ENTIRE_files_including_freeze": 12,
+  "ENTIRE_working_main_ALL48_checks_issues_failures_sources_logs_code_ALLmetadata": true,
+  "FULL_final_model_readback_then_SEPARATE_verify_follow_this_immutable_freeze": true,
+  "TWO_OTHER_initially_blind_ENTIRE_WHOLE_reviews_and_reconciliation_required": true,
+  "mathematical_computation": false,
+  "payloads": [
+    {
+      "path": "problems/2017-B4/notes/coordinator-path-moment-r3-working-v1.md",
+      "bytes": 10864,
+      "sha256": "b00839bc7719e35f18185740237de7d22a0ab0331ccfd6b6118314d21a465fa9"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-path-moment-r3-candidate-v1.md",
+      "bytes": 12255,
+      "sha256": "0af3e42df62385e086a53eec1d95461ba01ba26148a6f92bd34b1fb778924076"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-path-moment-r3-obligations-v1.md",
+      "bytes": 4913,
+      "sha256": "b72de785acc2ac9ef6ff1f41622e8d8dbc6b3259543dceb17027ae492dd684ea"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-path-moment-r3-constructor-checks-v1.md",
+      "bytes": 1664,
+      "sha256": "1c4aaa786c50011498c1d97fdb60701a39fd7202a5360d173d269165a4775b7f"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-path-moment-r3-failures-worklog-v1.md",
+      "bytes": 3129,
+      "sha256": "a637b54d7c1756aba4982e1729e293766bbb090d4ebe6e7fbba78edb44122bd7"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-path-moment-r3-source-audit-v1.md",
+      "bytes": 2372,
+      "sha256": "631b99016a5b95ebfd918054fb5e22ed21ac427eb63b92e94f4d4e87628def42"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-path-moment-r3-sources-v1.json",
+      "bytes": 1701,
+      "sha256": "a6c26da3be3da5110c2e6978af63e7c967b6152736b181007d18e98fe656f1c7"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-path-moment-r3-admin-v1.py",
+      "bytes": 6257,
+      "sha256": "8edfa8115ab16d59caf7d3eeff9124b4468d64c40404220f446be0faf12074ba"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-path-moment-r3-baseline-v1.json",
+      "bytes": 4645,
+      "sha256": "060f63fa4d148344154a75f4652aab56ac90efaf05830bf6f4e72a5bc4b5bcbb"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-path-moment-r3-input-validation-v1.json",
+      "bytes": 273,
+      "sha256": "87a55f6aa2e7a48d02b90513f7d4f65f532f69b15d11b77ec32c5864f98dc313"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-path-moment-r3-metadata-v1.json",
+      "bytes": 1020,
+      "sha256": "510baf1080c900327409bb29f2ea8d76ff1c9a54279a0387d5565b078a8b9b02"
+    }
+  ]
+}

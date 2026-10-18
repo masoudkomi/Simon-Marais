@@ -1,0 +1,69 @@
+{
+  "checked_on_utc": "2026-10-18",
+  "status": "candidate proof - unverified",
+  "constructor": "/root/review_2021_reasoning_j15_r2",
+  "root_supplied_new_proof_inference": false,
+  "requested_model": "gpt-6.1-sol",
+  "requested_reasoning": "max",
+  "inherited": true,
+  "independently_verified_effective_settings": null,
+  "old_roles": "R18 and older local constructor; older whole reviewer of other accepted inputs; not fresh self-certification",
+  "accepted_math_bodies_FULLread": [
+    "problems/2021-B4/proofs/reviewed-reasoning-center-return-r18-v1.1.md",
+    "problems/2021-B4/proofs/reviewed-reasoning-center-return-r17-v1.1.md",
+    "problems/2021-B4/proofs/reviewed-reasoning-return-r8-v1.1.md",
+    "problems/2021-B4/proofs/reviewed-reasoning-return-r5-v1.1.md"
+  ],
+  "accepted_authorities_MD_JSON_FULLread": [
+    "problems/2021-B4/reviews/reasoning-center-return-r18-acceptance",
+    "problems/2021-B4/reviews/reasoning-center-return-r17-acceptance",
+    "problems/2021-B4/reviews/reasoning-return-r8-acceptance",
+    "problems/2021-B4/reviews/reasoning-return-r5-acceptance"
+  ],
+  "failure_files_FULLread": [
+    "problems/2021-B4/notes/reasoning-center-return-r18-failures-v1.md",
+    "problems/2021-B4/notes/reasoning-center-return-r18-sources-v1.md",
+    "problems/2021-B4/notes/reasoning-center-return-r17-failures-v1.md",
+    "problems/2021-B4/notes/reasoning-return-r8-failed-routes-v1.md"
+  ],
+  "context_only_not_new_premises": ["full accepted R9 and R10 bodies; no fresh authority audit", "narrow R13/R14/R16 quotations only"],
+  "external_sources": [
+    {
+      "id": "O1",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2021-paper-b.pdf",
+      "read_scope": "page2 B4 setup and part(b); preliminary conclusion identification only",
+      "binary_sha256": null,
+      "retrieval": "public web PDF text; no download/cache write"
+    },
+    {
+      "id": "L1",
+      "url": "https://arxiv.org/pdf/1806.09561",
+      "version": "v6 2023-08-25",
+      "author": "Cesar Massri",
+      "title": "The Casas-Alvero conjecture for three recycled roots in degree20",
+      "operative_scope_ENTIREread": "Proposition7.7 proof and Remark7.8",
+      "additional_context_read": "intro and displayed AG identities; section5 indicated normal-form/finite-moduli proofs; section6 operative passages; section7 indicated lemmas and computational theorem proof statement, not program replay",
+      "role": "attribution of published common-value separation; not an external indispensable proof premise because main supplies dyadic proof",
+      "not_claimed": "full-paper or source-program audit; new general separation theorem; four-value classification",
+      "binary_sha256": null,
+      "retrieval": "public original arXiv PDF text; no download/cache write"
+    },
+    {
+      "id": "L2",
+      "url": "https://arxiv.org/pdf/1208.5404",
+      "authors": "Wouter Castryck, Robert Laterveer, Myriam Ounaies",
+      "operative_scope_ENTIREread": "actual normalized p+1 passage in section3.4; Proposition19 proof and following unramified-field remark",
+      "role": "source boundary: ALL-root/unramified hypotheses not met; no conclusion imported",
+      "not_claimed": "full23page audit or finite computations or old2011 correction proof reconstruction",
+      "binary_sha256": null,
+      "retrieval": "public author preprint PDF text; no download/cache write"
+    }
+  ],
+  "classical_local_steps_self_contained": ["actual witness coefficient recursion", "binary Frobenius identities", "monic division and root integrality", "coprime factor lift over complete Z2", "quadratic half-integral valuation and irreducibility"],
+  "no_NEW_R19_peer_material_access": true,
+  "no_future_BT_author_or_peer_packet_access": true,
+  "no_mathematical_program_CAS_scan_author_source_or_old_certificate_replay": true,
+  "native_external_math_PID": null,
+  "pending_approval_or_tool_stall": false,
+  "no_charge_contact_or_access_bypass": true
+}

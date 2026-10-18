@@ -1,5 +1,14 @@
 # 2019 B4 independent reviews
 
+2026-10-18 current: [BT1–BT4](reasoning-cut-transfer-r5-acceptance.md)
+accepted after root/A TWO OTHER initially blind ENTIRE WHOLE56/56 audits
+and full112 reconciliation. B constructor excluded;zero substantive
+defects/repairs,eight root/seven A closed notes. Fixed-end uniform tails,
+specified input-collision mean/tail/moment,exact size bias,conditional
+critical residual necessity and one guarded-separator limitation only.
+Uncontrolled residual U,actual regime,exact value and annual answer open.
+
+
 2026-10-18: [CT1–CT4](reasoning-cut-transfer-r4-acceptance.md) accepted after root/B OTHER ENTIRE WHOLE64/64 audits and full reconciliation; C constructor excluded. Operative [v1.2](../proofs/reviewed-reasoning-cut-transfer-r4-v1.2.md) has the [coordinator-only transcription erratum](reasoning-cut-transfer-r4-presentation-erratum-v1.md), preserving unchanged candidate/audits. Fixed-range mass rarity and pointwise bridge/separator obstructions; high-cut mass, exact value and annual answer open.
 
 2026-10-18 current: [CN1–CN3](reasoning-cut-number-r3-acceptance.md)

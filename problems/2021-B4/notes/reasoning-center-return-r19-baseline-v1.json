@@ -1,0 +1,272 @@
+{
+  "created_at_utc": "2026-10-18T13:30:10.108852+00:00",
+  "status": "candidate proof - unverified",
+  "role": "NEW R19 constructor, excluded from its independent reviews",
+  "direct_current_inputs": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2021-B4/statement.md",
+      "bytes": 1745,
+      "sha256": "5cd9750a2458191370590120fb4ae7d547740784eb1de38ee9e2e7890a2fabed"
+    },
+    {
+      "path": "problems/2021-B4/proofs/reviewed-reasoning-center-return-r18-v1.1.md",
+      "bytes": 26067,
+      "sha256": "f26de3a17895354408e514d6a0b0066715a1c0f0234d494fd53485ea3feb8284"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-center-return-r18-acceptance.md",
+      "bytes": 4541,
+      "sha256": "3b291249452982f01ea08741ec0f5ed1d65e279f7e33110971132d70bfef4bb0"
+    },
+    {
+      "path": "problems/2021-B4/proofs/reviewed-reasoning-center-return-r17-v1.1.md",
+      "bytes": 23107,
+      "sha256": "8c8daa274ea6dcf95e25249e215b09646c3473c4ccd6320302a364b0af5b7797"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-center-return-r17-acceptance.md",
+      "bytes": 4913,
+      "sha256": "e7631ce23b73b201c7628a47512d59a2316b8cdb25e5e509d0836909dee8e402"
+    },
+    {
+      "path": "problems/2021-B4/proofs/reviewed-reasoning-return-r8-v1.1.md",
+      "bytes": 19921,
+      "sha256": "33b8713d402d09f711d0096cdc4e8c00f9e622a5335f8e3345eb4f82ba0d359d"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r8-acceptance.md",
+      "bytes": 3060,
+      "sha256": "f2cc3d55b82abd08e3294811ed1ae44a7b2ee23ef18e0e158d12b468165c4fd0"
+    },
+    {
+      "path": "problems/2021-B4/proofs/reviewed-reasoning-return-r5-v1.1.md",
+      "bytes": 23675,
+      "sha256": "f4f088adc133b0581520488cdbba30082c13b2402c96ae555142e5491ad4137d"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r5-acceptance.md",
+      "bytes": 3915,
+      "sha256": "6f2bd751c5b2c790d63f7fad3cb6f686057d9943c48689272723e481f01fa477"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-center-return-r18-failures-v1.md",
+      "bytes": 3149,
+      "sha256": "02e79d65cfaa428209faf715940dcda111bc3d4f924c20c9b4730ce0d88b6636"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-center-return-r18-sources-v1.md",
+      "bytes": 4727,
+      "sha256": "2730bc7661cda1a857b39a2b5a5fa569823123355c14c33a0a13fb799826302f"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-center-return-r17-failures-v1.md",
+      "bytes": 2943,
+      "sha256": "0e53dc2259d402cec66c38ea98754f029b49a1f1a7c0ec499fc806e4841e1501"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r8-failed-routes-v1.md",
+      "bytes": 3800,
+      "sha256": "55ed01d1ca9a721da686aa693a26dc92f14539a93f863d64d7f35c9833644bb4"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-center-return-r18-acceptance.json",
+      "bytes": 4723,
+      "sha256": "4c8245de57e0e7a00efc685014c8af85efe788d3c75ff3431283f211b567abe7"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-center-return-r18-freeze-v1.json",
+      "bytes": 8034,
+      "sha256": "14a572167f6ea76658d87a61c951b94f111adc437555f7388b7b0cf47b2829be"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-center-return-r18-baseline-v1.json",
+      "bytes": 5053,
+      "sha256": "af48f1b9ab1b0c07510394e3101748f4d19fc947ba7b9319408e51b2f3233052"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-center-return-r17-acceptance.json",
+      "bytes": 4448,
+      "sha256": "66aca15579c83b979bf58c18bcc5c5f7ff002e53c36eb9cfe8d93f67b38a0e0a"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r8-acceptance.json",
+      "bytes": 2507,
+      "sha256": "b5ca7a381393061192beceb0b34b8222c6ae249f1edc3383ac316786c7cd3ef0"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r5-acceptance.json",
+      "bytes": 3373,
+      "sha256": "93a204890e6d387a22d89565dbee9ee970c1b80af59f79cbc983d3ba4de6defe"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-diagonal-return-r5-review-2-manifest-v1.json",
+      "bytes": 3715,
+      "sha256": "744aae75d784d13433292a1656d8ce4935e70549f42b2f412a73766ab5f83e97"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-diagonal-return-r5-review-2-baseline-v1.json",
+      "bytes": 16543,
+      "sha256": "5d8e92a733b57c460ddec2d1658ecd5c55ef2fae0a6550edbafe8f004e2e9e2c"
+    }
+  ],
+  "compact_parent_bindings": [
+    {
+      "immutable_parent": {
+        "path": "problems/2021-B4/reviews/reasoning-center-return-r18-acceptance.json",
+        "bytes": 4723,
+        "sha256": "4c8245de57e0e7a00efc685014c8af85efe788d3c75ff3431283f211b567abe7"
+      },
+      "parent_declared_occurrences": 17,
+      "current_immutable_declared_occurrences_checked": 17,
+      "current_immutable_declared_unique_paths_checked": 17,
+      "current_immutable_declared_canonical_sha256": "7bd4cee519e488638433ceef5570707713aa806701d6e45ccc1442f70d2704dc",
+      "historical_coordinator_mutable_declarations": [],
+      "parent_historical_summary_not_fresh_recursive_model_read": {
+        "record_occurrences_verified": 201,
+        "unique_paths_verified": 85
+      }
+    },
+    {
+      "immutable_parent": {
+        "path": "problems/2021-B4/notes/reasoning-center-return-r18-freeze-v1.json",
+        "bytes": 8034,
+        "sha256": "14a572167f6ea76658d87a61c951b94f111adc437555f7388b7b0cf47b2829be"
+      },
+      "parent_declared_occurrences": 31,
+      "current_immutable_declared_occurrences_checked": 31,
+      "current_immutable_declared_unique_paths_checked": 26,
+      "current_immutable_declared_canonical_sha256": "2092bbacd63cfb8572500512d3490baf4100a47f5ea5c153bf0e98e568af8ef2",
+      "historical_coordinator_mutable_declarations": [],
+      "parent_historical_summary_not_fresh_recursive_model_read": {}
+    },
+    {
+      "immutable_parent": {
+        "path": "problems/2021-B4/notes/reasoning-center-return-r18-baseline-v1.json",
+        "bytes": 5053,
+        "sha256": "af48f1b9ab1b0c07510394e3101748f4d19fc947ba7b9319408e51b2f3233052"
+      },
+      "parent_declared_occurrences": 18,
+      "current_immutable_declared_occurrences_checked": 18,
+      "current_immutable_declared_unique_paths_checked": 13,
+      "current_immutable_declared_canonical_sha256": "a74f9cb25029ac39ee97a9b10a0fd0837b8e3b0d0ad3ae20e79f5c49dabea7ba",
+      "historical_coordinator_mutable_declarations": [],
+      "parent_historical_summary_not_fresh_recursive_model_read": {}
+    },
+    {
+      "immutable_parent": {
+        "path": "problems/2021-B4/reviews/reasoning-center-return-r17-acceptance.json",
+        "bytes": 4448,
+        "sha256": "66aca15579c83b979bf58c18bcc5c5f7ff002e53c36eb9cfe8d93f67b38a0e0a"
+      },
+      "parent_declared_occurrences": 16,
+      "current_immutable_declared_occurrences_checked": 16,
+      "current_immutable_declared_unique_paths_checked": 16,
+      "current_immutable_declared_canonical_sha256": "522ce2dfd5aeec1cada4711afd6f9668d7b8066f7fb7d9194107124a5cd425f1",
+      "historical_coordinator_mutable_declarations": [],
+      "parent_historical_summary_not_fresh_recursive_model_read": {
+        "record_occurrences_verified": 256,
+        "unique_paths_verified": 87
+      }
+    },
+    {
+      "immutable_parent": {
+        "path": "problems/2021-B4/reviews/reasoning-return-r8-acceptance.json",
+        "bytes": 2507,
+        "sha256": "b5ca7a381393061192beceb0b34b8222c6ae249f1edc3383ac316786c7cd3ef0"
+      },
+      "parent_declared_occurrences": 9,
+      "current_immutable_declared_occurrences_checked": 9,
+      "current_immutable_declared_unique_paths_checked": 9,
+      "current_immutable_declared_canonical_sha256": "24f436f3746b4bb8e477f25088a37931e42327292cbd1a5a223d848bb80687cd",
+      "historical_coordinator_mutable_declarations": [],
+      "parent_historical_summary_not_fresh_recursive_model_read": {
+        "record_occurrences_verified": 1335,
+        "unique_paths_verified": 792
+      }
+    },
+    {
+      "immutable_parent": {
+        "path": "problems/2021-B4/reviews/reasoning-return-r5-acceptance.json",
+        "bytes": 3373,
+        "sha256": "93a204890e6d387a22d89565dbee9ee970c1b80af59f79cbc983d3ba4de6defe"
+      },
+      "parent_declared_occurrences": 9,
+      "current_immutable_declared_occurrences_checked": 9,
+      "current_immutable_declared_unique_paths_checked": 9,
+      "current_immutable_declared_canonical_sha256": "45a029329d0b7db92a21b4cae6f4b7dc82541a3f68dc2a8eb889734582c0a504",
+      "historical_coordinator_mutable_declarations": [],
+      "parent_historical_summary_not_fresh_recursive_model_read": {
+        "record_occurrences_verified": 1466,
+        "unique_paths_verified": 689
+      }
+    },
+    {
+      "immutable_parent": {
+        "path": "problems/2025-B4/reviews/reasoning-diagonal-return-r5-review-2-manifest-v1.json",
+        "bytes": 3715,
+        "sha256": "744aae75d784d13433292a1656d8ce4935e70549f42b2f412a73766ab5f83e97"
+      },
+      "parent_declared_occurrences": 13,
+      "current_immutable_declared_occurrences_checked": 13,
+      "current_immutable_declared_unique_paths_checked": 12,
+      "current_immutable_declared_canonical_sha256": "d2586c2ce6caaa97a958a6196aaf3e6ff7286518b2a36e1effa5fb1422c30b20",
+      "historical_coordinator_mutable_declarations": [],
+      "parent_historical_summary_not_fresh_recursive_model_read": {
+        "protected_current_occurrences": 57,
+        "protected_current_unique_paths": 57,
+        "canonical_deduplicated_sha256": "bc955f17611c7e7369a9efb62ddc03db181b68b5bddcb5201e097e240f475570"
+      }
+    },
+    {
+      "immutable_parent": {
+        "path": "problems/2025-B4/reviews/reasoning-diagonal-return-r5-review-2-baseline-v1.json",
+        "bytes": 16543,
+        "sha256": "5d8e92a733b57c460ddec2d1658ecd5c55ef2fae0a6550edbafe8f004e2e9e2c"
+      },
+      "parent_declared_occurrences": 71,
+      "current_immutable_declared_occurrences_checked": 70,
+      "current_immutable_declared_unique_paths_checked": 56,
+      "current_immutable_declared_canonical_sha256": "3c551f241e5882d7688bcb401a1404348e13e2dc0560f509d00daee05d5144c3",
+      "historical_coordinator_mutable_declarations": [
+        {
+          "path": "problems/2025-B4/research.md",
+          "bytes": 12141,
+          "sha256": "6163d6abb9aba330d86658641dc1030416db87d6f9a49e365ff96851a0177d4e"
+        }
+      ],
+      "parent_historical_summary_not_fresh_recursive_model_read": {
+        "protected_current_occurrences": 57,
+        "protected_current_unique_paths": 57,
+        "canonical_deduplicated_sha256": "bc955f17611c7e7369a9efb62ddc03db181b68b5bddcb5201e097e240f475570"
+      }
+    }
+  ],
+  "historical_mutable_observations_at_prepare": [
+    {
+      "parent": "problems/2025-B4/reviews/reasoning-diagonal-return-r5-review-2-baseline-v1.json",
+      "declared": {
+        "path": "problems/2025-B4/research.md",
+        "bytes": 12141,
+        "sha256": "6163d6abb9aba330d86658641dc1030416db87d6f9a49e365ff96851a0177d4e"
+      },
+      "observed_current": {
+        "path": "problems/2025-B4/research.md",
+        "bytes": 12899,
+        "sha256": "72832eef8622562a9ee6c548d58ffb9d9f3366f23cfb964e660925ff61b99aa3"
+      },
+      "matches_historical_snapshot": false,
+      "not_a_current_proof_premise": true
+    }
+  ],
+  "protected_current_occurrences": 205,
+  "protected_current_unique_paths": 131,
+  "canonical_deduplicated_sha256": "783e7de0f846c6f0fd91a3f3bfb0b7f3a564968f805efb6a244ad6805e9bad34",
+  "recipe": "Verify each immutable parent first, then its immutable path/bytes/sha256 records recursively within JSON objects, without recursively opening referenced historical metadata; combine with direct_current_inputs. Root-owned research/README/progress/source status snapshots are observed and retained separately, not asserted unchanged or used as current premises. Parent historical inventories stay in their immutable files.",
+  "no_NEW_R19_peer_or_future_BT_author_peer_access": true,
+  "fingerprint_validation_is_not_mathematical_model_reading": true
+}

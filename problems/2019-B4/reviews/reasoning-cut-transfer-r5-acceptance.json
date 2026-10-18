@@ -1,0 +1,115 @@
+{
+  "accepted_at_utc": "2026-10-18T13:48:27.030616+00:00",
+  "status": "proved, independently reviewed scoped partial result",
+  "whole_initials_blind": true,
+  "root_read_full_candidate_both_reports_all_ledgers_sources": true,
+  "unresolved_substantive_issues": 0,
+  "repair_required": false,
+  "candidate": {
+    "path": "problems/2019-B4/notes/reasoning-cut-transfer-r5-candidate-v1.md",
+    "bytes": 21608,
+    "sha256": "649e94c8a6f4a19a008b39af1d27b5badbf78ba1052bc6d31b181d6afa26b435"
+  },
+  "accepted_copy": {
+    "path": "problems/2019-B4/proofs/reviewed-reasoning-cut-transfer-r5-v1.1.md",
+    "bytes": 27574,
+    "sha256": "ace50694e1a314430dbe146dedd7cd9a6aed9d2f77c5d96d3a44a4c9b5d0ada7"
+  },
+  "verification_metadata": [
+    {
+      "path": "problems/2019-B4/notes/reasoning-cut-transfer-r5-freeze-v1.json",
+      "bytes": 8902,
+      "sha256": "52f8a794c3d82d3803a6b9700496cac2dff4b81a84e3f6c935b1bb9fbe107896"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-cut-transfer-r5-baseline-v1.json",
+      "bytes": 13353,
+      "sha256": "527d6083dfa59049a0f2bc9f2db3f4db14cc7b7799ee28937b16b8c7e72fcfd5"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-cut-transfer-r5-input-validation-v1.json",
+      "bytes": 557,
+      "sha256": "7e621d609c97ab2eccfd0073f992e8d7748209fd20c8802bfe1109de952cd1fb"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-cut-transfer-r5-review-1-manifest-v1.json",
+      "bytes": 2699,
+      "sha256": "36ad8d0587e31db0a4cbf384faf798acc186a3fe97ccaac961018001b033b56d"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-cut-transfer-r5-review-1-baseline-v1.json",
+      "bytes": 8630,
+      "sha256": "e188f1de3ca209a45424a8b1bafc7f81d38e3cd03324c77b4c36ba1181746a11"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-cut-transfer-r5-review-1-input-validation-v1.json",
+      "bytes": 357,
+      "sha256": "5b40fad7583c438655b2fae974dfb50974c4ff29c8c46be465ad4ac9cdfa2ad3"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-cut-transfer-r5-review-1-metadata-v1.json",
+      "bytes": 726,
+      "sha256": "edb3022bae2d8fa70e5e8182da1616ffc80107c9b8ea0c7a4887cd918d5facb1"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-cut-transfer-r5-review-1-sources-v1.json",
+      "bytes": 1203,
+      "sha256": "312029dfcfa1a95f5ab0e17a74d3da84f8fad3c4afb01c4ff40dc66648014b27"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-cut-transfer-r5-review-2-manifest-v1.json",
+      "bytes": 3646,
+      "sha256": "d7cf91221d3fab1ae0caf576bed97c1d06f70ccb47b5bd16a77c115d340e9e99"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-cut-transfer-r5-review-2-baseline-v1.json",
+      "bytes": 10955,
+      "sha256": "9f31a6975acec6968eb8b183bd1298065e301adc2d6f89bceb7f1f69652ddb90"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-cut-transfer-r5-review-2-input-validation-v1.json",
+      "bytes": 496,
+      "sha256": "0ca01466408c25f4a84a3ae686d77d2790f2c5e18439e7c2952b2d3ae2291824"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-cut-transfer-r5-review-2-metadata-v1.json",
+      "bytes": 1509,
+      "sha256": "55f25f1ed891199e5188f3f1a1841d2b6cfea724ff447d9ac5c2fb5b44172364"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-cut-transfer-r5-review-2-sources-v1.json",
+      "bytes": 2750,
+      "sha256": "7e375ba990df0e840cb49e5e88cb2b8795a0ddd05395430fd6b8dfc0a5c4c74c"
+    }
+  ],
+  "record_occurrences_verified": 183,
+  "unique_paths_verified": 75,
+  "claims": [
+    "BT1",
+    "BT2",
+    "BT3",
+    "BT4"
+  ],
+  "constructor": "/root/review_2022_complexity_r2",
+  "constructor_excluded": true,
+  "OTHER_whole_reviewers": [
+    "/root",
+    "/root/review_2021_reasoning_j15_r2"
+  ],
+  "whole_obligations": 56,
+  "whole_checks": [
+    56,
+    56
+  ],
+  "root_read_ENTIRE_both_reports_ALL_ledgers_issues_sources_logs_code_ALLmetadata": true,
+  "BOTH_ENTIRE_before_corresponding_NEW_peer_material": true,
+  "closed_notes_root": 8,
+  "closed_notes_A": 7,
+  "fixed_one_end_actual_context_law": true,
+  "contact_subset_mean_bound": 112448,
+  "uncontrolled_residual_U": true,
+  "critical_asymptotics_conditional_only": true,
+  "particular_guarded_separator_only": true,
+  "actual_regime_exact_value_ordinary_ratios_annual_priority_external_validation_claim": false,
+  "no_mathematical_computation": true
+}

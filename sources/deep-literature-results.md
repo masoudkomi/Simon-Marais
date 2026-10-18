@@ -1,5 +1,14 @@
 # Deeper literature: results, attribution and mathematical consequences
 
+Later dated addition2026-10-18: accepted2019BT uses
+[Arratia–Goldstein–Kochman,Size bias for one and all](https://arxiv.org/pdf/1308.2729)
+for classical terminology;the finite input/output law is proved directly.
+Only operative definitions/finite identities were inspected,not the whole
+57-page survey or concentration/renewal theorems. It supplies no missing
+residual collision bound. [Exact accepted source limits](../problems/2019-B4/reviews/reasoning-cut-transfer-r5-acceptance.md).
+Other dated source scopes below remain historical.
+
+
 Checked through2026-10-16 UTC. This is a dated synthesis of the full per-year
 reports and source/search manifests. A failed search does not establish
 absence of prior work. A preprint claim is distinguished from a verified

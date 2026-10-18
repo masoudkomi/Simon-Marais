@@ -1,0 +1,74 @@
+{
+  "checked_on_utc_date": "2026-10-18",
+  "status": "candidate proof - unverified",
+  "source_download_or_cache_write": false,
+  "local_retrieval_hash_asserted_for_web_PDF": false,
+  "records": [
+    {
+      "id": "OFFICIAL",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc2024_paper_b.pdf",
+      "read": "B4 returned lines57-74 and full local statement",
+      "role": "official odd-positive coefficientwise part(b) domain only"
+    },
+    {
+      "id": "KASAMI-APN",
+      "authors": ["Claude Carlet", "Kwang Ho Kim", "Sihem Mesnager"],
+      "title": "A direct proof of APN-ness of the Kasami functions",
+      "url": "https://arxiv.org/pdf/2002.00050",
+      "version": "v1, 2020-01-31",
+      "PDF_pages": 10,
+      "returned_lines_read": "0-1089 ENTIRE",
+      "operative_proof_lines": ["542-765", "766-784 first complete even-dimensional proof"],
+      "exact_import_location": "MAIN0 and MAIN5",
+      "standing_hypothesis_checked": "gcd(exponent parameter, field degree)=1",
+      "external_dependencies": ["Lemma4 root-count/parametrization", "Lemma5 MCM permutation"],
+      "underlying_original_lemma_proofs_freshly_read": false,
+      "later_alternate_even_discussion_used": false,
+      "claim_is_published_not_new": true
+    },
+    {
+      "id": "FULTON",
+      "author": "William Fulton",
+      "title": "Algebraic Curves",
+      "url": "https://math.stanford.edu/~conrad/145Page/handouts/algcurves.pdf",
+      "PDF_pages": 129,
+      "operative_full_reads": ["3.3 theorem/proof/properties1-7, lines2419-2624", "5.3 ENTIRE Bezout proof, lines3829-3924", "AppendixA lines7557-7597"],
+      "hypotheses": ["algebraically closed field", "no common component for Bezout", "coprime tangent cones for local equality", "unit case treated separately"],
+      "characteristic_two_valid": true,
+      "whole_book_fresh_read_claimed": false,
+      "characteristic_zero_Hessian_used": false
+    },
+    {
+      "id": "HM-CONTEXT",
+      "authors": ["Fernando Hernando", "Gary McGuire"],
+      "url": "https://arxiv.org/pdf/0903.2016v4",
+      "PDF_pages": 19,
+      "read": "definitions/local germs, ENTIRE Lemmas4-9/classification, Section4 and returned Section5 contexts through Theorems13-15",
+      "whole_paper_fresh_read_claimed": false,
+      "operative_new_proof_premise": false,
+      "component_theorem_upgraded_to_whole": false,
+      "original_JW1993_body_read_claimed": false
+    },
+    {
+      "id": "LOCAL-ACCEPTED",
+      "bindings": "baseline-v1.json",
+      "complete_bodies_read": ["accepted structural T1-T4", "accepted R6", "accepted R4", "corrected accepted R5 AUTHORv2", "accepted three-bit r2", "accepted generalized Kasami"],
+      "current_authorities_read": ["structural MDJSON", "R6 MDJSON", "R4 MDJSON", "R5 MDJSON", "three-bit r2 MDJSON"],
+      "operative": ["T1 no absolute line", "R6B reducedness, also fully restated"],
+      "old_C_R6_constructor_not_independent_recertification": true,
+      "IC_whole_body_fresh_read_claimed": false,
+      "IC_theorem_used": false
+    },
+    {
+      "id": "FERARD-UNREAD",
+      "DOI": "10.1007/s12095-017-0213-1",
+      "HAL": "hal-03417811",
+      "operative_body_read": false,
+      "theorem_import": false,
+      "published_overlap_or_priority_established": false
+    }
+  ],
+  "primary_discovery_only_not_imported": ["new2026 Kasami result", "search snippets and abstracts", "unread original underlying Lemma4/5 proofs"],
+  "new_mathematical_computation": false,
+  "pending_tool_or_approval": false
+}

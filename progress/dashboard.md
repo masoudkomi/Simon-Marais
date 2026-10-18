@@ -1,5 +1,17 @@
 # Research dashboard
 
+Current continuing checkpoint23:51Brisbane18October2026:
+[2019 BT accepted](../problems/2019-B4/reviews/reasoning-cut-transfer-r5-acceptance.md)
+after BOTH OTHER ENTIRE WHOLE56/56 audits/full112 reconciliation.
+Fixed-end/input-collision progress;residual U/regime/value open.
+NEW2017PM9,2020R14,2021R19,2024R7 entire authors remain UNVERIFIED,
+two OTHER whole audits active/queued. Root R19whole1 complete/embargo;
+PM9 Cwhole1 complete/embargo.39%TOTAL direct13:48:59UTC/same authorized
+1792874445window through90/reserve. Two annual answers/seven unresolved.
+Next ACTUALhourly14:27:30UTC. [Checkpoint](checkpoint-2026-10-18-2351.md).
+Historical23:27 table correction:2024 R6 uses(Q−1)Q^k+1,not(Q+1)Q^k+1.
+
+
 CURRENT23:27Brisbane18October2026:[ACTUALhourly](status-2026-10-18-2327.md).
 38%TOTAL/currentauthorized1792874445onlythrough90/reserve.
 PM8/D6/R6/RD accepted exactscopes after TWO OTHER ENTIREwholeaudits/fullreconciliation.

@@ -1,0 +1,50 @@
+{
+  "date_utc": "2026-10-18",
+  "reviewer": "/root/review_2021_reasoning_j15_r2",
+  "role": "OTHER initially blind ENTIRE WHOLE BT review2",
+  "constructor_contribution_to_NEW_BT": false,
+  "old_roles": "accepted R7/CN constructor; old CR/G and other2019 whole reviewer; not fresh self-recertification",
+  "requested_settings": {"model": "gpt-6.1-sol", "reasoning": "max", "inherited": true},
+  "independently_verified_effective_settings": null,
+  "ALL11_constructor_files_FULLread": true,
+  "whole_obligations": 56,
+  "accepted_bodies_FULLread": [
+    "problems/2019-B4/proofs/reviewed-reasoning-cut-transfer-r4-v1.2.md",
+    "problems/2019-B4/proofs/reviewed-reasoning-critical-return-r2-v1.1.md",
+    "problems/2019-B4/proofs/reviewed-reasoning-return-r7-v1.1.md",
+    "problems/2019-B4/proofs/reviewed-reasoning-cut-number-r3-v1.1.md",
+    "problems/2019-B4/proofs/reviewed-reasoning-growth-return-r1-v1.1.md"
+  ],
+  "all_five_current_MDJSON_authorities_FULLread": true,
+  "CT_presentation_erratum_MDJSON_FULLread": true,
+  "capped_accepted_outputs_recovered": ["CR lines75-360 and360-490 plus returned ending", "CN lines255-end"],
+  "canonical_historical_source_not_claimed_fresh_FULLread": true,
+  "primary": [
+    {
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2019-paper-b_1.pdf",
+      "scope": "B4 setup and(b), page2 lines63-73 and81-87; incidental preliminary text not researched",
+      "binary_sha256": null
+    },
+    {
+      "url": "https://arxiv.org/pdf/1308.2729",
+      "authors": "Richard Arratia, Larry Goldstein, Fred Kochman",
+      "title": "Size bias for one and all",
+      "version": "v3 2018-09-26, manuscript2018-09-07",
+      "scope": "title/version; operative sections2.1-2.2 definitions and finite expectation identities, lines88-199",
+      "hypotheses": "nonnegative variable with positive finite mean; actual k is positive bounded at each n,m",
+      "role": "classical terminology only; every finite formula reconstructed directly",
+      "not_imported": "concentration, renewal, coupling, tightness, full57page proof or tape-model theorem",
+      "binary_sha256": null
+    }
+  ],
+  "no_NEW_corresponding_root_BT_finding_file_hash_or_metadata_access": true,
+  "root_counts_times_only_messages_received": true,
+  "no_root_thread_or_user_commentary_lookup": true,
+  "initial_findings_embargo_until_explicit_BOTH_ENTIRE_confirmation": true,
+  "no_mathematical_program_CAS_scan_test_optimizer_author_source_or_old_replay": true,
+  "code_read_but_not_executed": "constructor metadata Python source",
+  "NEW_code_only_metadata_administration": true,
+  "native_math_PID": null,
+  "pending_approval_or_tool_stall": false,
+  "no_old_shared_cache_Git_write_spawn_charge_contact_or_bypass": true
+}

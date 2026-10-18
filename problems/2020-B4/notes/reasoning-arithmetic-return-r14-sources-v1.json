@@ -1,0 +1,107 @@
+{
+  "date_utc": "2026-10-18",
+  "status": "candidate proof - unverified",
+  "claims": [
+    "SQ14A",
+    "SQ14B",
+    "SQ14C",
+    "SQ14D",
+    "SQ14E"
+  ],
+  "whole_obligations": 64,
+  "constructor": "/root/review_2022_complexity_r2",
+  "constructor_excluded": true,
+  "OTHER_entire_whole_audits_required": 2,
+  "root_NEW_construction_inference": false,
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independent_effective_readback": null,
+  "official_scope": "2020 B4(b) only; q>=2, p=Phi3(q) PRIME; actual T-stability explicit",
+  "older_B_roles": "R4/R5/R7/R8/A11/TD/L13 constructor; A9 and other accepted reviews; no fresh independent self-recertification",
+  "complete_current_accepted_bodies_and_MDJSON_read": [
+    "L13",
+    "TD1--TD5",
+    "A9A--F"
+  ],
+  "operative_imports": [
+    "TD1 canonical rho with SAME-ideal integral generator iff and retained Gamma",
+    "A9A published proper nonsquare norm bound",
+    "A9F elementary cube-root gap; also reproduced"
+  ],
+  "new_proof_self_contained": [
+    "square lift and exact zero defect",
+    "integer orbit moments",
+    "squared-unit correction on I^2",
+    "low ordinary principality and actual box separation",
+    "specified ideal orders and small-least-prime application"
+  ],
+  "primary": [
+    {
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2020-paper-b_1.pdf",
+      "actual_read": "B4 setup/(b)98--105; adjacent preliminary/other text incidental only",
+      "browser_raw_byte_sha256": null
+    },
+    {
+      "url": "https://personal.ntu.edu.sg/bernhard/Publications/pub/BentFunctions.pdf",
+      "actual_read": "COMPLETE Theorems22/23 statements and proofs1131--1267; returned984--1130 and through1317 context",
+      "operative": "only published nonsquare bound via fully read accepted A9 prime-case proof",
+      "not_claimed": "full41-page proof/CFT/reference chain audit",
+      "browser_raw_byte_sha256": null
+    },
+    {
+      "url": "https://personal.ntu.edu.sg/bernhard/Publications/pub/UniqueDiffWeighing.pdf",
+      "actual_read": "definitions/introduction0--130;181--228;256--261;returned excerpts343--689 with gaps;690--726;904--909; complete Lemma17 and Theorem18 general-integer statement",
+      "operative_theorem_import": false,
+      "not_claimed": "full Theorem13/18 proof or determinant chain",
+      "browser_raw_byte_sha256": null
+    },
+    {
+      "url": "https://personal.ntu.edu.sg/bernhard/Publications/pub/weighing.pdf",
+      "actual_read": "introduction/definitions/Theorem2.4 beginning0--126",
+      "operative_theorem_import": false,
+      "browser_raw_byte_sha256": null
+    },
+    {
+      "url": "https://personal.ntu.edu.sg/bernhard/Publications/pub/UniqueDifferences1.pdf",
+      "actual_read": "COMPLETE Section7 including Theorem7.2 proof618--833; returned481--617 context",
+      "operative_theorem_import": false,
+      "hypotheses_not_suppressed": "prime-power norm, EVEN order, large-conductor conditions",
+      "browser_raw_byte_sha256": null
+    },
+    {
+      "url": "https://personal.ntu.edu.sg/bernhard/Publications/pub/class.pdf",
+      "actual_read": "encoded text only; screenshot responses provided no visible mathematical images",
+      "operative_theorem_import": false,
+      "proof_unread": true,
+      "browser_raw_byte_sha256": null
+    },
+    {
+      "url": "https://personal.ntu.edu.sg/bernhard/Publications/pub/p_ranks.pdf",
+      "actual_read": "title/introduction/preliminaries/fixing-problem beginning0--182 only",
+      "operative_theorem_import": false,
+      "browser_raw_byte_sha256": null
+    }
+  ],
+  "no_mathematical_program_CAS_scan_test_optimizer_source_author_or_old_replay": true,
+  "NEW_metadata_only_code": true,
+  "no_NEW_BT_peer_findings_files_hash_metadata_or_inflight_PM9_draft_access": true,
+  "no_Git_shared_old_cache_write_spawn_charge_contact_bypass": true,
+  "authoritative_weekly_telemetry": {
+    "observed_at_utc": "2026-10-18 13:33:56 UTC",
+    "method": "direct clock/get_usage_limits same awaited independent batch",
+    "TOTAL_used_percent": 38,
+    "window_minutes": 10080,
+    "reset_unix": 1792874445,
+    "ordinary_usage_allowed": true,
+    "legacy_by_limit_agree": true,
+    "account_label": "029a8928...1334ac3a",
+    "human_authorized_current_window_only": true,
+    "TOTAL_ceiling_percent": 90,
+    "integration_reserve": true,
+    "automatic_later_window_spending": false
+  }
+}
+

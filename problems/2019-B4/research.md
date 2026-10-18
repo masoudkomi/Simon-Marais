@@ -66,6 +66,20 @@ The [operative v1.2](proofs/reviewed-reasoning-cut-transfer-r4-v1.2.md)
 corrects only the coordinator header token t0=10; candidate and both
 audits are unchanged, as the preserved erratum records.
 
+The newly accepted [BT1–BT4](reviews/reasoning-cut-transfer-r5-acceptance.md)
+passed root/A TWO OTHER initially blind ENTIRE WHOLE56/56 audits and
+complete112-disposition reconciliation. At a specified tape end, long
+range≤3,range≤1 and constant pieces have length-exponential tails
+uniform in total input size. Under independent actual inputs, the tested
+collision class has mean≤112448 and a uniform exponential moment.
+Exact composition is size-biased; criticality would force the remaining
+unconfined contacts to diverge in probability, with a sharper necessary
+quantile bound if critical mean is finite. These conditions do not choose
+the actual regime or bound that residual. A particular separator still
+has unbounded fibres even after bounded end observations. Exactlambda,
+ordinary ratios and full high-cut mass remain open;the enclosure is
+unchanged. No priority or external validation claim.
+
 ## Coordinator third-pass acceptance
 
 The bounded-separation hierarchy, legal-envelope identification with actual minimal obstructions, entropy convergence, exact cap3 grammar and strict upperlambda<1.834856083 are **proved, independently reviewed partial results**. Both fresh initially blind reviewers reconstructed the whole argument and independently checked every cap7 transition and all11662 integer-vector inequalities. See proofs/reviewed-thirdpass-v1.1.md and reviews/thirdpass-acceptance.md/json. Combined with the earlier accepted lower bound,1.76521<lambda<1.834856083. Exactlambda/fullgeneratingfunction/novelty remain unresolved. No larger enumeration is substituted for the remaining proof problem.
