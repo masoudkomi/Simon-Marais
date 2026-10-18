@@ -200,3 +200,6 @@ New2017R7/2019G/2024FP accepted scoped;2024FS/2025RS unverified.
 
 
 2026-10-18 07:53:31UTC:15%TOTAL current authorized weeklyreset1792874445, ordinaryallowed/viewsagree;75ppbefore90withreserve,noautomaticlaterwindow.2024FSacceptedscoped;2025RSauditsactive/2020R11research/rootlargerfamilyresearch. Nexthourly/ownedawake08:27:36UTC. Rawtokenlateststill07:45:20UTC,notcurrentbilling.
+
+
+2026-10-18 08:06:51UTC:16%TOTAL authorized reset1792874445, ordinaryallowed/viewsagree. Raw08:13:49 total1821260155,cached1726110848,output13314057,reasoning5706024,uncached+output95149307; notbilling/quotaconversion.2025RSacceptedexactscopes;2020R11secondOTHERwholeactive,2019/2022actualresearchcontinue. Nexthourly/ownedawake08:27:36UTC.

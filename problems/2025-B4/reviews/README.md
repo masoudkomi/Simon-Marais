@@ -9,3 +9,6 @@ The unrestricted classification remains conjectural. Both primary-source audits 
 
 
 2026-10-18: [Original R9A–F repaired version1.1](reasoning-return-r9-acceptance.md) accepted after both OTHER original whole48-row and affected whole56-row audits/full reconciliation. Radius issue resolved; chosen-generator quantifier explicit. Original root ledger44 stronger ideal-level reading is NOT promoted. Both dense evaluation branches remain; no useful unconditional exclusion/height or annualclaim.
+
+
+2026-10-18: [RS1–RS4 accepted](reasoning-Runge-return-r2-acceptance.md) after A/C TWO OTHER initially blind ENTIRE WHOLE60/60 audits and full root reconciliation. Root/B contributors excluded. Faithful-character support bounds and the exact degree-p quotient/basis are proved in their stated scopes. Fixed-r prime implication only; no useful new X bound, actual exclusion, all-generator theorem, annual answer or priority claim.

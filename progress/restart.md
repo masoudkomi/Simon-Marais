@@ -1,3 +1,21 @@
+# Current restart boundary —2026-10-18 18:14Brisbane
+
+Read checkpoint-2026-10-18-1814.md and run-state. Current16%TOTAL
+at08:06:51UTC,reset1792874445; explicitly authorized to90TOTAL with
+reserve/noautomaticlaterweek.2025RS1–RS4 NOW ACCEPTED exact support/
+degree-p quotient/basis after A/C OTHER ENTIREblindWHOLE60/60/full root
+reconciliation; root/B contributors excluded. No new actual exclusion.
+2020R11 UNVERIFIED: root OTHER whole60 R1 ENTIRE frozen, A OTHER R2
+active; NO correspondingpeer access before both ENTIREfreezes. Bactual
+2019 critical-regime reasoning and Cactual2022 seed dynamics continue.
+Root2024largerfamily cofactor/Frobenius leads unverified. Lastpushfd847cc
+beforeRSintegration. Ownedawake79293/session64368nextmanualOScheck
+andactualhourlyreport08:27:36UTC; lastactualreport1727. Do notroutinely
+viewautomationorretrynativeDNS. ACTIVEisnotdeliveryproof. No checkpoint
+endsresearch; keepotheragentsworkingifoneneedspermission.
+
+---
+
 # Current restart boundary —2026-10-18 17:54Brisbane
 
 Read checkpoint-2026-10-18-1754.md and run-state. Current15%TOTAL

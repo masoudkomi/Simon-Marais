@@ -1,0 +1,64 @@
+{
+  "recorded_utc_date": "2026-10-18",
+  "status": "candidate proof - unverified; actual read scopes only",
+  "requested_settings": {"model": "gpt-6.1-sol", "reasoning": "max", "inherited": true},
+  "independently_verified_effective_settings": null,
+  "sources": [
+    {
+      "id": "official",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2020-paper-b_1.pdf",
+      "read": "page2 B4 definition and(b), returned lines98--105, compared with complete local statement",
+      "scope": "n>=2 tautness; only(b) investigated; new packet prime Phi3(q),q>=2",
+      "local_retrieval_sha256": null
+    },
+    {
+      "id": "Leung-Schmidt2019",
+      "url": "https://personal.ntu.edu.sg/bernhard/Publications/pub/BentFunctions.pdf",
+      "read": "Notation5/prime context; Section5 Theorems22/23 and complete operative proofs lines1131--1267; not full41-page proof audit",
+      "use": "published nonsquare bound through exact accepted A9A; no square-norm extension or new norm theorem",
+      "local_retrieval_sha256": null
+    },
+    {
+      "id": "Kedlaya-Hasse",
+      "url": "https://kskedlaya.org/cft/sec_ideles-cohom2.html",
+      "read": "Theorem7.2.10, complete short proof and following noncyclic warning, lines618--643",
+      "use": "classical cyclic all-place FIELD norm theorem; accepted A9B application retains separate integral/unit obligations",
+      "full_CFT_foundation_reconstructed": false,
+      "local_retrieval_sha256": null
+    },
+    {
+      "id": "Kedlaya-local",
+      "url": "https://kskedlaya.org/cft/sec_localcomp.html",
+      "read": "Propositions4.2.4--4.2.5 statements/complete proofs lines449--478",
+      "use": "unramified local unit norms including residue characteristic2; not ramified p-place",
+      "local_retrieval_sha256": null
+    },
+    {
+      "id": "Lemmermeyer2013",
+      "url": "https://arxiv.org/pdf/1309.1071",
+      "read": "complete six-page353-line author preprint; operative Proposition1 definitions/full proof",
+      "use": "classical norm-unit obstruction attribution; accepted quadratic explicit correction used, not full class-number formula",
+      "printed_stray_surjectivity_subgroup_label_not_imported": true,
+      "local_retrieval_sha256": null
+    },
+    {
+      "id": "Candela-Helfgott2015",
+      "url": "https://www.impan.pl/shop/publication/transaction/download/product/83659",
+      "read": "introduction/Definition1.1, returned lines0--23 only",
+      "use": "dissociated terminology only; no quantitative theorem or full-paper proof import",
+      "local_retrieval_sha256": null
+    }
+  ],
+  "exact_accepted_project_inputs": [
+    {"stem": "reasoning-return-r7", "read": "accepted scope and full operative R7A--C; R7D/E context via scopes/failures, no fresh full claim", "older_constructor_B": true},
+    {"stem": "reasoning-return-r8", "read": "complete accepted header/body and full source/failure records", "older_constructor_B": true},
+    {"stem": "reasoning-arithmetic-return-r9", "read": "complete accepted header/operative body and complete source/failure records", "older_B_whole_reviewer": true},
+    {"stem": "reasoning-arithmetic-return-r10", "read": "complete accepted header/body/source/failure records; background size boundary", "new_R11_existence_import_from_Chebotarev": false}
+  ],
+  "Schmidt1998_new_primary_proof_read_or_import": false,
+  "new_R11_inference_source": "B hand reconstruction; root broad assignment only, no other new mathematical contribution",
+  "mathematical_code_scan_CAS_or_author_rerun": false,
+  "no_download_cache_write_Git_shared_old_edit_spawn_contact_charge_or_bypass": true,
+  "TWO_OTHER_entire_blind_whole_reviews_REQUIRED": true,
+  "novelty_established": false
+}

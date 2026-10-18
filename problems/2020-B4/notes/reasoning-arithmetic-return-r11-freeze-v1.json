@@ -1,0 +1,166 @@
+{
+  "frozen_utc": "2026-10-18T08:06:02.706118+00:00",
+  "status": "candidate proof - unverified; ENTIRE R11 constructor checkpoint",
+  "constructor": "/root/review_2022_complexity_r2",
+  "NEW_claims": [
+    "A11A",
+    "A11B",
+    "A11C",
+    "A11D",
+    "A11E"
+  ],
+  "all60_obligations_and_constructor_checks_complete": true,
+  "TWO_OTHER_entire_blind_whole_audits_and_coordinator_reconciliation_REQUIRED": true,
+  "constructor_excluded_from_independent_review_count": true,
+  "root_supplied_generic_assignment_no_NEW_proof_inference": true,
+  "no_new_numeric_taut_order_full_classification_or_novelty_claim": true,
+  "accepted_input_old_authorship_not_self_recertified": true,
+  "necessary_protected_occurrences": 26,
+  "necessary_protected_unique_paths": 26,
+  "canonical_protected_summary_sha256": "3bc2161b0e99eb990cfed3c71d84d01e4de5f6fa2f16b1e94add3e6894d58c7f",
+  "immediate_own_parent": {
+    "path": "problems/2017-B4/reviews/reasoning-global-return-r7-review-2-manifest-v1.json",
+    "bytes": 5343,
+    "sha256": "5717bd67ab617452e6416f139aa8ad8fcf98a7bc96c863c0b1f5123829031d7c"
+  },
+  "accepted_authority_summaries": [
+    {
+      "authority": {
+        "path": "problems/2020-B4/reviews/reasoning-return-r7-acceptance.json",
+        "bytes": 2518,
+        "sha256": "8fc1c36fddeca2242e9160b0a1d7fc8b15a6db6745b4f5b0fcc5a309652567ff"
+      },
+      "accepted_copy": {
+        "path": "problems/2020-B4/proofs/reviewed-reasoning-return-r7-v1.1.md",
+        "bytes": 23717,
+        "sha256": "7517c6ffd5aff1135107020f9526922203496415515afb4bbd07176fb445d479"
+      },
+      "historical_declared_occurrences": 123,
+      "historical_declared_unique_paths": 49,
+      "historical_inventory_recursively_replayed": false
+    },
+    {
+      "authority": {
+        "path": "problems/2020-B4/reviews/reasoning-return-r8-acceptance.json",
+        "bytes": 3028,
+        "sha256": "52bdd193cecd7eedf8270bf2d0fa04159a013fa0c995e71f0938c6a3359eda0a"
+      },
+      "accepted_copy": {
+        "path": "problems/2020-B4/proofs/reviewed-reasoning-return-r8-v1.1.md",
+        "bytes": 29871,
+        "sha256": "9003af18926d1fe49d3f997b40ed070ceefa37e42f73c5a98c32bbe7a2f3bfcb"
+      },
+      "historical_declared_occurrences": 123,
+      "historical_declared_unique_paths": 68,
+      "historical_inventory_recursively_replayed": false
+    },
+    {
+      "authority": {
+        "path": "problems/2020-B4/reviews/reasoning-arithmetic-return-r9-acceptance.json",
+        "bytes": 3431,
+        "sha256": "f6533a1a615efd61594cdb4a3e9a8ef9d29e752df75e314dfea15fde40e7327d"
+      },
+      "accepted_copy": {
+        "path": "problems/2020-B4/proofs/reviewed-reasoning-arithmetic-return-r9-v1.1.md",
+        "bytes": 24622,
+        "sha256": "ab2ee4e7a2dcfa464780c6144f996d683f08b7f04da63d2a77ee2fdd4ec922b8"
+      },
+      "historical_declared_occurrences": 150,
+      "historical_declared_unique_paths": 62,
+      "historical_inventory_recursively_replayed": false
+    },
+    {
+      "authority": {
+        "path": "problems/2020-B4/reviews/reasoning-arithmetic-return-r10-acceptance.json",
+        "bytes": 3291,
+        "sha256": "cb688e019daa147e268429e8c609d75415f0e99880969ac137f81153c46d77c1"
+      },
+      "accepted_copy": {
+        "path": "problems/2020-B4/proofs/reviewed-reasoning-arithmetic-return-r10-v1.1.md",
+        "bytes": 24761,
+        "sha256": "dc540eef45a7c4054191a0fd9e723aa64e364163f04bf696450025ca3ca45f24"
+      },
+      "historical_declared_occurrences": 117,
+      "historical_declared_unique_paths": 57,
+      "historical_inventory_recursively_replayed": false
+    }
+  ],
+  "older_own_paths_bound_transitively": 594,
+  "new_own_files_including_freeze": 11,
+  "older_plus_new_own_paths_bound_transitively": 605,
+  "no_recursive_historical_inventory_copy_or_reverify": true,
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independently_verified_effective_settings": null,
+  "authoritative_weekly_telemetry": {
+    "observed_at_utc": "2026-10-18 08:05:41 UTC",
+    "method": "mcp__codex_app__get_usage_limits and clock in same batch",
+    "account_label": "029a8928...1334ac3a",
+    "used_percent_TOTAL": 16,
+    "window_minutes": 10080,
+    "reset_unix": 1792874445,
+    "ordinary_usage_allowed": true,
+    "legacy_and_by_limit_agree": true,
+    "current_window_explicitly_user_authorized": true,
+    "ceiling_TOTAL_percent": 90,
+    "integration_reserve": true,
+    "automatic_later_reset_spending": false
+  },
+  "mathematical_code_CAS_scan_source_or_author_rerun": false,
+  "no_Git_shared_old_cache_write_spawn_contact_charge_or_bypass": true,
+  "artifacts": [
+    {
+      "path": "problems/2020-B4/notes/reasoning-arithmetic-return-r11-candidate-v1.md",
+      "bytes": 19167,
+      "sha256": "f93bc9f57db3ff196db2b32380cd0aadd122bff5ea0bfbbf09b7a9a6868f0ead"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-arithmetic-return-r11-obligations-v1.md",
+      "bytes": 7054,
+      "sha256": "12459541e3232700e6db396b84cd0f1e15c37ba11a6dceb92a234d6e7f10cb32"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-arithmetic-return-r11-sources-v1.md",
+      "bytes": 9605,
+      "sha256": "4da0e6bb2a9989340086ec9b7ac61f5a590b2186eed528a354ab01a22324a90b"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-arithmetic-return-r11-sources-v1.json",
+      "bytes": 3707,
+      "sha256": "129aa05065b354beec114d09efbbdfe6204ad086da1c5cd68290d3957d886dc6"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-arithmetic-return-r11-failed-routes-v1.md",
+      "bytes": 7244,
+      "sha256": "26b0da0bce26c1fe067c670aabc3a93dfe47e936dd415cd9b388ff73ba077365"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-arithmetic-return-r11-constructor-checks-v1.md",
+      "bytes": 12222,
+      "sha256": "2b87b1e996eb68a7c7277d9372f53f808808a562b9a1c645a10ad5cf2f4fd38f"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-arithmetic-return-r11-worklog-v1.md",
+      "bytes": 9949,
+      "sha256": "011047f69c567621e85b733ba7031da52d087143cad73eb8cfd549cca95e3dfd"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-arithmetic-return-r11-baseline-v1.json",
+      "bytes": 8809,
+      "sha256": "8bc456f921e1dbcd9176ac9066c011b8419fb4c99f1a89596f50f4747f8f4445"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-arithmetic-return-r11-freeze-v1.py",
+      "bytes": 9786,
+      "sha256": "a61bb3dc693baee461f05441a14d4cb0cd3e50b0ddbd31314a0a45517036b003"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-arithmetic-return-r11-input-validation-v1.json",
+      "bytes": 842,
+      "sha256": "3ebf028b4fd9bf0fddb28f5eb1d7df037487ab4239fe7e28e6a49948ca427a14"
+    }
+  ]
+}

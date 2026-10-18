@@ -20,7 +20,13 @@ inference that every cyclotomic factor is a perfect power. These are precisely
 the arithmetic interfaces our present work examines.
 
 The project has reviewed boundary and valuation reductions, restricted
-published consequences, and cyclotomic orbit/jet estimates. These give no new
+published consequences, and cyclotomic orbit/jet estimates. The new
+[RS1–RS4 theorem](reviews/reasoning-Runge-return-r2-acceptance.md) has
+passed two OTHER whole audits and full reconciliation. It bounds the
+auxiliary support using faithful-character norms and gives an explicit
+degree-p quotient of genus(p-1)(r-1), with its complete normalization
+basis. The prime bound requires an extra fixed support bound r<=r0;
+no such uniform bound is proved for actual solutions. These give no new
 useful unconditional exclusion of every remaining prime case. The separate
 [RG1–RG3 Runge procedure](reviews/reasoning-return-r9-runge-acceptance.md) is
 now independently reviewed: it supplies a finite exact fixed-p coefficient
