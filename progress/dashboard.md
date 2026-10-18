@@ -1,5 +1,14 @@
 # Research dashboard
 
+Current04:27 hourly:60% TOTAL ACCOUNT-WIDE/reset1792874445/90TOTAL ceiling with reserve.
+PROJECT chat+descendants raw total2,930,636,390 includes2,793,975,296 cached input;
+7,791,580 reasoning output,136,661,094 uncached input+output; literal cutoff18:24:37UTC.
+R21 reviewed partial accepted; actual frameIII OPEN. FR10 author13/64 UNVERIFIED,
+rootwhole1 active/Bwhole2 queued. SQ16rootwhole1ENTIRE4 frozen EMBARGO/Awhole2 queued.
+New hand research A2019/B2020/C2017 continues. OWN79293 awake verified04:24:37.
+[Actual hourly report](status-2026-10-19-0427.md). Two complete annual/seven unresolved.
+
+
 Current04:13: [2017 PR11 accepted](../problems/2017-B4/reviews/reasoning-pressure-return-r11-acceptance.md)
 after BOTH whole64/full reconciliation; strict CURRENT-H improvement and
 actual class moments/count tails, exact value/annual still open.

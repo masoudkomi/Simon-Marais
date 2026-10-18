@@ -1,0 +1,78 @@
+{
+  "frozen_utc": "2026-10-18T18:22:22.979103+00:00",
+  "status": "candidate proof - unverified",
+  "payload_records": [
+    {
+      "path": "problems/2024-B4/notes/reasoning-frobenius-return-r10-candidate-v1.md",
+      "bytes": 23051,
+      "sha256": "89dca5bac46c7601b8e64462783ba448d1a6aca5d4d5e393a6ff128898aebea5"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-frobenius-return-r10-obligations-v1.md",
+      "bytes": 12087,
+      "sha256": "76c31735810f4a164c1acd64f715e7d89c784b0513b3e25469b6a8cd3c208059"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-frobenius-return-r10-issues-v1.md",
+      "bytes": 2143,
+      "sha256": "16d696af3f3aca9c3d64010ff22cfc1c7043a73697e0189f15fb191a1bba9887"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-frobenius-return-r10-sources-v1.md",
+      "bytes": 6503,
+      "sha256": "62ea5e84d929a2641d29574f074ba3f92f5370f59000b148fd1e08738e1922af"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-frobenius-return-r10-sources-v1.json",
+      "bytes": 3533,
+      "sha256": "bf24ffe25220100d401cc842fcc27006cf41d2e2a8ad8bbc748cb4e26e9a1da1"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-frobenius-return-r10-failures-v1.md",
+      "bytes": 3508,
+      "sha256": "6148c8b9564679951283325078962241b986de75e70ac385e792885d9625e284"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-frobenius-return-r10-worklog-v1.md",
+      "bytes": 3969,
+      "sha256": "dea16b671a196005ad10f288b186fa15bd3bb4069afcae8e2eb944e4f3a7ea1c"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-frobenius-return-r10-code-v1.md",
+      "bytes": 1060,
+      "sha256": "be55da351e1adcb62fd204d0679426aab6bbec0a18c4d06f39fcbf23b19fc8eb"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-frobenius-return-r10-integrity-v1.py",
+      "bytes": 10728,
+      "sha256": "d5ed1dbd15f1fb47f7bb3b54a3b895213d79a76df51601049954095eff041bf3"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-frobenius-return-r10-baseline-v1.json",
+      "bytes": 3311,
+      "sha256": "293e8922e9342b2ec03fe02ad60e9bda7cfed8941c5bb9c6a0623e01e1dd48f0"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-frobenius-return-r10-input-validation-v1.json",
+      "bytes": 356,
+      "sha256": "50ba40b666dade169a8e5352811430a58d87695620b0539fc362c96b59b7843e"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-frobenius-return-r10-metadata-v1.json",
+      "bytes": 1395,
+      "sha256": "66a60dd1671a980868d569abfc75b937331239df31a87753b168a13a22f5be53"
+    }
+  ],
+  "payload_files": 12,
+  "ENTIRE_files_including_this_freeze": 13,
+  "whole_obligations": 64,
+  "OTHER_whole_audits_required": 2,
+  "constructor_excluded": true,
+  "input_guards_all_pass": true,
+  "direct_plus_declared_occurrences_verified": 54,
+  "unique_guard_paths": 52,
+  "deduplicated_guard_records_canonical_sha256": "6d864ed03becc94c6ab70a28ffebf7ff4a6145201c79a329c907c645f53812d4",
+  "mathematical_computation": false,
+  "full_final_model_readback": "Performed before this freeze action; all payloads including generated metadata must actually have been read",
+  "separate_readonly_verify_required_after_full_freeze_readback": true
+}

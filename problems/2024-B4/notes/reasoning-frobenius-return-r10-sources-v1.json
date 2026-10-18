@@ -1,0 +1,69 @@
+{
+  "status": "candidate proof - unverified; source/read-limit record",
+  "recorded_utc": "2026-10-18",
+  "requested_model": "gpt-6.1-sol",
+  "requested_reasoning_effort": "max",
+  "effective_setting_readback": "unavailable",
+  "raw_primary_PDF_downloaded": false,
+  "raw_primary_PDF_sha256": null,
+  "sources": [
+    {
+      "id": "OFFICIAL",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc2024_paper_b.pdf",
+      "fresh_read": "Page2 B4 setup, part(b), coefficientwise definition; returned57-74; local statement complete",
+      "role": "Exact official domain and scoped exclusion only",
+      "limit": "No preliminary(a) proof or other problem investigated"
+    },
+    {
+      "id": "R6",
+      "path": "problems/2024-B4/proofs/reviewed-reasoning-cofactor-return-r6-v1.1.md",
+      "fresh_read": "COMPLETE accepted body and current acceptance MDJSON",
+      "role": "Operative accepted R6B/C reducedness and EVERY actual component degree>=q",
+      "limit": "C old constructor; not independently recertified by this construction"
+    },
+    {
+      "id": "R9",
+      "path": "problems/2024-B4/proofs/reviewed-reasoning-cofactor-return-r9-v1.1.md",
+      "fresh_read": "COMPLETE accepted body and current acceptance MDJSON",
+      "role": "Exact comparison scope; J is NOT a new premise; local computations rederived",
+      "limit": "No fresh whole R7/R8 source-proof reread claimed; their stated scopes compared only"
+    },
+    {
+      "id": "FULTON",
+      "url": "https://math.stanford.edu/~conrad/145Page/handouts/algcurves.pdf",
+      "fresh_read": "COMPLETE3.3 properties1-7/Theorem3/whole proof2419-2624; COMPLETE5.3 Bezout whole proof3829-3924; COMPLETE AppendixA7557-7598; preface field convention",
+      "role": "Operative local lengths, tangent equality, unit invariance and global coprime degree product in char2",
+      "limit": "No whole129-page/foundational audit; no genus/Hessian/char0 generic tangent theorem"
+    },
+    {
+      "id": "HM-v4",
+      "url": "https://arxiv.org/pdf/0903.2016v4",
+      "fresh_read": "COMPLETE operative Section3/4 lines247-530 incl Lemmas4-7 proofs and intersection context; introduction0-246; later partly read/returned not used as complete proof",
+      "role": "Classical ingredient attribution and component-versus-whole distinction; own local/count proof exposed",
+      "limit": "No whole19-page or complete fresh Theorems13-17 audit/import"
+    },
+    {
+      "id": "JEDLICKA",
+      "url": "https://eprint.iacr.org/2005/096",
+      "journal_doi": "10.1016/j.ffa.2007.04.004",
+      "fresh_read": "COMPLETE archive metadata/abstract page only,69 returned lines",
+      "access_limits": "Direct PDF403; own link403; CiteSeer mirror bounded timeout; DOI inaccessible",
+      "operative_body_read": false,
+      "role": "Discovery/attribution only, no theorem imported",
+      "limit": "Exact published overlap with FR10 remains unresolved"
+    },
+    {
+      "id": "FERARD",
+      "url": "https://www.aimsciences.org/article/doi/10.3934/amc.2014.8.497",
+      "fresh_read": "Publisher186-line abstract/reference/metadata page only",
+      "operative_body_read": false,
+      "role": "Discovery only; no abstract theorem applied",
+      "limit": "2014 operative PDF not obtained;2017 operative body remains unread; no priority claim"
+    }
+  ],
+  "no_paid_access_contact_bypass": true,
+  "no_root_degree_gap_note_read_or_used": true,
+  "no_mathematical_computation": true,
+  "two_OTHER_whole_reviews_required": true,
+  "constructor_excluded": true
+}

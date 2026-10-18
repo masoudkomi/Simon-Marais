@@ -19,6 +19,14 @@ develop this interaction between arithmetic restrictions and algebraic
 computation. A finite normalized parameter space, however, need not be empty,
 and an available residue root need not lift to a rational common root.
 
+The newly accepted [R21 formal obstruction and actual D5 restrictions](reviews/reasoning-center-return-r21-acceptance.md)
+passed TWO OTHER whole48 audits and full reconciliation. A complete finite
+binary witness system is consistent, so it cannot alone exclude frameIII.
+Actual minimum/tie normalization and three exact D5 full-gcd forks remain
+necessary conditions, coupled to later witnesses. This is an arithmetic
+compatibility advance, not a rational polynomial, local lift or frameIII
+exclusion. Actual frameIII/full degree20/annual remain OPEN.
+
 The newly accepted [R20A/B four-witness obstruction](reviews/reasoning-center-return-r20-acceptance.md)
 passed root/B TWO OTHER ENTIRE WHOLE48/48 audits and full96-disposition
 reconciliation. The first derivative divided by20 BEFORE dyadic reduction,

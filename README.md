@@ -20,13 +20,15 @@ and [2022D9](problems/2022-B4/reviews/reasoning-dynamics-return-r9-acceptance.md
 are now accepted scoped partials after both OTHER whole audits and full
 reconciliation. They resolve no additional annual target. [2017PR11](problems/2017-B4/reviews/reasoning-pressure-return-r11-acceptance.md)
 now gives a reviewed stricter upper bound and actual class moments.
-SQ16/R21 remain unverified; hand research continues on2019 and2024.
-Weekly59%TOTAL at18:12:19UTC/reset1792874445; continue to90%TOTAL with
+The [2021R21 scoped partial](problems/2021-B4/reviews/reasoning-center-return-r21-acceptance.md)
+is now reviewed; actual frameIII stays open. SQ16/FR10 remain unverified.
+Hand research continues on2017,2019 and2020.
+Weekly60%TOTAL at18:25:47UTC/reset1792874445; continue to90%TOTAL with
 reserve in this authorized window. Hand research continues on all gaps.
 
 - [Latest continuing checkpoint](progress/checkpoint-2026-10-19-0413.md).
-- [Latest actual hourly report](progress/status-2026-10-19-0327.md).
-  Next actual hourly/token/owned-awake check18:27:30UTC.
+- [Latest actual hourly report](progress/status-2026-10-19-0427.md).
+  Next actual hourly/token/owned-awake check19:27:30UTC.
 
 - [Dashboard](progress/dashboard.md): per-problem status, results, obstructions, next steps and reviews.
 - [Budget and telemetry](progress/budget.md): observed weekly usage and reset boundary.
