@@ -1,0 +1,90 @@
+{
+  "version": "v1.1 full versioned integral-domain author repair",
+  "repair_issue": "SQ15R2-01",
+  "original_v1_source_fields_below_are_historical_read_records": true,
+  "fresh_repair_reads": {
+    "original_root_review1": "ENTIRE11 including ALL48/source/log/code/ALLmetadata/manifest",
+    "original_A_review2": "ENTIRE11 including ALL48/issue/source/log/code/ALLmetadata/manifest",
+    "R8": "accepted opening through175, explicit fractional default and theorem scopes",
+    "TD": "accepted253-356, supported FIELD norm and fractional rho/SAME-ideal integrality",
+    "SQ14": "exact opening and universal norm-ell wording; no fractional order clause imported"
+  },
+  "new_primary_repair": {
+    "authors": "Yiwei Huang and Bernhard Schmidt",
+    "title": "Uniqueness of Some Cyclic Projective Planes",
+    "url": "https://personal.ntu.edu.sg/bernhard/Publications/pub/Singer.pdf",
+    "version_date": "2008-01-15",
+    "actual_read": "introduction34-55 known Singer prime-power existence/cyclic relation; Result4 at119-120",
+    "role": "attributed known q8 diagnostic context ONLY, not preliminary proof or new construction",
+    "full20page_or_original_Singer1938_proof_read": false,
+    "binary_sha256": null
+  },
+  "counterexample_attribution": "OTHER reviewer A SQ15R2-01; q8 p73 s9 fractional principal norm2 ideal",
+  "EVERY_SQ15B_J_R_y_order_clause_integral_only": true,
+  "fractional_TD_rho_and_FIELD_norm_existence_retained": true,
+  "historical_SQ14_unqualified_order_wording_not_imported": true,
+  "BOTH_affected_ENTIRE_WHOLE_reaudits_required": true,
+  "whole_obligations": 60,
+  "original_obligations": 48,
+  "additional_repair_obligations": 12,
+  "date_utc": "2026-10-18",
+  "status": "candidate proof - unverified",
+  "constructor": "/root/review_2017_coarsening_r1",
+  "constructor_excluded_from_TWO_OTHER_audits": true,
+  "root_supplied_new_proof_inference": false,
+  "old_roles": "A9/M10 author and SQ14 whole reviewer; separately accepted inputs/context, not new self-review",
+  "complete_current_bodies_and_MD_JSON_read": [
+    "reasoning-arithmetic-return-r14",
+    "reasoning-return-r8",
+    "reasoning-Todd-return-r12"
+  ],
+  "complete_context_reads": [
+    "problems/2020-B4/statement.md",
+    "problems/2020-B4/research.md",
+    "problems/2020-B4/references.md",
+    "problems/2020-B4/notes/deep-literature-r1-report-v1.md",
+    "SQ14 source/failure MD",
+    "TD source MD"
+  ],
+  "README_read_scope": "current opening through overview/table, lines1--72",
+  "primary_sources": [
+    {
+      "id": "O1",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2020-paper-b_1.pdf",
+      "read_scope": "B4 setup/(b), PDFpage2; preliminary wording for scope only",
+      "binary_sha256": null
+    },
+    {
+      "id": "L1",
+      "url": "https://personal.ntu.edu.sg/bernhard/Publications/pub/UniqueDiffWeighing.pdf",
+      "read_scope": "ENTIRE Lemma17 statement/proof; Theorem18 statement and substantial but incomplete returned proof context",
+      "role": "classical unique-difference/orthogonality attribution; no classification theorem imported",
+      "whole_source_or_Theorem18_proof_audit": false,
+      "binary_sha256": null
+    },
+    {
+      "id": "L2",
+      "url": "https://personal.ntu.edu.sg/bernhard/Publications/pub/p_ranks.pdf",
+      "read_scope": "title/introduction/preliminaries returned; Corollary4.3 and nearby discovery excerpts only",
+      "operative_new_theorem_import": false,
+      "binary_sha256": null
+    },
+    {
+      "id": "L3",
+      "url": "https://personal.ntu.edu.sg/bernhard/Publications/pub/class.pdf",
+      "publisher": "https://www.sciencedirect.com/science/article/pii/S0022314X98922752",
+      "body": "UNREAD: encoded extraction",
+      "read_scope": "public access plus bibliography/abstract discovery only",
+      "operative_new_theorem_import": false,
+      "binary_sha256": null
+    }
+  ],
+  "new_global_CFT_or_nonsquare_to_square_source_import": false,
+  "all_new_mathematics_hand": true,
+  "mathematical_program_CAS_class_scan_replay": false,
+  "native_math_child_PID": null,
+  "pending_permission_or_tool": null,
+  "charge_contact_bypass_cache_Git_shared_old_write": false,
+  "requested_inherited": {"model": "gpt-6.1-sol", "reasoning": "max"},
+  "verified_effective_readback": null
+}

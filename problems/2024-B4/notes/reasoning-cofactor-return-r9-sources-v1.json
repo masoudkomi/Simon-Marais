@@ -1,0 +1,38 @@
+{
+  "date_utc": "2026-10-18",
+  "status": "candidate proof - unverified",
+  "constructor": "/root/review_2022_complexity_r2",
+  "root_NEW_mathematical_contribution": false,
+  "requested": {"model": "gpt-6.1-sol", "reasoning": "max", "inherited": true},
+  "independent_effective_readback": null,
+  "TWO_OTHER_initially_blind_ENTIRE_WHOLE64_reviews_required": true,
+  "constructor_excluded": true,
+  "fresh_FULL_current_bodies_and_authority_MDJSON": [
+    {"body": "problems/2024-B4/proofs/reviewed-structural-v1.1.md", "authority": "problems/2024-B4/reviews/structural-acceptance.json", "role": "Only T1 operative; full T1-T4 read"},
+    {"body": "problems/2024-B4/proofs/reviewed-reasoning-cofactor-return-r6-v1.1.md", "authority": "problems/2024-B4/reviews/reasoning-cofactor-return-r6-acceptance.json", "role": "GENERAL R6B/C for reducedness/every-component degree; R6D only combined(F15) i>=8 divisible4"},
+    {"body": "problems/2024-B4/proofs/reviewed-reasoning-cofactor-return-r7-v1.1.md", "authority": "problems/2024-B4/reviews/reasoning-cofactor-return-r7-acceptance.json", "role": "Local algebra adapted explicitly; gcd theorem only odd-i combined(F15), never extended to new even branch"},
+    {"body": "problems/2024-B4/proofs/reviewed-reasoning-cofactor-return-r8-v1.1.md", "authority": "problems/2024-B4/reviews/reasoning-cofactor-return-r8-acceptance.json", "role": "All-diagonal proof adapted, not its NF4 theorem applied when NF4 fails"}
+  ],
+  "fresh_full_failure_context": [
+    "problems/2024-B4/notes/reasoning-cofactor-return-r8-issues-failures-v1.md",
+    "problems/2024-B4/notes/reasoning-cofactor-return-r8-source-audit-v1.md",
+    "problems/2024-B4/notes/reasoning-cofactor-return-r6-failed-routes-v1.md"
+  ],
+  "primary_sources": [
+    {"id": "OFFICIAL", "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc2024_paper_b.pdf", "fresh_read": "FULL setup60-63,part(b)68-74 and complete local statement", "preliminary_a_research": false, "raw_binary_sha256": null},
+    {"id": "FULTON", "url": "https://math.stanford.edu/~conrad/145Page/handouts/algcurves.pdf", "fresh_read": "COMPLETE Section3.3 properties1-7/Theorem3/entire supplied proof2419-2624; COMPLETE Section5.3 projective Bezout statement/proof3829-3924; bounded recovered gaps", "role": "Proper intersections, local coprime-cone equality and global coprime-curve degree product in characteristic2, reducible complement allowed", "limit": "No whole129-page/foundational or fresh AppendixA audit", "raw_binary_sha256": null},
+    {"id": "MCGUIRE", "url": "https://thesis.caltech.edu/4053/", "original_pdf": "https://thesis.caltech.edu/4053/01/McGuire_gm_1995.pdf", "doi": "10.7907/1CZ2-6S05", "fresh_read": "Caltech original-author record only", "older_disclosed_read": "Prior B whole R8 audit visually read all11 existing images21-31,printed16-26, supplied local lemmas/Theorems6/7 proofs", "role": "Classical no-four-sum/local/Bezout attribution, not a newly imported theorem", "limit": "No fresh whole thesis/joint journal/JW1993/Ferard2017 proof or priority audit", "raw_binary_sha256": null}
+  ],
+  "new_APN_inverse_even_field_theorem_import": false,
+  "unread_genus_Gauss_HM_component_or_formal_divisor_premise": false,
+  "older_roles": "B reviewed structural/R8 and other2024 inputs; C constructed accepted R6/R7/R8,A constructed structural. No NEW R9 inference supplied by them or root.",
+  "published_overlap_priority_exhaustive_search_claim": false,
+  "new_binary_download_cache_write_full_paper_upload": false,
+  "mathematical_program_CAS_scan_test_optimizer_author_source_old_replay": false,
+  "old_shared_Git_mutation_spawn_charge_contact_bypass": false,
+  "own_immediate_parent": "problems/2025-B4/reviews/reasoning-diagonal-return-r7-review-2-manifest.json",
+  "older_own_paths_bound_transitively": 875,
+  "SQ15_peer_material_accessed": false,
+  "root_separate_old_SQ14_scope_concern_not_R9_premise": true,
+  "weekly_telemetry": {"at_utc": "2026-10-18 16:17:27 UTC", "method": "own same-awaited clock/get_usage_limits", "TOTAL_used_percent": 50, "window_minutes": 10080, "resetsAt": 1792874445, "ordinaryUsageAllowed": true, "legacy_by_limit_agree": true, "account_label": "029a8928...1334ac3a", "TOTAL_ceiling_percent": 90, "integration_reserve": true, "automatic_later_window_spending": false}
+}

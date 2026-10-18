@@ -4,22 +4,21 @@ This repository records a sustained investigation of the Simon Marais Mathematic
 
 **Only the open portion is in scope:** the entire 2017 problem; the general 2018 enumeration, excluding research on its already known m=5 case; and **B4(b) only in every year 2019-2025**. Preliminary part (a) is excluded. See the [direct official-paper scope audit](sources/open-scope-audit.md). Whether an originally open problem has subsequently been solved is a separate, dated literature question.
 
-**Current stage:** two complete internally reviewed annual answers:
-the attributed published2018 enumeration and2023 classification,priority
-unestablished. Seven annual targets remain unresolved.2019AT and2021R20
-retain their accepted scopes. Newly accepted [2025DR7](problems/2025-B4/reviews/reasoning-diagonal-return-r7-acceptance.md)
-forces an actual order-p cofactor prime and strict factor-mass bounds in its
-stated signed residual sector; large factors and the annual equation remain open.
+**Current stage:** two complete internally reviewed annual answers: the
+attributed published2018 enumeration and2023 classification, external
+priority unestablished. Seven annual targets remain unresolved.
 
-[2020SQ15 requires a full integral-domain repair](problems/2020-B4/reviews/reasoning-class-return-sq15-coordinator-reconciliation-v1.md).
-The related [SQ14D/E universal ideal-order clauses are on hold](problems/2020-B4/reviews/reasoning-arithmetic-return-r14-scope-hold-v1.md)
-pending versioned correction and BOTH affected reaudits. Fractional ideals
-invalidate the unqualified reading; old records/root misses are preserved.
-2017R10 and2022D8 are now independently reviewed scoped partials;
-2024R9 remains unverified under whole review. Weekly52%TOTAL at16:43:13UTC,
-reset1792874445; continue to90%TOTAL with reserve in this authorized window.
+The [2020SQ15 full integral-domain version](problems/2020-B4/reviews/reasoning-class-return-sq15-acceptance.md)
+and [2024R9 whole irreducibility families](problems/2024-B4/reviews/reasoning-cofactor-return-r9-acceptance.md)
+are newly independently reviewed scoped partial results. SQ15 preserves
+the original false fractional extension and root review miss. The separate
+[SQ14D/E scope hold](problems/2020-B4/reviews/reasoning-arithmetic-return-r14-scope-hold-v1.md)
+remains active pending both full affected reaudits/reconciliation.
+2017R10/2022D8 and2019AT/2021R20/2025DR7 retain their exact reviewed scopes.
+Weekly53%TOTAL at16:53:13UTC/reset1792874445; continue to90%TOTAL with
+reserve in this authorized window. Hand research continues.
 
-- [Latest continuing checkpoint](progress/checkpoint-2026-10-19-0216.md).
+- [Latest continuing checkpoint](progress/checkpoint-2026-10-19-0300.md).
 - [Latest actual hourly report](progress/status-2026-10-19-0227.md).
   Next actual hourly/token/owned-awake check17:27:30UTC.
 

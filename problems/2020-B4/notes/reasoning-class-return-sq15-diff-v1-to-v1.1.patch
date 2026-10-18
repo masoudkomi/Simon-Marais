@@ -1,0 +1,553 @@
+--- problems/2020-B4/notes/reasoning-class-return-sq15-candidate-v1.md
++++ problems/2020-B4/notes/reasoning-class-return-sq15-candidate-v1.1.md
+@@ -1,6 +1,16 @@
+ # An actual-orbit obstruction at the first square-norm endpoint
+ 
+-2026-10-18 UTC. **Candidate proof - unverified.** Constructor C,
++FULL VERSION v1.1, 2026-10-18 UTC. **Candidate proof - unverified.**
++This version responds to SQ15R2-01 after BOTH original whole initials
++were frozen/released. EVERY new SQ15B ideal-order/refined-label assertion
++is explicitly restricted to INTEGRAL balanced ideals. Fractional balanced
++ideals remain valid objects of R8/TD, but their field-norm generators
++need not be integral and do NOT satisfy our universal order bounds.
++Section8 preserves the reviewer's concrete fractional counterexample.
++All v1 and original-review bytes are unchanged. BOTH affected ENTIRE
++WHOLE reaudits are required; this author repair is not acceptance.
++
++Constructor C,
+ `/root/review_2017_coarsening_r1`. Requested inherited gpt-6.1-sol/max;
+ independently verified effective readback unavailable. Root supplied the
+ generic mixed-class research target and NO NEW mathematical inference.
+@@ -11,9 +21,10 @@
+ nonrational square-norm shape left by accepted SQ14. It eliminates that
+ endpoint except at p7/q2. In the prime-conductor sector, an actual set
+ therefore forces a slightly larger square-norm rationality range. For
+-mixed even q this has an actual arithmetic consequence: EVERY balanced
+-norm-2 ideal has ordinary class order at least4, improving the accepted
+-lower bound3. Its refined label is not killed by6. No class group or new
++mixed even q this has an actual arithmetic consequence: EVERY nonzero
++INTEGRAL balanced norm-2 ideal has ordinary class order at least4,
++improving the integral-domain lower bound3. The refined label of each
++such INTEGRAL ideal is not killed by6. No class group or new
+ numerical q is evaluated, so no new numerical taut-order exclusion or
+ annual classification is claimed.
+ 
+@@ -52,6 +63,15 @@
+ split completely in F into distinct conjugate pairs. No parity of
+ any class number or of V is assumed; Gamma remains present.
+ 
++An ideal in a class group may be FRACTIONAL. In this version, saying
++that I is balanced of balance a means Ic(I)=(a), without silently
++assuming integrality. Saying INTEGRAL balanced adds I subset O_F.
++Every universal J/R/y assertion in SQ15B BELOW explicitly imposes this
++integral condition; its powers then remain integral. In SQ15C/D the
++actual character ideal I and BOTH factors A,B are integral as stated.
++The fractional auxiliary ideals in TD1's construction of rho are not
++redefined or removed. Ordinary C,V,Gamma keep their original meanings.
++
+ The COMPLETE current accepted SQ14, R8 and TD bodies and EACH current
+ MD/JSON authority were read. The exact operative imports are:
+ 
+@@ -61,9 +81,12 @@
+    T-invariant and has full group-ring product a²*0. Its coefficients
+    are arbitrary integers, not assumed binary or0,+/-1.
+ 2. **TD1:** for positive a supported on primes dividing q, the canonical
+-   rho(I,a) in V is additive, conjugation-anti-invariant and Galois
++   rho(I,a) in V is defined on FRACTIONAL balanced pairs as well as
++   integral ones. It is additive, conjugation-anti-invariant and Galois
+    equivariant. Its zero is equivalent to an exact relative-norm-a
+-   integral generator of THIS SAME integral balanced ideal. The map
++   generator of THIS SAME ideal; that generator is integral ONLY when
++   the prescribed ideal is integral. Our norm rigidity applications
++   below always use the INTEGRAL case. The map
+    kappa:V->(1-c)C has kernel Gamma of exponent at most2 and sends
+    rho(I,a) to[I]. No ordinary-principal/refined-zero interchange.
+ 3. **R8F:** for an ACTUAL centered character alpha and I=(alpha), the
+@@ -71,9 +94,12 @@
+    In particular it is not the stabilizer of the already-zero[I].
+    The character lies in the corresponding fixed field, and its
+    augmentation-normalized residue at the prime over p is q+1.
+-4. **SQ14E:** mixed q with least prime2 has s>=15. Its short elementary
+-   cube-root argument is included again in Section4. The old lower
+-   ordinary order3 is not counted as new work here.
++4. **SQ14E arithmetic subclaim:** mixed q with least prime2 has s>=15.
++   Its short elementary cube-root argument is included again in Section4.
++   No unqualified fractional-ideal reading of SQ14D/E's historical
++   universal order wording is imported. The integral-domain old lower
++   order3 is comparison context only; our stronger integral conclusion
++   is proved directly below. The source/repair ledger marks this limit.
+ 
+ The cyclotomic kernel O_K=Z[zeta_p], its prime residue F_p, unramified
+ support away from p, and the exact norm-q binary recovery are accepted
+@@ -104,25 +130,29 @@
+ **SQ15B, actual class restrictions without class parity.** For positive
+ a with p not dividing a and2a<=s+1, an integral balanced ideal
+ I*c(I)=(a) is ordinary principal iff a is a square and I=(sqrt(a)).
+-For EVERY balanced norm-ell ideal J, ell|q, let R be its ordinary
+-class order and y=rho(J,ell). Then
++For EVERY nonzero INTEGRAL balanced norm-ell ideal J of O_F, ell|q,
++let R be its ordinary class order and y=rho(J,ell). Then
+ 
+     s<=2ell^R-3;                                    (2)
+     (2m)y=0, m>=1 IMPLIES s<=2ell^m-3.              (3)
+ 
+-Consequently an even refined order r satisfies
+-s<=2ell^(r/2)-3. These sharpen the corresponding accepted minus-one
++Consequently an even refined order r OF THIS SAME INTEGRAL J satisfies
++s<=2ell^(r/2)-3. These sharpen the corresponding integral-domain minus-one
+ inequalities under the ADDITIONAL actual-set assumption. They do not
+-remove Gamma or make arbitrary balanced ideals principal.
+-
+-If q is mixed and even, EVERY balanced norm-2 ideal has
++remove Gamma, assert these inequalities for fractional J, or make
++arbitrary balanced ideals principal.
++
++If q is mixed and even, EVERY nonzero INTEGRAL balanced norm-2 ideal J has
+ 
+     R>=4,  4y!=0, 6y!=0.                           (4)
+ 
+-In particular y has no order1,2,3,4,6. Thus an ordinary class group
++In particular y ATTACHED TO SUCH AN INTEGRAL J has no order1,2,3,4,6.
++Such integral ideals exist by complete splitting. Thus an ordinary class group
+ of exponent dividing3, or a refined V of exponent dividing6, is
+-incompatible with such an ACTUAL set. If R4 occurs, the refined order
+-is8 and Gamma is nontrivial. No such class group is evaluated here.
++incompatible with such an ACTUAL set. If ordinary R4 occurs FOR SUCH
++AN INTEGRAL J, its refined order is8 and4y is a nonzero Gamma element.
++This is not a bound on labels of arbitrary fractional balanced pairs,
++nor on unrelated Gamma elements. No such class group is evaluated here.
+ 
+ **SQ15C, actual conjugate cost and nearly full ideal factors.** For this
+ claim choose T=M to be the FULL actual numerical multiplier group,
+@@ -257,19 +287,29 @@
+ I=(sqrt(a)). Conversely that rational ideal is principal/balanced.
+ This proves the first assertion of SQ15B, including a1.
+ 
+-For a balanced norm-ell ideal J, complete splitting makes every
+-conjugate pair of exponents exactly1,0 or0,1. Every positive power
++For a nonzero INTEGRAL balanced norm-ell ideal J, integrality and
++complete splitting make every conjugate pair of exponents exactly
++1,0 or0,1; away from ell the exponents are all zero. Every positive power
+ J^u is NONRATIONAL: its exponents are u,0, never equal on a pair.
+ If ordinary order R had2ell^R<=s+1, apply the preceding same-square
+-argument to principal J^R of balance ell^R. Its square cannot be
++argument to the INTEGRAL principal J^R of balance ell^R. Its generator
++is therefore integral before the unit correction. Its square cannot be
+ the rational ideal(ell^R), a contradiction. Thus
+ 2ell^R>=s+3, proving(2).
+ 
+-If(2m)y=0, TD1 supplies an exact integral generator of THIS SAME
+-J^(2m), of conjugation norm ell^(2m). It cannot be rational since
++If(2m)y=0 FOR THIS INTEGRAL J, TD1 supplies an exact generator of
++THIS SAME J^(2m). It is integral because J^(2m) is integral, and has
++conjugation norm ell^(2m). It cannot be rational since
+ its ideal is not rational. SQ15A therefore excludes2ell^m<=s+1,
+ giving(3). No ordinary-principal ideal is silently declared refined
+ zero, and no odd class-number assumption has entered.
++
++For a FRACTIONAL balanced J the paired exponents may instead be
++u,1-u with u outside0..1, and other split primes can have opposite
++negative exponents. Even when TD1 supplies its exact generator, that
++generator can have denominators. A square correction there need NOT
++be integral, so SQ15A cannot be applied. Section8 gives an actual
++known-field failure of the unqualified v1 reading.
+ 
+ ## 4. A genuinely mixed norm-2 obstruction
+ 
+@@ -287,23 +327,27 @@
+ s>=15. No actual set was needed for this lower bound, but the new
+ endpoint rationality DOES require the actual set.
+ 
+-If an ordinary balanced norm-2 order R were1,2 or3, then
++Fix a nonzero INTEGRAL balanced norm-2 ideal J and y=rho(J,2).
++If its ordinary class order R were1,2 or3, then
+ 2^R<=8<=(s+1)/2. Equation(2) contradicts it. Thus R>=4.
+ Equation(3) with m2 and m3 gives4y!=0 and6y!=0; in particular
+-y has no order1,2,3,4,6. Balanced norm-2 ideals exist by complete
+-splitting, so V cannot have exponent dividing6 and C cannot have
++y has no order1,2,3,4,6. Nonzero INTEGRAL balanced norm-2 ideals
++exist by choosing exponents1,0 at each split conjugate pair. Thus V
++cannot have exponent dividing6 and C cannot have
+ exponent dividing3. These are actual field/group obstructions, not
+ an assertion that arbitrary abstract class labels are realized.
+ 
+-TD1 has kappa(y)=[J] and an exponent2 kernel Gamma. Hence the
++For that SAME INTEGRAL J, TD1 has kappa(y)=[J] and an exponent2 kernel
++Gamma. Hence the
+ refined order r satisfies R|r|2R. If R4, the exclusion4y0 forces
+ r8 and4y is a nonzero element of Gamma. The unit obstruction has
+ therefore NOT disappeared; this possible remaining case requires it.
+ The old field hypotheses do not imply Gamma0.
+ 
+ What is new is the exclusion of ordinary order3/refined6-torsion at
+-the one formerly permitted endpoint s15. For s>=21 SQ14 already
+-excluded that endpoint by its old low range. We do not relabel the
++the one formerly permitted endpoint s15 FOR THESE INTEGRAL J. For
++s>=21 the integral-domain SQ14 proof already excluded that endpoint
++by its old low range. We do not relabel the
+ entire old class-order machinery as a new method or claim a numerical
+ order has now been excluded. No class computation is supplied.
+ 
+@@ -384,7 +428,8 @@
+ ## 7. Exact advance and remaining mixed-class gap
+ 
+ This supplies an actual-set norm endpoint obstruction, a new ordinary
+-order3/refined6-torsion exclusion for the mixed even branch, and an
++order3/refined6-torsion exclusion for INTEGRAL balanced norm-2 ideals
++in the mixed even branch, and an
+ explicit non-descent budget on actual prime exponents. It is stronger
+ than treating formal norm solutions or orbit arrays as actual sets.
+ It nevertheless does NOT decide which specified mixed q has these
+@@ -397,7 +442,8 @@
+ packet without being proved realizable.
+ 
+ There is a precise cost in an attempted ordinary-class shortcut. The
+-usual principal-product argument for ordinary collision at balance a
++usual principal-product argument for ordinary collision between
++INTEGRAL balanced ideals at balance a
+ would need the square balance a² in SQ15B, hence2a²<=s+1. Applying
+ it to BOTH factors of q=ab would also need2b²<=s+1. Together these
+ give2q<=s+1, while an actual nonzero T-orbit in D gives s<=q+1.
+@@ -406,7 +452,7 @@
+ injections; refined labels and exact ideals must not be discarded.
+ 
+ The full norm-q character can remain an indecomposable mixed product
+-of nonprincipal balanced parts. Old M10 examples at large norms in
++of nonprincipal INTEGRAL balanced parts. Old M10 examples at large norms in
+ specified residues do not give norm EXACTLYq; TD/L13 minimality does
+ not force the small budget above. No actual new q, full class-group
+ evaluation, effective universal cutoff, prime-power converse,
+@@ -417,3 +463,54 @@
+ or author/source routine replay. The complete source/failure/check/
+ obligation/worklog/admin packet is required before two OTHER whole
+ reviews. No old byte or shared/Git/cache file was edited.
++
++## 8. Fractional counterexample and exact author response to SQ15R2-01
++
++The literal unqualified universal J statement in v1 was false. R8's
++standing convention allowed nonzero FRACTIONAL ideals unless called
++integral, and TD1 explicitly constructs rho for fractional balanced
++pairs. The proof's use of nonnegative exponents and integral generators
++did not repair that missing statement hypothesis. Reviewer A supplied
++the following diagnostic after its complete blind whole audit. We
++preserve its attribution, rather than recasting it as new author work.
++
++Use the known Singer prime-power case q8,p73, as attributed existing
++context, without reproducing any preliminary construction. Center the
++known set in the accepted frame. The prime-divisor multiplier2 actually
++fixes it, so T=<2> is an allowed actual subgroup. The hand identities
++2^9=512=7*73+1 and2^3=8!=1 mod73 show |T|=9. Put F=Q(zeta_73)^T.
++The accepted TD1 supported FIELD-norm theorem, applied to2, gives
++
++    z in F^*, z*c(z)=2.
++
++It does NOT give z in O_F. The FRACTIONAL ideal J_fr=(z) satisfies
++J_fr*c(J_fr)=(2), has ordinary class order1, and has rho(J_fr,2)=0:
++in TD1's definition use this very z and the unit auxiliary ideal.
++The unqualified v1 equation(2) would then demand9<=2*2-3=1, and
++equation(3) at m1 would demand the same false inequality.
++
++This J_fr cannot be integral. If it were, z would be integral and
++z^2 would have norm4. Independently valid SQ15A at amplitude2 applies
++since2*2<=9+1 and q8>=3, giving z^2=+2 or-2. Thus J_fr^2=(2).
++The rational prime2 is unramified in F, so at every prime above2
++this would require twice an integer ideal exponent to equal1,
++impossible. This check does not assume the repaired class-order
++conclusion in order to justify the diagnostic.
++
++The repaired equations(2)--(4), all corresponding R/y/order clauses,
++and their Gamma consequence are therefore explicitly INTEGRAL-only.
++Fractional field-norm existence and the fractional rho construction
++remain valid and unchanged. SQ15A is already an integral-ELEMENT
++statement; SQ15C uses an actual integral character and explicitly
++integral factors; SQ15D constructs integral ideal factors. None of
++those arguments is extended to a fractional field solution. Their
++proofs are retained in full, with the original q2 endpoint and all
++existing annual/priority limitations.
++
++The original root WHOLE1 reconstructed the intended integral proof
++but did not flag the missing universal qualifier; its original report
++is preserved along with A's contrary scope finding. This version does
++not revise either review or claim acceptance. ALL48 original and the
++additional12 repair obligations need BOTH affected ENTIRE WHOLE
++reaudits, complete final readbacks, separate verification and root
++reconciliation before any promotion.
+--- problems/2020-B4/notes/reasoning-class-return-sq15-obligations-v1.md
++++ problems/2020-B4/notes/reasoning-class-return-sq15-obligations-v1.1.md
+@@ -1,8 +1,11 @@
+ # SQ15 ENTIRE constructor obligations
+ 
+-2026-10-18 UTC. **Candidate proof - unverified.** These are constructor
+-hand checks, not independent review dispositions. BOTH OTHER whole
+-auditors must reconstruct every one of the48 rows and the entire main.
++FULL VERSION v1.1, 2026-10-18 UTC. **Candidate proof - unverified.**
++These are constructor hand checks, not independent review dispositions.
++BOTH affected OTHER whole auditors must reconstruct ALL48 original
++rows below, the additional12 repair rows, and the ENTIRE repaired main.
++All v1 and both original-review bytes remain preserved. The repair is
++not promoted merely because its intended integral proof previously passed.
+ 
+ |ID|Inference / adversarial boundary|Constructor check|
+ |---|---|---|
+@@ -27,17 +30,17 @@
+ |SQ15-19|a2 forces s3 and T={1,q,q²}; coset scaling implies1-q in+/-T.|No enumeration.|
+ |SQ15-20|(1-q)²=-3q forces-3 in T,p|28,p7,q2; no preliminary construction.|Exact hand identities.|
+ |SQ15-21|SQ15A concludes only for q>=3 with an actual set; a1 and p∤a preserved.|Formal statement.|
+-|SQ15-22|Principal balanced I gives real unit epsilon and integral gamma²/epsilon of SAME I².|§3 explicit unit/ideal check.|
++|SQ15-22|Principal INTEGRAL balanced I gives real unit epsilon and integral gamma²/epsilon of SAME I².|§3 explicit unit/ideal check.|
+ |SQ15-23|Rigidity gives I²=(a); unramified support p∤a forces a square,I rational; converse/a1.|Both directions §3.|
+-|SQ15-24|Balanced norm-ell J has extreme paired exponents; EVERY positive J^u nonrational.|Complete splitting used.|
+-|SQ15-25|Ordinary order R supplies principal J^R, yielding s<=2ell^R-3.|No refined-zero assumption.|
+-|SQ15-26|(2m)rho0 supplies exact SAME J^(2m) integral generator via TD1, yielding(3).|All even multiples,not just exact order.|
++|SQ15-24|EVERY nonzero INTEGRAL balanced norm-ell J has extreme paired exponents and all positive J^u nonrational.|Integrality plus complete splitting used; fractional J excluded.|
++|SQ15-25|For THAT INTEGRAL J, ordinary order R supplies INTEGRAL principal J^R, yielding s<=2ell^R-3.|No refined-zero assumption or fractional generator.|
++|SQ15-26|For THAT INTEGRAL J,(2m)rho0 supplies an exact generator of SAME INTEGRAL J^(2m) via TD1, yielding(3).|Integrality follows from the prescribed ideal; all even multiples,not just exact order.|
+ |SQ15-27|No published nonsquare theorem is silently extended to square norms.|New actual Sidon comparison used.|
+ |SQ15-28|Mixed even q>4; 2^(s/3) residue may be1,q,q², not always nontrivial.|Corrected before freeze; §4.|
+ |SQ15-29|If ordinary value<=p, residue1 forces1 and other residues make q a power2; hence s>=15.|Endpoint/p-divisibility checked.|
+-|SQ15-30|R1/2/3 all have2^R<=8<=(s+1)/2 and are excluded.|R>=4 actual field restriction.|
+-|SQ15-31|m2/m3 exclude4y0 and6y0, hence orders1,2,3,4,6; no new q evaluated.|Even multiples used.|
+-|SQ15-32|R4 implies refined r8 by R|r|2R, requiring nonzero Gamma; no unit defect erased.|TD1 kernel exact.|
++|SQ15-30|For EVERY nonzero INTEGRAL balanced norm2 J, R1/2/3 all have2^R<=8<=(s+1)/2 and are excluded.|Integral-domain R>=4 actual field restriction.|
++|SQ15-31|For y=rho(J,2) of THAT INTEGRAL J,m2/m3 exclude4y0 and6y0, hence orders1,2,3,4,6.|No fractional-label bound or new q evaluation.|
++|SQ15-32|For THAT INTEGRAL J,R4 implies refined r8 by R|r|2R, requiring nonzero4y in Gamma.|No unrelated Gamma bound or erased unit defect.|
+ |SQ15-33|For costs choose T FULL actual M, not merely a known subgroup.|New field explicitly chosen.|
+ |SQ15-34|Actual ideal exponents0..f and conjugate sum f; Gal action has inverse-P convention.|§5.|
+ |SQ15-35|Conjugation changes exponent difference sign, so positive max equals absolute max.|No asymmetric denominator.|
+@@ -54,3 +57,20 @@
+ |SQ15-46|If no nontrivial odd H, orbit statement is vacuous; even H not covered; actual ideal patterns not formal realizations.|Formal limits.|
+ |SQ15-47|Both ordinary-factor collision square thresholds cannot hold for q>=3; general small-cost inference remains unproved.|§7 exact inequality.|
+ |SQ15-48|All new claims remain unverified, old bytes protected, no mathcode/scan/priority/annual claim; entire readback/separate verify and TWO OTHER audits.|Mandatory checkpoint.|
++
++## Additional12 affected-repair obligations
++
++|ID|Repair inference / adversarial boundary|Constructor response|
++|---|---|---|
++|SQ15-R01|Acknowledge SQ15R2-01 as a FALSE fractional extension, not an editorial typo or already-binding hidden definition.|Main v1.1 preface and§8; originalv1 preserved.|
++|SQ15-R02|Define balanced versus INTEGRAL balanced without changing ordinary class groups or fractional TD rho.|§0 explicit distinction.|
++|SQ15-R03|Propagate INTEGRAL to introduction, EVERY J, R/y/even-order clauses, mixed norm2, Gamma and corresponding proofs/checks.|All affected text versioned.|
++|SQ15-R04|Check the published known q8/p73 context and ACTUAL T=<2> order9, without reproducing preliminary construction.|Primary Huang--Schmidt introduction/Result4 plus hand2^9/2^3.|
++|SQ15-R05|Apply the accepted supported FIELD-norm theorem to2; no O_F membership follows.|Fresh TD§1/2 operative scope.|
++|SQ15-R06|For J_fr=(z), show balance2, ordinary R1 and fractional rho0; derive both impossible unqualified9<=1 inequalities.|Main§8 exact diagnostic attributed to A.|
++|SQ15-R07|Prove J_fr nonintegral using independently valid SQ15A and unramified2, not the repaired order assertion.|z² has norm4, then2v_P(z)=1 contradiction.|
++|SQ15-R08|Audit imported TD generator language: exact same ideal gives integrality ONLY if that ideal is integral.|§0 and§3; auxiliary field/ideal denominators retained.|
++|SQ15-R09|Audit all C,V,Gamma consequences: integral norm2 ideals exist by complete splitting, so exponent3/6 conclusions still hold; fractional rho may be0.|§4 explicit witness domain.|
++|SQ15-R10|Check SQ15A/C/D remain their original integral element/actual character/BOTH integral factor statements; no new fractional extension.|Full main retained, not an outline.|
++|SQ15-R11|Do not rely on unqualified historical SQ14D/E order wording; use square lift and reproduced arithmetic s>=15 only.|Source/repair ledger records coordinator-owned old-input concern.|
++|SQ15-R12|FULL-read BOTH original whole packets, preserve every old byte, exact full-version diff/source/check/failure/admin, ALL60 and BOTH affected reaudits.|No author/old/mathcode replay or promotion.|
+--- problems/2020-B4/notes/reasoning-class-return-sq15-constructor-checks-v1.md
++++ problems/2020-B4/notes/reasoning-class-return-sq15-constructor-checks-v1.1.md
+@@ -1,6 +1,6 @@
+ # SQ15 complete hand checks
+ 
+-2026-10-18 UTC. **Candidate proof - unverified.** Constructor checks,
++FULL VERSION v1.1, 2026-10-18 UTC. **Candidate proof - unverified.** Constructor checks,
+ not either required independent whole audit. No mathematical program.
+ 
+ 1. **Actuality of all cosets.** Only one actual nonzero orbit xT is
+@@ -21,7 +21,8 @@
+    not assume coefficients positive, epsilon a square, or h(F) odd.
+    gamma²/epsilon is integral because epsilon is a UNIT and generates
+    EXACTLY I². This is not a correction of I itself in general.
+-5. **Ordinary versus refined orders.** Ordinary J^R principal invokes
++5. **Ordinary versus refined orders, INTEGRAL J only.** Fix a nonzero
++   INTEGRAL balanced norm-ell J. Ordinary J^R principal invokes
+    that squared-unit construction. A refined multiple(2m)y0 instead
+    invokes TD1's exact generator of J^(2m) directly. Both ideals have
+    unequal paired exponents, ruling out a rational generator. The
+@@ -30,12 +31,12 @@
+    tests all three cube-root residues. Under ordinary value<=p,
+    residue1 would make its value1, while q/q² would make q a power2.
+    No statement about the order of2 equaling s is needed.
+-7. **All forbidden orders.** With s>=15, the amplitudes2,4,8 meet
++7. **All forbidden orders, INTEGRAL J only.** With s>=15, the amplitudes2,4,8 meet
+    the improved threshold. Ordinary R<=3 fails. For refined y,
+    4y0 gives a generator of norm16 and6y0 one of norm64, so
+    both fail. This also excludes refined order3 through its SIXTH
+    power, even without separately invoking a nonsquare norm bound.
+-8. **Remaining Gamma.** kappa(y)=[J] and ker kappa has exponent2
++8. **Remaining Gamma for the SAME INTEGRAL J.** kappa(y)=[J] and ker kappa has exponent2
+    give R|r|2R. For R4, r4 is impossible, so r8 and4y is a
+    nonzero kernel element. No all-unit correction is inferred.
+ 9. **Conjugate sign and prime orientation.** At P, the exponent of
+@@ -70,5 +71,31 @@
+     above the threshold. The packet has not proved they cannot, nor
+     proved an arbitrary such array is realized by an actual element.
+ 
++16. **Fractional diagnostic.** At known q8,p73,T=<2>,s9, TD's supported
++    FIELD norm gives z with zc(z)=2, not integrality. Its fractional
++    principal ideal J_fr has ordinary order1 and fractional rho0, making
++    either unqualified v1 bound demand9<=1. This is A's countercheck,
++    preserved with attribution, not a new positive construction.
++17. **Independent nonintegrality.** If J_fr were integral, z² would be
++    integral of norm4. Independently valid SQ15A forces z²=+/-2.
++    Since2 is unramified in F, J_fr²=(2) would require twice an integer
++    prime valuation to equal1. This avoids using the repaired class
++    restriction itself to prove the diagnostic nonintegral.
++18. **All scope occurrences.** The introduction, formal J/even-order
++    claims,§3 ordinary and refined applications,§4 norm2/Gamma claims,
++    and final summary now explicitly restrict to INTEGRAL balanced J.
++    C,V,Gamma still are ordinary groups with fractional representatives;
++    rho on fractional pairs and its possible zero are not removed.
++19. **Other statements.** SQ15A was already integral-element only,
++    SQ15C already actual-integral character plus BOTH integral factors,
++    and SQ15D already an integral ideal-factor criterion. The full
++    proofs remain. No fractional solution is substituted into them.
++20. **Historical input boundary.** SQ14's square lift and reproduced
++    arithmetic s>=15 are the only SQ14 imports needed here. Its historical
++    unqualified universal norm-ell wording is not used for fractional
++    ideals or certified anew by this repair. Root/B own any separate
++    old-authority correction. All old bytes are preserved.
++
+ The whole proof is supplied in the main; these checks do not substitute
+-for independent reconstruction of all48 obligations and source scopes.
++for independent reconstruction of ALL48 original plus12 affected-repair
++obligations and source scopes by BOTH affected OTHER whole auditors.
+--- problems/2020-B4/notes/reasoning-class-return-sq15-failures-v1.md
++++ problems/2020-B4/notes/reasoning-class-return-sq15-failures-v1.1.md
+@@ -1,6 +1,6 @@
+ # SQ15 failed inferences and exact remaining gap
+ 
+-2026-10-18 UTC. Candidate reasoning - unverified. No mathematical
++FULL VERSION v1.1, 2026-10-18 UTC. Candidate reasoning - unverified. No mathematical
+ scan/CAS/table/source rerun was used; no old file was edited.
+ 
+ 1. **Class number size alone.** SQ14's exponential lower bound does
+@@ -11,10 +11,10 @@
+    obstruction Gamma can survive. Correcting gamma by its norm-unit
+    on I is unproved; gamma²/epsilon corrects SAME I² only. The new
+    ordinary-order bound uses that exact square, not a deleted parity
+-   hypothesis. Possible ordinary order4 now REQUIRES a nontrivial
+-   Gamma component and is not contradicted.
++   hypothesis. For INTEGRAL norm-2 J, ordinary order4 REQUIRES a
++   nontrivial Gamma component and is not contradicted.
+ 3. **Two ordinary collision ranges close the mixed product.** For
+-   q=ab, the usual ordinary collision argument pays square balances
++   q=ab, the ordinary collision argument on INTEGRAL ideals pays balances
+    a² and b². Even using the improved endpoint it would need both
+    2a²<=s+1 and2b²<=s+1. Hence2q<=s+1<=q+2, so q<=2.
+    This route cannot apply to BOTH factors in the new q>=3 domain.
+@@ -75,7 +75,29 @@
+     discovery/partial source reads cannot establish absence of this
+     application from the literature. No priority claim is made.
+ 
+-The completed candidate makes an actual new endpoint/class restriction,
++15. **The v1 universal ideal statement silently inherits integrality.**
++    False. R8 defaults to fractional ideals, and TD deliberately defines
++    rho for fractional balanced pairs. A correct integral-generator
++    proof does not supply a missing INTEGRAL statement hypothesis. A's
++    complete blind review gave the actual known q8/p73/s9 diagnostic:
++    fractional J_fr=(z),zc(z)=2, has ordinary R1 and rho0, whereas
++    unqualified(2)/(3) demand9<=1. No integral z exists, as the main
++    independently checks using SQ15A and unramified2. This false v1
++    reading is preserved, not relabelled an editorial-only change.
++16. **Rho zero always gives an integral element.** It gives an exact
++    generator of the SAME ideal. Integrality follows only when that
++    prescribed ideal is integral. Auxiliary field-norm/Hilbert90
++    factors may have denominators even in the integral proof. The new
++    version never applies SQ15A to a fractional generator.
++17. **Use an older unqualified norm-ell clause to avoid the repair.**
++    Not valid. The same domain caution applies to the historical
++    SQ14D/E wording. This version imports only its square lift and the
++    independently reproduced arithmetic s>=15; integral class-order
++    conclusions are rederived in full. Root/B handle any separate old
++    acceptance-scope action, without changing frozen old bytes here.
++
++The completed repaired candidate makes an actual new endpoint/class restriction
++ONLY in its explicit INTEGRAL domains,
+ not a universal mixed-order exclusion. Prime-power versus mixed and
+ prime-conductor versus composite boundaries remain explicit. No new
+ positive or forbidden numerical q or full annual solution is claimed.
+--- problems/2020-B4/notes/reasoning-class-return-sq15-sources-v1.md
++++ problems/2020-B4/notes/reasoning-class-return-sq15-sources-v1.1.md
+@@ -1,3 +1,55 @@
++# SQ15 v1.1 repair source scope and preserved original record
++
++Candidate proof - unverified. BOTH original complete whole packets were
++released after explicit BOTH-entire confirmation and freshly FULL-read
++here: root review1 ALL48/eleven files and A review2 ALL48/eleven files,
++including every issue/source/log/code/metadata/manifest. No original
++reviewer/author executable was run. The unchanged originals are bound
++by exact manifest/payload fingerprints, not silently revised.
++
++SQ15R2-01 is a substantive fractional-domain failure. Fresh targeted
++old-input reads checked the COMPLETE R8 accepted opening through line175,
++including its explicit fractional-ideal default, TD accepted lines253--356,
++including the supported FIELD norm and fractional rho construction,
++and SQ14's exact opening/operative universal order wording. The original
++SQ15 v1 FULL accepted-body/MDJSON reads recorded below remain historical
++actual reads; they are not falsely reported as all freshly repeated for
++this repair. Current exact accepted body/candidate/authority bindings are
++verified administratively. R8 and TD remain unchanged accepted inputs.
++
++TD's generator has the SAME prescribed ideal. It is integral ONLY when
++that ideal is integral. The new main explicitly imposes integrality on
++every universal J/R/y norm/order assertion; class groups and fractional
++rho are NOT redefined. No unqualified historical SQ14D/E order wording
++is used to recover a fractional conclusion. Its square-lift input and
++the reproduced arithmetic size argument are sufficient; old authority
++wording was reported to root, which owns any separate handling.
++
++For A's q8 diagnostic, a fresh public PRIMARY read of Yiwei Huang and
++Bernhard Schmidt, **Uniqueness of Some Cyclic Projective Planes**, author
++version dated15January2008,
++<https://personal.ntu.edu.sg/bernhard/Publications/pub/Singer.pdf>,
++covered the introduction's stated known prime-power Singer existence
++and cyclic difference-set relation (returned lines34--55), and Result4
++at119--120 (prime-power characteristic multiplier normalization). These
++are attributed existing context, not a new construction or a reproduced
++preliminary proof. No other classification/uniqueness result is imported.
++The original Singer1938 body was NOT read/retrieved by this repair;
++review2's reported403 remains its own source access limit. No bypass.
++
++The new field-norm step zc(z)=2 is the accepted TD supported FIELD-norm
++theorem, not an integral assertion. The counterexample J_fr=(z),R1,
++rho0 is attributed to A; the hand nonintegrality check in the repaired
++main uses independently proved SQ15A and unramified2. No class/order
++program, numerical search or new CFT theorem was used. No raw PDF was
++downloaded/cached and new binary hashes are null. Browser call returned
++promptly; no child, wait, charge, contact or pending retrieval.
++
++The following COMPLETE original v1 source record is retained as a dated
++record of its actual reads and limits. Its original files stay immutable.
++
++---
++
+ # SQ15 source, accepted-input and read-limit audit
+ 
+ 2026-10-18 UTC. **Candidate proof - unverified.** Constructor C,
+--- problems/2020-B4/notes/reasoning-class-return-sq15-sources-v1.json
++++ problems/2020-B4/notes/reasoning-class-return-sq15-sources-v1.1.json
+@@ -1,4 +1,32 @@
+ {
++  "version": "v1.1 full versioned integral-domain author repair",
++  "repair_issue": "SQ15R2-01",
++  "original_v1_source_fields_below_are_historical_read_records": true,
++  "fresh_repair_reads": {
++    "original_root_review1": "ENTIRE11 including ALL48/source/log/code/ALLmetadata/manifest",
++    "original_A_review2": "ENTIRE11 including ALL48/issue/source/log/code/ALLmetadata/manifest",
++    "R8": "accepted opening through175, explicit fractional default and theorem scopes",
++    "TD": "accepted253-356, supported FIELD norm and fractional rho/SAME-ideal integrality",
++    "SQ14": "exact opening and universal norm-ell wording; no fractional order clause imported"
++  },
++  "new_primary_repair": {
++    "authors": "Yiwei Huang and Bernhard Schmidt",
++    "title": "Uniqueness of Some Cyclic Projective Planes",
++    "url": "https://personal.ntu.edu.sg/bernhard/Publications/pub/Singer.pdf",
++    "version_date": "2008-01-15",
++    "actual_read": "introduction34-55 known Singer prime-power existence/cyclic relation; Result4 at119-120",
++    "role": "attributed known q8 diagnostic context ONLY, not preliminary proof or new construction",
++    "full20page_or_original_Singer1938_proof_read": false,
++    "binary_sha256": null
++  },
++  "counterexample_attribution": "OTHER reviewer A SQ15R2-01; q8 p73 s9 fractional principal norm2 ideal",
++  "EVERY_SQ15B_J_R_y_order_clause_integral_only": true,
++  "fractional_TD_rho_and_FIELD_norm_existence_retained": true,
++  "historical_SQ14_unqualified_order_wording_not_imported": true,
++  "BOTH_affected_ENTIRE_WHOLE_reaudits_required": true,
++  "whole_obligations": 60,
++  "original_obligations": 48,
++  "additional_repair_obligations": 12,
+   "date_utc": "2026-10-18",
+   "status": "candidate proof - unverified",
+   "constructor": "/root/review_2017_coarsening_r1",

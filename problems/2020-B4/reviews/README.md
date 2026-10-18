@@ -1,5 +1,7 @@
 # 2020 B4 independent reviews
 
+The FULL SQ15 v1.1 integral-domain version is now independently reviewed after BOTH OTHER affected whole60 audits and complete120-disposition reconciliation. It proves actual endpoint rigidity, integral norm2 class-order restrictions and actual conjugate/orbit costs. The original false fractional extension and root miss remain preserved. The separate SQ14D/Ehold remains active pending its own complete repair reviews; full annual classification is open. [Acceptance](reasoning-class-return-sq15-acceptance.md).
+
 Current19October2026: [SQ15 remains UNVERIFIED after a required scope objection](reasoning-class-return-sq15-coordinator-reconciliation-v1.md).
 The second WHOLE audit caught omitted INTEGRAL qualifiers; fractional
 balanced ideals invalidate the broader reading. C prepares a full versioned

@@ -1,5 +1,7 @@
 # 2024 B4 independent reviews
 
+R9 is now independently reviewed after BOTH OTHER whole64 audits and complete128-disposition reconciliation. Its sufficient jet criterion permits NF4-failing root sets and gives the15*2^(4k+2)+1 and variable-odd-part irreducibility families. All ordinary diagonal points and the absolute n13 exception remain. The full annual classification and priority remain open. [Acceptance](reasoning-cofactor-return-r9-acceptance.md).
+
 The [R8A--C no-four-sum criterion](reasoning-cofactor-return-r8-acceptance.md)
 is now **proved, independently reviewed scoped partial result** after
 root/B TWO OTHER ENTIRE WHOLE48/48 and full reconciliation. For NF4,

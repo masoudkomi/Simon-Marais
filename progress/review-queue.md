@@ -1,5 +1,15 @@
 # Independent review queue
 
+Current03:00 continuing checkpoint: [SQ15 full integral-domain version accepted](../problems/2020-B4/reviews/reasoning-class-return-sq15-acceptance.md)
+after TWO OTHER affected whole60/60 and full reconciliation; old false
+fractional reading/root miss preserved. [2024R9 accepted](../problems/2024-B4/reviews/reasoning-cofactor-return-r9-acceptance.md)
+after TWO OTHER whole64/64; new sufficient irreducibility families,annual open.
+SQ14D/Ehold STILL active; full v1.1 author14/76 UNVERIFIED/Caffectedwhole2
+ENTIRE frozenEMBARGO/rootaffectedwhole1pending.53%TOTAL at16:53:13UTC,
+authorized1792874445through90TOTAL/reserveonly. [Checkpoint](checkpoint-2026-10-19-0300.md).
+Last actual tokens/OSawake02:27report; nextACTUAL17:27:30UTC. Other2019/2022/2025handresearch continues.
+
+
 ACTUAL02:27 hourly report delivered02:43Brisbane: [all-nine update](status-2026-10-19-0227.md).
 52%TOTAL at16:43:13UTC/current authorized1792874445 only through90%TOTAL/reserve.
 R10/D8 newly accepted after BOTH OTHER ENTIRE whole60/48 audits and full reconciliation.

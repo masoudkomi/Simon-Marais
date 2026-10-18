@@ -1,0 +1,122 @@
+{
+  "accepted_at_utc": "2026-10-18T16:57:56.955756+00:00",
+  "status": "proved, independently reviewed scoped partial result",
+  "whole_initials_blind": true,
+  "root_read_full_candidate_both_reports_all_ledgers_sources": true,
+  "unresolved_substantive_issues": 0,
+  "repair_required": false,
+  "candidate": {
+    "path": "problems/2024-B4/notes/reasoning-cofactor-return-r9-candidate-v1.md",
+    "bytes": 20443,
+    "sha256": "740e85acc2103aa6ed72ac46ac3089b12cfb29962fc4e0593ccf9e8223af66bf"
+  },
+  "accepted_copy": {
+    "path": "problems/2024-B4/proofs/reviewed-reasoning-cofactor-return-r9-v1.1.md",
+    "bytes": 26416,
+    "sha256": "68a8b1d05a927ffecc13375ee5db5376c780acbf7e3cee3a6659c8c80caa876c"
+  },
+  "verification_metadata": [
+    {
+      "path": "problems/2024-B4/notes/reasoning-cofactor-return-r9-freeze-v1.json",
+      "bytes": 9271,
+      "sha256": "baad7591162df50c28cc4d20794616d165d622ae8c6abc0bb9f699e255d2147d"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-cofactor-return-r9-baseline-v1.json",
+      "bytes": 11782,
+      "sha256": "ccb49fcf02cdd982883f3ba72b988eaf59cec5b69892f9b0a36cb00fd86dacf7"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-cofactor-return-r9-input-validation-v1.json",
+      "bytes": 5755,
+      "sha256": "c856c4808d097f0364805b9062755a8b3b71cefcdcbea3a1cdecc3b24572332b"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-cofactor-return-r9-sources-v1.json",
+      "bytes": 4308,
+      "sha256": "3fab532ed02ead17114147d3fa472b3973d4fe8c50f2ef39fd474dcd0877f54d"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-cofactor-return-r9-review-1-manifest-v1.json",
+      "bytes": 2809,
+      "sha256": "75ed62af5ca27fcf16b7cbce105b83bf964c09d04c200990e960393058bd6a78"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-cofactor-return-r9-review-1-baseline-v1.json",
+      "bytes": 14712,
+      "sha256": "64eeb427fabae6460924b42dd90d2855b79b5d1f2556fc439fcd954700b79804"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-cofactor-return-r9-review-1-input-validation-v1.json",
+      "bytes": 315,
+      "sha256": "2063c727ea2a064fb846751fb70cbf3ecffd83f68bc0afdee3fca99b2b664292"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-cofactor-return-r9-review-1-metadata-v1.json",
+      "bytes": 755,
+      "sha256": "c1a78bc2aa9e984ab957a2dca47466f1037c9b353a820adfcf7ea1e1a846f538"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-cofactor-return-r9-review-1-sources-v1.json",
+      "bytes": 1500,
+      "sha256": "d796c715d22ee871ef9701e6439ffe671d3d2cfda82817024aa9b7d35263426e"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-cofactor-return-r9-review-2-manifest-v1.json",
+      "bytes": 3631,
+      "sha256": "304bd12e24d555159b413a912a985b38311c5be19dba4c467f4f42183088133f"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-cofactor-return-r9-review-2-baseline-v1.json",
+      "bytes": 15686,
+      "sha256": "6fe5c65e00aaa079d7e9697293121dc5781068faaa00c2c58c1ba43309da696f"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-cofactor-return-r9-review-2-input-validation-v1.json",
+      "bytes": 615,
+      "sha256": "1958708fe1c4e8747c771c4c8bc8ff0371c49a9a6ec2e428d87a66c80487d316"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-cofactor-return-r9-review-2-metadata-v1.json",
+      "bytes": 1206,
+      "sha256": "2ce856c257f7babdefe984a044d9432091150bf7ad94a1345587a0a6ac53a230"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-cofactor-return-r9-review-2-sources-v1.json",
+      "bytes": 2687,
+      "sha256": "7296a666298f365b3a1400b41344f7fb971d27d48abb7485384ac80a6f3dc52a"
+    }
+  ],
+  "record_occurrences_verified": 202,
+  "unique_paths_verified": 89,
+  "constructor": "/root/review_2022_complexity_r2",
+  "constructor_excluded": true,
+  "whole_reviewers": [
+    "/root",
+    "/root/review_2017_coarsening_r1"
+  ],
+  "whole_obligations_per_review": 64,
+  "whole_review_files": [
+    11,
+    11
+  ],
+  "closed_scope_notes": [
+    8,
+    9
+  ],
+  "explicit_BOTH_entire_before_NEW_peer_content_file_access": true,
+  "root_read_ENTIRE_author_both_reviews_all_code_metadata": true,
+  "whole_absolute_irreducibility": true,
+  "condition_J_sufficient_only": true,
+  "NF4_not_required": true,
+  "no_diagonal_gcd1_requirement": true,
+  "exceptional_pair": [
+    3,
+    4
+  ],
+  "ell15_combined_i4_unasserted": true,
+  "inverse_even_field_APN_claim": false,
+  "annual_open": true,
+  "priority_claim": false,
+  "no_mathematical_program_or_old_replay": true
+}
