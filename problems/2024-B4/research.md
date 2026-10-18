@@ -1,5 +1,7 @@
 # 2024 B4 research log
 
+08:51: Separate root R13 two-parameter family is frozen UNVERIFIED, ENTIRE5/ALL32, requiring A/B TWO OTHER whole audits; accepted TR12 remains unchanged. [Candidate](notes/coordinator-tensor-family-return-r13-candidate-v1.md).
+
 08:33 update: TR12A–D is now independently reviewed after A/B TWO OTHER whole48 audits and full96 reconciliation; root/C excluded. Coprime binary field tensors give exact M21=96,M105=696 and WHOLE absolute irreducibility for EVERY n=105*2^(12t+6)+1,t>=0,includingn6721. Full classification, failed-test converse and priority remain open. R13 is a separate UNVERIFIED two-parameter exploration. [Acceptance](reviews/coordinator-tensor-return-r12-acceptance.md).
 
 08:23 update: [FR11 subgroup-translation criterion](reviews/reasoning-frobenius-return-r11-acceptance.md) is now independently reviewed after BOTH OTHER whole48 audits and complete96-disposition reconciliation. It proves whole absolute irreducibility for EVERY n=105*2^(12t+6)+1,t>=1; the exact old positive-P test fails there. The separate root TR12 tensor-count candidate, including proposed t0/n6721, remains UNVERIFIED under A/B whole audits. Full classification, converse and published priority remain open.

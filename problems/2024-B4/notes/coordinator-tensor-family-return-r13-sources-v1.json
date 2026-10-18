@@ -1,0 +1,93 @@
+{
+  "status": "candidate proof - unverified",
+  "purpose": "literal source scope and necessary accepted inputs; documentary fingerprints are not mathematical proof",
+  "fresh_complete_local_reads": "Both accepted FR10 and TR12 bodies and EACH current MDJSON; missing clipped ranges recovered; local statement, AGENTS and exploration. Older full foundational chains remain historical, not repeated audits.",
+  "input_records": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2024-B4/statement.md",
+      "bytes": 2470,
+      "sha256": "60244f7752634772adb434efbdb41a63fb02029dc3be4238f3718c6e5ec84e5f"
+    },
+    {
+      "path": "problems/2024-B4/proofs/reviewed-coordinator-tensor-return-r12-v1.1.md",
+      "bytes": 29355,
+      "sha256": "48b6926a174202e447e04673f0507fc8e4708c7ee212fd3a68d6b90957a2845f"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-tensor-return-r12-acceptance.md",
+      "bytes": 4545,
+      "sha256": "e249d970a412669e07bfa0eead8770e65c329bdc2a08f786c508174b825fb123"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-tensor-return-r12-acceptance.json",
+      "bytes": 3501,
+      "sha256": "30eb2b734af32202527174a145d2c5604ad62ce72918361e30c12a55dd5bd9f2"
+    },
+    {
+      "path": "problems/2024-B4/proofs/reviewed-reasoning-frobenius-return-r10-v1.1.md",
+      "bytes": 27940,
+      "sha256": "ce9a3c9e00ce931716fe00d6ea0a605167ddf58a29779d459a62cbc9dd04d173"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-frobenius-return-r10-acceptance.md",
+      "bytes": 4987,
+      "sha256": "4c2982ad2f8367e02b6c6f989c0a9ed9cb275a92b5b968bfab5d7494ed432867"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-frobenius-return-r10-acceptance.json",
+      "bytes": 3682,
+      "sha256": "fdaf0350da036559371864a15a4e78b9102f176995b1ec672ef3f7e68b72d5be"
+    },
+    {
+      "path": "problems/2024-B4/notes/coordinator-tensor-family-return-r13-exploration-v0.md",
+      "bytes": 6084,
+      "sha256": "14bbe46524d27b9e3157327db888bfdae905993f6aadee84f741e41ebc292af4"
+    }
+  ],
+  "primary_sources": [
+    {
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc2024_paper_b.pdf",
+      "read": "p2 designation57-59/setup60-63/open(b)68-71/coefficientwise definition72-74",
+      "use": "official domain only; preliminary(a) not investigated"
+    },
+    {
+      "url": "https://link.springer.com/article/10.1007/s12095-017-0213-1",
+      "title": "Eric Ferard, hyperplane sections of Fermat varieties in characteristic2.II,2017",
+      "read": "publisher metadata/entire abstract33 and references only",
+      "body_read": false,
+      "use": "possible overlap only; no theorem imported"
+    },
+    {
+      "url": "https://gaati.org/publications/fr/",
+      "read": "primary laboratory publication record line170",
+      "record": "hal-03417811",
+      "use": "primary institutional manuscript discovery"
+    },
+    {
+      "url": "https://upf.hal.science/hal-03417811/document",
+      "read": "bounded public curl retrieval returned404; web HAL documents inaccessible",
+      "PDF_obtained": false,
+      "bypass_or_purchase": false
+    },
+    {
+      "url": "https://www.aimsciences.org/article/doi/10.3934/amc.2014.8.497",
+      "read": "publisher metadata/entire abstract78-80 only",
+      "body_read": false,
+      "use": "literal residue context only; no theorem-level nonoverlap"
+    }
+  ],
+  "unread_originals": [
+    "Jedlicka2007 operative body",
+    "Ferard2017 operative body",
+    "Ferard2014 operative body"
+  ],
+  "historical_context": "Delsarte1978 metadata/abstract through TR12 only; no external rank theorem imported",
+  "annual_open": true,
+  "priority_claim": false,
+  "no_math_program_or_old_replay": true
+}

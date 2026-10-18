@@ -31,10 +31,11 @@ and counterfamily leave the global base and annual value unchanged.
 [2024 FR11](problems/2024-B4/reviews/reasoning-frobenius-return-r11-acceptance.md)
 is now independently reviewed; it covers n=105*2^(12t+6)+1,t>=1.
 2021R22,2022RC10 and2024TR12 are accepted scoped partials after both
-OTHER whole audits and coordinator reconciliation. NEW2025R10 has passed
-both entire independent reviews; coordinator reconciliation remains pending.
-Root R13 broader2024 exploration remains UNVERIFIED. Weekly67%TOTAL at
-22:39:26UTC/reset1792874445; continue to90%TOTAL with reserve. Hand research
+OTHER whole audits and coordinator reconciliation. [2025R10](problems/2025-B4/reviews/reasoning-compatible-return-r10-acceptance.md)
+is also accepted in its exact local/conditional ideal scopes; no new
+Diophantine exclusion follows. NEW2024R13/2020R18 author packets are
+frozen UNVERIFIED and require their separate TWO OTHER whole audits.
+Weekly68%TOTAL at22:50:28UTC/reset1792874445; continue to90%TOTAL with reserve. Hand research
 continues independently on2017/2020/2021 and the other open gaps.
 
 [2021R22](problems/2021-B4/reviews/reasoning-center-return-r22-acceptance.md)
@@ -43,11 +44,11 @@ now passed both OTHER whole audits and reconciliation. R22 removes the
 integral frame branch only; TR12 includes exponent6721.
 [2022RC10](problems/2022-B4/reviews/reasoning-collision-return-r10-acceptance.md)
 is also accepted: exact first-hit/crossing and selected scalar-return
-families leave universal hitting open. R13 exploration and2025R10 await
-their separate acceptance steps. Latest weekly observation67%TOTAL at
-22:39:26UTC; continue to90%TOTAL with reserve.
+families leave universal hitting open. 2025R10 is accepted; NEW2024R13 and2020R18 remain UNVERIFIED under
+their own independent whole reviews. Latest weekly68%TOTAL at22:50:28UTC;
+continue to90%TOTAL with reserve.
 
-- [Latest continuing checkpoint](progress/status-2026-10-19-0840.md).
+- [Latest continuing checkpoint](progress/checkpoint-2026-10-19-0851.md).
 - [Latest actual hourly report](progress/status-2026-10-19-0827.md).
   Next actual hourly/token/owned-awake check23:27:30UTC.
 

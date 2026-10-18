@@ -1,0 +1,35 @@
+{
+  "frozen_at_utc": "2026-10-18T22:45:19.891176+00:00",
+  "status": "candidate proof - unverified",
+  "whole_obligations": 32,
+  "payloads": [
+    {
+      "path": "problems/2024-B4/notes/coordinator-tensor-family-return-r13-candidate-v1.md",
+      "bytes": 18156,
+      "sha256": "49b85dd188405691ca9146c27659130c0f1606015b31d22a753426a6891335f9"
+    },
+    {
+      "path": "problems/2024-B4/notes/coordinator-tensor-family-return-r13-sources-v1.json",
+      "bytes": 3851,
+      "sha256": "66df59714a7f9dd4eb2907dbbd3f130cc59f8724867fb6d641552b88bf989598"
+    },
+    {
+      "path": "problems/2024-B4/notes/coordinator-tensor-family-return-r13-admin-v1.py",
+      "bytes": 2992,
+      "sha256": "d0b163f09da581a28f52badebb42a8a48c8af2315f1da2a06c5a79fdd635f3df"
+    },
+    {
+      "path": "problems/2024-B4/notes/coordinator-tensor-family-return-r13-baseline-v1.json",
+      "bytes": 2170,
+      "sha256": "56e70b46d27c4d44f7924353049c5721bde954df82ecef51f54c2c557cb40d95"
+    }
+  ],
+  "FULL_final_payload_model_readback_required_before_freeze": true,
+  "FULL_manifest_model_readback_then_SEPARATE_verify_required": true,
+  "two_OTHER_initially_blind_ENTIRE_whole_audits_required": true,
+  "NEW_contributors_excluded": [
+    "/root",
+    "/root/review_2017_coarsening_r1"
+  ],
+  "mathematical_program_or_old_replay": false
+}

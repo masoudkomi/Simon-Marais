@@ -1,0 +1,115 @@
+{
+  "reviewer": "/root/review_2021_reasoning_j15_r2",
+  "role": "OTHER initially blind ENTIRE WHOLE1",
+  "checked_utc_date": "2026-10-18",
+  "NEW_R10_contribution": false,
+  "old_roles": [
+    "A OLD DR6, DR7 and DR8 constructor",
+    "A OLD RD and branch/Runge whole reviewer",
+    "old accepted inputs not independently self-recertified"
+  ],
+  "constructor_packet": {
+    "ENTIRE_files_model_read": 14,
+    "all_obligations_individually_reconstructed": 64,
+    "author_executable_run": false,
+    "code_scope": "documentary byte/JSON/label handling only; fully read, never executed"
+  },
+  "accepted_local_reading": [
+    {
+      "body": "problems/2025-B4/proofs/reviewed-reasoning-diagonal-return-r8-v1.1.md",
+      "entire_body_fresh_read": true,
+      "current_acceptance_MD_and_JSON_fresh_read": true,
+      "role": "context only, extra p>=37 and p divides X(X+1); no identification with R10 real ideals",
+      "new_self_recertification": false
+    },
+    {
+      "body": "problems/2025-B4/proofs/reviewed-reasoning-return-r9-v1.1.md",
+      "entire_body_fresh_read": true,
+      "current_acceptance_MD_and_JSON_fresh_read": true,
+      "role": "failed-bridge/evaluated-zero/denominator context only; not a specialized mathematical premise"
+    },
+    {
+      "body": "problems/2025-B4/proofs/reviewed-reasoning-return-r6-v1.1.md",
+      "entire_body_fresh_read": false,
+      "current_acceptance_MD_and_JSON_fresh_read": true,
+      "role": "authority/scope only; body fingerprint protected, no R6 Jacobi or height theorem imported"
+    }
+  ],
+  "primary_sources": [
+    {
+      "id": "official2025",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc2025_paper_b.pdf",
+      "fresh_operative_lines": [[59, 61], [67, 71]],
+      "role": "signed ordinary-integer open(b) domain and degree convention",
+      "preliminary_a_solution_investigated": false
+    },
+    {
+      "id": "CM2026",
+      "authors": "Han Chen and Preda Mihailescu",
+      "title": "New Conditions on the Nagell-Ljunggren Equation",
+      "doi": "10.1007/s11401-026-0018-7",
+      "url": "https://camath.fudan.edu.cn/camb/ch/reader/create_pdf.aspx?file_no=47B208&flag=1",
+      "fresh_returned_read_ranges": [[0, 489]],
+      "complete_short_operative_class_setup_read": true,
+      "operative_passage": "Section1.2, including Lemmas1.1 and1.2, and actual Theorem1.2/standing setup",
+      "literal_hypotheses_checked": [
+        "distinct odd primes p,q in the standing setup",
+        "minus index is exactly the order of Cl(K)/image Cl(Kplus)",
+        "possible p<29 and negative-X exceptions retained in the theorem",
+        "e0 setup for the short characteristic ideal passage"
+      ],
+      "later_exclusion_proof_freshly_audited": false,
+      "later_exclusion_theorem_imported": false,
+      "complete_source_read_by_this_reviewer": false,
+      "visual_read_or_raw_PDF_hash": false,
+      "role": "primary contextual attribution; R10 reconstructs its own entire ideal/phase interface"
+    },
+    {
+      "id": "BMv2",
+      "authors": "B. Bartolome and P. Mihailescu",
+      "title": "On the Equation X^n-1=BZ^n",
+      "url": "https://arxiv.org/pdf/1412.5798v2",
+      "fresh_returned_read_ranges": [[0, 334]],
+      "external_version": "30 June2015",
+      "internal_version": "1.13, 2 November2021",
+      "actual_bound_statement_and_appendix_warning_read": true,
+      "operative_upper_bound_proof_freshly_read": false,
+      "Appendix_freshly_read": false,
+      "theorem_imported": false,
+      "role": "published-bound/version context only; no stronger-bound conflict or numerical exclusion inferred"
+    },
+    {
+      "id": "MilneANT",
+      "author": "J.S. Milne",
+      "title": "Algebraic Number Theory v3.08, 19 July2020",
+      "url": "https://www.jmilne.org/math/CourseNotes/ANT.pdf",
+      "fresh_complete_operative_passages": [
+        {"item": "Proposition6.2 and its complete proof", "lines": [5932, 6111]},
+        {"item": "Proposition7.55 and complete proof, Remark7.56", "lines": [7993, 8034]},
+        {"item": "Proposition8.13, Frobenius definition and direct existence proof,8.14-8.16", "lines": [8565, 8647]},
+        {"item": "Example8.18, cyclotomic Frobenius and its residue degree", "lines": [8661, 8692]}
+      ],
+      "hypotheses_checked": [
+        "prime-power cyclotomic field for the integer-ring and ramification proposition",
+        "finite extension of a complete discrete valuation field for Eisenstein/uniformizer statements",
+        "finite Galois number-field extensions and unramified primes for Frobenius/restriction",
+        "rational prime not dividing the conductor in the cyclotomic residue-degree example"
+      ],
+      "full_book_read_or_audited": false,
+      "role": "classical foundational checks; all NEW local-power/ideal deductions hand-reconstructed in the review"
+    }
+  ],
+  "source_retrieval": {
+    "ordinary_public_web_requests": true,
+    "raw_paper_download_cache_write_or_hash_claim": false,
+    "visual_PDF_claim": false,
+    "long_tool_wait_or_native_job": false,
+    "charge_contact_bypass": false
+  },
+  "output_clipping_precision": "A combined local result clipped part of code/baseline; those exact files and main tail were separately recovered. No clipped middle is counted as read.",
+  "corresponding_NEW_B_R10_finding_file_actual_inventory_hash_metadata_public_commentary_accessed": false,
+  "corresponding_peer_completion_identity_received": false,
+  "other_root_accepted_result_status_messages": "unrelated FR11/TR12/R22 administrative updates only; no corresponding R10 finding or premise",
+  "mathematical_program_CAS_scan_test_optimizer_or_old_source_author_replay": false,
+  "annual_solution_or_priority_claim": false
+}

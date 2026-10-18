@@ -1,0 +1,58 @@
+{
+  "created_at_utc": "2026-10-18T22:44:58.978921+00:00",
+  "input_records": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2024-B4/statement.md",
+      "bytes": 2470,
+      "sha256": "60244f7752634772adb434efbdb41a63fb02029dc3be4238f3718c6e5ec84e5f"
+    },
+    {
+      "path": "problems/2024-B4/proofs/reviewed-coordinator-tensor-return-r12-v1.1.md",
+      "bytes": 29355,
+      "sha256": "48b6926a174202e447e04673f0507fc8e4708c7ee212fd3a68d6b90957a2845f"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-tensor-return-r12-acceptance.md",
+      "bytes": 4545,
+      "sha256": "e249d970a412669e07bfa0eead8770e65c329bdc2a08f786c508174b825fb123"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-tensor-return-r12-acceptance.json",
+      "bytes": 3501,
+      "sha256": "30eb2b734af32202527174a145d2c5604ad62ce72918361e30c12a55dd5bd9f2"
+    },
+    {
+      "path": "problems/2024-B4/proofs/reviewed-reasoning-frobenius-return-r10-v1.1.md",
+      "bytes": 27940,
+      "sha256": "ce9a3c9e00ce931716fe00d6ea0a605167ddf58a29779d459a62cbc9dd04d173"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-frobenius-return-r10-acceptance.md",
+      "bytes": 4987,
+      "sha256": "4c2982ad2f8367e02b6c6f989c0a9ed9cb275a92b5b968bfab5d7494ed432867"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-frobenius-return-r10-acceptance.json",
+      "bytes": 3682,
+      "sha256": "fdaf0350da036559371864a15a4e78b9102f176995b1ec672ef3f7e68b72d5be"
+    },
+    {
+      "path": "problems/2024-B4/notes/coordinator-tensor-family-return-r13-exploration-v0.md",
+      "bytes": 6084,
+      "sha256": "14bbe46524d27b9e3157327db888bfdae905993f6aadee84f741e41ebc292af4"
+    }
+  ],
+  "necessary_paths_only": true,
+  "mathematical_code": false,
+  "NEW_constructor": "/root",
+  "conceptual_trigger_excluded": "/root/review_2017_coarsening_r1",
+  "requested_model": "inherited gpt-6.1-sol",
+  "requested_reasoning": "inherited max",
+  "effective_setting_independent_readback": null,
+  "all_old_bytes_must_remain": true
+}

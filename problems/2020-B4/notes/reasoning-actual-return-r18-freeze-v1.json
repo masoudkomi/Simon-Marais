@@ -1,0 +1,78 @@
+{
+  "frozen_utc": "2026-10-18T22:49:50.615262+00:00",
+  "status": "candidate proof - unverified",
+  "constructor": "/root/review_2022_complexity_r2",
+  "constructor_excluded": true,
+  "root_NEW_mathematical_contribution": false,
+  "OTHER_initially_blind_ENTIRE_WHOLE_audits_required": 2,
+  "claims": [
+    "AR18A",
+    "AR18B",
+    "AR18C",
+    "AR18D",
+    "AR18E"
+  ],
+  "whole_obligations": 64,
+  "ENTIRE_files": 5,
+  "payload_records": [
+    {
+      "path": "problems/2020-B4/notes/reasoning-actual-return-r18-candidate-v1.md",
+      "bytes": 36654,
+      "sha256": "ec8f52badb1c22bdb846f1804be9cb1604171aa683c919df61c76d3b636528e9"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-actual-return-r18-sources-v1.json",
+      "bytes": 6400,
+      "sha256": "1f6157767acc8c8295c775fda7a2dc28a4fb145226578f877197d2d89fa3fe03"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-actual-return-r18-admin-v1.py",
+      "bytes": 10025,
+      "sha256": "11e954ba54c49d7fc4198fd538fc858d7ec5984cf8838e0beb7453caf332f6af"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-actual-return-r18-baseline-v1.json",
+      "bytes": 7246,
+      "sha256": "b2e2248f4b7369d20fad65bf7e6b5798a8718a1e941b8e527255d5bf09660b7e"
+    }
+  ],
+  "all_guard_summary": {
+    "occurrences": 34,
+    "unique_paths": 34,
+    "canonical_sha256": "fe0f20accc5a2e8b64fc99217370654246b06aa719af9b9402eb253d70ae2558"
+  },
+  "own_immediate_parent": {
+    "path": "problems/2025-B4/reviews/reasoning-compatible-return-r10-review-2-manifest-v1.json",
+    "bytes": 3003,
+    "sha256": "bf0fefc985bc7c6d681338114f321f5d6c5a857cd6cd9d8ca751633f5b20ba32"
+  },
+  "older_own_paths_bound_transitively": 995,
+  "older_plus_NEW5_own_paths_bound_transitively": 1000,
+  "literal_checks": {
+    "literal_whole_obligations": 64,
+    "literal_author_scope_notes": 8,
+    "claims": 5,
+    "mathematical_truth_checked_by_code": false
+  },
+  "requested": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "effective_readback": null,
+  "FULL_final_MODEL_ALL4_payload_readback_completed": true,
+  "FULL_manifest_MODEL_readback_then_SEPARATE_readonly_verify_required": true,
+  "NEW_peer_review_or_root_NEW_R13_tensor_material_accessed": false,
+  "mathematical_program_CAS_scan_test_source_author_old_replay": false,
+  "Git_shared_old_cache_mutation_spawn_charge_contact_bypass": false,
+  "full_annual_new_taut_order_mixed_exclusion_priority_or_promotion_claim": false,
+  "weekly": {
+    "authority": "root direct telemetry received",
+    "at_utc": "2026-10-18 22:45:30 UTC",
+    "TOTAL_used_percent": 67,
+    "resetsAt": 1792874445,
+    "TOTAL_ceiling": 90,
+    "integration_reserve": true,
+    "automatic_later_window_spending": false
+  }
+}

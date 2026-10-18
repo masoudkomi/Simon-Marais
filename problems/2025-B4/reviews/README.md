@@ -1,5 +1,7 @@
 # 2025 B4 independent reviews
 
+08:51 update: R10A–D is now independently reviewed after A/B TWO OTHER whole64 audits and full128 coordinator reconciliation. The exact local phase iff, denominator-cleared distinct-exponent principality and CONDITIONAL actual cofactor-ideal partition are accepted. Local roots do not imply global(C), and the entire centered cofactor remains. No new Diophantine exclusion, useful height improvement or annual solution. The separate2024R13/2020R18 candidates remain unverified. [Acceptance](reasoning-compatible-return-r10-acceptance.md).
+
 The newly accepted [DR7 actual cofactor-order theorem](reasoning-diagonal-return-r7-acceptance.md)
 passed root/B TWO OTHER ENTIRE WHOLE48/48 audits and full96-disposition
 reconciliation. For p>=37 in the stated signed residual sector, the actual

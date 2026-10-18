@@ -1,5 +1,15 @@
 # Research dashboard
 
+Current08:51 continuing checkpoint: [2025R10 accepted](../problems/2025-B4/reviews/reasoning-compatible-return-r10-acceptance.md)
+after A/B OTHERwhole64/rootall128;exactLOCALiff/CONDITIONAL actualcofactor,
+no new Diophantineexclusion/annual solution. Root2024R13author5/32 and
+B2020R18author5/64 frozenUNVERIFIED; A/B OTHER32 androot/C OTHER64
+reviews queued/active after currenthandcheckpoints. C2017/A2021 handwork
+continues.68%TOTAL22:50:28UTC/same1792874445through90TOTALreserve;
+literalprojecttokens/OWNawake remain08:40snapshot. [Checkpoint](checkpoint-2026-10-19-0851.md).
+NextACTUALhourly23:27:30UTC. Twoannualcomplete/sevenunresolved.
+
+
 Current08:40 requested update: [RC10 accepted](../problems/2022-B4/reviews/reasoning-collision-return-r10-acceptance.md)
 after C/root OTHER whole60/all120 reconciliation;actual first-hit2N-crossing
 families/unbounded selected return slopes/finite ordinary words,not universal

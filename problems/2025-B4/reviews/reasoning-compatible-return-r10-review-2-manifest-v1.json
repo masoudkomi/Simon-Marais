@@ -1,0 +1,80 @@
+{
+  "frozen_utc": "2026-10-18T22:37:52.103786+00:00",
+  "role": "OTHER initially blind ENTIRE WHOLE2 R10A-D",
+  "reviewer": "/root/review_2022_complexity_r2",
+  "C_constructor_excluded": true,
+  "whole_obligations": 64,
+  "ENTIRE_files": 5,
+  "payload_records": [
+    {
+      "path": "problems/2025-B4/reviews/reasoning-compatible-return-r10-review-2-initial-v1.md",
+      "bytes": 31336,
+      "sha256": "9f4dac761b17605bab769eabedffb8c875e5f2e52be5321c306c6593255eed53"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-compatible-return-r10-review-2-sources-v1.json",
+      "bytes": 4525,
+      "sha256": "02be988f306ed5a42a28373a9556f58a463a179e5be9c91d943d16a4ed84b200"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-compatible-return-r10-review-2-admin-v1.py",
+      "bytes": 10170,
+      "sha256": "099dfde50633eefcf91d8fb55dd52ea1b02418ce70f6c51e0bdf0e807048de10"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-compatible-return-r10-review-2-baseline-v1.json",
+      "bytes": 5634,
+      "sha256": "19900e4ffcd6c9051e92d0dd0381aaa1ba03af523a299b446329752c09d08164"
+    }
+  ],
+  "author_main": {
+    "path": "problems/2025-B4/notes/reasoning-compatible-return-r10-candidate-v1.md",
+    "bytes": 20135,
+    "sha256": "3820e0f7677ee8879da687a4d294ead1b5aaa9f0cc44d110de2e576158468107"
+  },
+  "author_freeze": {
+    "path": "problems/2025-B4/notes/reasoning-compatible-return-r10-freeze-v1.json",
+    "bytes": 3692,
+    "sha256": "167e4721b87d245a4dc82e5ffcc11d4fdd1dfad702785906fc732b7cd5f8b306"
+  },
+  "all_guard_summary": {
+    "occurrences": 60,
+    "unique_paths": 60,
+    "canonical_sha256": "e197470fa32044ca72a5f421f5b6b9820b11704771c8bf8df6efff03050bf43c"
+  },
+  "own_immediate_parent": {
+    "path": "problems/2024-B4/reviews/coordinator-tensor-return-r12-review-2-manifest-v1.json",
+    "bytes": 2972,
+    "sha256": "e3bd98207b6eda0a2b884b73d0e43805788c93272cd8dca3e4465bcf75999ce2"
+  },
+  "older_own_paths_bound_transitively": 990,
+  "older_plus_NEW5_own_paths_bound_transitively": 995,
+  "literal_checks": {
+    "author_literal_obligations": 64,
+    "author_literal_checks": 64,
+    "review_literal_dispositions": 64,
+    "closed_scope_notes": 12,
+    "mathematical_truth_checked_by_code": false
+  },
+  "requested": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "effective_readback": null,
+  "FULL_final_MODEL_ALL4_payload_readback_completed": true,
+  "FULL_manifest_MODEL_readback_then_SEPARATE_readonly_verify_required": true,
+  "corresponding_NEW_peer_access": false,
+  "findings_EMBARGO_until_explicit_BOTH_ENTIRE": true,
+  "mathematical_program_CAS_scan_test_old_replay": false,
+  "old_shared_Git_cache_mutation": false,
+  "weekly": {
+    "authority": "root direct telemetry received",
+    "at_utc": "2026-10-18 22:27 UTC",
+    "TOTAL_used_percent": 66,
+    "resetsAt": 1792874445,
+    "ceiling_TOTAL_percent": 90,
+    "integration_reserve": true,
+    "automatic_later_window_spending": false
+  }
+}

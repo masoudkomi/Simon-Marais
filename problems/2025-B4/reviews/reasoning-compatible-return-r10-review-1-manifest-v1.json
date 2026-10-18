@@ -1,0 +1,55 @@
+{
+  "frozen_utc": "2026-10-18T22:36:43.503376+00:00",
+  "reviewer": "/root/review_2021_reasoning_j15_r2",
+  "role": "OTHER initially blind ENTIRE WHOLE1",
+  "whole_obligations": 64,
+  "payload_count": 4,
+  "ENTIRE_files": 5,
+  "payloads": [
+    {
+      "path": "problems/2025-B4/reviews/reasoning-compatible-return-r10-review-1-report-v1.md",
+      "bytes": 32651,
+      "sha256": "61f109de9f5035e37009aa343d561fc676c602fe17c192a2df14b1048715f029"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-compatible-return-r10-review-1-sources-v1.json",
+      "bytes": 5720,
+      "sha256": "9d425d615759adc459793579c0b53ed0b5e65ed421e556b2a005dceb2bdc9b43"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-compatible-return-r10-review-1-admin-v1.py",
+      "bytes": 10401,
+      "sha256": "4adb10c9229e885a1a8608dc2e89171381b33d9dac2f45a7f996fee3af5bcaee"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-compatible-return-r10-review-1-baseline-v1.json",
+      "bytes": 8017,
+      "sha256": "678676de57ceda90914d1dab8bc7ef1eab1791b356778335c4226f25c075b916"
+    }
+  ],
+  "current_occurrence_summary": {
+    "occurrences": 25,
+    "unique_paths": 25,
+    "canonical_deduplicated_sha256": "d40b085b5e4171f2bdeaf49f9e3169f3ec798b31c69bba2e3cb4fbb95b007030"
+  },
+  "effective_fresh_guard_summary": {
+    "occurrences": 127,
+    "unique_paths": 103,
+    "canonical_deduplicated_sha256": "e5d4ef4d1963877a11a28cc1e5f4fd49025e67d0b8d07f4b660ee27596173a7d"
+  },
+  "FULL_final_ALL4_payload_model_readback_completed": true,
+  "FULL_manifest_model_readback_then_SEPARATE_readonly_verify_REQUIRED": true,
+  "corresponding_NEW_B_R10_finding_file_actual_inventory_hash_metadata_public_commentary_seen": false,
+  "corresponding_peer_completion_identity_received": false,
+  "NEW_R10_constructive_contribution": false,
+  "OLD_DR6_DR7_DR8_authorship_and_other_roles_disclosed_not_self_recertified": true,
+  "requested": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independent_effective_setting_readback": null,
+  "mathematical_program_CAS_scan_test_optimizer_source_author_old_replay": false,
+  "findings_release_requires_explicit_BOTH_ENTIRE_confirmation": true,
+  "status": "Independent whole review recommendation only; root reconciliation required"
+}

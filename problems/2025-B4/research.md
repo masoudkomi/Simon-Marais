@@ -1,5 +1,7 @@
 # 2025 B4 research log
 
+08:51 update: R10A–D is now independently reviewed after A/B TWO OTHER whole64 audits and full128 coordinator reconciliation. The exact local phase iff, denominator-cleared distinct-exponent principality and CONDITIONAL actual cofactor-ideal partition are accepted. Local roots do not imply global(C), and the entire centered cofactor remains. No new Diophantine exclusion, useful height improvement or annual solution. The separate2024R13/2020R18 candidates remain unverified. [Acceptance](reviews/reasoning-compatible-return-r10-acceptance.md).
+
 ## Research significance and connections
 
 Opening overview updated 2026-10-18. Away from elementary boundary values,
