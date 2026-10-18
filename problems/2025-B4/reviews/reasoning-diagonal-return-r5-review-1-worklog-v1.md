@@ -1,0 +1,11 @@
+# RD root OTHER whole worklog
+
+2026-10-18 UTC. Confirmed unused reasoning-diagonal-return-r5-review-1-* before any write. Bsole NEW constructor excluded; root supplied no NEW inference. Root olderRS quotient role disclosed,not an operative new inference or fresh self-certification. A OTHERWHOLE2 works separately; no corresponding NEW A RD findings/files/hashes/metadata opened.
+
+Read ENTIRE11author/ALL48/checks/failures/sources/log/code/ALLmetadata. Rebuilt the real quadratic-degree proof,all-finite-prime denominator proof,real valuation parity/tied-fiber count,rational ramification normalization,monic Chebyshev determinant bound,exact all-depth cancellation and actual cofactor bookkeeping by hand. Fresh COMPLETE BD/BR/RS/R6/currentMDJSON read; clippedBD/RS sections separately recovered. Fresh official and original Mihailescu complete operative2.2/normalization proof/Hadamard context and signed Bennett–LevinProposition1 inspected with exact read limits. Classical Jacobi formula remains attributed,no unread stronger source result imported. No full thirdparty PDF downloaded or bytehashed.
+
+No math executable,CAS,scan,test,optimizer,author/source code or old certificate replay. Only NEW create-only administrative script checks bytes/SHA/current accepted suffixes/ordered48labels. It never computes a trace,discriminant,prime table or inequality. No mathematical native job/PID/approval/charge/contact/bypass. Corresponding NEW A RD access excluded until entire own checkpoint/fullreadback/separateverify and BOTH confirmation. Initial verdict withheld.
+
+Latest direct root weekly observation12:41:05UTC35%TOTAL,10080min/reset1792874445,ordinaryallowed/legacybylimitagree. Same explicitly authorized window to90TOTAL with reserve;no later-window spending. Next ACTUAL hourly13:27:30UTC,owned awakePID79293/session64368 remains coordinated.2024R6 accepted/pushed separately while this initially blind RD audit continued; no NEW RD peer material was used.
+
+ENTIRE report/ALL48/issues/source/log/code/ALLgeneratedmetadata and manifest must be FULL model read back,then SEPARATELY read-only verified before identity-only handoff. Findings release only after BOTH entire checkpoints. Internal review is not external validation; full annual question remains open.

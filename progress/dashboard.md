@@ -1,5 +1,16 @@
 # Research dashboard
 
+CURRENT23:00Brisbane18October2026: [continuing checkpoint](checkpoint-2026-10-18-2300.md).
+36%TOTAL direct12:56:57UTC/reset1792874445/currentwindow90TOTAL/reserve.
+2025RD1–4 now accepted after TWO OTHER ENTIRE WHOLE48/48/full reconciliation:
+actual BOTH-center signed c>p^(s−2);fixedc<p forces depth2,quadratic families
+and annual target remain open.2024R6 already accepted/pushedb5ecff9.
+C2017path-mass/B2019high-cut research nearing entirecheckpoints;A2021R19
+new actual-center research.2022D6OTHERrootwhole2frozen/Cwhole1queued;
+findings embargoed. Next ACTUALhourly13:27:30UTC;latestactual22:27unchanged.
+No checkpoint ends sustained research.
+
+
 CURRENT22:49Brisbane18October2026: [continuing checkpoint](checkpoint-2026-10-18-2249.md).
 35%TOTAL direct12:41:05UTC/reset1792874445/current-window90TOTAL ceiling.
 2024R6A–D accepted after TWO OTHER ENTIRE WHOLE48/48 audits/full
@@ -27,7 +38,7 @@ Initial scope: nine official B4 open portions, 2017-2025. **2026 deferred by the
 |2022|CF1-CF5 accepted unconditional/CF6 explicit conditional after OTHER48/48/full reconciliation: equal growth=>eventual translation, exact tail rectangle,44 EVENTS, all-N late merger/nonmerging twins; conditional336 states at12G. Universal hitting/exact timing/fiber existence open.|
 |2023|COMPLETE internally reviewed fixed positive nonsquare N classification: all(k,k),k>0 and(k,2k),(2k,k) with positive odd k. Priority unestablished.|
 |2024|R6A–D reviewed: every nonlinear absolute component degree≥q; T1/R4A imply WHOLE absolute irreducibility n=(2^s−1)2^(sk)+1 for ALLs≥3,k≥2. General k1/other odd parts/full classification and priority unresolved.|
-|2025|BD1-BD4 accepted after OTHER64/64/full reconciliation: nonzero integer discriminant/all finite denominators/ramification, both-center lower height and signed pure-distance exclusions forp>=37 prime diagonal. Larger cofactors/unboundedp/raw-collision/old-delta/annual open.|
+|2025|RD1–4 reviewed: actual primitive real-trace integer discriminant, ALL finite primes, real parity and interval bound give c>p^(s−2) at BOTH residual centers/signs forp≥37. Fixedc<p forces depth2;quadratic families/largecofactors/unboundedp/annual/priority remain open.|
 
 ## Coordination
 

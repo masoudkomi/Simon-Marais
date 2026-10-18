@@ -1,5 +1,7 @@
 # 2025 B4 independent reviews
 
+The new [RD1–RD4 real-trace theorem](reasoning-diagonal-return-r5-acceptance.md) is **proved, independently reviewed scoped partial result** after root/A TWO OTHER ENTIRE initially blind WHOLE48/48 audits and full reconciliation. For actual signed prime-diagonal p≥37, the SAME Jacobi lift gives a primitive real trace and positive integer discriminant quotient, with ALL finite primes/real ramification accounted. The proved Chebyshev interval bound forces |X|>p^[2(s−1)]+1 and actual cofactor c>p^(s−2) at BOTH residual centers. Fixed c<p leaves only depth2; the quadratic families, arbitrary large cofactors, unrestricted p and annual classification remain open. Published overlap is attributed; no priority or external-validation claim.
+
 The new [BD1--BD4 discriminant theorem](reviews/reasoning-branch-return-r4-acceptance.md)
 is accepted after root/C TWO OTHER initially blind ENTIRE WHOLE64/64
 audits and full reconciliation. It constructs a nonzero actual integer

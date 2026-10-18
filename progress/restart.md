@@ -1,5 +1,16 @@
 # Current restart boundary —2026-10-18 19:27Brisbane
 
+CURRENT23:00Brisbane18October2026: [continuing checkpoint](checkpoint-2026-10-18-2300.md).
+36%TOTAL direct12:56:57UTC/reset1792874445/currentwindow90TOTAL/reserve.
+2025RD1–4 now accepted after TWO OTHER ENTIRE WHOLE48/48/full reconciliation:
+actual BOTH-center signed c>p^(s−2);fixedc<p forces depth2,quadratic families
+and annual target remain open.2024R6 already accepted/pushedb5ecff9.
+C2017path-mass/B2019high-cut research nearing entirecheckpoints;A2021R19
+new actual-center research.2022D6OTHERrootwhole2frozen/Cwhole1queued;
+findings embargoed. Next ACTUALhourly13:27:30UTC;latestactual22:27unchanged.
+No checkpoint ends sustained research.
+
+
 CURRENT22:49Brisbane18October2026: [continuing checkpoint](checkpoint-2026-10-18-2249.md).
 35%TOTAL direct12:41:05UTC/reset1792874445/current-window90TOTAL ceiling.
 2024R6A–D accepted after TWO OTHER ENTIRE WHOLE48/48 audits/full
