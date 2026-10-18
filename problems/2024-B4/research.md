@@ -1,5 +1,15 @@
 # 2024 B4 research log
 
+The new [R7A–D root-field criterion](reviews/reasoning-cofactor-return-r7-acceptance.md)
+is **proved, independently reviewed scoped partial result** after root/A
+TWO OTHER initially blind ENTIRE WHOLE64/64 audits and ALL128 reconciliation.
+Constructor C excluded. For odd ell>=3,i>=2,gcd(i,ord_ell(2))=1,the WHOLE
+quotient at n=ell*2^i+1 is absolutely irreducible;in particular this covers
+n=2^(s+2)-3 for odd s>=3. Actual local jets,published auxiliary Kasami APN
+and Bezout give the proof. No gcd-failure converse,annual classification
+or priority is claimed. Accepted R6 still has n=(Q-1)*Q^k+1.
+
+
 Current18October2026: [R6A–R6D](reviews/reasoning-cofactor-return-r6-acceptance.md) are **proved, independently reviewed scoped partial results** after TWO OTHER ENTIRE WHOLE48/48 audits and complete reconciliation. For ALLs≥3,k≥2, Q=2^s gives whole absolute irreducibility of φ_((Q−1)Q^k+1). A direct generic tangent-order proof gives every nonlinear component degree≥q; T1 and the universal actual-smaller-factor R4A bound contradict reducibility. General k1/other odd parts/the annual classification remain open; Férard2017 overlap/priority unresolved. Historical entries below retain their earlier statuses.
 
 ## Research significance and connections

@@ -17,11 +17,13 @@ and exact growth rate open. Reviewed recent partials also include
 and [2025 RD](problems/2025-B4/reviews/reasoning-diagonal-return-r5-acceptance.md).
 [2017 PM9](problems/2017-B4/reviews/coordinator-path-moment-r3-acceptance.md)
 now improves the CURRENT PM8 base after both whole48/48 audits and full
-reconciliation.2020R14,2021R19 and2024R7 remain unverified under independent
-whole review. Direct weekly41%TOTAL at13:59:18UTC/reset1792874445;
+reconciliation. [2024 R7](problems/2024-B4/reviews/reasoning-cofactor-return-r7-acceptance.md)
+now proves a whole absolute-irreducibility gcd criterion after both
+whole64/64 audits and reconciliation.2020R14/2021R19 remain unverified.
+Direct weekly41%TOTAL at14:07:41UTC/reset1792874445;
 continue to90%TOTAL with reserve in this explicitly authorized window.
 
-- [Latest continuing checkpoint](progress/checkpoint-2026-10-18-2359.md).
+- [Latest continuing checkpoint](progress/checkpoint-2026-10-19-0010.md).
 - [Latest actual hourly report](progress/status-2026-10-18-2327.md);
   its2024 table has the explicit sign correction in the new checkpoint.
   Next actual hourly/owned-awake check14:27:30UTC.

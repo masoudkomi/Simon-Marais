@@ -1,5 +1,17 @@
 # Independent review queue
 
+Current00:10Brisbane19October2026:
+[2024 R7 accepted](../problems/2024-B4/reviews/reasoning-cofactor-return-r7-acceptance.md)
+after TWO OTHER ENTIRE WHOLE64/64,ALL128 reconciliation and explicit
+BOTH-before-peer access. Whole absolute irreducibility for
+n=ell*2^i+1,gcd(i,ord_ell(2))=1,oddell>=3,i>=2;annualclassification open.
+2017PM9/2019BT accepted/pushed.2020R14/2021R19 remain unverified.
+A new2025/C new2022 reasoning active;B R19OTHERwhole2 active.
+41%TOTAL direct14:07:41UTC/current authorized1792874445window only
+through90/reserve. Next ACTUAL hourly14:27:30UTC.
+[Checkpoint](checkpoint-2026-10-19-0010.md).
+
+
 Current23:59Brisbane18October2026:
 [2017 PM9 accepted](../problems/2017-B4/reviews/coordinator-path-moment-r3-acceptance.md)
 after TWO OTHER ENTIRE WHOLE48/48 and ALL96 reconciliation:uniform H^n,

@@ -1,0 +1,58 @@
+{
+  "review": "R7 OTHER initially blind ENTIRE WHOLE2",
+  "date_utc": "2026-10-18",
+  "source_parsing_only_no_worker_binary_or_cache_write": true,
+  "source_entries": [
+    {
+      "id": "S1",
+      "title": "Official2024 PaperB, B4 setup and(b)",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc2024_paper_b.pdf",
+      "actual_read": "page2, parsed57-63 and68-74; local statement complete",
+      "operative": true,
+      "scope": "Coefficientwise polynomial congruence, odd positive integer, both factors nonconstant modulo2; no preliminary(a) investigation",
+      "new_binary_sha256": null
+    },
+    {
+      "id": "S2",
+      "title": "Carlet-Kim-Mesnager, A direct proof of APN-ness of the Kasami functions",
+      "url": "https://arxiv.org/pdf/2002.00050",
+      "version": "arXiv2002.00050v1,31January2020",
+      "actual_read": "Sections1-3; Lemma4; complete Section4.1 odd proof; FIRST complete Section4.2 even proof and Lemma5, through parsed784",
+      "operative": true,
+      "underlying_original_Lemma4_Lemma5_proofs_freshly_read": false,
+      "later_unfinished_alternative_even_argument_used": false,
+      "full_paper_audit_claim": false,
+      "new_binary_sha256": null
+    },
+    {
+      "id": "S3",
+      "title": "Fulton, Algebraic Curves, author teaching copy",
+      "url": "https://math.stanford.edu/~conrad/145Page/handouts/algcurves.pdf",
+      "actual_read": "ENTIRE operative Section3.3 Theorem3 statement/uniqueness/existence,2419-2624; ENTIRE Section5.3 Bezout statement/proof,3829-3924,following corollaries3933; AppendixA7557-7597",
+      "operative": true,
+      "characteristic_two_and_reducible_curve_hypotheses_matched": true,
+      "full_book_audit_claim": false,
+      "new_binary_sha256": null
+    }
+  ],
+  "accepted_complete_bodies_freshly_read": [
+    "problems/2024-B4/proofs/reviewed-structural-v1.1.md",
+    "problems/2024-B4/proofs/reviewed-reasoning-cofactor-return-r6-v1.1.md"
+  ],
+  "current_acceptance_MD_JSON_freshly_read": [
+    "structural-acceptance",
+    "reasoning-cofactor-return-r6-acceptance",
+    "cofactor-dominant-r4-acceptance",
+    "cofactor-Frobenius-r5-acceptance",
+    "coordinator-three-bit-sector-r2-acceptance"
+  ],
+  "R4_R5_threebit_full_bodies_previous_reads_not_claimed_fresh_whole_R7_reads": true,
+  "all13_author_files_actually_read": true,
+  "all64_obligations_reconstructed": true,
+  "Ferard2017_operative_body_unread_and_unused": true,
+  "HM_JW_no_fresh_full_read_claim_or_hidden_premise": true,
+  "old_input_roles_disclosed_not_new_self_recertification": true,
+  "NEW_corresponding_peer_material_accessed": false,
+  "failed_public_URL": "https://www.simonmarais.org/uploads/9/5/0/0/95005908/2024_b.pdf returned internal error; corrected to local-statement official URL",
+  "charge_contact_bypass_escalation_native_stall": false
+}
