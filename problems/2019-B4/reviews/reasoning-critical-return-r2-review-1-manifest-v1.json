@@ -1,0 +1,77 @@
+{
+  "frozen_at_utc": "2026-10-18T09:12:42.883681+00:00",
+  "status": "ENTIRE initially blind OTHER WHOLE CR1-CR5 review1",
+  "reviewer": "/root",
+  "constructor": "/root/review_2022_complexity_r2",
+  "exact_target": {
+    "path": "problems/2019-B4/notes/reasoning-critical-return-r2-candidate-v1.md",
+    "bytes": 22291,
+    "sha256": "1d672cc4eafde68da5d83cd4997dbee1a4e5274e4858bafbbc63479cc01b3de7"
+  },
+  "constructor_freeze": {
+    "path": "problems/2019-B4/notes/reasoning-critical-return-r2-freeze-v1.json",
+    "bytes": 6949,
+    "sha256": "295feae2d5671960ad9d9ae3456abcd94850a2c2faec0ce42e024eb5d05b18c9"
+  },
+  "whole_obligations": 60,
+  "all60_pass": true,
+  "substantive_issues": 0,
+  "required_repairs": 0,
+  "closed_scope_notes": 4,
+  "ENTIRE_report_ledger_issues_sources_log_code_ALL_metadata_frozen": true,
+  "NO_NEW_corresponding_A_CR_findings_files_hashes_metadata_opened": true,
+  "compact_own_parent": {
+    "path": "problems/2021-B4/reviews/reasoning-unit-return-r15-review-1-manifest-v1.json",
+    "bytes": 3096,
+    "sha256": "6abdeb4b5f8e918d6e4bf635661ebf33d27f6592041e77785c75c60ff18abb9b"
+  },
+  "other_whole_R2_and_reconciliation_required": true,
+  "promotion": false,
+  "artifacts": [
+    {
+      "path": "problems/2019-B4/reviews/reasoning-critical-return-r2-review-1-initial-v1.md",
+      "bytes": 12452,
+      "sha256": "a0730f3d3aa18d6baa28b73bb7714170b4ae9d3a622b3ca92d64fea423e86c14"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-critical-return-r2-review-1-ledger-v1.md",
+      "bytes": 5171,
+      "sha256": "88f66bfbce9e4e97dc585429bcc6b1c680c9c094294b22e489f43405e52f9093"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-critical-return-r2-review-1-issues-v1.md",
+      "bytes": 902,
+      "sha256": "9463eab20ab0720a00f2b3bdb696ebd660ab28baf6a1535f3886f8bf08121f27"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-critical-return-r2-review-1-source-checks-v1.md",
+      "bytes": 1802,
+      "sha256": "5ca6331bd49d253e036ecda9c7fb4e863a233399a9175ecb8a2212715a017a64"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-critical-return-r2-review-1-worklog-v1.md",
+      "bytes": 1960,
+      "sha256": "f3e6dfaae7c83041aa0e4f66573f9507328b1528a0befb365bc7d58e5aeff143"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-critical-return-r2-review-1-freeze-v1.py",
+      "bytes": 6040,
+      "sha256": "15c2b99d23b72998bfc30864d4e84893afcb4d8717104be740627d14cb7c3a9d"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-critical-return-r2-review-1-baseline-v1.json",
+      "bytes": 8891,
+      "sha256": "b418b8b4bbf8af88d2c17d87f2ce547134c4f0fbd36f6b0c265979b0d7743169"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-critical-return-r2-review-1-metadata-v1.json",
+      "bytes": 1059,
+      "sha256": "03dae6a819ea02f61c0f035acea24542e5d70574d40842d5f41ce0c06688ceea"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-critical-return-r2-review-1-input-validation-v1.json",
+      "bytes": 505,
+      "sha256": "bcce728722749a88e749f4fb98f7813bef6123a2a83c7ec14ead3f997eb20fa5"
+    }
+  ]
+}

@@ -33,6 +33,15 @@ asymptotics remain unresolved. See the [current dashboard](../../progress/dashbo
 and [review register](reviews/README.md); older bounds and pending-review
 language below record earlier stages.
 
+The newly accepted [CR1–CR5 confined-piece and cut-fibre results](reviews/reasoning-critical-return-r2-acceptance.md)
+passed TWO OTHER initially blind ENTIRE60/60 audits/full reconciliation.
+Long range3 tape pieces have an exponential count loss and logarithmic
+expected longest length under the stated actual context measures. Exact
+composition fibres identify the relevant mean feasible-cut counts with
+normalized growth. The needed cut-NUMBER estimate is still missing;
+the staircase refutes a cut-SPREAD substitute. No actual regime or exact
+growth value is selected, and the reviewed numerical enclosure is unchanged.
+
 ## Coordinator third-pass acceptance
 
 The bounded-separation hierarchy, legal-envelope identification with actual minimal obstructions, entropy convergence, exact cap3 grammar and strict upperlambda<1.834856083 are **proved, independently reviewed partial results**. Both fresh initially blind reviewers reconstructed the whole argument and independently checked every cap7 transition and all11662 integer-vector inequalities. See proofs/reviewed-thirdpass-v1.1.md and reviews/thirdpass-acceptance.md/json. Combined with the earlier accepted lower bound,1.76521<lambda<1.834856083. Exactlambda/fullgeneratingfunction/novelty remain unresolved. No larger enumeration is substituted for the remaining proof problem.

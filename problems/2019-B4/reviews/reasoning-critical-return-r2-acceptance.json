@@ -1,0 +1,99 @@
+{
+  "accepted_at_utc": "2026-10-18T09:14:22.932193+00:00",
+  "status": "proved, independently reviewed scoped partial result",
+  "whole_initials_blind": true,
+  "root_read_full_candidate_both_reports_all_ledgers_sources": true,
+  "unresolved_substantive_issues": 0,
+  "repair_required": false,
+  "candidate": {
+    "path": "problems/2019-B4/notes/reasoning-critical-return-r2-candidate-v1.md",
+    "bytes": 22291,
+    "sha256": "1d672cc4eafde68da5d83cd4997dbee1a4e5274e4858bafbbc63479cc01b3de7"
+  },
+  "accepted_copy": {
+    "path": "problems/2019-B4/proofs/reviewed-reasoning-critical-return-r2-v1.1.md",
+    "bytes": 26079,
+    "sha256": "e6f2d345c96cf0b080af9e42092dc13c66b69bfe0b70cd1bcab4b33f43106881"
+  },
+  "verification_metadata": [
+    {
+      "path": "problems/2019-B4/notes/reasoning-critical-return-r2-freeze-v1.json",
+      "bytes": 6949,
+      "sha256": "295feae2d5671960ad9d9ae3456abcd94850a2c2faec0ce42e024eb5d05b18c9"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-critical-return-r2-baseline-v1.json",
+      "bytes": 7708,
+      "sha256": "56d6a4a8dbaefbb08342eb943abd5fe83226b1c9542411d8f7a8347bd085c3df"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-critical-return-r2-input-validation-v1.json",
+      "bytes": 603,
+      "sha256": "1966c49f01a76e3a8df62b378b2d849a78c6451289be2363b26a652292c9f675"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-critical-return-r2-review-1-manifest-v1.json",
+      "bytes": 3138,
+      "sha256": "b65f2f7324c9005cf518cc93936c4fb74bdb359ff253379749f4f15c7eb75587"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-critical-return-r2-review-1-baseline-v1.json",
+      "bytes": 8891,
+      "sha256": "b418b8b4bbf8af88d2c17d87f2ce547134c4f0fbd36f6b0c265979b0d7743169"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-critical-return-r2-review-1-metadata-v1.json",
+      "bytes": 1059,
+      "sha256": "03dae6a819ea02f61c0f035acea24542e5d70574d40842d5f41ce0c06688ceea"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-critical-return-r2-review-1-input-validation-v1.json",
+      "bytes": 505,
+      "sha256": "bcce728722749a88e749f4fb98f7813bef6123a2a83c7ec14ead3f997eb20fa5"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-critical-return-r2-review-2-manifest-v1.json",
+      "bytes": 6974,
+      "sha256": "1d82777a13e1ea2a3180cdfc905844faabf00aa5a7b3d57dac4fa85cfe7c30f1"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-critical-return-r2-review-2-baseline-v1.json",
+      "bytes": 15459,
+      "sha256": "2b972ad2d2526d52d683f42fcfc3b49f7f87e8b7c14f4a7a1e3096596ca7c1c6"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-critical-return-r2-review-2-metadata-v1.json",
+      "bytes": 1498,
+      "sha256": "05f2038a68f9ee0cec6a4609797399e0567e2298dbd944f7159282961fa4e363"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-critical-return-r2-review-2-input-validation-v1.json",
+      "bytes": 770,
+      "sha256": "e7bea6358330b9a6ef7872c81c9d046a42019b1bcc6ff8aba6b89a7b19c66a0b"
+    }
+  ],
+  "record_occurrences_verified": 199,
+  "unique_paths_verified": 68,
+  "constructor": "/root/review_2022_complexity_r2",
+  "constructor_excluded": true,
+  "independent_reviewers": [
+    "/root",
+    "/root/review_2021_reasoning_j15_r2"
+  ],
+  "claims_accepted": [
+    "CR1",
+    "CR2",
+    "CR3",
+    "CR4",
+    "CR5"
+  ],
+  "whole_obligations": 60,
+  "TWO_OTHER_entire_whole_audits_complete": true,
+  "root_closed_notes": 4,
+  "other_closed_notes": 6,
+  "mathematical_program_run": false,
+  "actual_regime_selected": false,
+  "full_annual_answer": false,
+  "novelty_established": false,
+  "precommit_header_editorial_correction": "Remove accidental plus before correct suffix phase in coordinator header only; original mathematical suffix unchanged."
+}

@@ -1,3 +1,18 @@
+# Current restart boundary —2026-10-18 19:19Brisbane
+
+Readcheckpoint-2026-10-18-1919.md/run-state.2019CR NOWACCEPTED after
+root/A bothOTHER ENTIRE60/60/fullreconciliation;2022SR/2024CG accepted
+andpusheded6e60e. NEWroot2024cubic R3A/B entire20/10frozen09:17UTC,
+UNVERIFIED; A/B OTHERwhole20queuedAFTERtheir ENTIRE2021R16/2025RSR3
+checkpoints. BWC R2entire40frozen; C R1pending, thenC R15R2whole48.
+RootNO WCpeeraccessbeforeBOTHentireinitials. R15rootR1entire48frozen.
+20TOTAL09:05agentmeter,authorizedreset1792874445only,90TOTALreserve.
+Ownedawake79293/session64368active; actualhourly09:27:30UTC MUSTNOT
+delayforintegration. Latesttokens1827snapshotNOTfresh. Lastpusheded6e60e.
+No checkpoint endsresearch.
+
+---
+
 # Current restart boundary —2026-10-18 19:06Brisbane
 
 Read checkpoint-2026-10-18-1906.md and run-state.2022SR and2024CG NOW

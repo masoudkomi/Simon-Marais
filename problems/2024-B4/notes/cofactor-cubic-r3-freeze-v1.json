@@ -1,0 +1,74 @@
+{
+  "frozen_at_utc": "2026-10-18T09:17:34.159879+00:00",
+  "status": "candidate proof - unverified; ENTIRE cubic threshold R3A-R3B",
+  "constructor": "/root",
+  "constructor_excluded": true,
+  "whole_obligations": 20,
+  "all20_constructor_hand_dispositions_complete": true,
+  "TWO_OTHER_initially_blind_ENTIRE_WHOLE_audits_and_full_reconciliation_required": true,
+  "root_supplied_all_NEW_inferences": true,
+  "other_agent_contribution": false,
+  "exact_accepted_CG_authority": {
+    "path": "problems/2024-B4/reviews/cofactor-global-r2-acceptance.json",
+    "bytes": 3537,
+    "sha256": "fff6d498dfc8e7bb98afdc9b027ffc57668b637d3843cff20e8928399639dfa7"
+  },
+  "operative_claims": [
+    "CG1",
+    "CG2"
+  ],
+  "compact_own_parent": {
+    "path": "problems/2019-B4/reviews/reasoning-critical-return-r2-review-1-manifest-v1.json",
+    "bytes": 3138,
+    "sha256": "b65f2f7324c9005cf518cc93936c4fb74bdb359ff253379749f4f15c7eb75587"
+  },
+  "mathematical_computation": false,
+  "no_general_k2_full_annual_or_novelty_conclusion": true,
+  "artifacts": [
+    {
+      "path": "problems/2024-B4/notes/cofactor-cubic-r3-research-v0.md",
+      "bytes": 2622,
+      "sha256": "7ef22a388ce2aa05135e8ef09bd519d3ded367447a96c4b2aff2ab7fa9ac3cca"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-cubic-r3-candidate-v1.md",
+      "bytes": 9112,
+      "sha256": "153cbc7a070eb1bffdb62f351c64a79353d8dd41a3e5db03c051b4ed8041f0c4"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-cubic-r3-obligations-v1.md",
+      "bytes": 3706,
+      "sha256": "8b8c405265ab6b8c788a36cca7eb0f5260f4508505f98faa1de2239f7b42fb27"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-cubic-r3-sources-v1.md",
+      "bytes": 1942,
+      "sha256": "a6c79c6f67c1a8c6d9c961491e5c52d2bc51ba4985630e6265a907e3bebaff31"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-cubic-r3-failures-worklog-v1.md",
+      "bytes": 2297,
+      "sha256": "2456583224186e7755b5c48866ca4bece48142eb90235debae9504b0d4d6e4ee"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-cubic-r3-freeze-v1.py",
+      "bytes": 5350,
+      "sha256": "28b18e247ded7586d82319d4776b8354223620b1d7b2b98a1b890bb069b8a899"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-cubic-r3-baseline-v1.json",
+      "bytes": 3040,
+      "sha256": "f3c9710b202cb805c6eab6a46291d0e1fdfa3a2d0df46855d572071399ede2b1"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-cubic-r3-metadata-v1.json",
+      "bytes": 1027,
+      "sha256": "76529ca0b2d793ff27bac471b51fb7bec4505b3133d9d31217e9b67da3346d01"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-cubic-r3-input-validation-v1.json",
+      "bytes": 347,
+      "sha256": "33cf9987005778ec73b28388f9628303a3ced46e36198eb409f4c28a24f563d0"
+    }
+  ]
+}
