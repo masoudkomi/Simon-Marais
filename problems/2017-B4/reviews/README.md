@@ -1,5 +1,13 @@
 # 2017 B4 independent reviews
 
+2026-10-18 22:04UTC: [CI12A--CI12D accepted](reasoning-concentration-return-r12-acceptance.md)
+after B/root TWO OTHER initially blind ENTIRE WHOLE48/48 audits and full
+96-disposition reconciliation. C constructor excluded; zero substantive
+defects/repairs, ten B/eight root closed scope notes. Actual joint class
+moments/entropy budget and hereditary independent-cost counterfamily;
+uniform concentration is conditional on explicit saturation. No improved
+global G, exact value, effective upper modulus, annual answer or priority.
+
 R10 is now independently reviewed after TWO OTHER whole60 audits. Actual singleton and layered classes give sharp multiplicity asymptotics and a precise obstruction to uniform word-to-class reweighting. The official scalar value remains open. [Acceptance](reasoning-path-mass-return-r10-acceptance.md).
 
 The new [PM9A–PM9C moment/interpolation bound](coordinator-path-moment-r3-acceptance.md)

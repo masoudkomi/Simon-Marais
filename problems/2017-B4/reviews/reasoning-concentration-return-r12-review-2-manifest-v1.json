@@ -1,0 +1,45 @@
+{
+  "frozen_at_utc": "2026-10-18T22:03:12.202236+00:00",
+  "status": "initial OTHER WHOLE2; EMBARGO until explicit BOTH ENTIRE",
+  "reviewer": "/root",
+  "constructor": "/root/review_2017_coarsening_r1",
+  "constructor_excluded": true,
+  "ENTIRE_files": 4,
+  "whole_obligations": 48,
+  "independent_dispositions": 48,
+  "payloads": [
+    {
+      "path": "problems/2017-B4/reviews/reasoning-concentration-return-r12-review-2-report-v1.md",
+      "bytes": 20707,
+      "sha256": "c4efbe908391ca1818a92023a3867f880eeb459e4c6100e666053dbe4fb9933e"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-concentration-return-r12-review-2-admin-v1.py",
+      "bytes": 5261,
+      "sha256": "172cfc82d850469804db42cc81a99372b57ed4b4d029d57d58601eee3170d274"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-concentration-return-r12-review-2-baseline-v1.json",
+      "bytes": 3756,
+      "sha256": "0620091705b009a71b1935f33f40ae249cd8e27de07836c5eab87009f2407dc9"
+    }
+  ],
+  "unresolved_substantive_defects": 0,
+  "required_repair": false,
+  "closed_scope_notes": 8,
+  "FULL_final_ALL3_payload_model_readback": "actually completed before this freeze",
+  "FULL_manifest_model_readback_then_SEPARATE_verify_required": true,
+  "effective_summary": {
+    "occurrences": 45,
+    "unique_paths": 43,
+    "canonical_deduplicated_sha256": "e0330489915145141d584a2d455509df5b7096b7570503e48676fab15cd43da7"
+  },
+  "NEW_peer_actual_inventory_open_hash_findings_access": false,
+  "administrative_peer_identity_only_received": true,
+  "requested": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "effective_setting_readback": null
+}

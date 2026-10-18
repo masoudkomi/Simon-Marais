@@ -1,0 +1,50 @@
+{
+  "created_utc": "2026-10-18T21:53:41.236344+00:00",
+  "status": "candidate proof - unverified",
+  "constructor": "/root/review_2017_coarsening_r1",
+  "constructor_excluded": true,
+  "OTHER_initially_blind_ENTIRE_whole_audits_required": 2,
+  "requested": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independent_effective_readback": null,
+  "root_NEW_math_inference": false,
+  "whole_obligations": 48,
+  "claims": [
+    "FR11A",
+    "FR11B",
+    "FR11C",
+    "FR11D"
+  ],
+  "ENTIRE_payloads": 12,
+  "ENTIRE_files_with_freeze": 13,
+  "immediate_own_parent": {
+    "path": "problems/2020-B4/reviews/reasoning-class-return-sq17-review-1-manifest-v1.json",
+    "bytes": 2345,
+    "sha256": "7e65b63a7bb91ffa33d5a4be2312b904761c49bda7496aec8ac2c2717ad993a4"
+  },
+  "all_guard_summary": {
+    "occurrences": 20,
+    "unique_paths": 20,
+    "canonical_sha256": "d473f8a4eb6773f6a09fa0cda082dee9636f16fd48c1740f2397051dbc87abe7"
+  },
+  "mathematical_program_CAS_scan_test_old_replay": false,
+  "pending_native_math_child_retrieval_approval": false,
+  "Git_shared_old_cache_mutation_spawn_charge_contact_bypass": false,
+  "annual_converse_priority_or_external_validation_claim": false,
+  "weekly": {
+    "at_utc": "2026-10-18 21:47:29 UTC",
+    "TOTAL_used_percent": 62,
+    "window_minutes": 10080,
+    "resetsAt": 1792874445,
+    "ordinaryUsageAllowed": true,
+    "legacy_by_limit_agree": true,
+    "ceiling_TOTAL_percent": 90,
+    "integration_reserve": true,
+    "automatic_later_window_spending": false
+  },
+  "FULL_final_MODEL_ALL12_readback_required_before_freeze": true,
+  "FULL_freeze_readback_then_SEPARATE_readonly_verify_required": true
+}

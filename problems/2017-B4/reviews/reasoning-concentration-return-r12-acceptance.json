@@ -1,0 +1,97 @@
+{
+  "accepted_at_utc": "2026-10-18T22:04:30.049111+00:00",
+  "status": "proved, independently reviewed scoped partial result",
+  "whole_initials_blind": true,
+  "root_read_full_candidate_both_reports_all_ledgers_sources": true,
+  "unresolved_substantive_issues": 0,
+  "repair_required": false,
+  "candidate": {
+    "path": "problems/2017-B4/notes/reasoning-concentration-return-r12-candidate-v1.md",
+    "bytes": 19146,
+    "sha256": "aa79fe683e8cd7a7f63d5a3146b91f6cce294c1ceb1fb28e994e4d50071994d0"
+  },
+  "accepted_copy": {
+    "path": "problems/2017-B4/proofs/reviewed-reasoning-concentration-return-r12-v1.1.md",
+    "bytes": 24123,
+    "sha256": "15823ad1a7c54b8e06de3692f19d3395d2458786dcb8d2d51a2eb3c592734554"
+  },
+  "verification_metadata": [
+    {
+      "path": "problems/2017-B4/notes/reasoning-concentration-return-r12-freeze-v1.json",
+      "bytes": 3158,
+      "sha256": "6a6e5ccccbc9c5416aeeac4240a8a4f96bc44b90167d5275e8ab2bf563c17c1c"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-concentration-return-r12-baseline-v1.json",
+      "bytes": 2197,
+      "sha256": "74b818c21cb46aea6f9d72f9b63a7229c16b2a4dc62ffc9b8e46121c6b6e8444"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-concentration-return-r12-input-validation-v1.json",
+      "bytes": 248,
+      "sha256": "d0dfa6bc56bd23f2b9582bac836e3382a7b6a6fbba6b58699e8920b55f2aaddc"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-concentration-return-r12-metadata-v1.json",
+      "bytes": 1261,
+      "sha256": "93f6c6336d6fbd6344134aaea0d86e9f71045e9ae4ef4ff3147f30745ad1b175"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-concentration-return-r12-sources-v1.json",
+      "bytes": 1984,
+      "sha256": "4d03e9e2e0656f0c882ba415ba618ae1ca538a8d9d50121e2ef37dfe6e5674bb"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-concentration-return-r12-review-1-manifest-v1.json",
+      "bytes": 2868,
+      "sha256": "ea15b59730d0e2f9d2bc1921ad1a766ad1720168070104f242383370264704a8"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-concentration-return-r12-review-1-baseline-v1.json",
+      "bytes": 8032,
+      "sha256": "aaff6bdc8e5d981adbbfb2b1cb5bddffc831146809b519e14444db2ae2a94e88"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-concentration-return-r12-review-1-sources-v1.json",
+      "bytes": 3175,
+      "sha256": "c2d95a79d9643c6cff3957b8f84db7eb193cb3ca0b2fab75e3794e9bcead849a"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-concentration-return-r12-review-2-manifest-v1.json",
+      "bytes": 1673,
+      "sha256": "42ab0e52f03b02aca52c2d9c0d4915aa58c875717ebb810dddda5c1c3ba4049d"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-concentration-return-r12-review-2-baseline-v1.json",
+      "bytes": 3756,
+      "sha256": "0620091705b009a71b1935f33f40ae249cd8e27de07836c5eab87009f2407dc9"
+    }
+  ],
+  "record_occurrences_verified": 72,
+  "unique_paths_verified": 27,
+  "constructor": "/root/review_2017_coarsening_r1",
+  "constructor_excluded": true,
+  "whole_reviewers": [
+    "/root/review_2022_complexity_r2",
+    "/root"
+  ],
+  "whole_obligations_per_review": 48,
+  "whole_review_files": [
+    5,
+    4
+  ],
+  "closed_scope_notes": [
+    10,
+    8
+  ],
+  "explicit_BOTH_before_NEW_peer_findings_actual_inventory_open_hash_metadata": true,
+  "administrative_peer_identity_received_disclosed": true,
+  "root_read_ENTIRE_author_both_reviews_all_code_metadata": true,
+  "actual_joint_class_moments_and_entropy_budget": true,
+  "uniform_concentration_requires_explicit_upper_rate_saturation": true,
+  "actual_hereditary_independent_cost_counterfamily": true,
+  "improved_global_G_or_exact_value_or_effective_R": false,
+  "annual_open": true,
+  "priority_claim": false,
+  "no_mathematical_program_or_old_replay": true
+}

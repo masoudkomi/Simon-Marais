@@ -1,0 +1,41 @@
+{
+  "date_utc": "2026-10-18",
+  "status": "candidate proof - unverified",
+  "constructor": "/root/review_2017_coarsening_r1",
+  "constructor_excluded": true,
+  "OTHER_whole_audits_required": 2,
+  "requested": {"model": "gpt-6.1-sol", "reasoning": "max", "inherited": true},
+  "independent_effective_readback": null,
+  "root_NEW_math_inference": false,
+  "old_own_FR10_R6_R7_R8_construction_R9_review_not_independent_self_recertification": true,
+  "operative_accepted_input": {
+    "body": "problems/2024-B4/proofs/reviewed-reasoning-frobenius-return-r10-v1.1.md",
+    "bytes": 27940,
+    "sha256": "ce9a3c9e00ce931716fe00d6ea0a605167ddf58a29779d459a62cbc9dd04d173",
+    "fresh_read": "FULL body in1--245/246--560/561--end plus COMPLETE current acceptance MDJSON",
+    "exact_scope": "Reduced actual quotient, EVERY-component degree>=q, SAME least component/full coprime complement, complete M_ell/M_d intersection budget for ell>=3 odd,q=2^i,i>=2",
+    "old_input_recognized_as_NEW_independent_review": false
+  },
+  "comparison_inputs": {
+    "fresh_read": "COMPLETE current R7/R8/R9 acceptance MDJSON; their full old underlying proofs historical, not falsely called fresh",
+    "hypotheses_used_as_premises": false,
+    "literal_failure_witnesses": "ord1052=12,gcd(12t+6,12)=6; actual F8 affine4coset in mu105 has zero ordinary and delta-power sums"
+  },
+  "primary": [
+    {"url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc2024_paper_b.pdf", "fresh_read": "Official page2 B4 setup/(b)/coefficient definition57--74", "preliminary_proof_reproduced": false},
+    {"url": "https://arxiv.org/pdf/0903.2016v4", "fresh_read": "Lemma6 COMPLETE supplied proof/count discussion363--379 and surrounding context through453; later540--790 including Lemmas10--14 and COMPLETE Theorem15 supplied proof", "role": "Classical count/intersection attribution; extra subgroup count independently proved. Conditional whole theorem not substituted for actual ordinary irreducibility.", "later_Theorem16_complete_proof_read": false, "whole19page_original_reference_chain_audit": false, "raw_binary_sha256": null},
+    {"url": "https://www.aimsciences.org/article/doi/10.3934/amc.2014.8.497", "fresh_scope": "Search-returned primary metadata/abstract discovery only", "operative_body_read_or_theorem_import": false}
+  ],
+  "original_Jedlicka_Ferard2014_2017_operative_bodies_read": false,
+  "publication_overlap_or_priority_established": false,
+  "root_unverified_degree_gap_note_read_or_used": false,
+  "generic_tangent_Gauss_map_monodromy_sum_product_theorem_import": false,
+  "mathematical_program_CAS_scan_test_or_old_replay": false,
+  "Git_shared_old_cache_mutation_charge_contact_bypass": false,
+  "pending_native_math_child_retrieval_or_approval": false,
+  "weekly": {"at_utc": "2026-10-18 21:47:29 UTC", "TOTAL_used_percent": 62, "window_minutes": 10080, "resetsAt": 1792874445, "ordinaryUsageAllowed": true, "legacy_by_limit_agree": true, "ceiling_TOTAL_percent": 90, "integration_reserve": true, "automatic_later_window_spending": false},
+  "claims": ["FR11A", "FR11B", "FR11C", "FR11D"],
+  "whole_obligations": 48,
+  "whole_absolute_conclusion_only_when_P_U_positive": true,
+  "nonpositive_converse_full_annual_or_priority_claim": false
+}

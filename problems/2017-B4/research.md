@@ -21,6 +21,17 @@ also grows; a theorem for a fixed set of tile directions does not immediately
 control this family. Counting arrangements also differs from counting the
 many sorting histories that can describe one arrangement.
 
+The newly accepted [CI12A--CI12D directional-cost theorem](reviews/reasoning-concentration-return-r12-acceptance.md)
+passed TWO OTHER whole48 audits/full96-disposition reconciliation. It
+retains the imbalance between the actual forward/reverse weighted flows,
+giving joint class moments and a finite entropy budget. An explicit
+hereditary straight-line family has old degree-four cost only1 but
+quadratic directional cost, so a universal positive density of the old
+cost is false. The example is one class per size; concentration under
+uniform classes remains conditional on upper-rate saturation. The global
+base G, exact value and annual answer are unchanged. This connects local
+flow asymmetry to class entropy without equating flow and uniform laws.
+
 The newly accepted [PR11A--PR11D two-route/class-moment bound](reviews/reasoning-pressure-return-r11-acceptance.md)
 passed TWO OTHER whole64 audits/full reconciliation. Both routes of an
 actual diamond pay a slightly infeasible degree-four raw row only AFTER

@@ -24,12 +24,15 @@ The [2021R21 scoped partial](problems/2021-B4/reviews/reasoning-center-return-r2
 is now reviewed; actual frameIII stays open. SQ16 and FR10 are now reviewed scoped partials; SQ17 is a reviewed literal source-unit diagnostic.
 The [2019 AR1--AR4 clock theorem](problems/2019-B4/reviews/reasoning-area-return-r2-acceptance.md)
 has now passed both whole48 reviews and full reconciliation; its subclass
-probability law leaves the full annual growth question open. Hand research
-continues on2021,2022 and2025; coordinator2017 review and2024FR11 reviews queued.
+probability law leaves the full annual growth question open. The
+[2017 CI12 directional-cost theorem](problems/2017-B4/reviews/reasoning-concentration-return-r12-acceptance.md)
+has also passed both whole48 audits; its actual class entropy budget
+and counterfamily leave the global base and annual value unchanged.
+Hand research continues on2021,2022 and2025;2024FR11 reviews are queued.
 Weekly63%TOTAL at21:57:03UTC/reset1792874445; continue to90%TOTAL with
 reserve in this authorized window. Hand research continues on all gaps.
 
-- [Latest continuing checkpoint](progress/checkpoint-2026-10-19-0758.md).
+- [Latest continuing checkpoint](progress/checkpoint-2026-10-19-0806.md).
 - [Latest actual hourly report](progress/status-2026-10-19-0746.md).
   Next actual hourly/token/owned-awake check22:27:30UTC.
 

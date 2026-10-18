@@ -1,5 +1,16 @@
 # Research dashboard
 
+Current08:06 continuing checkpoint: [2017 CI12 accepted](../problems/2017-B4/reviews/reasoning-concentration-return-r12-acceptance.md)
+after B/root OTHER whole48/48 and full96 reconciliation. Actual joint
+class moments/finite entropy budget plus hereditary cost-separation
+counterfamily; G/value/effective upper modulus/annual answer unchanged.
+2019AR accepted/pushed9c66cbb. FR11 author13/48 frozen UNVERIFIED,
+A/B whole reviews queued after their NEW2021R22/2022R10 author freezes;
+C2025 hand/literature research active. Latest63%TOTAL21:57:03UTC/
+same reset1792874445/90TOTAL/reserve; project tokens/awake literal
+observations remain07:46/07:57, nextACTUALhourly22:27:30UTC.
+[Checkpoint](checkpoint-2026-10-19-0806.md). Two complete annual/seven unresolved.
+
 Current07:58 continuing checkpoint: [2019 AR1--AR4 accepted](../problems/2019-B4/reviews/reasoning-area-return-r2-acceptance.md)
 after root/B TWO OTHER initially blind whole48 audits/full96 reconciliation.
 Exact alternating-first-tape clock/viable union and subclass law only;
