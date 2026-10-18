@@ -1,0 +1,34 @@
+{
+  "date_utc": "2026-10-18",
+  "reviewer": "/root/review_2022_complexity_r2",
+  "requested": {"model": "gpt-6.1-sol", "reasoning": "max", "inherited": true},
+  "independent_effective_readback": null,
+  "entire_author_files_read": 13,
+  "whole_hand_obligations": 64,
+  "NEW_R19_contribution": false,
+  "old_roles": "Earlier R9 constructor; older R5/R6/R7/R11-R16/R18 reviewer and other accepted input work; not freshly self-recertified",
+  "A_sole_NEW_constructor_excluded": true,
+  "NEW_root_R19_peer_material_accessed": false,
+  "pending_BT_peer_material_accessed": false,
+  "accepted_complete_body_and_each_MDJSON_read": [
+    {"body": "problems/2021-B4/proofs/reviewed-reasoning-center-return-r18-v1.1.md", "bytes": 26067, "sha256": "f26de3a17895354408e514d6a0b0066715a1c0f0234d494fd53485ea3feb8284", "old_occurrences_bound_not_reexpanded": 201, "old_unique_paths_bound_not_reexpanded": 85},
+    {"body": "problems/2021-B4/proofs/reviewed-reasoning-center-return-r17-v1.1.md", "bytes": 23107, "sha256": "8c8daa274ea6dcf95e25249e215b09646c3473c4ccd6320302a364b0af5b7797", "old_occurrences_bound_not_reexpanded": 256, "old_unique_paths_bound_not_reexpanded": 87},
+    {"body": "problems/2021-B4/proofs/reviewed-reasoning-return-r8-v1.1.md", "bytes": 19921, "sha256": "33b8713d402d09f711d0096cdc4e8c00f9e622a5335f8e3345eb4f82ba0d359d", "old_occurrences_bound_not_reexpanded": 1335, "old_unique_paths_bound_not_reexpanded": 792},
+    {"body": "problems/2021-B4/proofs/reviewed-reasoning-return-r5-v1.1.md", "bytes": 23675, "sha256": "f4f088adc133b0581520488cdbba30082c13b2402c96ae555142e5491ad4137d", "old_occurrences_bound_not_reexpanded": 1466, "old_unique_paths_bound_not_reexpanded": 689}
+  ],
+  "primary_reads": [
+    {"id": "official", "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2021-paper-b.pdf", "scope": "B4 setup/(b),67-81; no preliminary proof", "binary_sha256": null},
+    {"id": "Massri-v6", "url": "https://arxiv.org/pdf/1806.09561v6", "scope": "definition/context and COMPLETE Prop7.7 proof/Remark7.8,1034-1067; Theorem7.10/published computational proof description1083-1103", "unread": "whole paper and independent source computation certification/replay", "binary_sha256": null},
+    {"id": "CLO", "url": "https://arxiv.org/pdf/1208.5404", "scope": "898-1013 normalization; COMPLETE1163-1307 Prop19 proof/remark; returned Prop15/16 context", "unread": "whole23 pages,journal-version,source programs,2011p5 erratum proof", "binary_sha256": null}
+  ],
+  "failed_source_access": [
+    {"source": "Massri-v6", "action": "web screenshots of zero-based pages11 and12", "result": "cache miss; no visual inspection claimed", "blocking": false}
+  ],
+  "self_contained_local_steps_reconstructed": ["actual-witness coefficient integrality", "binary identities", "exact coefficient/cofactor valuations", "monic factor/root integrality", "complete coprime-factor correction proof", "quadratic half-value and local irreducibility"],
+  "required_author_scope_correction": "R19R2-01: original-g overview must retain scaling before the Eisenstein translate",
+  "prototype_is_actual_degree20_counterexample": false,
+  "new_mathematical_program_CAS_scan_test_or_source_author_old_replay": false,
+  "NEW_metadata_only_code": true,
+  "cache_write_binary_download_charge_contact_bypass": false,
+  "annual_or_priority_or_full_literature_audit": false
+}

@@ -1,5 +1,18 @@
 # Independent review queue
 
+Current00:18Brisbane19October2026:
+[2020 SQ14 accepted](../problems/2020-B4/reviews/reasoning-arithmetic-return-r14-acceptance.md)
+after TWO OTHER ENTIRE WHOLE64/64 and ALL128 reconciliation;low square
+rigidity/actual class-box separation,full norm-q and annual remain open.
+[2021 R19 correction required](../problems/2021-B4/reviews/reasoning-center-return-r19-coordinator-reconciliation-v1.md):
+B caught an omitted scaling in the introduction;formal normalized proof
+survives but FULL versioned author correction/BOTH reaudits needed.
+2024R7 accepted/pushed.42%TOTAL direct14:17:15UTC,same authorized1792874445
+window only through90/reserve. New2022/2019 reasoning and2025checkpoint/
+R19repair active. [Checkpoint](checkpoint-2026-10-19-0018.md).
+Next ACTUAL hourly14:27:30UTC.
+
+
 Current00:10Brisbane19October2026:
 [2024 R7 accepted](../problems/2024-B4/reviews/reasoning-cofactor-return-r7-acceptance.md)
 after TWO OTHER ENTIRE WHOLE64/64,ALL128 reconciliation and explicit

@@ -19,11 +19,14 @@ and [2025 RD](problems/2025-B4/reviews/reasoning-diagonal-return-r5-acceptance.m
 now improves the CURRENT PM8 base after both whole48/48 audits and full
 reconciliation. [2024 R7](problems/2024-B4/reviews/reasoning-cofactor-return-r7-acceptance.md)
 now proves a whole absolute-irreducibility gcd criterion after both
-whole64/64 audits and reconciliation.2020R14/2021R19 remain unverified.
-Direct weekly41%TOTAL at14:07:41UTC/reset1792874445;
+whole64/64 audits and reconciliation. [2020 SQ14](problems/2020-B4/reviews/reasoning-arithmetic-return-r14-acceptance.md)
+is also accepted after both whole64/64 audits.2021R19 remains unverified:
+an introductory scaling error requires versioned author correction and
+both affected reaudits;the formal normalized proof is not refuted.
+Direct weekly42%TOTAL at14:17:15UTC/reset1792874445;
 continue to90%TOTAL with reserve in this explicitly authorized window.
 
-- [Latest continuing checkpoint](progress/checkpoint-2026-10-19-0010.md).
+- [Latest continuing checkpoint](progress/checkpoint-2026-10-19-0018.md).
 - [Latest actual hourly report](progress/status-2026-10-18-2327.md);
   its2024 table has the explicit sign correction in the new checkpoint.
   Next actual hourly/owned-awake check14:27:30UTC.

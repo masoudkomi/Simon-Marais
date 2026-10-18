@@ -1,5 +1,17 @@
 # 2020 B4 research log
 
+The new [SQ14A–E low-square result](reviews/reasoning-arithmetic-return-r14-acceptance.md)
+is **proved, independently reviewed scoped partial result** after root/C
+TWO OTHER ENTIRE WHOLE64/64 and full128-disposition reconciliation.
+Constructor B excluded. Exact square lift/orbit moments force rationality
+when s>=2a;unit squaring on SAME I² gives low ordinary principality
+without odd class number. Actual refined boxes inject under2a<=s;
+ordinary boxes require2a²<=s. Specified prime-ideal orders and mixed
+leastprime<=7 give new necessary class restrictions. The full mixed
+norm-q case,new class evaluation,annual classification and priority
+remain open/unclaimed;actual T-stability is retained where needed.
+
+
 ## Research significance and connections
 
 Opening overview updated 2026-10-18. Choosing the maximum possible collection

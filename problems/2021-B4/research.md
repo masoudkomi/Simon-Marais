@@ -1,5 +1,15 @@
 # 2021 B4 research log
 
+The NEW R19 candidate remains **UNVERIFIED,author correction required**:
+[whole-audit reconciliation](reviews/reasoning-center-return-r19-coordinator-reconciliation-v1.md).
+Both full64-obligation audits support the formal normalized R19A–C proof,
+but B caught an introductory claim transferring Eisenstein integrality
+back to unscaled original coordinates. Root missed that scope error in
+its initial review and records it explicitly. ALL v1 bytes/counterargument
+are preserved;FULL versioned author correction and BOTH affected reaudits
+are required. No R19 promotion or degree20/annual conclusion is made.
+
+
 ## Research significance and connections
 
 Opening overview updated 2026-10-18. The Casas–Alvero question asks whether a

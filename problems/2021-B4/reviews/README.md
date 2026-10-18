@@ -1,5 +1,15 @@
 # 2021 B4 independent reviews
 
+The NEW R19 candidate remains **UNVERIFIED,author correction required**:
+[whole-audit reconciliation](reasoning-center-return-r19-coordinator-reconciliation-v1.md).
+Both full64-obligation audits support the formal normalized R19A–C proof,
+but B caught an introductory claim transferring Eisenstein integrality
+back to unscaled original coordinates. Root missed that scope error in
+its initial review and records it explicitly. ALL v1 bytes/counterargument
+are preserved;FULL versioned author correction and BOTH affected reaudits
+are required. No R19 promotion or degree20/annual conclusion is made.
+
+
 2026-10-18 current: [R18A–C](reasoning-center-return-r18-acceptance.md) accepted after B/root OTHER ENTIRE WHOLE64/64 audits and full author14/BOTHreview21/ALL128/source/log/code/meta reconciliation. Exact actual adjacent H8/H9 m4 block forces nu=1 and three necessary full-gcd frames. ALLnu>=2 in that block excluded; three nu1 frames/different EC/m3/degree20/annual remain open. No lift or novelty claim.
 
 

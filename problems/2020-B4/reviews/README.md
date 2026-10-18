@@ -1,5 +1,17 @@
 # 2020 B4 independent reviews
 
+The new [SQ14A–E low-square result](reasoning-arithmetic-return-r14-acceptance.md)
+is **proved, independently reviewed scoped partial result** after root/C
+TWO OTHER ENTIRE WHOLE64/64 and full128-disposition reconciliation.
+Constructor B excluded. Exact square lift/orbit moments force rationality
+when s>=2a;unit squaring on SAME I² gives low ordinary principality
+without odd class number. Actual refined boxes inject under2a<=s;
+ordinary boxes require2a²<=s. Specified prime-ideal orders and mixed
+leastprime<=7 give new necessary class restrictions. The full mixed
+norm-q case,new class evaluation,annual classification and priority
+remain open/unclaimed;actual T-stability is retained where needed.
+
+
 2026-10-18 current: [L13A–D](reasoning-arithmetic-return-r13-acceptance.md) accepted after root/A OTHER ENTIRE WHOLE64/64 audits and full reconciliation. Every ACTUAL prime-layer sequence is minimal; nonsquarefree fields have unconditional2^omega(q) distinct labels and actual extra Omega(q)-omega(q)-1 prefixes. Classical Davenport restrictions retain unit defect and exact norm/ideal domains. No new class-group evaluation, finite-q realization, numerical taut order or annual answer. Old A9 theorem/warning preserved; actual integral complement supplies the new inference.
 
 

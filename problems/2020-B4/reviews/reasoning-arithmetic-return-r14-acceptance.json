@@ -1,0 +1,119 @@
+{
+  "accepted_at_utc": "2026-10-18T14:16:57.152449+00:00",
+  "status": "proved, independently reviewed scoped partial result",
+  "whole_initials_blind": true,
+  "root_read_full_candidate_both_reports_all_ledgers_sources": true,
+  "unresolved_substantive_issues": 0,
+  "repair_required": false,
+  "candidate": {
+    "path": "problems/2020-B4/notes/reasoning-arithmetic-return-r14-candidate-v1.md",
+    "bytes": 16951,
+    "sha256": "673bcde7cadb391baf6a8362295bc4ba833e40a69dd4836725b5b3de2015df7f"
+  },
+  "accepted_copy": {
+    "path": "problems/2020-B4/proofs/reviewed-reasoning-arithmetic-return-r14-v1.1.md",
+    "bytes": 22470,
+    "sha256": "befc8237c23eaac3e210d0aa3f28eaef44a01d4e771e3a4d156b18fd6b6bedb5"
+  },
+  "verification_metadata": [
+    {
+      "path": "problems/2020-B4/notes/reasoning-arithmetic-return-r14-freeze-v1.json",
+      "bytes": 7060,
+      "sha256": "e10b1b5ed9b573e181846b4403d1dbda20515fab3ff39091ce1c8c51124919d5"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-arithmetic-return-r14-baseline-v1.json",
+      "bytes": 9436,
+      "sha256": "3312bbe41d1361e28919d49fa0c359b0902781f5643b44b797ffdabbf7b3c0f7"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-arithmetic-return-r14-input-validation-v1.json",
+      "bytes": 497,
+      "sha256": "11a64c6afb41c7e4e2a95a635e7af634f02681bcbb7885f4fbda1071dcb29d7d"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-arithmetic-return-r14-sources-v1.json",
+      "bytes": 4444,
+      "sha256": "e3d137fc6b3ee558c7ce26e26259330f28f689893e8a62e6d6a289de86319fe1"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-arithmetic-return-r14-review-1-manifest-v1.json",
+      "bytes": 2582,
+      "sha256": "d5e2d5db18d2ce837c86953822e4b015935436b74617667565079b57da78537d"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-arithmetic-return-r14-review-1-baseline-v1.json",
+      "bytes": 6127,
+      "sha256": "b3e25d1a302fff2517313093f4614e5fdff61ecb1ecc0c91b0e6b85350d89856"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-arithmetic-return-r14-review-1-input-validation-v1.json",
+      "bytes": 405,
+      "sha256": "215ab7abfe55bdcd3cc57b297d387e5b0cea0a2e2ad30400b616aa23e539ac96"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-arithmetic-return-r14-review-1-metadata-v1.json",
+      "bytes": 732,
+      "sha256": "c9d9a36c39346389df56fe18b5eaf70a3a24ffd2dbaf9336edc16350bd33da44"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-arithmetic-return-r14-review-1-sources-v1.json",
+      "bytes": 1205,
+      "sha256": "545ccef2e4bfaa8576e878dd83044a1ebabf648ae1914991b95bea2efa5e5995"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-arithmetic-return-r14-review-2-manifest-v1.json",
+      "bytes": 3068,
+      "sha256": "d91bb80ed5b7ee9b55e1bf308ac8cac3eff3750897cd4a06291a3d4f9d23c535"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-arithmetic-return-r14-review-2-baseline-v1.json",
+      "bytes": 11615,
+      "sha256": "5c7d0dcb635a80fa83253a8649776fcf635c4fbda239bcf82e762e35489776a9"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-arithmetic-return-r14-review-2-input-validation-v1.json",
+      "bytes": 600,
+      "sha256": "ee5851e64fb94542f6059247e4e205c154acd7f2f9e732cdba84be60e653a0c3"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-arithmetic-return-r14-review-2-metadata-v1.json",
+      "bytes": 1050,
+      "sha256": "ab9b4947c36c53fbdd962af349977bc42faaa0533a6d0e10c542a318848cb671"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-arithmetic-return-r14-review-2-sources-v1.json",
+      "bytes": 2041,
+      "sha256": "2a16828c6cc98549003741353c733ce927c8cb87ab1968396b54a6ee8ad82c1c"
+    }
+  ],
+  "record_occurrences_verified": 168,
+  "unique_paths_verified": 73,
+  "claims": [
+    "SQ14A",
+    "SQ14B",
+    "SQ14C",
+    "SQ14D",
+    "SQ14E"
+  ],
+  "constructor": "/root/review_2022_complexity_r2",
+  "constructor_excluded": true,
+  "OTHER_whole_reviewers": [
+    "/root",
+    "/root/review_2017_coarsening_r1"
+  ],
+  "whole_obligations": 64,
+  "whole_checks": [
+    64,
+    64
+  ],
+  "BOTH_ENTIRE_before_corresponding_NEW_peer_material": true,
+  "root_read_ENTIRE_author_both_reports_ALL_ledgers_issues_sources_logs_code_ALLmetadata": true,
+  "closed_notes_root": 7,
+  "closed_notes_C": 8,
+  "low_square_rigidity_and_exact_actual_box_injection": true,
+  "ordinary_vs_refined_thresholds_distinct": true,
+  "actual_T_stability_for_stronger_class_lower_bound": true,
+  "no_new_q_class_computation_full_norm_q_annual_priority_or_external_validation": true,
+  "no_mathematical_computation": true
+}
