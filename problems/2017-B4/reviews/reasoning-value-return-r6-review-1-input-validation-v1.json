@@ -1,0 +1,224 @@
+{
+  "validated_at_utc": "2026-10-18T00:14:52.833275+00:00",
+  "administrative_only_not_mathematical_evidence": true,
+  "NEW_peer_R6_guard_applied_before_any_read_or_hash": true,
+  "constructor_freeze": {
+    "path": "problems/2017-B4/notes/reasoning-value-return-r6-freeze-v1.json",
+    "bytes": 3298,
+    "sha256": "aba8108ec5191eb5c6d2702944d74c340c06ff949938bbe0bcd197b34998e9d4"
+  },
+  "constructor_payloads_verified": 9,
+  "constructor_full_packet_compact_summary": {
+    "occurrences": 10,
+    "unique_paths": 10,
+    "deduplicated_summary_sha256": "64ead52fb53fe5b13e57de182cd18bfcb50aed238303c111c464b2f7c8d42618",
+    "encoding": "UTF8 JSON sorted unique path/bytes/sha256; sorted keys; compact separators"
+  },
+  "constructor_baseline_parent": {
+    "path": "problems/2017-B4/notes/reasoning-value-return-r6-baseline-v1.json",
+    "bytes": 3643,
+    "sha256": "bba33bba4a843816e4178765c00c76d8148051c3c54b20b26fab7bc13244fc62"
+  },
+  "necessary_declared_parent_selection_verified": {
+    "occurrences": 80,
+    "unique_paths": 80,
+    "deduplicated_summary_sha256": "f234c459845d2f452107a8e0fc684dab68e4e08584b038ab9eb459a89229b4f4",
+    "encoding": "UTF8 JSON sorted unique path/bytes/sha256; sorted keys; compact separators"
+  },
+  "authoritative_acceptance_metadata": [
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r5-acceptance.json",
+      "bytes": 2851,
+      "sha256": "729787fbf9b86e90fa11ed50aba3e2db0b7423103f94fccd646b54c6a07aa834"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r4-acceptance.json",
+      "bytes": 2726,
+      "sha256": "2ff01be1020f302ad46d018daf38741ee676fe80d27ba6497a487567b8a6ffda"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r3-acceptance.json",
+      "bytes": 2370,
+      "sha256": "024f72aec10c703871593df3e50a13c7fd77dabe45ba0802f4ef5f7e83c55259"
+    },
+    {
+      "path": "problems/2017-B4/reviews/allD-global-acceptance.json",
+      "bytes": 3248,
+      "sha256": "d05556d1973514ad70c8017633c346748636783718be7871dcd3e8a59dc969b5"
+    },
+    {
+      "path": "problems/2017-B4/reviews/allD-uniform-strict-acceptance.json",
+      "bytes": 2808,
+      "sha256": "a481e698f4e8efb6549bc1ea93b989683e430e9a6ae7aa8bf01802fb2912e514"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coarsening-acceptance.json",
+      "bytes": 2193,
+      "sha256": "b6869162ed35636014082a783f0c254e459af0b848e77afcb2226d8a21ed2d99"
+    }
+  ],
+  "exact_current_accepted_bodies": [
+    {
+      "path": "problems/2017-B4/proofs/reviewed-reasoning-value-return-r5-v1.1.md",
+      "bytes": 34615,
+      "sha256": "e6c9da16c39c038c1646e7756f38b299f4ddc1443555c7bb668d0444741f869a"
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-reasoning-value-return-r4-v1.1.md",
+      "bytes": 45592,
+      "sha256": "9e22fcce5663fc1f8def1ce95111a4b774fa61e24f20b0597dac1e4dd887fbc8"
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-reasoning-value-return-r3-v1.1.md",
+      "bytes": 25476,
+      "sha256": "33918a64abe7766e982479b1e99fd1df0bf6bf00a25e7d50a3f028623a7d6e07"
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-allD-global-v1.1.md",
+      "bytes": 50352,
+      "sha256": "47bc1477db5c54c0b40565460fb95a2a6a1c6da8368b054cbc9c61f1615ee14c"
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-allD-uniform-strict-v1.1.md",
+      "bytes": 39136,
+      "sha256": "a5ebfd81d59b26f301b1e105889451f4c86262da80e6e77e6913c045d71147d2"
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-direction-coarsening-v1.1.md",
+      "bytes": 9175,
+      "sha256": "98c04673acdb4c59d44eb4d977f844d3f01ef27365399982e02df8cbaa4a6241"
+    }
+  ],
+  "accepted_suffix_checks": [
+    {
+      "accepted": {
+        "path": "problems/2017-B4/proofs/reviewed-reasoning-value-return-r5-v1.1.md",
+        "bytes": 34615,
+        "sha256": "e6c9da16c39c038c1646e7756f38b299f4ddc1443555c7bb668d0444741f869a"
+      },
+      "original": {
+        "path": "problems/2017-B4/notes/reasoning-value-return-r5-candidate-v1.md",
+        "bytes": 30791,
+        "sha256": "f0313ffa047c8c0ac7664192a01936f842b300f22168a9b929c8d4d39c41879e"
+      },
+      "accepted_math_is_exact_original_suffix": true
+    },
+    {
+      "accepted": {
+        "path": "problems/2017-B4/proofs/reviewed-reasoning-value-return-r4-v1.1.md",
+        "bytes": 45592,
+        "sha256": "9e22fcce5663fc1f8def1ce95111a4b774fa61e24f20b0597dac1e4dd887fbc8"
+      },
+      "original": {
+        "path": "problems/2017-B4/notes/reasoning-value-return-r4-candidate-v1.md",
+        "bytes": 42968,
+        "sha256": "e2c497814ebd8c9ec8b767c30be6cd37ca8ea9d2d9e51f5496bbd91c91bc854a"
+      },
+      "accepted_math_is_exact_original_suffix": true
+    },
+    {
+      "accepted": {
+        "path": "problems/2017-B4/proofs/reviewed-reasoning-value-return-r3-v1.1.md",
+        "bytes": 25476,
+        "sha256": "33918a64abe7766e982479b1e99fd1df0bf6bf00a25e7d50a3f028623a7d6e07"
+      },
+      "original": {
+        "path": "problems/2017-B4/notes/reasoning-value-return-r3-candidate-v1.md",
+        "bytes": 22915,
+        "sha256": "e76949699e6f6bfbcf58a4f0c8a8f7e3affa903a92dc5ec61b92887e4fe07bff"
+      },
+      "accepted_math_is_exact_original_suffix": true
+    },
+    {
+      "accepted": {
+        "path": "problems/2017-B4/proofs/reviewed-allD-global-v1.1.md",
+        "bytes": 50352,
+        "sha256": "47bc1477db5c54c0b40565460fb95a2a6a1c6da8368b054cbc9c61f1615ee14c"
+      },
+      "original": {
+        "path": "problems/2017-B4/notes/allD-global-reasoning-r1-candidate-v1.md",
+        "bytes": 46506,
+        "sha256": "c16acc6b4785c114648ec8848311d5022284c894047bef9013e7313c34706428"
+      },
+      "accepted_math_is_exact_original_suffix": true
+    },
+    {
+      "accepted": {
+        "path": "problems/2017-B4/proofs/reviewed-allD-uniform-strict-v1.1.md",
+        "bytes": 39136,
+        "sha256": "a5ebfd81d59b26f301b1e105889451f4c86262da80e6e77e6913c045d71147d2"
+      },
+      "original": {
+        "path": "problems/2017-B4/notes/allD-uniform-strict-reasoning-r1-candidate-v1.md",
+        "bytes": 37267,
+        "sha256": "fc280881b1df650d07ab48f0f4c19d0e77f076e6b39a13f3a0b8d9969074a433"
+      },
+      "accepted_math_is_exact_original_suffix": true
+    }
+  ],
+  "additional_operative_context": [
+    {
+      "path": "problems/2017-B4/proofs/reviewed-fixedD-structural-v1.2.md",
+      "bytes": 16602,
+      "sha256": "421dc271ed65831e3aa70057a0d74c4d999ba8249dfa2b99066dfdc298f86868"
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-global-value-return-r2-v1.1.md",
+      "bytes": 25152,
+      "sha256": "18db84b72cc680e6a337721f8b43f3940adf6c3c17a8ee20e9c4d43d38c4a342"
+    }
+  ],
+  "constructor_historical_parent_bound_not_recopied": {
+    "parent": {
+      "path": "problems/2019-B4/reviews/coordinator-retained-core-gap-r1-review-2-manifest-v1.json",
+      "bytes": 3495,
+      "sha256": "c53e1f875b1c3cc6c2b3dbae1492829cdf9ef7778e96c249e3027cb92edb316d"
+    },
+    "earlier_own_paths": 465,
+    "historical_inventory_not_recursively_replayed": true
+  },
+  "immutable_own_prior_review_parent": {
+    "path": "problems/2020-B4/reviews/reasoning-return-r8-review-2-manifest-v1.json",
+    "bytes": 4584,
+    "sha256": "de2dc15d7cde1a849e5dacb137051d21fde9bda3580c6e9e6c40263b6eb3cc06"
+  },
+  "own_prior_payloads_checked": {
+    "occurrences": 7,
+    "unique_paths": 7,
+    "deduplicated_summary_sha256": "91b01ac71b2d144f0aeccbcbb627aa464f102febced394b06f31f20ec47c19e1",
+    "encoding": "UTF8 JSON sorted unique path/bytes/sha256; sorted keys; compact separators"
+  },
+  "own_prior_history_bound_transitively_not_copied": {
+    "occurrences": 99,
+    "unique_paths": 65,
+    "canonical_deduplicated_summary_sha256": "644ea7b56d3b1489b9d5de02a69e113d1edfaa09e564a66ed9144e38d68b34f9",
+    "canonical_encoding": "UTF8 JSON sorted unique path/bytes/sha256, sorted keys, compact separators"
+  },
+  "all_current_inputs_compact_summary": {
+    "occurrences": 113,
+    "unique_paths": 99,
+    "deduplicated_summary_sha256": "53b750db1bfa2dbdee1d5c18767d897365db79b6eccf6d4e22af2d0713e065f7",
+    "encoding": "UTF8 JSON sorted unique path/bytes/sha256; sorted keys; compact separators"
+  },
+  "all_48_ledger_rows_present_once_in_order": true,
+  "closed_source_scope_note_N1_preserved": true,
+  "primary_pdf_native_hashes": null,
+  "mathematical_program_CAS_scan_certificate_or_author_rerun_count": 0,
+  "no_old_shared_Git_cache_edit_spawn_contact_charge_or_bypass": true,
+  "NF_new_2024_packet_unopened_until_this_entire_initial_freeze": true,
+  "weekly_budget_and_settings": {
+    "user_explicitly_authorized_new_reported_weekly_window": true,
+    "at_utc": "2026-10-18 00:13:53 UTC",
+    "total_weekly_used_percent": 2,
+    "window_minutes": 10080,
+    "reset_unix": 1792874445,
+    "ordinary_usage_allowed": true,
+    "legacy_and_by_limit_fields_agree": true,
+    "ceiling_total_percent": 90,
+    "integration_reserve_retained": true,
+    "no_automatic_further_weekly_reset": true,
+    "requested_model": "gpt-6.1-sol",
+    "requested_reasoning": "max",
+    "independently_verified_effective_readback": null
+  }
+}

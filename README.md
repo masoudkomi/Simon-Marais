@@ -6,7 +6,7 @@ This repository records a sustained investigation of the Simon Marais Mathematic
 
 **Current stage:** two complete internally reviewed annual answers: the attributed published2018 enumeration and the2023 exponent classification (priority unestablished). Seven annual questions remain unresolved. New partial results include [2024's entire three-bit exclusion](problems/2024-B4/reviews/coordinator-three-bit-sector-r2-acceptance.md) and [2020's conditional arithmetic solvability/ideal-stabilizer theorem](problems/2020-B4/reviews/reasoning-return-r8-acceptance.md), both with TWO OTHER whole audits and full reconciliation. The [2021 R11 actual first-break exclusion](problems/2021-B4/reviews/reasoning-return-r11-acceptance.md) has also passed both OTHER whole audits and full reconciliation, within its explicit conditional domain. Research has resumed under the user's explicit authorization for the newly reported weekly window, through90%TOTAL with reserve. See [authorization and current activity](progress/authorization-2026-10-18-0958.md). Permission requests affect only dependent actions; other agents continue.
 
-- [Latest all-nine status and usage](progress/status-2026-10-18-1018.md): two complete annual answers; seven annual targets unresolved.
+- [Latest all-nine status and usage](progress/status-2026-10-18-1040.md): two complete annual answers; seven annual targets unresolved. Hourly reporting is active in the current chat.
 - [Dashboard](progress/dashboard.md): per-problem status, results, obstructions, next steps and reviews.
 - [Budget and telemetry](progress/budget.md): observed weekly usage and reset boundary.
 - [Restart instructions](progress/restart.md): how to resume safely.

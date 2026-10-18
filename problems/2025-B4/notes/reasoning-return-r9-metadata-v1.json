@@ -1,0 +1,39 @@
+{
+  "constructor": "/root/review_2017_coarsening_r1",
+  "requested_model": "gpt-6.1-sol",
+  "requested_reasoning": "max",
+  "effective_readback": "unavailable",
+  "status": "candidate proof - unverified",
+  "official_scope": "2025 B4(b), signed prime diagonal p>=37 and |X|>=2; R9A/B additionally q_p>=32",
+  "claims": [
+    "R9A",
+    "R9B",
+    "R9C",
+    "R9D",
+    "R9E",
+    "R9F"
+  ],
+  "whole_obligations": 48,
+  "two_OTHER_initially_blind_WHOLE_audits_required": true,
+  "root_generic_prompt_supplied_new_proof_inference": false,
+  "OLD_C_R6_FS_authorship_and_other_review_roles_disclosed": true,
+  "ordinary_solution_or_Diophantine_exclusion_or_annual_claim": false,
+  "published_theorem_refuted_by_conditional_or_model_data": false,
+  "both_arithmetic_branches_retained_with_dense_support": true,
+  "finite2_weight6_NOT_original_weight": true,
+  "source_v1_and_CURRENT_v4_distinguished": true,
+  "mathematical_code_or_native_child": false,
+  "paid_API_contact_bypass": false,
+  "budget": {
+    "explicit_human_new_window_authorization_relayed_by_root": true,
+    "reset": 1792874445,
+    "latest_direct_TOTAL_used_percent": 2,
+    "ordinary_usage_allowed": true,
+    "stop_TOTAL_percent_with_reserve": 90
+  },
+  "immutable_parent": {
+    "path": "problems/2024-B4/reviews/coordinator-three-bit-sector-r2-review-2-manifest-v1.json",
+    "bytes": 3637,
+    "sha256": "df5e3b97dab03c7d3aa547d0e2a42534c5ce524662f28230476f3cd99f12065e"
+  }
+}

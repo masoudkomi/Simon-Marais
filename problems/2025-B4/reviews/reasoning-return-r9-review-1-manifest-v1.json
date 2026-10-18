@@ -1,0 +1,97 @@
+{
+  "frozen_at_utc": "2026-10-18T00:31:48.764069+00:00",
+  "status": "ENTIRE initially blind OTHER WHOLE R1 complete; limited versioned radius repair required",
+  "reviewer": "/root",
+  "constructor": "/root/review_2017_coarsening_r1",
+  "new_R9_constructor_contribution": false,
+  "old_UW_source_R6_R8_roles_disclosed_no_self_recertification": true,
+  "target": {
+    "path": "problems/2025-B4/notes/reasoning-return-r9-candidate-v1.md",
+    "bytes": 22574,
+    "sha256": "8fae8c0dd3e951fd4c847954f75186b8969f1dbdec9592b8cebcbda8394a9aa2"
+  },
+  "constructor_freeze": {
+    "path": "problems/2025-B4/notes/reasoning-return-r9-freeze-v1.json",
+    "bytes": 2790,
+    "sha256": "93eed518f1584c8e4f1a7cbe4d6229c9532caae4269d18cf0393c1f0e934aa8f"
+  },
+  "whole_claims": [
+    "R9A",
+    "R9B",
+    "R9C",
+    "R9D",
+    "R9E",
+    "R9F"
+  ],
+  "all48_obligations_individually_reconstructed": true,
+  "required_issues": [
+    "R9R1-01"
+  ],
+  "affected_ledger_rows": [
+    24,
+    25
+  ],
+  "other_scoped_inferences_no_defect_found": true,
+  "ENTIRE_initial_before_ANY_NEW_peer_R9_findings_or_metadata": true,
+  "versioned_author_repair_and_BOTH_affected_reaudits_required": true,
+  "another_OTHER_whole_initial_and_reconciliation_required": true,
+  "no_annual_exclusion_or_final_source_theorem_refutation": true,
+  "input_summary": {
+    "occurrences": 41,
+    "unique_paths": 41,
+    "canonical_deduplicated_sha256": "e51d7a5fe9ec50913cea90a04983e082104c87b27b07aa000ce84c97c151b904"
+  },
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "effective_readback": null,
+  "budget": {
+    "at_utc": "2026-10-18 00:28:04 UTC",
+    "total_used_percent": 3,
+    "reset_unix": 1792874445,
+    "window_minutes": 10080,
+    "ordinary_allowed": true,
+    "explicit_new_window_authorization": true,
+    "total_ceiling": 90,
+    "reserve": true,
+    "no_automatic_further_reset": true
+  },
+  "artifacts": [
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r9-review-1-initial-v1.md",
+      "bytes": 16699,
+      "sha256": "f789c23f382be147939f4863fb32afc0509cfa374ff7a3946b03ad9e7ebd7ee0"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r9-review-1-ledger-v1.md",
+      "bytes": 6321,
+      "sha256": "9a36d01a3a60a81fead47cad5af1dba8538d8ac87c82b129e7fe7fbdf430fce0"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r9-review-1-issues-v1.md",
+      "bytes": 1544,
+      "sha256": "e428a57094657c4a670f896e2fabbaca89ba8b3f3b6012033205a8488eacc6c2"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r9-review-1-source-audit-v1.md",
+      "bytes": 4042,
+      "sha256": "dc9848d8e5f8594708fb2519dbe21d65e28c3201c2459745dcf008bb4087b61d"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r9-review-1-worklog-v1.md",
+      "bytes": 2376,
+      "sha256": "738519bd7519a5335eaca252cc695c7c9805a019bd8df0e88eeac87c77ac2a65"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r9-review-1-freeze-v1.py",
+      "bytes": 4730,
+      "sha256": "edd0011a12e74619b8a171227f84957bf442e78dd6bcfe30579a12e395670b73"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r9-review-1-integrity-v1.json",
+      "bytes": 4069,
+      "sha256": "c358f3f36e319bc8e05ced977a088a8149e23aed3212a39ac8917ba726fe48e4"
+    }
+  ]
+}

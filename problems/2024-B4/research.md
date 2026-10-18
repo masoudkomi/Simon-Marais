@@ -21,8 +21,12 @@ published exceptional-APN classification does not itself answer B4(b).
 
 The project's reviewed results include exact occurrences of specified factors,
 Kasami-family criteria, structural restrictions and exclusion of all
-three-bit odd exponents from the requested factorization. The new
-neighbor-Frobenius criterion is frozen but still under independent review.
+three-bit odd exponents from the requested factorization. The
+[neighbor-Frobenius criterion](reviews/coordinator-neighbor-Frobenius-r1-acceptance.md)
+has now passed both independent whole reviews: for q=2^a, a>=2 and odd
+ell>=3, either ell|(q-2) or ell|(2q-1) gives whole absolute irreducibility
+of phi_(q ell+1). In particular it excludes the four-bit family
+7*2^a+1 when 3 does not divide a; it does not decide the 3|a branch.
 The unrestricted ordinary reducibility classification remains unresolved.
 See the [current dashboard](../../progress/dashboard.md),
 [references](references.md), and [review register](reviews/README.md).

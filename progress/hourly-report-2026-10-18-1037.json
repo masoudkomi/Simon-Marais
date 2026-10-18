@@ -1,0 +1,94 @@
+{
+  "recorded_at_utc": "2026-10-18T00:37:44.930521+00:00",
+  "kind": "hourly-report activation baseline",
+  "automation_id": "simon-marais-hourly-research-report",
+  "automation_kind": "heartbeat",
+  "automation_status": "ACTIVE",
+  "frequency": "every hour in the current chat",
+  "weekly": {
+    "observed_at_utc": "2026-10-18T00:34:48+00:00",
+    "used_percent_total": 3,
+    "window_minutes": 10080,
+    "reset_unix": 1792874445,
+    "authorized_ceiling_percent_total": 90,
+    "percentage_points_before_ceiling": 87,
+    "ordinary_usage_allowed": true,
+    "account_wide_not_project_specific": true,
+    "automatic_further_reset_authorized": false
+  },
+  "tokens": {
+    "snapshot_cutoff_utc": "2026-10-18T00:35:57.429125+00:00",
+    "observed_sessions": 62,
+    "distinct_responses": 7984,
+    "usage": {
+      "input_tokens": 1496535568,
+      "cached_input_tokens": 1426921216,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 11316642,
+      "reasoning_output_tokens": 4903115,
+      "total_tokens": 1507852210
+    },
+    "uncached_input_plus_output_tokens": 80930994,
+    "sessions_without_usage_records": 0,
+    "all_recorded_session_sums_match_cumulative": true,
+    "method": "Deduplicated own-thread per-response usage records across root and recursively spawned descendants; cached input is a subset of input, reasoning output a subset of output.",
+    "limits": "Local recorded observation while work is active. Unreported in-flight usage is excluded. Not a bill or a conversion to subscription percentage. No prompts, account IDs, credentials, or response IDs exported."
+  },
+  "increase_since_previous_hourly_report": null,
+  "increase_note": "First hourly baseline; later hourly snapshots compare against this record.",
+  "per_problem": {
+    "2017": {
+      "status": "unresolved",
+      "reviewed": "Normalized count converges; value unknown. Upper bound below 0.649514; certified lower approximations and every-profile realization.",
+      "pending": "R6 both whole initials frozen; finite-angle source-interface issue PMR2-01 requires versioned author justification and both affected reaudits.",
+      "next": "Resolve the boundary-sensitive mass/value inference; do not identify free-window entropy with balanced entropy."
+    },
+    "2018": {
+      "status": "complete published-result reproduction, internally reviewed",
+      "reviewed": "Literal general enumeration attributed to Hering\u2013Howard/Ottaviani.",
+      "next": "Retain source attribution; no novelty claim."
+    },
+    "2019": {
+      "status": "unresolved",
+      "reviewed": "1.765224 < lambda < 1.834843; growth constant and approximation/cap-gap results.",
+      "next": "Study the retained-core renewal/moment regime and exact distinct-output growth using primary literature."
+    },
+    "2020": {
+      "status": "unresolved",
+      "reviewed": "R8 conditional arithmetic solvability with precise ideal, unit and stabilizer obstructions.",
+      "next": "Obtain unconditional existence or nonexistence beyond the established conditional criteria."
+    },
+    "2021": {
+      "status": "unresolved",
+      "reviewed": "R11 excludes the specified actual degree-20/J15 first-break m7 branch.",
+      "pending": "A reports a proposed m6 exclusion; R12 construction is still in progress, not frozen or reviewed.",
+      "next": "Complete and independently audit actual-witness m6 reasoning; earlier breaks m3\u2013m5 and other branches remain."
+    },
+    "2022": {
+      "status": "unresolved",
+      "reviewed": "Density-one, predecessor, merger, scaling and phase restrictions.",
+      "next": "Construct an actual infinite ordinary avoiding orbit or prove universal diagonal hitting; no such conclusion currently established."
+    },
+    "2023": {
+      "status": "complete internally reviewed classification, priority unestablished",
+      "reviewed": "For fixed positive nonsquare N: (k,k) for all positive k, and (k,2k)/(2k,k) for positive odd k.",
+      "next": "Retain the official real-witness domain and negative witnesses; continue priority verification as appropriate."
+    },
+    "2024": {
+      "status": "unresolved",
+      "reviewed": "Whole three-bit exclusion, attributed 3 mod 4 sector and specified-factor/Kasami criteria.",
+      "pending": "Neighbor-Frobenius NF1\u2013NF3: A whole initial frozen and fully read by root; B whole initial active. Root constructor excluded.",
+      "next": "Complete both whole audits, then reconcile; general four-bit and full ordinary reducibility classification remain."
+    },
+    "2025": {
+      "status": "unresolved",
+      "reviewed": "Boundary, ideal, orbit and jet restrictions; no useful new unrestricted prime-case exclusion.",
+      "pending": "R9: root whole initial frozen with limited radius-domain issue R9R1-01; B original-v1 blind whole initial queued. Separate Runge construction in progress and unverified.",
+      "next": "Versioned radius repair plus both affected reaudits; confront evaluated nonvanishing by an actual finite auxiliary family."
+    }
+  },
+  "complete_annual_answers": 2,
+  "unresolved_annual_targets": 7,
+  "latest_previously_pushed_commit": "2af4685",
+  "limitations": "Cached input is a subset of input; reasoning is a subset of output. In-flight unreported usage excluded. Recorded totals are not a bill or a conversion to weekly allowance."
+}

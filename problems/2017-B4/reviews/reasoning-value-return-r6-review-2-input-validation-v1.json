@@ -1,0 +1,127 @@
+{
+  "checked_at_utc": "2026-10-18T00:31:47.449923+00:00",
+  "administrative_only_no_mathematical_evidence": true,
+  "baseline": {
+    "path": "problems/2017-B4/reviews/reasoning-value-return-r6-review-2-baseline-v1.json",
+    "bytes": 10149,
+    "sha256": "d0b00575aad90c1c448706204c881ae813fa41d475bc8217f18eda75ccb369ac"
+  },
+  "necessary_current_summary": {
+    "occurrences": 41,
+    "unique_paths": 41,
+    "canonical_deduplicated_summary_sha256": "8bdfaf175974e3a199d3ebb31285458b74bb64189a9842b461939fd3b561d155"
+  },
+  "all10_constructor_files_unchanged": true,
+  "all22_selected_current_authority_input_records_unchanged": true,
+  "all_nine_immediately_previous_own_files_unchanged": true,
+  "constructor_selected_one_level_80_declarations": {
+    "exact_baseline": {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r6-baseline-v1.json",
+      "bytes": 3643,
+      "sha256": "bba33bba4a843816e4178765c00c76d8148051c3c54b20b26fab7bc13244fc62"
+    },
+    "exact_validation": {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r6-input-validation-v1.json",
+      "bytes": 469,
+      "sha256": "87ac50caac55a0e983b8129b32f6e36a77c6dc98a6be6e17762c4ccd1bf90dc6"
+    },
+    "verified_summary": {
+      "occurrences": 80,
+      "unique_paths": 80,
+      "canonical_deduplicated_summary_sha256": "f234c459845d2f452107a8e0fc684dab68e4e08584b038ab9eb459a89229b4f4"
+    },
+    "records_bound_in_exact_parents_not_recopied": true,
+    "constructor_earlier475_paths_not_recursively_rehashed": true
+  },
+  "constructor_selected_80_declarations_independently_reverified": {
+    "occurrences": 80,
+    "unique_paths": 80,
+    "canonical_deduplicated_summary_sha256": "f234c459845d2f452107a8e0fc684dab68e4e08584b038ab9eb459a89229b4f4"
+  },
+  "prior_own_history": {
+    "manifest": {
+      "path": "problems/2021-B4/reviews/reasoning-return-r11-review-1-manifest-v1.json",
+      "bytes": 5068,
+      "sha256": "69fda5a64e3978e1a96637d8f8b6799fdd4914e85390bb792f5a8938f28bacf4"
+    },
+    "validation": {
+      "path": "problems/2021-B4/reviews/reasoning-return-r11-review-1-input-validation-v1.json",
+      "bytes": 4514,
+      "sha256": "7964972d9ce36881a40c2d7393dc839116608bc8c91dbd07d312875c8ad1863f"
+    },
+    "own_paths_bound_transitively": 448,
+    "last_nine_files_reverified": true,
+    "all448_older_paths_freshly_rehashed": false
+  },
+  "all48_obligation_rows_present_once": true,
+  "substantive_issues": 1,
+  "required_author_resolutions": 1,
+  "retained_scope_notes": 4,
+  "source_use_issue": "PMR2-01",
+  "affected_claims": [
+    "PM2",
+    "PM3"
+  ],
+  "PM1_PM4_whole_reconstruction_passed": true,
+  "downstream_conditional_arguments_reconstructed_not_source_gap_repair": true,
+  "new_A_R6_findings_files_or_metadata_unread_through_entire_initial": true,
+  "queued_NF_R9_packets_and_peer_material_unopened_through_entire_initial": true,
+  "one_unfrozen_own_patch_context_mismatch_changed_no_file_corrected_own_patch_succeeded": true,
+  "payload_records_before_validation": [
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r6-review-2-baseline-v1.json",
+      "bytes": 10149,
+      "sha256": "d0b00575aad90c1c448706204c881ae813fa41d475bc8217f18eda75ccb369ac"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r6-review-2-initial.md",
+      "bytes": 31067,
+      "sha256": "0072bdd443b79d55743b299f366f9de336f4c4c8e2b8f17485228a7ece603f0e"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r6-review-2-ledger-v1.md",
+      "bytes": 12052,
+      "sha256": "eb7148d1d8f1d872df9a02320a5a7100d2a31493f457a8e8cb41c7d403639d9d"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r6-review-2-issues-v1.md",
+      "bytes": 5383,
+      "sha256": "0a8419340e744bfe09105fb45d8c71978b20489ac141f850bd73560174763589"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r6-review-2-source-checks-v1.md",
+      "bytes": 9407,
+      "sha256": "a954ab6180974f5ba48486d50f0286adf351cabd10e21bacb746b3abe4cdf22d"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r6-review-2-sources-v1.json",
+      "bytes": 7106,
+      "sha256": "5d229389d3e39f31afa9a1a87d10f1d6434e4ee7e2281ae5ce0f833a5374cc40"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r6-review-2-freeze-v1.py",
+      "bytes": 8627,
+      "sha256": "31199dd2b7677673199137057cb69bce81c3082237d8946064ce013e48ab7813"
+    }
+  ],
+  "current_inputs_plus_payload_summary": {
+    "occurrences": 48,
+    "unique_paths": 48,
+    "canonical_deduplicated_summary_sha256": "989b24ed81f7746424ac424db0b00495febf9c0c99948edde0d83a42d45d1fbc"
+  },
+  "no_mathcode_scan_CAS_certificate_replay_or_author_rerun": true,
+  "no_old_shared_Git_cache_edit_spawn_contact_charge_or_bypass": true,
+  "authoritative_weekly_telemetry": {
+    "at_utc": "2026-10-18 00:23:55 UTC",
+    "method": "mcp__codex_app__get_usage_limits({}); rateLimitsByLimitId.codex.primary and legacy agree; rechecked at freeze preparation",
+    "account_label": "029a8928\u20261334ac3a",
+    "used_percent_total": 3,
+    "window_minutes": 10080,
+    "reset_unix": 1792874445,
+    "ordinary_usage_allowed": true,
+    "new_window_explicitly_user_authorized_via_coordinator": true,
+    "total_ceiling_percent": 90,
+    "integration_reserve": true,
+    "automatic_further_reset_spending": false
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "recorded_at_utc": "2026-10-18T00:29:24.116688+00:00",
+  "reviewer": "/root/review_2022_complexity_r2",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "independently_verified_effective_settings": null,
+  "status": "COMPLETE initially blind WHOLE R2 source record; PMR2-01 unresolved, no promotion",
+  "public_primary_sources": [
+    {
+      "title": "Official2017 Paper B",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2017-paper-2_1.pdf",
+      "actual_read_scope": "Page2 B4 only",
+      "use": "Official fixed-polygon/log2/n-squared domain",
+      "native_response_sha256": null
+    },
+    {
+      "title": "Official2017 B4 comments",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2017-solutions-preliminary_1.pdf",
+      "actual_read_scope": "Page12 B4 statement/comments only",
+      "use": "Marked orientation-distinguished count and commutation-class dictionary; no other problem researched",
+      "native_response_sha256": null
+    },
+    {
+      "title": "Kenyon-Schlenker, Rhombic embeddings of planar graphs with faces of degree4",
+      "url": "https://arxiv.org/pdf/math-ph/0305057",
+      "served_version": "v1,27May2003",
+      "actual_read_scope": "Section3 definitions/full operative Theorem3.1 text; Section4.1 Theorem4.1 and lemmas/proof; Definition4.4/Lemma4.5 proof",
+      "use": "Attributed embedding and angle parameterization; exact planar/track/crossing-angle hypotheses checked",
+      "whole11page_proof_claim": false,
+      "native_response_sha256": null
+    },
+    {
+      "title": "de Tiliere, Quadri-tilings of the plane",
+      "url": "https://arxiv.org/pdf/math/0403324",
+      "served_version": "v3,22May2006",
+      "actual_read_scope": "Front matter and printed page2 standing finite-angle restriction; Section4.1 context/Proposition4.1 and complete Lemmas4.2-4.3/Properties1-4,printed12-15",
+      "use": "Source-use gap PMR2-01 after countably distinct global perturbation; no theorem refutation",
+      "unresolved_source_hypothesis": "Only finitely many rhombus angles throughout source; global candidate perturbation can have infinitely many",
+      "Theorem4_4_only_partially_returned_not_imported": true,
+      "native_response_sha256": null
+    },
+    {
+      "title": "Kenyon-Okounkov-Sheffield, Dimers and amoebae",
+      "url": "https://arxiv.org/pdf/math-ph/0311005",
+      "served_version": "v1,5November2003",
+      "actual_read_scope": "Periodic matching/height/energy definitions; torus Kasteleyn and characteristic-polynomial conventions; product formula and full operative pressure proof through actual Theorem3.5",
+      "use": "Full positive-weight torus pressure under finite unit-torus zeros; no fixed exact-sector or later spectral theorem import",
+      "whole33page_proof_claim": false,
+      "native_response_sha256": null
+    },
+    {
+      "title": "Bjorner-Stanley, A Combinatorial Miscellany",
+      "url": "https://math.mit.edu/~rstan/papers/comb.pdf",
+      "served_version": "Author-posted5September2010 text",
+      "actual_read_scope": "Title metadata; Chapter3 equation3.7 and box bounds; COMPLETE Chapter9 printed79-82/PDF83-86",
+      "use": "Attributed MacMahon boxed formula/marked tiling bijection; original1916 and separate1971 proofs not inspected",
+      "native_response_sha256": null
+    }
+  ],
+  "full_local_body_reads": [
+    {
+      "path": "problems/2017-B4/proofs/reviewed-allD-uniform-strict-v1.1.md",
+      "bytes": 39136,
+      "sha256": "a5ebfd81d59b26f301b1e105889451f4c86262da80e6e77e6913c045d71147d2"
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-direction-coarsening-v1.1.md",
+      "bytes": 9175,
+      "sha256": "98c04673acdb4c59d44eb4d977f844d3f01ef27365399982e02df8cbaa4a6241"
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-reasoning-value-return-r3-v1.1.md",
+      "bytes": 25476,
+      "sha256": "33918a64abe7766e982479b1e99fd1df0bf6bf00a25e7d50a3f028623a7d6e07"
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-reasoning-value-return-r4-v1.1.md",
+      "bytes": 45592,
+      "sha256": "9e22fcce5663fc1f8def1ce95111a4b774fa61e24f20b0597dac1e4dd887fbc8"
+    }
+  ],
+  "scoped_accepted_statement_context_reads_not_fresh_whole_proof_audits": [
+    {
+      "path": "problems/2017-B4/proofs/reviewed-reasoning-value-return-r5-v1.1.md",
+      "bytes": 34615,
+      "sha256": "e6c9da16c39c038c1646e7756f38b299f4ddc1443555c7bb668d0444741f869a"
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-allD-global-v1.1.md",
+      "bytes": 50352,
+      "sha256": "47bc1477db5c54c0b40565460fb95a2a6a1c6da8368b054cbc9c61f1615ee14c"
+    }
+  ],
+  "all_six_acceptance_MD_JSON_read": true,
+  "full_constructor_packet_read_files": 10,
+  "all_whole_obligations": 48,
+  "source_use_issue": "PMR2-01",
+  "affected_claims": [
+    "PM2",
+    "PM3"
+  ],
+  "other_claims_full_reconstruction_no_substantive_defect": [
+    "PM1",
+    "PM4"
+  ],
+  "new_A_R6_peer_material_read": false,
+  "queued_NF_R9_packets_or_new_peer_material_opened": false,
+  "root_and_C_contributors_excluded": true,
+  "B_old_global_authorship_and_US_HC_EC_review_roles_disclosed": true,
+  "no_source_extension_or_reviewer_repair_imported": true,
+  "no_native_source_download_cache_write_charge_contact_or_bypass": true,
+  "no_mathcode_CAS_scan_sign_child_compiler_execution_certificate_replay_or_author_rerun": true,
+  "compact_preservation": {
+    "constructor_one_level80": {
+      "exact_baseline": {
+        "path": "problems/2017-B4/notes/reasoning-value-return-r6-baseline-v1.json",
+        "bytes": 3643,
+        "sha256": "bba33bba4a843816e4178765c00c76d8148051c3c54b20b26fab7bc13244fc62"
+      },
+      "exact_validation": {
+        "path": "problems/2017-B4/notes/reasoning-value-return-r6-input-validation-v1.json",
+        "bytes": 469,
+        "sha256": "87ac50caac55a0e983b8129b32f6e36a77c6dc98a6be6e17762c4ccd1bf90dc6"
+      },
+      "verified_summary": {
+        "occurrences": 80,
+        "unique_paths": 80,
+        "canonical_deduplicated_summary_sha256": "f234c459845d2f452107a8e0fc684dab68e4e08584b038ab9eb459a89229b4f4"
+      },
+      "records_bound_in_exact_parents_not_recopied": true,
+      "constructor_earlier475_paths_not_recursively_rehashed": true
+    },
+    "own_parent": {
+      "manifest": {
+        "path": "problems/2021-B4/reviews/reasoning-return-r11-review-1-manifest-v1.json",
+        "bytes": 5068,
+        "sha256": "69fda5a64e3978e1a96637d8f8b6799fdd4914e85390bb792f5a8938f28bacf4"
+      },
+      "validation": {
+        "path": "problems/2021-B4/reviews/reasoning-return-r11-review-1-input-validation-v1.json",
+        "bytes": 4514,
+        "sha256": "7964972d9ce36881a40c2d7393dc839116608bc8c91dbd07d312875c8ad1863f"
+      },
+      "own_paths_bound_transitively": 448,
+      "last_nine_files_reverified": true,
+      "all448_older_paths_freshly_rehashed": false
+    },
+    "selected_summary": {
+      "occurrences": 41,
+      "unique_paths": 41,
+      "canonical_deduplicated_summary_sha256": "8bdfaf175974e3a199d3ebb31285458b74bb64189a9842b461939fd3b561d155"
+    }
+  }
+}

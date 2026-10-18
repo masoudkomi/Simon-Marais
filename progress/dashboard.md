@@ -11,7 +11,7 @@ Initial scope: nine official B4 open portions, 2017-2025. **2026 deferred by the
 |2021|NEW R11 accepted after both OTHER WHOLE56-obligation audits: the entire actual m7 branch in the specified normalized actual-double/J15 domain is excluded. Optional four-unit consequence retains all extra hypotheses. Earlier first breaks, other degree20 branches and general classification remain open.|
 |2022|R8 accepted after both WHOLE audits: exact canonical prefix mergers, actual q2 predecessor counterexample, and separate binary-past/A-B phase obstructions. Literal scaling claim only for positive multipliers. No ordinary q10 infinite survivor or termination theorem.|
 |2023|COMPLETE internally reviewed classification for fixed positive nonsquare N: all(k,k),k>0, and(k,2k),(2k,k) for positive odd k. Priority remains unestablished.|
-|2024|Entire three-bit exclusion accepted after TWO OTHER WHOLE audits; earlier S3 and Kasami criteria retained. NEW neighbor-Frobenius whole-irreducibility candidate is frozen UNVERIFIED with two OTHER WHOLE audits queued/active. General ordinary reducibility remains open.|
+|2024|Entire three-bit exclusion accepted after TWO OTHER WHOLE audits; earlier S3 and Kasami criteria retained. NF1–NF3 neighbor-Frobenius whole-irreducibility criterion accepted after TWO OTHER WHOLE audits and root full reconciliation; proper/composite odd divisors included, n57/allweight4 unclaimed. General ordinary reducibility remains open.|
 |2025|NEW R8 accepted after both48/48 WHOLE audits: quantitative actual original-weight orbit amplification, real phase cancellation, all-order integral jets and formal leading-order bound with BOTH evaluated branches. Large zero-branch cost means no useful new unconditional exclusion/full solution.|
 
 ## Coordination
@@ -197,3 +197,8 @@ Five new exact partial packets accepted after both complete blind WHOLE audits a
 ## Current checkpoint — 2026-10-18 approximately00:18UTC
 
 [All nine, opening-page research landscape and exact usage](status-2026-10-18-1018.md).2021R11 accepted after both OTHER WHOLE56-obligation audits and full root reconciliation; its narrow domain leaves the annual problem open. All nine living reports now start with significance, mathematical connections and primary references.2017R6/2024NF remain unverified under OTHER whole audits;2025R9 construction continues.2%TOTAL weekly, reset1792874445 explicitly authorized; continue through90%TOTAL with reserve.
+
+
+## 2026-10-18 10:40 Brisbane: hourly reporting and NF acceptance
+
+[Current all-nine status](status-2026-10-18-1040.md). Hourly thread heartbeat active; [baseline](hourly-report-2026-10-18-1037.json).2024NF accepted scopedpartial,115fp/53paths,rootexcluded.2017R6source-interface and2025R9radius authorrepairs pending.2021R12actualreasoning and separate2025Rungewholeaudits continue.3%TOTALcurrentweekly,87ppbefore90%;raw1,507,852,210incl1,426,921,216cached,80,930,994uncached+output. Twoannualanswers/sevenunresolved unchanged.

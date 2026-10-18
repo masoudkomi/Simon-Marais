@@ -1,0 +1,107 @@
+{
+  "verified_at_utc": "2026-10-18T00:31:48.764069+00:00",
+  "administrative_only": true,
+  "all_current_records_match": true,
+  "input_summary": {
+    "occurrences": 41,
+    "unique_paths": 41,
+    "canonical_deduplicated_sha256": "e51d7a5fe9ec50913cea90a04983e082104c87b27b07aa000ce84c97c151b904"
+  },
+  "exact_current_constructor_records": [
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r9-freeze-v1.json",
+      "bytes": 2790,
+      "sha256": "93eed518f1584c8e4f1a7cbe4d6229c9532caae4269d18cf0393c1f0e934aa8f"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r9-live-log-v1.md",
+      "bytes": 4785,
+      "sha256": "2ae3e5f624fbe61bca6b39b5658535f68b042e3415f04d654a67be0e381b17f3"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r9-candidate-v1.md",
+      "bytes": 22574,
+      "sha256": "8fae8c0dd3e951fd4c847954f75186b8969f1dbdec9592b8cebcbda8394a9aa2"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r9-obligations-v1.md",
+      "bytes": 5110,
+      "sha256": "497893ed6c3c7f094f839c1e5e83e03f8f42eb7d88ea9d89e165bfb3eb299987"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r9-failed-routes-v1.md",
+      "bytes": 4431,
+      "sha256": "a434b872c7042e8079e0a9f735eeddbde3a82bc1fe0d7aa44f0489e958fd69a3"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r9-sources-v1.md",
+      "bytes": 6445,
+      "sha256": "6fcb37dc75579bc6c95833072ca91d833d24973065f844308fa05c38185a56fa"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r9-worklog-v1.md",
+      "bytes": 4596,
+      "sha256": "2ee8b9eacfa1c58e9d8f3d06fe421288155e00990857c3b6b834f339d4d20803"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r9-freeze-v1.py",
+      "bytes": 6951,
+      "sha256": "4f93c50453430c35b140e1b8da88dfba381c36fa827fa4ccb8638ef77a239654"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r9-baseline-v1.json",
+      "bytes": 6036,
+      "sha256": "8769d73d13fe7182479f225b9470ecbaf148ba1c4840b68c47e7edbe080fad9d"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r9-input-validation-v1.json",
+      "bytes": 343,
+      "sha256": "5bf3089ae68cce9e932aac9b65eb463461bcc32c9f97b67706a972962253c00f"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r9-metadata-v1.json",
+      "bytes": 1448,
+      "sha256": "6bcee65e1b7a51ddb5fbbfb4dcd3acfc6470a162e041e1d895cb3fb4aea3baaa"
+    }
+  ],
+  "constructor_direct_unique_declarations_verified": 21,
+  "constructor_other_input_occurrences_verified": 6,
+  "extra_accepted_authorities": [
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r8-acceptance.md",
+      "bytes": 3795,
+      "sha256": "65d7ba1e20c33f00d526d7e17d4941229aff2018517c46720371749e288b2752"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r6-acceptance.md",
+      "bytes": 3261,
+      "sha256": "9eec12d169ef7c33efeeb1254dff467990b41822707db0086a4b14016544cf20"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r6-acceptance.json",
+      "bytes": 2483,
+      "sha256": "9d32b3f32be2bf758dc2bbe0182c11a6597a96139d0bd3b24680ba7041d56135"
+    }
+  ],
+  "historical_constructor_485_own_paths_bound_not_replayed": {
+    "path": "problems/2024-B4/reviews/coordinator-three-bit-sector-r2-review-2-manifest-v1.json",
+    "bytes": 3637,
+    "sha256": "df5e3b97dab03c7d3aa547d0e2a42534c5ce524662f28230476f3cd99f12065e"
+  },
+  "historical_parent_payloads_bound_by_exact_baseline_not_new_mathematical_reviews": true,
+  "all48_ledger_rows_once": true,
+  "one_required_issue": "R9R1-01",
+  "new_peer_R9_reports_findings_and_metadata_read": false,
+  "no_mathcode_CAS_scan_author_rerun_certificate_replay": true,
+  "budget": {
+    "at_utc": "2026-10-18 00:28:04 UTC",
+    "total_used_percent": 3,
+    "reset_unix": 1792874445,
+    "window_minutes": 10080,
+    "ordinary_allowed": true,
+    "explicit_new_window_authorization": true,
+    "total_ceiling": 90,
+    "reserve": true,
+    "no_automatic_further_reset": true
+  }
+}

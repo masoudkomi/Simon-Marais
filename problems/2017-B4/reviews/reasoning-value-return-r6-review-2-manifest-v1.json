@@ -1,0 +1,122 @@
+{
+  "frozen_at_utc": "2026-10-18T00:31:47.450451+00:00",
+  "status": "COMPLETE fresh initially blind NONCONSTRUCTOR WHOLE R2; PMR2-01 unresolved source-use gap; no promotion",
+  "reviewer": "/root/review_2022_complexity_r2",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "independently_verified_effective_settings": null,
+  "exact_target": {
+    "path": "problems/2017-B4/notes/reasoning-value-return-r6-candidate-v1.md",
+    "bytes": 29992,
+    "sha256": "dbb4232858154bbbae385e16ef0444101e02c50cddbe0dbc82402166cd2869af"
+  },
+  "exact_constructor_freeze": {
+    "path": "problems/2017-B4/notes/reasoning-value-return-r6-freeze-v1.json",
+    "bytes": 3298,
+    "sha256": "aba8108ec5191eb5c6d2702944d74c340c06ff949938bbe0bcd197b34998e9d4"
+  },
+  "all48_obligations_and_whole_PM1_PM4_reconstructed": true,
+  "substantive_issues": 1,
+  "required_author_resolutions": 1,
+  "retained_scope_notes": 4,
+  "source_use_issue": "PMR2-01",
+  "affected_claims": [
+    "PM2",
+    "PM3"
+  ],
+  "PM1_PM4_whole_reconstruction_passed": true,
+  "countercertificate": "Two-color actual plane grid: a fixed color1 track crosses infinitely many distinctly perturbed color2 tracks, giving infinitely many crossing angles, outside de Tiliere's standing finite-angle domain",
+  "not_a_counterexample_to_PM2_conclusion_or_source_theorem": true,
+  "complete_versioned_author_response_and_both_affected_reaudits_required": true,
+  "no_reviewer_repair_or_unverified_source_extension_imported": true,
+  "new_A_R6_findings_files_or_metadata_unread_through_entire_initial": true,
+  "reviewer_did_not_construct_NEW_PM_packet": true,
+  "root_C_contributors_excluded": true,
+  "old_B_global_authorship_and_local_US_HC_EC_review_roles_disclosed": true,
+  "no_self_recertification_of_accepted_premises": true,
+  "no_upper_R_mass_value_annual_or_novelty_claim": true,
+  "necessary_current_summary": {
+    "occurrences": 41,
+    "unique_paths": 41,
+    "canonical_deduplicated_summary_sha256": "8bdfaf175974e3a199d3ebb31285458b74bb64189a9842b461939fd3b561d155"
+  },
+  "constructor_selected_one_level80_summary": {
+    "occurrences": 80,
+    "unique_paths": 80,
+    "canonical_deduplicated_summary_sha256": "f234c459845d2f452107a8e0fc684dab68e4e08584b038ab9eb459a89229b4f4"
+  },
+  "compact_own_parent_manifest": {
+    "path": "problems/2021-B4/reviews/reasoning-return-r11-review-1-manifest-v1.json",
+    "bytes": 5068,
+    "sha256": "69fda5a64e3978e1a96637d8f8b6799fdd4914e85390bb792f5a8938f28bacf4"
+  },
+  "compact_own_parent_validation": {
+    "path": "problems/2021-B4/reviews/reasoning-return-r11-review-1-input-validation-v1.json",
+    "bytes": 4514,
+    "sha256": "7964972d9ce36881a40c2d7393dc839116608bc8c91dbd07d312875c8ad1863f"
+  },
+  "older_own_paths_bound_transitively": 448,
+  "new_own_files_including_manifest": 9,
+  "older_plus_new_own_paths_bound_transitively": 457,
+  "no_historical_inventory_recopied_or_recursively_rehashed": true,
+  "no_mathcode_scan_CAS_native_mathematical_child_or_author_rerun": true,
+  "no_old_shared_Git_cache_edit_spawn_contact_charge_or_bypass": true,
+  "queued_NF_R9_unopened_before_current_entire_freeze": true,
+  "authoritative_weekly_telemetry": {
+    "at_utc": "2026-10-18 00:23:55 UTC",
+    "method": "mcp__codex_app__get_usage_limits({}); rateLimitsByLimitId.codex.primary and legacy agree; rechecked at freeze preparation",
+    "account_label": "029a8928\u20261334ac3a",
+    "used_percent_total": 3,
+    "window_minutes": 10080,
+    "reset_unix": 1792874445,
+    "ordinary_usage_allowed": true,
+    "new_window_explicitly_user_authorized_via_coordinator": true,
+    "total_ceiling_percent": 90,
+    "integration_reserve": true,
+    "automatic_further_reset_spending": false
+  },
+  "artifacts": [
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r6-review-2-baseline-v1.json",
+      "bytes": 10149,
+      "sha256": "d0b00575aad90c1c448706204c881ae813fa41d475bc8217f18eda75ccb369ac"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r6-review-2-initial.md",
+      "bytes": 31067,
+      "sha256": "0072bdd443b79d55743b299f366f9de336f4c4c8e2b8f17485228a7ece603f0e"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r6-review-2-ledger-v1.md",
+      "bytes": 12052,
+      "sha256": "eb7148d1d8f1d872df9a02320a5a7100d2a31493f457a8e8cb41c7d403639d9d"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r6-review-2-issues-v1.md",
+      "bytes": 5383,
+      "sha256": "0a8419340e744bfe09105fb45d8c71978b20489ac141f850bd73560174763589"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r6-review-2-source-checks-v1.md",
+      "bytes": 9407,
+      "sha256": "a954ab6180974f5ba48486d50f0286adf351cabd10e21bacb746b3abe4cdf22d"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r6-review-2-sources-v1.json",
+      "bytes": 7106,
+      "sha256": "5d229389d3e39f31afa9a1a87d10f1d6434e4ee7e2281ae5ce0f833a5374cc40"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r6-review-2-freeze-v1.py",
+      "bytes": 8627,
+      "sha256": "31199dd2b7677673199137057cb69bce81c3082237d8946064ce013e48ab7813"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r6-review-2-input-validation-v1.json",
+      "bytes": 5394,
+      "sha256": "811a0e6fbde269a3d6e6d025e604e65722b1ac8253695d0209c4fa599731fb2d"
+    }
+  ]
+}

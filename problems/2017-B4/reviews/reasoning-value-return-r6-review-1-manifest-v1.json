@@ -1,0 +1,106 @@
+{
+  "frozen_at_utc": "2026-10-18T00:14:52.833275+00:00",
+  "status": "ENTIRE initially blind nonconstructor WHOLE R1 complete; coordinator reconciliation pending",
+  "reviewer": "/root/review_2021_reasoning_j15_r2",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independently_verified_effective_settings": null,
+  "target": {
+    "path": "problems/2017-B4/notes/reasoning-value-return-r6-candidate-v1.md",
+    "bytes": 29992,
+    "sha256": "dbb4232858154bbbae385e16ef0444101e02c50cddbe0dbc82402166cd2869af"
+  },
+  "constructor_freeze": {
+    "path": "problems/2017-B4/notes/reasoning-value-return-r6-freeze-v1.json",
+    "bytes": 3298,
+    "sha256": "aba8108ec5191eb5c6d2702944d74c340c06ff949938bbe0bcd197b34998e9d4"
+  },
+  "whole_claims": [
+    "PM1",
+    "PM2",
+    "PM3",
+    "PM4"
+  ],
+  "all_author_obligations": 48,
+  "individual_ledger_dispositions": 48,
+  "substantive_defects": 0,
+  "required_repairs": 0,
+  "open_issues": 0,
+  "closed_source_scope_observations": [
+    "N1 finite convexification versus ambient finite-angle convention"
+  ],
+  "recommendation": "Accept only exact scoped PM1--PM4 after two OTHER whole audits and coordinator reconciliation; no upper R/numerical/annual claim",
+  "root_and_C_contributors_excluded": true,
+  "old_S_D_HC_EC_construction_and_G_GR_review_roles_disclosed": true,
+  "no_NEW_R6_construction_contribution": true,
+  "ENTIRE_initial_blind_to_all_NEW_B_R6_reports_ledgers_sources_metadata_and_findings": true,
+  "not_a_promotion": true,
+  "current_input_summary": {
+    "occurrences": 113,
+    "unique_paths": 99,
+    "deduplicated_summary_sha256": "53b750db1bfa2dbdee1d5c18767d897365db79b6eccf6d4e22af2d0713e065f7",
+    "encoding": "UTF8 JSON sorted unique path/bytes/sha256; sorted keys; compact separators"
+  },
+  "immutable_own_prior_parent": {
+    "path": "problems/2020-B4/reviews/reasoning-return-r8-review-2-manifest-v1.json",
+    "bytes": 4584,
+    "sha256": "de2dc15d7cde1a849e5dacb137051d21fde9bda3580c6e9e6c40263b6eb3cc06"
+  },
+  "weekly_budget_and_settings": {
+    "user_explicitly_authorized_new_reported_weekly_window": true,
+    "at_utc": "2026-10-18 00:13:53 UTC",
+    "total_weekly_used_percent": 2,
+    "window_minutes": 10080,
+    "reset_unix": 1792874445,
+    "ordinary_usage_allowed": true,
+    "legacy_and_by_limit_fields_agree": true,
+    "ceiling_total_percent": 90,
+    "integration_reserve_retained": true,
+    "no_automatic_further_weekly_reset": true,
+    "requested_model": "gpt-6.1-sol",
+    "requested_reasoning": "max",
+    "independently_verified_effective_readback": null
+  },
+  "administrative_command": "python3 problems/2017-B4/reviews/reasoning-value-return-r6-review-1-freeze-v1.py",
+  "no_mathcode_scan_CAS_author_rerun_shared_Git_cache_edit_spawn_contact_charge_or_bypass": true,
+  "artifacts": [
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r6-review-1-initial-v1.md",
+      "bytes": 23923,
+      "sha256": "409ad81a1f56cc025b716ac3d9e1c06d05485e1e422a74717752923142a31fdf"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r6-review-1-issues-v1.md",
+      "bytes": 12648,
+      "sha256": "6fd45e2381d2a9b3307fbbc376172c52a6ed5e6be8ce979066d618fe02085108"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r6-review-1-source-checks-v1.md",
+      "bytes": 8560,
+      "sha256": "c29ba6c90b3a2a168de87b98306730d8303e355101a7b000e23644bcfa6bb2d3"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r6-review-1-worklog-v1.md",
+      "bytes": 5506,
+      "sha256": "068fa31941baea6985312151141aed7bdd8a944d38361f4da7146037510af2b4"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r6-review-1-freeze-v1.py",
+      "bytes": 10695,
+      "sha256": "6581f18722cceede4bcf399cfc62acbe66d7ee4c392a8a26f58c4d6c0ef507e7"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r6-review-1-input-validation-v1.json",
+      "bytes": 9127,
+      "sha256": "b746c2b73213a195ead86914e01a2ace11dec3d891f6b0ca309c83f4d03e4765"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-value-return-r6-review-1-freeze-output-v1.json",
+      "bytes": 893,
+      "sha256": "49bc4038dc0d95d1c9dca927fd3bc5148ecdea3f29f50d43cc6f68a0bb3e67f3"
+    }
+  ]
+}
