@@ -1,0 +1,21 @@
+{
+  "checked_utc": "2026-10-18T06:44:24.521223+00:00",
+  "purpose": "metadata integrity ONLY; not independent mathematical verification",
+  "baseline": {
+    "path": "problems/2019-B4/notes/reasoning-growth-return-r1-baseline-v1.json",
+    "bytes": 5223,
+    "sha256": "16c8c991bfa2a70691233750568e6221da381d3ff26bc101794d42dd02f54f37"
+  },
+  "all20_necessary_input_fingerprints_match": true,
+  "unique_paths_verified": 20,
+  "declared_occurrences_verified_in_baseline": 21,
+  "occurrence_count_note": "20 inputs plus duplicate immediate-parent record",
+  "canonical_input_summary_sha256": "12d7f2e6266eca7fe3950c38e45d4c20bc2e400af4c11212bc0f4a568b1cd4c7",
+  "immediate_own_parent_verified_without_recursive_inventory_walk": true,
+  "older_own_paths_bound_transitively": 564,
+  "all60_obligation_labels_and_all5_claim_labels_present": true,
+  "all_sources_JSON_records_parse": true,
+  "mathematical_proof_checked_by_program": false,
+  "mathematical_executable_CAS_scan_author_rerun_certificate_replay": false,
+  "mismatches": []
+}

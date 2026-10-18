@@ -1,0 +1,41 @@
+{
+  "observed_utc": "2026-10-18T07:40:11.161748+00:00",
+  "purpose": "compact necessary metadata only; no historical inventory recopy",
+  "constructor_packet_binding": {
+    "main": {
+      "path": "problems/2017-B4/notes/reasoning-global-return-r7-candidate-v1.md",
+      "bytes": 27776,
+      "sha256": "6bfa6327d4bb0c11dc014699bf41f1ad06102d3b1f0a5d40a2e7f4401347334f"
+    },
+    "freeze": {
+      "path": "problems/2017-B4/notes/reasoning-global-return-r7-freeze-v1.json",
+      "bytes": 3015,
+      "sha256": "545e1131036b4e298bfb2957584e2186e6b92a2f0c94ed3f2b4a4036653d9199"
+    },
+    "target_files": 11,
+    "canonical_target_summary_sha256": "2fbca09d92670f5c863714da145b779359b26ddad0e083197fe0b77ae43e0792"
+  },
+  "constructor_declared_old_input_binding": {
+    "baseline": {
+      "path": "problems/2017-B4/notes/reasoning-global-return-r7-baseline-v1.json",
+      "bytes": 5833,
+      "sha256": "880747d09dd5a478abd253e648525e649f5ce3b4377ba9c27fec2f5854b1148c"
+    },
+    "occurrences": 26,
+    "unique_paths": 26,
+    "canonical_input_summary_sha256": "feea8dee118cf22de4df6c7d561c153b749432dd9bfc693cb36ce6454dd9d949"
+  },
+  "compact_immediate_own_parent": {
+    "path": "problems/2025-B4/notes/reasoning-Runge-return-r2-freeze-v1.json",
+    "bytes": 4617,
+    "sha256": "34bf0623be5cc897f681e0bcaf81c0bd1fc2a57fecc460f4b11177aab29c2e34"
+  },
+  "necessary_live_fingerprint_checks": 38,
+  "necessary_unique_paths": 38,
+  "canonical_combined_summary_sha256": "d3a766385952865ef7e1486d8b98163fb274c0bed1186a6393656b3461e01629",
+  "older_own_paths_bound_transitively": 584,
+  "only_four_direct_parent_target_bindings_copied": true,
+  "constructor_own_FP_parent_is_hashed_NOT_recursively_read": true,
+  "NEW_root_R7_prefix_not_opened_or_hashed": true,
+  "old_shared_Git_cache_mutation": false
+}

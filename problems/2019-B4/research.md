@@ -22,7 +22,13 @@ histories are identified.
 The project has independently reviewed existence of a common growth constant
 and the enclosure \(1.765224<\lambda<1.834843\), together with converging
 approximation structures and quantitative gaps for specified truncations.
-Its exact value, the desired unrestricted renewal description, and sharp
+The newly accepted [bivariate growth and pressure theorem](reviews/reasoning-growth-return-r1-acceptance.md)
+proves M(a,b)<=lambda^(a+b) at EVERY bidegree, an exact complete
+imbalance-moment identity and conditional random-length limiting laws.
+Its finite-critical alternative has a uniform angular limit and a
+pressure cusp; it does not establish that this is the actual regime.
+Both OTHER ENTIRE WHOLE60-obligation audits and reconciliation are
+complete. Its exact value, the actual renewal-moment regime, and sharp
 asymptotics remain unresolved. See the [current dashboard](../../progress/dashboard.md)
 and [review register](reviews/README.md); older bounds and pending-review
 language below record earlier stages.

@@ -1,0 +1,41 @@
+{
+  "retrieval_date_utc": "2026-10-18",
+  "new_proof_status": "candidate proof - unverified; two OTHER whole audits required",
+  "local_fingerprints": "reasoning-growth-return-r1-baseline-v1.json",
+  "local_read_scopes": "reasoning-growth-return-r1-sources-v1.md",
+  "external_sources": [
+    {
+      "title": "Official2019 paper B, B4(b)",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2019-paper-b_1.pdf",
+      "read_scope": "primary PDF page2, B4 definitions and(b)",
+      "role": "official domain; no preliminary proof"
+    },
+    {
+      "authors": "Geyang Wang; Qi Wang",
+      "url": "https://arxiv.org/pdf/2108.06934",
+      "version": "arXiv2108.06934v1",
+      "read_scope": "definitions1--2; complete SectionIV including Theorems6--7; not complete27pages",
+      "role": "classical avoidance-method attribution/context; no imported new profile theorem"
+    },
+    {
+      "authors": "A. Avellone; M. Goldwurm",
+      "url": "https://www.numdam.org/article/ITA_1998__32_4-6_141_0.pdf",
+      "read_scope": "intro/basic definitions; Section3; Section4 through Proposition4; returned Section5 ending",
+      "role": "recognition-versus-growth scope check only"
+    },
+    {
+      "authors": "M. Goldwurm; K. Wich",
+      "url": "https://air.unimi.it/handle/2434/4919",
+      "listed_pdf": "https://air.unimi.it/retrieve/dfa8b9a1-904f-748b-e053-3a05fe0a3a96/newklaus.pdf",
+      "read_scope": "record/abstract and indexed definition snippet; complete body UNREAD",
+      "access_result": "direct PDF403Forbidden",
+      "role": "discovery/context; no theorem imported"
+    }
+  ],
+  "native_pdf_downloads": false,
+  "native_pdf_hashes_available": false,
+  "external_proofs_claimed_fully_reconstructed": false,
+  "new_probability_and_analytic_arguments_supplied_in_main": true,
+  "no_paid_access_contact_bypass_or_cache_write": true,
+  "no_new_peer_active_review_material_read": true
+}

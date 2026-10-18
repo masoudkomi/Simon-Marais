@@ -1,0 +1,101 @@
+{
+  "frozen_utc": "2026-10-18T06:44:24.521787+00:00",
+  "status": "COMPLETE constructor checkpoint; candidate proof - unverified",
+  "constructor": "/root/review_2022_complexity_r2",
+  "scope": "2019 B4(b), complete G1--G5 and all60 whole obligations",
+  "two_OTHER_fresh_initially_blind_WHOLE_audits_required": true,
+  "coordinator_promotion": false,
+  "root_generic_assignment_and_typo_correction_supplied_no_NEW_inference": true,
+  "old_B_input_review_roles_disclosed_not_recertified": true,
+  "new_actual_obstruction_imbalance_moment_bound": "W(R)<=2R",
+  "finite_critical_profile_and_pressure_claims_EXPLICITLY_conditional": true,
+  "no_actual_regime_selected_or_new_numeric_or_annual_or_novelty_claim": true,
+  "all60_whole_obligations_present": true,
+  "full_proof_failures_sources_worklog_and_compact_preservation_present": true,
+  "no_NEW_active_peer_review_material_read": true,
+  "no_math_code_CAS_scan_old_certificate_or_author_rerun": true,
+  "no_Git_shared_old_cache_write_spawn_contact_charge_or_bypass": true,
+  "compact_necessary_input_baseline": {
+    "path": "problems/2019-B4/notes/reasoning-growth-return-r1-baseline-v1.json",
+    "bytes": 5223,
+    "sha256": "16c8c991bfa2a70691233750568e6221da381d3ff26bc101794d42dd02f54f37"
+  },
+  "protected_input_unique_paths": 20,
+  "declared_occurrences_verified_in_baseline": 21,
+  "canonical_input_summary_sha256": "12d7f2e6266eca7fe3950c38e45d4c20bc2e400af4c11212bc0f4a568b1cd4c7",
+  "compact_immediate_own_parent": {
+    "path": "problems/2021-B4/reviews/reasoning-return-r14-review-1-manifest-v1.json",
+    "bytes": 5273,
+    "sha256": "5d3059a5075867e28b47a6af91db8d4d1a6505199d19dd8043cbb4f46b0fa1e4"
+  },
+  "older_own_paths_bound_transitively": 564,
+  "new_own_files_including_manifest": 10,
+  "older_plus_new_own_paths_bound_transitively": 574,
+  "historical_inventory_not_recopied_or_reverified": true,
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independently_verified_effective_settings": null,
+  "authoritative_weekly_telemetry": {
+    "observed_at_utc": "2026-10-18 06:43:29 UTC",
+    "method": "mcp__codex_app__get_usage_limits({}); clock immediately afterward",
+    "account_label": "029a8928...1334ac3a",
+    "used_percent_TOTAL": 12,
+    "window_minutes": 10080,
+    "reset_unix": 1792874445,
+    "ordinary_usage_allowed": true,
+    "current_window_explicitly_human_authorized": true,
+    "ceiling_TOTAL_percent": 90,
+    "integration_reserve": true,
+    "automatic_further_reset_spending": false
+  },
+  "artifacts": [
+    {
+      "path": "problems/2019-B4/notes/reasoning-growth-return-r1-baseline-v1.json",
+      "bytes": 5223,
+      "sha256": "16c8c991bfa2a70691233750568e6221da381d3ff26bc101794d42dd02f54f37"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-growth-return-r1-candidate-v1.md",
+      "bytes": 23211,
+      "sha256": "7e721249102d37af67d14283f27adb5c6156375baa97bcfb3837ea98578fe195"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-growth-return-r1-obligations-v1.md",
+      "bytes": 7898,
+      "sha256": "933c3e30db46cad6e8d6906453956a435f7267259b682390016047aceb8ba71b"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-growth-return-r1-failed-routes-v1.md",
+      "bytes": 6072,
+      "sha256": "133e1ec933cd53ad6bb34605d1ddd15245ee8a70a9111166f19e26e0d2208b2d"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-growth-return-r1-sources-v1.md",
+      "bytes": 7003,
+      "sha256": "6a66e6126be198b408812340ca11f1462605d6eb7ee4555025c67374227283b2"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-growth-return-r1-sources-v1.json",
+      "bytes": 1919,
+      "sha256": "82406922c3544d987c5934ef7d68fc5e9de2fb790e99e1c63535fc1bb7e4753f"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-growth-return-r1-worklog-v1.md",
+      "bytes": 6520,
+      "sha256": "3cff7c097ca89fa4b3c45da778b26c3c757d2fe51084bf4629a29773f27a8abc"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-growth-return-r1-freeze-v1.py",
+      "bytes": 8024,
+      "sha256": "213898681e42a553d3e64c508c2e15582d1b5206e6223504eefa40fd782756c8"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-growth-return-r1-input-validation-v1.json",
+      "bytes": 1032,
+      "sha256": "adf766612398b15c05a0d7497b1201f73d0924da6dfc038583a4bd9053b391cd"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "accepted_at_utc": "2026-10-18T06:52:56.169192+00:00",
+  "status": "proved, independently reviewed scoped partial result",
+  "whole_initials_blind": true,
+  "root_read_full_candidate_both_reports_all_ledgers_sources": true,
+  "unresolved_substantive_issues": 0,
+  "repair_required": false,
+  "candidate": {
+    "path": "problems/2024-B4/notes/coordinator-F8-pencil-r1-candidate-v1.md",
+    "bytes": 14313,
+    "sha256": "68accf09323d692e4d4d6850e8c2c04d735d667e1ddaa56cbb73c451fb6402ef"
+  },
+  "accepted_copy": {
+    "path": "problems/2024-B4/proofs/reviewed-coordinator-F8-pencil-r1-v1.1.md",
+    "bytes": 18169,
+    "sha256": "f1a950a4620bc6f692ea7907d60521e011cd966e97ea27c1805abc33bef89d8b"
+  },
+  "verification_metadata": [
+    {
+      "path": "problems/2024-B4/notes/coordinator-F8-pencil-r1-freeze-v1.json",
+      "bytes": 2465,
+      "sha256": "3bab98755fd2df8b13ca531e408f1f543762bad9f4289230a9d9668135d45d28"
+    },
+    {
+      "path": "problems/2024-B4/notes/coordinator-F8-pencil-r1-baseline-v1.json",
+      "bytes": 4884,
+      "sha256": "e4baa79c27f9889fda829f56b52c347c1ee91fc057da01410311728ebd25e173"
+    },
+    {
+      "path": "problems/2024-B4/notes/coordinator-F8-pencil-r1-metadata-v1.json",
+      "bytes": 1705,
+      "sha256": "419ffd15c7356b03b05ba1544dbdbc8e7ef784af40a6eccea2128ebae7067809"
+    },
+    {
+      "path": "problems/2024-B4/notes/coordinator-F8-pencil-r1-input-validation-v1.json",
+      "bytes": 481,
+      "sha256": "92f365fbe39ad1041b9648050c902d83d24c19e81177c82aa36e440cb3640e81"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-F8-pencil-r1-review-1-manifest-v1.json",
+      "bytes": 2894,
+      "sha256": "6ed19f5eea8681155f4d2684fb65b338bf6a37fbe335aff9159835d387cdea26"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-F8-pencil-r1-review-1-baseline-v1.json",
+      "bytes": 14942,
+      "sha256": "53d3609a04e62b9e162afe05ba06f4481058d127e5b9f4205b6937cc2823cfae"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-F8-pencil-r1-review-1-metadata-v1.json",
+      "bytes": 1730,
+      "sha256": "262f88639e51b0acd293eb3d3e97b56bd2b1b11fa7b54eedf1ac24b048a9c51a"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-F8-pencil-r1-review-1-input-validation-v1.json",
+      "bytes": 700,
+      "sha256": "397dda63467bbc0c3087c1fd34addc0a52c6b9bb25fde65fba8704b81be33c65"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-F8-pencil-r1-review-2-manifest-v1.json",
+      "bytes": 3397,
+      "sha256": "c3c7ed316f47dd014713defa4a4f31ec29fe44f47ee7a36d45b5603c5a0670b7"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-F8-pencil-r1-review-2-baseline-v1.json",
+      "bytes": 4998,
+      "sha256": "58b0901957839fc5987de26e6a30803262029bf0be40abdc1cfb7dc288c4b30c"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-F8-pencil-r1-review-2-metadata-v1.json",
+      "bytes": 2059,
+      "sha256": "35d5d3440fc5a2d574bb7db0590eff9c2845fbf7050433c1f18c2b60b1311726"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-F8-pencil-r1-review-2-input-validation-v1.json",
+      "bytes": 931,
+      "sha256": "0889c5738807a84745de705db08c9069ab3df41029c5c6bae24ea8d2e0219f23"
+    }
+  ],
+  "record_occurrences_verified": 108,
+  "unique_paths_verified": 56,
+  "constructor": "/root",
+  "constructor_excluded": true,
+  "OTHER_whole_reviewers": [
+    "/root/review_2021_reasoning_j15_r2",
+    "/root/review_2017_coarsening_r1"
+  ],
+  "all36_obligations_in_BOTH_ENTIRE_initials": true,
+  "old_roles_disclosed": true,
+  "closed_scope_notes": 5,
+  "small_nonconstant_F2_cofactor_and_ordinary_reducibility_still_OPEN": true,
+  "q8_n57_excluded": true,
+  "no_mathematical_computation": true
+}

@@ -1,3 +1,23 @@
+# Current restart boundary —2026-10-18 17:45Brisbane
+
+Read checkpoint-2026-10-18-1745.md and run-state.json. Continue until90%
+TOTAL current explicitly authorized window reset1792874445; root14%
+at07:45:22UTC, reserve retained/no automatic next week. NEW2017R7,
+2019G1–G5 and2024FP are accepted after BOTH OTHER ENTIRE blind whole
+audits/full reconciliation. Stronger2024FS1–FS5 remains UNVERIFIED;
+A/C OTHER ENTIRE WHOLE48 reviews active, root sole constructor excluded.
+After checkpoints A/C queued for2025RS1–RS4 WHOLE60(root/B contributors
+excluded). B2020R11 research active. No peer findings/files/meta before
+OWN ENTIRE initial freeze. Last confirmed push3c8a0a8 before current
+integration. Ownedawake79293/session64368 last verified07:27:36UTC,
+next manual assertion/hourly all-nine report08:27:36UTC. Last actual
+hourly1727; host delays/cadence failures recorded. Do not routinely call
+automationview or retry failed native DNS sources. ACTIVE configuration
+is not delivery proof. No checkpoint ends research; agents continue
+independently if one needs permission.
+
+---
+
 # Current restart boundary —2026-10-18 16:22Brisbane
 
 Continue until90% TOTAL current authorized window reset1792874445; root12%@06:43:18UTC. Read checkpoint-2026-10-18-1644.md and run-state. NEW2021R14 andENTIRE2022Q1–Q8v3 fully reconciled/accepted after TWO OTHER initially blind WHOLE56/56 and100/100. R14 exact m5 a7unit/T4excluded, surviving unit-a7 branch open;2022birth/orphan families unbounded/futuresunknown. A/C now independently audit ENTIRE NEW2024FP0–FP2 ALL36; root soleconstructor EXCLUDED. No NEW corresponding peer material before BOTH ENTIRE initial freezes. BNEW2019growth construction active. Root integrates/pushes then actual2017/2025 reasoning. Last confirmed pushc3b4920. Ownedawake79293/session64368 next manual assertion/hourly report07:08:07UTC; last actual1608snapshot unchanged. Do not call automationview routinely after its recorded multi-hour host stall; ACTIVE is not delivery proof. No next-week automatic spending. No checkpoint ends research.

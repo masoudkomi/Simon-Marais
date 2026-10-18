@@ -1,0 +1,53 @@
+{
+  "verification_date_utc": "2026-10-18",
+  "status": "constructor source record; candidate proof - unverified",
+  "requested_settings": {"model": "gpt-6.1-sol", "reasoning": "max", "inherited": true},
+  "independently_verified_effective_settings": null,
+  "constructor_B_and_root_quotient_contributor_excluded": true,
+  "no_paper_download_cache_write_or_local_PDF_hash": true,
+  "no_math_code_scan_CAS_or_source_certificate_rerun": true,
+  "sources": [
+    {
+      "id": "official2025",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc2025_paper_b.pdf",
+      "read": "B4(b), page2; exact signed integer domain and n,q>=2",
+      "role": "official target; no preliminary proof"
+    },
+    {
+      "id": "Louboutin2015",
+      "journal_url": "https://www.mathjournals.org/jrms/2015-030-001/2015-030-001-006.html",
+      "author_text_url": "https://www.researchgate.net/publication/263550686_An_explicit_lower_bound_on_moduli_of_Dirichlet_L-functions_at_s_1",
+      "read": "Theorem1/Corollary2; complete operative sections2.1--2.5, section3 Corollary2 proof and Lemma15 proof",
+      "import": "primitive NONQUADRATIC conductor f: abs(L(1,eta)) >= 1/(10 log(f/pi))",
+      "not_claimed": "full journal article read, Stechkin original proof rederived, raw finite Platt certificate independently validated",
+      "published_finite_component_retained": "finite L-value check for conductor below90000",
+      "journal_PDF_click": "internal web error; author-posted text and later primary confirmation used without bypass"
+    },
+    {
+      "id": "MST2021v1",
+      "url": "https://arxiv.org/pdf/2107.09230v1",
+      "read": "intro/equation1.2/Theorem1.1; section2 framework/proofs; sections3--4 methodology/printed tables; complete section5 proof",
+      "role": "primary confirmation of constant10 and exact nonquadratic/conductor scope",
+      "not_used": "sharper9.690292, source search or raw 400-core-hour certification as our proof"
+    },
+    {
+      "id": "BernardKucera",
+      "url": "https://arxiv.org/pdf/2109.13329",
+      "doi": "https://doi.org/10.1090/mcom/3863",
+      "read": "intro/definitions, Proposition3.1 proof, Theorem3.6 statement and section4 corollary excerpt",
+      "role": "coefficient-short versus support-sparse context ONLY; no theorem imported"
+    },
+    {
+      "id": "Levin2008",
+      "url": "https://www.numdam.org/item/10.5802/jtnb.634.pdf",
+      "doi": "https://doi.org/10.5802/jtnb.634",
+      "read": "complete Theorems1.2--1.3; COMPLETE section2 definitions/theorem/effectivity caveat/Lemma2.1 and whole proofs; opening section3, extracted lines71--475",
+      "role": "published Runge/covering context; no new finiteness or height theorem imported",
+      "not_read_or_imported": "whole34pages, later covering proof, explicit Theorem4.3"
+    }
+  ],
+  "accepted_local_inputs_and_old_roles": "Exact necessary bodies/scopes and compact fingerprints in baseline; full fresh-read limits in source Markdown. B's UW/R8 authorship and R6/R9 review are not new self-recertification.",
+  "unverified_root_lead": "coordinator-Runge-quotient-r1-worklog-v1.md; geometry reconstructed, cofactor bound unused; root is a contributor",
+  "new_claim_scope": "RS1 integral faithful norm, RS2 support/fixed-r obstruction, RS3 actual degree-p quotient and basis, RS4 genus/scope consequence",
+  "no_new_actual_Diophantine_exclusion_or_annual_or_novelty_claim": true
+}

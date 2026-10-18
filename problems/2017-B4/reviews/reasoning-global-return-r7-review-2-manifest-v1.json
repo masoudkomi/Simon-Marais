@@ -1,0 +1,129 @@
+{
+  "frozen_utc": "2026-10-18T07:41:28.012476+00:00",
+  "status": "ENTIRE initially blind NONCONSTRUCTOR WHOLE R2 original-v1 audit frozen",
+  "reviewer": "/root/review_2022_complexity_r2",
+  "NEW_constructor": "/root/review_2017_coarsening_r1",
+  "whole_R7A_through_R7F_and_ALL60_obligations": true,
+  "complete_source_failures_worklog_code_ALL_metadata_read": true,
+  "substantive_defects_found": 0,
+  "required_author_repairs": 0,
+  "closed_scope_notes": [
+    "R7R2-N1",
+    "R7R2-N2",
+    "R7R2-N3",
+    "R7R2-N4"
+  ],
+  "coordinator_promotion": false,
+  "old_B_G_authorship_PM_review_roles_disclosed_not_self_recertified": true,
+  "NEW_root_R7_findings_files_metadata_opened_or_hashed_before_entire_freeze": false,
+  "completion_IDENTITY_ONLY_until_root_entire_initial_confirmed": true,
+  "no_math_program_CAS_scan_count_compiler_source_or_author_rerun": true,
+  "no_Git_shared_old_cache_write_spawn_contact_charge_or_bypass": true,
+  "constructor_packet_binding": {
+    "main": {
+      "path": "problems/2017-B4/notes/reasoning-global-return-r7-candidate-v1.md",
+      "bytes": 27776,
+      "sha256": "6bfa6327d4bb0c11dc014699bf41f1ad06102d3b1f0a5d40a2e7f4401347334f"
+    },
+    "freeze": {
+      "path": "problems/2017-B4/notes/reasoning-global-return-r7-freeze-v1.json",
+      "bytes": 3015,
+      "sha256": "545e1131036b4e298bfb2957584e2186e6b92a2f0c94ed3f2b4a4036653d9199"
+    },
+    "target_files": 11,
+    "canonical_target_summary_sha256": "2fbca09d92670f5c863714da145b779359b26ddad0e083197fe0b77ae43e0792"
+  },
+  "constructor_declared_old_input_binding": {
+    "baseline": {
+      "path": "problems/2017-B4/notes/reasoning-global-return-r7-baseline-v1.json",
+      "bytes": 5833,
+      "sha256": "880747d09dd5a478abd253e648525e649f5ce3b4377ba9c27fec2f5854b1148c"
+    },
+    "occurrences": 26,
+    "unique_paths": 26,
+    "canonical_input_summary_sha256": "feea8dee118cf22de4df6c7d561c153b749432dd9bfc693cb36ce6454dd9d949"
+  },
+  "compact_immediate_own_parent": {
+    "path": "problems/2025-B4/notes/reasoning-Runge-return-r2-freeze-v1.json",
+    "bytes": 4617,
+    "sha256": "34bf0623be5cc897f681e0bcaf81c0bd1fc2a57fecc460f4b11177aab29c2e34"
+  },
+  "necessary_live_fingerprint_checks": 38,
+  "necessary_unique_paths": 38,
+  "canonical_combined_summary_sha256": "d3a766385952865ef7e1486d8b98163fb274c0bed1186a6393656b3461e01629",
+  "reviewer_baseline": {
+    "path": "problems/2017-B4/reviews/reasoning-global-return-r7-review-2-baseline-v1.json",
+    "bytes": 1806,
+    "sha256": "937b01b6c5deb81dd75f0bd9342e3f172042b9d0274dead7fb444e45ae9258cd"
+  },
+  "older_own_paths_bound_transitively": 584,
+  "new_own_files_including_manifest": 10,
+  "older_plus_new_own_paths_bound_transitively": 594,
+  "no_recursive_historical_inventory_copy_or_reverify": true,
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independently_verified_effective_settings": null,
+  "authoritative_weekly_telemetry": {
+    "observed_at_utc": "2026-10-18 07:34:10 UTC",
+    "method": "mcp__codex_app__get_usage_limits; clock same batch",
+    "account_label": "029a8928...1334ac3a",
+    "used_percent_TOTAL": 14,
+    "window_minutes": 10080,
+    "reset_unix": 1792874445,
+    "ordinary_usage_allowed": true,
+    "current_window_explicitly_user_authorized": true,
+    "ceiling_TOTAL_percent": 90,
+    "integration_reserve": true,
+    "automatic_further_reset_spending": false
+  },
+  "artifacts": [
+    {
+      "path": "problems/2017-B4/reviews/reasoning-global-return-r7-review-2-initial-v1.md",
+      "bytes": 18353,
+      "sha256": "e97e8203fc014de6a1a0a6af2b7fe0fcf757f703240797893b2c125f1676a7f2"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-global-return-r7-review-2-ledger-v1.md",
+      "bytes": 12111,
+      "sha256": "8b2f6ebaf74579343f34dc24995efb7552fa4a07ef8b3b2721e09c8562be8862"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-global-return-r7-review-2-issues-v1.md",
+      "bytes": 2739,
+      "sha256": "f6b5afa600e2aaa0f275abfe6be190d35f7e6fc840230956a8c9a98f2b3fb162"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-global-return-r7-review-2-sources-v1.md",
+      "bytes": 6908,
+      "sha256": "5a492ab14cc7d000ee474888817d8c5ea78fa592b61da74169a876cd2356d80b"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-global-return-r7-review-2-sources-v1.json",
+      "bytes": 2800,
+      "sha256": "a7a689dc50d4cd0e9c3cd7747e5c3196c2531933b513012802b9f50343a907fa"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-global-return-r7-review-2-worklog-v1.md",
+      "bytes": 6939,
+      "sha256": "390df8cde62bc53557c704ec60e62e29022d9ca5b27f8215147c48bc5bebeb12"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-global-return-r7-review-2-freeze-v1.py",
+      "bytes": 9377,
+      "sha256": "a398c92f71cff993ac8e0cadd5e73d5de9f628b42d750faec75f3aedb3f86484"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-global-return-r7-review-2-baseline-v1.json",
+      "bytes": 1806,
+      "sha256": "937b01b6c5deb81dd75f0bd9342e3f172042b9d0274dead7fb444e45ae9258cd"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-global-return-r7-review-2-input-validation-v1.json",
+      "bytes": 2394,
+      "sha256": "6fd813f4aa0afcccb7d659e3350900715107b5b4b4753cbc635bdf6f753b19e7"
+    }
+  ]
+}

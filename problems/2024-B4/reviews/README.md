@@ -8,3 +8,6 @@ The stronger [exact whole-phi13 criterion](criterion-acceptance.md) is now indep
 
 
 2026-10-18: [Neighbor-Frobenius NF1–NF3](coordinator-neighbor-Frobenius-r1-acceptance.md) accepted as scopedpartial after TWO OTHER initiallyblindWHOLE36-obligation audits byA/B and fullrootreconciliation. Rootconstructor excluded. Zero substantiveissues/repairs; four scope notesretained. Noannual/allfourbit/n57/priorityclaim.
+
+
+2026-10-18 continuing checkpoint: [coordinator-F8-pencil-r1 accepted](coordinator-F8-pencil-r1-acceptance.md) after TWO OTHER initially blind ENTIRE WHOLE audits and full coordinator reconciliation. Exact scoped partial only; annual target and priority remain unestablished. See acceptance JSON/integrity and unchanged full proof suffix.

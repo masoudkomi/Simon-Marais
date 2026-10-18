@@ -1,0 +1,379 @@
+{
+  "captured_at_utc": "2026-10-18T06:56:40.638522+00:00",
+  "constructor_freeze": {
+    "path": "problems/2019-B4/notes/reasoning-growth-return-r1-freeze-v1.json",
+    "bytes": 4377,
+    "sha256": "25d04505390ddad2020300d6459445741967ad9142be311540a5f14e2690b4b7"
+  },
+  "constructor_input_digest": "12d7f2e6266eca7fe3950c38e45d4c20bc2e400af4c11212bc0f4a568b1cd4c7",
+  "compact_own_parent": {
+    "path": "problems/2024-B4/reviews/coordinator-F8-pencil-r1-review-1-manifest-v1.json",
+    "bytes": 2894,
+    "sha256": "6ed19f5eea8681155f4d2684fb65b338bf6a37fbe335aff9159835d387cdea26"
+  },
+  "summary": {
+    "occurrences": 40,
+    "unique_paths": 39,
+    "sha256": "bcf0691d949d69cff93d4c9e3b686dd598acd975d298a784f3f1e47594f141fe"
+  },
+  "records": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-critical-code-countermodel-v1.md",
+      "bytes": 5162,
+      "sha256": "3354f603785fa0a1f1d6eeef8592bcc63ec0b4c91af5ee2e30bf80106fa55504"
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-short-joining-research-v1.md",
+      "bytes": 4169,
+      "sha256": "d104591afd60f8f6f82b03052b05157defdd1ffbabbc85b1ebe720cdbd2b07a1"
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-trace-recognition-return-v1.md",
+      "bytes": 2110,
+      "sha256": "c6badf75ca0878588c2c66df553150c846ead74792d98b0841e3c9d308ced4c4"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-growth-return-r1-baseline-v1.json",
+      "bytes": 5223,
+      "sha256": "16c8c991bfa2a70691233750568e6221da381d3ff26bc101794d42dd02f54f37"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-growth-return-r1-candidate-v1.md",
+      "bytes": 23211,
+      "sha256": "7e721249102d37af67d14283f27adb5c6156375baa97bcfb3837ea98578fe195"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-growth-return-r1-failed-routes-v1.md",
+      "bytes": 6072,
+      "sha256": "133e1ec933cd53ad6bb34605d1ddd15245ee8a70a9111166f19e26e0d2208b2d"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-growth-return-r1-freeze-v1.json",
+      "bytes": 4377,
+      "sha256": "25d04505390ddad2020300d6459445741967ad9142be311540a5f14e2690b4b7"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-growth-return-r1-freeze-v1.py",
+      "bytes": 8024,
+      "sha256": "213898681e42a553d3e64c508c2e15582d1b5206e6223504eefa40fd782756c8"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-growth-return-r1-input-validation-v1.json",
+      "bytes": 1032,
+      "sha256": "adf766612398b15c05a0d7497b1201f73d0924da6dfc038583a4bd9053b391cd"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-growth-return-r1-obligations-v1.md",
+      "bytes": 7898,
+      "sha256": "933c3e30db46cad6e8d6906453956a435f7267259b682390016047aceb8ba71b"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-growth-return-r1-sources-v1.json",
+      "bytes": 1919,
+      "sha256": "82406922c3544d987c5934ef7d68fc5e9de2fb790e99e1c63535fc1bb7e4753f"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-growth-return-r1-sources-v1.md",
+      "bytes": 7003,
+      "sha256": "6a66e6126be198b408812340ca11f1462605d6eb7ee4555025c67374227283b2"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-growth-return-r1-worklog-v1.md",
+      "bytes": 6520,
+      "sha256": "3cff7c097ca89fa4b3c45da778b26c3c757d2fe51084bf4629a29773f27a8abc"
+    },
+    {
+      "path": "problems/2019-B4/notes/secondpass-canonical-renewal.md",
+      "bytes": 11807,
+      "sha256": "886266000a34023b033099889a3bb23bc6b3e642194ded12ce53b3aaa1642763"
+    },
+    {
+      "path": "problems/2019-B4/notes/secondpass-rigidity-obstructions.md",
+      "bytes": 8447,
+      "sha256": "58112ed40ba7146c8b5885669602d44770bdd525540c4221eaf17b101eb1c109"
+    },
+    {
+      "path": "problems/2019-B4/notes/secondpass-staircases-and-pumping.md",
+      "bytes": 10885,
+      "sha256": "5e2539982e32d116076c2c17ad8e85d865792a14630db04634c7372ae345cd52"
+    },
+    {
+      "path": "problems/2019-B4/proof.md",
+      "bytes": 10500,
+      "sha256": "58f140f1fe9c64aa77d04a9c80a76f13411264d09d5f9e908f8e0997dc6985e2"
+    },
+    {
+      "path": "problems/2019-B4/proofs/reviewed-linear-output-return-v1.1.md",
+      "bytes": 20715,
+      "sha256": "0d6e36e4b6ce49bcdfa35b8fbc2488acd7c420beb2cee8a60eeccb402cd59f61"
+    },
+    {
+      "path": "problems/2019-B4/proofs/reviewed-monotone-ratio-v1.1.md",
+      "bytes": 11402,
+      "sha256": "a87798e4df63ec2f76e83da9750f811b15fc6702533b4ca68bd8bd973ac3bac9"
+    },
+    {
+      "path": "problems/2019-B4/proofs/reviewed-reasoning-return-r7-v1.1.md",
+      "bytes": 17727,
+      "sha256": "4fe222b8b1d89b6b3d66bb16c6a1985390d537eee55bb42bfefdb2d4821e351a"
+    },
+    {
+      "path": "problems/2019-B4/proofs/reviewed-retained-core-gap-v1.1.md",
+      "bytes": 9296,
+      "sha256": "3ef80c626e3f2a16f72b083675fb8cb267760487174986a36e7854a27fa97f72"
+    },
+    {
+      "path": "problems/2019-B4/proofs/reviewed-secondpass-v1.1.md",
+      "bytes": 2836,
+      "sha256": "5fbaa388fe2ff795034094823c088fa5402da60eb9eca83f78165df0c8ad2cd7"
+    },
+    {
+      "path": "problems/2019-B4/proofs/reviewed-walk-Frechet-v1.1.md",
+      "bytes": 18752,
+      "sha256": "c068f531fa9fa3c420867ae898291b6034cef7511e72ec6fd16f20ac3b023f44"
+    },
+    {
+      "path": "problems/2019-B4/reviews/coordinator-retained-core-gap-r1-acceptance.md",
+      "bytes": 3242,
+      "sha256": "d8144bd10a7aafc01bdf45c9df2d35da0a3bae36b4890fcbc784a468dd77114d"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-return-r7-acceptance.md",
+      "bytes": 3622,
+      "sha256": "726a164f245effafcd1473522eac4fa58418e69fdfba858431685fbf15949234"
+    },
+    {
+      "path": "problems/2019-B4/reviews/secondpass-acceptance.md",
+      "bytes": 2340,
+      "sha256": "a167e1f52bff2503c6ac571ea047efe7621425f2379868a0a6db31eccd22aefa"
+    },
+    {
+      "path": "problems/2019-B4/reviews/walk-Frechet-acceptance.md",
+      "bytes": 2930,
+      "sha256": "367475c85874d92d5f274f5a57a8027ebdffef25acccf3f087e6314f7763a9bd"
+    },
+    {
+      "path": "problems/2019-B4/statement.md",
+      "bytes": 1252,
+      "sha256": "53d4201dca8bc4a77d995e3df14f95dd146e2df0c82d3b6447ad35a348e89de9"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r14-review-1-manifest-v1.json",
+      "bytes": 5273,
+      "sha256": "5d3059a5075867e28b47a6af91db8d4d1a6505199d19dd8043cbb4f46b0fa1e4"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-F8-pencil-r1-review-1-baseline-v1.json",
+      "bytes": 14942,
+      "sha256": "53d3609a04e62b9e162afe05ba06f4481058d127e5b9f4205b6937cc2823cfae"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-F8-pencil-r1-review-1-freeze-v1.py",
+      "bytes": 7611,
+      "sha256": "ec4e681775753f22c6fb024e83eb15bf32bbb7e36e39fc97c4281dd79cb677b1"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-F8-pencil-r1-review-1-initial-v1.md",
+      "bytes": 15019,
+      "sha256": "7af810c4e8e9518a858c3536333fb1207a12801be59b72463639cf6882952ae0"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-F8-pencil-r1-review-1-input-validation-v1.json",
+      "bytes": 700,
+      "sha256": "397dda63467bbc0c3087c1fd34addc0a52c6b9bb25fde65fba8704b81be33c65"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-F8-pencil-r1-review-1-issues-v1.md",
+      "bytes": 10867,
+      "sha256": "616447901e369b2f6603e6a48ba98c445ba3ba12e626ba04674e2a2a4182fbc1"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-F8-pencil-r1-review-1-manifest-v1.json",
+      "bytes": 2894,
+      "sha256": "6ed19f5eea8681155f4d2684fb65b338bf6a37fbe335aff9159835d387cdea26"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-F8-pencil-r1-review-1-metadata-v1.json",
+      "bytes": 1730,
+      "sha256": "262f88639e51b0acd293eb3d3e97b56bd2b1b11fa7b54eedf1ac24b048a9c51a"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-F8-pencil-r1-review-1-source-checks-v1.md",
+      "bytes": 3360,
+      "sha256": "ee5907b990fea61215385a9edb9a4296e4a6f89f0f25ae05041ed087a17ca946"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-F8-pencil-r1-review-1-worklog-v1.md",
+      "bytes": 4449,
+      "sha256": "d293d27fd47d2c29cb6c1162c7d51ed7cb1230d8689386352f47dd11358a5c7e"
+    }
+  ],
+  "occurrence_labels": [
+    {
+      "label": "entire constructor freeze",
+      "path": "problems/2019-B4/notes/reasoning-growth-return-r1-freeze-v1.json"
+    },
+    {
+      "label": "entire constructor payload",
+      "path": "problems/2019-B4/notes/reasoning-growth-return-r1-baseline-v1.json"
+    },
+    {
+      "label": "entire constructor payload",
+      "path": "problems/2019-B4/notes/reasoning-growth-return-r1-candidate-v1.md"
+    },
+    {
+      "label": "entire constructor payload",
+      "path": "problems/2019-B4/notes/reasoning-growth-return-r1-obligations-v1.md"
+    },
+    {
+      "label": "entire constructor payload",
+      "path": "problems/2019-B4/notes/reasoning-growth-return-r1-failed-routes-v1.md"
+    },
+    {
+      "label": "entire constructor payload",
+      "path": "problems/2019-B4/notes/reasoning-growth-return-r1-sources-v1.md"
+    },
+    {
+      "label": "entire constructor payload",
+      "path": "problems/2019-B4/notes/reasoning-growth-return-r1-sources-v1.json"
+    },
+    {
+      "label": "entire constructor payload",
+      "path": "problems/2019-B4/notes/reasoning-growth-return-r1-worklog-v1.md"
+    },
+    {
+      "label": "entire constructor payload",
+      "path": "problems/2019-B4/notes/reasoning-growth-return-r1-freeze-v1.py"
+    },
+    {
+      "label": "entire constructor payload",
+      "path": "problems/2019-B4/notes/reasoning-growth-return-r1-input-validation-v1.json"
+    },
+    {
+      "label": "declared necessary current constructor input",
+      "path": "AGENTS.md"
+    },
+    {
+      "label": "declared necessary current constructor input",
+      "path": "problems/2019-B4/statement.md"
+    },
+    {
+      "label": "declared necessary current constructor input",
+      "path": "problems/2019-B4/proof.md"
+    },
+    {
+      "label": "declared necessary current constructor input",
+      "path": "problems/2019-B4/proofs/reviewed-secondpass-v1.1.md"
+    },
+    {
+      "label": "declared necessary current constructor input",
+      "path": "problems/2019-B4/notes/secondpass-canonical-renewal.md"
+    },
+    {
+      "label": "declared necessary current constructor input",
+      "path": "problems/2019-B4/notes/secondpass-rigidity-obstructions.md"
+    },
+    {
+      "label": "declared necessary current constructor input",
+      "path": "problems/2019-B4/notes/secondpass-staircases-and-pumping.md"
+    },
+    {
+      "label": "declared necessary current constructor input",
+      "path": "problems/2019-B4/proofs/reviewed-reasoning-return-r7-v1.1.md"
+    },
+    {
+      "label": "declared necessary current constructor input",
+      "path": "problems/2019-B4/proofs/reviewed-walk-Frechet-v1.1.md"
+    },
+    {
+      "label": "declared necessary current constructor input",
+      "path": "problems/2019-B4/proofs/reviewed-retained-core-gap-v1.1.md"
+    },
+    {
+      "label": "declared necessary current constructor input",
+      "path": "problems/2019-B4/proofs/reviewed-monotone-ratio-v1.1.md"
+    },
+    {
+      "label": "declared necessary current constructor input",
+      "path": "problems/2019-B4/proofs/reviewed-linear-output-return-v1.1.md"
+    },
+    {
+      "label": "declared necessary current constructor input",
+      "path": "problems/2019-B4/reviews/secondpass-acceptance.md"
+    },
+    {
+      "label": "declared necessary current constructor input",
+      "path": "problems/2019-B4/reviews/reasoning-return-r7-acceptance.md"
+    },
+    {
+      "label": "declared necessary current constructor input",
+      "path": "problems/2019-B4/reviews/walk-Frechet-acceptance.md"
+    },
+    {
+      "label": "declared necessary current constructor input",
+      "path": "problems/2019-B4/reviews/coordinator-retained-core-gap-r1-acceptance.md"
+    },
+    {
+      "label": "declared necessary current constructor input",
+      "path": "problems/2019-B4/notes/coordinator-critical-code-countermodel-v1.md"
+    },
+    {
+      "label": "declared necessary current constructor input",
+      "path": "problems/2019-B4/notes/coordinator-short-joining-research-v1.md"
+    },
+    {
+      "label": "declared necessary current constructor input",
+      "path": "problems/2019-B4/notes/coordinator-trace-recognition-return-v1.md"
+    },
+    {
+      "label": "declared necessary current constructor input",
+      "path": "problems/2021-B4/reviews/reasoning-return-r14-review-1-manifest-v1.json"
+    },
+    {
+      "label": "duplicate declared constructor compact parent",
+      "path": "problems/2021-B4/reviews/reasoning-return-r14-review-1-manifest-v1.json"
+    },
+    {
+      "label": "compact own last entire whole-audit parent",
+      "path": "problems/2024-B4/reviews/coordinator-F8-pencil-r1-review-1-manifest-v1.json"
+    },
+    {
+      "label": "compact own parent payload identity only",
+      "path": "problems/2024-B4/reviews/coordinator-F8-pencil-r1-review-1-initial-v1.md"
+    },
+    {
+      "label": "compact own parent payload identity only",
+      "path": "problems/2024-B4/reviews/coordinator-F8-pencil-r1-review-1-issues-v1.md"
+    },
+    {
+      "label": "compact own parent payload identity only",
+      "path": "problems/2024-B4/reviews/coordinator-F8-pencil-r1-review-1-source-checks-v1.md"
+    },
+    {
+      "label": "compact own parent payload identity only",
+      "path": "problems/2024-B4/reviews/coordinator-F8-pencil-r1-review-1-worklog-v1.md"
+    },
+    {
+      "label": "compact own parent payload identity only",
+      "path": "problems/2024-B4/reviews/coordinator-F8-pencil-r1-review-1-freeze-v1.py"
+    },
+    {
+      "label": "compact own parent payload identity only",
+      "path": "problems/2024-B4/reviews/coordinator-F8-pencil-r1-review-1-baseline-v1.json"
+    },
+    {
+      "label": "compact own parent payload identity only",
+      "path": "problems/2024-B4/reviews/coordinator-F8-pencil-r1-review-1-metadata-v1.json"
+    },
+    {
+      "label": "compact own parent payload identity only",
+      "path": "problems/2024-B4/reviews/coordinator-F8-pencil-r1-review-1-input-validation-v1.json"
+    }
+  ],
+  "unrelated_parent_inventory_recursively_rehashed_or_recopied": false
+}

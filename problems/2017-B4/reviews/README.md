@@ -7,3 +7,6 @@ Historical initial template: for every candidate record its exact version/hash, 
 
 
 2026-10-18: [PUS1–PUS3 original-plane recovery](coordinator-plane-recovery-r1-acceptance.md) accepted after C/A OTHER initially blind ENTIRE WHOLE36/36 audits and full reconciliation. Root constructor excluded; old PM/US roles disclosed. Exact complete-boundary bijection and original-plane lower/recovery interface only; no global mass/upperR/value/annualclaim.
+
+
+2026-10-18 continuing checkpoint: [reasoning-global-return-r7 accepted](reasoning-global-return-r7-acceptance.md) after TWO OTHER initially blind ENTIRE WHOLE audits and full coordinator reconciliation. Exact scoped partial only; annual target and priority remain unestablished. See acceptance JSON/integrity and unchanged full proof suffix.

@@ -27,7 +27,13 @@ whole audits. The new
 [original-plane lower and local recovery theorem](reviews/coordinator-plane-recovery-r1-acceptance.md)
 has also passed two OTHER whole audits and coordinator reconciliation. It
 preserves the original exterior outside exact disk dilations; the global
-upper mass/value inference remains open. The live
+upper mass/value inference remains open. The new
+[boundary-range and finite-recognition results](reviews/reasoning-global-return-r7-acceptance.md)
+have also passed TWO OTHER initially blind ENTIRE WHOLE60-obligation
+audits and reconciliation. They compare entire pinned-boundary count
+families and give bounded integer-periodic witnesses for actual finite
+patterns, hence theoretical finite recognition. They give no effective
+upper estimate for the limiting entropy or numerical value. The live
 [dashboard](../../progress/dashboard.md) and [acceptance records](reviews/README.md)
 give current authority; dated investigation stages below are historical.
 

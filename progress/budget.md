@@ -185,3 +185,15 @@ Authoritative account meter10% TOTAL,10080-minute current authorized window rese
 
 
 2026-10-18 06:43:18UTC: authoritative12% TOTAL current authorized weekly window reset1792874445; ordinary allowed, views agree.78pp before90%, review/integration reserve retained. Raw1,710,177,668 total,1,619,466,752 cached input,12,669,568 output including5,441,891 reasoning subset; uncached+output90,710,916.62 sessions/8878 deduplicated responses, sums agree. No billing/percentage conversion. R14 and ENTIRE2022v3 accepted scoped;2024FP unverified under two OTHER whole audits. Manual hourly/ownedawake check07:08:07UTC. No automatic later window.
+
+
+2026-10-18 07:27:36UTC actual delayed hourly observation:13% TOTAL current authorized weekly reset1792874445, ordinary allowed,77pp before90%. Recorded total1,747,043,596 incl1,654,763,904cached; reasoning5,546,474subset; uncached+output92,279,692. Delta since1608 +94,817,088total/+246,643reasoning,79min interval. Tool host delay made07:08due late; workers saved checkpoints before redispatch, no uninterrupted activity claim. Ownedawake79293forever verified30:19:46; next08:27:36UTC. Full report status-2026-10-18-1727.md. Continue currentwindow/reserve; no later automatic window.
+
+
+2026-10-18 07:45:22UTC: authoritative14%TOTAL current authorized weekly
+window reset1792874445; ordinaryallowed/viewsagree,76pp before90% with
+reserve/no automatic later window. Raw07:45:20UTC1,768,755,166total,
+1,675,731,584cachedinput,13,031,032output including5,590,545reasoning;
+uncached+output93,023,582.62sessions/9140responses,allsumsmatch. No
+billing/percentage conversion. Next actual hourly/owned-awake08:27:36UTC.
+New2017R7/2019G/2024FP accepted scoped;2024FS/2025RS unverified.
