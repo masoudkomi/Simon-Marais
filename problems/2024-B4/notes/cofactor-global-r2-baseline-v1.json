@@ -1,0 +1,134 @@
+{
+  "recorded_utc": "2026-10-18T08:24:09.116397+00:00",
+  "actual_baseline_after_hand_draft_before_complete_freeze": true,
+  "protected": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2024-B4/statement.md",
+      "bytes": 2470,
+      "sha256": "60244f7752634772adb434efbdb41a63fb02029dc3be4238f3718c6e5ec84e5f"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-arithmetic-return-r11-review-1-manifest-v1.json",
+      "bytes": 3062,
+      "sha256": "b0fbb6d6233ee116dfd104e1c92cb22df940ca656c819023924987edbf5471d4"
+    },
+    {
+      "path": "problems/2024-B4/proofs/reviewed-structural-v1.1.md",
+      "bytes": 17079,
+      "sha256": "082dc054ce2cdaea80eee009f4c97c877c6968afb54b5a8f3141b7354031dd3f"
+    },
+    {
+      "path": "problems/2024-B4/reviews/structural-acceptance.md",
+      "bytes": 2693,
+      "sha256": "d37792e94efa0618b80e752037e81cbc1a825c17311ce74e53934d01d3bf3906"
+    },
+    {
+      "path": "problems/2024-B4/reviews/structural-acceptance.json",
+      "bytes": 2580,
+      "sha256": "53fb1b2e3383397b1218f2020a9c1b60625497faaab9d686e7ef179cb2acb8d4"
+    },
+    {
+      "path": "problems/2024-B4/proofs/reviewed-coordinator-F8-pencil-r1-v1.1.md",
+      "bytes": 18169,
+      "sha256": "f1a950a4620bc6f692ea7907d60521e011cd966e97ea27c1805abc33bef89d8b"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-F8-pencil-r1-acceptance.md",
+      "bytes": 3954,
+      "sha256": "c0c0c1ce0de114fe9ed201d8cf942a5cc6237182211ff38609bbf4a1e9439660"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-F8-pencil-r1-acceptance.json",
+      "bytes": 3730,
+      "sha256": "41c1ddf5bc031593370d07add87eff98c5dbfaf5973634a5841f5d2e5f0747c8"
+    },
+    {
+      "path": "problems/2024-B4/proofs/reviewed-cofactor-symmetry-r1-v1.1.md",
+      "bytes": 18195,
+      "sha256": "56b765f3acd3ec9deba1721fc3c14f7a5227d472323cc270ec1f379b9cf748c5"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-symmetry-r1-acceptance.md",
+      "bytes": 3762,
+      "sha256": "f72db8bcaba19acdf5effe9d95ecf30d27280c04fa04f1d04565615f0e4b7f30"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-symmetry-r1-acceptance.json",
+      "bytes": 3778,
+      "sha256": "967b6a9aeebc53389a0e543a07a4cd82b4d25e007b23486b947b078317803a06"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-symmetry-r1-source-audit-v1.md",
+      "bytes": 2675,
+      "sha256": "e39cf5bca3394f8e7e3b9cfbd474df6235f34c8ca27d25cfe9fa6d2139f146d7"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-global-r2-research-v0.md",
+      "bytes": 4318,
+      "sha256": "9dcc8ca9a0ff688ffa5510e7518af91bd677326a89893082e6eaca26cae28deb"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-global-r2-Frobenius-lead-v0.md",
+      "bytes": 3445,
+      "sha256": "3c2cf23e99375d2a08a126dcb083f17d429e55fcc2f01cb8dda5aba4ae110aa5"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-symmetry-literature-followup-v1.md",
+      "bytes": 2736,
+      "sha256": "c8e606f0bb4d755362375573ccea7893f724306659924cbc283aaf866bcad222"
+    }
+  ],
+  "compact_immediate_own_parent": {
+    "path": "problems/2020-B4/reviews/reasoning-arithmetic-return-r11-review-1-manifest-v1.json",
+    "bytes": 3062,
+    "sha256": "b0fbb6d6233ee116dfd104e1c92cb22df940ca656c819023924987edbf5471d4"
+  },
+  "accepted_authorities": [
+    {
+      "authority": {
+        "path": "problems/2024-B4/reviews/structural-acceptance.json",
+        "bytes": 2580,
+        "sha256": "53fb1b2e3383397b1218f2020a9c1b60625497faaab9d686e7ef179cb2acb8d4"
+      },
+      "accepted_body": {
+        "path": "problems/2024-B4/proofs/reviewed-structural-v1.1.md",
+        "bytes": 17079,
+        "sha256": "082dc054ce2cdaea80eee009f4c97c877c6968afb54b5a8f3141b7354031dd3f"
+      },
+      "prior_inventories_bound_not_expanded": true
+    },
+    {
+      "authority": {
+        "path": "problems/2024-B4/reviews/coordinator-F8-pencil-r1-acceptance.json",
+        "bytes": 3730,
+        "sha256": "41c1ddf5bc031593370d07add87eff98c5dbfaf5973634a5841f5d2e5f0747c8"
+      },
+      "accepted_body": {
+        "path": "problems/2024-B4/proofs/reviewed-coordinator-F8-pencil-r1-v1.1.md",
+        "bytes": 18169,
+        "sha256": "f1a950a4620bc6f692ea7907d60521e011cd966e97ea27c1805abc33bef89d8b"
+      },
+      "prior_inventories_bound_not_expanded": true
+    },
+    {
+      "authority": {
+        "path": "problems/2024-B4/reviews/cofactor-symmetry-r1-acceptance.json",
+        "bytes": 3778,
+        "sha256": "967b6a9aeebc53389a0e543a07a4cd82b4d25e007b23486b947b078317803a06"
+      },
+      "accepted_body": {
+        "path": "problems/2024-B4/proofs/reviewed-cofactor-symmetry-r1-v1.1.md",
+        "bytes": 18195,
+        "sha256": "56b765f3acd3ec9deba1721fc3c14f7a5227d472323cc270ec1f379b9cf748c5"
+      },
+      "prior_inventories_bound_not_expanded": true
+    }
+  ],
+  "earlier_live_notes_not_mathematical_authorities": true,
+  "no_recursive_historical_inventory_replay": true
+}

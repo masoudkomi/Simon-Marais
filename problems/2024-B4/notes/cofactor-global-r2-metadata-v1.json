@@ -1,0 +1,47 @@
+{
+  "status": "candidate proof - unverified",
+  "constructor": "/root",
+  "NEW_claims": [
+    "CG1 actual general geometry",
+    "CG2 arbitrary-factor inequalities",
+    "CG3 whole absolute irreducibility at explicit threshold"
+  ],
+  "root_excluded_from_TWO_OTHER_independent_whole_audits": true,
+  "other_NEW_contributors": [],
+  "whole_obligations_and_author_checks": 56,
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "verified_effective_settings": null,
+  "exact_domain": "Q=2^s,s>=3;ell=Q-1;q=Q^k,k>=1;n=ell*q+1",
+  "irreducibility_hypothesis": "q>=max(2ell+7,(ell-1)(ell-2)(ell+1)^2/4)",
+  "proposed_family": "every s>=3,k>=4,n=(2^s-1)*2^(sk)+1",
+  "all_projective_singularities_and_both_global_square_completions_reconstructed": true,
+  "reduced_c_minus_1_correction_retained": true,
+  "no_factor_F2_definition_or_orbit_uniformity_needed": true,
+  "Frobenius_Gauss_map_theorem_import": false,
+  "general_annual_classification_novelty_external_validation": false,
+  "mathematical_code_CAS_scan_factor_table_author_or_certificate_replay": false,
+  "source_PDF_binary_hashes": null,
+  "compact_immediate_own_parent": {
+    "path": "problems/2020-B4/reviews/reasoning-arithmetic-return-r11-review-1-manifest-v1.json",
+    "bytes": 3062,
+    "sha256": "b0fbb6d6233ee116dfd104e1c92cb22df940ca656c819023924987edbf5471d4"
+  },
+  "latest_root_direct_meter": {
+    "utc": "2026-10-18 08:06:51 UTC",
+    "percent_TOTAL": 16,
+    "reset": 1792874445
+  },
+  "later_worker_direct_meter": {
+    "utc": "2026-10-18 08:17:12 UTC",
+    "percent_TOTAL": 17,
+    "reset": 1792874445
+  },
+  "authorized_current_window_only_ceiling_TOTAL": 90,
+  "integration_reserve": true,
+  "automatic_later_window": false,
+  "no_charge_contact_access_bypass": true
+}

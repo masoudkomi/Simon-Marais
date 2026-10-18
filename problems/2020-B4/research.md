@@ -23,6 +23,15 @@ The reviewed results now include [A9 arithmetic obstructions](reviews/reasoning-
 
 Status: 2026-10-16. **No full solution claimed.** P1–P6 and the attributed square-descent application are proved, independently reviewed partial results after two blind full reconstructions; see reviews/acceptance.md. Earlier candidate labels below are historical. Requested worker settings: `model=gpt-6.1-sol`, `reasoning_effort=max`; no independent effective-setting readback was available.
 
+2026-10-18 current advance: [A11A–E](reviews/reasoning-arithmetic-return-r11-acceptance.md)
+has passed both OTHER whole audits and full reconciliation. Signed
+primary-ideal relations yield exponential subset-sum restrictions; an
+actual small generated subgroup would force a principal norm EXACTLYq
+and an actual configuration via the full integral binary lift. No new
+q meets that arithmetic hypothesis here, so the annual classification
+remains open.
+
+
 ## Statement checks
 
 Official B4(b), page 2, was checked by extraction and visual rendering. It asks for all taut integers n>=2, with Euclidean distances among n selected vertices of an (n²-n+1)-gon. Part (a) is excluded from this work. The order/cardinality change q=n-1 is essential, as is the n=2 exception. See statement.md, source-check.json, and the cropped official B4 render.

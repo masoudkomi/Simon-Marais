@@ -1,3 +1,17 @@
+# Current restart boundary —2026-10-18 18:27Brisbane
+
+Read status-2026-10-18-1827.md and run-state. Current17%TOTAL,
+authorizedreset1792874445 only, continue to90TOTAL with reserve.
+2020A11 NOWACCEPTED exactscopes after root/A bothOTHER whole60/full
+reconciliation; Bexcluded/no new actualq.2025RS accepted/pushed0d6409d.
+Root2024CG whole56 candidate frozenUNVERIFIED; B/Cfinishcurrent2019/
+2022wholecheckpoints then OTHER initiallyblindCG R2/R1. No peerCG
+findings/files/meta before BOTH ENTIRE initials. Aactual2021R15active.
+Ownedawake79293/session64368freshlyverified; nextactualhourlyandOScheck
+2026-10-18T09:27:30+00:00. No automaticlaterweek. No checkpointendsresearch.
+
+---
+
 # Current restart boundary —2026-10-18 18:14Brisbane
 
 Read checkpoint-2026-10-18-1814.md and run-state. Current16%TOTAL
