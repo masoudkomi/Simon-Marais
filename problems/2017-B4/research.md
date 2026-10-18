@@ -20,7 +20,7 @@ many sorting histories that can describe one arrangement.
 
 The project has independently reviewed a proof that the two requested rates
 coincide, together with certified lower approximations and the upper bound
-below 0.649514. Their common value is still undetermined. The repaired
+below0.648 by the newly reviewed [weighted-cutpath theorem](reviews/coordinator-weighted-cutpath-r1-acceptance.md). Its two OTHER whole40/40 audits and full reconciliation are complete; it uses direct path weights and a same-path Cauchy comparison, without a new mathematical program. Their common value is still undetermined. The repaired
 [R6 boundary and entropy comparison](reviews/reasoning-value-return-r6-acceptance.md)
 is now independently reviewed. Its finite-angle repair passed both affected
 whole audits. The new

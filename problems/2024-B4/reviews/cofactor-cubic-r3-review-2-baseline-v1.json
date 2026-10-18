@@ -1,0 +1,208 @@
+{
+  "created_utc": "2026-10-18T09:41:30.593844+00:00",
+  "status": "ENTIRE initially blind review2 metadata baseline",
+  "prefix_confirmed_unused_before_first_write": true,
+  "target_ten_files_exact_and_entire_read": true,
+  "constructor_ten_old_guards_verified_without_historical_replay": true,
+  "protected": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-critical-return-r2-review-1-manifest-v1.json",
+      "bytes": 3138,
+      "sha256": "b65f2f7324c9005cf518cc93936c4fb74bdb359ff253379749f4f15c7eb75587"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-cubic-r3-baseline-v1.json",
+      "bytes": 3040,
+      "sha256": "f3c9710b202cb805c6eab6a46291d0e1fdfa3a2d0df46855d572071399ede2b1"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-cubic-r3-candidate-v1.md",
+      "bytes": 9112,
+      "sha256": "153cbc7a070eb1bffdb62f351c64a79353d8dd41a3e5db03c051b4ed8041f0c4"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-cubic-r3-failures-worklog-v1.md",
+      "bytes": 2297,
+      "sha256": "2456583224186e7755b5c48866ca4bece48142eb90235debae9504b0d4d6e4ee"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-cubic-r3-freeze-v1.json",
+      "bytes": 2786,
+      "sha256": "fcb6f42f7aa824110a5bb60178b2f9db9dc80e37a5827dbc03895484957be263"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-cubic-r3-freeze-v1.py",
+      "bytes": 5350,
+      "sha256": "28b18e247ded7586d82319d4776b8354223620b1d7b2b98a1b890bb069b8a899"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-cubic-r3-input-validation-v1.json",
+      "bytes": 347,
+      "sha256": "33cf9987005778ec73b28388f9628303a3ced46e36198eb409f4c28a24f563d0"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-cubic-r3-metadata-v1.json",
+      "bytes": 1027,
+      "sha256": "76529ca0b2d793ff27bac471b51fb7bec4505b3133d9d31217e9b67da3346d01"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-cubic-r3-obligations-v1.md",
+      "bytes": 3706,
+      "sha256": "8b8c405265ab6b8c788a36cca7eb0f5260f4508505f98faa1de2239f7b42fb27"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-cubic-r3-research-v0.md",
+      "bytes": 2622,
+      "sha256": "7ef22a388ce2aa05135e8ef09bd519d3ded367447a96c4b2aff2ab7fa9ac3cca"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-cubic-r3-sources-v1.md",
+      "bytes": 1942,
+      "sha256": "a6c79c6f67c1a8c6d9c961491e5c52d2bc51ba4985630e6265a907e3bebaff31"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-global-r2-candidate-v1.md",
+      "bytes": 15586,
+      "sha256": "9dac8137a3b47637e25ee66a5c2bf5ff00146e9d1d54ba55764002111d5376f9"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-global-r2-freeze-v1.json",
+      "bytes": 2322,
+      "sha256": "3e63984333d64dcfe8bb32395d28e948ab1023ce8f4ab367e0ea374d51dfeaef"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-global-r2-source-audit-v1.md",
+      "bytes": 4457,
+      "sha256": "b362f049d77a156b19332469faca06eb64d0c96a125613654e13e0f44e93ef15"
+    },
+    {
+      "path": "problems/2024-B4/proofs/reviewed-cofactor-global-r2-v1.1.md",
+      "bytes": 19500,
+      "sha256": "fd110d1615e730d754063b157cc1906b418702f510b2640bfd1b5c63e898548d"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-global-r2-acceptance-integrity.json",
+      "bytes": 3272,
+      "sha256": "32beacc2e4375e0a0fb0cb6cbe41737995f04a23f3098c76d1460ef16e36db66"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-global-r2-acceptance.json",
+      "bytes": 3537,
+      "sha256": "fff6d498dfc8e7bb98afdc9b027ffc57668b637d3843cff20e8928399639dfa7"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-global-r2-acceptance.md",
+      "bytes": 4012,
+      "sha256": "33eb92b350f14ed451bd5820222daef0cf3d62bb317556cae980a588d9c5b32c"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-global-r2-review-2-manifest-v1.json",
+      "bytes": 6399,
+      "sha256": "e8a4dc472c78c4d47d59d63d97787ef2d3a7bb9234f53f220cbff4d6976e886d"
+    },
+    {
+      "path": "problems/2024-B4/statement.md",
+      "bytes": 2470,
+      "sha256": "60244f7752634772adb434efbdb41a63fb02029dc3be4238f3718c6e5ec84e5f"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-Runge-return-r3-freeze-v1.json",
+      "bytes": 8661,
+      "sha256": "6a010ee19e90b4a07373f64dd375e9df7e6c8d4aee9ec7af001d8410e5bb461a"
+    }
+  ],
+  "protected_unique_paths": 22,
+  "canonical_protected_summary_sha256": "df312d7f19ff02db87abf610029743a2ac8d6aaf801d2f77fea9e55faac9d823",
+  "accepted_pointer_and_suffix_check": {
+    "authority": {
+      "path": "problems/2024-B4/reviews/cofactor-global-r2-acceptance.json",
+      "bytes": 3537,
+      "sha256": "fff6d498dfc8e7bb98afdc9b027ffc57668b637d3843cff20e8928399639dfa7"
+    },
+    "accepted_body": {
+      "path": "problems/2024-B4/proofs/reviewed-cofactor-global-r2-v1.1.md",
+      "bytes": 19500,
+      "sha256": "fd110d1615e730d754063b157cc1906b418702f510b2640bfd1b5c63e898548d"
+    },
+    "candidate_suffix": {
+      "path": "problems/2024-B4/notes/cofactor-global-r2-candidate-v1.md",
+      "bytes": 15586,
+      "sha256": "9dac8137a3b47637e25ee66a5c2bf5ff00146e9d1d54ba55764002111d5376f9"
+    },
+    "operative_new_premises": [
+      "CG1",
+      "CG2 strong intermediate section6 eq9"
+    ],
+    "old_CG3_NOT_a_new_premise": true
+  },
+  "compact_immutable_parent_summaries": [
+    {
+      "immutable_parent": {
+        "path": "problems/2024-B4/notes/cofactor-cubic-r3-freeze-v1.json",
+        "bytes": 2786,
+        "sha256": "fcb6f42f7aa824110a5bb60178b2f9db9dc80e37a5827dbc03895484957be263"
+      },
+      "declared_fingerprint_occurrences": 11,
+      "deduplicated_paths": 11,
+      "canonical_deduplicated_summary_sha256": "0d7b617779dac3aafc7932099134b9a5bd0bc26523336b2d4af9edf36c127653",
+      "historical_rows_not_copied_or_recursively_reverified": true
+    },
+    {
+      "immutable_parent": {
+        "path": "problems/2024-B4/notes/cofactor-cubic-r3-baseline-v1.json",
+        "bytes": 3040,
+        "sha256": "f3c9710b202cb805c6eab6a46291d0e1fdfa3a2d0df46855d572071399ede2b1"
+      },
+      "declared_fingerprint_occurrences": 13,
+      "deduplicated_paths": 10,
+      "canonical_deduplicated_summary_sha256": "3840ce8d90337c6671df49871669abf74fa64301063abd4f446b91b690f6adf9",
+      "historical_rows_not_copied_or_recursively_reverified": true
+    },
+    {
+      "immutable_parent": {
+        "path": "problems/2024-B4/reviews/cofactor-global-r2-acceptance.json",
+        "bytes": 3537,
+        "sha256": "fff6d498dfc8e7bb98afdc9b027ffc57668b637d3843cff20e8928399639dfa7"
+      },
+      "declared_fingerprint_occurrences": 13,
+      "deduplicated_paths": 13,
+      "canonical_deduplicated_summary_sha256": "dce45f078f6b4e7ad426477fa92c537675ef8fe7648a0a27b8b5929158f12d83",
+      "historical_rows_not_copied_or_recursively_reverified": true
+    },
+    {
+      "immutable_parent": {
+        "path": "problems/2025-B4/notes/reasoning-Runge-return-r3-freeze-v1.json",
+        "bytes": 8661,
+        "sha256": "6a010ee19e90b4a07373f64dd375e9df7e6c8d4aee9ec7af001d8410e5bb461a"
+      },
+      "declared_fingerprint_occurrences": 22,
+      "deduplicated_paths": 17,
+      "canonical_deduplicated_summary_sha256": "6bc273094a68e6c6d9060b0f99d78f77b5e9c33da92816484d6f76628fef357b",
+      "historical_rows_not_copied_or_recursively_reverified": true
+    },
+    {
+      "immutable_parent": {
+        "path": "problems/2024-B4/reviews/cofactor-global-r2-review-2-manifest-v1.json",
+        "bytes": 6399,
+        "sha256": "e8a4dc472c78c4d47d59d63d97787ef2d3a7bb9234f53f220cbff4d6976e886d"
+      },
+      "declared_fingerprint_occurrences": 18,
+      "deduplicated_paths": 18,
+      "canonical_deduplicated_summary_sha256": "f9a8ebf20a5a80204586b91ea06d615b7e25d3b6bfd604b66e2d0fcda32a7efb",
+      "historical_rows_not_copied_or_recursively_reverified": true
+    }
+  ],
+  "immediate_own_parent": {
+    "path": "problems/2025-B4/notes/reasoning-Runge-return-r3-freeze-v1.json",
+    "bytes": 8661,
+    "sha256": "6a010ee19e90b4a07373f64dd375e9df7e6c8d4aee9ec7af001d8410e5bb461a"
+  },
+  "older_own_paths_bound_transitively": 646,
+  "no_corresponding_A_NEW_cubic_review_finding_file_hash_or_metadata_access": true,
+  "no_math_code_source_author_rerun_or_old_edit": true
+}

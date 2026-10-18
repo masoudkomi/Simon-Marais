@@ -1,0 +1,543 @@
+{
+  "recorded_at_utc": "2026-10-18T09:56:49.532494+00:00",
+  "status": "meaningful continuing checkpoint; no final/stop",
+  "accepted": [
+    "2017WC1-WC3",
+    "2024R3A-R3B"
+  ],
+  "pending_unverified": [
+    "2021R15 actual m5 exclusion: root/C OTHER whole48bothentirefrozen;fullrootCreviewreconciliationpending.",
+    "2021R16 actual m4 cubic exclusions/conditionalquartic: root/B OTHER whole56bothentirefrozen;fullrootBreviewreconciliationpending.",
+    "2024dominant/symmetryR4 ENTIRE48/11constructorfrozen;A/C OTHERwholeauditsactive/queued;rootexcluded.",
+    "2025nonlinearRungeR3 BR1-BR5 ENTIRE60/10constructorfrozen;A R1entirefrozen/C R2active;root/Bexcluded.",
+    "2020ToddR12 NEWresearch underconstruction, nofullcheckpoint/promotion."
+  ],
+  "weekly_TOTAL_percent": 23,
+  "weekly_observed_utc": "2026-10-18T09:54:07+00:00",
+  "weekly_reset": 1792874445,
+  "next_actual_hourly": "2026-10-18T10:27:42+00:00",
+  "no_new_corresponding_R4_or_Runge_review_access": true,
+  "selected_records": [
+    {
+      "path": "README.md",
+      "bytes": 22117,
+      "sha256": "57a1f3105a21e6074f7090cb32e35a69ba27f07bbcca4b8ed33b2fa4e6c73bfb"
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-weighted-cutpath-r1-v1.1.md",
+      "bytes": 15914,
+      "sha256": "93c08b0a43426c972bd6a0042c7e496cb08a106873c931f0231901e9f425f14b"
+    },
+    {
+      "path": "problems/2017-B4/research.md",
+      "bytes": 15054,
+      "sha256": "87f1a9849c198b7a06cc45acfb3305f87405c1c915c86666ffb1730f844e030d"
+    },
+    {
+      "path": "problems/2017-B4/reviews/README.md",
+      "bytes": 1868,
+      "sha256": "fa52bf1a42afbfbcdde10d7bc74c3dec58dc6c5986070b89edd18138af2c4c7a"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-cutpath-r1-acceptance-integrity.json",
+      "bytes": 3982,
+      "sha256": "b75399cdb80f9aa4ad6fc53223d9a2a285ac924c24e29ef80355f2032781011d"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-cutpath-r1-acceptance.json",
+      "bytes": 4259,
+      "sha256": "239e1b755d51dafc48fad36ad38063608dfd64c0546b8886e1d66b6b4e9ba915"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-cutpath-r1-acceptance.md",
+      "bytes": 3317,
+      "sha256": "efbf4044c88fb18d7de0696980434176319fbc0bcb6eddffb56c4235ace08e61"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-cutpath-r1-review-1-baseline-v1.json",
+      "bytes": 6708,
+      "sha256": "5693b04028b33f52604381a763f01a504739fbf458caccde55f203c3ba39a7f9"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-cutpath-r1-review-1-freeze-v1.py",
+      "bytes": 7253,
+      "sha256": "2e5443978b5ea26995928c4a771d88ed3c3d082229fd79a8dd122eb174bdb353"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-cutpath-r1-review-1-initial-v1.md",
+      "bytes": 13118,
+      "sha256": "5a73d05a15d7258a9e670738b891389491cf41a3fcf6796a9a47134678efee5c"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-cutpath-r1-review-1-input-validation-v1.json",
+      "bytes": 513,
+      "sha256": "3fded01e7d4ae62d3462276efe6a5870374ec83239c053b4e82e741b039ec2a6"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-cutpath-r1-review-1-issues-v1.md",
+      "bytes": 1261,
+      "sha256": "7358b2dd7391ea9c09bf819e7d1e1ff498910e0e37f66312bca79647281b60d7"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-cutpath-r1-review-1-ledger-v1.md",
+      "bytes": 6363,
+      "sha256": "2de77a74cab197dcf2a337d076cf0d09a44b27cb8d76e22cc5b4e26f6a32a6c6"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-cutpath-r1-review-1-manifest-v1.json",
+      "bytes": 2987,
+      "sha256": "14c5525a21bd9e3e92bd79c968c293d84051d62efb16a1223a01e32829f7f926"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-cutpath-r1-review-1-metadata-v1.json",
+      "bytes": 1303,
+      "sha256": "bb62c71f46a29e414508504159ff95ad42a58ba979d3d0e3ad67fb091bc181a9"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-cutpath-r1-review-1-source-audit-v1.md",
+      "bytes": 4163,
+      "sha256": "5b64e9740362d78050ecbe6da660d803f995cd038851e5fdad5baf6f4d4f75ec"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-cutpath-r1-review-1-worklog-v1.md",
+      "bytes": 3327,
+      "sha256": "f1d75defaf2f30817c0fa71fd8b79b31e8c48d4e3d8477b63d5559c1130029f5"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-cutpath-r1-review-2-baseline-v1.json",
+      "bytes": 6001,
+      "sha256": "1c0b5405699caf8444839eb94ef3132eb34a138b5bf7fc4fa457ab90ef59e757"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-cutpath-r1-review-2-freeze-v1.py",
+      "bytes": 9293,
+      "sha256": "00a6c3379b6df0430236af906904b0e23fd6aaae67367edc11816d12e815e413"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-cutpath-r1-review-2-initial-v1.md",
+      "bytes": 12051,
+      "sha256": "e57fd5b9344e72e32c68d76060885402f3e4827b35a313284d996561c9a1603f"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-cutpath-r1-review-2-input-validation-v1.json",
+      "bytes": 650,
+      "sha256": "0476f48d39dc7cafcfd70efc964fe7b93161e7a97fc6dca2b6eb959c95266eec"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-cutpath-r1-review-2-issues-v1.md",
+      "bytes": 3229,
+      "sha256": "583e0e487ec57b8326aeebafa872dd723579909638537adeaf4c835d69a77162"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-cutpath-r1-review-2-ledger-v1.md",
+      "bytes": 8563,
+      "sha256": "2f8e063c8f08ecc5566a93e520148546c6d00f0b3ccc6ddbd5ebf12580f72721"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-cutpath-r1-review-2-manifest-v1.json",
+      "bytes": 5359,
+      "sha256": "3fa70a3b55a0c1dfdd983826bb1d23722d12305ccf164c3d4534184ff626e14f"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-cutpath-r1-review-2-source-checks-v1.md",
+      "bytes": 5326,
+      "sha256": "759524d89b1ad2ee2f59bed4601bf085090babaf0b5419b1e9ac80f29fadbac2"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-cutpath-r1-review-2-sources-v1.json",
+      "bytes": 3089,
+      "sha256": "ab020e2e48be502e41da72e9a8c4ccf12dccf2cfe16234b4cf5af209cb5877a7"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-cutpath-r1-review-2-worklog-v1.md",
+      "bytes": 6026,
+      "sha256": "c3b07708308ffa27691ea9282c8957c5c120b073d4a07dae2021d727a8282a50"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-early-return-r16-baseline-v1.json",
+      "bytes": 10516,
+      "sha256": "fee7040ee3b86ddecf2202159405312f090925deb26b36057d7acffc1b9559c7"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-early-return-r16-candidate-v1.md",
+      "bytes": 18818,
+      "sha256": "d9765b700bf7f7a0c13bcb0b5729a38150e87fe847156df29d4c592abad0b2d1"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-early-return-r16-constructor-checks-v1.md",
+      "bytes": 8939,
+      "sha256": "408a338d4aad80b5a8d323057748141b136c4c101b36a32d75276bb003cd6072"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-early-return-r16-failed-routes-v1.md",
+      "bytes": 6185,
+      "sha256": "0b2cbe80367d4c8ec69d7975f853c949f92f5679c2a6cee3bd54952ab2d13315"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-early-return-r16-freeze-v1.json",
+      "bytes": 6387,
+      "sha256": "8ff369c2ad1d306316599be62096001a50a2799f897b612df6e7c96a0aa731de"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-early-return-r16-freeze-v1.py",
+      "bytes": 9918,
+      "sha256": "d211fb8c1d4f147a4e3c64a5037413941b13655084ec824c88f9b2d705f27d65"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-early-return-r16-hand-checks-v1.md",
+      "bytes": 9416,
+      "sha256": "ddb5255058a30122db9c3e82c4a156f957b9416bcab7002c5945a2259c345f38"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-early-return-r16-input-validation-v1.json",
+      "bytes": 596,
+      "sha256": "94b8979d368aa9825e0c809d71e87eca2bdc1b01214678f45eb40278d4848ebb"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-early-return-r16-obligations-v1.md",
+      "bytes": 6672,
+      "sha256": "98c437058c6b58607a734e8b31054b9ead4910bd92b6c93355d8b9019c2a1189"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-early-return-r16-sources-v1.json",
+      "bytes": 2615,
+      "sha256": "43092a173895e6413418ddd06a349da0f5fbc209f785d7bfdec3acd07c61fa4f"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-early-return-r16-sources-v1.md",
+      "bytes": 6473,
+      "sha256": "20b065e82219eb014d0f9655e40d29a0eb5e97694dba15cad466016205f5fa10"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-early-return-r16-worklog-v1.md",
+      "bytes": 11167,
+      "sha256": "517aa2d45d896df93864fe8cb86c75de6bd6677833cd1d338d808970bf71de8a"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-early-return-r16-review-1-baseline-v1.json",
+      "bytes": 14183,
+      "sha256": "ab96e9a2092662dfa0e6a992bd602f146b06d7bfd9d7f71bc7367792df21a5b0"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-early-return-r16-review-1-freeze-v1.py",
+      "bytes": 6128,
+      "sha256": "a2d06538e5abf3fcc1abb06096c48cebc2128a87a88b848c2d7b0c1f9f83c406"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-early-return-r16-review-1-initial-v1.md",
+      "bytes": 10089,
+      "sha256": "9106a72fb70bc2f91ba3a4d6fbe307e622c2188ec829df986d2af69631a2c3e3"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-early-return-r16-review-1-input-validation-v1.json",
+      "bytes": 456,
+      "sha256": "6a5f2b84920dc290a70d7ca2416d0e2f5a9039bbf818c54e214bbcf94b47019b"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-early-return-r16-review-1-issues-v1.md",
+      "bytes": 1415,
+      "sha256": "1c70df8b26e8c19efd0c3264b96753f74cc063660ab7f7d3be508eb83db781af"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-early-return-r16-review-1-ledger-v1.md",
+      "bytes": 5651,
+      "sha256": "cd7817c9006d4c65877564735261bede1253a88a55df6857dca8702e891f8af7"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-early-return-r16-review-1-manifest-v1.json",
+      "bytes": 3091,
+      "sha256": "a1e4fdbfb9b95029660c7ae423e13d70035982cf89f868738c7cb52b8e6fcb8b"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-early-return-r16-review-1-metadata-v1.json",
+      "bytes": 977,
+      "sha256": "9f680589ed25c8c6270625e62f70cc3b4a344493a274c88e64cb8c2b558bc69e"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-early-return-r16-review-1-source-checks-v1.md",
+      "bytes": 2436,
+      "sha256": "3d99c17842016d2ba9e25762c34db1c97c3a2028b5abdd3dd3d6fc08a4a1b5bf"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-early-return-r16-review-1-worklog-v1.md",
+      "bytes": 3640,
+      "sha256": "4562adcd1ecd021c8f46b9a048301c62f466e57c56c7ec73e5060f33eb2af961"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-dominant-r4-Frobenius-source-v0.md",
+      "bytes": 2239,
+      "sha256": "55ab26b25c6a9bb13b390c9a98f2d599a022bc1c771c5fe28bf453a7d5423a25"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-dominant-r4-baseline-v1.json",
+      "bytes": 3441,
+      "sha256": "10216c245cd1a802e99eb31200610b3171e6743d1ac02103e0d3dcfd67f6a282"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-dominant-r4-candidate-v1.md",
+      "bytes": 14524,
+      "sha256": "b6c454eba513c0ebb364f4b53393741c8737239c5b03c75fc2a0ac000871e365"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-dominant-r4-failures-worklog-v1.md",
+      "bytes": 3672,
+      "sha256": "d3f5b0f273aac7b3bb994ef25ce3a24119e10c34115f14b018ac79ac6d1e9453"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-dominant-r4-freeze-v1.json",
+      "bytes": 3054,
+      "sha256": "1d0c4e90c0b75a2417539401d4350e13dd29c9d3030fc06074f4cff18358371b"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-dominant-r4-freeze-v1.py",
+      "bytes": 5635,
+      "sha256": "ca889aebc10b805d2a9a222b64c0721aa88389d8dd754dabe515167f479c6fd5"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-dominant-r4-input-validation-v1.json",
+      "bytes": 358,
+      "sha256": "f97e3619fe71c57e1ca5da066ba8338ee65739067efb39e26d613df2ac60969c"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-dominant-r4-metadata-v1.json",
+      "bytes": 1206,
+      "sha256": "261f93de9c7b8443c97422735bacf83c4eab13dac12720bbce3bb8f3ad3369d7"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-dominant-r4-obligations-v1.md",
+      "bytes": 4842,
+      "sha256": "fc03b9525c898d9ddd776f9bd3d9f2ef126280ba58dccb0cbaf5754fd01ad7f1"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-dominant-r4-research-v0.md",
+      "bytes": 3593,
+      "sha256": "2a1923797d2866c4954ab02f32d490b2418e94a5a7ebd2990233887436330181"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-dominant-r4-sources-v1.md",
+      "bytes": 2868,
+      "sha256": "1f65a84fd8df3d8325f4cc773954da1bc3cd66d48819585fdb9791678095506d"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-literature-followup-r3-findings-v1.md",
+      "bytes": 4730,
+      "sha256": "b219a4b353efabc00acf790aafce53458433e5b137bb310173bb48c9b2d103f2"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-literature-followup-r3-freeze-v1.json",
+      "bytes": 2142,
+      "sha256": "11d982548d265237f1896dd4c11bc5bc58ec8a1709064873945fab342aaa873a"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-literature-followup-r3-retrieval-log-v1.md",
+      "bytes": 3701,
+      "sha256": "ba4184e97aa35eef8aa4b5e35fddae78339f0ba7e21670ebfd61a959d8e829c2"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-literature-followup-r3-sources-v1.json",
+      "bytes": 3607,
+      "sha256": "3a311a3551a9d36681c5157bf5068be8a4e372d6b8fa8a5c063a4b00a37e140f"
+    },
+    {
+      "path": "problems/2024-B4/proofs/reviewed-cofactor-cubic-r3-v1.1.md",
+      "bytes": 12621,
+      "sha256": "850946e12359da343891ecaf31bd8b281404485127f9a5e8c756d8f7d1a8e435"
+    },
+    {
+      "path": "problems/2024-B4/research.md",
+      "bytes": 16177,
+      "sha256": "8e0466380e5e9a1ecc467a2e00155e5de1fbfef396561aca99fa4dd35bf924a0"
+    },
+    {
+      "path": "problems/2024-B4/reviews/README.md",
+      "bytes": 2506,
+      "sha256": "84732e4f1b50a31ffe5480b99c011e786f0b958e9e4e0f1dd1fadeae79417441"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-cubic-r3-acceptance-integrity.json",
+      "bytes": 3813,
+      "sha256": "3c335a8cab98a5df3d208d5b79760fa715b5e79f1ad61cc2bec18f834b954513"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-cubic-r3-acceptance.json",
+      "bytes": 4129,
+      "sha256": "84b4d78d0ad9c0b0ac079277eb3a45870c00c010924084874a459e7a01a71993"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-cubic-r3-acceptance.md",
+      "bytes": 3607,
+      "sha256": "127adc8d66cc05f5350cc7d2cbc035e2fa6278a66adcbcb288d28f9a515f7165"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-cubic-r3-review-1-baseline-v1.json",
+      "bytes": 8919,
+      "sha256": "fe5bca601603590a8ef3e3ec14744b6f9a8fe5b2ca3ddba7c9cdf029bfae3d64"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-cubic-r3-review-1-freeze-v1.py",
+      "bytes": 9984,
+      "sha256": "2bd43f21d556d9f71335f4fc9bb3508ece7f176b5db685e431b2964bd1558c54"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-cubic-r3-review-1-initial-v1.md",
+      "bytes": 10976,
+      "sha256": "5c18acd4c698be45a4f1771326fe282ecfbb9134cf2070d65e90b559e90656c1"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-cubic-r3-review-1-input-validation-v1.json",
+      "bytes": 680,
+      "sha256": "070001a2f5662334d5dce5fd6b655ba33b0b5e5d201135a03364d1c27c99c9aa"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-cubic-r3-review-1-issues-v1.md",
+      "bytes": 5435,
+      "sha256": "0adfc0f00d3b617f2c98744b08529811dc5fe042351c1b99acee75d4a1f504ff"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-cubic-r3-review-1-manifest-v1.json",
+      "bytes": 4450,
+      "sha256": "c3d0be4190f076a273cfb2da3a1fb49f48ac3076f0e01bf5667ce39d825eec7d"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-cubic-r3-review-1-metadata-v1.json",
+      "bytes": 1484,
+      "sha256": "9021b126da8180679459fac7cfccfb29ee0f5340dbd25bfcbad7bb5cad7c5888"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-cubic-r3-review-1-sources-v1.json",
+      "bytes": 2025,
+      "sha256": "fde209b567e21c1e0ed50f3cd286146dde98f2f9fe421ebc602e80c52627efec"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-cubic-r3-review-1-sources-v1.md",
+      "bytes": 4838,
+      "sha256": "6492c5ca647fd0d667cfe68b3a8d5bd1d43f8674f00cd898c366ae132caa812a"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-cubic-r3-review-1-worklog-v1.md",
+      "bytes": 8938,
+      "sha256": "89e12f996073284ebff9c548a960a38d41d1a42ad52d5e6b8a7b0dd46e3b00d4"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-cubic-r3-review-2-baseline-v1.json",
+      "bytes": 8417,
+      "sha256": "512816a57ba318cfa584d323981c6516ff920d77a2b7a7f39049a7a02fcdfe92"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-cubic-r3-review-2-freeze-v1.py",
+      "bytes": 10148,
+      "sha256": "a32e07f83cc8ec3c23977cf99b167430c2192fb55d457044e7dde40153d1bcb1"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-cubic-r3-review-2-initial-v1.md",
+      "bytes": 10844,
+      "sha256": "14e7d2aa373e66b98a6b8249ffb275b95ea10a5e1b368645fc3da37fb2977986"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-cubic-r3-review-2-input-validation-v1.json",
+      "bytes": 1036,
+      "sha256": "11bad2c62a4d096993723457c2e8e242bf07a0f1f9f9b2a3ce6990e38b19f0e2"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-cubic-r3-review-2-issues-v1.md",
+      "bytes": 2383,
+      "sha256": "df5ca262c48601f54384542f1967fef5cf51478d9f27d4767692f7e13ce56af5"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-cubic-r3-review-2-ledger-v1.md",
+      "bytes": 3673,
+      "sha256": "d82a45e59941ffae35f4b2ecab6271f5480115578f3baf6258517df2f470dba6"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-cubic-r3-review-2-manifest-v1.json",
+      "bytes": 7949,
+      "sha256": "1c76011a1234a5690370d4d2b256eb788e014523d2e8634e9baa7890484822f1"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-cubic-r3-review-2-source-checks-v1.md",
+      "bytes": 5096,
+      "sha256": "cb8934a467fc79c89cc3a64bbf158ec0d16910dd5660cfd50424af15cee84b39"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-cubic-r3-review-2-sources-v1.json",
+      "bytes": 2348,
+      "sha256": "87ca36fc376e7f53f4f8433aee749e05757f8abae31cb2fce89e6a8fba2dee86"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-cubic-r3-review-2-worklog-v1.md",
+      "bytes": 4776,
+      "sha256": "db048fabf602fd6fcbfd6578989523a195bbd3bcd74aab3073a40f1b39487d45"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-Runge-return-r3-baseline-v1.json",
+      "bytes": 9099,
+      "sha256": "1223456e2d40a6cac797c5b48763fb14dfb284bdfc148de803b49226a5b1764e"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-Runge-return-r3-candidate-v1.md",
+      "bytes": 23038,
+      "sha256": "5ccc04e72574187d1959efff22852dbbc5cca41e701afbaeebc9f97adbdf64a0"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-Runge-return-r3-failed-routes-v1.md",
+      "bytes": 6819,
+      "sha256": "0eab84723fd3bf65c9b800828a770b0a6b74deec48abb1b43fd4378984a8f1f8"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-Runge-return-r3-freeze-v1.json",
+      "bytes": 8661,
+      "sha256": "6a010ee19e90b4a07373f64dd375e9df7e6c8d4aee9ec7af001d8410e5bb461a"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-Runge-return-r3-freeze-v1.py",
+      "bytes": 11712,
+      "sha256": "fb7f8c54cac85502f5a96cb3de8b3dc4d9aab39f2acf5aeac00e6090167c6a6f"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-Runge-return-r3-input-validation-v1.json",
+      "bytes": 1021,
+      "sha256": "deef9bf4743c7b22104da65caab776d4e80b99fb61a3bde1f1ee870586884acc"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-Runge-return-r3-obligations-v1.md",
+      "bytes": 9802,
+      "sha256": "36d5930e1201ddf452f2a2d85e8017a8b82409d1c7da96e0746b0ddb841d0225"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-Runge-return-r3-sources-v1.json",
+      "bytes": 4119,
+      "sha256": "a65504d645b8c10e37cb4d476b2205807acffcf488612ee01758461572f4dca4"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-Runge-return-r3-sources-v1.md",
+      "bytes": 7342,
+      "sha256": "d15d51c8d89607745973dd047fa4a2cf173ef3dcf5c7947e1ac99a142e215a6f"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-Runge-return-r3-worklog-v1.md",
+      "bytes": 7100,
+      "sha256": "be9da2b1fc01ffa9684302f55b631bc0bad3328a3ebab074b4fb68f5f5d66a9b"
+    },
+    {
+      "path": "progress/dashboard.md",
+      "bytes": 28166,
+      "sha256": "ca3a73f9b79107518bc45653b87c96e131cc60ae6724f1fcb32418653941524e"
+    },
+    {
+      "path": "progress/run-state.json",
+      "bytes": 4413,
+      "sha256": "7720c797f0a65074d21e5161833e8be66989a92f690bb38724ba2f9001b75eed"
+    },
+    {
+      "path": "progress/status-2026-10-18-1954.md",
+      "bytes": 4731,
+      "sha256": "20d4c32330d45087bb6bc9a7f62849471275052210bb2e4fe595c87b6b152591"
+    },
+    {
+      "path": "progress/worker-recovery-2026-10-18-1928.md",
+      "bytes": 2127,
+      "sha256": "310a72c8ef695c17ad5db8a599b85da18e4e5fd083fa5d6037eaf05acf90711b"
+    }
+  ],
+  "administrative_only": true
+}

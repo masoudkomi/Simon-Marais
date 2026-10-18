@@ -14,3 +14,6 @@ The stronger [exact whole-phi13 criterion](criterion-acceptance.md) is now indep
 
 
 2026-10-18: [FS1–FS5 accepted](cofactor-symmetry-r1-acceptance.md) after TWO OTHER initially blind ENTIRE WHOLE48/48 audits/full reconciliation. Whole absolute irreducibility n=7*8^k+1,k>=2; with NF3,7*2^a+1,a>=2,a!=3. General annual classification and priority remain open. Root constructor excluded.
+
+
+2026-10-18: [CG1-CG3](cofactor-global-r2-acceptance.md) and the stronger [cubic R3A/R3B](cofactor-cubic-r3-acceptance.md) accepted after their TWO OTHER ENTIRE WHOLE56/56 and20/20 audits/full reconciliation. R3 proves every s>=3,k>=3 whole absolute irreducibility. Separate dominant/symmetryR4 remains UNVERIFIED, not accepted with R3; general annual/priority open.

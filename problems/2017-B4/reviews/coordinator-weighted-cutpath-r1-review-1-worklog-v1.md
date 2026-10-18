@@ -1,0 +1,16 @@
+# WC R1 independent work and failed attacks
+
+2026-10-18 UTC. Scope: OTHER initially blind ENTIRE WHOLE audit, not construction or promotion.
+
+1. Finished and postverified the separate public-literature checkpoint before opening WC. Re-read AGENTS.md after the interrupted source operation. Confirmed the assigned WC R1 prefix unused. No corresponding WC R2 file, hash, source record or metadata opened.
+2. Read the complete main/freeze, then every remaining constructor artifact: all40 obligations, source MD/JSON, entire failures/worklog, metadata program, baseline, metadata and input validation. Read full old accepted concavity body/authority and the old unresolved upper-mass worklog for exact dependency scope. They are context, not a replacement proof.
+3. Read actual original Dallant graph/statistic/rotation/zone passages, Felsner–Valtr marked canonical-label/dictionary/insertion passages and official B4. A truncated first batch was followed by dedicated source reads. No external source-author program or old certificate rerun.
+4. Independently rebuilt the finite prefix-tree mass argument, retaining reconvergent prefixes and possible mass loss. Challenged whether reverse weights indexed a different set; rotation plus reversal supplies the required bijection. Challenged m versus selected k and found each toll exponent must use all available exits, as stated.
+5. Independently checked both comparison directions in the geometric mean and the negative-defect endpoint. Challenged a missing tuple factor: the direct sum over all paths, rather than a tuple-class upper estimate, resolves it. Tested n2 by hand only; no enumeration or mathematical executable.
+6. Independently expanded all small-degree cross products and the infinite ratio argument. It covers all integer degrees, and no continuous-degree assertion is imported. Independently expanded both logarithm truncation numerators, their strict remainder signs, the positive atanh lower bound and final integer gap. No numerical logarithm, CAS or optimization.
+7. Independently reconstructed the canonical insertion sum and n² normalization, including n2 empty sum and fixed finite-start convention. Checked that the conclusion remains only a strict upper bound; no mass/upper-R/value/annual or novelty statement follows.
+8. Wrote the complete report, all40 ledger rows, issue record and exact source limits before generating exclusive administrative metadata. The metadata script checks fingerprints, identity/coverage and forbidden peer prefixes only; it executes no mathematics. Full generated text is read back, and a separate postverification checks all frozen bytes.
+
+No author communication about a mathematical finding occurred before the entire own initial freeze. The coordinator was sent only status/scope and then the frozen identity. Findings remain withheld until both required whole initials are confirmed. No candidate, old/shared file, Git state or cache was edited.
+
+Inherited gpt-6.1-sol/max requested; effective readback unavailable. Latest coordinator authoritative telemetry at recovery:21% TOTAL, 2026-10-18T09:27:42UTC, reset1792874445, ceiling90% TOTAL with review/integration reserve; no automatic later reset. Root owns shared monitor and keepawake. No active mathematical child or pending approval was created by this audit.

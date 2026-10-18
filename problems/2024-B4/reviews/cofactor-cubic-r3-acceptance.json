@@ -1,0 +1,111 @@
+{
+  "accepted_at_utc": "2026-10-18T09:53:26.146233+00:00",
+  "status": "proved, independently reviewed scoped partial result",
+  "whole_initials_blind": true,
+  "root_read_full_candidate_both_reports_all_ledgers_sources": true,
+  "unresolved_substantive_issues": 0,
+  "repair_required": false,
+  "candidate": {
+    "path": "problems/2024-B4/notes/cofactor-cubic-r3-candidate-v1.md",
+    "bytes": 9112,
+    "sha256": "153cbc7a070eb1bffdb62f351c64a79353d8dd41a3e5db03c051b4ed8041f0c4"
+  },
+  "accepted_copy": {
+    "path": "problems/2024-B4/proofs/reviewed-cofactor-cubic-r3-v1.1.md",
+    "bytes": 12621,
+    "sha256": "850946e12359da343891ecaf31bd8b281404485127f9a5e8c756d8f7d1a8e435"
+  },
+  "verification_metadata": [
+    {
+      "path": "problems/2024-B4/notes/cofactor-cubic-r3-freeze-v1.json",
+      "bytes": 2786,
+      "sha256": "fcb6f42f7aa824110a5bb60178b2f9db9dc80e37a5827dbc03895484957be263"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-cubic-r3-baseline-v1.json",
+      "bytes": 3040,
+      "sha256": "f3c9710b202cb805c6eab6a46291d0e1fdfa3a2d0df46855d572071399ede2b1"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-cubic-r3-metadata-v1.json",
+      "bytes": 1027,
+      "sha256": "76529ca0b2d793ff27bac471b51fb7bec4505b3133d9d31217e9b67da3346d01"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-cubic-r3-input-validation-v1.json",
+      "bytes": 347,
+      "sha256": "33cf9987005778ec73b28388f9628303a3ced46e36198eb409f4c28a24f563d0"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-cubic-r3-review-1-manifest-v1.json",
+      "bytes": 4450,
+      "sha256": "c3d0be4190f076a273cfb2da3a1fb49f48ac3076f0e01bf5667ce39d825eec7d"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-cubic-r3-review-1-baseline-v1.json",
+      "bytes": 8919,
+      "sha256": "fe5bca601603590a8ef3e3ec14744b6f9a8fe5b2ca3ddba7c9cdf029bfae3d64"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-cubic-r3-review-1-metadata-v1.json",
+      "bytes": 1484,
+      "sha256": "9021b126da8180679459fac7cfccfb29ee0f5340dbd25bfcbad7bb5cad7c5888"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-cubic-r3-review-1-input-validation-v1.json",
+      "bytes": 680,
+      "sha256": "070001a2f5662334d5dce5fd6b655ba33b0b5e5d201135a03364d1c27c99c9aa"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-cubic-r3-review-1-sources-v1.json",
+      "bytes": 2025,
+      "sha256": "fde209b567e21c1e0ed50f3cd286146dde98f2f9fe421ebc602e80c52627efec"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-cubic-r3-review-2-manifest-v1.json",
+      "bytes": 7949,
+      "sha256": "1c76011a1234a5690370d4d2b256eb788e014523d2e8634e9baa7890484822f1"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-cubic-r3-review-2-baseline-v1.json",
+      "bytes": 8417,
+      "sha256": "512816a57ba318cfa584d323981c6516ff920d77a2b7a7f39049a7a02fcdfe92"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-cubic-r3-review-2-input-validation-v1.json",
+      "bytes": 1036,
+      "sha256": "11bad2c62a4d096993723457c2e8e242bf07a0f1f9f9b2a3ce6990e38b19f0e2"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-cubic-r3-review-2-sources-v1.json",
+      "bytes": 2348,
+      "sha256": "87ca36fc376e7f53f4f8433aee749e05757f8abae31cb2fce89e6a8fba2dee86"
+    }
+  ],
+  "record_occurrences_verified": 131,
+  "unique_paths_verified": 52,
+  "proposed_claims_accepted": [
+    "R3A",
+    "R3B"
+  ],
+  "constructor": "/root",
+  "constructor_excluded": true,
+  "independent_whole_reviewers": [
+    "/root/review_2021_reasoning_j15_r2",
+    "/root/review_2022_complexity_r2"
+  ],
+  "whole_obligations": 20,
+  "whole_checks": [
+    20,
+    20
+  ],
+  "root_read_ENTIRE_both_reports_ALL_ledgers_issues_sources_logs_code_ALLmetadata": true,
+  "reviewer_entire_freezes_utc": [
+    "2026-10-18T09:38:02.767120+00:00",
+    "2026-10-18T09:41:50.317080+00:00"
+  ],
+  "every_s_ge3_k_ge3_whole_absolute_irreducibility": true,
+  "sharper_accepted_CG_section6_equation9_NOT_weak_headline": true,
+  "general_k2_full_annual_or_novelty": false,
+  "no_mathematical_computation": true
+}

@@ -10,3 +10,6 @@ Historical initial template: for every candidate record its exact version/hash, 
 
 
 2026-10-18 continuing checkpoint: [reasoning-global-return-r7 accepted](reasoning-global-return-r7-acceptance.md) after TWO OTHER initially blind ENTIRE WHOLE audits and full coordinator reconciliation. Exact scoped partial only; annual target and priority remain unestablished. See acceptance JSON/integrity and unchanged full proof suffix.
+
+
+2026-10-18: [WC1-WC3 weighted-cutpath bound](coordinator-weighted-cutpath-r1-acceptance.md) accepted after C/B OTHER initially blind ENTIRE WHOLE40/40 audits and full root reconciliation. Root constructor excluded. Exact official upper<0.648; value/effective upperR/annual/priority remain open. All frozen bytes unchanged.

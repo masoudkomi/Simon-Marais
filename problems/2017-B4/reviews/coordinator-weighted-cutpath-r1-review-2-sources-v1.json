@@ -1,0 +1,28 @@
+{
+  "date_UTC": "2026-10-18",
+  "reviewer": "/root/review_2022_complexity_r2",
+  "role": "OTHER initially blind ENTIRE WHOLE R2; root sole constructor excluded",
+  "requested_settings": {"model": "gpt-6.1-sol", "reasoning": "max", "inherited": true},
+  "verified_effective_settings": null,
+  "NEW_corresponding_C_WC_finding_file_or_metadata_accessed": false,
+  "complete_constructor_files_read": 10,
+  "all40_independent_dispositions": true,
+  "mathematical_program_CAS_scan_author_rerun": false,
+  "full_source_PDF_download_cache_upload": false,
+  "external_binary_retrieval_sha256": null,
+  "records": [
+    {"id": "OFFICIAL", "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2017-paper-2_1.pdf", "read": "page2 B4 lines48--57 and full local statement", "scope": "whole2017B4, n>=2, fixed unit2n-gon, log2/n^2"},
+    {"id": "OFFICIAL_NOTES", "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2017-solutions-preliminary_1.pdf", "read": "page12 B4/comments lines775--814 only for mathematical use", "scope": "intended sequence/orientation/dictionary"},
+    {"id": "DALLANT_V2", "url": "https://arxiv.org/pdf/2502.20909v2", "read": "intro/marked definitions and complete operative Section2 through Lemma7; partial later LP display returned, unused", "operative_ranges": ["32--50", "85--118", "119--315"], "imports": "actual graph, rotation/statistics, published zone interface, insertion", "original_zone_proof_freshly_reconstructed": false, "LP_or_author_certificate_rerun": false},
+    {"id": "FELSNER_VALTR", "url": "https://page.math.tu-berlin.de/~felsner/Paper/new-pla.pdf", "read": "Section1 marking/labels/tiling dictionary and insertion; definitions/Knuth lemma/rotation Lemma2; original graph", "ranges": ["29--164", "185--330", "417--435"], "dictionary_foundations_freshly_proved": false, "pruned_tree_bound_imported": false},
+    {"id": "OLD_CONCAVITY", "accepted_copy": "problems/2017-B4/proofs/reviewed-concavity-v1.1.md", "authority": "problems/2017-B4/reviews/concavity-acceptance.json", "read": "complete body and authority", "scope": "old source/convention/finite-size check", "old_log_or_LP_certificate_replayed": false},
+    {"id": "PINCHASI", "url": "https://www2.math.technion.ac.il/~room/ps_files/zonespl.pdf", "read": "body unread; public web open Internal Error", "attributed_import": "only through explicit published Dallant theorem/interface"},
+    {"id": "WIDOM_2005", "url": "https://euler.phys.cmu.edu/widom/pubs/PDF/jsp120_2005_p837.pdf", "read": "fresh AppendixA opening/A1 returned lines676--716 only", "full_37_page_or_variational_proof_audit": false, "WC_premise": false, "source_refutation_claim": false},
+    {"id": "CONTEXT_ONLY", "read": "complete constructor failure/source/log and root upper-mass quantifier note", "effective_upper_R_or_free_fixed_equality_import": false}
+  ],
+  "source_or_priority_absence_claim": false,
+  "no_substantive_proof_defect_found": true,
+  "closed_notes": 5,
+  "coordinator_promotion_or_external_validation": false,
+  "handoff_identity_only_until_both_entire_initials_confirmed": true
+}

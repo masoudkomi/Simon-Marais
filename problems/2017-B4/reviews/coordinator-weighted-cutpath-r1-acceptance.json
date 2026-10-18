@@ -1,0 +1,111 @@
+{
+  "accepted_at_utc": "2026-10-18T09:51:26.604452+00:00",
+  "status": "proved, independently reviewed scoped partial result",
+  "whole_initials_blind": true,
+  "root_read_full_candidate_both_reports_all_ledgers_sources": true,
+  "unresolved_substantive_issues": 0,
+  "repair_required": false,
+  "candidate": {
+    "path": "problems/2017-B4/notes/coordinator-weighted-cutpath-r1-candidate-v1.md",
+    "bytes": 12695,
+    "sha256": "f77d09e57a7462faaf6d48077c6815b9d33ffa722470596a947b9f46c4205928"
+  },
+  "accepted_copy": {
+    "path": "problems/2017-B4/proofs/reviewed-weighted-cutpath-r1-v1.1.md",
+    "bytes": 15914,
+    "sha256": "93c08b0a43426c972bd6a0042c7e496cb08a106873c931f0231901e9f425f14b"
+  },
+  "verification_metadata": [
+    {
+      "path": "problems/2017-B4/notes/coordinator-weighted-cutpath-r1-freeze-v1.json",
+      "bytes": 2672,
+      "sha256": "2ff11ebea88c684a2d86be972ae6f937ec5aec95040904eb27fc5c392ad7b4d4"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-weighted-cutpath-r1-baseline-v1.json",
+      "bytes": 2675,
+      "sha256": "f55a76f6913098752dd4996ec71e1d954dd21773bc7347bf9aa663e63ee358f5"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-weighted-cutpath-r1-metadata-v1.json",
+      "bytes": 1208,
+      "sha256": "64f9accbacc153e5397bb16388bd1ea1dcd86e669f8782eec031c221c2791264"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-weighted-cutpath-r1-input-validation-v1.json",
+      "bytes": 348,
+      "sha256": "e692d3e1763dc0821e0a1e07ba5b1152a38fb675af823ecb63eb618cd217910f"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-weighted-cutpath-r1-sources-v1.json",
+      "bytes": 2162,
+      "sha256": "59df5af7382295456a556b6d96ae2fb630e99fc0a7af11b9510afcf0672da8a8"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-cutpath-r1-review-1-manifest-v1.json",
+      "bytes": 2987,
+      "sha256": "14c5525a21bd9e3e92bd79c968c293d84051d62efb16a1223a01e32829f7f926"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-cutpath-r1-review-1-baseline-v1.json",
+      "bytes": 6708,
+      "sha256": "5693b04028b33f52604381a763f01a504739fbf458caccde55f203c3ba39a7f9"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-cutpath-r1-review-1-metadata-v1.json",
+      "bytes": 1303,
+      "sha256": "bb62c71f46a29e414508504159ff95ad42a58ba979d3d0e3ad67fb091bc181a9"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-cutpath-r1-review-1-input-validation-v1.json",
+      "bytes": 513,
+      "sha256": "3fded01e7d4ae62d3462276efe6a5870374ec83239c053b4e82e741b039ec2a6"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-cutpath-r1-review-2-manifest-v1.json",
+      "bytes": 5359,
+      "sha256": "3fa70a3b55a0c1dfdd983826bb1d23722d12305ccf164c3d4534184ff626e14f"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-cutpath-r1-review-2-baseline-v1.json",
+      "bytes": 6001,
+      "sha256": "1c0b5405699caf8444839eb94ef3132eb34a138b5bf7fc4fa457ab90ef59e757"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-cutpath-r1-review-2-input-validation-v1.json",
+      "bytes": 650,
+      "sha256": "0476f48d39dc7cafcfd70efc964fe7b93161e7a97fc6dca2b6eb959c95266eec"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-cutpath-r1-review-2-sources-v1.json",
+      "bytes": 3089,
+      "sha256": "ab020e2e48be502e41da72e9a8c4ccf12dccf2cfe16234b4cf5af209cb5877a7"
+    }
+  ],
+  "record_occurrences_verified": 102,
+  "unique_paths_verified": 49,
+  "proposed_claims_accepted": [
+    "WC1",
+    "WC2",
+    "WC3"
+  ],
+  "constructor": "/root",
+  "constructor_excluded": true,
+  "independent_whole_reviewers": [
+    "/root/review_2017_coarsening_r1",
+    "/root/review_2022_complexity_r2"
+  ],
+  "whole_obligations": 40,
+  "whole_checks": [
+    40,
+    40
+  ],
+  "root_read_ENTIRE_both_reports_ALL_ledgers_issues_sources_logs_code_ALLmetadata": true,
+  "reviewer_entire_freezes_utc": [
+    "2026-10-18T09:37:39.952354+00:00",
+    "2026-10-18T09:07:40.334285+00:00"
+  ],
+  "strict_official_upper": "81/125=0.648",
+  "exact_value_effective_upper_R_full_annual_or_novelty": false,
+  "no_mathematical_computation": true
+}

@@ -1,0 +1,199 @@
+{
+  "frozen_utc": "2026-10-18T09:33:56.777267+00:00",
+  "status": "ENTIRE constructor checkpoint; candidate proof - unverified",
+  "scope": "2025 B4(b) signed prime diagonal p>=37; BR1--BR5 ENTIRE and ALL60",
+  "constructor": "/root/review_2022_complexity_r2",
+  "constructor_EXCLUDED_from_independent_auditor_count": true,
+  "TWO_OTHER_fresh_initially_blind_ENTIRE_WHOLE_audits_required": true,
+  "root_NEW_mathematical_contribution": false,
+  "older_root_RS_quotient_contribution_and_B_roles_disclosed": true,
+  "coordinator_promotion_external_validation_annual_solution_or_priority_claim": false,
+  "proposed_actual_sector_exclusions_not_unrestricted_prime_bound": true,
+  "weighted_integrality_at_ALL_finite_primes_including_p": true,
+  "actual_ideal_nonzero_argument_and_residual_both_center_proof": true,
+  "full_candidate_obligations_sources_failures_worklog_present": true,
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independently_verified_effective_settings": null,
+  "compact_necessary_baseline": {
+    "path": "problems/2025-B4/notes/reasoning-Runge-return-r3-baseline-v1.json",
+    "bytes": 9099,
+    "sha256": "1223456e2d40a6cac797c5b48763fb14dfb284bdfc148de803b49226a5b1764e"
+  },
+  "protected_input_occurrences": 20,
+  "protected_input_unique_paths": 20,
+  "canonical_protected_summary_sha256": "d4e14ee5e5922793586b7a7db7b527b23d91cb6f94cb16aa4e9ca613463089cc",
+  "accepted_pointer_checks": [
+    {
+      "authority": {
+        "path": "problems/2025-B4/reviews/reasoning-Runge-return-r2-acceptance.json",
+        "bytes": 3699,
+        "sha256": "aa09017ff593e74e53aa1924d80f5f37ac49fe3d22cea86ecb13d33558755347"
+      },
+      "accepted_body": {
+        "path": "problems/2025-B4/proofs/reviewed-reasoning-Runge-return-r2-v1.1.md",
+        "bytes": 27717,
+        "sha256": "33222ffbc2a756fe5f7a9641c248654b0d5626e8283d3d054624b69496c658a3"
+      }
+    },
+    {
+      "authority": {
+        "path": "problems/2025-B4/reviews/reasoning-return-r6-acceptance.json",
+        "bytes": 2483,
+        "sha256": "9d32b3f32be2bf758dc2bbe0182c11a6597a96139d0bd3b24680ba7041d56135"
+      },
+      "accepted_body": {
+        "path": "problems/2025-B4/proofs/reviewed-reasoning-return-r6-v1.1.md",
+        "bytes": 28748,
+        "sha256": "4e157819789da12d6f26e89929d88ec886d52947405d836fe3957ab8ee727d3a"
+      }
+    },
+    {
+      "authority": {
+        "path": "problems/2025-B4/reviews/reasoning-return-r9-runge-acceptance.json",
+        "bytes": 2595,
+        "sha256": "6f335c18f56a2e4e9118ac565b19006aaa03a3fbb9b373a3a4ee2abf36746138"
+      },
+      "accepted_body": {
+        "path": "problems/2025-B4/proofs/reviewed-reasoning-return-r9-runge-v1.1.md",
+        "bytes": 19902,
+        "sha256": "4ae442f75a8ec6a3cc370e92ade90a9ed126367e873588e83d6b2e72702afdf1"
+      }
+    }
+  ],
+  "compact_immutable_parents": [
+    {
+      "immutable_parent": {
+        "path": "problems/2025-B4/reviews/reasoning-Runge-return-r2-acceptance.json",
+        "bytes": 3699,
+        "sha256": "aa09017ff593e74e53aa1924d80f5f37ac49fe3d22cea86ecb13d33558755347"
+      },
+      "declared_fingerprint_occurrences": 13,
+      "deduplicated_paths": 13,
+      "canonical_deduplicated_record_summary_sha256": "382203f5fd97dbb8dc34232e562738a853eefbefae12041ec6337676cd396101",
+      "historical_inventory_rows_not_copied_or_recursively_reverified": true
+    },
+    {
+      "immutable_parent": {
+        "path": "problems/2025-B4/reviews/reasoning-return-r6-acceptance.json",
+        "bytes": 2483,
+        "sha256": "9d32b3f32be2bf758dc2bbe0182c11a6597a96139d0bd3b24680ba7041d56135"
+      },
+      "declared_fingerprint_occurrences": 8,
+      "deduplicated_paths": 8,
+      "canonical_deduplicated_record_summary_sha256": "a7edb44e239973b2c5ea9c138eed68036c1e4563b203d20db69f36ad4dab1030",
+      "historical_inventory_rows_not_copied_or_recursively_reverified": true
+    },
+    {
+      "immutable_parent": {
+        "path": "problems/2025-B4/reviews/reasoning-return-r9-runge-acceptance.json",
+        "bytes": 2595,
+        "sha256": "6f335c18f56a2e4e9118ac565b19006aaa03a3fbb9b373a3a4ee2abf36746138"
+      },
+      "declared_fingerprint_occurrences": 9,
+      "deduplicated_paths": 9,
+      "canonical_deduplicated_record_summary_sha256": "b3a0e17719ca1f85e5006e58bc67c4c3e9266c0ba23c55ec2f8148a594277931",
+      "historical_inventory_rows_not_copied_or_recursively_reverified": true
+    },
+    {
+      "immutable_parent": {
+        "path": "problems/2025-B4/notes/reasoning-Runge-return-r2-freeze-v1.json",
+        "bytes": 4617,
+        "sha256": "34bf0623be5cc897f681e0bcaf81c0bd1fc2a57fecc460f4b11177aab29c2e34"
+      },
+      "declared_fingerprint_occurrences": 11,
+      "deduplicated_paths": 10,
+      "canonical_deduplicated_record_summary_sha256": "4d1ff6333af01fc9e97f3846c9b6dc72a61fe0682547c8897696f86dae6c17ef",
+      "historical_inventory_rows_not_copied_or_recursively_reverified": true
+    },
+    {
+      "immutable_parent": {
+        "path": "problems/2017-B4/reviews/coordinator-weighted-cutpath-r1-review-2-manifest-v1.json",
+        "bytes": 5359,
+        "sha256": "3fa70a3b55a0c1dfdd983826bb1d23722d12305ccf164c3d4534184ff626e14f"
+      },
+      "declared_fingerprint_occurrences": 15,
+      "deduplicated_paths": 15,
+      "canonical_deduplicated_record_summary_sha256": "5ee70a17b74aa5c660755452c084be741d7721344b0d0893528af2bcc407b3a8",
+      "historical_inventory_rows_not_copied_or_recursively_reverified": true
+    }
+  ],
+  "immediate_own_parent": {
+    "path": "problems/2017-B4/reviews/coordinator-weighted-cutpath-r1-review-2-manifest-v1.json",
+    "bytes": 5359,
+    "sha256": "3fa70a3b55a0c1dfdd983826bb1d23722d12305ccf164c3d4534184ff626e14f"
+  },
+  "older_own_paths_bound_transitively": 636,
+  "new_own_files_including_manifest": 10,
+  "older_plus_new_own_paths_bound_transitively": 646,
+  "historical_inventory_not_recopied_or_recursively_reverified": true,
+  "no_NEW_active_peer_review_material_read": true,
+  "no_corresponding_C_NEW_WC_files_findings_hashes_or_metadata_read": true,
+  "WC_mathematical_findings_still_withheld_until_BOTH_entire_initials_confirmed": true,
+  "no_math_code_CAS_scan_tests_source_certificate_or_author_rerun": true,
+  "no_Git_shared_old_cache_write_spawn_contact_charge_or_bypass": true,
+  "authoritative_weekly_telemetry": {
+    "observed_at_utc": "2026-10-18 09:31:00 UTC",
+    "method": "get_usage_limits and clock in same independent batch",
+    "account_label": "029a8928...1334ac3a",
+    "used_percent_TOTAL": 21,
+    "window_minutes": 10080,
+    "reset_unix": 1792874445,
+    "ordinary_usage_allowed": true,
+    "legacy_by_limit_agree": true,
+    "human_authorized_current_window_ONLY": true,
+    "ceiling_TOTAL_percent": 90,
+    "integration_reserve": true,
+    "automatic_later_reset_spending": false
+  },
+  "artifacts": [
+    {
+      "path": "problems/2025-B4/notes/reasoning-Runge-return-r3-candidate-v1.md",
+      "bytes": 23038,
+      "sha256": "5ccc04e72574187d1959efff22852dbbc5cca41e701afbaeebc9f97adbdf64a0"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-Runge-return-r3-obligations-v1.md",
+      "bytes": 9802,
+      "sha256": "36d5930e1201ddf452f2a2d85e8017a8b82409d1c7da96e0746b0ddb841d0225"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-Runge-return-r3-failed-routes-v1.md",
+      "bytes": 6819,
+      "sha256": "0eab84723fd3bf65c9b800828a770b0a6b74deec48abb1b43fd4378984a8f1f8"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-Runge-return-r3-sources-v1.md",
+      "bytes": 7342,
+      "sha256": "d15d51c8d89607745973dd047fa4a2cf173ef3dcf5c7947e1ac99a142e215a6f"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-Runge-return-r3-sources-v1.json",
+      "bytes": 4119,
+      "sha256": "a65504d645b8c10e37cb4d476b2205807acffcf488612ee01758461572f4dca4"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-Runge-return-r3-worklog-v1.md",
+      "bytes": 7100,
+      "sha256": "be9da2b1fc01ffa9684302f55b631bc0bad3328a3ebab074b4fb68f5f5d66a9b"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-Runge-return-r3-freeze-v1.py",
+      "bytes": 11712,
+      "sha256": "fb7f8c54cac85502f5a96cb3de8b3dc4d9aab39f2acf5aeac00e6090167c6a6f"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-Runge-return-r3-baseline-v1.json",
+      "bytes": 9099,
+      "sha256": "1223456e2d40a6cac797c5b48763fb14dfb284bdfc148de803b49226a5b1764e"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-Runge-return-r3-input-validation-v1.json",
+      "bytes": 1021,
+      "sha256": "deef9bf4743c7b22104da65caab776d4e80b99fb61a3bde1f1ee870586884acc"
+    }
+  ]
+}

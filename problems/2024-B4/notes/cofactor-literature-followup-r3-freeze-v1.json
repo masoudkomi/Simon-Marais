@@ -1,0 +1,60 @@
+{
+  "status": "complete literature-only checkpoint; no new proof or novelty assertion",
+  "frozen_utc": "2026-10-18T09:30:59.363760+00:00",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "effective_readback": "unavailable"
+  },
+  "scope": "2024 B4(b), public source discovery only",
+  "artifacts": [
+    {
+      "path": "problems/2024-B4/notes/cofactor-literature-followup-r3-findings-v1.md",
+      "bytes": 4730,
+      "sha256": "b219a4b353efabc00acf790aafce53458433e5b137bb310173bb48c9b2d103f2"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-literature-followup-r3-retrieval-log-v1.md",
+      "bytes": 3701,
+      "sha256": "ba4184e97aa35eef8aa4b5e35fddae78339f0ba7e21670ebfd61a959d8e829c2"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-literature-followup-r3-sources-v1.json",
+      "bytes": 3607,
+      "sha256": "3a311a3551a9d36681c5157bf5068be8a4e372d6b8fa8a5c063a4b00a37e140f"
+    }
+  ],
+  "immutable_parents": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-global-r2-review-1-manifest-v1.json",
+      "bytes": 3143,
+      "sha256": "7b67f02dd28cb2293f9e171eb5255f3fccb641f6b7024719193906fea8d12d88"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-symmetry-literature-followup-v1.md",
+      "bytes": 2736,
+      "sha256": "c8e606f0bb4d755362375573ccea7893f724306659924cbc283aaf866bcad222"
+    }
+  ],
+  "parent_fingerprint_occurrences": 3,
+  "parent_deduplicated_paths": 3,
+  "read_limits": {
+    "Ferard2017_body": "UNREAD; HAL is notice; publisher preview only",
+    "Ferard2014_body_this_pass": "UNREAD; landing-page abstract only"
+  },
+  "operational_stall": {
+    "command": "escalated AIMS HTML curl, no file output",
+    "tool_result": "aborted by user after 2610.3s",
+    "pid_or_session_returned": false,
+    "source_output_returned": false,
+    "retry_after_recovery": false
+  },
+  "no_math_code_or_enumeration": true,
+  "no_corresponding_peer_review_access": true,
+  "no_old_file_changes": true
+}

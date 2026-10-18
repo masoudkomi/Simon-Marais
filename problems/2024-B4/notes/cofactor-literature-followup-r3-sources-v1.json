@@ -1,0 +1,88 @@
+{
+  "status": "literature-only; no new mathematical assertion or novelty determination",
+  "checked_utc": "2026-10-18",
+  "sources": [
+    {
+      "id": "FERARD2017-PUBLISHER",
+      "url": "https://link.springer.com/article/10.1007/s12095-017-0213-1",
+      "doi": "10.1007/s12095-017-0213-1",
+      "read": "Primary landing page, abstract, publication metadata and reference list",
+      "unread": "Full theorem statements, exact largest-odd-divisor size and exceptional-form conditions, operative proof, complete article",
+      "access": "Explicit subscription preview; no purchase or access bypass",
+      "paper_downloaded": false
+    },
+    {
+      "id": "GAATI2017",
+      "url": "https://gaati.org/publications/fr/",
+      "read": "Institutional publication entry linking the exact 2017 DOI and HAL ID",
+      "role": "Primary institutional bibliography; not a theorem source"
+    },
+    {
+      "id": "HAL2017",
+      "url": "https://upf.hal.science/hal-03417811v1",
+      "public_api_base": "https://api.archives-ouvertes.fr/search/",
+      "query": "halId_s:hal-03417811",
+      "api_completed": true,
+      "transcribed_response_first": {
+        "response": {
+          "numFound": 1,
+          "start": 0,
+          "maxScore": 5.9523664,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "openAccess_bool": false,
+              "title_s": ["On the irreducibility of the hyperplane sections of Fermat varieties in ℙ 3 $\\mathbb {P}^{3}$ in characteristic 2. II"],
+              "uri_s": "https://upf.hal.science/hal-03417811v1",
+              "doiId_s": "10.1007/s12095-017-0213-1"
+            }
+          ]
+        }
+      },
+      "transcribed_response_second": {
+        "response": {
+          "numFound": 1,
+          "start": 0,
+          "maxScore": 5.9632845,
+          "numFoundExact": true,
+          "docs": [
+            {
+              "docid": "3417811",
+              "openAccess_bool": false,
+              "authFullName_s": ["Eric Férard"],
+              "halId_s": "hal-03417811",
+              "version_i": 1,
+              "submitType_s": "notice",
+              "docType_s": "ART",
+              "submittedDate_s": "2021-11-05 22:26:18",
+              "producedDate_s": "2017-11"
+            }
+          ]
+        }
+      },
+      "limit": "Responses are transcriptions of returned tool output, not preserved raw HTTP bytes. No file field was returned. Metadata-only status does not prove that no public copy exists elsewhere.",
+      "paper_downloaded": false
+    },
+    {
+      "id": "FERARD2014-PUBLISHER",
+      "url": "https://www.aimsciences.org/article/doi/10.3934/amc.2014.8.497",
+      "read": "Primary landing-page abstract and bibliography only in this pass",
+      "unread": "Full theorem statements, operative proofs and complete article in this pass",
+      "retrieval_limit": "Sandboxed native HTML retrieval failed DNS; escalated retry interrupted after a 2610.3-second tool/approval stall and returned no source output",
+      "paper_downloaded": false
+    },
+    {
+      "id": "GAATI-MEMBERS",
+      "url": "https://gaati.org/members/en/",
+      "read": "Férard member entry; no personal page link supplied there",
+      "role": "Author-copy discovery only"
+    }
+  ],
+  "discovery_only": [
+    "https://www.researchgate.net/publication/313698463_On_the_irreducibility_of_the_hyperplane_sections_of_Fermat_varieties_in_P_3_mathbb_P3_in_characteristic_2_II",
+    "https://dblp.dagstuhl.de/pid/21/4970.html"
+  ],
+  "no_full_paper_hash_claim": true,
+  "no_novelty_claim": true,
+  "no_peer_review_material_opened": true
+}

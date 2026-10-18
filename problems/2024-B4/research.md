@@ -73,6 +73,8 @@ General projective geometry and two global factor bounds replace any
 assumption of special F8 orbit uniformity. The reduced-component c−1
 correction is retained. General smaller-k families, the full annual
 classification and possible overlap with unread Férard2017 remain open.
+
+The stronger [cubic-threshold R3A/R3B](reviews/cofactor-cubic-r3-acceptance.md) is now accepted after A/B OTHER initially blind ENTIRE WHOLE20/20 audits and full reconciliation. It covers EVERY s>=3,k>=3, using the sharper accepted CG inequality and positivity before division. A SEPARATE [dominant/symmetry R4 candidate](notes/cofactor-dominant-r4-candidate-v1.md) proposes a bounded invariant cofactor and additional Q16,k>=2 exclusion; it remains UNVERIFIED under TWO OTHER whole48 reviews. General k2/full annual/priority remain open.
 HM16's contextual component theorem requires a PROPER divisor and is
 not a premise of CG; no component assertion at k1 is accepted.
 

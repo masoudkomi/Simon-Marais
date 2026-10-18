@@ -1,0 +1,33 @@
+{
+  "recorded_at_utc": "2026-10-18T09:43:36.218488+00:00",
+  "status": "candidate proof - unverified; ENTIRE R4A-R4E constructor checkpoint",
+  "constructor": "/root",
+  "constructor_excluded": true,
+  "whole_obligations": 48,
+  "all48_constructor_hand_dispositions_complete": true,
+  "TWO_OTHER_initially_blind_ENTIRE_WHOLE_reviews_and_full_reconciliation_required": true,
+  "proposed_scope": [
+    "every smaller factor e<A",
+    "unique F2/S4 invariant large component",
+    "all k>=2 bounded cofactor",
+    "actual invariant cofactor 4 divides D",
+    "exact pA/16+ell-1+4/p threshold",
+    "Q16 all k>=2 absolute irreducibility"
+  ],
+  "p_is_ordinary_ell_minus_1_NOT_a_prime_or_characteristic": true,
+  "mathematical_program_CAS_scan_optimizer_or_source_rerun": false,
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "effective_settings_readback": null,
+  "novelty_established": false,
+  "full_annual_answer": false,
+  "latest_worker_weekly_TOTAL_percent": 22,
+  "latest_worker_meter_utc": "2026-10-18 09:40:27 UTC",
+  "weekly_reset": 1792874445,
+  "ceiling_TOTAL_percent": 90,
+  "reserve_required": true,
+  "automatic_later_window": false
+}

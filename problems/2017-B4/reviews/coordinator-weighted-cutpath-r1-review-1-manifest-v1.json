@@ -1,0 +1,71 @@
+{
+  "frozen_utc": "2026-10-18T09:37:39.952354+00:00",
+  "status": "ENTIRE initially blind OTHER WHOLE R1 frozen; no promotion",
+  "whole_obligations": 40,
+  "new_packet_file_count": 10,
+  "report_all40_issues_sources_worklog_code_ALL_metadata_frozen": true,
+  "no_corresponding_NEW_R2_file_hash_metadata_or_finding_access": true,
+  "identity_only_handoff_until_both_entire_initials": true,
+  "target_main": {
+    "path": "problems/2017-B4/notes/coordinator-weighted-cutpath-r1-candidate-v1.md",
+    "bytes": 12695,
+    "sha256": "f77d09e57a7462faaf6d48077c6815b9d33ffa722470596a947b9f46c4205928"
+  },
+  "target_freeze": {
+    "path": "problems/2017-B4/notes/coordinator-weighted-cutpath-r1-freeze-v1.json",
+    "bytes": 2672,
+    "sha256": "2ff11ebea88c684a2d86be972ae6f937ec5aec95040904eb27fc5c392ad7b4d4"
+  },
+  "own_parent": {
+    "path": "problems/2024-B4/notes/cofactor-literature-followup-r3-freeze-v1.json",
+    "bytes": 2142,
+    "sha256": "11d982548d265237f1896dd4c11bc5bc58ec8a1709064873945fab342aaa873a"
+  },
+  "artifacts": [
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-cutpath-r1-review-1-initial-v1.md",
+      "bytes": 13118,
+      "sha256": "5a73d05a15d7258a9e670738b891389491cf41a3fcf6796a9a47134678efee5c"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-cutpath-r1-review-1-ledger-v1.md",
+      "bytes": 6363,
+      "sha256": "2de77a74cab197dcf2a337d076cf0d09a44b27cb8d76e22cc5b4e26f6a32a6c6"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-cutpath-r1-review-1-issues-v1.md",
+      "bytes": 1261,
+      "sha256": "7358b2dd7391ea9c09bf819e7d1e1ff498910e0e37f66312bca79647281b60d7"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-cutpath-r1-review-1-source-audit-v1.md",
+      "bytes": 4163,
+      "sha256": "5b64e9740362d78050ecbe6da660d803f995cd038851e5fdad5baf6f4d4f75ec"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-cutpath-r1-review-1-worklog-v1.md",
+      "bytes": 3327,
+      "sha256": "f1d75defaf2f30817c0fa71fd8b79b31e8c48d4e3d8477b63d5559c1130029f5"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-cutpath-r1-review-1-freeze-v1.py",
+      "bytes": 7253,
+      "sha256": "2e5443978b5ea26995928c4a771d88ed3c3d082229fd79a8dd122eb174bdb353"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-cutpath-r1-review-1-baseline-v1.json",
+      "bytes": 6708,
+      "sha256": "5693b04028b33f52604381a763f01a504739fbf458caccde55f203c3ba39a7f9"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-cutpath-r1-review-1-metadata-v1.json",
+      "bytes": 1303,
+      "sha256": "bb62c71f46a29e414508504159ff95ad42a58ba979d3d0e3ad67fb091bc181a9"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-cutpath-r1-review-1-input-validation-v1.json",
+      "bytes": 513,
+      "sha256": "3fded01e7d4ae62d3462276efe6a5870374ec83239c053b4e82e741b039ec2a6"
+    }
+  ]
+}

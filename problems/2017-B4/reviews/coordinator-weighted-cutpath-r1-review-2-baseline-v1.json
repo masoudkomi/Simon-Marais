@@ -1,0 +1,146 @@
+{
+  "captured_utc": "2026-10-18T09:06:12.214929+00:00",
+  "actual_baseline_after_hand_review_before_entire_freeze": true,
+  "target_main": {
+    "path": "problems/2017-B4/notes/coordinator-weighted-cutpath-r1-candidate-v1.md",
+    "bytes": 12695,
+    "sha256": "f77d09e57a7462faaf6d48077c6815b9d33ffa722470596a947b9f46c4205928"
+  },
+  "target_freeze": {
+    "path": "problems/2017-B4/notes/coordinator-weighted-cutpath-r1-freeze-v1.json",
+    "bytes": 2672,
+    "sha256": "2ff11ebea88c684a2d86be972ae6f937ec5aec95040904eb27fc5c392ad7b4d4"
+  },
+  "constructor_packet_files_verified": 10,
+  "constructor_prior_direct_guards_verified": 8,
+  "protected_occurrences": 19,
+  "protected_unique_paths": 19,
+  "protected": [
+    {
+      "path": "problems/2017-B4/notes/coordinator-weighted-cutpath-r1-candidate-v1.md",
+      "bytes": 12695,
+      "sha256": "f77d09e57a7462faaf6d48077c6815b9d33ffa722470596a947b9f46c4205928"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-weighted-cutpath-r1-obligations-v1.md",
+      "bytes": 6054,
+      "sha256": "7fef225f70824c1c36de875055d8e47ffc5674bf87a5be6d76b4ae6f3a6469b8"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-weighted-cutpath-r1-failures-worklog-v1.md",
+      "bytes": 5138,
+      "sha256": "c8646a60403c2ac19a9cf6bddf36052aea3341d7c4dc9457ac4f6a864cdb98a3"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-weighted-cutpath-r1-source-audit-v1.md",
+      "bytes": 4012,
+      "sha256": "7576946d63e3a60d544cb34ca663137a0ee779e826a6d7bb2468d1205db58dc8"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-weighted-cutpath-r1-freeze-v1.py",
+      "bytes": 7500,
+      "sha256": "1fb9f6a763346dee6e57cb6b1f18d581ac462262b000965231be746a1674fe63"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-weighted-cutpath-r1-sources-v1.json",
+      "bytes": 2162,
+      "sha256": "59df5af7382295456a556b6d96ae2fb630e99fc0a7af11b9510afcf0672da8a8"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-weighted-cutpath-r1-baseline-v1.json",
+      "bytes": 2675,
+      "sha256": "f55a76f6913098752dd4996ec71e1d954dd21773bc7347bf9aa663e63ee358f5"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-weighted-cutpath-r1-metadata-v1.json",
+      "bytes": 1208,
+      "sha256": "64f9accbacc153e5397bb16388bd1ea1dcd86e669f8782eec031c221c2791264"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-weighted-cutpath-r1-input-validation-v1.json",
+      "bytes": 348,
+      "sha256": "e692d3e1763dc0821e0a1e07ba5b1152a38fb675af823ecb63eb618cd217910f"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-weighted-cutpath-r1-freeze-v1.json",
+      "bytes": 2672,
+      "sha256": "2ff11ebea88c684a2d86be972ae6f937ec5aec95040904eb27fc5c392ad7b4d4"
+    },
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2017-B4/statement.md",
+      "bytes": 2140,
+      "sha256": "e459750064b4e25e3eaa71f25f236c046548147e415b06d8bd097839020228f3"
+    },
+    {
+      "path": "problems/2017-B4/reviews/concavity-acceptance.json",
+      "bytes": 1943,
+      "sha256": "2c1d2b05b3b0644c18d445f515f0e48fd43e5b90ea4fbc87695513480d0a34aa"
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-concavity-v1.1.md",
+      "bytes": 10964,
+      "sha256": "030245b179380b7ae90f64f07b3ebebed2a91f0edff5be1dd6e9fbf26ee22cc6"
+    },
+    {
+      "path": "problems/2017-B4/notes/coordinator-mass-upper-r1-worklog-v1.md",
+      "bytes": 3367,
+      "sha256": "e046799a4edb3bde771fd2120a06d512227bdc479f5aff9cb179439f34b87071"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-seed-return-r1-review-1-manifest-v1.json",
+      "bytes": 3076,
+      "sha256": "fb74fbfc26e944a8a0a35812b8aa294d3f41c1e9d28a75b16e56a63315a27b78"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-seed-return-r1-review-1-metadata-v1.json",
+      "bytes": 905,
+      "sha256": "e490b72f37cacdd6c75372b3d8ce1e15620e6bd2a01c51a5cbc465e17d50d0fb"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-seed-return-r1-review-1-input-validation-v1.json",
+      "bytes": 373,
+      "sha256": "d2c7d68fba52a90eed7ff3ec2fdc799864d9732002de2e5a6c6468bd1d2edd66"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-global-r2-review-2-manifest-v1.json",
+      "bytes": 6399,
+      "sha256": "e8a4dc472c78c4d47d59d63d97787ef2d3a7bb9234f53f220cbff4d6976e886d"
+    }
+  ],
+  "canonical_protected_summary_sha256": "9f4304f8cc3d3e60d178438b1bd415cb5aea25fdc57052d84e5df2998796ed1c",
+  "accepted_concavity_authority": {
+    "authority": {
+      "path": "problems/2017-B4/reviews/concavity-acceptance.json",
+      "bytes": 1943,
+      "sha256": "2c1d2b05b3b0644c18d445f515f0e48fd43e5b90ea4fbc87695513480d0a34aa"
+    },
+    "accepted_body": {
+      "path": "problems/2017-B4/proofs/reviewed-concavity-v1.1.md",
+      "bytes": 10964,
+      "sha256": "030245b179380b7ae90f64f07b3ebebed2a91f0edff5be1dd6e9fbf26ee22cc6"
+    },
+    "historical_integrity_parent": {
+      "path": "problems/2017-B4/reviews/concavity-acceptance-integrity.json",
+      "bytes": 1411,
+      "sha256": "37a838a70ee1865870b5c26cd2084ef65eda76ae5506b4480b1c5e6c9e7db1b1"
+    },
+    "historical_inventory_recursively_replayed": false
+  },
+  "constructor_historical_parent_artifacts_declared": 9,
+  "constructor_historical_parent_inventory_replayed_by_reviewer": false,
+  "unrelated_parent_fingerprints_only_not_review_findings_read": true,
+  "immediate_own_parent": {
+    "path": "problems/2024-B4/reviews/cofactor-global-r2-review-2-manifest-v1.json",
+    "bytes": 6399,
+    "sha256": "e8a4dc472c78c4d47d59d63d97787ef2d3a7bb9234f53f220cbff4d6976e886d"
+  },
+  "older_own_paths_bound_transitively": 626,
+  "no_growing_historical_inventory_copy_or_recursive_rehash": true,
+  "no_corresponding_C_NEW_WC_finding_file_hash_or_metadata_access": true,
+  "mathematical_test_or_author_program_execution": false
+}

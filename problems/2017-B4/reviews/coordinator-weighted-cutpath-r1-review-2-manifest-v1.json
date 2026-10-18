@@ -1,0 +1,126 @@
+{
+  "frozen_utc": "2026-10-18T09:07:40.334285+00:00",
+  "status": "ENTIRE initially blind OTHER WHOLE WC1–WC3 review2 initial frozen",
+  "reviewer": "/root/review_2022_complexity_r2",
+  "constructor": "/root",
+  "constructor_excluded": true,
+  "reviewer_NEW_constructive_contribution": false,
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independently_verified_effective_settings": null,
+  "target_main": {
+    "path": "problems/2017-B4/notes/coordinator-weighted-cutpath-r1-candidate-v1.md",
+    "bytes": 12695,
+    "sha256": "f77d09e57a7462faaf6d48077c6815b9d33ffa722470596a947b9f46c4205928"
+  },
+  "target_freeze": {
+    "path": "problems/2017-B4/notes/coordinator-weighted-cutpath-r1-freeze-v1.json",
+    "bytes": 2672,
+    "sha256": "2ff11ebea88c684a2d86be972ae6f937ec5aec95040904eb27fc5c392ad7b4d4"
+  },
+  "entire_ten_file_constructor_packet_read": true,
+  "all40_whole_obligations_and_independent_hand_reconstructions_complete": true,
+  "substantive_proof_defects_found": 0,
+  "required_mathematical_author_repairs": 0,
+  "unresolved_proof_objections": 0,
+  "closed_scope_source_notes": 5,
+  "no_corresponding_C_NEW_WC_finding_file_hash_or_metadata_before_entire_freeze": true,
+  "identity_only_handoff_until_BOTH_entire_initials_confirmed": true,
+  "mathematical_program_CAS_scan_optimization_certificate_or_author_rerun": false,
+  "new_protected_occurrences": 19,
+  "new_protected_unique_paths": 19,
+  "canonical_protected_summary_sha256": "9f4304f8cc3d3e60d178438b1bd415cb5aea25fdc57052d84e5df2998796ed1c",
+  "accepted_concavity_authority": {
+    "authority": {
+      "path": "problems/2017-B4/reviews/concavity-acceptance.json",
+      "bytes": 1943,
+      "sha256": "2c1d2b05b3b0644c18d445f515f0e48fd43e5b90ea4fbc87695513480d0a34aa"
+    },
+    "accepted_body": {
+      "path": "problems/2017-B4/proofs/reviewed-concavity-v1.1.md",
+      "bytes": 10964,
+      "sha256": "030245b179380b7ae90f64f07b3ebebed2a91f0edff5be1dd6e9fbf26ee22cc6"
+    },
+    "historical_integrity_parent": {
+      "path": "problems/2017-B4/reviews/concavity-acceptance-integrity.json",
+      "bytes": 1411,
+      "sha256": "37a838a70ee1865870b5c26cd2084ef65eda76ae5506b4480b1c5e6c9e7db1b1"
+    },
+    "historical_inventory_recursively_replayed": false
+  },
+  "immediate_own_parent": {
+    "path": "problems/2024-B4/reviews/cofactor-global-r2-review-2-manifest-v1.json",
+    "bytes": 6399,
+    "sha256": "e8a4dc472c78c4d47d59d63d97787ef2d3a7bb9234f53f220cbff4d6976e886d"
+  },
+  "older_own_paths_bound_transitively": 626,
+  "new_review_files_including_manifest": 10,
+  "older_plus_new_own_paths_bound_transitively": 636,
+  "no_historical_inventory_copy_or_recursive_reverify": true,
+  "authoritative_weekly_telemetry": {
+    "observed_at_utc": "2026-10-18 09:05:22 UTC",
+    "method": "get_usage_limits and clock same batch",
+    "used_percent_TOTAL": 20,
+    "window_minutes": 10080,
+    "reset_unix": 1792874445,
+    "ordinary_usage_allowed": true,
+    "account_label": "029a8928...1334ac3a",
+    "legacy_by_limit_agree": true,
+    "human_authorized_current_window_ONLY": true,
+    "ceiling_TOTAL_percent": 90,
+    "integration_reserve": true,
+    "automatic_later_reset_spending": false
+  },
+  "no_old_shared_Git_cache_edit_spawn_contact_charge_or_bypass": true,
+  "coordinator_acceptance_external_validation_annual_or_priority_claim": false,
+  "artifacts": [
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-cutpath-r1-review-2-initial-v1.md",
+      "bytes": 12051,
+      "sha256": "e57fd5b9344e72e32c68d76060885402f3e4827b35a313284d996561c9a1603f"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-cutpath-r1-review-2-ledger-v1.md",
+      "bytes": 8563,
+      "sha256": "2f8e063c8f08ecc5566a93e520148546c6d00f0b3ccc6ddbd5ebf12580f72721"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-cutpath-r1-review-2-issues-v1.md",
+      "bytes": 3229,
+      "sha256": "583e0e487ec57b8326aeebafa872dd723579909638537adeaf4c835d69a77162"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-cutpath-r1-review-2-source-checks-v1.md",
+      "bytes": 5326,
+      "sha256": "759524d89b1ad2ee2f59bed4601bf085090babaf0b5419b1e9ac80f29fadbac2"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-cutpath-r1-review-2-sources-v1.json",
+      "bytes": 3089,
+      "sha256": "ab020e2e48be502e41da72e9a8c4ccf12dccf2cfe16234b4cf5af209cb5877a7"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-cutpath-r1-review-2-worklog-v1.md",
+      "bytes": 6026,
+      "sha256": "c3b07708308ffa27691ea9282c8957c5c120b073d4a07dae2021d727a8282a50"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-cutpath-r1-review-2-freeze-v1.py",
+      "bytes": 9293,
+      "sha256": "00a6c3379b6df0430236af906904b0e23fd6aaae67367edc11816d12e815e413"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-cutpath-r1-review-2-baseline-v1.json",
+      "bytes": 6001,
+      "sha256": "1c0b5405699caf8444839eb94ef3132eb34a138b5bf7fc4fa457ab90ef59e757"
+    },
+    {
+      "path": "problems/2017-B4/reviews/coordinator-weighted-cutpath-r1-review-2-input-validation-v1.json",
+      "bytes": 650,
+      "sha256": "0476f48d39dc7cafcfd70efc964fe7b93161e7a97fc6dca2b6eb959c95266eec"
+    }
+  ]
+}

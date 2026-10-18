@@ -1,21 +1,21 @@
 # Research dashboard
 
-Current all-nine/usage report: [progress/status-2026-10-18-1927.md](status-2026-10-18-1927.md). 21% TOTAL in authorizedreset1792874445; next actual report2026-10-18T10:27:42+00:00. New2019CR/2022SR/2024CG partials accepted after bothOTHER wholeaudits/reconciliation.2024cubic/R15/WC remain unverified; fullannualcount2, unresolved7.
+Current all-nine/usage checkpoint: [19:54Brisbane](status-2026-10-18-1954.md). Fresh23%TOTAL at09:54:07UTC/reset1792874445. NEW2017WC upper<0.648 and2024cubicR3 allk>=3 accepted after both OTHER entire audits/full reconciliation.2021R15/R16 full root peer reconciliation pending;2024R4/2025RungeR3 unverified. Fullannualcount2/unresolved7. Next actual hourly10:27:42UTC unchanged.
 
 
 Initial scope: nine official B4 open portions, 2017-2025. **2026 deferred by the user**, not counted as a verified problem. The 2017 problem and general 2018 enumeration are in scope; for 2019-2025, **part (b) only**. Preliminary part (a) and the already known 2018 m=5 case are excluded as research targets. See sources/open-scope-audit.md.
 
 |Year|Accepted result and present position|
 |---|---|
-|2017|Scalar limit exists/value unknown/upper<0.649514. NEW R7A–E boundary-range completion, full-boundary pinned-mass stability and finite global-pattern recognition accepted after TWO OTHER initially blind ENTIRE WHOLE60/60 audits/full reconciliation. Period bound is theoretical; upperR/numerical value remain open.|
+|2017|Scalar limit exists/value unknown. NEW WC1-WC3 reviewed upper<0.648; both OTHER whole40 audits/full reconciliation complete. Boundary/pinned-mass/finite-recognition partials remain; no effective upperR.|
 |2018|COMPLETE general enumeration formula, independently reviewed and attributed to Hering--Howard/Ottaviani. This is a published-result reproduction.|
-|2019|Reviewed1.765224<lambda<1.834843 unchanged. NEW G1–G5 accepted after TWO OTHER initially blind ENTIRE WHOLE60/60 audits/full reconciliation: every-bidegree capacity, actual pressure, complete imbalance moment, conditional Boltzmann joint/angle laws and finite-n bridge. Actual moment regime/exact lambda remain open.|
+|2019|Reviewed1.765224<lambda<1.834843. G1-G5 and CR1-CR5 confined-piece/composition-cut partials accepted. Actual critical regime/exact lambda and cut-number bridge open.|
 |2020|NEW A11A–E accepted after TWO OTHER initially blind ENTIRE WHOLE60/60 and full reconciliation: signed primary-ideal UNION norm, exponential subset-sum restrictions and conditional small-H construction at EXACTq with full binary lift. No new actual q satisfies the class-size criterion here; large/even class groups and composite character tuples remain open.|
-|2021|R12/R13 and NEW R14A–D accepted after TWO OTHER initially blind ENTIRE WHOLE audits/full reconciliation. In the exact actual-double/J15 m5 branch a7 is a19-adic UNIT and all T4 is excluded; a8/a9 may be units. R14D historical conditional now discharged by separately accepted R13C, without changing frozen bytes. Actual unit-a7 m5, m3/m4, other branches and degree20 remain open.|
-|2022|NEW ENTIRE Q1–Q8 v3 accepted after TWO OTHER initially blind ENTIRE WHOLE100/100 audits of the literal v1/v2/v3 chain and full root reconciliation. Explicit integer rank and exact strip-orphan residues remove many possible minimal counterexamples; universal hitting is equivalent to an explicit UNBOUNDED filtered birth/orphan seed question. Two displayed unbounded families have UNKNOWN FUTURES. No infinite survivor or universal termination proof.|
+|2021|R13/R14 accepted. R15 actual m5 exclusion and R16 both m4 cubic exclusions have BOTH OTHER entire audits frozen; ROOT FULL peer reconciliation pending, hence UNVERIFIED here. EC/T4,m3,other branches/degree20 open.|
+|2022|SR ordinary-tail/fiber equivalences and exact orphan first-return clock accepted after both OTHER whole48 audits/full reconciliation. Universal hitting/infinite ordinary avoiding path remains open.|
 |2023|COMPLETE internally reviewed classification for fixed positive nonsquare N: all(k,k),k>0, and(k,2k),(2k,k) for positive odd k. Priority remains unestablished.|
-|2024|FS1–FS5 accepted: whole absolute irreducibility n=7*8^k+1,k>=2; with NF3,7*2^a+1,a>=2,a!=3. NEW root CG1–CG3 entire56-obligation candidate frozen UNVERIFIED: explicit general threshold, in particular n=(2^s-1)*2^(sk)+1 for s>=3,k>=4. B/C OTHER whole reviews assigned AFTER their current complete checkpoints. Other exponents/full classification/priority open.|
-|2025|Separate RG1–RG3 fixed-p procedure, repaired R9A–F and NEW RS1–RS4 accepted after TWO OTHER initially blind ENTIRE WHOLE60/60 RS audits/full reconciliation. Faithful-character norm/support bounds, conditional fixed-r prime bound, actual degree-p quotient/genus and exact normalization basis. Root/B contributors excluded. Evaluated-zero and all-linear-generator gaps remain; no useful new X bound, actual exclusion or annual solution.|
+|2024|FS special Q8 allk>=2 and CG general geometry accepted. NEW cubicR3 all s>=3,k>=3 whole absolute irreducibility accepted after both OTHER whole20 audits/full reconciliation. Separate dominant/symmetryR4 ALL48 unverified under review; general k2/full classification/priority open.|
+|2025|RG fixed-p/R9/RS support-quotient-normalization accepted. NEW nonlinear integral-branch BR1-BR5 whole60 constructor frozen UNVERIFIED, A wholeR1 frozen/C wholeR2 active. Scoped branch-height/residual restrictions proposed; no unrestricted prime bound or annual answer.|
 
 ## Coordination
 
