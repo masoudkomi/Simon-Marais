@@ -1,0 +1,113 @@
+{
+  "accepted_at_utc": "2026-10-18T10:09:02.217122+00:00",
+  "status": "proved, independently reviewed scoped partial result",
+  "whole_initials_blind": true,
+  "root_read_full_candidate_both_reports_all_ledgers_sources": true,
+  "unresolved_substantive_issues": 0,
+  "repair_required": false,
+  "candidate": {
+    "path": "problems/2024-B4/notes/cofactor-dominant-r4-candidate-v1.md",
+    "bytes": 14524,
+    "sha256": "b6c454eba513c0ebb364f4b53393741c8737239c5b03c75fc2a0ac000871e365"
+  },
+  "accepted_copy": {
+    "path": "problems/2024-B4/proofs/reviewed-cofactor-dominant-r4-v1.1.md",
+    "bytes": 18793,
+    "sha256": "14c47b6db082bee1d60bcf297c289fe949fdec9384cc8a159b199c56ba265838"
+  },
+  "verification_metadata": [
+    {
+      "path": "problems/2024-B4/notes/cofactor-dominant-r4-freeze-v1.json",
+      "bytes": 3054,
+      "sha256": "1d0c4e90c0b75a2417539401d4350e13dd29c9d3030fc06074f4cff18358371b"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-dominant-r4-baseline-v1.json",
+      "bytes": 3441,
+      "sha256": "10216c245cd1a802e99eb31200610b3171e6743d1ac02103e0d3dcfd67f6a282"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-dominant-r4-metadata-v1.json",
+      "bytes": 1206,
+      "sha256": "261f93de9c7b8443c97422735bacf83c4eab13dac12720bbce3bb8f3ad3369d7"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-dominant-r4-input-validation-v1.json",
+      "bytes": 358,
+      "sha256": "f97e3619fe71c57e1ca5da066ba8338ee65739067efb39e26d613df2ac60969c"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-dominant-r4-review-1-manifest-v1.json",
+      "bytes": 7640,
+      "sha256": "05e4eb5d531c0ed58d7059d573a50cd149578783ff54c3e4e0dff53eb325e3e1"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-dominant-r4-review-1-baseline-v1.json",
+      "bytes": 12506,
+      "sha256": "692685c80ef73543a0275cc3012cfbead6e6090fd394db2419414909b80b867d"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-dominant-r4-review-1-metadata-v1.json",
+      "bytes": 1741,
+      "sha256": "04fc17782e48ba8cf1e00b2502eaa52d0153f90a9be824ac27121b1771492e60"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-dominant-r4-review-1-input-validation-v1.json",
+      "bytes": 441,
+      "sha256": "1de922320fb585127e2bdd33c32435e3700766f418712a1145132efd55b10759"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-dominant-r4-review-2-manifest-v1.json",
+      "bytes": 2892,
+      "sha256": "09ceeb941ee51f6d700f2c4d64264ebebca4373cc851d3a50a6f7baf4b056083"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-dominant-r4-review-2-baseline-v1.json",
+      "bytes": 7864,
+      "sha256": "864c35585f8ff864334e456a9fa614d492118ed5ed8072e05d512723c53d5629"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-dominant-r4-review-2-metadata-v1.json",
+      "bytes": 2020,
+      "sha256": "58d137ed27ae07553beef9a2240aa10e8b2b935e36cedfed24083734d08f0667"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-dominant-r4-review-2-input-validation-v1.json",
+      "bytes": 673,
+      "sha256": "3072e02fe6012fe8a44baa5068bb9ae66afe3e54f5c5bc4e91e7671c958b42dd"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-dominant-r4-review-1-sources-v1.json",
+      "bytes": 2427,
+      "sha256": "63a373030e91bdaf40d0612e75f6f2f25a4507c9128818681ba20847aed4e573"
+    }
+  ],
+  "record_occurrences_verified": 148,
+  "unique_paths_verified": 70,
+  "proposed_claims_accepted": [
+    "R4A",
+    "R4B",
+    "R4C",
+    "R4D",
+    "R4E"
+  ],
+  "constructor": "/root",
+  "constructor_excluded": true,
+  "independent_whole_reviewers": [
+    "/root/review_2021_reasoning_j15_r2",
+    "/root/review_2017_coarsening_r1"
+  ],
+  "whole_obligations": 48,
+  "whole_checks": [
+    48,
+    48
+  ],
+  "root_read_ENTIRE_both_reports_ALL_ledgers_issues_sources_logs_code_ALLmetadata": true,
+  "accepted_CG1_CG2_only": true,
+  "arbitrary_reduced_union_c_minus_1_retained": true,
+  "actual_unique_component_F2_and_exact_S4_descent": true,
+  "same_positive_integer_D_divisible_by4": true,
+  "whole_absolute_irreducibility_Q16_every_k_ge2": true,
+  "general_s_ge5_k2_k1_full_annual_or_priority_claim": false,
+  "no_mathematical_computation": true
+}

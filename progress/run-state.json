@@ -2,7 +2,7 @@
   "branch": "codex/smmc-b4-research",
   "remote": "https://github.com/masoudkomi/Simon-Marais.git",
   "phase": "sustained research resumed under explicit NEW-window authorization",
-  "last_pushed_commit": "9a09b1d",
+  "last_pushed_commit": "353d3b4",
   "initial_passes_complete": [
     2017,
     2018,
@@ -17,25 +17,25 @@
   "active": [
     {
       "agent": "review_2021_reasoning_j15_r2",
-      "year": 2024,
-      "role": "OTHER initiallyblind dominantR4 WHOLE48R1; RungeR3R1ENTIREfrozen"
-    },
-    {
-      "agent": "review_2017_coarsening_r1",
-      "year": 2025,
-      "role": "OTHER initiallyblind RungeR3 WHOLE60R2;then dominantR4 WHOLE48R2;WC/R15entirecomplete"
+      "year": 2019,
+      "role": "NEW cut-numberR3 conceptual construction;then OTHERblindR5 whole32R1"
     },
     {
       "agent": "review_2022_complexity_r2",
       "year": 2020,
-      "role": "NEW ToddR12 structural/literature construction after ENTIRE R16R2checkpoint"
+      "role": "NEW ToddR12 conceptual construction;then OTHERblindR5 whole32R2"
+    },
+    {
+      "agent": "review_2017_coarsening_r1",
+      "year": 2022,
+      "role": "NEW fiberR5 actual orbit comparison conceptual construction"
     }
   ],
   "initial_passes_pending": [],
   "deferred": [
     2026
   ],
-  "weekly_used_percent_last_observed": 23,
+  "weekly_used_percent_last_observed": 24,
   "weekly_reset_unix": 1792874445,
   "caffeinate": {
     "user_authorization": "keepcomputerawakeuntil90%weeklyquota; permissionforoneagentmustnotinterruptothers",
@@ -43,16 +43,16 @@
     "exec_session": 64368,
     "duration_seconds": null,
     "started_at_utc_approx": "2026-10-17T01:07:50+00:00",
-    "verified_at_local": "2026-10-18T19:27:42+10:00",
+    "verified_at_local": "2026-10-18T20:18:03+10:00",
     "assertion": "PreventUserIdleSystemSleep",
-    "verified_detail": "PreventUserIdleSystemSleep=1; owned PID79293 caffeinate asserting forever; display sleep allowed",
+    "verified_detail": "pmset positively confirms ownedPID79293 forever33:10:13; idleSystemSleep1,displaySleep0. Additionalps sandbox-denied; no blocker.",
     "cleanup": "At90% total weekly usage or actual research termination, stop only owned session64368 via targeted Ctrl-C; PID79293 recorded for fallback. No timed expiry.",
     "previous_session": 14140,
     "previous_exit_code_after_targeted_ctrl_c": 130,
     "next_check_utc": "2026-10-18T10:27:42+00:00"
   },
-  "notes": "Two complete annual answers/sevenunresolved.2017upper<0.648 and2024allk>=3 newlyaccepted. Continue90TOTALcurrentwindow/reserve;nextactualhourly10:27:42UTC.",
-  "observed_at_utc": "2026-10-18T09:56:49.532494+00:00",
+  "notes": "Two complete annual answers/seven unresolved. Continue90TOTALcurrentwindow/reserve;nextactualhourly10:27:42UTC.",
+  "observed_at_utc": "2026-10-18T10:19:55.306064+00:00",
   "coordinator_compute": {
     "status": "all constructor children completed and reaped",
     "complex_complement_child_pid": 37199,
@@ -61,15 +61,12 @@
     "complex_family_count": 6224952,
     "new_complex_extension_audits": "both complete, accepted"
   },
-  "latest_all_nine_report": "progress/status-2026-10-18-1954.md",
-  "coordinator_current": "Root accepted2017WC and2024cubic after COMPLETE both whole packets. ENTIRE R16R1frozen; bothR15/R16 reviewers nowcomplete, ROOTpeerreconciliationpending. DominantR4andRungeR3 unverified wholeaudits.",
-  "latest_checkpoint": "progress/status-2026-10-18-1954.md",
+  "latest_all_nine_report": "progress/status-2026-10-18-2018.md",
+  "coordinator_current": "AcceptedR15/R16/R4/BR3 after full BOTH OTHER whole packets. NewR5 ENTIRE32/9 frozen UNVERIFIED. Integrate/push; continue mathematical work.",
+  "latest_checkpoint": "progress/status-2026-10-18-2018.md",
   "pending_unverified": [
-    "2021R15 actual m5 exclusion: root/C OTHER whole48bothentirefrozen;fullrootCreviewreconciliationpending.",
-    "2021R16 actual m4 cubic exclusions/conditionalquartic: root/B OTHER whole56bothentirefrozen;fullrootBreviewreconciliationpending.",
-    "2024dominant/symmetryR4 ENTIRE48/11constructorfrozen;A/C OTHERwholeauditsactive/queued;rootexcluded.",
-    "2025nonlinearRungeR3 BR1-BR5 ENTIRE60/10constructorfrozen;A R1entirefrozen/C R2active;root/Bexcluded.",
-    "2020ToddR12 NEWresearch underconstruction, nofullcheckpoint/promotion."
+    "2024cofactor-FrobeniusR5A-D ENTIRE32/9 frozen;two OTHER whole reviews queued.",
+    "2019cut-numberR3,2020ToddR12,2022fiberR5 active NEW conceptual construction;no full checkpoint/promotion."
   ],
   "usage_telemetry_conflict": {
     "last_consistent_old_window": {
@@ -87,7 +84,7 @@
     "explicit_user_authorization": "keep going till90%of the newly reported weekly window....do not stop",
     "authorization_recorded_at_utc": "2026-10-18T00:00:36.393369+00:00"
   },
-  "weekly_last_observed_at_utc": "2026-10-18T09:54:07+00:00",
+  "weekly_last_observed_at_utc": "2026-10-18T10:18:03+00:00",
   "hourly_reporting": {
     "automation_id": "simon-marais-hourly-research-report",
     "kind": "heartbeat",

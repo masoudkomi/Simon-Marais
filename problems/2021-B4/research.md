@@ -19,7 +19,21 @@ develop this interaction between arithmetic restrictions and algebraic
 computation. A finite normalized parameter space, however, need not be empty,
 and an available residue root need not lift to a rational common root.
 
-The reviewed results restrict carefully specified degree-20 branches. [R12](reviews/reasoning-return-r12-acceptance.md) excludes first breaks m6 and m7 in its actual-double/J15 domain. [R13](reviews/reasoning-return-r13-acceptance.md) forces nonzero nonunit essential centers at10/11 in the specified m5 branch. Newly accepted [R14](reviews/reasoning-return-r14-acceptance.md) then forces a7 to be a19-adic unit and excludes the entire four-depth T4 alternative there. It retains possible unit a8/a9, uses actual rational witnesses, and has passed TWO OTHER initially blind ENTIRE WHOLE56/56 audits and complete coordinator reconciliation. The remaining unit-a7 m5 cases and m3/m4 are open; this does not settle degree20 or all contest degrees. See the [current dashboard](../../progress/dashboard.md), [source audit](references.md), and [review register](reviews/README.md).
+The reviewed results restrict carefully specified degree-20 branches.
+Newly accepted [R15A-C](reviews/reasoning-unit-return-r15-acceptance.md)
+excludes the ENTIRE m5 first-break branch in its exact normalized J15,
+sole-H3, actual-double0/ADDITIONAL actual-double-s setting. It combines
+the separately accepted R13/R14 actual-center restrictions with a new
+center obstruction. [R16A-C](reviews/reasoning-early-return-r16-acceptance.md)
+also excludes BOTH m4 cubic alternatives there. Under its additional unit-a8
+and actual noncenter hypotheses, a genuine quartic survives, forcing exact
+coefficient depths and order-four contact with a nonzero derivative value.
+These are necessary restrictions, not a rational lift or a solution of m4.
+Each whole proof passed TWO OTHER initially blind audits (48/48 and56/56)
+and complete coordinator reconciliation. The remaining m4 EC/T4 alternatives,
+m3, other normalized patterns and full degree20 remain open. See the
+[dashboard](../../progress/dashboard.md), [sources](references.md), and
+[review register](reviews/README.md).
 
 ## Reviewed single-center classifications
 

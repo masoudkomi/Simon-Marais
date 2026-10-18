@@ -1,0 +1,102 @@
+{
+  "frozen_at_utc": "2026-10-18T10:12:45.502454+00:00",
+  "status": "ENTIRE author R5A-D candidate unverified",
+  "constructor": "/root",
+  "constructor_excluded": true,
+  "whole_obligations": 32,
+  "TWO_OTHER_ENTIRE_initially_blind_whole_audits_required": true,
+  "all_content_and_metadata_frozen_before_any_NEW_R5_peer_material_exists": true,
+  "current_input_summary": {
+    "occurrences": 24,
+    "unique_paths": 23,
+    "sha256": "75bcbb87fc838294eeaa8ef785a1f93fa3c94dba0ea6534c37a5b23d0fc32dea"
+  },
+  "accepted_operative_bindings": [
+    {
+      "authority": {
+        "path": "problems/2024-B4/reviews/cofactor-global-r2-acceptance.json",
+        "bytes": 3537,
+        "sha256": "fff6d498dfc8e7bb98afdc9b027ffc57668b637d3843cff20e8928399639dfa7"
+      },
+      "accepted_body": {
+        "path": "problems/2024-B4/proofs/reviewed-cofactor-global-r2-v1.1.md",
+        "bytes": 19500,
+        "sha256": "fd110d1615e730d754063b157cc1906b418702f510b2640bfd1b5c63e898548d"
+      },
+      "candidate": {
+        "path": "problems/2024-B4/notes/cofactor-global-r2-candidate-v1.md",
+        "bytes": 15586,
+        "sha256": "9dac8137a3b47637e25ee66a5c2bf5ff00146e9d1d54ba55764002111d5376f9"
+      },
+      "historical_occurrences_bound_not_replayed": 141,
+      "historical_paths_bound_not_replayed": 50
+    },
+    {
+      "authority": {
+        "path": "problems/2024-B4/reviews/cofactor-dominant-r4-acceptance.json",
+        "bytes": 4231,
+        "sha256": "ee71bf8cd0a78cd00314dbaf09bca5b5e5e7b9b523a2d516122dd6456e2a35e1"
+      },
+      "accepted_body": {
+        "path": "problems/2024-B4/proofs/reviewed-cofactor-dominant-r4-v1.1.md",
+        "bytes": 18793,
+        "sha256": "14c47b6db082bee1d60bcf297c289fe949fdec9384cc8a159b199c56ba265838"
+      },
+      "candidate": {
+        "path": "problems/2024-B4/notes/cofactor-dominant-r4-candidate-v1.md",
+        "bytes": 14524,
+        "sha256": "b6c454eba513c0ebb364f4b53393741c8737239c5b03c75fc2a0ac000871e365"
+      },
+      "historical_occurrences_bound_not_replayed": 148,
+      "historical_paths_bound_not_replayed": 70
+    }
+  ],
+  "immediate_own_parent": {
+    "path": "problems/2024-B4/notes/cofactor-dominant-r4-freeze-v1.json",
+    "bytes": 3054,
+    "sha256": "1d0c4e90c0b75a2417539401d4350e13dd29c9d3030fc06074f4cff18358371b"
+  },
+  "files_including_freeze": 9,
+  "artifacts": [
+    {
+      "path": "problems/2024-B4/notes/cofactor-Frobenius-r5-candidate-v1.md",
+      "bytes": 12486,
+      "sha256": "ff29bb1757d3f24229cb138bdfcca02b4d45c457200afc2ecc78104918c823ee"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-Frobenius-r5-obligations-v1.md",
+      "bytes": 3725,
+      "sha256": "dd027db9436d46030b447305cc6b5dbd505e09afdbc867b5e5496999fa3d572e"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-Frobenius-r5-sources-v1.md",
+      "bytes": 2999,
+      "sha256": "6daf112084b53ad140088a5b7eb4ef1535b154748bd55e1949905f905e23a8fb"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-Frobenius-r5-failures-worklog-v1.md",
+      "bytes": 4058,
+      "sha256": "b392d4fb4fc49faeace48ee0d5b23243fe3896ab2f76f70b927e9e4f76c02104"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-Frobenius-r5-freeze-v1.py",
+      "bytes": 7251,
+      "sha256": "db1b481b938ea6e2e3d1245396a7d66f43a04f80a5ed32503ba9db46264f18af"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-Frobenius-r5-baseline-v1.json",
+      "bytes": 6811,
+      "sha256": "89151486e328445d3a63d401b48efff9021a4d23ad6b6c41d7220cbbc70c0982"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-Frobenius-r5-metadata-v1.json",
+      "bytes": 1435,
+      "sha256": "dc706d6403b520d6c425e91b0b41b89f0bbd981265e3f9111b9eeade7dd672a9"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-Frobenius-r5-input-validation-v1.json",
+      "bytes": 451,
+      "sha256": "6f0f8a3df48743139cb52e1826a1876794210bc187da29aab9352dccbde78a3e"
+    }
+  ]
+}

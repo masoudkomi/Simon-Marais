@@ -1,0 +1,31 @@
+{
+  "verified_date_utc": "2026-10-18",
+  "reviewer_role": "OTHER initially blind ENTIRE WHOLE R1, root sole new constructor excluded",
+  "requested_settings": {"model": "gpt-6.1-sol", "reasoning": "max", "inherited": true},
+  "independently_verified_effective_settings": null,
+  "no_new_peer_review_access": true,
+  "no_corresponding_C_NEW_R4_finding_file_hash_or_metadata_access": true,
+  "old_roles": "old T1/component construction and multiple whole reviews, including CP/GK/NF/FP/FS; no new R4 contribution or old self-recertification",
+  "entire_constructor_read": "main, ALL48, both v0 records, sources, failures/worklog, full metadata Python SOURCE, baseline, metadata, validation and freeze",
+  "operative_accepted_input": {
+    "body": "problems/2024-B4/proofs/reviewed-cofactor-global-r2-v1.1.md",
+    "authority": "problems/2024-B4/reviews/cofactor-global-r2-acceptance.json",
+    "read": "COMPLETE body and MD/JSON/integrity plus original source-audit",
+    "claims_used": ["CG1", "CG2"],
+    "unsimplified_section6_equation9_first_line_used": true,
+    "CG3_cubic_R3_or_Frobenius_lead_used": false
+  },
+  "primary_sources": [
+    {"url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc2024_paper_b.pdf", "read": "B4(b) page2 lines68--74", "role": "official coefficientwise domain"},
+    {"url": "https://math.stanford.edu/~conrad/145Page/handouts/algcurves.pdf", "read": "COMPLETE section5.4 Th2 proof, Problem5.25 and AppendixA", "role": "classical input behind CG; not whole-book audit"},
+    {"url": "https://arxiv.org/pdf/2512.08874v1", "read": "property(A), Prop5.1/Lemma5.2/Th5.3 with complete operative proofs", "role": "rejected interface only, not applied"},
+    {"url": "https://arxiv.org/pdf/0903.2016v4", "read": "Th16 exact statement and returned proof portion only", "role": "qualified component context, unused"},
+    {"doi": "10.1007/s12095-017-0213-1", "operative_body_read": false, "role": "priority lead only, not theorem premise"}
+  ],
+  "all_new_S4_and_optimization_steps_hand_reconstructed": true,
+  "no_mathematical_code_CAS_scan_optimizer_certificate_author_or_source_rerun": true,
+  "no_native_retrieval_wait_escalation_paper_download_cache_write_charge_contact_or_bypass": true,
+  "no_PDF_hash_invented_or_third_party_paper_uploaded": true,
+  "compact_current_fingerprints": {"occurrences": 43, "unique_paths": 41},
+  "no_recursive_historical_inventory_copy_or_replay": true
+}

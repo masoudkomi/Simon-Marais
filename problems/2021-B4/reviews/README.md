@@ -1,5 +1,14 @@
 # 2021 B4 independent reviews
 
+2026-10-18 current acceptance: [R15A-C](reasoning-unit-return-r15-acceptance.md)
+and [R16A-C](reasoning-early-return-r16-acceptance.md), after TWO OTHER
+ENTIRE initially blind WHOLE48/48 and56/56 audits and complete reconciliation.
+R15 excludes actual m5 only in exact(S),(W); R16 excludes both m4 cubics
+and retains its genuine conditional quartic/EC/T4/m3 boundaries. Constructor
+A excluded; no substantive defect or mathematical repair. Full degree20/annual
+and priority remain open. Earlier dated entries below retain historical status.
+
+
 2026-10-18: [R14A–D](reasoning-return-r14-acceptance.md) accepted after TWO OTHER initially blind ENTIRE WHOLE56/56 audits and full reconciliation, constructor A excluded. The separately accepted [R13C](reasoning-return-r13-acceptance.md) supplies its historically conditional premise. In the exact actual-double/J15 m5 branch, a7 must be a unit and the entire T4 alternative is excluded. Actual unit-a7 m5/m3/m4 and full degree20 remain open. All original frozen pending-status wording is preserved.
 
 ## Earlier review entries (dated historical status)

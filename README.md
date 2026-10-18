@@ -4,9 +4,24 @@ This repository records a sustained investigation of the Simon Marais Mathematic
 
 **Only the open portion is in scope:** the entire 2017 problem; the general 2018 enumeration, excluding research on its already known m=5 case; and **B4(b) only in every year 2019-2025**. Preliminary part (a) is excluded. See the [direct official-paper scope audit](sources/open-scope-audit.md). Whether an originally open problem has subsequently been solved is a separate, dated literature question.
 
-**Current stage:** two complete internally reviewed annual answers: attributed published2018 enumeration and2023 classification(priority unestablished). Seven annual questions remain unresolved. NEW [2017 weighted-cutpath WC1-WC3](problems/2017-B4/reviews/coordinator-weighted-cutpath-r1-acceptance.md) gives the strict official upper bound below0.648; NEW [2024 cubic-threshold R3A/R3B](problems/2024-B4/reviews/cofactor-cubic-r3-acceptance.md) proves whole absolute irreducibility for n=(2^s-1)2^(sk)+1,s>=3,k>=3. Both passed TWO OTHER initially blind ENTIRE WHOLE audits and complete reconciliation. Earlier2019CR,2020A11,2022SR,2024CG and2025RS partials retain exact accepted scopes.2021R15/R16 both entire audits are frozen but full root reconciliation is pending;2024dominantR4 and2025nonlinearRungeR3 remain UNVERIFIED under whole review. Fresh weekly23%TOTAL at09:54:07UTC in explicitly authorizedreset1792874445; research continues to90%TOTAL with reserve. See [current checkpoint](progress/status-2026-10-18-1954.md).
+**Current stage:** two complete internally reviewed annual answers:
+attributed published2018 enumeration and2023 classification (priority
+unestablished). Seven annual targets remain unresolved. Newly accepted
+[2021 R15/R16](problems/2021-B4/research.md) exclude the specified m5
+branch and both m4 cubics while retaining a genuine quartic/EC/T4 alternative;
+[2024 R4](problems/2024-B4/reviews/cofactor-dominant-r4-acceptance.md)
+proves whole irreducibility for n=15*16^k+1,k>=2; and
+[2025 BR1-BR5](problems/2025-B4/reviews/reasoning-Runge-return-r3-acceptance.md)
+gives actual integral-branch and residual support-label restrictions.
+Each passed TWO OTHER initially blind ENTIRE WHOLE audits and complete
+reconciliation. The separate2024 R5 extension is frozen UNVERIFIED.
+Weekly24%TOTAL at10:18:03UTC/reset1792874445; continue to90%TOTAL
+with reserve in this explicitly authorized window.
 
-- [Latest all-nine checkpoint and usage](progress/status-2026-10-18-1954.md); [latest actual hourly report](progress/status-2026-10-18-1927.md). The hourly configuration is ACTIVE; documented host delays interrupted delivery cadence. Next manual report/owned-awake check2026-10-18T10:27:42+00:00.
+- [Latest all-nine checkpoint and usage](progress/status-2026-10-18-2018.md);
+  [latest actual hourly report](progress/status-2026-10-18-1927.md).
+  Next actual hourly/owned-awake check10:27:42UTC is unchanged.
+
 - [Dashboard](progress/dashboard.md): per-problem status, results, obstructions, next steps and reviews.
 - [Budget and telemetry](progress/budget.md): observed weekly usage and reset boundary.
 - [Restart instructions](progress/restart.md): how to resume safely.

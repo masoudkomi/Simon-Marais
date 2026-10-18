@@ -1,0 +1,86 @@
+{
+  "observed_at_utc": "2026-10-18T10:19:55.306064+00:00",
+  "kind": "meaningful all-nine research checkpoint; NOT the scheduled hourly report",
+  "scope": "2017-2025 designated open B4 portions;2026 deferred",
+  "complete_annual_answers": 2,
+  "unresolved_annual_targets": 7,
+  "authoritative_weekly": {
+    "observed_at_utc": "2026-10-18T10:18:03+00:00",
+    "used_percent_TOTAL": 24,
+    "window_minutes": 10080,
+    "reset_unix": 1792874445,
+    "ordinary_usage_allowed": true,
+    "legacy_by_limit_agree": true,
+    "ceiling_TOTAL_percent": 90,
+    "integration_reserve": true,
+    "human_authorized_current_window_ONLY": true,
+    "automatic_later_reset_spending": false
+  },
+  "token_audit": "progress/token-usage-latest.json",
+  "token_audit_cutoff_utc": "2026-10-18T09:27:43.224798+00:00",
+  "token_audit_stale_at_checkpoint_explicit": true,
+  "recorded_total_tokens": 1922340193,
+  "recorded_reasoning_tokens": 5979353,
+  "tokens_not_bill_or_weekly_percent_conversion": true,
+  "awake": {
+    "verified_at_utc": "2026-10-18T10:18:03+00:00",
+    "owned_pid": 79293,
+    "exec_session": 64368,
+    "PreventUserIdleSystemSleep": 1,
+    "PreventUserIdleDisplaySleep": 0,
+    "assertion": "forever",
+    "duration_observed": "33:10:13",
+    "additional_ps_read": "sandbox operation not permitted; pmset itself positively identifies owned PID and assertion",
+    "targeted_cleanup_at_90_percent_or_actual_termination": true
+  },
+  "next_actual_hourly_utc": "2026-10-18T10:27:42+00:00",
+  "next_hourly_not_delayed_by_this_checkpoint": true,
+  "all_nine": [
+    {
+      "year": 2017,
+      "status": "Scalar limit exists; value unknown. Reviewed WC1-WC3 gives official upper<0.648. Effective global upperR/exact value remain open."
+    },
+    {
+      "year": 2018,
+      "status": "COMPLETE internally reviewed general enumeration, attributed published Hering-Howard/Ottaviani reproduction; known m5 excluded as research target."
+    },
+    {
+      "year": 2019,
+      "status": "Reviewed1.765224<lambda<1.834843; CR confined-piece/cut identities accepted. Actual critical regime, exact lambda and cut-NUMBER bridge open; new conceptual research active."
+    },
+    {
+      "year": 2020,
+      "status": "A11 signed-primary-ideal UNION norm/subset restrictions and conditional exact-q construction accepted. New ToddR12 parity/even-class conceptual construction active, UNVERIFIED; no actual new composite family claimed."
+    },
+    {
+      "year": 2021,
+      "status": "NEW R15 exact(S),(W) actual m5 exclusion and R16 both m4 cubic exclusions accepted after48/48 and56/56 OTHER whole audits/full reconciliation. Genuine conditional quartic survives; remaining EC/T4,m3,other degree20 patterns and annual open."
+    },
+    {
+      "year": 2022,
+      "status": "SR actual-tail/fiber equivalences and orphan first-return clock accepted. New full-map orbit comparison research active, UNVERIFIED. Universal hitting/ordinary infinite fiber existence open."
+    },
+    {
+      "year": 2023,
+      "status": "COMPLETE internally reviewed fixed positive nonsquare N classification: all(k,k),k>0 and(k,2k),(2k,k) with positive odd k. Priority unestablished."
+    },
+    {
+      "year": 2024,
+      "status": "NEW accepted R4 gives unique bounded F2/S4 cofactor and whole irreducibility n=15*16^k+1,k>=2; cubic R3 gives all s>=3,k>=3. NEW coefficient-Frobenius R5 proposes n=31*32^k+1,k>=2, ENTIRE32/9 frozen UNVERIFIED with two whole reviews queued. General k2/full classification/priority open."
+    },
+    {
+      "year": 2025,
+      "status": "NEW BR1-BR5 accepted after OTHER whole60/60 audits/full reconciliation: NONNEGATIVE INTEGER weights, actual nonzero all-prime integral values, coherent/two-label restrictions and residual hr>=p under2^h<=ph with0 in coveringH. Large support/many labels, unrestricted p, old linear-delta and annual gaps remain."
+    }
+  ],
+  "accepted_new": [
+    "2021R15A-C",
+    "2021R16A-C",
+    "2024R4A-E",
+    "2025BR1-BR5"
+  ],
+  "frozen_unverified_new": [
+    "2024cofactor-FrobeniusR5A-D ALL32/9"
+  ],
+  "no_full_annual_or_novelty_promotion": true
+}

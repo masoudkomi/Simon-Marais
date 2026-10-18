@@ -42,8 +42,15 @@ every a>=2,a!=3. The theorem excludes q8/n57 and a0/a1; it does not
 classify all four-bit exponents. The unrestricted ordinary reducibility
 classification and priority remain unresolved. A
 [dated literature follow-up](notes/cofactor-symmetry-literature-followup-v1.md)
-records primary searches/access limits; a larger-family research lead
-remains unverified.
+records primary searches/access limits.
+
+The newly accepted [dominant-cofactor/symmetry R4 theorem](reviews/cofactor-dominant-r4-acceptance.md)
+adds whole absolute irreducibility for EVERY n=15*16^k+1,k>=2, following
+two OTHER complete whole48/48 audits and reconciliation. Its actual
+bounded invariant cofactor also supports a new coefficient-Frobenius
+candidate for n=31*32^k+1,k>=2, still UNVERIFIED pending two whole audits.
+The general classification and priority remain open.
+
 See the [current dashboard](../../progress/dashboard.md),
 [references](references.md), and [review register](reviews/README.md).
 
@@ -74,7 +81,7 @@ assumption of special F8 orbit uniformity. The reduced-component c−1
 correction is retained. General smaller-k families, the full annual
 classification and possible overlap with unread Férard2017 remain open.
 
-The stronger [cubic-threshold R3A/R3B](reviews/cofactor-cubic-r3-acceptance.md) is now accepted after A/B OTHER initially blind ENTIRE WHOLE20/20 audits and full reconciliation. It covers EVERY s>=3,k>=3, using the sharper accepted CG inequality and positivity before division. A SEPARATE [dominant/symmetry R4 candidate](notes/cofactor-dominant-r4-candidate-v1.md) proposes a bounded invariant cofactor and additional Q16,k>=2 exclusion; it remains UNVERIFIED under TWO OTHER whole48 reviews. General k2/full annual/priority remain open.
+The stronger [cubic-threshold R3A/R3B](reviews/cofactor-cubic-r3-acceptance.md) is now accepted after A/B OTHER initially blind ENTIRE WHOLE20/20 audits and full reconciliation. It covers EVERY s>=3,k>=3, using the sharper accepted CG inequality and positivity before division. The SEPARATE [dominant/symmetry R4A-E theorem](reviews/cofactor-dominant-r4-acceptance.md) is now accepted after TWO OTHER whole48/48 audits and full reconciliation. For every s>=3,k>=2 it constructs a unique large absolute component and an F2/S4-invariant cofactor of degree<A. Its multiplicity obstruction proves whole absolute irreducibility for n=15*16^k+1, EVERY k>=2. The new [coefficient-Frobenius R5 candidate](notes/cofactor-Frobenius-r5-candidate-v1.md) proposes an extension to n=31*32^k+1,k>=2; its ENTIRE32-obligation packet is frozen UNVERIFIED, with two OTHER whole reviews queued. General k2/full annual/priority remain open.
 HM16's contextual component theorem requires a PROPER divisor and is
 not a premise of CG; no component assertion at k1 is accepted.
 

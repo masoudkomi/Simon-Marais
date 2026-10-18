@@ -1,0 +1,113 @@
+{
+  "accepted_at_utc": "2026-10-18T10:16:37.971719+00:00",
+  "status": "proved, independently reviewed scoped partial result",
+  "whole_initials_blind": true,
+  "root_read_full_candidate_both_reports_all_ledgers_sources": true,
+  "unresolved_substantive_issues": 0,
+  "repair_required": false,
+  "candidate": {
+    "path": "problems/2025-B4/notes/reasoning-Runge-return-r3-candidate-v1.md",
+    "bytes": 23038,
+    "sha256": "5ccc04e72574187d1959efff22852dbbc5cca41e701afbaeebc9f97adbdf64a0"
+  },
+  "accepted_copy": {
+    "path": "problems/2025-B4/proofs/reviewed-reasoning-Runge-return-r3-v1.1.md",
+    "bytes": 28696,
+    "sha256": "d27502c014cfd83d56923cea1740daf6d159bee19e15b4b17d18749e16a0ba98"
+  },
+  "verification_metadata": [
+    {
+      "path": "problems/2025-B4/notes/reasoning-Runge-return-r3-freeze-v1.json",
+      "bytes": 8661,
+      "sha256": "6a010ee19e90b4a07373f64dd375e9df7e6c8d4aee9ec7af001d8410e5bb461a"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-Runge-return-r3-baseline-v1.json",
+      "bytes": 9099,
+      "sha256": "1223456e2d40a6cac797c5b48763fb14dfb284bdfc148de803b49226a5b1764e"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-Runge-return-r3-input-validation-v1.json",
+      "bytes": 1021,
+      "sha256": "deef9bf4743c7b22104da65caab776d4e80b99fb61a3bde1f1ee870586884acc"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-Runge-return-r3-sources-v1.json",
+      "bytes": 4119,
+      "sha256": "a65504d645b8c10e37cb4d476b2205807acffcf488612ee01758461572f4dca4"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-Runge-return-r3-review-1-manifest-v1.json",
+      "bytes": 7609,
+      "sha256": "fc0c00b693a08c601f66954c96aa1c39d0fe3b340e26a616fad17e8495789e7a"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-Runge-return-r3-review-1-baseline-v1.json",
+      "bytes": 13670,
+      "sha256": "69e8b8b5e2c4112286da2ac932ed7f4eae203f2fe047c2d613987de5a6896431"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-Runge-return-r3-review-1-metadata-v1.json",
+      "bytes": 2610,
+      "sha256": "c91feda3ff4301f32c2c5128a78282def2a956785ed42f4cfd0932c056f8057a"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-Runge-return-r3-review-1-input-validation-v1.json",
+      "bytes": 490,
+      "sha256": "588116f559f9c2244951fd043f498863f599625837e6164d13cd0e6ff9da4a1c"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-Runge-return-r3-review-2-manifest-v1.json",
+      "bytes": 2947,
+      "sha256": "d44dfd099479ced064ecd3cf5b5bfee2db18271c3a2a70b4792875f67b23bbb7"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-Runge-return-r3-review-2-baseline-v1.json",
+      "bytes": 9626,
+      "sha256": "1c5e67687d88739927791b66e0466ade803e6380a9ad2a3a2237eb7e581d839e"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-Runge-return-r3-review-2-metadata-v1.json",
+      "bytes": 2096,
+      "sha256": "6816e023404e43e94b4c2a86d596944fdf4670b908546729cd30ddd9d2d487ae"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-Runge-return-r3-review-2-input-validation-v1.json",
+      "bytes": 715,
+      "sha256": "837f8c5aea917f6d365022c642ed088fd392deab313a63a2092a2ac7351c6df4"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-Runge-return-r3-review-1-sources-v1.json",
+      "bytes": 2793,
+      "sha256": "568775c4ad3fe7e7d5f30d20c2371ecd7e1f394bb02f142f607550ee32a8a6e5"
+    }
+  ],
+  "record_occurrences_verified": 193,
+  "unique_paths_verified": 71,
+  "proposed_claims_accepted": [
+    "BR1",
+    "BR2",
+    "BR3",
+    "BR4",
+    "BR5"
+  ],
+  "constructor": "/root/review_2022_complexity_r2",
+  "constructor_excluded": true,
+  "root_OLDER_quotient_contributor_excluded": true,
+  "independent_whole_reviewers": [
+    "/root/review_2021_reasoning_j15_r2",
+    "/root/review_2017_coarsening_r1"
+  ],
+  "whole_obligations": 60,
+  "whole_checks": [
+    60,
+    60
+  ],
+  "root_read_ENTIRE_both_reports_ALL_ledgers_issues_sources_logs_code_ALLmetadata": true,
+  "certified_weight_domain": "nonnegative INTEGER weights with positive integer sum",
+  "actual_nonzero_integral_values_all_finite_primes_including_p": true,
+  "residual_support_times_labels_obstruction_only": true,
+  "surviving_large_support_and_many_label_sectors_retained": true,
+  "unrestricted_prime_bound_full_annual_old_linear_delta_nonzero_or_priority_claim": false,
+  "no_mathematical_computation": true
+}

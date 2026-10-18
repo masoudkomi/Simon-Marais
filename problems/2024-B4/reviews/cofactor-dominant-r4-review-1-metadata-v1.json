@@ -1,0 +1,45 @@
+{
+  "generated_utc": "2026-10-18T10:00:00.530445+00:00",
+  "metadata_only": true,
+  "all48_hand_dispositions_present_once_in_order": true,
+  "whole_main_ALL48_companions_source_code_and_constructor_metadata_read": true,
+  "current_occurrences": 43,
+  "unique_paths": 41,
+  "canonical_current_summary_sha256": "d6d323c642846c1c900138515f7570ee09dfaf4ed8f878ca86bde715ebdf102c",
+  "accepted_input": {
+    "authority": {
+      "path": "problems/2024-B4/reviews/cofactor-global-r2-acceptance.json",
+      "bytes": 3537,
+      "sha256": "fff6d498dfc8e7bb98afdc9b027ffc57668b637d3843cff20e8928399639dfa7"
+    },
+    "accepted_body": {
+      "path": "problems/2024-B4/proofs/reviewed-cofactor-global-r2-v1.1.md",
+      "bytes": 19500,
+      "sha256": "fd110d1615e730d754063b157cc1906b418702f510b2640bfd1b5c63e898548d"
+    },
+    "operative_claims": [
+      "CG1",
+      "CG2"
+    ],
+    "complete_accepted_body_read": true,
+    "historical_occurrences_bound_not_replayed": 141,
+    "historical_paths_bound_not_replayed": 50,
+    "CG3_cubic_R3_and_Frobenius_lead_not_premises": true
+  },
+  "no_corresponding_C_NEW_R4_finding_file_hash_or_metadata_access": true,
+  "no_math_scan_CAS_or_author_source_freezer_rerun": true,
+  "authoritative_weekly_telemetry": {
+    "observed_utc": "2026-10-18 09:54:22 UTC",
+    "method": "authoritative get_usage_limits and clock in same independent batch",
+    "used_percent_TOTAL": 23,
+    "window_minutes": 10080,
+    "reset_unix": 1792874445,
+    "ordinary_usage_allowed": true,
+    "legacy_by_limit_agree": true,
+    "account_suffix": "1334ac3a",
+    "ceiling_TOTAL_percent": 90,
+    "integration_reserve": true,
+    "human_authorized_current_window_only": true,
+    "automatic_later_week_spending": false
+  }
+}

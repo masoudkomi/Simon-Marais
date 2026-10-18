@@ -27,7 +27,20 @@ auxiliary support using faithful-character norms and gives an explicit
 degree-p quotient of genus(p-1)(r-1), with its complete normalization
 basis. The prime bound requires an extra fixed support bound r<=r0;
 no such uniform bound is proved for actual solutions. These give no new
-useful unconditional exclusion of every remaining prime case. The separate
+useful unconditional exclusion of every remaining prime case.
+
+The new [BR1-BR5 branch-polynomial theorem](reviews/reasoning-Runge-return-r3-acceptance.md)
+has also passed TWO OTHER whole60/60 audits and full reconciliation.
+For actual signed prime-diagonal solutions, it proves nonzero integral
+auxiliary values at ALL finite primes, excludes a coherent branch, and
+gives strict two-label bounds. In the residual cases p|X(X+1), a covering
+label set H containing0 must satisfy h*r>=p whenever2^h<=p*h. Both
+residual centers are covered; the sharper exact order is asserted only
+at center0. All weights are NONNEGATIVE INTEGERS. Larger support/many
+labels and the stated two-nonzero-label alternative survive; no unrestricted
+prime bound, old linear-delta nonvanishing or annual answer follows.
+
+The separate
 [RG1–RG3 Runge procedure](reviews/reasoning-return-r9-runge-acceptance.md) is
 now independently reviewed: it supplies a finite exact fixed-p coefficient
 procedure, with its bound unevaluated. The original

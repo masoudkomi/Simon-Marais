@@ -1,21 +1,25 @@
 # Research dashboard
 
-Current all-nine/usage checkpoint: [19:54Brisbane](status-2026-10-18-1954.md). Fresh23%TOTAL at09:54:07UTC/reset1792874445. NEW2017WC upper<0.648 and2024cubicR3 allk>=3 accepted after both OTHER entire audits/full reconciliation.2021R15/R16 full root peer reconciliation pending;2024R4/2025RungeR3 unverified. Fullannualcount2/unresolved7. Next actual hourly10:27:42UTC unchanged.
+Current [all-nine checkpoint20:18Brisbane](status-2026-10-18-2018.md):
+fresh24%TOTAL at10:18:03UTC/reset1792874445. NEW2021R15/R16,2024R4
+and2025BR1-BR5 accepted after both OTHER entire audits/full reconciliation.
+2024R5 ENTIRE32/9 remains UNVERIFIED. Two complete annual answers/seven
+unresolved. Next actual hourly10:27:42UTC unchanged.
 
 
 Initial scope: nine official B4 open portions, 2017-2025. **2026 deferred by the user**, not counted as a verified problem. The 2017 problem and general 2018 enumeration are in scope; for 2019-2025, **part (b) only**. Preliminary part (a) and the already known 2018 m=5 case are excluded as research targets. See sources/open-scope-audit.md.
 
 |Year|Accepted result and present position|
 |---|---|
-|2017|Scalar limit exists/value unknown. NEW WC1-WC3 reviewed upper<0.648; both OTHER whole40 audits/full reconciliation complete. Boundary/pinned-mass/finite-recognition partials remain; no effective upperR.|
-|2018|COMPLETE general enumeration formula, independently reviewed and attributed to Hering--Howard/Ottaviani. This is a published-result reproduction.|
-|2019|Reviewed1.765224<lambda<1.834843. G1-G5 and CR1-CR5 confined-piece/composition-cut partials accepted. Actual critical regime/exact lambda and cut-number bridge open.|
-|2020|NEW A11A–E accepted after TWO OTHER initially blind ENTIRE WHOLE60/60 and full reconciliation: signed primary-ideal UNION norm, exponential subset-sum restrictions and conditional small-H construction at EXACTq with full binary lift. No new actual q satisfies the class-size criterion here; large/even class groups and composite character tuples remain open.|
-|2021|R13/R14 accepted. R15 actual m5 exclusion and R16 both m4 cubic exclusions have BOTH OTHER entire audits frozen; ROOT FULL peer reconciliation pending, hence UNVERIFIED here. EC/T4,m3,other branches/degree20 open.|
-|2022|SR ordinary-tail/fiber equivalences and exact orphan first-return clock accepted after both OTHER whole48 audits/full reconciliation. Universal hitting/infinite ordinary avoiding path remains open.|
-|2023|COMPLETE internally reviewed classification for fixed positive nonsquare N: all(k,k),k>0, and(k,2k),(2k,k) for positive odd k. Priority remains unestablished.|
-|2024|FS special Q8 allk>=2 and CG general geometry accepted. NEW cubicR3 all s>=3,k>=3 whole absolute irreducibility accepted after both OTHER whole20 audits/full reconciliation. Separate dominant/symmetryR4 ALL48 unverified under review; general k2/full classification/priority open.|
-|2025|RG fixed-p/R9/RS support-quotient-normalization accepted. NEW nonlinear integral-branch BR1-BR5 whole60 constructor frozen UNVERIFIED, A wholeR1 frozen/C wholeR2 active. Scoped branch-height/residual restrictions proposed; no unrestricted prime bound or annual answer.|
+|2017|Scalar limit exists; value unknown. Reviewed WC1-WC3 gives official upper<0.648. Effective global upperR/exact value remain open.|
+|2018|COMPLETE internally reviewed general enumeration, attributed published Hering-Howard/Ottaviani reproduction; known m5 excluded as research target.|
+|2019|Reviewed1.765224<lambda<1.834843; CR confined-piece/cut identities accepted. Actual critical regime, exact lambda and cut-NUMBER bridge open; new conceptual research active.|
+|2020|A11 signed-primary-ideal UNION norm/subset restrictions and conditional exact-q construction accepted. New ToddR12 parity/even-class conceptual construction active, UNVERIFIED; no actual new composite family claimed.|
+|2021|NEW R15 exact(S),(W) actual m5 exclusion and R16 both m4 cubic exclusions accepted after48/48 and56/56 OTHER whole audits/full reconciliation. Genuine conditional quartic survives; remaining EC/T4,m3,other degree20 patterns and annual open.|
+|2022|SR actual-tail/fiber equivalences and orphan first-return clock accepted. New full-map orbit comparison research active, UNVERIFIED. Universal hitting/ordinary infinite fiber existence open.|
+|2023|COMPLETE internally reviewed fixed positive nonsquare N classification: all(k,k),k>0 and(k,2k),(2k,k) with positive odd k. Priority unestablished.|
+|2024|NEW accepted R4 gives unique bounded F2/S4 cofactor and whole irreducibility n=15*16^k+1,k>=2; cubic R3 gives all s>=3,k>=3. NEW coefficient-Frobenius R5 proposes n=31*32^k+1,k>=2, ENTIRE32/9 frozen UNVERIFIED with two whole reviews queued. General k2/full classification/priority open.|
+|2025|NEW BR1-BR5 accepted after OTHER whole60/60 audits/full reconciliation: NONNEGATIVE INTEGER weights, actual nonzero all-prime integral values, coherent/two-label restrictions and residual hr>=p under2^h<=ph with0 in coveringH. Large support/many labels, unrestricted p, old linear-delta and annual gaps remain.|
 
 ## Coordination
 

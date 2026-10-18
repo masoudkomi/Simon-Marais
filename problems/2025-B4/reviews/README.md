@@ -1,5 +1,15 @@
 # 2025 B4 independent reviews
 
+2026-10-18 current acceptance: [BR1-BR5](reasoning-Runge-return-r3-acceptance.md),
+after A/C TWO OTHER ENTIRE initially blind WHOLE60/60 audits and full
+reconciliation. B constructor and root older quotient contributor excluded.
+NONNEGATIVE INTEGER weights only, as explicit in submitted R3O-14. No
+substantive defect or author repair; the wording note is closed. Actual
+nonzero all-prime integral functions, branch restrictions and residual
+support-label tradeoff only; large-label/support gaps, unrestricted prime
+and annual classification remain open. Earlier entries retain dated status.
+
+
 Both fresh blind full reconstructions of frozen P2025-v1 are complete. C1-C4 are **proved, independently reviewed partial results**; see [acceptance](acceptance.md) and the [accepted register](../proofs/reviewed-partial-v1.1.md). The original proof is unchanged.
 
 The unrestricted classification remains conjectural. Both primary-source audits confirm narrow printed-argument objections; the [full-text supplement](../notes/reviewed-literature-supplement-v1.md) retains Chen-Mihailescu's possible small-prime negative-base exceptions. No complete published theorem proof was reconstructed. Original review reports and manifests are frozen.
