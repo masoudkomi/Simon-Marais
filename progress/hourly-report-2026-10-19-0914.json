@@ -1,0 +1,125 @@
+{
+  "recorded_at_utc": "2026-10-18T23:16:51.594135+00:00",
+  "kind": "Actual09:14Brisbane heartbeat report, earlier than the former09:27 manual deadline; no synthetic later timestamp",
+  "weekly": {
+    "observed_at_utc": "2026-10-18T23:14:52+00:00",
+    "used_percent_total": 69,
+    "window_minutes": 10080,
+    "reset_unix": 1792874445,
+    "reset_utc": "2026-10-24T20:40:45+00:00",
+    "reset_Brisbane": "2026-10-25T06:40:45+10:00",
+    "authorized_ceiling_percent_total": 90,
+    "percentage_points_before_ceiling": 21,
+    "ordinary_usage_allowed": true,
+    "account_wide_not_project_specific": true,
+    "automatic_later_window_authorized": false
+  },
+  "tokens": {
+    "snapshot_cutoff_utc": "2026-10-18T23:14:53.283684+00:00",
+    "observed_sessions": 62,
+    "distinct_responses": 15079,
+    "usage": {
+      "input_tokens": 3146512027,
+      "cached_input_tokens": 3016761216,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 20186984,
+      "reasoning_output_tokens": 8284684,
+      "total_tokens": 3166699011
+    },
+    "uncached_input_plus_output_tokens": 149937795,
+    "sessions_without_usage_records": 0,
+    "all_recorded_session_sums_match_cumulative": true,
+    "method": "Deduplicated own-thread per-response usage records across root and recursively spawned descendants; cached input is a subset of input, reasoning output a subset of output.",
+    "limits": "Local recorded observation while work is active. Unreported in-flight usage is excluded. Not a bill or a conversion to subscription percentage. No prompts, account IDs, credentials, or response IDs exported."
+  },
+  "previous_report": "progress/hourly-report-2026-10-19-0827.json",
+  "increase_since_previous_actual_report": {
+    "input_tokens": 87204222,
+    "cached_input_tokens": 82076032,
+    "cache_write_input_tokens": 0,
+    "output_tokens": 465476,
+    "reasoning_output_tokens": 177082,
+    "total_tokens": 87669698,
+    "uncached_input_plus_output_tokens": 5593666
+  },
+  "per_problem": {
+    "2017": {
+      "status": "unresolved",
+      "reviewed": "Common limiting growth rate, PR11 sharper upper bound and CI12 actual entropy/cost separation reviewed.",
+      "pending": "NEW LF14 actual positive-entropy linear-degree-cost family ENTIRE9/ALL56 is frozen UNVERIFIED; root OTHERwhole1 in progress, B OTHERwhole2 queued; exact value/matching lower/effective upper modulus remain open.",
+      "next": "Finish independent whole audits, then seek sharp low-joint-cost sector information or a matching actual lower construction."
+    },
+    "2018": {
+      "status": "complete published-result reproduction",
+      "reviewed": "General enumeration recovered and internally reviewed with Hering--Howard/Ottaviani attribution.",
+      "pending": "No novelty claim; already known m5 is excluded from research.",
+      "next": "Retain exact domain and published attribution."
+    },
+    "2019": {
+      "status": "unresolved",
+      "reviewed": "AU actual positive-area/subthreshold-entropy and AR exact restricted alternating-tape timing/probability formulas reviewed.",
+      "pending": "Exact full growth constant and full-law area/occupation/collision mass remain open.",
+      "next": "Prove a full actual uniform-class mass or occupation estimate; do not infer it from a restricted-family law."
+    },
+    "2020": {
+      "status": "unresolved",
+      "reviewed": "Corrected SQ14/SQ15 integral restrictions, SQ16 balanced-factor descent and SQ17 literal unit-square diagnostic retained.",
+      "pending": "NEW R18 ENTIRE5/ALL64 frozen UNVERIFIED; ROOT ENTIRE5 and C ENTIRE8 OTHERwhole64 initials both complete, fully read back/separately verified, explicit BOTH release preceded peer access. Both PASS with zero substantive defects; full coordinator ENTIREauthor+BOTH/all128 reconciliation still pending. Full mixed-order/norm-q/compatible binary realization remains open.",
+      "next": "Complete reconciliation; then confront actual arithmetic realization rather than denominators alone."
+    },
+    "2021": {
+      "status": "unresolved",
+      "reviewed": "R19/R20 exclusions and R22 integral frameIII exclusion reviewed.",
+      "pending": "NEW R23 ENTIRE9/ALL48 frozen UNVERIFIED: proposed negative depth1 and both nonzero D5-fork exclusions; deeper negative tie/A5zero branch remains open. C OTHERwhole2 active; root OTHERwhole1 queued.",
+      "next": "Independently reconstruct R23, then seek a further actual compatibility equation in the deeper branch."
+    },
+    "2022": {
+      "status": "unresolved",
+      "reviewed": "D9 six-sector structure and RC10 explicit arbitrarily many crossings before FIRST equality, finite selected-word realization and no periodic selected SAFE word reviewed.",
+      "pending": "NEW R11 actual global monotone-recoding obstruction is hand research in progress, not yet a verified result. Universal hitting and an ordinary infinite avoiding orbit remain open.",
+      "next": "Freeze the concrete new checkpoint for two OTHER audits; pursue actual aperiodic/one-sided critical-sector behavior."
+    },
+    "2023": {
+      "status": "complete internally reviewed classification",
+      "reviewed": "For fixed positive nonsquareN, all(k,k),k>0, and(k,2k)/(2k,k) for positiveODDk.",
+      "pending": "External publication priority unconfirmed.",
+      "next": "Retain full real-witness domains and check any future priority evidence."
+    },
+    "2024": {
+      "status": "unresolved",
+      "reviewed": "FR10/FR11/TR12 reviewed; every n=105*2^(12t+6)+1,t>=0 is covered, including6721.",
+      "pending": "Broader NEW root R13 two-parameter family ENTIRE5/ALL32 remains UNVERIFIED: B OTHERwhole2 ENTIRE5 frozen/sealed, A OTHERwhole1 resumes; corresponding peer findings/files/inventory/hash/meta remain embargoed. Earlier literature may overlap; full classification open.",
+      "next": "Complete BOTH independent audits/reconciliation and inspect original operative criteria before any priority claim."
+    },
+    "2025": {
+      "status": "unresolved",
+      "reviewed": "DR8 support restrictions and R10 exact local/CONDITIONAL global cofactor-ideal results independently reviewed.",
+      "pending": "No new Diophantine exclusion, useful global upper-cofactor bound or annual solution. Local roots do not supply the global class condition.",
+      "next": "Find an actual global compatibility/cofactor constraint or a literature theorem valid in the remaining domain."
+    }
+  },
+  "complete_annual_answers": 2,
+  "unresolved_annual_targets": 7,
+  "deferred": [
+    2026
+  ],
+  "keepawake": {
+    "pid": 79293,
+    "exec_session": 64368,
+    "untimed": true,
+    "verified_at_local": "2026-10-19T09:14:53+10:00",
+    "actual_assertion": "OWN79293 positively identified asserting forever46:07:03;idle-system sleep blocked/display sleep allowed",
+    "stop_only_owned_assertion_at_ceiling_or_actual_termination": true
+  },
+  "research_resume": {
+    "agents_deliberately_interrupted_for_user_readonly_audit": true,
+    "audit_PDF_complete": true,
+    "all_three_resumed_under_this_explicit_heartbeat": true,
+    "no_research_frozen_bytes_changed_by_audit": true,
+    "private_all_local_audit_PDF_not_in_Git_selection": true
+  },
+  "last_previously_pushed_commit": "2292d62",
+  "next_manual_reporting_check_utc": "2026-10-19T00:14:35+00:00",
+  "token_scope": "THIS research chat and recursive agents only; cached input is a subset of input, reasoning a subset of output. Weekly quota is ACCOUNT-WIDE, possibly other projects.",
+  "limitations": "Local recorded observation while work is active. Unreported in-flight usage is excluded. Not a bill or a conversion to subscription percentage. No prompts, account IDs, credentials, or response IDs exported."
+}
