@@ -1,0 +1,59 @@
+{
+  "frozen_at_utc": "2026-10-18T00:37:23.929860+00:00",
+  "status": "COMPLETE distinct Runge-cover constructor checkpoint - candidate proof unverified",
+  "constructor": "/root/review_2017_coarsening_r1",
+  "whole_obligations": 34,
+  "all_RG1_RG2_RG3_source_hypotheses_effectivity_limits_and_failures_recorded": true,
+  "two_OTHER_initially_blind_WHOLE_audits_required": true,
+  "immutable_own_parent": {
+    "path": "problems/2025-B4/notes/reasoning-return-r9-freeze-v1.json",
+    "bytes": 2790,
+    "sha256": "93eed518f1584c8e4f1a7cbe4d6229c9532caae4269d18cf0393c1f0e934aa8f"
+  },
+  "historical_own_paths_bound": 496,
+  "own_paths_after_this_packet": 505,
+  "declared_occurrences_verified": 13,
+  "deduplicated_paths_verified": 13,
+  "artifacts": [
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r9-runge-candidate-v1.md",
+      "bytes": 16773,
+      "sha256": "8bcd69dfa97441b23fd456268e655312aea55a0f7a64a5237f0117f6a192b90a"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r9-runge-obligations-v1.md",
+      "bytes": 3957,
+      "sha256": "3ae93fba8abf363d56ad418e8be5a0c04f88eb15ccb1ee9bf7c082c82f87fd90"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r9-runge-sources-v1.md",
+      "bytes": 3972,
+      "sha256": "77b23071f84c5b344b6c23d02955b3b0af69a66c00bcaf599f6f32fe13942cd3"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r9-runge-failures-worklog-v1.md",
+      "bytes": 4621,
+      "sha256": "036cbd27e67e4e174746c19bd228e93a968f303a835022a5945b382c34355bd3"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r9-runge-freeze-v1.py",
+      "bytes": 5230,
+      "sha256": "04940609ac1b7aa654b8fbfb1766bc40f0afd14bd26a46ad5907d174531b5692"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r9-runge-baseline-v1.json",
+      "bytes": 3065,
+      "sha256": "bf7d69e2477ca16a5d6ac7396306a5878695b0e22abc44518ff88fed8417fa5e"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r9-runge-metadata-v1.json",
+      "bytes": 1134,
+      "sha256": "286df998576e01a2f8289e11913a036625407780407adc60597aa5b2f5986e98"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r9-runge-input-validation-v1.json",
+      "bytes": 277,
+      "sha256": "95d79d8e640336e4bddcd1ccc0f8d319572cf971dc35260aa675d8e6e3ad73da"
+    }
+  ]
+}

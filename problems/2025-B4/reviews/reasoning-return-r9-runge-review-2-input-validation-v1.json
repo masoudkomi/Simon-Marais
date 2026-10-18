@@ -1,0 +1,501 @@
+{
+  "status": "all current necessary declarations verified; compact immutable parents bound",
+  "reviewer": "/root/review_2021_reasoning_j15_r2",
+  "summary": {
+    "occurrences": 45,
+    "unique_paths": 41,
+    "canonical_deduplicated_summary_sha256": "2e6179a74e65833687a6bd3e9c41638af8d94f268a3c9bc957a8e410bf504328",
+    "encoding": "UTF8 JSON sorted unique path/bytes/sha256; sorted keys; compact separators",
+    "old_parent_inventories_bound_not_recopied": true
+  },
+  "occurrence_records": [
+    {
+      "origin": "exact assigned constructor freeze",
+      "path": "problems/2025-B4/notes/reasoning-return-r9-runge-freeze-v1.json",
+      "bytes": 2364,
+      "sha256": "cb5073bbce53c07b12e5b253af51f278ebd6475c0600d700bef6a9064a7ec32b"
+    },
+    {
+      "origin": "constructor frozen payload",
+      "path": "problems/2025-B4/notes/reasoning-return-r9-runge-candidate-v1.md",
+      "bytes": 16773,
+      "sha256": "8bcd69dfa97441b23fd456268e655312aea55a0f7a64a5237f0117f6a192b90a"
+    },
+    {
+      "origin": "constructor frozen payload",
+      "path": "problems/2025-B4/notes/reasoning-return-r9-runge-obligations-v1.md",
+      "bytes": 3957,
+      "sha256": "3ae93fba8abf363d56ad418e8be5a0c04f88eb15ccb1ee9bf7c082c82f87fd90"
+    },
+    {
+      "origin": "constructor frozen payload",
+      "path": "problems/2025-B4/notes/reasoning-return-r9-runge-sources-v1.md",
+      "bytes": 3972,
+      "sha256": "77b23071f84c5b344b6c23d02955b3b0af69a66c00bcaf599f6f32fe13942cd3"
+    },
+    {
+      "origin": "constructor frozen payload",
+      "path": "problems/2025-B4/notes/reasoning-return-r9-runge-failures-worklog-v1.md",
+      "bytes": 4621,
+      "sha256": "036cbd27e67e4e174746c19bd228e93a968f303a835022a5945b382c34355bd3"
+    },
+    {
+      "origin": "constructor frozen payload",
+      "path": "problems/2025-B4/notes/reasoning-return-r9-runge-freeze-v1.py",
+      "bytes": 5230,
+      "sha256": "04940609ac1b7aa654b8fbfb1766bc40f0afd14bd26a46ad5907d174531b5692"
+    },
+    {
+      "origin": "constructor frozen payload",
+      "path": "problems/2025-B4/notes/reasoning-return-r9-runge-baseline-v1.json",
+      "bytes": 3065,
+      "sha256": "bf7d69e2477ca16a5d6ac7396306a5878695b0e22abc44518ff88fed8417fa5e"
+    },
+    {
+      "origin": "constructor frozen payload",
+      "path": "problems/2025-B4/notes/reasoning-return-r9-runge-metadata-v1.json",
+      "bytes": 1134,
+      "sha256": "286df998576e01a2f8289e11913a036625407780407adc60597aa5b2f5986e98"
+    },
+    {
+      "origin": "constructor frozen payload",
+      "path": "problems/2025-B4/notes/reasoning-return-r9-runge-input-validation-v1.json",
+      "bytes": 277,
+      "sha256": "95d79d8e640336e4bddcd1ccc0f8d319572cf971dc35260aa675d8e6e3ad73da"
+    },
+    {
+      "origin": "constructor compact parent/current authority declaration",
+      "path": "problems/2025-B4/notes/reasoning-return-r9-freeze-v1.json",
+      "bytes": 2790,
+      "sha256": "93eed518f1584c8e4f1a7cbe4d6229c9532caae4269d18cf0393c1f0e934aa8f"
+    },
+    {
+      "origin": "constructor compact parent/current authority declaration",
+      "path": "problems/2025-B4/notes/reasoning-return-r9-live-log-v1.md",
+      "bytes": 4785,
+      "sha256": "2ae3e5f624fbe61bca6b39b5658535f68b042e3415f04d654a67be0e381b17f3"
+    },
+    {
+      "origin": "constructor compact parent/current authority declaration",
+      "path": "problems/2025-B4/notes/reasoning-return-r9-candidate-v1.md",
+      "bytes": 22574,
+      "sha256": "8fae8c0dd3e951fd4c847954f75186b8969f1dbdec9592b8cebcbda8394a9aa2"
+    },
+    {
+      "origin": "constructor compact parent/current authority declaration",
+      "path": "problems/2025-B4/notes/reasoning-return-r9-obligations-v1.md",
+      "bytes": 5110,
+      "sha256": "497893ed6c3c7f094f839c1e5e83e03f8f42eb7d88ea9d89e165bfb3eb299987"
+    },
+    {
+      "origin": "constructor compact parent/current authority declaration",
+      "path": "problems/2025-B4/notes/reasoning-return-r9-failed-routes-v1.md",
+      "bytes": 4431,
+      "sha256": "a434b872c7042e8079e0a9f735eeddbde3a82bc1fe0d7aa44f0489e958fd69a3"
+    },
+    {
+      "origin": "constructor compact parent/current authority declaration",
+      "path": "problems/2025-B4/notes/reasoning-return-r9-sources-v1.md",
+      "bytes": 6445,
+      "sha256": "6fcb37dc75579bc6c95833072ca91d833d24973065f844308fa05c38185a56fa"
+    },
+    {
+      "origin": "constructor compact parent/current authority declaration",
+      "path": "problems/2025-B4/notes/reasoning-return-r9-worklog-v1.md",
+      "bytes": 4596,
+      "sha256": "2ee8b9eacfa1c58e9d8f3d06fe421288155e00990857c3b6b834f339d4d20803"
+    },
+    {
+      "origin": "constructor compact parent/current authority declaration",
+      "path": "problems/2025-B4/notes/reasoning-return-r9-freeze-v1.py",
+      "bytes": 6951,
+      "sha256": "4f93c50453430c35b140e1b8da88dfba381c36fa827fa4ccb8638ef77a239654"
+    },
+    {
+      "origin": "constructor compact parent/current authority declaration",
+      "path": "problems/2025-B4/notes/reasoning-return-r9-baseline-v1.json",
+      "bytes": 6036,
+      "sha256": "8769d73d13fe7182479f225b9470ecbaf148ba1c4840b68c47e7edbe080fad9d"
+    },
+    {
+      "origin": "constructor compact parent/current authority declaration",
+      "path": "problems/2025-B4/notes/reasoning-return-r9-input-validation-v1.json",
+      "bytes": 343,
+      "sha256": "5bf3089ae68cce9e932aac9b65eb463461bcc32c9f97b67706a972962253c00f"
+    },
+    {
+      "origin": "constructor compact parent/current authority declaration",
+      "path": "problems/2025-B4/notes/reasoning-return-r9-metadata-v1.json",
+      "bytes": 1448,
+      "sha256": "6bcee65e1b7a51ddb5fbbfb4dcd3acfc6470a162e041e1d895cb3fb4aea3baaa"
+    },
+    {
+      "origin": "constructor compact parent/current authority declaration",
+      "path": "problems/2025-B4/proofs/reviewed-reasoning-return-r8-v1.1.md",
+      "bytes": 28730,
+      "sha256": "f00a2b2816f128df54060fd800cba83d726abf07303c1cc7c92688a61557ca15"
+    },
+    {
+      "origin": "constructor compact parent/current authority declaration",
+      "path": "problems/2025-B4/proofs/reviewed-reasoning-return-r6-v1.1.md",
+      "bytes": 28748,
+      "sha256": "4e157819789da12d6f26e89929d88ec886d52947405d836fe3957ab8ee727d3a"
+    },
+    {
+      "origin": "current protocol",
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "origin": "current official-domain normalization read",
+      "path": "problems/2025-B4/statement.md",
+      "bytes": 2024,
+      "sha256": "af0075dd635e8e4d31bb3ae9148d1731a7fbb57c06cf104763332e1496673f59"
+    },
+    {
+      "origin": "complete accepted body read",
+      "path": "problems/2025-B4/proofs/reviewed-reasoning-return-r6-v1.1.md",
+      "bytes": 28748,
+      "sha256": "4e157819789da12d6f26e89929d88ec886d52947405d836fe3957ab8ee727d3a"
+    },
+    {
+      "origin": "complete old acceptance scope read",
+      "path": "problems/2025-B4/reviews/reasoning-return-r6-acceptance.md",
+      "bytes": 3261,
+      "sha256": "9eec12d169ef7c33efeeb1254dff467990b41822707db0086a4b14016544cf20"
+    },
+    {
+      "origin": "old authority compact metadata",
+      "path": "problems/2025-B4/reviews/reasoning-return-r6-acceptance.json",
+      "bytes": 2483,
+      "sha256": "9d32b3f32be2bf758dc2bbe0182c11a6597a96139d0bd3b24680ba7041d56135"
+    },
+    {
+      "origin": "old authority current candidate declaration",
+      "path": "problems/2025-B4/notes/reasoning-return-r6-candidate-v1.md",
+      "bytes": 25588,
+      "sha256": "bdf566f44dcabb5b7bbfb96778b1dd58b7375bf46fcd697c3579564e5e9da627"
+    },
+    {
+      "origin": "old authority current accepted_copy declaration",
+      "path": "problems/2025-B4/proofs/reviewed-reasoning-return-r6-v1.1.md",
+      "bytes": 28748,
+      "sha256": "4e157819789da12d6f26e89929d88ec886d52947405d836fe3957ab8ee727d3a"
+    },
+    {
+      "origin": "complete accepted body read",
+      "path": "problems/2025-B4/proofs/reviewed-reasoning-return-r8-v1.1.md",
+      "bytes": 28730,
+      "sha256": "f00a2b2816f128df54060fd800cba83d726abf07303c1cc7c92688a61557ca15"
+    },
+    {
+      "origin": "complete old acceptance scope read",
+      "path": "problems/2025-B4/reviews/reasoning-return-r8-acceptance.md",
+      "bytes": 3795,
+      "sha256": "65d7ba1e20c33f00d526d7e17d4941229aff2018517c46720371749e288b2752"
+    },
+    {
+      "origin": "old authority compact metadata",
+      "path": "problems/2025-B4/reviews/reasoning-return-r8-acceptance.json",
+      "bytes": 2815,
+      "sha256": "7ac8f5bc0c903631cd050bcaff625ee23ab54561b17820a006585f9b9eab4aa5"
+    },
+    {
+      "origin": "old authority current candidate declaration",
+      "path": "problems/2025-B4/notes/reasoning-return-r8-candidate-v1.md",
+      "bytes": 25033,
+      "sha256": "2688587a44e9c161c7bb2bcdc6eecfb474c231ab9542572aaec5e9ed557a9b8d"
+    },
+    {
+      "origin": "old authority current accepted_copy declaration",
+      "path": "problems/2025-B4/proofs/reviewed-reasoning-return-r8-v1.1.md",
+      "bytes": 28730,
+      "sha256": "f00a2b2816f128df54060fd800cba83d726abf07303c1cc7c92688a61557ca15"
+    },
+    {
+      "origin": "immediate own immutable constructor parent, NOT premise",
+      "path": "problems/2021-B4/notes/reasoning-return-r12-freeze-v1.json",
+      "bytes": 4087,
+      "sha256": "3ed49540ef24d6b947add1abc2db155f6c3bda82c8e2a40c7615547aa3351f02"
+    },
+    {
+      "origin": "direct own immutable parent payload, NOT premise",
+      "path": "problems/2021-B4/notes/reasoning-return-r12-candidate-v1.md",
+      "bytes": 17602,
+      "sha256": "7600005b20756bf9613e2b02177d5ae50aa5d3f573a6aa267bf245ee0a5c8f19"
+    },
+    {
+      "origin": "direct own immutable parent payload, NOT premise",
+      "path": "problems/2021-B4/notes/reasoning-return-r12-obligations-v1.md",
+      "bytes": 7652,
+      "sha256": "e4f7777e5da050968c7d485f5e0a44edef03a92da8176af779e9a0d0b894256c"
+    },
+    {
+      "origin": "direct own immutable parent payload, NOT premise",
+      "path": "problems/2021-B4/notes/reasoning-return-r12-constructor-checks-v1.md",
+      "bytes": 7318,
+      "sha256": "7cc58a0354dd0e18edc56b33046d685365b5ab5cc1d2432e3fa5826948bcc1b4"
+    },
+    {
+      "origin": "direct own immutable parent payload, NOT premise",
+      "path": "problems/2021-B4/notes/reasoning-return-r12-failed-routes-v1.md",
+      "bytes": 4741,
+      "sha256": "67ef5adaf2ba0e0fec980c8fb33311ecf9de46ec98816f8efefeb9803359bfb9"
+    },
+    {
+      "origin": "direct own immutable parent payload, NOT premise",
+      "path": "problems/2021-B4/notes/reasoning-return-r12-source-audit-v1.md",
+      "bytes": 5838,
+      "sha256": "c0a788a4321500bdadd839cbdb1eb8e811d41f8d55033de18e6d2409c9d46c23"
+    },
+    {
+      "origin": "direct own immutable parent payload, NOT premise",
+      "path": "problems/2021-B4/notes/reasoning-return-r12-worklog-v1.md",
+      "bytes": 4483,
+      "sha256": "bb99d7bf49c444ae09a0905957d176859b402bb1214b6e7372d286f6c4f7ebbc"
+    },
+    {
+      "origin": "direct own immutable parent payload, NOT premise",
+      "path": "problems/2021-B4/notes/reasoning-return-r12-freeze-v1.py",
+      "bytes": 12053,
+      "sha256": "14141894fe5a7e23928c50d270feefeb8a7085f96d3c3e932c4699c0fc1c872a"
+    },
+    {
+      "origin": "direct own immutable parent payload, NOT premise",
+      "path": "problems/2021-B4/notes/reasoning-return-r12-sources-v1.json",
+      "bytes": 4883,
+      "sha256": "48f5e01314d2745b2bbf55c286256bfcce3d59286c73cae01995371087c0118a"
+    },
+    {
+      "origin": "direct own immutable parent payload, NOT premise",
+      "path": "problems/2021-B4/notes/reasoning-return-r12-input-validation-v1.json",
+      "bytes": 12945,
+      "sha256": "e84d52638deece0dd93648d264c3c35e63f7a18176c6e52eaf699114106cafcb"
+    },
+    {
+      "origin": "direct own immutable parent payload, NOT premise",
+      "path": "problems/2021-B4/notes/reasoning-return-r12-freeze-output-v1.json",
+      "bytes": 485,
+      "sha256": "5ca00740c7719dc44b85ad32f5bd5fbac3fb6b50f3bf8bbcfbc8da5795780192"
+    }
+  ],
+  "deduplicated_records": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r12-candidate-v1.md",
+      "bytes": 17602,
+      "sha256": "7600005b20756bf9613e2b02177d5ae50aa5d3f573a6aa267bf245ee0a5c8f19"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r12-constructor-checks-v1.md",
+      "bytes": 7318,
+      "sha256": "7cc58a0354dd0e18edc56b33046d685365b5ab5cc1d2432e3fa5826948bcc1b4"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r12-failed-routes-v1.md",
+      "bytes": 4741,
+      "sha256": "67ef5adaf2ba0e0fec980c8fb33311ecf9de46ec98816f8efefeb9803359bfb9"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r12-freeze-output-v1.json",
+      "bytes": 485,
+      "sha256": "5ca00740c7719dc44b85ad32f5bd5fbac3fb6b50f3bf8bbcfbc8da5795780192"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r12-freeze-v1.json",
+      "bytes": 4087,
+      "sha256": "3ed49540ef24d6b947add1abc2db155f6c3bda82c8e2a40c7615547aa3351f02"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r12-freeze-v1.py",
+      "bytes": 12053,
+      "sha256": "14141894fe5a7e23928c50d270feefeb8a7085f96d3c3e932c4699c0fc1c872a"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r12-input-validation-v1.json",
+      "bytes": 12945,
+      "sha256": "e84d52638deece0dd93648d264c3c35e63f7a18176c6e52eaf699114106cafcb"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r12-obligations-v1.md",
+      "bytes": 7652,
+      "sha256": "e4f7777e5da050968c7d485f5e0a44edef03a92da8176af779e9a0d0b894256c"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r12-source-audit-v1.md",
+      "bytes": 5838,
+      "sha256": "c0a788a4321500bdadd839cbdb1eb8e811d41f8d55033de18e6d2409c9d46c23"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r12-sources-v1.json",
+      "bytes": 4883,
+      "sha256": "48f5e01314d2745b2bbf55c286256bfcce3d59286c73cae01995371087c0118a"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r12-worklog-v1.md",
+      "bytes": 4483,
+      "sha256": "bb99d7bf49c444ae09a0905957d176859b402bb1214b6e7372d286f6c4f7ebbc"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r6-candidate-v1.md",
+      "bytes": 25588,
+      "sha256": "bdf566f44dcabb5b7bbfb96778b1dd58b7375bf46fcd697c3579564e5e9da627"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r8-candidate-v1.md",
+      "bytes": 25033,
+      "sha256": "2688587a44e9c161c7bb2bcdc6eecfb474c231ab9542572aaec5e9ed557a9b8d"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r9-baseline-v1.json",
+      "bytes": 6036,
+      "sha256": "8769d73d13fe7182479f225b9470ecbaf148ba1c4840b68c47e7edbe080fad9d"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r9-candidate-v1.md",
+      "bytes": 22574,
+      "sha256": "8fae8c0dd3e951fd4c847954f75186b8969f1dbdec9592b8cebcbda8394a9aa2"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r9-failed-routes-v1.md",
+      "bytes": 4431,
+      "sha256": "a434b872c7042e8079e0a9f735eeddbde3a82bc1fe0d7aa44f0489e958fd69a3"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r9-freeze-v1.json",
+      "bytes": 2790,
+      "sha256": "93eed518f1584c8e4f1a7cbe4d6229c9532caae4269d18cf0393c1f0e934aa8f"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r9-freeze-v1.py",
+      "bytes": 6951,
+      "sha256": "4f93c50453430c35b140e1b8da88dfba381c36fa827fa4ccb8638ef77a239654"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r9-input-validation-v1.json",
+      "bytes": 343,
+      "sha256": "5bf3089ae68cce9e932aac9b65eb463461bcc32c9f97b67706a972962253c00f"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r9-live-log-v1.md",
+      "bytes": 4785,
+      "sha256": "2ae3e5f624fbe61bca6b39b5658535f68b042e3415f04d654a67be0e381b17f3"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r9-metadata-v1.json",
+      "bytes": 1448,
+      "sha256": "6bcee65e1b7a51ddb5fbbfb4dcd3acfc6470a162e041e1d895cb3fb4aea3baaa"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r9-obligations-v1.md",
+      "bytes": 5110,
+      "sha256": "497893ed6c3c7f094f839c1e5e83e03f8f42eb7d88ea9d89e165bfb3eb299987"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r9-runge-baseline-v1.json",
+      "bytes": 3065,
+      "sha256": "bf7d69e2477ca16a5d6ac7396306a5878695b0e22abc44518ff88fed8417fa5e"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r9-runge-candidate-v1.md",
+      "bytes": 16773,
+      "sha256": "8bcd69dfa97441b23fd456268e655312aea55a0f7a64a5237f0117f6a192b90a"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r9-runge-failures-worklog-v1.md",
+      "bytes": 4621,
+      "sha256": "036cbd27e67e4e174746c19bd228e93a968f303a835022a5945b382c34355bd3"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r9-runge-freeze-v1.json",
+      "bytes": 2364,
+      "sha256": "cb5073bbce53c07b12e5b253af51f278ebd6475c0600d700bef6a9064a7ec32b"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r9-runge-freeze-v1.py",
+      "bytes": 5230,
+      "sha256": "04940609ac1b7aa654b8fbfb1766bc40f0afd14bd26a46ad5907d174531b5692"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r9-runge-input-validation-v1.json",
+      "bytes": 277,
+      "sha256": "95d79d8e640336e4bddcd1ccc0f8d319572cf971dc35260aa675d8e6e3ad73da"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r9-runge-metadata-v1.json",
+      "bytes": 1134,
+      "sha256": "286df998576e01a2f8289e11913a036625407780407adc60597aa5b2f5986e98"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r9-runge-obligations-v1.md",
+      "bytes": 3957,
+      "sha256": "3ae93fba8abf363d56ad418e8be5a0c04f88eb15ccb1ee9bf7c082c82f87fd90"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r9-runge-sources-v1.md",
+      "bytes": 3972,
+      "sha256": "77b23071f84c5b344b6c23d02955b3b0af69a66c00bcaf599f6f32fe13942cd3"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r9-sources-v1.md",
+      "bytes": 6445,
+      "sha256": "6fcb37dc75579bc6c95833072ca91d833d24973065f844308fa05c38185a56fa"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r9-worklog-v1.md",
+      "bytes": 4596,
+      "sha256": "2ee8b9eacfa1c58e9d8f3d06fe421288155e00990857c3b6b834f339d4d20803"
+    },
+    {
+      "path": "problems/2025-B4/proofs/reviewed-reasoning-return-r6-v1.1.md",
+      "bytes": 28748,
+      "sha256": "4e157819789da12d6f26e89929d88ec886d52947405d836fe3957ab8ee727d3a"
+    },
+    {
+      "path": "problems/2025-B4/proofs/reviewed-reasoning-return-r8-v1.1.md",
+      "bytes": 28730,
+      "sha256": "f00a2b2816f128df54060fd800cba83d726abf07303c1cc7c92688a61557ca15"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r6-acceptance.json",
+      "bytes": 2483,
+      "sha256": "9d32b3f32be2bf758dc2bbe0182c11a6597a96139d0bd3b24680ba7041d56135"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r6-acceptance.md",
+      "bytes": 3261,
+      "sha256": "9eec12d169ef7c33efeeb1254dff467990b41822707db0086a4b14016544cf20"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r8-acceptance.json",
+      "bytes": 2815,
+      "sha256": "7ac8f5bc0c903631cd050bcaff625ee23ab54561b17820a006585f9b9eab4aa5"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r8-acceptance.md",
+      "bytes": 3795,
+      "sha256": "65d7ba1e20c33f00d526d7e17d4941229aff2018517c46720371749e288b2752"
+    },
+    {
+      "path": "problems/2025-B4/statement.md",
+      "bytes": 2024,
+      "sha256": "af0075dd635e8e4d31bb3ae9148d1731a7fbb57c06cf104763332e1496673f59"
+    }
+  ],
+  "constructor_parent_historical_own_paths_bound": 496,
+  "own_parent_input_summary_bound": {
+    "occurrences": 55,
+    "unique_paths": 48,
+    "canonical_deduplicated_summary_sha256": "8b647192cc93e0d2966e77e81e17e6bcf97f57160b6004d165b05536b592c34f",
+    "encoding": "UTF8 JSON sorted unique path/bytes/sha256; sorted keys; compact separators",
+    "old_parent_inventories_bound_not_recopied": true
+  },
+  "new_root_Runge_R1_files_metadata_or_findings_read_or_hashed": false,
+  "old_unverified_R9_and_own_R12_are_preservation_NOT_mathematical_premises": true,
+  "browser_primary_sources_have_URL_read_scopes_not_invented_native_hashes": true
+}

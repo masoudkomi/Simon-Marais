@@ -1,0 +1,123 @@
+{
+  "recorded_at_utc": "2026-10-18T00:58:05.226210+00:00",
+  "status": "complete whole independent R12 source record, no promotion",
+  "official": {
+    "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2021-paper-b.pdf",
+    "read_scope": "B4 full hypothesis and open(b), page2; no preliminary proof",
+    "fresh_browser_native_hash": null
+  },
+  "primary_sources": [
+    {
+      "title": "Castryck-Laterveer-Ounaies, Constraints on counterexamples to Casas-Alvero, arXiv1208.5404",
+      "url": "https://arxiv.org/pdf/1208.5404",
+      "served_version": "arXiv1208.5404v1; 27 August2012; internal28 July2018;23pages",
+      "actual_read_scope": "Complete operative Sections3.4 and3.5 normalization/equations9-13/Lemma17/beta derivation, extractedlines898-1125; Proposition19 statement and unramified remark inspected; not whole23pages",
+      "role": "attributed method only; all-roots-rational/unramified theorem not applied",
+      "fresh_browser_native_hash": null
+    },
+    {
+      "title": "Draisma-de Jong2011 erratum",
+      "url": "https://math-unibe.ch/jdraisma/publications/erratumcasasalvero.pdf",
+      "actual_read_scope": "Complete one-page original,20extractedlines",
+      "role": "prime5 degree20 shortcut excluded, historical status not a2026 status theorem",
+      "fresh_browser_native_hash": null
+    }
+  ],
+  "complete_accepted_bodies": [
+    {
+      "path": "problems/2021-B4/proofs/reviewed-reasoning-return-r11-v1.1.md",
+      "bytes": 20045,
+      "sha256": "35dc50702ecd0965c8a4f35844bc47ea3c64c938dba3bd0ced9b7da484d8a9a6"
+    },
+    {
+      "path": "problems/2021-B4/proofs/reviewed-reasoning-return-r8-v1.1.md",
+      "bytes": 19921,
+      "sha256": "33b8713d402d09f711d0096cdc4e8c00f9e622a5335f8e3345eb4f82ba0d359d"
+    },
+    {
+      "path": "problems/2021-B4/proofs/reviewed-reasoning-return-r5-v1.1.md",
+      "bytes": 23675,
+      "sha256": "f4f088adc133b0581520488cdbba30082c13b2402c96ae555142e5491ad4137d"
+    },
+    {
+      "path": "problems/2021-B4/proofs/reviewed-odd-support-exclusion-v1.1.md",
+      "bytes": 8176,
+      "sha256": "56274936ab198f01cb38b1701fdec7907860eb654fd2bc79c3b2d0e03054a271"
+    },
+    {
+      "path": "problems/2021-B4/proofs/reviewed-return-r3-v1.1.md",
+      "bytes": 5304,
+      "sha256": "9cda0a35c42e7a3098418ec052180f4868ca995feee47b503971b8fc2cb6d4b4"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r3-transfer-candidate-v1.md",
+      "bytes": 9020,
+      "sha256": "0bcc9898ff010abf489f7b4c58d4a5011e91df99ab680bd0094d76054b3e3961"
+    }
+  ],
+  "complete_accepted_authority_JSON": [
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r11-acceptance.json",
+      "bytes": 2492,
+      "sha256": "e396f3ff0a3113131666a03d6da70ebe4eb71c42babba0a5ca9cbc92c3513fb4"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r8-acceptance.json",
+      "bytes": 2507,
+      "sha256": "b5ca7a381393061192beceb0b34b8222c6ae249f1edc3383ac316786c7cd3ef0"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r5-acceptance.json",
+      "bytes": 3373,
+      "sha256": "93a204890e6d387a22d89565dbee9ee970c1b80af59f79cbc983d3ba4de6defe"
+    },
+    {
+      "path": "problems/2021-B4/reviews/odd-support-exclusion-acceptance.json",
+      "bytes": 1490,
+      "sha256": "04dd71031140acfce0f8f8d0b4ec69da87e910d3abe57aaf98aa072fd019e786"
+    },
+    {
+      "path": "problems/2021-B4/reviews/return-r3-acceptance.json",
+      "bytes": 2768,
+      "sha256": "53917f6d1ae22bc591178f18eae767fcbe25ca611623333eb8019cac3a09b7c4"
+    }
+  ],
+  "complete_acceptance_MD_read": true,
+  "older_accepted_PN64_certificate_not_rerun_or_self_recertified": true,
+  "constructor_all10_payloads_and_freeze_read": true,
+  "constructor_freezer_read_not_executed": true,
+  "compact_necessary_parent": {
+    "path": "problems/2021-B4/notes/reasoning-return-r12-input-validation-v1.json",
+    "bytes": 12945,
+    "sha256": "e84d52638deece0dd93648d264c3c35e63f7a18176c6e52eaf699114106cafcb"
+  },
+  "compact_necessary_summary": {
+    "occurrences": 55,
+    "unique_paths": 48,
+    "canonical_deduplicated_summary_sha256": "8b647192cc93e0d2966e77e81e17e6bcf97f57160b6004d165b05536b592c34f",
+    "encoding": "UTF8 JSON sorted unique path/bytes/sha256; sorted keys; compact separators"
+  },
+  "old_cached_native_sources_browser_bytes_not_asserted_identical": [
+    {
+      "path": ".cache/literature/2021/cited-66c5af6a0f0239f5.pdf",
+      "bytes": 281743,
+      "sha256": "d818747102d32060f43ae5f015f27065aadf38699b272a2367749db8b33fedbf"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r1/2021-draisma-dejong-erratum-2011.pdf",
+      "bytes": 43723,
+      "sha256": "9414998fc302643b7cf261e4adec1333034dc732e8a3a493a1a0ff7418d8f262"
+    }
+  ],
+  "B_old_R9_authorship_and_prior_2021_review_roles_disclosed": true,
+  "NEW_R12_nonconstructor_independence": true,
+  "NEW_root_R12_peer_material_unopened": true,
+  "no_full_paper_external_proof_novelty_or_annual_claim": true,
+  "no_mathcode_scan_CAS_native_child_author_replay_or_new_cache_download": true,
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independently_verified_effective_settings": null
+}

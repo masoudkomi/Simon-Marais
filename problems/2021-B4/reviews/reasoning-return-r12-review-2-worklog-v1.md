@@ -1,0 +1,11 @@
+# R12 WHOLE R2: complete independent hand reconstruction
+
+18 October 2026 UTC. Root OTHER nonconstructor; assignedprefixunusedbeforewriting. A's COMPLETEconstructor froze first. Rootreadall11files/all60obligationsandaccepted/sourceinterfaces, reconstructingeverynewinferencebeforeANYNEWBpeerfindings/files/metadata.
+
+Hand work independently derived the original dividedf1 row, bothD15/D17Pascalrows, K/NandZ/WretainingV=a6, alllowproducts andfour(A,B)pairs, the fouroddwitnessproducts andtwoYsets, andS7/S8. ForV0/x0all12coefficienttriples/rootintersectionswere recalculated, bothsurvivors checkedagainstthelastwproduct. ForV0/xunitbothS8zero prefixeswere eliminated. ForVunitall16V/p7/Tvalueswere recalculatedfrombasevaluesandE*increments, includingthetwoexcludedV0entriesandthetwoT0survivors. Finally everyV/xunitS8zero optionwasreducedtoonecontradictedprefix. Thecomplete report records those independenttablesandformulas; authorselfchecksarenotcountedasareview.
+
+The arithmetic bridge then retainsactualwitnesses: R11forcesfirstbreakm6, earlierD_j(r)andEulerestablishQ6, unavailableH12centerforcesanACTUALnoncenter, TA1makesa7unitimpossible, supportlemmathenFORCESa6/D7units, andeveryR8EC/T4/BOTHm6cubiccasecontradictsoneofthosefacts. Thecorollaryusessuccessivem3/4/5TA1withONLYthreeadditionalunitsandacceptedglobalcarrier/simplerootforfullgcd. Exactdelta0,infinitecoefficientdepths,sigma0,nubounds,otherbranchesandactualQwitnesseswereallchallenged.
+
+Freshprimarynormalizedcenter/beta/erratumandacceptedreadscopesarestatedpreciselyinthesourcerecord. Root'soldcontributionsdonotconstructtheNEWR12compatibilitylemmaandarenotself-recertified. Nomathematicalprogram,valuation/maskscan,CAS,certificateorconstructorrerunsuppliesproof. Onlyadministrativehash/JSON/ledgersyntaxchecksrun; exactoldandnewbytespreserved. Fourretainedscopenotes,no substantiveissueorrepairrequest.
+
+This ENTIRE initial, including all prose, ledger, source, worklog, integrity and manifest, freezes before ANY NEW B R12 material is read. Current window reset1792874445 is explicitly authorized to90%TOTAL with reserve; root last direct5% at00:53:20UTC, ordinary allowed. No automatic later reset. Requested sol/max is distinct from unknown effective readback. Independent agents continue; owned awake79293/session64368 was verified at00:53:20UTC, next check01:53:20UTC.

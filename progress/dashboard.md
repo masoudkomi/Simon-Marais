@@ -8,11 +8,11 @@ Initial scope: nine official B4 open portions, 2017-2025. **2026 deferred by the
 |2018|COMPLETE general enumeration formula, independently reviewed and attributed to Hering--Howard/Ottaviani. This is a published-result reproduction.|
 |2019|NEW retained-core accepted1.765224<lambda<1.834843. Actual retained-word derivative and missing-mass gap sharpen the cap bound after BOTH OTHER WHOLE audits. CG1--CG4 give exact asymmetric minimum widths, actual omitted rigid-tail series and strict quantitative cap-gap floors after BOTH OTHER WHOLE24-obligation audits. Exact value/renewal regime remain open.|
 |2020|R8 accepted after both WHOLE54-obligation audits: conditional arithmetic solvability, actual ideal and unit obstructions, and exact ideal-stabilizer criterion. No new unrestricted order classification.|
-|2021|NEW R11 accepted after both OTHER WHOLE56-obligation audits: the entire actual m7 branch in the specified normalized actual-double/J15 domain is excluded. Optional four-unit consequence retains all extra hypotheses. Earlier first breaks, other degree20 branches and general classification remain open.|
+|2021|NEW R12A–C accepted after root/B OTHER WHOLE60/60 audits: in the specified actual-double/J15 degree20 branch, m6 and m7 first breaks excluded; m3–m5 remain. Full-gcd corollary retains three extra units. No broader degree20/annual classification.|
 |2022|R8 accepted after both WHOLE audits: exact canonical prefix mergers, actual q2 predecessor counterexample, and separate binary-past/A-B phase obstructions. Literal scaling claim only for positive multipliers. No ordinary q10 infinite survivor or termination theorem.|
 |2023|COMPLETE internally reviewed classification for fixed positive nonsquare N: all(k,k),k>0, and(k,2k),(2k,k) for positive odd k. Priority remains unestablished.|
 |2024|Entire three-bit exclusion accepted after TWO OTHER WHOLE audits; earlier S3 and Kasami criteria retained. NF1–NF3 neighbor-Frobenius whole-irreducibility criterion accepted after TWO OTHER WHOLE audits and root full reconciliation; proper/composite odd divisors included, n57/allweight4 unclaimed. General ordinary reducibility remains open.|
-|2025|NEW R8 accepted after both48/48 WHOLE audits: quantitative actual original-weight orbit amplification, real phase cancellation, all-order integral jets and formal leading-order bound with BOTH evaluated branches. Large zero-branch cost means no useful new unconditional exclusion/full solution.|
+|2025|NEW separate RG1–RG3 Runge procedure accepted after root/A OTHER WHOLE34/34 audits: exact finite fixed-p bound recipe, unevaluated. Original R9v1.1 repair pending affected audits/reconciliation. No useful new unconditional exclusion or annual solution.|
 
 ## Coordination
 
@@ -202,3 +202,7 @@ Five new exact partial packets accepted after both complete blind WHOLE audits a
 ## 2026-10-18 10:40 Brisbane: hourly reporting and NF acceptance
 
 [Current all-nine status](status-2026-10-18-1040.md). Hourly thread heartbeat active; [baseline](hourly-report-2026-10-18-1037.json).2024NF accepted scopedpartial,115fp/53paths,rootexcluded.2017R6source-interface and2025R9radius authorrepairs pending.2021R12actualreasoning and separate2025Rungewholeaudits continue.3%TOTALcurrentweekly,87ppbefore90%;raw1,507,852,210incl1,426,921,216cached,80,930,994uncached+output. Twoannualanswers/sevenunresolved unchanged.
+
+## 2026-10-18 11:03 Brisbane
+
+[Current all-nine status](status-2026-10-18-1103.md).2021R12 and separate2025Runge accepted in exact scopes after both OTHER whole audits/full reconciliation.2017R6v1.1 and original2025R9v1.1 repairs pending. C actual2020 research; A/B return to2021/2022 after repair audits. Hourly reporting ACTIVE.6%TOTALweekly, raw1,560,888,490including1,477,614,976cached;83,273,514uncached+output. Two complete annual answers unchanged.

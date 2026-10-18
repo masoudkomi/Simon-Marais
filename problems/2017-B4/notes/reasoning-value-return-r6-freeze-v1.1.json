@@ -1,0 +1,78 @@
+{
+  "frozen_at_utc": "2026-10-18T00:46:09.838243+00:00",
+  "status": "COMPLETE FULL version1.1 author repair - candidate proof unverified",
+  "issue": "PMR2-01",
+  "affected_claims": [
+    "PM2",
+    "PM3"
+  ],
+  "full_obligations": 60,
+  "all_original_v1_and_both_whole_initials_preserved": true,
+  "both_OTHER_affected_reaudits_required_before_coordinator_promotion": true,
+  "immutable_own_parent": {
+    "path": "problems/2025-B4/notes/reasoning-return-r9-runge-freeze-v1.json",
+    "bytes": 2364,
+    "sha256": "cb5073bbce53c07b12e5b253af51f278ebd6475c0600d700bef6a9064a7ec32b"
+  },
+  "historical_own_paths_bound": 505,
+  "own_paths_after_this_packet": 517,
+  "declared_occurrences_verified": 38,
+  "deduplicated_paths_verified": 38,
+  "artifacts": [
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r6-candidate-v1.1.md",
+      "bytes": 38143,
+      "sha256": "44f327ce61046b8226ff62d699ed0fa004ceb11e7900779636c583b27a2745db"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r6-obligations-v1.1.md",
+      "bytes": 8971,
+      "sha256": "45ccff4b74925294c36df32bf559ac8410c89981177c787a8dd51ed335814f2b"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r6-sources-v1.1.md",
+      "bytes": 10123,
+      "sha256": "26cfdcf04fb3289afff73284558377997cde5a087b0c63918ba8418b55c8d10e"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r6-failures-v1.1.md",
+      "bytes": 5003,
+      "sha256": "b61f05854d6a035f8eb41c109f89083c5890f61302fb71c47407f3d798ddd02d"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r6-worklog-v1.1.md",
+      "bytes": 8734,
+      "sha256": "9148e6ae7b33b67a61b496546a6c7f4f0da7a694717031ea85f6bda95940024c"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r6-repair-ledger-v1.1.md",
+      "bytes": 5481,
+      "sha256": "da97864f4bd379a623c378e9a209fe2bfcde37a42f82dee227caf7227ed23b12"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r6-diff-v1-to-v1.1.patch",
+      "bytes": 31649,
+      "sha256": "1dd7ec69162ff56f25649c582e8c3441e2b55cb18fe473df55174127233200f3"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r6-freeze-v1.1.py",
+      "bytes": 7607,
+      "sha256": "eb1c857a84a78283b0b6c366d37fd433fe0daf24854bfd0d1d2e6942a956256e"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r6-baseline-v1.1.json",
+      "bytes": 8894,
+      "sha256": "344c1845739d7f15273387102be1ee8897df0581c8b7b530036bfc34887b341c"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r6-metadata-v1.1.json",
+      "bytes": 1334,
+      "sha256": "5ceff4a9064827d8db8c63e4287b888fbe433eedc31bffffa9dae56d390e6f4f"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-value-return-r6-input-validation-v1.1.json",
+      "bytes": 427,
+      "sha256": "fc839a7aa8111c5191a6f1d3a3bb048e2d186d03486660d822b9841a152437b9"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "checked_at_utc": "2026-10-18T00:49:14.560778+00:00",
+  "administrative_only_no_mathematical_evidence": true,
+  "baseline": {
+    "path": "problems/2025-B4/reviews/reasoning-return-r9-review-2-baseline-v1.json",
+    "bytes": 11593,
+    "sha256": "d8e15ad8bcdb84f4c36ae63d4a87e61c9caaa460d88035f34e5e5a437d12ecf4"
+  },
+  "necessary_current_summary": {
+    "occurrences": 48,
+    "unique_paths": 48,
+    "canonical_deduplicated_summary_sha256": "98214ae201f989e00eb6d39fee0e8e9dcb9c6d3eb6df4cd4c50a3ae4e8545d59"
+  },
+  "all_eleven_original_v1_constructor_files_unchanged": true,
+  "all28_selected_current_authority_context_records_unchanged": true,
+  "all_nine_immediately_preceding_own_files_unchanged": true,
+  "prior_own_history": {
+    "manifest": {
+      "path": "problems/2024-B4/reviews/coordinator-neighbor-Frobenius-r1-review-2-manifest-v1.json",
+      "bytes": 4982,
+      "sha256": "e8649ee8b90594d91a41dbd46f18136f638f95f19c291e63d26233886419ace7"
+    },
+    "validation": {
+      "path": "problems/2024-B4/reviews/coordinator-neighbor-Frobenius-r1-review-2-input-validation-v1.json",
+      "bytes": 4098,
+      "sha256": "1bdff9ea6d262834c29f7a0667d392bebc273fdb8245972ff802a5ea3c0e2850"
+    },
+    "own_paths_bound_transitively": 466,
+    "last_nine_files_reverified": true,
+    "all466_historical_paths_freshly_rehashed": false
+  },
+  "constructor_historical485_parent_bound_not_recopied": {
+    "path": "problems/2024-B4/reviews/coordinator-three-bit-sector-r2-review-2-manifest-v1.json",
+    "bytes": 3637,
+    "sha256": "df5e3b97dab03c7d3aa547d0e2a42534c5ce524662f28230476f3cd99f12065e"
+  },
+  "all48_obligation_rows_present_once": true,
+  "whole_six_claims_reconstructed": true,
+  "unresolved_auxiliary_boundary_issues": 1,
+  "issue": "R9R2-01",
+  "author_boundary_corrections_required": 1,
+  "core_R9A_B_D_E_F_calculations_passed_in_exact_scopes": true,
+  "intended_R9C_sqrtH_example_and_cofactor_proof_passed": true,
+  "retained_scope_notes": 4,
+  "no_linear_generator_exclusion_for_ideal_up_to_unit_certified": true,
+  "NEW_root_R9_peer_files_findings_or_metadata_unopened_through_entire_initial": true,
+  "coordinator_unsolicited_completion_identity_without_findings_received": true,
+  "later_constructor_versions_and_queued_R12_unopened_through_entire_initial": true,
+  "payload_records_before_validation": [
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r9-review-2-baseline-v1.json",
+      "bytes": 11593,
+      "sha256": "d8e15ad8bcdb84f4c36ae63d4a87e61c9caaa460d88035f34e5e5a437d12ecf4"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r9-review-2-initial.md",
+      "bytes": 25559,
+      "sha256": "242538cde82a19e11367847cb2b883cc2de9ea560488bc05f73b44b97722d118"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r9-review-2-ledger-v1.md",
+      "bytes": 9945,
+      "sha256": "cd6fc5cb181b8b9d54a7ef2ad9c94eda22c8b524c015758e1b26218cb0fba0e9"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r9-review-2-issues-v1.md",
+      "bytes": 3803,
+      "sha256": "81a48af7565d4aa27480fd9ab5f3b676e6ad38f82849d68a47f7c9a453d5343b"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r9-review-2-source-checks-v1.md",
+      "bytes": 9236,
+      "sha256": "f6b9500ad90dbd3ae4d9f9507850c36f8e02d8724afc660e1a40f2c0d25f344b"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r9-review-2-sources-v1.json",
+      "bytes": 6531,
+      "sha256": "8b8e0d961728466d5e1e7830b409d67ae8c7f2723708d47b3d024c983d2ad475"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r9-review-2-freeze-v1.py",
+      "bytes": 7596,
+      "sha256": "34a4d5261faf6213897aff6e0fcf89df718eec4f48778b4da00aa586556ad269"
+    }
+  ],
+  "current_inputs_plus_payload_summary": {
+    "occurrences": 55,
+    "unique_paths": 55,
+    "canonical_deduplicated_summary_sha256": "13a3d5f98cfcf771ed212afd2f7fcecafd420bfa493110fe3693af6c4809d465"
+  },
+  "no_mathcode_CAS_scan_certificate_replay_or_author_rerun": true,
+  "no_old_shared_Git_cache_edit_spawn_contact_charge_or_bypass": true,
+  "authoritative_weekly_telemetry": {
+    "at_utc": "2026-10-18 00:44:05 UTC",
+    "method": "mcp__codex_app__get_usage_limits({}); rateLimitsByLimitId.codex.primary and legacy agree",
+    "account_label": "029a8928\u20261334ac3a",
+    "used_percent_total": 4,
+    "window_minutes": 10080,
+    "reset_unix": 1792874445,
+    "ordinary_usage_allowed": true,
+    "new_window_explicitly_user_authorized": true,
+    "total_ceiling_percent": 90,
+    "integration_reserve": true,
+    "automatic_further_reset_spending": false
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "frozen_at_utc": "2026-10-18T00:49:14.561274+00:00",
+  "status": "COMPLETE original-v1 fresh initially blind NONCONSTRUCTOR WHOLE R2; localized auxiliary boundary correction R9R2-01 pending; not coordinator acceptance",
+  "reviewer": "/root/review_2022_complexity_r2",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "independently_verified_effective_settings": null,
+  "exact_target": {
+    "path": "problems/2025-B4/notes/reasoning-return-r9-candidate-v1.md",
+    "bytes": 22574,
+    "sha256": "8fae8c0dd3e951fd4c847954f75186b8969f1dbdec9592b8cebcbda8394a9aa2"
+  },
+  "exact_constructor_freeze": {
+    "path": "problems/2025-B4/notes/reasoning-return-r9-freeze-v1.json",
+    "bytes": 2790,
+    "sha256": "93eed518f1584c8e4f1a7cbe4d6229c9532caae4269d18cf0393c1f0e934aa8f"
+  },
+  "all48_obligations_and_all_six_R9A_F_claims_reconstructed": true,
+  "unresolved_auxiliary_boundary_issues": 1,
+  "issue": "R9R2-01",
+  "exact_countercertificate": "H=2,d=17,R=1/2; integer cube contains only0 and cannot contain unit e16; equation16 and chosen sqrtH example remain valid",
+  "author_boundary_corrections_required": 1,
+  "versioned_author_correction_and_affected_review_required": true,
+  "core_R9A_B_D_E_F_calculations_passed_in_exact_scopes": true,
+  "intended_R9C_sqrtH_example_and_cofactor_proof_passed": true,
+  "retained_scope_notes": 4,
+  "chosen_generator_not_arbitrary_linear_ideal_generator_scope_retained": true,
+  "C_NEW_constructor_excluded": true,
+  "B_did_not_construct_NEW_R9": true,
+  "old_B_R8_UW_authorship_and_R6_R7_reviews_disclosed_no_self_recertification": true,
+  "root_generic_assignment_no_new_inference": true,
+  "NEW_root_R9_peer_files_findings_or_metadata_unopened_through_entire_initial": true,
+  "coordinator_completion_identity_received_without_findings": true,
+  "another_OTHER_complete_initial_and_coordinator_reconciliation_required": true,
+  "no_actual_solution_new_Diophantine_exclusion_source_final_theorem_refutation_or_annual_claim": true,
+  "source_versions_and_precise_read_limits_recorded": true,
+  "necessary_current_summary": {
+    "occurrences": 48,
+    "unique_paths": 48,
+    "canonical_deduplicated_summary_sha256": "98214ae201f989e00eb6d39fee0e8e9dcb9c6d3eb6df4cd4c50a3ae4e8545d59"
+  },
+  "compact_own_parent_manifest": {
+    "path": "problems/2024-B4/reviews/coordinator-neighbor-Frobenius-r1-review-2-manifest-v1.json",
+    "bytes": 4982,
+    "sha256": "e8649ee8b90594d91a41dbd46f18136f638f95f19c291e63d26233886419ace7"
+  },
+  "compact_own_parent_validation": {
+    "path": "problems/2024-B4/reviews/coordinator-neighbor-Frobenius-r1-review-2-input-validation-v1.json",
+    "bytes": 4098,
+    "sha256": "1bdff9ea6d262834c29f7a0667d392bebc273fdb8245972ff802a5ea3c0e2850"
+  },
+  "older_own_paths_bound_transitively": 466,
+  "new_own_files_including_manifest": 9,
+  "older_plus_new_own_paths_bound_transitively": 475,
+  "no_historical_inventory_recopied_or_recursively_rehashed": true,
+  "no_mathcode_scan_CAS_native_mathematical_child_or_author_rerun": true,
+  "no_old_shared_Git_cache_edit_spawn_contact_charge_or_bypass": true,
+  "later_constructor_versions_and_queued_R12_unopened_before_current_entire_freeze": true,
+  "authoritative_weekly_telemetry": {
+    "at_utc": "2026-10-18 00:44:05 UTC",
+    "method": "mcp__codex_app__get_usage_limits({}); rateLimitsByLimitId.codex.primary and legacy agree",
+    "account_label": "029a8928\u20261334ac3a",
+    "used_percent_total": 4,
+    "window_minutes": 10080,
+    "reset_unix": 1792874445,
+    "ordinary_usage_allowed": true,
+    "new_window_explicitly_user_authorized": true,
+    "total_ceiling_percent": 90,
+    "integration_reserve": true,
+    "automatic_further_reset_spending": false
+  },
+  "artifacts": [
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r9-review-2-baseline-v1.json",
+      "bytes": 11593,
+      "sha256": "d8e15ad8bcdb84f4c36ae63d4a87e61c9caaa460d88035f34e5e5a437d12ecf4"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r9-review-2-initial.md",
+      "bytes": 25559,
+      "sha256": "242538cde82a19e11367847cb2b883cc2de9ea560488bc05f73b44b97722d118"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r9-review-2-ledger-v1.md",
+      "bytes": 9945,
+      "sha256": "cd6fc5cb181b8b9d54a7ef2ad9c94eda22c8b524c015758e1b26218cb0fba0e9"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r9-review-2-issues-v1.md",
+      "bytes": 3803,
+      "sha256": "81a48af7565d4aa27480fd9ab5f3b676e6ad38f82849d68a47f7c9a453d5343b"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r9-review-2-source-checks-v1.md",
+      "bytes": 9236,
+      "sha256": "f6b9500ad90dbd3ae4d9f9507850c36f8e02d8724afc660e1a40f2c0d25f344b"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r9-review-2-sources-v1.json",
+      "bytes": 6531,
+      "sha256": "8b8e0d961728466d5e1e7830b409d67ae8c7f2723708d47b3d024c983d2ad475"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r9-review-2-freeze-v1.py",
+      "bytes": 7596,
+      "sha256": "34a4d5261faf6213897aff6e0fcf89df718eec4f48778b4da00aa586556ad269"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r9-review-2-input-validation-v1.json",
+      "bytes": 4630,
+      "sha256": "a0c865e468662eb10337e77873d926bb6f8a6d0976ea8b02e21f1bca45295f08"
+    }
+  ]
+}

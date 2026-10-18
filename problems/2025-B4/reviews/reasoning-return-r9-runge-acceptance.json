@@ -1,0 +1,66 @@
+{
+  "accepted_at_utc": "2026-10-18T01:02:10.667190+00:00",
+  "status": "proved, independently reviewed scoped partial result",
+  "whole_initials_blind": true,
+  "root_read_full_candidate_both_reports_all_ledgers_sources": true,
+  "unresolved_substantive_issues": 0,
+  "repair_required": false,
+  "candidate": {
+    "path": "problems/2025-B4/notes/reasoning-return-r9-runge-candidate-v1.md",
+    "bytes": 16773,
+    "sha256": "8bcd69dfa97441b23fd456268e655312aea55a0f7a64a5237f0117f6a192b90a"
+  },
+  "accepted_copy": {
+    "path": "problems/2025-B4/proofs/reviewed-reasoning-return-r9-runge-v1.1.md",
+    "bytes": 19902,
+    "sha256": "4ae442f75a8ec6a3cc370e92ade90a9ed126367e873588e83d6b2e72702afdf1"
+  },
+  "verification_metadata": [
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r9-runge-freeze-v1.json",
+      "bytes": 2364,
+      "sha256": "cb5073bbce53c07b12e5b253af51f278ebd6475c0600d700bef6a9064a7ec32b"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r9-runge-baseline-v1.json",
+      "bytes": 3065,
+      "sha256": "bf7d69e2477ca16a5d6ac7396306a5878695b0e22abc44518ff88fed8417fa5e"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r9-runge-review-1-manifest-v1.json",
+      "bytes": 3603,
+      "sha256": "dfd09d56856267e15f153db8c4f65086a91872840c2764b5a08d0bb243c3d242"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r9-runge-review-1-integrity-v1.json",
+      "bytes": 9616,
+      "sha256": "09b2a9e8fe38a7fc81816e1f7833903be2428d1faad608832647df550d39a31f"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r9-runge-review-2-manifest-v1.json",
+      "bytes": 3792,
+      "sha256": "d123d5a2b91f6846ee61a702de890d61f4e7c2b3bc568f1f7773331ea51b95d5"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r9-runge-review-2-input-validation-v1.json",
+      "bytes": 20717,
+      "sha256": "255461346b7307a3a6072f396462589443f59e326b2dce109c4d9275edfc4688"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r9-runge-review-2-freeze-output-v1.json",
+      "bytes": 694,
+      "sha256": "3b9f8d14ed17d7ca7b3a7a8f3288cebc2da56d065396048f4726d8cbe7bad5f2"
+    }
+  ],
+  "record_occurrences_verified": 170,
+  "unique_paths_verified": 63,
+  "constructor": "/root/review_2017_coarsening_r1",
+  "OTHER_whole_reviewers": [
+    "/root",
+    "/root/review_2021_reasoning_j15_r2"
+  ],
+  "all34_obligations_in_both_whole_initials": true,
+  "constructor_excluded": true,
+  "finite_unevaluated_procedure_only": true,
+  "no_new_prime_exclusion_or_annual_claim": true
+}

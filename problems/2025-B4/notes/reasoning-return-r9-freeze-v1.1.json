@@ -1,0 +1,80 @@
+{
+  "frozen_at_utc": "2026-10-18T00:54:24.238481+00:00",
+  "status": "COMPLETE FULL R9 v1.1 author repair - candidate proof unverified",
+  "required_issues_addressed": [
+    "R9R1-01",
+    "R9R2-01"
+  ],
+  "scope_note_explicit": "R9R2-N3 chosen-number nonlinearity only",
+  "full_obligations": 56,
+  "all_original_v1_and_both_whole_initials_preserved": true,
+  "both_OTHER_affected_reaudits_required_before_coordinator_promotion": true,
+  "immutable_own_parent": {
+    "path": "problems/2017-B4/notes/reasoning-value-return-r6-freeze-v1.1.json",
+    "bytes": 2987,
+    "sha256": "bd8d7cfcd6d81dd09432e2c8c445bd401c864f3d640fc7214336f034e9effa02"
+  },
+  "historical_own_paths_bound": 517,
+  "separate_new_positive_interlude_paths": 1,
+  "own_paths_after_interlude_and_this_packet": 530,
+  "declared_occurrences_verified": 35,
+  "deduplicated_paths_verified": 35,
+  "no_Diophantine_exclusion_annual_or_source_final_theorem_refutation_claim": true,
+  "artifacts": [
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r9-candidate-v1.1.md",
+      "bytes": 25036,
+      "sha256": "9d8d7bf826bd54be252c184d1c299f81be5419f2168d03d4e6df0f06722adde0"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r9-obligations-v1.1.md",
+      "bytes": 6818,
+      "sha256": "ca329355681268cfa6229f8ddf4b03362fed7337ec09ae3838667eee528bedbd"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r9-sources-v1.1.md",
+      "bytes": 8675,
+      "sha256": "b0e46aa9b6bdfba6bd2914d7c2ee6e4a5b927ecaf3b33f907bdff688ce87aa0d"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r9-failed-routes-v1.1.md",
+      "bytes": 5694,
+      "sha256": "6f31ddbf2e67110243984d82e7a339d03a0017ebd4deba36936f21de45ff7fd3"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r9-worklog-v1.1.md",
+      "bytes": 7142,
+      "sha256": "2ccaa6021445b78e54911920b84790d830595da6fe8df0506adbd0919e921e14"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r9-repair-ledger-v1.1.md",
+      "bytes": 7172,
+      "sha256": "24131c46cd41a152b289893d0cb1efdb7aa429ee759276f3f1815e11410e02d1"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r9-diff-v1-to-v1.1.patch",
+      "bytes": 21556,
+      "sha256": "12e573161419aaa990d9ddd5de5ca88f0d1a538b3ddff446fbce090dfe750fdd"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r9-freeze-v1.1.py",
+      "bytes": 9349,
+      "sha256": "7a3a6852e5df751011d226442428848232bc76b52a9827c75fce9002b168826a"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r9-baseline-v1.1.json",
+      "bytes": 7962,
+      "sha256": "c2c1ba3c1e0a16c30ae5183da95dc212eb40ed1baa69df77cd38e4276839d2ce"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r9-metadata-v1.1.json",
+      "bytes": 1498,
+      "sha256": "3abe870f35ba51ab8c001a293c91b6712f6b3fddb95362b3884f17ce9f913bd5"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-return-r9-input-validation-v1.1.json",
+      "bytes": 610,
+      "sha256": "e5a142ceb30e6ac37438de7c9897e287ccb4ed390b0ef1b6383e97dc309eb823"
+    }
+  ]
+}

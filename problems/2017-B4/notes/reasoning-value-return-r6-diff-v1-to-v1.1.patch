@@ -1,0 +1,494 @@
+--- problems/2017-B4/notes/reasoning-value-return-r6-candidate-v1.md
++++ problems/2017-B4/notes/reasoning-value-return-r6-candidate-v1.1.md
+@@ -1,11 +1,20 @@
+ # Actual plane patches, finite upper certificates, and a boundary-entropy gap
+ 
+-2026-10-17 UTC. **Candidate proof - unverified.** Constructor C,
++2026-10-18 UTC, FULL version1.1. **Candidate proof - unverified.** Constructor C,
+ `/root/review_2017_coarsening_r1`; inherited requested gpt-6.1-sol/max,
+ independent effective-setting readback unavailable. TWO OTHER initially
+ blind WHOLE nonconstructor audits and coordinator reconciliation are
+ required. No mathematical executable, scan, CAS, certificate replay or
+ proposed-algorithm execution was used.
++
++This full version repairs PMR2-01 after BOTH original whole initials
++froze. The countably distinct ambient perturbation in version1 did not
++retain de Tiliere's standing finite-angle hypothesis. Here ONLY the
++finite track set meeting the marked patch is perturbed; the ambient
++angle set stays finite. The precise finite same-track completion input,
++its operative boundary/corner data, the DC limit and PM3 dependence are
++made explicit. EVERY original v1 byte and both initial audits are
++preserved. BOTH affected reaudits are required; this is not promotion.
+ 
+ The numerical2017 scalar remains unknown. This packet supplies an actual
+ finite local model and an actual bounded-content patch-extension bridge,
+@@ -244,9 +253,18 @@
+   train-track-convex and then completed to a convex opposite-edge
+   polygon. The operative construction keeps the same track set.
+ 
++The second source has a STANDING finite-rhombus-angle hypothesis in
++its front matter. It is retained literally below, including after the
++perturbation. Version1 failed to state/check that condition; positive
++minimum areas do not imply a finite angle set. The first review checked
++the finite operative proof, while the second required an explicit author
++interface repair. This version supplies one instead of silently importing
++the reviewer's explanation or an infinite-angle extension.
++
+ These statements and operative proofs were actually read. Parallel
+-tracks are allowed; the distinct-angle reduction in the second proof
+-is resolved below rather than being treated as an extra hypothesis.
++ambient tracks are allowed. Only the finitely many tracks meeting the
++patch need distinct unoriented directions in the second finite
++construction. That exact finite corollary is exposed in section4.2.
+ No dimer measure, periodic density or entropy conclusion is imported
+ from these geometric results.
+ 
+@@ -272,36 +290,138 @@
+ not its intermediate physical coordinates. Those coordinates will be
+ restored exactly after completion.
+ 
+-### 4.2 Track preservation and repeated directions
++### 4.2 Track preservation, finite perturbation and finite completion
+ 
+ In the rhombic plane let T be the finite set of global tracks meeting
+ P. Every one crosses P's boundary at least twice, and each boundary
+ edge belongs to just one track. Hence |T|<=e/2. Lemma4.2 gives a
+ train-track-convex disk P' containing P and meeting exactly T.
+ 
+-Here is a finite-angle limiting justification for repeated colors in
+-Lemma4.3's use. Enumerate all tracks of the rhombic plane and give
+-each track of color i a distinct angle theta_i+epsilon c_t, with
+-distinct fixed c_t in(-1,1); give its opposite orientation the opposite
+-angle. There is a positive gap between different color directions.
+-For epsilon smaller than a fixed fraction of that gap, all existing
+-crossing inequalities stay strict; same-color tracks never cross and
+-impose no such inequality. Lemma4.5 provides the perturbed embedding.
+-Its face angles still have a uniform positive lower bound, so the image
+-is again the whole plane. P' remains track-convex topologically.
+-
+-Apply the distinct-angle convexification to this P'. Each added rhombus
+-joins two of the EXISTING tracks, adding one missing crossing; it creates
+-no new track. There are at most binom(|T|,2) total crossings. The output
+-is a full zonogon with these |T| distinguished directions, containing
+-the marked P'. At fixed |T| there are only finitely many full classes
+-and marked occurrences of P'. Along a sequence epsilon down to zero
+-choose a subsequence with those data fixed. Within each original color
+-the c_t order is fixed, so those directions form consecutive blocks.
++For clarity, the first published construction follows a boundary track
++through each finite excursion outside the current patch and fills the
++bounded region between that excursion and the old boundary. It keeps a
++disk. Any track through a newly filled region must also meet the old
++bounding arc, since crossing the excursion track twice is forbidden.
++Thus no track outside T is introduced. The same once-only fact prevents
++undoing convexity already achieved for an earlier track. There are
++finitely many original boundary tracks and finite excursions, so the
++result P' is finite, meets exactly T and has precisely two ports for
++each member of T. This is Lemma4.2 in its actual original finite-angle
++plane domain; no added arbitrary decorated disk is substituted.
++
++Now assign distinct fixed numbers c_t in(0,1) to ONLY the tracks t in T.
++For a track of original color i in T set its positive transversal angle
++to theta_i+epsilon c_t; leave EVERY track outside T at theta_i. Opposite
++orientations receive angle+pi. Choose epsilon smaller than a fixed
++fraction of the positive gaps between the original color directions
++and of their common open-half-plane margin. Then:
++
++* every existing crossing of different original colors remains strictly
++  order-preserving in the Kenyon--Schlenker convention;
++* same-color tracks do not cross, so neither their perturbed comparisons
++  nor their comparisons with unperturbed same-color tracks impose an
++  existing-crossing inequality;
++* the directions on T are distinct, nonparallel, and stay in one open
++  half-plane; their within-color order is fixed by c_t;
++* the ENTIRE perturbed plane uses at most D+|T| transversal directions,
++  and therefore finitely many rhombus angles.
++
++Kenyon--Schlenker Lemma4.5 gives the perturbed embedding in the same
++planar isotopy class. All its existing tiles still use different
++original colors, so their angles have the same uniform positive margin
++after the small perturbation. Section4.1's area argument again gives the
++WHOLE plane. P' is the same embedded marked finite disk and its track
++convexity/ports are unchanged. Thus the second source's standing domain
++now holds LITERALLY; an assertion for arbitrary infinite-angle planes
++is unnecessary.
++
++**FC, the exact finite same-track corollary used.** In an actual rhombus
++plane with finitely many angle types, let H be a finite Jordan tile disk,
++train-track-convex, meeting n tracks whose n unoriented transversal
++directions are distinct. Then H can be enlarged to a convex centrally
++symmetric 2n-gon tiled by rhombi on those SAME n distinguished directions,
++retaining H as a marked subpatch. Every pair of distinguished tracks
++crosses exactly once in the output. No new track or port pair is added;
++at most binom(n,2)-f new faces are needed, where f is the old face count.
++
++This is the finite conclusion of de Tiliere Lemma4.3 in the literal
++standing domain just restored. The geometric legality of its embedded
++corner additions is an ATTRIBUTED published input in that domain,
++rather than a claim that any locally positive abstract disk embeds.
++Here is the operative finite argument, including the data that are
++needed for the marked/content claim.
++
++Orient the 2n boundary ports counterclockwise and pair each with the
++other port of the same track. Their vectors are opposites. Let W(e,f)
++be the UNWRAPPED turn along the counterclockwise boundary interval.
++The finite construction uses these facts:
++
++    total boundary turn=2pi; W(e,e*)=pi;
++    W(e,f)>-pi for any two boundary ports;                 (FC1)
++    convexity iff every pair of the n tracks crosses.       (FC2)
++
++The port identity W(e,e*)=pi is computed on one boundary side of that
++track's finite strip, with path comparison on the bounded subdisk. It
++does not identify an unwrapped turn with a principal angle modulo2pi.
++For FC2, a noncrossing pair has nonalternating ports. The two intervals
++between their corresponding ports have opposite turns, by the paired
++pi identities and the total2pi identity. Distinct directions make one
++negative. If the pair crosses, its crossing rhombus and the two strip
++boundary paths cut off a bounded subdisk; the same turn identities make
++the corresponding port-to-port turn positive. Hence all pairs crossing
++is equivalent to all corner turns being positive.
++
++The lower bound in FC1 is the finite corner induction in the operative
++proof. Order the strips adjacent to the boundary. Their oriented
++transversal directions turn through2pi, so some consecutive pair has
++a positive turn and their crossing is an outer boundary rhombus.
++Removing that rhombus leaves a smaller train-track-convex disk (a strip
++which disappears is simply omitted in this induction). Starting with
++one rhombus and reinserting these boundary rhombi proves the lower
++bound using the simple strip/subdisk path comparisons. This induction
++uses only the finite ports, strips and their crossing rhombi, not a
++bound on directions of unrelated outside faces. We retain the source's
++embedded-corner conclusion, with all its ambient hypotheses met, rather
++than claiming these angle inequalities alone prove global injectivity.
++
++If a pair is missing, FC2 gives a negative adjacent boundary turn.
++The source's corner operation attaches the rhombus of those two
++directions across that concave corner. The adjacent turn inequalities
++in FC1 keep the neighboring boundary fans admissible; its finite
++induction proves that this is an embedded addition and preserves FC1.
++The two old tracks are extended through this face. Their remaining
++ports are unchanged, their two corner ports exchange boundary order,
++and all other tracks/ports remain fixed. They did not previously cross
++(a crossed pair has positive turn), so exactly ONE new pair crossing
++is created. The old ambient pieces OUTSIDE the finite patch are not
++retained: a pair which met out there is still an uncrossed pair of the
++finite arcs until this operation. No double crossing is added inside
++the completed finite diagram. The disk and its marked old rhombi survive. Repeating
++increases the crossing count by1 and can occur at most binom(n,2)-f
++times. It ends with all pairs crossed and a convex polygon. The paired
++pi identities give its opposite boundary edges as equal and parallel;
++one unit port of each sign occurs for every distinguished track.
++Sorting their directions therefore identifies precisely the full
++zonogon with those n unit generators, up to translation. This is a
++finite completion statement; no periodic plane, measure, or entropy
++claim is imported.
++
++Apply FC to the perturbed P'. All existing and added directions are
++the n=|T| directions already assigned to T. At this fixed n there are
++only finitely many full classes and marked occurrences of P'. Along
++epsilon down to zero choose a subsequence with those data fixed.
++Within each original color the c_t order is fixed, so its distinguished
++directions form one consecutive block. No choice of epsilon or
++subsequence changes n or the content bound.
+ 
+ Apply the accepted DC smoothing to this fixed full class, erasing all
+ within-color crossings. It gives an ACTUAL block-reversal tiling with
+-contents N_i=#{tracks of T of color i}. Its physical realization at
++contents N_i=#{tracks of T of color i}. To use the accepted DC statement,
++first OMIT the groups with N_i=0; its partition has nonempty blocks.
++After projection reinsert the absent color coordinates as constants.
++Positive area of P guarantees at least two active original directions.
++This yields the desired possibly-zero-content D-direction zonogon.
++Its physical realization at
+ the vectors u_i is the limit of the noncollapsed tiles. Every old P'
+ tile uses two different colors, so none is erased. Its coordinates,
+ integrated from its fixed marked anchor, tend to exactly its original
+@@ -317,9 +437,17 @@
+ u_i back to v_i. It gives a genuine full standard zonogon tiling.
+ On the connected marked P all edge increments are the original +/−v_i,
+ so all its physical coordinates are restored up to ONE translation.
+-An anchored vertex is integer in both realizations, making this
+-translation integer. The contents satisfy(2), including absent colors.
++An anchored vertex is integer in the ORIGINAL v_i realization and in
++the FINAL v_i realization, making this translation integer; the
++intermediate unit rhombic coordinates need not be integer. The original
++plane lift and the final canonical full lift may differ by ONE integer
++rank vector. They are aligned at that single marked vertex, not by
++independent choices on different sides. The contents satisfy(2),
++including absent colors.
+ This proves PM2's existence assertion without a density-one packing.
++In particular finite perturbation avoids the old infinite-angle grid
++certificate rather than denying it. The proof imports no extension of
++de Tiliere's global standing model to countably many angle types.
+ 
+ ### 4.3 One exterior and actual complete-boundary fibers
+ 
+@@ -389,6 +517,14 @@
+ offset is J'x_out+c-b, whose V-image is zero. It is the SAME for the
+ whole conditioned family.
+ 
++Here PM2 means the repaired finite-angle/FC construction in section4.2.
++It chooses the finite perturbation and one completed exterior ONLY for
++that single class member. The complete-boundary fiber argument then
++extends every other filling. Its content bound, not any small-angle
++constant from an intermediate embedding, is what is used by this
++conditioning step. Thus no epsilon depending on that member or on
++|T| introduces a new q-dependent estimate or a per-filling phase choice.
++
+ US_D2 therefore applies with every rank, phase, available-box and
+ whole-buffer hypothesis intact. Add the boundary-class loss to its
+ upper code. Since L+log(L+2) is absorbed by a fixed multiple of L+1,
+--- problems/2017-B4/notes/reasoning-value-return-r6-obligations-v1.md
++++ problems/2017-B4/notes/reasoning-value-return-r6-obligations-v1.1.md
+@@ -1,8 +1,10 @@
+-# R6 plane-patch/mass packet: whole audit obligations
++# R6 plane-patch/mass packet: FULL version1.1 whole audit obligations
+ 
+ Candidate proof - unverified. C and root are contributors and are
+ excluded from the required TWO OTHER initially blind WHOLE audits.
+-All48 rows require complete mathematical and source-scope reconstruction.
++All original48 rows remain, with PM21--22 revised for the finite-angle
++repair, and12 affected-interface checks are added:60 obligations in all.
++Both original OTHER whole reviewers must reaudit every affected inference.
+ 
+ |ID|Required reconstruction|
+ |---|---|
+@@ -26,8 +28,8 @@
+ |PM-18|Finite positive angle set rules out half-plane/strip images by the disjoint positive-area packing argument.|
+ |PM-19|For an actual finite Jordan patch each entering global track uses at least two boundary edges, giving |T|<=e/2.|
+ |PM-20|de Tilière Lemma4.2's actual-plane hypothesis and its no-new-track construction are satisfied; P' is finite and track-convex.|
+-|PM-21|Countably distinct perturbations preserve all crossing angle inequalities, including opposite orientations; same-color tracks impose no crossing inequality.|
+-|PM-22|Perturbed image remains the whole plane; Lemma4.3's distinct-angle construction adds crossings only among the same finite track set.|
++|PM-21|Perturb ONLY finite T; untouched tracks retain their D angles, every existing crossing inequality/opposite orientation is preserved, and the whole ambient angle set stays finite.|
++|PM-22|Perturbed image remains the whole plane; the exact FC corollary uses Lemma4.3 in its literal finite-angle domain, with its finite corner/port construction and same track set.|
+ |PM-23|Finite full classes and marked occurrences permit a fixed-class subsequence; within-color angular orders and consecutive blocks stay fixed.|
+ |PM-24|Accepted DC smoothing, group-summed cochains and the limiting coordinates retain every positive old patch tile; no arbitrary zero-face contraction is assumed.|
+ |PM-25|Return from unit u_i to v_i restores the connected patch exactly up to ONE integer translation; absent colors cause no exception.|
+@@ -54,3 +56,18 @@
+ |PM-46|The strict entropy gap has the exact sign2^13>3^8; it is an ACTUAL model counterexample, with no scan or transcendental decimal estimate.|
+ |PM-47|PM2 is not a vanishing-cost collar, PM3 is not a whole free-entropy equality, and full macroscopic boundary MASS/upper R remains open.|
+ |PM-48|All source roles/read limits/failed routes/commands/settings/telemetry and compact preservation are honest; contributors excluded and both whole audits required before promotion.|
++
++|RepairID|Required affected reconstruction|
++|---|---|
++|FC-01|Original source front-matter finite-angle assumption is explicitly acknowledged; old global distinct perturbation fails it on the exact two-color grid.|
++|FC-02|Only T directions move; finite D+|T| ambient set, distinct directions on T, common open half-plane and fixed within-color order.|
++|FC-03|KS strict order inequalities at ALL existing crossings, including T/outside-T pairs and unperturbed repeated same-color tracks.|
++|FC-04|Existing face angle/area margin and whole-plane image; P' retains its marked disk, track-convexity and exact two ports per track.|
++|FC-05|FC's precise hypotheses are the literal finite-angle published domain; embedded-corner legality is attributed, not an unsupported arbitrary-disk theorem.|
++|FC-06|Finite total-turn and opposite-port pi identities; unwrapped turns not principal angles; crossing versus noncrossing port orders and FC2.|
++|FC-07|Finite boundary-ear/corner induction for the lower turn bound, scope of the source's embedded addition, and no outside angle premise.|
++|FC-08|Each addition exchanges two ports of an uncrossed finite pair, creates one crossing, retains all marked tiles and no new track, and terminates within binom(n,2)-f steps.|
++|FC-09|Completed opposite unit edges identify the full zonogon on SAME distinguished T, with fixed content independent of epsilon; old ambient outside is discarded.|
++|FC-10|Fixed-class/marked subsequence, consecutive blocks, actual accepted DC projection, no positive old face erased, one anchor and physical restoration; omit/reinsert zero groups.|
++|FC-11|ONE exterior works for the ENTIRE physical/colored/lifted boundary fiber; original absolute ranks may rebase by ONE common vector.|
++|FC-12|PM3 joint trace/anchor class precedes ONE completion; only content bound enters its estimate, with same affine offset, whole buffer, q-safe constants and no new lower/reference claim.|
+--- problems/2017-B4/notes/reasoning-value-return-r6-sources-v1.md
++++ problems/2017-B4/notes/reasoning-value-return-r6-sources-v1.1.md
+@@ -1,6 +1,10 @@
+-# R6 sources and exact actual-read/import scopes
++# R6 sources and exact actual-read/import scopes, FULL version1.1
+ 
+-2026-10-17 UTC. Candidate proof - unverified. This is a source-led
++2026-10-18 UTC. Candidate proof - unverified. Unchanged reading statements
++below record the original2026-10-17 constructor pass; they do NOT claim
++fresh rereads of unrelated KOS/MacMahon mathematics for this repair.
++Current fresh repair reads and the standing-domain correction are explicit
++in the geometric source sections and final repair note. This is a source-led
+ construction, with no priority claim and no automatic transfer from
+ plane entropy to fixed-boundary entropy. All primary web reads completed
+ normally; no native download, cache edit or remote byte-hash claim.
+@@ -57,19 +61,35 @@
+ area argument supplied in our main. No convexity of the height-profile
+ set, entropy formula or periodic-density theorem is imported. Later
+ embedding-extreme-point/torus results are not premises or claimed fully
+-read. The finite-angle perturbation/DC degeneration is our explicit
++read. The finite-track perturbation/DC degeneration is our explicit
+ special adaptation, not a verbatim source theorem about integer boxes.
++For this repair, Definition4.4 and the COMPLETE Lemma4.5/proof were
++freshly reread, together with its Theorem4.1 proof context. Perturbing
++only T and leaving other tracks at original angles meets those exact
++strict crossing conditions while retaining a finite ambient angle set.
+ 
+ ## de Tilière: actual patch extension
+ 
+ [Quadri-tilings of the plane, math/0403324v3](https://arxiv.org/pdf/math/0403324).
+-Read COMPLETE Section4.1 context/Proposition4.1 and BOTH operative
++Original pass read COMPLETE Section4.1 context/Proposition4.1 and BOTH operative
+ Lemma4.2/4.3 proofs through their Properties1--4, printedpp12--15,
+ web lines587--855. The input is an ACTUAL plane rhombus tiling and a
+ finite simply connected patch. The first construction creates no new
+ tracks; the second adds missing crossings among the same finite set.
+-Its distinct-angle reduction does not become an extra hypothesis:
+-PM2 gives a finite-class/DC limit for repeated directions. Theorem4.4's
++The original pass omitted the front-matter standing condition that the
++ENTIRE ambient plane use finitely many rhombus angles. Both initial
++reviewers independently noticed it. For this repair the actual v3
++front matter, especially extracted lines64--67, and COMPLETE operative
++Lemma4.2/4.3 proofs/Properties1--4 were freshly reread through line855.
++The countably distinct ambient perturbation is removed. Only finite T
++is perturbed, leaving at most D+|T| positive transversal directions;
++all existing faces retain a positive margin and the source's global
++finite-angle standing condition is LITERALLY satisfied. FC records the
++precise finite same-track corollary and its turn/port/corner induction.
++Embedded corner legality remains the source theorem input within its
++actual domain, not a newly assumed theorem about arbitrary partial
++diagrams or infinite-angle planes. PM2 gives the marked finite-class/DC
++limit for repeated original directions. Theorem4.4's
+ periodic construction was opened partially as context but is NOT used
+ or claimed wholly read. No vanishing collar, density-one zonogon packing,
+ random-tiling entropy or dimer-measure conclusion is imported from it.
+@@ -131,3 +151,27 @@
+ BOTH are excluded from the two required independent whole audits.
+ Only root may later promote exact scoped results after OTHER auditors
+ freeze and all substantive objections are reconciled.
++
++## Current full author repair/read limits
++
++Both ENTIRE frozen R6 reports, BOTH48-row ledgers, their full source
++MD records and B's source JSON were read before writing this repair.
++No initial was replaced, and A's closed N1 is preserved alongside B's
++substantive PMR2-01. The operative main was reread completely; accepted
++DC was freshly reread completely, and accepted US_D2 exact quantifiers
++were reread for PM3's dependency/offset/buffer check. Other old accepted
++proofs retain their separately checked original authority; no new
++independent self-audit is claimed.
++
++A direct version-suffixed de Tiliere URL returned a bounded web cache
++miss. The canonical arXiv URL then returned the actual v3 title/version
++and operative text normally. No stalled escalation, download or binary
++cache/hash is claimed. One local read initially named nonexistent
++sources-v1.json; it returned a normal file-not-found, then rg located
++and the COMPLETE actual sources-v1.md was read. Neither operation
++changed any file. Two context-mismatched patches to the UNFROZEN new
++version changed no bytes; the corrected own-version patches succeeded.
++
++All current source reads used bounded read-only web calls. No charge,
++contact, access bypass, native child, mathematical executable, compiler
++or enumeration was used. Both affected reaudits remain required.
+--- problems/2017-B4/notes/reasoning-value-return-r6-failures-v1.md
++++ problems/2017-B4/notes/reasoning-value-return-r6-failures-v1.1.md
+@@ -1,4 +1,4 @@
+-# R6 actual failed routes and unresolved inference
++# R6 actual failed routes and unresolved inference, FULL version1.1
+ 
+ 2026-10-17 UTC. Candidate proof - unverified. This records real
+ reasoning, including ideas rejected before the final four claims.
+@@ -23,12 +23,23 @@
+    full theorem. Arbitrary locally admissible finite blocks are not
+    proved plane-extendable by this argument, nor are necessary prefix
+    tests sufficient for an arbitrary decoration.
+-4. **Repeated track angles.** Directly quoting the distinct-angle step
+-   in de Tilière while merging parallel tracks could hide collapsed
+-   tiles/ranks. The main now gives an actual unit reembedding, countably
+-   generic perturbation, fixed finite-class subsequence and accepted
+-   consecutive-color DC smoothing. Positive old patch tiles survive
+-   with their exact group-summed cochain coordinates.
++4. **Repeated track angles and the standing source domain.** Version1
++   used countably distinct track perturbations. On the exact two-color
++   grid, fixing one first-color track yields infinitely many different
++   angles pi/4+epsilon(c_s-c_t) against distinct second-color tracks.
++   Positive area and an embedded plane therefore do NOT meet the
++   source's explicit finite-angle standing hypothesis. Both original
++   reviewers noticed the convention; B required an author interface
++   repair while A reconstructed the finite proof. That reviewer
++   explanation is not silently adopted as a new proof premise.
++   Version1.1 instead perturbs ONLY finite T, preserving a finite
++   ambient direction set and every KS inequality. Its exact finite
++   same-track FC corollary stays within the published domain, with
++   embedded-corner legality attributed and all port/turn/termination
++   and marked-limit data explicit. Fixed finite classes and accepted
++   DC smoothing retain every positive old patch tile and its one-anchor
++   cochain coordinates. There is no claimed infinite-angle extension,
++   arbitrary zero-face quotient or preservation of outside ambient tiles.
+ 5. **A patch exterior of negligible cost.** Track preservation gives
+    contents O(perimeter), hence an outer diameter O(perimeter), but
+    this need not be a relative o(L) collar around a span-L patch.
+@@ -61,3 +72,8 @@
+ PM1's true finite certificates are deliberately not labeled hypothesis R.
+ No argument here proves L computable, noncomputable, or numerically
+ evaluated. No annual closure or literature priority claim is made.
++
++This is a full versioned repair of the source interface, not an
++acceptance. Original v1 bytes, the exact grid certificate and both
++initial audit dispositions remain preserved. PM1 and PM4 are unaffected;
++PM2 and dependent PM3 require BOTH affected reaudits before promotion.
+--- problems/2017-B4/notes/reasoning-value-return-r6-worklog-v1.md
++++ problems/2017-B4/notes/reasoning-value-return-r6-worklog-v1.1.md
+@@ -1,6 +1,7 @@
+-# R6 complete mathematical/source/checkpoint log
++# R6 complete mathematical/source/checkpoint log, FULL version1.1
+ 
+-2026-10-17 UTC. C constructor. New reserved prefix confirmed unused
++Original frozen history2026-10-17 UTC; full author repair2026-10-18 UTC.
++C constructor. New reserved prefix confirmed unused
+ before its first write. Every write is in reasoning-value-return-r6-*;
+ no old/shared/Git/cache file was edited. No subagent was spawned.
+ 
+@@ -77,3 +78,66 @@
+ 2020R8 audit from C's queue and assigned it to A; that target and all
+ new peer audit findings remain unopened here. No promotion or annual
+ answer is made.
++
++## Complete versioned repair after BOTH original initials
++
++The preceding entries preserve the original constructor history; they
++do not erase its source-scope miss. Root reported that BOTH whole
++initials had frozen, and required an explicit author repair before both
++affected reaudits. I read A's ENTIRE report, its full48-row issue ledger
++and source record; B's ENTIRE report, all48 ledger rows, issue/source MD
++and source JSON; the ENTIRE original main and its original obligations,
++source, failures and worklog. Aggregate output truncation was recovered
++by bounded individual reads. No unreturned source call is hidden.
++
++The source's front-matter standing finite-angle hypothesis was freshly
++read, together with complete Lemmas4.2--4.3/Properties1--4 and KS's
++Definition4.4/Lemma4.5 operative proof. Original v1 had not stated that
++standing condition and its countably distinct perturbation can violate
++it. A's closed source observation and B's repair requirement are both
++preserved. I do not call the source theorem false, or a reviewer
++explanation an already accepted new premise.
++
++New full versioned candidate/obligation/source/failure/worklog copies
++were made with nonoverwriting cp after confirming the v1.1 prefix
++unused. Only the new copies were edited. The proof now perturbs ONLY
++the finite track set T, retaining at most D+|T| ambient directions and
++all crossing inequalities. This restores the standing source domain
++literally, instead of extending it to arbitrary infinite-angle planes.
++The exact finite FC corollary records turn/opposite-port identities,
++finite corner induction, one-crossing increments, fixed track count,
++termination and the actual convex zonogon output. Published embedded
++corner legality is retained as an attributed input within its real
++hypotheses, not inferred from arbitrary abstract local angle tests.
++
++I then rechecked the marked/DC limit, zero-color handling, integer
++physical restoration, ONE anchor and the whole boundary fiber. The
++accepted DC body was freshly reread completely. US_D2 exact quantifiers
++were freshly reread: PM3's joint boundary/anchor conditioning precedes
++one completion; the whole buffer and SAME affine offset survive, and
++only the content bound enters its q-safe estimate. The intermediate
++epsilon may depend on T, but no new constant in the count is taken
++from its small geometric angle. PM1/PM4 mathematics is unchanged.
++
++The new full obligations retain48 rows with revised PM21--22 and add
++FC01--12,60 in all. The repair ledger gives the exact source-domain
++grid certificate and every affected dependency. Both OTHER affected
++reaudits are required; no coordinator acceptance or new scalar value
++is asserted. Root/C remain contributors excluded from independent count.
++
++Operational corrections: a version-suffixed web URL returned a bounded
++cache miss, then the canonical source URL returned actual v3 normally.
++One nonexistent local sources-v1.json path was corrected after rg.
++Two context-mismatched patches to own UNFROZEN v1.1 returned errors and
++changed no file; corrected patches succeeded. No download, escalation,
++native child, mathematical program/scan/CAS, compiler/count replay,
++contact, charge, bypass, spawning, Git or shared/cache mutation occurred.
++
++The immediate compact own parent is now the separate COMPLETE2025
++Runge-cover packet, binding505 earlier own paths. It is a preservation
++reference only and not a mathematical premise of this2017 repair.
++Own direct account telemetry at the current group transition returned
++4% TOTAL in the explicitly human-authorized10080-minute window,
++reset1792874445, ordinaryUsageAllowed true. Ceiling90% TOTAL with reserve
++and no automatic further reset persist. Requested inherited
++gpt-6.1-sol/max remains separate from unavailable effective readback.

@@ -1,0 +1,69 @@
+{
+  "frozen_at_utc": "2026-10-18T01:00:36.701500+00:00",
+  "status": "ENTIRE OTHER WHOLE affected R1 complete; scoped PASS, reconciliation pending",
+  "reviewer": "/root",
+  "constructor": "/root/review_2017_coarsening_r1",
+  "target": {
+    "path": "problems/2025-B4/notes/reasoning-return-r9-candidate-v1.1.md",
+    "bytes": 25036,
+    "sha256": "9d8d7bf826bd54be252c184d1c299f81be5419f2168d03d4e6df0f06722adde0"
+  },
+  "constructor_freeze": {
+    "path": "problems/2025-B4/notes/reasoning-return-r9-freeze-v1.1.json",
+    "bytes": 3132,
+    "sha256": "45767fbfab81b90bd6aeb2610fd205408f91330482718a5957608144d9205e8c"
+  },
+  "whole_obligations_reconstructed": 56,
+  "original48_retained": true,
+  "affected_additional_checks": 8,
+  "resolved_original_issues": [
+    "R9R1-01",
+    "R9R2-01"
+  ],
+  "resolved_scope_note": "R9R2-N3 chosen generator only",
+  "open_substantive_issues": 0,
+  "required_author_repairs": 0,
+  "ENTIRE_packet_before_ANY_NEW_peer_affected_findings_or_metadata": true,
+  "original_whole_initials_already_frozen_before_comparison": true,
+  "another_OTHER_whole_affected_audit_and_root_reconciliation_required": true,
+  "requested_model": "gpt-6.1-sol",
+  "requested_reasoning": "max",
+  "effective_setting_readback": null,
+  "artifacts": [
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r9-review-1-reaudit-v1.1-initial-v1.md",
+      "bytes": 9474,
+      "sha256": "77207c82577c34ec10824b9c7cc9ff0cb93990ebcc4c339b1cb253df33e0c61f"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r9-review-1-reaudit-v1.1-ledger-v1.md",
+      "bytes": 5316,
+      "sha256": "ddcb86acba7d960b54b856743aba07ba2424f4c687dc07686ffd2452acc58935"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r9-review-1-reaudit-v1.1-issues-v1.md",
+      "bytes": 1096,
+      "sha256": "9619da6fef525a7c632f8d826fddc24bc6303481651dca6edf54b3ad176b3093"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r9-review-1-reaudit-v1.1-source-audit-v1.md",
+      "bytes": 1698,
+      "sha256": "8bafebcf900ca173762559a7770fc2a412d0e0d7dcc546d6dc6f10724e58605e"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r9-review-1-reaudit-v1.1-worklog-v1.md",
+      "bytes": 1267,
+      "sha256": "0d8b82762fe123eb6e135fe739edeed0fa06476c5f3a9c4346dd97e72207e534"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r9-review-1-reaudit-v1.1-freeze-v1.py",
+      "bytes": 22444,
+      "sha256": "4434ffb30bf1d9f4eda4afe9ca437f23b7cf34e06c272d8bb5dd13e1b318af13"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r9-review-1-reaudit-v1.1-integrity-v1.json",
+      "bytes": 1609,
+      "sha256": "ad5c83047a6cc756136d66b69aed6efae2b7f4ae0de9851f8e767ad659dcff05"
+    }
+  ]
+}

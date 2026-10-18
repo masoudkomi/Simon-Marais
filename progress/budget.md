@@ -165,3 +165,6 @@ Current12:03UTCtransition:36%TOTALweeklyused,64%remaining,54ppbefore90%,samerese
 
 
 2026-10-18 00:40UTC: currentwindow3%TOTAL/reset1792874445,87ppbefore90%. Hourlythreadheartbeat created/verified, id=simon-marais-hourly-research-report; baselinehourly-report-2026-10-18-1037.json. Recorded00:35:57UTC1,507,852,210total including1,426,921,216cached;69,614,352uncachedinput;11,316,642output including4,903,115reasoning;uncached+output80,930,994.62sessions/7984responses,allsumsmatch. No bill or weeklyconversion. Researchcontinues withreserve; no automatic laterreset.
+
+
+2026-10-18 approximately01:00:53UTC: authoritative6%TOTALweekly/reset1792874445,ordinaryallowed,84ppbefore90%. Raw01:01:31UTC1,560,888,490total including1,477,614,976cached;71,642,640uncachedinput;11,630,874output including5,006,442reasoning;uncached+output83,273,514.62sessions8238responses,allsumsmatch. No billing/weeklyconversion. R12/Runge accepted scoped; researchcontinues, hourlyheartbeat ACTIVE. Ownedawakeverified00:53:20UTC,next01:53:20UTC.

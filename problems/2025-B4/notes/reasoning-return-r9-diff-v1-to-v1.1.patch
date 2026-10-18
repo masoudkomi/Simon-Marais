@@ -1,0 +1,358 @@
+--- problems/2025-B4/notes/reasoning-return-r9-candidate-v1.md
++++ problems/2025-B4/notes/reasoning-return-r9-candidate-v1.1.md
+@@ -1,4 +1,4 @@
+-# Actual short coefficients and two precise arithmetic obstructions
++# Actual short coefficients and two precise arithmetic obstructions, v1.1
+ 
+ 2026-10-18 UTC. **Candidate proof - unverified.** Constructor C,
+ `/root/review_2017_coarsening_r1`. Requested inherited gpt-6.1-sol/max;
+@@ -6,6 +6,15 @@
+ WHOLE audits and coordinator reconciliation are required. No annual
+ classification, new Diophantine exclusion, useful unconditional height
+ improvement, novelty or refutation of a source's final theorem is claimed.
++
++This is the FULL versioned author repair after BOTH original-v1 WHOLE
++initials froze. Original v1 and both initial packets remain immutable.
++R9R1-01/R9R2-01 are addressed by separating the equality for every0<R<H
++from the nonzero unit witnesses for1<=R<H. R9R2-N3 is made explicit:
++the model's CHOSEN generator a_0^p is nonlinear; no statement excluding
++all other linear generators of its ideal is proved. BOTH affected
++reaudits and coordinator reconciliation remain required. The separate
++later Runge packet is NOT a premise or an unreviewed repair input here.
+ 
+ ## 0. Scope, authority and conclusions
+ 
+@@ -52,9 +61,11 @@
+   weight and cannot be transferred to R8's original-weight columns.
+ * **R9F:** an explicit cyclotomic model has the same original-weight,
+   positivity, moment, ideal-disjointness and normalization data and a
+-  nontrivial equality ideal. Its characteristic p-th power is NOT a
+-  linear cyclotomic number. It therefore identifies an indispensable
+-  Diophantine hypothesis without supplying an actual solution.
++  nontrivial equality ideal. Its CHOSEN p-th-power generator a_0^p is NOT
++  a linear cyclotomic number. Whether its ideal has another linear
++  generator up to a unit is not established. The actual linear
++  Diophantine input is therefore not supplied by this model; it supplies
++  no actual solution or ideal-level exclusion of such a generator.
+ 
+ The sources, their versions and exact reading limits are recorded
+ separately. A current 2025 revision has a different proof from its 2021
+@@ -233,7 +244,7 @@
+ 
+ ## 4. R9C: small nonzero is not small outside a subspace
+ 
+-Let d>=17 and H>1 be integers, and let 0<R<H. In Q^d with standard
++Let d>=17 and H>1 be integers, and let R be real with0<R<H. In Q^d with standard
+ integer basis e_i define
+ 
+     W''=span{e_1+H e_2,e_3,...,e_15},
+@@ -251,18 +262,31 @@
+     S' intersect Z^d intersect[-R,R]^d
+           =S intersect Z^d intersect[-R,R]^d.       (16)
+ 
+-Both sides contain e_16. There are very short homogeneous solutions and
+-NONE avoids S at that height. The other basis rows e_16,...,e_d complete
+-the rows of W' to a basis. For any such j let
++Equality(16) holds over that ENTIRE range0<R<H, including0<R<1. In the
++latter range the integer cube contains only0, so no nonzero-point
++assertion is intended. For example H=2,d=17,R=1/2 gives precisely these
++two zero-only sets; the original-v1 sentence asserting e_16 in both sets
++at every allowed R was false.
++
++Now assume additionally1<=R<H. Both sides of(16) contain e_16 because
++its sup norm is1. There are therefore very short NONZERO homogeneous
++solutions and NONE avoids S at that height. The other basis rows
++e_16,...,e_d complete the rows of W' to a basis. For any such j let
+ 
+     W^(j)=W''+Q(v+e_j), S^(j)=(W^(j))^perp.
+ 
+-A short integer point of S^(j) also has w_j=0, and still has a unit
+-point e_k for any k>=16 different from j. Thus all these perturbed
+-homogeneous systems also have nonzero unit solutions; they do not imply
+-a short point of S' outside S. Choosing R=sqrt(H) shows the precise
+-large-height failure. Even a valid small first-successive-minimum bound
+-for every perturbed kernel cannot identify an escaping vector.
++For every0<R<H a short integer point of S^(j) also has w_j=0: the
++W'' equations first give w_1=w_2=0, and the added row gives w_j=0.
++For1<=R<H it has a unit point e_k for any k>=16 different from j;
++d>=17 guarantees such k. Thus, in this latter radius range, all these
++perturbed homogeneous systems also have NONZERO unit solutions; they
++do not imply a short point of S' outside S. At R<1 those kernels also
++have only the zero integer point in the box, which gives no nonzero
++counterexample. Choosing R=sqrt(H) is valid since1<sqrt(H)<H, and
++shows the precise large-height failure. The strict upper bound is also
++necessary: at R=H, the vector(-H,1,0,...,0) lies in S' outside S.
++Even a valid small first-successive-minimum bound for every perturbed
++kernel cannot identify an escaping vector.
+ 
+ This is a rational linear-algebra counterexample, not a Jacobi system
+ asserted arithmetically realized. Primary Fukshansky's theorem and its
+@@ -396,7 +420,7 @@
+ unproved. For primes2 and infinity, Frobenius congruence and a complex
+ analytic branch are different structures.
+ 
+-## 7. R9F: a model separating ideal data from the linear p-th power
++## 7. R9F: a model retaining the linear-generator obligation
+ 
+ This model is unconditional cyclotomic algebra and NOT a solution(0).
+ Fix p>=37, c=2p^2, a_0=1+c zeta, A_0=(a_0) and
+@@ -428,15 +452,32 @@
+ chi/(b_1 b_2). Thus neither original weight nor nonzero M_1 alone repairs
+ the product-divisibility step at the level of these ideal data.
+ 
+-The missing actual Diophantine condition is substantial. Here A_0^p
+-is generated by a_0^p, not by a linear y+x zeta. Indeed the coefficients
++The missing actual Diophantine condition is substantial. Here the
++CHOSEN generator a_0^p of A_0^p is not a linear y+x zeta. Indeed its coefficients
+ at zeta^(p-2) and zeta^(p-1) of(1+c zeta)^p are
+ `p(p-1)c^(p-2)/2` and `p c^(p-1)`, which differ for c=2p^2.
+ If the polynomial represented a linear number, all coefficients at
+ degrees2,...,p-1 would be the same multiple of Phi_p; these two would
+-be equal. Hence it is not linear. No solution of the original equation
+-has been constructed and no such additional linear hypothesis has been
+-checked in the model. The source theorem is not declared false from it.
++be equal. Hence this CHOSEN number is not linear.
++
++This coefficient calculation does NOT prove that the IDEAL A_0^p has
++no other linear generator: another generator differs by a unit, whose
++effect is not controlled by this calculation. A diagnostic in the SAME
++field is zeta^2(2+zeta). It is nonlinear in1,zeta for p>=37: its degree3
++polynomial representative cannot differ from a linear polynomial by a
++nonzero multiple of Phi_p, whose degree is p-1>3. Nevertheless it
++generates the same ideal as the linear number2+zeta, because zeta^2 is
++a unit. This diagnostic makes no assertion about another generator of
++the specific A_0^p. Such an ideal-level linear-generator exclusion is
++NOT proved or needed for the model's narrower ideal/normalization and
++chosen-number statements.
++
++No actual X, homogeneous coordinates or suitable linear characteristic
++p-th power has been supplied. Whether a different unit multiple could
++meet that further Diophantine condition remains unchecked. Thus no
++solution of the original equation, and no impossibility theorem about
++all linear generators of this ideal, has been constructed. The source
++theorem is not declared false from this model.
+ 
+ ## 8. Source boundary and the remaining useful bridge
+ 
+--- problems/2025-B4/notes/reasoning-return-r9-obligations-v1.md
++++ problems/2025-B4/notes/reasoning-return-r9-obligations-v1.1.md
+@@ -1,4 +1,4 @@
+-# R9 whole-audit obligations
++# R9 whole-audit obligations, v1.1
+ 
+ Candidate proof - unverified, 2026-10-18 UTC. ALL statements concern the
+ complete main and its source/domain boundaries. TWO OTHER whole audits
+@@ -29,8 +29,8 @@
+ | 21 | Equivariance and multiplicativity, beta_N=Y. |
+ | 22 | Exact p-th power for k=1,3 with F=0, including signed r=X-1 and local congruence. |
+ | 23 | Generic W'',W',S',S dimensions14/15 and exact equations. |
+-| 24 | Equality of all short integer points for R<H, including R=sqrt H. |
+-| 25 | Every perturbed kernel still has a unit short vector; the additional v condition remains impossible. |
++| 24 | Equality of all short integer points for EVERY0<R<H; unit/nonzero witnesses ONLY1<=R<H, including R=sqrt H; below1 both sets are zero-only. |
++| 25 | Every perturbed kernel has the displayed extra zero coordinate for0<R<H, and a unit short vector ONLY1<=R<H; the additional v condition remains impossible. |
+ | 26 | Counterexample is generic rational data, not actual Jacobi signatures or an equation counterexample. |
+ | 27 | Cofactor avoidance replacement: augmented rank, selected columns, bz!=0 and r!B^r including r0. |
+ | 28 | Two m-element half supports: disjoint iff sum=N; M1!=0 excludes that case. |
+@@ -48,8 +48,8 @@
+ | 40 | Model c=2p^2: exact positive odd norm, lambda^2 normalization, coprime conjugate ideals and complete splitting of its prime divisors without factor scan. |
+ | 41 | Model half generators have actual ideal/Weil/normalization data; choose an actual accepted R8 pair. |
+ | 42 | Model original-weight equality ideal exactly(2) and genuine product-division pole. |
+-| 43 | Model a0^p is not linear: correct coefficient comparison modulo Phi_p. |
+-| 44 | Model does NOT meet linear characteristic p-th-power hypothesis or construct a Diophantine solution. |
++| 43 | CHOSEN model number a0^p is not linear: correct coefficient comparison modulo Phi_p; no assertion about every unit multiple or ideal generator. |
++| 44 | Model supplies no actual linear characteristic p-th power or Diophantine solution; whether another ideal generator is linear remains unchecked. |
+ | 45 | CURRENT source v4 versus v1 metadata and operative proof distinctions; no transfer of objections across versions. |
+ | 46 | Source-Lemma5 criticism limited to exposed product inference; no final nonexistence theorem refuted by a conditional or model argument. |
+ | 47 | Fukshansky exact avoidance scope/read limits, no unread Bombieri--Vaaler theorem imported. |
+@@ -59,3 +59,20 @@
+ signs, moment conventions, weight changes, normalization and ideal
+ containment directions. A requirement for two OTHER audits is not met by
+ constructor selfchecking or by reviewing only the source objection.
++
++## Eight affected-repair checks, additional to ALL48 above
++
++| ID | Complete affected inference to check in the FULL v1.1 |
++|---|---|
++| 49 | Exact preserved countercertificate H=2,d=17,R=1/2 has only0 in the integer cube; original e16 sentence is acknowledged false. |
++| 50 | The proof of equality(16) uses only0<R<H, and does not need the new R>=1 witness condition. |
++| 51 | Closed boxes contain e16 and every required alternate e_k at R=1; d>=17 provides k!=j, and1<=R<H is stated for ALL nonzero perturbed witnesses. |
++| 52 | Strict upper threshold: at R=H the explicit vector(-H,1,0,...,0) escapes S. |
++| 53 | H>1 ensures1<sqrt(H)<H; no numerical bound, R9A/B, cofactor proof, D/E/F or actual-signature claim silently acquires a new premise. |
++| 54 | R9F's overview, detailed coefficient proof and closing scope ALL concern the CHOSEN a0^p; no all-generator/ideal-level exclusion is asserted. |
++| 55 | Unit diagnostic zeta^2(2+zeta) is nonlinear for p>=37 yet generates(2+zeta); it illustrates the quantifier distinction without supplying another generator of A0^p. |
++| 56 | BOTH original whole initials and ALL48 rows/source records were read after freeze; every old byte remains, both affected reaudits required, separate Runge work is no premise and no promotion is implied. |
++
++Total56 whole-plus-repair obligations. Original48 remain visible with
++their exact mathematical scopes; the repair does not replace a whole
++audit by eight isolated checks.
+--- problems/2025-B4/notes/reasoning-return-r9-sources-v1.md
++++ problems/2025-B4/notes/reasoning-return-r9-sources-v1.1.md
+@@ -1,4 +1,4 @@
+-# R9 source ledger and exact reading limits
++# R9 source ledger and exact reading limits, v1.1
+ 
+ 2026-10-18 UTC. Source statements are not accepted from abstracts. No
+ third-party PDF was downloaded, cached, redistributed or assigned a
+@@ -98,3 +98,43 @@
+ and the independent fully written rational counterexample. No failed
+ request was silently recorded as a cached or visual read. No pending
+ approval, native child, download or access-bypass attempt remains.
++
++## Version1.1 author-repair source/read record
++
++BOTH original-v1 whole initials were entirely frozen BEFORE the author
++opened B's new mathematical findings. For this repair the author read:
++
++* R1 ENTIRE initial-v1.md, ALL48 ledger rows, complete issues-v1.md and
++  complete source-audit-v1.md; the complete manifest was read and its
++  seven artifacts verified by bytes/SHA. Exact parent identities are
++  in the new compact baseline.
++* R2 ENTIRE initial.md, ALL48 ledger rows, complete issues-v1.md,
++  complete source-checks-v1.md and sources-v1.json; the complete
++  manifest was read and its eight artifacts verified by bytes/SHA.
++  The first batched display was globally truncated in the middle of R2;
++  a subsequent dedicated complete read supplied every missing line.
++  No proof claim relies on the truncated display.
++* The complete original main, all48 obligations, failed routes,
++  worklog and original source ledger were read. Their frozen versions
++  remain intact; new full copies carry the repair.
++
++No fresh primary theorem is imported by this elementary correction.
++The exact H=2,R=1/2 certificate, closed-box R>=1 threshold, and the
++unit-multiple diagnostic are proved explicitly in the new main. The
++original primary-source reading limits above remain the historical
++limits; reading a review's source description is NOT represented as a
++new direct read of its primary PDF. No new cache file or retrieval hash
++is claimed. The original complete R8/R6 import scopes stay unchanged.
++
++R9R2-N1/N2/N4 retain the original conditional/source, BOTH evaluation
++branches, and weight-versus-infinity boundaries; no new theorem is
++inferred from those notes. R9R2-N3 is now unambiguous in every model
++claim: only the CHOSEN a0^p is proved nonlinear, and other generators of
++its ideal are not excluded. This narrows a potentially overstrong
++reading rather than supplying a new Diophantine obstruction.
++
++All1.1 edits are author repairs after completed original whole audits,
++not either required affected reaudit. BOTH reviewers must check them;
++root alone may reconcile/promote. The later frozen Runge packet and
++the distinct positive-route live note are preservation context only,
++not new mathematical premises of this version.
+--- problems/2025-B4/notes/reasoning-return-r9-failed-routes-v1.md
++++ problems/2025-B4/notes/reasoning-return-r9-failed-routes-v1.1.md
+@@ -1,4 +1,4 @@
+-# R9 failed routes and exact remaining inference
++# R9 failed routes and exact remaining inference, v1.1
+ 
+ 2026-10-18 UTC. Candidate proof - unverified. This records real attempted
+ inferences, not an assertion that all possible approaches fail.
+@@ -11,8 +11,9 @@
+ 
+ 2. **An ordinary Siegel estimate plus codimension one.** A small first
+    minimum can lie entirely in the forbidden subspace. R9C gives exact
+-   rational counterexamples even when every indicated perturbed kernel
+-   has a unit vector. A valid avoidance theorem has its own height cost;
++   rational counterexamples with1<=R<H, when every indicated perturbed
++   kernel has a unit vector. The short-set equality itself holds for
++   every0<R<H, but below1 all these boxes contain only0. A valid avoidance theorem has its own height cost;
+    the full cofactor substitute(17) is not a polynomial-height repair.
+    These generic examples are not asserted to be actual Jacobi matrices.
+ 
+@@ -22,7 +23,10 @@
+    unit has a pole. R9D is conditional on actual ideal hypotheses; it is
+    not an actual solution refuting a source theorem. R9F demonstrates the
+    failure at original weight with genuine cyclotomic numbers while
+-   retaining, and explicitly failing, the missing linear p-th-power input.
++   retaining the missing linear p-th-power obligation: its CHOSEN a0^p
++   is nonlinear, while no suitable different unit multiple has been
++   supplied or excluded. This is not an ideal-level no-linear-generator
++   theorem.
+ 
+ 4. **Use the finite-2 Frobenius kernel at infinity.** R9E works for actual
+    arithmetic data but has relative weight6. The unique norm shift to
+@@ -73,3 +77,21 @@
+ partial mathematics, not a substitute for this remaining bridge. The
+ known published diagonal bounds and class-number conditions are stronger
+ than the huge unconditional zero-branch bound retained here.
++
++## Failures exposed by the two original whole initials
++
++* R9R1-01/R9R2-01: the old all0<R<H nonzero-unit sentence failed at
++  H=2,d=17,R=1/2. Equation(16) was still true, with zero-only sets.
++  Version1.1 separates that equality from the1<=R<H existence assertion,
++  including the perturbed boxes. It explicitly retains the valid
++  sqrt(H) construction and the failure of equality at R=H.
++* R9R2-N3: nonlinearity of one generator does not imply nonlinearity
++  of every generator of its ideal. The same ideal(2+zeta) has the linear
++  generator2+zeta and nonlinear generator zeta^2(2+zeta). This is a
++  quantifier diagnostic, not a construction of a linear generator for
++  the specific A0^p. Version1.1 states that exact unresolved limit in
++  its overview, proof and final model conclusion.
++
++The separate subsequent Runge checkpoint changes the auxiliary family
++and is NOT a premise used to repair either issue here. Both affected
++reaudits are still required; constructor correction alone is not approval.
+--- problems/2025-B4/notes/reasoning-return-r9-worklog-v1.md
++++ problems/2025-B4/notes/reasoning-return-r9-worklog-v1.1.md
+@@ -1,4 +1,4 @@
+-# R9 research and operational log
++# R9 research and operational log, v1.1
+ 
+ 2026-10-18 UTC. Constructor C; candidate proof - unverified. This is the
+ COMPLETE meaningful checkpoint, not an annual conclusion. Only NEW
+@@ -52,8 +52,10 @@
+    signed homogeneous mapping and ideal containment direction. Proved
+    the unique original-weight norm shift has a negative coefficient.
+ 9. Constructed the a0=1+2p^2 zeta model without factoring its norm.
+-   Verified exactly which arithmetic properties it has and why its
+-   p-th power is NOT linear. This model is not a purported solution.
++   Verified its arithmetic properties and why the CHOSEN number a0^p
++   is NOT linear. This does not exclude another linear generator of
++   its ideal; no such generator is supplied. This model is not a
++   purported solution.
+ 10. Wrote the full self-contained main, all48 obligations, source/read
+     limits, failures and compact metadata. Verified the immutable parent
+     and necessary old declared records by bytes/SHA. The growing old
+@@ -71,3 +73,43 @@
+ two OTHER fresh initially blind WHOLE auditors; it does not self-promote
+ any claim. Further positive arithmetic research may continue in a NEW
+ version/suffix after this COMPLETE v1 checkpoint is immutable.
++
++## Full version1.1 author-repair sequence
++
++1. The original main22574B/SHA
++   8fae8c0dd3e951fd4c847954f75186b8969f1dbdec9592b8cebcbda8394a9aa2
++   and its2790B freeze93eed518f1584c8e4f1a7cbe4d6229c9532caae4269d18cf0393c1f0e934aa8f
++   were left unchanged. Root completed its ENTIRE original whole R1
++   before disclosing the radius issue. The author did NOT forward
++   that finding to B, whose independent original whole R2 remained blind.
++2. The separate complete Runge packet froze, then the full2017 R6
++   version1.1 author repair froze. Neither supplies a new R9 premise.
++   A brief intervening failed explicit-Runge simplification is saved
++   separately in reasoning-return-r9-positive-live-v1.md; it is not
++   folded into this correction or advertised as an improvement.
++3. Root then confirmed B's ENTIRE original whole R2 was frozen. Only
++   afterwards the author read BOTH complete reports, ALL48+48 ledger
++   rows, both complete issue files and every source companion. Exact
++   read/truncation limits are recorded in sources-v1.1.md. Both
++   independently found the same localized radius-domain issue.
++4. Confirmed the new version1.1 prefix unused. Prepared five NEW full
++   copies, never modifying originalv1. Split every0<R<H equality from
++   the1<=R<H nonzero assertions, including all perturbed systems.
++   Added explicit lower/upper endpoint checks and retained sqrt(H).
++5. Made the R9F overview, chosen-number proof and conclusion explicit
++   about units/other generators. Included B's exact diagnostic with
++   its elementary proof and precise limitation, without asserting an
++   ideal-level exclusion. R9R2-N1/N2/N4's existing limits remain.
++6. Preserved ALL48 whole obligations, updated the four affected rows,
++   and added eight affected checks. Full repair ledger/diff/source,
++   input verification and compact immutable parents accompany the
++   new main. The administrative script hashes/validates TEXT/JSON
++   only; no mathematical code/CAS/scan/certificate rerun occurred.
++
++Fresh direct usage00:48:00UTC2026-10-18 was4% TOTAL, same authorized
++reset1792874445, ordinary allowed. Requested gpt-6.1-sol/max remains
++distinct from unavailable effective readback. No new permission,
++download, approval wait, native child, global process cleanup, Git,
++shared/old/cache mutation, fee, contact or bypass occurred. BOTH
++affected reaudits are required and have not been replaced by this
++constructor response. No claim has been self-promoted.

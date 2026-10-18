@@ -1,0 +1,93 @@
+{
+  "frozen_at_utc": "2026-10-18T00:45:57.453346+00:00",
+  "status": "ENTIRE initially blind OTHER nonconstructor WHOLE RG1\u2013RG3 R1 complete; no substantive defect found; not acceptance",
+  "reviewer": "/root",
+  "constructor": "/root/review_2017_coarsening_r1",
+  "constructor_excluded": true,
+  "root_no_NEW_submitted_Runge_construction_contribution": true,
+  "older_UW_R6_R8_source_roles_disclosed_no_self_recertification": true,
+  "target": {
+    "path": "problems/2025-B4/notes/reasoning-return-r9-runge-candidate-v1.md",
+    "bytes": 16773,
+    "sha256": "8bcd69dfa97441b23fd456268e655312aea55a0f7a64a5237f0117f6a192b90a"
+  },
+  "constructor_freeze": {
+    "path": "problems/2025-B4/notes/reasoning-return-r9-runge-freeze-v1.json",
+    "bytes": 2364,
+    "sha256": "cb5073bbce53c07b12e5b253af51f278ebd6475c0600d700bef6a9064a7ec32b"
+  },
+  "whole_claims": [
+    "RG1",
+    "RG2",
+    "RG3"
+  ],
+  "whole_obligations": 34,
+  "all34_individually_reconstructed": true,
+  "substantive_defects": 0,
+  "required_repairs": 0,
+  "unresolved_issues": 0,
+  "retained_scope_notes": 5,
+  "another_OTHER_ENTIRE_whole_initial_and_reconciliation_required": true,
+  "NEW_A_Runge_files_findings_sources_ledger_metadata_unread_through_ENTIRE_initial": true,
+  "no_numerical_improvement_fixed_p_novelty_new_exclusion_bound_on_p_or_annual_claim": true,
+  "no_mathematical_executable_CAS_RR_scan_certificate_or_constructor_replay": true,
+  "input_summary": {
+    "occurrences": 36,
+    "unique_paths": 36,
+    "deduplicated_summary_sha256": "084d2d75d2715cf673b3f362648e81636e5bcbb272dc6d376a3930561445eb88"
+  },
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independently_verified_effective_readback": null,
+  "budget": {
+    "observed_at_utc": "2026-10-18T00:42:14+00:00",
+    "used_percent_total": 4,
+    "window_minutes": 10080,
+    "reset_unix": 1792874445,
+    "ordinary_usage_allowed": true,
+    "current_window_explicitly_authorized": true,
+    "ceiling_total_percent": 90,
+    "integration_reserve": true,
+    "automatic_further_reset_authorized": false
+  },
+  "artifacts": [
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r9-runge-review-1-initial-v1.md",
+      "bytes": 16063,
+      "sha256": "144cd191c72fa2243cb0e2450872e24584d0fa1078557a72daa4b44991e1077e"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r9-runge-review-1-ledger-v1.md",
+      "bytes": 4752,
+      "sha256": "1409f1d92cfd478b8ab62f62d601dbb2d0f042fdc05645c14ccfd0e11cab9ae7"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r9-runge-review-1-issues-v1.md",
+      "bytes": 2218,
+      "sha256": "1b75ef10358694e42dba3edc3918a5e1755dde7c6ddb8b8e96e76ac35f794bdc"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r9-runge-review-1-source-audit-v1.md",
+      "bytes": 3640,
+      "sha256": "c3c1dbe6438c0b89450f3370c4d957bb0d223b9d335cfcbbd9fc8de42f6f720a"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r9-runge-review-1-worklog-v1.md",
+      "bytes": 2768,
+      "sha256": "361055a1267f856b0f29adf177331ef7e892c20e387cd3970f7e16e078eba2cd"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r9-runge-review-1-freeze-v1.py",
+      "bytes": 5155,
+      "sha256": "f3100f0e28cf9118b2cadd7c727723e9c1bffc00f68b44c314288ff7572580c3"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-return-r9-runge-review-1-integrity-v1.json",
+      "bytes": 9616,
+      "sha256": "09b2a9e8fe38a7fc81816e1f7833903be2428d1faad608832647df550d39a31f"
+    }
+  ]
+}

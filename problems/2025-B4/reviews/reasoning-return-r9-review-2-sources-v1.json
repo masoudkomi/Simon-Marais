@@ -1,0 +1,121 @@
+{
+  "recorded_at_utc": "2026-10-18T00:48:40.800112+00:00",
+  "status": "COMPLETE original-v1 fresh initially blind NONCONSTRUCTOR WHOLE R2; auxiliary boundary correction R9R2-01 pending",
+  "reviewer": "/root/review_2022_complexity_r2",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "independently_verified_effective_settings": null,
+  "whole_obligations": 48,
+  "whole_claims": [
+    "R9A",
+    "R9B",
+    "R9C",
+    "R9D",
+    "R9E",
+    "R9F"
+  ],
+  "all_eleven_constructor_files_read": true,
+  "constructor_C_excluded": true,
+  "root_generic_assignment_supplied_no_new_inference": true,
+  "B_authored_OLD_R8_UW_and_reviewed_OLD_R6_R7_not_self_recertified": true,
+  "accepted_R8_full_body_read": {
+    "path": "problems/2025-B4/proofs/reviewed-reasoning-return-r8-v1.1.md",
+    "bytes": 28730,
+    "sha256": "f00a2b2816f128df54060fd800cba83d726abf07303c1cc7c92688a61557ca15"
+  },
+  "accepted_R6_operative_scope": {
+    "record": {
+      "path": "problems/2025-B4/proofs/reviewed-reasoning-return-r6-v1.1.md",
+      "bytes": 28748,
+      "sha256": "4e157819789da12d6f26e89929d88ec886d52947405d836fe3957ab8ee727d3a"
+    },
+    "actual_read_scope": "Lines1--245 and270--390,complete operative section5; no fresh whole laterR6 proof claim"
+  },
+  "both_acceptance_JSON_fully_read": true,
+  "historical_literature_source_worklogs_bound_not_claimed_all_freshly_reread": true,
+  "public_primary_source_records": [
+    {
+      "title": "Official2025 PaperB",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc2025_paper_b.pdf",
+      "actual_read_scope": "Page2 B4(b),lines59--71; no preliminary proof/otherproblem research",
+      "native_response_sha256": null
+    },
+    {
+      "title": "Mihailescu,Class Number Conditions for the Diagonal Case of the Equation of Nagell and Ljunggren",
+      "url": "https://www.researchgate.net/publication/226863681_Class_Number_Conditions_for_the_Diagonal_Case_of_the_Equation_of_Nagell_and_Ljunggren",
+      "served_version": "Author-uploaded Version2.0 September17,2007,published2008",
+      "actual_read_scope": "Primary metadata; Section2.2 equations10--11,minus sign/inverse indices,Lemma2 normalization through equation13,Section2.3 Fueter/Stickelberger context,approximately433--686; not fresh whole28-page proof audit",
+      "use": "Attributed matched-prime ideal formula; binary half extension reconstructed; no later exclusion/height/classnumber theorem imported",
+      "native_response_sha256": null
+    },
+    {
+      "title": "Bartolome--Mihailescu,Beyond and slightly aside of the Fermat Desert",
+      "url": "https://arxiv.org/pdf/2108.08572v4",
+      "metadata_url": "https://arxiv.org/abs/2108.08572",
+      "served_version": "v4 revised22September2025,internal24September2025,13pages,submitted/under-review comment",
+      "actual_read_scope": "Complete returned13-page text0--1047 via overlapping bounded opens; operative J_k/beta/normalization/Definition4/Lemma5 product/remaining proof context freshly read. Complete text read is not certification of all external/classfield proofs or final theorem.",
+      "use": "Version-specific source inference boundary,not importing/refuting final nonexistence theorem from conditional/model data",
+      "native_response_sha256": null
+    },
+    {
+      "title": "Mihailescu,On a Popular Diophantine Norm Equation",
+      "url": "https://arxiv.org/pdf/2108.08572v1",
+      "served_version": "v1,internal0.99 dated20August2021,25pages,soleauthor",
+      "actual_read_scope": "Title/intro metadata; bounded Section4.3 context1613--1728 and COMPLETE operative4.3.4 through conclusion roughly1753--1996; not full25pages,carry gap1729--1752 not freshly read",
+      "use": "Generic homogeneous existence versus escaping subspace distinction; no actual Jacobi/carry realization and no transfer to v4",
+      "native_response_sha256": null
+    },
+    {
+      "title": "Fukshansky,Siegel's lemma with additional conditions",
+      "url": "https://arxiv.org/pdf/math/0409375v3",
+      "served_version": "v3,3November2005,12pages",
+      "actual_read_scope": "Title,Theorems1.1--1.2,sharpness paragraph,height definitions and incidentally returned proof context; not whole12-page proof",
+      "use": "Avoidance versus firstminimum; no quantitative estimate or unread Bombieri--Vaaler proof imported",
+      "native_response_sha256": null
+    }
+  ],
+  "auxiliary_boundary_issue": "R9R2-01:0<R<1 box does not contain unit vectors; intended sqrtH example remains valid",
+  "chosen_generator_scope_note": "R9R2-N3:chosen a0p nonlinearity is proved; no exclusion of every other linear ideal generator up to units",
+  "no_actual_solution_or_Diophantine_exclusion_or_source_final_theorem_refutation": true,
+  "no_NEW_root_R9_files_findings_or_metadata_opened": true,
+  "coordinator_completion_identity_received_without_findings": true,
+  "later_R9_constructor_versions_and_queued_R12_unopened": true,
+  "no_mathcode_CAS_scan_certificate_replay_or_author_rerun": true,
+  "no_new_native_download_render_screenshot_cache_write": true,
+  "no_old_shared_Git_edit_spawn_contact_charge_paid_API_subscription_or_bypass": true,
+  "compact_necessary_current_summary": {
+    "occurrences": 48,
+    "unique_paths": 48,
+    "canonical_deduplicated_summary_sha256": "98214ae201f989e00eb6d39fee0e8e9dcb9c6d3eb6df4cd4c50a3ae4e8545d59"
+  },
+  "compact_own_parent": {
+    "manifest": {
+      "path": "problems/2024-B4/reviews/coordinator-neighbor-Frobenius-r1-review-2-manifest-v1.json",
+      "bytes": 4982,
+      "sha256": "e8649ee8b90594d91a41dbd46f18136f638f95f19c291e63d26233886419ace7"
+    },
+    "validation": {
+      "path": "problems/2024-B4/reviews/coordinator-neighbor-Frobenius-r1-review-2-input-validation-v1.json",
+      "bytes": 4098,
+      "sha256": "1bdff9ea6d262834c29f7a0667d392bebc273fdb8245972ff802a5ea3c0e2850"
+    },
+    "own_paths_bound_transitively": 466,
+    "last_nine_files_reverified": true,
+    "all466_historical_paths_freshly_rehashed": false
+  },
+  "authoritative_weekly_telemetry": {
+    "at_utc": "2026-10-18 00:44:05 UTC",
+    "method": "mcp__codex_app__get_usage_limits({}); rateLimitsByLimitId.codex.primary and legacy agree",
+    "account_label": "029a8928\u20261334ac3a",
+    "used_percent_total": 4,
+    "window_minutes": 10080,
+    "reset_unix": 1792874445,
+    "ordinary_usage_allowed": true,
+    "new_window_explicitly_user_authorized": true,
+    "total_ceiling_percent": 90,
+    "integration_reserve": true,
+    "automatic_further_reset_spending": false
+  }
+}

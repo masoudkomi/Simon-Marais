@@ -1,0 +1,100 @@
+{
+  "recorded_at_utc": "2026-10-18T00:44:16.669348+00:00",
+  "status": "candidate proof - unverified",
+  "public_primary_sources": [
+    {
+      "title": "Official2021 Paper B",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2021-paper-b.pdf",
+      "fresh_read_scope": "page2 B4 full hypothesis and(b), no preliminary proof",
+      "role": "official rational-witness domain",
+      "fresh_native_hash": null
+    },
+    {
+      "title": "Castryck--Laterveer--Ounaies, Constraints on counterexamples ... degree12",
+      "url": "https://arxiv.org/pdf/1208.5404",
+      "fresh_read_scope": "Sections3.4--3.5 eq9--13/Lemma17/normalized-center/beta derivation; Proposition19 statement/unramified remark; not whole23pages",
+      "role": "method attribution; all-root-rational/unramified theorem not applied",
+      "fresh_native_hash": null
+    },
+    {
+      "title": "Draisma--de Jong2011 erratum",
+      "url": "https://math-unibe.ch/jdraisma/publications/erratumcasasalvero.pdf",
+      "fresh_read_scope": "complete one-page original correction,20 extracted lines",
+      "role": "prime5 shortcut excluded",
+      "fresh_native_hash": null
+    }
+  ],
+  "fresh_complete_accepted_mathematical_bodies": [
+    "problems/2021-B4/proofs/reviewed-reasoning-return-r11-v1.1.md",
+    "problems/2021-B4/proofs/reviewed-reasoning-return-r8-v1.1.md",
+    "problems/2021-B4/proofs/reviewed-reasoning-return-r5-v1.1.md",
+    "problems/2021-B4/proofs/reviewed-odd-support-exclusion-v1.1.md",
+    "problems/2021-B4/proofs/reviewed-return-r3-v1.1.md",
+    "problems/2021-B4/notes/reasoning-return-r3-transfer-candidate-v1.md"
+  ],
+  "accepted_authority_records": [
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r11-acceptance.json",
+      "status": "proved, independently reviewed scoped partial result",
+      "read_scope": "complete exact accepted body and scope read; no old peer review replay",
+      "old_verified_occurrences_bound_not_replayed": 148,
+      "old_verified_unique_paths_bound_not_replayed": 68
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r8-acceptance.json",
+      "status": "proved, independently reviewed scoped partial result",
+      "read_scope": "complete exact accepted body and scope read; no old peer review replay",
+      "old_verified_occurrences_bound_not_replayed": 1335,
+      "old_verified_unique_paths_bound_not_replayed": 792
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r5-acceptance.json",
+      "status": "proved, independently reviewed scoped partial result",
+      "read_scope": "complete exact accepted body and scope read; no old peer review replay",
+      "old_verified_occurrences_bound_not_replayed": 1466,
+      "old_verified_unique_paths_bound_not_replayed": 689
+    },
+    {
+      "path": "problems/2021-B4/reviews/odd-support-exclusion-acceptance.json",
+      "status": "proved, independently reviewed partial results",
+      "read_scope": "complete exact accepted body and scope read; no old peer review replay",
+      "old_verified_occurrences_bound_not_replayed": 357,
+      "old_verified_unique_paths_bound_not_replayed": 307
+    },
+    {
+      "path": "problems/2021-B4/reviews/return-r3-acceptance.json",
+      "status": "proved, independently reviewed partial results only",
+      "read_scope": "TA1 body/register read; other packet hashes only, not freshly reaudited",
+      "old_verified_occurrences_bound_not_replayed": 1085,
+      "old_verified_unique_paths_bound_not_replayed": 216
+    }
+  ],
+  "old_native_source_bindings_browser_bytes_not_asserted_identical": [
+    {
+      "path": ".cache/literature/2021/cited-66c5af6a0f0239f5.pdf",
+      "bytes": 281743,
+      "sha256": "d818747102d32060f43ae5f015f27065aadf38699b272a2367749db8b33fedbf"
+    },
+    {
+      "path": ".cache/literature/deep-literature-r1/2021-draisma-dejong-erratum-2011.pdf",
+      "bytes": 43723,
+      "sha256": "9414998fc302643b7cf261e4adec1333034dc732e8a3a493a1a0ff7418d8f262"
+    }
+  ],
+  "immutable_R11_constructor_parent": {
+    "path": "problems/2021-B4/notes/reasoning-return-r11-freeze-v1.json",
+    "bytes": 3477,
+    "sha256": "c0b3a0650274e899fb97f84ec042e1edb9d5e6db0f603c7f22ee5bd691e12ca4"
+  },
+  "immutable_immediate_own_NF_review_parent": {
+    "path": "problems/2024-B4/reviews/coordinator-neighbor-Frobenius-r1-review-1-manifest-v1.json",
+    "bytes": 4594,
+    "sha256": "08df7fdf30ef6c1a0b5d57b6e8cbca602d0a8af929287ade5a027dd209754ad7"
+  },
+  "no_new_external_theorem_import_for_field_lemma": true,
+  "root_supplied_NO_new_R12_mathematical_inference": true,
+  "older_TA1_R8_R11_authorship_and_J15_PN_R5_review_roles_disclosed": true,
+  "two_OTHER_initially_blind_ENTIRE_WHOLE_audits_required": true,
+  "new_mathcode_CAS_scan_author_rerun_or_old_certificate_replay": false,
+  "new_download_cache_edit_render_native_wait_contact_charge_bypass": false
+}

@@ -1,0 +1,98 @@
+{
+  "frozen_at_utc": "2026-10-18T00:44:16.670914+00:00",
+  "status": "candidate proof - unverified; COMPLETE constructor checkpoint",
+  "constructor": "/root/review_2021_reasoning_j15_r2",
+  "claims": [
+    "R12A exact six-even support-to-center nonvanishing obstruction",
+    "R12B complete ACTUAL m6 first-break exclusion",
+    "R12C three-unit essential-center/full-gcd corollary"
+  ],
+  "whole_obligations": 60,
+  "two_OTHER_fresh_initially_blind_ENTIRE_WHOLE_nonconstructor_audits_required": true,
+  "constructor_excluded_from_independent_review": true,
+  "root_supplied_NO_new_R12_mathematical_inference": true,
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independently_verified_effective_settings": null,
+  "no_full_repeated_branch_J15_degree20_annual_lift_or_novelty_claim": true,
+  "no_extra_units_depth_height_sign_real_root_or_quotient_CA_assumptions": true,
+  "new_mathematical_code_CAS_routine_scan_author_rerun_or_old_certificate_replay": false,
+  "proof_critical_small_finite_field_certificates_entirely_hand_derived": true,
+  "old_shared_cache_Git_writes_spawn_contact_charge_bypass": false,
+  "authoritative_weekly_snapshot": {
+    "human_explicitly_authorized_new_reported_window": true,
+    "tool": "mcp__codex_app__get_usage_limits",
+    "at_utc": "2026-10-18 00:40:13 UTC",
+    "total_weekly_used_percent": 4,
+    "window_minutes": 10080,
+    "reset_unix": 1792874445,
+    "ordinary_usage_allowed": true,
+    "legacy_and_by_limit_agree": true,
+    "ceiling_total_percent": 90,
+    "integration_reserve_retained": true,
+    "automatic_further_reset_authorized": false
+  },
+  "compact_input_summary": {
+    "occurrences": 55,
+    "unique_paths": 48,
+    "canonical_deduplicated_summary_sha256": "8b647192cc93e0d2966e77e81e17e6bcf97f57160b6004d165b05536b592c34f",
+    "encoding": "UTF8 JSON sorted unique path/bytes/sha256; sorted keys; compact separators",
+    "old_parent_inventories_bound_not_recopied": true
+  },
+  "administrative_command": "python3 problems/2021-B4/notes/reasoning-return-r12-freeze-v1.py",
+  "artifacts": [
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r12-candidate-v1.md",
+      "bytes": 17602,
+      "sha256": "7600005b20756bf9613e2b02177d5ae50aa5d3f573a6aa267bf245ee0a5c8f19"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r12-obligations-v1.md",
+      "bytes": 7652,
+      "sha256": "e4f7777e5da050968c7d485f5e0a44edef03a92da8176af779e9a0d0b894256c"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r12-constructor-checks-v1.md",
+      "bytes": 7318,
+      "sha256": "7cc58a0354dd0e18edc56b33046d685365b5ab5cc1d2432e3fa5826948bcc1b4"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r12-failed-routes-v1.md",
+      "bytes": 4741,
+      "sha256": "67ef5adaf2ba0e0fec980c8fb33311ecf9de46ec98816f8efefeb9803359bfb9"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r12-source-audit-v1.md",
+      "bytes": 5838,
+      "sha256": "c0a788a4321500bdadd839cbdb1eb8e811d41f8d55033de18e6d2409c9d46c23"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r12-worklog-v1.md",
+      "bytes": 4483,
+      "sha256": "bb99d7bf49c444ae09a0905957d176859b402bb1214b6e7372d286f6c4f7ebbc"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r12-freeze-v1.py",
+      "bytes": 12053,
+      "sha256": "14141894fe5a7e23928c50d270feefeb8a7085f96d3c3e932c4699c0fc1c872a"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r12-sources-v1.json",
+      "bytes": 4883,
+      "sha256": "48f5e01314d2745b2bbf55c286256bfcce3d59286c73cae01995371087c0118a"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r12-input-validation-v1.json",
+      "bytes": 12945,
+      "sha256": "e84d52638deece0dd93648d264c3c35e63f7a18176c6e52eaf699114106cafcb"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r12-freeze-output-v1.json",
+      "bytes": 485,
+      "sha256": "5ca00740c7719dc44b85ad32f5bd5fbac3fb6b50f3bf8bbcfbc8da5795780192"
+    }
+  ]
+}

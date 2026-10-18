@@ -1,0 +1,76 @@
+{
+  "accepted_at_utc": "2026-10-18T01:02:10.651575+00:00",
+  "status": "proved, independently reviewed scoped partial result",
+  "whole_initials_blind": true,
+  "root_read_full_candidate_both_reports_all_ledgers_sources": true,
+  "unresolved_substantive_issues": 0,
+  "repair_required": false,
+  "candidate": {
+    "path": "problems/2021-B4/notes/reasoning-return-r12-candidate-v1.md",
+    "bytes": 17602,
+    "sha256": "7600005b20756bf9613e2b02177d5ae50aa5d3f573a6aa267bf245ee0a5c8f19"
+  },
+  "accepted_copy": {
+    "path": "problems/2021-B4/proofs/reviewed-reasoning-return-r12-v1.1.md",
+    "bytes": 20521,
+    "sha256": "bfc4a3549b9357600fdadf79a826d203e2226a1a4fd8d7c183412f8abc18e3ef"
+  },
+  "verification_metadata": [
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r12-freeze-v1.json",
+      "bytes": 4087,
+      "sha256": "3ed49540ef24d6b947add1abc2db155f6c3bda82c8e2a40c7615547aa3351f02"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-return-r12-input-validation-v1.json",
+      "bytes": 12945,
+      "sha256": "e84d52638deece0dd93648d264c3c35e63f7a18176c6e52eaf699114106cafcb"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r12-review-1-manifest-v1.json",
+      "bytes": 4751,
+      "sha256": "b69968a49ea0e084e408288e6cc8f710b52bd501058de050e9eedaa3161a21ef"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r12-review-1-baseline-v1.json",
+      "bytes": 2533,
+      "sha256": "bb00c41d4d68af253623eed4dec63c112d6b25b95c3a4549b0b6370ccc049db9"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r12-review-1-input-validation-v1.json",
+      "bytes": 2806,
+      "sha256": "50d8771c90e573ea3af6d3cc363538e572ab588c43934bbfdc73803c0041d380"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r12-review-1-sources-v1.json",
+      "bytes": 5233,
+      "sha256": "49d3162fd16571441e1e446347dea98070aa6cf3a12eacf8e1449198a6477b48"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r12-review-2-manifest-v1.json",
+      "bytes": 3627,
+      "sha256": "c19532690f19c191b8d4de905530f93845c352cb110d988854b2e1ecbefbc0f9"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-return-r12-review-2-integrity-v1.json",
+      "bytes": 17244,
+      "sha256": "d4ee953c04d0c5c7405c1e616d134261ea3b17424d7f4cb4f97c4ee97e55c0df"
+    }
+  ],
+  "record_occurrences_verified": 188,
+  "unique_paths_verified": 84,
+  "constructor": "/root/review_2021_reasoning_j15_r2",
+  "OTHER_whole_reviewers": [
+    "/root/review_2022_complexity_r2",
+    "/root"
+  ],
+  "all60_obligations_in_both_whole_initials": true,
+  "constructor_excluded": true,
+  "old_roles_disclosed": true,
+  "exact_first_breaks_remaining": [
+    3,
+    4,
+    5
+  ],
+  "no_full_degree20_or_annual_claim": true
+}

@@ -1,0 +1,61 @@
+{
+  "recorded_at_utc": "2026-10-18T00:58:05.225622+00:00",
+  "status": "initially blind WHOLE R12 R1 administrative baseline; no mathcode",
+  "exact_target": {
+    "path": "problems/2021-B4/notes/reasoning-return-r12-candidate-v1.md",
+    "bytes": 17602,
+    "sha256": "7600005b20756bf9613e2b02177d5ae50aa5d3f573a6aa267bf245ee0a5c8f19"
+  },
+  "constructor_freeze": {
+    "path": "problems/2021-B4/notes/reasoning-return-r12-freeze-v1.json",
+    "bytes": 4087,
+    "sha256": "3ed49540ef24d6b947add1abc2db155f6c3bda82c8e2a40c7615547aa3351f02"
+  },
+  "constructor_payloads": 10,
+  "constructor_current_input_metadata": {
+    "path": "problems/2021-B4/notes/reasoning-return-r12-input-validation-v1.json",
+    "bytes": 12945,
+    "sha256": "e84d52638deece0dd93648d264c3c35e63f7a18176c6e52eaf699114106cafcb"
+  },
+  "necessary_current_summary": {
+    "occurrences": 55,
+    "unique_paths": 48,
+    "canonical_deduplicated_summary_sha256": "8b647192cc93e0d2966e77e81e17e6bcf97f57160b6004d165b05536b592c34f",
+    "encoding": "UTF8 JSON sorted unique path/bytes/sha256; sorted keys; compact separators"
+  },
+  "immediate_own_parent_manifest": {
+    "path": "problems/2025-B4/reviews/reasoning-return-r9-review-2-manifest-v1.json",
+    "bytes": 5385,
+    "sha256": "f41cf698bbbed3ae0a2ceabdec53ae7ffcfc12ec74e35d2dc6d6bee42279d657"
+  },
+  "immediate_own_parent_validation": {
+    "path": "problems/2025-B4/reviews/reasoning-return-r9-review-2-input-validation-v1.json",
+    "bytes": 4630,
+    "sha256": "a0c865e468662eb10337e77873d926bb6f8a6d0976ea8b02e21f1bca45295f08"
+  },
+  "immediate_own_parent_files_including_manifest": 9,
+  "older_own_paths_bound_transitively": 475,
+  "old_inventories_bound_not_copied": true,
+  "all_old_bytes_preserved": true,
+  "root_NEW_R12_peer_files_findings_source_metadata_unopened": true,
+  "root_completion_identity_received_without_findings": true,
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independently_verified_effective_settings": null,
+  "telemetry": {
+    "at_utc": "2026-10-18 00:57:37 UTC",
+    "method": "mcp__codex_app__get_usage_limits({}); rateLimitsByLimitId.codex.primary and legacy agree",
+    "account_label": "029a8928…1334ac3a",
+    "used_percent_total": 5,
+    "window_minutes": 10080,
+    "reset_unix": 1792874445,
+    "ordinary_usage_allowed": true,
+    "new_window_explicitly_user_authorized": true,
+    "total_ceiling_percent": 90,
+    "integration_reserve": true,
+    "automatic_further_reset_spending": false
+  }
+}

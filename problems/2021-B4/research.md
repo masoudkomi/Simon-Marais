@@ -20,8 +20,10 @@ computation. A finite normalized parameter space, however, need not be empty,
 and an available residue root need not lift to a rational common root.
 
 The project's reviewed results restrict carefully specified degree-20
-branches. The [R11 first-break exclusion](reviews/reasoning-return-r11-acceptance.md)
-has passed two independent whole audits and coordinator reconciliation.
+branches. The [R12 first-break exclusion](reviews/reasoning-return-r12-acceptance.md)
+has passed two OTHER independent whole audits and coordinator reconciliation.
+Within its specified actual-double/J15 branch, first breaks m6 and m7 are
+excluded; m3–m5 remain. Its full-gcd corollary retains three additional units.
 It does not settle all degree 20 or all contest degrees. General
 proof claims in the literature are tracked separately from verified imports.
 See the [current dashboard](../../progress/dashboard.md),
