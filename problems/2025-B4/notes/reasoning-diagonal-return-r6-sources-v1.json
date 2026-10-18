@@ -1,0 +1,51 @@
+{
+  "date_utc": "2026-10-18",
+  "status": "candidate proof - unverified",
+  "new_constructor": "/root/review_2021_reasoning_j15_r2",
+  "two_OTHER_ENTIRE_initially_blind_WHOLE_audits_required": true,
+  "root_generic_target_no_NEW_proof_inference": true,
+  "primary_reads": [
+    {
+      "title": "Official2025 PaperB, B4 setup/(b)",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc2025_paper_b.pdf",
+      "actual_read": "page2,parsed59-61/67-71 and complete local statement",
+      "preliminary_a_investigated": false,
+      "new_binary_sha256": null
+    },
+    {
+      "title": "Bennett-Levin2015, The Nagell-Ljunggren equation via Runge's method",
+      "url": "https://personal.math.ubc.ca/~bennett/BeLe-Mona-2015.pdf",
+      "actual_read": "introduction,signed Proposition1,theorem context,parsed0-66",
+      "role": "pure-X published overlap only,not needed by new proof",
+      "whole17page_or_constituent_proof_audit": false,
+      "new_binary_sha256": null
+    },
+    {
+      "title": "Mihailescu2008, Class Number Conditions for the Diagonal Case",
+      "url": "https://www.researchgate.net/publication/226863681_Class_Number_Conditions_for_the_Diagonal_Case_of_the_Equation_of_Nagell_and_Ljunggren",
+      "doi": "10.1007/978-3-211-74280-8_15",
+      "author_upload_version": "Version2.0 September17,2007",
+      "actual_read": "intro/Theorems1-4 domains142-286; COMPLETE Lemma7 statement/proof1205-1235; Section5 explicit conditional opening2706-2757 and returned trace context/ending through3001",
+      "role": "classical depth attribution and class-hypothesis firewall; no theorem imported",
+      "Theorem3_4_entire_proof_or_foundations_newly_certified": false,
+      "new_binary_sha256": null
+    }
+  ],
+  "accepted_full_bodies_and_authority_MD_JSON_freshly_read": [
+    "reviewed-reasoning-diagonal-return-r5-v1.1.md",
+    "reviewed-reasoning-branch-return-r4-v1.1.md",
+    "reviewed-reasoning-Runge-return-r3-v1.1.md",
+    "reviewed-reasoning-Runge-return-r2-v1.1.md",
+    "reviewed-reasoning-return-r6-v1.1.md"
+  ],
+  "only_old_non_elementary_consequence_used": "accepted RD3 actual signed c>p^(s-2); classical matched-prime Jacobi chain retained",
+  "complete_failed_routes_read": ["RD","BD","BR","RS"],
+  "R6_complete_failure_boundary_in_body_read": true,
+  "coordinator_higher_trace_note_complete_but_UNVERIFIED_formal_context_only": true,
+  "Chen_Mihailescu2026_distinct_prime_theorem_used_diagonally": false,
+  "new_complete_2026_operatively_audited_body_claim": false,
+  "research_map_is_mutable_status_not_frozen_proof_input": true,
+  "novelty_or_literature_exhaustiveness_claim": false,
+  "math_program_scan_CAS_source_author_or_old_replay": false,
+  "public_access_only_no_binary_or_cache_write_charge_contact_bypass_native_stall": true
+}

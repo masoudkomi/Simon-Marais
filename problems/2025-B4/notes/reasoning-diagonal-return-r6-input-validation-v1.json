@@ -1,0 +1,18 @@
+{
+  "validated_at_utc": "2026-10-18T14:17:17.428030+00:00",
+  "status": "PASS administrative only",
+  "baseline": {
+    "path": "problems/2025-B4/notes/reasoning-diagonal-return-r6-baseline-v1.json",
+    "bytes": 9512,
+    "sha256": "8f0e10e839a5db41d1023bf5d60e2f796dabb75bef4e31afd17c8f4fc821e1e5"
+  },
+  "whole_obligations_and_checks": [
+    48,
+    48
+  ],
+  "accepted_authority_body_matches": 5,
+  "protected_occurrences": 140,
+  "protected_unique_paths": 118,
+  "canonical_deduplicated_sha256": "3e316bd43f58ac5b0e76b26320b3d140a51f2259eeebf0c21f0150fb2420dbfd",
+  "no_mathematical_program_source_author_or_old_replay": true
+}

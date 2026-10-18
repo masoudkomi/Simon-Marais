@@ -23,13 +23,13 @@ whole64/64 audits and reconciliation. [2020 SQ14](problems/2020-B4/reviews/reaso
 is also accepted after both whole64/64 audits.2021R19 remains unverified:
 an introductory scaling error requires versioned author correction and
 both affected reaudits;the formal normalized proof is not refuted.
-Direct weekly42%TOTAL at14:17:15UTC/reset1792874445;
+Direct weekly42%TOTAL at2026-10-18 14:27:49 UTC/reset1792874445;
 continue to90%TOTAL with reserve in this explicitly authorized window.
 
 - [Latest continuing checkpoint](progress/checkpoint-2026-10-19-0018.md).
-- [Latest actual hourly report](progress/status-2026-10-18-2327.md);
-  its2024 table has the explicit sign correction in the new checkpoint.
-  Next actual hourly/owned-awake check14:27:30UTC.
+- [Latest actual hourly report](progress/status-2026-10-19-0027.md);
+  the historical23:27 table sign typo is corrected in the new hourly report.
+  Next actual hourly/owned-awake check15:27:30UTC.
 
 - [Dashboard](progress/dashboard.md): per-problem status, results, obstructions, next steps and reviews.
 - [Budget and telemetry](progress/budget.md): observed weekly usage and reset boundary.

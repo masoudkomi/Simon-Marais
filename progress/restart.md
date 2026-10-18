@@ -1,5 +1,14 @@
 # Current restart boundary —2026-10-18 19:27Brisbane
 
+ACTUAL00:27Brisbane19October2026:[all-nine hourly report](status-2026-10-19-0027.md).
+42%TOTAL/current authorized1792874445window only through90/reserve.
+PM9/BT/SQ14/R7 accepted and pushed;R19 correction/BOTH reaudits required.
+DR6/D7 complete author packets UNVERIFIED;rootDR6whole1ENTIRE11/48
+complete/EMBARGOED,Cwhole2 active;B2019research/A2021repair active.
+Fresh token cutoff2026-10-18T14:26:08.637912+00:00,OWNawake79293verified14:26:09UTC.
+Next ACTUAL15:27:30UTC.Research continues;two complete annual/seven unresolved.
+
+
 CURRENT23:27Brisbane18October2026:[ACTUALhourly](status-2026-10-18-2327.md).
 38%TOTAL/currentauthorized1792874445onlythrough90/reserve.
 PM8/D6/R6/RD accepted exactscopes after TWO OTHER ENTIREwholeaudits/fullreconciliation.
