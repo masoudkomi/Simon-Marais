@@ -253,3 +253,5 @@ ACTUALhourly2227: direct12:26:46UTC34%TOTAL/currentreset1792874445/10080min/ordi
 ACTUALhourly2327:direct2026-10-18T13:27:41+00:00 38%TOTAL/currentreset1792874445/10080min/ordinaryallowed;52ppbefore90withreserve. Token cutoff2026-10-18T13:25:42.168514+00:00 2,348,948,881total,6,831,103reasoningsubset,116,834,449uncached+output.Notbilling/quotaformula.OWNawake79293freshverifiedforever.Next14:27:30UTC.
 
 ACTUALhourly0027:direct2026-10-18 14:27:49 UTC 42%TOTAL/reset1792874445/10080min/ordinaryallowed;48ppbefore90withreserve.Token cutoff2026-10-18T14:26:08.637912+00:00:2,468,456,998total,7,002,250reasoning subset,121,009,958uncached+output.Notbilling/quotaformula.OWNawake79293verified14:26:09UTCforever.Next15:27:30UTC.
+
+ACTUALhourly0127:direct15:26:55UTC47%TOTAL/reset1792874445/10080min/ordinaryallowed;43ppbefore90withreserve. Token cutoff2026-10-18T15:27:16.122486+00:00:2,591,757,719total,7,196,216reasoning subset,125,217,175uncached+output. Notbilling/quotaformula. OWNawake79293verified15:26:55UTCforever.Next16:27:30UTC.

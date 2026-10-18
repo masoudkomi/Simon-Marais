@@ -1,5 +1,14 @@
 # Current restart boundary —2026-10-18 19:27Brisbane
 
+ACTUAL01:27Brisbane19October2026: [all-nine hourly report](status-2026-10-19-0127.md).
+47%TOTAL/direct15:26:55UTC/current authorized1792874445onlythrough90/reserve.
+R19repair/R8 accepted and pushed;AT bothentire64audits done/rootFULLpeerread,
+acceptancepending. R20UNVERIFIED/Bwhole2frozenEMBARGO/rootwhole1active.
+NEW2017R10/2020SQ15/2025DR7 handresearch continues. Fresh token cutoff
+2026-10-18T15:27:16.122486+00:00; OWNawake79293positivelyverified15:26:55UTC.
+NextACTUAL16:27:30UTC. Two completeannual/seven unresolved.
+
+
 Current continuing checkpoint19October2026: [R19 repaired scoped result](../problems/2021-B4/reviews/reasoning-center-return-r19-acceptance.md)
 accepted after three affected ENTIRE76 audits/reconciliation; exact original
 error/rootmiss/Bfilename-only event preserved. [2024R8](../problems/2024-B4/reviews/reasoning-cofactor-return-r8-acceptance.md)

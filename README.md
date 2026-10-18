@@ -16,12 +16,12 @@ ordinary diagonal points and includes everyi>=2 at odd parts11/23.
 Other recent reviewed partials include2017PM9,2019BT/CT,2020SQ14,
 2022D7,2024R6/R7 and2025DR6. NEW2019AT and2021R20 remain unverified
 pending whole audits/reconciliation;C continues2020SQ15 hand research.
-Direct weekly46%TOTAL at2026-10-18 15:09:30UTC/reset1792874445;
+Direct weekly47%TOTAL at2026-10-18 15:26:55UTC/reset1792874445;
 continue to90%TOTAL with reserve in this explicitly authorized window.
 
 - [Latest continuing checkpoint](progress/checkpoint-2026-10-19-0122.md).
-- [Latest actual hourly report](progress/status-2026-10-19-0027.md).
-  Next actual hourly/token/owned-awake check15:27:30UTC.
+- [Latest actual hourly report](progress/status-2026-10-19-0127.md).
+  Next actual hourly/token/owned-awake check16:27:30UTC.
 
 - [Dashboard](progress/dashboard.md): per-problem status, results, obstructions, next steps and reviews.
 - [Budget and telemetry](progress/budget.md): observed weekly usage and reset boundary.
