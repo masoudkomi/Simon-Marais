@@ -1,11 +1,13 @@
 # Research dashboard
 
-Current [actual hourly21:27Brisbane](status-2026-10-18-2127.md):30%TOTAL
-weekly at11:26:04UTC,2,151,791,312recorded tokens including6,397,887
-reasoning. NEWCF,correctedR5,BD,R17 accepted after all required whole
-audits/full reconciliation. Two complete annual answers/seven unresolved.
-Three new research directions active; next12:27:42UTC. OWNawake79293
-positively confirmed forever; current window only through90TOTAL/reserve.
+Latest [actual hourly21:27Brisbane](status-2026-10-18-2127.md) records
+2,151,791,312tokens including6,397,887reasoning at its cutoff. NEW direct
+weekly read11:47:00UTC is31%TOTAL,current reset1792874445. [21:48checkpoint](checkpoint-2026-10-18-2148.md)
+preserves UNVERIFIED2017WO/2020R13 author packets and ENTIRErootR13 initial.
+Two complete annual answers/seven unresolved; no new promotion.2019/2021
+authors continue; B2017 ENTIRER1 complete, C R2 queued; B prepares2019
+premises, further OTHER audits queued. Next actual
+hourly12:27:42UTC. OWNawake79293 forever positively confirmed.
 
 
 Initial scope: nine official B4 open portions, 2017-2025. **2026 deferred by the user**, not counted as a verified problem. The 2017 problem and general 2018 enumeration are in scope; for 2019-2025, **part (b) only**. Preliminary part (a) and the already known 2018 m=5 case are excluded as research targets. See sources/open-scope-audit.md.

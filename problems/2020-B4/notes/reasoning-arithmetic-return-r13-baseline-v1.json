@@ -1,0 +1,198 @@
+{
+  "created_at_utc": "2026-10-18T11:26:13.863863+00:00",
+  "purpose": "NEW metadata-only necessary R13 preservation baseline, not mathematical evidence",
+  "snapshot_stage": "after complete hand proofs and actual primary/accepted-input reads, before whole immutable freeze",
+  "protected_fingerprint_occurrences": 27,
+  "protected_unique_paths": 27,
+  "canonical_protected_summary_sha256": "77b684729a1f1249e53f9b9e165acce76f54dd0adb4e3d7357796f29426d4982",
+  "protected_fingerprints": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-Todd-return-r12-candidate-v1.md",
+      "bytes": 29251,
+      "sha256": "a799aa9add5799c2f6c7c265bdc256a2c3946f482618e6e0d0d828efa5e88bb9"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-Todd-return-r12-failed-routes-v1.md",
+      "bytes": 7807,
+      "sha256": "c59c85546059f25f35c73165aa4f713a89088d2ff89cf6c3fad5971c23d0282b"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-arithmetic-return-r11-candidate-v1.md",
+      "bytes": 19167,
+      "sha256": "f93bc9f57db3ff196db2b32380cd0aadd122bff5ea0bfbbf09b7a9a6868f0ead"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-arithmetic-return-r11-failed-routes-v1.md",
+      "bytes": 7244,
+      "sha256": "26b0da0bce26c1fe067c670aabc3a93dfe47e936dd415cd9b388ff73ba077365"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-arithmetic-return-r9-candidate-v1.md",
+      "bytes": 20253,
+      "sha256": "aab97b7ba5c91d17e9e82f18a58db400bcddd1afb11081917d6f12a1f31fd892"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-arithmetic-return-r9-failed-routes-v1.md",
+      "bytes": 5037,
+      "sha256": "5b98e994da7f28c9aefc97614cfc3b4ba9a3524521c3bf6bd9b576b1039649e0"
+    },
+    {
+      "path": "problems/2020-B4/proofs/reviewed-reasoning-Todd-return-r12-v1.1.md",
+      "bytes": 35569,
+      "sha256": "f1663778cf78c18b3cb30a4702d7fbff95be29ab73c5f8e4f74d344362c8fba6"
+    },
+    {
+      "path": "problems/2020-B4/proofs/reviewed-reasoning-arithmetic-return-r11-v1.1.md",
+      "bytes": 23794,
+      "sha256": "d40873d12db5edb0870867e392fcc2d547f9bc68f19a4cc73a389ac951245079"
+    },
+    {
+      "path": "problems/2020-B4/proofs/reviewed-reasoning-arithmetic-return-r9-v1.1.md",
+      "bytes": 24622,
+      "sha256": "ab2ee4e7a2dcfa464780c6144f996d683f08b7f04da63d2a77ee2fdd4ec922b8"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-Todd-return-r12-acceptance.json",
+      "bytes": 5253,
+      "sha256": "6e2f434d567679f4905efbaa717b1a9255f65110be74cfc428503f1effe2c389"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-Todd-return-r12-acceptance.md",
+      "bytes": 6417,
+      "sha256": "244ed85fbc74df1745942c83dfc4b5289122260f1d17d4feab78229c2bda7494"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-arithmetic-return-r11-acceptance.json",
+      "bytes": 3823,
+      "sha256": "fa2ac5e94d75eb625ac54fa90b1a46bda5ec23548d643321f8d1745161f1da88"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-arithmetic-return-r11-acceptance.md",
+      "bytes": 4725,
+      "sha256": "832069c9c52167f0a5885a41d87d8999dee5d8f15f9c9ae8a98caa900492e81b"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-arithmetic-return-r9-acceptance.json",
+      "bytes": 3431,
+      "sha256": "f6533a1a615efd61594cdb4a3e9a8ef9d29e752df75e314dfea15fde40e7327d"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-arithmetic-return-r9-acceptance.md",
+      "bytes": 4467,
+      "sha256": "e9218eb7b5c19527f9585d29d0b6beaa15d7afe619429170daa0b659e008bb5a"
+    },
+    {
+      "path": "problems/2020-B4/statement.md",
+      "bytes": 2006,
+      "sha256": "91c9e7e86eef7bc6a68770f6ee730d18618443304ac3aace5541b42170ac64cc"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-Frobenius-r5-review-2-reaudit-v2-baseline.json",
+      "bytes": 13159,
+      "sha256": "f186f6c8be7daac0c1c75e309c5d31d90a0ac6f9f0170870eeb0b918ec064d24"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-Frobenius-r5-review-2-reaudit-v2-freeze.py",
+      "bytes": 13894,
+      "sha256": "fe6184ff1b6e445b1ce074660d1715c3bb60ca0f5628bdf412362146684737d9"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-Frobenius-r5-review-2-reaudit-v2-input-validation.json",
+      "bytes": 710,
+      "sha256": "e241f94422740d5364674fe09aaafac11f573298d38e6873d451db12b0812e26"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-Frobenius-r5-review-2-reaudit-v2-issues.md",
+      "bytes": 3151,
+      "sha256": "9e14ca39d90e11a26bd23bba81a2cf90afe3475e312370f7b0d13666650ae938"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-Frobenius-r5-review-2-reaudit-v2-ledger.md",
+      "bytes": 6620,
+      "sha256": "9410e2f23dd7d9f31435299f565fb097b87e96e3d6750716d20840839bf4a3a4"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-Frobenius-r5-review-2-reaudit-v2-manifest.json",
+      "bytes": 5850,
+      "sha256": "e2d3cb2fa85a32145f65509299a2686e4a8451b263181456b73d5cc380cce1af"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-Frobenius-r5-review-2-reaudit-v2-report.md",
+      "bytes": 11465,
+      "sha256": "ce63217a1f3909fe854e0e9cbb5de4ca3c12e6ddb046b1bcbd5eef0173e87a3c"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-Frobenius-r5-review-2-reaudit-v2-source-checks.md",
+      "bytes": 5299,
+      "sha256": "46305fdcab6f6f199e75f8817b53f7962ec0f6ae3444d7848dc3c54c909323c8"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-Frobenius-r5-review-2-reaudit-v2-sources.json",
+      "bytes": 3004,
+      "sha256": "ba04fc387844db91d1f803341b71ae6429f1ff7fb43dcc86e8787589e243e9a3"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-Frobenius-r5-review-2-reaudit-v2-worklog.md",
+      "bytes": 6128,
+      "sha256": "8068352ccfcdd2fd0947a8165fdf2b206d51cea9b3b4354617c6e33e0cc3a2cc"
+    }
+  ],
+  "accepted_bindings": [
+    {
+      "authority_json": "problems/2020-B4/reviews/reasoning-Todd-return-r12-acceptance.json",
+      "authority_md": "problems/2020-B4/reviews/reasoning-Todd-return-r12-acceptance.md",
+      "accepted_body": "problems/2020-B4/proofs/reviewed-reasoning-Todd-return-r12-v1.1.md",
+      "exact_candidate_suffix": "problems/2020-B4/notes/reasoning-Todd-return-r12-candidate-v1.md",
+      "historical_occurrences_bound_not_recopied_or_replayed": 369,
+      "historical_paths_bound_not_recopied_or_replayed": 136,
+      "operative": true
+    },
+    {
+      "authority_json": "problems/2020-B4/reviews/reasoning-arithmetic-return-r9-acceptance.json",
+      "authority_md": "problems/2020-B4/reviews/reasoning-arithmetic-return-r9-acceptance.md",
+      "accepted_body": "problems/2020-B4/proofs/reviewed-reasoning-arithmetic-return-r9-v1.1.md",
+      "exact_candidate_suffix": "problems/2020-B4/notes/reasoning-arithmetic-return-r9-candidate-v1.md",
+      "historical_occurrences_bound_not_recopied_or_replayed": 150,
+      "historical_paths_bound_not_recopied_or_replayed": 62,
+      "operative": true
+    },
+    {
+      "authority_json": "problems/2020-B4/reviews/reasoning-arithmetic-return-r11-acceptance.json",
+      "authority_md": "problems/2020-B4/reviews/reasoning-arithmetic-return-r11-acceptance.md",
+      "accepted_body": "problems/2020-B4/proofs/reviewed-reasoning-arithmetic-return-r11-v1.1.md",
+      "exact_candidate_suffix": "problems/2020-B4/notes/reasoning-arithmetic-return-r11-candidate-v1.md",
+      "historical_occurrences_bound_not_recopied_or_replayed": 234,
+      "historical_paths_bound_not_recopied_or_replayed": 71,
+      "operative": false
+    }
+  ],
+  "immediate_own_parent": {
+    "path": "problems/2024-B4/reviews/cofactor-Frobenius-r5-review-2-reaudit-v2-manifest.json",
+    "bytes": 5850,
+    "sha256": "e2d3cb2fa85a32145f65509299a2686e4a8451b263181456b73d5cc380cce1af"
+  },
+  "older_own_paths_bound_transitively": 708,
+  "no_historical_inventory_recopy_or_recursive_replay": true,
+  "mutable_landscape_snapshots_context_only": [
+    {
+      "path": "problems/2020-B4/research.md",
+      "bytes": 10439,
+      "sha256": "4de159ab080182132492a84f77ddb6e25097e4e8e8efc08eca05431ff9fa2338"
+    },
+    {
+      "path": "problems/2020-B4/references.md",
+      "bytes": 9036,
+      "sha256": "7ce4ae9b9c7724cbd91cdc0da57a09e79e0eac728399b79efe148aa799262786"
+    }
+  ],
+  "forbidden_NEW_peer_prefixes_never_read_or_hashed_by_this_code": [
+    "problems/2020-B4/reviews/reasoning-arithmetic-return-r13-",
+    "problems/2025-B4/reviews/reasoning-branch-return-r4-"
+  ],
+  "mathematical_program_scan_or_author_source_rerun": false
+}

@@ -1,5 +1,16 @@
 # Independent review queue
 
+CURRENT18October2026 11:48UTC: NEW2017WO ENTIREauthor11/48 frozen,
+root constructor EXCLUDED; OTHER B R1 ENTIRE10/48 complete, C R2 queued
+after ENTIRE2019; B prepares2019 premises without opening active new draft.
+NEW2020R13 ENTIREauthor11/64 frozen, B constructor EXCLUDED; root OTHER
+R1 ENTIRE11/64 frozen/read back/separately verified, A R2 queued after
+ENTIRE2021. BOTH detailed initials embargoed. Early brief R13 user update
+and A explicit nonexposure confirmation disclosed in immutable root record.
+No new acceptance;2 complete annual answers/7 unresolved.31TOTAL direct
+11:47/current reset only; next actual hourly12:27:42UTC.
+
+
 CURRENT18October2026 11:27UTC: R17A--D ACCEPTED after root/A ENTIRE
 OTHER whole60/60 audits/full reconciliation; C constructor excluded.
 All120 dispositions/source/log/code/ALLmetadata read,0 unresolved issues.

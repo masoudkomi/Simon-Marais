@@ -1,0 +1,50 @@
+{
+  "date_utc": "2026-10-18",
+  "status": "candidate proof - unverified",
+  "constructor": "/root/review_2022_complexity_r2",
+  "constructor_excluded": true,
+  "TWO_OTHER_initially_blind_ENTIRE_WHOLE_audits_required": true,
+  "requested_settings": {"model": "gpt-6.1-sol", "reasoning": "max", "inherited": true},
+  "independently_verified_effective_settings": null,
+  "root_or_other_worker_NEW_proof_inference_contribution": false,
+  "claims": ["L13A every actual balanced prime-layer sequence minimal at all exponents", "L13B unconditional proper-radical injection and actual exponent-tail count", "L13C classical Davenport/Sylow bounds applied in the refined group", "L13D exact small-quotient arithmetic consequences with surviving semiprime gap"],
+  "whole_obligations": 64,
+  "complete_current_accepted_bodies_and_MD_JSON_read": [
+    {"path": "problems/2020-B4/proofs/reviewed-reasoning-Todd-return-r12-v1.1.md", "bytes": 35569, "sha256": "f1663778cf78c18b3cb30a4702d7fbff95be29ab73c5f8e4f74d344362c8fba6", "role": "operative canonical rho, full unit defect, same-ideal integral generator and older squarefree count"},
+    {"path": "problems/2020-B4/proofs/reviewed-reasoning-arithmetic-return-r9-v1.1.md", "bytes": 24622, "sha256": "ab2ee4e7a2dcfa464780c6144f996d683f08b7f04da63d2a77ee2fdd4ec922b8", "role": "operative standalone published proper-nonsquare integral-element bound only; original repeated-layer warning qualified explicitly"},
+    {"path": "problems/2020-B4/proofs/reviewed-reasoning-arithmetic-return-r11-v1.1.md", "bytes": 23794, "sha256": "d40873d12db5edb0870867e392fcc2d547f9bc68f19a4cc73a389ac951245079", "role": "comparison only, old whole-primary and odd ordinary class-number scope retained"}
+  ],
+  "fresh_primary_reads": [
+    {"url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2020-paper-b_1.pdf", "scope": "page2 B4 definition/open(b),98-105, compared to COMPLETE local statement", "preliminary_or_other_problem_researched": false, "binary_sha256": null},
+    {"url": "https://personal.ntu.edu.sg/bernhard/Publications/pub/BentFunctions.pdf", "authors": "Ka Hin Leung and Bernhard Schmidt", "scope": "Notation5; COMPLETE Theorem23 statement/proof1217-1267; Theorem22 context1131-1216 and returned earlier setup", "whole41page_proof_chain_or_bent_function_system_certified": false, "operative_role": "attributed nonsquare bound, with accepted complete prime-case reconstruction", "binary_sha256": null},
+    {"url": "https://arxiv.org/pdf/0907.4913", "author": "Daniel Smertnig", "version": "v2,29December2010", "scope": "intro/TheoremA/sequence definitions/group-algebra setup through183 and returned following context through364", "full12page_Theorem1_1_proof_imported": false, "role": "classical normalization and attribution; all needed estimates supplied in full in new candidate", "binary_sha256": null},
+    {"url": "https://www.sciencedirect.com/science/article/pii/0022314X69900213", "author": "John E.Olson", "doi": "10.1016/0022-314X(69)90021-3", "scope": "primary search result bibliography/abstract only", "full_open_result": "403", "original_operative_proof_read": false, "unread_original_proof_imported": false, "binary_sha256": null}
+  ],
+  "failed_author_URL_not_imported": "https://imsc.uni-graz.at/geroldinger/92-invariant-zero-sum.pdf",
+  "secondary_search_results_used_for_technical_theorem": false,
+  "classical_Davenport_formula_claimed_new": false,
+  "old_A9_repeated_layer_explanatory_limit_explicit": true,
+  "actual_complement_integrality_not_arbitrary_square_norms": true,
+  "new_numeric_q_class_evaluation_or_positive_configuration": false,
+  "unrestricted_prime_power_classification_annual_answer_or_novelty": false,
+  "mathematical_program_CAS_scan_test_source_author_or_certificate_replay": false,
+  "NEW_metadata_code_only": true,
+  "no_old_shared_Git_cache_edit_spawn_download_charge_contact_or_bypass": true,
+  "no_NEW_BD_or_R13_peer_material_accessed": true,
+  "older_roles_disclosed": "B authored older R4/R5/R7/R8/A11/TD and reviewed old A9; their separate authority is not fresh self-certification",
+  "detailed_actual_read_scope": "problems/2020-B4/notes/reasoning-arithmetic-return-r13-sources-v1.md",
+  "authoritative_weekly_telemetry": {
+    "observed_at_utc": "2026-10-18 11:18:59 UTC",
+    "method": "direct get_usage_limits and clock in same awaited independent batch",
+    "used_percent_TOTAL": 29,
+    "window_minutes": 10080,
+    "reset_unix": 1792874445,
+    "ordinary_usage_allowed": true,
+    "legacy_by_limit_agree": true,
+    "account_label": "029a8928...1334ac3a",
+    "human_authorized_current_window_ONLY": true,
+    "ceiling_TOTAL_percent": 90,
+    "integration_reserve": true,
+    "automatic_later_reset_spending": false
+  }
+}
