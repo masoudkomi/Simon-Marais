@@ -1,0 +1,87 @@
+{
+  "created_utc": "2026-10-18T12:27:16.583276+00:00",
+  "status": "PASS administrative integrity only; no mathematical theorem validation",
+  "whole_obligation_labels": 48,
+  "necessary_declared_authority_bindings": [
+    {
+      "authority": "problems/2024-B4/reviews/structural-acceptance.json",
+      "field": "accepted_proof",
+      "record": {
+        "path": "problems/2024-B4/proofs/reviewed-structural-v1.1.md",
+        "bytes": 17079,
+        "sha256": "082dc054ce2cdaea80eee009f4c97c877c6968afb54b5a8f3141b7354031dd3f"
+      }
+    },
+    {
+      "authority": "problems/2024-B4/reviews/structural-acceptance.json",
+      "field": "candidate",
+      "record": {
+        "path": "problems/2024-B4/notes/structural-reasoning-r2-candidate-v1.md",
+        "bytes": 16027,
+        "sha256": "0c451d5f9410573625725bc6be35af91fe938deee4dc1d92910572374dc69f52"
+      }
+    },
+    {
+      "authority": "problems/2024-B4/reviews/cofactor-dominant-r4-acceptance.json",
+      "field": "accepted_copy",
+      "record": {
+        "path": "problems/2024-B4/proofs/reviewed-cofactor-dominant-r4-v1.1.md",
+        "bytes": 18793,
+        "sha256": "14c47b6db082bee1d60bcf297c289fe949fdec9384cc8a159b199c56ba265838"
+      }
+    },
+    {
+      "authority": "problems/2024-B4/reviews/cofactor-dominant-r4-acceptance.json",
+      "field": "candidate",
+      "record": {
+        "path": "problems/2024-B4/notes/cofactor-dominant-r4-candidate-v1.md",
+        "bytes": 14524,
+        "sha256": "b6c454eba513c0ebb364f4b53393741c8737239c5b03c75fc2a0ac000871e365"
+      }
+    },
+    {
+      "authority": "problems/2024-B4/reviews/cofactor-Frobenius-r5-acceptance.json",
+      "field": "accepted_copy",
+      "record": {
+        "path": "problems/2024-B4/proofs/reviewed-cofactor-Frobenius-r5-v2.1.md",
+        "bytes": 17704,
+        "sha256": "aa7c3edba910270594302ede19cce7a8f530e21f3c5b17e4c64ddd387762bcf3"
+      }
+    },
+    {
+      "authority": "problems/2024-B4/reviews/cofactor-Frobenius-r5-acceptance.json",
+      "field": "candidate",
+      "record": {
+        "path": "problems/2024-B4/notes/cofactor-Frobenius-r5-candidate-v2.md",
+        "bytes": 13006,
+        "sha256": "329b975a7f8fe7456f9794a2170dc443396fb1a2b0143cc61ac9ddd027beb47e"
+      }
+    },
+    {
+      "authority": "problems/2024-B4/reviews/cofactor-global-r2-acceptance.json",
+      "field": "accepted_copy",
+      "record": {
+        "path": "problems/2024-B4/proofs/reviewed-cofactor-global-r2-v1.1.md",
+        "bytes": 19500,
+        "sha256": "fd110d1615e730d754063b157cc1906b418702f510b2640bfd1b5c63e898548d"
+      }
+    }
+  ],
+  "literal_suffix_checks": [
+    {
+      "accepted_copy": "problems/2024-B4/proofs/reviewed-cofactor-dominant-r4-v1.1.md",
+      "literal_author": "problems/2024-B4/notes/cofactor-dominant-r4-candidate-v1.md",
+      "byte_identical_suffix": true
+    },
+    {
+      "accepted_copy": "problems/2024-B4/proofs/reviewed-cofactor-Frobenius-r5-v2.1.md",
+      "literal_author": "problems/2024-B4/notes/cofactor-Frobenius-r5-candidate-v2.md",
+      "byte_identical_suffix": true
+    }
+  ],
+  "T1_suffix_claim": "None: accepted structural copy has its documented editorial heading change",
+  "parent_direct_artifacts_verified": 9,
+  "necessary_fingerprint_occurrences_verified": 39,
+  "deduplicated_paths_verified": 32,
+  "original_R5_v1_and_old_review_bytes_not_rewritten": true
+}

@@ -1,0 +1,78 @@
+{
+  "frozen_utc": "2026-10-18T12:27:16.585045+00:00",
+  "status": "ENTIRE constructor candidate proof - unverified; not promotion",
+  "whole_claims": [
+    "R6A",
+    "R6B",
+    "R6C",
+    "R6D"
+  ],
+  "whole_obligations": 48,
+  "artifacts_including_freeze": 12,
+  "immediate_own_parent": {
+    "path": "problems/2017-B4/reviews/coordinator-weighted-optimum-r2-review-2-manifest-v1.json",
+    "bytes": 2983,
+    "sha256": "6fd3f0358279e95f7c76ca4b2dda1bb8162db43d49270d0ee561a26999f07750"
+  },
+  "necessary_fingerprint_occurrences_verified": 39,
+  "deduplicated_old_paths_verified": 32,
+  "TWO_OTHER_whole_audits_and_reconciliation_required": true,
+  "FULL_readback_and_SEPARATE_readonly_verification_still_to_be_completed": true,
+  "artifacts": [
+    {
+      "path": "problems/2024-B4/notes/reasoning-cofactor-return-r6-candidate-v1.md",
+      "bytes": 15682,
+      "sha256": "43833618ab3cc066c03f7c595344ec89835dd465232139ca1ccfc33074f64332"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-cofactor-return-r6-obligations-v1.md",
+      "bytes": 9055,
+      "sha256": "e7e01db46e32044a01b236b4ff63b2b76e780b4bb2039a81d3aca4e2afa19090"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-cofactor-return-r6-constructor-checks-v1.md",
+      "bytes": 4588,
+      "sha256": "d558bdd9e0f23102f1ca062129bd9ec14136507ea9c87a3ffb86a9e78ffd3ccd"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-cofactor-return-r6-failed-routes-v1.md",
+      "bytes": 6483,
+      "sha256": "033787ec688c5c2cc481fd142373207106fcbfa10979e440cb51b6f8f35ecad8"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-cofactor-return-r6-source-audit-v1.md",
+      "bytes": 6103,
+      "sha256": "b7684b226ebcff0c718ec84f5ea3d3cf50431dd1fb110a76c46acfa2c601ae10"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-cofactor-return-r6-sources-v1.json",
+      "bytes": 5882,
+      "sha256": "82b5f29d1ac57b3262fd0edfa2e97a2a40655b3c5c477275457354b135b9397f"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-cofactor-return-r6-worklog-v1.md",
+      "bytes": 7195,
+      "sha256": "078c5cf7142f992331f715c05da761de4dfe5fdee66309620fc24664e946033e"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-cofactor-return-r6-freeze-v1.py",
+      "bytes": 10544,
+      "sha256": "3e5fca4de458f072f7e01dddaadc845deb191a532b4f61a223b464204dc8c068"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-cofactor-return-r6-baseline-v1.json",
+      "bytes": 5041,
+      "sha256": "90fc97df2d3375032f76528d362ae596c04061ad55f507f48592daa0bdbe8653"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-cofactor-return-r6-input-validation-v1.json",
+      "bytes": 3368,
+      "sha256": "bacf2a9f0a38b4fef8ccb4aee3e08fd698170ebbcf3d9a53a8a8e43861c2f134"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-cofactor-return-r6-metadata-v1.json",
+      "bytes": 1348,
+      "sha256": "787a57f1a7bcae3c5388dd490b43e5be4db4b011d5f1fa4945d56ec0fa3dee09"
+    }
+  ]
+}

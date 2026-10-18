@@ -1,5 +1,7 @@
 # 2024 B4 independent reviews
 
+Current18October2026: [R6A–R6D](reasoning-cofactor-return-r6-acceptance.md) are **proved, independently reviewed scoped partial results** after TWO OTHER ENTIRE WHOLE48/48 audits and complete reconciliation. For ALLs≥3,k≥2, Q=2^s gives whole absolute irreducibility of φ_((Q−1)Q^k+1). A direct generic tangent-order proof gives every nonlinear component degree≥q; T1 and the universal actual-smaller-factor R4A bound contradict reducibility. General k1/other odd parts/the annual classification remain open; Férard2017 overlap/priority unresolved. Historical entries below retain their earlier statuses.
+
 The later [reconciliation precision](cofactor-Frobenius-r5-reconciliation-precision-v1.md)
 distinguishes A's model inspection from administrative byte hashing of
 the OLD report after original freezes. NEW affected-peer blindness and

@@ -1,0 +1,110 @@
+{
+  "date_utc": "2026-10-18",
+  "status": "candidate proof - unverified; exact read limits, not a source theorem import by resemblance",
+  "operative_accepted_inputs": [
+    {
+      "claim": "T1 only",
+      "body": "problems/2024-B4/proofs/reviewed-structural-v1.1.md",
+      "authority_md": "problems/2024-B4/reviews/structural-acceptance.md",
+      "authority_json": "problems/2024-B4/reviews/structural-acceptance.json",
+      "read_scope": "Fresh complete operative T1 proof and domain; no claim of a second new entire T1-T4 source audit",
+      "used_scope": "No absolute line of phi_n for odd binary weight at least three"
+    },
+    {
+      "claim": "R4A only",
+      "body": "problems/2024-B4/proofs/reviewed-cofactor-dominant-r4-v1.1.md",
+      "authority_md": "problems/2024-B4/reviews/cofactor-dominant-r4-acceptance.md",
+      "authority_json": "problems/2024-B4/reviews/cofactor-dominant-r4-acceptance.json",
+      "read_scope": "Fresh COMPLETE accepted body and authorities; accepted CG1-CG2 body/authority/source audit also read",
+      "used_scope": "Every actual proper reduced over-K factor of degree e<=N/2 has e<A when q>=2ell+7 in the exact Q-family"
+    }
+  ],
+  "old_starting_context_not_premises": [
+    {
+      "body": "problems/2024-B4/proofs/reviewed-cofactor-Frobenius-r5-v2.1.md",
+      "literal_author_v2": "problems/2024-B4/notes/cofactor-Frobenius-r5-candidate-v2.md",
+      "authority": "problems/2024-B4/reviews/cofactor-Frobenius-r5-acceptance.json",
+      "precision": "problems/2024-B4/reviews/cofactor-Frobenius-r5-reconciliation-precision-v1.md",
+      "read_scope": "Complete corrected accepted body and current MD/JSON/precision; old errors and review bytes preserved"
+    }
+  ],
+  "primary_public_sources": [
+    {
+      "title": "Simon Marais 2024 Paper B, B4(b)",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc2024_paper_b.pdf",
+      "read_scope": "Actual page2 B4 statement and local statement; only open part(b) investigated",
+      "role": "Official domains and coefficientwise conclusion",
+      "binary_downloaded": false,
+      "binary_sha256": null
+    },
+    {
+      "title": "William Fulton, Algebraic Curves, author text",
+      "url": "https://math.stanford.edu/~conrad/145Page/handouts/algcurves.pdf",
+      "read_scope": "Fresh smooth-local-ring discussion at lines2264-2282; entire Bezout section5.3 statement/proof lines3829-3924; not all129pages",
+      "role": "Classical attribution/context; needed line-order bound proved directly in R6A",
+      "binary_downloaded": false,
+      "binary_sha256": null
+    },
+    {
+      "title": "Arakelian-Speziali, Curves on Frobenius nonclassical loci of hypersurfaces, arXiv2512.08874v1",
+      "url": "https://arxiv.org/pdf/2512.08874v1",
+      "read_scope": "Complete Proposition3.1 and proof plus standing context, lines353-490; no fresh whole22page audit",
+      "role": "Nonimported source-interface check; characteristic hypothesis not silently dropped",
+      "operative_import": false,
+      "binary_downloaded": false,
+      "binary_sha256": null
+    },
+    {
+      "title": "Hernando-McGuire, arXiv0903.2016v4",
+      "url": "https://arxiv.org/pdf/0903.2016v4",
+      "read_scope": "Definitions/Introduction; complete Theorem15 statement/proof; Theorem16 statement and returned proof portion through line941, not full19pages",
+      "role": "Component-versus-whole and proper-divisor source precision; not an R6 premise",
+      "operative_import": false,
+      "binary_downloaded": false,
+      "binary_sha256": null
+    },
+    {
+      "title": "Eric Ferard, On the irreducibility of the hyperplane sections of Fermat varieties in P3 in characteristic2. II",
+      "url": "https://link.springer.com/article/10.1007/s12095-017-0213-1",
+      "other_primary_url": "https://gaati.org/publications/fr/",
+      "document_attempt": "https://hal.science/hal-03417811/document",
+      "read_scope": "Primary journal abstract/subscription preview and institutional bibliography; HAL document returned unavailable; operative full theorem and proof UNREAD",
+      "role": "Unresolved overlap/priority lead only; abstract not imported as theorem",
+      "operative_import": false,
+      "body_obtained": false,
+      "binary_downloaded": false,
+      "binary_sha256": null,
+      "charge_contact_bypass_attempted": false
+    },
+    {
+      "title": "Delgado-Janwa, On the Decomposition of Generalized Fermat Varieties, Congressus Numerantium232",
+      "url": "https://combinatorialpress.com/article/cn/Volume%20232/vol-232-paper%204.pdf",
+      "read_scope": "Primary PDF located, returned zero text lines; operative pages not newly rendered/read",
+      "role": "Bibliographic lead, unused",
+      "operative_import": false,
+      "binary_downloaded": false,
+      "binary_sha256": null
+    },
+    {
+      "title": "Steven V Sam, Dickson invariants, author notes",
+      "url": "https://mathweb.ucsd.edu/~ssam/notes/dickson.pdf",
+      "read_scope": "Entire two-page proof lines0-120",
+      "role": "Classical discarded invariant-ring lead, not an operative R6 premise",
+      "operative_import": false,
+      "binary_downloaded": false,
+      "binary_sha256": null
+    },
+    {
+      "title": "Lewis-Reiner-Stanton, Invariants of GL_n(F_q) in polynomials mod Frobenius powers, author manuscript",
+      "url": "https://www-users.cse.umn.edu/~reiner/Papers/GLCatInvar.pdf",
+      "read_scope": "Introduction/early parabolic context only; not all27pages; classical theorem and conjectures kept distinct",
+      "role": "Discarded invariant-ring lead, no theorem/conjecture imported",
+      "operative_import": false,
+      "binary_downloaded": false,
+      "binary_sha256": null
+    }
+  ],
+  "no_abstract_only_theorem_import": true,
+  "no_paid_access_contact_bypass_or_cache_write": true,
+  "novelty_or_complete_literature_coverage_established": false
+}

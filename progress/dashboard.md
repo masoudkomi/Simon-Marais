@@ -1,5 +1,17 @@
 # Research dashboard
 
+CURRENT22:49Brisbane18October2026: [continuing checkpoint](checkpoint-2026-10-18-2249.md).
+35%TOTAL direct12:41:05UTC/reset1792874445/current-window90TOTAL ceiling.
+2024R6A–D accepted after TWO OTHER ENTIRE WHOLE48/48 audits/full
+reconciliation: WHOLE absolute irreducibility n=(Q−1)Q^k+1,ALLs≥3,k≥2.
+Full annual classification/priority unresolved.2022D6/2025RD entire author
+packets frozenUNVERIFIED; rootD6WHOLE2 frozen, COTHERWHOLE1queued;
+root/A independently auditing2025RD ALL48. C2017path-mass and B2019
+high-cut mass research active. Exact role/embargo details in checkpoint.
+Latest ACTUAL hourly22:27Brisbane/raw2,242,811,628total; next13:27:30UTC.
+Lastconfirmedpush71414eb. No checkpoint ends sustained research.
+
+
 Latest [ACTUAL hourly22:27Brisbane](status-2026-10-18-2227.md): **34%TOTAL** current authorized weekly reset1792874445. Recorded **2,242,811,628 tokens**, including6,617,600reasoning subset. WO/CT/L13/R18 scoped results now accepted after both OTHER entire whole audits/full reconciliation. Two annual answers/seven unresolved. NEW2022/2024/2025 author research UNVERIFIED. Nextactualhourly13:27:30UTC; OWNawake79293/session64368 freshly verifiedforever. Continue to90TOTAL withreserve, current window only.
 
 
@@ -14,7 +26,7 @@ Initial scope: nine official B4 open portions, 2017-2025. **2026 deferred by the
 |2021|R18A–C now reviewed: exact five-center residue survivor; actual adjacent m4 center block forces collision depth one, with three necessary actual full-gcd frames. All depths>=2 in that branch excluded. Three depth-one frames, different essential-center branches, m3, other normalized degree20 patterns and annual answer open.|
 |2022|CF1-CF5 accepted unconditional/CF6 explicit conditional after OTHER48/48/full reconciliation: equal growth=>eventual translation, exact tail rectangle,44 EVENTS, all-N late merger/nonmerging twins; conditional336 states at12G. Universal hitting/exact timing/fiber existence open.|
 |2023|COMPLETE internally reviewed fixed positive nonsquare N classification: all(k,k),k>0 and(k,2k),(2k,k) with positive odd k. Priority unestablished.|
-|2024|Corrected AUTHORv2 R5 accepted after original OTHER32/32 and BOTH affected40/40/full reconciliation: whole n=31*32^k+1,k>=2. R4 n=15*16^k+1,k>=2 and R3 all s>=3,k>=3 accepted. General classification/priority open.|
+|2024|R6A–D reviewed: every nonlinear absolute component degree≥q; T1/R4A imply WHOLE absolute irreducibility n=(2^s−1)2^(sk)+1 for ALLs≥3,k≥2. General k1/other odd parts/full classification and priority unresolved.|
 |2025|BD1-BD4 accepted after OTHER64/64/full reconciliation: nonzero integer discriminant/all finite denominators/ramification, both-center lower height and signed pure-distance exclusions forp>=37 prime diagonal. Larger cofactors/unboundedp/raw-collision/old-delta/annual open.|
 
 ## Coordination

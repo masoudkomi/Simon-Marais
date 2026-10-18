@@ -1,5 +1,17 @@
 # Independent review queue
 
+CURRENT22:49Brisbane18October2026: [continuing checkpoint](checkpoint-2026-10-18-2249.md).
+35%TOTAL direct12:41:05UTC/reset1792874445/current-window90TOTAL ceiling.
+2024R6A–D accepted after TWO OTHER ENTIRE WHOLE48/48 audits/full
+reconciliation: WHOLE absolute irreducibility n=(Q−1)Q^k+1,ALLs≥3,k≥2.
+Full annual classification/priority unresolved.2022D6/2025RD entire author
+packets frozenUNVERIFIED; rootD6WHOLE2 frozen, COTHERWHOLE1queued;
+root/A independently auditing2025RD ALL48. C2017path-mass and B2019
+high-cut mass research active. Exact role/embargo details in checkpoint.
+Latest ACTUAL hourly22:27Brisbane/raw2,242,811,628total; next13:27:30UTC.
+Lastconfirmedpush71414eb. No checkpoint ends sustained research.
+
+
 CURRENT22:27Brisbane18October2026: actual hourly status-2026-10-18-2227.md,
 34%TOTAL/reset1792874445 only through90/reserve. Recorded2,242,811,628total,
 6,617,600reasoning subset; OWN79293/session64368 freshly verifiedforever.

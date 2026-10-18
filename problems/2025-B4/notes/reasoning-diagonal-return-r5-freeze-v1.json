@@ -1,0 +1,197 @@
+{
+  "frozen_at_utc": "2026-10-18T12:39:18.436171+00:00",
+  "status": "candidate proof - unverified",
+  "claims": [
+    "RD1",
+    "RD2",
+    "RD3",
+    "RD4"
+  ],
+  "whole_obligations": 48,
+  "constructor": "/root/review_2022_complexity_r2",
+  "constructor_excluded": true,
+  "root_supplied_NEW_mathematical_inference": false,
+  "two_OTHER_initially_blind_ENTIRE_WHOLE_audits_required": true,
+  "ENTIRE_main_companions_code_ALLmetadata_model_readback_required_before_handoff": true,
+  "separate_postfreeze_verify_required": true,
+  "actual_signed_prime_diagonal_p_ge37_only": true,
+  "new_trace_degree_all_finite_prime_division_and_real_ramified_parity_proved": true,
+  "actual_cofactor_bound_is_proposed_not_independently_reviewed": true,
+  "unrestricted_prime_bound_all_generator_or_annual_claim": false,
+  "new_2026_distinct_prime_source_is_not_an_operative_import": true,
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independently_verified_effective_readback": null,
+  "authoritative_weekly_telemetry": {
+    "observed_at_utc": "2026-10-18 12:32:20 UTC",
+    "method": "direct clock/get_usage_limits same awaited independent batch",
+    "TOTAL_used_percent": 34,
+    "window_minutes": 10080,
+    "reset_unix": 1792874445,
+    "ordinary_usage_allowed": true,
+    "legacy_by_limit_agree": true,
+    "account_label": "029a8928...1334ac3a",
+    "human_authorized_current_window_only": true,
+    "TOTAL_ceiling_percent": 90,
+    "integration_reserve": true,
+    "automatic_later_window_spending": false
+  },
+  "main": {
+    "path": "problems/2025-B4/notes/reasoning-diagonal-return-r5-candidate-v1.md",
+    "bytes": 17350,
+    "sha256": "c3e87275567846d8d9591d580fa56175403ba048e55c54d6070812c5c38a120c"
+  },
+  "compact_necessary_baseline": {
+    "path": "problems/2025-B4/notes/reasoning-diagonal-return-r5-baseline-v1.json",
+    "bytes": 11083,
+    "sha256": "67bdb163ba0faeeffbdd397b1870e448c12896d9cf78561a87529514ee821d66"
+  },
+  "protected_fingerprint_occurrences": 35,
+  "protected_unique_paths": 35,
+  "canonical_protected_summary_sha256": "b63605b885b88c3269e2014ed36d30415fa9584f38648cb68a08f5c9decfe069",
+  "accepted_operative_bindings": [
+    {
+      "authority": {
+        "path": "problems/2025-B4/reviews/reasoning-branch-return-r4-acceptance.json",
+        "bytes": 4336,
+        "sha256": "b66d17b0a9045507185578501a51fd2298469bb3474a7e98b4cd8bb570ed4d31"
+      },
+      "accepted_body": {
+        "path": "problems/2025-B4/proofs/reviewed-reasoning-branch-return-r4-v1.1.md",
+        "bytes": 25278,
+        "sha256": "c5bbac8c0671adc8a3b06b750a46b6b2df732b9d896506870f4c374f0f07843c"
+      },
+      "candidate_suffix": {
+        "path": "problems/2025-B4/notes/reasoning-branch-return-r4-candidate-v1.md",
+        "bytes": 20313,
+        "sha256": "9535d35d72f559b1889f58966b30c8219eeeb90574625b2514e3cec028fa05ce"
+      },
+      "historical_record_occurrences_bound_not_replayed": 233,
+      "historical_unique_paths_bound_not_replayed": 93
+    },
+    {
+      "authority": {
+        "path": "problems/2025-B4/reviews/reasoning-Runge-return-r3-acceptance.json",
+        "bytes": 4445,
+        "sha256": "d1f5c23b1d8b7e521146a1aae51b3f9209d9bbcda0fde69aa938b38f89dffd64"
+      },
+      "accepted_body": {
+        "path": "problems/2025-B4/proofs/reviewed-reasoning-Runge-return-r3-v1.1.md",
+        "bytes": 28696,
+        "sha256": "d27502c014cfd83d56923cea1740daf6d159bee19e15b4b17d18749e16a0ba98"
+      },
+      "candidate_suffix": {
+        "path": "problems/2025-B4/notes/reasoning-Runge-return-r3-candidate-v1.md",
+        "bytes": 23038,
+        "sha256": "5ccc04e72574187d1959efff22852dbbc5cca41e701afbaeebc9f97adbdf64a0"
+      },
+      "historical_record_occurrences_bound_not_replayed": 193,
+      "historical_unique_paths_bound_not_replayed": 71
+    },
+    {
+      "authority": {
+        "path": "problems/2025-B4/reviews/reasoning-Runge-return-r2-acceptance.json",
+        "bytes": 3699,
+        "sha256": "aa09017ff593e74e53aa1924d80f5f37ac49fe3d22cea86ecb13d33558755347"
+      },
+      "accepted_body": {
+        "path": "problems/2025-B4/proofs/reviewed-reasoning-Runge-return-r2-v1.1.md",
+        "bytes": 27717,
+        "sha256": "33222ffbc2a756fe5f7a9641c248654b0d5626e8283d3d054624b69496c658a3"
+      },
+      "candidate_suffix": {
+        "path": "problems/2025-B4/notes/reasoning-Runge-return-r2-candidate-v1.md",
+        "bytes": 22619,
+        "sha256": "118ec93c2f8f34778dbf5160a38a854c6ded136684e846d986a6c3d9ddf859c0"
+      },
+      "historical_record_occurrences_bound_not_replayed": 159,
+      "historical_unique_paths_bound_not_replayed": 68
+    },
+    {
+      "authority": {
+        "path": "problems/2025-B4/reviews/reasoning-return-r6-acceptance.json",
+        "bytes": 2483,
+        "sha256": "9d32b3f32be2bf758dc2bbe0182c11a6597a96139d0bd3b24680ba7041d56135"
+      },
+      "accepted_body": {
+        "path": "problems/2025-B4/proofs/reviewed-reasoning-return-r6-v1.1.md",
+        "bytes": 28748,
+        "sha256": "4e157819789da12d6f26e89929d88ec886d52947405d836fe3957ab8ee727d3a"
+      },
+      "candidate_suffix": {
+        "path": "problems/2025-B4/notes/reasoning-return-r6-candidate-v1.md",
+        "bytes": 25588,
+        "sha256": "bdf566f44dcabb5b7bbfb96778b1dd58b7375bf46fcd697c3579564e5e9da627"
+      },
+      "historical_record_occurrences_bound_not_replayed": 7154,
+      "historical_unique_paths_bound_not_replayed": 1227
+    }
+  ],
+  "immediate_own_parent": {
+    "path": "problems/2021-B4/reviews/reasoning-center-return-r18-review-1-manifest-v1.json",
+    "bytes": 7546,
+    "sha256": "e120e51aa4f11421a964419da71e0e2d924d07a5373569630beb07bf385daad0"
+  },
+  "older_own_paths_bound_transitively": 749,
+  "ENTIRE_files_including_freeze": 11,
+  "older_plus_new_own_paths_bound_transitively": 760,
+  "no_historical_inventory_recopy_or_recursive_replay": true,
+  "no_mathematical_program_CAS_scan_test_optimizer_author_source_or_old_freezer_replay": true,
+  "no_Git_shared_old_cache_write_download_upload_spawn_charge_contact_bypass": true,
+  "no_NEW_peer_active_review_content_used": true,
+  "payloads": [
+    {
+      "path": "problems/2025-B4/notes/reasoning-diagonal-return-r5-candidate-v1.md",
+      "bytes": 17350,
+      "sha256": "c3e87275567846d8d9591d580fa56175403ba048e55c54d6070812c5c38a120c"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-diagonal-return-r5-obligations-v1.md",
+      "bytes": 6047,
+      "sha256": "f4895782332b30c73ddf82d9df744bb9c9557372e81d1f253ac72cb72b45fe59"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-diagonal-return-r5-constructor-checks-v1.md",
+      "bytes": 3526,
+      "sha256": "66b3aed48286f5054843d4318f5253b9cee3bbf73b87deab7babfe1283402dcc"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-diagonal-return-r5-failed-routes-v1.md",
+      "bytes": 2778,
+      "sha256": "9b52d50c7e21cf0ff4464ad88ae31f7fd42a4f83f3f238b23eaa98a73968c437"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-diagonal-return-r5-sources-v1.md",
+      "bytes": 5912,
+      "sha256": "e39c87e4ceb853767ab8c7c68cda593881ad742ca0fced021360f8e3186f27f9"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-diagonal-return-r5-sources-v1.json",
+      "bytes": 3024,
+      "sha256": "86b0f654cd9cf6dbcb5755adb1edf9f10ff730e1bb86e75137a2a2586312f1d4"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-diagonal-return-r5-worklog-v1.md",
+      "bytes": 5011,
+      "sha256": "aa473f6038deb491b8f120282f518b31bf1be334b92eff53673e217544707353"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-diagonal-return-r5-freeze-v1.py",
+      "bytes": 10354,
+      "sha256": "3dfae7f8ff80ad01f4de9ebda7f99a03b5dc647326594903657e5de079797379"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-diagonal-return-r5-baseline-v1.json",
+      "bytes": 11083,
+      "sha256": "67bdb163ba0faeeffbdd397b1870e448c12896d9cf78561a87529514ee821d66"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-diagonal-return-r5-input-validation-v1.json",
+      "bytes": 622,
+      "sha256": "d9f3af8eec0e1a92e1ec0ce997a8f9b8016f94089769c5e5c7783ff6b506a2b8"
+    }
+  ]
+}

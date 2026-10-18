@@ -1,0 +1,86 @@
+{
+  "frozen_at_utc": "2026-10-18T12:46:44.965881+00:00",
+  "status": "OTHER initial ENTIRE WHOLE R6 review2 complete; root reconciliation pending",
+  "whole_obligations": 48,
+  "payload_files": 10,
+  "ENTIRE_files": 11,
+  "FULL_payload_model_readback_complete_before_manifest": true,
+  "manifest_FULL_readback_and_SEPARATEverify_required_before_identity_handoff": true,
+  "substantive_defects": 0,
+  "required_repairs": 0,
+  "closed_scope_notes": 6,
+  "candidate_unpromoted_by_reviewer": true,
+  "author_entire_freeze": {
+    "path": "problems/2024-B4/notes/reasoning-cofactor-return-r6-freeze-v1.json",
+    "bytes": 3001,
+    "sha256": "ea0a7c41741ca3655c36825a6a299c1859505855c786ea7494a9204995a0b8a9"
+  },
+  "immediate_own_parent": {
+    "path": "problems/2022-B4/notes/reasoning-dynamics-return-r6-freeze-v1.json",
+    "bytes": 5069,
+    "sha256": "ab7d73318a784c821fb3e0f8142b671e735c583721e6a7e464dbe91981c2b3e4"
+  },
+  "compact_baseline": {
+    "path": "problems/2024-B4/reviews/reasoning-cofactor-return-r6-review-2-baseline-v1.json",
+    "bytes": 16692,
+    "sha256": "6b064c8edef8f8e044fb97c4bc85b8453315dd024cca69d224ba52c0319a0f62"
+  },
+  "protected_current_occurrences": 66,
+  "protected_current_unique_paths": 59,
+  "canonical_deduplicated_sha256": "a927d1468ac70c0d1c24109ae22c4de1a5b11c708c1bf4bdc4d300dbb49bf07d",
+  "no_NEW_corresponding_root_R6_review_or_future_D6_review_access": true,
+  "identity_only_until_BOTH_ENTIRE_initials_confirmed": true,
+  "no_math_program_CAS_scan_author_or_source_rerun": true,
+  "payloads": [
+    {
+      "path": "problems/2024-B4/reviews/reasoning-cofactor-return-r6-review-2-initial-v1.md",
+      "bytes": 12337,
+      "sha256": "c194dfe78ae9891f60257e28b5ab51a3e892dce37cefe24b5e96c0da12a745af"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-cofactor-return-r6-review-2-ledger-v1.md",
+      "bytes": 9058,
+      "sha256": "c7bf34cee810793c5cf8ef82e21d90701f9419948dc3b33e93fcd04f3bfcc410"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-cofactor-return-r6-review-2-issues-v1.md",
+      "bytes": 2974,
+      "sha256": "a9936d5e5757689f8c73e859492ee3e7096be22fcfc0256586fc4aaea6410034"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-cofactor-return-r6-review-2-source-checks-v1.md",
+      "bytes": 5132,
+      "sha256": "02b88882533153dbf3a6686b35951b8d73c869e5a0fc218538dd3223b25f679b"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-cofactor-return-r6-review-2-sources-v1.json",
+      "bytes": 4413,
+      "sha256": "80339a603ee07fc2bf9c3b9de950354e1279344578efc0ac042409e03b83879d"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-cofactor-return-r6-review-2-worklog-v1.md",
+      "bytes": 4233,
+      "sha256": "7c0a56ae5c51a4dee98c69842561f1593ce4ee5ef15ee447c264d8fa7d06b342"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-cofactor-return-r6-review-2-admin-v1.py",
+      "bytes": 12412,
+      "sha256": "040ff26b6a85002e701ac01573f56d2c0b1baf28371ef1131c31945c5a98c0b1"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-cofactor-return-r6-review-2-baseline-v1.json",
+      "bytes": 16692,
+      "sha256": "6b064c8edef8f8e044fb97c4bc85b8453315dd024cca69d224ba52c0319a0f62"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-cofactor-return-r6-review-2-input-validation-v1.json",
+      "bytes": 643,
+      "sha256": "3434a9b57ff9b36f89d6b058f36dbdae4d7ba3106f37d0c20322c60d0da62616"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-cofactor-return-r6-review-2-metadata-v1.json",
+      "bytes": 913,
+      "sha256": "e30731c4f388596e4e3ab3398aa51bed2b86b250c357c0b28c0e750d16eb5076"
+    }
+  ]
+}

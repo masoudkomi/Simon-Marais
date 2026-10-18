@@ -221,3 +221,5 @@ Direct2026-10-18 12:11:17UTC:33%TOTAL/10080min/reset1792874445,ordinaryallowed/v
 
 
 ACTUALhourly2227: direct12:26:46UTC34%TOTAL/currentreset1792874445/10080min/ordinaryallowed/viewsagree;56ppbefore90withreserve. Token cutoff12:26:47UTC2,242,811,628total,2,129,738,752cachedinput,15,726,845outputincluding6,617,600reasoning;113,072,876uncached+output.62sessions11209responses/allsumsmatch. Notbilling/quotaformula. OWNawake79293forever35:18:57freshverified. Next13:27:30UTC.
+
+|2026-10-18 12:41:05UTC|35%TOTAL|65%remaining|Same explicitly authorized reset1792874445;2024R6 scoped acceptance,2022/2025whole audits and2017/2019research continue.90TOTALceiling/reserve;next actual hourly13:27:30UTC.|
