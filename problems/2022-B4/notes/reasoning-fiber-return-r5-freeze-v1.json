@@ -1,0 +1,75 @@
+{
+  "frozen_utc": "2026-10-18T10:33:46.509913+00:00",
+  "status": "candidate proof - unverified; ENTIRE constructor frozen",
+  "claims": [
+    "CF1",
+    "CF2",
+    "CF3",
+    "CF4",
+    "CF5",
+    "CF6"
+  ],
+  "whole_obligations": 48,
+  "constructor_file_count": 11,
+  "ENTIRE_main_ALL48_failures_sources_worklog_code_ALL_metadata_frozen": true,
+  "TWO_OTHER_initially_blind_ENTIRE_whole_audits_REQUIRED_before_promotion": true,
+  "mathematical_computation_or_source_rerun": false,
+  "unconditional_CF1_CF5_conditional_CF6_no_annual_claim": true,
+  "immediate_own_parent": {
+    "path": "problems/2024-B4/reviews/cofactor-dominant-r4-review-2-manifest-v1.json",
+    "bytes": 2892,
+    "sha256": "09ceeb941ee51f6d700f2c4d64264ebebca4373cc851d3a50a6f7baf4b056083"
+  },
+  "artifacts": [
+    {
+      "path": "problems/2022-B4/notes/reasoning-fiber-return-r5-candidate-v1.md",
+      "bytes": 23177,
+      "sha256": "789ed605351a9d913348add46b8b9c47734bb0809f8269798aa8d53760f46a7e"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-fiber-return-r5-obligations-v1.md",
+      "bytes": 6952,
+      "sha256": "0d9ade10ba8e60f097ba2babb1d6e771a911f6f47328fe56386ebd76c219521c"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-fiber-return-r5-failed-routes-v1.md",
+      "bytes": 4388,
+      "sha256": "55d03698a5ac844694f6a5be2152b951bb24613028c1dfc4b9f7cc3327968b80"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-fiber-return-r5-sources-v1.md",
+      "bytes": 5762,
+      "sha256": "41763b5eab640f30c7c17443a3a8b91a9d702975452fbddd4f5b7dd985a48c1b"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-fiber-return-r5-sources-v1.json",
+      "bytes": 2928,
+      "sha256": "876a0c827d9f5f9ce454a975e2dc910cc82468ce6087ad23f8c0a814406b3170"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-fiber-return-r5-worklog-v1.md",
+      "bytes": 6027,
+      "sha256": "23597f3e352b250f902973f1b25bd6a12aa5bd2e3348c597ec0d8497bd20dfff"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-fiber-return-r5-freeze-v1.py",
+      "bytes": 7867,
+      "sha256": "723f4b194757ee71595c01187c3e2044d650aebdeda4ede204a333a9de343ac0"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-fiber-return-r5-baseline-v1.json",
+      "bytes": 11541,
+      "sha256": "a7986e891f453b4c6595dd92f0dfbb831e95c9fb166a3be2c927ee7b2ac32b98"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-fiber-return-r5-metadata-v1.json",
+      "bytes": 1851,
+      "sha256": "d1b0d5873f2a84dd5b98c70813e41638103d1074b53ebeef3a3750209c7870d9"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-fiber-return-r5-input-validation-v1.json",
+      "bytes": 574,
+      "sha256": "1f08c30fc8d0b68159702c27f91fab4d687785b701a70a637f2c0542a254adb9"
+    }
+  ]
+}

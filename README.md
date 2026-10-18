@@ -14,11 +14,14 @@ proves whole irreducibility for n=15*16^k+1,k>=2; and
 [2025 BR1-BR5](problems/2025-B4/reviews/reasoning-Runge-return-r3-acceptance.md)
 gives actual integral-branch and residual support-label restrictions.
 Each passed TWO OTHER initially blind ENTIRE WHOLE audits and complete
-reconciliation. The separate2024 R5 extension is frozen UNVERIFIED.
-Weekly25%TOTAL at10:26:40UTC/reset1792874445; continue to90%TOTAL
+reconciliation. The new
+[2019 CN1–CN3](problems/2019-B4/reviews/reasoning-cut-number-r3-acceptance.md)
+also passed both whole48/48 audits: fixed-range pointwise cut-count bounds
+fail on explicit balanced outputs; the full high-cut MASS estimate remains open. The separate2024 R5 extension is frozen UNVERIFIED.
+Weekly26%TOTAL at10:40:59UTC/reset1792874445; continue to90%TOTAL
 with reserve in this explicitly authorized window.
 
-- [Latest all-nine checkpoint and usage](progress/status-2026-10-18-2018.md);
+- [Latest research checkpoint](progress/checkpoint-2026-10-18-2045.md);
   [latest actual hourly report](progress/status-2026-10-18-2027.md).
   Next actual hourly/owned-awake check11:27:42UTC.
 

@@ -1,0 +1,52 @@
+{
+  "date_utc": "2026-10-18",
+  "status": "candidate proof - unverified",
+  "constructor": "/root/review_2022_complexity_r2",
+  "claims": ["TD1 canonical finite class retaining even-class unit obstruction", "TD2 full parity-free interval and actual binary recovery", "TD3 signed proper nonsquare prohibition", "TD4 exact all-odd collision and actual sign-cube counts", "TD5 actual all-exponent primary minimality and fixed-even mixed-slice count"],
+  "whole_obligations": 72,
+  "TWO_OTHER_initially_blind_ENTIRE_WHOLE_audits_required": true,
+  "constructor_excluded_from_independent_review_count": true,
+  "root_NEW_inference_contribution": false,
+  "other_worker_NEW_inference_contribution": false,
+  "requested_settings": {"model": "gpt-6.1-sol", "reasoning": "max", "inherited": true},
+  "independently_verified_effective_settings": null,
+  "old_roles_disclosed": "B old R4/R5/R7/R8/A11 constructor, R6/A9 reviewer; separately accepted inputs not freshly self-certified",
+  "complete_accepted_bodies_current_MD_JSON_authorities_and_relevant_failures_read": [
+    {"path": "problems/2020-B4/proofs/reviewed-reasoning-arithmetic-return-r11-v1.1.md", "bytes": 23794, "sha256": "d40873d12db5edb0870867e392fcc2d547f9bc68f19a4cc73a389ac951245079", "role": "comparison, exact odd-hF A11 scopes and actual small-H gap"},
+    {"path": "problems/2020-B4/proofs/reviewed-reasoning-return-r8-v1.1.md", "bytes": 29871, "sha256": "9003af18926d1fe49d3f997b40ed070ceefa37e42f73c5a98c32bbe7a2f3bfcb", "role": "unconditional S=jClE, injective j, Gamma interpretation; old parity-specific correction not overapplied"},
+    {"path": "problems/2020-B4/proofs/reviewed-reasoning-arithmetic-return-r9-v1.1.md", "bytes": 24622, "sha256": "ab2ee4e7a2dcfa464780c6144f996d683f08b7f04da63d2a77ee2fdd4ec922b8", "role": "standalone published nonsquare bound and supported FIELD norms without parity"},
+    {"path": "problems/2020-B4/proofs/reviewed-reasoning-return-r7-v1.1.md", "bytes": 23717, "sha256": "7517c6ffd5aff1135107020f9526922203496415515afb4bbd07176fb445d479", "role": "prime integral/unique-sign/binary recovery and norm-one kernel; composite limits retained"},
+    {"path": "problems/2020-B4/proofs/reviewed-reasoning-arithmetic-return-r10-v1.1.md", "bytes": 24761, "sha256": "dc540eef45a7c4054191a0fd9e723aa64e364163f04bf696450025ca3ca45f24", "role": "background only, actual large-N realization and exact positive defect; not finite-q class assignment"}
+  ],
+  "fresh_primary_reads": [
+    {"url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2020-paper-b_1.pdf", "scope": "page2 B4 definition and open(b), lines98-105; complete local statement compared", "preliminary_proof_researched_or_reproduced": false, "binary_sha256": null},
+    {"url": "https://arxiv.org/pdf/1302.3756", "authors": "Gaetan Bisson and Marco Streng", "served_version": "v6,19pages", "operative_scope": "introduction/Definition1 and displayed class-group relation, lines13-65; quartic/type-norm hypothesis boundary in Section2", "attribution": "classical polarized pairs; source attributes older Shimura-Taniyama book", "full_paper_or_older_book_proof_read": false, "quartic_comparison_theorem_imported_at_arbitrary_degree": false, "binary_sha256": null},
+    {"url": "https://arxiv.org/pdf/1309.1071", "author": "Franz Lemmermeyer", "served_version": "v1,sixpages", "operative_scope": "COMPLETE353line text including Proposition1 and proof; ambiguous/strongly ambiguous distinction", "deeper_class_number_formula_required_as_new_import": false, "binary_sha256": null},
+    {"url": "https://kskedlaya.org/cft/sec_ideles-cohom2.html", "operative_scope": "Theorem7.2.10 complete statement/short proof and noncyclic warning,618-643", "full_CFT_foundation_claimed_reconstructed": false},
+    {"url": "https://kskedlaya.org/cft/sec_localcomp.html", "operative_scope": "Propositions4.2.4-4.2.5 complete statements/proofs,449-478; residue and unramified local UNIT norms"},
+    {"url": "https://personal.ntu.edu.sg/bernhard/Publications/pub/BentFunctions.pdf", "authors": "Ka Hin Leung and Bernhard Schmidt", "served_pages": 41, "operative_scope": "Notation5/prime-ideal context; complete Section5 Theorems22/23 and proofs, chiefly1131-1267 printed15-17", "positive_import": "published Theorem23 proper nonsquare norm bound via accepted A9A prime case", "square_or_bent_function_hypotheses_inferred": false, "full41page_proof_or_program_audit": false, "binary_sha256": null}
+  ],
+  "complete_read_recovery": {"combined_R8_M10_output_clipped_then_recovered_by_complete_separate_reads": true, "R7_combined_tail_clipped_then_entire_final_chunk_read": true, "Lemmermeyer_missing73_81_interval_separately_read": true, "missing_report_filename_replaced_by_actual_research_and_references_context": true},
+  "new_class_construction_and_counts_proved_in_candidate_not_quoted_as_new_source_theorem": true,
+  "new_classical_norm_theory_or_priority_claim": false,
+  "new_actual_q_or_small_H_instance_verified": false,
+  "unrestricted_even_class_correction_or_composite_assembler_claimed": false,
+  "mathematical_program_CAS_scan_class_computation_routine_test_source_author_or_certificate_rerun": false,
+  "NEW_metadata_code_only": true,
+  "no_old_shared_Git_cache_edit_spawn_contact_charge_or_bypass": true,
+  "detailed_actual_read_record": "problems/2020-B4/notes/reasoning-Todd-return-r12-sources-v1.md",
+  "authoritative_weekly_telemetry": {
+    "observed_at_utc": "2026-10-18 10:15:56 UTC",
+    "method": "direct get_usage_limits plus clock in same awaited independent batch",
+    "used_percent_TOTAL": 24,
+    "window_minutes": 10080,
+    "reset_unix": 1792874445,
+    "ordinary_usage_allowed": true,
+    "legacy_by_limit_agree": true,
+    "account_label": "029a8928...1334ac3a",
+    "human_authorized_current_window_ONLY": true,
+    "ceiling_TOTAL_percent": 90,
+    "integration_reserve": true,
+    "automatic_later_reset_spending": false
+  }
+}

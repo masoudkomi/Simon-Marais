@@ -1,0 +1,87 @@
+{
+  "frozen_at_utc": "2026-10-18T10:33:32.706782+00:00",
+  "status": "ENTIRE initially blind OTHER WHOLE TD1-TD5 review1",
+  "reviewer": "/root",
+  "constructor": "/root/review_2022_complexity_r2",
+  "exact_target": {
+    "path": "problems/2020-B4/notes/reasoning-Todd-return-r12-candidate-v1.md",
+    "bytes": 29251,
+    "sha256": "a799aa9add5799c2f6c7c265bdc256a2c3946f482618e6e0d0d828efa5e88bb9"
+  },
+  "constructor_freeze": {
+    "path": "problems/2020-B4/notes/reasoning-Todd-return-r12-freeze-v1.json",
+    "bytes": 9167,
+    "sha256": "cac7580782285028c7e71207097a3566232306a764fa7d174a7a1fd21973dcc0"
+  },
+  "whole_obligations": 72,
+  "all72_pass": true,
+  "substantive_issues": 0,
+  "required_repairs": 0,
+  "closed_scope_notes": 6,
+  "ENTIRE_packet_complete": true,
+  "NO_NEW_corresponding_Todd_R2_finding_content_hash_or_metadata_access": true,
+  "immediate_own_parent": {
+    "path": "problems/2024-B4/notes/cofactor-Frobenius-r5-freeze-v1.json",
+    "bytes": 3932,
+    "sha256": "cda866d3b82dfe335c78643d15d857e21bcda5439c2ecf308956281b02a8b545"
+  },
+  "current_input_summary": {
+    "fingerprint_occurrences": 57,
+    "unique_paths": 57,
+    "canonical_summary_sha256": "15b665b158304bdffb614d47b453b656dfbea4e22f3d9d4a742b4006e8d01042"
+  },
+  "other_ENTIRE_R2_and_full_coordinator_reconciliation_required": true,
+  "promotion": false,
+  "artifacts": [
+    {
+      "path": "problems/2020-B4/reviews/reasoning-Todd-return-r12-review-1-initial-v1.md",
+      "bytes": 13540,
+      "sha256": "dd448a50dd96a646cd7a9be6ea8ac65cf5e4f1e4c31456b28f1504b20d1f7ad5"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-Todd-return-r12-review-1-ledger-v1.md",
+      "bytes": 9873,
+      "sha256": "6fa912a45565607aa6a79cab59c6589381f11f962a35e9540cafdbeb17dd098a"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-Todd-return-r12-review-1-issues-v1.md",
+      "bytes": 1603,
+      "sha256": "ae8f49401549677b2441f93f3deafec690c20c3e2898c5d07a81f680c52b2d8e"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-Todd-return-r12-review-1-source-checks-v1.md",
+      "bytes": 3297,
+      "sha256": "d7d34502b0dca02432cd59b040878dc90570c8170a2ccf7fcc8c8412b68f1535"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-Todd-return-r12-review-1-sources-v1.json",
+      "bytes": 2815,
+      "sha256": "93a1b0d6bfb0e3b29918df160f264d9c4f5733045dae2f5239b01d00f6899a30"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-Todd-return-r12-review-1-worklog-v1.md",
+      "bytes": 3693,
+      "sha256": "24e9bc0e084d5dd1d229c2334f8a1bc21a7146ab4b701f4901d6ef354352c948"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-Todd-return-r12-review-1-freeze-v1.py",
+      "bytes": 5836,
+      "sha256": "820934f62bf96456837cb596337906cc72c69bd89caf57d42ba8cbd9c4eaab5d"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-Todd-return-r12-review-1-baseline-v1.json",
+      "bytes": 12604,
+      "sha256": "60169922c800ed3207c7ad0876c9846d4d62347a31b010e64e273e5fd71da50b"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-Todd-return-r12-review-1-input-validation-v1.json",
+      "bytes": 412,
+      "sha256": "ee76b41dcd104668ab050acdbc1b1d8db247b64294b82fb1822c687ea487dcce"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-Todd-return-r12-review-1-metadata-v1.json",
+      "bytes": 871,
+      "sha256": "b6dc703794f37092e8c3261eddfc7974319eeea9827f487f11125d2ee3e2e231"
+    }
+  ]
+}

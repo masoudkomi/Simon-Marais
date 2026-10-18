@@ -1,0 +1,311 @@
+{
+  "captured_at_utc": "2026-10-18T10:30:25.635468+00:00",
+  "administrative_only": true,
+  "assigned_prefix_unused_before_first_write": true,
+  "constructor_freeze": {
+    "path": "problems/2020-B4/notes/reasoning-Todd-return-r12-freeze-v1.json",
+    "bytes": 9167,
+    "sha256": "cac7580782285028c7e71207097a3566232306a764fa7d174a7a1fd21973dcc0"
+  },
+  "author_all11_and_current37_protected_paths_verified": true,
+  "accepted_body_suffixes_all_five_exact": true,
+  "immediate_own_parent": {
+    "path": "problems/2024-B4/notes/cofactor-Frobenius-r5-freeze-v1.json",
+    "bytes": 3932,
+    "sha256": "cda866d3b82dfe335c78643d15d857e21bcda5439c2ecf308956281b02a8b545"
+  },
+  "own_parent_eight_payloads_verified_unchanged": true,
+  "older_inventories_bound_by_current_authority_not_recopied_or_recursively_replayed": true,
+  "fingerprint_occurrences": 57,
+  "unique_paths": 57,
+  "canonical_summary_sha256": "15b665b158304bdffb614d47b453b656dfbea4e22f3d9d4a742b4006e8d01042",
+  "protected_rows": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-Todd-return-r12-baseline-v1.json",
+      "bytes": 13206,
+      "sha256": "769fbbc80615972c5204096078345ccfa9ac4915cc04fde51d950d11d1fdf490"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-Todd-return-r12-candidate-v1.md",
+      "bytes": 29251,
+      "sha256": "a799aa9add5799c2f6c7c265bdc256a2c3946f482618e6e0d0d828efa5e88bb9"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-Todd-return-r12-constructor-checks-v1.md",
+      "bytes": 12873,
+      "sha256": "118669b24c6836a915661ef0e4ff88418978bce2957ff0d6358b474a0da1f18c"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-Todd-return-r12-failed-routes-v1.md",
+      "bytes": 7807,
+      "sha256": "c59c85546059f25f35c73165aa4f713a89088d2ff89cf6c3fad5971c23d0282b"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-Todd-return-r12-freeze-v1.json",
+      "bytes": 9167,
+      "sha256": "cac7580782285028c7e71207097a3566232306a764fa7d174a7a1fd21973dcc0"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-Todd-return-r12-freeze-v1.py",
+      "bytes": 9969,
+      "sha256": "a5384d8ab7138a22239e16d6e88b7bdd0c56865d28b283a20f390a591f4c71af"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-Todd-return-r12-input-validation-v1.json",
+      "bytes": 698,
+      "sha256": "31b913ad7b5a0928292ee6ecf1daaf494bd642b64017081eeaf30f22f52ee3a5"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-Todd-return-r12-obligations-v1.md",
+      "bytes": 9014,
+      "sha256": "f41ef82325884f77e130edae21178b847ea1a1c601e54c29d082b58b95d36628"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-Todd-return-r12-sources-v1.json",
+      "bytes": 5909,
+      "sha256": "32ac73a5016031e369878bf72ebe9d734a830d7a15e17e68486f561c5851e599"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-Todd-return-r12-sources-v1.md",
+      "bytes": 9437,
+      "sha256": "5d1182ef9a698773acfe94acdb2351ecbd51c9cdfc4340a811d1c054bc97fb56"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-Todd-return-r12-worklog-v1.md",
+      "bytes": 7925,
+      "sha256": "26d388554d9a94f614596a5bf073c812eba7b6187222259736ea7eb288fed20e"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-arithmetic-return-r10-candidate-v1.md",
+      "bytes": 20380,
+      "sha256": "774da07295679d39d7aa3b22485f986e2a2dfc9445d25d4a56a0a4c0d7bce233"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-arithmetic-return-r10-failed-routes-v1.md",
+      "bytes": 6160,
+      "sha256": "f1f2d4a8fc9f46e2b38ec14b3411e3815647c3293c977bf7c7cc86c8928e8432"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-arithmetic-return-r11-candidate-v1.md",
+      "bytes": 19167,
+      "sha256": "f93bc9f57db3ff196db2b32380cd0aadd122bff5ea0bfbbf09b7a9a6868f0ead"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-arithmetic-return-r11-failed-routes-v1.md",
+      "bytes": 7244,
+      "sha256": "26b0da0bce26c1fe067c670aabc3a93dfe47e936dd415cd9b388ff73ba077365"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-arithmetic-return-r11-sources-v1.md",
+      "bytes": 9605,
+      "sha256": "4da0e6bb2a9989340086ec9b7ac61f5a590b2186eed528a354ab01a22324a90b"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-arithmetic-return-r9-candidate-v1.md",
+      "bytes": 20253,
+      "sha256": "aab97b7ba5c91d17e9e82f18a58db400bcddd1afb11081917d6f12a1f31fd892"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-arithmetic-return-r9-failed-routes-v1.md",
+      "bytes": 5037,
+      "sha256": "5b98e994da7f28c9aefc97614cfc3b4ba9a3524521c3bf6bd9b576b1039649e0"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-return-r7-candidate-v1.md",
+      "bytes": 21471,
+      "sha256": "4a0866b149aab5beb0dd0b7e76bf6abaf90355085178ea8ea18b2b539e5abe7b"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-return-r8-candidate-v1.md",
+      "bytes": 25948,
+      "sha256": "2eb3bbc51c282619a4bf0bf2b34f083c9c65abd7b27822355cd4973f391637d8"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-return-r8-failed-routes-v1.md",
+      "bytes": 8142,
+      "sha256": "fe33052850cc070a30dd94c4f9d51a1a6f52e2ad7cef94ccf4dec465ca15677b"
+    },
+    {
+      "path": "problems/2020-B4/proofs/reviewed-reasoning-arithmetic-return-r10-v1.1.md",
+      "bytes": 24761,
+      "sha256": "dc540eef45a7c4054191a0fd9e723aa64e364163f04bf696450025ca3ca45f24"
+    },
+    {
+      "path": "problems/2020-B4/proofs/reviewed-reasoning-arithmetic-return-r11-v1.1.md",
+      "bytes": 23794,
+      "sha256": "d40873d12db5edb0870867e392fcc2d547f9bc68f19a4cc73a389ac951245079"
+    },
+    {
+      "path": "problems/2020-B4/proofs/reviewed-reasoning-arithmetic-return-r9-v1.1.md",
+      "bytes": 24622,
+      "sha256": "ab2ee4e7a2dcfa464780c6144f996d683f08b7f04da63d2a77ee2fdd4ec922b8"
+    },
+    {
+      "path": "problems/2020-B4/proofs/reviewed-reasoning-return-r7-v1.1.md",
+      "bytes": 23717,
+      "sha256": "7517c6ffd5aff1135107020f9526922203496415515afb4bbd07176fb445d479"
+    },
+    {
+      "path": "problems/2020-B4/proofs/reviewed-reasoning-return-r8-v1.1.md",
+      "bytes": 29871,
+      "sha256": "9003af18926d1fe49d3f997b40ed070ceefa37e42f73c5a98c32bbe7a2f3bfcb"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-arithmetic-return-r10-acceptance.json",
+      "bytes": 3291,
+      "sha256": "cb688e019daa147e268429e8c609d75415f0e99880969ac137f81153c46d77c1"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-arithmetic-return-r10-acceptance.md",
+      "bytes": 4479,
+      "sha256": "bc970047b76831701dfe3e95b55b96fbbcc237d9276e101243a343a288b54ef6"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-arithmetic-return-r11-acceptance.json",
+      "bytes": 3823,
+      "sha256": "fa2ac5e94d75eb625ac54fa90b1a46bda5ec23548d643321f8d1745161f1da88"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-arithmetic-return-r11-acceptance.md",
+      "bytes": 4725,
+      "sha256": "832069c9c52167f0a5885a41d87d8999dee5d8f15f9c9ae8a98caa900492e81b"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-arithmetic-return-r9-acceptance.json",
+      "bytes": 3431,
+      "sha256": "f6533a1a615efd61594cdb4a3e9a8ef9d29e752df75e314dfea15fde40e7327d"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-arithmetic-return-r9-acceptance.md",
+      "bytes": 4467,
+      "sha256": "e9218eb7b5c19527f9585d29d0b6beaa15d7afe619429170daa0b659e008bb5a"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-return-r7-acceptance.json",
+      "bytes": 2518,
+      "sha256": "8fc1c36fddeca2242e9160b0a1d7fc8b15a6db6745b4f5b0fcc5a309652567ff"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-return-r7-acceptance.md",
+      "bytes": 2344,
+      "sha256": "76082e5d4aa5fcd547852100dc35e5b9d5589d4ed215532e134e8f09d802c329"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-return-r8-acceptance.json",
+      "bytes": 3028,
+      "sha256": "52bdd193cecd7eedf8270bf2d0fa04159a013fa0c995e71f0938c6a3359eda0a"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-return-r8-acceptance.md",
+      "bytes": 4021,
+      "sha256": "3c0ca2e894fdb2f22a7ee09243698a0ecd64283a30a7b99066a70ed5dc83ef9f"
+    },
+    {
+      "path": "problems/2020-B4/statement.md",
+      "bytes": 2006,
+      "sha256": "91c9e7e86eef7bc6a68770f6ee730d18618443304ac3aace5541b42170ac64cc"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-early-return-r16-review-2-baseline-v1.json",
+      "bytes": 17515,
+      "sha256": "5008940f50736562a50c29010b3320b9a8ac2c85b291e0b74abdf55e8c227d17"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-early-return-r16-review-2-freeze-v1.py",
+      "bytes": 9383,
+      "sha256": "55ae1f1e55e08187721c0acfc441ebb7b5e50dc740b62aefd88bd5e301609e34"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-early-return-r16-review-2-initial-v1.md",
+      "bytes": 15757,
+      "sha256": "5ff626d8b5786659776a8f0d406a34ac470dc7a51c3425f7e7814fc87f377d8c"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-early-return-r16-review-2-input-validation-v1.json",
+      "bytes": 790,
+      "sha256": "d92ae3f25e549a982ff0c1950ec99f8cc4ddee98f49fa6f4919735db0a042c1a"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-early-return-r16-review-2-issues-v1.md",
+      "bytes": 3656,
+      "sha256": "e903b8d1fab4ceaa26fd5caec46ea93f1a2ea0c9840ce0a82b9acc8cd5b29440"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-early-return-r16-review-2-ledger-v1.md",
+      "bytes": 13577,
+      "sha256": "61f0e3c30b5041d79bbf9d50a29f81bf21323b6667d642d33b4935071fc7371e"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-early-return-r16-review-2-manifest-v1.json",
+      "bytes": 6643,
+      "sha256": "49dc167e24c9f2a9ac156ad690e8c34c71c7bddddd4126d37e8f76e39570f1b9"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-early-return-r16-review-2-source-checks-v1.md",
+      "bytes": 6596,
+      "sha256": "48fd3db322e1f52da67b2b5bdd18dbddc37c52a5f516677334b0bea680cffa3e"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-early-return-r16-review-2-sources-v1.json",
+      "bytes": 3614,
+      "sha256": "b99b6c8e548b23bc92552e88f0921a6dfb3dca81a8b0cb5de5608172b9249435"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-early-return-r16-review-2-worklog-v1.md",
+      "bytes": 6017,
+      "sha256": "251d69ce191730a4ebeb366b034d207bd97506c4e90f5107d4eeeaffef4a1dea"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-Frobenius-r5-baseline-v1.json",
+      "bytes": 6811,
+      "sha256": "89151486e328445d3a63d401b48efff9021a4d23ad6b6c41d7220cbbc70c0982"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-Frobenius-r5-candidate-v1.md",
+      "bytes": 12486,
+      "sha256": "ff29bb1757d3f24229cb138bdfcca02b4d45c457200afc2ecc78104918c823ee"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-Frobenius-r5-failures-worklog-v1.md",
+      "bytes": 4058,
+      "sha256": "b392d4fb4fc49faeace48ee0d5b23243fe3896ab2f76f70b927e9e4f76c02104"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-Frobenius-r5-freeze-v1.json",
+      "bytes": 3932,
+      "sha256": "cda866d3b82dfe335c78643d15d857e21bcda5439c2ecf308956281b02a8b545"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-Frobenius-r5-freeze-v1.py",
+      "bytes": 7251,
+      "sha256": "db1b481b938ea6e2e3d1245396a7d66f43a04f80a5ed32503ba9db46264f18af"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-Frobenius-r5-input-validation-v1.json",
+      "bytes": 451,
+      "sha256": "6f0f8a3df48743139cb52e1826a1876794210bc187da29aab9352dccbde78a3e"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-Frobenius-r5-metadata-v1.json",
+      "bytes": 1435,
+      "sha256": "dc706d6403b520d6c425e91b0b41b89f0bbd981265e3f9111b9eeade7dd672a9"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-Frobenius-r5-obligations-v1.md",
+      "bytes": 3725,
+      "sha256": "dd027db9436d46030b447305cc6b5dbd505e09afdbc867b5e5496999fa3d572e"
+    },
+    {
+      "path": "problems/2024-B4/notes/cofactor-Frobenius-r5-sources-v1.md",
+      "bytes": 2999,
+      "sha256": "6daf112084b53ad140088a5b7eb4ef1535b154748bd55e1949905f905e23a8fb"
+    }
+  ],
+  "NO_NEW_corresponding_Todd_R2_finding_content_hash_or_metadata_access": true,
+  "NO_NEW_R5_peer_content_hash_findings_or_metadata_access": true
+}

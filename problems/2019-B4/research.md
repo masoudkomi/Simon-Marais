@@ -38,9 +38,20 @@ passed TWO OTHER initially blind ENTIRE60/60 audits/full reconciliation.
 Long range3 tape pieces have an exponential count loss and logarithmic
 expected longest length under the stated actual context measures. Exact
 composition fibres identify the relevant mean feasible-cut counts with
-normalized growth. The needed cut-NUMBER estimate is still missing;
+normalized growth. A full-language cut-NUMBER MASS estimate is still missing;
 the staircase refutes a cut-SPREAD substitute. No actual regime or exact
 growth value is selected, and the reviewed numerical enclosure is unchanged.
+
+The new [CN1–CN3 cut-number obstruction](reviews/reasoning-cut-number-r3-acceptance.md)
+has passed TWO OTHER initially blind ENTIRE WHOLE48/48 audits and full
+reconciliation. For EVERY fixed range, explicit balanced actual outputs
+have linearly many midpoint cuts but uniformly bounded confined pieces.
+At range3 the tape lengths are28560m, with at least34m+1 cuts and piece
+bounds27/19. Thus fixed-range pointwise detector bounds are false even
+with a uniform o(n) error. The constructed commutative flat has only
+polynomially many outputs and exponentially negligible mass; this does
+not control ALL high-cut outputs or select the actual average-cut regime.
+Exactlambda and the numerical enclosure remain unchanged.
 
 ## Coordinator third-pass acceptance
 

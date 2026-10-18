@@ -1,0 +1,50 @@
+{
+  "created_utc": "2026-10-18T10:33:46.507199+00:00",
+  "status": "candidate proof - unverified; ENTIRE constructor checkpoint",
+  "constructor": "/root/review_2017_coarsening_r1",
+  "root_generic_assignment_supplied_NEW_proof_inference": false,
+  "TWO_OTHER_initially_blind_ENTIRE_whole_audits_required": true,
+  "constructor_excluded_from_both_reviews": true,
+  "coordinator_only_promotion": true,
+  "whole_obligations": 48,
+  "proposed_claims": [
+    "CF1",
+    "CF2",
+    "CF3",
+    "CF4",
+    "CF5",
+    "CF6"
+  ],
+  "CF1_CF5_unconditional_CF6_explicitly_conditional": true,
+  "older_C_SR_R7_R8_authorship_and_F5_Q_review_roles_disclosed": true,
+  "new_external_theorem_used_for_CF1_CF5": false,
+  "no_infinite_positive_avoider_termination_no_tenfold_annual_or_novelty_claim": true,
+  "no_math_program_scan_CAS_native_child_source_or_author_rerun": true,
+  "no_old_shared_Git_cache_edit_spawn_contact_charge_bypass": true,
+  "pending_tool_job_approval_or_stall": false,
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "verified_effective_settings": null,
+  "telemetry": {
+    "latest_parent_TOTAL_percent": 23,
+    "latest_parent_utc": "2026-10-18 09:54:07 UTC",
+    "reset_unix": 1792874445,
+    "human_authorized_current_window": true,
+    "ceiling_TOTAL_percent": 90,
+    "integration_reserve": true,
+    "automatic_later_window_spending": false
+  },
+  "immediate_own_parent": {
+    "path": "problems/2024-B4/reviews/cofactor-dominant-r4-review-2-manifest-v1.json",
+    "bytes": 2892,
+    "sha256": "09ceeb941ee51f6d700f2c4d64264ebebca4373cc851d3a50a6f7baf4b056083"
+  },
+  "compact_baseline": {
+    "path": "problems/2022-B4/notes/reasoning-fiber-return-r5-baseline-v1.json",
+    "bytes": 11541,
+    "sha256": "a7986e891f453b4c6595dd92f0dfbb831e95c9fb166a3be2c927ee7b2ac32b98"
+  }
+}

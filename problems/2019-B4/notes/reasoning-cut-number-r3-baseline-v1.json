@@ -1,0 +1,326 @@
+{
+  "direct_inputs": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2019-B4/statement.md",
+      "bytes": 1252,
+      "sha256": "53d4201dca8bc4a77d995e3df14f95dd146e2df0c82d3b6447ad35a348e89de9"
+    },
+    {
+      "path": "problems/2019-B4/research.md",
+      "bytes": 11250,
+      "sha256": "96ddbbb486951c589364773164e585815495059b8d2c06344af5824fd9491dbe"
+    },
+    {
+      "path": "problems/2019-B4/references.md",
+      "bytes": 3085,
+      "sha256": "9fe78752cc108ca1cb0e26b1dfd9bc87d06038d30cdf4d08fb6c15b317a92d1d"
+    },
+    {
+      "path": "problems/2019-B4/notes/secondpass-canonical-renewal.md",
+      "bytes": 11807,
+      "sha256": "886266000a34023b033099889a3bb23bc6b3e642194ded12ce53b3aaa1642763"
+    },
+    {
+      "path": "problems/2019-B4/notes/secondpass-staircases-and-pumping.md",
+      "bytes": 10885,
+      "sha256": "5e2539982e32d116076c2c17ad8e85d865792a14630db04634c7372ae345cd52"
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-short-joining-research-v1.md",
+      "bytes": 4169,
+      "sha256": "d104591afd60f8f6f82b03052b05157defdd1ffbabbc85b1ebe720cdbd2b07a1"
+    },
+    {
+      "path": "problems/2019-B4/notes/coordinator-critical-code-countermodel-v1.md",
+      "bytes": 5162,
+      "sha256": "3354f603785fa0a1f1d6eeef8592bcc63ec0b4c91af5ee2e30bf80106fa55504"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-critical-return-r2-sources-v1.md",
+      "bytes": 8736,
+      "sha256": "5cbba9db6b55610bbe778fb9b5f72cc829d63874300f7064e89efe017d204fe3"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-dominant-r4-review-1-manifest-v1.json",
+      "bytes": 7640,
+      "sha256": "05e4eb5d531c0ed58d7059d573a50cd149578783ff54c3e4e0dff53eb325e3e1"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-dominant-r4-review-1-initial-v1.md",
+      "bytes": 12831,
+      "sha256": "643b046a4fdd8abf42a136d0cbae5818784fb62aaff99b565871bb4f6c593a8f"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-dominant-r4-review-1-ledger-v1.md",
+      "bytes": 7982,
+      "sha256": "299fdad24b651ff35f5735009e48edca41cc30f1aade3c3c380e120aeb2d8aed"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-dominant-r4-review-1-issues-v1.md",
+      "bytes": 3468,
+      "sha256": "0f683756193997866c72ca69a4569a7c76d343394feb61f3af389668de890dff"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-dominant-r4-review-1-sources-v1.md",
+      "bytes": 5130,
+      "sha256": "13338cf86cebfd775dc9bbf3d1d75cd14565b311be632d746cd2c0a8db8b8c24"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-dominant-r4-review-1-sources-v1.json",
+      "bytes": 2427,
+      "sha256": "63a373030e91bdaf40d0612e75f6f2f25a4507c9128818681ba20847aed4e573"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-dominant-r4-review-1-worklog-v1.md",
+      "bytes": 7028,
+      "sha256": "d550fd9486f450cf21275f304b6a9151d3b485754a4c6b5fbc65173858142445"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-dominant-r4-review-1-freeze-v1.py",
+      "bytes": 10146,
+      "sha256": "d2888975167a9b3892fff320e932a3ad7598a38ba0813d3327f3ff8413b710a7"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-dominant-r4-review-1-baseline-v1.json",
+      "bytes": 12506,
+      "sha256": "692685c80ef73543a0275cc3012cfbead6e6090fd394db2419414909b80b867d"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-dominant-r4-review-1-metadata-v1.json",
+      "bytes": 1741,
+      "sha256": "04fc17782e48ba8cf1e00b2502eaa52d0153f90a9be824ac27121b1771492e60"
+    },
+    {
+      "path": "problems/2024-B4/reviews/cofactor-dominant-r4-review-1-input-validation-v1.json",
+      "bytes": 441,
+      "sha256": "1de922320fb585127e2bdd33c32435e3700766f418712a1145132efd55b10759"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-critical-return-r2-acceptance.json",
+      "bytes": 3840,
+      "sha256": "8a2307f748813cf6f51c302347a7bf970d0fb22da937a72ca08bdc7135ca886e"
+    },
+    {
+      "path": "problems/2019-B4/proofs/reviewed-reasoning-critical-return-r2-v1.1.md",
+      "bytes": 26079,
+      "sha256": "e6f2d345c96cf0b080af9e42092dc13c66b69bfe0b70cd1bcab4b33f43106881"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-return-r7-acceptance.json",
+      "bytes": 2560,
+      "sha256": "94ca56672f32f4624af71f41c48ddcf8757f1316b956586f6834cd1d7ee3b38b"
+    },
+    {
+      "path": "problems/2019-B4/proofs/reviewed-reasoning-return-r7-v1.1.md",
+      "bytes": 17727,
+      "sha256": "4fe222b8b1d89b6b3d66bb16c6a1985390d537eee55bb42bfefdb2d4821e351a"
+    },
+    {
+      "path": "problems/2019-B4/reviews/monotone-ratio-acceptance.json",
+      "bytes": 2275,
+      "sha256": "a25e437f490e67c572dd0743280c5eec1b792b91e5300dfb7275fdc36758e8d7"
+    },
+    {
+      "path": "problems/2019-B4/proofs/reviewed-monotone-ratio-v1.1.md",
+      "bytes": 11402,
+      "sha256": "a87798e4df63ec2f76e83da9750f811b15fc6702533b4ca68bd8bd973ac3bac9"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-growth-return-r1-acceptance.json",
+      "bytes": 3825,
+      "sha256": "f3edac551dffe1a0ceb319d91da118ee3bd033a7c2fd4f5c7ce4c7f169f6e5c2"
+    },
+    {
+      "path": "problems/2019-B4/proofs/reviewed-reasoning-growth-return-r1-v1.1.md",
+      "bytes": 26251,
+      "sha256": "c43a76227937eb11ff8261cc34cece7a411f6637fc4794336c3161f05ba11ea3"
+    },
+    {
+      "path": "problems/2019-B4/reviews/walk-Frechet-acceptance.json",
+      "bytes": 2324,
+      "sha256": "4e56867f5962e7b284fc0430342aa90e5214c53c2f75226082bd984a843adbce"
+    },
+    {
+      "path": "problems/2019-B4/proofs/reviewed-walk-Frechet-v1.1.md",
+      "bytes": 18752,
+      "sha256": "c068f531fa9fa3c420867ae898291b6034cef7511e72ec6fd16f20ac3b023f44"
+    },
+    {
+      "path": "problems/2019-B4/reviews/auxiliary-presentation-r1-acceptance.json",
+      "bytes": 5555,
+      "sha256": "a768d1289cf6e2d977917861621604da2c11ae6b381c4afd9c0027d665a77c0a"
+    },
+    {
+      "path": "problems/2019-B4/proofs/reviewed-auxiliary-presentation-r1-v1.1.md",
+      "bytes": 11103,
+      "sha256": "fb315bd75a528bbfb7c98d0464ea667cd3e93ef88cd1251fff20c8a219270929"
+    }
+  ],
+  "accepted_inputs": [
+    {
+      "authority": {
+        "path": "problems/2019-B4/reviews/reasoning-critical-return-r2-acceptance.json",
+        "bytes": 3840,
+        "sha256": "8a2307f748813cf6f51c302347a7bf970d0fb22da937a72ca08bdc7135ca886e"
+      },
+      "accepted_body": {
+        "path": "problems/2019-B4/proofs/reviewed-reasoning-critical-return-r2-v1.1.md",
+        "bytes": 26079,
+        "sha256": "e6f2d345c96cf0b080af9e42092dc13c66b69bfe0b70cd1bcab4b33f43106881"
+      },
+      "exact_read_scope": "CR1--CR5",
+      "complete_accepted_body_and_authority_read": true,
+      "declared_current_fingerprints": {
+        "fingerprint_occurrences_verified": 13,
+        "deduplicated_paths_verified": 13,
+        "canonical_deduplicated_record_summary_sha256": "c08b1e0f9f31627e7c61827c91fb28d02482b7e8790df45373c31185002a5eba"
+      },
+      "historical_coordinator_record_occurrences_bound_not_replayed": 199,
+      "historical_coordinator_paths_bound_not_replayed": 68,
+      "transitive_inventory_not_recopied_or_recursively_reverified": true
+    },
+    {
+      "authority": {
+        "path": "problems/2019-B4/reviews/reasoning-return-r7-acceptance.json",
+        "bytes": 2560,
+        "sha256": "94ca56672f32f4624af71f41c48ddcf8757f1316b956586f6834cd1d7ee3b38b"
+      },
+      "accepted_body": {
+        "path": "problems/2019-B4/proofs/reviewed-reasoning-return-r7-v1.1.md",
+        "bytes": 17727,
+        "sha256": "4fe222b8b1d89b6b3d66bb16c6a1985390d537eee55bb42bfefdb2d4821e351a"
+      },
+      "exact_read_scope": "R7 exact normalized-count scopes",
+      "complete_accepted_body_and_authority_read": true,
+      "declared_current_fingerprints": {
+        "fingerprint_occurrences_verified": 9,
+        "deduplicated_paths_verified": 9,
+        "canonical_deduplicated_record_summary_sha256": "59923b90ca0c54891488ca2d70873f276da4bb11d5561596df794dec6b6cd6d8"
+      },
+      "historical_coordinator_record_occurrences_bound_not_replayed": 5859,
+      "historical_coordinator_paths_bound_not_replayed": 1136,
+      "transitive_inventory_not_recopied_or_recursively_reverified": true
+    },
+    {
+      "authority": {
+        "path": "problems/2019-B4/reviews/monotone-ratio-acceptance.json",
+        "bytes": 2275,
+        "sha256": "a25e437f490e67c572dd0743280c5eec1b792b91e5300dfb7275fdc36758e8d7"
+      },
+      "accepted_body": {
+        "path": "problems/2019-B4/proofs/reviewed-monotone-ratio-v1.1.md",
+        "bytes": 11402,
+        "sha256": "a87798e4df63ec2f76e83da9750f811b15fc6702533b4ca68bd8bd973ac3bac9"
+      },
+      "exact_read_scope": "MR1 and conditional MR2",
+      "complete_accepted_body_and_authority_read": true,
+      "declared_current_fingerprints": {
+        "fingerprint_occurrences_verified": 7,
+        "deduplicated_paths_verified": 7,
+        "canonical_deduplicated_record_summary_sha256": "d3114c19a62c298672d18e946a4a69c9178983f07482e3dd5e576fa5e4a8a73b"
+      },
+      "historical_coordinator_record_occurrences_bound_not_replayed": 6552,
+      "historical_coordinator_paths_bound_not_replayed": 1199,
+      "transitive_inventory_not_recopied_or_recursively_reverified": true
+    },
+    {
+      "authority": {
+        "path": "problems/2019-B4/reviews/reasoning-growth-return-r1-acceptance.json",
+        "bytes": 3825,
+        "sha256": "f3edac551dffe1a0ceb319d91da118ee3bd033a7c2fd4f5c7ce4c7f169f6e5c2"
+      },
+      "accepted_body": {
+        "path": "problems/2019-B4/proofs/reviewed-reasoning-growth-return-r1-v1.1.md",
+        "bytes": 26251,
+        "sha256": "c43a76227937eb11ff8261cc34cece7a411f6637fc4794336c3161f05ba11ea3"
+      },
+      "exact_read_scope": "G1--G5 exact actual/conditional scopes",
+      "complete_accepted_body_and_authority_read": true,
+      "declared_current_fingerprints": {
+        "fingerprint_occurrences_verified": 14,
+        "deduplicated_paths_verified": 14,
+        "canonical_deduplicated_record_summary_sha256": "f962fe6ebb4a93c88d8e9da141230ac2c1e47d373d70e86559b33e7e71fc2238"
+      },
+      "historical_coordinator_record_occurrences_bound_not_replayed": 137,
+      "historical_coordinator_paths_bound_not_replayed": 63,
+      "transitive_inventory_not_recopied_or_recursively_reverified": true
+    },
+    {
+      "authority": {
+        "path": "problems/2019-B4/reviews/walk-Frechet-acceptance.json",
+        "bytes": 2324,
+        "sha256": "4e56867f5962e7b284fc0430342aa90e5214c53c2f75226082bd984a843adbce"
+      },
+      "accepted_body": {
+        "path": "problems/2019-B4/proofs/reviewed-walk-Frechet-v1.1.md",
+        "bytes": 18752,
+        "sha256": "c068f531fa9fa3c420867ae898291b6034cef7511e72ec6fd16f20ac3b023f44"
+      },
+      "exact_read_scope": "DG1--DG4; interpretation only",
+      "complete_accepted_body_and_authority_read": true,
+      "declared_current_fingerprints": {
+        "fingerprint_occurrences_verified": 8,
+        "deduplicated_paths_verified": 8,
+        "canonical_deduplicated_record_summary_sha256": "71d56b96a624ead63c6706b9233d8244656ffb6b589ba11a70622401493a4b14"
+      },
+      "historical_coordinator_record_occurrences_bound_not_replayed": 7643,
+      "historical_coordinator_paths_bound_not_replayed": 1288,
+      "transitive_inventory_not_recopied_or_recursively_reverified": true
+    },
+    {
+      "authority": {
+        "path": "problems/2019-B4/reviews/auxiliary-presentation-r1-acceptance.json",
+        "bytes": 5555,
+        "sha256": "a768d1289cf6e2d977917861621604da2c11ae6b381c4afd9c0027d665a77c0a"
+      },
+      "accepted_body": {
+        "path": "problems/2019-B4/proofs/reviewed-auxiliary-presentation-r1-v1.1.md",
+        "bytes": 11103,
+        "sha256": "fb315bd75a528bbfb7c98d0464ea667cd3e93ef88cd1251fff20c8a219270929"
+      },
+      "exact_read_scope": "AF context only; not a new proof premise",
+      "complete_accepted_body_and_authority_read": true,
+      "declared_current_fingerprints": {
+        "fingerprint_occurrences_verified": 23,
+        "deduplicated_paths_verified": 23,
+        "canonical_deduplicated_record_summary_sha256": "e8fe8ef13d10e3fb03cc4409ff848211b8729fcbc2004a6d04a3742e8745aa36"
+      },
+      "historical_coordinator_record_occurrences_bound_not_replayed": 2169,
+      "historical_coordinator_paths_bound_not_replayed": 1395,
+      "transitive_inventory_not_recopied_or_recursively_reverified": true
+    }
+  ],
+  "own_immutable_immediate_parent": {
+    "manifest": {
+      "path": "problems/2024-B4/reviews/cofactor-dominant-r4-review-1-manifest-v1.json",
+      "bytes": 7640,
+      "sha256": "05e4eb5d531c0ed58d7059d573a50cd149578783ff54c3e4e0dff53eb325e3e1"
+    },
+    "manifest_declared_records": {
+      "fingerprint_occurrences_verified": 20,
+      "deduplicated_paths_verified": 16,
+      "canonical_deduplicated_record_summary_sha256": "0a92bd688e74895ca81360da07080af7dae96a66945077088fd208604036ef5c"
+    },
+    "old_reported_current_occurrences_bound": 43,
+    "old_reported_current_paths_bound": 41,
+    "all_own_parent_payloads_checked": 10,
+    "historical_inventory_not_recopied_or_recursively_reverified": true
+  },
+  "current_existing_summary": {
+    "fingerprint_occurrences_verified": 126,
+    "deduplicated_paths_verified": 104,
+    "canonical_deduplicated_record_summary_sha256": "57effeead93450ae9600329ed26ce7aeacd9aa8e90a2b2bf538219f847a74bf9"
+  },
+  "created_utc": "2026-10-18T10:32:25.442217+00:00",
+  "status": "compact constructor baseline; candidate proof - unverified",
+  "all_direct_inputs_read_in_full_at_stated_source_scopes": true,
+  "old_R7_authorship_and_other_old_review_roles_not_new_self_recertification": true,
+  "no_new_queued_R5_or_ToddR12_peer_or_candidate_access": true,
+  "only_assigned_new_prefix_written": true,
+  "no_Git_shared_old_cache_mutation_or_math_code": true
+}

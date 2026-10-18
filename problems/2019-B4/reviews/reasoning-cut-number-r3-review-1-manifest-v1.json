@@ -1,0 +1,82 @@
+{
+  "frozen_at_utc": "2026-10-18T10:39:57.251262+00:00",
+  "status": "ENTIRE initially blind OTHER WHOLE CN1-CN3 review1",
+  "reviewer": "/root",
+  "constructor": "/root/review_2021_reasoning_j15_r2",
+  "target": {
+    "path": "problems/2019-B4/notes/reasoning-cut-number-r3-candidate-v1.md",
+    "bytes": 20668,
+    "sha256": "70bd911506828e64f101028125594871a3e0325fe861deb99e4d9651991f6388"
+  },
+  "constructor_freeze": {
+    "path": "problems/2019-B4/notes/reasoning-cut-number-r3-freeze-v1.json",
+    "bytes": 5393,
+    "sha256": "4a172e842aabf71d774ee5c8cfca458135e571ce7328c98be0eee1b3d0279089"
+  },
+  "whole_obligations": 48,
+  "all48_pass": true,
+  "substantive_issues": 0,
+  "required_repairs": 0,
+  "closed_scope_notes": 5,
+  "ENTIRE_initial_ALL48_issues_sources_log_code_ALLmetadata_frozen_together": true,
+  "NO_NEW_corresponding_R2_finding_content_hash_or_metadata_access": true,
+  "immediate_own_parent": {
+    "path": "problems/2020-B4/reviews/reasoning-Todd-return-r12-review-1-manifest-v1.json",
+    "bytes": 3474,
+    "sha256": "7378ffce4f78b882f30d89665c3b78a1c057649dab33a0a5bb1f6a98ff980de1"
+  },
+  "current_inputs": {
+    "occurrences": 48,
+    "unique_paths": 48,
+    "canonical_summary_sha256": "2aa9aa70424bd8114f35731a6273c1807621be81f10064e9d1be47c12d4369b6"
+  },
+  "other_ENTIRE_R2_and_coordinator_reconciliation_required": true,
+  "promotion": false,
+  "artifacts": [
+    {
+      "path": "problems/2019-B4/reviews/reasoning-cut-number-r3-review-1-initial-v1.md",
+      "bytes": 9853,
+      "sha256": "f0c92babe80cf7c694c51fc1d880b26ae61e21a4cf819ab0789ac8f1d67357b0"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-cut-number-r3-review-1-ledger-v1.md",
+      "bytes": 6011,
+      "sha256": "19adfe9f35c0379445ef89fa4afc18821c4f326160af54925cd6cadad5d13f16"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-cut-number-r3-review-1-issues-v1.md",
+      "bytes": 1404,
+      "sha256": "aa14762a866b78789b43765d5a6bef4ce214746bd6b190a1ffdd25a3e1668e19"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-cut-number-r3-review-1-source-checks-v1.md",
+      "bytes": 2861,
+      "sha256": "11a550d921c65d6e4568538eba5786b552afa7f2df7a8941079c74c6543404ce"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-cut-number-r3-review-1-worklog-v1.md",
+      "bytes": 2431,
+      "sha256": "f09271436178351cfe9145027c2fb99b0ba64710cbd19a1746588d089f3c8caf"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-cut-number-r3-review-1-freeze-v1.py",
+      "bytes": 6071,
+      "sha256": "d54d1f4c76a0060798fcb8c0f1fce1c232021cf2632e866a4a1ccfa019576419"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-cut-number-r3-review-1-baseline-v1.json",
+      "bytes": 15390,
+      "sha256": "98f741745e074f5f986ed6b4b812093fa727dbe4dd21e77c6bde8acdc8ecaef0"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-cut-number-r3-review-1-input-validation-v1.json",
+      "bytes": 361,
+      "sha256": "c3bd2b29fde975ca9cdecbdcde488fc5ec4a7eb6707cf76ef0441bc558a25645"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-cut-number-r3-review-1-metadata-v1.json",
+      "bytes": 774,
+      "sha256": "3c3f4ae366ad03b7e3efbc99bf545ac1c7287a0c7679abdbd6f4fc46db4df60c"
+    }
+  ]
+}

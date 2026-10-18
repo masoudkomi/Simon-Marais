@@ -1,0 +1,55 @@
+{
+  "recorded_utc_date": "2026-10-18",
+  "status": "candidate proof - unverified; source reading not independent review",
+  "downloaded_papers": [],
+  "local_PDF_hashes_claimed": false,
+  "new_external_theorem_imported_for_CF1_through_CF5": false,
+  "sources": [
+    {
+      "id": "OFFICIAL",
+      "title": "Simon Marais Mathematics Competition 2022 Paper B",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2022-paper-b.pdf",
+      "read_scope": "page2 B4, extracted lines58--70; only(b) investigated",
+      "role": "official domain and simultaneous recurrence"
+    },
+    {
+      "id": "DM",
+      "authors": ["Arturas Dubickas", "Michael J. Mossinghoff"],
+      "title": "Lower bounds for Z-numbers",
+      "url": "https://www.researchgate.net/publication/220576840_Lower_bounds_for_Z-numbers",
+      "read_scope": "complete introduction77--227; complete operative Lemma3.1/proof375--412 and Propositions3.1--3.2/proofs439--509",
+      "unread": "later algorithms/tables and full remaining paper",
+      "role": "proper-set/singleton and open-direction context only; no new theorem import"
+    },
+    {
+      "id": "AEV",
+      "authors": ["Melodie Andrieu", "Shalom Eliahou", "Leo Vivion"],
+      "title": "A Normality Conjecture on Rational Base Number Systems",
+      "version": "arXiv2510.11723v2",
+      "url": "https://arxiv.org/html/2510.11723v2",
+      "read_scope": "Section3.3 lines443--494, complete Propositions3.10/3.13 proofs and surrounding conjecture/question; opening definitions/context also returned",
+      "unread": "full-paper audit and numerical experiments",
+      "role": "conditional/conjectural boundary only"
+    },
+    {
+      "id": "HS",
+      "authors": ["Morris W. Hirsch", "Hal L. Smith"],
+      "title": "Monotone Dynamical Systems",
+      "url": "https://escholarship.org/content/qt3nz137nw/qt3nz137nw_noSplash_832c59b3295e8211c60da32583a54e18.pdf",
+      "read_scope": "Section5.6 lines4599--4676, standing assumptions, Lemma5.27, O+/O- and ENTIRE Theorem5.28 proof",
+      "unread": "full136-page preprint and full following derivative-criterion proof",
+      "role": "classical background and hypothesis check; no theorem applied"
+    }
+  ],
+  "discovery_only_unread_bodies": [
+    "Smith1986 SIAM abstract",
+    "institution-hosted periodic monotone-map search excerpt"
+  ],
+  "AFS_fresh_primary_read_this_pass": false,
+  "AFS_convention_import": "complete accepted F5 body; older SR primary source-audit remains a separate record",
+  "failed_local_lookup": "guessed SR sources-v1.md absent; corrected to reasoning-seed-return-r1-source-audit-v1.md",
+  "combined_output_caps": "operative missing local ranges closed separately; later capped duplicate excerpts not claimed fully read",
+  "mathematical_program_scan_CAS_source_rerun_or_native_child": false,
+  "new_tool_or_approval_stall": false,
+  "old_shared_Git_cache_mutation_contact_charge_bypass": false
+}
