@@ -1,5 +1,7 @@
 # 2025 B4 issue log
 
+ET12 accepted19October after BOTH OTHER whole36/full72 reconciliation,10/12 closed notes,0 substantive defects/required repairs. [Exact scope](reviews/reasoning-exception-return-r12-acceptance.md): integer traces need ALL-prime actual ideal clearing, first nonzero coefficient has depth1-r, and full infinite tail is deeper. Local parameter family is no Diophantine counterexample; individual heights weaker thanR10. Remaining depth2 and nontrivial minus classes OPEN.
+
 Four narrow Strong Fermat–Catalan source objections SO1–SO4 are now
 independently reviewed and coordinator-accepted, with exact hypotheses and
 limits in reviews/strongfc-acceptance.md/json. This is a source-proof audit,

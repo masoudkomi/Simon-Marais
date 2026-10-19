@@ -1,0 +1,49 @@
+{
+  "frozen_utc": "2026-10-19T02:34:10.879937+00:00",
+  "status": "sealed initially blind OTHER whole2 initial",
+  "whole_obligations": 32,
+  "entire_files": 5,
+  "reviewer": "B",
+  "constructor": "/root; excluded",
+  "payloads": [
+    {
+      "path": "problems/2021-B4/reviews/coordinator-dyadic-return-r26-review-2-initial-v1.md",
+      "bytes": 20505,
+      "sha256": "9a369644dfbb5e106d8fee0a98bb656297dba2a17b1c8f43f4cf6fa4489f2ec6"
+    },
+    {
+      "path": "problems/2021-B4/reviews/coordinator-dyadic-return-r26-review-2-sources-v1.json",
+      "bytes": 4154,
+      "sha256": "6189ea9ad63c02102a81560881702c1a744fe6e3d0d0f63d389475ab5232a4fe"
+    },
+    {
+      "path": "problems/2021-B4/reviews/coordinator-dyadic-return-r26-review-2-admin-v1.py",
+      "bytes": 5703,
+      "sha256": "0a52662dec231ddcda3dc028f95bc36b8e50cae835dbede282f2b38abfb79b04"
+    },
+    {
+      "path": "problems/2021-B4/reviews/coordinator-dyadic-return-r26-review-2-baseline-v1.json",
+      "bytes": 3581,
+      "sha256": "440f94d8ae4fa2fbb4d9dac4c3f3c163d4a507f684b139f6d58f33828dc260de"
+    }
+  ],
+  "ONE_exact_own_parent": {
+    "path": "problems/2020-B4/notes/reasoning-global-return-r20-freeze-v1.json",
+    "bytes": 1776,
+    "sha256": "ba2ea31635915d211efac6fc28024e6fefebe0f07e59df7eca31c6a52c831664"
+  },
+  "necessary_record_occurrences": 15,
+  "necessary_unique_paths": 15,
+  "FULL_final_ALL4_payload_MODEL_readbacks_completed": true,
+  "FULL_manifest_MODEL_readback_THEN_SEPARATE_readonly_verify_required": true,
+  "corresponding_new_peer_access": false,
+  "forbidden_R27_access": false,
+  "release_requires_explicit_root_BOTH": true,
+  "requested_model": "gpt-6.1-sol",
+  "requested_reasoning": "max",
+  "effective_readback": null,
+  "authorized_reset": 1792874445,
+  "total_weekly_ceiling": 90,
+  "reserve": true,
+  "mathematical_truth_checked_by_code": false
+}

@@ -1,5 +1,7 @@
 # 2017 B4 research log
 
+19October12:44Brisbane JM16 status: BOTH OTHER whole32 initials have completed full final readbacks/separate verification and were explicitly released after02:42:52UTC. Root ENTIRE reconciliation is PENDING; the proposed entire guarded-family low-J entropy obstruction remains UNVERIFIED. No full-model denominator/mass or scalar value conclusion.
+
 19October12:30Brisbane: NEW [JM16 author packet](notes/reasoning-joint-mass-return-r16-candidate-v1.md) is **candidate proof - unverified**, frozen/read back/separately verified. It proposes an obstruction within the entire guarded LF14 family, not a full arrangement-count or joint-mass law. TWO OTHER whole audits remain required; coordinator has checked handoff integrity, not reconciled the new mathematics. JC15 remains accepted; annual value OPEN.
 
 09:33 update: **LF14A--D is proved, independently reviewed scoped partial result.** The actual guarded three-bundle family has D_N<=4(N-2), exact PP counts and quadratic entropy alpha=(1/2)log2(3)-2/3>0 for every N>=5. Thus the entire low-OLD-D sector has positive entropy. Root/B each reconstructed all56 obligations; no substantive objection remains. J/S control, improved global numerical rate and the annual value remain open. [Acceptance](reviews/reasoning-lower-return-r14-acceptance.md). Earlier dated notices below are historical.

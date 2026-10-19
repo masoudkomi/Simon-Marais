@@ -1,5 +1,7 @@
 # 2021 B4 independent reviews
 
+19October02:37:07UTC: [R26 accepted](coordinator-dyadic-return-r26-acceptance.md), root constructor excluded; A/B TWO OTHER initially blind ENTIRE whole32/full64 reconciliation,11/10 closed notes,0 substantive defects/required repairs. Full actual-domain/original-root modulus256 comparison, both full gcds only; zero-witness branch/fullframe/annual OPEN. Separate NEW R27 remains UNVERIFIED under its OWN TWO OTHER blindwholeaudits; no R27 premise in R26.
+
 10:48 Brisbane update: [R24A--C](reasoning-deep-return-r24-acceptance.md) is **proved, independently reviewed scoped partial result** after B/C OTHER whole32 audits and root full64 reconciliation. In the retained actual negative frameIII, every d>=3 has t=1 and full gcd(f,H12)=X-s; t>=2 is confined to d2 with a9=a10=0 and full H11/H10 gcds X/X². Residual sectors, full degree20 and the annual question remain open. No new external theorem or priority claim. Earlier dated snapshots remain historical.
 
 09:46 update: R23A--D is **proved, independently reviewed scoped partial result** after root/C OTHER whole48 audits/full96 reconciliation. In the retained actual frameIII, negative depth1 and BOTH nonzero D5 forks are excluded, a5=0 and full gcd(f,H15)=X²; necessary deeper D9/D10 restrictions remain. The deeper A5zero/A8unit branch, other patterns and the annual answer remain open. [Acceptance](reasoning-negative-return-r23-acceptance.md). Earlier dated snapshots remain historical.

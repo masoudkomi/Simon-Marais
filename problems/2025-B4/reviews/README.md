@@ -1,5 +1,7 @@
 # 2025 B4 independent reviews
 
+19October02:34:05UTC: [ET12 accepted](reasoning-exception-return-r12-acceptance.md), B constructor excluded; C/A TWO OTHER initially blind WHOLE36/full72 reconciliation,10/12 closed notes,0 substantive defects/required repairs. Exact local/actual trace ladder and specified local inference limit only; no height improvement, actual new exclusion, source theorem refutation or annual answer.
+
 08:51 update: R10A–D is now independently reviewed after A/B TWO OTHER whole64 audits and full128 coordinator reconciliation. The exact local phase iff, denominator-cleared distinct-exponent principality and CONDITIONAL actual cofactor-ideal partition are accepted. Local roots do not imply global(C), and the entire centered cofactor remains. No new Diophantine exclusion, useful height improvement or annual solution. The separate2024R13/2020R18 candidates remain unverified. [Acceptance](reasoning-compatible-return-r10-acceptance.md).
 
 The newly accepted [DR7 actual cofactor-order theorem](reasoning-diagonal-return-r7-acceptance.md)

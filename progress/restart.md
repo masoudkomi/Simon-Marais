@@ -1,5 +1,7 @@
 # Current restart boundary —2026-10-18 19:27Brisbane
 
+Current19October12:44Brisbane: [checkpoint](checkpoint-2026-10-19-1244.md).83%TOTAL02:41:34UTC/current1792874445,7ppthrough90TOTAL includingreserve. ET12/R26accepted; rootR27author5/32UNVERIFIED,A/BOTHERblindwholeauditsactive, correspondingpeerembargo. R20/JM16BOTHreleased/rootENTIREreconciliationpending. Cphysical2022handresearch. NextACTUAL03:14:35UTC,tokens12:14. OWNawake79293/session64368forever; releaseonlywhenactualresearchstops; no laterwindowautomaticspending.
+
 Current12:30Brisbane19October: [checkpoint](checkpoint-2026-10-19-1230.md), [allnine](status-2026-10-19-1230.md).81%TOTAL02:30:18UTC/current1792874445 through90TOTALreserve. CM16accepted; rootR26/R20/JM16 frozenUNVERIFIED; R26A1SEALED/B2active;R20C1/A2active;ET12BOTHreleased-rootENTIREreconciliationpending. Respect corresponding embargoes and R27 exclusion from R26. Next actualhourly03:14:35UTC; tokens actual12:14. OWNawake79293/session64368 positiveforever. Do not spend into laterwindow.
 
 Current07:46 delayed actual report:62% TOTAL ACCOUNT-WIDE/reset1792874445/90TOTAL ceiling with reserve.

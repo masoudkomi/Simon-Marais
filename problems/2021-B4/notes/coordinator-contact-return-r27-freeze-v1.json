@@ -1,0 +1,46 @@
+{
+  "frozen_UTC": "2026-10-19T02:42:49.128330+00:00",
+  "status": "candidate proof - unverified",
+  "constructor": "/root",
+  "constructor_excluded": true,
+  "claims": [
+    "R27A",
+    "R27B"
+  ],
+  "ENTIRE_files": 5,
+  "whole_obligations": 32,
+  "payloads": [
+    {
+      "path": "problems/2021-B4/notes/coordinator-contact-return-r27-candidate-v1.md",
+      "bytes": 18009,
+      "sha256": "ef49a2b0a886f4e2c061e9bd381daa440992361800c015c32b4650a18a574984"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-contact-return-r27-sources-v1.json",
+      "bytes": 2177,
+      "sha256": "49c3760c42b786aa08923248b6aca55bbe6694d0c394c6526eb7b3402bbf4f10"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-contact-return-r27-admin-v1.py",
+      "bytes": 3560,
+      "sha256": "59b295cfc263329e346fa8f8b58a3917584dace6f97e6ffacd96e3e698d32413"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-contact-return-r27-baseline-v1.json",
+      "bytes": 2822,
+      "sha256": "8361f75a73e50de4bec354661cc77c13b960994911cade8d177a517aab523f49"
+    }
+  ],
+  "guard_occurrences": 10,
+  "guard_unique_paths": 10,
+  "compact_own_parent": {
+    "path": "problems/2021-B4/notes/coordinator-dyadic-return-r26-freeze-v1.json",
+    "bytes": 1605,
+    "sha256": "53490bd1b739294fce389af4b76ccc96339bfcc6471c619bedc3c5df33e6270a"
+  },
+  "FULL_final_ALL4_payload_MODEL_readbacks_completed": true,
+  "FULL_manifest_MODEL_readback_THEN_SEPARATE_readonly_verify_REQUIRED": true,
+  "TWO_OTHER_initially_blind_ENTIRE_whole_audits_required": true,
+  "new_R27_peer_access": false,
+  "no_mathematical_code_or_old_replay": true
+}

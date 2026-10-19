@@ -387,3 +387,6 @@ Current [all-nine status](status-2026-10-19-1210.md): JC15/R25/CL14 now accepted
 
 
 19October12:30 continuing:81%TOTAL observed02:30:18UTC/ordinaryallowed/current1792874445,9ppbefore90TOTAL withreserve. CM16scopedacceptance;R26/R20/JM16UNVERIFIED. Actualtokens12:14 unchanged;next03:14:35UTC. OWNawake79293positive49:22:29forever. [Allnine](status-2026-10-19-1230.md).
+
+
+19October12:44 checkpoint:83%TOTAL direct02:41:34UTC/same1792874445/ordinaryallowed,7ppbefore90TOTALincludingreserve. ET12/R26accepted,R27UNVERIFIEDauditsactive,R20/JM16rootreconciliationpending. Literal tokens12:14 unchanged,next03:14:35UTC. [Allnine](status-2026-10-19-1244.md).

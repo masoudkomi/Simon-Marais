@@ -1,0 +1,63 @@
+{
+  "frozen_UTC": "2026-10-19T02:13:11.782842+00:00",
+  "status": "independent initial review; coordinator reconciliation pending",
+  "reviewer": "/root/review_2017_coarsening_r1",
+  "review_number": 1,
+  "ENTIRE_files": 5,
+  "ALL_obligations": 36,
+  "payloads": [
+    {
+      "path": "problems/2025-B4/reviews/reasoning-exception-return-r12-review-1-initial-v1.md",
+      "bytes": 23588,
+      "sha256": "ac1208e33a331b42a07fe06d58dc719a963b73a1e6c56d4f2e4da91f81d091f4"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-exception-return-r12-review-1-sources-v1.json",
+      "bytes": 5013,
+      "sha256": "82efcbd1ec587d80edd0d44c30e0c78ef8b306e29789ae8a194b65a120661c8c"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-exception-return-r12-review-1-admin-v1.py",
+      "bytes": 7390,
+      "sha256": "1edab716390f7d524964d89d1bdb724a2de092c533fa1c2d53672a8867224f42"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-exception-return-r12-review-1-baseline-v1.json",
+      "bytes": 5188,
+      "sha256": "77c2ee88e8f24835115955d108732eb2bd2aed90c519382380fb8e9a909bb602"
+    }
+  ],
+  "guard_summary": {
+    "occurrences": 16,
+    "unique_paths": 16,
+    "canonical_deduplicated_sha256": "90973a5231128d3555b0b645dbb551c2e9cde628af70d0fb60ffd04f27bb187b"
+  },
+  "immediate_OWN_parent_manifest": {
+    "path": "problems/2019-B4/notes/reasoning-critical-law-return-r16-freeze-v1.json",
+    "bytes": 2415,
+    "sha256": "b293b0aba2ac626219e7e4fd170d6a9780528446a860d7cada5edee81cc3ccda"
+  },
+  "FULL_final_ALL4_payload_MODEL_readbacks_completed": true,
+  "FULL_manifest_MODEL_readback_THEN_SEPARATE_readonly_verify_REQUIRED": true,
+  "NEW_ET12_peer_finding_file_inventory_hash_metadata_access": false,
+  "findings_EMBARGOED_until_explicit_BOTH_ENTIRE_confirmation": true,
+  "requested": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independent_effective_backend_readback": null,
+  "quota": {
+    "usedPercent": 79,
+    "observed_UTC": "2026-10-19 02:07:53 UTC",
+    "resetsAt": 1792874445,
+    "windowDurationMins": 10080,
+    "ordinaryUsageAllowed": true,
+    "legacy_by_limit_agree": true,
+    "TOTAL_ceiling": 90,
+    "review_integration_reserve": true,
+    "automatic_later_window_spending": false
+  },
+  "no_mathematical_program_or_old_replay": true,
+  "Git_shared_old_cache_mutation": false
+}

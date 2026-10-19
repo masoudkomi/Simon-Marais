@@ -1,5 +1,7 @@
 # 2021 B4 issue log
 
+R26 accepted19October after BOTH OTHER whole32/full64 reconciliation,11/10 closed notes,0 substantive defects/required repairs. [Exact scope](reviews/coordinator-dyadic-return-r26-acceptance.md): fixedA19 correction/hk term and EVERY remainder retained; actual A9zero and FULL gcds only. Original zero-witness c need not be deep. NEW R27 cjets/contact-one exclusion remains UNVERIFIED and requires TWO new OTHER whole audits; no frozen repair.
+
 10:48 Brisbane update: [R24A--C](reviews/reasoning-deep-return-r24-acceptance.md) is **proved, independently reviewed scoped partial result** after B/C OTHER whole32 audits and root full64 reconciliation. In the retained actual negative frameIII, every d>=3 has t=1 and full gcd(f,H12)=X-s; t>=2 is confined to d2 with a9=a10=0 and full H11/H10 gcds X/X². Residual sectors, full degree20 and the annual question remain open. No new external theorem or priority claim. Earlier dated snapshots remain historical.
 
 The two new single-center necessary classifications passed both fresh
