@@ -1,0 +1,101 @@
+{
+  "recorded_at_utc": "2026-10-19T02:15:41.970401+00:00",
+  "kind": "Actual12:14Brisbane hourly snapshot; observation02:13:30UTC,65seconds before02:14:35 scheduled deadline; no fabricated counter",
+  "weekly": {
+    "observed_at_utc": "2026-10-19T02:13:30+00:00",
+    "used_percent_total": 80,
+    "window_minutes": 10080,
+    "reset_unix": 1792874445,
+    "reset_utc": "2026-10-24T20:40:45+00:00",
+    "reset_Brisbane": "2026-10-25T06:40:45+10:00",
+    "authorized_ceiling_percent_total": 90,
+    "percentage_points_before_ceiling": 10,
+    "ordinary_usage_allowed": true,
+    "account_wide_not_project_specific": true,
+    "automatic_later_window_authorized": false
+  },
+  "tokens": {
+    "snapshot_cutoff_utc": "2026-10-19T02:13:30.603133+00:00",
+    "observed_sessions": 62,
+    "distinct_responses": 16197,
+    "usage": {
+      "input_tokens": 3414232453,
+      "cached_input_tokens": 3277124096,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 21380591,
+      "reasoning_output_tokens": 8712782,
+      "total_tokens": 3435613044
+    },
+    "uncached_input_plus_output_tokens": 158488948,
+    "sessions_without_usage_records": 0,
+    "all_recorded_session_sums_match_cumulative": true,
+    "method": "Deduplicated own-thread per-response usage records across root and recursively spawned descendants; cached input is a subset of input, reasoning output a subset of output.",
+    "limits": "Local recorded observation while work is active. Unreported in-flight usage is excluded. Not a bill or a conversion to subscription percentage. No prompts, account IDs, credentials, or response IDs exported."
+  },
+  "previous_report": "progress/hourly-report-2026-10-19-1115.json",
+  "increase_since_previous_actual_report": {
+    "input_tokens": 77307857,
+    "cached_input_tokens": 74790528,
+    "cache_write_input_tokens": 0,
+    "output_tokens": 282834,
+    "reasoning_output_tokens": 76626,
+    "total_tokens": 77590691,
+    "uncached_input_plus_output_tokens": 2800163
+  },
+  "per_problem": {
+    "2017": {
+      "status_and_pending": "UNRESOLVED. NEW JC15 accepted after C/B two OTHER whole36 audits and coordinator full72 reconciliation. Actual one-class family has quadratic D but subquadratic J/S; no joint-cost entropy, improved scalar or mass law. Prior limit existence, PR11/CI12/LF14 retained.",
+      "next": "Confront simultaneous low-D/low-J class entropy and actual mass; one-cost simplifications are false."
+    },
+    "2018": {
+      "status_and_pending": "COMPLETE attributed published-result reproduction of the general enumeration, internally reviewed; Hering--Howard/Ottaviani credited, known m5 excluded from research.",
+      "next": "Preserve exact domain and published attribution."
+    },
+    "2019": {
+      "status_and_pending": "UNRESOLVED. Accepted AU/AR/AT/R7 and FL15 retain 1.765224<lambda<1.834843. NEW CM16 author5/32 is UNVERIFIED: BOTH OTHER whole32 initials now complete/read back/separately verified and explicitly released after B02:09:54PASS; coordinator reconciliation pending.",
+      "next": "Reconcile full actual distinct-pair mean proposal, then resolve critical renewal regime/exact lambda; do not infer an unmarked or exponential law."
+    },
+    "2020": {
+      "status_and_pending": "UNRESOLVED. R18 and AR19 actual arithmetic/SAME-ideal unit obstruction plus explicit quadratic full-field repair and compatible Fourier limitations reviewed. No taut order excluded.",
+      "next": "B now confronts actual full-cyclotomic/global ALL-character integral binary realization after the repair."
+    },
+    "2021": {
+      "status_and_pending": "UNRESOLVED. NEW R25 accepted after C/A two OTHER whole28 audits and coordinator full56 reconciliation: every retained actual negative d>=3 is excluded, so d2 remains. R25B is an attributed R24C gcd consequence only. Root separate R26 exploration remains UNVERIFIED/incomplete packet, no R25 premise.",
+      "next": "Confront actual depth2 unit/origin witness alternatives; no local rational-lift converse, full frame or degree20 claim."
+    },
+    "2022": {
+      "status_and_pending": "UNRESOLVED. IT12 exact complete first-SAFE2/ordinary-seed equivalences now reviewed, alongside D9/RC10/CR11. No ordinary infinite survivor or universal termination established.",
+      "next": "Resolve actual multiresidue aperiodic survival and other physical durations; finite or formal itineraries do not imply ordinary survival."
+    },
+    "2023": {
+      "status_and_pending": "COMPLETE internally reviewed classification for fixed positive nonsquare N: all(k,k),k>0, and(k,2k)/(2k,k) for positive ODD k. External publication priority unconfirmed.",
+      "next": "Retain full real-witness domain and attribution limits."
+    },
+    "2024": {
+      "status_and_pending": "UNRESOLVED. NEW CL14 accepted after B/A two OTHER whole48 audits and coordinator full96 reconciliation: exact arbitrary-common-field root counts and all g>=2,u>=2,t>=0 whole-irreducibility family. FR10/FR11/TR12/R13 retained. Full classification and published overlap OPEN.",
+      "next": "Understand failed-budget sectors and general odd parts; obtain operative earlier-source overlap evidence without inferring a converse."
+    },
+    "2025": {
+      "status_and_pending": "UNRESOLVED. GR11/R10/DR8 reviewed: under actual class equality exact depth2 near-1 survives; nontrivial minus classes also open. NEW ET12 author5/36 UNVERIFIED, C OTHER whole1 ENTIRE frozen/readback/separately verified02:13:15.936716PASS and SEALED; A OTHER whole2 active. Corresponding findings remain sealed until BOTH and explicit release.",
+      "next": "Audit complete actual trace/tail/denominator proposal, then find actual new global compatibility for the surviving exception; weaker height estimates are not a new exclusion."
+    }
+  },
+  "complete_annual_answers": 2,
+  "unresolved_annual_targets": 7,
+  "deferred": [
+    2026
+  ],
+  "keepawake": {
+    "pid": 79293,
+    "exec_session": 64368,
+    "untimed": true,
+    "verified_at_local": "2026-10-19T12:13:30+10:00",
+    "actual_assertion": "OWN79293 positive49:05:40 PreventUserIdleSystemSleep, asserting forever; display may sleep",
+    "stop_only_owned_assertion_at_ceiling_or_actual_termination": true
+  },
+  "last_previously_pushed_commit": "f8ae618",
+  "next_manual_reporting_check_utc": "2026-10-19T03:14:35+00:00",
+  "token_scope": "THIS researchchat and recursiveagents ONLY; cached input subsetinput/reasoningsubsetoutput. Weekly allowance ACCOUNTWIDE mayincludeotherprojects. No tokenentitlement/physicalcompute inference.",
+  "limitations": "Local recorded observation while work is active. Unreported in-flight usage is excluded. Not a bill or a conversion to subscription percentage. No prompts, account IDs, credentials, or response IDs exported.",
+  "private_72h_usage_PDF_delivered_not_pushed": true
+}

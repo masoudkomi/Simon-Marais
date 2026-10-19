@@ -2,7 +2,7 @@
   "branch": "codex/smmc-b4-research",
   "remote": "https://github.com/masoudkomi/Simon-Marais.git",
   "phase": "sustained reasoning;JC15/R25/CL14accepted;CM16releasedreconciliationpending;ET12twoOTHERwholeauditsactive",
-  "last_pushed_commit": "c69abe3",
+  "last_pushed_commit": "f8ae618",
   "initial_passes_complete": [
     2017,
     2018,
@@ -27,8 +27,8 @@
     },
     {
       "agent": "review_2017_coarsening_r1",
-      "year": 2025,
-      "role": "ET12 OTHER blindwhole1"
+      "year": 2017,
+      "role": "new actual joint-mass R16 handresearch after ET12whole1SEALED"
     }
   ],
   "initial_passes_pending": [],
@@ -43,16 +43,16 @@
     "exec_session": 64368,
     "duration_seconds": null,
     "started_at_utc_approx": "2026-10-17T01:07:50+00:00",
-    "verified_at_local": "2026-10-19T11:15:03+10:00",
+    "verified_at_local": "2026-10-19T12:13:30+10:00",
     "assertion": "PreventUserIdleSystemSleep",
-    "verified_detail": "OWN79293positive48:07:13 PreventUserIdleSystemSleep;indefiniteownedassertionretained",
+    "verified_detail": "OWN79293 positive49:05:40 PreventUserIdleSystemSleep, asserting forever; display may sleep",
     "cleanup": "At90% total weekly usage or actual research termination, stop only owned session64368 via targeted Ctrl-C; PID79293 recorded for fallback. No timed expiry.",
     "previous_session": 14140,
     "previous_exit_code_after_targeted_ctrl_c": 130,
-    "next_check_utc": "2026-10-19T02:14:35+00:00"
+    "next_check_utc": "2026-10-19T03:14:35+00:00"
   },
-  "notes": "2annualcomplete/7unresolved;80%TOTALsame1792874445through90TOTALreserve;actualtokens11:15",
-  "observed_at_utc": "2026-10-19T02:09:49+00:00",
+  "notes": "2annualcomplete/7unresolved;80%TOTALsame1792874445through90TOTALreserve;actualtokens12:13:30",
+  "observed_at_utc": "2026-10-19T02:13:30+00:00",
   "coordinator_compute": {
     "status": "all constructor children completed and reaped",
     "complex_complement_child_pid": 37199,
@@ -61,14 +61,14 @@
     "complex_family_count": 6224952,
     "new_complex_extension_audits": "both complete, accepted"
   },
-  "latest_all_nine_report": "progress/status-2026-10-19-1210.md",
+  "latest_all_nine_report": "progress/status-2026-10-19-1214.md",
   "coordinator_current": "integrateJC15/R25/CL14;reconcileCM16;completeR26actualdepth2proof",
-  "latest_checkpoint": "progress/checkpoint-2026-10-19-1210.md",
+  "latest_checkpoint": "progress/checkpoint-2026-10-19-1214.md",
   "pending_unverified": [
     "2019CM16BOTHinitialsreleased/rootENTIREreconciliationpending",
-    "2025ET12TWOOTHERwholeauditsactive",
+    "2025ET12whole1SEALED/whole2active",
     "root2021R26explorationnotcompletepacket",
-    "newB2020R20handresearch",
+    "newB2020R20/C2017R16handresearch",
     "olderroot2020source/2024degreegapUNVERIFIED"
   ],
   "usage_telemetry_conflict": {
@@ -87,16 +87,16 @@
     "explicit_user_authorization": "keep going till90%of the newly reported weekly window....do not stop",
     "authorization_recorded_at_utc": "2026-10-18T00:00:36.393369+00:00"
   },
-  "weekly_last_observed_at_utc": "2026-10-19 02:09:49 UTC",
+  "weekly_last_observed_at_utc": "2026-10-19 02:13:30 UTC",
   "hourly_reporting": {
     "automation_id": "simon-marais-hourly-research-report",
     "kind": "heartbeat",
     "status": "ACTIVE",
     "cadence": "hourly",
     "baseline": "progress/hourly-report-2026-10-18-1037.json",
-    "last_report": "progress/hourly-report-2026-10-19-1115.json",
-    "latest_actual_report": "progress/hourly-report-2026-10-19-1115.json",
-    "next_manual_check_utc": "2026-10-19T02:14:35+00:00",
+    "last_report": "progress/hourly-report-2026-10-19-1214.json",
+    "latest_actual_report": "progress/hourly-report-2026-10-19-1214.json",
+    "next_manual_check_utc": "2026-10-19T03:14:35+00:00",
     "cadence_failure_recorded": true,
     "configuration_active_not_proof_of_delivery": true
   },
@@ -105,8 +105,8 @@
     "second_reviewer_explicitly_confirmed_no_new_root_conclusion_commentary_or_material_seen": true,
     "detailed_reports_embargoed_until_both_entire_initials": true
   },
-  "latest_actual_hourly_report": "progress/status-2026-10-19-1115.md",
-  "next_actual_hourly_utc": "2026-10-19T02:14:35+00:00",
+  "latest_actual_hourly_report": "progress/status-2026-10-19-1214.md",
+  "next_actual_hourly_utc": "2026-10-19T03:14:35+00:00",
   "reporting_interruption": {
     "cause": "A single public-PDF in-app-browser tool call unexpectedly took11095.9647seconds to return; coordinator could not issue updates while blocked.",
     "not_permission_request": true,
@@ -130,5 +130,6 @@
     "private_onepage_PDF_delivered_local_only": true,
     "no_network_or_inference_for_data_gathering": true,
     "no_install_source_or_configuration_change": true
-  }
+  },
+  "latest_actual_hourly_snapshot": "progress/hourly-report-2026-10-19-1214.json"
 }

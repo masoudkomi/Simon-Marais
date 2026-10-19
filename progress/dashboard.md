@@ -560,3 +560,8 @@ Five new exact partial packets accepted after both complete blind WHOLE audits a
 ## 19October2026,12:10Brisbane
 
 Current [all-nine status](status-2026-10-19-1210.md): JC15/R25/CL14 now accepted scoped; annual complete2018/2023 only. CM16 BOTH whole initials released/root reconciliationpending; ET12 A/C blindwholeauditsactive; B2020globalresearch. Direct80%TOTAL02:09:49UTC/currentreset1792874445,10pp to90TOTAL includingreserve. Tokens retain literal11:15cutoff pending actual12:14 report. Keep only ownedawake79293/session64368; no laterwindow automaticspending. No frozenproof/review changes, no current SEALED peer files in this checkpoint.
+
+
+## Actual12:14Brisbane hourly
+
+[All-nine report](status-2026-10-19-1214.md), [machine snapshot](hourly-report-2026-10-19-1214.json).80%TOTAL observed02:13:30UTC/current1792874445,10pp to90TOTAL;3,435,613,044 projecttokens(+77,590,691), cached3,277,124,096;uncachedinput+output158,488,948(+2,800,163),reasoning8,712,782 SUBSEToutput. Cached repeats not fresh reasoning/accountmeter not projecttokens. Ownedawake positive49:05:40,79293/session64368;next03:14:35UTC. No currentSEALEDpeer/privateartifact selected.
