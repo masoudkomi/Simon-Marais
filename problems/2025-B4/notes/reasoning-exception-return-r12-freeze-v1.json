@@ -1,0 +1,70 @@
+{
+  "frozen_UTC": "2026-10-19T02:02:08.413165+00:00",
+  "status": "candidate proof - unverified",
+  "constructor": "/root/review_2022_complexity_r2",
+  "ENTIRE_files": 5,
+  "payload_count": 4,
+  "ALL_obligations": 36,
+  "claims": [
+    "ET1",
+    "ET2",
+    "ET3"
+  ],
+  "payloads": [
+    {
+      "path": "problems/2025-B4/notes/reasoning-exception-return-r12-candidate-v1.md",
+      "bytes": 25536,
+      "sha256": "de6c6478d45115aa559d00070c7ed469ab9b146d07398219b99b1a0553057c87"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-exception-return-r12-sources-v1.json",
+      "bytes": 7353,
+      "sha256": "03364bb097f9c32ccf908ee1c92f00d43c7788500842668845b2a109ccb62e5e"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-exception-return-r12-admin-v1.py",
+      "bytes": 7191,
+      "sha256": "584853a901d538e38c771aff829ce9175a0bb5f24c50ceb93d87870194039675"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-exception-return-r12-baseline-v1.json",
+      "bytes": 5553,
+      "sha256": "6d2bf4e631533517882d64cf819565cb1cd7724e4f32b47e7771a68d9305315b"
+    }
+  ],
+  "guard_summary": {
+    "occurrences": 10,
+    "unique_paths": 10,
+    "canonical_deduplicated_sha256": "4838462d3ae322fccaadecc02c490c31ac51483647b3e4fa89a8441183f55fd1"
+  },
+  "immediate_own_parent_manifest": {
+    "path": "problems/2017-B4/reviews/reasoning-joint-return-r15-review-2-manifest-v1.json",
+    "bytes": 2639,
+    "sha256": "3a66ce5b0fe4bd29688fc85af114fb0e53eae596b7e75d8f179d85aa6e64c166"
+  },
+  "FULL_final_ALL4_payload_MODEL_readbacks_completed": true,
+  "FULL_freeze_manifest_MODEL_readback_then_SEPARATE_readonly_verify_REQUIRED": true,
+  "two_OTHER_initially_blind_ENTIRE_WHOLE_audits_and_coordinator_reconciliation_REQUIRED": true,
+  "constructor_EXCLUDED_from_auditor_count": true,
+  "NEW_R25_R26_peer_or_exploration_access": false,
+  "requested": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independent_effective_backend_readback": null,
+  "quota": {
+    "usedPercent": 79,
+    "observed_UTC": "2026-10-19 01:59:46 UTC",
+    "resetsAt": 1792874445,
+    "windowDurationMins": 10080,
+    "ordinaryUsageAllowed": true,
+    "legacy_by_limit_agree": true,
+    "account_label": "...ac3a",
+    "TOTAL_ceiling": 90,
+    "integration_review_reserve": true,
+    "automatic_later_window_spending": false
+  },
+  "mathematical_program_CAS_scan_test_old_source_author_helper_replay": false,
+  "Git_shared_old_cache_mutation_spawn_charge_contact_bypass": false
+}

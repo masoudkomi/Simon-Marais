@@ -1,0 +1,93 @@
+{
+  "accepted_at_utc": "2026-10-19T04:06:26.509376+00:00",
+  "status": "proved, independently reviewed scoped partial result",
+  "whole_initials_blind": true,
+  "root_read_full_candidate_both_reports_all_ledgers_sources": true,
+  "unresolved_substantive_issues": 0,
+  "repair_required": false,
+  "candidate": {
+    "path": "problems/2024-B4/notes/reasoning-frontier-return-r15-candidate-v1.md",
+    "bytes": 19639,
+    "sha256": "b12c04780620c440ee88fb734ef97e25c85ed5b21402198a672c153938082ffa"
+  },
+  "accepted_copy": {
+    "path": "problems/2024-B4/proofs/reviewed-reasoning-frontier-return-r15-v1.1.md",
+    "bytes": 25725,
+    "sha256": "4c3ae9e393fdd2564a03b04805bba41bb4f024b14123e250f914c9b52859f6a7"
+  },
+  "verification_metadata": [
+    {
+      "path": "problems/2024-B4/notes/reasoning-frontier-return-r15-freeze-v1.json",
+      "bytes": 2505,
+      "sha256": "d5d9804d237c368818cfaa7dcc9dda188cb474f7c4f5b7e97d50e1d561b283d2"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-frontier-return-r15-baseline-v1.json",
+      "bytes": 4708,
+      "sha256": "e4fc88c28d76138c2d630b9f6374f25ec79b2f172e81800a5058933a73405442"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-frontier-return-r15-sources-v1.json",
+      "bytes": 5585,
+      "sha256": "2ee1ba4ce8bcb60799a1b1299044fe864b81e4e213bd27fa7b166aeeded4f9b3"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-frontier-return-r15-review-1-manifest-v1.json",
+      "bytes": 2084,
+      "sha256": "6937f7762ecfd5a8f11a317129ccb5aca1b8a779acdfbc1caa45b3dccc399137"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-frontier-return-r15-review-1-baseline-v1.json",
+      "bytes": 5403,
+      "sha256": "7e41c1f31b5aeda320a67f570f7ff3b6512ae44224ae4f74dbb0dbab51c08b70"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-frontier-return-r15-review-1-sources-v1.json",
+      "bytes": 3856,
+      "sha256": "309bc643c5e24fddc3b6040189027f953b666da7a37cfcdd5bf2b1d243945c17"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-frontier-return-r15-review-2-manifest-v1.json",
+      "bytes": 2551,
+      "sha256": "3049df833735466f97f6529dbc9d0fd8130c8767ab5f997f195af24a833fb26c"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-frontier-return-r15-review-2-baseline-v1.json",
+      "bytes": 5516,
+      "sha256": "f79aa65ba238a63188785d4c6f716b5b47594201caa2219aee7797adf62984f5"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-frontier-return-r15-review-2-sources-v1.json",
+      "bytes": 3525,
+      "sha256": "08ea71dd84cc626bb6f70e91706cf5845f69a99bf42dcf2302a6367f7ec9245e"
+    }
+  ],
+  "record_occurrences_verified": 82,
+  "unique_paths_verified": 33,
+  "constructor": "/root/review_2021_reasoning_j15_r2",
+  "constructor_excluded": true,
+  "whole_reviewers": [
+    "/root/review_2022_complexity_r2",
+    "/root/review_2017_coarsening_r1"
+  ],
+  "whole_obligations_per_review": 24,
+  "whole_review_files": [
+    5,
+    5
+  ],
+  "closed_scope_notes": [
+    10,
+    8
+  ],
+  "explicit_BOTH_before_NEW_peer_access": true,
+  "root_read_ENTIRE_author_both_reviews_all_code_metadata": true,
+  "actual_Fq_divisors_ONLY": true,
+  "three_simultaneous_coefficient_square_restrictions": true,
+  "F2_center_distinct_orbit_constraint": true,
+  "failed_ell21_budget_still_negative": true,
+  "local_allocations_not_global_divisors": true,
+  "new_exponent_classification": false,
+  "annual_open": true,
+  "priority_claim": false,
+  "no_F15_mathematical_program_or_old_replay": true
+}

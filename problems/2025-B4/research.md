@@ -168,3 +168,8 @@ The main unresolved prime-m cases require more than these elementary restriction
 4. Pursue a targeted new idea for prime m and odd q, rather than repeatedly enlarging the finite rectangle. Any further computation should have explicit parameters and monitored cutoff.
 
 All third-party full PDFs remain in the ignored local .cache/literature/2025/ cache; only citations, cache paths and hashes are stored in the year directory. The coordinator authorized this cache relocation. No commit or push was made by this owner.
+
+
+## Reviewed continuation —19October2026,14:14Brisbane
+
+JT13 now reviewed conditional ACTUALtrace-vector injection/fullcyclic compatibility/dependent reciprocal vectors. Directheight weaker thanR10; originalpower/globalclass/annual gap OPEN. TWO OTHER initiallyblind ENTIRE whole audits and full coordinator reconciliation complete, frozen bytes preserved. [Exact acceptance](reviews/reasoning-joint-trace-return-r13-acceptance.md). No annual promotion or priority claim.

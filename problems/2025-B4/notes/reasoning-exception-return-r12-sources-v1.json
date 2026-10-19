@@ -1,0 +1,90 @@
+{
+  "status": "candidate proof - unverified",
+  "constructor": "/root/review_2022_complexity_r2",
+  "verification_date_UTC": "2026-10-19",
+  "scope": "Official2025 B4(b) ONLY; local p>=5,s>=2; ACTUAL signed diagonal p>=37 with explicit actual class equality(C)",
+  "requested": {"model":"gpt-6.1-sol","reasoning":"max","inherited":true},
+  "independent_effective_backend_readback": null,
+  "fresh_complete_accepted_inputs": [
+    {
+      "body":"problems/2025-B4/proofs/reviewed-reasoning-compatible-return-r10-v1.1.md",
+      "authority_md":"problems/2025-B4/reviews/reasoning-compatible-return-r10-acceptance.md",
+      "authority_json":"problems/2025-B4/reviews/reasoning-compatible-return-r10-acceptance.json",
+      "read_scope":"FULL body and EACH FULL current MDJSON; actual global ratio root, unique U2 normalization, ideal denominator and norm hypotheses",
+      "use":"Actual A,class condition C,canonical gamma and stronger comparison bound; no local-to-global converse or principality imported",
+      "older_role":"B was OTHER whole2 reviewer; not fresh independent self-recertification of old accepted work"
+    },
+    {
+      "body":"problems/2025-B4/proofs/reviewed-reasoning-global-return-r11-v1.1.md",
+      "authority_md":"problems/2025-B4/reviews/reasoning-global-return-r11-acceptance.md",
+      "authority_json":"problems/2025-B4/reviews/reasoning-global-return-r11-acceptance.json",
+      "read_scope":"FULL body and EACH FULL current MDJSON; original source JSON also read as context",
+      "use":"Actual C sector reduces to exact depth2 near-1; source lower-trace/Theorem4 were NOT accepted inputs",
+      "older_role":"B was OTHER whole2 reviewer; published AI/HB-minus remain attributed accepted external dependencies, not newly re-proved here"
+    }
+  ],
+  "primary_sources": [
+    {
+      "id":"OFF2025",
+      "url":"https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc2025_paper_b.pdf",
+      "fresh_read":"Page2 B4 setup59-61 and open(b)67-71; complete local statement also read",
+      "use":"Signed ordinary integer domain and degree/term-count convention",
+      "limit":"Other problems/preliminary returned incidentally, not investigated or reproduced",
+      "binary_sha256":null
+    },
+    {
+      "id":"MIH2008_AUTHOR",
+      "author":"Preda Mihailescu",
+      "title":"Class Number Conditions for the Diagonal Case of the Equation of Nagell and Ljunggren",
+      "publication":"Developments in Mathematics16(2008),245-273",
+      "doi":"10.1007/978-3-211-74280-8_15",
+      "record":"https://www.researchgate.net/publication/226863681_Class_Number_Conditions_for_the_Diagonal_Case_of_the_Equation_of_Nagell_and_Ljunggren",
+      "author_pdf":"https://www.researchgate.net/profile/Preda-Mihailescu/publication/226863681_Class_Number_Conditions_for_the_Diagonal_Case_of_the_Equation_of_Nagell_and_Ljunggren/links/546326840cf2c0c6aec1e13c/Class-Number-Conditions-for-the-Diagonal-Case-of-the-Equation-of-Nagell-and-Ljunggren.pdf",
+      "version":"Author-posted Version2.0 September17,2007; NOT certified final-publisher-identical",
+      "literal_fresh_HTML_reads":[
+        "Standing equation, signed Theorems3/4 and hypotheses, lines157-286",
+        "COMPLETE Section2.5 including Lemma5 proof/lifts, lines824-1040; surrounding returned context through1050",
+        "COMPLETE Section5, lines2706-3001, covered by overlapping opens2706/2860/2970; source gamma/delta/conjugation notation inspected"
+      ],
+      "literal_fresh_author_PDF_text_reads":[
+        "Opening/standing definitions/Theorems3/4 returned in full PDF text; no whole28-page read claim",
+        "COMPLETE Section5, printed pages25-27, lines2401-2752, overlapping opens2440/2590/2700 plus targeted finds; no unreturned gap counted read"
+      ],
+      "new_use":"Attributed last trace selector and motivating local-divisibility question; no Theorem4, class-field/reflection foundation or lower-height theorem imported",
+      "new_hand_proof":"ET1 general-r all-index coefficient/trace lemma, ET2 actual global all-prime integrality, ET3 local ordinary-parameter counterfamily; BOTH reciprocal orientations supplied",
+      "hypothesis_boundary":"Section5 assumes an ACTUAL Diophantine solution and Vandiver; local family is NOT a counterexample to those combined assumptions or the published theorem",
+      "interpretation_boundary":"Stronger local trace divisibility does not follow from the inspected normalized local series alone. Final-publisher text, possible corrections and full external theorem NOT recertified/refuted.",
+      "visual_read":"NO. Screenshot pages24/25/26 zero-based each failed Cache miss; text agreement only",
+      "external_proof_limit":"No fresh complete upper-bound Section4, whole Washington/class-field proof or publisher/errata certification in this rotation",
+      "binary_download":false,
+      "raw_binary_sha256":null
+    },
+    {
+      "id":"BM1412",
+      "url":"https://arxiv.org/pdf/1412.5798",
+      "fresh_read":"COMPLETE Theorem2.2 statement230-248 and returned adjacent context190-303",
+      "use":"Published signed bound context only; no new proof import",
+      "limit":"No fresh complete Appendix5.1 or whole19-page audit. Older reads not inherited as fresh",
+      "version_boundary":"Older arXiv identifier and later internal version are distinguished by accepted GR11; no new publisher-byte identity claim",
+      "binary_sha256":null
+    },
+    {
+      "id":"CM2026",
+      "url":"https://doi.org/10.1007/s11401-026-0018-7",
+      "fresh_read":"Primary publisher abstract/domain and publication record returned by bounded search",
+      "use":"Distinct odd exponents do not cover q=p; theorem not imported",
+      "limit":"No new complete2026 proof read in this rotation; old source reading is not a fresh theorem certification",
+      "binary_sha256":null
+    }
+  ],
+  "bounded_search_boundary":"Targeted diagonal/Vandiver/trace/correction queries returned the original chapter, later references and unrelated hits. No specific correction resolving this exact trace comparison was located; absence is not proved. Secondary hits are not premises.",
+  "failed_access":[
+    "CiteSeer original-document endpoint returned Internal Error",
+    "Author-record Download link resolved to malformed publication/profile path and404; public profile URL yielded PDF text",
+    "Three author-PDF pixel screenshots returned Cache miss"
+  ],
+  "source_access":{"public_bounded_web":true,"CUA_native_browser":false,"binary_download_cache_write":false,"charge_contact_bypass":false,"third_party_full_paper_redistribution":false},
+  "construction_roles":{"B_sole_NEW_constructor":true,"root_NEW_inference":false,"two_OTHER_initially_blind_ENTIRE_WHOLE_reviews_required":true,"old_B_UW_RS_BR_RD_roles_historical":true,"NEW_R25_R26_peer_or_exploration_access":false},
+  "computation":"No mathematical executable,CAS,scan,test,numerical experiment,source-author-old helper/certificate replay. NEW helper is documentary bytes/SHA/JSON/literal-obligation validation ONLY.",
+  "limits":"Exact local/actual trace ladder only; individual bounds weaker than R10; no actual solution constructed/excluded, class triviality or nontrivial-minus exclusion, improved HB-minus, unrestricted prime range, annual solution, priority or external validation. All findings UNVERIFIED until two OTHER whole audits."
+}

@@ -1,0 +1,66 @@
+{
+  "frozen_UTC": "2026-10-19T04:06:36.732422+00:00",
+  "status": "sealed OTHER independent WHOLE2 initial; not promotion",
+  "reviewer": "/root/review_2022_complexity_r2",
+  "constructor_excluded": true,
+  "claims": [
+    "R28A",
+    "R28B"
+  ],
+  "ENTIRE_files": 6,
+  "ALL_obligations": 24,
+  "payloads": [
+    {
+      "path": "problems/2021-B4/reviews/coordinator-global-return-r28-review-2-initial-v1.md",
+      "bytes": 18167,
+      "sha256": "51676dc7bb2bb482af5baa229a31bff1ac87d363098ece18d29613ec733e8457"
+    },
+    {
+      "path": "problems/2021-B4/reviews/coordinator-global-return-r28-review-2-sources-v1.json",
+      "bytes": 3973,
+      "sha256": "d69a324c26ea1880efaa9a1507c5b5bb4d32cfdfdd27eb6eb6c7edce0fac1b8f"
+    },
+    {
+      "path": "problems/2021-B4/reviews/coordinator-global-return-r28-review-2-checker-v1.py",
+      "bytes": 9475,
+      "sha256": "2455a9fcd6da2a55be436816a75e600d75a8525979436dc037072390df99db4b"
+    },
+    {
+      "path": "problems/2021-B4/reviews/coordinator-global-return-r28-review-2-certificate-v1.json",
+      "bytes": 2831,
+      "sha256": "0c1481353c4fd928e817f12c1227f4b5d20b7a9275a9eb0cfcd9ce631233c662"
+    },
+    {
+      "path": "problems/2021-B4/reviews/coordinator-global-return-r28-review-2-baseline-v1.json",
+      "bytes": 4071,
+      "sha256": "845d806ffdd8f67aba468d6013120853815524b1cc154f1c6ecec61aaec4520e"
+    }
+  ],
+  "guard_occurrences": 18,
+  "guard_unique_paths": 18,
+  "ONE_exact_OWN_parent": {
+    "path": "problems/2024-B4/reviews/reasoning-frontier-return-r15-review-1-manifest-v1.json",
+    "bytes": 2084,
+    "sha256": "6937f7762ecfd5a8f11a317129ccb5aca1b8a779acdfbc1caa45b3dccc399137"
+  },
+  "FULL_final_ALL5_payload_MODEL_readbacks_completed": true,
+  "FULL_manifest_MODEL_readback_THEN_SEPARATE_readonly_verify_REQUIRED": true,
+  "findings_sealed_until_explicit_BOTH": true,
+  "corresponding_NEW_peer_access": false,
+  "fresh_fixed_finite_certificate_verifier_used": true,
+  "author_old_source_code_executed": false,
+  "requested": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independent_effective_backend_readback": null,
+  "quota_start": {
+    "usedPercent": 86,
+    "observed_UTC": "2026-10-19 04:00:39 UTC",
+    "resetsAt": 1792874445,
+    "TOTAL_ceiling": 90,
+    "reserve": true,
+    "automatic_later_window": false
+  }
+}

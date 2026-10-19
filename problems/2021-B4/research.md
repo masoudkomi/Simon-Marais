@@ -319,3 +319,8 @@ NEW R25 accepted02:06:48.894990UTC after TWO OTHER whole28 audits/full56 coordin
 ## 19October2026,12:59Brisbane coordinator update
 
 R26/R27 are now accepted scoped in ENTIRE retained actual negative frameIII: d2,A9=A10zero,FULL gcdsX/X²; contactt>=2,v2(s-r)>=0,h4mod16,b64O,cdepth3,kdepth2 with stated residues. Higher contact/actual carrier/rational equations/fullframeIII/degree20 remainopen; no all-contact bzero. [R26](reviews/coordinator-dyadic-return-r26-acceptance.md), [R27](reviews/coordinator-contact-return-r27-acceptance.md). TWO OTHER initially blind WHOLE audits and ENTIRE coordinator reconciliation/final acceptance readbacks complete. Frozen bytes preserved; no mathematical executable/old replay.
+
+
+## Reviewed continuation —19October2026,14:14Brisbane
+
+R28 now reviewed in ENTIRE actual retained domain: zero E8 cover excluded for every rational h; S cover forced, exact contact law/full gcd. Remaining S-cover/frameIII/degree20 OPEN. TWO OTHER initiallyblind ENTIRE whole audits and full coordinator reconciliation complete, frozen bytes preserved. [Exact acceptance](reviews/coordinator-global-return-r28-acceptance.md). No annual promotion or priority claim.
