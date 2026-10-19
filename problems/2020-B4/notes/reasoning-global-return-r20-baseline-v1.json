@@ -1,0 +1,88 @@
+{
+  "schema": "R20-compact-preservation-v1",
+  "created_utc": "2026-10-19T02:23:32.280088+00:00",
+  "immutable_guards": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2020-B4/statement.md",
+      "bytes": 2006,
+      "sha256": "91c9e7e86eef7bc6a68770f6ee730d18618443304ac3aace5541b42170ac64cc"
+    },
+    {
+      "path": "problems/2020-B4/proofs/reviewed-reasoning-actual-return-r18-v1.1.md",
+      "bytes": 43966,
+      "sha256": "f38609238baaa9909dfd7655220794a89bf7e00a5f128253d56167507f2d48cf"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-actual-return-r18-acceptance.md",
+      "bytes": 7410,
+      "sha256": "6a13746486597ada30dc1d0212292c51f6c74274c1b1eb2e45f50fb7b8a870e5"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-actual-return-r18-acceptance.json",
+      "bytes": 3719,
+      "sha256": "cfab20bed65e85423975e628bf9c1231e769d46feb9b0fcb7d5abf6dd5e723bf"
+    },
+    {
+      "path": "problems/2020-B4/proofs/reviewed-reasoning-realization-return-r19-v1.1.md",
+      "bytes": 36261,
+      "sha256": "1318589dd05ccf4b1a78e8200b87e9f77148eacbe27c485358a81a10698ef7a2"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-realization-return-r19-acceptance.md",
+      "bytes": 5074,
+      "sha256": "954bba83096cce29784ab34da06f1e8221aeb77a8a2a42d5f5c2b3f75a3ad753"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-realization-return-r19-acceptance.json",
+      "bytes": 3438,
+      "sha256": "8a9a598569c1605a6a5132e15e9552d5ca9326d6e7b271666c22451c7e7381c4"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-exception-return-r12-freeze-v1.json",
+      "bytes": 2517,
+      "sha256": "79e7c6bd6746a38b1cceb44a773f7b267795560ed7439a88564994ec93e3d68b"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-critical-law-return-r16-review-2-manifest-v1.json",
+      "bytes": 2884,
+      "sha256": "4ae35fa60820cd6974a8181a94eaeb4537a1ff6c7ff284b925e9668f6abc80a7"
+    }
+  ],
+  "guard_occurrences": 10,
+  "guard_deduplicated_paths": 10,
+  "own_immediate_parents": [
+    {
+      "path": "problems/2025-B4/notes/reasoning-exception-return-r12-freeze-v1.json",
+      "role": "own sole-author ET12, frozen unverified; no other review access",
+      "historical_necessary_guard_occurrences": 10,
+      "historical_deduplicated_paths": 10
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-critical-law-return-r16-review-2-manifest-v1.json",
+      "role": "own CM16 whole2, complete and explicitly released before R20",
+      "historical_necessary_guard_occurrences": 26,
+      "historical_deduplicated_paths": 26
+    }
+  ],
+  "ancestry_policy": "Bind parent manifests exactly; do not copy their historical inventories or replay them.",
+  "mutable_observations_not_immutable_guards": [
+    {
+      "path": "problems/2020-B4/research.md",
+      "bytes": 15540,
+      "sha256": "1337cc87831a4a283a3fe46cff4103cd63b1495ab41251d770afe75088dc8e71"
+    },
+    {
+      "path": "problems/2020-B4/references.md",
+      "bytes": 9374,
+      "sha256": "1aa3071b4d9c99380308fce966336c7d34aee0a171b964ea2656868f44f8c5cc"
+    }
+  ],
+  "mutable_policy": "Living maps may be updated by coordinator; observations are historical, not frozen proof guards.",
+  "peer_access": "No corresponding NEW active peer files/inventory/hash/metadata accessed.",
+  "mathematical_computation": false
+}

@@ -1,8 +1,8 @@
 {
   "branch": "codex/smmc-b4-research",
   "remote": "https://github.com/masoudkomi/Simon-Marais.git",
-  "phase": "sustained reasoning;JC15/R25/CL14accepted;CM16releasedreconciliationpending;ET12twoOTHERwholeauditsactive",
-  "last_pushed_commit": "f8ae618",
+  "phase": "sustained reasoning;CM16accepted;R26/R20OTHERwholeaudits;ET12rootreconciliationpending;JM16unverified",
+  "last_pushed_commit": "9b6549e",
   "initial_passes_complete": [
     2017,
     2018,
@@ -17,25 +17,25 @@
   "active": [
     {
       "agent": "review_2021_reasoning_j15_r2",
-      "year": 2025,
-      "role": "ET12 OTHER blindwhole2"
+      "year": 2020,
+      "role": "R20 OTHER blindwhole2 after SEALED R26whole1"
     },
     {
       "agent": "review_2022_complexity_r2",
-      "year": 2020,
-      "role": "new R20 actual global handresearch"
+      "year": 2021,
+      "role": "R26 OTHER blindwhole2"
     },
     {
       "agent": "review_2017_coarsening_r1",
-      "year": 2017,
-      "role": "new actual joint-mass R16 handresearch after ET12whole1SEALED"
+      "year": 2020,
+      "role": "R20 OTHER blindwhole1 after JM16 author checkpoint"
     }
   ],
   "initial_passes_pending": [],
   "deferred": [
     2026
   ],
-  "weekly_used_percent_last_observed": 80,
+  "weekly_used_percent_last_observed": 81,
   "weekly_reset_unix": 1792874445,
   "caffeinate": {
     "user_authorization": "keepcomputerawakeuntil90%weeklyquota; permissionforoneagentmustnotinterruptothers",
@@ -43,16 +43,16 @@
     "exec_session": 64368,
     "duration_seconds": null,
     "started_at_utc_approx": "2026-10-17T01:07:50+00:00",
-    "verified_at_local": "2026-10-19T12:13:30+10:00",
+    "verified_at_local": "2026-10-19T12:30:18+10:00",
     "assertion": "PreventUserIdleSystemSleep",
-    "verified_detail": "OWN79293 positive49:05:40 PreventUserIdleSystemSleep, asserting forever; display may sleep",
+    "verified_detail": "OWN79293 positive49:22:29 PreventUserIdleSystemSleep, asserting forever; display may sleep",
     "cleanup": "At90% total weekly usage or actual research termination, stop only owned session64368 via targeted Ctrl-C; PID79293 recorded for fallback. No timed expiry.",
     "previous_session": 14140,
     "previous_exit_code_after_targeted_ctrl_c": 130,
     "next_check_utc": "2026-10-19T03:14:35+00:00"
   },
-  "notes": "2annualcomplete/7unresolved;80%TOTALsame1792874445through90TOTALreserve;actualtokens12:13:30",
-  "observed_at_utc": "2026-10-19T02:13:30+00:00",
+  "notes": "2annualcomplete/7unresolved;81%TOTALsame1792874445through90TOTALreserve;actualtokens12:13:30",
+  "observed_at_utc": "2026-10-19T02:30:18+00:00",
   "coordinator_compute": {
     "status": "all constructor children completed and reaped",
     "complex_complement_child_pid": 37199,
@@ -61,14 +61,15 @@
     "complex_family_count": 6224952,
     "new_complex_extension_audits": "both complete, accepted"
   },
-  "latest_all_nine_report": "progress/status-2026-10-19-1214.md",
-  "coordinator_current": "integrateJC15/R25/CL14;reconcileCM16;completeR26actualdepth2proof",
-  "latest_checkpoint": "progress/checkpoint-2026-10-19-1214.md",
+  "latest_all_nine_report": "progress/status-2026-10-19-1230.md",
+  "coordinator_current": "CM16accepted;reconcileENTIREET12;preserveR26/R20peerembargoes;R27conditionalunverified",
+  "latest_checkpoint": "progress/checkpoint-2026-10-19-1230.md",
   "pending_unverified": [
-    "2019CM16BOTHinitialsreleased/rootENTIREreconciliationpending",
-    "2025ET12whole1SEALED/whole2active",
-    "root2021R26explorationnotcompletepacket",
-    "newB2020R20/C2017R16handresearch",
+    "2025ET12BOTHinitialsreleased/rootENTIREreconciliationpending",
+    "root2021R26author5/32:OTHERwhole1SEALED/whole2active",
+    "2020R20author5/40:OTHERwhole1/whole2active",
+    "2017JM16author5/32:TWOOTHERwholeauditspending",
+    "root2021R27conditionalexploration-notaccepted/forbiddenR26auditors",
     "olderroot2020source/2024degreegapUNVERIFIED"
   ],
   "usage_telemetry_conflict": {
@@ -87,7 +88,7 @@
     "explicit_user_authorization": "keep going till90%of the newly reported weekly window....do not stop",
     "authorization_recorded_at_utc": "2026-10-18T00:00:36.393369+00:00"
   },
-  "weekly_last_observed_at_utc": "2026-10-19 02:13:30 UTC",
+  "weekly_last_observed_at_utc": "2026-10-19 02:30:18 UTC",
   "hourly_reporting": {
     "automation_id": "simon-marais-hourly-research-report",
     "kind": "heartbeat",
@@ -131,5 +132,15 @@
     "no_network_or_inference_for_data_gathering": true,
     "no_install_source_or_configuration_change": true
   },
-  "latest_actual_hourly_snapshot": "progress/hourly-report-2026-10-19-1214.json"
+  "latest_actual_hourly_snapshot": "progress/hourly-report-2026-10-19-1214.json",
+  "r26_assignment_transcription_correction": {
+    "only_launch_text": true,
+    "correct_freeze": {
+      "path": "problems/2021-B4/notes/coordinator-dyadic-return-r26-freeze-v1.json",
+      "bytes": 1605,
+      "sha256": "53490bd1b739294fce389af4b76ccc96339bfcc6471c619bedc3c5df33e6270a"
+    },
+    "author_bytes_unchanged": true,
+    "mathematical_repair": false
+  }
 }

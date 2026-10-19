@@ -1,0 +1,42 @@
+{
+  "status":"candidate proof - unverified; literal read scopes",
+  "constructor":"/root/review_2017_coarsening_r1",
+  "date_UTC":"2026-10-19",
+  "requested":{"model":"gpt-6.1-sol","reasoning":"max","inherited":true},
+  "independent_effective_backend_readback":null,
+  "primary":[
+    {
+      "id":"OFF19","title":"Official SMMC2019 PaperB B4(b)",
+      "url":"https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2019-paper-b_1.pdf",
+      "literal_read":"Fresh original setup63-73 and open(b)81-87; no preliminary proof/other-problem research",
+      "used":"Distinct strings, seed1, alternating end additions, root-growth question only",
+      "binary_hash":null
+    },
+    {
+      "id":"EFP49","title":"Erdos-Feller-Pollard, A property of power series with positive coefficients, Bull.AMS55(1949),201-204",
+      "url":"https://www.renyi.hu/~p_erdos/1949-01.pdf",
+      "literal_read":"Fresh all4 article pages, returned0-132 through author affiliations before following Brunk article; both supplied proofs read with imperfect OCR typography",
+      "hypotheses":"Proper nonnegative aperiodic probability kernel; finite or infinite first moment; local coefficient limit reciprocal mean",
+      "role":"Classical background and normalization check only; no NEW local renewal theorem is needed or actual regime selected",
+      "not_read":"No visual rendering, no fresh proof audit of cited Wiener theorem or other external chains",
+      "failed_access":"combinatorica.hu author-copy open promptly returned502; alternate primary Renyi archive succeeded",
+      "binary_hash":null
+    }
+  ],
+  "direct_accepted_inputs":[
+    {"id":"R7","body":"problems/2019-B4/proofs/reviewed-reasoning-return-r7-v1.1.md","authority_prefix":"problems/2019-B4/reviews/reasoning-return-r7-acceptance","fresh_read":"COMPLETE body and EACH MDJSON","used":"Actual F, trueR, exact endpoint identities and exhaustive cumulative normalization/trichotomy"},
+    {"id":"AT","body":"problems/2019-B4/proofs/reviewed-reasoning-cut-transfer-r6-v1.1.md","authority_prefix":"problems/2019-B4/reviews/reasoning-cut-transfer-r6-acceptance","fresh_read":"COMPLETE body recovered in sections after clipped combined display, and EACH MDJSON","used":"Exact actual full viable-area convolution and all-regime mean limits; V not Q"},
+    {"id":"M","body":"problems/2019-B4/proofs/reviewed-moment-tail-v1.1.md","authority_prefix":"problems/2019-B4/reviews/moment-tail-acceptance","fresh_read":"COMPLETE body and EACH MDJSON","used":"Actual f4=1 from exact subset agreement and accepted lowerlambda>1.76522347; no old certificate rerun"},
+    {"id":"FL15","body":"problems/2019-B4/proofs/reviewed-reasoning-full-law-return-r15-v1.1.md","authority_prefix":"problems/2019-B4/reviews/reasoning-full-law-return-r15-acceptance","fresh_read":"COMPLETE body and EACH MDJSON","used":"Comparison boundaries only: sharp pointwise ceiling, full exponential tail near ceiling, earliermean1/6","old_role":"C constructor, independently accepted by two OTHER whole auditors; no new self-recertification"}
+  ],
+  "comparison_only":[
+    {"id":"AU","authority_prefix":"problems/2019-B4/reviews/reasoning-occupation-return-r1-acceptance","fresh_read":"EACH COMPLETE current MDJSON, not fresh entire proof body","boundary":"Subquadratic full-entropy LOWER constructions do not establish positive limiting mass"},
+    {"id":"AR","authority_prefix":"problems/2019-B4/reviews/reasoning-area-return-r2-acceptance","fresh_read":"EACH COMPLETE current MDJSON, not fresh entire proof body","boundary":"Uniform alternating-first-tape subclass is exponentially rare; its tail is not a full law"}
+  ],
+  "new_external_theorem_premise":false,
+  "standard_method_attribution":"Residual Cauchy-Schwarz/variance inequality and ordinary Markov counting are standard; new claim is the actual-kernel restriction and full-law consequences, with no novelty claim",
+  "no_mathcode_CAS_scan_test_old_source_author_helper_replay":true,
+  "new_binary_download_cache_or_Git_write":false,
+  "TWO_OTHER_whole_audits_required":true,
+  "constructor_excluded":true
+}

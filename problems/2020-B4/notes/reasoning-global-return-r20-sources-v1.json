@@ -1,0 +1,102 @@
+{
+  "schema": "R20-source-scope-v1",
+  "created_utc": "2026-10-19T02:23:32.280972+00:00",
+  "status": "candidate proof - unverified; two OTHER whole audits required",
+  "role": {
+    "constructor": "B /root/review_2022_complexity_r2",
+    "root": "generic assignment only; no new R20 inference",
+    "old_roles": "B constructed R18/AR19/SQ14 and other accepted inputs; no independent self-recertification",
+    "requested_model": "gpt-6.1-sol",
+    "requested_reasoning": "max",
+    "verified_effective_readback": null
+  },
+  "accepted_inputs": [
+    {
+      "body": "problems/2020-B4/proofs/reviewed-reasoning-actual-return-r18-v1.1.md",
+      "acceptance_md": "problems/2020-B4/reviews/reasoning-actual-return-r18-acceptance.md",
+      "acceptance_json": "problems/2020-B4/reviews/reasoning-actual-return-r18-acceptance.json",
+      "read_scope": "COMPLETE current body and EACH authority; clipped339--510 recovered before final reasoning",
+      "operative_use": "Actual cyclic normalization, exact integral and ALL-character scope boundaries; not a composite sufficiency theorem"
+    },
+    {
+      "body": "problems/2020-B4/proofs/reviewed-reasoning-realization-return-r19-v1.1.md",
+      "acceptance_md": "problems/2020-B4/reviews/reasoning-realization-return-r19-acceptance.md",
+      "acceptance_json": "problems/2020-B4/reviews/reasoning-realization-return-r19-acceptance.json",
+      "read_scope": "COMPLETE current body and EACH authority; final611--619 recovered",
+      "operative_use": "Full-field quadratic unit repair remains mandatory; general content/reciprocal theorem needs ALL orders; no family exclusion"
+    }
+  ],
+  "primary_sources": [
+    {
+      "id": "official2020",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2020-paper-b_1.pdf",
+      "read_scope": "Fresh setup/open(b)98--105; complete saved statement. No preliminary proof or neighboring problem investigated.",
+      "use": "Exact open domain only",
+      "raw_pdf_sha256": null
+    },
+    {
+      "id": "Turyn1965",
+      "title": "Character sums and difference sets",
+      "url": "https://msp.org/pjm/1965/15-1/pjm-v15-n1-p32-p.pdf",
+      "read_scope": "COMPLETE Lemma5 statement/proof605--625, surrounding572--636; other returned fragments not whole-paper certification. Screenshot had no inspectable pixels.",
+      "use": "Attributed existing coefficient bound and overlap comparison only; new proof is self-contained.",
+      "raw_pdf_sha256": null
+    },
+    {
+      "id": "LamLeung1995",
+      "url": "https://arxiv.org/pdf/math/9511209",
+      "read_scope": "Theorem2.2 and full proof153--264; Theorem3.3/full proof381--413; explicit characteristic0 warning95--96.",
+      "use": "Classical kernel context; NOT imported as finite-field classification",
+      "whole_paper_read": false,
+      "original_earlier_reference_proofs_read": false,
+      "raw_pdf_sha256": null
+    },
+    {
+      "id": "MahatabSampath2015",
+      "url": "https://arxiv.org/pdf/1401.7696",
+      "read_scope": "Returned0--449, including complete Lemmas2.1/2.2 and Theorem2.4 proofs; not complete later Smith-form proof/algorithm chain.",
+      "use": "Classical integral CRT warning; no algorithm or mathematical certificate executed",
+      "raw_pdf_sha256": null
+    },
+    {
+      "id": "ReedOrthogonality",
+      "url": "https://people.reed.edu/~jerry/361/lectures/kummer.pdf",
+      "read_scope": "Fresh COMPLETE Appendix9.2,1505--1553; other returned nearby text not whole-note audit",
+      "use": "Orthogonality comparison; characteristic-ell geometric sums and inverse proved in main",
+      "raw_pdf_sha256": null
+    },
+    {
+      "id": "AlexeevMixon2026",
+      "url": "https://arxiv.org/pdf/2510.19804",
+      "read_scope": "Returned299--335 only",
+      "use": "Qualified cyclic/PPC versus Desarguesian context; no exhaustive status or priority claim",
+      "raw_pdf_sha256": null
+    }
+  ],
+  "literature_limit": "No claim that the proposed refinement is unpublished; no original de Bruijn/Redei/Schoenberg or complete current literature audit.",
+  "new_claims": [
+    "GR20A radical blocks and primitive characteristic-ell vanishing",
+    "GR20B Sidon obstruction including content2",
+    "GR20C actual single-primitive content1 and reciprocal iff in omega(v)<=2 sector",
+    "GR20D fixed contentful primitive ideal cannot have any actual completion"
+  ],
+  "remaining_gap": "Three-or-more-prime conductors, content1 alternatives, actual mixed-q class/unit choices and full compatible binary realization unresolved.",
+  "preservation_baseline": "problems/2020-B4/notes/reasoning-global-return-r20-baseline-v1.json",
+  "access": {
+    "public_free_only": true,
+    "pdf_download_or_cache_write": false,
+    "redistribution": false,
+    "fees_contact_bypass": false
+  },
+  "budget": {
+    "authorized_reset": 1792874445,
+    "ceiling_total_weekly_used_percent": 90,
+    "last_direct_total_weekly_used_percent": 81,
+    "last_direct_utc": "2026-10-19 02:20:00 UTC",
+    "window_minutes": 10080,
+    "ordinary_usage_allowed": true,
+    "account_label": "...ac3a",
+    "reserve_required": true,
+    "automatic_later_window_spending": false
+  }
+}

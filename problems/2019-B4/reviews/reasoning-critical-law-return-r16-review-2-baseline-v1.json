@@ -1,0 +1,304 @@
+{
+  "created_UTC": "2026-10-19T02:09:10.796795+00:00",
+  "status": "OTHER initially blind WHOLE2; findings SEALED",
+  "ALL_obligations": 32,
+  "necessary_immutable_guards": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-critical-law-return-r16-admin-v1.py",
+      "bytes": 6162,
+      "sha256": "3f51af9f2ff036f981d4fcff49d832a60aed7db00dd715e10f9e8421967b14c6"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-critical-law-return-r16-baseline-v1.json",
+      "bytes": 5496,
+      "sha256": "e56a588af0e844425cc0d5c65dcb29c43c0d548691cc5feac8a3f759ed8f5247"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-critical-law-return-r16-candidate-v1.md",
+      "bytes": 22118,
+      "sha256": "cf3bc455ab866ec0cc0ddaeb6a18fa93b7b4427dcb2c781c86b28081e98af77b"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-critical-law-return-r16-freeze-v1.json",
+      "bytes": 2415,
+      "sha256": "b293b0aba2ac626219e7e4fd170d6a9780528446a860d7cada5edee81cc3ccda"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-critical-law-return-r16-sources-v1.json",
+      "bytes": 4085,
+      "sha256": "f11b288e5a09ceabd30e56e34b465afcd9ca6634bce2d59276452f2b07868913"
+    },
+    {
+      "path": "problems/2019-B4/proofs/reviewed-moment-tail-v1.1.md",
+      "bytes": 9630,
+      "sha256": "b9d934da65eedf4514ef7883e29dda98ee846982e89c8e3ee677f2c96bff2ee8"
+    },
+    {
+      "path": "problems/2019-B4/proofs/reviewed-reasoning-area-return-r2-v1.1.md",
+      "bytes": 25477,
+      "sha256": "98297c1d51c4adb78e5083a710bf66e7147013be846b17a5dd41407a90c91fd3"
+    },
+    {
+      "path": "problems/2019-B4/proofs/reviewed-reasoning-cut-transfer-r6-v1.1.md",
+      "bytes": 25072,
+      "sha256": "f43bd14fbec8b827dadbdbc33161e34aad3082f946a858bbf8d78880d0024ff8"
+    },
+    {
+      "path": "problems/2019-B4/proofs/reviewed-reasoning-full-law-return-r15-v1.1.md",
+      "bytes": 39017,
+      "sha256": "50c41a30e785a51c7cfe51cfeb56a8f301a53b214c91d9cfa1cbd0d0bf526e31"
+    },
+    {
+      "path": "problems/2019-B4/proofs/reviewed-reasoning-occupation-return-r1-v1.1.md",
+      "bytes": 28991,
+      "sha256": "1fa9770945b5e1b74f6ef7e6016cdf6804a73034b17433251e9a62a2895f2004"
+    },
+    {
+      "path": "problems/2019-B4/proofs/reviewed-reasoning-return-r7-v1.1.md",
+      "bytes": 17727,
+      "sha256": "4fe222b8b1d89b6b3d66bb16c6a1985390d537eee55bb42bfefdb2d4821e351a"
+    },
+    {
+      "path": "problems/2019-B4/reviews/moment-tail-acceptance.json",
+      "bytes": 2076,
+      "sha256": "794c5ce1bb7793cb597bc55b40b94bb451353e742fadf2a4100b0a18782f09f2"
+    },
+    {
+      "path": "problems/2019-B4/reviews/moment-tail-acceptance.md",
+      "bytes": 1912,
+      "sha256": "d3647718f04eb1a67dce90b5ffb103cdefc4400dc86d64103e828a199b6e064e"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-area-return-r2-acceptance.json",
+      "bytes": 3352,
+      "sha256": "03357e2342d49f2dd3c114d495aceb78140669ac4053089e96f62907a14aa9d1"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-area-return-r2-acceptance.md",
+      "bytes": 5348,
+      "sha256": "bd55e4f175c94e5ff7caa3773d7133d57e83721d378bf8c7049095b5f479cda7"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-cut-transfer-r6-acceptance.json",
+      "bytes": 4181,
+      "sha256": "66ab1329c64629d576612dc9f08b550ccdd23fba38ff1cff656b0c5ff6e7b941"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-cut-transfer-r6-acceptance.md",
+      "bytes": 4947,
+      "sha256": "26a1cd4f4b2ab66fc6b1a9ba1454e5939673b6e56bc1424a026ece25067ccbc6"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-full-law-return-r15-acceptance.json",
+      "bytes": 3693,
+      "sha256": "c97de7723a4e3ee16615964bbae99445c62b31ccabf3e52df40b297212486596"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-full-law-return-r15-acceptance.md",
+      "bytes": 5800,
+      "sha256": "388c8463df8876148cb1050cf97264b6342bcdb3211735145c579120046db911"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-occupation-return-r1-acceptance.json",
+      "bytes": 5057,
+      "sha256": "06d099435d4a58338a43711489889c85927baca61567206dd0b44221891870c2"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-occupation-return-r1-acceptance.md",
+      "bytes": 7068,
+      "sha256": "bb1c542b178da126598462e0f800ae6bafff3f58c1ab2158c86ac2ca55788de8"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-return-r7-acceptance.json",
+      "bytes": 2560,
+      "sha256": "94ca56672f32f4624af71f41c48ddcf8757f1316b956586f6834cd1d7ee3b38b"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-return-r7-acceptance.md",
+      "bytes": 3622,
+      "sha256": "726a164f245effafcd1473522eac4fa58418e69fdfba858431685fbf15949234"
+    },
+    {
+      "path": "problems/2019-B4/statement.md",
+      "bytes": 1252,
+      "sha256": "53d4201dca8bc4a77d995e3df14f95dd146e2df0c82d3b6447ad35a348e89de9"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-exception-return-r12-freeze-v1.json",
+      "bytes": 2517,
+      "sha256": "79e7c6bd6746a38b1cceb44a773f7b267795560ed7439a88564994ec93e3d68b"
+    }
+  ],
+  "guard_summary": {
+    "occurrences": 26,
+    "unique_paths": 26,
+    "canonical_deduplicated_sha256": "a8db2a156ca5449fd22ce11de81be1c445ff101a8863943932cdd4426959b1fa"
+  },
+  "current_accepted_interfaces": [
+    {
+      "body": {
+        "path": "problems/2019-B4/proofs/reviewed-reasoning-return-r7-v1.1.md",
+        "bytes": 17727,
+        "sha256": "4fe222b8b1d89b6b3d66bb16c6a1985390d537eee55bb42bfefdb2d4821e351a"
+      },
+      "authority_md": {
+        "path": "problems/2019-B4/reviews/reasoning-return-r7-acceptance.md",
+        "bytes": 3622,
+        "sha256": "726a164f245effafcd1473522eac4fa58418e69fdfba858431685fbf15949234"
+      },
+      "authority_json": {
+        "path": "problems/2019-B4/reviews/reasoning-return-r7-acceptance.json",
+        "bytes": 2560,
+        "sha256": "94ca56672f32f4624af71f41c48ddcf8757f1316b956586f6834cd1d7ee3b38b"
+      },
+      "FULL_body_and_EACH_current_MDJSON_MODEL_read": true,
+      "older_histories_NOT_expanded": true
+    },
+    {
+      "body": {
+        "path": "problems/2019-B4/proofs/reviewed-reasoning-cut-transfer-r6-v1.1.md",
+        "bytes": 25072,
+        "sha256": "f43bd14fbec8b827dadbdbc33161e34aad3082f946a858bbf8d78880d0024ff8"
+      },
+      "authority_md": {
+        "path": "problems/2019-B4/reviews/reasoning-cut-transfer-r6-acceptance.md",
+        "bytes": 4947,
+        "sha256": "26a1cd4f4b2ab66fc6b1a9ba1454e5939673b6e56bc1424a026ece25067ccbc6"
+      },
+      "authority_json": {
+        "path": "problems/2019-B4/reviews/reasoning-cut-transfer-r6-acceptance.json",
+        "bytes": 4181,
+        "sha256": "66ab1329c64629d576612dc9f08b550ccdd23fba38ff1cff656b0c5ff6e7b941"
+      },
+      "FULL_body_and_EACH_current_MDJSON_MODEL_read": true,
+      "older_histories_NOT_expanded": true
+    },
+    {
+      "body": {
+        "path": "problems/2019-B4/proofs/reviewed-moment-tail-v1.1.md",
+        "bytes": 9630,
+        "sha256": "b9d934da65eedf4514ef7883e29dda98ee846982e89c8e3ee677f2c96bff2ee8"
+      },
+      "authority_md": {
+        "path": "problems/2019-B4/reviews/moment-tail-acceptance.md",
+        "bytes": 1912,
+        "sha256": "d3647718f04eb1a67dce90b5ffb103cdefc4400dc86d64103e828a199b6e064e"
+      },
+      "authority_json": {
+        "path": "problems/2019-B4/reviews/moment-tail-acceptance.json",
+        "bytes": 2076,
+        "sha256": "794c5ce1bb7793cb597bc55b40b94bb451353e742fadf2a4100b0a18782f09f2"
+      },
+      "FULL_body_and_EACH_current_MDJSON_MODEL_read": true,
+      "older_histories_NOT_expanded": true
+    },
+    {
+      "body": {
+        "path": "problems/2019-B4/proofs/reviewed-reasoning-full-law-return-r15-v1.1.md",
+        "bytes": 39017,
+        "sha256": "50c41a30e785a51c7cfe51cfeb56a8f301a53b214c91d9cfa1cbd0d0bf526e31"
+      },
+      "authority_md": {
+        "path": "problems/2019-B4/reviews/reasoning-full-law-return-r15-acceptance.md",
+        "bytes": 5800,
+        "sha256": "388c8463df8876148cb1050cf97264b6342bcdb3211735145c579120046db911"
+      },
+      "authority_json": {
+        "path": "problems/2019-B4/reviews/reasoning-full-law-return-r15-acceptance.json",
+        "bytes": 3693,
+        "sha256": "c97de7723a4e3ee16615964bbae99445c62b31ccabf3e52df40b297212486596"
+      },
+      "FULL_body_and_EACH_current_MDJSON_MODEL_read": true,
+      "older_histories_NOT_expanded": true
+    },
+    {
+      "body": {
+        "path": "problems/2019-B4/proofs/reviewed-reasoning-area-return-r2-v1.1.md",
+        "bytes": 25477,
+        "sha256": "98297c1d51c4adb78e5083a710bf66e7147013be846b17a5dd41407a90c91fd3"
+      },
+      "authority_md": {
+        "path": "problems/2019-B4/reviews/reasoning-area-return-r2-acceptance.md",
+        "bytes": 5348,
+        "sha256": "bd55e4f175c94e5ff7caa3773d7133d57e83721d378bf8c7049095b5f479cda7"
+      },
+      "authority_json": {
+        "path": "problems/2019-B4/reviews/reasoning-area-return-r2-acceptance.json",
+        "bytes": 3352,
+        "sha256": "03357e2342d49f2dd3c114d495aceb78140669ac4053089e96f62907a14aa9d1"
+      },
+      "FULL_body_and_EACH_current_MDJSON_MODEL_read": true,
+      "older_histories_NOT_expanded": true
+    },
+    {
+      "body": {
+        "path": "problems/2019-B4/proofs/reviewed-reasoning-occupation-return-r1-v1.1.md",
+        "bytes": 28991,
+        "sha256": "1fa9770945b5e1b74f6ef7e6016cdf6804a73034b17433251e9a62a2895f2004"
+      },
+      "authority_md": {
+        "path": "problems/2019-B4/reviews/reasoning-occupation-return-r1-acceptance.md",
+        "bytes": 7068,
+        "sha256": "bb1c542b178da126598462e0f800ae6bafff3f58c1ab2158c86ac2ca55788de8"
+      },
+      "authority_json": {
+        "path": "problems/2019-B4/reviews/reasoning-occupation-return-r1-acceptance.json",
+        "bytes": 5057,
+        "sha256": "06d099435d4a58338a43711489889c85927baca61567206dd0b44221891870c2"
+      },
+      "FULL_body_and_EACH_current_MDJSON_MODEL_read": true,
+      "older_histories_NOT_expanded": true
+    }
+  ],
+  "author_freeze": {
+    "path": "problems/2019-B4/notes/reasoning-critical-law-return-r16-freeze-v1.json",
+    "bytes": 2415,
+    "sha256": "b293b0aba2ac626219e7e4fd170d6a9780528446a860d7cada5edee81cc3ccda"
+  },
+  "author_historical_summary_bound_NOT_expanded": {
+    "occurrences": 23,
+    "unique_paths": 23,
+    "digest_sha256": "d172072b9f651ea38c8e879d6972e99194e4deb44fa19e5d541f09ab83fed53f"
+  },
+  "author_R25_parent_filename_byte_hash_receipt_disclosed": true,
+  "underlying_R25_parent_files_NOT_inventoried_opened_read_or_hashed": true,
+  "immediate_OWN_ET12_parent": {
+    "path": "problems/2025-B4/notes/reasoning-exception-return-r12-freeze-v1.json",
+    "bytes": 2517,
+    "sha256": "79e7c6bd6746a38b1cceb44a773f7b267795560ed7439a88564994ec93e3d68b"
+  },
+  "own_parent_guard_summary_NOT_expanded": {
+    "occurrences": 10,
+    "unique_paths": 10,
+    "canonical_deduplicated_sha256": "4838462d3ae322fccaadecc02c490c31ac51483647b3e4fa89a8441183f55fd1"
+  },
+  "mutable_research_maps_NOT_immutable_guards": true,
+  "old_mutable_observations_NOT_rewritten": true,
+  "NEW_corresponding_CM16_peer_finding_file_actual_inventory_hash_meta_commentary_access": false,
+  "root_R26_access": false,
+  "requested": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independent_effective_backend_readback": null,
+  "quota": {
+    "usedPercent": 79,
+    "observed_UTC": "2026-10-19 02:08:05 UTC",
+    "resetsAt": 1792874445,
+    "windowDurationMins": 10080,
+    "ordinaryUsageAllowed": true,
+    "legacy_by_limit_agree": true,
+    "account_label": "...ac3a",
+    "TOTAL_ceiling": 90,
+    "integration_review_reserve": true,
+    "automatic_later_window_spending": false
+  },
+  "mathematical_program_CAS_scan_test_source_author_old_helper_freezer_certificate_replay": false,
+  "Git_shared_old_cache_mutation_spawn_charge_contact_bypass": false
+}

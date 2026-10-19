@@ -1,0 +1,125 @@
+{
+  "created_UTC": "2026-10-19T02:24:02.330444+00:00",
+  "status": "candidate proof - unverified",
+  "constructor": "/root/review_2017_coarsening_r1",
+  "constructor_excluded_from_two_OTHER_whole_audits": true,
+  "ALL_obligations": 32,
+  "necessary_guards_ONCE": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2017-B4/statement.md",
+      "bytes": 2140,
+      "sha256": "e459750064b4e25e3eaa71f25f236c046548147e415b06d8bd097839020228f3"
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-reasoning-pressure-return-r11-v1.1.md",
+      "bytes": 26687,
+      "sha256": "56688cd6030db910fbbc9162436b25acbf61a69869e2501dbd6f50b088bc3b60"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-pressure-return-r11-acceptance.md",
+      "bytes": 6651,
+      "sha256": "c280687595657001f2c5a92f2d9d430ad2bf39b72eb89c0e40308dedd4f33580"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-pressure-return-r11-acceptance.json",
+      "bytes": 3987,
+      "sha256": "85f5f93a8294af528f487ca9d62eadbc054c98db1ea312e48de9edd8c02547e8"
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-reasoning-concentration-return-r12-v1.1.md",
+      "bytes": 24123,
+      "sha256": "15823ad1a7c54b8e06de3692f19d3395d2458786dcb8d2d51a2eb3c592734554"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-concentration-return-r12-acceptance.md",
+      "bytes": 5074,
+      "sha256": "8ab812c05255394241048061650c6ee720a3506f2acf11fbbbc3cccfaccf7d83"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-concentration-return-r12-acceptance.json",
+      "bytes": 3824,
+      "sha256": "f83181566e126280d81c543112c169d80234d6f0aa3995ee3b8abce95f9bc844"
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-reasoning-lower-return-r14-v1.1.md",
+      "bytes": 24422,
+      "sha256": "88eed98d9ae634700fd23d571aad68cb4c59fd2fcd45e44dc48f9634c3d208c7"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-lower-return-r14-acceptance.md",
+      "bytes": 5661,
+      "sha256": "0e09166d322715b8f35347a985fc1cef64af41df1f6bb4b09f689a77449fdfba"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-lower-return-r14-acceptance.json",
+      "bytes": 3678,
+      "sha256": "b2c74f0f00ea445f385736f01cc80548b46f291866ec781313ac560673ee0fc0"
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-reasoning-joint-return-r15-v1.1.md",
+      "bytes": 35630,
+      "sha256": "b35e0a5b0bbefbafece8467d010ffe6fdb33629ee45c76aeff78bfdef5e05569"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-joint-return-r15-acceptance.md",
+      "bytes": 5428,
+      "sha256": "40943693a781354ed60d831aeaf494b26ddb8e592d9ee0dcd8b2a34bed673cbc"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-joint-return-r15-acceptance.json",
+      "bytes": 3121,
+      "sha256": "52737f14fec5f456c6509d8ca079873e50a58a5d943980f23e1a6d86d79cbeb0"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-exception-return-r12-review-1-manifest-v1.json",
+      "bytes": 2377,
+      "sha256": "ab8caabc5434667f83f27566e5d75eeb525435539671696d0470344b8a6638ef"
+    }
+  ],
+  "guard_summary": {
+    "occurrences": 15,
+    "unique_paths": 15,
+    "canonical_deduplicated_sha256": "5c434f8f8c2173a53a8b86c9b88962513f47d9d1786876772ec4dd1e8045e1ab"
+  },
+  "immediate_OWN_parent_manifest": {
+    "path": "problems/2025-B4/reviews/reasoning-exception-return-r12-review-1-manifest-v1.json",
+    "bytes": 2377,
+    "sha256": "ab8caabc5434667f83f27566e5d75eeb525435539671696d0470344b8a6638ef"
+  },
+  "parent_guard_summary_BOUND_NOT_EXPANDED": {
+    "occurrences": 16,
+    "unique_paths": 16,
+    "canonical_deduplicated_sha256": "90973a5231128d3555b0b645dbb551c2e9cde628af70d0fb60ffd04f27bb187b"
+  },
+  "parent_payloads_NOT_reinventoried_or_rehashed": true,
+  "FULL_four_accepted_bodies_EACH_current_MDJSON_MODEL_read": true,
+  "older_C_construction_review_roles_not_self_recertification": true,
+  "root_NEW_inference_contribution": false,
+  "mutable_research_maps_NOT_immutable_guards": true,
+  "requested": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independent_effective_backend_readback": null,
+  "quota": {
+    "usedPercent": 81,
+    "observed_UTC": "2026-10-19 02:20:32 UTC",
+    "resetsAt": 1792874445,
+    "windowDurationMins": 10080,
+    "ordinaryUsageAllowed": true,
+    "legacy_by_limit_agree": true,
+    "TOTAL_ceiling": 90,
+    "review_integration_reserve": true,
+    "automatic_later_window_spending": false
+  },
+  "NEW_ET12_peer_file_inventory_hash_metadata_access": false,
+  "root_R13_tensor_or_R26_exploration_access": false,
+  "mathematical_program_CAS_scan_test_optimizer_source_author_old_helper_certificate_replay": false,
+  "Git_shared_old_cache_mutation_spawn_charge_contact_bypass": false
+}

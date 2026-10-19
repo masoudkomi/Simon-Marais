@@ -1,0 +1,42 @@
+{
+  "frozen_UTC": "2026-10-19T02:20:20.848221+00:00",
+  "status": "candidate proof - unverified",
+  "constructor": "/root",
+  "constructor_excluded": true,
+  "TWO_OTHER_initially_blind_ENTIRE_whole_audits_required": true,
+  "ENTIRE_files": 5,
+  "whole_obligations": 32,
+  "payloads": [
+    {
+      "path": "problems/2021-B4/notes/coordinator-dyadic-return-r26-candidate-v1.md",
+      "bytes": 20650,
+      "sha256": "892743f6ecea716e9e704e80112338c375c5b83dd515f44bdc0f71f648c80f92"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-dyadic-return-r26-sources-v1.json",
+      "bytes": 1803,
+      "sha256": "9d2109bdbfe4a8a04aa2f432960a69895fe24c1d2e6812753b9652f7ae4e0fb7"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-dyadic-return-r26-admin-v1.py",
+      "bytes": 4311,
+      "sha256": "fae8febf3f3853e3aa9469518c30d662e5a0cecd2d1ab9655d066fe913ab7da1"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-dyadic-return-r26-baseline-v1.json",
+      "bytes": 3714,
+      "sha256": "6202dddfa4e5ce81f1b1361fe1b9798029c2507fe327eb15ea2cb38436eaf6d2"
+    }
+  ],
+  "guard_occurrences": 14,
+  "guard_unique_paths": 14,
+  "compact_own_parent": {
+    "path": "problems/2021-B4/notes/coordinator-dyadic-depth-return-r25-freeze-v1.json",
+    "bytes": 1364,
+    "sha256": "fa65dcb84789d0db25218940ff5957e234d10cf30a699973d255c9b3c55ab5b6"
+  },
+  "FULL_final_ALL4_payload_MODEL_readbacks_completed": true,
+  "FULL_freeze_MODEL_readback_then_SEPARATE_readonly_verify_REQUIRED": true,
+  "new_R26_peer_access": false,
+  "no_mathematical_program_CAS_scan_test_oldreplay": true
+}

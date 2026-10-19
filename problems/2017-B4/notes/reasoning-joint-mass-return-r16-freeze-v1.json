@@ -1,0 +1,70 @@
+{
+  "frozen_UTC": "2026-10-19T02:25:05.471473+00:00",
+  "status": "candidate proof - unverified",
+  "constructor": "/root/review_2017_coarsening_r1",
+  "constructor_excluded": true,
+  "two_OTHER_ENTIRE_whole_audits_required": true,
+  "claims": [
+    "JM16A",
+    "JM16B",
+    "JM16C"
+  ],
+  "ENTIRE_files": 5,
+  "ALL_obligations": 32,
+  "payloads": [
+    {
+      "path": "problems/2017-B4/notes/reasoning-joint-mass-return-r16-candidate-v1.md",
+      "bytes": 22236,
+      "sha256": "f202e568a7f48810bfe0d3b567338477c91f09023267eb1e15b356722737b886"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-joint-mass-return-r16-sources-v1.json",
+      "bytes": 4222,
+      "sha256": "c59436cfa0a62ee1bb5d8f3465f603a248c99d702baaf999e7aa5bd59afb1ae7"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-joint-mass-return-r16-admin-v1.py",
+      "bytes": 7518,
+      "sha256": "c9e89a65c1485b89849b535426054d0cd23723fcaa21d8110a8396d928fc985b"
+    },
+    {
+      "path": "problems/2017-B4/notes/reasoning-joint-mass-return-r16-baseline-v1.json",
+      "bytes": 4920,
+      "sha256": "4fab5117d1c80757f5f6db40f849ba4d8325c3185820b74d85f24760fe95aff2"
+    }
+  ],
+  "guard_summary": {
+    "occurrences": 15,
+    "unique_paths": 15,
+    "canonical_deduplicated_sha256": "5c434f8f8c2173a53a8b86c9b88962513f47d9d1786876772ec4dd1e8045e1ab"
+  },
+  "immediate_OWN_parent_manifest": {
+    "path": "problems/2025-B4/reviews/reasoning-exception-return-r12-review-1-manifest-v1.json",
+    "bytes": 2377,
+    "sha256": "ab8caabc5434667f83f27566e5d75eeb525435539671696d0470344b8a6638ef"
+  },
+  "FULL_final_ALL4_payload_MODEL_readbacks_completed": true,
+  "FULL_manifest_MODEL_readback_THEN_SEPARATE_readonly_verify_REQUIRED": true,
+  "requested": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independent_effective_backend_readback": null,
+  "quota": {
+    "usedPercent": 81,
+    "observed_UTC": "2026-10-19 02:20:32 UTC",
+    "resetsAt": 1792874445,
+    "windowDurationMins": 10080,
+    "ordinaryUsageAllowed": true,
+    "legacy_by_limit_agree": true,
+    "TOTAL_ceiling": 90,
+    "review_integration_reserve": true,
+    "automatic_later_window_spending": false
+  },
+  "root_NEW_inference_contribution": false,
+  "NEW_ET12_peer_file_inventory_hash_metadata_access": false,
+  "root_R13_tensor_or_R26_exploration_access": false,
+  "no_mathematical_program_or_old_replay": true,
+  "Git_shared_old_cache_mutation": false
+}

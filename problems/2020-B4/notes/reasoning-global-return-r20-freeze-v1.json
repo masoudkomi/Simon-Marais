@@ -1,0 +1,48 @@
+{
+  "schema": "R20-complete-author-freeze-v1",
+  "frozen_utc": "2026-10-19T02:24:36.840155+00:00",
+  "status": "candidate proof - unverified",
+  "whole_obligations": 40,
+  "claims": [
+    "GR20A",
+    "GR20B",
+    "GR20C",
+    "GR20D"
+  ],
+  "constructor_excluded_from_reviews": "B",
+  "other_whole_reviews_required": 2,
+  "requested_model": "gpt-6.1-sol",
+  "requested_reasoning": "max",
+  "verified_effective_readback": null,
+  "payloads": [
+    {
+      "path": "problems/2020-B4/notes/reasoning-global-return-r20-candidate-v1.md",
+      "bytes": 24526,
+      "sha256": "f424c011ac4c397898b39e2488e736728a73b57fcda5d60adaa0f348c0c2e71a"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-global-return-r20-sources-v1.json",
+      "bytes": 5157,
+      "sha256": "a1c69242d744832e2faacfc2d4ae2255a1d66b26f38e24239e5e3fda193f11b5"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-global-return-r20-admin-v1.py",
+      "bytes": 12134,
+      "sha256": "927dac809decf82edeed2fb5ef8d0296ed80d97b71a6e11a6c72b8126b94652e"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-global-return-r20-baseline-v1.json",
+      "bytes": 3487,
+      "sha256": "5489a344fd6d6ffeef050d858c621e5683c7b8e28bcd29add62e949f85ef158a"
+    }
+  ],
+  "entire_file_count_including_manifest": 5,
+  "parent_baseline": "problems/2020-B4/notes/reasoning-global-return-r20-baseline-v1.json",
+  "necessary_guard_occurrences": 10,
+  "necessary_guard_deduplicated_paths": 10,
+  "final_payload_model_readback": "Completed on final bytes before this freeze; manifest MODEL readback then SEPARATE read-only verification must follow.",
+  "mathematical_executables_or_scans": false,
+  "authorized_weekly_reset": 1792874445,
+  "total_weekly_stop_percent": 90,
+  "reserve_required": true
+}

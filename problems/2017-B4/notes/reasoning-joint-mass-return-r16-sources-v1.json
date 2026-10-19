@@ -1,0 +1,30 @@
+{
+  "status": "candidate proof - unverified",
+  "constructor": "/root/review_2017_coarsening_r1",
+  "verification_date_UTC": "2026-10-19",
+  "claims": ["JM16A uniform actual initial-fan joint cost", "JM16B whole guarded-union low-J count", "JM16C balanced positive-entropy family pays J"],
+  "accepted_inputs": [
+    {"prefix": "reasoning-pressure-return-r11", "body": "problems/2017-B4/proofs/reviewed-reasoning-pressure-return-r11-v1.1.md", "FULL_body_and_EACH_current_authority_MDJSON_MODEL_read": true, "use": "Actual fixed normalized flows, constants and original degree statistic", "old_role": "C OLD constructor; not independently self-recertified"},
+    {"prefix": "reasoning-concentration-return-r12", "body": "problems/2017-B4/proofs/reviewed-reasoning-concentration-return-r12-v1.1.md", "FULL_body_and_EACH_current_authority_MDJSON_MODEL_read": true, "use": "Actual J nonnegativity, J>=S/2-(k-2)ln2 and exact marked canonical tangent-fan S", "old_role": "C OLD constructor; not independently self-recertified"},
+    {"prefix": "reasoning-lower-return-r14", "body": "problems/2017-B4/proofs/reviewed-reasoning-lower-return-r14-v1.1.md", "FULL_body_and_EACH_current_authority_MDJSON_MODEL_read": true, "use": "EXACT guarded fixed-fan injection, initial A fan, uniform D and balanced entropy alpha", "old_role": "C OLD constructor; not independently self-recertified"},
+    {"prefix": "reasoning-joint-return-r15", "body": "problems/2017-B4/proofs/reviewed-reasoning-joint-return-r15-v1.1.md", "FULL_body_and_EACH_current_authority_MDJSON_MODEL_read": true, "use": "Context/failed-route boundary only; not a new mathematical premise", "old_role": "C OLD independent whole1 reviewer"}
+  ],
+  "primary_sources": [
+    {"id": "OFFICIAL2017", "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2017-paper-2_1.pdf", "fresh_read": "B4 lines48--57", "use": "Whole fixed-polygon count and exact scalar target only"},
+    {"id": "FV2011", "authors": ["Stefan Felsner", "Pavel Valtr"], "title": "Coding and counting arrangements of pseudolines", "url": "https://page.math.tu-berlin.de/~felsner/Paper/new-pla.pdf", "fresh_reads": ["Definitions30--48", "Canonical labels101--105 and representations106--142", "COMPLETE insertion statement148--164", "COMPLETE Section4 count/completion634--694"], "use": "Checks accepted marked/core interfaces; elementary new row UPPER bound separately proved", "limits": "No fresh full representation-foundation, MacMahon original-book or recursive-cost-control proof; source recursive factor not imported"},
+    {"id": "DALLANT2025V2", "author": "Justin Dallant", "url": "https://arxiv.org/pdf/2502.20909v2", "fresh_reads": ["Operative Section2 context119--450", "Returned optimizer context511--696, not executed/imported", "COMPLETE Section3 construction697--746", "Section4 conjecture discussion747--775"], "use": "Research ideas and explicit failed-interface boundary only, no new theorem premise", "limits": "Initial combined-display introductory clipping not counted read. Numerical path-count certificate, solver, source algorithms, sharp-zone foundations and average/minimum-zone conjectures not imported. No whole-paper or publication-priority audit."}
+  ],
+  "new_proof_method": "Hand actual-prefix restriction, nonnegative J sum, uniform finite error, elementary monotone-row encoding, SET union upper count and exact tolerance limits",
+  "global_missing_inference": "No control of full official low-D/low-J classes outside the explicit LF14 guarded union U_N; no C(N) denominator or uniform-class law",
+  "root_NEW_proof_contribution": false,
+  "two_OTHER_initially_blind_ENTIRE_WHOLE_audits_required": true,
+  "constructor_excluded": true,
+  "NEW_ET12_peer_files_inventory_hash_metadata_access": false,
+  "root_R13_tensor_or_R26_exploration_access": false,
+  "source_binary_download_hash_redistribution": null,
+  "mathematical_program_CAS_scan_test_optimizer_source_author_old_helper_certificate_replay": false,
+  "Git_shared_old_cache_mutation_native_browser_charge_contact_bypass": false,
+  "publication_overlap_priority": "OPEN",
+  "requested": {"model": "gpt-6.1-sol", "reasoning": "max", "inherited": true},
+  "independent_effective_backend_readback": null
+}

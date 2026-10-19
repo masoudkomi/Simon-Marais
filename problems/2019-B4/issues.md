@@ -1,5 +1,7 @@
 # 2019 B4(b) issue log
 
+19October CM16: ALL64 independent whole obligations reconciled,9/10 closed scope notes, zero substantive defects/required repairs. [Exact acceptance](reviews/reasoning-critical-law-return-r16-acceptance.md). The mean<1/48 is for uniform DISTINCT actual chronological pairs; constant majority does not imply exponential/vanishing tails, an unmarked-word law, or a renewal-regime decision. Those issues and exactlambda remain OPEN.
+
 Third-pass update: both fresh initially blind whole audits are accepted, with no unresolved substantive objection. The legal-envelope lemma, exact minimal-obstruction subsets, convergence, cap3 grammar and full cap7 integer-vector certificate are covered by reviews/thirdpass-acceptance.md. Retain nonincreasing rather than necessarily strict monotonicity, cap1's universal boundary, and the distinction between fixed-cap rationality and the unknown full limit series. Exactlambda and novelty stay open. The ignored R1 bytecode-cache side effect is documented separately and does not change any of70constructor artifacts.
 
 Second-pass update, 2026-10-16 UTC: the coordinator accepted renewal,

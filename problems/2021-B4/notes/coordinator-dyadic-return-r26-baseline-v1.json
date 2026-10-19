@@ -1,0 +1,101 @@
+{
+  "created_UTC": "2026-10-19T02:20:03.331618+00:00",
+  "status": "candidate proof - unverified",
+  "necessary_immutable_records": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2021-B4/statement.md",
+      "bytes": 1745,
+      "sha256": "5cd9750a2458191370590120fb4ae7d547740784eb1de38ee9e2e7890a2fabed"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-dyadic-return-r26-exploration-unverified.md",
+      "bytes": 5494,
+      "sha256": "31b7796738a48b3b0eeb61c8c19fedb10e99c0640f483905e966bab884b895b2"
+    },
+    {
+      "path": "problems/2021-B4/proofs/reviewed-reasoning-deep-return-r24-v1.1.md",
+      "bytes": 27431,
+      "sha256": "a52fcb31da9b494659d29b1ea0b587baba3a096264688ac6989e3d98ed578946"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-deep-return-r24-acceptance.md",
+      "bytes": 5485,
+      "sha256": "c86814838459ce13a88137c389b5aa8715630b8ce3589fcf49810be9126f1050"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-deep-return-r24-acceptance.json",
+      "bytes": 3495,
+      "sha256": "8a41ba05fd3851890db2d2d94b946101de03905c08312b089d5346ef1f0e5296"
+    },
+    {
+      "path": "problems/2021-B4/proofs/reviewed-coordinator-dyadic-depth-return-r25-v1.1.md",
+      "bytes": 19422,
+      "sha256": "311568bc5ded810dfa823efedd968e9c0f05eb0ff129856499babb6785064c2e"
+    },
+    {
+      "path": "problems/2021-B4/reviews/coordinator-dyadic-depth-return-r25-acceptance.md",
+      "bytes": 4748,
+      "sha256": "15c24d6251a39dd0d8cac912408b1fdf1eeb846e26262f2c4652f356263f7022"
+    },
+    {
+      "path": "problems/2021-B4/reviews/coordinator-dyadic-depth-return-r25-acceptance.json",
+      "bytes": 3575,
+      "sha256": "f0bf6c3e198dd99624a5f1808f9fef55cf9e90f5b1640abfa0814e9f199c8444"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-dyadic-depth-return-r25-freeze-v1.json",
+      "bytes": 1364,
+      "sha256": "fa65dcb84789d0db25218940ff5957e234d10cf30a699973d255c9b3c55ab5b6"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-dyadic-depth-return-r25-candidate-v1.md",
+      "bytes": 14771,
+      "sha256": "4ebcb8df634d91edc5b380effc883f795ce817dbdd992c5182da1f659eb203cc"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-dyadic-depth-return-r25-sources-v1.json",
+      "bytes": 2663,
+      "sha256": "f504168d9766c020d09a54ecfe66e5bc232f169f778f12e8d88346ad0088ce31"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-dyadic-depth-return-r25-admin-v1.py",
+      "bytes": 3124,
+      "sha256": "e67f1959857988f6cc27752fc1550bba0866a76e84d8e8acb8653fd4dd127570"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-dyadic-depth-return-r25-baseline-v1.json",
+      "bytes": 1533,
+      "sha256": "76ace7aa80d825531fccdb659dd08b4cd5f6ed3df481701dd2e498831dde64c5"
+    }
+  ],
+  "guard_occurrences": 14,
+  "guard_unique_paths": 14,
+  "compact_own_parent": {
+    "path": "problems/2021-B4/notes/coordinator-dyadic-depth-return-r25-freeze-v1.json",
+    "bytes": 1364,
+    "sha256": "fa65dcb84789d0db25218940ff5957e234d10cf30a699973d255c9b3c55ab5b6"
+  },
+  "historical_parent_inventory_expanded": false,
+  "living_map_guards": false,
+  "new_R26_peer_access": false,
+  "requested": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independent_effective_backend_readback": null,
+  "weekly": {
+    "usedPercent": 80,
+    "observed_UTC": "2026-10-19 02:17:03 UTC",
+    "resetsAt": 1792874445,
+    "TOTAL_ceiling": 90,
+    "reserve": true,
+    "automatic_later_window": false
+  },
+  "mathematical_truth_checked_by_code": false
+}

@@ -1,5 +1,7 @@
 # 2025 B4 research log
 
+19October12:30Brisbane: ET12 ENTIRE5/36 remains **candidate proof - unverified**. C/A BOTH OTHER whole initials have completed final readbacks/separate verification and were explicitly released after02:18:02UTC; coordinator ENTIRE reconciliation is pending. Trace identities and a local counterfamily are not a new Diophantine exclusion. Exact depth2 near-1 under actual class equality and nontrivial minus classes remain OPEN.
+
 Current19October10:14Brisbane: [GR0--GR3](reviews/reasoning-global-return-r11-acceptance.md) is **proved, independently reviewed scoped partial result** after C/B OTHER WHOLE32/32 and full64-row reconciliation. In the restricted signed prime-diagonal actual domain p>=37, equality of actual conjugate characteristic classes can survive only at exact depth2 near-1. Outside it the actual class difference has orderp in the relative norm kernel. Published signed HB-minus/classical AI are explicit dependencies; the separate center0 selection and all-embedding argument retain global coefficient denominators. Nontrivial minus classes, the exact depth2 sector and full annual domain remain OPEN. No new prime range or priority claim; earlier dated entries retain historical scopes.
 
 

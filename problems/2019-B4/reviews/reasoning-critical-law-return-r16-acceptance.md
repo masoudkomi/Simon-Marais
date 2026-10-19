@@ -1,0 +1,27 @@
+# Coordinator acceptance: reasoning-critical-law-return-r16
+
+2026-10-19 UTC. **Proved, independently reviewed scoped partial result.**
+
+Accept CM16A--D ONLY for the actual DISTINCT chronological-pair model of official2019 B4(b), with c_0=1, the physical reverse operation (u)1v, and V the UNION of vertices on SOME complete legal history, counted once. This is a scoped partial result. It does not determine the requested growth constant.
+
+Write R=1/lambda and s_N=c_N R^N. Accepted R7 supplies the SAME actual obstruction series F with nonnegative coefficients, F(R)=2R-1 and F'(R)<=2, and its complete subcritical / finite-mean critical / infinite-mean critical trichotomy. Accepted AT supplies the exact DISTINCT-uniform identity B_N=E[V]=sum_{t=0}^N c_t c_{N-t}/c_N and the corresponding three limits B_N/N^2=0,1/(6mu),0, where mu=R^2 F''(R)/2 in the finite critical case. Accepted M gives f_4=1, from its printed exact finite generating function through degree7. The already accepted rational lower bound on lambda gives 1/2<R<17/30; no old certificate or executable was replayed.
+
+In the critical case remove the actual f_4 word from weights w_j=f_j R^j. The remaining mass and first moment are T=2R-1-R^4 and L=2R-4R^4. L>0 throughout the entire interval, hence T>0 before division. Finite-truncation Cauchy--Schwarz gives, including the infinite-second-moment case by monotone passage,
+
+    mu >= H(R)=8R^4-R+L^2/(2T)=[R+(9R-8)R^4]/T > 8.
+
+The strict last inequality is uniform on the ENTIRE actual interval, using monotonicity of T and L and exact rational values at17/30, not a numerical optimization or a selected critical regime. The elementary endpoint comparison is 336400000000>324000000000. Consequently ALL THREE accepted alternatives imply that a*=lim c_N/(N lambda^N) exists, 0<=a*<1/8, and m*=lim B_N/N^2=a*/6<1/48. In the finite critical case m*<=1/[6H(R)]; both other alternatives have a*=m*=0.
+
+Exact finite Markov inequality for the actual DISTINCT-uniform law gives, for EVERY fixed eta>0,
+
+    limsup Pr(V>=eta N^2) <= min(1,m*/eta).
+
+In particular liminf Pr(V<N^2/24)>1/2. This is constant positive mass, not an exponential count, a vanishing-density theorem, a statement uniform as eta tends to zero, or the unmarked / Q-history law. The sharper mean bound does not identify the actual renewal regime, evaluate lambda, improve its previously accepted interval, or settle the annual open part. Earlier FL15/AR/AU conclusions remain separate and compatible.
+
+C is sole NEW constructor and excluded. A OTHER WHOLE1 ENTIRE5/ALL32 froze02:08:47.215381UTC, completed FULL final ALL4 payload+manifest MODEL readbacks, then SEPARATE02:08:54.983207 PASS. B OTHER WHOLE2 ENTIRE5/ALL32 froze02:09:47.202470UTC, completed FULL final ALL4+manifest MODEL readbacks, then SEPARATE02:09:54.263868 PASS. Root explicitly confirmed BOTH completion before corresponding NEW peer findings/files/actual inventory/hash/metadata access. Both whole initials pass all64 obligations, with9 and10 closed scope notes respectively, zero substantive defects and zero required author repairs. Root read ENTIRE author5 and BOTH5/5, every obligation/issue/failure/source/code/metadata, reconstructed the residual-moment inequality and all-R strict bound, and reconciled the finite identity, trichotomy and probability quantifiers. All frozen bytes are preserved.
+
+Root freshly read COMPLETE accepted R7, AT and M bodies and EACH current authority MD/JSON of R7/AT/M/FL15/AR/AU. Root's previous full FL15/AR/AU body audits are historical; both OTHER reviewers freshly read all six operative bodies and current authorities. Prior construction/review roles on separately accepted inputs are disclosed, not independent self-recertification. Root freshly checked the exact official2019 setup and open(b), and the ENTIRE Erdős--Feller--Pollard1949 article, primary Renyi-hosted4-page scan, extracted lines0--132, including BOTH printed proofs and the infinite-mean case. OCR formula limitations remain; the following Brunk article is not an operative source. Wiener's cited foundation was not independently recertified. This is source checking and attribution, not a new priority claim. The NEW deduction uses elementary residual moments and Markov; no additional external theorem is silently imported.
+
+No mathematical program,CAS,scan,routine test,optimizer,author/source executable or old certificate/freezer replay supplied a new inference. Administrative checks bind bytes and JSON only. Author/A baselines contain historical mutable-map observations; they are excluded from generic recursive acceptance and ONLY their explicit immutable_records and compact OWN-parent fields are checked afresh. Their unchanged outer bytes remain bound by the freezes. Parent inventories are not recursively expanded. B's embedded unrelated R25 parent identities were documentary only, not access to underlying new peer files/findings. Requested Sol/max is separate from unavailable independent effective backend readback. Internal review is not external validation, and published priority is unestablished.
+
+Verified 62 declared fingerprint occurrences across 36 paths. Exact inputs are hashed in the integrity summary, without duplicating their preserved historical rows. The unchanged main is an accepted-copy suffix. Metadata checks are integrity only. Internal review is not externalvalidation; novelty is unestablished.

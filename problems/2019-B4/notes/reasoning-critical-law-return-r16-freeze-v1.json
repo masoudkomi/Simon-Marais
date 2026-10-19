@@ -1,0 +1,66 @@
+{
+  "frozen_UTC": "2026-10-19T02:02:18.949531+00:00",
+  "status": "candidate proof - unverified",
+  "constructor": "/root/review_2017_coarsening_r1",
+  "constructor_excluded": true,
+  "TWO_OTHER_initially_blind_ENTIRE_whole_audits_required": true,
+  "claims": [
+    "CM16A critical residual moment restriction",
+    "CM16B actual full mean/count prefactors",
+    "CM16C actual full uniform mass bound"
+  ],
+  "ENTIRE_files": 5,
+  "whole_obligations": 32,
+  "payloads": [
+    {
+      "path": "problems/2019-B4/notes/reasoning-critical-law-return-r16-candidate-v1.md",
+      "bytes": 22118,
+      "sha256": "cf3bc455ab866ec0cc0ddaeb6a18fa93b7b4427dcb2c781c86b28081e98af77b"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-critical-law-return-r16-sources-v1.json",
+      "bytes": 4085,
+      "sha256": "f11b288e5a09ceabd30e56e34b465afcd9ca6634bce2d59276452f2b07868913"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-critical-law-return-r16-admin-v1.py",
+      "bytes": 6162,
+      "sha256": "3f51af9f2ff036f981d4fcff49d832a60aed7db00dd715e10f9e8421967b14c6"
+    },
+    {
+      "path": "problems/2019-B4/notes/reasoning-critical-law-return-r16-baseline-v1.json",
+      "bytes": 5496,
+      "sha256": "e56a588af0e844425cc0d5c65dcb29c43c0d548691cc5feac8a3f759ed8f5247"
+    }
+  ],
+  "guard_occurrences": 23,
+  "guard_unique_paths": 23,
+  "guard_digest_sha256": "d172072b9f651ea38c8e879d6972e99194e4deb44fa19e5d541f09ab83fed53f",
+  "immediate_OWN_parent": {
+    "path": "problems/2021-B4/reviews/coordinator-dyadic-depth-return-r25-review-1-manifest-v1.json",
+    "bytes": 2323,
+    "sha256": "be2abbb9eff0536a97580726d0d0e9133ac10599ba3f652324900777d9b144a9"
+  },
+  "FULL_final_ALL4_payload_MODEL_readbacks_completed": true,
+  "FULL_manifest_MODEL_readback_THEN_SEPARATE_readonly_verify_REQUIRED": true,
+  "requested": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independent_effective_backend_readback": null,
+  "quota": {
+    "usedPercent": 79,
+    "observed_UTC": "2026-10-19 02:01:16 UTC",
+    "windowDurationMins": 10080,
+    "resetsAt": 1792874445,
+    "ordinaryUsageAllowed": true,
+    "TOTAL_ceiling": 90,
+    "reserve": true,
+    "automatic_later_window_spending": false
+  },
+  "NEW_R25_peer_access": false,
+  "unrelated_root_R26_access": false,
+  "mathematical_program_CAS_scan_test_old_replay": false,
+  "Git_shared_old_cache_mutation": false
+}
