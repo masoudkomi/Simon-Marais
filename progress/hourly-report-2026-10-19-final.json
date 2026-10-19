@@ -2,7 +2,7 @@
   "recorded_at_utc": "2026-10-19T07:01:48.887658+00:00",
   "kind": "Final current-window stopping report; mathematical research paused below the 90% total weekly ceiling to preserve integration and cleanup capacity.",
   "weekly": {
-    "observed_at_utc": "2026-10-19T06:54:59+00:00",
+    "observed_at_utc": "2026-10-19T07:02:47+00:00",
     "used_percent_total": 89,
     "window_minutes": 10080,
     "reset_unix": 1792874445,
@@ -123,9 +123,14 @@
     "exec_session": 64368,
     "assertion": "PreventUserIdleSystemSleep",
     "last_verified_at_local": "2026-10-19T16:54:59+10:00",
-    "status": "active for final checkpoint; targeted release pending",
+    "status": "released; owned assertion absent from OS readback",
     "release_only_owned_assertion": true,
-    "cleanup_pending": true
+    "cleanup_pending": false,
+    "stopped_via": "targeted Ctrl-C to owned exec session 64368",
+    "exit_code": 130,
+    "absence_verified_at_utc": "2026-10-19T07:02:47+00:00",
+    "absence_verified_at_local": "2026-10-19T17:02:47+10:00",
+    "unrelated_assertions_untouched": true
   },
   "last_previously_pushed_commit": "04ac3b7",
   "next_actual_hourly_utc": null,
@@ -143,5 +148,8 @@
     "model": "gpt-6.1-sol",
     "reasoning_effort": "max",
     "independent_effective_backend_readback": null
-  }
+  },
+  "cleanup_recorded_at_utc": "2026-10-19T07:03:18.654552+00:00",
+  "principal_checkpoint_pushed_commit": "8e577cc",
+  "research_remains_paused": true
 }

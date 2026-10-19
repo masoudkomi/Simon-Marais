@@ -1,8 +1,8 @@
 {
   "branch": "codex/smmc-b4-research",
   "remote": "https://github.com/masoudkomi/Simon-Marais.git",
-  "phase": "PAUSED below 90% total weekly usage; final checkpoint and owned-assertion cleanup",
-  "last_pushed_commit": "04ac3b7",
+  "phase": "PAUSED at 89% TOTAL weekly usage; final checkpoint pushed and owned sleep assertion released",
+  "last_pushed_commit": "8e577cc",
   "initial_passes_complete": [
     2017,
     2018,
@@ -29,15 +29,19 @@
     "started_at_utc_approx": "2026-10-17T01:07:50+00:00",
     "verified_at_local": "2026-10-19T16:54:59+10:00",
     "assertion": "PreventUserIdleSystemSleep",
-    "verified_detail": "OWN79293 positive53:47:10 PreventUserIdleSystemSleep assertingforever",
+    "verified_detail": "PID79293 and its caffeinate assertion absent from pmset; unrelated powerd/WindowServer assertions untouched",
     "cleanup": "At90% total weekly usage or actual research termination, stop only owned session64368 via targeted Ctrl-C; PID79293 recorded for fallback. No timed expiry.",
     "previous_session": 14140,
     "previous_exit_code_after_targeted_ctrl_c": 130,
     "next_check_utc": null,
-    "cleanup_pending": true
+    "cleanup_pending": false,
+    "status": "released",
+    "exit_code_after_targeted_ctrl_c": 130,
+    "absence_verified_at_utc": "2026-10-19T07:02:47+00:00",
+    "absence_verified_at_local": "2026-10-19T17:02:47+10:00"
   },
   "notes": "Two annual answers complete; seven unresolved. R30 accepted after both independent whole audits and full reconciliation. Stopping at 89% TOTAL reserves one percentage point before the authorized 90% ceiling.",
-  "observed_at_utc": "2026-10-19T07:01:48.887658+00:00",
+  "observed_at_utc": "2026-10-19T07:03:18.654552+00:00",
   "coordinator_compute": {
     "status": "all constructor children completed and reaped",
     "complex_complement_child_pid": 37199,
@@ -47,7 +51,7 @@
     "new_complex_extension_audits": "both complete, accepted"
   },
   "latest_all_nine_report": "progress/status-2026-10-19-final.md",
-  "coordinator_current": "No new research, candidates, computation or agents. Save R30 and final status, push, release only owned sleep assertion. Do not automatically spend into a later window.",
+  "coordinator_current": "STOPPED for this authorized window. Principal checkpoint pushed; owned assertion released and verified absent. Hourly automation PAUSED. No automatic research restart or later-window spending.",
   "latest_checkpoint": "progress/checkpoint-2026-10-19-final.md",
   "pending_unverified": [
     "2022 reserve R14 exploratory",
@@ -71,7 +75,7 @@
     "explicit_user_authorization": "keep going till90%of the newly reported weekly window....do not stop",
     "authorization_recorded_at_utc": "2026-10-18T00:00:36.393369+00:00"
   },
-  "weekly_last_observed_at_utc": "2026-10-19T06:54:59+00:00",
+  "weekly_last_observed_at_utc": "2026-10-19T07:02:47+00:00",
   "hourly_reporting": {
     "automation_id": "simon-marais-hourly-research-report",
     "kind": "heartbeat",
@@ -154,5 +158,14 @@
     "coordinator_reconciliation_complete": true
   },
   "mathematical_research_stopped_at_utc": "2026-10-19T05:52:42.404552+00:00",
-  "automatic_later_window_authorized": false
+  "automatic_later_window_authorized": false,
+  "final_cleanup": {
+    "principal_checkpoint_pushed_commit": "8e577cc",
+    "owned_assertion_released": true,
+    "hourly_automation_PAUSED_verified": true,
+    "no_math_workers_or_native_jobs_active": true,
+    "weekly_used_percent_total": 89,
+    "weekly_observed_at_utc": "2026-10-19T07:02:47+00:00",
+    "next_window_automatic_authorization": false
+  }
 }

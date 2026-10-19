@@ -1,6 +1,6 @@
 # Final current-window checkpoint — 19 October 2026, 17:01 Brisbane
 
-**Research paused at 89% TOTAL account-wide weekly usage**, observed 19 October 06:54:59 UTC / 16:54:59 Brisbane. The authorized ceiling is 90% TOTAL, leaving **one percentage point for final integration, Git and cleanup**. This follows the protocol's preference to finish below the ceiling. Reset: **24 October 20:40:45 UTC / 25 October 06:40:45 Brisbane** (1792874445). No later weekly window is automatically authorized.
+**Research paused at 89% TOTAL account-wide weekly usage**, observed 19 October 07:02:47 UTC / 17:02:47 Brisbane. The authorized ceiling is 90% TOTAL, leaving **one percentage point for final integration, Git and cleanup**. This follows the protocol's preference to finish below the ceiling. Reset: **24 October 20:40:45 UTC / 25 October 06:40:45 Brisbane** (1792874445). No later weekly window is automatically authorized.
 
 Two complete internally reviewed annual answers remain: **2018**, an attributed reproduction of published enumeration, and **2023**, the classification below with publication priority unconfirmed. **Seven annual targets remain unresolved.** No additional full annual solution is claimed.
 
@@ -40,7 +40,7 @@ All workers have checkpointed. No new proof candidate awaits its required indepe
 
 The hourly automation is **PAUSED**, confirmed by the app and a separate local configuration check, with all its other existing fields preserved. The scheduled 16:14:35 Brisbane report was missed; the 16:55:00 token cutoff is 40 minutes 25.541 seconds later. The exact cause is unestablished. No intermediate observation is invented, and no new mathematics ran after R30 acceptance. Requested worker settings were gpt-6.1-sol / max; independent verification of effective backend settings is unavailable.
 
-Sleep cleanup: the owned caffeinate assertion PID 79293 / session 64368 was verified active at 16:54:59 Brisbane. Targeted release is pending the principal Git checkpoint. Only that assertion will be released; unrelated assertions are outside this cleanup.
+Sleep cleanup completed: after confirmed Git push 8e577cc, targeted Ctrl-C to owned session 64368 exited 130. At 17:02:47 Brisbane, pmset confirmed that PID 79293 and its caffeinate assertion were absent. Unrelated powerd/WindowServer assertions remained untouched. The final account-wide weekly readback was still 89% TOTAL at 07:02:47 UTC, with the same reset and one percentage point below the authorized ceiling. No new mathematical work was launched.
 
 The separate one-page **past-72-hours usage PDF** has already been delivered locally and is excluded from Git. Its fixed coverage ends at 19 October 00:00:36.686671 UTC; it does not represent this report's later token cutoff.
 
