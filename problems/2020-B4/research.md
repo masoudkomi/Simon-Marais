@@ -151,3 +151,8 @@ Accordingly the local work reproduces known obstructions in a modest finite rang
 Checkpoint and free the worker slot so every annual problem receives initial investigation. The coordinator should arrange the two queued independent reviews if the partial package is retained. Review priorities are exact statement/boundary fidelity, P2's plane converse, P5's norm argument, P6's arithmetic orbit formula, and all imported theorem hypotheses.
 
 Further 2020 work should start from the actual remaining cyclic PPC rather than rerunning known small ranges. If pursued later, a precise target is strengthening the lifting obstruction for quotient occupancies or orbit unions that pass the cardinality test. No plausible complete proof or counterexample has emerged in this pass.
+
+
+## 19October2026,12:59Brisbane coordinator update
+
+R20 is now accepted scoped: actual nonempty Sidon masks at odd conductors with at most TWO DISTINCT prime factors, arbitrary powers, have primitive ordinarycontent1; actual planar reciprocal denominator is exactlyq. Same-ideal content obstruction excludes prescribed data, not numerical orders. Turyn1965 overlap is attributed; AR19 larger-support full-field quadratic repair retained. [Exact acceptance](reviews/reasoning-global-return-r20-acceptance.md). TWO OTHER initially blind WHOLE audits and ENTIRE coordinator reconciliation/final acceptance readbacks complete. Frozen bytes preserved; no mathematical executable/old replay.

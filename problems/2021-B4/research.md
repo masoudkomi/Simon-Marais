@@ -314,3 +314,8 @@ The separate frozen J15 triple-zero leading candidate only restricts that multip
 ## 19October2026,12:10Brisbane coordinator update
 
 NEW R25 accepted02:06:48.894990UTC after TWO OTHER whole28 audits/full56 coordinator reconciliation. In ENTIRE retained actual negative frameIII domain, EVERY d>=3 excluded; d2 remains. Higher-contact gcd statement attributed R24C only. No full frameIII/degree20/annual/priority result. R26 exploration remains UNVERIFIED and not a premise. See [exact acceptance](reviews/coordinator-dyadic-depth-return-r25-acceptance.md). Frozen proof/reviewer bytes preserved; no mathematical executable or old replay used.
+
+
+## 19October2026,12:59Brisbane coordinator update
+
+R26/R27 are now accepted scoped in ENTIRE retained actual negative frameIII: d2,A9=A10zero,FULL gcdsX/X²; contactt>=2,v2(s-r)>=0,h4mod16,b64O,cdepth3,kdepth2 with stated residues. Higher contact/actual carrier/rational equations/fullframeIII/degree20 remainopen; no all-contact bzero. [R26](reviews/coordinator-dyadic-return-r26-acceptance.md), [R27](reviews/coordinator-contact-return-r27-acceptance.md). TWO OTHER initially blind WHOLE audits and ENTIRE coordinator reconciliation/final acceptance readbacks complete. Frozen bytes preserved; no mathematical executable/old replay.

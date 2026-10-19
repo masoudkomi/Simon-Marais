@@ -1,0 +1,73 @@
+{
+  "schema": "R20-independent-whole-review-source-record-v1",
+  "reviewer": "C /root/review_2017_coarsening_r1",
+  "date_UTC": "2026-10-19",
+  "corresponding_NEW_peer_access_before_entire_freeze": false,
+  "sources": [
+    {
+      "id": "official2020",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2020-paper-b_1.pdf",
+      "fresh_actual_read": "B4 setup and open (b), returned lines98-105; saved full statement also read",
+      "scope": "Official (b) only; preliminary (a) incidental and not investigated",
+      "raw_binary_hash": null
+    },
+    {
+      "id": "Turyn1965",
+      "url": "https://msp.org/pjm/1965/15-1/pjm-v15-n1-p32-p.pdf",
+      "title": "Character sums and difference sets",
+      "journal": "Pacific J. Math.15 (1965),319-346",
+      "fresh_actual_read": "Original opening Fourier/group setup and COMPLETE Lemma5 statement/proof returned605-625, context579-659",
+      "operative_hypotheses": "Finite cyclic group, integral function, generator character, nonzero character value divisible by an ordinary positive integer m; r distinct conductor primes; 0<=f<=b or |f|<=b",
+      "published_result_checked": "The induction gives m<=2^(r-1)b in the nonnegative case and m<=2^r b in the signed case",
+      "proof_check": "OCR superscripts imperfect; base and signed-difference induction independently checked by hand",
+      "role": "Classical overlap: for binary b1/r<=2 odd content is already impossible. R20's proof does not depend on importing this theorem; the characteristic-two Sidon step is reconstructed separately",
+      "limits": "No entire-paper, pixel, later-theorem, reference-chain or priority audit",
+      "raw_binary_hash": null
+    },
+    {
+      "id": "LamLeung",
+      "url": "https://arxiv.org/pdf/math/9511209",
+      "title": "On vanishing sums of roots of unity",
+      "fresh_actual_read": "COMPLETE supplied Theorem2.2/proof153-264, Theorem3.3/proof385-413, and explicit characteristic-zero restriction95-96",
+      "role": "Classical integral kernel and positive-cycle context only",
+      "limits": "NOT a finite-field classification; cited original Redei/de Bruijn/Schoenberg proofs and entire paper unread",
+      "raw_binary_hash": null
+    },
+    {
+      "id": "MahatabSampath",
+      "url": "https://arxiv.org/pdf/1401.7696",
+      "title": "Chinese remainder theorem for cyclotomic polynomials",
+      "fresh_actual_read": "Introduction/setup0-119 only, including the elementary integral-CRT non-surjectivity example",
+      "role": "Context only, no proof premise or executed Smith algorithm",
+      "limits": "Constructor's recorded longer Theorem2.4 proof read is not inherited; not freshly read here",
+      "raw_binary_hash": null
+    },
+    {
+      "id": "ReedOrthogonality",
+      "url": "https://people.reed.edu/~jerry/361/lectures/kummer.pdf",
+      "fresh_actual_read": "COMPLETE Appendix9.2 geometric-sum/orthogonality proof1505-1553 in returned1381-1623",
+      "role": "Finite inverse independently reconstructed with rs invertible in characteristic ell",
+      "limits": "No whole-note audit or unsupported complex-to-finite-characteristic transfer",
+      "raw_binary_hash": null
+    },
+    {
+      "id": "AlexeevMixonConstructorContext",
+      "url": "https://arxiv.org/pdf/2510.19804",
+      "fresh_actual_read": "Not newly read in this audit",
+      "role": "Constructor's narrow context read not inherited as operative proof",
+      "limits": "No best cutoff, full classification, Prime Power Conjecture proof or priority claim",
+      "raw_binary_hash": null
+    }
+  ],
+  "accepted_inputs_fresh_COMPLETE_body_and_EACH_authority_read": [
+    "problems/2020-B4/proofs/reviewed-reasoning-actual-return-r18-v1.1.md",
+    "problems/2020-B4/reviews/reasoning-actual-return-r18-acceptance.md",
+    "problems/2020-B4/reviews/reasoning-actual-return-r18-acceptance.json",
+    "problems/2020-B4/proofs/reviewed-reasoning-realization-return-r19-v1.1.md",
+    "problems/2020-B4/reviews/reasoning-realization-return-r19-acceptance.md",
+    "problems/2020-B4/reviews/reasoning-realization-return-r19-acceptance.json"
+  ],
+  "read_scope_honesty": "Fresh review reads are distinguished from constructor-recorded reads; web text is not a certified raw-PDF snapshot",
+  "mathematical_program_CAS_scan_test_or_old_replay": false,
+  "binary_download_cache_write_or_redistribution": false
+}

@@ -202,3 +202,8 @@ global error/remainder arguments are not proved. It is not H.
 ## 19October2026,12:10Brisbane coordinator update
 
 NEW JC15 accepted02:09:23.811623UTC after TWO OTHER whole36 audits/full72 coordinator reconciliation. Actual alternating signed-parabola family has D/N²->1/2 and J/N²,S/N²->0; one class per size only. No small joint-cost, entropy/mass or scalar improvement. See [exact acceptance](reviews/reasoning-joint-return-r15-acceptance.md). Frozen proof/reviewer bytes preserved; no mathematical executable or old replay used.
+
+
+## 19October2026,12:59Brisbane coordinator update
+
+JM16 is now accepted scoped: ENTIRE guarded fixed-fan SET union has subquadratic logarithmic count at subquadratic J; balanced LF14 family has uniform liminfJ/N²>=ln2/36. ONE-parent small-bias path does not prove hereditary continuation. No global numerical/scalar improvement. [Exact acceptance](reviews/reasoning-joint-mass-return-r16-acceptance.md). TWO OTHER initially blind WHOLE audits and ENTIRE coordinator reconciliation/final acceptance readbacks complete. Frozen bytes preserved; no mathematical executable/old replay.

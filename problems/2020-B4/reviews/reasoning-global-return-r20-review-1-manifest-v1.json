@@ -1,0 +1,62 @@
+{
+  "schema": "R20-independent-whole-review1-entire-freeze-v1",
+  "frozen_UTC": "2026-10-19T02:37:28.919217+00:00",
+  "reviewer": "C /root/review_2017_coarsening_r1",
+  "status": "sealed independent whole initial; explicit BOTH release required",
+  "ALL_obligations": 40,
+  "ENTIRE_files": 5,
+  "payloads": [
+    {
+      "path": "problems/2020-B4/reviews/reasoning-global-return-r20-review-1-initial-v1.md",
+      "bytes": 22696,
+      "sha256": "c12edeac9bd7859a74f0aeaf250b289d919309321fabdb03a9d354512a154662"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-global-return-r20-review-1-sources-v1.json",
+      "bytes": 4376,
+      "sha256": "85305ef30e394393ea0e648462d0dcbf310aec7e63245d79cc9121690a735fcb"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-global-return-r20-review-1-docadmin-v1.py",
+      "bytes": 7442,
+      "sha256": "3742514d726b4e37e16fac5a463fbd7e683562074279dd9019836e4957053914"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-global-return-r20-review-1-baseline-v1.json",
+      "bytes": 3832,
+      "sha256": "ffe9550dbb73a75d6316414b5630371ed577c78308048b8d964ae5cf8f0b481c"
+    }
+  ],
+  "guard_summary": {
+    "occurrences": 14,
+    "unique_paths": 14,
+    "canonical_deduplicated_sha256": "d8105219f52c3b596d352c749ac63fdd500344f7c4895154a4a1d2bffa1515cf"
+  },
+  "ONE_OWN_parent_manifest": {
+    "path": "problems/2017-B4/notes/reasoning-joint-mass-return-r16-freeze-v1.json",
+    "bytes": 2455,
+    "sha256": "487d92acc4bb6fe433b656473e487f88bcf17cf6341d9a15364ed6f9be3571ef"
+  },
+  "FULL_final_ALL4_payload_MODEL_readbacks_completed_before_manifest": true,
+  "FULL_manifest_MODEL_readback_THEN_SEPARATE_readonly_verify_required": true,
+  "corresponding_NEW_peer_access_before_entire_freeze": false,
+  "requested": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independent_effective_backend_readback": null,
+  "last_own_direct_quota": {
+    "usedPercent": 82,
+    "observed_UTC": "2026-10-19 02:31:48 UTC",
+    "resetsAt": 1792874445,
+    "windowDurationMins": 10080,
+    "ordinaryUsageAllowed": true,
+    "legacy_by_limit_agree": true,
+    "TOTAL_ceiling": 90,
+    "reserve_required": true,
+    "automatic_later_window_spending": false
+  },
+  "mathematical_program_CAS_scan_test_or_old_replay": false,
+  "Git_shared_old_cache_mutation": false
+}

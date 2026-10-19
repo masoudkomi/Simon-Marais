@@ -390,3 +390,8 @@ Current [all-nine status](status-2026-10-19-1210.md): JC15/R25/CL14 now accepted
 
 
 19October12:44 checkpoint:83%TOTAL direct02:41:34UTC/same1792874445/ordinaryallowed,7ppbefore90TOTALincludingreserve. ET12/R26accepted,R27UNVERIFIEDauditsactive,R20/JM16rootreconciliationpending. Literal tokens12:14 unchanged,next03:14:35UTC. [Allnine](status-2026-10-19-1244.md).
+
+
+## 19October2026,12:59Brisbane
+
+[Current all-nine status](status-2026-10-19-1259.md): JM16/R20/R27 now accepted in exact partial scopes; two complete annual answers2018/2023 unchanged. PH13 frozenUNVERIFIED/twoOTHERauditspending; A2024/B2025boundedcheckpointthenreviews. Direct84%TOTAL02:56:57UTC/current1792874445,6ppbefore90TOTAL INCLUDING reserve. Actualtokens12:14 unchanged;next03:14:35UTC. Keep ONLYownedawake79293/session64368; no later-window automaticspend; no currentsealedpeer/privateartifact selected.

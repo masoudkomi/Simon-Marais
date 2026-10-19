@@ -1,0 +1,85 @@
+{
+  "schema": "PH13-compact-baseline-v1",
+  "created_UTC": "2026-10-19T02:50:47.493786+00:00",
+  "immutable_guards": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2022-B4/statement.md",
+      "bytes": 1195,
+      "sha256": "2011761509ac42d5ffa2ab9e86dd1db464618707443a68f43fb3e45f59ed36c0"
+    },
+    {
+      "path": "problems/2022-B4/proofs/reviewed-reasoning-itinerary-return-r12-v1.1.md",
+      "bytes": 35369,
+      "sha256": "b484e62db0e680e9d8a50c90d0ec511dec11ff70b2bc4451269dc30b8ae73506"
+    },
+    {
+      "path": "problems/2022-B4/proofs/reviewed-reasoning-dynamics-return-r9-v1.1.md",
+      "bytes": 22645,
+      "sha256": "7cfa2c60557935261d7144576f0e39a509fbebb292fdd0027415efe411ae4c55"
+    },
+    {
+      "path": "problems/2022-B4/proofs/reviewed-reasoning-fiber-return-r5-v1.1.md",
+      "bytes": 27422,
+      "sha256": "ab4158f60b3412ace615be689cd61d9384f753319c312e776831392f97a37ef8"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-itinerary-return-r12-acceptance.md",
+      "bytes": 6325,
+      "sha256": "a4002755760fb3ccab2bf435efa503bdfbbf85202350a058bcb3be140ecef544"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-itinerary-return-r12-acceptance.json",
+      "bytes": 3279,
+      "sha256": "7386a06913396b67f06a8b60e17f003e74fb6e7df45e9a3db741765a79c097f4"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-dynamics-return-r9-acceptance.md",
+      "bytes": 6354,
+      "sha256": "4ca94b70c1a8850aa636141c92947f5c6e56f1e8a617dc3b0aca887bb4046a5c"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-dynamics-return-r9-acceptance.json",
+      "bytes": 4428,
+      "sha256": "012335d567880fa522705d9d1679acf79257c89ede247ec4c1d4376634a545d4"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-fiber-return-r5-acceptance.md",
+      "bytes": 4343,
+      "sha256": "6f2ee399a74414b42bf8c459c86d2b738eb11d8ca3f60061dab1bb2c376e0fef"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-fiber-return-r5-acceptance.json",
+      "bytes": 4684,
+      "sha256": "d352f86837f935f0757c2c9fc56a9a2708856f03a976934a791e12e1000ac0ee"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-global-return-r20-review-1-manifest-v1.json",
+      "bytes": 2361,
+      "sha256": "8583427bbff1d07c8e95506d46badb2babb7a825196ed5073be5219912b8fbf9"
+    }
+  ],
+  "occurrences": 12,
+  "unique_paths": 12,
+  "canonical_deduplicated_sha256": "54528259bc4c7a893ae26aad4a865243abad8a2296fe57f5a612965f893d4bae",
+  "ONE_OWN_immediate_parent_manifest": {
+    "path": "problems/2020-B4/reviews/reasoning-global-return-r20-review-1-manifest-v1.json",
+    "bytes": 2361,
+    "sha256": "8583427bbff1d07c8e95506d46badb2babb7a825196ed5073be5219912b8fbf9"
+  },
+  "parent_declared_summary": {
+    "ENTIRE_files": 5,
+    "ALL_obligations": 40,
+    "guard_occurrences": 14,
+    "guard_unique_paths": 14
+  },
+  "recursive_parent_expansion": false,
+  "mutable_maps_added_as_guards": false,
+  "corresponding_NEW_JM16_peer_access": false,
+  "root_R26_exploration_access": false,
+  "mathematical_executable_or_old_replay": false
+}

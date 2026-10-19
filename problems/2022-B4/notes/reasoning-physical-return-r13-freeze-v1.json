@@ -1,0 +1,72 @@
+{
+  "schema": "PH13-entire-author-freeze-v1",
+  "frozen_UTC": "2026-10-19T02:51:21.219784+00:00",
+  "status": "candidate proof - unverified",
+  "constructor": "C /root/review_2017_coarsening_r1",
+  "constructor_excluded": true,
+  "TWO_OTHER_initially_blind_ENTIRE_whole_audits_required": true,
+  "claims": [
+    "PH13A",
+    "PH13B",
+    "PH13C",
+    "PH13D"
+  ],
+  "ALL_obligations": 32,
+  "ENTIRE_files": 5,
+  "payloads": [
+    {
+      "path": "problems/2022-B4/notes/reasoning-physical-return-r13-candidate-v1.md",
+      "bytes": 18907,
+      "sha256": "dd95f9fd59776207007bfa68bc0d2c7b2633f7d540710194e1c24d81907fa7e8"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-physical-return-r13-sources-v1.json",
+      "bytes": 2537,
+      "sha256": "61f7b2580e373aec69d8aeb852cb76ef149374d6683ea943dd8d3158a09936d2"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-physical-return-r13-docadmin-v1.py",
+      "bytes": 5425,
+      "sha256": "2a250bcba9c981ecd424504c46d21f22df425b29cb70ac47d888d5b6895d4257"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-physical-return-r13-baseline-v1.json",
+      "bytes": 3222,
+      "sha256": "73c0427d4f7a942afa8e4a3418228a949ae759ab47d07c8210d51cca5810cedc"
+    }
+  ],
+  "guard_summary": {
+    "occurrences": 12,
+    "unique_paths": 12,
+    "canonical_deduplicated_sha256": "54528259bc4c7a893ae26aad4a865243abad8a2296fe57f5a612965f893d4bae"
+  },
+  "ONE_OWN_parent_manifest": {
+    "path": "problems/2020-B4/reviews/reasoning-global-return-r20-review-1-manifest-v1.json",
+    "bytes": 2361,
+    "sha256": "8583427bbff1d07c8e95506d46badb2babb7a825196ed5073be5219912b8fbf9"
+  },
+  "FULL_final_ALL4_payload_MODEL_readbacks_completed_before_manifest": true,
+  "FULL_manifest_MODEL_readback_THEN_SEPARATE_readonly_verify_required": true,
+  "requested": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independent_effective_backend_readback": null,
+  "quota": {
+    "own_direct_usedPercent": 84,
+    "observed_UTC": "2026-10-19 02:50:53 UTC",
+    "windowDurationMins": 10080,
+    "ordinaryUsageAllowed": true,
+    "legacy_by_limit_agree": true,
+    "resetsAt": 1792874445,
+    "TOTAL_ceiling": 90,
+    "review_integration_reserve": true,
+    "automatic_later_window_spending": false
+  },
+  "root_NEW_inference_contribution": false,
+  "corresponding_NEW_JM16_peer_access": false,
+  "root_R26_exploration_access": false,
+  "mathematical_program_scan_CAS_test_or_old_replay": false,
+  "Git_shared_old_cache_mutation": false
+}

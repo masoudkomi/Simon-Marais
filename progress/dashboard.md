@@ -569,3 +569,8 @@ Current [all-nine status](status-2026-10-19-1210.md): JC15/R25/CL14 now accepted
 ## Actual12:14Brisbane hourly
 
 [All-nine report](status-2026-10-19-1214.md), [machine snapshot](hourly-report-2026-10-19-1214.json).80%TOTAL observed02:13:30UTC/current1792874445,10pp to90TOTAL;3,435,613,044 projecttokens(+77,590,691), cached3,277,124,096;uncachedinput+output158,488,948(+2,800,163),reasoning8,712,782 SUBSEToutput. Cached repeats not fresh reasoning/accountmeter not projecttokens. Ownedawake positive49:05:40,79293/session64368;next03:14:35UTC. No currentSEALEDpeer/privateartifact selected.
+
+
+## 19October2026,12:59Brisbane
+
+[Current all-nine status](status-2026-10-19-1259.md): JM16/R20/R27 now accepted in exact partial scopes; two complete annual answers2018/2023 unchanged. PH13 frozenUNVERIFIED/twoOTHERauditspending; A2024/B2025boundedcheckpointthenreviews. Direct84%TOTAL02:56:57UTC/current1792874445,6ppbefore90TOTAL INCLUDING reserve. Actualtokens12:14 unchanged;next03:14:35UTC. Keep ONLYownedawake79293/session64368; no later-window automaticspend; no currentsealedpeer/privateartifact selected.

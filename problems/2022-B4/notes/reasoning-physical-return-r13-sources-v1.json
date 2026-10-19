@@ -1,0 +1,38 @@
+{
+  "schema": "PH13-source-and-read-limits-v1",
+  "date_UTC": "2026-10-19",
+  "constructor": "C /root/review_2017_coarsening_r1",
+  "status": "candidate proof - unverified",
+  "official": {
+    "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2022-paper-b.pdf",
+    "fresh_read": "B4 setup58-65 and open(b)69-70; complete saved statement also read",
+    "preliminary_a": "Incidental text, not investigated or reproduced"
+  },
+  "Vladimirov2015": {
+    "url": "https://arxiv.org/pdf/1501.04237",
+    "title": "Quantized linear systems on integer lattices: a frequency-based approach",
+    "version": "Returned original author preprint1501.04237v1",
+    "fresh_actual_read": "Introduction0-376; Definitions7-8,9-11,13; COMPLETE Lemma12 statement/proof2963-3129 and COMPLETE Theorem9 statement/proof3130-3207",
+    "scope": "Translation-equivariant quantizer and nonsingular linear matrix; Theorem9 additionally requires iterative nonresonance and concerns spatial lattice frequencies",
+    "role": "Exact model interface and diagnosed inapplicability; NOT a hitting theorem or proof premise for PH13B-D",
+    "limits": "No full60-page, visual, binary-hash or algorithm audit; other returned fragments context only"
+  },
+  "fresh_COMPLETE_accepted_bodies_and_EACH_MDJSON": [
+    "problems/2022-B4/proofs/reviewed-reasoning-itinerary-return-r12-v1.1.md",
+    "problems/2022-B4/reviews/reasoning-itinerary-return-r12-acceptance.md",
+    "problems/2022-B4/reviews/reasoning-itinerary-return-r12-acceptance.json",
+    "problems/2022-B4/proofs/reviewed-reasoning-dynamics-return-r9-v1.1.md",
+    "problems/2022-B4/reviews/reasoning-dynamics-return-r9-acceptance.md",
+    "problems/2022-B4/reviews/reasoning-dynamics-return-r9-acceptance.json",
+    "problems/2022-B4/proofs/reviewed-reasoning-fiber-return-r5-v1.1.md",
+    "problems/2022-B4/reviews/reasoning-fiber-return-r5-acceptance.md",
+    "problems/2022-B4/reviews/reasoning-fiber-return-r5-acceptance.json"
+  ],
+  "older_role_disclosure": "C constructed D9/CF and reviewed IT12; accepted scopes imported, not independently self-recertified",
+  "other_discovery": "DM, Lagarias-Sloane, rational-base normality and older constant-gap/comparison references inspected only as targeted discovery/context; no new whole-proof import",
+  "raw_PDF_download_hash": null,
+  "binary_cache_write_or_redistribution": false,
+  "mathematical_executable_scan_CAS_test_or_old_replay": false,
+  "external_theorem_used_to_prove_ordinary_hitting": false,
+  "root_NEW_proof_inference": false
+}
