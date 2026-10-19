@@ -1,0 +1,67 @@
+{
+  "frozen_UTC": "2026-10-19T05:44:21.862868+00:00",
+  "status": "candidate proof - unverified; integration synthesis",
+  "constructor": "C /root/review_2017_coarsening_r1",
+  "constructor_excluded_from_OTHER_audits": true,
+  "root_NEW_inference_contributor": false,
+  "ENTIRE_files": 5,
+  "ALL_obligations": 12,
+  "claims": [
+    "R30A",
+    "R30B expressly attributed corollary"
+  ],
+  "main_whitespace_word_count": 895,
+  "payloads": [
+    {
+      "path": "problems/2021-B4/notes/reasoning-coverage-synthesis-r30-candidate-v1.md",
+      "bytes": 6894,
+      "sha256": "d6a0f75b3dcb1db590b9db2023eae29f8ab1ca0f927cc6f757c77e4f4f58bcaa"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-coverage-synthesis-r30-sources-v1.json",
+      "bytes": 3649,
+      "sha256": "f63311a1b69c24e799a116597d516366a8a645ab4b861257ba9a890d1da55365"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-coverage-synthesis-r30-docadmin-v1.py",
+      "bytes": 4958,
+      "sha256": "77dfce9d459112b98cd39433350312adc8e807dba8f6327749270f73c4c0c1b3"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-coverage-synthesis-r30-baseline-v1.json",
+      "bytes": 7956,
+      "sha256": "b6f841b76ffdf99119baa07a6a11962bb973389aebd95fcb4f9bd799f382964f"
+    }
+  ],
+  "guard_summary": {
+    "occurrences": 36,
+    "unique_paths": 36,
+    "canonical_deduplicated_sha256": "b468b13e159cec0f6f24275587d8e256312030800fea629e583ea0936997ccc0"
+  },
+  "ONE_OWN_parent_note": {
+    "path": "problems/2022-B4/notes/reasoning-frontier-reserve-r14.md",
+    "bytes": 6221,
+    "sha256": "1e69bcb6bd5e5d7e9dbc41a72e6c63fc9119278567f2b0d1bcc51b25d95dc836"
+  },
+  "FULL_final_ALL4_payload_MODEL_readbacks_completed": true,
+  "FULL_manifest_MODEL_readback_THEN_SEPARATE_readonly_verify_REQUIRED": true,
+  "TWO_OTHER_initially_blind_whole_audits_required": true,
+  "NEW_corresponding_R30_peer_access": false,
+  "mathematical_executable_or_old_replay": false,
+  "Git_shared_old_cache_configuration_mutation": false,
+  "requested": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independent_effective_backend_readback": null,
+  "start_quota": {
+    "usedPercent": 88,
+    "observed_UTC": "2026-10-19 05:41:10 UTC",
+    "resetsAt": 1792874445,
+    "ordinaryUsageAllowed": true,
+    "TOTAL_ceiling": 90,
+    "reserve_included": true,
+    "automatic_later_window": false
+  }
+}

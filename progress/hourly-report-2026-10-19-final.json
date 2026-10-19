@@ -1,0 +1,147 @@
+{
+  "recorded_at_utc": "2026-10-19T07:01:48.887658+00:00",
+  "kind": "Final current-window stopping report; mathematical research paused below the 90% total weekly ceiling to preserve integration and cleanup capacity.",
+  "weekly": {
+    "observed_at_utc": "2026-10-19T06:54:59+00:00",
+    "used_percent_total": 89,
+    "window_minutes": 10080,
+    "reset_unix": 1792874445,
+    "reset_utc": "2026-10-24T20:40:45+00:00",
+    "reset_Brisbane": "2026-10-25T06:40:45+10:00",
+    "authorized_ceiling_percent_total": 90,
+    "percentage_points_before_ceiling": 1,
+    "ordinary_usage_allowed": true,
+    "account_wide_not_project_specific": true,
+    "automatic_later_window_authorized": false
+  },
+  "tokens": {
+    "snapshot_cutoff_utc": "2026-10-19T06:55:00.540772+00:00",
+    "observed_sessions": 62,
+    "distinct_responses": 17162,
+    "usage": {
+      "input_tokens": 3650526843,
+      "cached_input_tokens": 3508402048,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 22234001,
+      "reasoning_output_tokens": 9011296,
+      "total_tokens": 3672760844
+    },
+    "uncached_input_plus_output_tokens": 164358796,
+    "sessions_without_usage_records": 0,
+    "all_recorded_session_sums_match_cumulative": true,
+    "method": "Deduplicated own-thread per-response usage records across root and recursively spawned descendants; cached input is a subset of input, reasoning output a subset of output.",
+    "limits": "Local recorded observation while work is active. Unreported in-flight usage is excluded. Not a bill or a conversion to subscription percentage. No prompts, account IDs, credentials, or response IDs exported."
+  },
+  "previous_report": "progress/hourly-report-2026-10-19-1537.json",
+  "increase_since_previous_actual_report": {
+    "input_tokens": 30327215,
+    "cached_input_tokens": 29546112,
+    "cache_write_input_tokens": 0,
+    "output_tokens": 87628,
+    "reasoning_output_tokens": 42138,
+    "total_tokens": 30414843,
+    "uncached_input_tokens": 781103,
+    "uncached_input_plus_output_tokens": 868731
+  },
+  "per_problem": {
+    "2017": {
+      "status_and_pending": "UNRESOLVED. JM16 reviewed: ENTIRE guarded fixed-fan SET union has zero quadratic low-J entropy; balanced family pays positive quadratic J. Prior limit existence/PR11/CI12/LF14/JC15 retained. No global scalar improvement.",
+      "next": "Actual full-class low-joint-cost entropy or a different complete construction."
+    },
+    "2018": {
+      "status_and_pending": "COMPLETE attributed published-result reproduction of the general enumeration, internally reviewed; Hering--Howard/Ottaviani credited, known m5 excluded from research.",
+      "next": "Preserve exact domain and published attribution."
+    },
+    "2019": {
+      "status_and_pending": "UNRESOLVED. CM16 reviewed: actual DISTINCT-pair viable-area mean limit<1/48, strict constant majority belowN²/24. Bounds1.765224<lambda<1.834843 retained.",
+      "next": "Actual renewal regime/exactlambda, without unmarked/exponential/vanishing-law inference."
+    },
+    "2020": {
+      "status_and_pending": "UNRESOLVED. R20 reviewed: nonempty actual binary Sidon primitive content1 at odd conductors with at most TWO DISTINCT prime factors, arbitrary powers; reciprocal denominator/prescribed-ideal restrictions. Turyn overlap attributed; AR19 full-field quadratic repair retained outside this sector.",
+      "next": "Actual global binary compatibility at larger prime support; no numerical-order exclusion."
+    },
+    "2021": {
+      "status_and_pending": "UNRESOLVED annual question. Reviewed R29 and R30 exclude the entire exact R18 adjacent H8/H9-center m4/J15 branch, including its actual double-origin affine partners, under the printed (S), (W), (B4), (AC) hypotheses. The attributed a11 19-adic-unit corollary retains all other standing hypotheses. No all-frame-III, full-degree-20 or annual conclusion.",
+      "next": "Nonadjacent EC8/EC9, different H10-center branch, m4 a11-nonunit/a10-unit alternatives, m3 EC/T4, and other J/root/multiplicity patterns outside the accepted domain. Do not search for survivors inside the excluded branch."
+    },
+    "2022": {
+      "status_and_pending": "UNRESOLVED. PH13/IT12 and earlier scoped restrictions reviewed. ShortR14 positive-predecessor-wedge hand note completed, all NEWassertions UNVERIFIED; no universal hitting or infinite survivor.",
+      "next": "Resolve missing-predecessor/global ordinary-future obstruction; neither universal hitting nor an infinite ordinary survivor proved."
+    },
+    "2023": {
+      "status_and_pending": "COMPLETE internally reviewed classification for fixed positive nonsquare N: all(k,k),k>0, and(k,2k)/(2k,k) for positive ODD k. External publication priority unconfirmed.",
+      "next": "Retain full real-witness domain and attribution limits."
+    },
+    "2024": {
+      "status_and_pending": "UNRESOLVED. F15/CL14 and earlier scoped results reviewed, no new fullclassification. ShortR16 global polar/normal constraints and local-data nondivisor diagnostic completed UNVERIFIED.",
+      "next": "Global divisor compatibility/off-diagonal incidence beyond local orbit allocations and square restrictions."
+    },
+    "2025": {
+      "status_and_pending": "UNRESOLVED. JT13/ET12/R10/GR11 scoped results reviewed. ShortR14 small convolution-difference target UNVERIFIED; ONE C advisory found no algebraic defect conditionally, not two-audit acceptance or exclusion.",
+      "next": "Quantitative simultaneous compatibility with ORIGINAL Mobius pth-power relation, exactdepth2 actual(C) and nontrivialminusclasses."
+    }
+  },
+  "complete_annual_answers": 2,
+  "unresolved_annual_targets": 7,
+  "deferred": [
+    2026
+  ],
+  "mathematical_research_stopped_at_utc": "2026-10-19T05:52:42.404552+00:00",
+  "all_workers_checkpointed": true,
+  "no_new_candidate_pending_independent_review": true,
+  "exploratory_notes_remain_unverified": [
+    "2022 reserve R14",
+    "2024 reserve R16",
+    "2025 reserve R14 (one advisory only)"
+  ],
+  "R30": {
+    "status": "proved, independently reviewed scoped partial result",
+    "acceptance": "problems/2021-B4/reviews/reasoning-coverage-synthesis-r30-acceptance.md",
+    "whole_obligations_per_other_review": 12,
+    "closed_scope_notes": [
+      8,
+      8
+    ],
+    "unresolved_substantive_issues": 0,
+    "required_repairs": 0,
+    "initial_reports_independent_and_blind": true,
+    "explicit_BOTH_before_new_peer_access": true,
+    "coordinator_full_packet_reconciliation_and_all_four_final_acceptance_readbacks_complete": true,
+    "new_annual_solution": false,
+    "old_proof_recertification": false
+  },
+  "hourly_automation": {
+    "automation_id": "simon-marais-hourly-research-report",
+    "status": "PAUSED",
+    "confirmed_by_utc": "2026-10-19T06:54:12+00:00",
+    "tool_returned_status_PAUSED": true,
+    "separate_local_config_verification_passed": true,
+    "all_other_existing_fields_preserved": true
+  },
+  "keepawake": {
+    "pid": 79293,
+    "exec_session": 64368,
+    "assertion": "PreventUserIdleSystemSleep",
+    "last_verified_at_local": "2026-10-19T16:54:59+10:00",
+    "status": "active for final checkpoint; targeted release pending",
+    "release_only_owned_assertion": true,
+    "cleanup_pending": true
+  },
+  "last_previously_pushed_commit": "04ac3b7",
+  "next_actual_hourly_utc": null,
+  "automatic_later_window_authorized": false,
+  "reporting_delay": {
+    "scheduled_deadline_utc": "2026-10-19T06:14:35+00:00",
+    "actual_token_cutoff_utc": "2026-10-19T06:55:00.540772+00:00",
+    "seconds_late": 2425.540772,
+    "exact_cause": "unestablished; no intermediate telemetry fabricated; no new mathematics after R30 acceptance"
+  },
+  "token_scope": "THIS research chat and recursive agents only. Cached input is a subset of input; reasoning is a subset of output. Distinct usage-bearing records are deduplicated and all recorded session sums match cumulative readbacks.",
+  "limitations": "Local recorded observation while work is active. Unreported in-flight usage is excluded. Not a bill or a conversion to subscription percentage. No prompts, account IDs, credentials, or response IDs exported.",
+  "private_72h_usage_PDF_already_delivered_not_pushed": true,
+  "requested_worker_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning_effort": "max",
+    "independent_effective_backend_readback": null
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "frozen_UTC": "2026-10-19T05:49:12.883028+00:00",
+  "reviewer": "/root/review_2022_complexity_r2",
+  "role": "OTHER initially blind WHOLE2",
+  "ENTIRE_files": 5,
+  "ALL_obligations": 12,
+  "payloads": [
+    {
+      "path": "problems/2021-B4/reviews/reasoning-coverage-synthesis-r30-review-2-initial.md",
+      "bytes": 14880,
+      "sha256": "62b8dcaa478a4e6631c02b46f959b605e096710b66ef0b18af0e835c99c7d66c"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-coverage-synthesis-r30-review-2-sources-v1.json",
+      "bytes": 5540,
+      "sha256": "1f64dee366798d9d5e667c2a379737f1e02744120ce30b967edf493965ecd1ab"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-coverage-synthesis-r30-review-2-docadmin-v1.py",
+      "bytes": 4347,
+      "sha256": "c46bf2d0b3c7407495966fcd597fcc6bda39193285f32c7bab34340c93f7cd88"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-coverage-synthesis-r30-review-2-baseline-v1.json",
+      "bytes": 8755,
+      "sha256": "034a70f7e0637f1390240f9c139a3ca42cf2e9c807cb51314559ed938dc5b4ed"
+    }
+  ],
+  "ONE_compact_OWN_parent": {
+    "path": "problems/2021-B4/reviews/coordinator-original-roots-r29-review-2-manifest-v1.json",
+    "bytes": 2225,
+    "sha256": "d5836303ae27c88dde3beb5f8735940a11a885f71a1f0a5c6dd559a91528572e"
+  },
+  "guard_occurrences": 41,
+  "guard_unique_paths": 41,
+  "FULL_final_ALL4_payload_MODEL_readbacks_completed": true,
+  "FULL_manifest_MODEL_readback_THEN_SEPARATE_readonly_verify_REQUIRED": true,
+  "corresponding_NEW_peer_findings_files_actual_inventory_hash_metadata_access": false,
+  "findings_sealed_until_explicit_BOTH_release": true,
+  "requested": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independent_effective_backend_readback": null,
+  "quota": {
+    "start_usedPercent": 88,
+    "usedPercent": 89,
+    "observed_UTC": "2026-10-19 05:48:47 UTC",
+    "resetsAt": 1792874445,
+    "TOTAL_ceiling": 90,
+    "checkpoint_notify_at": 89,
+    "integration_reserve": true,
+    "automatic_later_window": false
+  }
+}

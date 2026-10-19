@@ -1,0 +1,91 @@
+{
+  "accepted_at_utc": "2026-10-19T05:52:42.404552+00:00",
+  "status": "proved, independently reviewed scoped partial result",
+  "whole_initials_blind": true,
+  "root_read_full_candidate_both_reports_all_ledgers_sources": true,
+  "unresolved_substantive_issues": 0,
+  "repair_required": false,
+  "candidate": {
+    "path": "problems/2021-B4/notes/reasoning-coverage-synthesis-r30-candidate-v1.md",
+    "bytes": 6894,
+    "sha256": "d6a0f75b3dcb1db590b9db2023eae29f8ab1ca0f927cc6f757c77e4f4f58bcaa"
+  },
+  "accepted_copy": {
+    "path": "problems/2021-B4/proofs/reviewed-reasoning-coverage-synthesis-r30-v1.1.md",
+    "bytes": 12722,
+    "sha256": "bbe606be553d74eea1404d4a5df183fc43a0037b0c83d2c11adf8a93998ce654"
+  },
+  "verification_metadata": [
+    {
+      "path": "problems/2021-B4/notes/reasoning-coverage-synthesis-r30-freeze-v1.json",
+      "bytes": 2394,
+      "sha256": "39ce9a61b63f77c40e3d83d2e229cccf9a10f1e75d5eb35151ec2327fdc05b8a"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-coverage-synthesis-r30-baseline-v1.json",
+      "bytes": 7956,
+      "sha256": "b6f841b76ffdf99119baa07a6a11962bb973389aebd95fcb4f9bd799f382964f"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-coverage-synthesis-r30-sources-v1.json",
+      "bytes": 3649,
+      "sha256": "f63311a1b69c24e799a116597d516366a8a645ab4b861257ba9a890d1da55365"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-coverage-synthesis-r30-review-1-manifest-v1.json",
+      "bytes": 2687,
+      "sha256": "2dc5ae12246384ea46b22c9d24a8b74c4a8c3e24bdc2a19d0c8f4239a968c532"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-coverage-synthesis-r30-review-1-baseline-v1.json",
+      "bytes": 9090,
+      "sha256": "6338e7a3208b8196d22f7499d1726a234491866efee681c2093275384deaed8d"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-coverage-synthesis-r30-review-1-sources-v1.json",
+      "bytes": 4964,
+      "sha256": "6140fae505d05cb907a5dbc6023ad644ee2754a2ac420bdcc05e08268962492d"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-coverage-synthesis-r30-review-2-manifest-v1.json",
+      "bytes": 2063,
+      "sha256": "ede6a9ef46a3d99eba8ba03feaa7c445b25eaf24abb02ab820b8227166f9999a"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-coverage-synthesis-r30-review-2-baseline-v1.json",
+      "bytes": 8755,
+      "sha256": "034a70f7e0637f1390240f9c139a3ca42cf2e9c807cb51314559ed938dc5b4ed"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-coverage-synthesis-r30-review-2-sources-v1.json",
+      "bytes": 5540,
+      "sha256": "1f64dee366798d9d5e667c2a379737f1e02744120ce30b967edf493965ecd1ab"
+    }
+  ],
+  "record_occurrences_verified": 139,
+  "unique_paths_verified": 51,
+  "constructor": "/root/review_2017_coarsening_r1",
+  "constructor_excluded": true,
+  "whole_reviewers": [
+    "/root/review_2021_reasoning_j15_r2",
+    "/root/review_2022_complexity_r2"
+  ],
+  "whole_obligations_per_review": 12,
+  "whole_review_files": [
+    5,
+    5
+  ],
+  "closed_scope_notes": [
+    8,
+    8
+  ],
+  "explicit_BOTH_before_NEW_peer_access": true,
+  "root_read_ENTIRE_author_both_reviews_all_code_metadata": true,
+  "theorem_application_audit_not_old_proof_recertification": true,
+  "ENTIRE_exact_R18_adjacent_branch_and_affine_partners_excluded": true,
+  "a11_19_unit_corollary_attributed_with_same_standing_hypotheses": true,
+  "arbitrary_frameIII_or_degree20_or_annual_claim": false,
+  "annual_open": true,
+  "priority_claim": false,
+  "no_mathematical_program_or_old_replay": true
+}

@@ -1,5 +1,7 @@
 # Weekly budget
 
+Final current-window boundary, 19 October 2026: research is PAUSED at 89% TOTAL weekly usage (06:54:59 UTC), reserving one percentage point below 90% for final integration and cleanup. Two annual answers complete; seven unresolved. R30 is accepted after both OTHER initially blind whole audits and full reconciliation. All workers checkpointed; no new candidate awaits review. Hourly automation confirmed PAUSED, with other fields preserved. No automatic later-window spending. [Final all-nine report](status-2026-10-19-final.md); [checkpoint](checkpoint-2026-10-19-final.md). Older dated entries below are historical.
+
 Current07:46 delayed actual report:62% TOTAL ACCOUNT-WIDE/reset1792874445/90TOTAL ceiling with reserve.
 PROJECT raw2,979,154,786 includes2,840,364,032 cached input;7,870,085 reasoning output;
 138,790,754 uncached input+output; literal cutoff21:39:37UTC. OWN79293 awake verified07:39:37.

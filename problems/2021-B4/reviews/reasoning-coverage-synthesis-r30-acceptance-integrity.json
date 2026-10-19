@@ -1,0 +1,82 @@
+{
+  "verified_at_utc": "2026-10-19T05:52:42.404552+00:00",
+  "all_verified": true,
+  "record_occurrences": 139,
+  "unique_paths": 51,
+  "inputs": [
+    {
+      "metadata": {
+        "path": "problems/2021-B4/notes/reasoning-coverage-synthesis-r30-freeze-v1.json",
+        "bytes": 2394,
+        "sha256": "39ce9a61b63f77c40e3d83d2e229cccf9a10f1e75d5eb35151ec2327fdc05b8a"
+      },
+      "record_occurrences_verified": 5
+    },
+    {
+      "metadata": {
+        "path": "problems/2021-B4/notes/reasoning-coverage-synthesis-r30-baseline-v1.json",
+        "bytes": 7956,
+        "sha256": "b6f841b76ffdf99119baa07a6a11962bb973389aebd95fcb4f9bd799f382964f"
+      },
+      "record_occurrences_verified": 37
+    },
+    {
+      "metadata": {
+        "path": "problems/2021-B4/notes/reasoning-coverage-synthesis-r30-sources-v1.json",
+        "bytes": 3649,
+        "sha256": "f63311a1b69c24e799a116597d516366a8a645ab4b861257ba9a890d1da55365"
+      },
+      "record_occurrences_verified": 0
+    },
+    {
+      "metadata": {
+        "path": "problems/2021-B4/reviews/reasoning-coverage-synthesis-r30-review-1-manifest-v1.json",
+        "bytes": 2687,
+        "sha256": "2dc5ae12246384ea46b22c9d24a8b74c4a8c3e24bdc2a19d0c8f4239a968c532"
+      },
+      "record_occurrences_verified": 5
+    },
+    {
+      "metadata": {
+        "path": "problems/2021-B4/reviews/reasoning-coverage-synthesis-r30-review-1-baseline-v1.json",
+        "bytes": 9090,
+        "sha256": "6338e7a3208b8196d22f7499d1726a234491866efee681c2093275384deaed8d"
+      },
+      "record_occurrences_verified": 42
+    },
+    {
+      "metadata": {
+        "path": "problems/2021-B4/reviews/reasoning-coverage-synthesis-r30-review-1-sources-v1.json",
+        "bytes": 4964,
+        "sha256": "6140fae505d05cb907a5dbc6023ad644ee2754a2ac420bdcc05e08268962492d"
+      },
+      "record_occurrences_verified": 1
+    },
+    {
+      "metadata": {
+        "path": "problems/2021-B4/reviews/reasoning-coverage-synthesis-r30-review-2-manifest-v1.json",
+        "bytes": 2063,
+        "sha256": "ede6a9ef46a3d99eba8ba03feaa7c445b25eaf24abb02ab820b8227166f9999a"
+      },
+      "record_occurrences_verified": 5
+    },
+    {
+      "metadata": {
+        "path": "problems/2021-B4/reviews/reasoning-coverage-synthesis-r30-review-2-baseline-v1.json",
+        "bytes": 8755,
+        "sha256": "034a70f7e0637f1390240f9c139a3ca42cf2e9c807cb51314559ed938dc5b4ed"
+      },
+      "record_occurrences_verified": 42
+    },
+    {
+      "metadata": {
+        "path": "problems/2021-B4/reviews/reasoning-coverage-synthesis-r30-review-2-sources-v1.json",
+        "bytes": 5540,
+        "sha256": "1f64dee366798d9d5e667c2a379737f1e02744120ce30b967edf493965ecd1ab"
+      },
+      "record_occurrences_verified": 2
+    }
+  ],
+  "exact_rows_bound_in_immutable_inputs": true,
+  "administrative_only": true
+}

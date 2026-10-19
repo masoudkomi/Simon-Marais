@@ -1,4 +1,6 @@
-# Current restart boundary —2026-10-18 19:27Brisbane
+# Current restart boundary — 19 October 2026, paused below the weekly ceiling
+
+Final current-window boundary, 19 October 2026: research is PAUSED at 89% TOTAL weekly usage (06:54:59 UTC), reserving one percentage point below 90% for final integration and cleanup. Two annual answers complete; seven unresolved. R30 is accepted after both OTHER initially blind whole audits and full reconciliation. All workers checkpointed; no new candidate awaits review. Hourly automation confirmed PAUSED, with other fields preserved. No automatic later-window spending. [Final all-nine report](status-2026-10-19-final.md); [checkpoint](checkpoint-2026-10-19-final.md). Older dated entries below are historical.
 
 Current19October12:44Brisbane: [checkpoint](checkpoint-2026-10-19-1244.md).83%TOTAL02:41:34UTC/current1792874445,7ppthrough90TOTAL includingreserve. ET12/R26accepted; rootR27author5/32UNVERIFIED,A/BOTHERblindwholeauditsactive, correspondingpeerembargo. R20/JM16BOTHreleased/rootENTIREreconciliationpending. Cphysical2022handresearch. NextACTUAL03:14:35UTC,tokens12:14. OWNawake79293/session64368forever; releaseonlywhenactualresearchstops; no laterwindowautomaticspending.
 

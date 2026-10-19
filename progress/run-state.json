@@ -1,8 +1,8 @@
 {
   "branch": "codex/smmc-b4-research",
   "remote": "https://github.com/masoudkomi/Simon-Marais.git",
-  "phase": "R29 accepted; finalintegration and read-only casecoverage within88TOTALreserve",
-  "last_pushed_commit": "ae4bd05",
+  "phase": "PAUSED below 90% total weekly usage; final checkpoint and owned-assertion cleanup",
+  "last_pushed_commit": "04ac3b7",
   "initial_passes_complete": [
     2017,
     2018,
@@ -14,28 +14,12 @@
     2024,
     2025
   ],
-  "active": [
-    {
-      "agent": "review_2017_coarsening_r1",
-      "year": 2021,
-      "role": "boundedREADONLYacceptedcasecoverage"
-    },
-    {
-      "agent": "review_2021_reasoning_j15_r2",
-      "year": null,
-      "role": "checkpointstandby"
-    },
-    {
-      "agent": "review_2022_complexity_r2",
-      "year": null,
-      "role": "checkpointstandby"
-    }
-  ],
+  "active": [],
   "initial_passes_pending": [],
   "deferred": [
     2026
   ],
-  "weekly_used_percent_last_observed": 88,
+  "weekly_used_percent_last_observed": 89,
   "weekly_reset_unix": 1792874445,
   "caffeinate": {
     "user_authorization": "keepcomputerawakeuntil90%weeklyquota; permissionforoneagentmustnotinterruptothers",
@@ -43,16 +27,17 @@
     "exec_session": 64368,
     "duration_seconds": null,
     "started_at_utc_approx": "2026-10-17T01:07:50+00:00",
-    "verified_at_local": "2026-10-19T15:37:23+10:00",
+    "verified_at_local": "2026-10-19T16:54:59+10:00",
     "assertion": "PreventUserIdleSystemSleep",
-    "verified_detail": "OWN79293 positive52:29:34 PreventUserIdleSystemSleep assertingforever",
+    "verified_detail": "OWN79293 positive53:47:10 PreventUserIdleSystemSleep assertingforever",
     "cleanup": "At90% total weekly usage or actual research termination, stop only owned session64368 via targeted Ctrl-C; PID79293 recorded for fallback. No timed expiry.",
     "previous_session": 14140,
     "previous_exit_code_after_targeted_ctrl_c": 130,
-    "next_check_utc": "2026-10-19T06:14:35+00:00"
+    "next_check_utc": null,
+    "cleanup_pending": true
   },
-  "notes": "2annualcomplete/7unresolved; R29retainedbranchEMPTY;88TOTALsame1792874445 includes2ppfinalreserve. Actualtokens05:37:25UTC.",
-  "observed_at_utc": "2026-10-19T05:37:23+00:00",
+  "notes": "Two annual answers complete; seven unresolved. R30 accepted after both independent whole audits and full reconciliation. Stopping at 89% TOTAL reserves one percentage point before the authorized 90% ceiling.",
+  "observed_at_utc": "2026-10-19T07:01:48.887658+00:00",
   "coordinator_compute": {
     "status": "all constructor children completed and reaped",
     "complex_complement_child_pid": 37199,
@@ -61,14 +46,14 @@
     "complex_family_count": 6224952,
     "new_complex_extension_audits": "both complete, accepted"
   },
-  "latest_all_nine_report": "progress/status-2026-10-19-1537.md",
-  "coordinator_current": "finalintegration/read-onlycoverage; nofurtherauthors/computation; stop preferablybelow90TOTAL withcheckpointpush",
-  "latest_checkpoint": "progress/checkpoint-2026-10-19-1537.md",
+  "latest_all_nine_report": "progress/status-2026-10-19-final.md",
+  "coordinator_current": "No new research, candidates, computation or agents. Save R30 and final status, push, release only owned sleep assertion. Do not automatically spend into a later window.",
+  "latest_checkpoint": "progress/checkpoint-2026-10-19-final.md",
   "pending_unverified": [
-    "2022reserveR14exploratory",
-    "2024reserveR16exploratory",
-    "2025reserveR14exploratory/ONEadvisoryonly",
-    "olderroot2020source/2024degreegapUNVERIFIED"
+    "2022 reserve R14 exploratory",
+    "2024 reserve R16 exploratory",
+    "2025 reserve R14 exploratory / ONE advisory only",
+    "older root 2020 source / 2024 degree-gap UNVERIFIED"
   ],
   "usage_telemetry_conflict": {
     "last_consistent_old_window": {
@@ -86,26 +71,28 @@
     "explicit_user_authorization": "keep going till90%of the newly reported weekly window....do not stop",
     "authorization_recorded_at_utc": "2026-10-18T00:00:36.393369+00:00"
   },
-  "weekly_last_observed_at_utc": "2026-10-19 05:37:23 UTC",
+  "weekly_last_observed_at_utc": "2026-10-19T06:54:59+00:00",
   "hourly_reporting": {
     "automation_id": "simon-marais-hourly-research-report",
     "kind": "heartbeat",
-    "status": "ACTIVE",
+    "status": "PAUSED",
     "cadence": "hourly",
     "baseline": "progress/hourly-report-2026-10-18-1037.json",
-    "last_report": "progress/hourly-report-2026-10-19-1537.json",
-    "latest_actual_report": "progress/hourly-report-2026-10-19-1537.json",
-    "next_manual_check_utc": "2026-10-19T06:14:35+00:00",
+    "last_report": "progress/hourly-report-2026-10-19-final.json",
+    "latest_actual_report": "progress/hourly-report-2026-10-19-final.json",
+    "next_manual_check_utc": null,
     "cadence_failure_recorded": true,
-    "configuration_active_not_proof_of_delivery": true
+    "configuration_active_not_proof_of_delivery": true,
+    "configuration_pause_verified": true,
+    "other_existing_fields_preserved": true
   },
   "review_independence_event_r13": {
     "early_brief_user_disposition_disclosed": true,
     "second_reviewer_explicitly_confirmed_no_new_root_conclusion_commentary_or_material_seen": true,
     "detailed_reports_embargoed_until_both_entire_initials": true
   },
-  "latest_actual_hourly_report": "progress/status-2026-10-19-1537.md",
-  "next_actual_hourly_utc": "2026-10-19T06:14:35+00:00",
+  "latest_actual_hourly_report": "progress/status-2026-10-19-final.md",
+  "next_actual_hourly_utc": null,
   "reporting_interruption": {
     "cause": "A single public-PDF in-app-browser tool call unexpectedly took11095.9647seconds to return; coordinator could not issue updates while blocked.",
     "not_permission_request": true,
@@ -130,7 +117,7 @@
     "no_network_or_inference_for_data_gathering": true,
     "no_install_source_or_configuration_change": true
   },
-  "latest_actual_hourly_snapshot": "progress/hourly-report-2026-10-19-1537.json",
+  "latest_actual_hourly_snapshot": "progress/hourly-report-2026-10-19-final.json",
   "r26_assignment_transcription_correction": {
     "only_launch_text": true,
     "correct_freeze": {
@@ -142,10 +129,10 @@
     "mathematical_repair": false
   },
   "latest_hourly_delay": {
-    "scheduled_deadline_utc": "2026-10-19T05:14:35+00:00",
-    "actual_token_cutoff_utc": "2026-10-19T05:37:25.956134+00:00",
-    "seconds_late": 1370.956134,
-    "explanation": "Late coordinator report; exact cause unestablished. No intermediate telemetry fabricated."
+    "scheduled_deadline_utc": "2026-10-19T06:14:35+00:00",
+    "actual_token_cutoff_utc": "2026-10-19T06:55:00.540772+00:00",
+    "seconds_late": 2425.540772,
+    "exact_cause": "unestablished; no intermediate telemetry fabricated; no new mathematics after R30 acceptance"
   },
   "PH13_launch_digest_precision": {
     "actual_author_digest": "256bedd300fa0ce8ebe1ee1f69d47e1246a7c5c2c50f802e6d3d2d2ce5e6c1c6",
@@ -153,5 +140,19 @@
     "rejected_before_baseline_write": true,
     "corrected_to_unchanged_observed_bytes": true,
     "mathematical_repair": false
-  }
+  },
+  "latest_candidate": {
+    "name": "R30casecoverage",
+    "freeze": "problems/2021-B4/notes/reasoning-coverage-synthesis-r30-freeze-v1.json",
+    "bytes": 2394,
+    "sha256": "39ce9a61b63f77c40e3d83d2e229cccf9a10f1e75d5eb35151ec2327fdc05b8a",
+    "full_author_readbacks_and_separate_verification_complete": true,
+    "NEW_peer_access_before_BOTH": false,
+    "status": "proved, independently reviewed scoped partial result",
+    "accepted_at_utc": "2026-10-19T05:52:42.404552+00:00",
+    "both_other_whole_audits_complete": true,
+    "coordinator_reconciliation_complete": true
+  },
+  "mathematical_research_stopped_at_utc": "2026-10-19T05:52:42.404552+00:00",
+  "automatic_later_window_authorized": false
 }
