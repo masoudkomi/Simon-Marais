@@ -1,0 +1,82 @@
+{
+  "reviewer": "/root/review_2021_reasoning_j15_r2",
+  "target": "IT12A--D; OTHER initially blind ENTIRE WHOLE1, ALL40",
+  "date_UTC": "2026-10-19",
+  "requested": {"model": "gpt-6.1-sol", "reasoning": "max", "inherited": true},
+  "independent_effective_setting_readback": null,
+  "official": {
+    "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2022-paper-b.pdf",
+    "fresh_literal_read": "Page2 B4 setup lines58--65 and open(b)69--70; local statement FULL",
+    "scope": "Positive ordinary integers, inclusive product600, simultaneous OLD pair, equality at time0; no preliminary(a) research",
+    "web_read_handle": "turn2841view0",
+    "PDF_binary_hash": null
+  },
+  "accepted_inputs": [
+    {
+      "id": "D9",
+      "body": "problems/2022-B4/proofs/reviewed-reasoning-dynamics-return-r9-v1.1.md",
+      "authority_md": "problems/2022-B4/reviews/reasoning-dynamics-return-r9-acceptance.md",
+      "authority_json": "problems/2022-B4/reviews/reasoning-dynamics-return-r9-acceptance.json",
+      "fresh_read": "COMPLETE current accepted body and EACH authority MDJSON",
+      "operative_limit": "Actual twin/first-event conventions; sigma may be infinite; no infinite seed or universal hitting"
+    },
+    {
+      "id": "RC10",
+      "body": "problems/2022-B4/proofs/reviewed-reasoning-collision-return-r10-v1.1.md",
+      "authority_md": "problems/2022-B4/reviews/reasoning-collision-return-r10-acceptance.md",
+      "authority_json": "problems/2022-B4/reviews/reasoning-collision-return-r10-acceptance.json",
+      "fresh_read": "COMPLETE current accepted body and EACH authority MDJSON",
+      "operative_limit": "Exact selected branches/finite words/periodic-code obstruction, not complete D9 classification or ordinary infinite lift"
+    },
+    {
+      "id": "CR11",
+      "body": "problems/2022-B4/proofs/reviewed-reasoning-critical-return-r11-v1.1.md",
+      "authority_md": "problems/2022-B4/reviews/reasoning-critical-return-r11-acceptance.md",
+      "authority_json": "problems/2022-B4/reviews/reasoning-critical-return-r11-acceptance.json",
+      "fresh_read": "COMPLETE current accepted body and EACH authority MDJSON",
+      "operative_limit": "GLOBAL monotone-coordinate obstructions; no individual safe-itinerary exclusion"
+    }
+  ],
+  "primary_sources": [
+    {
+      "id": "DM09",
+      "title": "A. Dubickas and M. J. Mossinghoff, Lower bounds for Z-numbers",
+      "citation": "Math. Comp.78(2009),1837--1851; DOI10.1090/S0025-5718-09-02211-X",
+      "url": "https://www.researchgate.net/publication/220576840_Lower_bounds_for_Z-numbers",
+      "access": "Public original article body uploaded by coauthor Mossinghoff",
+      "fresh_literal_read": "COMPLETE Section1 lines77--227; Lemma3.1 statement/COMPLETE proof375--412; Proposition3.1 statement/COMPLETE proof439--462; Proposition3.2 statement/COMPLETE proof466--509",
+      "handles": ["turn2841view1", "turn2842view0"],
+      "hypothesis_check": "Fixed coprime p>q>=2, positive ordinary seed and nonempty proper S; singleton-only Proposition3.2; Proposition3.1 assumes termination. Lemma3.1 additionally requires its fractional-part window and p<q^2.",
+      "nonimport": "No general multi-residue termination, reverse conditional implication, or Z-number window is supplied by IT12",
+      "abstract_precision": "Generated platform abstract inequality differs from original body; original body used",
+      "PDF_binary_hash": null,
+      "whole_paper_algorithms_or_current_literature_completeness_claimed": false
+    },
+    {
+      "id": "LS",
+      "title": "J. C. Lagarias and N. J. A. Sloane, Approximate squaring",
+      "url": "https://neilsloane.com/doc/apsq.pdf",
+      "access": "Author-hosted PDF text",
+      "fresh_literal_read": "Section5 definitions1328--1438; Theorem5 statement/COMPLETE proof1476--1552; remarks1553--1585. A targeted open at1586 returned a wider excerpt and the reviewer ALSO read Theorem6 statement/COMPLETE proof1586--1698; later numerical material is not an input.",
+      "handles": ["turn2841view2", "turn2842view1", "turn2842view2", "turn2845view0"],
+      "hypothesis_check": "Class P_r uses one fixed reduced rational slope and finitely many residue corrections. Theorem5 is denominator2; Theorem6 bounds exceptional-set size without emptiness.",
+      "nonimport": "Neither theorem gives the required denominator100 proper-set termination; no theorem conclusion imported into IT12",
+      "PDF_binary_hash": null,
+      "whole_22_page_or_visual_audit_claimed": false
+    }
+  ],
+  "new_argument": "Every IT12 inference reconstructed by hand; no external source theorem supplies a new termination or existence step",
+  "old_roles": "A constructed older D6 and several 2021/2024 inputs and reviewed older 2022 CF/Q/return packets; accepted inputs are not independently self-recertified. A did not construct IT12.",
+  "precision_events": {
+    "author_embedded_OLD_R24_administrative_parent_identity_seen": true,
+    "OLD_R24_actual_hash_deferred_until_root_explicit_BOTH_release_confirmation": true,
+    "OLD_R24_peer_mathematical_report_MODEL_read_for_IT12": false,
+    "root_OLD_R24_acceptance_status_received": true,
+    "NEW_corresponding_IT12_peer_findings_inventory_open_hash_meta_or_commentary_access": false,
+    "own_JC15_author_parent_not_IT12_mathematical_premise": true
+  },
+  "no_mathematical_code_CAS_scan_test_old_author_source_replay": true,
+  "no_new_paper_download_cache_write_charge_contact_or_bypass": true,
+  "no_Git_shared_old_byte_mutation": true,
+  "raw_web_handles_are_read_provenance_not_binary_hashes": true
+}

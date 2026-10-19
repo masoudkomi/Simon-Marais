@@ -1,0 +1,52 @@
+{
+  "reviewer": "/root/review_2017_coarsening_r1",
+  "status": "initially blind whole2 source record; no source termination import",
+  "requested": {"model":"gpt-6.1-sol","reasoning":"max","inherited":true},
+  "independent_effective_backend_readback": null,
+  "date_UTC": "2026-10-19",
+  "sources": [
+    {
+      "id":"OFF22",
+      "title":"Official SMMC2022 PaperB B4(b)",
+      "url":"https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2022-paper-b.pdf",
+      "read":"Fresh returned58-65 and69-70; exact setup and open(b)",
+      "used":"Positive ordinary initial pair, inclusive product600, simultaneous OLD updates and nonnegative hit time",
+      "binary_hash":null
+    },
+    {
+      "id":"DM09",
+      "title":"Dubickas-Mossinghoff, Lower bounds for Z-numbers, Math.Comp.78(2009),1837-1851",
+      "doi":"10.1090/S0025-5718-09-02211-X",
+      "url":"https://www.researchgate.net/publication/220576840_Lower_bounds_for_Z-numbers",
+      "primary_provenance":"Public full article uploaded by coauthor Mossinghoff; original body used rather than generated abstract",
+      "read":"Fresh Section1 77-227; Lemma3.1 complete375-412; Proposition3.1 complete439-462; Proposition3.2 complete466-509. Additional returned context through635 read; no entire-paper or algorithm audit.",
+      "hypotheses":"Fixed reduced p/q>1, positive ordinary seed, nonempty proper S; Proposition3.2 requires singleton; Proposition3.1 assumes universal termination. Lemma3.1 additionally requires a Z-number window and2<=q<p<q^2.",
+      "role":"Definition/source comparison and exact nonimports; sizes2/3/5 are not the singleton theorem, no reversed conditional or Z-window supplied.",
+      "warning":"Generated abstract inequality differs from operative article body.",
+      "binary_hash":null,
+      "full_current_literature_or_whole_paper_claim":false
+    },
+    {
+      "id":"LS03",
+      "title":"Lagarias-Sloane, Approximate squaring",
+      "url":"https://neilsloane.com/doc/apsq.pdf",
+      "primary_provenance":"Author-hosted PDF text",
+      "read":"Fresh Section5 definitions1328-1438; COMPLETE Theorem5 statement/proof1476-1552; returned following remarks through1576. No fresh Theorem6 proof read.",
+      "hypotheses":"Common fixed rational slope, periodically linear residue corrections; Theorem5 denominator exactly TWO",
+      "role":"No denominator100 termination conclusion; source class distinguished from original two-coordinate physical clocks",
+      "binary_hash":null,
+      "whole_paper_or_visual_audit":false
+    }
+  ],
+  "accepted_local_reads": [
+    {"id":"D9","body":"problems/2022-B4/proofs/reviewed-reasoning-dynamics-return-r9-v1.1.md","authority_md":"problems/2022-B4/reviews/reasoning-dynamics-return-r9-acceptance.md","authority_json":"problems/2022-B4/reviews/reasoning-dynamics-return-r9-acceptance.json","read":"FULL body and EACH current MDJSON","role":"Actual twin/first-event interface, sigma may be infinite; reviewer is OLD constructor, not independent recertifier"},
+    {"id":"RC10","body":"problems/2022-B4/proofs/reviewed-reasoning-collision-return-r10-v1.1.md","authority_md":"problems/2022-B4/reviews/reasoning-collision-return-r10-acceptance.md","authority_json":"problems/2022-B4/reviews/reasoning-collision-return-r10-acceptance.json","read":"FULL body recovered after combined display clipping; EACH current MDJSON","role":"Selected branch and finite/infinite/variable-clock scope; reviewer OLD whole auditor"},
+    {"id":"CR11","body":"problems/2022-B4/proofs/reviewed-reasoning-critical-return-r11-v1.1.md","authority_md":"problems/2022-B4/reviews/reasoning-critical-return-r11-acceptance.md","authority_json":"problems/2022-B4/reviews/reasoning-critical-return-r11-acceptance.json","read":"FULL body and EACH current MDJSON","role":"GLOBAL monotone obstruction does not exclude one particular itinerary; reviewer OLD whole auditor"}
+  ],
+  "external_source_supplies_NEW_IT12_theorem":false,
+  "new_proof_independently_reconstructed_by_hand":true,
+  "downloads_cache_mutations_or_source_executable_replay":false,
+  "mathematical_program_CAS_scan_test":false,
+  "corresponding_NEW_whole1_peer_access_before_ENTIRE_initial":false,
+  "separate_JC15_peer_embargo_preserved":true
+}

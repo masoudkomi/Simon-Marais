@@ -1,0 +1,69 @@
+{
+  "frozen_UTC": "2026-10-19T00:51:05.649499+00:00",
+  "status": "OTHER initially blind WHOLE1; findings SEALED until explicit BOTH",
+  "reviewer": "/root/review_2022_complexity_r2",
+  "NEW_constructor": "/root/review_2017_coarsening_r1",
+  "reviewer_not_NEW_constructor": true,
+  "ENTIRE_files": 5,
+  "payload_count": 4,
+  "ALL_obligations": 48,
+  "author_packet": {
+    "path": "problems/2024-B4/notes/reasoning-classification-return-r14-freeze-v1.json",
+    "bytes": 1836,
+    "sha256": "89a6e276fe28ba0bc2f1a5ffe94636353efc6c457f613dbb1f5767c4dd683d73"
+  },
+  "payloads": [
+    {
+      "path": "problems/2024-B4/reviews/reasoning-classification-return-r14-review-1-initial-v1.md",
+      "bytes": 30092,
+      "sha256": "37a2031a93cc1ed988981f9d69aedf8cbf7bb03cd23d1e4add4ac9bb922c875d"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-classification-return-r14-review-1-sources-v1.json",
+      "bytes": 4918,
+      "sha256": "c53eaae29d761e2b1f726b58dd0a0a35d666a1b30708601c7aeaadc8e1b171c4"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-classification-return-r14-review-1-admin-v1.py",
+      "bytes": 7598,
+      "sha256": "a346fe5a0f6578c5a1e3beee83fe63ab9a23bfd8fe3b5486dbbc000b9e252278"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-classification-return-r14-review-1-baseline-v1.json",
+      "bytes": 11249,
+      "sha256": "81fbe19821728410661e891a29a0add7fcd44c64a4fa18ac267ce70e5a2cb815"
+    }
+  ],
+  "guard_summary": {
+    "occurrences": 41,
+    "unique_paths": 29,
+    "canonical_deduplicated_sha256": "167f470b2194ac0f314070a88de6580ecf18fa849122ecbff91e91f7ce8fffc6"
+  },
+  "immediate_own_parent": {
+    "path": "problems/2022-B4/notes/reasoning-itinerary-return-r12-freeze-v1.json",
+    "bytes": 2169,
+    "sha256": "32927019eee4697bfed786bb9713f8d7af90359db121d75b5a16922cb336fceb"
+  },
+  "FULL_final_ALL4_payload_MODEL_readbacks_completed": true,
+  "FULL_manifest_MODEL_readback_then_SEPARATE_readonly_verify_REQUIRED": true,
+  "new_corresponding_peer_findings_files_actual_inventory_hash_metadata_access": false,
+  "explicit_BOTH_release_required": true,
+  "requested": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independent_effective_backend_readback": null,
+  "quota": {
+    "usedPercent": 76,
+    "observed_UTC": "2026-10-19 00:50:21 UTC",
+    "resetsAt": 1792874445,
+    "windowDurationMins": 10080,
+    "ordinaryUsageAllowed": true,
+    "TOTAL_ceiling": 90,
+    "reserve": true,
+    "automatic_later_window_spending": false
+  },
+  "mathematical_program_CAS_scan_test_old_replay": false,
+  "Git_shared_old_cache_mutation": false
+}

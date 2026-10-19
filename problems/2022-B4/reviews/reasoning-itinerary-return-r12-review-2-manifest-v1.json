@@ -1,0 +1,62 @@
+{
+  "frozen_UTC": "2026-10-19T01:27:01.439761+00:00",
+  "status": "OTHER initially blind ENTIRE whole2; findings SEALED until explicit BOTH release",
+  "reviewer": "/root/review_2017_coarsening_r1",
+  "NEW_IT12_constructor": false,
+  "old_D9_constructor_not_independently_recertified": true,
+  "requested": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independent_effective_backend_readback": null,
+  "ENTIRE_files": 5,
+  "payload_count": 4,
+  "whole_obligations": 40,
+  "payloads": [
+    {
+      "path": "problems/2022-B4/reviews/reasoning-itinerary-return-r12-review-2-initial-v1.md",
+      "bytes": 24109,
+      "sha256": "b79f140ae03b9a5f808f3558512f37a2fc8d44ee66510e0e9f43b925fa609245"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-itinerary-return-r12-review-2-sources-v1.json",
+      "bytes": 4225,
+      "sha256": "deb7e8027e2fc160b8ffcb25fded99aeb72dd2d3e8f3311a092ae2836249e6d5"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-itinerary-return-r12-review-2-admin-v1.py",
+      "bytes": 6794,
+      "sha256": "d1021128d5bb6a2f4a5d7ed96344901ed5a883169f671ab0fa728951dd6f0a27"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-itinerary-return-r12-review-2-baseline-v1.json",
+      "bytes": 6407,
+      "sha256": "973fba8378847a3519edfc743f075fb93abfddf98f7fd64823398e10cd2e24e3"
+    }
+  ],
+  "guard_occurrences_verified": 26,
+  "guard_unique_paths": 26,
+  "guard_digest_sha256": "e8396469804fe80aaa3e92f670f89196dfcb3b2c91c62469429bd97cbe821451",
+  "immediate_OWN_parent": {
+    "path": "problems/2017-B4/reviews/reasoning-joint-return-r15-review-1-manifest-v1.json",
+    "bytes": 1961,
+    "sha256": "2c41659612a4ef0370d4afa3957fa0767023135d9150bc80b9770403abe9d4df"
+  },
+  "FULL_final_ALL4_payload_MODEL_readbacks_completed_before_freeze": true,
+  "FULL_manifest_MODEL_readback_THEN_SEPARATE_readonly_verify_REQUIRED": true,
+  "NEW_corresponding_peer_inventory_content_hash_metadata_access": false,
+  "separate_JC15_peer_and_findings_embargo_preserved": true,
+  "mathematical_program_CAS_scan_test_old_replay": false,
+  "Git_shared_old_cache_mutation": false,
+  "quota": {
+    "usedPercent": 77,
+    "root_confirmation_UTC": "2026-10-19 01:15:01 UTC",
+    "resetsAt": 1792874445,
+    "windowDurationMins": 10080,
+    "ordinaryUsageAllowed": true,
+    "TOTAL_ceiling": 90,
+    "review_integration_reserve": true,
+    "automatic_later_window_spending": false
+  }
+}

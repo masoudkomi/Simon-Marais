@@ -1,0 +1,281 @@
+{
+  "created_UTC": "2026-10-19T00:50:45.193546+00:00",
+  "status": "Initially blind WHOLE1; findings sealed",
+  "author_packet": {
+    "path": "problems/2024-B4/notes/reasoning-classification-return-r14-freeze-v1.json",
+    "bytes": 1836,
+    "sha256": "89a6e276fe28ba0bc2f1a5ffe94636353efc6c457f613dbb1f5767c4dd683d73"
+  },
+  "ALL_obligations": 48,
+  "necessary_immutable_guards": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-deep-return-r24-review-2-admin-v1.py",
+      "bytes": 8358,
+      "sha256": "fda63221f4ca97942bbcdcd1c1bc533fb80c07f7434a3565bbb1699c1166c087"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-deep-return-r24-review-2-baseline-v1.json",
+      "bytes": 2966,
+      "sha256": "46d90a433e2edb81cb4113d6b224d4142cd10b252e21e82ad18ad7e8e9835e23"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-deep-return-r24-review-2-initial-v1.md",
+      "bytes": 19499,
+      "sha256": "aa3d7525d6da135eac0bec6d6f47830d22b968b2f54fc186bc78ce90cd0606d5"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-deep-return-r24-review-2-manifest-v1.json",
+      "bytes": 2096,
+      "sha256": "ea9c59b120bb0a89b6b53f375c81296ac014ea96b23b4f037079d2916a22e328"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-deep-return-r24-review-2-sources-v1.json",
+      "bytes": 3308,
+      "sha256": "062355165de3845860997de71479b3abd7ecfa759c1303f55a867eb91ced0423"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-itinerary-return-r12-admin-v1.py",
+      "bytes": 6890,
+      "sha256": "c482248756ecf9a60ae39324264bba056128e1ec4f2fbb59bfeedbb4c0a8492e"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-itinerary-return-r12-baseline-v1.json",
+      "bytes": 4040,
+      "sha256": "c1bae43b2be026b40928d7fade6da77d300d703e396c83ea6e9eb23da7ee3967"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-itinerary-return-r12-candidate-v1.md",
+      "bytes": 29141,
+      "sha256": "50c4816c270fa6f3c1508ec93ffdcffedbe06514e74b0f097f037752e2c47ad7"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-itinerary-return-r12-freeze-v1.json",
+      "bytes": 2169,
+      "sha256": "32927019eee4697bfed786bb9713f8d7af90359db121d75b5a16922cb336fceb"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-itinerary-return-r12-sources-v1.json",
+      "bytes": 5735,
+      "sha256": "e32fecb35d1c82b9fd1d8ba395bcb276782e721e58f390c8f59017bd1ecea551"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-classification-return-r14-admin-v1.py",
+      "bytes": 7722,
+      "sha256": "5b0d392a0ae5000efc3702b01887e7c902a54618dda283ea9241b32bc99e6fa2"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-classification-return-r14-baseline-v1.json",
+      "bytes": 8258,
+      "sha256": "86d317bb147feeac7889b94e006d77dfdc992100a204b46ab6deaaade82d5fbc"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-classification-return-r14-candidate-v1.md",
+      "bytes": 29009,
+      "sha256": "9f6041dcfda7e87d5b7c4c0c73a2e757bc0d1413c3c45d1e4683f7cc69dc8d29"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-classification-return-r14-freeze-v1.json",
+      "bytes": 1836,
+      "sha256": "89a6e276fe28ba0bc2f1a5ffe94636353efc6c457f613dbb1f5767c4dd683d73"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-classification-return-r14-sources-v1.json",
+      "bytes": 5742,
+      "sha256": "1a41d4794c7fb75020d380144181f08cbc94c546e54b285c6fc1d5c4be89a52d"
+    },
+    {
+      "path": "problems/2024-B4/proofs/reviewed-coordinator-tensor-family-return-r13-v1.1.md",
+      "bytes": 24196,
+      "sha256": "d63364d6f874e52f0a1610d3d168213993034ff8d293b20259009072d779787b"
+    },
+    {
+      "path": "problems/2024-B4/proofs/reviewed-coordinator-tensor-return-r12-v1.1.md",
+      "bytes": 29355,
+      "sha256": "48b6926a174202e447e04673f0507fc8e4708c7ee212fd3a68d6b90957a2845f"
+    },
+    {
+      "path": "problems/2024-B4/proofs/reviewed-reasoning-frobenius-return-r10-v1.1.md",
+      "bytes": 27940,
+      "sha256": "ce9a3c9e00ce931716fe00d6ea0a605167ddf58a29779d459a62cbc9dd04d173"
+    },
+    {
+      "path": "problems/2024-B4/proofs/reviewed-reasoning-frobenius-return-r11-v1.1.md",
+      "bytes": 18332,
+      "sha256": "d585689283fe2dcd748c8c4385bdaf9faef5d66763b72e15ad4f213c76475d28"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-tensor-family-return-r13-acceptance.json",
+      "bytes": 3742,
+      "sha256": "2ffa599040753ccf7a93f8ba6f4df6ae577777eb5fe03e52e57c8f72c1b6a772"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-tensor-family-return-r13-acceptance.md",
+      "bytes": 6137,
+      "sha256": "a338500a19e9101a8679b999acc77d6e0bbd60f54c8e0ed70c44096207e61a39"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-tensor-return-r12-acceptance.json",
+      "bytes": 3501,
+      "sha256": "30eb2b734af32202527174a145d2c5604ad62ce72918361e30c12a55dd5bd9f2"
+    },
+    {
+      "path": "problems/2024-B4/reviews/coordinator-tensor-return-r12-acceptance.md",
+      "bytes": 4545,
+      "sha256": "e249d970a412669e07bfa0eead8770e65c329bdc2a08f786c508174b825fb123"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-frobenius-return-r10-acceptance.json",
+      "bytes": 3682,
+      "sha256": "fdaf0350da036559371864a15a4e78b9102f176995b1ec672ef3f7e68b72d5be"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-frobenius-return-r10-acceptance.md",
+      "bytes": 4987,
+      "sha256": "4c2982ad2f8367e02b6c6f989c0a9ed9cb275a92b5b968bfab5d7494ed432867"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-frobenius-return-r11-acceptance.json",
+      "bytes": 3660,
+      "sha256": "ab6d8a3ea45ac6c15e1f159c0541ad3b8c06404db2ff430fdf9c5b325ad60d9b"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-frobenius-return-r11-acceptance.md",
+      "bytes": 4133,
+      "sha256": "ed59e1235bef9370b41ea42f77a2e38e0b5a4f2cae2897cb953b1be85550f82e"
+    },
+    {
+      "path": "problems/2024-B4/statement.md",
+      "bytes": 2470,
+      "sha256": "60244f7752634772adb434efbdb41a63fb02029dc3be4238f3718c6e5ec84e5f"
+    }
+  ],
+  "guard_summary": {
+    "occurrences": 41,
+    "unique_paths": 29,
+    "canonical_deduplicated_sha256": "167f470b2194ac0f314070a88de6580ecf18fa849122ecbff91e91f7ce8fffc6"
+  },
+  "author_declared_guard_summary_bound_not_recursively_expanded": {
+    "occurrences": 20,
+    "unique_paths": 20,
+    "canonical_deduplicated_sha256": "4de1110d8920c16f4f7203148783499f248e352f7d45fbf8be1c4c7d25d621d9"
+  },
+  "current_accepted_interfaces": [
+    {
+      "body": {
+        "path": "problems/2024-B4/proofs/reviewed-reasoning-frobenius-return-r10-v1.1.md",
+        "bytes": 27940,
+        "sha256": "ce9a3c9e00ce931716fe00d6ea0a605167ddf58a29779d459a62cbc9dd04d173"
+      },
+      "authority_md": {
+        "path": "problems/2024-B4/reviews/reasoning-frobenius-return-r10-acceptance.md",
+        "bytes": 4987,
+        "sha256": "4c2982ad2f8367e02b6c6f989c0a9ed9cb275a92b5b968bfab5d7494ed432867"
+      },
+      "authority_json": {
+        "path": "problems/2024-B4/reviews/reasoning-frobenius-return-r10-acceptance.json",
+        "bytes": 3682,
+        "sha256": "fdaf0350da036559371864a15a4e78b9102f176995b1ec672ef3f7e68b72d5be"
+      },
+      "FULL_body_and_EACH_authority_read": true,
+      "historical_authority_inventories_NOT_expanded": true
+    },
+    {
+      "body": {
+        "path": "problems/2024-B4/proofs/reviewed-reasoning-frobenius-return-r11-v1.1.md",
+        "bytes": 18332,
+        "sha256": "d585689283fe2dcd748c8c4385bdaf9faef5d66763b72e15ad4f213c76475d28"
+      },
+      "authority_md": {
+        "path": "problems/2024-B4/reviews/reasoning-frobenius-return-r11-acceptance.md",
+        "bytes": 4133,
+        "sha256": "ed59e1235bef9370b41ea42f77a2e38e0b5a4f2cae2897cb953b1be85550f82e"
+      },
+      "authority_json": {
+        "path": "problems/2024-B4/reviews/reasoning-frobenius-return-r11-acceptance.json",
+        "bytes": 3660,
+        "sha256": "ab6d8a3ea45ac6c15e1f159c0541ad3b8c06404db2ff430fdf9c5b325ad60d9b"
+      },
+      "FULL_body_and_EACH_authority_read": true,
+      "historical_authority_inventories_NOT_expanded": true
+    },
+    {
+      "body": {
+        "path": "problems/2024-B4/proofs/reviewed-coordinator-tensor-return-r12-v1.1.md",
+        "bytes": 29355,
+        "sha256": "48b6926a174202e447e04673f0507fc8e4708c7ee212fd3a68d6b90957a2845f"
+      },
+      "authority_md": {
+        "path": "problems/2024-B4/reviews/coordinator-tensor-return-r12-acceptance.md",
+        "bytes": 4545,
+        "sha256": "e249d970a412669e07bfa0eead8770e65c329bdc2a08f786c508174b825fb123"
+      },
+      "authority_json": {
+        "path": "problems/2024-B4/reviews/coordinator-tensor-return-r12-acceptance.json",
+        "bytes": 3501,
+        "sha256": "30eb2b734af32202527174a145d2c5604ad62ce72918361e30c12a55dd5bd9f2"
+      },
+      "FULL_body_and_EACH_authority_read": true,
+      "historical_authority_inventories_NOT_expanded": true
+    },
+    {
+      "body": {
+        "path": "problems/2024-B4/proofs/reviewed-coordinator-tensor-family-return-r13-v1.1.md",
+        "bytes": 24196,
+        "sha256": "d63364d6f874e52f0a1610d3d168213993034ff8d293b20259009072d779787b"
+      },
+      "authority_md": {
+        "path": "problems/2024-B4/reviews/coordinator-tensor-family-return-r13-acceptance.md",
+        "bytes": 6137,
+        "sha256": "a338500a19e9101a8679b999acc77d6e0bbd60f54c8e0ed70c44096207e61a39"
+      },
+      "authority_json": {
+        "path": "problems/2024-B4/reviews/coordinator-tensor-family-return-r13-acceptance.json",
+        "bytes": 3742,
+        "sha256": "2ffa599040753ccf7a93f8ba6f4df6ae577777eb5fe03e52e57c8f72c1b6a772"
+      },
+      "FULL_body_and_EACH_authority_read": true,
+      "historical_authority_inventories_NOT_expanded": true
+    }
+  ],
+  "mutable_observations_NOT_immutable_guards": [
+    {
+      "historical_author_observation": {
+        "path": "problems/2024-B4/research.md",
+        "bytes": 21963,
+        "sha256": "ebd9895b2a670b27d22c7b782a6744833bd7f296d4dac89eb0b5d664006f2cbf"
+      },
+      "current_observation": null,
+      "immutable_proof_guard": false,
+      "current_contents_and_hash_not_accessed_for_peer_blindness": true
+    }
+  ],
+  "immediate_own_parent": {
+    "path": "problems/2022-B4/notes/reasoning-itinerary-return-r12-freeze-v1.json",
+    "bytes": 2169,
+    "sha256": "32927019eee4697bfed786bb9713f8d7af90359db121d75b5a16922cb336fceb"
+  },
+  "new_corresponding_peer_findings_files_actual_inventory_hash_metadata_access": false,
+  "requested": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independent_effective_backend_readback": null,
+  "quota": {
+    "usedPercent": 76,
+    "observed_UTC": "2026-10-19 00:50:21 UTC",
+    "resetsAt": 1792874445,
+    "windowDurationMins": 10080,
+    "ordinaryUsageAllowed": true,
+    "TOTAL_ceiling": 90,
+    "reserve": true,
+    "automatic_later_window_spending": false
+  },
+  "mathematical_program_CAS_scan_test_old_author_source_helper_replay": false,
+  "Git_shared_old_cache_mutation": false
+}

@@ -1,5 +1,7 @@
 # 2022 B4 issue log
 
+11:54 Brisbane update: [IT12A--D](reviews/reasoning-itinerary-return-r12-acceptance.md) is **proved, independently reviewed scoped partial result** after A/C OTHER whole40 audits and root ALL80 reconciliation. The COMPLETE first-SAFE2 classification gives one fixed ceiling121/100 map on five residues; the selected pair has an exact infinite-ordinary-seed equivalence on residues0/99 with extra5mod21 and paired scalar phases. No ordinary survivor/termination, all-duration reduction or annual answer is established. Historical dated entries remain preserved.
+
 The new arithmetic-complexity partial result passed two fresh independent
 blind whole reconstructions. Both complete reports/issue ledgers were read
 and every manifest record checked by the coordinator. Fixed rational

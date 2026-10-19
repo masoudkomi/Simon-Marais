@@ -1,0 +1,79 @@
+{
+  "reviewer": "/root/review_2021_reasoning_j15_r2",
+  "target": "CL14A--D OTHER initially blind ENTIRE WHOLE2 ALL48",
+  "date_UTC": "2026-10-19",
+  "requested": {"model": "gpt-6.1-sol", "reasoning": "max", "inherited": true},
+  "independent_effective_setting_readback": null,
+  "accepted_inputs": [
+    {"id": "FR10", "body": "problems/2024-B4/proofs/reviewed-reasoning-frobenius-return-r10-v1.1.md", "authority_md": "problems/2024-B4/reviews/reasoning-frobenius-return-r10-acceptance.md", "authority_json": "problems/2024-B4/reviews/reasoning-frobenius-return-r10-acceptance.json", "fresh_read": "COMPLETE accepted body and EACH current MDJSON", "role": "SOLE new geometric import: exact actual-pair budget, reducedness, EVERY-component degree; all domain restrictions checked"},
+    {"id": "FR11", "body": "problems/2024-B4/proofs/reviewed-reasoning-frobenius-return-r11-v1.1.md", "authority_md": "problems/2024-B4/reviews/reasoning-frobenius-return-r11-acceptance.md", "authority_json": "problems/2024-B4/reviews/reasoning-frobenius-return-r11-acceptance.json", "fresh_read": "COMPLETE accepted body and EACH current MDJSON", "role": "Exact full-field equality/comparison context; no substitution for new counts"},
+    {"id": "TR12", "body": "problems/2024-B4/proofs/reviewed-coordinator-tensor-return-r12-v1.1.md", "authority_md": "problems/2024-B4/reviews/coordinator-tensor-return-r12-acceptance.md", "authority_json": "problems/2024-B4/reviews/coordinator-tensor-return-r12-acceptance.json", "fresh_read": "COMPLETE accepted body and EACH current MDJSON", "role": "Literal base-F2/coprime-degree scope and old selected examples; larger-base proof reconstructed anew"},
+    {"id": "R13", "body": "problems/2024-B4/proofs/reviewed-coordinator-tensor-family-return-r13-v1.1.md", "authority_md": "problems/2024-B4/reviews/coordinator-tensor-family-return-r13-acceptance.md", "authority_json": "problems/2024-B4/reviews/coordinator-tensor-family-return-r13-acceptance.json", "fresh_read": "COMPLETE accepted body and EACH current MDJSON", "role": "Literal old odd-degree/base-F2 family and its excluded even-degree boundary"}
+  ],
+  "primary_sources": [
+    {
+      "id": "OFF24",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc2024_paper_b.pdf",
+      "read": "Fresh page2 B4 designation/setup57--63, open(b)68--71, coefficient definitions72--74; local statement FULL",
+      "handle": "turn2848view0",
+      "limit": "Only(b); adjacent preliminary statement not investigated",
+      "binary_hash": null
+    },
+    {
+      "id": "D78",
+      "title": "Ph. Delsarte, Bilinear forms over a finite field, with applications to coding theory",
+      "doi": "10.1016/0097-3165(78)90015-8",
+      "url": "https://www.sciencedirect.com/science/article/pii/0097316578900158",
+      "read": "Fresh primary publisher search metadata and abstract ONLY; article body UNREAD in this audit",
+      "handle": "turn2849search0",
+      "use": "Classical rank-distance association-scheme attribution, no formula/theorem import",
+      "author_failed_direct_access_NOT_personally_replayed": true,
+      "binary_hash": null
+    },
+    {
+      "id": "GK18",
+      "title": "A. L. Gavrilyuk and J. H. Koolen, A characterization of the graphs of bilinear(dxd)-forms over F2",
+      "url": "https://arxiv.org/pdf/1511.09435",
+      "version": "v2,24May2018; printed2October2018",
+      "read": "Fresh title/version/definitions; COMPLETE relevant Section2.1 definitions198--270 and COMPLETE Result2.1 statement271--294. Returned neighboring introductory material is context only.",
+      "handles": ["turn2848view1", "turn2849view0"],
+      "hypothesis_limit": "Finite-field matrix graph; swap the two dimensions if needed; graph-context dimensions>=2. One-dimensional CL14 cases are proved internally.",
+      "use": "Classical cross-check only; referenced monograph proof and characterization theorem proofs UNREAD/not imported",
+      "binary_hash": null
+    },
+    {
+      "id": "HM",
+      "title": "Hernando--McGuire, arXiv0903.2016v4",
+      "url": "https://arxiv.org/pdf/0903.2016v4",
+      "read": "Fresh whole/component distinction127--134; local Taylor/type context253--318; Lemmas4/5 statements and COMPLETE Lemma6 statement/proof319--379; Corollary8 statement514--517; Theorem15 statement and returned COMPLETE proof681--790; Theorem16 statement794--796 and only returned proof fragments thereafter, not complete proof.",
+      "handles": ["turn2848view2", "turn2849view1", "turn2851view0", "turn2851view1", "turn2851view2", "turn2851view3"],
+      "hypothesis_limit": "Theorem15 assumes ordinary F2 irreducibility plus its divisibility/excluded-Mersenne conditions; Theorem16 supplies a component under its stated conditions, not whole irreducibility.",
+      "use": "Attribution/context only; accepted FR10 supplies actual operative geometry. No new full source/Foundation/Fulton audit is claimed.",
+      "binary_hash": null
+    },
+    {
+      "id": "F17",
+      "title": "Eric Ferard, On the irreducibility of the hyperplane sections of Fermat varieties in P3 in characteristic2.II",
+      "url": "https://link.springer.com/article/10.1007/s12095-017-0213-1",
+      "read": "Fresh publisher metadata and COMPLETE abstract line33; preview only, operative body UNREAD",
+      "handles": ["turn2848view3", "turn2849view2"],
+      "use": "Possible overlap OPEN; no exact theorem or nonoverlap conclusion from abstract",
+      "no_blocked_HAL_retrieval_purchase_contact_bypass": true,
+      "binary_hash": null
+    }
+  ],
+  "old_roles": "A authored older T1/T4/C7/C11 fixed-factor work and reviewed FR11/TR12/R13 and other old2024 packets. These accepted-input roles are not fresh self-recertification. A supplied no NEW CL14 construction inference.",
+  "primary_proof_import": "No external rank-count theorem used: all field, scalar-fiber, rank and positivity steps rederived by hand. Foundational R6/T1/Fulton imports remain within separately accepted FR10 scope.",
+  "documentary_precision": {
+    "released_OLD_R24_parent_exact_hashes_allowed": true,
+    "OLD_R24_peer_mathematical_report_MODEL_read_for_CL14": false,
+    "own_IT12_BOTH_release_received_during_CL14_draft_not_CL14_math_premise": true,
+    "NEW_IT12_peer_files_accessed_for_CL14": false,
+    "NEW_corresponding_CL14_peer_finding_file_inventory_hash_meta_commentary_access": false,
+    "living_map_current_contents_not_MODEL_read_while_blind": true,
+    "historical_map_identity_not_asserted_current": true
+  },
+  "no_mathematical_code_CAS_scan_test_author_source_old_replay": true,
+  "no_new_full_paper_download_cache_write_charge_contact_bypass": true,
+  "publication_overlap_priority_annual_classification": "OPEN/unclaimed"
+}

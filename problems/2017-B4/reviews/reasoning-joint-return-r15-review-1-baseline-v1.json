@@ -1,0 +1,72 @@
+{
+  "created_utc": "2026-10-19T00:49:13.810726+00:00",
+  "reviewer": "/root/review_2017_coarsening_r1",
+  "type": "OTHER initially blind ENTIRE WHOLE JC15 review1",
+  "ALL_obligations": 36,
+  "integrity": {
+    "guard_summary": {
+      "occurrences": 29,
+      "unique_paths": 26,
+      "canonical_deduplicated_sha256": "1f340958b431423da1725804ce53a87b4d3200f49497def3b97b6c78a31f9251"
+    },
+    "author": {
+      "path": "problems/2017-B4/notes/reasoning-joint-return-r15-freeze-v1.json",
+      "bytes": 2423,
+      "sha256": "40c82ab0e7f7a9678a31f763fc7960c54e8963f5e226f0da185cdf5441a0c6ac"
+    },
+    "author_payloads_verified": 4,
+    "author_current_operative_direct_records": 11,
+    "author_effective_summary_verified": {
+      "occurrences": 19,
+      "unique_paths": 16,
+      "canonical_deduplicated_sha256": "aaf4bf6883dee01e405bad1394341fe3da2a8d2b5caf2b8836c6e0f5746298ca"
+    },
+    "author_OLD_parent_outer_binding": {
+      "path": "problems/2019-B4/reviews/reasoning-full-law-return-r15-review-1-manifest-v1.json",
+      "bytes": 2641,
+      "sha256": "2ef8164bbb02f81d1a990ff585bd7148ff6a513c0ee329572cac825b35f69e41"
+    },
+    "author_OLD_parent_payloads_verified": 4,
+    "author_OLD_parent_historical_summary_bound_NOT_expanded": {
+      "occurrences": 43,
+      "unique_paths": 37,
+      "canonical_deduplicated_sha256": "6174d171dc9765e5b675d5d5fe3cae33789a568d26786452c93f48dd57b439de"
+    },
+    "immediate_own_parent": {
+      "path": "problems/2024-B4/notes/reasoning-classification-return-r14-freeze-v1.json",
+      "bytes": 1836,
+      "sha256": "89a6e276fe28ba0bc2f1a5ffe94636353efc6c457f613dbb1f5767c4dd683d73"
+    },
+    "own_parent_payloads_verified": 4,
+    "own_parent_historical_summary_bound_NOT_expanded": {
+      "occurrences": 20,
+      "unique_paths": 20,
+      "canonical_deduplicated_sha256": "4de1110d8920c16f4f7203148783499f248e352f7d45fbf8be1c4c7d25d621d9"
+    },
+    "NEW_peer_access": false
+  },
+  "OLD_PR11_CI12_LF14_constructor_role_disclosed": true,
+  "OLD_inputs_independently_self_recertified": false,
+  "NEW_JC15_construction_contribution": false,
+  "NEW_peer_access": false,
+  "findings_sealed_until_explicit_BOTH": true,
+  "requested": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independently_verified_effective_readback": null,
+  "quota": {
+    "usedPercent": 76,
+    "observed_utc": "2026-10-19 00:49:13 UTC",
+    "resetsAt": 1792874445,
+    "ordinaryUsageAllowed": true,
+    "TOTAL_ceiling": 90,
+    "review_integration_reserve": true,
+    "automatic_later_window": false
+  },
+  "mathematical_program_CAS_scan_test_old_author_source_replay": false,
+  "documentary_code_only": true,
+  "old_shared_Git_cache_mutation": false,
+  "FULL_final_ALL4_MODEL_then_manifest_MODEL_then_SEPARATE_verify_required": true
+}

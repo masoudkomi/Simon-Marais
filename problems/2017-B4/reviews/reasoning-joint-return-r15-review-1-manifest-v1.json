@@ -1,0 +1,50 @@
+{
+  "frozen_utc": "2026-10-19T00:50:16.395170+00:00",
+  "type": "OTHER initially blind ENTIRE WHOLE JC15 review1",
+  "reviewer": "/root/review_2017_coarsening_r1",
+  "ENTIRE_files": 5,
+  "ALL_obligations": 36,
+  "payload_records": [
+    {
+      "path": "problems/2017-B4/reviews/reasoning-joint-return-r15-review-1-initial-v1.md",
+      "bytes": 21519,
+      "sha256": "d04d8d2c0aa3ca00ca81d80b82b6229edb1f527cd78171a5e63a9e95a2568149"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-joint-return-r15-review-1-sources-v1.json",
+      "bytes": 3504,
+      "sha256": "5af3ba6ca0f1a82fa93db060f9c614f23f5a9cad045f2f3566d1106bac08f9bc"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-joint-return-r15-review-1-admin-v1.py",
+      "bytes": 7679,
+      "sha256": "e440c3065ab629ec2135a2849180b056a52991b6a1e190f52bd9ed18f8ae99a3"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-joint-return-r15-review-1-baseline-v1.json",
+      "bytes": 2812,
+      "sha256": "7b0b1842a1ff098826766eb8a7ed2943a92197236c8ccf8ccbe81d31069bdd66"
+    }
+  ],
+  "author": {
+    "path": "problems/2017-B4/notes/reasoning-joint-return-r15-freeze-v1.json",
+    "bytes": 2423,
+    "sha256": "40c82ab0e7f7a9678a31f763fc7960c54e8963f5e226f0da185cdf5441a0c6ac"
+  },
+  "immediate_own_parent": {
+    "path": "problems/2024-B4/notes/reasoning-classification-return-r14-freeze-v1.json",
+    "bytes": 1836,
+    "sha256": "89a6e276fe28ba0bc2f1a5ffe94636353efc6c457f613dbb1f5767c4dd683d73"
+  },
+  "guard_summary": {
+    "occurrences": 29,
+    "unique_paths": 26,
+    "canonical_deduplicated_sha256": "1f340958b431423da1725804ce53a87b4d3200f49497def3b97b6c78a31f9251"
+  },
+  "FULL_final_ALL4_MODEL_payload_readbacks_completed": true,
+  "FULL_manifest_MODEL_readback_then_SEPARATE_verify_REQUIRED": true,
+  "NEW_peer_access": false,
+  "findings_sealed_until_explicit_BOTH": true,
+  "mathematical_computation": false,
+  "old_shared_Git_cache_mutation": false
+}

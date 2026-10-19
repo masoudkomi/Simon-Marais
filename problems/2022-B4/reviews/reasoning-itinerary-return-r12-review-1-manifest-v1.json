@@ -1,0 +1,76 @@
+{
+  "frozen_UTC": "2026-10-19T00:51:44.060745+00:00",
+  "status": "Immutable initially blind OTHER WHOLE1; coordinator promotion pending",
+  "reviewer": "/root/review_2021_reasoning_j15_r2",
+  "constructor": "/root/review_2022_complexity_r2",
+  "constructor_excluded": true,
+  "claims": [
+    "IT12A",
+    "IT12B",
+    "IT12C",
+    "IT12D"
+  ],
+  "whole_obligations": 40,
+  "ENTIRE_files": 5,
+  "payload_count": 4,
+  "payloads": [
+    {
+      "path": "problems/2022-B4/reviews/reasoning-itinerary-return-r12-review-1-initial-v1.md",
+      "bytes": 24889,
+      "sha256": "d6f2e722a5e8e2e2258f7338779e5f597f8e9e9e1301567ce088ab75ef0093dd"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-itinerary-return-r12-review-1-sources-v1.json",
+      "bytes": 5575,
+      "sha256": "1d024606549e4b3e3036b052024495418305541ced3226c7f01f3ebaa43ae5eb"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-itinerary-return-r12-review-1-admin-v1.py",
+      "bytes": 10428,
+      "sha256": "189818106fe27b818ac8bb654f1e6e5736d390549e8ebd2e17bcd24e03bbf087"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-itinerary-return-r12-review-1-baseline-v1.json",
+      "bytes": 13514,
+      "sha256": "2e562e26b22bf4aeeb09a90b7d60d5114715316014f799387e0fccec922c812a"
+    }
+  ],
+  "effective_fresh_guard_summary": {
+    "occurrences": 26,
+    "unique_paths": 26,
+    "canonical_deduplicated_sha256": "c2f2209d9940b119e7ccb499949bc30c83973d678692f8d6da8e6880015eddff"
+  },
+  "compact_own_parent": {
+    "path": "problems/2017-B4/notes/reasoning-joint-return-r15-freeze-v1.json",
+    "bytes": 2423,
+    "sha256": "40c82ab0e7f7a9678a31f763fc7960c54e8963f5e226f0da185cdf5441a0c6ac"
+  },
+  "all40_obligations_reconstructed_by_hand": true,
+  "unresolved_substantive_defects": 0,
+  "required_author_repairs": 0,
+  "closed_scope_notes": 10,
+  "FULL_final_ALL4_payload_MODEL_readbacks_completed": true,
+  "FULL_manifest_MODEL_readback_then_SEPARATE_readonly_verify_REQUIRED": true,
+  "NEW_corresponding_peer_findings_inventory_open_hash_metadata_access": false,
+  "R24_historical_administrative_identity_exception_preserved": true,
+  "requested": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independent_effective_setting_readback": null,
+  "direct_quota": {
+    "observed_UTC": "2026-10-19 00:46:56 UTC",
+    "usedPercent": 76,
+    "windowDurationMins": 10080,
+    "resetsAt": 1792874445,
+    "ordinaryUsageAllowed": true,
+    "TOTAL_ceiling": 90,
+    "integration_reserve": true,
+    "automatic_later_window_spending": false
+  },
+  "mathematical_truth_checked_by_code": false,
+  "mathematical_code_CAS_scan_test_author_source_old_replay": false,
+  "Git_shared_old_cache_mutation": false,
+  "findings_release_requires_coordinator_explicit_BOTH_ENTIRE_confirmation": true
+}

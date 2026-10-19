@@ -1,5 +1,7 @@
 # 2022 B4 references and published status
 
+11:54 Brisbane update: [IT12A--D](reviews/reasoning-itinerary-return-r12-acceptance.md) is **proved, independently reviewed scoped partial result** after A/C OTHER whole40 audits and root ALL80 reconciliation. The COMPLETE first-SAFE2 classification gives one fixed ceiling121/100 map on five residues; the selected pair has an exact infinite-ordinary-seed equivalence on residues0/99 with extra5mod21 and paired scalar phases. No ordinary survivor/termination, all-duration reduction or annual answer is established. Historical dated entries remain preserved.
+
 ## Official starting sources
 
 - [Paper B](https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2022-paper-b.pdf), B4 on page 2.
