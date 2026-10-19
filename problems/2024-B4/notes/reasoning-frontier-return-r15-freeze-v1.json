@@ -1,0 +1,70 @@
+{
+  "frozen_UTC": "2026-10-19T03:44:40.675794+00:00",
+  "status": "candidate proof - unverified; bounded actual-factor/failure checkpoint",
+  "constructor": "/root/review_2021_reasoning_j15_r2",
+  "constructor_excluded_from_OTHER_reviews": true,
+  "root_NEW_inference_contribution": false,
+  "claims": [
+    "DS1",
+    "DS2",
+    "DS3"
+  ],
+  "whole_obligations": 24,
+  "ENTIRE_files": 5,
+  "payloads": [
+    {
+      "path": "problems/2024-B4/notes/reasoning-frontier-return-r15-candidate-v1.md",
+      "bytes": 19639,
+      "sha256": "b12c04780620c440ee88fb734ef97e25c85ed5b21402198a672c153938082ffa"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-frontier-return-r15-sources-v1.json",
+      "bytes": 5585,
+      "sha256": "2ee1ba4ce8bcb60799a1b1299044fe864b81e4e213bd27fa7b166aeeded4f9b3"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-frontier-return-r15-admin-v1.py",
+      "bytes": 5872,
+      "sha256": "3f1a2178b9f99a4027447d9eec8d09f9e674bc3dc2dbb70c91e2a6cacf21d8d4"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-frontier-return-r15-baseline-v1.json",
+      "bytes": 4708,
+      "sha256": "e4fc88c28d76138c2d630b9f6374f25ec79b2f172e81800a5058933a73405442"
+    }
+  ],
+  "guard_summary": {
+    "occurrences": 18,
+    "unique_paths": 18,
+    "canonical_deduplicated_sha256": "179b3d0385c4df60a10184f8e435a4b3662022bdcf458bbdf2984fbe69aae375"
+  },
+  "compact_OWN_parent": {
+    "path": "problems/2021-B4/reviews/coordinator-contact-return-r27-review-1-manifest-v1.json",
+    "bytes": 2703,
+    "sha256": "9fcdbb714f87a0915b5864c9a98cd8d6c12d3b1bf50f7ad2aedb82590d2c9c79"
+  },
+  "new_exponent_classification": false,
+  "remaining_global_divisor_compatibility_gap": true,
+  "TWO_OTHER_initially_blind_ENTIRE_WHOLE_audits_required": true,
+  "FULL_final_ALL4_payload_MODEL_readbacks_completed": true,
+  "FULL_manifest_MODEL_readback_THEN_SEPARATE_readonly_verify_REQUIRED": true,
+  "mathematical_truth_checked_by_code": false,
+  "old_source_author_helper_freezer_or_certificate_replay": false,
+  "Git_shared_old_cache_configuration_mutation": false,
+  "requested": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independent_effective_backend_readback": null,
+  "quota": {
+    "usedPercent": 84,
+    "windowDurationMins": 10080,
+    "resetsAt": 1792874445,
+    "ordinaryUsageAllowed": true,
+    "TOTAL_ceiling": 90,
+    "checkpoint_near": 85,
+    "integration_review_reserve": true,
+    "automatic_later_window": false
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "recorded_at_utc": "2026-10-19T03:47:35.406620+00:00",
+  "kind": "Actual13:45Brisbane report; scheduled13:14:35 deadline missed, observation03:45:33UTC is30m58s late. No intermediate counter fabricated.",
+  "scheduled_deadline_utc": "2026-10-19T03:14:35+00:00",
+  "weekly": {
+    "observed_at_utc": "2026-10-19T03:47:22+00:00",
+    "used_percent_total": 85,
+    "window_minutes": 10080,
+    "reset_unix": 1792874445,
+    "reset_utc": "2026-10-24T20:40:45+00:00",
+    "reset_Brisbane": "2026-10-25T06:40:45+10:00",
+    "authorized_ceiling_percent_total": 90,
+    "percentage_points_before_ceiling": 5,
+    "ordinary_usage_allowed": true,
+    "account_wide_not_project_specific": true,
+    "automatic_later_window_authorized": false
+  },
+  "tokens": {
+    "snapshot_cutoff_utc": "2026-10-19T03:45:33.897306+00:00",
+    "observed_sessions": 62,
+    "distinct_responses": 16657,
+    "usage": {
+      "input_tokens": 3525214783,
+      "cached_input_tokens": 3385782272,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 21813551,
+      "reasoning_output_tokens": 8857912,
+      "total_tokens": 3547028334
+    },
+    "uncached_input_plus_output_tokens": 161246062,
+    "sessions_without_usage_records": 0,
+    "all_recorded_session_sums_match_cumulative": true,
+    "method": "Deduplicated own-thread per-response usage records across root and recursively spawned descendants; cached input is a subset of input, reasoning output a subset of output.",
+    "limits": "Local recorded observation while work is active. Unreported in-flight usage is excluded. Not a bill or a conversion to subscription percentage. No prompts, account IDs, credentials, or response IDs exported."
+  },
+  "previous_report": "progress/hourly-report-2026-10-19-1214.json",
+  "increase_since_previous_actual_report": {
+    "input_tokens": 110982330,
+    "cached_input_tokens": 108658176,
+    "cache_write_input_tokens": 0,
+    "output_tokens": 432960,
+    "reasoning_output_tokens": 145130,
+    "total_tokens": 111415290,
+    "uncached_input_plus_output_tokens": 2757114
+  },
+  "per_problem": {
+    "2017": {
+      "status_and_pending": "UNRESOLVED. JM16 reviewed: ENTIRE guarded fixed-fan SET union has zero quadratic low-J entropy; balanced family pays positive quadratic J. Prior limit existence/PR11/CI12/LF14/JC15 retained. No global scalar improvement.",
+      "next": "Actual full-class low-joint-cost entropy or a different complete construction."
+    },
+    "2018": {
+      "status_and_pending": "COMPLETE attributed published-result reproduction of the general enumeration, internally reviewed; Hering--Howard/Ottaviani credited, known m5 excluded from research.",
+      "next": "Preserve exact domain and published attribution."
+    },
+    "2019": {
+      "status_and_pending": "UNRESOLVED. CM16 reviewed: actual DISTINCT-pair viable-area mean limit<1/48, strict constant majority belowN\u00b2/24. Bounds1.765224<lambda<1.834843 retained.",
+      "next": "Actual renewal regime/exactlambda, without unmarked/exponential/vanishing-law inference."
+    },
+    "2020": {
+      "status_and_pending": "UNRESOLVED. R20 reviewed: nonempty actual binary Sidon primitive content1 at odd conductors with at most TWO DISTINCT prime factors, arbitrary powers; reciprocal denominator/prescribed-ideal restrictions. Turyn overlap attributed; AR19 full-field quadratic repair retained outside this sector.",
+      "next": "Actual global binary compatibility at larger prime support; no numerical-order exclusion."
+    },
+    "2021": {
+      "status_and_pending": "UNRESOLVED. R26/R27 reviewed: ENTIRE retained actual negative frameIII has d2,A9=A10zero,FULL gcdsX/X\u00b2,contactt>=2 and exact shallowc/k depths.",
+      "next": "Higher-contact zero-witness/global rational carrier equations; fullframeIII/degree20 remainopen."
+    },
+    "2022": {
+      "status_and_pending": "UNRESOLVED. IT12 and earlier restrictions reviewed. PH13 frozen UNVERIFIED; A/B TWO OTHER initially blind ENTIRE whole32 audits now active, corresponding findings/files/inventory/hash/meta sealed.",
+      "next": "Audit actual least-growth predecessor/parity-twin restrictions; ordinary universal hitting/infinite survivor unresolved."
+    },
+    "2023": {
+      "status_and_pending": "COMPLETE internally reviewed classification for fixed positive nonsquare N: all(k,k),k>0, and(k,2k)/(2k,k) for positive ODD k. External publication priority unconfirmed.",
+      "next": "Retain full real-witness domain and attribution limits."
+    },
+    "2024": {
+      "status_and_pending": "UNRESOLVED. CL14 and earlier sufficient whole-irreducibility families reviewed. F15 ENTIRE5/24 frozen UNVERIFIED at03:44:40UTC after full readbacks/separate verification, TWO OTHER audits queued. No new exponent classified.",
+      "next": "Audit simultaneous actual-divisor diagonal square constraints; missing global factor compatibility/classification remains."
+    },
+    "2025": {
+      "status_and_pending": "UNRESOLVED. ET12/R10/GR11 reviewed. JT13 ENTIRE5/32 frozen UNVERIFIED at03:45:14UTC after full readbacks/separate verification; C OTHER whole1 active, second queued. No improved height/exclusion.",
+      "next": "Audit actual joint reconstruction/injectivity, then global-power compatibility at surviving depth2 under(C) and nontrivialminusclasses."
+    }
+  },
+  "complete_annual_answers": 2,
+  "unresolved_annual_targets": 7,
+  "deferred": [
+    2026
+  ],
+  "keepawake": {
+    "pid": 79293,
+    "exec_session": 64368,
+    "untimed": true,
+    "verified_at_local": "2026-10-19T13:45:33+10:00",
+    "actual_assertion": "OWN79293 positive50:37:44 PreventUserIdleSystemSleep, asserting forever; display may sleep",
+    "stop_only_owned_assertion_at_ceiling_or_actual_termination": true
+  },
+  "last_previously_pushed_commit": "7823b8b",
+  "next_manual_reporting_check_utc": "2026-10-19T04:14:35+00:00",
+  "token_scope": "THIS researchchat and recursiveagents ONLY; cached input subsetinput/reasoningsubsetoutput. Weekly allowance ACCOUNTWIDE mayincludeotherprojects. No tokenentitlement/physicalcompute inference.",
+  "limitations": "Local recorded observation while work is active. Unreported in-flight usage is excluded. Not a bill or a conversion to subscription percentage. No prompts, account IDs, credentials, or response IDs exported.",
+  "private_72h_usage_PDF_delivered_not_pushed": true
+}

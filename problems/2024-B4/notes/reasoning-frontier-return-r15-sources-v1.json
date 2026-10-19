@@ -1,0 +1,67 @@
+{
+  "status": "candidate proof - unverified; bounded research/failure checkpoint",
+  "date_UTC": "2026-10-19",
+  "constructor": "/root/review_2021_reasoning_j15_r2",
+  "scope": "Official 2024 B4(b) only; actual F_q divisors in ell>=3 odd dividing q-1, q=2^i,i>=2",
+  "new_results": ["DS1 free Frobenius_q tangent pairs", "DS2 simultaneous three diagonal square restrictions", "DS3 actual F2 center-orbit restriction"],
+  "new_exponent_classification": false,
+  "exact_missing_inference": "Global compatibility/realization of all three actual divisor restrictions and off-diagonal incidences; no contradiction or actual factor has been obtained for ell21,q=2^(6t).",
+  "local_complete_fresh_reads": [
+    "AGENTS.md",
+    "problems/2024-B4/statement.md",
+    "problems/2024-B4/proofs/reviewed-reasoning-classification-return-r14-v1.1.md",
+    "problems/2024-B4/reviews/reasoning-classification-return-r14-acceptance.md",
+    "problems/2024-B4/reviews/reasoning-classification-return-r14-acceptance.json",
+    "problems/2024-B4/proofs/reviewed-reasoning-frobenius-return-r10-v1.1.md",
+    "problems/2024-B4/reviews/reasoning-frobenius-return-r10-acceptance.md",
+    "problems/2024-B4/reviews/reasoning-frobenius-return-r10-acceptance.json",
+    "problems/2024-B4/proofs/reviewed-reasoning-frobenius-return-r11-v1.1.md",
+    "problems/2024-B4/reviews/reasoning-frobenius-return-r11-acceptance.md",
+    "problems/2024-B4/reviews/reasoning-frobenius-return-r11-acceptance.json",
+    "problems/2024-B4/proofs/reviewed-coordinator-tensor-return-r12-v1.1.md",
+    "problems/2024-B4/reviews/coordinator-tensor-return-r12-acceptance.md",
+    "problems/2024-B4/reviews/coordinator-tensor-return-r12-acceptance.json",
+    "problems/2024-B4/proofs/reviewed-coordinator-tensor-family-return-r13-v1.1.md",
+    "problems/2024-B4/reviews/coordinator-tensor-family-return-r13-acceptance.md",
+    "problems/2024-B4/reviews/coordinator-tensor-family-return-r13-acceptance.json"
+  ],
+  "clipped_output_recovery": "First aggregate reads clipped parts of CL14/FR10/R13 and omitted one authority block; separate exact missing-range/full-authority reads recovered every used accepted body/current authority. No clipped passage is declared read merely from a hash.",
+  "operative_input_limits": "FR10 supplies exact local forms/reducedness/degree framework; CL14/TR12 supply the exact failed-budget counts. FR11/R13 complete comparison/context. No newly repeated entire foundational T1/R6/Fulton audit or old self-certification.",
+  "primary_sources": [
+    {
+      "title": "Official SMMC 2024 Paper B",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc2024_paper_b.pdf",
+      "fresh_read": "p2 setup57-63, open(b)68-74 and coefficientwise definitions",
+      "scope_limit": "Adjacent preliminary/other-problem text returned but not investigated. No new preliminary proof."
+    },
+    {
+      "title": "Hernando-McGuire, Proof of a conjecture on the sequence of exceptional numbers, classifying cyclic codes and APN functions",
+      "url": "https://arxiv.org/pdf/0903.2016v4",
+      "version": "arXiv0903.2016v4",
+      "fresh_read": "Local Taylor/type context, Section3.1 tables and Lemmas6/7 returned proofs; Section3.2/Corollary8 statement; complete Theorem15 proof; Theorem16 statement and returned proof context; Section6 counterexample context and returned references.",
+      "scope_limit": "No whole-paper audit. Conditional Theorem15 does not establish ordinary irreducibility; Theorem16 does not supply whole irreducibility. Local DS proof uses separately accepted FR10 forms and elementary descent, not a new import of the entire source proof.",
+      "source_theorem_import": false
+    },
+    {
+      "title": "Eric Ferard, On the irreducibility of the hyperplane sections of Fermat varieties in P3 in characteristic2.II",
+      "url": "https://link.springer.com/article/10.1007/s12095-017-0213-1",
+      "doi": "10.1007/s12095-017-0213-1",
+      "fresh_read": "Publisher metadata, ENTIRE abstract line33 and returned references",
+      "operative_body": "UNREAD; subscription preview only",
+      "scope_limit": "Exact odd-part exclusion/possible overlap unknown; no theorem from abstract, fee, bypass or absence/priority inference.",
+      "source_theorem_import": false
+    }
+  ],
+  "literature_discovery": "Targeted primary-title/1345 queries produced no additional operative theorem; irrelevant hits discarded. No failed-access retry or native browser wait. Original Ferard/Jedlicka/Delsarte bodies remain unread in this rotation.",
+  "older_roles": "A authored old T1/T4/C7/C11 and component work, and supplied OTHER reviews of FR11/TR12/R13/CL14; accepted scopes are inputs, not freshly self-recertified here. Root supplied generic target only, no NEW DS inference.",
+  "publication_priority_or_nonoverlap": "OPEN; no claim",
+  "no_binary_download_or_redistribution": true,
+  "mathematical_executable_CAS_scan_test_optimizer_source_algorithm_old_replay": false,
+  "documentary_code_only": true,
+  "OWN_parent": "problems/2021-B4/reviews/coordinator-contact-return-r27-review-1-manifest-v1.json; exact outer binding only, no recursive inventory",
+  "PH13_peer_or_target_access": false,
+  "later_R28_exploration_access": false,
+  "requested": {"model": "gpt-6.1-sol", "reasoning": "max", "inherited": true},
+  "independent_effective_readback": null,
+  "quota": {"usedPercent": 84, "windowDurationMins": 10080, "resetsAt": 1792874445, "ordinaryUsageAllowed": true, "TOTAL_ceiling": 90, "checkpoint_near": 85, "reserve_included": true, "automatic_later_window": false}
+}

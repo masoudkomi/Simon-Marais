@@ -1,0 +1,62 @@
+{
+  "frozen_UTC": "2026-10-19T03:45:14.257714+00:00",
+  "status": "candidate proof - unverified",
+  "constructor": "/root/review_2022_complexity_r2",
+  "constructor_excluded": true,
+  "root_NEW_inference": false,
+  "claims": [
+    "JT1",
+    "JT2"
+  ],
+  "ENTIRE_files": 5,
+  "ALL_obligations": 32,
+  "payloads": [
+    {
+      "path": "problems/2025-B4/notes/reasoning-joint-trace-return-r13-candidate-v1.md",
+      "bytes": 17562,
+      "sha256": "0a66da03cea5cde313db07f4c4c48bd3047276a1d56449cf2ca3272db4fda79f"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-joint-trace-return-r13-sources-v1.json",
+      "bytes": 3421,
+      "sha256": "e7976ded20465664c0eb3b54cee19c66fd716f3152e6250fb95622e0a466edcf"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-joint-trace-return-r13-admin-v1.py",
+      "bytes": 3916,
+      "sha256": "414e592a393fe772017dbc0a12c2e03b39f60eb5b47ab1d688d4ab5dd5956c6e"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-joint-trace-return-r13-baseline-v1.json",
+      "bytes": 2900,
+      "sha256": "138f37421858eb962cf25dc03d67f499d68823813b5f1a48c65d2d550b8e1dd5"
+    }
+  ],
+  "guard_occurrences": 12,
+  "guard_unique_paths": 12,
+  "ONE_exact_OWN_parent": {
+    "path": "problems/2021-B4/reviews/coordinator-contact-return-r27-review-2-manifest-v1.json",
+    "bytes": 2134,
+    "sha256": "8ba9e8f4dc2812b4bfe44f714f8cfd43b96b3cd9123add1048c61ed7c2b3dcc0"
+  },
+  "FULL_final_ALL4_payload_MODEL_readbacks_completed": true,
+  "FULL_manifest_MODEL_readback_THEN_SEPARATE_readonly_verify_REQUIRED": true,
+  "TWO_OTHER_initially_blind_ENTIRE_whole_audits_required": true,
+  "new_exclusion_or_useful_height_improvement": false,
+  "no_PH13_peer_access": true,
+  "no_mathematical_executable_or_old_replay": true,
+  "requested": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independent_effective_backend_readback": null,
+  "quota": {
+    "usedPercent": 84,
+    "observed_UTC": "2026-10-19 03:44:32 UTC",
+    "resetsAt": 1792874445,
+    "TOTAL_ceiling": 90,
+    "reserve": true,
+    "automatic_later_window": false
+  }
+}
