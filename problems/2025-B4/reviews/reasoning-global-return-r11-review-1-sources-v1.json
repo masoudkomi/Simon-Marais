@@ -1,0 +1,78 @@
+{
+  "reviewer": "/root/review_2017_coarsening_r1",
+  "whole_initial_blind": true,
+  "corresponding_NEW_review2_access": false,
+  "operative_local_inputs": [
+    {
+      "body": "problems/2025-B4/proofs/reviewed-reasoning-compatible-return-r10-v1.1.md",
+      "authority_md": "problems/2025-B4/reviews/reasoning-compatible-return-r10-acceptance.md",
+      "authority_json": "problems/2025-B4/reviews/reasoning-compatible-return-r10-acceptance.json",
+      "fresh_read": "COMPLETE current body and EACH complete MD/JSON",
+      "scope": "Separately accepted NI, including canonical nonzero integral ideal and strict norm inequality under actual C",
+      "old_role": "C constructed OLD R10; this is not an independent recertification of that old input"
+    },
+    {
+      "body": "problems/2025-B4/proofs/reviewed-reasoning-diagonal-return-r8-v1.1.md",
+      "authority_md": "problems/2025-B4/reviews/reasoning-diagonal-return-r8-acceptance.md",
+      "authority_json": "problems/2025-B4/reviews/reasoning-diagonal-return-r8-acceptance.json",
+      "fresh_read": "COMPLETE body and EACH complete MD/JSON; tail and both authorities recovered separately after aggregate clipping",
+      "scope": "Context/failure boundaries only, not a new GR premise",
+      "old_role": "C was one OLD independent whole reviewer"
+    }
+  ],
+  "primary_sources": [
+    {
+      "id": "OFFICIAL",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc2025_paper_b.pdf",
+      "literal_read": "Official B4 setup extracted59--61 and B4(b)67--71; complete local statement read. Incidental preliminary text was not investigated.",
+      "use": "Actual integer domain, degree versus term count and restricted-scope check"
+    },
+    {
+      "id": "MIH2008",
+      "url": "https://www.researchgate.net/publication/226863681_Class_Number_Conditions_for_the_Diagonal_Case_of_the_Equation_of_Nagell_and_Ljunggren",
+      "doi": "10.1007/978-3-211-74280-8_15",
+      "publication": "Developments in Mathematics16 (2008),245--273",
+      "observed_version": "Author-posted Version2.0 September17,2007; final publisher byte identity not established",
+      "literal_primary_windows": [
+        "Standing signed equation and Theorem3 at144--250, with surrounding introduction returned",
+        "COMPLETE Section2.5/Lemma5 proof/lifts824--1040 and actual primary definition1042--1119; surrounding returned setup through1155",
+        "COMPLETE operative Section4 at1478--2702, through individual bounded opens; Lemmas10--14/proofs and center0, first-case, second-case regular/singular discussions read",
+        "Specific gaps2158--2199 and the end2528--2702 separately returned/read; repeated windows were not counted as missing proof",
+        "Only the opening2706--2744 of Section5 was returned here; its lower-trace proof/theorem is not imported"
+      ],
+      "import_scope": "Published signed HB-minus theorem; classical regular/reflected-component AI. New selection/ramified valuation/remainder reconstructed independently.",
+      "limits": "No fresh full Washington/reflection or external singular-matrix foundation audit; no Theorem4/Vandiver-based lower-trace import. Short Lemma13 alpha rendering is interpreted by actual definition24.",
+      "source_shortcuts_not_used": [
+        "Arbitrary nonzero residue in O/pO does not guarantee nonzero h-th power",
+        "The tail denominator bound less than2 is used only under U>4h+2"
+      ]
+    },
+    {
+      "id": "BM1412",
+      "url": "https://arxiv.org/pdf/1412.5798",
+      "literal_primary_windows": [
+        "Opening/version line and Remark1.4 through140",
+        "COMPLETE Theorem2.2 statement230--248",
+        "COMPLETE Appendix5.1 lemma, proof and application1375--1523"
+      ],
+      "version_precision": "arXiv1412.5798v2 banner June30,2015; internal Version1.13 November2,2021; these are recorded separately",
+      "scope": "Same signed bound statement and singular-system discussion. The explicit appendix application is first-case and calls the second-case adaptation similar.",
+      "limits": "Not the whole19-page paper or later Appendix5.2; no new independent external matrix proof is claimed"
+    }
+  ],
+  "source_access": {
+    "bounded_web_calls": true,
+    "CUA_native_browser": false,
+    "initial_aggregate_clipped": true,
+    "operative_clipped_passages_recovered": true,
+    "stalled_pending_call_approval_child": false,
+    "new_binary_download_cache_write": false,
+    "raw_binary_hash": null,
+    "charge_contact_bypass": false,
+    "full_third_party_text_redistribution": false
+  },
+  "author_parent_limit": "External R13 identities literally visible inside required author metadata were not followed/opened/hashed. Author ENTIRE5 bound as immutable; unrelated parent is not a theorem premise.",
+  "mathematical_code_scan_CAS_test_old_source_author_replay": false,
+  "publication_priority_claim": false,
+  "annual_solution_claim": false
+}

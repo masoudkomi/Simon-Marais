@@ -1,0 +1,72 @@
+{
+  "reviewer": "/root/review_2022_complexity_r2",
+  "role": "OTHER initially blind ENTIRE WHOLE reviewer 2, ALL32",
+  "constructor": "/root/review_2021_reasoning_j15_r2",
+  "constructor_excluded": true,
+  "reviewer_contributed_NEW_GR11_inference": false,
+  "old_roles": "B constructed older UW/RS/BR/BD/RD and reviewed DR8/R10 and other accepted inputs; these are disclosed history, not fresh self-recertification",
+  "requested": {"model": "gpt-6.1-sol", "reasoning": "max", "inherited": true},
+  "independent_effective_setting_readback": null,
+  "full_local_reads": [
+    "AGENTS.md and problems/2025-B4/statement.md",
+    "GR11 exact freeze FIRST, then ALL4 complete payloads, all32 obligations, sources, failures, worklog, admin code and baseline",
+    "COMPLETE accepted R10 body and EACH current acceptance MD/JSON",
+    "COMPLETE accepted DR8 body and EACH current acceptance MD/JSON; clipped combined middle separately recovered in full",
+    "COMPLETE older DR8 and RD source MD records as attribution/failed-route context only"
+  ],
+  "primary": [
+    {
+      "title": "Official SMMC 2025 Paper B",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc2025_paper_b.pdf",
+      "actual_fresh_read": "page2 B4 setup extracted59--61 and open(b)67--71",
+      "hypotheses": "all integer x,y,n,q with n,q>=2; GR11 specializes degreep-1/exponentp/|X|>=2/p>=37",
+      "limit": "incidental preliminary/unrelated returned wording was not researched or proved; annual status not changed",
+      "downloaded_binary_sha256": null
+    },
+    {
+      "title": "Preda Mihailescu, Class Number Conditions for the Diagonal Case of the Equation of Nagell and Ljunggren",
+      "url": "https://www.researchgate.net/publication/226863681_Class_Number_Conditions_for_the_Diagonal_Case_of_the_Equation_of_Nagell_and_Ljunggren",
+      "doi": "10.1007/978-3-211-74280-8_15",
+      "publication": "Developments in Mathematics16 (2008),245--273",
+      "inspected_version": "author-posted Version2.0 September17,2007",
+      "actual_fresh_read": "complete returned introduction/Theorem3/notation through666; COMPLETE Section2.5/Lemma5/proof/lifts824--1040; relevant Section2.6 primary-number setup1042--1117; COMPLETE operative Section4 at1478--2702, including all Lemmas10--14, real-root argument, both phase systems and singular-case paragraphs",
+      "operative_imports": [
+        "classical regular/reflected-component annihilation of order-p ideal classes and primary-unit quotient, only evencomponents2/4 at p>=7",
+        "published Theorem3 signed absolute height HB-minus at actual residue-1,eta0,p>=37"
+      ],
+      "hypothesis_checks": [
+        "original equation has signed ordinary integers and primep; HB theoremp>=17, Section4 workingp>17, ourp>=37 fits both",
+        "source epsilon convention reindexes to coefficientc^-i",
+        "B2=1/6,B4=-1/30 are p units forp>=7; regular plus and reflected minus supports exclude these components",
+        "AI needs actual principal p-th ideal and primary number1-zetaX; neither Vandiver nor arbitrary norm-one element suffices",
+        "source Lemma13 short alpha-prime rendering omitsX; surrounding definition24/proof uses1-zetaX, not1-zeta",
+        "Section4 source shortcuts about general nonzero powers modramifiedp and tail bound for allU>2 are not copied; GR11's selected valuation and contradiction threshold are reconstructed directly"
+      ],
+      "not_freshly_audited_or_imported": "Washington/Jaulent/reflection/CFT full foundations; all earlier theorem chains; original Section5 lower-trace proof and Theorem4; no full independent matrix-proof recertification or source refutation claimed",
+      "downloaded_binary_sha256": null,
+      "final_publisher_binary_identity_verified": false,
+      "access": "bounded public web text only; no CUA/native browser/download/cache mutation/charge/contact/bypass"
+    },
+    {
+      "title": "Bartolome--Mihailescu, On the equation X^n-1=B Z^n",
+      "url": "https://arxiv.org/pdf/1412.5798",
+      "external_label": "arXiv1412.5798v2,30June2015",
+      "actual_internal_version": "Version1.13 November2,2021",
+      "actual_fresh_read": "opening/version/completeRemark1.4 through140; COMPLETE Theorem2.2 statement230--248; COMPLETE Appendix5.1 lemma/proof/application1375--1523",
+      "use": "corroborates signed HB statement and documents later singular-system exposition; not a new distinct-prime or binary-Thue exclusion import",
+      "hypothesis_checks": [
+        "Theorem2.2 explicitly signed integerX,Y,prime n>=17,equation5,absoluteX and residueu; center-1/eta0 applies",
+        "Appendix5.1.1 explicitly treats first case and calls second-case adaptation similar; this is not represented as a fresh complete HB-minus matrix proof"
+      ],
+      "not_claimed": "whole19page proof audit, final2015typeset identity, theorem1.2/full exclusion import, or a source theorem refutation",
+      "downloaded_binary_sha256": null
+    }
+  ],
+  "own_new_reconstruction": "full positive-lift averaging/ramified valuation/all-index recurrence/O[1/p] denominator/coherent real global root/uniform remainder/exact signed ratios/depth2 gap/actual relative-kernel and kernel-cokernel order proof",
+  "published_HB_minus_remains_external_theorem_import": true,
+  "primary_reading_inherited_from_constructor": false,
+  "NEW_corresponding_C_GR11_finding_file_actual_inventory_hash_metadata_accessed": false,
+  "no_mathematical_program_CAS_scan_test_optimizer_or_old_source_author_replay": true,
+  "source_binary_download_cache_edit_or_fullpaper_redistribution": false,
+  "new_Diophantine_full_exclusion_annual_or_priority_claim": false
+}

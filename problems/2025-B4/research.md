@@ -1,5 +1,8 @@
 # 2025 B4 research log
 
+Current19October10:14Brisbane: [GR0--GR3](reviews/reasoning-global-return-r11-acceptance.md) is **proved, independently reviewed scoped partial result** after C/B OTHER WHOLE32/32 and full64-row reconciliation. In the restricted signed prime-diagonal actual domain p>=37, equality of actual conjugate characteristic classes can survive only at exact depth2 near-1. Outside it the actual class difference has orderp in the relative norm kernel. Published signed HB-minus/classical AI are explicit dependencies; the separate center0 selection and all-embedding argument retain global coefficient denominators. Nontrivial minus classes, the exact depth2 sector and full annual domain remain OPEN. No new prime range or priority claim; earlier dated entries retain historical scopes.
+
+
 08:51 update: R10A–D is now independently reviewed after A/B TWO OTHER whole64 audits and full128 coordinator reconciliation. The exact local phase iff, denominator-cleared distinct-exponent principality and CONDITIONAL actual cofactor-ideal partition are accepted. Local roots do not imply global(C), and the entire centered cofactor remains. No new Diophantine exclusion, useful height improvement or annual solution. The separate2024R13/2020R18 candidates remain unverified. [Acceptance](reviews/reasoning-compatible-return-r10-acceptance.md).
 
 ## Research significance and connections

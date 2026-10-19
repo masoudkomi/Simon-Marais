@@ -1,0 +1,57 @@
+{
+  "frozen_utc": "2026-10-18T23:55:10.059175+00:00",
+  "reviewer": "/root/review_2017_coarsening_r1",
+  "type": "OTHER initially blind ENTIRE WHOLE1 initial audit",
+  "WHOLE_obligations": 32,
+  "ENTIRE_files": 6,
+  "payload_records": [
+    {
+      "path": "problems/2025-B4/reviews/reasoning-global-return-r11-review-1-initial-v1.md",
+      "bytes": 22291,
+      "sha256": "4342690bb39a6ba1128e884fcb1be444f24990e51e7bf0eb08b2f3560b56d512"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-global-return-r11-review-1-sources-v1.json",
+      "bytes": 4920,
+      "sha256": "895e9ae4bebacc38bbbc26f117015ce898a5b60216ea4eb68c355b428f9239a8"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-global-return-r11-review-1-admin-v1.py",
+      "bytes": 9979,
+      "sha256": "9101f8913c58ed1c94015e17a7c004847a140e4a2c6426adfa5118961ddf6b89"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-global-return-r11-review-1-baseline-v1.json",
+      "bytes": 3432,
+      "sha256": "e5b6911083380793a5595b07ad40eb240a0d711b7b81f62238bc7fe83c741d80"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-global-return-r11-review-1-metadata-v1.json",
+      "bytes": 1203,
+      "sha256": "316ef43d53f158671655ba3ca9e6aa878415df47c1a9eeaa8722431062a3ec93"
+    }
+  ],
+  "guard_summary": {
+    "occurrences": 47,
+    "unique_paths": 45,
+    "canonical_deduplicated_sha256": "fcc3e529ddfb6c07f133d24c120d3b4c9b12847e45c2995950c84a0de0722a3c"
+  },
+  "author": {
+    "path": "problems/2025-B4/notes/reasoning-global-return-r11-freeze-v1.json",
+    "bytes": 2639,
+    "sha256": "1e6953c80d9d17efbb2b94c5ae6af3a0b9880119d46c1e0fde7dc4c28a266771"
+  },
+  "immediate_own_parent": {
+    "path": "problems/2019-B4/notes/reasoning-full-law-return-r15-freeze-v1.json",
+    "bytes": 2055,
+    "sha256": "9d65c7cf66efa14925fc15ef081aec846157db3c853ea0744b09afd165e1cbfb"
+  },
+  "FULL_final_MODEL_ALL5_payload_readback_completed": true,
+  "FULL_manifest_MODEL_readback_then_SEPARATE_readonly_verify_required": true,
+  "corresponding_NEW_review2_access": false,
+  "findings_EMBARGOED_until_explicit_BOTH": true,
+  "OLD_R10_constructor_disclosed_not_self_recertified": true,
+  "author_external_R13_parent_followed_opened_hashed": false,
+  "mathematical_program_CAS_scan_test_or_replay": false,
+  "old_shared_Git_cache_mutation": false
+}
