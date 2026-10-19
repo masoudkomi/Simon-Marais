@@ -1,5 +1,7 @@
 # 2022 B4(b): reviewed partial results and remaining question
 
+Current19October2026,15:37Brisbane: UNRESOLVED. PH13/IT12 and earlier scoped restrictions reviewed. ShortR14 positive-predecessor-wedge hand note completed, all NEWassertions UNVERIFIED; no universal hitting or infinite survivor. Next: Resolve missing-predecessor/global ordinary-future obstruction; neither universal hitting nor an infinite ordinary survivor proved. [Current all-nine report](../../progress/status-2026-10-19-1537.md). Earlier dated entries below are historical; frozen accepted proofs and review packets retain their exact bytes.
+
 11:54 Brisbane update: [IT12A--D](reviews/reasoning-itinerary-return-r12-acceptance.md) is **proved, independently reviewed scoped partial result** after A/C OTHER whole40 audits and root ALL80 reconciliation. The COMPLETE first-SAFE2 classification gives one fixed ceiling121/100 map on five residues; the selected pair has an exact infinite-ordinary-seed equivalence on residues0/99 with extra5mod21 and paired scalar phases. No ordinary survivor/termination, all-duration reduction or annual answer is established. Historical dated entries remain preserved.
 
 **proved, independently reviewed (partial results)**, 2026-10-16.

@@ -1,0 +1,102 @@
+{
+  "recorded_at_utc": "2026-10-19T05:39:27.892318+00:00",
+  "kind": "Actual15:37Brisbane report, scheduled15:14:35 deadline missed. No invented intermediate observation; exact delay cause unestablished.",
+  "scheduled_deadline_utc": "2026-10-19T05:14:35+00:00",
+  "weekly": {
+    "observed_at_utc": "2026-10-19T05:37:23+00:00",
+    "used_percent_total": 88,
+    "window_minutes": 10080,
+    "reset_unix": 1792874445,
+    "reset_utc": "2026-10-24T20:40:45+00:00",
+    "reset_Brisbane": "2026-10-25T06:40:45+10:00",
+    "authorized_ceiling_percent_total": 90,
+    "percentage_points_before_ceiling": 2,
+    "ordinary_usage_allowed": true,
+    "account_wide_not_project_specific": true,
+    "automatic_later_window_authorized": false
+  },
+  "tokens": {
+    "snapshot_cutoff_utc": "2026-10-19T05:37:25.956134+00:00",
+    "observed_sessions": 62,
+    "distinct_responses": 17051,
+    "usage": {
+      "input_tokens": 3620199628,
+      "cached_input_tokens": 3478855936,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 22146373,
+      "reasoning_output_tokens": 8969158,
+      "total_tokens": 3642346001
+    },
+    "uncached_input_plus_output_tokens": 163490065,
+    "sessions_without_usage_records": 0,
+    "all_recorded_session_sums_match_cumulative": true,
+    "method": "Deduplicated own-thread per-response usage records across root and recursively spawned descendants; cached input is a subset of input, reasoning output a subset of output.",
+    "limits": "Local recorded observation while work is active. Unreported in-flight usage is excluded. Not a bill or a conversion to subscription percentage. No prompts, account IDs, credentials, or response IDs exported."
+  },
+  "previous_report": "progress/hourly-report-2026-10-19-1414.json",
+  "increase_since_previous_actual_report": {
+    "input_tokens": 25920671,
+    "cached_input_tokens": 25422208,
+    "cache_write_input_tokens": 0,
+    "output_tokens": 113996,
+    "reasoning_output_tokens": 52757,
+    "total_tokens": 26034667,
+    "uncached_input_plus_output_tokens": 612459
+  },
+  "per_problem": {
+    "2017": {
+      "status_and_pending": "UNRESOLVED. JM16 reviewed: ENTIRE guarded fixed-fan SET union has zero quadratic low-J entropy; balanced family pays positive quadratic J. Prior limit existence/PR11/CI12/LF14/JC15 retained. No global scalar improvement.",
+      "next": "Actual full-class low-joint-cost entropy or a different complete construction."
+    },
+    "2018": {
+      "status_and_pending": "COMPLETE attributed published-result reproduction of the general enumeration, internally reviewed; Hering--Howard/Ottaviani credited, known m5 excluded from research.",
+      "next": "Preserve exact domain and published attribution."
+    },
+    "2019": {
+      "status_and_pending": "UNRESOLVED. CM16 reviewed: actual DISTINCT-pair viable-area mean limit<1/48, strict constant majority belowN\u00b2/24. Bounds1.765224<lambda<1.834843 retained.",
+      "next": "Actual renewal regime/exactlambda, without unmarked/exponential/vanishing-law inference."
+    },
+    "2020": {
+      "status_and_pending": "UNRESOLVED. R20 reviewed: nonempty actual binary Sidon primitive content1 at odd conductors with at most TWO DISTINCT prime factors, arbitrary powers; reciprocal denominator/prescribed-ideal restrictions. Turyn overlap attributed; AR19 full-field quadratic repair retained outside this sector.",
+      "next": "Actual global binary compatibility at larger prime support; no numerical-order exclusion."
+    },
+    "2021": {
+      "status_and_pending": "UNRESOLVED annual question. R29 NOW reviewed: ENTIRE printed retained actual R28 negative-frame domain is EMPTY, by TWO ORIGINAL roots, affine elimination and exact degree26/mod29 certificate plus unrestricted rational-denominator proof. No all-frameIII/degree20/annual claim.",
+      "next": "Map exact accepted case coverage, then other EC/m3/nonadjacent/normalized patterns outside the printed domain. Do not continue searching for survivors in the now-excluded domain."
+    },
+    "2022": {
+      "status_and_pending": "UNRESOLVED. PH13/IT12 and earlier scoped restrictions reviewed. ShortR14 positive-predecessor-wedge hand note completed, all NEWassertions UNVERIFIED; no universal hitting or infinite survivor.",
+      "next": "Resolve missing-predecessor/global ordinary-future obstruction; neither universal hitting nor an infinite ordinary survivor proved."
+    },
+    "2023": {
+      "status_and_pending": "COMPLETE internally reviewed classification for fixed positive nonsquare N: all(k,k),k>0, and(k,2k)/(2k,k) for positive ODD k. External publication priority unconfirmed.",
+      "next": "Retain full real-witness domain and attribution limits."
+    },
+    "2024": {
+      "status_and_pending": "UNRESOLVED. F15/CL14 and earlier scoped results reviewed, no new fullclassification. ShortR16 global polar/normal constraints and local-data nondivisor diagnostic completed UNVERIFIED.",
+      "next": "Global divisor compatibility/off-diagonal incidence beyond local orbit allocations and square restrictions."
+    },
+    "2025": {
+      "status_and_pending": "UNRESOLVED. JT13/ET12/R10/GR11 scoped results reviewed. ShortR14 small convolution-difference target UNVERIFIED; ONE C advisory found no algebraic defect conditionally, not two-audit acceptance or exclusion.",
+      "next": "Quantitative simultaneous compatibility with ORIGINAL Mobius pth-power relation, exactdepth2 actual(C) and nontrivialminusclasses."
+    }
+  },
+  "complete_annual_answers": 2,
+  "unresolved_annual_targets": 7,
+  "deferred": [
+    2026
+  ],
+  "last_previously_pushed_commit": "ae4bd05",
+  "next_manual_reporting_check_utc": "2026-10-19T06:14:35+00:00",
+  "keepawake": {
+    "pid": 79293,
+    "exec_session": 64368,
+    "untimed": true,
+    "verified_at_local": "2026-10-19T15:37:23+10:00",
+    "actual_assertion": "OWN79293 positive52:29:34 PreventUserIdleSystemSleep assertingforever",
+    "stop_only_owned_assertion_at_actual_termination": true
+  },
+  "token_scope": "THIS researchchat plus recursively spawned agents ONLY. Cached input subsetinput; reasoning subsetoutput. Account-wide weekly allowance may include otherprojects, and is not a token entitlement or physical-compute counter.",
+  "limitations": "Local recorded observation while work is active. Unreported in-flight usage is excluded. Not a bill or a conversion to subscription percentage. No prompts, account IDs, credentials, or response IDs exported.",
+  "private_72h_usage_PDF_delivered_not_pushed": true
+}

@@ -1,0 +1,60 @@
+{
+  "frozen_UTC": "2026-10-19T04:27:57.038170+00:00",
+  "reviewer": "/root/review_2022_complexity_r2",
+  "role": "OTHER initially blind WHOLE2",
+  "ENTIRE_files": 6,
+  "ALL_obligations": 16,
+  "payloads": [
+    {
+      "path": "problems/2021-B4/reviews/coordinator-original-roots-r29-review-2-initial.md",
+      "bytes": 15102,
+      "sha256": "8e8c12ca3a9060969660209ad93514e245682109d719106cff9be7afeeb2ebdf"
+    },
+    {
+      "path": "problems/2021-B4/reviews/coordinator-original-roots-r29-review-2-sources-v1.json",
+      "bytes": 6574,
+      "sha256": "bb118b3d16cdfcfbd91aeb05c85a68e4ee12e5b12bbf1d0d9eaa88999e34862d"
+    },
+    {
+      "path": "problems/2021-B4/reviews/coordinator-original-roots-r29-review-2-checker-v1.py",
+      "bytes": 11484,
+      "sha256": "c0dad073b1e4908c0cc948072f9cf0279143853bd395d39a53166947cae18767"
+    },
+    {
+      "path": "problems/2021-B4/reviews/coordinator-original-roots-r29-review-2-certificate-v1.json",
+      "bytes": 10150,
+      "sha256": "407a4d7ca889a71583741e0f8ad306ec63fb0535496a3d31244dd10fb38e3dc8"
+    },
+    {
+      "path": "problems/2021-B4/reviews/coordinator-original-roots-r29-review-2-baseline-v1.json",
+      "bytes": 4075,
+      "sha256": "af6f0d82cd4ea4d5f9dcd8e5d031e5a7ec50e03715e56c063dbba53f5c491cba"
+    }
+  ],
+  "ONE_compact_OWN_parent": {
+    "path": "problems/2021-B4/reviews/coordinator-global-return-r28-review-2-manifest-v1.json",
+    "bytes": 2349,
+    "sha256": "bb2f03228d01fb9290b0c6d4a2d3cb8cc3aa09674619c47f84edaeab170c1e53"
+  },
+  "guard_occurrences": 18,
+  "guard_unique_paths": 18,
+  "FULL_final_ALL5_payload_MODEL_readbacks_completed": true,
+  "FULL_manifest_MODEL_readback_THEN_SEPARATE_readonly_verify_REQUIRED": true,
+  "corresponding_NEW_peer_findings_files_inventory_hash_metadata_access": false,
+  "findings_sealed_until_explicit_BOTH_release": true,
+  "requested": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "independent_effective_backend_readback": null,
+  "quota": {
+    "start_usedPercent": 87,
+    "usedPercent": 88,
+    "observed_UTC": "2026-10-19 04:25:08 UTC",
+    "resetsAt": 1792874445,
+    "TOTAL_ceiling": 90,
+    "checkpoint_at": 89,
+    "reserve": true,
+    "automatic_later_window": false
+  }
+}

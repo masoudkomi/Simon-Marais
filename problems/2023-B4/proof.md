@@ -1,5 +1,7 @@
 # 2023 B4(b) proof register
 
+Current19October2026,15:37Brisbane: COMPLETE internally reviewed classification for fixed positive nonsquare N: all(k,k),k>0, and(k,2k)/(2k,k) for positive ODD k. External publication priority unconfirmed. Next: Retain full real-witness domain and attribution limits. [Current all-nine report](../../progress/status-2026-10-19-1537.md). Earlier dated entries below are historical; frozen accepted proofs and review packets retain their exact bytes.
+
 ## Reviewed full classification
 
 **proved, independently reviewed**, v1.0, 2026-10-16:

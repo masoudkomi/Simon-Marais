@@ -1,0 +1,105 @@
+{
+  "captured_UTC": "2026-10-19T04:25:08.462544+00:00",
+  "necessary_immutable_records": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2021-B4/statement.md",
+      "bytes": 1745,
+      "sha256": "5cd9750a2458191370590120fb4ae7d547740784eb1de38ee9e2e7890a2fabed"
+    },
+    {
+      "path": "problems/2021-B4/proofs/reviewed-reasoning-deep-return-r24-v1.1.md",
+      "bytes": 27431,
+      "sha256": "a52fcb31da9b494659d29b1ea0b587baba3a096264688ac6989e3d98ed578946"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-deep-return-r24-acceptance.md",
+      "bytes": 5485,
+      "sha256": "c86814838459ce13a88137c389b5aa8715630b8ce3589fcf49810be9126f1050"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-deep-return-r24-acceptance.json",
+      "bytes": 3495,
+      "sha256": "8a41ba05fd3851890db2d2d94b946101de03905c08312b089d5346ef1f0e5296"
+    },
+    {
+      "path": "problems/2021-B4/proofs/reviewed-coordinator-dyadic-return-r26-v1.1.md",
+      "bytes": 26334,
+      "sha256": "1e719102a7e202687e5ba65fb373d9dee4467f8b175a2ef94b60e73c948098c6"
+    },
+    {
+      "path": "problems/2021-B4/reviews/coordinator-dyadic-return-r26-acceptance.md",
+      "bytes": 5781,
+      "sha256": "873e2f155fd303acd5c2f83d60f522116959f0300dcad1c7c113e1454cb7856f"
+    },
+    {
+      "path": "problems/2021-B4/reviews/coordinator-dyadic-return-r26-acceptance.json",
+      "bytes": 3457,
+      "sha256": "b33ee6e5e1ed46f5ab88ebab723c760c13f91f53a4a674a518bb918f93f15cc8"
+    },
+    {
+      "path": "problems/2021-B4/proofs/reviewed-coordinator-global-return-r28-v1.1.md",
+      "bytes": 18928,
+      "sha256": "6dc940d541b648a91b9ca53000337917b3b66adf1ef862c57a694513838adddd"
+    },
+    {
+      "path": "problems/2021-B4/reviews/coordinator-global-return-r28-acceptance.md",
+      "bytes": 6458,
+      "sha256": "59a5aa7301d564d56252fee004605f839acadfb0a37165de64eb20b9b2c53084"
+    },
+    {
+      "path": "problems/2021-B4/reviews/coordinator-global-return-r28-acceptance.json",
+      "bytes": 3744,
+      "sha256": "44811c03a99bccb8971532b8514e643372dbb09b1e582ac1aac8f548b3141410"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-original-roots-r29-freeze-v1.json",
+      "bytes": 2043,
+      "sha256": "0fff6336528e3cb971f23e89626fb293a4d5658cdc38bbc4ef5e1d986b584233"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-original-roots-r29-candidate-v1.md",
+      "bytes": 8332,
+      "sha256": "d3edf94f3168d0a0b454138cfe6eb8686ce1bcc001243302828894f4d5ec5eb9"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-original-roots-r29-sources-v1.json",
+      "bytes": 15785,
+      "sha256": "6bcdb38440667d4ce69c216da4c6b3469ad2e274e712780e3c513ea705d211f4"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-original-roots-r29-certificate-v1.py",
+      "bytes": 2494,
+      "sha256": "f36f5919a53de95ddf421b811c8ac24bba1667e520f349a508f4cfc169e07ddd"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-original-roots-r29-admin-v1.py",
+      "bytes": 3166,
+      "sha256": "5ef60938dce51c02e7502c7e316dc0e793cf1ea555a24d01e62f979713b6c59f"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-original-roots-r29-baseline-v1.json",
+      "bytes": 2814,
+      "sha256": "6e1d4382364cff73e219544f5be35c2748b0d0a73d7907d5fc9405722fe330c0"
+    },
+    {
+      "path": "problems/2021-B4/reviews/coordinator-global-return-r28-review-2-manifest-v1.json",
+      "bytes": 2349,
+      "sha256": "bb2f03228d01fb9290b0c6d4a2d3cb8cc3aa09674619c47f84edaeab170c1e53"
+    }
+  ],
+  "ONE_compact_OWN_parent": {
+    "path": "problems/2021-B4/reviews/coordinator-global-return-r28-review-2-manifest-v1.json",
+    "bytes": 2349,
+    "sha256": "bb2f03228d01fb9290b0c6d4a2d3cb8cc3aa09674619c47f84edaeab170c1e53"
+  },
+  "guard_occurrences": 18,
+  "guard_unique_paths": 18,
+  "recursive_inventory": false,
+  "mutable_map_guards": false,
+  "mathematics_certified_by_documentary_code": false
+}

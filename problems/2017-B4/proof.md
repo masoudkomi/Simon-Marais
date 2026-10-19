@@ -1,5 +1,7 @@
 # 2017 B4 proof register
 
+Current19October2026,15:37Brisbane: UNRESOLVED. JM16 reviewed: ENTIRE guarded fixed-fan SET union has zero quadratic low-J entropy; balanced family pays positive quadratic J. Prior limit existence/PR11/CI12/LF14/JC15 retained. No global scalar improvement. Next: Actual full-class low-joint-cost entropy or a different complete construction. [Current all-nine report](../../progress/status-2026-10-19-1537.md). Earlier dated entries below are historical; frozen accepted proofs and review packets retain their exact bytes.
+
 No candidate full solution or new substantive partial theorem has been proposed at the 2026-10-16 first-pass checkpoint.
 
 Every future proof begins as **candidate proof - unverified**. Distinguish published reproductions from original results. Do not relabel until two independent adversarial audits, a reconstruction and all repairs are complete.

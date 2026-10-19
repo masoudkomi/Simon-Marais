@@ -1,5 +1,7 @@
 # 2025 B4 proof register
 
+Current19October2026,15:37Brisbane: UNRESOLVED. JT13/ET12/R10/GR11 scoped results reviewed. ShortR14 small convolution-difference target UNVERIFIED; ONE C advisory found no algebraic defect conditionally, not two-audit acceptance or exclusion. Next: Quantitative simultaneous compatibility with ORIGINAL Mobius pth-power relation, exactdepth2 actual(C) and nontrivialminusclasses. [Current all-nine report](../../progress/status-2026-10-19-1537.md). Earlier dated entries below are historical; frozen accepted proofs and review packets retain their exact bytes.
+
 No candidate full solution is proposed. The unrestricted nontrivial problem remains unresolved in this project. Published results are attributed in references.md; the elementary arguments below are project-written observations, with no novelty claim.
 
 ## P2025-v1: elementary domain reductions

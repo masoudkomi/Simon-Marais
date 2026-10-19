@@ -1,5 +1,7 @@
 # 2019 B4(b): reviewed partial proof, version 1.2
 
+Current19October2026,15:37Brisbane: UNRESOLVED. CM16 reviewed: actual DISTINCT-pair viable-area mean limit<1/48, strict constant majority belowN²/24. Bounds1.765224<lambda<1.834843 retained. Next: Actual renewal regime/exactlambda, without unmarked/exponential/vanishing-law inference. [Current all-nine report](../../progress/status-2026-10-19-1537.md). Earlier dated entries below are historical; frozen accepted proofs and review packets retain their exact bytes.
+
 **proved, independently reviewed (partial results)**, 2026-10-16. Both initially blind full reconstructions accepted the mathematical arguments. The author repaired the requested attribution in v1.1, and R1 independently verified that correction and the unchanged mathematics/certificates. The coordinator accepted the partial results; see reviews/acceptance.md. Frozen v1 and v1.1 remain in proofs/. The exact growth constant is not determined, so the full B4(b) question remains unresolved. Novelty is not established.
 
 The definitions of \(B_n\) and \(b_n\) are those of the official paper. A

@@ -1,5 +1,7 @@
 # 2018 B4 research log
 
+Current19October2026,15:37Brisbane: COMPLETE attributed published-result reproduction of the general enumeration, internally reviewed; Hering--Howard/Ottaviani credited, known m5 excluded from research. Next: Preserve exact domain and published attribution. [Current all-nine report](../../progress/status-2026-10-19-1537.md). Earlier dated entries below are historical; frozen accepted proofs and review packets retain their exact bytes.
+
 ## Research significance and connections
 
 Opening overview updated 2026-10-18. The monotone matrices in this problem are

@@ -1,5 +1,7 @@
 # 2020 B4 proof register
 
+Current19October2026,15:37Brisbane: UNRESOLVED. R20 reviewed: nonempty actual binary Sidon primitive content1 at odd conductors with at most TWO DISTINCT prime factors, arbitrary powers; reciprocal denominator/prescribed-ideal restrictions. Turyn overlap attributed; AR19 full-field quadratic repair retained outside this sector. Next: Actual global binary compatibility at larger prime support; no numerical-order exclusion. [Current all-nine report](../../progress/status-2026-10-19-1537.md). Earlier dated entries below are historical; frozen accepted proofs and review packets retain their exact bytes.
+
 The unrestricted classification remains unresolved. No candidate full solution has been proposed.
 
 | Version | Status | Scope | Attribution |

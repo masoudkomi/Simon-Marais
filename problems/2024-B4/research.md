@@ -1,5 +1,7 @@
 # 2024 B4 research log
 
+Current19October2026,15:37Brisbane: UNRESOLVED. F15/CL14 and earlier scoped results reviewed, no new fullclassification. ShortR16 global polar/normal constraints and local-data nondivisor diagnostic completed UNVERIFIED. Next: Global divisor compatibility/off-diagonal incidence beyond local orbit allocations and square restrictions. [Current all-nine report](../../progress/status-2026-10-19-1537.md). Earlier dated entries below are historical; frozen accepted proofs and review packets retain their exact bytes.
+
 09:33 update: **R13A--D is proved, independently reviewed scoped partial result.** For every odd a>=3 and integer t>=0, n=(2^a-1)(2^(a+1)-1)*2^[a((a+1)t+2)]+1 has a WHOLE absolutely irreducible quotient, excluding the official factorization. A/B each reconstructed all32 obligations. Every t0 endpoint is included, in particular6721. Published overlap, priority, converse and full classification remain open. [Acceptance](reviews/coordinator-tensor-family-return-r13-acceptance.md). Earlier dated notices below are historical.
 
 08:51: Separate root R13 two-parameter family is frozen UNVERIFIED, ENTIRE5/ALL32, requiring A/B TWO OTHER whole audits; accepted TR12 remains unchanged. [Candidate](notes/coordinator-tensor-family-return-r13-candidate-v1.md).

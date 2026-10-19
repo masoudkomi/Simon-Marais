@@ -1,5 +1,7 @@
 # 2024 B4 proof register
 
+Current19October2026,15:37Brisbane: UNRESOLVED. F15/CL14 and earlier scoped results reviewed, no new fullclassification. ShortR16 global polar/normal constraints and local-data nondivisor diagnostic completed UNVERIFIED. Next: Global divisor compatibility/off-diagonal incidence beyond local orbit allocations and square restrictions. [Current all-nine report](../../progress/status-2026-10-19-1537.md). Earlier dated entries below are historical; frozen accepted proofs and review packets retain their exact bytes.
+
 No full solution has been proposed. The infinite fixed-factor family below is **proved, independently reviewed (partial result)**. Other candidates retain their individual unverified labels.
 
 ## Accepted exact whole-phi13 criterion, v1.1

@@ -1,5 +1,7 @@
 # 2018 B4: an explicit general enumeration
 
+Current19October2026,15:37Brisbane: COMPLETE attributed published-result reproduction of the general enumeration, internally reviewed; Hering--Howard/Ottaviani credited, known m5 excluded from research. Next: Preserve exact domain and published attribution. [Current all-nine report](../../progress/status-2026-10-19-1537.md). Earlier dated entries below are historical; frozen accepted proofs and review packets retain their exact bytes.
+
 **proved, independently reviewed**, version 1.1, 2026-10-16. **Published-result reproduction; no novelty claim.**
 
 This is a reproduction and elementary derivation of a **published formula**, not a claim of a new research result. Hering and Howard, Proposition 3.2, directly contains the result after substituting equal weights. Ottaviani, Theorem 40, also records the equal-weight formula and attributes it to Howe. Full references and the discrepancy with the competition's as-issued open label are in `references.md`. The proof below is self-contained and does not require representation theory or those theorems as black boxes.

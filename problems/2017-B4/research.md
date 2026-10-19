@@ -1,5 +1,7 @@
 # 2017 B4 research log
 
+Current19October2026,15:37Brisbane: UNRESOLVED. JM16 reviewed: ENTIRE guarded fixed-fan SET union has zero quadratic low-J entropy; balanced family pays positive quadratic J. Prior limit existence/PR11/CI12/LF14/JC15 retained. No global scalar improvement. Next: Actual full-class low-joint-cost entropy or a different complete construction. [Current all-nine report](../../progress/status-2026-10-19-1537.md). Earlier dated entries below are historical; frozen accepted proofs and review packets retain their exact bytes.
+
 19October12:44Brisbane JM16 status: BOTH OTHER whole32 initials have completed full final readbacks/separate verification and were explicitly released after02:42:52UTC. Root ENTIRE reconciliation is PENDING; the proposed entire guarded-family low-J entropy obstruction remains UNVERIFIED. No full-model denominator/mass or scalar value conclusion.
 
 19October12:30Brisbane: NEW [JM16 author packet](notes/reasoning-joint-mass-return-r16-candidate-v1.md) is **candidate proof - unverified**, frozen/read back/separately verified. It proposes an obstruction within the entire guarded LF14 family, not a full arrangement-count or joint-mass law. TWO OTHER whole audits remain required; coordinator has checked handoff integrity, not reconciled the new mathematics. JC15 remains accepted; annual value OPEN.

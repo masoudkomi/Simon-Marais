@@ -1,5 +1,7 @@
 # 2021 B4 proof register
 
+Current19October2026,15:37Brisbane: UNRESOLVED annual question. R29 NOW reviewed: ENTIRE printed retained actual R28 negative-frame domain is EMPTY, by TWO ORIGINAL roots, affine elimination and exact degree26/mod29 certificate plus unrestricted rational-denominator proof. No all-frameIII/degree20/annual claim. Next: Map exact accepted case coverage, then other EC/m3/nonadjacent/normalized patterns outside the printed domain. Do not continue searching for survivors in the now-excluded domain. [Current all-nine report](../../progress/status-2026-10-19-1537.md). Earlier dated entries below are historical; frozen accepted proofs and review packets retain their exact bytes.
+
 10:48 Brisbane update: [R24A--C](reviews/reasoning-deep-return-r24-acceptance.md) is **proved, independently reviewed scoped partial result** after B/C OTHER whole32 audits and root full64 reconciliation. In the retained actual negative frameIII, every d>=3 has t=1 and full gcd(f,H12)=X-s; t>=2 is confined to d2 with a9=a10=0 and full H11/H10 gcds X/X². Residual sectors, full degree20 and the annual question remain open. No new external theorem or priority claim. Earlier dated snapshots remain historical.
 
 No candidate full solution has been proposed. The lemmas below are a research
