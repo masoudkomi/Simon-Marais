@@ -1,0 +1,39 @@
+{
+  "frozen_UTC": "2026-10-19T01:14:55.214167+00:00",
+  "status": "candidate proof - unverified",
+  "constructor": "/root",
+  "claims": [
+    "R25A",
+    "R25B attributed consequence"
+  ],
+  "whole_obligations": 28,
+  "ENTIRE_files": 5,
+  "payloads": [
+    {
+      "path": "problems/2021-B4/notes/coordinator-dyadic-depth-return-r25-candidate-v1.md",
+      "bytes": 14771,
+      "sha256": "4ebcb8df634d91edc5b380effc883f795ce817dbdd992c5182da1f659eb203cc"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-dyadic-depth-return-r25-sources-v1.json",
+      "bytes": 2663,
+      "sha256": "f504168d9766c020d09a54ecfe66e5bc232f169f778f12e8d88346ad0088ce31"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-dyadic-depth-return-r25-admin-v1.py",
+      "bytes": 3124,
+      "sha256": "e67f1959857988f6cc27752fc1550bba0866a76e84d8e8acb8653fd4dd127570"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-dyadic-depth-return-r25-baseline-v1.json",
+      "bytes": 1533,
+      "sha256": "76ace7aa80d825531fccdb659dd08b4cd5f6ed3df481701dd2e498831dde64c5"
+    }
+  ],
+  "FULL_final_ALL4_MODEL_readbacks_complete": true,
+  "FULL_manifest_MODEL_readback_then_SEPARATE_verify_required": true,
+  "TWO_OTHER_whole_audits_required": true,
+  "constructor_excluded": true,
+  "mathematical_computation": false,
+  "unrelated_NEW_peer_access": false
+}

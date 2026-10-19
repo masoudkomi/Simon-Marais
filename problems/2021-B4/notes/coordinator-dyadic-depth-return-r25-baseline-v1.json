@@ -1,0 +1,46 @@
+{
+  "created_UTC": "2026-10-19T01:14:42.503280+00:00",
+  "constructor": "/root",
+  "status": "candidate proof - unverified",
+  "whole_obligations": 28,
+  "necessary_immutable_records": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2021-B4/statement.md",
+      "bytes": 1745,
+      "sha256": "5cd9750a2458191370590120fb4ae7d547740784eb1de38ee9e2e7890a2fabed"
+    },
+    {
+      "path": "problems/2021-B4/proofs/reviewed-reasoning-deep-return-r24-v1.1.md",
+      "bytes": 27431,
+      "sha256": "a52fcb31da9b494659d29b1ea0b587baba3a096264688ac6989e3d98ed578946"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-deep-return-r24-acceptance.md",
+      "bytes": 5485,
+      "sha256": "c86814838459ce13a88137c389b5aa8715630b8ce3589fcf49810be9126f1050"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-deep-return-r24-acceptance.json",
+      "bytes": 3495,
+      "sha256": "8a41ba05fd3851890db2d2d94b946101de03905c08312b089d5346ef1f0e5296"
+    }
+  ],
+  "historical_parent_inventory_not_expanded": true,
+  "current_mutable_maps_not_immutable_guards": true,
+  "TWO_OTHER_initially_blind_whole_audits_required": true,
+  "constructor_excluded": true,
+  "mathematical_computation": false,
+  "quota": {
+    "usedPercent": 76,
+    "observed_UTC": "2026-10-19 00:48:00 UTC",
+    "resetsAt": 1792874445,
+    "TOTAL_ceiling": 90,
+    "reserve": true,
+    "automatic_later_window": false
+  }
+}
