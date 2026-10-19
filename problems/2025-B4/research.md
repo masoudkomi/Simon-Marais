@@ -173,3 +173,8 @@ All third-party full PDFs remain in the ignored local .cache/literature/2025/ ca
 ## Reviewed continuation —19October2026,14:14Brisbane
 
 JT13 now reviewed conditional ACTUALtrace-vector injection/fullcyclic compatibility/dependent reciprocal vectors. Directheight weaker thanR10; originalpower/globalclass/annual gap OPEN. TWO OTHER initiallyblind ENTIRE whole audits and full coordinator reconciliation complete, frozen bytes preserved. [Exact acceptance](reviews/reasoning-joint-trace-return-r13-acceptance.md). No annual promotion or priority claim.
+
+
+## Exploratory reserve checkpoint —19October2026
+
+[Short hand note](notes/reasoning-frontier-reserve-r14.md), **UNVERIFIED**, no independent acceptance or annual promotion. Specified tiny cyclic-convolution difference; firstlocal comparison matches and cleared norm remains large.

@@ -260,3 +260,8 @@ NEW CL14 accepted02:05:38.828098UTC after TWO OTHER whole48 audits/full96 coordi
 ## Reviewed continuation —19October2026,14:14Brisbane
 
 F15 now reviewed necessary ACTUALFq-divisor three diagonal square restrictions and F2center orbit condition; ell21 failed budget remains negative, no new exponent/classification. TWO OTHER initiallyblind ENTIRE whole audits and full coordinator reconciliation complete, frozen bytes preserved. [Exact acceptance](reviews/reasoning-frontier-return-r15-acceptance.md). No annual promotion or priority claim.
+
+
+## Exploratory reserve checkpoint —19October2026
+
+[Short hand note](notes/reasoning-frontier-reserve-r16.md), **UNVERIFIED**, no independent acceptance or annual promotion. Global polar/Gauss-normal equations and local-data nondivisor diagnostic; global degree bridge missing.

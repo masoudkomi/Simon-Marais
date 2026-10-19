@@ -1,0 +1,58 @@
+{
+  "frozen_UTC": "2026-10-19T04:19:44.349589+00:00",
+  "status": "candidate proof - unverified",
+  "constructor": "/root",
+  "constructor_excluded": true,
+  "ENTIRE_files": 6,
+  "ALL_obligations": 16,
+  "payloads": [
+    {
+      "path": "problems/2021-B4/notes/coordinator-original-roots-r29-candidate-v1.md",
+      "bytes": 8332,
+      "sha256": "d3edf94f3168d0a0b454138cfe6eb8686ce1bcc001243302828894f4d5ec5eb9"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-original-roots-r29-sources-v1.json",
+      "bytes": 15785,
+      "sha256": "6bcdb38440667d4ce69c216da4c6b3469ad2e274e712780e3c513ea705d211f4"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-original-roots-r29-certificate-v1.py",
+      "bytes": 2494,
+      "sha256": "f36f5919a53de95ddf421b811c8ac24bba1667e520f349a508f4cfc169e07ddd"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-original-roots-r29-admin-v1.py",
+      "bytes": 3166,
+      "sha256": "5ef60938dce51c02e7502c7e316dc0e793cf1ea555a24d01e62f979713b6c59f"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-original-roots-r29-baseline-v1.json",
+      "bytes": 2814,
+      "sha256": "6e1d4382364cff73e219544f5be35c2748b0d0a73d7907d5fc9405722fe330c0"
+    }
+  ],
+  "ONE_compact_OWN_parent": {
+    "path": "problems/2021-B4/notes/coordinator-global-return-r28-freeze-v1.json",
+    "bytes": 2159,
+    "sha256": "c2818ceba47100e3276c85d3937bd3a3f4ac887343c52b1fa96114d2a2743029"
+  },
+  "FULL_final_ALL5_payload_MODEL_readbacks_completed": true,
+  "FULL_manifest_MODEL_readback_THEN_SEPARATE_readonly_verify_REQUIRED": true,
+  "TWO_OTHER_initially_blind_ENTIRE_whole_audits_required": true,
+  "guard_occurrences": 12,
+  "guard_unique_paths": 12,
+  "requested": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "independent_effective_backend_readback": null,
+  "quota": {
+    "usedPercent": 87,
+    "observed_UTC": "2026-10-19 04:17:45 UTC",
+    "resetsAt": 1792874445,
+    "TOTAL_ceiling": 90,
+    "reserve": true,
+    "automatic_later_window": false
+  }
+}

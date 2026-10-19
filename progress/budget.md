@@ -448,3 +448,16 @@ Three workers make ONE short hand exploratory pass each on2022/2024/2025, no new
 Owned awake79293/session64368 OSverified14:14:14Brisbane positive51:06:24forever. Keep while authorized; releaseONLYowned assertion at actual stop. Publicfree original/author sources only/no fee/contact/bypass/unlicensed upload. Private72husagePDF stays ignored/localonly. Latest previously confirmedpushbdbfcdd. Next actual hourly05:14:35UTC, unless the current window's reserve stopping checkpoint occurs first.
 
 [GitHub report](https://github.com/masoudkomi/Simon-Marais/blob/codex/smmc-b4-research/progress/status-2026-10-19-1414.md).
+
+
+# Continuing research checkpoint —19October2026,14:21Brisbane
+
+Direct87%TOTAL weekly at04:20:39UTC, ordinary allowed, same1792874445/10080-minute window. Three percentage points before90%TOTAL includes both audits/rootintegration/Git reserve. No later-window authorization. Latest actual token report remains14:14/cutoff04:14:22UTC; this intervening checkpoint is NOT another token sample. [All-nine hourly status](status-2026-10-19-1414.md). Two annual answers complete, seven unresolved.
+
+NEW2021R29 is **candidate proof - unverified**. It uses TWO ORIGINAL roots F(1)=f(r)/r20 and F(h)=f(1)/r20 after exactA9/A10zero. Eliminating b WITHOUT division gives a degree29 polynomial, exactly125970h²(h-1)T(h), with degree26T/leading24mod29 and ALL29 values nonzero. A hand denominator proof covers EVERY rational h. If independently confirmed this excludes ONLY the ENTIRE printed retained R28 branch; no wholeframeIII/degree20/annual promotion. Root's bounded20second Sympyprobe child83494exit0/reaped and independent NEW standard-library finite certificate/code/fulloutputs are saved. No routine tests or oldcertificate replay.
+
+ENTIRE6/ALL16 author froze04:19:44.349589UTC after FULL finalALL5payloadMODELreadbacks and FULLmanifestMODELreadback THEN SEPARATE04:19:52.259153PASS. Rootconstructorexcluded. A/B OTHER initiallyblind ENTIREwhole16 audits now active; each may ONE NEW independent necessaryfixed finite verifier, no source/author/old execution or generalsearch. Corresponding NEW R29peerfindings/files/actualinventories/hashes/meta remain SEALED until BOTHcompleteFULLreadbacks/separateverify+explicitrootrelease. No prospectiveR30 or furtherauthorsearch. Ccheckpointstandby, otheragents continue independently of any permission.
+
+Three short HAND exploratory notes completed, FULLreadback byauthors androot, ALLnewassertions UNVERIFIED/no promotion:2022R14 proposes an explicit positive-predecessor wedge but preserves the invalid forward-minimality inference/unboundedboundary;2024R16 proposes actual global polar constraints and an exact-local-data nondivisor diagnostic, no degree/classification theorem;2025R14 identifies a small cyclic-convolution difference, and records matching firstlocal layer/failedlarge-norm route. These notes are NOT acceptedproofs and have no two-review claim.
+
+Earlier accepted2021R28/2024F15/2025JT13 and actual14:14hourly report PUSHED6d09961; all frozenbytes preserved. Publicfree original/author sources only/no fees/contact/bypass/unlicensedpapers. Private72husagePDF localignored. Ownedawake79293/session64368 OSverified14:14:14Brisbane51:06:24forever remains owned/active; releaseONLYit at actualstop. Next hourly05:14:35UTC unless stopreserve occursfirst.

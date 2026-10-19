@@ -186,3 +186,8 @@ The v3 fixed-offset density theorem and supplementary v1 partial claims are now 
 ## 19October14:03Brisbane coordinator update
 
 [PH13](reviews/reasoning-physical-return-r13-acceptance.md) accepted after TWOOTHER initiallyblind WHOLE32/full64 audits and ENTIRE reconciliation/finalacceptancereadbacks. ProperSUMgrowth gives a conditional attained minimum, only existing official predecessors diagonal, then parity-twin/source restrictions. No-parent/critical futures remainopen; no ordinary infinite survivor/universalhitting/annualclaim. Frozenbytesunchanged.
+
+
+## Exploratory reserve checkpoint —19October2026
+
+[Short hand note](notes/reasoning-frontier-reserve-r14.md), **UNVERIFIED**, no independent acceptance or annual promotion. Explicit positive-predecessor wedge; no-parent boundary/forward-minimality gap retained.
