@@ -1,0 +1,51 @@
+{
+  "frozen_utc": "2026-10-19T00:01:31.532455+00:00",
+  "reviewer": "/root/review_2017_coarsening_r1",
+  "type": "OTHER initially blind ENTIRE WHOLE2 AR19 initial",
+  "WHOLE_obligations": 48,
+  "ENTIRE_files": 5,
+  "payload_records": [
+    {
+      "path": "problems/2020-B4/reviews/reasoning-realization-return-r19-review-2-initial-v1.md",
+      "bytes": 23546,
+      "sha256": "5bab77002489cddd2f925994674c57d6cd10d0a3ccbf04cf5080c2a59eec0836"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-realization-return-r19-review-2-sources-v1.json",
+      "bytes": 4399,
+      "sha256": "52e60a7bd86697bc0a509ff37b8c722b238d5912145e189a60222e716e9176b6"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-realization-return-r19-review-2-admin-v1.py",
+      "bytes": 8590,
+      "sha256": "7eafa8625f99e15be5096e01891daa77709df2203eafbd69ca5765fa1a3e3838"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-realization-return-r19-review-2-baseline-v1.json",
+      "bytes": 4418,
+      "sha256": "e6eba3dd3d70bdac4413207195eb63b7ae1581faf135da11e9ecdae3d46daf9d"
+    }
+  ],
+  "guard_summary": {
+    "occurrences": 32,
+    "unique_paths": 32,
+    "canonical_deduplicated_sha256": "315b50fd65d2c0926087866e0ee98afa3b4c2c1d9a18e917cc29e6e449f939bd"
+  },
+  "author": {
+    "path": "problems/2020-B4/notes/reasoning-realization-return-r19-freeze-v1.json",
+    "bytes": 2637,
+    "sha256": "a4967473504c2ff3a481487e84a5a07ae9305bf8da00b6594ef298185eed01d5"
+  },
+  "immediate_own_parent": {
+    "path": "problems/2025-B4/reviews/reasoning-global-return-r11-review-1-manifest-v1.json",
+    "bytes": 2349,
+    "sha256": "437702e41264c07bf2f4ebdedfabc013054615d32b276eed5d698b5c31836123"
+  },
+  "FULL_final_MODEL_ALL4_payload_readback_completed": true,
+  "FULL_manifest_MODEL_readback_then_SEPARATE_readonly_verify_required": true,
+  "NEW_root_R19_peer_access": false,
+  "NEW_B_R11_peer_access": false,
+  "findings_sealed_until_explicit_BOTH": true,
+  "mathematical_program_CAS_scan_test_old_replay": false,
+  "Git_shared_old_cache_mutation": false
+}

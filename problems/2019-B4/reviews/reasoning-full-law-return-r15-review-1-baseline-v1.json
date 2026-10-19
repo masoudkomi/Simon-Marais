@@ -1,0 +1,84 @@
+{
+  "created_UTC": "2026-10-19T00:04:47.260578+00:00",
+  "reviewer": "/root/review_2021_reasoning_j15_r2",
+  "role": "OTHER initially blind ENTIRE WHOLE1",
+  "whole_obligations": 48,
+  "ENTIRE_files": 5,
+  "target": {
+    "path": "problems/2019-B4/notes/reasoning-full-law-return-r15-candidate-v1.md",
+    "bytes": 33314,
+    "sha256": "38a770fac7bdc044b672038353a8b2140899f1607f86a0bcc1cfb2f33c077ab8"
+  },
+  "author_manifest": {
+    "path": "problems/2019-B4/notes/reasoning-full-law-return-r15-freeze-v1.json",
+    "bytes": 2055,
+    "sha256": "9d65c7cf66efa14925fc15ef081aec846157db3c853ea0744b09afd165e1cbfb"
+  },
+  "author_baseline": {
+    "path": "problems/2019-B4/notes/reasoning-full-law-return-r15-baseline-v1.json",
+    "bytes": 6437,
+    "sha256": "1750b3ae67029ec78c0903a68482b9b83e5b9cc1a254f34c9258dd7d5f3d3edd"
+  },
+  "author_declared_guard_summary_bound": {
+    "occurrences": 31,
+    "unique_paths": 26,
+    "canonical_deduplicated_sha256": "418c3c54b11809fbda579b3e1150b7a1d0ff33f4045950a5e86a44a257cd60d7"
+  },
+  "author_all26_deduplicated_direct_guard_paths_rechecked": true,
+  "author_own_parent_older_summary_bound_NOT_reexpanded": {
+    "occurrences": 47,
+    "unique_paths": 45,
+    "canonical_deduplicated_sha256": "a8b8dc800f3d15a2ee84ba4929d9c183fae14354cba3c0e38324074559087c5c"
+  },
+  "own_immediate_parent": {
+    "path": "problems/2021-B4/notes/reasoning-deep-return-r24-freeze-v1.json",
+    "bytes": 2564,
+    "sha256": "f2124aa5804550b00eb81e665937718ce24c220929f9003be29fad895c64e833"
+  },
+  "own_all4_parent_payloads_verified": true,
+  "own_parent_historical_guard_summary_bound_NOT_reexpanded": {
+    "occurrences": 42,
+    "unique_paths": 40,
+    "canonical_deduplicated_sha256": "cdd0b41655013df4adeda8ff9ec80bfc95df5cb477d3750553f205eca14c93ca"
+  },
+  "own_parent_mathematics_FL15_premise": false,
+  "effective_fresh_guard_summary": {
+    "occurrences": 43,
+    "unique_paths": 37,
+    "canonical_deduplicated_sha256": "6174d171dc9765e5b675d5d5fe3cae33789a568d26786452c93f48dd57b439de"
+  },
+  "giant_historical_inventory_recopied_or_traversed": false,
+  "current_authority_declared_accepted_copies_verified": 5,
+  "CT_erratum_operative_v1_2_verified_historical_v1_1_not_operative": true,
+  "literal_document_checks": {
+    "whole_obligation_labels": 48,
+    "closed_note_labels": 9,
+    "mathematical_truth_checked_by_code": false
+  },
+  "requested": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independent_effective_setting_readback": null,
+  "peer_nonexposure": {
+    "NEW_root_FL15_mathematical_findings_disposition_public_status_seen": false,
+    "actual_peer_inventory_open_hash_content_or_baseline_use": false,
+    "administrative_exception": "Received completion ENTIRE5/ALL48, freeze/verify times23:55:54.447462/23:55:56.825129UTC and review-2 manifest filename; no mathematical disposition/hash. Filename not opened/hashed/inventoried or used as premise.",
+    "zero_metadata_receipt_claim": false,
+    "explicit_BOTH_release_required_after_own_ENTIRE_readback_separate_verify": true
+  },
+  "direct_quota": {
+    "usedPercent": 73,
+    "windowDurationMins": 10080,
+    "resetsAt": 1792874445,
+    "ordinaryUsageAllowed": true,
+    "observed_UTC": "2026-10-18 23:54:29 UTC; transition tool again73%",
+    "TOTAL_ceiling": 90,
+    "integration_reserve": true,
+    "automatic_later_window": false
+  },
+  "no_mathcode_CAS_scan_test_optimizer_old_source_author_replay": true,
+  "no_Git_shared_old_cache_mutation": true,
+  "FULL_final_ALL4_payload_MODEL_readbacks_then_manifest_MODEL_readback_then_SEPARATEverify_required": true
+}

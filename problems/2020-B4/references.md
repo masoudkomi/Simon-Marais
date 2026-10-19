@@ -46,3 +46,6 @@ All queries below were run 2026-10-16 with the web search tool. Only primary pap
 | 09:31-09:33 | `"On the geometry of planar difference sets"`, `"A note on planar difference sets"`, and exact multiplier-paper title | Primary publisher abstracts checked; imported full theorem scope cross-checked in Gordon. |
 
 Verification is time-stamped; a search not finding a paper cannot establish nonexistence of a paper.
+
+
+19 October 2026, 10:11 Brisbane: AR19: classical unit-index/ramification context from Lemmermeyer arXiv1202.5777v1 Section2; quadratic Gauss/orthogonality/Kronecker operative proofs in Reed author-hosted kummer.pdf. Exact read limits, no source-absence/priority claim, and explicit quadratic repair are recorded in the accepted packet.

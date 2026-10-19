@@ -1,5 +1,8 @@
 # 2019 B4(b) research log
 
+Current 19 October, 10:11 Brisbane: [FL15A--D](reviews/reasoning-full-law-return-r15-acceptance.md) is **proved, independently reviewed scoped partial result**, after A/root OTHER initially blind WHOLE48/48 and complete96-disposition coordinator reconciliation. It proves the sharp full viable-area ceiling V<=Q<=3N²/16+N+1, with actual equality along N=4m, and an exponential FULL distinct-output tail for every fixed density eta>47/256. All exceptional positions/bits, both absolute intervals, tape split and actual normalizer are paid. Smaller positive densities, renewal regime, exact lambda and the annual answer remain OPEN; no new numerical enclosure or priority claim. AT's existing mean<=1/6 already beats the weak mean consequence of this tail. Frozen proofs/reviews are unchanged; older dated discussions below retain their historical scopes.
+
+
 ## Research significance and connections
 
 Opening overview updated 2026-10-18. This problem asks how quickly the number
@@ -29,8 +32,8 @@ in full R_N, so these tails do not control the full problem. An actual
 quadratic-area counterfamily shows why independent oscillation deletion
 loses necessary timing information. General occupation supplies short
 actual balanced blocks, allowing an empty other tape; decoding their
-cuts is still missing. The full-law upper mass, actual regime and exact
-lambda remain open; the numerical enclosure is unchanged.
+cuts is still missing. The smaller-density full-law upper mass, actual regime and exact
+lambda remain open; FL15 below covers only its stated near-ceiling range. The numerical enclosure is unchanged.
 
 The newly accepted [AU1--AU4 actual-area and entropy theorem](reviews/reasoning-occupation-return-r1-acceptance.md)
 passed TWO OTHER whole64 audits/full reconciliation. Actual legal outputs

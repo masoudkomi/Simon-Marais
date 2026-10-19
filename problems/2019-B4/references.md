@@ -57,3 +57,6 @@ The marked-context argument, fixed-position lower approximants and
 They are proposed contributions, **candidate proof - unverified**; their
 novelty has not been exhaustively established. The four-move relation and
 the contextual \(\phi,\psi\) bounds are explicitly attributed above.
+
+
+19 October 2026, 10:11 Brisbane: FL15: exact finite edge-incidence/entropy argument; primary contextual reads Asselah arXiv0801.3918v1 and Ceccherini--Silberstein DOI10.1090/S0002-9947-06-03958-4, with literal proof/hypothesis limits in the accepted packet. No imported random-walk or grammar law.

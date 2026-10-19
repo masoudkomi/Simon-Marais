@@ -1,0 +1,70 @@
+{
+  "packet": "OTHER initially blind ENTIRE WHOLE2 AR19A--D, ALL48",
+  "reviewer": "/root/review_2017_coarsening_r1",
+  "NEW_root_R19_review_access": false,
+  "OLD_roles": "C reviewed R18 and SQ17, authored A9/SQ15 and other earlier inputs, and preserves the OLD SQ14 qualifier miss; no older theorem is independently self-recertified",
+  "fresh_complete_inputs": [
+    {
+      "body": "problems/2020-B4/proofs/reviewed-reasoning-actual-return-r18-v1.1.md",
+      "authority_md": "problems/2020-B4/reviews/reasoning-actual-return-r18-acceptance.md",
+      "authority_json": "problems/2020-B4/reviews/reasoning-actual-return-r18-acceptance.json",
+      "read": "COMPLETE current body and EACH MDJSON",
+      "scope": "Actual dictionary/whole-character and integral-denominator boundaries; new reciprocal theorem reconstructed directly"
+    },
+    {
+      "body": "problems/2020-B4/proofs/reviewed-reasoning-return-r8-v1.1.md",
+      "authority_md": "problems/2020-B4/reviews/reasoning-return-r8-acceptance.md",
+      "authority_json": "problems/2020-B4/reviews/reasoning-return-r8-acceptance.json",
+      "read": "COMPLETE current body and EACH MDJSON",
+      "scope": "Standalone classical norm-unit quotient comparison; prime-conductor sufficiency not exported to the new composite field"
+    },
+    {
+      "body": "problems/2020-B4/proofs/reviewed-reasoning-arithmetic-return-r9-v1.1.md",
+      "authority_md": "problems/2020-B4/reviews/reasoning-arithmetic-return-r9-acceptance.md",
+      "authority_json": "problems/2020-B4/reviews/reasoning-arithmetic-return-r9-acceptance.json",
+      "read": "COMPLETE current body and EACH MDJSON",
+      "scope": "Recognizes discarded rediscovery; small-nonsquare theorem is not a new AR19 premise; C old author role disclosed"
+    }
+  ],
+  "fresh_comparison_read_limits": [
+    "Corrected SQ14v1.2 body first95 lines and EACH full current repair MDJSON",
+    "Repaired SQ15v1.1 body first100 lines and EACH full current MDJSON",
+    "SQ17v1.1 body first85 lines and EACH full current MDJSON",
+    "Earlier whole-body reading of those comparison results is historical; not called a fresh whole reread"
+  ],
+  "primary": [
+    {
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2020-paper-b_1.pdf",
+      "read": "Official page2 B4 setup/open(b)98--105; full saved normalization read. Incidental preliminary/neighboring text not investigated.",
+      "scope": "Exact annual domain only"
+    },
+    {
+      "author": "Franz Lemmermeyer",
+      "title": "Ideal class groups of cyclotomic number fields I",
+      "url": "https://arxiv.org/pdf/1202.5777",
+      "version": "1202.5777v1, February26,2012",
+      "read": "Returned0--416; FULL Section2 at34--380, including Proposition1 and supplied proofs, essential ramification, Theorem1/Lemma1/proofs and Examples1--6",
+      "scope": "Classical unit-index/essential-ramification and odd-extension context; exact field-specific proofs reconstructed",
+      "nonimports": "No introduction norm-map kernel/cokernel sentence, unqualified composite-index slogan, later class-number theorem or full CFT/final-journal proof chain"
+    },
+    {
+      "url": "https://people.reed.edu/~jerry/361/lectures/kummer.pdf",
+      "title": "Cyclotomic-intermediate fields via Gauss sums",
+      "provenance": "Reed mathematics teaching notes, opening credits Paul Garrett vignette",
+      "read": "FULL operative Section1 42--60; Appendix9.1 1452--1504, orthogonality9.2 1505--1553, Kronecker9.5 1611--1623",
+      "scope": "Classical nontrivial quadratic Gauss identity, finite Fourier inversion, bounded-polynomial root-of-unity theorem; each needed application reconstructed",
+      "limits": "Not the whole14-page note or a full original Hasse/CFT/reference-chain audit"
+    }
+  ],
+  "read_recovery": "One comparison aggregate clipped2769 tokens; entire affected SQ14JSON and SQ15MDJSON were separately recovered. No clipped middle is counted as read.",
+  "new_binary_download_cache_write": false,
+  "raw_binary_sha256": null,
+  "source_or_author_executable_replay": false,
+  "pending_stalled_call_approval_child": false,
+  "CUA_native_browser": false,
+  "charge_contact_bypass_redistribution": false,
+  "NEW_R11_peer_access_or_finding_release": false,
+  "NEW_R19_peer_access_or_finding_release": false,
+  "mathematical_program_CAS_scan_test_optimizer": false,
+  "annual_or_priority_claim": false
+}

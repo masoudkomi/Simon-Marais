@@ -1,0 +1,70 @@
+{
+  "frozen_utc": "2026-10-18T23:51:35.893287+00:00",
+  "status": "candidate proof - unverified",
+  "role": "B sole NEW AR19 constructor; excluded from TWO OTHER whole audits",
+  "ENTIRE_files": 5,
+  "whole_obligations": 48,
+  "payload_records": [
+    {
+      "path": "problems/2020-B4/notes/reasoning-realization-return-r19-candidate-v1.md",
+      "bytes": 31284,
+      "sha256": "570203928d79da6c43ff1046775699c62029360e39ff1885a0057dd1bd570727"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-realization-return-r19-sources-v1.json",
+      "bytes": 8081,
+      "sha256": "288f5de664068eb336fb52a8b9d4d70c8df7151ec7f945fad2ff9d6c6c1a12e2"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-realization-return-r19-admin-v1.py",
+      "bytes": 9601,
+      "sha256": "46513d0943595795a87d64aafde895ad0ef6d67c98ff06938726b39c7b871496"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-realization-return-r19-baseline-v1.json",
+      "bytes": 8040,
+      "sha256": "3c7e5aa7c3e9f8b4d9e03e2c6ca6e947f84a611645e563f3e48edf636c3bbe98"
+    }
+  ],
+  "direct_guard_summary": {
+    "occurrences": 21,
+    "unique_paths": 21,
+    "canonical_deduplicated_sha256": "e8a0e36e89d928adb884505144e504ec72162eabb3614bc3d9d0d0e50719e834"
+  },
+  "own_immediate_parent": {
+    "path": "problems/2017-B4/reviews/reasoning-lower-return-r14-review-2-manifest-v1.json",
+    "bytes": 3261,
+    "sha256": "f77fddb99a26733be4c81df8cdf89cbbe1550e296f29f2ef80e82e2e15d53889"
+  },
+  "older_own_paths_bound_transitively": 1015,
+  "older_plus_NEW5_own_paths_bound_transitively": 1020,
+  "literal_checks": {
+    "literal_whole_obligations": 48,
+    "literal_author_notes": 8,
+    "mathematical_truth_checked_by_code": false
+  },
+  "requested": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independent_effective_readback": null,
+  "FULL_final_MODEL_ALL4_payload_readback_declared_completed": true,
+  "FULL_manifest_MODEL_readback_then_SEPARATE_verify_required": true,
+  "NEW_corresponding_CR11_peer_review_access": false,
+  "mathematical_program_CAS_scan_test_optimizer_old_replay": false,
+  "Git_shared_old_cache_mutation_spawn_charge_contact_bypass": false,
+  "annual_priority_or_new_taut_order_claim": false,
+  "weekly": {
+    "source": "fresh direct account-wide, legacy/by-limit agree",
+    "at_utc": "2026-10-18 23:41:19 UTC",
+    "TOTAL_used_percent": 71,
+    "resetsAt": 1792874445,
+    "windowDurationMins": 10080,
+    "ordinaryUsageAllowed": true,
+    "account_label": "...ac3a",
+    "TOTAL_ceiling": 90,
+    "integration_reserve": true,
+    "automatic_later_window_spending": false
+  }
+}

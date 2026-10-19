@@ -1,0 +1,117 @@
+{
+  "created_utc": "2026-10-19T00:01:21.882987+00:00",
+  "reviewer": "/root/review_2017_coarsening_r1",
+  "WHOLE_obligations": 48,
+  "compact_integrity": {
+    "guard_summary": {
+      "occurrences": 32,
+      "unique_paths": 32,
+      "canonical_deduplicated_sha256": "315b50fd65d2c0926087866e0ee98afa3b4c2c1d9a18e917cc29e6e449f939bd"
+    },
+    "author_ENTIRE5": {
+      "path": "problems/2020-B4/notes/reasoning-realization-return-r19-freeze-v1.json",
+      "bytes": 2637,
+      "sha256": "a4967473504c2ff3a481487e84a5a07ae9305bf8da00b6594ef298185eed01d5"
+    },
+    "author_payloads_verified": 4,
+    "author_direct_guard_summary_verified": {
+      "occurrences": 21,
+      "unique_paths": 21,
+      "canonical_deduplicated_sha256": "e8a0e36e89d928adb884505144e504ec72162eabb3614bc3d9d0d0e50719e834"
+    },
+    "current_authorities_bound_not_historical_inventory_replayed": [
+      {
+        "authority": {
+          "path": "problems/2020-B4/reviews/reasoning-actual-return-r18-acceptance.json",
+          "bytes": 3719,
+          "sha256": "cfab20bed65e85423975e628bf9c1231e769d46feb9b0fcb7d5abf6dd5e723bf"
+        },
+        "historical_occurrences_bound": 103,
+        "historical_paths_bound": 47
+      },
+      {
+        "authority": {
+          "path": "problems/2020-B4/reviews/reasoning-return-r8-acceptance.json",
+          "bytes": 3028,
+          "sha256": "52bdd193cecd7eedf8270bf2d0fa04159a013fa0c995e71f0938c6a3359eda0a"
+        },
+        "historical_occurrences_bound": 123,
+        "historical_paths_bound": 68
+      },
+      {
+        "authority": {
+          "path": "problems/2020-B4/reviews/reasoning-arithmetic-return-r9-acceptance.json",
+          "bytes": 3431,
+          "sha256": "f6533a1a615efd61594cdb4a3e9a8ef9d29e752df75e314dfea15fde40e7327d"
+        },
+        "historical_occurrences_bound": 150,
+        "historical_paths_bound": 62
+      },
+      {
+        "authority": {
+          "path": "problems/2020-B4/reviews/reasoning-arithmetic-return-r14-repair-v1.1-acceptance.json",
+          "bytes": 4929,
+          "sha256": "65f60991ec83802c0b230ff4c893385e9f23bcf25993d985c16028ef24162990"
+        },
+        "historical_occurrences_bound": 290,
+        "historical_paths_bound": 115
+      },
+      {
+        "authority": {
+          "path": "problems/2020-B4/reviews/reasoning-class-return-sq15-acceptance.json",
+          "bytes": 4963,
+          "sha256": "6c855d4dbb3ec5f76b2104013ab24a1749e6332cf02313b94aca45d8894244df"
+        },
+        "historical_occurrences_bound": 210,
+        "historical_paths_bound": 101
+      },
+      {
+        "authority": {
+          "path": "problems/2020-B4/reviews/reasoning-class-return-sq17-acceptance.json",
+          "bytes": 4422,
+          "sha256": "9acf7de3318db65a9b20973246a0772b490e25bb943b35b13d0cdcf870c032c7"
+        },
+        "historical_occurrences_bound": 75,
+        "historical_paths_bound": 38
+      }
+    ],
+    "immediate_own_parent": {
+      "path": "problems/2025-B4/reviews/reasoning-global-return-r11-review-1-manifest-v1.json",
+      "bytes": 2349,
+      "sha256": "437702e41264c07bf2f4ebdedfabc013054615d32b276eed5d698b5c31836123"
+    },
+    "own_parent_payloads_verified": 5,
+    "own_parent_historical_summary_bound_NOT_expanded": {
+      "occurrences": 47,
+      "unique_paths": 45,
+      "canonical_deduplicated_sha256": "fcc3e529ddfb6c07f133d24c120d3b4c9b12847e45c2995950c84a0de0722a3c"
+    }
+  },
+  "current_metadata_only_no_growing_history_copy": true,
+  "whole_initial_blind": true,
+  "NEW_root_R19_review_access": false,
+  "NEW_B_R11_review_access": false,
+  "findings_sealed_until_explicit_BOTH": true,
+  "OLD_R18_review_and_A9_SQ15_construction_roles_disclosed": true,
+  "independent_OLD_input_recertification": false,
+  "NEW_AR19_construction_contribution": false,
+  "requested": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independent_effective_setting_readback": null,
+  "quota": {
+    "usedPercent": 73,
+    "observed_utc": "2026-10-18 23:57:48 UTC",
+    "windowDurationMins": 10080,
+    "resetsAt": 1792874445,
+    "ordinaryUsageAllowed": true,
+    "TOTAL_ceiling": 90,
+    "integration_reserve": true,
+    "automatic_later_window": false
+  },
+  "mathematical_program_CAS_scan_test_optimizer_old_source_author_replay": false,
+  "old_shared_Git_cache_mutation": false,
+  "FULL_final_ALL4_model_readback_then_manifest_then_SEPARATE_verify_required": true
+}

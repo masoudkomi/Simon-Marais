@@ -1,0 +1,58 @@
+{
+  "frozen_UTC": "2026-10-19T00:05:03.402366+00:00",
+  "reviewer": "/root/review_2021_reasoning_j15_r2",
+  "status": "initial whole review; sealed until explicit BOTH release",
+  "role": "OTHER initially blind ENTIRE WHOLE1",
+  "whole_obligations": 48,
+  "ENTIRE_files": 5,
+  "payload_count": 4,
+  "payloads": [
+    {
+      "path": "problems/2019-B4/reviews/reasoning-full-law-return-r15-review-1-initial-v1.md",
+      "bytes": 27268,
+      "sha256": "5b1c5f0d4fab91f58fb09e1e6214b3cf84bee1ea59e5695ed2b19706b25e0850"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-full-law-return-r15-review-1-sources-v1.json",
+      "bytes": 4070,
+      "sha256": "48cdbf5622e2a7245a826f14f58259848fea0f789fbdf2eeb1b2a14f8fe0e140"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-full-law-return-r15-review-1-admin-v1.py",
+      "bytes": 9968,
+      "sha256": "50c5b225784efd176e7d2c481abdb851ce2ec62cd6c834ddbed75472dcc97cf2"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-full-law-return-r15-review-1-baseline-v1.json",
+      "bytes": 3614,
+      "sha256": "40d62279d5f8741534f546c5e1b37dba46eb8a9dc42d5dd6ec46b982ea090f15"
+    }
+  ],
+  "author_manifest": {
+    "path": "problems/2019-B4/notes/reasoning-full-law-return-r15-freeze-v1.json",
+    "bytes": 2055,
+    "sha256": "9d65c7cf66efa14925fc15ef081aec846157db3c853ea0744b09afd165e1cbfb"
+  },
+  "own_immediate_parent": {
+    "path": "problems/2021-B4/notes/reasoning-deep-return-r24-freeze-v1.json",
+    "bytes": 2564,
+    "sha256": "f2124aa5804550b00eb81e665937718ce24c220929f9003be29fad895c64e833"
+  },
+  "effective_fresh_guard_summary": {
+    "occurrences": 43,
+    "unique_paths": 37,
+    "canonical_deduplicated_sha256": "6174d171dc9765e5b675d5d5fe3cae33789a568d26786452c93f48dd57b439de"
+  },
+  "FULL_final_ALL4_payload_MODEL_readbacks_completed": true,
+  "FULL_manifest_MODEL_readback_then_SEPARATE_readonly_verify_REQUIRED": true,
+  "peer_nonexposure": {
+    "NEW_root_FL15_mathematical_findings_disposition_public_status_seen": false,
+    "actual_peer_inventory_open_hash_content_or_baseline_use": false,
+    "administrative_exception": "Received completion ENTIRE5/ALL48, freeze/verify times23:55:54.447462/23:55:56.825129UTC and review-2 manifest filename; no mathematical disposition/hash. Filename not opened/hashed/inventoried or used as premise.",
+    "zero_metadata_receipt_claim": false,
+    "explicit_BOTH_release_required_after_own_ENTIRE_readback_separate_verify": true
+  },
+  "findings_embargo_until_explicit_BOTH_ENTIRE_confirmation": true,
+  "mathematical_truth_checked_by_code": false,
+  "no_Git_shared_old_cache_mutation": true
+}

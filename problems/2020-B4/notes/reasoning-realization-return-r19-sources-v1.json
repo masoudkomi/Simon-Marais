@@ -1,0 +1,105 @@
+{
+  "packet": "AR19A-AR19D candidate proof - unverified",
+  "author": "/root/review_2022_complexity_r2",
+  "date_utc": "2026-10-18",
+  "requested": {"model": "gpt-6.1-sol", "reasoning": "max", "inherited": true},
+  "independent_effective_readback": null,
+  "official_scope": "2020 B4(b) only; q=n-1>=2, k=q+1, v=q^2+q+1; no preliminary construction",
+  "operative_new_proof": "Hand reconstruction of explicit field/ideal/unit and all-character arithmetic. No mathematical program or unread external realization theorem.",
+  "accepted_inputs": [
+    {
+      "body": "problems/2020-B4/proofs/reviewed-reasoning-actual-return-r18-v1.1.md",
+      "authority_md": "problems/2020-B4/reviews/reasoning-actual-return-r18-acceptance.md",
+      "authority_json": "problems/2020-B4/reviews/reasoning-actual-return-r18-acceptance.json",
+      "literal_read": "Fresh COMPLETE body in successive ranges1-200,201-400,401-600,601-800; final600-760 separately recovered. Fresh COMPLETE EACH MDJSON.",
+      "use": "Actual dictionary/whole-character and exact integral denominator boundaries. New reciprocal theorem is proved directly, not imported as the older ratio theorem.",
+      "old_role": "B constructor, excluded from older independent count; no self-recertification"
+    },
+    {
+      "body": "problems/2020-B4/proofs/reviewed-reasoning-return-r8-v1.1.md",
+      "authority_md": "problems/2020-B4/reviews/reasoning-return-r8-acceptance.md",
+      "authority_json": "problems/2020-B4/reviews/reasoning-return-r8-acceptance.json",
+      "literal_read": "Fresh COMPLETE body in saved successive ranges; clipped beginning separately recovered1-150. Fresh COMPLETE EACH MDJSON.",
+      "use": "General quadratic norm-unit comparison and distinction between integral principal ideal and correcting unit. Prime-conductor sufficiency NOT extended to L.",
+      "old_role": "B constructor; independently accepted authority, no self-review"
+    },
+    {
+      "body": "problems/2020-B4/proofs/reviewed-reasoning-arithmetic-return-r9-v1.1.md",
+      "authority_md": "problems/2020-B4/reviews/reasoning-arithmetic-return-r9-acceptance.md",
+      "authority_json": "problems/2020-B4/reviews/reasoning-arithmetic-return-r9-acceptance.json",
+      "literal_read": "Fresh body1-220 and220-520, reaching EOF; COMPLETE EACH MDJSON.",
+      "use": "Recognizes discarded small-nonsquare rediscovery as published Leung-Schmidt/A9A. No new AR19 proof depends on that bound.",
+      "old_role": "B older OTHER whole reviewer, not constructor"
+    },
+    {
+      "body": "problems/2020-B4/proofs/reviewed-reasoning-arithmetic-return-r14-v1.2.md",
+      "authority_md": "problems/2020-B4/reviews/reasoning-arithmetic-return-r14-repair-v1.1-acceptance.md",
+      "authority_json": "problems/2020-B4/reviews/reasoning-arithmetic-return-r14-repair-v1.1-acceptance.json",
+      "literal_read": "Fresh1-200 including corrected header/domain/proposed clauses; COMPLETE EACH current repair MDJSON. Older COMPLETE proof reads are historical, not a new whole re-audit.",
+      "use": "Comparison boundary only: INTEGRAL qualifiers, prime conductor/odd T, Gamma retained. False old fractional clauses UNUSED.",
+      "old_role": "B constructor and versioned repair author"
+    },
+    {
+      "body": "problems/2020-B4/proofs/reviewed-reasoning-class-return-sq15-v1.1.md",
+      "authority_md": "problems/2020-B4/reviews/reasoning-class-return-sq15-acceptance.md",
+      "authority_json": "problems/2020-B4/reviews/reasoning-class-return-sq15-acceptance.json",
+      "literal_read": "Fresh1-250 including repaired scope/header and displayed square-lift inputs; COMPLETE EACH MDJSON. No fresh COMPLETE main-body claim.",
+      "use": "Comparison only: actual-set/INTEGRAL/prime-conductor restrictions cannot be transplanted to L. Its historical SQ14 hold is superseded by the separately read current SQ14 repair authority.",
+      "old_role": "B SQ14 constructor and SQ15 comparison/input reader; not an independent SQ15 reviewer counted by its authority"
+    },
+    {
+      "body": "problems/2020-B4/proofs/reviewed-reasoning-class-return-sq17-v1.1.md",
+      "authority_md": "problems/2020-B4/reviews/reasoning-class-return-sq17-acceptance.md",
+      "authority_json": "problems/2020-B4/reviews/reasoning-class-return-sq17-acceptance.json",
+      "literal_read": "Fresh header1-90 and COMPLETE EACH MDJSON; older COMPLETE proof authorship is historical.",
+      "use": "Different old phenomenon: nonsquare UNIT norms in full composite cyclotomic fields. New epsilon is NOT a unit norm in L, but is explicitly repaired in W0. No new Schmidt source objection.",
+      "old_role": "B constructor; no self-recertification"
+    }
+  ],
+  "primary_sources": [
+    {
+      "title": "Simon Marais2020 Paper B",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2020-paper-b_1.pdf",
+      "fresh_literal_scope": "Returned B4 setup/open(b) lines98-105 on page2; COMPLETE local statement normalization. Neighboring returned problem text not investigated.",
+      "import": "Official open domain only; no part(a) proof",
+      "raw_pdf_sha256": null
+    },
+    {
+      "author": "Franz Lemmermeyer",
+      "title": "Ideal class groups of cyclotomic number fields I",
+      "url": "https://arxiv.org/pdf/1202.5777",
+      "version": "1202.5777v1 author version",
+      "fresh_literal_scope": "Returned0-422, including COMPLETE Section2 lines34-380, Proposition1/proofs, essential ramification, Theorem1/Lemma1/proofs and Examples1-6.",
+      "operative_scope": "Classical unit-index context: Proposition1(a,f,h), Theorem1(i.1), ramification examples. Exact new field proof and odd-degree epsilon argument are fully displayed in main.",
+      "not_imported": "Later class-number theorems, introduction's norm-map kernel/cokernel wording, an unqualified composite-conductor slogan, whole CFT foundations or final journal comparison",
+      "raw_pdf_sha256": null
+    },
+    {
+      "title": "Cyclotomic-intermediate fields via Gauss sums",
+      "hosting": "Reed Mathematics author-hosted notes; opening credits Paul Garrett's vignette",
+      "url": "https://people.reed.edu/~jerry/361/lectures/kummer.pdf",
+      "fresh_literal_scope": "COMPLETE operative Section1 lines42-60, Appendix9.1 lines1452-1504,9.2 lines1505-1553,9.5 lines1611-1623; additional returned portions0-626 and1072-1623 read. No full14-page proof-chain certification.",
+      "import": "Classical quadratic Gauss identity/finite Fourier orthogonality/Kronecker; required applications reconstructed by hand",
+      "raw_pdf_sha256": null
+    }
+  ],
+  "discovery_and_nonimports": [
+    {"url": "https://arxiv.org/abs/math/0606332", "scope": "Angles-Beliaeva abstract/record only; Iwasawa module result is not a realization premise"},
+    {"url": "https://alco.centre-mersenne.org/item/10.5802/alco.86.pdf", "scope": "Duc-Leung-Schmidt introductory/Section3 returned portions through about380 only; no complete theorem-chain import"},
+    {"url": "https://www.dmgordon.org/papers/Multiplier_Survey.pdf", "scope": "Public open returned404; no body read/import"},
+    {"title": "Other search results", "scope": "Discovery only; no abstract/secondary claim promoted as original proof"}
+  ],
+  "mutable_context": {
+    "path": "problems/2020-B4/research.md",
+    "read": "Fresh complete current observation at rotation start",
+    "immutable_guard": false,
+    "reason": "Coordinator-owned living map may update separately; historical observation is not rewritten"
+  },
+  "source_failure_and_priority_limits": "No exact known theorem gives the missing universal actual mixed realization. No source-absence or novelty assertion. No fresh final Schmidt typeset/erratum inspection. A9 small-norm mechanism explicitly recognized as old.",
+  "full_paper_download_or_cache_write": false,
+  "paper_redistribution": false,
+  "mathematical_program_CAS_scan_test_old_author_source_freezer_certificate_replay": false,
+  "Git_shared_old_mutation_spawn_charge_contact_bypass": false,
+  "annual_open": true,
+  "NEW_candidate_requires_TWO_OTHER_whole_audits": true
+}

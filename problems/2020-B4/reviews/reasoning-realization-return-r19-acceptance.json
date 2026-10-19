@@ -1,0 +1,90 @@
+{
+  "accepted_at_utc": "2026-10-19T00:06:34.146653+00:00",
+  "status": "proved, independently reviewed scoped partial result",
+  "whole_initials_blind": true,
+  "root_read_full_candidate_both_reports_all_ledgers_sources": true,
+  "unresolved_substantive_issues": 0,
+  "repair_required": false,
+  "candidate": {
+    "path": "problems/2020-B4/notes/reasoning-realization-return-r19-candidate-v1.md",
+    "bytes": 31284,
+    "sha256": "570203928d79da6c43ff1046775699c62029360e39ff1885a0057dd1bd570727"
+  },
+  "accepted_copy": {
+    "path": "problems/2020-B4/proofs/reviewed-reasoning-realization-return-r19-v1.1.md",
+    "bytes": 36261,
+    "sha256": "1318589dd05ccf4b1a78e8200b87e9f77148eacbe27c485358a81a10698ef7a2"
+  },
+  "verification_metadata": [
+    {
+      "path": "problems/2020-B4/notes/reasoning-realization-return-r19-freeze-v1.json",
+      "bytes": 2637,
+      "sha256": "a4967473504c2ff3a481487e84a5a07ae9305bf8da00b6594ef298185eed01d5"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-realization-return-r19-baseline-v1.json",
+      "bytes": 8040,
+      "sha256": "3c7e5aa7c3e9f8b4d9e03e2c6ca6e947f84a611645e563f3e48edf636c3bbe98"
+    },
+    {
+      "path": "problems/2020-B4/notes/reasoning-realization-return-r19-sources-v1.json",
+      "bytes": 8081,
+      "sha256": "288f5de664068eb336fb52a8b9d4d70c8df7151ec7f945fad2ff9d6c6c1a12e2"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-realization-return-r19-review-1-manifest-v1.json",
+      "bytes": 1779,
+      "sha256": "3e3f633fcb48bd84e96bcd2c04e0ac312488f623cffc173e257bde87be494ef5"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-realization-return-r19-review-1-baseline-v1.json",
+      "bytes": 7335,
+      "sha256": "536c2e85ac7d21c9090fab752a70a463e322f6a73ac46ded14ed70ab4870760b"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-realization-return-r19-review-1-sources-v1.json",
+      "bytes": 2707,
+      "sha256": "8174c62b613e1d6c655ddceb48f1e4db85426b2f87c506b4250c11c3996dff09"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-realization-return-r19-review-2-manifest-v1.json",
+      "bytes": 2071,
+      "sha256": "15ace6e5601215ef6d5cae280f38f2df1d9306d3a72d3cc3e2d04ece698e39a7"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-realization-return-r19-review-2-baseline-v1.json",
+      "bytes": 4418,
+      "sha256": "e6eba3dd3d70bdac4413207195eb63b7ae1581faf135da11e9ecdae3d46daf9d"
+    },
+    {
+      "path": "problems/2020-B4/reviews/reasoning-realization-return-r19-review-2-sources-v1.json",
+      "bytes": 4399,
+      "sha256": "52e60a7bd86697bc0a509ff37b8c722b238d5912145e189a60222e716e9176b6"
+    }
+  ],
+  "record_occurrences_verified": 83,
+  "unique_paths_verified": 40,
+  "constructor": "/root/review_2022_complexity_r2",
+  "constructor_excluded": true,
+  "whole_reviewers": [
+    "/root",
+    "/root/review_2017_coarsening_r1"
+  ],
+  "whole_obligations_per_review": 48,
+  "whole_review_files": [
+    5,
+    5
+  ],
+  "closed_scope_notes": [
+    10,
+    10
+  ],
+  "explicit_BOTH_before_NEW_peer_access": true,
+  "root_read_ENTIRE_author_both_reviews_all_code_metadata": true,
+  "same_integral_ideal_unit_obstruction_and_even_repair_both_retained": true,
+  "ALL_character_content_and_reciprocal_scope": true,
+  "failed_tuple_only_not_actual_order_exclusion": true,
+  "annual_open": true,
+  "priority_claim": false,
+  "no_mathematical_program_or_old_replay": true
+}

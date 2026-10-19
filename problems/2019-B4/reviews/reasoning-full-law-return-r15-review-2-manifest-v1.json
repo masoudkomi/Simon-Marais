@@ -1,0 +1,45 @@
+{
+  "frozen_utc": "2026-10-18T23:55:54.447462+00:00",
+  "reviewer": "/root",
+  "NEW_constructor": "/root/review_2017_coarsening_r1",
+  "constructor_excluded": true,
+  "ENTIRE_files": 5,
+  "whole_obligations": 48,
+  "initially_blind": true,
+  "payload_records": [
+    {
+      "path": "problems/2019-B4/reviews/reasoning-full-law-return-r15-review-2-initial-v1.md",
+      "bytes": 20792,
+      "sha256": "3b7f45aec62544cc6fbe98912bc8bf2f5bae4bd657c08a50a3724b6e2fd69d41"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-full-law-return-r15-review-2-sources-v1.json",
+      "bytes": 2796,
+      "sha256": "ea828d18da57e923db9c00e6fbc0c2caedf529cf6d739c12e90f3e7c8b68620f"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-full-law-return-r15-review-2-admin-v1.py",
+      "bytes": 4212,
+      "sha256": "f998688f23716b9b3d8e8cbc5d32593438636111d132ab4ddbc172a1dc88c7e5"
+    },
+    {
+      "path": "problems/2019-B4/reviews/reasoning-full-law-return-r15-review-2-baseline-v1.json",
+      "bytes": 7275,
+      "sha256": "efb4c2d955475cc14fcecc455add7b120736e81cd77d84dc65d13f96f517daa8"
+    }
+  ],
+  "direct_guard_summary": {
+    "occurrences": 31,
+    "unique_paths": 31,
+    "canonical_deduplicated_sha256": "8b607eba93f286a9a1d09378a3572907a5f3e85c436b902018f0e59e9a2b14d3"
+  },
+  "author_declared_guard_summary": {
+    "occurrences": 26,
+    "unique_paths": 26,
+    "canonical_deduplicated_sha256": "418c3c54b11809fbda579b3e1150b7a1d0ff33f4045950a5e86a44a257cd60d7"
+  },
+  "FULL_final_MODEL_ALL4_payload_readback_completed": true,
+  "FULL_manifest_MODEL_readback_then_SEPARATE_readonly_verify_required": true,
+  "corresponding_NEW_peer_findings_files_actual_inventory_hash_metadata_access": false,
+  "findings_sealed_until_explicit_BOTH": true
+}
