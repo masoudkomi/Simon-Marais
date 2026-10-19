@@ -193,3 +193,8 @@ O(L^2/r) skeleton and O(Sr^2) rare-cell loss, and needs exact clean disk
 port matching plus a uniform all-boundary lower-direction recovery
 theorem. Its orientation, cell construction, source hypotheses and
 global error/remainder arguments are not proved. It is not H.
+
+
+## 19October2026,12:10Brisbane coordinator update
+
+NEW JC15 accepted02:09:23.811623UTC after TWO OTHER whole36 audits/full72 coordinator reconciliation. Actual alternating signed-parabola family has D/N²->1/2 and J/N²,S/N²->0; one class per size only. No small joint-cost, entropy/mass or scalar improvement. See [exact acceptance](reviews/reasoning-joint-return-r15-acceptance.md). Frozen proof/reviewer bytes preserved; no mathematical executable or old replay used.

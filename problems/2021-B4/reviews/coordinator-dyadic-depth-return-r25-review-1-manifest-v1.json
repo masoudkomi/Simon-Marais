@@ -1,0 +1,60 @@
+{
+  "frozen_UTC": "2026-10-19T01:43:26.461553+00:00",
+  "status": "OTHER initially blind ENTIRE WHOLE1; findings SEALED until explicit BOTH",
+  "reviewer": "/root/review_2017_coarsening_r1",
+  "NEW_constructor": false,
+  "whole_obligations": 28,
+  "ENTIRE_files": 5,
+  "payloads": [
+    {
+      "path": "problems/2021-B4/reviews/coordinator-dyadic-depth-return-r25-review-1-initial-v1.md",
+      "bytes": 19536,
+      "sha256": "401403a7910f16ed8c3c44ba18f175c8638aa5b6aa6e9282c2eb0a69150bcae9"
+    },
+    {
+      "path": "problems/2021-B4/reviews/coordinator-dyadic-depth-return-r25-review-1-sources-v1.json",
+      "bytes": 2980,
+      "sha256": "5ac11783c160f28c90e0a630f2ebf32f63c94d359c71e4e238f0c6cf8251aa6a"
+    },
+    {
+      "path": "problems/2021-B4/reviews/coordinator-dyadic-depth-return-r25-review-1-admin-v1.py",
+      "bytes": 4977,
+      "sha256": "19b0426d4f6b1eea147c5c3cafca0d232b855765b9e077cbd155559b05ae0c67"
+    },
+    {
+      "path": "problems/2021-B4/reviews/coordinator-dyadic-depth-return-r25-review-1-baseline-v1.json",
+      "bytes": 3774,
+      "sha256": "553b02e44931d2bcd53e62ce73b7c21812356e2085a994b98bf03d9238525573"
+    }
+  ],
+  "guard_occurrences": 15,
+  "guard_unique_paths": 15,
+  "guard_digest_sha256": "87c477c5ef4166166138b6e52983472656ba1314e23c9f51ce9cbce111f26f3a",
+  "immediate_OWN_parent": {
+    "path": "problems/2022-B4/reviews/reasoning-itinerary-return-r12-review-2-manifest-v1.json",
+    "bytes": 2459,
+    "sha256": "abb6eac674211a556b13b48842c6e5af8b8903b2ec14047ebdf978831e24a36b"
+  },
+  "FULL_final_ALL4_payload_MODEL_readbacks_completed": true,
+  "FULL_manifest_MODEL_readback_then_SEPARATE_readonly_verify_REQUIRED": true,
+  "NEW_R25_peer_actual_inventory_content_hash_metadata_access": false,
+  "unrelated_root_R26_exploration_access": false,
+  "requested": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independent_effective_backend_readback": null,
+  "quota": {
+    "usedPercent": 78,
+    "observed_UTC": "2026-10-19 01:40:30 UTC",
+    "windowDurationMins": 10080,
+    "resetsAt": 1792874445,
+    "ordinaryUsageAllowed": true,
+    "TOTAL_ceiling": 90,
+    "reserve": true,
+    "automatic_later_window_spending": false
+  },
+  "mathematical_program_CAS_scan_test_old_replay": false,
+  "Git_shared_old_cache_mutation": false
+}

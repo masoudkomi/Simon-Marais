@@ -305,3 +305,8 @@ adversarial audit is active; the second is pending.
 2026-10-16 UTC: the whole L1–L4 argument is **proved, independently reviewed (partial result)** after two fresh blind full reconstructions, every coefficient/fiber record and all final exact obstructions. The 840396→361194→2026→90→14→0 necessary digit tree is empty at precision six. All88J16 masks are removed, leaving684 other necessary patterns; degree20 remains unresolved. See notes/coordinator-J16-exclusion-reviewed-v1.1.md and reviews/J16-acceptance.md/json.
 
 The separate frozen J15 triple-zero leading candidate only restricts that multiplicity subcase, not entire masks. It is unverified and must not be used as an accepted dependency. A new deep primary-literature pass checks known degree families and rational versus all-roots-rational hypotheses before extending computations.
+
+
+## 19October2026,12:10Brisbane coordinator update
+
+NEW R25 accepted02:06:48.894990UTC after TWO OTHER whole28 audits/full56 coordinator reconciliation. In ENTIRE retained actual negative frameIII domain, EVERY d>=3 excluded; d2 remains. Higher-contact gcd statement attributed R24C only. No full frameIII/degree20/annual/priority result. R26 exploration remains UNVERIFIED and not a premise. See [exact acceptance](reviews/coordinator-dyadic-depth-return-r25-acceptance.md). Frozen proof/reviewer bytes preserved; no mathematical executable or old replay used.

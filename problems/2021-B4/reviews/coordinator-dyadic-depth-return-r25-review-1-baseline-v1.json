@@ -1,0 +1,93 @@
+{
+  "created_UTC": "2026-10-19T01:43:09.446131+00:00",
+  "status": "Exact necessary inputs and compact OWN parent binding",
+  "immutable_records": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-dyadic-depth-return-r25-admin-v1.py",
+      "bytes": 3124,
+      "sha256": "e67f1959857988f6cc27752fc1550bba0866a76e84d8e8acb8653fd4dd127570"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-dyadic-depth-return-r25-baseline-v1.json",
+      "bytes": 1533,
+      "sha256": "76ace7aa80d825531fccdb659dd08b4cd5f6ed3df481701dd2e498831dde64c5"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-dyadic-depth-return-r25-candidate-v1.md",
+      "bytes": 14771,
+      "sha256": "4ebcb8df634d91edc5b380effc883f795ce817dbdd992c5182da1f659eb203cc"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-dyadic-depth-return-r25-freeze-v1.json",
+      "bytes": 1364,
+      "sha256": "fa65dcb84789d0db25218940ff5957e234d10cf30a699973d255c9b3c55ab5b6"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-dyadic-depth-return-r25-sources-v1.json",
+      "bytes": 2663,
+      "sha256": "f504168d9766c020d09a54ecfe66e5bc232f169f778f12e8d88346ad0088ce31"
+    },
+    {
+      "path": "problems/2021-B4/proofs/reviewed-reasoning-deep-return-r24-v1.1.md",
+      "bytes": 27431,
+      "sha256": "a52fcb31da9b494659d29b1ea0b587baba3a096264688ac6989e3d98ed578946"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-deep-return-r24-acceptance.json",
+      "bytes": 3495,
+      "sha256": "8a41ba05fd3851890db2d2d94b946101de03905c08312b089d5346ef1f0e5296"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-deep-return-r24-acceptance.md",
+      "bytes": 5485,
+      "sha256": "c86814838459ce13a88137c389b5aa8715630b8ce3589fcf49810be9126f1050"
+    },
+    {
+      "path": "problems/2021-B4/statement.md",
+      "bytes": 1745,
+      "sha256": "5cd9750a2458191370590120fb4ae7d547740784eb1de38ee9e2e7890a2fabed"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-itinerary-return-r12-review-2-admin-v1.py",
+      "bytes": 6794,
+      "sha256": "d1021128d5bb6a2f4a5d7ed96344901ed5a883169f671ab0fa728951dd6f0a27"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-itinerary-return-r12-review-2-baseline-v1.json",
+      "bytes": 6407,
+      "sha256": "973fba8378847a3519edfc743f075fb93abfddf98f7fd64823398e10cd2e24e3"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-itinerary-return-r12-review-2-initial-v1.md",
+      "bytes": 24109,
+      "sha256": "b79f140ae03b9a5f808f3558512f37a2fc8d44ee66510e0e9f43b925fa609245"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-itinerary-return-r12-review-2-manifest-v1.json",
+      "bytes": 2459,
+      "sha256": "abb6eac674211a556b13b48842c6e5af8b8903b2ec14047ebdf978831e24a36b"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-itinerary-return-r12-review-2-sources-v1.json",
+      "bytes": 4225,
+      "sha256": "deb7e8027e2fc160b8ffcb25fded99aeb72dd2d3e8f3311a092ae2836249e6d5"
+    }
+  ],
+  "declared_occurrences": 15,
+  "unique_paths": 15,
+  "guard_digest_sha256": "87c477c5ef4166166138b6e52983472656ba1314e23c9f51ce9cbce111f26f3a",
+  "immediate_OWN_parent": {
+    "path": "problems/2022-B4/reviews/reasoning-itinerary-return-r12-review-2-manifest-v1.json",
+    "bytes": 2459,
+    "sha256": "abb6eac674211a556b13b48842c6e5af8b8903b2ec14047ebdf978831e24a36b"
+  },
+  "historical_parent_inventory_expanded": false,
+  "NEW_R25_peer_actual_inventory_content_hash_metadata_access": false,
+  "unrelated_root_R26_exploration_access": false,
+  "mathematical_computation_or_old_replay": false
+}

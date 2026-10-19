@@ -374,3 +374,8 @@ ACTUALhourly2327:direct2026-10-18T13:27:41+00:00 38%TOTAL/currentreset1792874445
 ACTUALhourly0027:direct2026-10-18 14:27:49 UTC 42%TOTAL/reset1792874445/10080min/ordinaryallowed;48ppbefore90withreserve.Token cutoff2026-10-18T14:26:08.637912+00:00:2,468,456,998total,7,002,250reasoning subset,121,009,958uncached+output.Notbilling/quotaformula.OWNawake79293verified14:26:09UTCforever.Next15:27:30UTC.
 
 ACTUALhourly0127:direct15:26:55UTC47%TOTAL/reset1792874445/10080min/ordinaryallowed;43ppbefore90withreserve. Token cutoff2026-10-18T15:27:16.122486+00:00:2,591,757,719total,7,196,216reasoning subset,125,217,175uncached+output. Notbilling/quotaformula. OWNawake79293verified15:26:55UTCforever.Next16:27:30UTC.
+
+
+## 19October2026,12:10Brisbane
+
+Current [all-nine status](status-2026-10-19-1210.md): JC15/R25/CL14 now accepted scoped; annual complete2018/2023 only. CM16 BOTH whole initials released/root reconciliationpending; ET12 A/C blindwholeauditsactive; B2020globalresearch. Direct80%TOTAL02:09:49UTC/currentreset1792874445,10pp to90TOTAL includingreserve. Tokens retain literal11:15cutoff pending actual12:14 report. Keep only ownedawake79293/session64368; no laterwindow automaticspending. No frozenproof/review changes, no current SEALED peer files in this checkpoint.

@@ -1,0 +1,23 @@
+# Coordinator acceptance: coordinator-dyadic-depth-return-r25
+
+2026-10-19 UTC. **Proved, independently reviewed scoped partial result.**
+
+Accept R25A and the expressly attributed R25B ONLY in the ENTIRE actual R18(S),(W)/adjacent m4/J15/oriented frameIII rational-witness domain retained by accepted R24. All original witness/19-adic equations, distinct rational root VALUES0,1,r,s with multiplicities2,1,1,2 and the actual irreducible rational degree14 carrier remain hypotheses. In the retained negative dyadic branch the depth d=-v2(r)=-v2(s) is now forced to equal2: EVERY d>=3 is excluded. This is not a full frameIII, degree20 or annual answer or a d2 construction.
+
+Assuming d>=3, exact accepted R24 gives t=v2(S-1)=1, the ACTUAL E8(S)=0, and separate unit-witness covers for E9/E10. With h=1/r,S=s/r,b=E8(1),c=E9(1),k=E10(1), all normalized coefficients lie in Z_(2), b in16O and c,k in32O. The exact E8 Taylor row at S=1+2u yields b/16=3mod4. The integral affine triangular interpolation specializes to the ACTUAL coefficients; it is not a CA construction, rational lift or a full actual homothety.
+
+For Q=E20(1), all five newly reconstructed b contributions give Qb=-64746816420=-4*16186704105. The COMPLETE second-h coefficient recurrence through all h/1-centered rows proves [h²]Q(h,0,0,0) in4Z, including the necessary d3 boundary. Accepted coefficientwise parity, exact fixed entries and corrected FIRST jet (with fixed A19=0) then control EVERY remaining term at valuation>=8 for arbitrary unbounded d>=3. The two surviving terms satisfy
+
+    Q/64=Q00/64+(Qb/4)(b/16)=1+3*3=2mod4.
+
+Thus Q=128mod256, contradicting the ORIGINAL root equation F(1)=r^-20 f(r)=0. No chosen common unit label, finite-depth exhaustion, code calculation, real-rootedness or cancellation assumption enters. The discarded weak even-second-jet and mod128 routes do not prove this result; the endpoint d2 has different witness and valuation possibilities and remains open.
+
+R25B attributes EXACTLY accepted R24C: any surviving t>=2 already has d2,a9=a10=0 and FULL original monic gcds gcd(f,H11)=X,gcd(f,H10)=X² under its complete rational-cover/carrier/multiplicity hypotheses. This is an old consequence, not a new full-gcd proof from an exhibited root. d2/t1 and higher-contact d2 remain unexcluded/unconstructed; full degree20, annual classification and priority remain OPEN.
+
+Root is sole NEW constructor and excluded. C OTHER WHOLE1 ENTIRE5/ALL28 froze01:43:26.461553UTC, FULL final ALL4 payload+manifest MODEL readbacks and SEPARATE01:43:33.682470PASS. A OTHER WHOLE2 ENTIRE5/ALL28 froze01:59:41.672325UTC, FULL final all4+manifest MODEL readbacks and SEPARATE01:59:47.479880PASS. Explicit BOTH release followed both complete initials and preceded corresponding NEW peer findings/files/actual inventory/hash/metadata access. Both PASS ALL56 dispositions, C ten/A nine closed scope notes, zero substantive defects and zero required author repairs. Root read ENTIRE author5 during construction/final readback, then BOTH ENTIRE5/5, every obligation/issue/failure/source/log/code/metadata, and reconciled every actual-domain/Taylor/coefficient/second-jet/remainder/root-contradiction inference. Frozen bytes remain unchanged. Root reconciliation is not a third independent audit.
+
+Root and BOTH reviewers freshly read COMPLETE operative accepted R24 body and EACH current authority MD/JSON for their roles, plus the original official2021 common-rational-witness setup and open(b). A's older R24/R18/R23 authorship and C's older R24/R23 review roles are disclosed as separately accepted inputs, not NEW independent self-certification. No fresh whole older foundation/external Casas--Alvero source audit or new external theorem is invented. No broader result follows from an unread source. Root's R26 exploration was forbidden to BOTH R25 auditors and supplies NO R25 premise or accepted extension.
+
+All new reasoning is exact hand mathematics. Documentary code binds bytes/JSON/literal labels only; no mathematical program,CAS,scan,routine test,author/source executable or old certificate/freezer replay supplied a proof. Necessary guards are immutable proofs/statements/authorities and exact compact parent packets, not recursively duplicated historical inventories or living maps. Requested Sol/max is distinct from unavailable independent effective-backend readback. Internal review is not external validation or publication priority.
+
+Verified 51 declared fingerprint occurrences across 28 paths. Exact inputs are hashed in the integrity summary, without duplicating their preserved historical rows. The unchanged main is an accepted-copy suffix. Metadata checks are integrity only. Internal review is not externalvalidation; novelty is unestablished.

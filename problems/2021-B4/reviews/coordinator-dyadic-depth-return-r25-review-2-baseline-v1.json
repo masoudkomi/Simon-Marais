@@ -1,0 +1,127 @@
+{
+  "created_UTC": "2026-10-19T01:58:11.476897+00:00",
+  "status": "OTHER initially blind WHOLE2 documentary preservation; not proof checking",
+  "reviewer": "/root/review_2021_reasoning_j15_r2",
+  "author_packet": [
+    {
+      "path": "problems/2021-B4/notes/coordinator-dyadic-depth-return-r25-freeze-v1.json",
+      "bytes": 1364,
+      "sha256": "fa65dcb84789d0db25218940ff5957e234d10cf30a699973d255c9b3c55ab5b6"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-dyadic-depth-return-r25-candidate-v1.md",
+      "bytes": 14771,
+      "sha256": "4ebcb8df634d91edc5b380effc883f795ce817dbdd992c5182da1f659eb203cc"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-dyadic-depth-return-r25-sources-v1.json",
+      "bytes": 2663,
+      "sha256": "f504168d9766c020d09a54ecfe66e5bc232f169f778f12e8d88346ad0088ce31"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-dyadic-depth-return-r25-admin-v1.py",
+      "bytes": 3124,
+      "sha256": "e67f1959857988f6cc27752fc1550bba0866a76e84d8e8acb8653fd4dd127570"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-dyadic-depth-return-r25-baseline-v1.json",
+      "bytes": 1533,
+      "sha256": "76ace7aa80d825531fccdb659dd08b4cd5f6ed3df481701dd2e498831dde64c5"
+    }
+  ],
+  "necessary_immutable_inputs": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2021-B4/statement.md",
+      "bytes": 1745,
+      "sha256": "5cd9750a2458191370590120fb4ae7d547740784eb1de38ee9e2e7890a2fabed"
+    },
+    {
+      "path": "problems/2021-B4/proofs/reviewed-reasoning-deep-return-r24-v1.1.md",
+      "bytes": 27431,
+      "sha256": "a52fcb31da9b494659d29b1ea0b587baba3a096264688ac6989e3d98ed578946"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-deep-return-r24-acceptance.md",
+      "bytes": 5485,
+      "sha256": "c86814838459ce13a88137c389b5aa8715630b8ce3589fcf49810be9126f1050"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-deep-return-r24-acceptance.json",
+      "bytes": 3495,
+      "sha256": "8a41ba05fd3851890db2d2d94b946101de03905c08312b089d5346ef1f0e5296"
+    }
+  ],
+  "current_R24_authority_accepted_copy_matches": {
+    "path": "problems/2021-B4/proofs/reviewed-reasoning-deep-return-r24-v1.1.md",
+    "bytes": 27431,
+    "sha256": "a52fcb31da9b494659d29b1ea0b587baba3a096264688ac6989e3d98ed578946"
+  },
+  "own_parent_payloads": [
+    {
+      "path": "problems/2024-B4/reviews/reasoning-classification-return-r14-review-2-manifest-v1.json",
+      "bytes": 2939,
+      "sha256": "05076bddd705fdc3c28cbf05511295c7db73055cfbf340e0c9d379b398acc4cc"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-classification-return-r14-review-2-initial-v1.md",
+      "bytes": 26694,
+      "sha256": "e243be8ce39aba6713cb7ddd156d9b4fb63cc1d483c7a004dedfa85177774978"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-classification-return-r14-review-2-sources-v1.json",
+      "bytes": 6714,
+      "sha256": "6cd16093ca0ad1ca4414cadd66e167a88335f5d9ae9941e4183d05ff70697656"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-classification-return-r14-review-2-admin-v1.py",
+      "bytes": 10445,
+      "sha256": "4dbf5bee6713e28a6b21840f5288ed81defb3f19ef90482fa1478a45a66c58a6"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-classification-return-r14-review-2-baseline-v1.json",
+      "bytes": 9791,
+      "sha256": "95eccc9bcaa091ca7e093506ea1d521e914a765ba4705e2d30ab6d9a14093aa8"
+    }
+  ],
+  "own_parent_historical_guard_summary_bound_NOT_reexpanded": {
+    "occurrences": 29,
+    "unique_paths": 29,
+    "canonical_deduplicated_sha256": "5dbc4c7b37ca8884150cb14f3ad1093c52d55a1de197a43a150ff29880923bd9"
+  },
+  "effective_fresh_guard_summary": {
+    "occurrences": 15,
+    "unique_paths": 15,
+    "canonical_deduplicated_sha256": "08b3bb7a9afcf13ee9156a19e1d56dbf0dba07a28950c28b930ce7f9988005dd"
+  },
+  "own_CL14_explicit_BOTH_release_received_and_own_disposition_sent": true,
+  "own_CL14_peer_material_accessed_for_R25": false,
+  "own_parent_mathematics_R25_premise": false,
+  "historical_authority_inventories_recursively_opened": false,
+  "living_maps_NOT_immutable_guards_and_NOT_MODEL_read": true,
+  "NEW_corresponding_R25_peer_finding_inventory_open_hash_meta_commentary_access": false,
+  "R26_exploration_or_target_access": false,
+  "OLD_R24_authorship_accepted_input_not_fresh_independent_self_review": true,
+  "requested": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independent_effective_setting_readback": null,
+  "direct_quota": {
+    "observed_UTC": "2026-10-19 01:42:54 UTC",
+    "usedPercent": 78,
+    "windowDurationMins": 10080,
+    "resetsAt": 1792874445,
+    "ordinaryUsageAllowed": true,
+    "TOTAL_ceiling": 90,
+    "integration_review_reserve": true,
+    "automatic_later_window": false
+  },
+  "mathematical_program_CAS_scan_test_author_source_old_replay": false,
+  "Git_shared_old_cache_mutation": false
+}

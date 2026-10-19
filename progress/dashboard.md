@@ -555,3 +555,8 @@ Five new exact partial packets accepted after both complete blind WHOLE audits a
 2026-10-18 16:22Brisbane: [current integrated checkpoint](checkpoint-2026-10-18-1622.md);10% TOTAL current weekly usage, sustained research continues.
 
 2026-10-18 16:44Brisbane: [continuing integrated checkpoint](checkpoint-2026-10-18-1644.md); NEW2021R14 and2022v1/v3 accepted in exact scopes,2024FP remains unverified.12% TOTAL current weekly usage. Research continues.
+
+
+## 19October2026,12:10Brisbane
+
+Current [all-nine status](status-2026-10-19-1210.md): JC15/R25/CL14 now accepted scoped; annual complete2018/2023 only. CM16 BOTH whole initials released/root reconciliationpending; ET12 A/C blindwholeauditsactive; B2020globalresearch. Direct80%TOTAL02:09:49UTC/currentreset1792874445,10pp to90TOTAL includingreserve. Tokens retain literal11:15cutoff pending actual12:14 report. Keep only ownedawake79293/session64368; no laterwindow automaticspending. No frozenproof/review changes, no current SEALED peer files in this checkpoint.

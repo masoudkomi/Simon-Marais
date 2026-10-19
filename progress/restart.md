@@ -612,3 +612,8 @@ Weekly21% about00:46UTC, resetunchanged. Latesttokens00:47:50 total421191874,
 cached398370944,uncached+output22820930,reasoning1577691; all62 sumsagree.
 Keepawakeends09:28UTC Oct17; no further extension authorized. Continue
 actual mathematical research, do not end at this checkpoint.
+
+
+## 19October2026,12:10Brisbane
+
+Current [all-nine status](status-2026-10-19-1210.md): JC15/R25/CL14 now accepted scoped; annual complete2018/2023 only. CM16 BOTH whole initials released/root reconciliationpending; ET12 A/C blindwholeauditsactive; B2020globalresearch. Direct80%TOTAL02:09:49UTC/currentreset1792874445,10pp to90TOTAL includingreserve. Tokens retain literal11:15cutoff pending actual12:14 report. Keep only ownedawake79293/session64368; no laterwindow automaticspending. No frozenproof/review changes, no current SEALED peer files in this checkpoint.
