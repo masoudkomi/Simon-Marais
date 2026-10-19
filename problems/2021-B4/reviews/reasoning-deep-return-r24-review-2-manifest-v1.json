@@ -1,0 +1,52 @@
+{
+  "frozen_utc": "2026-10-19T00:08:55.872428+00:00",
+  "type": "OTHER initially blind ENTIRE WHOLE2 R24 initial",
+  "reviewer": "/root/review_2017_coarsening_r1",
+  "WHOLE_obligations": 32,
+  "ENTIRE_files": 5,
+  "payload_records": [
+    {
+      "path": "problems/2021-B4/reviews/reasoning-deep-return-r24-review-2-initial-v1.md",
+      "bytes": 19499,
+      "sha256": "aa3d7525d6da135eac0bec6d6f47830d22b968b2f54fc186bc78ce90cd0606d5"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-deep-return-r24-review-2-sources-v1.json",
+      "bytes": 3308,
+      "sha256": "062355165de3845860997de71479b3abd7ecfa759c1303f55a867eb91ced0423"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-deep-return-r24-review-2-admin-v1.py",
+      "bytes": 8358,
+      "sha256": "fda63221f4ca97942bbcdcd1c1bc533fb80c07f7434a3565bbb1699c1166c087"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-deep-return-r24-review-2-baseline-v1.json",
+      "bytes": 2966,
+      "sha256": "46d90a433e2edb81cb4113d6b224d4142cd10b252e21e82ad18ad7e8e9835e23"
+    }
+  ],
+  "guard_summary": {
+    "occurrences": 47,
+    "unique_paths": 45,
+    "canonical_deduplicated_sha256": "509cf6e41d1313c4bbe36f1a25b7f226c3d96af7f050ff9bdcd500c52c747a26"
+  },
+  "author": {
+    "path": "problems/2021-B4/notes/reasoning-deep-return-r24-freeze-v1.json",
+    "bytes": 2564,
+    "sha256": "f2124aa5804550b00eb81e665937718ce24c220929f9003be29fad895c64e833"
+  },
+  "immediate_own_parent": {
+    "path": "problems/2020-B4/reviews/reasoning-realization-return-r19-review-2-manifest-v1.json",
+    "bytes": 2071,
+    "sha256": "15ace6e5601215ef6d5cae280f38f2df1d9306d3a72d3cc3e2d04ece698e39a7"
+  },
+  "FULL_final_MODEL_ALL4_payload_readback_completed": true,
+  "FULL_manifest_MODEL_readback_then_SEPARATE_verify_REQUIRED": true,
+  "NEW_B_R24_peer_access": false,
+  "NEW_root_R19_peer_access": false,
+  "R19_own_disposition_released_only_after_explicit_BOTH": true,
+  "findings_sealed_until_explicit_BOTH": true,
+  "mathematical_program_CAS_scan_test_old_replay": false,
+  "old_shared_Git_cache_mutation": false
+}

@@ -1,0 +1,80 @@
+{
+  "created_utc": "2026-10-19T00:07:20.792457+00:00",
+  "reviewer": "/root/review_2017_coarsening_r1",
+  "WHOLE_obligations": 32,
+  "compact_integrity": {
+    "guard_summary": {
+      "occurrences": 47,
+      "unique_paths": 45,
+      "canonical_deduplicated_sha256": "509cf6e41d1313c4bbe36f1a25b7f226c3d96af7f050ff9bdcd500c52c747a26"
+    },
+    "author_ENTIRE": {
+      "path": "problems/2021-B4/notes/reasoning-deep-return-r24-freeze-v1.json",
+      "bytes": 2564,
+      "sha256": "f2124aa5804550b00eb81e665937718ce24c220929f9003be29fad895c64e833"
+    },
+    "author_payloads_verified": 4,
+    "direct_inputs_verified": 8,
+    "current_authority_bindings": [
+      {
+        "authority": {
+          "path": "problems/2021-B4/reviews/reasoning-negative-return-r23-acceptance.json",
+          "bytes": 3735,
+          "sha256": "a38d99fbebcb3080167ad24054c4d610d10ff4decd0cee090fa69d8c3ad03cbe"
+        },
+        "declared_count": 12
+      },
+      {
+        "authority": {
+          "path": "problems/2021-B4/reviews/reasoning-center-return-r18-acceptance.json",
+          "bytes": 4723,
+          "sha256": "4c8245de57e0e7a00efc685014c8af85efe788d3c75ff3431283f211b567abe7"
+        },
+        "declared_count": 17
+      }
+    ],
+    "author_historical_summary_bound_NOT_expanded": {
+      "occurrences": 42,
+      "unique_paths": 40,
+      "canonical_deduplicated_sha256": "cdd0b41655013df4adeda8ff9ec80bfc95df5cb477d3750553f205eca14c93ca"
+    },
+    "author_external_parent_NOT_replayed": true,
+    "immediate_own_parent": {
+      "path": "problems/2020-B4/reviews/reasoning-realization-return-r19-review-2-manifest-v1.json",
+      "bytes": 2071,
+      "sha256": "15ace6e5601215ef6d5cae280f38f2df1d9306d3a72d3cc3e2d04ece698e39a7"
+    },
+    "own_parent_payloads_verified": 4,
+    "own_parent_historical_summary_bound_NOT_expanded": {
+      "occurrences": 32,
+      "unique_paths": 32,
+      "canonical_deduplicated_sha256": "315b50fd65d2c0926087866e0ee98afa3b4c2c1d9a18e917cc29e6e449f939bd"
+    }
+  },
+  "initially_blind": true,
+  "NEW_B_R24_peer_access": false,
+  "NEW_root_R19_peer_access": false,
+  "R19_own_disposition_released_only_after_explicit_BOTH": true,
+  "findings_sealed_until_explicit_BOTH": true,
+  "OLD_roles_disclosed_not_independent_self_recertification": true,
+  "NEW_R24_construction_contribution": false,
+  "requested": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independent_effective_setting_readback": null,
+  "quota": {
+    "usedPercent": 74,
+    "observed_utc": "2026-10-19 00:03:59 UTC",
+    "windowDurationMins": 10080,
+    "resetsAt": 1792874445,
+    "ordinaryUsageAllowed": true,
+    "TOTAL_ceiling": 90,
+    "integration_reserve": true,
+    "automatic_later_window": false
+  },
+  "mathematical_program_CAS_scan_test_optimizer_old_source_author_replay": false,
+  "old_shared_Git_cache_mutation": false,
+  "FULL_final_ALL4_MODEL_then_manifest_readbacks_and_SEPARATE_verify_required": true
+}

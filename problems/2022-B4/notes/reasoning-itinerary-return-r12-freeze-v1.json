@@ -1,0 +1,63 @@
+{
+  "frozen_UTC": "2026-10-19T00:25:40.533557+00:00",
+  "status": "candidate proof - unverified; requires TWO OTHER whole audits",
+  "author": "/root/review_2022_complexity_r2",
+  "constructor_excluded_from_independent_review_count": true,
+  "ENTIRE_files": 5,
+  "payload_count": 4,
+  "whole_obligations": 40,
+  "claims": [
+    "IT12A",
+    "IT12B",
+    "IT12C",
+    "IT12D"
+  ],
+  "payloads": [
+    {
+      "path": "problems/2022-B4/notes/reasoning-itinerary-return-r12-candidate-v1.md",
+      "bytes": 29141,
+      "sha256": "50c4816c270fa6f3c1508ec93ffdcffedbe06514e74b0f097f037752e2c47ad7"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-itinerary-return-r12-sources-v1.json",
+      "bytes": 5735,
+      "sha256": "e32fecb35d1c82b9fd1d8ba395bcb276782e721e58f390c8f59017bd1ecea551"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-itinerary-return-r12-admin-v1.py",
+      "bytes": 6890,
+      "sha256": "c482248756ecf9a60ae39324264bba056128e1ec4f2fbb59bfeedbb4c0a8492e"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-itinerary-return-r12-baseline-v1.json",
+      "bytes": 4040,
+      "sha256": "c1bae43b2be026b40928d7fade6da77d300d703e396c83ea6e9eb23da7ee3967"
+    }
+  ],
+  "necessary_immutable_inputs": 16,
+  "immediate_own_parent": {
+    "path": "problems/2021-B4/reviews/reasoning-deep-return-r24-review-1-manifest-v1.json",
+    "bytes": 2147,
+    "sha256": "656ae411b5dec3730370ba1615143afcb78e9d270b0972bfb916a80482f0d3e5"
+  },
+  "FULL_final_ALL4_payload_MODEL_readbacks_completed_before_freeze": true,
+  "FULL_manifest_MODEL_readback_then_SEPARATE_readonly_verify_REQUIRED": true,
+  "requested": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independent_effective_backend_readback": null,
+  "quota": {
+    "usedPercent": 75,
+    "observed_UTC": "2026-10-19 00:20:17 UTC",
+    "resetsAt": 1792874445,
+    "windowDurationMins": 10080,
+    "ordinaryUsageAllowed": true,
+    "TOTAL_ceiling": 90,
+    "integration_review_reserve": true,
+    "automatic_later_window_spending": false
+  },
+  "mathematical_program_CAS_scan_test_old_replay": false,
+  "Git_shared_old_cache_mutation": false
+}

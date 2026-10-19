@@ -1,0 +1,92 @@
+{
+  "accepted_at_utc": "2026-10-19T00:47:01.969743+00:00",
+  "status": "proved, independently reviewed scoped partial result",
+  "whole_initials_blind": true,
+  "root_read_full_candidate_both_reports_all_ledgers_sources": true,
+  "unresolved_substantive_issues": 0,
+  "repair_required": false,
+  "candidate": {
+    "path": "problems/2021-B4/notes/reasoning-deep-return-r24-candidate-v1.md",
+    "bytes": 22043,
+    "sha256": "7bb65d69ec32e00050b0dd0bc6d7ce3b6b12a5e9b4dafc43e1a7c60e67ca2a70"
+  },
+  "accepted_copy": {
+    "path": "problems/2021-B4/proofs/reviewed-reasoning-deep-return-r24-v1.1.md",
+    "bytes": 27431,
+    "sha256": "a52fcb31da9b494659d29b1ea0b587baba3a096264688ac6989e3d98ed578946"
+  },
+  "verification_metadata": [
+    {
+      "path": "problems/2021-B4/notes/reasoning-deep-return-r24-freeze-v1.json",
+      "bytes": 2564,
+      "sha256": "f2124aa5804550b00eb81e665937718ce24c220929f9003be29fad895c64e833"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-deep-return-r24-sources-v1.json",
+      "bytes": 5009,
+      "sha256": "e8941f3fc0e2a43cf29b2ddcf5136e3d541baa928ad628f55d599fd4b59c6ec7"
+    },
+    {
+      "path": "problems/2021-B4/notes/reasoning-deep-return-r24-baseline-v1.json",
+      "bytes": 3798,
+      "sha256": "60fb4c5e9ba10c02950f7f345f9cb55a606c9e58bd4192b7ca9a4c62e2b46d45"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-deep-return-r24-review-1-manifest-v1.json",
+      "bytes": 2147,
+      "sha256": "656ae411b5dec3730370ba1615143afcb78e9d270b0972bfb916a80482f0d3e5"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-deep-return-r24-review-1-sources-v1.json",
+      "bytes": 4258,
+      "sha256": "b59e8d63cde96c4e2cd80e9992112ba40d23332f02601f8640799085948609d1"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-deep-return-r24-review-1-baseline-v1.json",
+      "bytes": 10918,
+      "sha256": "d9297dd3dde10fd8501cd283d10b59d14ff82ef94472de5b7206ab799d5c6307"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-deep-return-r24-review-2-manifest-v1.json",
+      "bytes": 2096,
+      "sha256": "ea9c59b120bb0a89b6b53f375c81296ac014ea96b23b4f037079d2916a22e328"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-deep-return-r24-review-2-sources-v1.json",
+      "bytes": 3308,
+      "sha256": "062355165de3845860997de71479b3abd7ecfa759c1303f55a867eb91ced0423"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-deep-return-r24-review-2-baseline-v1.json",
+      "bytes": 2966,
+      "sha256": "46d90a433e2edb81cb4113d6b224d4142cd10b252e21e82ad18ad7e8e9835e23"
+    }
+  ],
+  "record_occurrences_verified": 73,
+  "unique_paths_verified": 55,
+  "constructor": "/root/review_2021_reasoning_j15_r2",
+  "constructor_excluded": true,
+  "whole_reviewers": [
+    "/root/review_2022_complexity_r2",
+    "/root/review_2017_coarsening_r1"
+  ],
+  "whole_obligations_per_review": 32,
+  "whole_review_files": [
+    5,
+    5
+  ],
+  "closed_scope_notes": [
+    10,
+    10
+  ],
+  "explicit_BOTH_before_NEW_peer_findings_actual_inventory_open_hash_metadata": true,
+  "root_read_ENTIRE_author_both_reviews_all_code_metadata": true,
+  "R24A_unit_E9_t_ge2_excluded": true,
+  "R24B_deeper_E8_r_excluded_and_full_H12_gcd": true,
+  "R24C_t_ge2_endpoint_full_H11_H10_gcds": true,
+  "whole_negative_frame_or_degree20_solution": false,
+  "annual_open": true,
+  "priority_claim": false,
+  "mathematical_program_or_old_replay": false,
+  "historical_parent_summaries_bound_not_reexpanded": true
+}

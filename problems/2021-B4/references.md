@@ -1,5 +1,7 @@
 # 2021 B4 references and published status
 
+10:48 Brisbane update: [R24A--C](reviews/reasoning-deep-return-r24-acceptance.md) is **proved, independently reviewed scoped partial result** after B/C OTHER whole32 audits and root full64 reconciliation. In the retained actual negative frameIII, every d>=3 has t=1 and full gcd(f,H12)=X-s; t>=2 is confined to d2 with a9=a10=0 and full H11/H10 gcds X/X². Residual sectors, full degree20 and the annual question remain open. No new external theorem or priority claim. Earlier dated snapshots remain historical.
+
 ## Official starting sources
 
 - [Paper B](https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2021-paper-b.pdf), B4 on page 2.

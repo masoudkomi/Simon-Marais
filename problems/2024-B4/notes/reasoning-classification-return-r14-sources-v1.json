@@ -1,0 +1,85 @@
+{
+  "packet": "CL14A--D actual common-subfield root counts and WHOLE irreducibility family",
+  "status": "candidate proof - unverified",
+  "constructor": "/root/review_2017_coarsening_r1",
+  "constructor_excluded_from_TWO_OTHER_whole_audits": true,
+  "root_NEW_mathematical_contribution": false,
+  "OLD_roles": "C constructed FR10/FR11 and older R6--R8 and was a conceptual trigger of TR12/R13; accepted-input roles are not independently self-recertified here",
+  "operative_inputs": [
+    {
+      "body": "problems/2024-B4/proofs/reviewed-reasoning-frobenius-return-r10-v1.1.md",
+      "authority_md": "problems/2024-B4/reviews/reasoning-frobenius-return-r10-acceptance.md",
+      "authority_json": "problems/2024-B4/reviews/reasoning-frobenius-return-r10-acceptance.json",
+      "read_scope": "COMPLETE accepted body and EACH complete current MD/JSON freshly read",
+      "use": "SOLE geometric import: reducedness, EVERY-component degree>=q, SAME actual least component/FULL complement and entire budget(I)"
+    },
+    {
+      "body": "problems/2024-B4/proofs/reviewed-reasoning-frobenius-return-r11-v1.1.md",
+      "authority_md": "problems/2024-B4/reviews/reasoning-frobenius-return-r11-acceptance.md",
+      "authority_json": "problems/2024-B4/reviews/reasoning-frobenius-return-r11-acceptance.json",
+      "read_scope": "COMPLETE accepted body and EACH complete current MD/JSON freshly read",
+      "use": "Motivation and exact full-field equality limitation; not a substitute for the new count"
+    },
+    {
+      "body": "problems/2024-B4/proofs/reviewed-coordinator-tensor-return-r12-v1.1.md",
+      "authority_md": "problems/2024-B4/reviews/coordinator-tensor-return-r12-acceptance.md",
+      "authority_json": "problems/2024-B4/reviews/coordinator-tensor-return-r12-acceptance.json",
+      "read_scope": "COMPLETE accepted body and EACH current MD/JSON; clipped tail separately recovered",
+      "use": "Exact prior base-F2/coprime-degree boundary and classical tensor model; new larger-base proof supplied independently"
+    },
+    {
+      "body": "problems/2024-B4/proofs/reviewed-coordinator-tensor-family-return-r13-v1.1.md",
+      "authority_md": "problems/2024-B4/reviews/coordinator-tensor-family-return-r13-acceptance.md",
+      "authority_json": "problems/2024-B4/reviews/coordinator-tensor-family-return-r13-acceptance.json",
+      "read_scope": "COMPLETE accepted body and EACH current MD/JSON; clipped header separately recovered; old restriction explicitly released by root",
+      "use": "Precise old consecutive-degree/odd-a/base-F2 family and even-a failure, not the new parity-dependent arithmetic"
+    }
+  ],
+  "original_public_reads": [
+    {
+      "title": "Official2024 PaperB",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc2024_paper_b.pdf",
+      "literal_read": "Setup57--63, open(b)68--74 and coefficientwise definitions; local statement complete",
+      "role": "Official domain only; adjacent preliminary not investigated",
+      "new_binary_download": false
+    },
+    {
+      "title": "Delsarte1978 Bilinear forms over a finite field",
+      "url": "https://www.sciencedirect.com/science/article/pii/0097316578900158",
+      "doi": "10.1016/0097-3165(78)90015-8",
+      "literal_read": "Primary publisher search metadata/abstract; direct open Internal Error; body UNREAD",
+      "role": "Classical rank-distance attribution only; no theorem imported",
+      "discarded_identity": "Secondary bibliography90037-1 failed direct open and is not used"
+    },
+    {
+      "title": "Gavrilyuk--Koolen author arXiv1511.09435v2",
+      "url": "https://arxiv.org/pdf/1511.09435",
+      "literal_read": "Title/version and complete relevant Section2.1 definitions/Result2.1 statement, returned198--294; incidental adjacent sections not used",
+      "role": "Classical context only. Referred monograph proof and characterization proof not imported; scalar-correct counts rederived fully"
+    },
+    {
+      "title": "Hernando--McGuire arXiv0903.2016v4",
+      "url": "https://arxiv.org/pdf/0903.2016v4",
+      "literal_read": "Whole/component distinction125--148; local forms/type definitions253--318; Lemmas4/5 statements and COMPLETE Lemma6 proof319--379; returned Corollary8 and Theorem15/16 context",
+      "role": "Attribution/context; full underlying geometric source proof not freshly replayed; exact geometry imported from accepted COMPLETE FR10"
+    },
+    {
+      "title": "Ferard2017 hyperplane sections II",
+      "url": "https://link.springer.com/article/10.1007/s12095-017-0213-1",
+      "literal_read": "Fresh primary publisher metadata and COMPLETE abstract33 returned/read",
+      "role": "Overlap remains OPEN; operative body/precise hypotheses UNREAD, no theorem imported",
+      "access": "Subscription preview only; no purchase/login bypass/contact or blocked HAL retry"
+    }
+  ],
+  "new_external_theorem_from_unread_body": false,
+  "publication_priority_or_full_annual_claim": false,
+  "new_proof": "Hand common-field additive isomorphism; both scalar-correct rank counts; exact ordinary root-group gcd; BOTH parity expansions; uniform positive gap and literal OLD-test comparisons",
+  "source_or_author_executable_replay": false,
+  "mathematical_code_CAS_scan_test": false,
+  "documentary_code_only": true,
+  "read_output_recovery": "Aggregates clipped some current map/tensor-body passages; full map tail, TR12 tail and R13 header separately recovered; FR10 and FR11 complete standalone readbacks",
+  "pending_source_call_approval_native_job": false,
+  "old_shared_Git_cache_mutation_charge_contact_bypass_redistribution": false,
+  "requested": {"model": "gpt-6.1-sol", "reasoning": "max", "inherited": true},
+  "independently_verified_effective_setting": null
+}

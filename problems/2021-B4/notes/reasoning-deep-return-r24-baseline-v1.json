@@ -1,0 +1,105 @@
+{
+  "created_UTC": "2026-10-18T23:55:34.215115+00:00",
+  "status": "candidate proof - unverified",
+  "constructor": "/root/review_2021_reasoning_j15_r2",
+  "whole_obligations": 32,
+  "claims": [
+    "R24A",
+    "R24B",
+    "R24C"
+  ],
+  "necessary_direct_records": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2021-B4/statement.md",
+      "bytes": 1745,
+      "sha256": "5cd9750a2458191370590120fb4ae7d547740784eb1de38ee9e2e7890a2fabed"
+    },
+    {
+      "path": "problems/2021-B4/proofs/reviewed-reasoning-negative-return-r23-v1.1.md",
+      "bytes": 24473,
+      "sha256": "e4881f8086603b4d6a92e18ec9e84f6d882d083acdd10f2aa7ed51ec9a8b41b2"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-negative-return-r23-acceptance.md",
+      "bytes": 5045,
+      "sha256": "8f6f831578e2fcdf653d8637832a21f2fa5295d6f6e9ab7efba1b90e92747b90"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-negative-return-r23-acceptance.json",
+      "bytes": 3735,
+      "sha256": "a38d99fbebcb3080167ad24054c4d610d10ff4decd0cee090fa69d8c3ad03cbe"
+    },
+    {
+      "path": "problems/2021-B4/proofs/reviewed-reasoning-center-return-r18-v1.1.md",
+      "bytes": 26067,
+      "sha256": "f26de3a17895354408e514d6a0b0066715a1c0f0234d494fd53485ea3feb8284"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-center-return-r18-acceptance.md",
+      "bytes": 4541,
+      "sha256": "3b291249452982f01ea08741ec0f5ed1d65e279f7e33110971132d70bfef4bb0"
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-center-return-r18-acceptance.json",
+      "bytes": 4723,
+      "sha256": "4c8245de57e0e7a00efc685014c8af85efe788d3c75ff3431283f211b567abe7"
+    }
+  ],
+  "current_authority_declared_records_verified": [
+    {
+      "path": "problems/2021-B4/reviews/reasoning-negative-return-r23-acceptance.json",
+      "declared_occurrences": 12
+    },
+    {
+      "path": "problems/2021-B4/reviews/reasoning-center-return-r18-acceptance.json",
+      "declared_occurrences": 17
+    }
+  ],
+  "compact_parent_binding": {
+    "parent": {
+      "path": "problems/2025-B4/notes/reasoning-global-return-r11-freeze-v1.json",
+      "bytes": 2639,
+      "sha256": "1e6953c80d9d17efbb2b94c5ae6af3a0b9880119d46c1e0fde7dc4c28a266771"
+    },
+    "all_parent_payloads_verified": 4,
+    "parent_historical_guard_summary_bound_NOT_reexpanded": {
+      "occurrences": 66,
+      "unique_paths": 63,
+      "canonical_deduplicated_sha256": "462460ea44ab28ca3d8b936a30517fca171441659c3f30c2ca35123d18a3bbe0"
+    },
+    "parent_mathematics_NOT_R24_premise": true,
+    "mutable_historical_maps_not_live_immutable_guards": true
+  },
+  "effective_fresh_guard_summary": {
+    "occurrences": 42,
+    "unique_paths": 40,
+    "canonical_deduplicated_sha256": "cdd0b41655013df4adeda8ff9ec80bfc95df5cb477d3750553f205eca14c93ca"
+  },
+  "guard_reconstruction": "collect() rechecks exact bound current authorities and the immediate own parent only; no growing historical inventory copied",
+  "root_supplied_NEW_mathematical_inference": false,
+  "A_constructor_excluded_from_TWO_OTHER_WHOLE_audits": true,
+  "NEW_2019_FL15_author_or_peer_access_inventory_hash": false,
+  "no_mathematical_code_CAS_scan_test_or_replay": true,
+  "no_Git_shared_old_cache_mutation": true,
+  "requested": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independent_effective_setting_readback": null,
+  "direct_quota": {
+    "usedPercent": 73,
+    "observed_UTC": "2026-10-18 23:54:29 UTC",
+    "resetsAt": 1792874445,
+    "windowDurationMins": 10080,
+    "ordinaryUsageAllowed": true,
+    "TOTAL_ceiling": 90,
+    "integration_reserve": true,
+    "automatic_later_window": false
+  }
+}

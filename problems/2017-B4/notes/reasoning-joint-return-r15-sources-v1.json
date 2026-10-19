@@ -1,0 +1,76 @@
+{
+  "status": "candidate proof - unverified",
+  "constructor": "/root/review_2021_reasoning_j15_r2",
+  "constructor_excluded_from_TWO_OTHER_WHOLE_audits": true,
+  "root_supplied_NEW_mathematical_inference": false,
+  "requested": {"model": "gpt-6.1-sol", "reasoning": "max", "inherited": true},
+  "independent_effective_setting_readback": null,
+  "claims": ["JC15A", "JC15B", "JC15C"],
+  "whole_obligations": 36,
+  "official_domain": "2017 whole B4, fixed regular unit-sided2N-gon tilings/accepted marked commutation classes, N>=2",
+  "OLD_roles": "Older local/value constructor and PR11 whole reviewer; accepted inputs are not newly independently self-recertified. Not CI12/LF14 constructor.",
+  "fresh_COMPLETE_operative_accepted_bodies": [
+    "problems/2017-B4/proofs/reviewed-reasoning-pressure-return-r11-v1.1.md",
+    "problems/2017-B4/proofs/reviewed-reasoning-concentration-return-r12-v1.1.md",
+    "problems/2017-B4/proofs/reviewed-reasoning-lower-return-r14-v1.1.md"
+  ],
+  "fresh_EACH_current_authority_MD_and_JSON_families": [
+    "reasoning-pressure-return-r11", "reasoning-concentration-return-r12", "reasoning-lower-return-r14"
+  ],
+  "read_precision": "First combined three-body display clipped its middle; every complete body was subsequently returned separately and fully model-read. The clipped output alone is not claimed as a full read.",
+  "accepted_operative_uses": {
+    "PR11": "Actual normalized P/Q, fixed v,z>1, positive flows with same R and c_F/c_R definitions.",
+    "CI12": "Actual T=ln(P/Q)+(c_F-c_R)ln z, canonical D/S/J, 0<=J<=S/2, and accepted opposite noncomparability example.",
+    "LF14": "Comparison boundary only: counted low-D family has no accepted J/S estimate or recursive amplification."
+  },
+  "primary": [
+    {
+      "id": "OFFICIAL2017",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2017-paper-2_1.pdf",
+      "read": "Operative B4 lines48-57; no other problem researched",
+      "binary_sha256": null
+    },
+    {
+      "id": "FELSNER_VALTR",
+      "url": "https://page.math.tu-berlin.de/~felsner/Paper/new-pla.pdf",
+      "read": "45-48;101-105;106-142;148-164 complete insertion statement;187-203 exit definitions;215-245 printed middle lemma/proof",
+      "role": "Marked canonical dictionary/exit context; accepted representation authority retained",
+      "full_dictionary_foundation_or_whole_paper_proof_claim": false,
+      "source_program_replay": false,
+      "binary_sha256": null
+    },
+    {
+      "id": "DALLANT_V2",
+      "url": "https://arxiv.org/pdf/2502.20909v2",
+      "read": "Returned119-169 exit/rotation context and following Lemma3 statement context inspected",
+      "role": "Context/naming precision only; no new zone/optimizer theorem import",
+      "whole_paper_or_full_proof_chain_claim": false,
+      "binary_sha256": null
+    },
+    {
+      "id": "FELSNER_PILZ_SCHNIDER",
+      "url": "https://arxiv.org/pdf/2001.08419",
+      "read": "Definitions66-81 and returned surrounding context inspected",
+      "role": "Approaching/straight-line model context only; no realization/count theorem premise",
+      "whole_source_or_literature_nonoverlap_claim": false,
+      "binary_sha256": null
+    }
+  ],
+  "discovery_queries": [
+    "Felsner Valtr cutpaths alternating arrangement double chain pseudolines",
+    "Dallant pseudoline arrangements cutpaths double chain alternating line arrangement",
+    "line arrangement alternating parabola cutpath",
+    "arrangement pseudolines double chain cutpaths",
+    "pseudoline zigzag arrangement counting"
+  ],
+  "secondary_search_hits_used_as_theorem_premises": false,
+  "new_arrangement_type_novelty_or_priority_claim": false,
+  "all_new_determinant_envelope_flow_asymptotics_hand_reasoned": true,
+  "mathematical_program_CAS_scan_test_optimizer_old_source_author_freezer_replay": false,
+  "source_access": "Bounded public web text returned promptly; no native browser, binary download, cache mutation, charge, contact or bypass.",
+  "actual_family_scope": "ONE hereditary actual class per size; D/N^2->1/2, S/N^2,J/N^2->0 proposed. No joint-low-cost, positive-entropy, uniform-mass or scalar-value conclusion.",
+  "NEW_B_C_R24_peer_findings_files_actual_inventory_open_hash_meta_access": false,
+  "previous_FL15_explicit_BOTH_release_received_before_disposition": true,
+  "no_Git_shared_old_cache_mutation": true,
+  "weekly": {"usedPercent": 75, "windowDurationMins": 10080, "resetsAt": 1792874445, "ordinaryUsageAllowed": true, "TOTAL_ceiling": 90, "integration_reserve": true, "automatic_later_window": false}
+}

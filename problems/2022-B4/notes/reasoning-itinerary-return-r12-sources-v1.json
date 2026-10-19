@@ -1,0 +1,66 @@
+{
+  "status": "candidate proof - unverified; literal source scopes only",
+  "author": "/root/review_2022_complexity_r2",
+  "requested": {"model": "gpt-6.1-sol", "reasoning": "max", "inherited": true},
+  "independent_effective_backend_readback": null,
+  "source_date_UTC": "2026-10-19",
+  "sources": [
+    {
+      "id": "OFF22",
+      "title": "Simon Marais Mathematics Competition 2022 Paper B, B4(b)",
+      "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2022-paper-b.pdf",
+      "type": "official primary statement",
+      "read": "Page 2 B4 setup and part(b), original returned lines58-65 and69-70; no research on preliminary(a)",
+      "used": "Positive ordinary integers, ab>=600 inclusive, simultaneous OLD-coordinate recurrence, equality at time0",
+      "binary_hash": null,
+      "local_full_paper_written": false
+    },
+    {
+      "id": "DM09",
+      "title": "Arturas Dubickas and Michael J. Mossinghoff, Lower bounds for Z-numbers",
+      "journal": "Mathematics of Computation 78(267)(2009),1837-1851",
+      "doi": "10.1090/S0025-5718-09-02211-X",
+      "url": "https://www.researchgate.net/publication/220576840_Lower_bounds_for_Z-numbers",
+      "primary_access": "Public full article body uploaded by coauthor Michael J. Mossinghoff, platform date2014-10-26; article internal date2008-01-20",
+      "actually_read": [
+        "Returned article-body lines56-654, including COMPLETE Section1 lines77-227",
+        "Lemma3.1 statement and complete proof lines375-412",
+        "Proposition3.1 statement and complete proof lines439-462",
+        "Proposition3.2 statement and complete proof lines466-509",
+        "Returned beginning of later binary expansion discussion through654, not entire algorithms/paper"
+      ],
+      "operative_hypotheses": "Positive ordinary integer x; fixed rational slope p/q>1 with coprime p,q, q>=2; nonempty proper residue set S. Prop3.2 additionally |S|=1. Prop3.1 ASSUMES all-seed termination; Lemma3.1 assumes a Z-number fractional-part window and 2<=q<p<q^2.",
+      "application": "Exact proper-set framework matches the restricted IT12 ceiling maps. The source also explicitly poses p=q+1,S={0,q-1}, matching the broader auxiliary g=ceil11n/10 model. No source termination theorem for the sets of cardinality2/3/5 is imported.",
+      "nonimports": [
+        "No general proper-set termination conclusion",
+        "No reverse use of conditional Prop3.1",
+        "No Z-number conclusion without its fractional-part window",
+        "No historical open-question statement used to prove current literature completeness",
+        "No source computational algorithm or certificate replay"
+      ],
+      "text_warning": "Generated platform abstract shows >1/q; actual article-body definition shows <1/q. Operative body used.",
+      "binary_hash": null,
+      "full_paper_or_visual_audit_claimed": false,
+      "local_full_paper_written": false
+    },
+    {
+      "id": "LS03",
+      "title": "Jeffrey C. Lagarias and N. J. A. Sloane, Approximate squaring",
+      "url": "https://neilsloane.com/doc/apsq.pdf",
+      "primary_access": "Author-hosted PDF browser text",
+      "actually_read": "Complete Section5 operative fixed-slope definitions lines1328-1438 and Theorem5 statement/proof1476-1552; following remarks through1585; Theorem6 statement and proof beginning1586-1612 only",
+      "operative_limit": "Theorem5 uses denominator TWO; it does not certify a denominator100 termination claim. Theorem6 complete proof was not read and no conclusion imported.",
+      "binary_hash": null,
+      "whole_paper_read_claimed": false,
+      "local_full_paper_written": false
+    }
+  ],
+  "accepted_local_interfaces": [
+    {"id":"D9","body":"problems/2022-B4/proofs/reviewed-reasoning-dynamics-return-r9-v1.1.md","authority_md":"problems/2022-B4/reviews/reasoning-dynamics-return-r9-acceptance.md","authority_json":"problems/2022-B4/reviews/reasoning-dynamics-return-r9-acceptance.json","read":"FULL body and EACH current authority","used":"Actual sector/twin/stopped map; sigma may be infinite; physical clocks retained","old_role":"B whole2 reviewer; accepted input, not new self-review"},
+    {"id":"RC10","body":"problems/2022-B4/proofs/reviewed-reasoning-collision-return-r10-v1.1.md","authority_md":"problems/2022-B4/reviews/reasoning-collision-return-r10-acceptance.md","authority_json":"problems/2022-B4/reviews/reasoning-collision-return-r10-acceptance.json","read":"FULL body and EACH current authority","used":"Exact selected B+/B- branches and finite/infinite seed distinction; eventual selected periodicity already excluded","old_role":"B constructor; no independent self-recertification"},
+    {"id":"CR11","body":"problems/2022-B4/proofs/reviewed-reasoning-critical-return-r11-v1.1.md","authority_md":"problems/2022-B4/reviews/reasoning-critical-return-r11-acceptance.md","authority_json":"problems/2022-B4/reviews/reasoning-critical-return-r11-acceptance.json","read":"FULL body and EACH current authority","used":"Scope firewall: GLOBAL monotone obstruction does not exclude individual itineraries or all clock-sensitive recodings","old_role":"B constructor; no independent self-recertification"}
+  ],
+  "bounded_discovery": "Public searches on approximate multiplication/proper subsets/rational ceiling maps/Z-numbers, not orbit computations. Irrelevant or abstract-only results are not premises; no absence/novelty claim.",
+  "computation": "No mathematical program, CAS, routine test, numerical orbit search, old source/author/certificate/freezer replay. All finite branches and diagnostics proved by hand.",
+  "review_requirement": "TWO OTHER initially blind ENTIRE whole nonconstructor audits; B author excluded; coordinator alone may promote."
+}

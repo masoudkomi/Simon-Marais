@@ -1,0 +1,122 @@
+{
+  "created_UTC": "2026-10-19T00:18:17.595347+00:00",
+  "status": "candidate proof - unverified",
+  "constructor": "/root/review_2021_reasoning_j15_r2",
+  "whole_obligations": 36,
+  "claims": [
+    "JC15A",
+    "JC15B",
+    "JC15C"
+  ],
+  "necessary_direct_records": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-reasoning-concentration-return-r12-v1.1.md",
+      "bytes": 24123,
+      "sha256": "15823ad1a7c54b8e06de3692f19d3395d2458786dcb8d2d51a2eb3c592734554"
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-reasoning-lower-return-r14-v1.1.md",
+      "bytes": 24422,
+      "sha256": "88eed98d9ae634700fd23d571aad68cb4c59fd2fcd45e44dc48f9634c3d208c7"
+    },
+    {
+      "path": "problems/2017-B4/proofs/reviewed-reasoning-pressure-return-r11-v1.1.md",
+      "bytes": 26687,
+      "sha256": "56688cd6030db910fbbc9162436b25acbf61a69869e2501dbd6f50b088bc3b60"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-concentration-return-r12-acceptance.json",
+      "bytes": 3824,
+      "sha256": "f83181566e126280d81c543112c169d80234d6f0aa3995ee3b8abce95f9bc844"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-concentration-return-r12-acceptance.md",
+      "bytes": 5074,
+      "sha256": "8ab812c05255394241048061650c6ee720a3506f2acf11fbbbc3cccfaccf7d83"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-lower-return-r14-acceptance.json",
+      "bytes": 3678,
+      "sha256": "b2c74f0f00ea445f385736f01cc80548b46f291866ec781313ac560673ee0fc0"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-lower-return-r14-acceptance.md",
+      "bytes": 5661,
+      "sha256": "0e09166d322715b8f35347a985fc1cef64af41df1f6bb4b09f689a77449fdfba"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-pressure-return-r11-acceptance.json",
+      "bytes": 3987,
+      "sha256": "85f5f93a8294af528f487ca9d62eadbc054c98db1ea312e48de9edd8c02547e8"
+    },
+    {
+      "path": "problems/2017-B4/reviews/reasoning-pressure-return-r11-acceptance.md",
+      "bytes": 6651,
+      "sha256": "c280687595657001f2c5a92f2d9d430ad2bf39b72eb89c0e40308dedd4f33580"
+    },
+    {
+      "path": "problems/2017-B4/statement.md",
+      "bytes": 2140,
+      "sha256": "e459750064b4e25e3eaa71f25f236c046548147e415b06d8bd097839020228f3"
+    }
+  ],
+  "current_authority_accepted_copy_records_verified": 3,
+  "compact_own_parent": {
+    "path": "problems/2019-B4/reviews/reasoning-full-law-return-r15-review-1-manifest-v1.json",
+    "bytes": 2641,
+    "sha256": "2ef8164bbb02f81d1a990ff585bd7148ff6a513c0ee329572cac825b35f69e41"
+  },
+  "all4_parent_payloads_verified": true,
+  "parent_historical_guard_summary_bound_NOT_reexpanded": {
+    "occurrences": 43,
+    "unique_paths": 37,
+    "canonical_deduplicated_sha256": "6174d171dc9765e5b675d5d5fe3cae33789a568d26786452c93f48dd57b439de"
+  },
+  "parent_mathematics_new_JC15_premise": false,
+  "effective_fresh_guard_summary": {
+    "occurrences": 19,
+    "unique_paths": 16,
+    "canonical_deduplicated_sha256": "aaf4bf6883dee01e405bad1394341fe3da2a8d2b5caf2b8836c6e0f5746298ca"
+  },
+  "historical_inventory_recopied_or_traversed": false,
+  "mutable_current_research_map_observation_NOT_guard": {
+    "path": "problems/2017-B4/research.md",
+    "bytes": 18746,
+    "sha256": "c1ae4b48bd89dc1d51d09aab5a72fce895796a7ad81d05e9190f4f82535b2c60"
+  },
+  "literal_document_checks": {
+    "literal_obligation_labels": 36,
+    "literal_claim_labels": [
+      "JC15A",
+      "JC15B",
+      "JC15C"
+    ],
+    "mathematical_truth_checked_by_code": false
+  },
+  "constructor_excluded_from_TWO_OTHER_WHOLE_audits": true,
+  "root_supplied_NEW_mathematical_inference": false,
+  "NEW_B_C_R24_peer_material_access": false,
+  "requested": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independent_effective_setting_readback": null,
+  "direct_quota": {
+    "usedPercent": 75,
+    "windowDurationMins": 10080,
+    "resetsAt": 1792874445,
+    "ordinaryUsageAllowed": true,
+    "TOTAL_ceiling": 90,
+    "integration_reserve": true,
+    "automatic_later_window": false
+  },
+  "no_mathematical_code_CAS_scan_test_optimizer_old_source_author_freezer_replay": true,
+  "no_Git_shared_old_cache_mutation": true,
+  "FULL_final_ALL4_payload_MODEL_readbacks_then_freeze_MODEL_readback_then_SEPARATEverify_REQUIRED": true
+}

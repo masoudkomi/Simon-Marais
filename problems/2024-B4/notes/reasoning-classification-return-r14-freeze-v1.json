@@ -1,0 +1,46 @@
+{
+  "frozen_utc": "2026-10-19T00:19:48.250457+00:00",
+  "status": "candidate proof - unverified",
+  "constructor": "/root/review_2017_coarsening_r1",
+  "ENTIRE_files": 5,
+  "ALL_obligations": 48,
+  "payload_records": [
+    {
+      "path": "problems/2024-B4/notes/reasoning-classification-return-r14-candidate-v1.md",
+      "bytes": 29009,
+      "sha256": "9f6041dcfda7e87d5b7c4c0c73a2e757bc0d1413c3c45d1e4683f7cc69dc8d29"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-classification-return-r14-sources-v1.json",
+      "bytes": 5742,
+      "sha256": "1a41d4794c7fb75020d380144181f08cbc94c546e54b285c6fc1d5c4be89a52d"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-classification-return-r14-admin-v1.py",
+      "bytes": 7722,
+      "sha256": "5b0d392a0ae5000efc3702b01887e7c902a54618dda283ea9241b32bc99e6fa2"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-classification-return-r14-baseline-v1.json",
+      "bytes": 8258,
+      "sha256": "86d317bb147feeac7889b94e006d77dfdc992100a204b46ab6deaaade82d5fbc"
+    }
+  ],
+  "guard_summary": {
+    "occurrences": 20,
+    "unique_paths": 20,
+    "canonical_deduplicated_sha256": "4de1110d8920c16f4f7203148783499f248e352f7d45fbf8be1c4c7d25d621d9"
+  },
+  "immediate_own_parent": {
+    "path": "problems/2021-B4/reviews/reasoning-deep-return-r24-review-2-manifest-v1.json",
+    "bytes": 2096,
+    "sha256": "ea9c59b120bb0a89b6b53f375c81296ac014ea96b23b4f037079d2916a22e328"
+  },
+  "TWO_OTHER_initially_blind_ENTIRE_whole_audits_required": true,
+  "constructor_excluded": true,
+  "root_NEW_mathematical_contribution": false,
+  "FULL_final_MODEL_ALL4_payload_readbacks_completed": true,
+  "FULL_manifest_MODEL_readback_then_SEPARATE_verify_REQUIRED": true,
+  "mathematical_program_CAS_scan_test_old_replay": false,
+  "old_shared_Git_cache_mutation": false
+}

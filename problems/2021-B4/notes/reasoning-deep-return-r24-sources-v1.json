@@ -1,0 +1,81 @@
+{
+  "status": "candidate proof - unverified",
+  "constructor": "/root/review_2021_reasoning_j15_r2",
+  "verification_date_UTC": "2026-10-18",
+  "claims": ["R24A", "R24B", "R24C"],
+  "whole_obligations": 32,
+  "operative_inputs": [
+    {
+      "body": "problems/2021-B4/proofs/reviewed-reasoning-negative-return-r23-v1.1.md",
+      "authority_md": "problems/2021-B4/reviews/reasoning-negative-return-r23-acceptance.md",
+      "authority_json": "problems/2021-B4/reviews/reasoning-negative-return-r23-acceptance.json",
+      "literal_fresh_read_scope": "ENTIRE accepted body, including entire byte-identical submitted suffix; EACH complete current MD and JSON authority",
+      "use": "Entire actual R18(S),(W)/m4/adjacent/oriented frameIII domain; d>=2,a5=0,A8=7mod16,A9/A10 in4O, d2/d>=3 actual E9/E10 covers, exact double-S E17 jet, all center/r rows and rational irreducible degree14 carrier",
+      "old_role": "A sole R23 constructor; separate root/C OTHER whole acceptance is the operative authority, not a new self-review"
+    },
+    {
+      "body": "problems/2021-B4/proofs/reviewed-reasoning-center-return-r18-v1.1.md",
+      "authority_md": "problems/2021-B4/reviews/reasoning-center-return-r18-acceptance.md",
+      "authority_json": "problems/2021-B4/reviews/reasoning-center-return-r18-acceptance.json",
+      "literal_fresh_read_scope": "ENTIRE accepted body and EACH complete current authority MD/JSON",
+      "use": "Retained exact (S),(W), m4 first break, actual rational values/multiplicities/carrier and adjacent/oriented frameIII hypotheses; actual center exclusions for D8,D9,D10",
+      "old_role": "A sole R18 constructor; independently accepted old premise, no new independent self-certification"
+    }
+  ],
+  "primary_source": {
+    "url": "https://www.simonmarais.org/uploads/8/2/3/5/82358688/smmc-2021-paper-b.pdf",
+    "literal_fresh_read_scope": "Original official B4 setup/common-rational-value statement lines67--76 and open(b)81; complete local statement also read. Incidental neighboring/preliminary text returned but not researched or reproduced.",
+    "use": "Rational coefficients, ACTUAL rational common values depending on derivative order, full open(b) versus the restricted degree20 subcase",
+    "access": "bounded web PDF text, no CUA or native browser",
+    "new_binary_download": false,
+    "raw_binary_sha256": null
+  },
+  "new_external_theorem_import": false,
+  "new_proof_tools": "Hand differentiation and exact Taylor expansion; integral triangular Appell interpolation; symbolic polynomial parity; first homothetic coefficient with fixed A19 correction; fixed integer substitutions and exact valuations.",
+  "unread_not_claimed": [
+    "No fresh whole R21/R22/R5 proof or authority audit beyond their explicit accepted R23 domain",
+    "No fresh CLO/Massri/reference-chain proof audit or external Birkhoff theorem import",
+    "No primary theorem about quotient CA, all-real roots, finite valuation bounds, rational lifting or a smaller-degree reduction"
+  ],
+  "failure_boundaries": [
+    "The first actual F(1) modulo32 comparison cancels, so no contradiction is claimed there",
+    "The first h coefficient of Q needs +380*A18^0 because the actual A19 is fixed at0; full homothety is false",
+    "An E9 witness0 does not supply the deep B9 estimate used by R24A",
+    "At d2 the even h² remainder may have depth5, so the modulo128 Q contradiction is not extended to that endpoint",
+    "Formal interpolation verifies identities only; it supplies no actual CA polynomial or rational/local lift"
+  ],
+  "role_and_scope": {
+    "root_supplied_NEW_R24_proof_inference": false,
+    "A_excluded_from_future_independent_R24_review_count": true,
+    "TWO_OTHER_initially_blind_WHOLE_audits_required": true,
+    "whole_negative_frame_or_degree20_or_annual_solution": false,
+    "priority_or_exhaustive_current_literature_claim": false,
+    "NEW_2019_FL15_author_or_peer_packet_open_inventory_hash": false,
+    "own_frozen_2025_R11_parent_guard_only_NOT_math_premise": true
+  },
+  "execution_record": {
+    "mathematical_program_CAS_scan_test_optimizer_old_author_source_replay": false,
+    "native_subprocess_or_job": false,
+    "tool_stall_or_pending_approval": false,
+    "charge_contact_bypass": false,
+    "Git_shared_old_cache_mutation": false,
+    "documentary_only_code": "The new admin script checks explicit paths/bytes/SHA, JSON bindings and the literal O01--O32 labels; it does not calculate any mathematical certificate."
+  },
+  "settings": {
+    "requested_model": "gpt-6.1-sol",
+    "requested_reasoning": "max",
+    "inherited": true,
+    "independent_effective_readback": null
+  },
+  "direct_quota": {
+    "usedPercent": 73,
+    "observed_UTC": "2026-10-18 23:54:29 UTC",
+    "windowDurationMins": 10080,
+    "resetsAt": 1792874445,
+    "ordinaryUsageAllowed": true,
+    "TOTAL_ceiling": 90,
+    "review_integration_reserve": true,
+    "automatic_later_window": false,
+    "method": "mcp__codex_app__get_usage_limits account-wide codex bucket"
+  }
+}
