@@ -1,0 +1,109 @@
+{
+  "captured_UTC": "2026-10-19T03:51:23.634877+00:00",
+  "necessary_immutable_records": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2025-B4/statement.md",
+      "bytes": 2024,
+      "sha256": "af0075dd635e8e4d31bb3ae9148d1731a7fbb57c06cf104763332e1496673f59"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-joint-trace-return-r13-candidate-v1.md",
+      "bytes": 17562,
+      "sha256": "0a66da03cea5cde313db07f4c4c48bd3047276a1d56449cf2ca3272db4fda79f"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-joint-trace-return-r13-sources-v1.json",
+      "bytes": 3421,
+      "sha256": "e7976ded20465664c0eb3b54cee19c66fd716f3152e6250fb95622e0a466edcf"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-joint-trace-return-r13-admin-v1.py",
+      "bytes": 3916,
+      "sha256": "414e592a393fe772017dbc0a12c2e03b39f60eb5b47ab1d688d4ab5dd5956c6e"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-joint-trace-return-r13-baseline-v1.json",
+      "bytes": 2900,
+      "sha256": "138f37421858eb962cf25dc03d67f499d68823813b5f1a48c65d2d550b8e1dd5"
+    },
+    {
+      "path": "problems/2025-B4/notes/reasoning-joint-trace-return-r13-freeze-v1.json",
+      "bytes": 2115,
+      "sha256": "c797b85ac45ac25e2c8155a62c2d768f721538650d97c925dcd1210502a22075"
+    },
+    {
+      "path": "problems/2025-B4/proofs/reviewed-reasoning-exception-return-r12-v1.1.md",
+      "bytes": 32008,
+      "sha256": "4954539d16386f5aa80ee58afd1897b02148ef0d045feb05d196663298285fcb"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-exception-return-r12-acceptance.md",
+      "bytes": 6569,
+      "sha256": "80d2bf548bd1bae4f0aa6ce00ff76260152d9e1a1fd74d0a9545003cb399e26c"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-exception-return-r12-acceptance.json",
+      "bytes": 3445,
+      "sha256": "aa80d2fb646d1359fdc9f52a28dab82a2bdabc05bddf223c1a56708f56309ed2"
+    },
+    {
+      "path": "problems/2025-B4/proofs/reviewed-reasoning-compatible-return-r10-v1.1.md",
+      "bytes": 26605,
+      "sha256": "dbbce8dcc26f1251e30c3ab939dd013062fe96bf98652fd06a2bb53bff527448"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-compatible-return-r10-acceptance.md",
+      "bytes": 6568,
+      "sha256": "d755581c3a022e6c5e6517f24a38b4ca550df7e8ee35cf6a06c59a01b9928051"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-compatible-return-r10-acceptance.json",
+      "bytes": 4090,
+      "sha256": "3038ec356defebb77464a4b34a5534a7121d9e00fd65e208d7434c582facf565"
+    },
+    {
+      "path": "problems/2025-B4/proofs/reviewed-reasoning-global-return-r11-v1.1.md",
+      "bytes": 32026,
+      "sha256": "6a72f0d8348fc39f6343a3381975f8fbc02bc001036bc88acbd32a93a51f1196"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-global-return-r11-acceptance.md",
+      "bytes": 6200,
+      "sha256": "a0b01f127da4c9538d560d8ee9e6ffeeeb2bd9954bad98a9d17c0dfe1050434f"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-global-return-r11-acceptance.json",
+      "bytes": 3480,
+      "sha256": "70872a5fc214d3b390ebf69837e75b07bb06cadbf1bf6a8dbe9f34b2ce1ef008"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-physical-return-r13-freeze-v1.json",
+      "bytes": 2526,
+      "sha256": "256bedd300fa0ce8ebe1ee1f69d47e1246a7c5c2c50f802e6d3d2d2ce5e6c1c6"
+    }
+  ],
+  "occurrences": 17,
+  "unique_paths": 17,
+  "canonical_deduplicated_sha256": "b4be81305a8d0dc50cdb10a87fd151be489a17b768ba23cd41d2253be51f22d9",
+  "ONE_OWN_parent_manifest": {
+    "path": "problems/2022-B4/notes/reasoning-physical-return-r13-freeze-v1.json",
+    "bytes": 2526,
+    "sha256": "256bedd300fa0ce8ebe1ee1f69d47e1246a7c5c2c50f802e6d3d2d2ce5e6c1c6"
+  },
+  "parent_declared_summary": {
+    "ENTIRE_files": 5,
+    "ALL_obligations": 32,
+    "guard_occurrences": 12,
+    "guard_unique_paths": 12
+  },
+  "recursive_inventory_expansion": false,
+  "mutable_map_guards": false,
+  "NEW_JT13_peer_access": false,
+  "NEW_PH13_peer_or_root_R26_access": false,
+  "mathematical_truth_checked_by_code": false
+}

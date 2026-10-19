@@ -1,0 +1,114 @@
+{
+  "prepared_UTC": "2026-10-19T03:50:01.081344+00:00",
+  "necessary_immutable_guards_checked_ONCE": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 4707,
+      "sha256": "28f743b6925d72b9d1a5bccff0239a897a7a46750ec623e99f43d5cea5e1baff"
+    },
+    {
+      "path": "problems/2022-B4/statement.md",
+      "bytes": 1195,
+      "sha256": "2011761509ac42d5ffa2ab9e86dd1db464618707443a68f43fb3e45f59ed36c0"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-physical-return-r13-freeze-v1.json",
+      "bytes": 2526,
+      "sha256": "256bedd300fa0ce8ebe1ee1f69d47e1246a7c5c2c50f802e6d3d2d2ce5e6c1c6"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-physical-return-r13-candidate-v1.md",
+      "bytes": 18907,
+      "sha256": "dd95f9fd59776207007bfa68bc0d2c7b2633f7d540710194e1c24d81907fa7e8"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-physical-return-r13-sources-v1.json",
+      "bytes": 2537,
+      "sha256": "61f7b2580e373aec69d8aeb852cb76ef149374d6683ea943dd8d3158a09936d2"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-physical-return-r13-docadmin-v1.py",
+      "bytes": 5425,
+      "sha256": "2a250bcba9c981ecd424504c46d21f22df425b29cb70ac47d888d5b6895d4257"
+    },
+    {
+      "path": "problems/2022-B4/notes/reasoning-physical-return-r13-baseline-v1.json",
+      "bytes": 3222,
+      "sha256": "73c0427d4f7a942afa8e4a3418228a949ae759ab47d07c8210d51cca5810cedc"
+    },
+    {
+      "path": "problems/2022-B4/proofs/reviewed-reasoning-itinerary-return-r12-v1.1.md",
+      "bytes": 35369,
+      "sha256": "b484e62db0e680e9d8a50c90d0ec511dec11ff70b2bc4451269dc30b8ae73506"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-itinerary-return-r12-acceptance.md",
+      "bytes": 6325,
+      "sha256": "a4002755760fb3ccab2bf435efa503bdfbbf85202350a058bcb3be140ecef544"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-itinerary-return-r12-acceptance.json",
+      "bytes": 3279,
+      "sha256": "7386a06913396b67f06a8b60e17f003e74fb6e7df45e9a3db741765a79c097f4"
+    },
+    {
+      "path": "problems/2022-B4/proofs/reviewed-reasoning-dynamics-return-r9-v1.1.md",
+      "bytes": 22645,
+      "sha256": "7cfa2c60557935261d7144576f0e39a509fbebb292fdd0027415efe411ae4c55"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-dynamics-return-r9-acceptance.md",
+      "bytes": 6354,
+      "sha256": "4ca94b70c1a8850aa636141c92947f5c6e56f1e8a617dc3b0aca887bb4046a5c"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-dynamics-return-r9-acceptance.json",
+      "bytes": 4428,
+      "sha256": "012335d567880fa522705d9d1679acf79257c89ede247ec4c1d4376634a545d4"
+    },
+    {
+      "path": "problems/2022-B4/proofs/reviewed-reasoning-fiber-return-r5-v1.1.md",
+      "bytes": 27422,
+      "sha256": "ab4158f60b3412ace615be689cd61d9384f753319c312e776831392f97a37ef8"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-fiber-return-r5-acceptance.md",
+      "bytes": 4343,
+      "sha256": "6f2ee399a74414b42bf8c459c86d2b738eb11d8ca3f60061dab1bb2c376e0fef"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-fiber-return-r5-acceptance.json",
+      "bytes": 4684,
+      "sha256": "d352f86837f935f0757c2c9fc56a9a2708856f03a976934a791e12e1000ac0ee"
+    },
+    {
+      "path": "problems/2024-B4/notes/reasoning-frontier-return-r15-freeze-v1.json",
+      "bytes": 2505,
+      "sha256": "d5d9804d237c368818cfaa7dcc9dda188cb474f7c4f5b7e97d50e1d561b283d2"
+    }
+  ],
+  "guard_summary": {
+    "occurrences": 17,
+    "unique_paths": 17,
+    "canonical_deduplicated_sha256": "acd6762d45577eada00bd8d75a24a505011621818cf253bd22a7fe14395a454c"
+  },
+  "ONE_compact_OWN_parent": {
+    "path": "problems/2024-B4/notes/reasoning-frontier-return-r15-freeze-v1.json",
+    "bytes": 2505,
+    "sha256": "d5d9804d237c368818cfaa7dcc9dda188cb474f7c4f5b7e97d50e1d561b283d2"
+  },
+  "recursive_inventories_or_mutable_map_guards": false,
+  "author_code_read_not_executed": true,
+  "NEW_PH13_peer_access": false,
+  "guard_scope": "Documentary hashes do not constitute mathematical MODEL reads.",
+  "quota": {
+    "start_usedPercent": 84,
+    "latest_usedPercent": 85,
+    "windowDurationMins": 10080,
+    "resetsAt": 1792874445,
+    "ordinaryUsageAllowed": true,
+    "TOTAL_ceiling": 90,
+    "reserve": true,
+    "automatic_later_window": false
+  }
+}

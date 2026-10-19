@@ -1,0 +1,61 @@
+{
+  "frozen_UTC": "2026-10-19T03:59:46.653637+00:00",
+  "status": "sealed OTHER independent WHOLE1 initial; not promotion",
+  "reviewer": "/root/review_2022_complexity_r2",
+  "constructor_excluded": true,
+  "claims": [
+    "DS1",
+    "DS2",
+    "DS3"
+  ],
+  "ENTIRE_files": 5,
+  "ALL_obligations": 24,
+  "payloads": [
+    {
+      "path": "problems/2024-B4/reviews/reasoning-frontier-return-r15-review-1-initial-v1.md",
+      "bytes": 19154,
+      "sha256": "f4d31e39ea3f42291908968bca0442a2f946707b5564d2ac601c2f159d74d179"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-frontier-return-r15-review-1-sources-v1.json",
+      "bytes": 3856,
+      "sha256": "309bc643c5e24fddc3b6040189027f953b666da7a37cfcdd5bf2b1d243945c17"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-frontier-return-r15-review-1-admin-v1.py",
+      "bytes": 5652,
+      "sha256": "9d00b2f22d157e149a0ceda1aa2a22fccfea3b8e88f4fb6122ee453991b50981"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-frontier-return-r15-review-1-baseline-v1.json",
+      "bytes": 5403,
+      "sha256": "7e41c1f31b5aeda320a67f570f7ff3b6512ae44224ae4f74dbb0dbab51c08b70"
+    }
+  ],
+  "guard_occurrences": 23,
+  "guard_unique_paths": 23,
+  "ONE_exact_OWN_parent": {
+    "path": "problems/2022-B4/reviews/reasoning-physical-return-r13-review-2-manifest-v1.json",
+    "bytes": 2093,
+    "sha256": "18f11c5b855400d9c8c5de05aa99e8fec37c19524fc6b8551ee69bc9d8ed9f8a"
+  },
+  "FULL_final_ALL4_payload_MODEL_readbacks_completed": true,
+  "FULL_manifest_MODEL_readback_THEN_SEPARATE_readonly_verify_REQUIRED": true,
+  "findings_sealed_until_explicit_BOTH": true,
+  "corresponding_NEW_peer_access": false,
+  "no_mathematical_executable_or_old_replay": true,
+  "requested": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independent_effective_backend_readback": null,
+  "quota": {
+    "usedPercent": 86,
+    "observed_UTC": "2026-10-19 03:56:41 UTC",
+    "resetsAt": 1792874445,
+    "TOTAL_ceiling": 90,
+    "reserve": true,
+    "automatic_later_window": false
+  }
+}

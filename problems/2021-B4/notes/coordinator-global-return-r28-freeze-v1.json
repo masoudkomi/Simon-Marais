@@ -1,0 +1,63 @@
+{
+  "frozen_UTC": "2026-10-19T03:59:38.227839+00:00",
+  "status": "candidate proof - unverified",
+  "constructor": "/root",
+  "constructor_excluded": true,
+  "claims": [
+    "R28A",
+    "R28B"
+  ],
+  "ENTIRE_files": 6,
+  "whole_obligations": 24,
+  "payloads": [
+    {
+      "path": "problems/2021-B4/notes/coordinator-global-return-r28-candidate-v1.md",
+      "bytes": 12567,
+      "sha256": "e544c6efb7e6309f952ac8959ef04287a747131807a29f3162e63751f9506785"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-global-return-r28-sources-v1.json",
+      "bytes": 14541,
+      "sha256": "98299c0a05760db24e0ba83f0b9b5805418ef8f88eaf9d78d9bd0bd40af90d84"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-global-return-r28-certificate-v1.py",
+      "bytes": 2077,
+      "sha256": "19589a1ebd5700b080f3c19f6615c05e8bb4d08693a26bf215cdc0b086d66514"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-global-return-r28-admin-v1.py",
+      "bytes": 3550,
+      "sha256": "ee601bd8dd18090f7ad1af659ce32077c0416ca5d378429c3572357bba057587"
+    },
+    {
+      "path": "problems/2021-B4/notes/coordinator-global-return-r28-baseline-v1.json",
+      "bytes": 2881,
+      "sha256": "1e3a0afe976e4df653867980b041a5c7f4f6098f869ba593750b886da529c11b"
+    }
+  ],
+  "necessary_paths": 12,
+  "ONE_compact_OWN_parent": {
+    "path": "problems/2021-B4/notes/coordinator-contact-return-r27-freeze-v1.json",
+    "bytes": 1634,
+    "sha256": "8b0acf6aba3c262f2dff4810ade1625c5b3645e888eb9069ed8a3e509c6d5311"
+  },
+  "FULL_final_ALL5_payload_MODEL_readbacks_completed": true,
+  "FULL_manifest_MODEL_readback_THEN_SEPARATE_readonly_verify_REQUIRED": true,
+  "two_OTHER_initially_blind_ENTIRE_whole_audits_required": true,
+  "finite_mathematical_certificate_used": true,
+  "documentary_helper_checks_mathematical_truth": false,
+  "requested": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max"
+  },
+  "independent_effective_backend_readback": null,
+  "quota": {
+    "usedPercent": 86,
+    "observed_UTC": "2026-10-19 03:56:09 UTC",
+    "resetsAt": 1792874445,
+    "TOTAL_ceiling": 90,
+    "reserve": true,
+    "automatic_later_window": false
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "frozen_UTC": "2026-10-19T04:00:58.635555+00:00",
+  "status": "sealed initially blind whole2; explicit BOTH release required",
+  "reviewer": "C /root/review_2017_coarsening_r1",
+  "ENTIRE_files": 5,
+  "ALL_obligations": 24,
+  "payloads": [
+    {
+      "path": "problems/2024-B4/reviews/reasoning-frontier-return-r15-review-2-initial-v1.md",
+      "bytes": 19381,
+      "sha256": "a62f0f06122f83a7f39939f4c40f922230e7676245075acdc3da83e419d3b16a"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-frontier-return-r15-review-2-sources-v1.json",
+      "bytes": 3525,
+      "sha256": "08ea71dd84cc626bb6f70e91706cf5845f69a99bf42dcf2302a6367f7ec9245e"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-frontier-return-r15-review-2-docadmin-v1.py",
+      "bytes": 6758,
+      "sha256": "a679165a3f5336860d7c20b6a9ef3f09a55633cc94a640d27c374180b5811b5c"
+    },
+    {
+      "path": "problems/2024-B4/reviews/reasoning-frontier-return-r15-review-2-baseline-v1.json",
+      "bytes": 5516,
+      "sha256": "f79aa65ba238a63188785d4c6f716b5b47594201caa2219aee7797adf62984f5"
+    }
+  ],
+  "guard_summary": {
+    "occurrences": 23,
+    "unique_paths": 23,
+    "canonical_deduplicated_sha256": "1a828624d87cdaf5846c53c8a21c5556d6894c7da4811ddca5c0309dfef9fc45"
+  },
+  "ONE_OWN_parent_manifest": {
+    "path": "problems/2025-B4/reviews/reasoning-joint-trace-return-r13-review-1-manifest-v1.json",
+    "bytes": 2240,
+    "sha256": "c526c121b9d0cc62f3ce3294ca79e8fb107e1677aa1075533f91d2eec9286ddc"
+  },
+  "FULL_final_ALL4_payload_MODEL_readbacks_completed": true,
+  "FULL_manifest_MODEL_readback_THEN_SEPARATE_readonly_verify_REQUIRED": true,
+  "NEW_corresponding_F15_peer_access_before_entire_freeze": false,
+  "NEW_JT13_peer_access": false,
+  "PH13_peer_access": false,
+  "root_R28_future_access": false,
+  "mathematical_executable_or_old_replay": false,
+  "author_documentary_code_executed": false,
+  "Git_shared_old_cache_configuration_mutation": false,
+  "requested": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independent_effective_backend_readback": null,
+  "start_quota": {
+    "usedPercent": 85,
+    "observed_UTC": "2026-10-19 03:52:36 UTC",
+    "resetsAt": 1792874445
+  },
+  "latest_direct_quota": {
+    "usedPercent": 86,
+    "observed_UTC": "2026-10-19 04:00:37 UTC",
+    "resetsAt": 1792874445,
+    "windowDurationMins": 10080,
+    "ordinaryUsageAllowed": true,
+    "views_agree": true,
+    "TOTAL_ceiling": 90,
+    "reserve_included": true,
+    "automatic_later_window": false
+  }
+}

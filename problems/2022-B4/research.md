@@ -181,3 +181,8 @@ reproduced; its established invariant strip is attributed context only.
 # Coordinator acceptance update, 2026-10-16
 
 The v3 fixed-offset density theorem and supplementary v1 partial claims are now **proved, independently reviewed (partial results)**. Both blind initial audits accepted v1 and independently found the genuine v2 uniformity error. The author supplied a separate v3 repair; both independent re-audits fully reconstructed it and closed the objections. See proof.md, proofs/reviewed-density-v3.md and reviews/acceptance.md. V2 remains a preserved failed proof version. Historical owner-stage pending-audit notices below are superseded by this update. The full universal equality question and novelty remain unresolved.
+
+
+## 19October14:03Brisbane coordinator update
+
+[PH13](reviews/reasoning-physical-return-r13-acceptance.md) accepted after TWOOTHER initiallyblind WHOLE32/full64 audits and ENTIRE reconciliation/finalacceptancereadbacks. ProperSUMgrowth gives a conditional attained minimum, only existing official predecessors diagonal, then parity-twin/source restrictions. No-parent/critical futures remainopen; no ordinary infinite survivor/universalhitting/annualclaim. Frozenbytesunchanged.

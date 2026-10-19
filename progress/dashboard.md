@@ -579,3 +579,8 @@ Current [all-nine status](status-2026-10-19-1210.md): JC15/R25/CL14 now accepted
 ## Actual13:45Brisbane hourly, late
 
 [Allnine](status-2026-10-19-1345.md).85%TOTAL at03:47:22UTC/current1792874445,5ppbefore90TOTALincludingreserve. Project3,547,028,334(+111,415,290),cached3,385,782,272,uncached+output161,246,062(+2,757,114),reasoning8,857,912SUBSEToutput.62sessions/16,657dedupresponses,cumulativeagreement.13:14deadline missed30m58s,noinventedintermediatecounters. PH13A/Bblindwhole/JT13Cblindwhole1active,F15queued. OWNawake79293verified50:37:44forever. Next04:14:35UTC. No corresponding currentsealedpeer selected.
+
+
+## 19October14:03Brisbane reserve checkpoint
+
+[Allnine](status-2026-10-19-1403.md).86%TOTAL direct04:03:10UTC/same1792874445,4ppbefore90TOTALINCLUDINGreserve. PH13accepted;F15/JT13BOTHreleased/rootreconciliationpending;R28ENTIRE6-24frozen/A-Bblindwholeauditsactive. No furtherauthors;Cstandby. Actualtokens13:45unchanged,next04:14:35UTC. CurrentR28sealedpeers/privateartifacts excluded. KeepONLYownedawake79293/session64368 untilactualstop.

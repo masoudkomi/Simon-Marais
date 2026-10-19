@@ -1,0 +1,60 @@
+{
+  "frozen_UTC": "2026-10-19T03:51:40.916416+00:00",
+  "status": "sealed initially blind whole1; explicit BOTH release required",
+  "reviewer": "C /root/review_2017_coarsening_r1",
+  "ENTIRE_files": 5,
+  "ALL_obligations": 32,
+  "payloads": [
+    {
+      "path": "problems/2025-B4/reviews/reasoning-joint-trace-return-r13-review-1-initial-v1.md",
+      "bytes": 18308,
+      "sha256": "0e21a85d85d191a78208a3bfa990dfed6bc0f3c4ce8fcd650a332084df97857b"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-joint-trace-return-r13-review-1-sources-v1.json",
+      "bytes": 2318,
+      "sha256": "240985d556744bcb3544e29adfb68e91fdf631d9d9121a08f964387e23459003"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-joint-trace-return-r13-review-1-docadmin-v1.py",
+      "bytes": 5428,
+      "sha256": "1d36babcff017dcd8b110fcc1e19c8d563a8ce19a91dce934d774dcaa5e77e70"
+    },
+    {
+      "path": "problems/2025-B4/reviews/reasoning-joint-trace-return-r13-review-1-baseline-v1.json",
+      "bytes": 4185,
+      "sha256": "d086a4399a716b2628b09cde554c3288137858b35342484ce3a578b519250db2"
+    }
+  ],
+  "guard_summary": {
+    "occurrences": 17,
+    "unique_paths": 17,
+    "canonical_deduplicated_sha256": "b4be81305a8d0dc50cdb10a87fd151be489a17b768ba23cd41d2253be51f22d9"
+  },
+  "ONE_OWN_parent_manifest": {
+    "path": "problems/2022-B4/notes/reasoning-physical-return-r13-freeze-v1.json",
+    "bytes": 2526,
+    "sha256": "256bedd300fa0ce8ebe1ee1f69d47e1246a7c5c2c50f802e6d3d2d2ce5e6c1c6"
+  },
+  "FULL_final_ALL4_payload_MODEL_readbacks_completed": true,
+  "FULL_manifest_MODEL_readback_THEN_SEPARATE_readonly_verify_REQUIRED": true,
+  "NEW_JT13_peer_access_before_entire_freeze": false,
+  "NEW_PH13_peer_or_root_R26_access": false,
+  "requested": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independent_effective_backend_readback": null,
+  "start_quota": {
+    "usedPercent": 85,
+    "observed_UTC": "2026-10-19 03:46:14 UTC",
+    "resetsAt": 1792874445,
+    "TOTAL_ceiling": 90,
+    "reserve": true,
+    "automatic_later_window": false
+  },
+  "no_mathematical_executable_or_old_replay": true,
+  "author_documentary_code_executed": false,
+  "Git_shared_old_cache_mutation": false
+}

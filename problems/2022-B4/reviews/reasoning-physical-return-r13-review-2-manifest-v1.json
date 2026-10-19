@@ -1,0 +1,62 @@
+{
+  "frozen_UTC": "2026-10-19T03:52:34.506726+00:00",
+  "status": "sealed OTHER independent WHOLE2 initial; not promotion",
+  "reviewer": "/root/review_2022_complexity_r2",
+  "constructor_excluded": true,
+  "claims": [
+    "PH13A",
+    "PH13B",
+    "PH13C",
+    "PH13D"
+  ],
+  "ENTIRE_files": 5,
+  "ALL_obligations": 32,
+  "payloads": [
+    {
+      "path": "problems/2022-B4/reviews/reasoning-physical-return-r13-review-2-initial-v1.md",
+      "bytes": 15135,
+      "sha256": "f02292e79f9911238da250eaefad44c52b28155ba27dd70804fa4e412c00a60d"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-physical-return-r13-review-2-sources-v1.json",
+      "bytes": 3269,
+      "sha256": "b1cc248477bfced154190a61880d2399d791891b1e7e1c57b77963ae66e36026"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-physical-return-r13-review-2-admin-v1.py",
+      "bytes": 4256,
+      "sha256": "37c32b126def37a21cdcaa80da25471f4aa097ac1299d0336ba93280d4a4c8b6"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-physical-return-r13-review-2-baseline-v1.json",
+      "bytes": 3887,
+      "sha256": "a770c19124fac639c105e2fd96c05c7addd769834ae7cf4cd075a99bff82811d"
+    }
+  ],
+  "guard_occurrences": 17,
+  "guard_unique_paths": 17,
+  "ONE_exact_OWN_parent": {
+    "path": "problems/2025-B4/notes/reasoning-joint-trace-return-r13-freeze-v1.json",
+    "bytes": 2115,
+    "sha256": "c797b85ac45ac25e2c8155a62c2d768f721538650d97c925dcd1210502a22075"
+  },
+  "FULL_final_ALL4_payload_MODEL_readbacks_completed": true,
+  "FULL_manifest_MODEL_readback_THEN_SEPARATE_readonly_verify_REQUIRED": true,
+  "findings_sealed_until_explicit_BOTH": true,
+  "corresponding_NEW_peer_access": false,
+  "no_mathematical_executable_or_old_replay": true,
+  "requested": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independent_effective_backend_readback": null,
+  "quota": {
+    "usedPercent": 85,
+    "observed_UTC": "2026-10-19 03:48:10 UTC",
+    "resetsAt": 1792874445,
+    "TOTAL_ceiling": 90,
+    "reserve": true,
+    "automatic_later_window": false
+  }
+}

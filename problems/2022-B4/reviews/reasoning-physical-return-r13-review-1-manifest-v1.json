@@ -1,0 +1,69 @@
+{
+  "frozen_UTC": "2026-10-19T03:50:11.923177+00:00",
+  "status": "SEALED immutable initially blind independent OTHER WHOLE1; coordinator pending",
+  "reviewer": "/root/review_2021_reasoning_j15_r2",
+  "constructor": "C /root/review_2017_coarsening_r1",
+  "constructor_excluded": true,
+  "NEW_PH13_construction_contribution": false,
+  "whole_obligations": 32,
+  "ENTIRE_files": 5,
+  "payloads": [
+    {
+      "path": "problems/2022-B4/reviews/reasoning-physical-return-r13-review-1-initial-v1.md",
+      "bytes": 19543,
+      "sha256": "67547504f1b42e045e23c436bbf6a27cfaed4251b1161048b02de180e4756252"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-physical-return-r13-review-1-sources-v1.json",
+      "bytes": 3534,
+      "sha256": "c34aa6c9153cdbec54aad5d691429f6b64ff71d4b5621746afef3f2f826b5d6f"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-physical-return-r13-review-1-admin-v1.py",
+      "bytes": 5182,
+      "sha256": "af85e81c5e5306f01cba4eb17b143272c7a4ea215f2d25f701ed31caa35b3d96"
+    },
+    {
+      "path": "problems/2022-B4/reviews/reasoning-physical-return-r13-review-1-baseline-v1.json",
+      "bytes": 4325,
+      "sha256": "a7eaff5630190ff7bc4650eabaee887cc3b85082f5105501af5b0a8611addd5b"
+    }
+  ],
+  "guard_summary": {
+    "occurrences": 17,
+    "unique_paths": 17,
+    "canonical_deduplicated_sha256": "acd6762d45577eada00bd8d75a24a505011621818cf253bd22a7fe14395a454c"
+  },
+  "ONE_compact_OWN_parent": {
+    "path": "problems/2024-B4/notes/reasoning-frontier-return-r15-freeze-v1.json",
+    "bytes": 2505,
+    "sha256": "d5d9804d237c368818cfaa7dcc9dda188cb474f7c4f5b7e97d50e1d561b283d2"
+  },
+  "whole_hand_reconstruction": true,
+  "unresolved_substantive_defects": 0,
+  "required_author_repairs": 0,
+  "closed_scope_notes": 10,
+  "FULL_final_ALL4_payload_MODEL_readbacks_completed": true,
+  "FULL_manifest_MODEL_readback_THEN_SEPARATE_readonly_verify_REQUIRED": true,
+  "NEW_PH13_peer_finding_file_actual_inventory_hash_metadata_commentary_access": false,
+  "findings_require_explicit_BOTH_release": true,
+  "mathematical_truth_checked_by_code": false,
+  "author_source_old_helper_certificate_freezer_executed": false,
+  "Git_shared_old_cache_configuration_mutation": false,
+  "requested": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "max",
+    "inherited": true
+  },
+  "independent_effective_backend_readback": null,
+  "quota": {
+    "start_usedPercent": 84,
+    "latest_usedPercent": 85,
+    "windowDurationMins": 10080,
+    "resetsAt": 1792874445,
+    "ordinaryUsageAllowed": true,
+    "TOTAL_ceiling": 90,
+    "reserve": true,
+    "automatic_later_window": false
+  }
+}
